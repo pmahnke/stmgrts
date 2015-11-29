@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Local Job Vacancy&#58; Cleaning Staff - Twickenham Studios"
+permalink: /archives/2013/06/local_job_vacancy_cleaning_staff_twickenham_studio_1.html
+category: around_town
+date: 2013-06-13 21:31:37
+
+---
+
+<a href="http://www.stmgrts.org.uk/images//TwickenhamStudios_Logo.png" title="See larger version of - Twickenham Studios Logo"><img src="http://www.stmgrts.org.uk/images//TwickenhamStudios_Logo_thumb.png" width="150" height="107" alt="Twickenham Studios Logo" class="right"/></a>
+
+ 
+Twickenham Studios are looking for cleaners to join our housekeeping team. The vacancies involve shift work schedules. Please contact  natalie.penkethman@twickenhamstudios.com for further information and to apply.
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1 in site.data.2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1 %}
+       <li>
+
+         {{ 2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1.comment }}
+
+         <cite>{{ 2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1.author }} on {{ 2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

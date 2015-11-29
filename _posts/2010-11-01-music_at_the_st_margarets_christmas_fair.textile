@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Music at the St Margarets Christmas Fair"
+permalink: /archives/2010/11/music_at_the_st_margarets_christmas_fair.html
+category: around_town
+date: 2010-11-01 22:51:51
+
+---
+
+h3. What to play at the Christmas Fair?
+
+The 2010 St Margarets Christmas Fair takes place on "Sunday 5<sup>th</sup> December in Crown Road":http://stmgrts.org.uk/event/fair/200705142573. If you are interesting in showcasing your band or group at the fair please contact Alistair at "livemusic@blueyonder.co.uk":mailto:livemusic@blueyonder.co.uk.
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2010-11-01-music_at_the_st_margarets_christmas_fair in site.data.2010-11-01-music_at_the_st_margarets_christmas_fair %}
+       <li>
+
+         {{ 2010-11-01-music_at_the_st_margarets_christmas_fair.comment }}
+
+         <cite>{{ 2010-11-01-music_at_the_st_margarets_christmas_fair.author }} on {{ 2010-11-01-music_at_the_st_margarets_christmas_fair.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

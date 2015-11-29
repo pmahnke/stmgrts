@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Orleans House Gallery Wins Lottery Grant"
+permalink: /archives/2005/04/orleans_house_g.html
+category: news
+date: 2005-04-14 09:12:40
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/orleans_gallery.jpg"><img src="http://www.stmgrts.org.uk/images/orleans_gallery-thumb.jpg" width="100" height="75" alt="Orleans House Gallery" class="right"/></a>
+
+The "Orleans House Gallery":http://www.richmond.gov.uk/depts/opps/eal/leisure/arts/orleanshouse/default.htm has received nearly £1 million from the Heritage Lottery Fund to create a new education facility in the currently unused coach house and stables.  Construction work has already begun and should be completed by December this year.
+
+The new facility will have the latest in audio visual equipment and be ready for teaching as well as small dance and theatre performances.  These renovations will be a welcome addition to the visiting exhibitions that already are showcased in the main building and be a valuable addition to the community.
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2005-04-14-orleans_house_g in site.data.2005-04-14-orleans_house_g %}
+       <li>
+
+         {{ 2005-04-14-orleans_house_g.comment }}
+
+         <cite>{{ 2005-04-14-orleans_house_g.author }} on {{ 2005-04-14-orleans_house_g.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

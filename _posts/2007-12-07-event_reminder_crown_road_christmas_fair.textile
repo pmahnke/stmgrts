@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Event Reminder&#58; Crown Road Christmas Fair"
+permalink: /archives/2007/12/event_reminder_crown_road_christmas_fair.html
+category: around_town
+date: 2007-12-07 09:22:47
+
+---
+
+Yes, it is that time of year.
+
+Come out for an afternoon of fun at the community fair on Crown Road.
+
+7 December from 5pm onwards.
+
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-12-07-event_reminder_crown_road_christmas_fair in site.data.2007-12-07-event_reminder_crown_road_christmas_fair %}
+       <li>
+
+         {{ 2007-12-07-event_reminder_crown_road_christmas_fair.comment }}
+
+         <cite>{{ 2007-12-07-event_reminder_crown_road_christmas_fair.author }} on {{ 2007-12-07-event_reminder_crown_road_christmas_fair.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

@@ -1,0 +1,1139 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+body {
+  margin: 0px 0px 20px 0px;
+  background: #EEEEEE;
+  text-align: left;
+  font-size: 15px;
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+  &:link {
+    color: #003399;
+  }
+  &:visited {
+    color: #3366CC;
+  }
+  &:active, &:hover {
+    color: #333399;
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0px;
+  padding: 1em 0 0.5em 0;
+  font-weight: normal;
+  font-family: Georgia, Times, Serif;
+  line-height: 1.1em;
+}
+
+h1 {
+  font-size: 1.0em;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+input, select, textarea {
+  width: 75%;
+}
+
+input {
+  &[type="text"], &[type="password"], &[type="email"] {
+    width: 75%;
+  }
+  font-size: 1em;
+}
+
+select, th, td {
+  font-size: 1em;
+}
+
+input {
+  &[type="submit"], &[type="radio"], &[type="checkbox"] {
+    width: 33%;
+  }
+}
+
+li {
+  font-size: 0.95em;
+  li {
+    font-size: 1em;
+    font-size: 1em;
+  }
+  p {
+    font-size: 1em;
+  }
+}
+
+td p, blockquote p {
+  font-size: 1em;
+}
+
+ul {
+  list-style: none;
+  margin: 1em 0;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+ul > li {
+  &:before {
+    content: "\0BB \020";
+  }
+  margin-bottom: 0.5em;
+}
+
+ol > li {
+  margin-bottom: 0.5em;
+}
+
+blockquote {
+  padding: 1em 2em 0.5em 1em;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  width: 75%;
+  color: #444;
+  font-family: Georgia, times, serif;
+}
+
+cite {
+  display: block;
+  margin: 1em 2em 2em 2em;
+  font-style: italic;
+}
+
+table {
+  border-spacing: 0;
+}
+
+th {
+  font-size: 0.85em;
+  font-weight: bold;
+  font-family: verdana, sans-serif;
+  padding: 0 3px;
+}
+
+td {
+  font-size: 0.85em;
+  font-family: verdana, sans-serif;
+  padding: 0 3px;
+  vertical-align: top;
+}
+
+.td_time {
+  text-align: center;
+}
+
+tfoot {
+  font-style: italic;
+}
+
+caption {
+  font-family: Georgia, times, serif;
+  line-height: 1.1em;
+  font-size: 1.75em;
+  padding: 10px 0;
+  text-align: left;
+}
+
+tr:hover {
+  background: #ccf;
+}
+
+dl {
+  font-size: 0.85em;
+  padding: 2px;
+  margin: 5px;
+}
+
+dd {
+  margin-left: 15px;
+  font-style: italic;
+}
+
+dt {
+  margin-left: 5px;
+}
+
+td li {
+  font-size: 1em;
+  li {
+    font-size: 1em;
+  }
+}
+
+/* 
+
+IMAGE STYLES
+    
+    all images are displayed in a block with a 5 pixel space and no border 
+    
+    all the rest are classes that can be used to do different combinations of things
+    
+    USAGE
+    
+	<img src="location of image" alt="description" 
+	     width="in pixels" height="in pixels"
+	     class="inline OR image photo OR right OR left OR right photo OR left photo" />
+	     
+    DESCRIPTION
+	
+	inline - makes the picture act like a word, 
+	 just sitting wherever it was placed
+	
+	photo  - adds a 1 pixel solid grey border 
+	 around the photo that is 5 pixels from 
+	 the photo and addes some space around 
+	 the border, so the text isn't right up 
+	 against it
+	 
+	right  - pushes the photo to the right of the text
+	
+	left   - pushes the photo to the left of the text
+
+	center - centers the image, text will not wrap around
+	     
+*/
+
+img {
+  display: block;
+  padding: 2px;
+  margin: 0 5px;
+  border: 0;
+}
+
+.inline {
+  display: inline;
+}
+
+.photo {
+  margin: 0.5em 1em;
+  border: 1px solid #ccc;
+}
+
+.right {
+  float: right;
+  clear: right;
+  margin-right: 0;
+}
+
+.left {
+  float: left;
+  margin-left: 0;
+}
+
+.center {
+  margin: auto;
+  display: block;
+}
+
+/*  old tags */
+
+.img_left {
+  float: left;
+}
+
+.img_right {
+  float: right;
+}
+
+/* MAIN STYLES */
+
+.container {
+  line-height: 140%;
+  text-align: left;
+  background-color: #FFFFFF;
+  font-family: Verdana, "Lucida Grande", sans-serif;
+}
+
+/* NAVIGATION STYLES */
+
+#navigation {
+  width: 100%;
+  margin: 0;
+  background-color: #4C4C99;
+}
+
+nav {
+  > ul {
+    list-style: none;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    text-indent: 0;
+    > li {
+      display: inline;
+      float: left;
+      padding: 0.25em 2%;
+      text-align: center;
+      display: block;
+      border-right: 1px solid #eee;
+      margin: 0;
+      line-height: inherit;
+    }
+  }
+  ul > li:before {
+    content: "";
+  }
+  > ul > li > a {
+    &:link, &:hover, &:visited {
+      color: #fff;
+    }
+  }
+}
+
+#banner {
+  background-color: #9999CC;
+  border-top: 2px solid #FFFFFF;
+  margin: 0;
+  padding: 0.5em 0;
+  width: 100%;
+}
+
+#logo img {
+  display: block;
+  border: 0;
+  margin: 0;
+  padding: 1em 0 1em 1em;
+}
+
+#sitename h1 {
+  color: #FFFFFF;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 2.5em;
+  font-weight: 300;
+  line-height: 0.7em;
+  padding: 1em 0 .5em 1em;
+}
+
+#banner h1 {
+  span {
+    font-size: 0.4em;
+    padding-left: 6em;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+#logo, #sitename {
+  float: left;
+}
+
+#burger {
+  color: #EEEEEE;
+  font-size: 2em;
+  padding-top: 2em;
+  padding-right: 0.5em;
+  float: right;
+  text-align: right;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 300;
+  img {
+    display: inline;
+  }
+}
+
+#search {
+  float: right;
+  width: 16em;
+  display: block;
+  background-color: #ccc;
+  padding: 0.5em;
+  position: absolute;
+  top: 10em;
+  right: 1px;
+  border: 1px solid #9393AA;
+  form {
+    margin: 0;
+    width: 98%;
+    color: #333;
+    input {
+      margin: 0;
+      width: 98%;
+      color: #333;
+    }
+  }
+}
+
+/* #Page Styles
+================================================== */
+
+#homepage h2 {
+  font-size: 1.75em;
+  padding-bottom: 0.5em;
+}
+
+#remember, #forget {
+  display: inline;
+}
+
+#center, #twocolcenter {
+  overflow: hidden;
+}
+
+#backnext {
+  padding-top: 2em;
+  font-size: 0.85em;
+}
+
+.content {
+  background-color: #FFFFFF;
+  color: #333;
+  font-size: 1em;
+  overflow: hidden;
+}
+
+#homepage .content {
+  padding: 0 1em;
+}
+
+/* FOOTER */
+
+#footer {
+  border-top: 6px solid #eee;
+  background: #663366;
+  color: #fff;
+  padding: 3em 0;
+  h2 {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+  }
+  a {
+    &:link {
+      color: #eee;
+    }
+    &:visited {
+      color: #ccc;
+    }
+    &:active, &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.copyright {
+  clear: both;
+  text-align: right;
+  padding: 2em;
+}
+
+#archives h2 {
+  font-size: 1em;
+}
+
+/* content */
+
+.content {
+  p {
+    color: #333;
+    font-size: 1.1em;
+    font-weight: normal;
+    line-height: 155%;
+    text-align: left;
+    margin-bottom: 10px;
+    > em {
+      font-style: italic;
+    }
+  }
+  li {
+    line-height: 150%;
+  }
+  h1, h2, h3, h4 {
+    color: #111;
+    text-align: left;
+  }
+  p.posted {
+    color: #999999;
+    font-size: 0.85em;
+    border-top: 1px solid #999999;
+    text-align: right;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    line-height: 120%;
+    padding: 3px;
+    img {
+      display: none;
+    }
+  }
+}
+
+/* get rid of typekey icon */
+
+.sidebar {
+  overflow: hidden;
+}
+
+#calendar {
+  line-height: 140%;
+  color: #666666;
+  font-size: 0.85em;
+  padding: 2px;
+  text-align: center;
+  margin-bottom: 30px;
+  table {
+    padding: 2px;
+    border-collapse: collapse;
+    border: 0px;
+    width: 100%;
+  }
+  caption {
+    color: #666666;
+    font-family: Georgia, Times, Serif;
+    font-size: 1em;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+  }
+  th {
+    text-align: center;
+    font-weight: normal;
+  }
+  td {
+    text-align: center;
+  }
+}
+
+.sidebar {
+  h2 {
+    color: #666666;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+  }
+  li {
+    color: #666666;
+    font-size: 0.85em;
+    text-align: left;
+    line-height: 150%;
+    margin-top: 10px;
+  }
+  img {
+    border: 3px solid #FFFFFF;
+  }
+}
+
+.photo {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.link-note {
+  font-size: 0.85em;
+  line-height: 150%;
+  text-align: left;
+  padding: 2px;
+  margin-bottom: 15px;
+}
+
+#powered {
+  font-size: 0.85em;
+  line-height: 150%;
+  text-align: left;
+  color: #666666;
+  margin-top: 50px;
+}
+
+#comment-data {
+  float: left;
+  width: 180px;
+  padding-right: 15px;
+  margin-right: 15px;
+  text-align: left;
+  border-right: 1px dotted #BBB;
+}
+
+textarea[id="comment-text"] {
+  width: 80%;
+}
+
+.commenter-profile img {
+  vertical-align: middle;
+  border-width: 0;
+}
+
+/* infobox */
+
+.infobox {
+  overflow: hidden;
+  padding: 10px;
+  margin: 10px 0;
+  h3 {
+    color: #333;
+    margin: 1px;
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+  }
+  p {
+    font-size: 1em;
+    color: #333;
+    padding: 5px;
+    margin: 10px;
+  }
+}
+
+#traintable td {
+  border-bottom: 1px solid #333;
+}
+
+p.footnote {
+  color: #999;
+  font-size: 9px;
+}
+
+#icon-box {
+  margin: 2em auto;
+}
+
+div.event {
+  margin: 20px 0;
+  padding: 0;
+  width: 150px;
+  height: 130px;
+  text-align: center;
+}
+
+.event {
+  dl {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  dt {
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 0.2em;
+    background: #666;
+    font-weight: bold;
+    margin: 0;
+    padding: 2px;
+    border: 0;
+    height: 20px;
+  }
+  dd {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #333;
+    background: #eee;
+    font-style: normal;
+    height: 20px;
+  }
+}
+
+dd.date {
+  font-size: 56px;
+  font-family: georgia, times, serif;
+  line-height: 105%;
+  height: 65px;
+}
+
+.kids {
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 0.2em;
+  background: #336;
+  font-weight: bold;
+  text-align: center;
+  width: 150px;
+  padding: 4px  0;
+}
+
+#promo {
+  margin: 0;
+  margin-left: -5px;
+  padding: 0;
+  border: 0;
+}
+
+p {
+  &.error {
+    font-weight: bold;
+    color: red;
+  }
+  &.message {
+    color: black;
+    font-style: italic;
+  }
+}
+
+.inline_menu {
+  ul li {
+    margin: 0;
+    padding: 0 3px;
+    padding-left: 1.2em;
+    border: 0;
+  }
+  li {
+    display: inline;
+    list-style: none;
+    border-left: 1px solid purple;
+  }
+  ul {
+    margin-right: 25px;
+    background: #eee;
+    border: 1px solid #bbb;
+  }
+}
+
+/* pullouts */
+
+.pullout {
+  width: 33%;
+  clear: both;
+  float: right;
+  margin: 1em 0 1em 2em;
+  overflow: hidden;
+  padding: 1em;
+  border: 1px solid #666;
+  font-size: smaller;
+  img {
+    float: none;
+    margin: auto;
+  }
+}
+
+/* photo stroke */
+
+.photo {
+  border: 1px solid #bbb;
+}
+
+/* St Margarets Fair */
+
+#smf {
+  background: #CCFF99;
+}
+
+/* Recipe green div */
+
+.recipe {
+  overflow: hidden;
+  color: #000;
+  border: 1px solid #eee;
+  padding: 20px 30px;
+  background: #CCFF99;
+  h3 {
+    color: #000;
+    font-weight: bold;
+  }
+  table {
+    margin: 1em;
+    line-height: 2em;
+  }
+  td, ol > li {
+    font-size: 12px;
+  }
+  ul {
+    padding-right: 1em;
+    display: inline;
+    li {
+      padding-right: 1em;
+      display: inline;
+    }
+  }
+}
+
+/* Comment Colour */
+
+.comment {
+  background: #E7E7E5;
+  border: 1px solid #ccc;
+  padding: 1em 1em 0 1em;
+  margin-bottom: 2em;
+  p.posted {
+    padding: 0;
+    margin: 1em 0;
+    color: #666;
+  }
+  &:hover {
+    background: #BFA8BF;
+  }
+}
+
+.comments > ul > li {
+  background: #e7e7e5;
+  border: 1px solid #ccc;
+  padding: 1em 1em 0 1em;
+  margin-bottom: 2em;
+  text-indent: 0;
+  &:before {
+    content: none;
+  }
+  &:hover {
+    background-color: #bfa8bf;
+  }
+}
+
+/* class to allow print only links */
+
+.printOnly {
+  display: none;
+}
+
+/* table figures */
+
+.fig {
+  table {
+    border: 1px solid #ccc;
+    padding: 0 5px;
+    width: 575px;
+  }
+  td {
+    font-size: x0 0.85em;
+  }
+}
+
+/* for the hCalendar, hide the location */
+
+.location {
+  display: none;
+}
+
+.vevent abbr {
+  border: 0;
+}
+
+#newsletter p img {
+  padding: 0;
+  margin: 0;
+  margin-left: -2px;
+}
+
+/* Featured Items Box */
+
+#highlight {
+  color: #333;
+  border: 1px solid #999;
+  background: #CCFF99;
+  width: 360px;
+  float: left;
+  margin: 10px 0;
+  padding: 5px;
+  h3 {
+    color: #333;
+  }
+  dl {
+    display: block;
+    float: left;
+    clear: left;
+    margin: 5px;
+    padding: 3px;
+    width: 95%;
+  }
+  dt {
+    float: left;
+    margin: 0;
+    padding: 0;
+    img {
+      border: 1px solid #999;
+      padding: 1px;
+      background: #eee;
+      width: 104px;
+    }
+  }
+  dd {
+    float: left;
+    margin: 0;
+    padding: 0;
+    padding: 3px;
+    font-style: normal;
+    width: 60%;
+    ul {
+      margin: 0;
+      margin-left: 5px;
+      padding: 3px;
+    }
+    li {}
+  }
+}
+
+#weather {
+  p {
+    align: center;
+    text-align: center;
+  }
+  img {
+    display: inline;
+  }
+}
+
+#latest_comments .comm {
+  font-size: 1em;
+  color: #444;
+}
+
+/* for letters, a gold box and serif font */
+
+.letter {
+  overflow: hidden;
+  color: #000;
+  border: 1px solid #eee;
+  padding: 20px 30px;
+  background: #F4EFC5;
+  font-family: georgia, times, serif;
+  font-size: 1.2em;
+  line-height: 1.3em;
+  h3 {
+    color: #000;
+    font-weight: bold;
+  }
+}
+
+/* for a simple box */
+
+.box {
+  clear: both;
+  overflow: hidden;
+  padding: 1em;
+  border: 1px solid #666;
+  &:hover {
+    background: #eee;
+  }
+}
+
+/* hero box */
+
+.hero {
+  margin: 2em 5em;
+  padding: 3em;
+  border: 2px solid #4b0082;
+  background-color: #c9a0dc;
+  color: #111;
+}
+
+/* image captions */
+
+.img_caption {
+  margin: 0 1em;
+  padding: 0;
+  width: 150px;
+}
+
+div {
+  &.img_caption > {
+    img {
+      margin: 0;
+    }
+    span {
+      width: 100px;
+      margin: 0;
+      padding: 0;
+      font-style: italic;
+    }
+  }
+  &.right img {
+    float: right;
+    margin-right: 0;
+  }
+  &.left img {
+    float: left;
+    margin-left: 0;
+  }
+  &.img_caption.center {
+    width: 100%;
+    > span {
+      width: 100%;
+    }
+  }
+}
+
+.warning {
+  margin: 1em 0;
+  background-color: #C0C0ED;
+  padding: 1em;
+}
+
+pre {
+  &.poem {
+    color: #333;
+    font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
+    font-size: 16px;
+    line-height: 18px;
+    margin: 1em;
+    padding: 1em;
+    font-weight: normal;
+  }
+  color: #333;
+  font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 1em;
+  padding: 1em;
+  font-weight: normal;
+}
+
+.smta img {
+  padding-top: 2em;
+}
+
+/* for directory category pages */
+
+.more-link a {
+  background-color: #8080BB;
+  border-radius: 10px 10px 10px 10px;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: normal;
+  height: 18px;
+  padding: 3px 12px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.accessibility-aid {
+  position: absolute;
+  left: -999em;
+}
+
+.category_image {
+  max-width: 150px;
+}
+
+#twitter {
+  float: right;
+  .date {
+    font-size: 1.1em;
+    font-style: italic;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+blockquote p a img.right {
+  margin-right: -33%;
+}
+
+a.toggle {
+  &:visited, &:active, &:link, &:hover {
+    color: #eee;
+    text-decoration: none;
+  }
+}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+  nav > ul > li {
+    padding: 0.25em 1%;
+  }
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  nav > ul > li {
+    padding: 0.25em 1%;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  nav > ul > li {
+    width: 49%;
+    height: 1em;
+    float: left;
+    padding: 0.5em 0;
+    display: block;
+  }
+  #burger {
+    padding-top: 0;
+  }
+  #logo img {
+    width: 75%;
+    height: 75%;
+    padding-left: 0.5em;
+  }
+  #sitename h1 {
+    font-size: 2em;
+  }
+  #search {
+    top: 6em;
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  nav > ul > li {
+    background-color: #4C4C99;
+    border-right: 1px solid #eee;
+    border-right: none;
+  }
+  #burger {
+    padding-top: 0;
+  }
+  #sitename h1 {
+    font-size: 2em;
+  }
+  #search {
+    top: 6em;
+  }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/

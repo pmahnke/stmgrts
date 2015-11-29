@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Notes from the Area Consultation Meeting"
+permalink: /archives/2005/11/notes_from_the.html
+category: news
+date: 2005-11-02 11:38:08
+
+---
+
+A loud and heated Area Consultation for St Margarets and Twickenham Riverside Wards was held on the 31<sup>st</sup> of October at York House.  Approximately 60 residents met with local councillors to get an update and discuss local matters.  While many issues were discussed, clearly the key issue for the residents and local traders was the unwanted transformation of the high street -- specifically the issues around Tesco and Superdrug.  Other items discussed in some detail was the matter of commuters parking in St Peter's Road creating havoc for local residents, the parking issues in general, licensing questions and other planning and planning process concerns. 
+
+<em>What follows are from my notes of the evening -- if you have additions or corrections, please contact me at: "editor@stmgrts.org.uk":mailto:editor@stmgrts.org.uk.</em>
+
+h3. Police Update
+
+The evening started with an overview of policing from Police Sargent Gary Jupp, head of the _Twickenham Riverside Safer Neighbourhood Team._  PS Jupp also manages the single PC for St Margarets, who happens to be transferring to Wimbledon.  Key points mentioned by PS Jupp were:
+
+* within 12-14 months St Margarets will be made a 'Safer Neighbourhood' and should get our own Police Sargent, 2 Police Constables and 2-3 PCSO's; however, the timing of this is based on next year's budget and overall priorities of the MET
+* the priorities for the police are: burglaries, street crime, motor vehicle crime followed by anti-social behaviour
+* the change in licensing laws has required the police to rearrange their schedules slightly, which will add pressure on their resources to focus on other community issues, but they don't know how much until the laws takes affect on 24<sup>th</sup> November
+* the contact details for the community team, for non-urgent matters only remain: phone 020 8721 2749 and email: "twickenhamriverside.smt@met.police.uk":mailto:twickenhamriverside.smt@met.police.uk
+
+
+h4. Crime Statistics
+
+||\2. 12 Months to Sept 2004|\2. 12 Months to Sept 2005|        
+|_(Per 1000 Population)|St Margarets|Richmond|St Margarets|Richmond|% Change|
+|*Burglary*|15|10.9|14|12.9|-7%|
+|*Criminal Damage*|17.2|17.2|12.6|18.2|-27%|
+|*Drugs Offences*|2.6|1.6|2.6|1.6|0%|
+|*Fraud or Forgery*|0.7|3.7|0.7|2.6|0%|
+|*Other Notifiable Offences*|0.6|0.7|0.4|0.5|-33%|
+|*Robbery*|1.7|1.7|1.7|1.9|0%|
+|*Sexual Offences*|0.1|0.6|0.5|0.7|400%|
+|*Theft and Handling*|28.7|32.5|33.6|28.6|17%|
+|*Violence Against the Person*|10.9|13.1|12|13.4|10%|
+
+More details can be found at: "www.met.police.uk/crimefigures":http://www.met.police.uk/crimefigures/
+
+h3. Local Development Framework
+
+Following Sargent Jupp was a discussion of the new _Local Development Framework_ which will replace the current _Unitary Development Plan_.  It will determine the borough's planning policies from 2008 onwards.  Currently the planning team are looking for feedback from local residents to help shape all aspects of this new framework.  They encouraged all residents to go to "www.richmond.gov.uk/local_development_framework":http://www.richmond.gov.uk/local_development_framework to learn more and, importantly, fill out a questionnaire about key issues regarding planning.
+
+At this point the meeting really broke down for about an hour with discussion of many of the current planning issues.  The most significant were:
+
+* *Tesco's New Loading Bay*
+In general residents and traders were quite upset with the council for allowing the extension of the Tesco loading bay and felt that:
+** the decision should have had a public consultation
+** that the new loading bay will only penalise residents from parking
+** that the loading bay is far more dangerous than before for pedestrians
+** that far more strict policing of the loading bay was required (PS Jupp said it was a fairly low priority for them, but would look into doing something)
+** Tesco has proven that it isn't a 'good neighbour' already and that allowing the loading bay only legitimises their bad behaviour
+** that Tesco simply 'does what it wants and asks for permission later' -- this was in reference to both the loading bay and the cash machine, which they are now seeking permission for
+* *Superdrug's Signage*
+Most residents wanted to know if the current signage of Superdrug was legal and if it could be removed, that it was not in keeping with the area
+* *High Street in General*
+There was a strong feeling that Tesco, Superdrug and the landlord of the building (Mr Phelps) are generally "destroying St Margarets" and that neither was appropriate for the village and the council and the new Local Development Framework should be able to enforce residents concerns like this directly
+* *St Margaret's Market*
+Apparently there is a group seeking planning permission for a market in a garage off Crown Road (16A Crown Road) and that should be assessed carefully.
+
+h3. St Peter's Road
+
+This was followed by a disccussion of the parking issues in St Peter's Road.  Apparently many commuters are using St Peter's Road as a free parking lot for walking into Richmond and the station there.  The residents are asking for a Controlled Parking Zone (CPZ) that would allow only residents to park, but hopefully not in the current CPZ format, something far simpler to use, like a 10-11 no parking period.  The councillors mentioned that CPZ are very costly and that street by street zones really "only push the problem around, that you really need to change the whole area at once".  The council plans on completely changing all parking in St Margarets in the 2006-2007 budget year.  Also, the council will look at the St Peter's Road issue next year ahead of the larger plans.
+
+
+h3. Licensing
+
+Then there was a brief discussion of Licensing, what the police were planning on doing and how the _Rising Sun Pub_ recieved such long hours.  Generally the recommendation was that residents need to immediately complain to the pub's landlords if they experience noise or see rude behaviour.  If that doesn't solve the problem, then there is a Council and Police Hotline to contact.  Only with a history of complaints can the police or council really do anything.
+
+h3. Brunel Site Wall on Kilmorey Road
+
+There was a brief discussion on a changing wall on Kilmorey Road.  It appears planning permission was given in 2002, just no one was aware of it.  Residents thought it was really unnecessary and would lead to more local traffic.
+
+h3. Wrap Up
+
+The meeting was running well past 10pm, so a few general questions were allowed.  The most interesting was that the councillors were questioned if they _supported_ the decision for the expanded Tesco loading bay.  Annie Hambidge said, "no, absolutely not."  Simon Lamb was pressed to give an answer and eventually said that he supported the extension and made the note that "at least Tesco is paying for it."
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2005-11-02-notes_from_the in site.data.2005-11-02-notes_from_the %}
+       <li>
+
+         {{ 2005-11-02-notes_from_the.comment }}
+
+         <cite>{{ 2005-11-02-notes_from_the.author }} on {{ 2005-11-02-notes_from_the.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

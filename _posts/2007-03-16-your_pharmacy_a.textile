@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Your Pharmacy Applies for ATM"
+permalink: /archives/2007/03/your_pharmacy_a.html
+category: news
+date: 2007-03-16 14:10:59
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/pharmacy_atm.jpg"><img src="http://www.stmgrts.org.uk/images/pharmacy_atm-thumb.jpg" width="150" height="85" alt="drawing of ATM" class="photo right" /></a>
+
+
+The _Your Pharmacy_ at 38 Crown Road has applied for planning permission for a street facing, 24 hour accessible ATM with two protective bollards on the pavement to prevent someone ramming it with a car.
+
+*Links*
+
+* "Read the application":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=07/0599/FUL
+* "Comment on the application":http://www.ukplanning.com/richmond/createComment.do?action=CreateApplicationComment&applicationType=PLANNING%20FOLDER&appNumber=07/0599/FUL
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-03-16-your_pharmacy_a in site.data.2007-03-16-your_pharmacy_a %}
+       <li>
+
+         {{ 2007-03-16-your_pharmacy_a.comment }}
+
+         <cite>{{ 2007-03-16-your_pharmacy_a.author }} on {{ 2007-03-16-your_pharmacy_a.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

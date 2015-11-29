@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Forum Post&#58; 66 Crown road - conversion to 8 bed-sits"
+permalink: /archives/2009/02/forum_post_66_crown_road_conversion_to_8_bedsits.html
+category: news
+date: 2009-02-19 19:57:22
+
+---
+
+bq.. The old surgery at 66 Crown road is currently being converted into 8 bed-sits. There is no planning application for this, no change of use has been granted and the builders are working as I type.
+
+A previous planning application in respect of 66 Crown Road was refused last year. Richmond council have opened an enforcement case 09/0013EN.
+
+If, like me, you have concerns regarding this development please email "planningenforcement@richmond.gov.uk":mailto:planningenforcement@richmond.gov.uk quoting the case number above.
+
+-- "from jayc":http://www.stmgrts.org.uk/forum.cgi?action=jump&topic=Local%20News%20&%20Events&topic_id=2&name=&user_id=
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits in site.data.2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits %}
+       <li>
+
+         {{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.comment }}
+
+         <cite>{{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.author }} on {{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

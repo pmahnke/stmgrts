@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Furniture Scheme Richmond upon Thames' Big Warehouse Sale"
+permalink: /archives/2007/07/furniture_scheme_richmond_upon_thames_big_warehous.html
+category: around_town
+date: 2007-07-20 09:46:58
+
+---
+
+*Bargains to be had!*
+
+_We must urgently reduce the amount being stored in our warehouses!_
+
+We are overwhelmed with furniture and very little space in our warehouse.  We have therefore decided to have a sale on next week starting  23-26 July from 10am to 3pm each day.
+
+
+"See details here":http://www.stmgrts.org.uk/event/exhibition/200705141667
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous in site.data.2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous %}
+       <li>
+
+         {{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.comment }}
+
+         <cite>{{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.author }} on {{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

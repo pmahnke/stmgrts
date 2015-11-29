@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Summer Activities - Play Beach 2011"
+permalink: /archives/2011/07/summer_activities_play_beach_2011.html
+category: around_town
+date: 2011-07-07 09:31:26
+
+---
+
+<a href="http://www.stmgrts.org.uk/images//2172-play-beach-poster-2.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//2172-play-beach-poster-2_thumb.jpg" width="150" height="210" alt="Poster" class="photo right" /></a>
+
+From 27th July to 7th August 2011 at Champions Wharf on Twickenham Riverside (near St Mary's Church)
+
+Join Richmond Council's _Play rangers_ daily from 10am to 4pm.  It is free and loads of fun with...
+
+* Arts workshops with Orleans Gallery
+* Seaside Story Time
+* Sports
+* and much more...
+
+Check website for full programme "www.richmond.gov.uk/play":http://www.richmond.gov.uk/play
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2011-07-07-summer_activities_play_beach_2011 in site.data.2011-07-07-summer_activities_play_beach_2011 %}
+       <li>
+
+         {{ 2011-07-07-summer_activities_play_beach_2011.comment }}
+
+         <cite>{{ 2011-07-07-summer_activities_play_beach_2011.author }} on {{ 2011-07-07-summer_activities_play_beach_2011.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

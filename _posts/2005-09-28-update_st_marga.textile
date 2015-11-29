@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Update &#58;&#58; St Margarets Autumn Event &#58; Dog Show"
+permalink: /archives/2005/09/update_st_marga.html
+category: around_town
+date: 2005-09-28 19:17:42
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/molly_dog_show_winner05.jpg"><img src="http://www.stmgrts.org.uk/images/molly_dog_show_winner05-thumb.jpg" width="150" height="112" alt="Molly, Dog Show Winner 2005"  class="photo right ignore"/></a>
+
+We finally received a picture of the winner of the _St Margarets Autumn Event_ Dog Show, Molly with her sisters; Imogen, Georgie and Cicely Green (click for a larger photo).
+
+Molly was born and raised in St Margarets and is a Lakeland Terrier.  Some trivia, the winner of the _Scruffiest Dog Contest_ was Molly's brother.
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2005-09-28-update_st_marga in site.data.2005-09-28-update_st_marga %}
+       <li>
+
+         {{ 2005-09-28-update_st_marga.comment }}
+
+         <cite>{{ 2005-09-28-update_st_marga.author }} on {{ 2005-09-28-update_st_marga.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

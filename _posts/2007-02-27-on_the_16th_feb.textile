@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Planning Permission Refused for Hand Car Wash"
+permalink: /archives/2007/02/on_the_16th_feb.html
+category: news
+date: 2007-02-27 16:40:02
+
+---
+
+On the 16<sup>th</sup> February 2007 the Richmond Council Planning Committee refused permission for a proposed "hand car wash":http://www.stmgrts.org.uk/archives/2007/01/planning_permis.html to be located near the Book Data building on the A316.
+
+The refusal was for five planning reasons:
+
+# detrimental impact on the open character of the land
+# traffic impact
+# no flood risk assessment
+# no groundwater and pollution protection plan
+# no local wildlife impact assessment
+
+For all the details, read the Committee's letter <a href="http://www.stmgrts.org.uk/refused_car_wash.pdf">here (PDF)</a>.
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-02-27-on_the_16th_feb in site.data.2007-02-27-on_the_16th_feb %}
+       <li>
+
+         {{ 2007-02-27-on_the_16th_feb.comment }}
+
+         <cite>{{ 2007-02-27-on_the_16th_feb.author }} on {{ 2007-02-27-on_the_16th_feb.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

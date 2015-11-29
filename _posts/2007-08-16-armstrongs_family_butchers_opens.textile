@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Armstrong's Family Butchers Opens"
+permalink: /archives/2007/08/armstrongs_family_butchers_opens.html
+category: news
+date: 2007-08-16 15:41:20
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/armstrongs.jpg"><img src="http://www.stmgrts.org.uk/images/armstrongs-thumb.jpg" width="112" height="150" alt="Armstrong's butcher shop" class="photo right" /></a>
+
+
+Armstrong's Family Butchers opened in St. Margarets on Monday 6th August.
+
+They offer at least a dozen varieties of sausages, free-range eggs, pasties, pork pies and cooked ham as as a superb range of meat including prime scotch beef, organic pork, and free-range chicken.
+
+It's nice to see that whilst thay have modernised the shop they have also managed to keep much of the original features of Mr Frisby's shop intact.
+
+Armstrong's opening hours are:
+
+|Monday - Friday|8am - 6pm|
+|Saturday|7:30am - 4pm|
+|Sunday|closed|
+
+<cite>-- from Ed Randall</cite>
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-08-16-armstrongs_family_butchers_opens in site.data.2007-08-16-armstrongs_family_butchers_opens %}
+       <li>
+
+         {{ 2007-08-16-armstrongs_family_butchers_opens.comment }}
+
+         <cite>{{ 2007-08-16-armstrongs_family_butchers_opens.author }} on {{ 2007-08-16-armstrongs_family_butchers_opens.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

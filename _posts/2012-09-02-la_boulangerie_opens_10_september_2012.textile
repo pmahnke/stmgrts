@@ -1,0 +1,64 @@
+---
+layout: post
+title: "La Boulangerie Opens 10 September 2012"
+permalink: /archives/2012/09/la_boulangerie_opens_10_september_2012.html
+category: news
+date: 2012-09-02 17:15:19
+excerpt: |
+    <a href="http://www.stmgrts.org.uk/images//michel_la_boulanger_of_tw.jpg" title="See larger version of - Welcome from Michel - votre Boulanger "><img src="http://www.stmgrts.org.uk/images//michel_la_boulanger_of_tw_thumb.jpg" width="150" height="149" alt="Welcome from Michel - votre Boulanger " class="photo right" /></a>
+    
+    
+    h3. Bonjour St Margarets
+    Bienvenue &#224; La Boulangerie
+    
+    <em>Welcome to 'The Bakery' opening Monday 10<sup>th</sup> September
+    Mangez du pain, Vous vivrez bien!</em>
+    
+    Le Bon Vivant and the "Good Life", that's what you'll find at La Boulangerie in St Margarets, a French family run business stocked with simple, honest foods made in the traditional way, full of flavour and unforgettable taste.
+    
+    From your daily baguette to gastronomic delights, La Boulangerie products are freshly made every day according to French home made and artisanal recipes by master bakers using all natural ingredients - unbleached French flour, French butter, fresh fruit, the finest chocolate, and no artificial additives, flavourings, colourings or preservatives. We never compromise on quality, which is why it takes 3 days before a croissant is ready to be eaten! So, do what you want to do, eat what you want to eat and enjoy it your way - every day.
+    
+    _Venez, make La Boulangerie part of your journee_
+    
+    * More on the "My St Margarets site":http://www.mystmargarets.com/2012/09/la_boulangerie_opens_10_september_2012.shtml#more
+    
+
+---
+
+<a href="http://www.stmgrts.org.uk/images//michel_la_boulanger_of_tw.jpg" title="See larger version of - Welcome from Michel - votre Boulanger "><img src="http://www.stmgrts.org.uk/images//michel_la_boulanger_of_tw_thumb.jpg" width="150" height="149" alt="Welcome from Michel - votre Boulanger " class="photo right" /></a>
+
+
+h3. Bonjour St Margarets
+Bienvenue &#224; La Boulangerie
+
+<em>Welcome to 'The Bakery' opening Monday 10<sup>th</sup> September
+Mangez du pain, Vous vivrez bien!</em>
+
+Le Bon Vivant and the "Good Life", that's what you'll find at La Boulangerie in St Margarets, a French family run business stocked with simple, honest foods made in the traditional way, full of flavour and unforgettable taste.
+
+From your daily baguette to gastronomic delights, La Boulangerie products are freshly made every day according to French home made and artisanal recipes by master bakers using all natural ingredients - unbleached French flour, French butter, fresh fruit, the finest chocolate, and no artificial additives, flavourings, colourings or preservatives. We never compromise on quality, which is why it takes 3 days before a croissant is ready to be eaten! So, do what you want to do, eat what you want to eat and enjoy it your way - every day.
+
+_Venez, make La Boulangerie part of your journee_
+
+* More on the "My St Margarets site":http://www.mystmargarets.com/2012/09/la_boulangerie_opens_10_september_2012.shtml#more
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2012-09-02-la_boulangerie_opens_10_september_2012 in site.data.2012-09-02-la_boulangerie_opens_10_september_2012 %}
+       <li>
+
+         {{ 2012-09-02-la_boulangerie_opens_10_september_2012.comment }}
+
+         <cite>{{ 2012-09-02-la_boulangerie_opens_10_september_2012.author }} on {{ 2012-09-02-la_boulangerie_opens_10_september_2012.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

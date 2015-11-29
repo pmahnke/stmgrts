@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Tesco Closed for Refurbishment"
+permalink: /archives/2007/02/tesco_closed_fo.html
+category: around_town
+date: 2007-02-12 14:23:28
+
+---
+
+_But this shouldn't worry you..._
+
+Without Tesco the good folk of St Margarets have the perfect opportunity to rediscover the rest of the shops on the high street. We should be supporting our community and should remember it is the small independent traders that help keep our community alive. 
+
+Here is a guide to your local shops selling food, so why not use this opportunity to support your local community after all... _every little helps_.
+
+
+
+* *Gaia*
+_corner of Amyand & St Margarets Road_
+Sells an amazing range of healthy foods from organic bread to organic fruit and veg. Gaia has a super range of wholefoods, nuts and pulses galore.
+* *Broadway Stores*
+_corner of Amyand & St Margarets Road_
+Groceries, bread, milk and more including lottery and newspapers and a great selection of baking ingredients for all those school cake sales.
+* *Cutters*
+_28 Crown Road_
+A little shop crammed full of useful things, here you will find your household cleaning materials, toiletries, DIY goods, lots of treats and bargain chocolate!
+* *Nike News*
+_St Margarets Road near Bridge Road_
+Newsagents, lottery and also basic groceries.
+* *Streets*
+_St Margarets Road next to Tesco_
+The greengrocers with all your fruit and vegetable needs.
+* *Zorans*
+_10 Crown Road_
+For the finest Italian ingredients.
+* *The bookstall*
+_at St Margarets Station_
+Newspapers, magazines and snacks galore.
+* *Babydom*
+_14 Crown Road_
+A new childrenswear shop that also has a great range of organic babyfood.
+* *Absolute Pets*
+_half way down Crown Road near Brula_
+have pet food and accessories
+
+h4. Need Cashback?
+
+* The *Post Office* in St Margarets Road offers banking facilities for most major banks. 
+* *Cutters* at 28 Crown Road and *Gift* at 2 Crown Road both offer the cashback facility.
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2007-02-12-tesco_closed_fo in site.data.2007-02-12-tesco_closed_fo %}
+       <li>
+
+         {{ 2007-02-12-tesco_closed_fo.comment }}
+
+         <cite>{{ 2007-02-12-tesco_closed_fo.author }} on {{ 2007-02-12-tesco_closed_fo.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

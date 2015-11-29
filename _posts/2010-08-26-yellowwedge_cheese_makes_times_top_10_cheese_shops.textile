@@ -1,0 +1,44 @@
+---
+layout: post
+title: "yellowwedge cheese makes Times 'Top 10 Cheese Shops in Britain'"
+permalink: /archives/2010/08/yellowwedge_cheese_makes_times_top_10_cheese_shops.html
+category: news
+date: 2010-08-26 09:57:49
+excerpt: |
+    <a href="http://www.stmgrts.org.uk/images/yw_times_article.png"><img alt="yw_times_article.png" src="http://www.stmgrts.org.uk/images/yw_times_article-thumb.png" width="150" height="212" class="right" /></a>
+    
+    In July 2010, local retailer "yellowwedge cheese":http://www.stmgrts.org.uk/directory/grocery/200711270904 has been named by The Times as one of the 'Top 10 Cheese Shops in Britain'! Juliet Harbutt who compiled the list wrote; 
+    
+    bq. "Whatever David Harries does, from recycling to educating his customer, he does with huge energy, passion and a zany sense of humour. Not surprising he won the British Cheese Awards 'Best New Cheese Retailer' in 2008."
+    
+    We haven't provided a link to the story because of the subscription fee The Times now charges for online content, but feel free to search it out if you have a spare &pound;1!
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/yw_times_article.png"><img alt="yw_times_article.png" src="http://www.stmgrts.org.uk/images/yw_times_article-thumb.png" width="150" height="212" class="right" /></a>
+
+In July 2010, local retailer "yellowwedge cheese":http://www.stmgrts.org.uk/directory/grocery/200711270904 has been named by The Times as one of the 'Top 10 Cheese Shops in Britain'! Juliet Harbutt who compiled the list wrote; 
+
+bq. "Whatever David Harries does, from recycling to educating his customer, he does with huge energy, passion and a zany sense of humour. Not surprising he won the British Cheese Awards 'Best New Cheese Retailer' in 2008."
+
+We haven't provided a link to the story because of the subscription fee The Times now charges for online content, but feel free to search it out if you have a spare &pound;1!
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops in site.data.2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops %}
+       <li>
+
+         {{ 2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops.comment }}
+
+         <cite>{{ 2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops.author }} on {{ 2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

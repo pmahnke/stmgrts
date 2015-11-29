@@ -1,0 +1,36 @@
+{% include head.html %}
+
+<body onload="startup();">
+
+{% include google-tag-manager.html %}
+
+	<div class="container">
+
+{% include header.html %}
+
+            <div id="twocolcenter" class="offset-by-one eleven columns clearfix">
+
+                <div class="content">
+                
+                   <div id="article">
+                   
+{{ content }}
+        
+                    </div><!-- end div article -->
+                    
+                </div><!-- end div content -->
+
+            </div><!-- end div twocolcenter -->
+
+            <div id="right" class="four columns">
+
+                <div class="sidebar">
+                </div><!-- end div sidebar -->
+
+            </div><!-- end div right -->
+
+{% include footer.html %}
+
+        </div><!-- end div container -->
+    </body>
+</html>

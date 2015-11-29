@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Much Loved Ubi from Charles Harry Pharmacy Died"
+permalink: /archives/2015/02/much_loved_ubi_from_charles_harry_pharmacy_died.html
+category: around_town
+date: 2015-02-10 08:41:22
+
+---
+
+We heard some sad news today, that Ubbi from Charles Harry in East Twickenham died very suddenly yesterday.
+
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2015-02-10-much_loved_ubi_from_charles_harry_pharmacy_died in site.data.2015-02-10-much_loved_ubi_from_charles_harry_pharmacy_died %}
+       <li>
+
+         {{ 2015-02-10-much_loved_ubi_from_charles_harry_pharmacy_died.comment }}
+
+         <cite>{{ 2015-02-10-much_loved_ubi_from_charles_harry_pharmacy_died.author }} on {{ 2015-02-10-much_loved_ubi_from_charles_harry_pharmacy_died.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

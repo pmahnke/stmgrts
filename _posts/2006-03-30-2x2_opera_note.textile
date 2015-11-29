@@ -1,0 +1,47 @@
+---
+layout: post
+title: "2x2 Opera Note"
+permalink: /archives/2006/03/2x2_opera_note.html
+category: news
+date: 2006-03-30 20:17:10
+excerpt: |
+    Read a note from the 2x2 Opera following there very success run of "A Very Magical Flute":/event/Concert/200602010748.
+
+---
+
+Here is a note from the 2x2 Opera following there very success run of "A Very Magical Flute":/event/Concert/200602010748.
+
+<div class="letter">
+On behalf of 2x2 Opera I would like to say a big thank you for the support both from you (and the website) and importantly from the residents of St Margarets in coming along to the performances.  We have been overwhelmed by the many positive comments and feedback from members of the audience and participants alike, ranging from "When the Queen of the Night sang she made my tummy tingle" to "When you do the next one..."!
+
+Amidst all the late nights, hassles with staging and lighting and singers going sick, never mind trying to hold down a paid job, it is especially rewarding to hear that everyone's hard work has paid off.  We are thrilled that so many young people have benefited from the experience, either as a performer or in the audience.  For many it was their first experience of hearing  -- and seeing -- opera live on stage -- and all without a click track! The production involved 65 young people performing alongside professional musicians and we counted some 100 children and young people in the audience
+over the three performances.  
+
+The website proved critical in identifying an expert scenery constructor, the very versatile Del, more commonly seen on the football pitch or selling samosas in Crown Road, to whom we are deeply indebted.  It also succeeded in spreading the word and ultimately increasing our audience.
+
+There might just be another production in the offing -- although we need a little longer to recover!  -- and would welcome any constructive feedback from anyone who attended the performances either through the website or to me directly: "deborah.meyer@meyermusic.co.uk":mailto:deborah.meyer@meyermusic.co.uk.
+
+Thank you once again for your support,
+
+Deborah (for 2x2 Opera) 
+</div>
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2006-03-30-2x2_opera_note in site.data.2006-03-30-2x2_opera_note %}
+       <li>
+
+         {{ 2006-03-30-2x2_opera_note.comment }}
+
+         <cite>{{ 2006-03-30-2x2_opera_note.author }} on {{ 2006-03-30-2x2_opera_note.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

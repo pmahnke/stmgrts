@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Twitter"
+permalink: /archives/2010/10/twitter.html
+category: editorial
+date: 2010-10-18 12:40:14
+excerpt: |
+    <img alt="http://www.stmgrts.org.uk/images/twitter_logo.jpg" src="http://www.stmgrts.org.uk/images/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
+    
+    Starting today, we are starting a _St Margarets Community Website_ twitter account at "@stmgrts":http://twitter.com/#!/stmgrts.  We will be attempting to publish a tweet or two most days, nothing too onerous, about news and events in St Margarets.
+    
+    If you are interested, please follow us and perhaps we can even retweet your stuff.
+    
+
+---
+
+<img alt="http://www.stmgrts.org.uk/images/twitter_logo.jpg" src="http://www.stmgrts.org.uk/images/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
+
+Starting today, we are starting a _St Margarets Community Website_ twitter account at "@stmgrts":http://twitter.com/#!/stmgrts.  We will be attempting to publish a tweet or two most days, nothing too onerous, about news and events in St Margarets.
+
+If you are interested, please follow us and perhaps we can even retweet your stuff.
+
+
+
+
+
+

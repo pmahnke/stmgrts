@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Tesco Seeks Permission for a Second ATM"
+permalink: /archives/2005/11/tesco_seeks_per.html
+category: news
+date: 2005-11-03 20:14:25
+excerpt: |
+    <a href="http://www.stmgrts.org.uk/images/tescoATM.gif"><img src="http://www.stmgrts.org.uk/images/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
+    
+    According to a "new planning application":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05/3168/FUL, the Tesco on St Margarets Road is seeking permission to add a second ATM to the right of the entrance.  The ATM would be accessible from the outside of the store, like the current one.  As part of the application they are proposing to raise the level of the pavement out approximately 4-5 feet. 
+    
+    If you would like to comment on the application, you can do so "here":http://www.ukplanning.com/richmond/createComment.do?action=CreateApplicationComment&appNumber=05%2F3168%2FFUL.
+    
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/tescoATM.gif"><img src="http://www.stmgrts.org.uk/images/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
+
+According to a "new planning application":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05/3168/FUL, the Tesco on St Margarets Road is seeking permission to add a second ATM to the right of the entrance.  The ATM would be accessible from the outside of the store, like the current one.  As part of the application they are proposing to raise the level of the pavement out approximately 4-5 feet. 
+
+If you would like to comment on the application, you can do so "here":http://www.ukplanning.com/richmond/createComment.do?action=CreateApplicationComment&appNumber=05%2F3168%2FFUL.
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2005-11-03-tesco_seeks_per in site.data.2005-11-03-tesco_seeks_per %}
+       <li>
+
+         {{ 2005-11-03-tesco_seeks_per.comment }}
+
+         <cite>{{ 2005-11-03-tesco_seeks_per.author }} on {{ 2005-11-03-tesco_seeks_per.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

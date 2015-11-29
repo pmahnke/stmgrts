@@ -1,0 +1,49 @@
+---
+layout: post
+title: "St Margarets Autumn Event This Saturday"
+permalink: /archives/2005/09/st_margarets_au.html
+category: around_town
+date: 2005-09-13 21:42:18
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/autumnfairlayout.gif"><img src="http://www.stmgrts.org.uk/images/autumnfairlayout-thumb.gif" width="150" height="123" alt="Event Layout" class="right"/></a>
+
+This Saturday, the 17<sup>th</sup> of September is the "St Margarets Autumn Event":/cgi-bin/events.cgi?key=200507211432&action=getevent in Crown Road.  There will be plenty of food, drink, music, entertainment and stalls to spend a couple of hours.  Even the weather is "looking good":http://www.metcheck.com/V40/UK/FREE/7days.asp?zipcode=tw1 (<em>fingers crossed</em>).  
+
+
+The _St Margarets Community Website_ will have a stall there, so come by and meet us.
+
+Be sure to come down and support the community.
+
+h3. Time Table of Events
+
+|10.00|Stalls Open|
+|11.00|Event Officially Open<br />_All Beats_ on Stage|
+|12.30|Circus Performers on Stage|
+|1.00|_All Beats_ on Stage|
+|2.00|_St Margarets Elastic Band_ on Stage|
+|2.30|Circus Performers on Stage|
+|3.00|_Havana Good Times_ on Stage|
+|3.45|Orleans Infant _Dog Show|
+|4.15|_Havana Good Times_ on Stage|
+|5.00|Event Concludes|
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2005-09-13-st_margarets_au in site.data.2005-09-13-st_margarets_au %}
+       <li>
+
+         {{ 2005-09-13-st_margarets_au.comment }}
+
+         <cite>{{ 2005-09-13-st_margarets_au.author }} on {{ 2005-09-13-st_margarets_au.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+

@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Continuing Train Problems"
+permalink: /archives/2009/11/continuing_train_problems.html
+category: news
+date: 2009-11-21 21:58:53
+excerpt: |
+    <a href="http://www.stmgrts.org.uk/images/feltham_bridge_outage.jpg"><img src="http://www.stmgrts.org.uk/images/feltham_bridge_outage-thumb.jpg" width="300" height="225" alt="Feltham Bridge" class="photo center" /></a>
+    
+    
+    Because of extensive flood damage to a river bridge in the Feltham area, trains are currently unable to run on lines between Hounslow / Whitton and Feltham.
+    
+    Network Rail engineers are working hard to provide a temporary solution which will allow a limited train service to operate next week. Until this is completed, a revised timetable is in operation on the affected routes. Journey times may be extended by up to 45 minutes.
+    
+
+---
+
+<a href="http://www.stmgrts.org.uk/images/feltham_bridge_outage.jpg"><img src="http://www.stmgrts.org.uk/images/feltham_bridge_outage-thumb.jpg" width="300" height="225" alt="Feltham Bridge" class="photo center" /></a>
+
+
+h4. Disruption to services between London Waterloo and Staines / Windsor / Ascot / Reading
+
+Because of extensive flood damage to a river bridge in the Feltham area, trains are currently unable to run on lines between Hounslow / Whitton and Feltham.
+
+Network Rail engineers are working hard to provide a temporary solution which will allow a limited train service to operate next week. Until this is completed, a revised timetable is in operation on the affected routes. Journey times may be extended by up to 45 minutes.
+
+<cite>-- from "South West Trains website":http://www.southwesttrains.co.uk/engineeringwork.aspx#sa1c9e4a1d1349548b8faaad06961215</cite>
+
+
+
+
+
+<div class="comments">
+  <h2>Comments</h2>
+     <ul>
+{% for 2009-11-21-continuing_train_problems in site.data.2009-11-21-continuing_train_problems %}
+       <li>
+
+         {{ 2009-11-21-continuing_train_problems.comment }}
+
+         <cite>{{ 2009-11-21-continuing_train_problems.author }} on {{ 2009-11-21-continuing_train_problems.date }}</cite>
+    
+       </li>
+{% endfor %}
+    </ul>
+</div><!-- end comments -->
+
+
