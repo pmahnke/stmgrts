@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Play Club - Walkie Talkies"
-permalink: /archives/2015/12/new-play-club-walkie-talkies
+permalink: /archives/2015/12/new-play-club-walkie-talkies.html
 category: around_town
 date: 2015-12-01 20:12:59
 excerpt: |
