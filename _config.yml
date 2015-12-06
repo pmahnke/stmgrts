@@ -15,6 +15,9 @@ url: "http://stmgrts.org.uk" # the base hostname & protocol for your site
 twitter_username: stmgrts
 github_username:  pmahnke
 
+exclude:
+    - node_modules
+
 # gems
 gems:
   - jekyll-textile-converter
