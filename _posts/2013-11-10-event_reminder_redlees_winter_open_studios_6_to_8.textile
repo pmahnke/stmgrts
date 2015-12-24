@@ -5,7 +5,7 @@ permalink: /archives/2013/11/event_reminder_redlees_winter_open_studios_6_to_8.h
 category: around_town
 date: 2013-11-10 09:22:58
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="http://www.stmgrts.org.uk/images//FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
     
     "Join us in a celebration of original art and the handcrafted!":http://www.stmgrts.org.uk/event/event/200705144199
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="http://www.stmgrts.org.uk/images//FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
 
 "Join us in a celebration of original art and the handcrafted!":http://www.stmgrts.org.uk/event/event/200705144199
 
@@ -31,8 +31,4 @@ h4. More Information
 * Light refreshments, raffle of artists'works, free entry and free parking
 * Find full details of artists on "www.redlees.org":http://www.redlees.org
 
-<a href="http://www.stmgrts.org.uk/images//FinalWinterOSInviteBACK.jpg" title="See larger version of - FinalWinterOSInviteBACK"><img src="http://www.stmgrts.org.uk/images//FinalWinterOSInviteBACK_thumb.jpg" width="500" height="374" alt="FinalWinterOSInviteBACK" class="photo center" /></a>
-
-
-
-
+<a href="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteBACK.jpg" title="See larger version of - FinalWinterOSInviteBACK"><img src="//stmgrts.org.uk/assets/images/2013/FinalWinterOSInviteBACK_thumb.jpg" width="500" height="374" alt="FinalWinterOSInviteBACK" class="photo center" /></a>

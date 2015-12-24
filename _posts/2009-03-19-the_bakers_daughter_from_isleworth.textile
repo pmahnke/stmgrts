@@ -5,7 +5,7 @@ permalink: /archives/2009/03/the_bakers_daughter_from_isleworth.html
 category: around_town
 date: 2009-03-19 13:22:36
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/child_taken_night.png"><img src="http://www.stmgrts.org.uk/images/child_taken_night-thumb.png" width="97" height="124" alt="Child taken in the night" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/child_taken_night.png"><img src="//stmgrts.org.uk/assets/images/2009/child_taken_night-thumb.png" width="97" height="124" alt="Child taken in the night" class="photo right" /></a>
     
     
     In the early hours of Saturday 30<sup>th</sup> June 1860 a three year old boy, Francis Saville Kent, was taken from his bed in the nursery at Road Hill House, Road, Wiltshire.  Later that day his body was found with its throat cut lying at the bottom of the servants' privy in the garden. Apart from an open window in the drawing room of the large house the rest of the building was securely locked which suggested to the local police that the murder had been committed by someone living in the house.  Immediate suspicion feel upon 22 year old Elizabeth Gough, the nursemaid who had been sleeping in the nursery at the time of the boy's disappearance. She was an intelligent and attractive young woman - even though one of her front teeth was missing - and it was hinted in the local village that she was having an affair with the master of the house, Samuel Kent. Gossip suggested that maybe the child awoke to find his father Samuel in bed with Elizabeth and to prevent their affair being discovered she murdered the boy. Even Charles Dickens agreed with this view.
@@ -13,12 +13,12 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/child_taken_night.png"><img src="http://www.stmgrts.org.uk/images/child_taken_night-thumb.png" width="97" height="124" alt="Child taken in the night" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/child_taken_night.png"><img src="//stmgrts.org.uk/assets/images/2009/child_taken_night-thumb.png" width="97" height="124" alt="Child taken in the night" class="photo right" /></a>
 
 
 In the early hours of Saturday 30<sup>th</sup> June 1860 a three year old boy, Francis Saville Kent, was taken from his bed in the nursery at Road Hill House, Road, Wiltshire.  Later that day his body was found with its throat cut lying at the bottom of the servants' privy in the garden. Apart from an open window in the drawing room of the large house the rest of the building was securely locked which suggested to the local police that the murder had been committed by someone living in the house.  Immediate suspicion feel upon 22 year old Elizabeth Gough, the nursemaid who had been sleeping in the nursery at the time of the boy's disappearance. She was an intelligent and attractive young woman - even though one of her front teeth was missing - and it was hinted in the local village that she was having an affair with the master of the house, Samuel Kent. Gossip suggested that maybe the child awoke to find his father Samuel in bed with Elizabeth and to prevent their affair being discovered she murdered the boy. Even Charles Dickens agreed with this view.
 
-<a href="http://www.stmgrts.org.uk/images/road_hill_house.jpg"><img src="http://www.stmgrts.org.uk/images/road_hill_house-thumb.jpg" width="150" height="91" alt="Road Hill House"  class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/road_hill_house.jpg"><img src="//stmgrts.org.uk/assets/images/2009/road_hill_house-thumb.jpg" width="150" height="91" alt="Road Hill House"  class="photo right" /></a>
 
 
 
@@ -29,13 +29,13 @@ bq. "The father was in bed with the nurse: The child was discovered by them, sit
 Elizabeth Gough, the nursemaid, was a baker's daughter and lived at 51 North Street in Isleworth.
 
 
-<a href="http://www.stmgrts.org.uk/images/insp_jon_whicher.jpg"><img src="http://www.stmgrts.org.uk/images/insp_jon_whicher-thumb.jpg" width="79" height="150" alt="Inspector Jonathan Whicher" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/insp_jon_whicher.jpg"><img src="//stmgrts.org.uk/assets/images/2009/insp_jon_whicher-thumb.jpg" width="79" height="150" alt="Inspector Jonathan Whicher" class="photo right" /></a>
 
 
 At the request of local magistrates the Home Secretary sent Detective Inspector Jonathan Whicher to Road to investigate the crime. One of the first things that he did was to contact Isleworth police for a character reference for Elizabeth Gough. On the 19th July they reported that Gough was "well known to be respectable, quick, kind, good tempered and very fond of children".  Finding no evidence 'that she was acquainted with any male person, either at Road or in the neighbourhood," the detective turned his attention to Constance Kent, the 16 year old daughter of Samuel Kent's first marriage to Mary Ann Windus. Constance was deeply resentful of his second wife Mary Drewe Pratt - who was Saville's mother. Was teenage resentment of the stepmother a strong enough motive for murder? The public who kept up with the development of the investigation thought not.  Through many letters to the Police Commissioner at Scotland Yard they continued to accuse Elizabeth Gough of the crime. A tailor from Cheshire wanted Gough put under 'strickt servilance' - a curate from Lancashire went further...
 
 
-<a href="http://www.stmgrts.org.uk/images/liz_gough.jpg"><img src="http://www.stmgrts.org.uk/images/liz_gough-thumb.jpg" width="94" height="150" alt="Elizabeth Gough"  class="photo right"  /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/liz_gough.jpg"><img src="//stmgrts.org.uk/assets/images/2009/liz_gough-thumb.jpg" width="94" height="150" alt="Elizabeth Gough"  class="photo right"  /></a>
 
 
 bq. Is it not possible that the nursemaid may have had a paramour...so well acquainted with the premises that he could gain ready access in the night..?
@@ -53,7 +53,7 @@ In spite of her dismissal by the court Elizabeth was still being harassed by the
 
 With little evidence the Road Hill House murder investigation eventually petered out. Five years later on the 25<sup>th</sup> April 1865 Constance Kent, now 21 years old, confessed to the murder of her brother, Francis Saville Kent. The broadsheet balladeers summed it up rather neatly...
 
-<a href="http://www.stmgrts.org.uk/images/constance_kent.jpg"><img src="http://www.stmgrts.org.uk/images/constance_kent-thumb.jpg" width="79" height="150" alt="Constance Kent"  class="photo right"  /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/constance_kent.jpg"><img src="//stmgrts.org.uk/assets/images/2009/constance_kent-thumb.jpg" width="79" height="150" alt="Constance Kent"  class="photo right"  /></a>
 
 
 
@@ -78,22 +78,3 @@ Elizabeth Gough, the baker's daughter from Isleworth, did find some happiness in
 To find out more about this fascinating crime and investigation read "The Suspicions of Mr Whicher":http://www.waterstones.com/waterstonesweb/displayProductDetails.do?sku=6296153 by Kate Summerscale. It has been in the non-fiction top ten list for months - and no wonder!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-19-the_bakers_daughter_from_isleworth in site.data.2009-03-19-the_bakers_daughter_from_isleworth %}
-       <li>
-
-         {{ 2009-03-19-the_bakers_daughter_from_isleworth.comment }}
-
-         <cite>{{ 2009-03-19-the_bakers_daughter_from_isleworth.author }} on {{ 2009-03-19-the_bakers_daughter_from_isleworth.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

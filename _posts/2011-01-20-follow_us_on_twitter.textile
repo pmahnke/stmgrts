@@ -5,7 +5,7 @@ permalink: /archives/2011/01/follow_us_on_twitter.html
 category: editorial
 date: 2011-01-20 00:48:21
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//twitter.jpg" title="See larger version of - twitter"><img src="http://www.stmgrts.org.uk/images//twitter_thumb.jpg" width="150" height="91" alt="twitter" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/twitter.jpg" title="See larger version of - twitter"><img src="//stmgrts.org.uk/assets/images/2011/twitter_thumb.jpg" width="150" height="91" alt="twitter" class=" right" /></a>
     
     St Margarets Community Website is now on "Twitter":http://twitter.com/ as "@stmgrts":http://twitter.com/#!/stmgrts.  You might have already noticed a little box on the homepage of the site with our three latest 'tweets' to give you a sense of what we are posting.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//twitter.jpg" title="See larger version of - twitter"><img src="http://www.stmgrts.org.uk/images//twitter_thumb.jpg" width="150" height="91" alt="twitter" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/twitter.jpg" title="See larger version of - twitter"><img src="//stmgrts.org.uk/assets/images/2011/twitter_thumb.jpg" width="150" height="91" alt="twitter" class=" right" /></a>
 
 St Margarets Community Website is now on "Twitter":http://twitter.com/ as "@stmgrts":http://twitter.com/#!/stmgrts.  You might have already noticed a little box on the homepage of the site with our three latest 'tweets' to give you a sense of what we are posting.
 
@@ -27,9 +27,3 @@ If you are on twitter already, try "following us":http://twitter.com/#!/stmgrts 
 h4. What is twitter?
 
 Twitter is a social networking service that allows you to post small (140 character) messages called 'tweets'.  Additionally, you can 'follow' people on twitter, which means you can easily find all their tweets.  According to wikipedia, "it is estimated that Twitter has 190 million users, generating 65 million tweets a day and handling over 800,000 search queries per day."
-
-
-
-
-
-

@@ -22,23 +22,3 @@ Currently the school is refusing to play.
 A group of parents at St Stephens is organising a petition against the council's outrageous 356% increase.  The petition is outside the school's office and in the playground after school during pick-up time. 
 
 What do you think?  "Vote in our poll":http://www.stmgrts.org.uk/poll/ststephens
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-16-outrage_at_st_s in site.data.2007-03-16-outrage_at_st_s %}
-       <li>
-
-         {{ 2007-03-16-outrage_at_st_s.comment }}
-
-         <cite>{{ 2007-03-16-outrage_at_st_s.author }} on {{ 2007-03-16-outrage_at_st_s.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

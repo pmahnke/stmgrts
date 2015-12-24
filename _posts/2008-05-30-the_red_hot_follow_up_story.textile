@@ -7,7 +7,7 @@ date: 2008-05-30 14:28:07
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/narkdrool.jpg"><img src="http://www.stmgrts.org.uk/images/narkdrool-thumb.jpg" width="101" height="150" alt="Nark Drool and the Shudders" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/narkdrool.jpg"><img src="//stmgrts.org.uk/assets/images/2008/narkdrool-thumb.jpg" width="101" height="150" alt="Nark Drool and the Shudders" class="photo right" /></a>
 
 
 
@@ -28,9 +28,3 @@ Which only goes to show. It does pay to advertise. Locally. In the St Margarets 
 For more information on the band please contact:-
 
 Billy Sincere on 020 8892 5211
-
-
-
-
-
-

@@ -7,7 +7,7 @@ date: 2012-04-19 19:26:46
 
 ---
 
-<img src="http://www.ageuk.org.uk/BrandPartnerGlobal/richmonduponthamesVPP/Images/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" width="160" height="80" alt="age logo"  class="right" />
+<img src="//stmgrts.org.uk/assets/images/2012/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" width="160" height="80" alt="age logo"  class="right" />
 
 _Part-time 15 hours a week_
 _6 month fixed term contract_
@@ -21,9 +21,3 @@ h4. More Information
 
 * search for "Job opportunities":http://www.ageuk.org.uk/richmonduponthames/About-Age-UK_richmond-upon-Thames/Job-opportunities/ or call 0208 876 0620
 * Closing date for applications: Monday 23 April 5pm
-
-
-
-
-
-

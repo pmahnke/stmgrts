@@ -5,7 +5,7 @@ permalink: /archives/2011/07/new_summer_taekwondo_course_in_st_margarets.html
 category: around_town
 date: 2011-07-13 18:29:35
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Twickenham-TKD-Flyer.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Twickenham-TKD-Flyer_thumb.jpg" width="150" height="96" alt="poster" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/Twickenham-TKD-Flyer.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Twickenham-TKD-Flyer_thumb.jpg" width="150" height="96" alt="poster" class=" right" /></a>
     
     Learn the dynamic Korean martial art of Taekwon-do. Develop explosive power, fitness and strength.  Take a four week summer trial for only &pound;25.
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Twickenham-TKD-Flyer.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Twickenham-TKD-Flyer_thumb.jpg" width="150" height="96" alt="poster" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Twickenham-TKD-Flyer.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Twickenham-TKD-Flyer_thumb.jpg" width="150" height="96" alt="poster" class=" right" /></a>
 
 Learn the dynamic Korean martial art of Taekwon-do. Develop explosive power, fitness and strength.  Take a four week summer trial for only &pound;25.
 
@@ -44,7 +44,3 @@ h4. Details
 ** "www.twickenham-taekwondo.co.uk":http://www.twickenham-taekwondo.co.uk
 ** "facebook.com/TwickenhamTaekwondo":http://www.facebook.com/TwickenhamTaekwondo
 ** "twitter.com/TwickenhamTKD":http://www.twitter.com/TwickenhamTKD
-
-
-
-

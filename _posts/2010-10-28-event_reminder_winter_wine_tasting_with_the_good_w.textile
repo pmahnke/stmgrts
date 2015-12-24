@@ -7,7 +7,7 @@ date: 2010-10-28 22:18:56
 
 ---
 
-<img src="http://www.stmgrts.org.uk/images/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2010/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" />
 
 "Sunday 14<sup>th</sup> November - 12.30pm-3.30pm":http://stmgrts.org.uk/event/exhibition/200705142622
 
@@ -16,9 +16,3 @@ The Good Wine Shop in St Margarets is hosting its Winter Wine Tasting event on S
 A selection of 40 Winter warming wines will be on offer for guests to sample during the event which takes place at Winchester Hall (side of The Turks Head public house) in St Margarets. Winemaker Kevin Mitchell of Kilikanoon Estate in Australia will be there to pour some of his great shiraz and grenache blends, perfect for these colder evenings.
 
 Guests will also be able to enjoy a range of carefully selected breads and cheeses to compliment the wines provided by YellowWedge Cheese, Crown Rd, St Margarets.
-
-
-
-
-
-

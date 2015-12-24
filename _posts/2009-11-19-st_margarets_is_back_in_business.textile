@@ -32,23 +32,3 @@ bq. "We are 55 independent businesses working together and we believe we have so
 For more information about the shops and businesses please visit "www.mystmargarets.com":http://www.mystmargarets.com
 
 <cite>-- from a Richmond Council press release</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-11-19-st_margarets_is_back_in_business in site.data.2009-11-19-st_margarets_is_back_in_business %}
-       <li>
-
-         {{ 2009-11-19-st_margarets_is_back_in_business.comment }}
-
-         <cite>{{ 2009-11-19-st_margarets_is_back_in_business.author }} on {{ 2009-11-19-st_margarets_is_back_in_business.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img alt="boys_at_isabella.jpg" src="http://www.stmgrts.org.uk/archives/boys_isabella-thumb.jpg" width="150" height="112" class="photo right" />
+<img alt="boys_at_isabella.jpg" src="//stmgrts.org.uk/assets/images/2006/boys_isabella-thumb.jpg" width="150" height="112" class="photo right" />
 
 Once again here is a smattering of activities going on around London over the half term.  Please do double check times and dates if you are interested in something.  Please post any other suggestions you may have for a fun day out with kids.
 
@@ -69,7 +69,3 @@ h3. Museums-Tired of the Science and Natural History museum – try these!
 * Another fascinating insight into domestic life can be found at the *Geffrye Museum* ("www.geffrye-museum.org.uk":http://www.geffrye-museum.org.uk/). The displays lead the visitor through domestic interiors from the 17th century to the present time. There are wonderful period gardens and an award-winning herb garden too. 
 * *The National Maritime Museum* ("www.nmm.ac.uk":http://www.nmm.ac.uk/) houses the world’s largest collection of items relating to seafaring. Special children’s activities, such as games for younger children and worksheets for the older ones, are on offer. 
 * Another wonderful South London institution is the *Horniman Museum* ("www.horniman.ac.uk":http://www.horniman.ac.uk/). It specialises in world culture and natural history and is very child-friendly. It also boasts a wonderful garden.
-
-
-
-

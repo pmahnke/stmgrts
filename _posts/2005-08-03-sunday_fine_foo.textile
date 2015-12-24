@@ -23,22 +23,3 @@ p. The addition of a Sunday Fine Foods Market would benefit the community in tha
 * increases foot traffic on the high street to support local shops
 * and offers residents chance to purchase fresh and organic foods locally, and
 * a proportion of the income from the stallholders rent will benefit the local community fund, which helps to maintain and increase floral displays in the area.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-08-03-sunday_fine_foo in site.data.2005-08-03-sunday_fine_foo %}
-       <li>
-
-         {{ 2005-08-03-sunday_fine_foo.comment }}
-
-         <cite>{{ 2005-08-03-sunday_fine_foo.author }} on {{ 2005-08-03-sunday_fine_foo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

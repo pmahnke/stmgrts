@@ -14,24 +14,3 @@ Many thanks."
 p. ??Justin Dyer??
 
 p. -- "justin@echo-edit.freeserve.co.uk":mailto:justin@echo-edit.freeserve.co.uk
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-10-18-frogs_in_hartington_road in site.data.2007-10-18-frogs_in_hartington_road %}
-       <li>
-
-         {{ 2007-10-18-frogs_in_hartington_road.comment }}
-
-         <cite>{{ 2007-10-18-frogs_in_hartington_road.author }} on {{ 2007-10-18-frogs_in_hartington_road.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

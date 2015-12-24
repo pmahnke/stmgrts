@@ -5,7 +5,7 @@ permalink: /archives/2015/05/dreamcatcher_summer_film_camps_july_and_august_201.
 category: around_town
 date: 2015-05-20 22:01:11
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="http://www.stmgrts.org.uk/images//Dreamcatcher-May-2015-Flyer_thumb.jpg" width="150" height="212" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="//stmgrts.org.uk/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="150" height="212" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
     
     _Make a short film in 5 Days and take a copy home on DVD!_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="http://www.stmgrts.org.uk/images//Dreamcatcher-May-2015-Flyer_thumb.jpg" width="250" height="354" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="//stmgrts.org.uk/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="250" height="354" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
 
 _Make a short film in 5 Days and take a copy home on DVD!_
 
@@ -37,7 +37,3 @@ h4. To book
 * 07828377939 
 * "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
 * "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk
-
-
-
-

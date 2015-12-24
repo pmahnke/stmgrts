@@ -15,23 +15,3 @@ bq. "Members of the public are able to register their request to speak at "Trans
 Interim Committee Manager
 * phone:  020 8891 7813
 * email: "oyetona.raheem@richmond.gov.uk":mailto:oyetona.raheem@richmond.gov.uk
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-05-16-speak_at_the_cpz_meeting in site.data.2009-05-16-speak_at_the_cpz_meeting %}
-       <li>
-
-         {{ 2009-05-16-speak_at_the_cpz_meeting.comment }}
-
-         <cite>{{ 2009-05-16-speak_at_the_cpz_meeting.author }} on {{ 2009-05-16-speak_at_the_cpz_meeting.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2008/10/event_reminder_richmond_united_group_borough_meeti.
 category: around_town
 date: 2008-10-02 21:35:14
 excerpt: |
-    <img src="http://www.stmgrts.org.uk/images/events/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
+    <img src="//stmgrts.org.uk/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
     
     Tuesday 14 October 8.00 pm
     
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<img src="http://www.stmgrts.org.uk/images/events/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
 
 Tuesday 14 October 8.00 pm
 
@@ -47,10 +47,3 @@ SPEAKERS:
 * Zac Goldsmith, Editor of The Ecologist
 
 "www.richmondunitedgroup.com":http://www.richmondunitedgroup.com
-
-
-
-
-
-
-

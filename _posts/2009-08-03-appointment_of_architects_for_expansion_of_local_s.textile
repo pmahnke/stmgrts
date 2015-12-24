@@ -20,23 +20,3 @@ Additionally these consultants should ideally be appointed before the school sum
 </blockquote>
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-08-03-appointment_of_architects_for_expansion_of_local_s in site.data.2009-08-03-appointment_of_architects_for_expansion_of_local_s %}
-       <li>
-
-         {{ 2009-08-03-appointment_of_architects_for_expansion_of_local_s.comment }}
-
-         <cite>{{ 2009-08-03-appointment_of_architects_for_expansion_of_local_s.author }} on {{ 2009-08-03-appointment_of_architects_for_expansion_of_local_s.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

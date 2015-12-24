@@ -14,23 +14,3 @@ Doors open at 10.00-12 noon. Entrance is &pound;1 per person.
 Nearly new clothes, toys and equipment for babies and young children.
 
 Come along and grab a bargain!
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-03-event_reminder_nct_twickenham_nearly_new_sale in site.data.2009-03-03-event_reminder_nct_twickenham_nearly_new_sale %}
-       <li>
-
-         {{ 2009-03-03-event_reminder_nct_twickenham_nearly_new_sale.comment }}
-
-         <cite>{{ 2009-03-03-event_reminder_nct_twickenham_nearly_new_sale.author }} on {{ 2009-03-03-event_reminder_nct_twickenham_nearly_new_sale.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

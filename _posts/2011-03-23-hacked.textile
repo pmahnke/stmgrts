@@ -7,15 +7,10 @@ date: 2011-03-23 17:42:14
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5553470726/" title="20110323_www_stmgrts_org_uk_cgi-bin-full by Peter M, on Flickr"><img src="http://farm6.static.flickr.com/5251/5553470726_997bd547f9_m.jpg" width="150" class="photo right" alt="20110323_www_stmgrts_org_uk_cgi-bin-full" /></a>
+<a href="http://www.flickr.com/photos/mahnke/5553470726/" title="20110323_www_stmgrts_org_uk_cgi-bin-full by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/5553470726_997bd547f9_m.jpg" width="150" class="photo right" alt="20110323_www_stmgrts_org_uk_cgi-bin-full" /></a>
 
 You might have noticed that this site was Hacked overnight.  We think we have restored everything, but if you find anything else, please let us know via the comments here or email "editor@stmgrts.org.uk":mailto:editor@stmgrts.org.uk.
 
 Thank you for all the people who did contact us, that was, in-fact, how we found out.
 
 If you are a hacker, I hope you understand the damage you doing to small websites.
-
-
-
-
-

@@ -5,13 +5,13 @@ permalink: /archives/2015/07/twickenham_votes_for_a_lido_on_twickenham_riversid.
 category: around_town
 date: 2015-07-16 19:25:10
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//twickenham-Lido-Plan.jpg" title="See larger version of - twickenham Lido Plan"><img src="http://www.stmgrts.org.uk/images//twickenham-Lido-Plan_thumb.jpg" width="150" height="116" alt="twickenham Lido Plan" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/twickenham-Lido-Plan.jpg" title="See larger version of - twickenham Lido Plan"><img src="//stmgrts.org.uk/assets/images/2015/twickenham-Lido-Plan_thumb.jpg" width="150" height="116" alt="twickenham Lido Plan" class="right" /></a>
     
     During consultations with local stakeholders it has become clear that there is a wish to bring back a Lido on Twickenham Riverside. Twickenham Alive has identified a successful "courtyard" style lido in Bristol which would fit into the site available.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//twickenham-Lido-Plan.jpg" title="See larger version of - twickenham Lido Plan"><img src="http://www.stmgrts.org.uk/images//twickenham-Lido-Plan_thumb.jpg" width="250" height="194" alt="twickenham Lido Plan" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/twickenham-Lido-Plan.jpg" title="See larger version of - twickenham Lido Plan"><img src="//stmgrts.org.uk/assets/images/2015/twickenham-Lido-Plan_thumb.jpg" width="250" height="194" alt="twickenham Lido Plan" class="right" /></a>
 
 During consultations with local stakeholders it has become clear that there is a wish to bring back a Lido on Twickenham Riverside. Twickenham Alive has identified a successful "courtyard" style lido in Bristol which would fit into the site available.
 
@@ -35,7 +35,3 @@ Twickenham Riverside used to be a vibrant area for the local community with its 
 Please support our petition and help us persuade the London Borough of Richmond upon Thames to reinstate Twickenham's Lido.
 
 * See the Petition at "twickenhamlido.com":http://twickenhamlido.com/
-
-
-
-

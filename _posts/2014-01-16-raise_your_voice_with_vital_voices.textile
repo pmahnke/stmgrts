@@ -5,7 +5,7 @@ permalink: /archives/2014/01/raise_your_voice_with_vital_voices.html
 category: around_town
 date: 2014-01-16 19:02:14
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Voice_Poster_2014.jpg" title="See larger version of - Voice Poster 2014"><img src="http://www.stmgrts.org.uk/images//Voice_Poster_2014_thumb.jpg" width="150" height="220" alt="Vital Voice Poster 2014" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Voice_Poster_2014.jpg" title="See larger version of - Voice Poster 2014"><img src="//stmgrts.org.uk/assets/images/2014/Voice_Poster_2014_thumb.jpg" width="150" height="220" alt="Vital Voice Poster 2014" class="photo right" /></a>
     
     _A New Way of using your Voice_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Voice_Poster_2014.jpg" title="See larger version of - Voice Poster 2014"><img src="http://www.stmgrts.org.uk/images//Voice_Poster_2014_thumb.jpg" width="150" height="220" alt="Vital Voice Poster 2014" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Voice_Poster_2014.jpg" title="See larger version of - Voice Poster 2014"><img src="//stmgrts.org.uk/assets/images/2014/Voice_Poster_2014_thumb.jpg" width="150" height="220" alt="Vital Voice Poster 2014" class="photo right" /></a>
 
 _A New Way of using your Voice_
 
@@ -29,7 +29,3 @@ h4. More Information
 * &pound;10 per session or &pound;40 for 5 sessions (starts 15<sup>th</sup> Jan 2014)
 * "info@vitalvoices.co.uk":mailto:info@vitalvoices.co.uk
 * 07770 993289
-
-
-
-

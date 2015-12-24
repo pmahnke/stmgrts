@@ -43,22 +43,3 @@ We are fortunate in that, should Sidney Road residents vote against the CPZ, we 
 Peter, Rosie, Clare, David, Carol, Rob.
 
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-05-15-letter_why_we_need_a_cpz in site.data.2008-05-15-letter_why_we_need_a_cpz %}
-       <li>
-
-         {{ 2008-05-15-letter_why_we_need_a_cpz.comment }}
-
-         <cite>{{ 2008-05-15-letter_why_we_need_a_cpz.author }} on {{ 2008-05-15-letter_why_we_need_a_cpz.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

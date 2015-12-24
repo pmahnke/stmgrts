@@ -5,7 +5,7 @@ permalink: /archives/2010/03/norman_jackson_vc_a_local_hero.html
 category: around_town
 date: 2010-03-25 22:30:00
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/normanj_1.png" title="See larger version of - NORMAN JACKSON"><img src="http://www.stmgrts.org.uk/images/events/normanj_1_thumb.png" width="150" height="150" alt="NORMAN JACKSON" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/normanj_1.png" title="See larger version of - NORMAN JACKSON"><img src="//stmgrts.org.uk/assets/images/2010/normanj_1_thumb.png" width="150" height="150" alt="NORMAN JACKSON" class="photo right" /></a>
     
     bq. "I was young and cocky and thought I could do anything. But I did no more than anyone else would do."
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/normanj_1.png" title="See larger version of - NORMAN JACKSON"><img src="http://www.stmgrts.org.uk/images/events/normanj_1_thumb.png" width="150" height="150" alt="NORMAN JACKSON" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/normanj_1.png" title="See larger version of - NORMAN JACKSON"><img src="//stmgrts.org.uk/assets/images/2010/normanj_1_thumb.png" width="150" height="150" alt="NORMAN JACKSON" class="photo right" /></a>
 
 bq. "I was young and cocky and thought I could do anything. But I did no more than anyone else would do."
 
@@ -25,7 +25,7 @@ He and his new crew settled down well together and by mid-November had completed
 
 
 
-<a href="http://www.stmgrts.org.uk/images//normanj_2.png" title="See larger version of - A Lancaster Bomber"><img src="http://www.stmgrts.org.uk/images//normanj_2_thumb.png" width="134" height="150" alt="A Lancaster Bomber" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/normanj_2.png" title="See larger version of - A Lancaster Bomber"><img src="//stmgrts.org.uk/assets/images/2010/normanj_2_thumb.png" width="134" height="150" alt="A Lancaster Bomber" class="photo right" /></a>
 
 
 The target was Schweinfurt - home of the German wartime ball bearing industry - and the crew were in good humour. Their tour was nearly finished and Jackson had just received a telegram informing him that his wife, Alma, had given birth to their first son, Ian.
@@ -42,7 +42,7 @@ After his death a friend wrote, "(Jackson) seldom if ever talked about his own a
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//normanj_3.png" title="See larger version of - NORMAN JACKSON's Grave"><img src="http://www.stmgrts.org.uk/images//normanj_3_thumb.png" width="150" height="112" alt="NORMAN JACKSON's Grave" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/normanj_3.png" title="See larger version of - NORMAN JACKSON's Grave"><img src="//stmgrts.org.uk/assets/images/2010/normanj_3_thumb.png" width="150" height="112" alt="NORMAN JACKSON's Grave" class="photo left" /></a>
 
 
 h3. Local hero commemorated
@@ -60,21 +60,3 @@ bq. "Ever since the 150<sup>th</sup> Anniversary of the Victoria Cross, I have b
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-03-25-norman_jackson_vc_a_local_hero in site.data.2010-03-25-norman_jackson_vc_a_local_hero %}
-       <li>
-
-         {{ 2010-03-25-norman_jackson_vc_a_local_hero.comment }}
-
-         <cite>{{ 2010-03-25-norman_jackson_vc_a_local_hero.author }} on {{ 2010-03-25-norman_jackson_vc_a_local_hero.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

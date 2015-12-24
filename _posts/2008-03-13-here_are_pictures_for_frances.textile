@@ -7,7 +7,7 @@ date: 2008-03-13 19:55:07
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/theview_night.jpg"><img src="http://www.stmgrts.org.uk/images/theview_night-thumb.jpg" width="150" height="112" alt="The View at Night" class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2008/theview_night.jpg"><img src="//stmgrts.org.uk/assets/images/2008/theview_night-thumb.jpg" width="150" height="112" alt="The View at Night" class="photo right"/></a>
 
 
 If you recall, in the article "Pictures for Frances":http://www.stmgrts.org.uk/archives/2008/02/pictures_for_frances.html, we asked readers to submit photos for a former resident of St Margarets who longs for news and images of St Margarets.  We have had two great submissions:
@@ -17,24 +17,3 @@ If you recall, in the article "Pictures for Frances":http://www.stmgrts.org.uk/a
 * We have also posted a few "here":http://picasaweb.google.com/StMargaretsCommunityWebsite
 
 Check them out and if you have more, either email us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk or add them to a free "flickr":http://www.flickr.com/ account and tag the photos "stmgrts":http://www.flickr.com/search/?q=stmgrts&m=tags.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-03-13-here_are_pictures_for_frances in site.data.2008-03-13-here_are_pictures_for_frances %}
-       <li>
-
-         {{ 2008-03-13-here_are_pictures_for_frances.comment }}
-
-         <cite>{{ 2008-03-13-here_are_pictures_for_frances.author }} on {{ 2008-03-13-here_are_pictures_for_frances.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

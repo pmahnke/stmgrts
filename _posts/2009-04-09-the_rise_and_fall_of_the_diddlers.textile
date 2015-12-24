@@ -5,7 +5,7 @@ permalink: /archives/2009/04/the_rise_and_fall_of_the_diddlers.html
 category: around_town
 date: 2009-04-09 11:35:10
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/diddler.png"><img src="http://www.stmgrts.org.uk/images/diddler-thumb.png" width="150" height="112" alt="The Rise and Fall of the Diddlers" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/diddler.png"><img src="//stmgrts.org.uk/assets/images/2009/diddler-thumb.png" width="150" height="112" alt="The Rise and Fall of the Diddlers" class="photo right" /></a>
     
     
     The first trolley bus in London pulled out of Fulwell depot, Teddington on May 16th 1931 opening the No. 4 route between Teddington and Twickenham. As it left the depot the District Inspector Charles Gilbert jumped aboard and paid 1 penny for the first ticket. The conductor was Charles Hadland and you can see him in the YouTube film selling tickets to passengers on the top deck.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/diddler.png"><img src="http://www.stmgrts.org.uk/images/diddler-thumb.png" width="150" height="112" alt="The Rise and Fall of the Diddlers" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/diddler.png"><img src="//stmgrts.org.uk/assets/images/2009/diddler-thumb.png" width="150" height="112" alt="The Rise and Fall of the Diddlers" class="photo right" /></a>
 
 
 _If you go to YouTube and search for "Trolleybuses Twickenham" -- or find "watch this":http://www.youtube.com/watch?v=iySshjjujog -- you will find yourself watching a remarkable film of the very first trolley bus in London making its first journey. The route it takes runs from Twickenham to Teddington along roads and past landmarks that are both familiar and alien. It is a journey through our own immediate past._
@@ -43,7 +43,3 @@ bq. "With the trolleys you had to worry about the road in front of you and what 
 The last trolleybus to see service in London pulled out of Fulwell Depot on 8th May 1962 and made its last run to Kingston and back. Standing on the platform at the back was the same ultra smart conductor, Charles Hadland, who had been standing there in 1931 when the first trolley made its run. As proud as he was to be there he confessed later that he would have preferred to have been at the front -- driving!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

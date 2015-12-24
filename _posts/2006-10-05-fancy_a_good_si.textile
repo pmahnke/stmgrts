@@ -8,23 +8,3 @@ date: 2006-10-05 13:37:34
 ---
 
 If you're even the tiniest bit musical, or are perhaps daunted by the professionalism -- and subscriptions -- of some of the local Choirs, why not sample the newest venture, a Community Choir, being set up by Richmond College lecturer Caroline Heslop. Repertoire will range from classics to shows, blues to opera, and, most importantly, no previous experience is required (none of us at the first session could read a note, but we had great fun, and we got to make music). Rehearsals are Wednesday, 6.30pm - 8.00pm in the Music Centre, Richmond College, Egerton Road. The cost, just &pound;2.00 (&pound;1.00 concessions). You'll be made very welcome.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-05-fancy_a_good_si in site.data.2006-10-05-fancy_a_good_si %}
-       <li>
-
-         {{ 2006-10-05-fancy_a_good_si.comment }}
-
-         <cite>{{ 2006-10-05-fancy_a_good_si.author }} on {{ 2006-10-05-fancy_a_good_si.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

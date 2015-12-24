@@ -67,21 +67,3 @@ bq.. "We are naturally disappointed that the new station that Twickenham despera
 
 
 <cite>"Richmond Council press release - 26 October 2012":http://richmond.gov.uk/council_twickenham_station</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-10-27-judicial_review_for_twickenham_station in site.data.2012-10-27-judicial_review_for_twickenham_station %}
-       <li>
-
-         {{ 2012-10-27-judicial_review_for_twickenham_station.comment }}
-
-         <cite>{{ 2012-10-27-judicial_review_for_twickenham_station.author }} on {{ 2012-10-27-judicial_review_for_twickenham_station.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

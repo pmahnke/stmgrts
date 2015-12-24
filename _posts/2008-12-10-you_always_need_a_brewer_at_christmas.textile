@@ -5,7 +5,7 @@ permalink: /archives/2008/12/you_always_need_a_brewer_at_christmas.html
 category: around_town
 date: 2008-12-10 15:39:52
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/book_dict.jpg"><img src="http://www.stmgrts.org.uk/images/book_dict-thumb.jpg" width="93" height="150" alt="17th Edition" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/book_dict.jpg"><img src="//stmgrts.org.uk/assets/images/2008/book_dict-thumb.jpg" width="93" height="150" alt="17th Edition" class="photo right" /></a>
     
     
     One of the most interesting and useful books that you will ever read was first compiled in 1870 by Dr. Ebenezer Cobham Brewer. While writing a series of educational books for children Dr Brewer began to sense there was a new type of reader out there, literate but not educated in the academic sense who wanted more from books than just pure entertainment. What they were looking for, Dr Brewer surmised, was self-improvement, moral guidance and the satisfaction of simple curiosity and enquiry.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/book_dict.jpg"><img src="http://www.stmgrts.org.uk/images/book_dict-thumb.jpg" width="93" height="150" alt="17th Edition" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/book_dict.jpg"><img src="//stmgrts.org.uk/assets/images/2008/book_dict-thumb.jpg" width="93" height="150" alt="17th Edition" class="photo right" /></a>
 
 
 One of the most interesting and useful books that you will ever read was first compiled in 1870 by Dr. Ebenezer Cobham Brewer. While writing a series of educational books for children Dr Brewer began to sense there was a new type of reader out there, literate but not educated in the academic sense who wanted more from books than just pure entertainment. What they were looking for, Dr Brewer surmised, was self-improvement, moral guidance and the satisfaction of simple curiosity and enquiry.
@@ -47,7 +47,7 @@ The paupers sit at the tables
 For this is the hour they dine.
 
 <div class="img_caption center" clear="both">
-<a href="http://www.stmgrts.org.uk/images/workhouse_woodcut.jpg"><img src="http://www.stmgrts.org.uk/images/workhouse_woodcut-thumb.jpg" width="300" height="268" alt="photo" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/workhouse_woodcut.jpg"><img src="//stmgrts.org.uk/assets/images/2008/workhouse_woodcut-thumb.jpg" width="300" height="268" alt="photo" /></a>
 
 <span>CHRISTMAS DAY OUTSIDE THE WORKHOUSE</span>
 </div>
@@ -83,7 +83,3 @@ bq. "What a fussy old gentleman Dr. Brewer is. I find it very tedious to humour 
 Clearly Ebenezer Brewer was a man well ahead of his time. Not for him the dull stodgy pages of tedium that passed for Victorian literature. He was into the delights of fact and fable, tittle tattle and trivia and all those nuggets of knowledge that today are deemed necessary for a well rounded education. What a great pub quizzer he would have made!
 
 Dr Brewer died at Edwinstone in Nottinghamshire on March 6, 1897 after a long life spent with his nose stuck into a book. His _'Dictionary of Phrase and Fable'_ survives to this present day, enlarged and edited over the years but still true to his wish that it remained an "alms-basket of words".  If you are stuck for as present to buy that nosy niece or enquiring uncle the 17th edition of this marvellous treasure is now available for less than &pound;20 from most bookshops. Every page is a delight and a most suitable gift for anyone with a love of trivia pursued to the point of madness!
-
-
-
-

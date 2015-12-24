@@ -5,7 +5,7 @@ permalink: /archives/2008/08/great_annual_street_sale_september_6th_its_a_guara.
 category: around_town
 date: 2008-08-27 09:09:44
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/GasDay200622.jpg"><img src="http://www.stmgrts.org.uk/images/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/GasDay200622.jpg"><img src="//stmgrts.org.uk/assets/images/2008/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
     
     
     When they start handing out medals for the "Most Dynamic Community Group of the Year", at the very front of the queue will be NSMRA... the mighty 'North St Margarets Residents' Association'. Their record of community activities ranges from regular dances, quizzes and children's parties through to their signature event - GASS Day - the Great Annual Street Sale, which takes place on Saturday 6th September from 2.00pm.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/GasDay200622.jpg"><img src="http://www.stmgrts.org.uk/images/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2008/GasDay200622.jpg"><img src="//stmgrts.org.uk/assets/images/2008/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
 
 
 When they start handing out medals for the "Most Dynamic Community Group of the Year", at the very front of the queue will be NSMRA... the mighty 'North St Margarets Residents' Association'. Their record of community activities ranges from regular dances, quizzes and children's parties through to their signature event - GASS Day - the Great Annual Street Sale, which takes place on Saturday 6th September from 2.00pm.
@@ -27,24 +27,3 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 "Here is a link to a map...":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
 
 Put a note into your diary... GREAT ANNUAL STREET SALE  - September 6<sup>th</sup> from 2.00pm.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-08-27-great_annual_street_sale_september_6th_its_a_guara in site.data.2008-08-27-great_annual_street_sale_september_6th_its_a_guara %}
-       <li>
-
-         {{ 2008-08-27-great_annual_street_sale_september_6th_its_a_guara.comment }}
-
-         <cite>{{ 2008-08-27-great_annual_street_sale_september_6th_its_a_guara.author }} on {{ 2008-08-27-great_annual_street_sale_september_6th_its_a_guara.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

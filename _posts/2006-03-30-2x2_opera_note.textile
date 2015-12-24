@@ -25,23 +25,3 @@ Thank you once again for your support,
 
 Deborah (for 2x2 Opera) 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-30-2x2_opera_note in site.data.2006-03-30-2x2_opera_note %}
-       <li>
-
-         {{ 2006-03-30-2x2_opera_note.comment }}
-
-         <cite>{{ 2006-03-30-2x2_opera_note.author }} on {{ 2006-03-30-2x2_opera_note.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

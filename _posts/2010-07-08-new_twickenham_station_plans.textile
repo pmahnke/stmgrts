@@ -41,7 +41,3 @@ Solum intends to submit a planning application for the main development project 
 h4. Additional links
 
 * "Richmond Council impact assessment":http://www.richmond.gov.uk/home/environment/planning/environmental_impact_assessments.htm
-
-
-
-

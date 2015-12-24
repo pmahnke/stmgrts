@@ -5,7 +5,7 @@ permalink: /archives/2014/06/event_reminder_twickenham_carnival_15_june_2014.htm
 category: around_town
 date: 2014-06-10 22:39:40
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="http://www.stmgrts.org.uk/images//Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="//stmgrts.org.uk/assets/images/2014/Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
     
     _Twickenham will once again come to life with the sights and sounds of Carnival!_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="http://www.stmgrts.org.uk/images//Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="//stmgrts.org.uk/assets/images/2014/Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
 
 _Twickenham will once again come to life with the sights and sounds of Carnival!_
 
@@ -29,22 +29,3 @@ h4. More Information
 * 0208 831 6000
 * "artsinfo@richmond.gov.uk":mailto:artsinfo@richmond.gov.uk
 * "www.richmond.gov.uk/Twickenham_carnival":http://www.richmond.gov.uk/Twickenham_carnival
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-06-10-event_reminder_twickenham_carnival_15_june_2014 in site.data.2014-06-10-event_reminder_twickenham_carnival_15_june_2014 %}
-       <li>
-
-         {{ 2014-06-10-event_reminder_twickenham_carnival_15_june_2014.comment }}
-
-         <cite>{{ 2014-06-10-event_reminder_twickenham_carnival_15_june_2014.author }} on {{ 2014-06-10-event_reminder_twickenham_carnival_15_june_2014.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

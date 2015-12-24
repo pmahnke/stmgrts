@@ -5,7 +5,7 @@ permalink: /archives/2011/02/the_death_of_silas_ping.html
 category: around_town
 date: 2011-02-03 21:06:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//SILAS_gamekeeper.png" title="See larger version of - Game keeper"><img src="http://www.stmgrts.org.uk/images//SILAS_gamekeeper_thumb.png" width="150" height="172" alt="Game keeper - courtesy of Life Magazine" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/SILAS_gamekeeper.png" title="See larger version of - Game keeper"><img src="//stmgrts.org.uk/assets/images/2011/SILAS_gamekeeper_thumb.png" width="150" height="172" alt="Game keeper - courtesy of Life Magazine" class="photo right" /></a>
     
     
     In the early hours of a moonlit night in late July 1722 a man called Silas Ping was killed on Twickenham Warren. The man accused of his death was William Chunn, the local Warrener responsible for the care of the warren and the rabbits that lived there. He was arrested and taken into custody.
@@ -22,7 +22,7 @@ When looking back through the records of past crimes there is a temptation to fo
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/images//SILAS_gamekeeper.png" title="See larger version of - Game keeper"><img src="http://www.stmgrts.org.uk/images//SILAS_gamekeeper_thumb.png" width="150" height="172" alt="Game keeper - courtesy of Life Magazine" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/SILAS_gamekeeper.png" title="See larger version of - Game keeper"><img src="//stmgrts.org.uk/assets/images/2011/SILAS_gamekeeper_thumb.png" width="150" height="172" alt="Game keeper - courtesy of Life Magazine" class="photo right" /></a>
 
 
 In the early hours of a moonlit night in late July 1722 a man called Silas Ping was killed on Twickenham Warren. The man accused of his death was William Chunn, the local Warrener responsible for the care of the warren and the rabbits that lived there. He was arrested and taken into custody.
@@ -32,7 +32,7 @@ On Friday 7<sup>th</sup> September 1722, the Right Honourable Sir  William Stewa
 William Chunn knew all about rabbits which were an important and convenient source of food at the time. His family had been looking after rabbit warrens in the Twickenham area from the early 1600s. Now he was charged with murder and manslaughter.
 
 
-<a href="http://www.stmgrts.org.uk/images//SILAS_poachers-apprehended.png" title="See larger version of - Poachers apprehended"><img src="http://www.stmgrts.org.uk/images//SILAS_poachers-apprehended_thumb.png" width="150" height="136" alt="Poachers apprehended" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/SILAS_poachers-apprehended.png" title="See larger version of - Poachers apprehended"><img src="//stmgrts.org.uk/assets/images/2011/SILAS_poachers-apprehended_thumb.png" width="150" height="136" alt="Poachers apprehended" class="photo right" /></a>
 
 
 Thomas Brown, a witness for the prosecution, said that about 2.00am he was walking about 160 yards from Twickenham Warren with Silas Ping and John Screen. Thomas Brown said that he was carrying a flail and John Screen a hedge stake. They were accompanied by 3 dogs. According to Thomas Brown they were approached by William Chunn who was carrying a quarterstaff, a 2 metre long hardwood shaft used for personal defence. When Chunn knocked Silas Ping down to the ground Brown and Screen ran off into the night.
@@ -47,7 +47,7 @@ William Chunn sent for Mathias Perkins, the local surgeon barber, to come and ta
 
 bq. "When he came be found him dead. That he opened the Head, and saw the Skull broke, which was the cause of his death. Not far from the prisoner, he found a Cony (a rabbit) newly kill'd."
 
-<a href="http://www.stmgrts.org.uk/images//SILAS_Judges.png" title="See larger version of - Judges by William Hogarth"><img src="http://www.stmgrts.org.uk/images//SILAS_Judges_thumb.png" width="150" height="113" alt="Judges by William Hogarth" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/SILAS_Judges.png" title="See larger version of - Judges by William Hogarth"><img src="//stmgrts.org.uk/assets/images/2011/SILAS_Judges_thumb.png" width="150" height="113" alt="Judges by William Hogarth" class="photo right" /></a>
 
 This was the only statement in the court records suggesting that Silas Ping and his two friends, Thomas Brown and John Screen, might have been poaching but it was enough for the judge and the jury. William Chunn, the Warrener from Twickenham, was acquitted on grounds of self defense (se defendendo) and released. Thomas Brown, the witness for the prosecution, was taken into custody accused of poaching.
 
@@ -62,7 +62,3 @@ Set against the grand events of history the death in 1722 of a virtually unknown
 _CREDIT: The picture of the Judges is by William Hogarth. The picture of the Gamekeeper is courtesy of Life Magazine - copyright free._
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

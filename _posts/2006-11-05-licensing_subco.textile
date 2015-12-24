@@ -16,24 +16,3 @@ Harry Jacobs who has complained to the Court said --
 bq. "Whilst the 2003 Licensing Act states that only a person living in the vicinity of the premises has the right to be an 'interested party', it very clearly also states in terms of defining vicinity -  'each case must be considered on its own merits'. Parvinu at Phelps has been a contentious issue from its inception, mainly because of its size - 180 patrons.  For the Chairman to immediately dismiss two thirds of the complainants on the basis of a decision taken elsewhere in the country certainly wasn't the spirit or intent of the 2003 Act, especially as in reality all but one of those excluded complainants live within 1500ft of the proposed venue.  My primary aim is to get the hearing re-heard without this time effectively disenfranchising the majority of the complainants for the wrong reasons."
 
 p. The hearing is 9.45 am on the 30th of November at Richmond Magistrates' Court in Parkshot.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-05-licensing_subco in site.data.2006-11-05-licensing_subco %}
-       <li>
-
-         {{ 2006-11-05-licensing_subco.comment }}
-
-         <cite>{{ 2006-11-05-licensing_subco.author }} on {{ 2006-11-05-licensing_subco.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

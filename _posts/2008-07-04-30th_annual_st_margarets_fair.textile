@@ -5,7 +5,7 @@ permalink: /archives/2008/07/30th_annual_st_margarets_fair.html
 category: around_town
 date: 2008-07-04 08:27:30
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="http://www.stmargaretsfair.org/images/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+    <a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2008/SMFLogo180.gif" height="150" width="150" class="right"/></a>
     
     This year the Fair will be on Saturday 12th July starting at 12.00
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="http://www.stmargaretsfair.org/images/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2008/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 This year the Fair will be on Saturday 12th July starting at 12.00
 
@@ -59,21 +59,3 @@ h4. Saturday 12th July 2008
 |1800 - 1830|The Retrobates – a young band with a great variety of covers, from the 50's till the present.|(music stage)|
 |1830 - 1845|Charity Auction time |(music stage)|
 |1900 - 1930|Nark Drool & The Shudders - ramming back the ’rama lama ding dong!’ into toe-tapping rock ‘n’ roll classics,|(music stage)|
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-07-04-30th_annual_st_margarets_fair in site.data.2008-07-04-30th_annual_st_margarets_fair %}
-       <li>
-
-         {{ 2008-07-04-30th_annual_st_margarets_fair.comment }}
-
-         <cite>{{ 2008-07-04-30th_annual_st_margarets_fair.author }} on {{ 2008-07-04-30th_annual_st_margarets_fair.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

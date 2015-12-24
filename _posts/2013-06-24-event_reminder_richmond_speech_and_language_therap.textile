@@ -5,13 +5,13 @@ permalink: /archives/2013/06/event_reminder_richmond_speech_and_language_therap.
 category: around_town
 date: 2013-06-24 21:45:23
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//SLT-Launch-Flyer-20130703.jpg" title="See larger version of - SLT Launch Flyer 20130703"><img src="http://www.stmgrts.org.uk/images//SLT-Launch-Flyer-20130703_thumb.jpg" width="150" height="212" alt="SLT Launch Flyer 20130703" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/SLT-Launch-Flyer-20130703.jpg" title="See larger version of - SLT Launch Flyer 20130703"><img src="//stmgrts.org.uk/assets/images/2013/SLT-Launch-Flyer-20130703_thumb.jpg" width="150" height="212" alt="SLT Launch Flyer 20130703" class="photo right" /></a>
     
     Richmond Speech and Language Therapy Service are holding "an open-day event on Wednesday 3 July":http://www.stmgrts.org.uk/event/event/200705144027 for parents, children and professionals to drop-in and find out more about the services the team provides.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//SLT-Launch-Flyer-20130703.jpg" title="See larger version of - SLT Launch Flyer 20130703"><img src="http://www.stmgrts.org.uk/images//SLT-Launch-Flyer-20130703_thumb.jpg" width="150" height="212" alt="SLT Launch Flyer 20130703" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/SLT-Launch-Flyer-20130703.jpg" title="See larger version of - SLT Launch Flyer 20130703"><img src="//stmgrts.org.uk/assets/images/2013/SLT-Launch-Flyer-20130703_thumb.jpg" width="150" height="212" alt="SLT Launch Flyer 20130703" class="photo right" /></a>
 
 Richmond Speech and Language Therapy Service are holding "an open-day event on Wednesday 3 July":http://www.stmgrts.org.uk/event/event/200705144027 for parents, children and professionals to drop-in and find out more about the services the team provides.
 
@@ -28,7 +28,3 @@ h4. Programme
 h4. More Information
 
 * Venue: Clarendon Hall, York House, Richmond Road, Twickenham, TW1 3AA
-
-
-
-

@@ -5,32 +5,12 @@ permalink: /archives/2011/08/trial_richmondcards_expire_soon.html
 category: news
 date: 2011-08-19 20:32:52
 excerpt: |
-    <img src="http://www.richmond.gov.uk/richmondcard_image" width="150" class="right" alt="parking card" />
+    <img src="//stmgrts.org.uk/assets/images/2011/richmondcard_image" width="150" class="right" alt="parking card" />
     
     Over the past two months thousands of residents have been using a free trial RichmondCard - these are due to expire on the 31 August 2011. If you have a trial card and would like to continue to receive benefits such as up to 30 minutes' free parking and 10% discount on longer stays, "register now":http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/parking_meters/richmondcard.htm.
 
 ---
 
-<img src="http://www.richmond.gov.uk/richmondcard_image" width="150" class="right" alt="parking card" />
+<img src="//stmgrts.org.uk/assets/images/2011/richmondcard_image" width="150" class="right" alt="parking card" />
 
 Over the past two months thousands of residents have been using a free trial RichmondCard - these are due to expire on the 31 August 2011. If you have a trial card and would like to continue to receive benefits such as up to 30 minutes' free parking and 10% discount on longer stays, "register now":http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/parking_meters/richmondcard.htm.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-08-19-trial_richmondcards_expire_soon in site.data.2011-08-19-trial_richmondcards_expire_soon %}
-       <li>
-
-         {{ 2011-08-19-trial_richmondcards_expire_soon.comment }}
-
-         <cite>{{ 2011-08-19-trial_richmondcards_expire_soon.author }} on {{ 2011-08-19-trial_richmondcards_expire_soon.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

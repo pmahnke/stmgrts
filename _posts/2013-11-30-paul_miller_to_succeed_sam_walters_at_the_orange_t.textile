@@ -5,13 +5,13 @@ permalink: /archives/2013/11/paul_miller_to_succeed_sam_walters_at_the_orange_t.
 category: news
 date: 2013-11-30 13:24:31
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//ORANGETREE_paulmiller.jpg" title="See larger version of - Paul Miller"><img src="http://www.stmgrts.org.uk/images//ORANGETREE_paulmiller_thumb.jpg" width="150" height="191" alt="Paul Miller" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/ORANGETREE_paulmiller.jpg" title="See larger version of - Paul Miller"><img src="//stmgrts.org.uk/assets/images/2013/ORANGETREE_paulmiller_thumb.jpg" width="150" height="191" alt="Paul Miller" class="photo right" /></a>
     
     We're delighted to announce the appointment of Paul Miller as the next Artistic Director of the Orange Tree Theatre. He is currently an Associate Director at Sheffield Crucible. He will succeed Sam Walters, who founded the Theatre in 1971, in July 2014.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//ORANGETREE_paulmiller.jpg" title="See larger version of - Paul Miller"><img src="http://www.stmgrts.org.uk/images//ORANGETREE_paulmiller_thumb.jpg" width="150" height="191" alt="Paul Miller" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/ORANGETREE_paulmiller.jpg" title="See larger version of - Paul Miller"><img src="//stmgrts.org.uk/assets/images/2013/ORANGETREE_paulmiller_thumb.jpg" width="150" height="191" alt="Paul Miller" class="photo right" /></a>
 
 We're delighted to announce the appointment of Paul Miller as the next Artistic Director of the Orange Tree Theatre. He is currently an Associate Director at Sheffield Crucible. He will succeed Sam Walters, who founded the Theatre in 1971, in July 2014.
 
@@ -22,7 +22,3 @@ Commenting on his appointment, Paul Miller said: "I am thrilled and honoured to 
 Paul Miller has been an Associate Director at Sheffield Crucible since 2009, and has also worked at the National Theatre, Bush Theatre, Royal Court, and in the West End.
 
 * "More information":http://www.orangetreetheatre.co.uk/news/21-11-13/paul-miller-appointed-the-next-artistic-director-the-orange-tree-theatre?dm_i=1EJ0,202Q9,73ZPBI,779XH,1
-
-
-
-

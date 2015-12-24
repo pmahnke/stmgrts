@@ -5,7 +5,7 @@ permalink: /archives/2010/09/sunday_dropin_workshops_at_orleans_house_gallery.ht
 category: around_town
 date: 2010-09-13 09:07:14
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/martin_cheek_mosaic.jpg" title="See larger version of - Martin Cheek Mosaic"><img src="http://www.stmgrts.org.uk/images/events/martin_cheek_mosaic_thumb.jpg" width="150" height="110" alt="Martin Cheek Mosaic" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/martin_cheek_mosaic.jpg" title="See larger version of - Martin Cheek Mosaic"><img src="//stmgrts.org.uk/assets/images/2010/martin_cheek_mosaic_thumb.jpg" width="150" height="110" alt="Martin Cheek Mosaic" class="photo right" /></a>
     
     Come and work with renowned mosaic artist Martin Cheek to create funky animals from fused glass. These will be used to decorate planters for the Croft Centre garden and will be on permanent display.
      
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/martin_cheek_mosaic.jpg" title="See larger version of - Martin Cheek Mosaic"><img src="http://www.stmgrts.org.uk/images/events/martin_cheek_mosaic_thumb.jpg" width="150" height="110" alt="Martin Cheek Mosaic" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/martin_cheek_mosaic.jpg" title="See larger version of - Martin Cheek Mosaic"><img src="//stmgrts.org.uk/assets/images/2010/martin_cheek_mosaic_thumb.jpg" width="150" height="110" alt="Martin Cheek Mosaic" class="photo right" /></a>
 
 
 For families, children and young people, particularly suitable for those with additional needs.
@@ -47,6 +47,3 @@ Orleans House Gallery, Riverside, Twickenham, TW1 3DJ
 Tel: 020 8831 6000
 Email: betsy.lewisholmes@richmond.gov.uk
 Website: www.richmond.gov.uk/arts
-
-
-

@@ -12,23 +12,3 @@ bq. "A number of us in Godstone Road are forming an action group relating to the
 -- _from Madeleine Menzies_
 
 To help, we have set up a "forum":http://stmgrts.org.uk/cgi-bin/yabb/YaBB.pl?board=lease where residents can discuss this issue.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-05-08-godstone_lease_extension_forum in site.data.2007-05-08-godstone_lease_extension_forum %}
-       <li>
-
-         {{ 2007-05-08-godstone_lease_extension_forum.comment }}
-
-         <cite>{{ 2007-05-08-godstone_lease_extension_forum.author }} on {{ 2007-05-08-godstone_lease_extension_forum.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

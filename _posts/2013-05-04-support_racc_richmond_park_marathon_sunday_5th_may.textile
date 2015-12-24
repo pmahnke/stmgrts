@@ -5,14 +5,14 @@ permalink: /archives/2013/05/support_racc_richmond_park_marathon_sunday_5th_may.
 category: around_town
 date: 2013-05-04 15:33:38
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//geoff_richmond_run_2013.jpg" title="See larger version of - geoff richmond run 2013"><img src="http://www.stmgrts.org.uk/images//geoff_richmond_run_2013_thumb.jpg" width="150" height="90" alt="geoff richmond run 2013" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/geoff_richmond_run_2013.jpg" title="See larger version of - geoff richmond run 2013"><img src="//stmgrts.org.uk/assets/images/2013/geoff_richmond_run_2013_thumb.jpg" width="150" height="90" alt="geoff richmond run 2013" class="photo right" /></a>
     
     We have a team of six running the Richmond Park Marathon this Sunday to raise money for learners with learning difficulties and disabilities (LLDD students) at Richmond Adult Community College
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//geoff_richmond_run_2013.jpg" title="See larger version of - geoff richmond run 2013"><img src="http://www.stmgrts.org.uk/images//geoff_richmond_run_2013_thumb.jpg" width="150" height="90" alt="geoff richmond run 2013" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/geoff_richmond_run_2013.jpg" title="See larger version of - geoff richmond run 2013"><img src="//stmgrts.org.uk/assets/images/2013/geoff_richmond_run_2013_thumb.jpg" width="150" height="90" alt="geoff richmond run 2013" class="photo right" /></a>
 
 We have a team of six running the Richmond Park Marathon this Sunday to raise money for learners with learning difficulties and disabilities (LLDD students) at Richmond Adult Community College
 
@@ -29,9 +29,3 @@ We have a target of &pound;3,000, so far we have raised just over &pound;2,000.
 Donate via the Portcullis Trust website - "www.portcullistrust.org.uk":http://www.portcullistrust.org.uk
 
 Please join us for a glass of cava at the finish line near Sheen Gate at approximately 1pm. Look for the Portcullis Trust gazebo.
-
-
-
-
-
-

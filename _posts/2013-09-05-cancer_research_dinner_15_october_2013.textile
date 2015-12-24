@@ -5,7 +5,7 @@ permalink: /archives/2013/09/cancer_research_dinner_15_october_2013.html
 category: around_town
 date: 2013-09-05 22:19:27
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="http://www.stmgrts.org.uk/images//cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="//stmgrts.org.uk/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
     
     
     _Dine with us and support Cancer Research UK MyProjects William's Group is Supporting Research into Childhood Cancers_
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="http://www.stmgrts.org.uk/images//cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="//stmgrts.org.uk/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
 
 
 _Dine with us and support Cancer Research UK MyProjects William's Group is Supporting Research into Childhood Cancers_
@@ -39,7 +39,3 @@ h4. More Information
 * All money donated to William's Group on CR-UK MyProjects, funds research into childhood cancers. Go to  "myprojects.cancerresearchuk.org/projects/treatments-for-childhood-cancer":http://myprojects.cancerresearchuk.org/projects/treatments-for-childhood-cancer   to find out more.
 
 _We really look forward to welcoming you on the 15<sup>th</sup> October 2013_
-
-
-
-

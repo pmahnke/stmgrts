@@ -7,7 +7,7 @@ date: 2012-01-05 10:18:57
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//jubilee_impression.jpg" title="See larger version of - jubilee impression"><img src="http://www.stmgrts.org.uk/images//jubilee_impression_thumb.jpg" width="150" height="129" alt="jubilee impression" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/jubilee_impression.jpg" title="See larger version of - jubilee impression"><img src="//stmgrts.org.uk/assets/images/2012/jubilee_impression_thumb.jpg" width="150" height="129" alt="jubilee impression" class="photo right" /></a>
 
 The first images of how Richmond Council will transform the derelict swimming pool on Twickenham Riverside into a new park and public square have been revealed.
 
@@ -18,23 +18,3 @@ An artist's impression and other drawings of the site have been made public by t
 h4. More Information
 
 * "view the plans":http://www.richmond.gov.uk/home/council_government_and_democracy/council/currentprojects/jubilee_gardens.htm
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-01-05-first_images_of_new_twickenham_pool_site_unveiled in site.data.2012-01-05-first_images_of_new_twickenham_pool_site_unveiled %}
-       <li>
-
-         {{ 2012-01-05-first_images_of_new_twickenham_pool_site_unveiled.comment }}
-
-         <cite>{{ 2012-01-05-first_images_of_new_twickenham_pool_site_unveiled.author }} on {{ 2012-01-05-first_images_of_new_twickenham_pool_site_unveiled.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

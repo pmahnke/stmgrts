@@ -14,25 +14,3 @@ There'll be stalls with some rather nice things to buy, including from local bus
 In the arena, we'll have music, dancing and competitions. And of course the caf&#233; and children's playground will be open too.
 
 If you are interested in taking a stall at the Fair - and there's been an amazing amount of interest so far - check out the information on our website "www.easttwickenham.org":http://www.easttwickenham.org and get your application in soon. If you would like to help organise the Fair, even if it's just for an hour on the day, we would be glad to have you join the team; please contact Helen Baker, the Fair organiser, on "focg.auth@gmail.com":mailto:focg.auth@gmail.com
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-03-01-interested_in_a_stall_at_the_east_twickenham_summe in site.data.2013-03-01-interested_in_a_stall_at_the_east_twickenham_summe %}
-       <li>
-
-         {{ 2013-03-01-interested_in_a_stall_at_the_east_twickenham_summe.comment }}
-
-         <cite>{{ 2013-03-01-interested_in_a_stall_at_the_east_twickenham_summe.author }} on {{ 2013-03-01-interested_in_a_stall_at_the_east_twickenham_summe.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

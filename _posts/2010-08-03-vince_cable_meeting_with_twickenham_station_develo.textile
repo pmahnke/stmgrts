@@ -14,25 +14,3 @@ This is an extract from an email sent to the Twickenham Action Group.
 bq. "Some of the environmental worries have been take into account - none of the new residents will be allowed parking permits -- but the footprint is still very large.  I have arranged to meet the developers on 6<sup>th</sup> August and will communicate residents' concerns."
 
 If your readers have concerns please email Dr Cable asap at the following address "cablev@parliament.uk":mailto:cablev@parliament.uk.
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-08-03-vince_cable_meeting_with_twickenham_station_develo in site.data.2010-08-03-vince_cable_meeting_with_twickenham_station_develo %}
-       <li>
-
-         {{ 2010-08-03-vince_cable_meeting_with_twickenham_station_develo.comment }}
-
-         <cite>{{ 2010-08-03-vince_cable_meeting_with_twickenham_station_develo.author }} on {{ 2010-08-03-vince_cable_meeting_with_twickenham_station_develo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

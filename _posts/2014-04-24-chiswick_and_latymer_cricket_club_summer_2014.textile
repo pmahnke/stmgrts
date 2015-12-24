@@ -5,7 +5,7 @@ permalink: /archives/2014/04/chiswick_and_latymer_cricket_club_summer_2014.html
 category: news
 date: 2014-04-24 21:59:58
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//A4-COLTS_PORTRAIT.jpg" title="See larger version of - COLTS poster"><img src="http://www.stmgrts.org.uk/images//A4-COLTS_PORTRAIT_thumb.jpg" width="150" height="212" alt="COLTS poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/A4-COLTS_PORTRAIT.jpg" title="See larger version of - COLTS poster"><img src="//stmgrts.org.uk/assets/images/2014/A4-COLTS_PORTRAIT_thumb.jpg" width="150" height="212" alt="COLTS poster" class="photo right" /></a>
     
     Our summer training programme has just started and we are keen for local children to come along and enjoy participating in cricket.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//A4-COLTS_PORTRAIT.jpg" title="See larger version of - COLTS poster"><img src="http://www.stmgrts.org.uk/images//A4-COLTS_PORTRAIT_thumb.jpg" width="150" height="212" alt="COLTS poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/A4-COLTS_PORTRAIT.jpg" title="See larger version of - COLTS poster"><img src="//stmgrts.org.uk/assets/images/2014/A4-COLTS_PORTRAIT_thumb.jpg" width="150" height="212" alt="COLTS poster" class="photo right" /></a>
 
 Our summer training programme has just started and we are keen for local children to come along and enjoy participating in cricket.
 
@@ -22,9 +22,3 @@ We are based at Whitton Park (190 Wills Crescent, Hounslow TW3 2JD) and training
 We now have 10 qualified and DBS (previously CRB) cleared coaches provided coaching to boys and girls of all school age groups.
 
 We run a u11s, u13s, u15s and u17 team in the Middlesex Colts Association competitions and arrange friendly games for children aged under 9.
-
-
-
-
-
-

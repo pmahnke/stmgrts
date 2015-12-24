@@ -17,23 +17,3 @@ The parking problems and restrictions in the area are well known and both trader
 Simon Chapman, chairman of the local Traders Association said; “We have been campaigning for this for a while as it will help local traders and improve customer service significantly by allowing short term stopping and preventing illegal parking in bus stops and on yellow lines. We hope the Council take a positive view and go ahead with the scheme as it will certainly help business in the difficult trading conditions we are now experiencing.”
 
 The petition will now be passed to David Trigg, the Cabinet Member for Transport for due consideration and discussion at the next appropriate Cabinet meeting.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-16-30_minutes_free in site.data.2006-06-16-30_minutes_free %}
-       <li>
-
-         {{ 2006-06-16-30_minutes_free.comment }}
-
-         <cite>{{ 2006-06-16-30_minutes_free.author }} on {{ 2006-06-16-30_minutes_free.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

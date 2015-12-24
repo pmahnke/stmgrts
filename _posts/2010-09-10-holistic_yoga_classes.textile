@@ -5,7 +5,7 @@ permalink: /archives/2010/09/holistic_yoga_classes.html
 category: around_town
 date: 2010-09-10 08:25:06
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//yoga.jpg" title="See larger version of - yoga icon"><img src="http://www.stmgrts.org.uk/images//yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmgrts.org.uk/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
     
     Your children have gone back to school and you are thinking about their activities, what about yours?
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//yoga.jpg" title="See larger version of - yoga icon"><img src="http://www.stmgrts.org.uk/images//yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmgrts.org.uk/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
 
 Your children have gone back to school and you are thinking about their activities, what about yours?
 
@@ -39,9 +39,3 @@ Contact Surya on:
 * "surya@blueyonder.co.uk":mailto:surya@blueyonder.co.uk
 
 _Surya's courses are open to all but she considers the needs of the individual by adapting postures. It is also designed to help and support those who may be living with or recovering from illness, injury or trauma._
-
-
-
-
-
-

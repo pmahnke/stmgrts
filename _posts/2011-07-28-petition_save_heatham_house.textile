@@ -5,7 +5,7 @@ permalink: /archives/2011/07/petition_save_heatham_house.html
 category: news
 date: 2011-07-28 18:44:55
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//heatham_poster.jpg" title="See larger version of - Heatham Poster"><img src="http://www.stmgrts.org.uk/images//heatham_poster_thumb.jpg" width="150" height="212" alt="Heatham Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/heatham_poster.jpg" title="See larger version of - Heatham Poster"><img src="//stmgrts.org.uk/assets/images/2011/heatham_poster_thumb.jpg" width="150" height="212" alt="Heatham Poster" class="photo right" /></a>
     
     An "online petition to save Heatham House":http://www.richmond.gov.uk/home/council_government_and_democracy/petitions/online_petitions/epetitions.htm?mgl=mgEPetitionDisplay.aspx&ID=42&RPID=7637922&HPID=7637922 has been started and runs until 4<sup>th</sup> October 2011 and has been created because;
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//heatham_poster.jpg" title="See larger version of - Heatham Poster"><img src="http://www.stmgrts.org.uk/images//heatham_poster_thumb.jpg" width="150" height="212" alt="Heatham Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/heatham_poster.jpg" title="See larger version of - Heatham Poster"><img src="//stmgrts.org.uk/assets/images/2011/heatham_poster_thumb.jpg" width="150" height="212" alt="Heatham Poster" class="photo right" /></a>
 
 An "online petition to save Heatham House":http://www.richmond.gov.uk/home/council_government_and_democracy/petitions/online_petitions/epetitions.htm?mgl=mgEPetitionDisplay.aspx&ID=42&RPID=7637922&HPID=7637922 has been started and runs until 4<sup>th</sup> October 2011 and has been created because;
 
@@ -28,24 +28,3 @@ bq.. "There is no Council plan to remove a youth facility in Twickenham. There h
 This Council will retain permanently a key youth facility in central Twickenham that has access to a significant green area. Any suggestion otherwise is totally without foundation."
 
 p. Why not have your say?
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-07-28-petition_save_heatham_house in site.data.2011-07-28-petition_save_heatham_house %}
-       <li>
-
-         {{ 2011-07-28-petition_save_heatham_house.comment }}
-
-         <cite>{{ 2011-07-28-petition_save_heatham_house.author }} on {{ 2011-07-28-petition_save_heatham_house.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

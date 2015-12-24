@@ -9,7 +9,7 @@ excerpt: |
 
 ---
 
-<a href="/images/events/Skaband.jpg" title="See larger version of - Ska Band"><img src="/images/events/Skaband_thumb.jpg" width="150" height="98" alt="Ska Band" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/Skaband.jpg" title="See larger version of - Ska Band"><img src="//stmgrts.org.uk/assets/images/2006/Skaband_thumb.jpg" width="150" height="98" alt="Ska Band" class="photo right" /></a>
 
 December will be ushered in with a special "Shooting Start Winter Party":http://www.stmgrts.org.uk/event/Show/200611021616 at the Turks Head on Friday 1st December in aid of The Shooting Star Children's Hospice. This will definitely put everyone in the mood for a festive Christmas period before getting bogged down with all that Christmas shopping.
 
@@ -17,9 +17,3 @@ With four terrific local Twickenham bands playing a wide range of music, from Mo
  
 The bands are giving up their time for free to ensure that all the money raised on the night goes direct to the charity and Karen Peffer from Shooting Star is certainly looking forward to it; "After the success of the first music night that took place in March, we are delighted that this second event is taking place in St Margarets and we hope lots of people will come and support us and enjoy the party!" 
 Tickets are &pound;5 on the door and the music starts at 8.00 pm  
-
-
-
-
-
-

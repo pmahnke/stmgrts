@@ -5,21 +5,21 @@ permalink: /archives/2010/05/william_cobbett_and_the_gin_drinkers_of_st_margare.
 category: around_town
 date: 2010-05-13 18:09:58
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//gin_williamhogarth-ginlane.jpg" title="See larger version of - Gin Drinkers"><img src="http://www.stmgrts.org.uk/images//gin_williamhogarth-ginlane_thumb.jpg" width="129" height="150" alt="Gin Drinkers" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/gin_williamhogarth-ginlane.jpg" title="See larger version of - Gin Drinkers"><img src="//stmgrts.org.uk/assets/images/2010/gin_williamhogarth-ginlane_thumb.jpg" width="129" height="150" alt="Gin Drinkers" class="photo right" /></a>
     
     On the morning of Wednesday September 25<sup>th</sup> 1822 William Cobbett and his son set out on horseback from Kensington in London for Uphusband, near Andover, in Hampshire, a journey that would take them across Richmond Bridge and through the small holdings, market gardens and country estates of Twickenham Park, an area that in less than 50 years time would be known as "St Margarets". This is what Cobbett saw and reported...
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//gin_Cobbett.jpg" title="See larger version of - Cobbett"><img src="http://www.stmgrts.org.uk/images//gin_Cobbett_thumb.jpg" width="142" height="150" alt="Cobbett" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/gin_Cobbett.jpg" title="See larger version of - Cobbett"><img src="//stmgrts.org.uk/assets/images/2010/gin_Cobbett_thumb.jpg" width="142" height="150" alt="Cobbett" class="photo right" /></a>
 
 bq. "The buildings consist generally of tax-eaters' showy, tea-garden-like boxes, and of shabby dwellings of labouring people who, in this part of the country, look to be dirty and have every appearance of drinking gin."
 
 William Cobbett was born in Farnham, Surrey in 1763, the son of a farmer and innkeeper. Between 1784 and 1791 he served in the Army but after blowing the whistle on military corruption he was forced to flee to America. There he started a new career as a journalist, publishing 12 volumes of attacks on American democracy and earning himself the pseudonym 'Peter Porcupine'. He returned to England in 1800 and in 1802 began publishing a weekly newsletter, the 'Political Register'. Cobbett saw himself as a champion of traditional rural society against the changes being brought about by the Industrial Revolution. He was a severe critic of proposals being made in Parliament to relieve poverty amongst agricultural workers, and in 1821 he set out on a series of rides through the countryside of south east England and the Midlands in order to see rural conditions for himself. His observations, known as 'Rural Rides', were first published in serial form in the 'Political Register' between 1822 to 1826.
 
 
-<a href="http://www.stmgrts.org.uk/images//gin_williamhogarth-ginlane.jpg" title="See larger version of - Gin Drinkers"><img src="http://www.stmgrts.org.uk/images//gin_williamhogarth-ginlane_thumb.jpg" width="129" height="150" alt="Gin Drinkers" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/gin_williamhogarth-ginlane.jpg" title="See larger version of - Gin Drinkers"><img src="//stmgrts.org.uk/assets/images/2010/gin_williamhogarth-ginlane_thumb.jpg" width="129" height="150" alt="Gin Drinkers" class="photo right" /></a>
 
 Cobbett was an active grassroots radical. In 1831 he was charged with seditious libel after writing a pamphlet entitled 'Rural War' in support of the Captain Swing Riots, which encouraged agricultural workers who were smashing farm machinery and burning haystacks. Cobbett conducted his own defence and he was so successful that the jury acquitted him.
 
@@ -33,7 +33,7 @@ His description of the rest of the population as being "about half St Giles" is 
 
 Having turned his nose up at our 19<sup>th</sup> century neighbours Cobbett and his son continued on their way to Uphusband passing through Chertsey. He didn't think much of that little market town either...
 
-<a href="http://www.stmgrts.org.uk/images//gin_map.png" title="See larger version of - map"><img src="http://www.stmgrts.org.uk/images//gin_map_thumb.png" width="150" height="121" alt="map" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/gin_map.png" title="See larger version of - map"><img src="//stmgrts.org.uk/assets/images/2010/gin_map_thumb.png" width="150" height="121" alt="map" class="photo right" /></a>
 
 At Chertsey, where we came into Surrey again, there was a fair for horses, cattle and pigs. I did nor see any sheep. Everything was exceedingly dull. Cart colts, two and three years old, were selling for less than a third of what they sold for in 1813. The cattle were of an inferior description to be sure; but the price was low almost beyond belief... I had no time to inquire much about the pigs, but a man told me that they were dirt-cheap.
 
@@ -48,22 +48,3 @@ bq. "I view the tea-drinking as a destroyer of health, an enfeebler of the frame
 He didn't think much of St Margarets either.
 
 <cite>--from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare in site.data.2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare %}
-       <li>
-
-         {{ 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare.comment }}
-
-         <cite>{{ 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare.author }} on {{ 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

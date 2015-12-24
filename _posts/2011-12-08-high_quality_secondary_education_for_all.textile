@@ -16,24 +16,3 @@ To address this, the Council outlined multiple ways in which secondary capacity 
 The Council is also working with secondary schools on the feasibility of introducing sixth forms, possibly as soon as September 2013, and is supporting schools that are working towards converting to academy status.
 
 <cite>"Continue reading on the Richmond Council website":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/december_2011_press_releases/high_quality_secondary_education_for_all.htm</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-12-08-high_quality_secondary_education_for_all in site.data.2011-12-08-high_quality_secondary_education_for_all %}
-       <li>
-
-         {{ 2011-12-08-high_quality_secondary_education_for_all.comment }}
-
-         <cite>{{ 2011-12-08-high_quality_secondary_education_for_all.author }} on {{ 2011-12-08-high_quality_secondary_education_for_all.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

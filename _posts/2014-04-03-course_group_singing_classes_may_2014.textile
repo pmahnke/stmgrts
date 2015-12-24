@@ -7,7 +7,7 @@ date: 2014-04-03 18:34:23
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//singing.jpg" title="See larger version of - singing"><img src="http://www.stmgrts.org.uk/images//singing_thumb.jpg" width="150" height="139" alt="singing" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/singing.jpg" title="See larger version of - singing"><img src="//stmgrts.org.uk/assets/images/2014/singing_thumb.jpg" width="150" height="139" alt="singing" class=" right" /></a>
 
 _Would you like to improve your singing abilities and confidence whilst having fun?_
 
@@ -27,22 +27,3 @@ h4. More Information
 * Strawberry Hill Golf Club is at Wellesley Road, Strawberry Hill, Middlesex TW2 5SD, next to Strawberry Hill train station
 
 _Also booking for 16<sup>th</sup> September 2014_
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-04-03-course_group_singing_classes_may_2014 in site.data.2014-04-03-course_group_singing_classes_may_2014 %}
-       <li>
-
-         {{ 2014-04-03-course_group_singing_classes_may_2014.comment }}
-
-         <cite>{{ 2014-04-03-course_group_singing_classes_may_2014.author }} on {{ 2014-04-03-course_group_singing_classes_may_2014.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

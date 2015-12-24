@@ -56,22 +56,3 @@ Yours sincerely
 ANDREW ROGERS
 
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-16-reply_to_reside in site.data.2006-03-16-reply_to_reside %}
-       <li>
-
-         {{ 2006-03-16-reply_to_reside.comment }}
-
-         <cite>{{ 2006-03-16-reply_to_reside.author }} on {{ 2006-03-16-reply_to_reside.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

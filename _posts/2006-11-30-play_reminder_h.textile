@@ -9,7 +9,7 @@ excerpt: |
 
 ---
 
-<img src="http://www.stmgrts.org.uk/images/humptyD-thumb.jpg" width="118" height="166" alt="Humpty D" class="right" />
+<img src="//stmgrts.org.uk/assets/images/2006/humptyD-thumb.jpg" width="118" height="166" alt="Humpty D" class="right" />
 
 *THE EGG MAN COMETH*
 
@@ -28,6 +28,3 @@ Telephone bookings are now open, and RSS members can buy tickets from the Box Of
 Humpty Dumpty is written by John Crocker with lyrics by Eric Gilder, and is directed by Claudette Williamson whom Press can contact for interview on 020 8891 4252, mobile 07929 367882.
 
 <em>-- from the Richmond Shakespeare Society</em>
-
-
-

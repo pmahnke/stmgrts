@@ -7,7 +7,7 @@ date: 2006-01-24 11:44:38
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/marblehill_back.jpg"><img src="http://www.stmgrts.org.uk/images/marblehill_back-thumb.jpg" width="150" height="112" alt="Marble Hill House" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/marblehill_back.jpg"><img src="//stmgrts.org.uk/assets/images/2006/marblehill_back-thumb.jpg" width="150" height="112" alt="Marble Hill House" class="photo right" /></a>
 
 English Heritage has applied for a new license to serve alcohol at Marble Hill Park from 10:30am to 11pm, Monday through Sunday and to 1:30pm for weddings, special functions and events.  The period of commenting on the application is closed.  
 
@@ -27,22 +27,3 @@ Please enter our poll.
 
 * "What do you think of English Heritage's license application for Marble Hill?":/cgi-bin/poll.cgi?pollname=marblehilllicense
 * "View the results":/cgi-bin/poll.cgi?pollname=marblehilllicense&action=results
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-01-24-english_heritag in site.data.2006-01-24-english_heritag %}
-       <li>
-
-         {{ 2006-01-24-english_heritag.comment }}
-
-         <cite>{{ 2006-01-24-english_heritag.author }} on {{ 2006-01-24-english_heritag.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

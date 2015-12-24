@@ -22,23 +22,3 @@ If you have a little one aged between 0 and 5 years come and join us at the *One
 
 
 More details "here":http://www.stmgrts.org.uk/directory/childrens/200704291443 
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-04-04-marble_hill_playcentres_reopening_7th_april in site.data.2008-04-04-marble_hill_playcentres_reopening_7th_april %}
-       <li>
-
-         {{ 2008-04-04-marble_hill_playcentres_reopening_7th_april.comment }}
-
-         <cite>{{ 2008-04-04-marble_hill_playcentres_reopening_7th_april.author }} on {{ 2008-04-04-marble_hill_playcentres_reopening_7th_april.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

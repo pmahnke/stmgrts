@@ -9,7 +9,7 @@ date: 2005-11-24 17:14:51
 
 Friday, the 9<sup>th</sup> of December from 4:30pm, Crown Road will be closed to traffic for this year's "St Margarets Christmas Fair":/cgi-bin/events.cgi?key=200511180803&action=getevent.  Events and attractions planned for the evening event include:
 
-<img alt="snowflake" src="http://www.stmgrts.org.uk/archives/snowflake-thumb.jpg" width="161" height="156"  class="right"/>
+<img alt="snowflake" src="//stmgrts.org.uk/assets/images/2005/snowflake-thumb.jpg" width="161" height="156"  class="right"/>
 
 * live music
 * a mini fun-fair
@@ -27,23 +27,3 @@ Friday, the 9<sup>th</sup> of December from 4:30pm, Crown Road will be closed to
 Stalls are still available for residents and charities as well.  If you are interested, contact Kim Hare at "Nigel Hare joinery":/cgi-bin/directory.cgi?key=200506291050&action=getlisting.  The prices are _free_ for charities, {-L}10 for residents and {-L}20 for businesses.
 
 Chase Buchanan are sponsoring "Santa's gingerbread cottage":/static/info/chase.html and the "RFU":/cgi-bin/directory.cgi?key=200506041442&action=getlisting are the main sponsors of our Christmas events.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-11-24-st_margarets_ch in site.data.2005-11-24-st_margarets_ch %}
-       <li>
-
-         {{ 2005-11-24-st_margarets_ch.comment }}
-
-         <cite>{{ 2005-11-24-st_margarets_ch.author }} on {{ 2005-11-24-st_margarets_ch.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

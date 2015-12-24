@@ -15,23 +15,3 @@ We are overwhelmed with furniture and very little space in our warehouse.  We ha
 
 
 "See details here":http://www.stmgrts.org.uk/event/exhibition/200705141667
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous in site.data.2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous %}
-       <li>
-
-         {{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.comment }}
-
-         <cite>{{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.author }} on {{ 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -26,21 +26,3 @@ Best wishes
 
 Gavin, Berkley and Tony
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-10-letter_from_par in site.data.2006-03-10-letter_from_par %}
-       <li>
-
-         {{ 2006-03-10-letter_from_par.comment }}
-
-         <cite>{{ 2006-03-10-letter_from_par.author }} on {{ 2006-03-10-letter_from_par.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

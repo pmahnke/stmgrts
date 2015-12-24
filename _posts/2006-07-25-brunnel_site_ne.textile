@@ -16,23 +16,3 @@ Many local resident groups are opposing this application.
 * "NSMRA":http://www.nsmra.co.uk/
 * "Planning Application":http://www.ukplanning.com/richmond/findCaseFile.do?appType=planning+folder&appNumber=06%2F2191%2FFUL&action=Search
 * "Comment on the Application":http://www.ukplanning.com/richmond/createComment.do?action=CreateApplicationComment&appNumber=06%2F2191%2FFUL
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-25-brunnel_site_ne in site.data.2006-07-25-brunnel_site_ne %}
-       <li>
-
-         {{ 2006-07-25-brunnel_site_ne.comment }}
-
-         <cite>{{ 2006-07-25-brunnel_site_ne.author }} on {{ 2006-07-25-brunnel_site_ne.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -29,21 +29,3 @@ Richmond Council is asking for feedback on this proposal with an online "questio
 * "article from thisislondon.co.uk":http://www.thisislondon.co.uk/news/article-23373151-details/Green%20parking%20charges%20to%20spark%20house%20price%20rise/article.do
 * Richmond Council's "proposed changes":http://richmond.gov.uk/home/council_government_and_democracy/council/contacts_consultation_feedback/current_council_consultations/co2_consultation.htm
 * Richmond Council "questionnaire":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=NAJupv7axm0
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-07-richmond_counci in site.data.2006-11-07-richmond_counci %}
-       <li>
-
-         {{ 2006-11-07-richmond_counci.comment }}
-
-         <cite>{{ 2006-11-07-richmond_counci.author }} on {{ 2006-11-07-richmond_counci.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

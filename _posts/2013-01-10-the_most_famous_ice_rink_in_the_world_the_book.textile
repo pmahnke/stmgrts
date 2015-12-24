@@ -5,13 +5,13 @@ permalink: /archives/2013/01/the_most_famous_ice_rink_in_the_world_the_book.html
 category: news
 date: 2013-01-10 21:06:10
 excerpt: |
-    <a href="http://www.twickenham-museum.org.uk/detail.asp?ContentID=336"><img src="http://www.twickenham-museum.org.uk/images/medium/medIce_Rink_1.jpg" width="150"  class="photo right" alt="Ice rink from Twickenham museum" /></a>
+    <a href="http://www.twickenham-museum.org.uk/detail.asp?ContentID=336"><img src="//stmgrts.org.uk/assets/images/2013/medIce_Rink_1.jpg" width="150"  class="photo right" alt="Ice rink from Twickenham museum" /></a>
     
     Richmond's iconic and much-missed Ice Rink may be long gone, but as we are discovering, it is certainly by no means forgotten. The riverside pleasure dome played such a central part in the lives of so many local people down the years, that even 20 years after it was controversially closed, a warm place is reserved in the hearts of many for the icy relic.
 
 ---
 
-<a href="http://www.twickenham-museum.org.uk/detail.asp?ContentID=336" title="inside Richmond Ice Rink"><img src="http://www.twickenham-museum.org.uk/images/medium/medIce_Rink_1.jpg" width="150"  class="photo right" alt="inside Richmond Ice Rink" /></a>
+<a href="http://www.twickenham-museum.org.uk/detail.asp?ContentID=336" title="inside Richmond Ice Rink"><img src="//stmgrts.org.uk/assets/images/2013/medIce_Rink_1.jpg" width="150"  class="photo right" alt="inside Richmond Ice Rink" /></a>
 
 Richmond's iconic and much-missed Ice Rink may be long gone, but as we are discovering, it is certainly by no means forgotten. The riverside pleasure dome played such a central part in the lives of so many local people down the years, that even 20 years after it was controversially closed, a warm place is reserved in the hearts of many for the icy relic.
 
@@ -30,7 +30,3 @@ or post to 29 Popes Avenue, Twickenham TW2 5TP
 
 * "www.twickenhamalive.com/rinkbook.html":http://www.twickenhamalive.com/rinkbook.html
 * "Example Book Entry":http://www.twickenhamalive.com/PDF/Richmond%20Rink%20-%20David%20King%201.pdf [pdf]
-
-
-
-

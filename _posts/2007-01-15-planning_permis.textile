@@ -14,8 +14,3 @@ bq.. "Can I draw residents attention to a planning application which has been su
 p. *Link*
 
 * " planning application online":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=06/3166/FUL
-
-
-
-
-

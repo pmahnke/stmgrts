@@ -10,23 +10,3 @@ date: 2015-07-02 22:54:12
 The Film Festival is a community event created by Twickenham Alive in 2013 which brings together filmmakers from the London Borough of Richmond upon Thames and allows audiences to see types of films that they would not otherwise see. This is a very successful non profit making event which is appreciated by those who take part either as filmmakers or as members of the audience.
  
 "Watch the winning films":http://www.twickenhamfilmfestival.com/films15.html
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-07-02-view_thetwickenham_alive_film_festival_winning_fil in site.data.2015-07-02-view_thetwickenham_alive_film_festival_winning_fil %}
-       <li>
-
-         {{ 2015-07-02-view_thetwickenham_alive_film_festival_winning_fil.comment }}
-
-         <cite>{{ 2015-07-02-view_thetwickenham_alive_film_festival_winning_fil.author }} on {{ 2015-07-02-view_thetwickenham_alive_film_festival_winning_fil.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

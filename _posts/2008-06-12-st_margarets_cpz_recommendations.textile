@@ -41,25 +41,3 @@ h4. Question 2 _"If the adjacent roads have a CPZ introduced would you then want
 
 4.12 Due to the analysis showing substantial support for a CPZ extension in Bridge Road and Winchester Road and that these roads are situated adjacent to the existing CPZ, it is recommended that the CPZ be extended to these two roads only at this time and that the situation be monitored and reviewed after the extension has been in operation for six months.  The review will provide the opportunity for any further extensions to the CPZ to be considered.
 </div>
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-06-12-st_margarets_cpz_recommendations in site.data.2008-06-12-st_margarets_cpz_recommendations %}
-       <li>
-
-         {{ 2008-06-12-st_margarets_cpz_recommendations.comment }}
-
-         <cite>{{ 2008-06-12-st_margarets_cpz_recommendations.author }} on {{ 2008-06-12-st_margarets_cpz_recommendations.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -27,24 +27,3 @@ TRAG spokesperson
 
 11 March 2013
 </div>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-03-12-trag_gets_permission_to_appeal_twickenham_station in site.data.2013-03-12-trag_gets_permission_to_appeal_twickenham_station %}
-       <li>
-
-         {{ 2013-03-12-trag_gets_permission_to_appeal_twickenham_station.comment }}
-
-         <cite>{{ 2013-03-12-trag_gets_permission_to_appeal_twickenham_station.author }} on {{ 2013-03-12-trag_gets_permission_to_appeal_twickenham_station.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

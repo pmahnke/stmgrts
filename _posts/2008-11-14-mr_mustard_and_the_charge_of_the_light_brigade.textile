@@ -5,7 +5,7 @@ permalink: /archives/2008/11/mr_mustard_and_the_charge_of_the_light_brigade.html
 category: news
 date: 2008-11-14 11:21:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/James_Mustard.jpg"><img src="http://www.stmgrts.org.uk/images/James_Mustard-thumb.jpg" width="93" height="150" alt="James Mustard" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/James_Mustard.jpg"><img src="//stmgrts.org.uk/assets/images/2008/James_Mustard-thumb.jpg" width="93" height="150" alt="James Mustard" class="photo right" /></a>
     
     If you had lived in St Margarets 150 years ago you may well have known Mr. Mustard. Like his father before him he was a tailor and lived in Winchester Road, or Turks Road as it was known then.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/James_Mustard.jpg"><img src="http://www.stmgrts.org.uk/images/James_Mustard-thumb.jpg" width="93" height="150" alt="James Mustard" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/James_Mustard.jpg"><img src="//stmgrts.org.uk/assets/images/2008/James_Mustard-thumb.jpg" width="93" height="150" alt="James Mustard" class="photo right" /></a>
 
 
 
@@ -42,7 +42,7 @@ We have to record the death of Sergt. James Mustard, the last survivor of the me
 James Alexander Mustard was born in Soho, London on 12<sup>th</sup> February 1830 to Thomas Mustard, a tailor and his wife Ann. In 1850 at the age of 20, James enlisted in the 3<sup>rd</sup> Light Dragoons and then two years later transferred to the 17<sup>th</sup> Lancers. At that time Britain was allied with the Ottoman Empire against the Russians who were encroaching  into their lands. In 1854 Britain sent troops to fight in the Crimea. James Mustard was one of them. As he commented later a private's life in the Crimea was very hard.
 
 
-<a href="http://www.stmgrts.org.uk/images/CatonWoodvilleLightBrigade.jpg"><img src="http://www.stmgrts.org.uk/images/CatonWoodvilleLightBrigade-thumb.jpg" width="150" height="85" alt="Charge of the Light Brigade" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/CatonWoodvilleLightBrigade.jpg"><img src="//stmgrts.org.uk/assets/images/2008/CatonWoodvilleLightBrigade-thumb.jpg" width="150" height="85" alt="Charge of the Light Brigade" class="photo right" /></a>
 
 
 
@@ -87,7 +87,3 @@ James Alexander Mustard (from Twickenham Museum)
 
 
 The Charge of the Light Brigade (from Twickenham Museum)
-
-
-
-

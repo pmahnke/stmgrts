@@ -21,25 +21,3 @@ We now deliver fresh food every morning on a 10 metre rigid.  Occasionally if vo
 The grocery delivery which happens on Monday - Saturday afternoons is done from a small box van, again unless there is a huge spike in volumes when we would then move to a 10ft rigid vehicle for this.
 
 We did look at consolidating the deliveries further but due to volumes of goods involved it was not possible."
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-21-tesco_comments in site.data.2006-07-21-tesco_comments %}
-       <li>
-
-         {{ 2006-07-21-tesco_comments.comment }}
-
-         <cite>{{ 2006-07-21-tesco_comments.author }} on {{ 2006-07-21-tesco_comments.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

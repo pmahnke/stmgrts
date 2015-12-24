@@ -7,7 +7,7 @@ date: 2011-07-14 15:08:42
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="http://www.stmargaretsfair.org/images/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2011/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 Don't forget that this Saturday, 16 July 2011, from 12 - 7.45pm, is the 33<sup>rd</sup> Annual St Margarets Fair in Moormead Park.
 
@@ -24,25 +24,3 @@ Don't forget that this Saturday, 16 July 2011, from 12 - 7.45pm, is the 33<sup>r
 <p>All profits from these stalls go direct to our charities - please support these stalls. See how we spend the <a href="http://www.stmargaretsfair.org/charities.html">money</a>.</p>
 
 <p>For more information: <a href="http://www.stmargaretsfair.org/">www.stmargaretsfair.org</a></p>
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-07-14-event_reminder_st_margarets_fair_16_july_2011_1 in site.data.2011-07-14-event_reminder_st_margarets_fair_16_july_2011_1 %}
-       <li>
-
-         {{ 2011-07-14-event_reminder_st_margarets_fair_16_july_2011_1.comment }}
-
-         <cite>{{ 2011-07-14-event_reminder_st_margarets_fair_16_july_2011_1.author }} on {{ 2011-07-14-event_reminder_st_margarets_fair_16_july_2011_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

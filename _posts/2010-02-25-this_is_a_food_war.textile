@@ -5,7 +5,7 @@ permalink: /archives/2010/02/this_is_a_food_war.html
 category: around_town
 date: 2010-02-25 20:31:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/austerity_1.png" title="See larger version of - Dig for Victory"><img src="http://www.stmgrts.org.uk/images/events/austerity_1_thumb.png" width="98" height="150" alt="Dig for Victory" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/austerity_1.png" title="See larger version of - Dig for Victory"><img src="//stmgrts.org.uk/assets/images/2010/austerity_1_thumb.png" width="98" height="150" alt="Dig for Victory" class="photo right" /></a>
     
     
     bq.. "Those who have the will to win,
@@ -27,7 +27,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/austerity_1.png" title="See larger version of - Dig for Victory"><img src="http://www.stmgrts.org.uk/images/events/austerity_1_thumb.png" width="98" height="150" alt="Dig for Victory" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/austerity_1.png" title="See larger version of - Dig for Victory"><img src="//stmgrts.org.uk/assets/images/2010/austerity_1_thumb.png" width="98" height="150" alt="Dig for Victory" class="photo right" /></a>
 
 
 bq.. "Those who have the will to win,
@@ -78,13 +78,13 @@ Miss Mary Bridget O'Sullivan was fined a total of ten pounds, with costs, for pe
 </div>
 
 
-<a href="http://www.stmgrts.org.uk/images//austerity_2.png" title="See larger version of - POTATO PETE"><img src="http://www.stmgrts.org.uk/images//austerity_2_thumb.png" width="150" height="102" alt="POTATO PETE" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/austerity_2.png" title="See larger version of - POTATO PETE"><img src="//stmgrts.org.uk/assets/images/2010/austerity_2_thumb.png" width="150" height="102" alt="POTATO PETE" class="photo right" /></a>
 
 Although food was in short supply and some of it was of dubious provenance...anyone who lived through the war will never forget the notorious "snoek" canned fish from South Africa, &frac14;&frac12;d a tin, and described by many as 'slimy'...the general health of the nation actually improved as the population lost weight and took more exercise. Great efforts were made by the Ministry of Food to ensure fairness of supply, nutritional value and variety. As well as producing reams of information on growing food, effective food management and new recipes, the government also created cute cartoon characters like Potato Pete and Dr Carrot who encouraged healthy eating with slogans like "I make a good soup," and "Carrots help you see in the blackout."
 
 There were also radio programmes like "The Kitchen Front" which was broadcast at 8.15 every morning. With popular, well-informed presenters like Marguerite Patten, Ambrose Heath and Freddy "Ricepud" Grisewood these programmes would discuss current food issues, answer questions from listeners and introduce new ration-beating recipes.
 
-<a href="http://www.stmgrts.org.uk/images//austerity_3.png" title="See larger version of - LORD WOOLTON"><img src="http://www.stmgrts.org.uk/images//austerity_3_thumb.png" width="105" height="150" alt="LORD WOOLTON" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/austerity_3.png" title="See larger version of - LORD WOOLTON"><img src="//stmgrts.org.uk/assets/images/2010/austerity_3_thumb.png" width="105" height="150" alt="LORD WOOLTON" class="photo right" /></a>
 
 
 One of the most famous of these was 'Lord Woolton Pie', created at the Savoy Hotel by Maitre de Cuisine, Francis Latry and named after the Minister of Food, Frederick Marquis, 1<sup>st</sup> Lord Woolton. Although it came in various forms Woolton Pie was essentially boiled seasonal vegetables in a simple white herb sauce covered either in pastry or mashed potatoes with a little grated cheese... if you had any. The peelings from the vegetables would be crisped up in an oven as a tasty side dish.
@@ -108,6 +108,3 @@ bq. 'We hope the stories of resourcefulness and commitment shown in (the exhibit
 Many thousands of people were involved in the supply of food during the war - the 30,000 merchant seaman who died shipping it, the 6000 Preservation Centres run by the Woman's Institute making jams and pickles, the mobile canteens staffed by the Women's Voluntary Services providing emergency meals to people made homeless by air raids and of course the countless housewives who queued patiently to buy it... and are probably queuing still.
 
 <cite>-- from Martyn Day</cite>
-
-
-

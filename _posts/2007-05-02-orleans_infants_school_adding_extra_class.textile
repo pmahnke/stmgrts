@@ -31,21 +31,3 @@ No matter how you look at it there are still several open issues:
 * The success of the St Margarets' Schools will continue to attract new parents from across Greater London.
 
 _Thank you to Simon Lamb for providing the Council's note and offering up many of these points for consideration._
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-05-02-orleans_infants_school_adding_extra_class in site.data.2007-05-02-orleans_infants_school_adding_extra_class %}
-       <li>
-
-         {{ 2007-05-02-orleans_infants_school_adding_extra_class.comment }}
-
-         <cite>{{ 2007-05-02-orleans_infants_school_adding_extra_class.author }} on {{ 2007-05-02-orleans_infants_school_adding_extra_class.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

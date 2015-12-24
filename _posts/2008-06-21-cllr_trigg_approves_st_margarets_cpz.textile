@@ -33,24 +33,3 @@ I hereby:
 * "Council website for full decision":http://www.richmond.gov.uk/view_member_decisions?mgl=ieDecisionDetails.asp&ID=1523&q=1   (Public Website) 
 
 This decision will come into effect on 30 June 2008
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-06-21-cllr_trigg_approves_st_margarets_cpz in site.data.2008-06-21-cllr_trigg_approves_st_margarets_cpz %}
-       <li>
-
-         {{ 2008-06-21-cllr_trigg_approves_st_margarets_cpz.comment }}
-
-         <cite>{{ 2008-06-21-cllr_trigg_approves_st_margarets_cpz.author }} on {{ 2008-06-21-cllr_trigg_approves_st_margarets_cpz.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

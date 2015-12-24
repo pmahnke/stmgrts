@@ -22,23 +22,3 @@ A small group of local residents has met to begin discussing how the pavilion co
 Please contact Claire Wilson -- "corpunit@aol.com":mailto:corpunit@aol.com or 020 8744 0700 for more details.
 
 We would also like to know what you thought of the Fitpoint.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-14-moor_mead_and_friends_group in site.data.2007-06-14-moor_mead_and_friends_group %}
-       <li>
-
-         {{ 2007-06-14-moor_mead_and_friends_group.comment }}
-
-         <cite>{{ 2007-06-14-moor_mead_and_friends_group.author }} on {{ 2007-06-14-moor_mead_and_friends_group.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

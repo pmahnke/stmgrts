@@ -11,23 +11,3 @@ Pilates teacher-in-training, Eleanor Brown, is looking for three volunteers for 
  
 To take part you need to be available for eight one-hour home Pilates sessions before the end of December. If you are interested and you live in the Twickenham, Richmond or St Margarets areas please email your name and contact number and to "eleanor@positively-pilates.co.uk":mailto:eleanor@positively-pilates.co.uk.
  
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-12-want_to_get_in in site.data.2006-10-12-want_to_get_in %}
-       <li>
-
-         {{ 2006-10-12-want_to_get_in.comment }}
-
-         <cite>{{ 2006-10-12-want_to_get_in.author }} on {{ 2006-10-12-want_to_get_in.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

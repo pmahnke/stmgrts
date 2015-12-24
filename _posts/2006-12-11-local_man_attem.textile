@@ -7,7 +7,7 @@ date: 2006-12-11 19:39:59
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/race_route.jpg"><img src="http://www.stmgrts.org.uk/images/race_route-thumb.jpg" width="120" height="228" alt="map of potential route" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/race_route.jpg"><img src="//stmgrts.org.uk/assets/images/2006/race_route-thumb.jpg" width="120" height="228" alt="map of potential route" class="photo right" /></a>
 
 
 
@@ -25,9 +25,3 @@ p. If you would like to support us in this challenge, and help raise money, plea
 * To support Cancer Research, go to "www.justgiving.com/markandrewsanders":http://www.justgiving.com/markandrewsanders
 * To support Action Aid, go to "www.justgiving.com/markandrewsanders01":http://www.justgiving.com/markandrewsanders01
 * "Official Site":http://www.plymouth-banjul.co.uk/
-
-
-
-
-
-

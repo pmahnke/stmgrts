@@ -16,23 +16,3 @@ bq. "A gang of rowdy youths were causing a disruption at approximately 11pm on S
 -- _from a local resident_
 
 If you saw, heard or know anything about who might have done this, please let us know at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-18-moormead_park_v in site.data.2006-07-18-moormead_park_v %}
-       <li>
-
-         {{ 2006-07-18-moormead_park_v.comment }}
-
-         <cite>{{ 2006-07-18-moormead_park_v.author }} on {{ 2006-07-18-moormead_park_v.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

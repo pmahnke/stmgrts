@@ -53,21 +53,3 @@ Angela - an Israeli for 26 years - described what was happening as a system of "
 Many of the activists here are wary of using this kind of emotive language but it increasingly appears daubed on the Wall. Angela uses it deliberately to evoke memories of South Africa in an effort to grab the world's attention. She says that even the Israeli population mostly does not know what is going on as it is just not discussed on the TV or in newspapers.
 
 As for us, I felt the most shocking thing about the fact that Tony Blair was shocked, and we were shocked, by the real facts on the ground, was just that - that we were shocked. This has been going on for 40 years. We should have known.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-10-27-tony_blair_is_shocked_and_so_are_we in site.data.2007-10-27-tony_blair_is_shocked_and_so_are_we %}
-       <li>
-
-         {{ 2007-10-27-tony_blair_is_shocked_and_so_are_we.comment }}
-
-         <cite>{{ 2007-10-27-tony_blair_is_shocked_and_so_are_we.author }} on {{ 2007-10-27-tony_blair_is_shocked_and_so_are_we.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

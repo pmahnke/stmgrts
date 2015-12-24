@@ -63,22 +63,3 @@ h4. For further information please contact:
 |Kevin Waite|"mail@kevin-waite.com":mailto:mail@kevin-waite.com|for Richmond Road & surrounds|
 
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-07-marble_hill_con in site.data.2006-05-07-marble_hill_con %}
-       <li>
-
-         {{ 2006-05-07-marble_hill_con.comment }}
-
-         <cite>{{ 2006-05-07-marble_hill_con.author }} on {{ 2006-05-07-marble_hill_con.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

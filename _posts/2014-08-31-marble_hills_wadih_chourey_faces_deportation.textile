@@ -6,7 +6,7 @@ category: news
 date: 2014-08-31 08:17:45
 excerpt: |
     
-    <a href="http://www.stmgrts.org.uk/images//Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="http://www.stmgrts.org.uk/images//Wadih-Hanna-Chourey_thumb.jpg" width="150" height="99" alt="Wadih Hanna Chourey" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="//stmgrts.org.uk/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="150" height="99" alt="Wadih Hanna Chourey" class="photo right" /></a>
     
     _Down's syndrome boy faces being deported from Britain after 17 years - because his parents died_
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="http://www.stmgrts.org.uk/images//Wadih-Hanna-Chourey_thumb.jpg" width="250" height="166" alt="Wadih Hanna Chourey" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="//stmgrts.org.uk/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="250" height="166" alt="Wadih Hanna Chourey" class="photo right" /></a>
 
 _Down's syndrome boy faces being deported from Britain after 17 years - because his parents died_
 
@@ -35,26 +35,3 @@ h4. More Information
 
 * "Sign a petition":https://you.38degrees.org.uk/petitions/do-not-deport-wadih-chourey-vack-to-the-lebanon-just-because-his-parents-have-died?bucket=38blast
 * "Read more on the Daily Mirror":http://www.mirror.co.uk/news/uk-news/downs-syndrome-boy-faces-being-4131650#ixzz3Bx4hZxJ5 - 29 August  2014
-
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-08-31-marble_hills_wadih_chourey_faces_deportation in site.data.2014-08-31-marble_hills_wadih_chourey_faces_deportation %}
-       <li>
-
-         {{ 2014-08-31-marble_hills_wadih_chourey_faces_deportation.comment }}
-
-         <cite>{{ 2014-08-31-marble_hills_wadih_chourey_faces_deportation.author }} on {{ 2014-08-31-marble_hills_wadih_chourey_faces_deportation.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

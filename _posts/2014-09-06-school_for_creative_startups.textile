@@ -13,7 +13,3 @@ h4. More Information
 
 * "See more about the startups we have supported":http://www.schoolforcreativestartups.com/startups-2014/
 * If you'd like to learn a little more about the School for Creative Startups, please check out our "meetup page":http://www.meetup.com/CreativeStartups/?trax_also_in_algorithm2=original&traxDebug_also_in_algorithm2_picked=original&dont_store_trax_also_in_algorithm2=1, or visit "our website":http://www.schoolforcreativestartups.com/.
-
-
-
-

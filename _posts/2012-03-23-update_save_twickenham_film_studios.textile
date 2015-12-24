@@ -31,22 +31,3 @@ The Save Twickenham Studios Campaign strongly urges the residents of St Margaret
 For more information, check out the website "www.savetwickenhamstudios.com":http://www.savetwickenhamstudios.com it shows all the dignitaries who have come out in support of us.
 
 <cite>-- from Maria Walker</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-03-23-update_save_twickenham_film_studios in site.data.2012-03-23-update_save_twickenham_film_studios %}
-       <li>
-
-         {{ 2012-03-23-update_save_twickenham_film_studios.comment }}
-
-         <cite>{{ 2012-03-23-update_save_twickenham_film_studios.author }} on {{ 2012-03-23-update_save_twickenham_film_studios.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -27,22 +27,3 @@ Thanks for your support. We will carry out more surveys at markets in coming mon
 On the plus side, we will have morrismen at the farmers' market from 11am this Saturday, as part of the Twickenham Festival!
 
 ??from the London Farmers' Markets??
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-06-16-the_twickenham_farmers_market_needs_your_help in site.data.2011-06-16-the_twickenham_farmers_market_needs_your_help %}
-       <li>
-
-         {{ 2011-06-16-the_twickenham_farmers_market_needs_your_help.comment }}
-
-         <cite>{{ 2011-06-16-the_twickenham_farmers_market_needs_your_help.author }} on {{ 2011-06-16-the_twickenham_farmers_market_needs_your_help.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

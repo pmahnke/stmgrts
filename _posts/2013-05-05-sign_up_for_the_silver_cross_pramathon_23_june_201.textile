@@ -5,13 +5,13 @@ permalink: /archives/2013/05/sign_up_for_the_silver_cross_pramathon_23_june_201.
 category: around_town
 date: 2013-05-05 09:24:08
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//pramathon.jpg" title="See larger version of - pramathon 2013"><img src="http://www.stmgrts.org.uk/images//pramathon_thumb.jpg" width="300" height="114" alt="pramathon 2013" class="photo center" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/pramathon.jpg" title="See larger version of - pramathon 2013"><img src="//stmgrts.org.uk/assets/images/2013/pramathon_thumb.jpg" width="300" height="114" alt="pramathon 2013" class="photo center" /></a>
     
     _Genesis Research Trust_, is a charity set up in 1985 by our Founder and Chairman Professor Robert Winston. We finance vital medical research into conditions affecting women, children and ultimately families. Miscarriage, stillbirth, premature birth, brain damage and cancer are all diseases and conditions that our leading scientists are working to prevent.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//pramathon.jpg" title="See larger version of - pramathon 2013"><img src="http://www.stmgrts.org.uk/images//pramathon_thumb.jpg" width="300" height="114" alt="pramathon 2013" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/pramathon.jpg" title="See larger version of - pramathon 2013"><img src="//stmgrts.org.uk/assets/images/2013/pramathon_thumb.jpg" width="300" height="114" alt="pramathon 2013" class="photo center" /></a>
 
 _Genesis Research Trust_, is a charity set up in 1985 by our Founder and Chairman Professor Robert Winston. We finance vital medical research into conditions affecting women, children and ultimately families. Miscarriage, stillbirth, premature birth, brain damage and cancer are all diseases and conditions that our leading scientists are working to prevent.
 
@@ -23,9 +23,3 @@ We have just launched a brand new event the "Silver Cross Pramathon 2013":http:/
 * Peppa Pig!
 
 There will also be Milkshake! presenters, entertainers, stalls and even a couple of celebrities to cheer you on.
-
-
-
-
-
-

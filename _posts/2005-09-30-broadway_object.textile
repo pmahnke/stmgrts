@@ -84,21 +84,3 @@ table(fig). |\13=. *Residents parking survey September 2005*|
 |Fri 22 Sep 05|4|3|1|O|O|O|O|1|O|3|O|O|
 
  * _From the junction with the St Margarets Road to the railway footbridge_
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-30-broadway_object in site.data.2005-09-30-broadway_object %}
-       <li>
-
-         {{ 2005-09-30-broadway_object.comment }}
-
-         <cite>{{ 2005-09-30-broadway_object.author }} on {{ 2005-09-30-broadway_object.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

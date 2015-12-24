@@ -7,7 +7,7 @@ date: 2005-07-08 15:26:21
 
 ---
 
-<img src="http://stmgrts.org.uk/archives/cllr_hambidge-thumb.jpg" width="98" height="131" alt="Councillor Hambidge" class="img_right" />
+<img src="//stmgrts.org.uk/assets/images/2005/cllr_hambidge-thumb.jpg" width="98" height="131" alt="Councillor Hambidge" class="img_right" />
 
 One of the three councillors for St Margarets, "Councillor Annie Hambidge":http://cabnet.richmond.gov.uk/mgUserInfo.asp?UID=257 wrote us a letter and asked that we post it.
 
@@ -48,21 +48,3 @@ Jason Debney explained why and what was needed to enable  the refurbishing of th
 Let me "cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk  know if you have any thoughts on how to continue to improve & make St Margaret's 'the place to be'.
  
 This website will provide a marvellous opportunity to keep 'the heart of St Margaret's' beating.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-07-08-letter_from_cou in site.data.2005-07-08-letter_from_cou %}
-       <li>
-
-         {{ 2005-07-08-letter_from_cou.comment }}
-
-         <cite>{{ 2005-07-08-letter_from_cou.author }} on {{ 2005-07-08-letter_from_cou.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

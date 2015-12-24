@@ -5,7 +5,7 @@ permalink: /archives/2013/05/richmond_aid_boosts_advice_service_for_disabled_pe.
 category: news
 date: 2013-05-09 21:31:37
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="http://www.stmgrts.org.uk/images//Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="//stmgrts.org.uk/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
     
     <em>"Richmond AID":http://www.stmgrts.org.uk/directory/charity/201305091626 boosts advice service to help more local people deal with changes affecting disabled people</em>
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="http://www.stmgrts.org.uk/images//Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="//stmgrts.org.uk/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
 
 <em>"Richmond AID":http://www.stmgrts.org.uk/directory/charity/201305091626 boosts advice service to help more local people deal with changes affecting disabled people</em>
 
@@ -28,7 +28,3 @@ Bob Caustick, a Volunteer Advisor with years of experience in social work adds: 
 They are available between 11.00am and 4.00pm Monday to Friday at the Disability Action and Advice Centre, 4 Waldegrave Road, Teddington, TW11 8HT and via the advice line on 020 8831 6070 or email "advice@richmondaid.org.uk":mailto:advice@richmondaid.org.uk.
 
 <cite>-- from a Richmond AID press release - 3 May 2013</cite>
-
-
-
-

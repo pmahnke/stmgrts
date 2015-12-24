@@ -5,7 +5,7 @@ permalink: /archives/2009/06/recipe_rustic_pesto_chicken.html
 category: food
 date: 2009-06-12 10:31:09
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/pesto_chicken.jpg"><img src="http://www.stmgrts.org.uk/images/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/pesto_chicken.jpg"><img src="//stmgrts.org.uk/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
     
     
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/pesto_chicken.jpg"><img src="http://www.stmgrts.org.uk/images/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/pesto_chicken.jpg"><img src="//stmgrts.org.uk/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
 
 
 This is such an incredibly easy main course that takes only minutes to prepare and uses very few ingredients. It has a wonderful taste of summer and makes great leftovers (if there are any!) This recipe can easily be doubled and other vegetables such as courgettes, mushrooms or peas could be added to the tomatoes in the dish.
@@ -46,7 +46,3 @@ h4. Instructions
 * Cook time: 15-20 minutes
 
 </div>
-
-
-
-

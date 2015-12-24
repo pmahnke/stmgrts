@@ -16,23 +16,3 @@ As is normal with the introduction of a CPZ, including an extension, there will 
 Geoff Acton, Ben Khosa and Philip Morgan promised residents a CPZ consultation when they stood for election in 2006; they are pleased that it is now nearly finished three years later.
 
 <cite> -- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-05-14-cpz_latest in site.data.2009-05-14-cpz_latest %}
-       <li>
-
-         {{ 2009-05-14-cpz_latest.comment }}
-
-         <cite>{{ 2009-05-14-cpz_latest.author }} on {{ 2009-05-14-cpz_latest.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

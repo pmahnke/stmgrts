@@ -5,7 +5,7 @@ permalink: /archives/2011/05/zumba_classes_in_winchester_hall.html
 category: news
 date: 2011-05-05 16:19:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Zumba_Flyer.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Zumba_Flyer_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/Zumba_Flyer.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Zumba_Flyer_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
     
     Whatever your inspiration... Whether it's a love for Latin music, the need to get fit, or if you want to lose some weight or shift the baby bulge, come to Zumba and party with Natasha!
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Zumba_Flyer.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Zumba_Flyer_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Zumba_Flyer.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Zumba_Flyer_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
 
 Whatever your inspiration... Whether it's a love for Latin music, the need to get fit, or if you want to lose some weight or shift the baby bulge, come to Zumba and party with Natasha!
 
@@ -28,9 +28,3 @@ h4. For more details...
 * Contact Natasha on 07855 816 126
 * Website: "www.zumba.com/profiles/117364/natasha-woolman":http://www.zumba.com/profiles/117364/natasha-woolman
 * _Children are welcome to join in, but this is an adult class and your children's safety is your responsibility._
-
-
-
-
-
-

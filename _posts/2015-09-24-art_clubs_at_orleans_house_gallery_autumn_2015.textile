@@ -7,7 +7,7 @@ date: 2015-09-24 23:07:50
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//art_club_flyer.jpg" title="See larger version of - art club flyer"><img src="http://www.stmgrts.org.uk/images//art_club_flyer_thumb.jpg" width="250" height="353" alt="art club flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/art_club_flyer.jpg" title="See larger version of - art club flyer"><img src="//stmgrts.org.uk/assets/images/2015/art_club_flyer_thumb.jpg" width="250" height="353" alt="art club flyer" class="photo right" /></a>
 
 Exciting weekly workshops offer budding young artists the opportunity to explore a broad range of artistic media and practice with our experienced gallery artists. Each term brings a varied selection of projects which are explored in group sizes of no more than sixteen, allowing participants to try more messy and adventurous media than may be possible at school.
 
@@ -23,7 +23,3 @@ h4. More Information
 * Each term lasts for 10 to 12 weeks, with a break for half term.
 * Book here: "www2.richmond.gov.uk/richmondbookings/default.aspx":http://www2.richmond.gov.uk/richmondbookings/default.aspx
 * "advertising@mywhatson.com":mailto:advertising@mywhatson.com
-
-
-
-

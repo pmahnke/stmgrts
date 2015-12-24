@@ -13,24 +13,3 @@ On Monday 4 October the Council replaced the scratch cards used for visitor and 
 * "For more information...":http://stmgrts.org.uk/l/parkingpermits
 
 <cite>-- from Harry Jacobs</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p in site.data.2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p %}
-       <li>
-
-         {{ 2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p.comment }}
-
-         <cite>{{ 2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p.author }} on {{ 2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2015-09-24 23:06:40
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Star_Club_autumn_2015.jpg" title="See larger version of - Star Club autumn 2015"><img src="http://www.stmgrts.org.uk/images//Star_Club_autumn_2015_thumb.jpg" width="250" height="353" alt="Star Club autumn 2015" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Star_Club_autumn_2015.jpg" title="See larger version of - Star Club autumn 2015"><img src="//stmgrts.org.uk/assets/images/2015/Star_Club_autumn_2015_thumb.jpg" width="250" height="353" alt="Star Club autumn 2015" class="photo right" /></a>
 
 A series of after school workshops for 4 to 7 year olds combining movement, story telling, music and art. Taking inspiration from the exhibition and surrounding natural environment of Orleans House Gallery, we will learn about creative performance making, communication and group work, building to a small showcase.
 
@@ -16,21 +16,3 @@ h4. More Information
 * Sessions run from 3.45 to 4.45pm on Mondays starting on Monday 28 September 2015.
 * Sessions cost &pound;9 a week.
 * Book here: "www2.richmond.gov.uk/richmondbookings/default.aspx":http://www2.richmond.gov.uk/richmondbookings/default.aspx
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-09-24-star_club_at_orleans_house_gallery_autumn_2015 in site.data.2015-09-24-star_club_at_orleans_house_gallery_autumn_2015 %}
-       <li>
-
-         {{ 2015-09-24-star_club_at_orleans_house_gallery_autumn_2015.comment }}
-
-         <cite>{{ 2015-09-24-star_club_at_orleans_house_gallery_autumn_2015.author }} on {{ 2015-09-24-star_club_at_orleans_house_gallery_autumn_2015.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

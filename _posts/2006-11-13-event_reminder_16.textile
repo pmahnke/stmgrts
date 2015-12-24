@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-<a href="/images/events/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="/images/events/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="//stmgrts.org.uk/assets/images/2006/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
 
 "The Good Wine Shop":http://www.stmgrts.org.uk/directory/wine_aNd_spirits/200511281416 in Isleworth is hosting a special pre-Christmas "wine tasting event":http://stmgrts.org.uk/event/Exhibition/200611131514.
 
@@ -22,8 +22,3 @@ Owner Mark Wrigglesworth will be on hand to help guests decipher their Rioja fro
 bq. "We believe wine is all about enjoyment. There can be a certain snobbery surrounding wines but at The Good Wine Shop we aim to break down those barriers, offering the finest vintages from the world's best small producers, which wouldn't normally be found on the high street."
 
 Special pre-Christmas offers will be available at the event. Tickets can be purchased from The Good Wine Shop in advance at a cost of &pound;7.50 per person or &pound;10.00 on the door.
-
-
-
-
-

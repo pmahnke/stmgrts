@@ -28,22 +28,3 @@ The subject of information dissemination once again inspired comments that not e
 The meeting finished with a group discussing landscaping ideas.  Plans for proposed changes will be discussed further along with required budget and funding ideas.
 
 _Notes provided by Madeleine Menzies_
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-15-notes_from_moor_1 in site.data.2006-05-15-notes_from_moor_1 %}
-       <li>
-
-         {{ 2006-05-15-notes_from_moor_1.comment }}
-
-         <cite>{{ 2006-05-15-notes_from_moor_1.author }} on {{ 2006-05-15-notes_from_moor_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

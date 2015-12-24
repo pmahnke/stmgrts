@@ -5,14 +5,14 @@ permalink: /archives/2010/11/the_gentlemans_game_played_by_hooligans.html
 category: around_town
 date: 2010-11-25 18:22:11
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//early_football.jpg" title="See larger version of - early football"><img src="http://www.stmgrts.org.uk/images//early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/early_football.jpg" title="See larger version of - early football"><img src="//stmgrts.org.uk/assets/images/2010/early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
     
     
     bq. "Football is a gentleman's game played by hooligans. Rugby is a hooligan's game played by gentlemen."
     
     ??My Sports Master - Eric Shirley??
     
-    
+    <div class="box">
     
     On December 19<sup>th</sup> 1863 the very first game of football played under Football Association rules took place at Limes Field, Mortlake, between Barnes FC and Richmond FC.
     
@@ -26,7 +26,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//early_football.jpg" title="See larger version of - early football"><img src="http://www.stmgrts.org.uk/images//early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/early_football.jpg" title="See larger version of - early football"><img src="//stmgrts.org.uk/assets/images/2010/early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
 
 
 bq. "Football is a gentleman's game played by hooligans. Rugby is a hooligan's game played by gentlemen."
@@ -45,7 +45,7 @@ Richmond FC sloped off home, decided that football wasn't for them and went back
 
 Richmond FC was right. In 1863 football wasn't organised at all. An indeterminate number of players would assemble on a pitch of indeterminate size and knock a ball of indeterminate shape around for an indeterminate length of  time until someone scored a goal or 'touch-down' or whatever it happened to be called that day. Some preferred the "handling game" which was a bit like rugby but with more kicking while others favoured the "dribbling game" which was a bit like rugby but without all that handling. Between the two of them there was chaos.
 
-<a href="http://www.stmgrts.org.uk/images//Ecmorley.jpg" title="See larger version of - EC Morley"><img src="http://www.stmgrts.org.uk/images//Ecmorley_thumb.jpg" width="150" height="172" alt="EC Morley" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Ecmorley.jpg" title="See larger version of - EC Morley"><img src="//stmgrts.org.uk/assets/images/2010/Ecmorley_thumb.jpg" width="150" height="172" alt="EC Morley" class="photo right" /></a>
 
 
 The man who came to sort them all out was a solicitor from Barnes called Ebenezer Cobb Morley. He was born in Hull in 1831, moved to Brentford in 1853 and on to Barnes in 1858.  Ebenezer was the son of a congregational minister and a firm believer in "Muscular Christianity", the Victorian concept of "faith through fitness and fitness though faith". He was also a keen sportsman and in 1862 helped form Barnes Football Club. Although they were newly formed and inexperienced Barnes FC was described at the time as "a live proposition boasting a big membership."
@@ -91,7 +91,3 @@ bq. "I don't know much about football. I know what a goal is, which is surely th
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

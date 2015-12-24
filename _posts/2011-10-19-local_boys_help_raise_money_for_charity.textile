@@ -7,7 +7,7 @@ date: 2011-10-19 21:15:34
 excerpt: |
     
     
-    <a href="http://www.stmgrts.org.uk/images//jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="http://www.stmgrts.org.uk/images//jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="//stmgrts.org.uk/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
     
     Hampton Wick based charity, Jeevika Trust's youngest ever walker, along with his brother and 30 other walkers have helped the charity to raise over &pound;2000 for water projects in rural India.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 
 
-<a href="http://www.stmgrts.org.uk/images//jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="http://www.stmgrts.org.uk/images//jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="//stmgrts.org.uk/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
 
 Hampton Wick based charity, Jeevika Trust's youngest ever walker, along with his brother and 30 other walkers have helped the charity to raise over &pound;2000 for water projects in rural India.
 
@@ -30,6 +30,3 @@ bq. "Support from people like Cameron and Ryan and their fellow walkers means an
 To find out more about the charity's work in rural India and how you can help support them, visit their website "www.jeevika.org.uk":http://www.jeevika.org.uk.
 
 ??-- from a Press release??
-
-
-

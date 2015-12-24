@@ -7,7 +7,7 @@ date: 2010-01-29 09:54:10
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/coachhouse_activities_201001.jpg"><img src="http://www.stmgrts.org.uk/images/coachhouse_activities_201001-thumb.jpg" width="150" height="112" alt="drawing" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/coachhouse_activities_201001.jpg"><img src="//stmgrts.org.uk/assets/images/2010/coachhouse_activities_201001-thumb.jpg" width="150" height="112" alt="drawing" class="photo right" /></a>
 
 
 Welcome to an exciting array of arts activities over the coming half term ... We hope to see you then!
@@ -72,7 +72,3 @@ h4. For Children and Young People with Disabilities
 ** 2pm - 4pm                 Ages 13 - 19
 
 Work with a professional artist, using touch and sight to explore the faces around you and create your own portrait using line, tone and shape. Experiment with a range of drawing materials including ink, graphite, collage and wire. Siblings and friends are welcome to come along too!
-
-
-
-

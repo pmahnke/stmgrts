@@ -14,23 +14,3 @@ No details are available at present.
 *Link*
 
 * "original article":http://www.stmgrts.org.uk/archives/2007/06/martin_herdman_speaks_out_on_parking_isuses_for_tr.html
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-28-no_double_yellow_lines_for_crown_road in site.data.2007-07-28-no_double_yellow_lines_for_crown_road %}
-       <li>
-
-         {{ 2007-07-28-no_double_yellow_lines_for_crown_road.comment }}
-
-         <cite>{{ 2007-07-28-no_double_yellow_lines_for_crown_road.author }} on {{ 2007-07-28-no_double_yellow_lines_for_crown_road.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

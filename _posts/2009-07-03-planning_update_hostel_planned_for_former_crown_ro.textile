@@ -95,21 +95,3 @@ If anyone else has discussed the hostel development with the Council, I would ve
 *Link*
 
 * "The Council's documentation on this application":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=09/0703/COU
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-07-03-planning_update_hostel_planned_for_former_crown_ro in site.data.2009-07-03-planning_update_hostel_planned_for_former_crown_ro %}
-       <li>
-
-         {{ 2009-07-03-planning_update_hostel_planned_for_former_crown_ro.comment }}
-
-         <cite>{{ 2009-07-03-planning_update_hostel_planned_for_former_crown_ro.author }} on {{ 2009-07-03-planning_update_hostel_planned_for_former_crown_ro.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -14,23 +14,3 @@ bq. "On 20<sup>th</sup> May the Council's Transport Consultative Group which con
 The ward councillors will send a street letter to Godstone and Kenley to clarify and dispel doubts.
 
 <cite>-- from Christopher Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-05-26-cpz_recommendation_approved in site.data.2009-05-26-cpz_recommendation_approved %}
-       <li>
-
-         {{ 2009-05-26-cpz_recommendation_approved.comment }}
-
-         <cite>{{ 2009-05-26-cpz_recommendation_approved.author }} on {{ 2009-05-26-cpz_recommendation_approved.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

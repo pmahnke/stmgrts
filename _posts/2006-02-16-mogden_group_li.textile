@@ -10,23 +10,3 @@ date: 2006-02-16 09:10:56
 In late December, 2005, the High Court allowed for a Group Litigation Order regarding the odour and mosquitoes problems created by the _Mogden Sewage Treatment Works_.  The goal of the group action is to seek compensation and an injunction to prevent Mogden from causing problems in the future.  
 
 Neil Stockdale, at the environment group at Hugh James, was appointed as the lead solicitor.  If you feel you have been affected you and want to join the group you have to register your complaint by 2 June 2006.  To do this, you need to contact Neil Stockdale at Hugh James Solicitors on 0845 402 3257.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-02-16-mogden_group_li in site.data.2006-02-16-mogden_group_li %}
-       <li>
-
-         {{ 2006-02-16-mogden_group_li.comment }}
-
-         <cite>{{ 2006-02-16-mogden_group_li.author }} on {{ 2006-02-16-mogden_group_li.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

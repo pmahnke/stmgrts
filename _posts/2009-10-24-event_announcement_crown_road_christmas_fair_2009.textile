@@ -5,7 +5,7 @@ permalink: /archives/2009/10/event_announcement_crown_road_christmas_fair_2009.h
 category: news
 date: 2009-10-24 08:22:37
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="http://www.stmgrts.org.uk/images/events/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
     
     The St Margarets Traders Association
     
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="http://www.stmgrts.org.uk/images/events/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
 
 The St Margarets Traders Association
 
@@ -50,9 +50,3 @@ Please see "mystmargarets.com":http://mystmargarets.com/ for more information.
 To book a stall or for more information please contact "events@stmgrts.org.uk":mailto:events@stmgrts.org.uk
 
 _Sponsored by Richmond Council and the RFU_
-
-
-
-
-
-

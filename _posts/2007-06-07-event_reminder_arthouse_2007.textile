@@ -7,7 +7,7 @@ date: 2007-06-07 21:25:56
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/art_house_logo.gif" title="See larger version of - ART HOUSE"><img src="http://www.stmgrts.org.uk/images/events/art_house_logo_thumb.gif" width="200" height="122" alt="ART HOUSE" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/art_house_logo.gif" title="See larger version of - ART HOUSE"><img src="//stmgrts.org.uk/assets/images/2007/art_house_logo_thumb.gif" width="200" height="122" alt="ART HOUSE" class="right" /></a>
 
 The Arts Service at the Richmond Council's "ARThouse 2007":http://www.stmgrts.org.uk/event/exhibition/200705141625 starts tomorrow.
 
@@ -19,8 +19,3 @@ ARThouse dates and venue opening times:
 * Saturday and Sunday 9th, 10th, 16th, and 17th June: 11.00am to 6.00pm 
 
 "Click here for more details":http://www.richmond.gov.uk/home/leisure_and_culture/arts/arthouse_open_studios.htm
-
-
-
-
-

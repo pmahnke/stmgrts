@@ -38,23 +38,3 @@ h3. Results
 |West Twickenham |.|3|
 |Whitton |1|2|
 |Total|30|24|
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-05-08-election_results_tories_win_control_of_richmond_co in site.data.2010-05-08-election_results_tories_win_control_of_richmond_co %}
-       <li>
-
-         {{ 2010-05-08-election_results_tories_win_control_of_richmond_co.comment }}
-
-         <cite>{{ 2010-05-08-election_results_tories_win_control_of_richmond_co.author }} on {{ 2010-05-08-election_results_tories_win_control_of_richmond_co.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

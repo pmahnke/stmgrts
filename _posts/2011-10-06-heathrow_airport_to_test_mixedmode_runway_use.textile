@@ -26,24 +26,3 @@ The first trial finishes on 29 February while the second will run from 1 July 20
 John Stewart, chairman of the HACAN Clearskies campaign, said it was a major concern for people living in west London.
 
 <cite>-- from the "BBC website - 2 October 2011":http://www.bbc.co.uk/news/uk-england-london-15141459</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-10-06-heathrow_airport_to_test_mixedmode_runway_use in site.data.2011-10-06-heathrow_airport_to_test_mixedmode_runway_use %}
-       <li>
-
-         {{ 2011-10-06-heathrow_airport_to_test_mixedmode_runway_use.comment }}
-
-         <cite>{{ 2011-10-06-heathrow_airport_to_test_mixedmode_runway_use.author }} on {{ 2011-10-06-heathrow_airport_to_test_mixedmode_runway_use.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

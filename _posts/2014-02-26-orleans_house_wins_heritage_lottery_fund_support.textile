@@ -5,13 +5,13 @@ permalink: /archives/2014/02/orleans_house_wins_heritage_lottery_fund_support.ht
 category: news
 date: 2014-02-26 11:23:02
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//orleans_house_painting.jpg" title="See larger version of - orleans house painting"><img src="http://www.stmgrts.org.uk/images//orleans_house_painting_thumb.jpg" width="150" height="111" alt="orleans house painting" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/orleans_house_painting.jpg" title="See larger version of - orleans house painting"><img src="//stmgrts.org.uk/assets/images/2014/orleans_house_painting_thumb.jpg" width="150" height="111" alt="orleans house painting" class="photo right" /></a>
     
     Orleans House Gallery in Twickenham has received initial support from the Heritage Lottery Fund (HLF) for the Transforming Orleans House project. The &pound;3.2m project aims to preserve and make accessible the important heritage assets that comprise the Orleans House Gallery site, including restoring the grade one listed Octagon Room and increase public access to the Richmond upon Thames Borough Art Collection.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//orleans_house_painting.jpg" title="See larger version of - orleans house painting"><img src="http://www.stmgrts.org.uk/images//orleans_house_painting_thumb.jpg" width="150" height="111" alt="orleans house painting" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/orleans_house_painting.jpg" title="See larger version of - orleans house painting"><img src="//stmgrts.org.uk/assets/images/2014/orleans_house_painting_thumb.jpg" width="150" height="111" alt="orleans house painting" class="photo right" /></a>
 
 Orleans House Gallery in Twickenham has received initial support from the Heritage Lottery Fund (HLF) for the Transforming Orleans House project. The &pound;3.2m project aims to preserve and make accessible the important heritage assets that comprise the Orleans House Gallery site, including restoring the grade one listed Octagon Room and increase public access to the Richmond upon Thames Borough Art Collection.
 
@@ -42,7 +42,3 @@ Orleans House was built in 1710 for James Johnston, Secretary of State for Scotl
 He returned to visit his former retreat, accompanied by Queen Victoria, in 1848 as King of the French. His son, the Duc D'Aumale later made the house his home for nearly two decades and the surviving Stables block dates from his residency.
 
 The main building and conservatory of Orleans House were tragically demolished in 1926. Luckily the remains were saved by the Hon. Mrs Nellie Ionides and left to the borough on her death in 1962.
-
-
-
-

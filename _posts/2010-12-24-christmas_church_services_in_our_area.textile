@@ -7,7 +7,7 @@ date: 2010-12-24 05:54:44
 
 ---
 
-<img src="http://www.richmondteamministry.org/images/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
+<img src="//stmgrts.org.uk/assets/images/2010/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
 
 Here is a list of church services for Christmas Eve and Christmas for some local churches. 
 
@@ -115,24 +115,3 @@ h3. "St John the Divine, Richmond":http://www.richmondteamministry.org/index.php
 ** 10.30am - Sung Eucharist
 * Boxing Day and St Stephen's Day
 ** 11am - Sung Eucharist
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-12-24-christmas_church_services_in_our_area in site.data.2010-12-24-christmas_church_services_in_our_area %}
-       <li>
-
-         {{ 2010-12-24-christmas_church_services_in_our_area.comment }}
-
-         <cite>{{ 2010-12-24-christmas_church_services_in_our_area.author }} on {{ 2010-12-24-christmas_church_services_in_our_area.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

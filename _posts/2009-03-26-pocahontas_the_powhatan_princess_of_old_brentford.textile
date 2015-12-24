@@ -5,7 +5,7 @@ permalink: /archives/2009/03/pocahontas_the_powhatan_princess_of_old_brentford.h
 category: around_town
 date: 2009-03-26 22:58:07
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/pocahontas.jpg"><img src="http://www.stmgrts.org.uk/images/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/pocahontas.jpg"><img src="//stmgrts.org.uk/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
     
     
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/pocahontas.jpg"><img src="http://www.stmgrts.org.uk/images/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/pocahontas.jpg"><img src="//stmgrts.org.uk/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
 
 
 
@@ -27,7 +27,7 @@ The first English colonists arrived in Virginia in May 1607 when Pocahontas was 
 bq. "Pocahontas, the Kings dearest daughter, when no entreaty could prevaile, got his head in her armes, and laid her owne upon his to save him from death".
 
 
-<a href="http://www.stmgrts.org.uk/images/Pocahontasandson.jpg"><img src="http://www.stmgrts.org.uk/images/Pocahontasandson-thumb.jpg" width="110" height="150" alt="Pocahontas and son" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/Pocahontasandson.jpg"><img src="//stmgrts.org.uk/assets/images/2009/Pocahontasandson-thumb.jpg" width="110" height="150" alt="Pocahontas and son" class="photo right" /></a>
 
 
 
@@ -60,22 +60,3 @@ In March 1617, Rolfe and Pocahontas boarded a ship to return to Virginia. Howeve
 A lot of Americans claim kinship with Pocahontas through her son Thomas, including designer and socialite Pauline de Rothschild, astronomer Percival Lowell and the former First-Lady Nancy Reagan. As far as we know nobody from Brentford has stepped forward so far claiming the same lineage.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford in site.data.2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford %}
-       <li>
-
-         {{ 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford.comment }}
-
-         <cite>{{ 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford.author }} on {{ 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

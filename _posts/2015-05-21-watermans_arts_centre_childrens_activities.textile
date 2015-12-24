@@ -15,7 +15,7 @@ excerpt: |
 
 Watermans is an arts centre on the banks of the Thames in Brentford, near Kew Bridge station. It's great for families with lots of regular activities from babies to teens including theatre, cinema, workshops and holiday activities, plus a large cafe/restaurant and on-site car park. "See our website for up to date listings.":http://www.watermans.org.uk/
 
-<a href="http://www.stmgrts.org.uk/images//Dino_print_illustration.jpg" title="See larger version of - Dino print illustration"><img src="http://www.stmgrts.org.uk/images//Dino_print_illustration_thumb.jpg" width="250" height="306" alt="Dino print illustration" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Dino_print_illustration.jpg" title="See larger version of - Dino print illustration"><img src="//stmgrts.org.uk/assets/images/2015/Dino_print_illustration_thumb.jpg" width="250" height="306" alt="Dino print illustration" class="right" /></a>
 
 h3. Babies & Toddlers
 
@@ -40,7 +40,3 @@ Come and learn the secrets of Free Running and Parkour. Learn to run up walls an
 h4. Urban Ambush Creative Summer Projects
 
 This summer come along to Urban Ambush, our summer creative projects for young people. The projects are led by artists and include graffiti art, Parkour, Capoeira, film making, animation and more. It's a great way to spend the summer holidays, having fun and trying something new. Projects run weekly from 27 July, Mon-Fri, 9am-6.15pm. Groups are split 8-12 and 13-18.
-
-
-
-

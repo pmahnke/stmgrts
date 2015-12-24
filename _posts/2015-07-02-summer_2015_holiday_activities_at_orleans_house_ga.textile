@@ -5,7 +5,7 @@ permalink: /archives/2015/07/summer_2015_holiday_activities_at_orleans_house_ga.
 category: around_town
 date: 2015-07-02 22:39:29
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//papier_mache_pigeons.jpg" title="See larger version of - papier mache pigeons"><img src="http://www.stmgrts.org.uk/images//papier_mache_pigeons_thumb.jpg" width="150" height="112" alt="papier mache pigeons" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/papier_mache_pigeons.jpg" title="See larger version of - papier mache pigeons"><img src="//stmgrts.org.uk/assets/images/2015/papier_mache_pigeons_thumb.jpg" width="150" height="112" alt="papier mache pigeons" class="photo right" /></a>
     
     
     _Fill your holidays with creativity! From 28 July to 14 August 2015 for children aged 0 to 17._
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//papier_mache_pigeons.jpg" title="See larger version of - papier mache pigeons"><img src="http://www.stmgrts.org.uk/images//papier_mache_pigeons_thumb.jpg" width="250" height="187" alt="papier mache pigeons" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/papier_mache_pigeons.jpg" title="See larger version of - papier mache pigeons"><img src="//stmgrts.org.uk/assets/images/2015/papier_mache_pigeons_thumb.jpg" width="250" height="187" alt="papier mache pigeons" class="photo right" /></a>
 
 _Fill your holidays with creativity! From 28 July to 14 August 2015 for children aged 0 to 17._
 
@@ -55,8 +55,3 @@ h4. More Information
 Please only book your child into workshops of the appropriate age range to ensure a positive experience for all children.
 
 "See Timetable on our website":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/art_clubs_and_holiday_activities/holiday_activities.htm
-
-
-
-
-

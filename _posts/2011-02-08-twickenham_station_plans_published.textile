@@ -18,24 +18,3 @@ There is a separate planning application for the podium on which the building wi
 The planning committee will consider the application at its March 31, 2011 meeting.
 
 -- from Christopher J Squire
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-02-08-twickenham_station_plans_published in site.data.2011-02-08-twickenham_station_plans_published %}
-       <li>
-
-         {{ 2011-02-08-twickenham_station_plans_published.comment }}
-
-         <cite>{{ 2011-02-08-twickenham_station_plans_published.author }} on {{ 2011-02-08-twickenham_station_plans_published.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

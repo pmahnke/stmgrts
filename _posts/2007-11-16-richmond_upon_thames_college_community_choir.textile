@@ -32,23 +32,3 @@ No previous experience or ability to read music is required to join the choir, j
 Singing is an enriching and rewarding experience. Come and discover your voice in a relaxed and friendly atmosphere. New members always welcome!
 
 For further details, contact Caroline Heslop/Rachel Smith 020 8607 8221 or email "cheslop@rutc.ac.uk":mailto:cheslop@rutc.ac.uk.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-11-16-richmond_upon_thames_college_community_choir in site.data.2007-11-16-richmond_upon_thames_college_community_choir %}
-       <li>
-
-         {{ 2007-11-16-richmond_upon_thames_college_community_choir.comment }}
-
-         <cite>{{ 2007-11-16-richmond_upon_thames_college_community_choir.author }} on {{ 2007-11-16-richmond_upon_thames_college_community_choir.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

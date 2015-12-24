@@ -54,26 +54,7 @@ Elizabeth Stubbs
 Headteacher 
 St Stephen's CE Junior
 
-<a href="http://www.stmgrts.org.uk/images//primary_places_plan_201110.jpg" title="See larger version of - Table of school places in plan"><img src="http://www.stmgrts.org.uk/images//primary_places_plan_201110_thumb.jpg" width="300" height="92" alt="Table of school places in plan" class=" center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/primary_places_plan_201110.jpg" title="See larger version of - Table of school places in plan"><img src="//stmgrts.org.uk/assets/images/2011/primary_places_plan_201110_thumb.jpg" width="300" height="92" alt="Table of school places in plan" class=" center" /></a>
 
 
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim in site.data.2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim %}
-       <li>
-
-         {{ 2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim.comment }}
-
-         <cite>{{ 2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim.author }} on {{ 2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

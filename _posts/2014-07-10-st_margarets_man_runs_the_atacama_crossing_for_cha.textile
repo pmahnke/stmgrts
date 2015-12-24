@@ -5,7 +5,7 @@ permalink: /archives/2014/07/st_margarets_man_runs_the_atacama_crossing_for_cha.
 category: news
 date: 2014-07-10 22:28:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//atacama_marathon_men.jpg" title="See larger version of - atacama marathon men"><img src="http://www.stmgrts.org.uk/images//atacama_marathon_men_thumb.jpg" width="150" height="112" alt="atacama marathon men" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/atacama_marathon_men.jpg" title="See larger version of - atacama marathon men"><img src="//stmgrts.org.uk/assets/images/2014/atacama_marathon_men_thumb.jpg" width="150" height="112" alt="atacama marathon men" class="photo right" /></a>
     
     Paul Smith, of London, and Ross Jackson, of St Margarets, both 35 years old, are competing in the Atacama Crossing in Chile for Prostate Cancer UK.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//atacama_marathon_men.jpg" title="See larger version of - atacama marathon men"><img src="http://www.stmgrts.org.uk/images//atacama_marathon_men_thumb.jpg" width="150" height="112" alt="atacama marathon men" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/atacama_marathon_men.jpg" title="See larger version of - atacama marathon men"><img src="//stmgrts.org.uk/assets/images/2014/atacama_marathon_men_thumb.jpg" width="150" height="112" alt="atacama marathon men" class="photo right" /></a>
 
 Paul Smith, of London, and Ross Jackson, of St Margarets, both 35 years old, are competing in the Atacama Crossing in Chile for Prostate Cancer UK.
 
@@ -37,7 +37,3 @@ bq.. "We're thrilled that Paul and Ross have decided to take on this challenge t
 p. Prostate Cancer UK is currently engaged in its high profile 'Men United v Prostate Cancer' campaign, which aims to build a united front of men against the disease.  Homeland star Damian Lewis, Game of Thrones hard man Charles Dance, Sir Michael Parkinson and rugby legend Will Carling - some of Britain's most iconic figures - have already signed for Men United, a unique team 'managed' by comedian Bill Bailey.
 
 To sponsor Paul and Ross please text PSRJ99 &pound;### to 70070 or visit "www.justgiving.com/PaulandRossAtacama":http://www.justgiving.com/PaulandRossAtacama.
-
-
-
-

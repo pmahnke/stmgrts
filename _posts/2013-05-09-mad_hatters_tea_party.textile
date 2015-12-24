@@ -5,7 +5,7 @@ permalink: /archives/2013/05/mad_hatters_tea_party.html
 category: around_town
 date: 2013-05-09 22:13:05
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//teaparty.jpg" title="See larger version of - tea party"><img src="http://www.stmgrts.org.uk/images//teaparty_thumb.jpg" width="150" height="116" alt="tea party" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/teaparty.jpg" title="See larger version of - tea party"><img src="//stmgrts.org.uk/assets/images/2013/teaparty_thumb.jpg" width="150" height="116" alt="tea party" class="photo right" /></a>
     
     _London 27<sup>th</sup> May 12pm-till the cake runs out!!_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//teaparty.jpg" title="See larger version of - tea party"><img src="http://www.stmgrts.org.uk/images//teaparty_thumb.jpg" width="150" height="116" alt="tea party" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/teaparty.jpg" title="See larger version of - tea party"><img src="//stmgrts.org.uk/assets/images/2013/teaparty_thumb.jpg" width="150" height="116" alt="tea party" class="photo right" /></a>
 
 _London 27<sup>th</sup> May 12pm-till the cake runs out!!_
 
@@ -22,7 +22,3 @@ Join some of the Sesame community and students of the Masters course, to have fu
 You will find us at the end of South Western Road, St Margarets, London, TW1 1LG -- we'll be the ones in fabulous costumes! So come and buy your afternoon tea and treats and then head to the park (30 seconds if that!) to enjoy the sunshine. It's going to be out 100% we're sure of it. Getting there: The closest station is St Margarets (5-10 minute walk) but you can also walk from Twickenham (10-15 minute walk). Any questions please get in touch.
 
 Please pass information onto friends and family members; anyone who you think might be interested! Family/ child friendly!  For further info and to donate contact Louisa Webster on  "louisaisha@gmail.com":mailto:louisaisha@gmail.com and see "www.facebook.com":https://www.facebook.com/events/166859866811020/
-
-
-
-

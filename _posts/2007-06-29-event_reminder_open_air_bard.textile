@@ -7,7 +7,7 @@ date: 2007-06-29 11:39:05
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/comedyoferrors.jpg"><img src="http://www.stmgrts.org.uk/images/comedyoferrors-thumb.jpg" width="150" height="99" alt="Jo Meredith and Raif Watts in Time, the show's opening sequence." class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/comedyoferrors.jpg"><img src="//stmgrts.org.uk/assets/images/2007/comedyoferrors-thumb.jpg" width="150" height="99" alt="Jo Meredith and Raif Watts in Time, the show's opening sequence." class="photo right" /></a>
 
 
 See Shakespeare's madcap "Comedy of Errors":http://www.stmgrts.org.uk/event/play/200705141659 on the sunken lawn at Twickenham's "York House":http://www.stmgrts.org.uk/directory/historic%20house/200508171541 in the latest production from the Richmond Shakespeare Society, a perfect way to enjoy the fun and frolic of Shakespeare's shortest comedy on a balmy summer's evening.
@@ -21,24 +21,3 @@ Tickets are already on sale from the box office on 020 8744 0547. Shows are at 7
 Meanwhile tomorrow's stars have been treading the boards at the Mary Wallace with Stages in Time, a Youth Theatre roller-coaster ride through the history of theatre from the Commedia dell'Arte to the present day.
 
 Director Katie Abbott says: "We had scenes from The Importance of Being Earnest', Richard III, Oliver, and a mini Restoration comedy, and the talented and enthusiastic young cast worked really hard to bring them all to life."
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-29-event_reminder_open_air_bard in site.data.2007-06-29-event_reminder_open_air_bard %}
-       <li>
-
-         {{ 2007-06-29-event_reminder_open_air_bard.comment }}
-
-         <cite>{{ 2007-06-29-event_reminder_open_air_bard.author }} on {{ 2007-06-29-event_reminder_open_air_bard.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

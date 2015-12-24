@@ -10,23 +10,3 @@ date: 2009-03-26 18:26:54
 bq. "Sidney Road currently bears the brunt of the parking problems in St Margarets."
 
 Learn more about the group at "Residents of Sidney Road":http://sidneyroad.blogspot.com/
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-26-why_sidney_road_needs_a_cpz in site.data.2009-03-26-why_sidney_road_needs_a_cpz %}
-       <li>
-
-         {{ 2009-03-26-why_sidney_road_needs_a_cpz.comment }}
-
-         <cite>{{ 2009-03-26-why_sidney_road_needs_a_cpz.author }} on {{ 2009-03-26-why_sidney_road_needs_a_cpz.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2012/04/summer_weather.html
 category: around_town
 date: 2012-04-25 20:32:51
 excerpt: |
-    |<a href="http://www.stmgrts.org.uk/images//WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="http://www.stmgrts.org.uk/images//WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//WEATHER_rain.jpg" title="See larger version of - rain"><img src="http://www.stmgrts.org.uk/images//WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
+    |<a href="//stmgrts.org.uk/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="//stmgrts.org.uk/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//WEATHER_rain.jpg" title="See larger version of - rain"><img src="http://www.stmgrts.org.uk/images//WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
     
     <pre class="poem">
     "Whether the weather is cold.
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-|<a href="http://www.stmgrts.org.uk/images//WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="http://www.stmgrts.org.uk/images//WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//WEATHER_rain.jpg" title="See larger version of - rain"><img src="http://www.stmgrts.org.uk/images//WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="//stmgrts.org.uk/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//WEATHER_rain.jpg" title="See larger version of - rain"><img src="http://www.stmgrts.org.uk/images//WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
 
 <pre class="poem">
 "Whether the weather is cold.
@@ -43,23 +43,3 @@ Then you may expect a soak.
 Does anyone know what the Oak and the Ash have been up to recently?
 
 <cite>-- from Martyn Day</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-04-25-summer_weather in site.data.2012-04-25-summer_weather %}
-       <li>
-
-         {{ 2012-04-25-summer_weather.comment }}
-
-         <cite>{{ 2012-04-25-summer_weather.author }} on {{ 2012-04-25-summer_weather.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

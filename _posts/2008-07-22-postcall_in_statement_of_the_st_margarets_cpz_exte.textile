@@ -24,23 +24,3 @@ We thank Cllrs Head and Hodgins for challenging the decision on our behalf, and 
 <cite>-- Statement issued by the _St Margarets Parking Association_</cite>
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte in site.data.2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte %}
-       <li>
-
-         {{ 2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte.comment }}
-
-         <cite>{{ 2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte.author }} on {{ 2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

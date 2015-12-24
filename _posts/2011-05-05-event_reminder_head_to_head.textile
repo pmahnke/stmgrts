@@ -5,14 +5,14 @@ permalink: /archives/2011/05/event_reminder_head_to_head.html
 category: around_town
 date: 2011-05-05 16:46:24
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//headtohead01.pdf" title="See larger version of poster "><img src="http://www.stmgrts.org.uk/images//headtohead01_thumb.gif" width="150" height="203" alt="poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/headtohead01.pdf" title="See larger version of poster "><img src="//stmgrts.org.uk/assets/images/2011/headtohead01_thumb.gif" width="150" height="203" alt="poster" class="photo right" /></a>
     
     A bar to bar analysis of Eddie Harvey and Dave Gelly's favourite Jazz recordings on Thursday, 19<sup>th</sup> May 2011 in the Studio Theatre Parkshot Richmond from 6.30 pm to 9.30 pm. Two Jazz legends choose, talk about and play their favourite Jazz recordings on their very own Jazz on a desert island - live in the Studio Theatre.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//headtohead01.pdf" title="See larger version of poster "><img src="http://www.stmgrts.org.uk/images//headtohead01_thumb.gif" width="150" height="203" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/headtohead01.pdf" title="See larger version of poster "><img src="//stmgrts.org.uk/assets/images/2011/headtohead01_thumb.gif" width="150" height="203" alt="poster" class="photo right" /></a>
 
 A bar to bar analysis of Eddie Harvey and Dave Gelly's favourite Jazz recordings on Thursday, 19<sup>th</sup> May 2011 in the Studio Theatre Parkshot Richmond from 6.30 pm to 9.30 pm. Two Jazz legends choose, talk about and play their favourite Jazz recordings on their very own Jazz on a desert island - live in the Studio Theatre.
 
@@ -44,7 +44,3 @@ h4. The Evening
 |8.15 to 8.45|Interval drinks and refreshments (bar opens again)|
 |8.45 to 9.30|Eddie talks to Dave with a selection of Dave's favourite Jazz recordings|
 |9.30|Q and A and close|
-
-
-
-

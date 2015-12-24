@@ -22,23 +22,3 @@ bq.. I met Tony Arbour and three TfL representatives at the A316 footbridge yest
 I confirm I am satisfied with the above arrangements and thank Tony for making the arrangements. Tony -- the only additional thing to push TfL on is to try to ensure the work is undertaken this summer during the school holidays.
 
 <cite>-- from Simon Fullalove, "NSMRA":http://www.nsmra.co.uk/</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-06-update_on_a316_footbridge_at_st_margarets_roundabo in site.data.2009-03-06-update_on_a316_footbridge_at_st_margarets_roundabo %}
-       <li>
-
-         {{ 2009-03-06-update_on_a316_footbridge_at_st_margarets_roundabo.comment }}
-
-         <cite>{{ 2009-03-06-update_on_a316_footbridge_at_st_margarets_roundabo.author }} on {{ 2009-03-06-update_on_a316_footbridge_at_st_margarets_roundabo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

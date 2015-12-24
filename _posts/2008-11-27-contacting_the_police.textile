@@ -5,7 +5,7 @@ permalink: /archives/2008/11/contacting_the_police.html
 category: around_town
 date: 2008-11-27 09:03:00
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/police_number_200811.jpg"><img src="http://www.stmgrts.org.uk/images/police_number_200811-thumb.jpg" width="150" height="104" alt="police number" class="photo right"/></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/police_number_200811.jpg"><img src="//stmgrts.org.uk/assets/images/2008/police_number_200811-thumb.jpg" width="150" height="104" alt="police number" class="photo right"/></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/police_number_200811.jpg"><img src="http://www.stmgrts.org.uk/images/police_number_200811-thumb.jpg" width="150" height="104" alt="police number" class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2008/police_number_200811.jpg"><img src="//stmgrts.org.uk/assets/images/2008/police_number_200811-thumb.jpg" width="150" height="104" alt="police number" class="photo right"/></a>
 
 
 
@@ -54,9 +54,3 @@ If you want to contact the _St Margarets and Twickenham North Safer Neighbourhoo
 * phone 020-8721-2912 
 
 Visit "www.met.police.uk":http://www.met.police.uk/ for more information. for more information.
-
-
-
-
-
-

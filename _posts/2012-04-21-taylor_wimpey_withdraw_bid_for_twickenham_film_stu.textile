@@ -20,24 +20,3 @@ bq.. "The CEO has agreed to back-off to give it a chance to be kept as a studio.
 "We want to get the message to a developer that does think they can get in - we will fight. In fact if anything, the campaign is growing, so it has not gone away."
 
 p. <cite>Richmond & Twickenham Times - "20 April 2012":http://www.richmondandtwickenhamtimes.co.uk/news/richmondnews/9662220.Developers_withdraw_bid_for_Twickenham_Film_Studios/?ref=eb</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-04-21-taylor_wimpey_withdraw_bid_for_twickenham_film_stu in site.data.2012-04-21-taylor_wimpey_withdraw_bid_for_twickenham_film_stu %}
-       <li>
-
-         {{ 2012-04-21-taylor_wimpey_withdraw_bid_for_twickenham_film_stu.comment }}
-
-         <cite>{{ 2012-04-21-taylor_wimpey_withdraw_bid_for_twickenham_film_stu.author }} on {{ 2012-04-21-taylor_wimpey_withdraw_bid_for_twickenham_film_stu.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

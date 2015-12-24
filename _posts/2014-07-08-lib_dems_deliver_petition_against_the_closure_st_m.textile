@@ -23,22 +23,3 @@ bq.. "The people of St Margarets and North Twickenham have spoken.  Over 600 loc
 
 
 bq. "TfL must not continue to act with the arrogance and disdain to local concerns that they have to date.  The strength of opinion is plain to see and TfL need to accept they got this one wrong."
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m in site.data.2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m %}
-       <li>
-
-         {{ 2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m.comment }}
-
-         <cite>{{ 2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m.author }} on {{ 2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

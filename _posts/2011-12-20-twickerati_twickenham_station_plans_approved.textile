@@ -7,30 +7,9 @@ date: 2011-12-20 10:20:06
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//twickerati.jpg" title="See larger version of - twickerati logo"><img src="http://www.stmgrts.org.uk/images//twickerati_thumb.jpg" width="150" height="150" alt="twickerati logo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/twickerati.jpg" title="See larger version of - twickerati logo"><img src="//stmgrts.org.uk/assets/images/2011/twickerati_thumb.jpg" width="150" height="150" alt="twickerati logo" class="photo right" /></a>
 
 
 Solum Regeneration's plans for Twickenham station were approved by Richmond Council's Planning Committee last night. At a long and sometimes stormy meeting at York House the cases for and against were presented. Despite the ruling Tory Council having recently adopted an SPD planning framework for the area which wanted a maximum of five stories at the station, the Committee decided to vote through the plans anyway. So that shiny new SPD is clearly a complete waste of time.
 
 * "Read more on twickerati":http://twickerati.wordpress.com/2011/12/20/twickenham-station-plans-approved/
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-12-20-twickerati_twickenham_station_plans_approved in site.data.2011-12-20-twickerati_twickenham_station_plans_approved %}
-       <li>
-
-         {{ 2011-12-20-twickerati_twickenham_station_plans_approved.comment }}
-
-         <cite>{{ 2011-12-20-twickerati_twickenham_station_plans_approved.author }} on {{ 2011-12-20-twickerati_twickenham_station_plans_approved.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

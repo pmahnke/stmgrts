@@ -7,7 +7,7 @@ date: 2010-12-09 18:49:55
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/swanslogo.jpg.w300h225.jpg"><img src="http://www.stmgrts.org.uk/images/swanslogo.jpg.w300h225-thumb.jpg" width="150" height="112" alt="Swan's logo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/swanslogo.jpg.w300h225.jpg"><img src="//stmgrts.org.uk/assets/images/2010/swanslogo.jpg.w300h225-thumb.jpg" width="150" height="112" alt="Swan's logo" class="photo right" /></a>
 
 
 Teddington Swans Netball Club is looking to recruit new players to join the club.
@@ -17,9 +17,3 @@ We are a friendly, sociable club that play a good level of netball. We have 3 te
 We cater for all standards and have an excellent coach who runs sessions which are a mixture of drills, fitness and match play.
 
 For more information email "teddingtonswans@hotmail.com":mailto:teddingtonswans@hotmail.com or come along to one of our training sessions which start again on 6 January 2011.
-
-
-
-
-
-

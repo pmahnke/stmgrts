@@ -24,22 +24,3 @@ We hope that you will join in.
 It should be great fun!
 
 Don't forget to "sign-up":http://stmgrts.org.uk/cgi-bin/newsletter.cgi for our _Weekly Newsletter_.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-04-28-welcome_to_stmg in site.data.2005-04-28-welcome_to_stmg %}
-       <li>
-
-         {{ 2005-04-28-welcome_to_stmg.comment }}
-
-         <cite>{{ 2005-04-28-welcome_to_stmg.author }} on {{ 2005-04-28-welcome_to_stmg.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

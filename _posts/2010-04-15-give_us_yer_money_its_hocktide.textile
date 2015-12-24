@@ -5,7 +5,7 @@ permalink: /archives/2010/04/give_us_yer_money_its_hocktide.html
 category: around_town
 date: 2010-04-15 22:00:23
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/chuggers.png"><img alt="chuggers" src="http://www.stmgrts.org.uk/images/chuggers-thumb.png" width="150" height="150" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/chuggers.png"><img alt="chuggers" src="//stmgrts.org.uk/assets/images/2010/chuggers-thumb.png" width="150" height="150" class="photo right" /></a>
     
     _Monday and Tuesday 12<sup>th</sup> and 13<sup>th</sup> April_
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/chuggers.png"><img alt="chuggers" src="http://www.stmgrts.org.uk/images/chuggers-thumb.png" width="150" height="150" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/chuggers.png"><img alt="chuggers" src="//stmgrts.org.uk/assets/images/2010/chuggers-thumb.png" width="150" height="150" class="photo right" /></a>
 
 _Monday and Tuesday 12<sup>th</sup> and 13<sup>th</sup> April_
 
@@ -66,21 +66,3 @@ Chugging is a portmanteau neologism referring to the practice of so-called 'char
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-04-15-give_us_yer_money_its_hocktide in site.data.2010-04-15-give_us_yer_money_its_hocktide %}
-       <li>
-
-         {{ 2010-04-15-give_us_yer_money_its_hocktide.comment }}
-
-         <cite>{{ 2010-04-15-give_us_yer_money_its_hocktide.author }} on {{ 2010-04-15-give_us_yer_money_its_hocktide.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

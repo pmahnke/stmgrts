@@ -7,7 +7,7 @@ date: 2011-05-15 09:20:49
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Garden-Party-Photo.jpg" title="See larger version of - Penny Horne, Baroness van Dedem, Sam Walters"><img src="http://www.stmgrts.org.uk/images/Garden-Party-Photo_thumb.jpg" width="150" height="112" alt="Penny Horne, Baroness van Dedem, Sam Walters" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Garden-Party-Photo.jpg" title="See larger version of - Penny Horne, Baroness van Dedem, Sam Walters"><img src="//stmgrts.org.uk/assets/images/2011/Garden-Party-Photo_thumb.jpg" width="150" height="112" alt="Penny Horne, Baroness van Dedem, Sam Walters" class="photo right" /></a>
 
 Stop and smell the roses, laze on the luscious lawn and enjoy tea and delectable cakes at the Orange Tree Theatre's Garden Tea Party. The annual fundraising event returns to the beautiful gardens of the Grade 1 listed Trumpeters' House on "Sunday, 5<sup>th</sup> June from 2.30 pm":http://stmgrts.org.uk/event/event/200705142753.
 
@@ -23,7 +23,3 @@ h4. Details
 * Under 12s &pound;5
 * Under 5s FREE
 * To book, call the theatre Box Office on 020 8940 3633.
-
-
-
-

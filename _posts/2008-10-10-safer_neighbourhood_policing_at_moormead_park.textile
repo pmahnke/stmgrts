@@ -5,7 +5,7 @@ permalink: /archives/2008/10/safer_neighbourhood_policing_at_moormead_park.html
 category: news
 date: 2008-10-10 21:23:49
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/police_liaison.jpg"><img src="http://www.stmgrts.org.uk/images/police_liaison-thumb.jpg" width="66" height="200" alt="Police Liaison Group" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/police_liaison.jpg"><img src="//stmgrts.org.uk/assets/images/2008/police_liaison-thumb.jpg" width="66" height="200" alt="Police Liaison Group" class="right" /></a>
     
     
     h4. What's happening in Moormead Park?
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/police_liaison.jpg"><img src="http://www.stmgrts.org.uk/images/police_liaison-thumb.jpg" width="136" height="409" alt="Police Liaison Group" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/police_liaison.jpg"><img src="//stmgrts.org.uk/assets/images/2008/police_liaison-thumb.jpg" width="136" height="409" alt="Police Liaison Group" class="right" /></a>
 
 
 h4. What's happening in Moormead Park?
@@ -44,7 +44,3 @@ h4. What can you do?
 * Report any park-cleaning issues (eg graffiti, rubbish) to the Council, who will take it up with the contractors. Contact them by phone on 020 8891 1411 or use the Street Scene fault reporting form on "www.richmond.gov.uk":http://www.richmond.gov.uk/
 
 <cite>-- from Dr Jenny G Atton</cite>
-
-
-
-

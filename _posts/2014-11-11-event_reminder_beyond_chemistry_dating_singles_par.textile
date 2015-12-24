@@ -7,7 +7,7 @@ date: 2014-11-11 20:50:30
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//beyond-chemistry-logo.png" title="See larger version of - beyond chemistry logo"><img src="http://www.stmgrts.org.uk/images//beyond-chemistry-logo_thumb.png" width="250" height="43" alt="beyond chemistry logo" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/beyond-chemistry-logo.png" title="See larger version of - beyond chemistry logo"><img src="//stmgrts.org.uk/assets/images/2014/beyond-chemistry-logo_thumb.png" width="250" height="43" alt="beyond chemistry logo" class=" right" /></a>
 
 Single? Looking to meet new people? We know how hard it is to meet someone special in London, so why leave it to fate?
 
@@ -22,9 +22,3 @@ h4. More Information
 
 * Tickets are &pound;20
 * Buy online at "www.beyondchemistrydating.co.uk":http://www.beyondchemistrydating.co.uk
-
-
-
-
-
-

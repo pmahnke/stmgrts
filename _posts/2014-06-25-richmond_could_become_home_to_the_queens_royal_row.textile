@@ -40,21 +40,3 @@ bq.. "Since having built Gloriana we've had the experience of operating both dow
 
 
 <cite>-- from a Richmond Council press release - 20 June 2014</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-06-25-richmond_could_become_home_to_the_queens_royal_row in site.data.2014-06-25-richmond_could_become_home_to_the_queens_royal_row %}
-       <li>
-
-         {{ 2014-06-25-richmond_could_become_home_to_the_queens_royal_row.comment }}
-
-         <cite>{{ 2014-06-25-richmond_could_become_home_to_the_queens_royal_row.author }} on {{ 2014-06-25-richmond_could_become_home_to_the_queens_royal_row.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

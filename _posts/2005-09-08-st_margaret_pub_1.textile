@@ -34,21 +34,3 @@ p>. -- _from Councillor Annie Hambidge_
 
 Phone 07813 362477
 Email: "cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-08-st_margaret_pub_1 in site.data.2005-09-08-st_margaret_pub_1 %}
-       <li>
-
-         {{ 2005-09-08-st_margaret_pub_1.comment }}
-
-         <cite>{{ 2005-09-08-st_margaret_pub_1.author }} on {{ 2005-09-08-st_margaret_pub_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2012-01-04 12:53:20
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//pluto_appeal_zorans.jpg" title="See larger version of - Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin "><img src="http://www.stmgrts.org.uk/images//pluto_appeal_zorans_thumb.jpg" width="150" height="112" alt="Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin " class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/pluto_appeal_zorans.jpg" title="See larger version of - Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin "><img src="//stmgrts.org.uk/assets/images/2012/pluto_appeal_zorans_thumb.jpg" width="150" height="112" alt="Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin " class="photo right" /></a>
 
 "THE PLUTO APPEAL":http://www.theplutoappeal.com smashes through fundraising halfway mark, thanks to a corporate donation of &pound;500,000 from GlaxoSmithKline (GSK).
 
@@ -28,7 +28,3 @@ Mr Munther Haddad, Service Director of Paediatric Surgery at Chelsea and Westmin
 Their support also demonstrates their recognition of the importance of having a robotic operating facility for children and babies at Chelsea and Westminster Hospital."
 
 Jason Bradbury, (The Gadget Show), patron for The Pluto Appeal said: "Helping to buy Pluto the Robot is the most important project I've ever been involved with and so I'm thrilled that it's been given such a huge boost by GSK."
-
-
-
-

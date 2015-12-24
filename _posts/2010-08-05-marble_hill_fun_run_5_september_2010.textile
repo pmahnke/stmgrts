@@ -7,7 +7,7 @@ date: 2010-08-05 20:34:12
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/cancer_marble_hill_run.jpg" title="See larger version of - Cancer Run Poster"><img src="http://www.stmgrts.org.uk/images/events/cancer_marble_hill_run_thumb.jpg" width="105" height="150" alt="Cancer Run Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/cancer_marble_hill_run.jpg" title="See larger version of - Cancer Run Poster"><img src="//stmgrts.org.uk/assets/images/2010/cancer_marble_hill_run_thumb.jpg" width="105" height="150" alt="Cancer Run Poster" class="photo right" /></a>
 
 _Join us for a "scenic fun run":http://stmgrts.org.uk/event/event/200705142491 set in the beautiful historic grounds of Marble Hill Park in aid of Cancer Research UK's life-saving work._
 
@@ -22,6 +22,3 @@ h4. Details
 * For futher information email: "CancerResearch_MarbleHillRun@live.co.uk":mailto:CancerResearch_MarbleHillRun@live.co.uk.
 * Entry: &pound;10 adults, &pound;5 children
 * Distance: 6K adults, 1K children
-
-
-

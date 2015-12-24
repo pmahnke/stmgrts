@@ -5,7 +5,7 @@ permalink: /archives/2013/09/stay_classy_harris_hoole.html
 category: news
 date: 2013-09-11 10:36:43
 excerpt: |
-    
+    <div class="warning">
     NOTE: Harris + Hoole has withdrawn their application.
     </div>
 
@@ -34,23 +34,3 @@ Mr Halton also revealed he had not been able to speak to management at Harris + 
 <cite>-- from "London Evening Standard":http://www.standard.co.uk/news/london/coffee-shop-harris--hoole-angers-twickenham-residents-by-applying-for-booze-licence-8806406.html - 10 September 2013</cite>
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-09-11-stay_classy_harris_hoole in site.data.2013-09-11-stay_classy_harris_hoole %}
-       <li>
-
-         {{ 2013-09-11-stay_classy_harris_hoole.comment }}
-
-         <cite>{{ 2013-09-11-stay_classy_harris_hoole.author }} on {{ 2013-09-11-stay_classy_harris_hoole.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

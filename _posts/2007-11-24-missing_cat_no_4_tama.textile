@@ -16,23 +16,3 @@ We miss him very much and are very worried as he has never stayed  away this lon
 We last saw him on Monday morning 19 November 2007.
 
 Please email "s.rofanishearer@btinternet.com":mailto:s.rofanishearer@btinternet.com
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-11-24-missing_cat_no_4_tama in site.data.2007-11-24-missing_cat_no_4_tama %}
-       <li>
-
-         {{ 2007-11-24-missing_cat_no_4_tama.comment }}
-
-         <cite>{{ 2007-11-24-missing_cat_no_4_tama.author }} on {{ 2007-11-24-missing_cat_no_4_tama.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

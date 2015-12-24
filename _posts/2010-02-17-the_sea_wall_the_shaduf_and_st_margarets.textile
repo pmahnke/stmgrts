@@ -5,13 +5,13 @@ permalink: /archives/2010/02/the_sea_wall_the_shaduf_and_st_margarets.html
 category: around_town
 date: 2010-02-17 11:56:07
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//sea_wall_2.png" title="See larger version of - Shaduf"><img src="http://www.stmgrts.org.uk/images//sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="//stmgrts.org.uk/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
     
     There was a time when the St Margarets that we know didn't exist. No station. No shops. No pub. No cafes, No streets crammed with cars...nothing. The Thames flowed quietly towards the sea through an open parkland of grand houses, smallholdings and market gardens. Boatmen might stop at Richmond to drop off a passenger or pull into Isleworth to collect a cargo but between the two there was little catch their interest.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//sea_wall_2.png" title="See larger version of - Shaduf"><img src="http://www.stmgrts.org.uk/images//sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="//stmgrts.org.uk/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
 
 There was a time when the St Margarets that we know didn't exist. No station. No shops. No pub. No cafes, No streets crammed with cars...nothing. The Thames flowed quietly towards the sea through an open parkland of grand houses, smallholdings and market gardens. Boatmen might stop at Richmond to drop off a passenger or pull into Isleworth to collect a cargo but between the two there was little catch their interest.
 
@@ -29,7 +29,7 @@ bq. "The time or period when these walls were constructed is one of those events
 
 Over the last two hundred years the course of the river has been modified. Embankments were built and the tidal flow controlled by lock gates up stream and from 1894 the Richmond Half Tide lock.  As more and more houses were built in the area the land upon which they stood was raised and drained to avoid flooding. In the course of all this work the old sea walls disappeared.
 
-<a href="http://www.stmgrts.org.uk/images/events/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="http://www.stmgrts.org.uk/images/events/sea_wall_1_thumb.png" width="150" height="99" alt="DUCKS WALK" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="//stmgrts.org.uk/assets/images/2010/sea_wall_1_thumb.png" width="150" height="99" alt="DUCKS WALK" class="photo right" /></a>
 
 
 The last remaining sea wall in the area ran alongside 'Ducks Walk' following the course of the river from Twickenham Bridge to East Twickenham. It finally disappeared when the path was widened and the land raised to allow houses to be built. 'Ducks Walk' was well named. Prior to the builders arriving 'Ducks Walk' was much lower than it is now and often flooded at high tide. It is hard to imagine that where the houses now stand was once marshland.
@@ -41,7 +41,3 @@ This 'machinery' consisted of a vertical post set firmly in the ground a few fee
 The railway came in 1845 and soon modern St Margarets began to fill in around it. Gradually the market gardens, the smallholdings and the seawalls that protected them began to disappear under concrete and landfill. In the 1920's workmen digging a deep trench in Worple Road in Old Isleworth found a reminder of the area as it once was. At a depth of about 11 feet they came across bundles of blackened twigs tied together and placed there at some time in the past to make a path across swampy ground.  The recent history of St Margarets is just beneath our feet... and it's very, very wet.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

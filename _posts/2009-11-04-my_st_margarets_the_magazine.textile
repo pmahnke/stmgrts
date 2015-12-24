@@ -7,32 +7,13 @@ date: 2009-11-04 18:14:50
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/StMargarets_cover.jpg"><img src="http://www.stmgrts.org.uk/images/StMargarets_cover-thumb.jpg" width="106" height="150" alt="Cover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/StMargarets_cover.jpg"><img src="//stmgrts.org.uk/assets/images/2009/StMargarets_cover-thumb.jpg" width="106" height="150" alt="Cover" class="photo right" /></a>
 
 
 Coming soon through your letter box, _My St Margarets, The Magazine_, published this week by the _St Margarets Traders Association_. An essential guide to a St Margarets Christmas, the magazine is bursting with gift ideas, special offers, local news and features.
 
 
-<a href="http://www.stmgrts.org.uk/images/StMargarets_cover.jpg"><img src="http://www.stmgrts.org.uk/images/StMargarets_cover-thumb.jpg" width="106" height="150" alt="Cover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/StMargarets_cover.jpg"><img src="//stmgrts.org.uk/assets/images/2009/StMargarets_cover-thumb.jpg" width="106" height="150" alt="Cover" class="photo right" /></a>
 
 
 Coming soon through your letter box, _My St Margarets, The Magazine_, published this week by the _St Margarets Traders Association_. An essential guide to a St Margarets Christmas, the magazine is bursting with gift ideas, special offers, local news and features.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-11-04-my_st_margarets_the_magazine in site.data.2009-11-04-my_st_margarets_the_magazine %}
-       <li>
-
-         {{ 2009-11-04-my_st_margarets_the_magazine.comment }}
-
-         <cite>{{ 2009-11-04-my_st_margarets_the_magazine.author }} on {{ 2009-11-04-my_st_margarets_the_magazine.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

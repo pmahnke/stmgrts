@@ -5,13 +5,13 @@ permalink: /archives/2015/02/event_reminder_rtps_annual_exhibition_25_march_to.h
 category: around_town
 date: 2015-02-19 20:32:21
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//RTPS-Exhibition-Poster-2015-.jpg" title="See larger version of - RTPS Exhibition Poster 2015 "><img src="http://www.stmgrts.org.uk/images//RTPS-Exhibition-Poster-2015-_thumb.jpg" width="150" height="212" alt="RTPS Exhibition Poster 2015 - Photograph by Seamus Reid, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/RTPS-Exhibition-Poster-2015-.jpg" title="See larger version of - RTPS Exhibition Poster 2015 "><img src="//stmgrts.org.uk/assets/images/2015/RTPS-Exhibition-Poster-2015-_thumb.jpg" width="150" height="212" alt="RTPS Exhibition Poster 2015 - Photograph by Seamus Reid, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
     
     The Richmond & Twickenham Photographic Society are holding their "annual exhibition at The Landmark Arts Centre in Teddington, from March 25<sup>th</sup> to 6<sup>th</sup> April.":http://www.stmgrts.org.uk/event/exhibition/200705144906
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//RTPS-Exhibition-Poster-2015-.jpg" title="See larger version of - RTPS Exhibition Poster 2015 "><img src="http://www.stmgrts.org.uk/images//RTPS-Exhibition-Poster-2015-_thumb.jpg" width="250" height="353" alt="RTPS Exhibition Poster 2015 - Photograph by Seamus Reid, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/RTPS-Exhibition-Poster-2015-.jpg" title="See larger version of - RTPS Exhibition Poster 2015 "><img src="//stmgrts.org.uk/assets/images/2015/RTPS-Exhibition-Poster-2015-_thumb.jpg" width="250" height="353" alt="RTPS Exhibition Poster 2015 - Photograph by Seamus Reid, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
 
 The Richmond & Twickenham Photographic Society are holding their "annual exhibition at The Landmark Arts Centre in Teddington, from March 25<sup>th</sup> to 6<sup>th</sup> April.":http://www.stmgrts.org.uk/event/exhibition/200705144906
 
@@ -25,6 +25,3 @@ h4. More Information
 * Admission &pound;2.00 (Children free)
 * 020 8977 7558
 * "www.rtps.org.uk":http://www.rtps.org.uk
-
-
-

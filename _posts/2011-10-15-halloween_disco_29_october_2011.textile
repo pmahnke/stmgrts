@@ -5,7 +5,7 @@ permalink: /archives/2011/10/halloween_disco_29_october_2011.html
 category: around_town
 date: 2011-10-15 10:47:01
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Halloween-disco-2011-flyer-A4.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Halloween-disco-2011-flyer-A4_thumb.jpg" width="150" height="205" alt="poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/Halloween-disco-2011-flyer-A4.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Halloween-disco-2011-flyer-A4_thumb.jpg" width="150" height="205" alt="poster" class="photo right" /></a>
     
     On "Saturday 29<sup>th</sup> October 2011 from 10am to 12pm":http://www.stmgrts.org.uk/event/party/200705143061 in Winchester Hall, the National Childbirth Trust, Twickenham and Diddi Dance bring you Halloween Disco!  
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Halloween-disco-2011-flyer-A4.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//Halloween-disco-2011-flyer-A4_thumb.jpg" width="150" height="205" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Halloween-disco-2011-flyer-A4.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/Halloween-disco-2011-flyer-A4_thumb.jpg" width="150" height="205" alt="poster" class="photo right" /></a>
 
 On "Saturday 29<sup>th</sup> October 2011 from 10am to 12pm":http://www.stmgrts.org.uk/event/party/200705143061 in Winchester Hall, the National Childbirth Trust, Twickenham and Diddi Dance bring you Halloween Disco!  
 
@@ -37,7 +37,3 @@ h4. Details
 
 _All proceeds to go to the National Childbirth Trust_
 _Registered charity no. 801395_
-
-
-
-

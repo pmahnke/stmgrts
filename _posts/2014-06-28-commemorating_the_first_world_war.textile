@@ -5,7 +5,7 @@ permalink: /archives/2014/06/commemorating_the_first_world_war.html
 category: news
 date: 2014-06-28 12:43:14
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//bw-wartimeimage_03.jpg" title="See larger version of - WWI soldiers"><img src="http://www.stmgrts.org.uk/images//bw-wartimeimage_03_thumb.jpg" width="150" height="55" alt="WWI soldiers" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/bw-wartimeimage_03.jpg" title="See larger version of - WWI soldiers"><img src="//stmgrts.org.uk/assets/images/2014/bw-wartimeimage_03_thumb.jpg" width="150" height="55" alt="WWI soldiers" class="photo right" /></a>
     
     To commemorate the Centenary of the First World War, a series of borough-wide events will be launched by Richmond Council throughout the year to mark the anniversary.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//bw-wartimeimage_03.jpg" title="See larger version of - WWI soldiers"><img src="http://www.stmgrts.org.uk/images//bw-wartimeimage_03_thumb.jpg" width="630" height="234" alt="WWI soldiers" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/bw-wartimeimage_03.jpg" title="See larger version of - WWI soldiers"><img src="//stmgrts.org.uk/assets/images/2014/bw-wartimeimage_03_thumb.jpg" width="630" height="234" alt="WWI soldiers" class="photo center" /></a>
 
 To commemorate the Centenary of the First World War, a series of borough-wide events will be launched by Richmond Council throughout the year to mark the anniversary.
 
@@ -31,7 +31,3 @@ h4. More Information
 
 * "Richmond Council WWI page":http://www.richmond.gov.uk/WW1
 * "local events":http://www.visitrichmond.co.uk/thedms.aspx?dms=12&groupid=1&f=World+War+One+Centenary&msg=Events+in+Richmond+to+commemorate+100+years+since+WW1
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2014/06/signup_for_dragon_boat_races_21_june_2014.html
 category: news
 date: 2014-06-05 21:23:43
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Dragon_16June12.jpg" title="See larger version of - Dragon boats from 2013"><img src="http://www.stmgrts.org.uk/images//Dragon_16June12_thumb.jpg" width="150" height="100" alt="Dragon boats from 2013" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Dragon_16June12.jpg" title="See larger version of - Dragon boats from 2013"><img src="//stmgrts.org.uk/assets/images/2014/Dragon_16June12_thumb.jpg" width="150" height="100" alt="Dragon boats from 2013" class="photo right" /></a>
     
     Once again the popular Dragon Boat races return to Twickenham Riverside this June as part of the Twickenham Alive Riverside Events. 
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Dragon_16June12.jpg" title="See larger version of - Dragon boats from 2013"><img src="http://www.stmgrts.org.uk/images//Dragon_16June12_thumb.jpg" width="150" height="100" alt="Dragon boats from 2013" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Dragon_16June12.jpg" title="See larger version of - Dragon boats from 2013"><img src="//stmgrts.org.uk/assets/images/2014/Dragon_16June12_thumb.jpg" width="150" height="100" alt="Dragon boats from 2013" class="photo right" /></a>
 
 Once again the popular Dragon Boat races return to Twickenham Riverside this June as part of the Twickenham Alive Riverside Events. 
 
@@ -26,7 +26,3 @@ Winning team gets a cup and an Original Stormtrooper Helmet worth &pound;500 and
 h4. More Information
 
 * "www.twickenhamalive.com/TwickFest14Dragon.html":http://www.twickenhamalive.com/TwickFest14Dragon.html
-
-
-
-

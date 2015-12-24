@@ -7,7 +7,7 @@ date: 2014-05-08 21:39:01
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//sunflower.jpg" title="See larger version of - sunflower"><img src="http://www.stmgrts.org.uk/images//sunflower_thumb.jpg" width="150" height="99" alt="sunflower" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/sunflower.jpg" title="See larger version of - sunflower"><img src="//stmgrts.org.uk/assets/images/2014/sunflower_thumb.jpg" width="150" height="99" alt="sunflower" class="photo right" /></a>
 
 Broomfield House School has taken over the well established and much loved Sunflower Montessori Nursery in St Margarets this week.
 
@@ -23,7 +23,3 @@ Headteacher and owner of Broomfield House School, Norton York, comments:
 bq. "Sunflower is a great school already, and we look forward to helping build on its success and to making the experience our Sunflower pupils have even more special. Sunflower pupils will also get priority on places when applying to Broomfield and we look forward to building the links between our three schools even closer."
 
 Sunflower offers places to children from rising 3's up to 5, at reception age. Children can come 5 mornings a week, and for afternoons Monday to Friday as well. There are also holiday clubs planned for Sunflower pupils as well.
-
-
-
-

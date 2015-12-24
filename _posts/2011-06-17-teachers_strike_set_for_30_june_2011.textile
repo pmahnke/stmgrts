@@ -31,25 +31,3 @@ Updates:
 
 * 23 June - added Orleans Infant School, thanks Camilla Danson
 * 27 June - added Archdeacon, Grey Court and Stanley Primary, thanks Ian, Becky, Kim and Graham
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-06-17-teachers_strike_set_for_30_june_2011 in site.data.2011-06-17-teachers_strike_set_for_30_june_2011 %}
-       <li>
-
-         {{ 2011-06-17-teachers_strike_set_for_30_june_2011.comment }}
-
-         <cite>{{ 2011-06-17-teachers_strike_set_for_30_june_2011.author }} on {{ 2011-06-17-teachers_strike_set_for_30_june_2011.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2007-04-05 12:40:00
 
 ---
 
-<img src="http://stmgrts.org.uk/images/events/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2007/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" />
 
 Corks will be popping at one of South London's fastest growing independent wine merchants when "The Good Wine Shop":http://stmgrts.org.uk/directory/wine_aNd_spirits/200511281416 in St Margarets hosts a special "Spring wine tasting event":http://stmgrts.org.uk/event/Exhibition/200704050632.
 
@@ -26,21 +26,3 @@ The Good Wine Shop was established six years ago and since Mark took over in 200
 Special "double" discounts on mixed cases will be available at the event. Tickets can be purchased from The Good Wine Shop in advance at a cost of &pound;7.50 per person or &pound;10.00 on the door.
 
 -- _from a press release_
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-04-05-event_reminder_the_good_wine_shop_spring_tasting in site.data.2007-04-05-event_reminder_the_good_wine_shop_spring_tasting %}
-       <li>
-
-         {{ 2007-04-05-event_reminder_the_good_wine_shop_spring_tasting.comment }}
-
-         <cite>{{ 2007-04-05-event_reminder_the_good_wine_shop_spring_tasting.author }} on {{ 2007-04-05-event_reminder_the_good_wine_shop_spring_tasting.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

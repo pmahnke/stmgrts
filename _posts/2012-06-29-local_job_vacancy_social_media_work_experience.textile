@@ -5,7 +5,7 @@ permalink: /archives/2012/06/local_job_vacancy_social_media_work_experience.html
 category: around_town
 date: 2012-06-29 09:29:58
 excerpt: |
-    <a href="http://traders.stmgrts.org.uk/ title="St Margarets Traders Association"><img src="http://traders.stmgrts.org.uk/images/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"></a>
+    <a href="http://traders.stmgrts.org.uk/ title="St Margarets Traders Association"><img src="//stmgrts.org.uk/assets/images/2012/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"></a>
     	    	
     
     The St Margarets Traders Association is keen to increase the use of it's website "www.mystmargarets.com":http://www.mystmargarets.com by developing new social media campaigns and exciting web site content. They are seeking a local person looking for work experience around the web and social media marketing.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://traders.stmgrts.org.uk/ title="St Margarets Traders Association"><img src="http://traders.stmgrts.org.uk/images/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"></a>
+<a href="http://traders.stmgrts.org.uk/ title="St Margarets Traders Association"><img src="//stmgrts.org.uk/assets/images/2012/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"></a>
 	    	
 
 The St Margarets Traders Association is keen to increase the use of it's website "www.mystmargarets.com":http://www.mystmargarets.com by developing new social media campaigns and exciting web site content. They are seeking a local person looking for work experience around the web and social media marketing.
@@ -26,7 +26,3 @@ This opportunity is ideal for somebody wishing to develop and showcase their soc
 The association is planning a series of social media marketing trials during the autumn and this opportunity could form part of coursework for a local student or budding marketing entrepreneur.
 
 Applicants interested in this role should send their details to "traders@mystmargarets.com":mailto:traders@mystmargarets.com by 20 July 2012
-
-
-
-

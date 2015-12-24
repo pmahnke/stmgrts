@@ -26,22 +26,3 @@ bq. "This is long awaited good news. The A316 improvements should be a real help
 
 
 <cite>-- from a Richmond Council "press release - 27 March 2015":http://www.richmond.gov.uk/home/council/news/press_office/older_news/march_2015/10m_to_improve_cycling_facilities.htm</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-03-27-richmond_council_gets_10_million_to_improve_cyclin in site.data.2015-03-27-richmond_council_gets_10_million_to_improve_cyclin %}
-       <li>
-
-         {{ 2015-03-27-richmond_council_gets_10_million_to_improve_cyclin.comment }}
-
-         <cite>{{ 2015-03-27-richmond_council_gets_10_million_to_improve_cyclin.author }} on {{ 2015-03-27-richmond_council_gets_10_million_to_improve_cyclin.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

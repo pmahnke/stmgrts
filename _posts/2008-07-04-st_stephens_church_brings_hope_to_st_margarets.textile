@@ -7,7 +7,7 @@ date: 2008-07-04 08:08:47
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/hope_ststephens.jpg"><img src="http://www.stmgrts.org.uk/images/hope_ststephens-thumb.jpg" width="150" height="85" alt="hope logo" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/hope_ststephens.jpg"><img src="//stmgrts.org.uk/assets/images/2008/hope_ststephens-thumb.jpg" width="150" height="85" alt="hope logo" class="right" /></a>
 
 
 St Stephen's Church will be reaching out, further into the community, for a fortnight of social action and prayer in and around St Margaret's from Sunday 29th June to 13th July. They have organised many projects from cleaning gardens to painting Marble Hill Park's fence, visiting house bound people to quenching the thirst of commuters!
@@ -19,9 +19,3 @@ And why? St Stephen's wants to be a blessing to the community and to demonstrate
 No strings, no nonsense, display of love to all!
 
 <cite>-- from a St Stephen's press release</cite>
-
-
-
-
-
-

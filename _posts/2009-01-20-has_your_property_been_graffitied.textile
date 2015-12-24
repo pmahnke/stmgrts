@@ -22,24 +22,3 @@ London Road
 Twickenham
 TW1 3SY				
 Tel 0208 721 2912							
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-01-20-has_your_property_been_graffitied in site.data.2009-01-20-has_your_property_been_graffitied %}
-       <li>
-
-         {{ 2009-01-20-has_your_property_been_graffitied.comment }}
-
-         <cite>{{ 2009-01-20-has_your_property_been_graffitied.author }} on {{ 2009-01-20-has_your_property_been_graffitied.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

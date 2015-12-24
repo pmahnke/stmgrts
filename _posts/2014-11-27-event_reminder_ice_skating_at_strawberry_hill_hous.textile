@@ -17,24 +17,3 @@ _A percentage of all ticket sales will go to Strawberry Hill House towards fundi
 h4. More Information
 
 * "www.richmondrink.com":http://www.richmondrink.com/
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-11-27-event_reminder_ice_skating_at_strawberry_hill_hous in site.data.2014-11-27-event_reminder_ice_skating_at_strawberry_hill_hous %}
-       <li>
-
-         {{ 2014-11-27-event_reminder_ice_skating_at_strawberry_hill_hous.comment }}
-
-         <cite>{{ 2014-11-27-event_reminder_ice_skating_at_strawberry_hill_hous.author }} on {{ 2014-11-27-event_reminder_ice_skating_at_strawberry_hill_hous.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

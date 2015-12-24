@@ -23,21 +23,3 @@ Therefore, I recommend the following etiquette:
 * Use you real email address _at all times_ it isn't published, but let's the site Administrator know its a real person.
 
 Thank you.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-12-07-on_comments in site.data.2005-12-07-on_comments %}
-       <li>
-
-         {{ 2005-12-07-on_comments.comment }}
-
-         <cite>{{ 2005-12-07-on_comments.author }} on {{ 2005-12-07-on_comments.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2011/07/did_shakespeare_come_to_isleworth.html
 category: around_town
 date: 2011-07-07 11:11:30
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Shakespeare.jpg" title="See larger version of - W. Shakespeare"><img src="http://www.stmgrts.org.uk/images//Shakespeare_thumb.jpg" width="150" height="180" alt="W. Shakespeare" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/Shakespeare.jpg" title="See larger version of - W. Shakespeare"><img src="//stmgrts.org.uk/assets/images/2011/Shakespeare_thumb.jpg" width="150" height="180" alt="W. Shakespeare" class="photo right" /></a>
     
     In his 1948 book, "And So Make A City Here" local historian G.E Bate suggests that our greatest poet and playwright William Shakespeare may have come to Isleworth in 1615, the year before his death, and stayed for a fortnight at the Vicarage, the home of his friend Nicholas Byfield. Like Shakespeare, Nicholas Byfield was born in Stratford on Avon and according to G.E Bate this shared birthplace was enough to make them good friends.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Shakespeare.jpg" title="See larger version of - W. Shakespeare"><img src="http://www.stmgrts.org.uk/images//Shakespeare_thumb.jpg" width="150" height="180" alt="W. Shakespeare" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Shakespeare.jpg" title="See larger version of - W. Shakespeare"><img src="//stmgrts.org.uk/assets/images/2011/Shakespeare_thumb.jpg" width="150" height="180" alt="W. Shakespeare" class="photo right" /></a>
 
 In his 1948 book, "And So Make A City Here" local historian G.E Bate suggests that our greatest poet and playwright William Shakespeare may have come to Isleworth in 1615, the year before his death, and stayed for a fortnight at the Vicarage, the home of his friend Nicholas Byfield. Like Shakespeare, Nicholas Byfield was born in Stratford on Avon and according to G.E Bate this shared birthplace was enough to make them good friends.
 
@@ -29,7 +29,7 @@ bq.. "Tell me, my good fellow. What's that place over there called?"
 
 "Um. Interesting. Maybe I could use that name in my next play!"
 
-p. <a href="http://www.stmgrts.org.uk/images//220px-Nicholas_Byfield.jpg" title="See larger version of - Nicholas Byfield"><img src="http://www.stmgrts.org.uk/images//220px-Nicholas_Byfield_thumb.jpg" width="150" height="194" alt="Nicholas Byfield" class="photo right" /></a>
+p. <a href="//stmgrts.org.uk/assets/images/2011/220px-Nicholas_Byfield.jpg" title="See larger version of - Nicholas Byfield"><img src="//stmgrts.org.uk/assets/images/2011/220px-Nicholas_Byfield_thumb.jpg" width="150" height="194" alt="Nicholas Byfield" class="photo right" /></a>
 
 Nicolas Byfield was the son of Richard Byfield who was later to become Vicar of Stratford. In 1596 Nicholas entered Exeter College, Oxford but failed to graduate. Taking holy orders he set off to establish a ministry in Ireland but stopped at Chester on the way. After some giving some well received sermons he was persuaded to stay on in the city as a preacher and very popular he became too.
 
@@ -39,7 +39,7 @@ bq. The next day after his death he was opened by Mr. Millins, the chirurgion, w
 
 A drawing of this massive stone appears on the lower half of a small portrait of Nicholas Byfield.
 
-<a href="http://www.stmgrts.org.uk/images//AllSaintsIsleworth1750.jpg" title="See larger version of - All Saints Church Isleworth in 1750"><img src="http://www.stmgrts.org.uk/images//AllSaintsIsleworth1750_thumb.jpg" width="150" height="99" alt="All Saints Church Isleworth in 1750" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/AllSaintsIsleworth1750.jpg" title="See larger version of - All Saints Church Isleworth in 1750"><img src="//stmgrts.org.uk/assets/images/2011/AllSaintsIsleworth1750_thumb.jpg" width="150" height="99" alt="All Saints Church Isleworth in 1750" class="photo right" /></a>
 
 But were Byfield and Shakespeare friends? It is true that Shakespeare and Byfield were both born in Stratford-upon-Avon but Shakespeare was born there in 1564 and Byfield a full 15 years later in 1579. In Elizabethan times 15 years was a lifetime. When Shakespeare first went to London in 1585 he was 21 years old and Nicolas only 6. When he returned to Stratford in 1597 Nicholas was already at Exeter College, Oxford  - and from there he went to Chester as a preacher. There is a slim chance  they may have been acquainted but with 15 years and lots of geography between them it doesn't seem likely that they were close enough for Shakespeare to spend a fortnight in Byfield's house in Isleworth.
 
@@ -60,7 +60,3 @@ Interestingly a William Shakespeare, the son of Leonard Shakespeare, was born in
 </div>
 
  <cite>-- from Martyn Day</cite>
-
-
-
-

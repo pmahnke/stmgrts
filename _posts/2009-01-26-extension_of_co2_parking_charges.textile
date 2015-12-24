@@ -27,24 +27,3 @@ Summary of key points
 What do you think?  _leave a comment below_
 
 <cite>source Maeve Good</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-01-26-extension_of_co2_parking_charges in site.data.2009-01-26-extension_of_co2_parking_charges %}
-       <li>
-
-         {{ 2009-01-26-extension_of_co2_parking_charges.comment }}
-
-         <cite>{{ 2009-01-26-extension_of_co2_parking_charges.author }} on {{ 2009-01-26-extension_of_co2_parking_charges.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

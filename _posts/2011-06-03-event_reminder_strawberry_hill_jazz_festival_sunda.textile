@@ -7,7 +7,7 @@ date: 2011-06-03 17:53:59
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 On "Sunday, 5<sup>th</sup> June 2011 from  2 to 9.30 pm":http://stmgrts.org.uk/event/fair/200705142775 (gates open 1pm).
 
@@ -34,21 +34,3 @@ h4. Details
 * Purchase online at: "www.strawberryhillhouse.org.uk":http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=26 or "Richmond and Twickenham Jazz Club":http://www.stmgrts.org.uk/directory/music/200802050810
 * Enquiries 0208 286 3242
 * "Download a brochure":http://www.stmgrts.org.uk/images/SHT035_jazz_2.pdf
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda in site.data.2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda %}
-       <li>
-
-         {{ 2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda.comment }}
-
-         <cite>{{ 2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda.author }} on {{ 2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

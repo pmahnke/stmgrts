@@ -18,24 +18,3 @@ I would like to reassure those parents who have been not yet been allocated a pl
 p. Parents have two weeks in which to accept or decline places.
 
 <cite> -- sent by Christopher J Squire</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-03-29-primary_school_offers_day_93_get_a_school_of_choic in site.data.2010-03-29-primary_school_offers_day_93_get_a_school_of_choic %}
-       <li>
-
-         {{ 2010-03-29-primary_school_offers_day_93_get_a_school_of_choic.comment }}
-
-         <cite>{{ 2010-03-29-primary_school_offers_day_93_get_a_school_of_choic.author }} on {{ 2010-03-29-primary_school_offers_day_93_get_a_school_of_choic.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

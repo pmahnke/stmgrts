@@ -7,7 +7,7 @@ date: 2009-02-20 13:00:18
 
 ---
 
-<a href="http://stmgrts.org.uk/images/events/kyeatman.jpg" title="See larger version of - Kristin Yeatman"><img src="http://stmgrts.org.uk/images/events/kyeatman_thumb.jpg" width="137" height="150" alt="Kristin Yeatman" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/kyeatman.jpg" title="See larger version of - Kristin Yeatman"><img src="//stmgrts.org.uk/assets/images/2009/kyeatman_thumb.jpg" width="137" height="150" alt="Kristin Yeatman" class="photo right" /></a>
 
 On 27<sup>th</sup> February at 7.30pm in Winchester Hall, come see "Kristin Yeatman and her band.":http://www.stmgrts.org.uk/event/show/200705142062
 
@@ -22,24 +22,3 @@ With Gabriel Garrick trumpet/flglhorn, Bob McKay saxophone, Matt McDonough drums
 * Winchester Hall
 * Doors open 7.30
 * &pound;5 on the door
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-02-20-event_reminder_kristin_yeatman in site.data.2009-02-20-event_reminder_kristin_yeatman %}
-       <li>
-
-         {{ 2009-02-20-event_reminder_kristin_yeatman.comment }}
-
-         <cite>{{ 2009-02-20-event_reminder_kristin_yeatman.author }} on {{ 2009-02-20-event_reminder_kristin_yeatman.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

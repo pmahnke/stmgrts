@@ -5,7 +5,7 @@ permalink: /archives/2008/04/missing_cat_no_5_benny.html
 category: around_town
 date: 2008-04-04 08:13:27
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/Lostcat.jpg"><img src="http://www.stmgrts.org.uk/images/Lostcat-thumb.jpg" width="145" height="150" alt="Benny" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/Lostcat.jpg"><img src="//stmgrts.org.uk/assets/images/2008/Lostcat-thumb.jpg" width="145" height="150" alt="Benny" class="photo right" /></a>
     
     
     Please can you help, I have lost my cat, Benny.
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Lostcat.jpg"><img src="http://www.stmgrts.org.uk/images/Lostcat-thumb.jpg" width="145" height="150" alt="Benny" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/Lostcat.jpg"><img src="//stmgrts.org.uk/assets/images/2008/Lostcat-thumb.jpg" width="145" height="150" alt="Benny" class="photo right" /></a>
 
 
 Please can you help, I have lost my cat, Benny.
@@ -25,24 +25,3 @@ Please can you help, I have lost my cat, Benny.
 He has very distinctive markings and wears a blue collar. He went missing from the Turks Head end of Winchester Road on Thursday 21st Feb 08, we only moved to the are from Enfield at the end of Jan 08. We really miss him. I would be grateful if people could check garages and sheds etc. He is microchipped and I have put up some posters already. I have attached a photo of him too.
 
 Sally Evans can be contacted on 07958305102 or "thisissallyevans@aol.com":mailto:thisissallyevans@aol.com.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-04-04-missing_cat_no_5_benny in site.data.2008-04-04-missing_cat_no_5_benny %}
-       <li>
-
-         {{ 2008-04-04-missing_cat_no_5_benny.comment }}
-
-         <cite>{{ 2008-04-04-missing_cat_no_5_benny.author }} on {{ 2008-04-04-missing_cat_no_5_benny.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

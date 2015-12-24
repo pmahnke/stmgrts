@@ -5,7 +5,7 @@ permalink: /archives/2008/07/toss_oars.html
 category: around_town
 date: 2008-07-21 22:28:32
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/shallop.jpg"><img src="http://www.stmgrts.org.uk/images/shallop-thumb.jpg" width="150" height="112" alt="Cubs on the JUBILANT" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/shallop.jpg"><img src="//stmgrts.org.uk/assets/images/2008/shallop-thumb.jpg" width="150" height="112" alt="Cubs on the JUBILANT" class="photo right" /></a>
     
     
     Even Kings and Queens like to get away to the country at the weekend and their favourite way of getting there was by Shallop - an 8 oared pleasure barge with a comfy glass-sided, cabin in which to chill out. Faster than walking and much more comfortable than riding in a coach, a well crewed shallop could get from Greenwich to Hampton Court in about 4 hours. The trip would take longer if the boat stopped at Twickenham Ait for some of Mistress Mayo's famous eel pies, a particular favourite with Henry VIII. Shallops were the riparian version of the stretched limo. Fast, comfortable and stylish.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/shallop.jpg"><img src="http://www.stmgrts.org.uk/images/shallop-thumb.jpg" width="150" height="112" alt="Cubs on the JUBILANT" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/shallop.jpg"><img src="//stmgrts.org.uk/assets/images/2008/shallop-thumb.jpg" width="150" height="112" alt="Cubs on the JUBILANT" class="photo right" /></a>
 
 
 Even Kings and Queens like to get away to the country at the weekend and their favourite way of getting there was by Shallop - an 8 oared pleasure barge with a comfy glass-sided, cabin in which to chill out. Faster than walking and much more comfortable than riding in a coach, a well crewed shallop could get from Greenwich to Hampton Court in about 4 hours. The trip would take longer if the boat stopped at Twickenham Ait for some of Mistress Mayo's famous eel pies, a particular favourite with Henry VIII. Shallops were the riparian version of the stretched limo. Fast, comfortable and stylish.
@@ -50,7 +50,3 @@ h4. BOAT OARS
 This simply means stacking the oars neatly inside the shallop and knocking off for the day. For the Cubs, aching in every muscle, it was 'thanks' and off home to bed. For the oarsmen of the past it was a chance to impress the ladies of the court with their muscles and hope that the King didn't suddenly decide that he wanted to go water skiing on the way home!
 
 THE ROYAL SHALLOP 'JUBILANT' CAN BE HIRED FOR WEDDINGS OR FOR INFORMAL ROWING BY CONTACTING VIC GRIFFITHS ON 07785 305122 OR "vicgriffiths@sky.com":mailto:vicgriffiths@sky.com  IT IS NOT EXPENSIVE AND IT IS GREAT FUN.
-
-
-
-

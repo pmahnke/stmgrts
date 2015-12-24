@@ -11,7 +11,7 @@ For background information, read "Have you heard THE MINISTER OF CHANCE yet?":ht
 
 <div class="letter">
 
-<a href="http://www.stmgrts.org.uk/images//minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="http://www.stmgrts.org.uk/images//minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
 
 We wanted to let you know that Episode Two has just been released on 12<sup>th</sup> May - we had to delay it because of a very exciting development with iTunes. We couldn't originally sell via iTunes within their existing system -   and it's such a brand new concept -- but they've been watching us and are so impressed with 'the quality & innovation of our business model' that they've been looking for ways round their own system to make it possible to include us in their catalogue. That's taken a while to sort out but we are delighted to announce that people can now buy Episode One and Two as an mp3 from our site or via iTunes as they prefer.
 
@@ -24,9 +24,3 @@ Executive Producer
 download the Prologue (free) and First Episode (&pound;1.29) via: "www.ministerofchance.com":http://www.ministerofchance.com
 
 </div>
-
-
-
-
-
-

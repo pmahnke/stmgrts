@@ -5,7 +5,7 @@ permalink: /archives/2011/09/mayor_clare_launches_local_businessmans_charity_ca.
 category: news
 date: 2011-09-08 11:33:48
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//mayor_jason.jpg" title="See larger version of - Mayor Clare Head and Jason Payne"><img src="http://www.stmgrts.org.uk/images//mayor_jason_thumb.jpg" width="150" height="113" alt="Mayor Clare Head and Jason Payne" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/mayor_jason.jpg" title="See larger version of - Mayor Clare Head and Jason Payne"><img src="//stmgrts.org.uk/assets/images/2011/mayor_jason_thumb.jpg" width="150" height="113" alt="Mayor Clare Head and Jason Payne" class="photo right" /></a>
     
     Richmond Mayor Councillor Clare Head visited St Margarets recently to help launch, local trader Jason Payne's campaign to raise funds for Cancer Research UK.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//mayor_jason.jpg" title="See larger version of - Mayor Clare Head and Jason Payne"><img src="http://www.stmgrts.org.uk/images//mayor_jason_thumb.jpg" width="150" height="113" alt="Mayor Clare Head and Jason Payne" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/mayor_jason.jpg" title="See larger version of - Mayor Clare Head and Jason Payne"><img src="//stmgrts.org.uk/assets/images/2011/mayor_jason_thumb.jpg" width="150" height="113" alt="Mayor Clare Head and Jason Payne" class="photo right" /></a>
 
 Richmond Mayor Councillor Clare Head visited St Margarets recently to help launch, local trader Jason Payne's campaign to raise funds for Cancer Research UK.
 
@@ -31,9 +31,3 @@ The Mayor wished Jason well with his challenge and commented 'This is a truly wo
 Jason added 'I know that cancer touches everyone's lives at some point and I know that every penny raised will help to combat this awful disease. I hope you will help me help others, as every penny counts.' To donate to Jason's appeal please see his Just Giving page at "www.justgiving.com/Jason-Payne1":http://www.justgiving.com/Jason-Payne1.
 
 For more information please contact "traders@mystmargarets.com":mailto:traders@mystmargarets.com
-
-
-
-
-
-

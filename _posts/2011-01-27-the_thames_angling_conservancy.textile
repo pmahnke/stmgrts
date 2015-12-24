@@ -5,7 +5,7 @@ permalink: /archives/2011/01/the_thames_angling_conservancy.html
 category: news
 date: 2011-01-27 08:55:43
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/tac_logo.jpg"><img alt="tac_logo.jpg" src="http://www.stmgrts.org.uk/images/tac_logo-thumb.jpg" width="83" height="147" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/tac_logo.jpg"><img alt="tac_logo.jpg" src="//stmgrts.org.uk/assets/images/2011/tac_logo-thumb.jpg" width="83" height="147" class="right" /></a>
     
     The TAC is a Free to join voluntary organisation established at the beginning of 2010 and run by anglers, wanting to help in the conservation of the River Thames.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/tac_logo.jpg"><img alt="tac_logo.jpg" src="http://www.stmgrts.org.uk/images/tac_logo-thumb.jpg" width="83" height="147" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/tac_logo.jpg"><img alt="tac_logo.jpg" src="//stmgrts.org.uk/assets/images/2011/tac_logo-thumb.jpg" width="83" height="147" class="right" /></a>
 
 The TAC is a Free to join voluntary organisation established at the beginning of 2010 and run by anglers, wanting to help in the conservation of the River Thames.
 
@@ -38,22 +38,3 @@ Above all, we at the TAC are dedicated to protecting and improving the River Tha
 More details: "www.rivertac.org":http://www.rivertac.org
 
 <cite>-- from Ed Randal</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-01-27-the_thames_angling_conservancy in site.data.2011-01-27-the_thames_angling_conservancy %}
-       <li>
-
-         {{ 2011-01-27-the_thames_angling_conservancy.comment }}
-
-         <cite>{{ 2011-01-27-the_thames_angling_conservancy.author }} on {{ 2011-01-27-the_thames_angling_conservancy.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

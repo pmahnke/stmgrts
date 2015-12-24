@@ -64,22 +64,3 @@ Have a great day,
 _Matt Roots_
 
 Fitness & Lifestyle Coach
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-12-18-christmas_damage_limitation_guide in site.data.2014-12-18-christmas_damage_limitation_guide %}
-       <li>
-
-         {{ 2014-12-18-christmas_damage_limitation_guide.comment }}
-
-         <cite>{{ 2014-12-18-christmas_damage_limitation_guide.author }} on {{ 2014-12-18-christmas_damage_limitation_guide.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

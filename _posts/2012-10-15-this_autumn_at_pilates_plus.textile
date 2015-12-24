@@ -5,14 +5,14 @@ permalink: /archives/2012/10/this_autumn_at_pilates_plus.html
 category: around_town
 date: 2012-10-15 20:59:56
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//leaf.jpg" title="See larger version of - leaf"><img src="http://www.stmgrts.org.uk/images//leaf_thumb.jpg" width="150" height="128" alt="leaf" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/leaf.jpg" title="See larger version of - leaf"><img src="//stmgrts.org.uk/assets/images/2012/leaf_thumb.jpg" width="150" height="128" alt="leaf" class=" right" /></a>
     
     
     Pilates Plus is now online.  Book your classes whenever you choose! Just visit "www.pilates-plus.co.uk/book-online":http://www.pilates-plus.co.uk/book-online and follow the instructions. So long as you have money on your account you can book/cancel classes, view your schedule and more.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//leaf.jpg" title="See larger version of - leaf"><img src="http://www.stmgrts.org.uk/images//leaf_thumb.jpg" width="150" height="128" alt="leaf" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/leaf.jpg" title="See larger version of - leaf"><img src="//stmgrts.org.uk/assets/images/2012/leaf_thumb.jpg" width="150" height="128" alt="leaf" class=" right" /></a>
 
 
 Pilates Plus is now online.  Book your classes whenever you choose! Just visit "www.pilates-plus.co.uk/book-online":http://www.pilates-plus.co.uk/book-online and follow the instructions. So long as you have money on your account you can book/cancel classes, view your schedule and more.
@@ -38,7 +38,3 @@ h4. Family Friendly Fridays
 _Friday 10.00-11.00_
 
 Bring a friend or meet new mums at our Post Natal Pilates Class. Babies are welcome to come along too. Plenty of space and step free access to studio. Lots of places for coffee on Crown Road afterwards!
-
-
-
-

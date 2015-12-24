@@ -7,7 +7,7 @@ date: 2006-10-12 11:42:31
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/jonmason.jpg"><img src="http://www.stmgrts.org.uk/images/jonmason-thumb.jpg" width="150" height="99" alt="Jon Mason" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/jonmason.jpg"><img src="//stmgrts.org.uk/assets/images/2006/jonmason-thumb.jpg" width="150" height="99" alt="Jon Mason" class="photo right" /></a>
 
 
 St Margarets Resident Jon Mason is planning on trekking to the top of Mount Kilimanjaro and raising money for the Motor Neurone Disease Association in the process.
@@ -17,24 +17,3 @@ bq.. "Kilimanjaro has been on my 'must do' list ever since a work trip to Kenya 
 Climbing Kilimanjaro is something that one thinks long and hard about, and in that thought process it becomes obvious that there must be a significant reason for doing it. For me is partly about the challenge, and partly about the opportunity that this creates for helping others and giving something back. For that reason I would really appreciate it if you could help me raise some money for an important charity."
 
 p. "Please help Jon by donating":http://www.justgiving.com/JonMason
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-12-fundraising_for in site.data.2006-10-12-fundraising_for %}
-       <li>
-
-         {{ 2006-10-12-fundraising_for.comment }}
-
-         <cite>{{ 2006-10-12-fundraising_for.author }} on {{ 2006-10-12-fundraising_for.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

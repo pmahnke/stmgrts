@@ -16,21 +16,3 @@ The AP provides a wide range of play opportunities for children and young people
 The Adventure Playground has had a busy summer season despite the wet weather. Highlights have included the BBC filming a live link for the BBC news on National Playday and Nickleodoen filming their new trailer. Parents also attended a fabulous Queen Tribute night to raise funds.
 
 Marble Hill Playcentres took over the running of the Adventure Playground and One O'Clock Club in 2001. MHP is a registered charity and is run by a voluntary management committee.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-10-10-marble_hill_playcentres_wins_top_playground_award in site.data.2007-10-10-marble_hill_playcentres_wins_top_playground_award %}
-       <li>
-
-         {{ 2007-10-10-marble_hill_playcentres_wins_top_playground_award.comment }}
-
-         <cite>{{ 2007-10-10-marble_hill_playcentres_wins_top_playground_award.author }} on {{ 2007-10-10-marble_hill_playcentres_wins_top_playground_award.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

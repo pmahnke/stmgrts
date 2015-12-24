@@ -14,23 +14,3 @@ This is aimed at those who want to power walk or jog in a group both in rain & 
 Positive individuals are 6 times more likely to achieve their aspirations!
 
 <cite>-- from Martin McCabe, Senior Partner for AHM-Go!</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-11-05-ever_wanted_to_be_fitter in site.data.2008-11-05-ever_wanted_to_be_fitter %}
-       <li>
-
-         {{ 2008-11-05-ever_wanted_to_be_fitter.comment }}
-
-         <cite>{{ 2008-11-05-ever_wanted_to_be_fitter.author }} on {{ 2008-11-05-ever_wanted_to_be_fitter.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

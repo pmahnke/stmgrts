@@ -17,23 +17,3 @@ Might this help you prepare for a real-life situation, develop your plans, bounc
 
 p. Drop in if you are interested.
  
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-10-06-join_interview_circles_in_twickenham_autumn_2013 in site.data.2013-10-06-join_interview_circles_in_twickenham_autumn_2013 %}
-       <li>
-
-         {{ 2013-10-06-join_interview_circles_in_twickenham_autumn_2013.comment }}
-
-         <cite>{{ 2013-10-06-join_interview_circles_in_twickenham_autumn_2013.author }} on {{ 2013-10-06-join_interview_circles_in_twickenham_autumn_2013.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

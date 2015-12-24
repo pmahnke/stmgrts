@@ -22,21 +22,3 @@ The current rates are set by the Cabinet Member and we will therefore need forma
 For now any invoices outstanding have been put on hold."
 
 p. -- from Eve Risbridger, <em>Head of Parks and Open Spaces</em>, London Borough of Richmond upon Thames
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-26-council_reviews_moormead_charges_to_reach_agreemen in site.data.2007-03-26-council_reviews_moormead_charges_to_reach_agreemen %}
-       <li>
-
-         {{ 2007-03-26-council_reviews_moormead_charges_to_reach_agreemen.comment }}
-
-         <cite>{{ 2007-03-26-council_reviews_moormead_charges_to_reach_agreemen.author }} on {{ 2007-03-26-council_reviews_moormead_charges_to_reach_agreemen.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

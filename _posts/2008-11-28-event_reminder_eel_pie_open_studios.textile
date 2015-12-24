@@ -5,7 +5,7 @@ permalink: /archives/2008/11/event_reminder_eel_pie_open_studios.html
 category: around_town
 date: 2008-11-28 13:10:00
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/EelPieXmas08card.jpg"><img src="http://www.stmgrts.org.uk/images/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
     
     
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/EelPieXmas08card.jpg"><img src="http://www.stmgrts.org.uk/images/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
 
 
 
@@ -38,9 +38,3 @@ There will also be food and drink.
 * Entry: Free
 * Children: Children welcome, under parental supervision
 * Access: No road access onto the island, footpath only.  
-
-
-
-
-
-

@@ -19,23 +19,3 @@ Following discussions with residents, the ward councillors and the Cabinet Membe
 <cite> -- from "www.richmond.gov.uk/morley_road":http://www.richmond.gov.uk/morley_road</cite>
 
 <cite>-- highlighted to the site by Gerhard Schellberg</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-01-06-councils_cpz_review_for_morley_road_area_east_twic in site.data.2009-01-06-councils_cpz_review_for_morley_road_area_east_twic %}
-       <li>
-
-         {{ 2009-01-06-councils_cpz_review_for_morley_road_area_east_twic.comment }}
-
-         <cite>{{ 2009-01-06-councils_cpz_review_for_morley_road_area_east_twic.author }} on {{ 2009-01-06-councils_cpz_review_for_morley_road_area_east_twic.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

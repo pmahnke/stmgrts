@@ -5,7 +5,7 @@ permalink: /archives/2014/05/make_and_create_exhibition_at_the_riverside_galler.
 category: around_town
 date: 2014-05-22 22:44:22
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Eighteenth_Century_Genoese_armchair.JPG" title="See larger version of - Rachael Pearcey, Eighteenth century Genoese Armchair"><img src="http://www.stmgrts.org.uk/images//Eighteenth_Century_Genoese_armchair_thumb.JPG" width="150" height="146" alt="Rachael Pearcey, Eighteenth century Genoese Armchair" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Eighteenth_Century_Genoese_armchair.JPG" title="See larger version of - Rachael Pearcey, Eighteenth century Genoese Armchair"><img src="//stmgrts.org.uk/assets/images/2014/Eighteenth_Century_Genoese_armchair_thumb.JPG" width="150" height="146" alt="Rachael Pearcey, Eighteenth century Genoese Armchair" class="photo right" /></a>
     
     Make & Create showcases affordable, attractive crafted items for the home, ranging from prints, quilts, embroidery, felt, rugs, glassware, ceramics, and mixed media works.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Eighteenth_Century_Genoese_armchair.JPG" title="See larger version of - Rachael Pearcey, Eighteenth century Genoese Armchair"><img src="http://www.stmgrts.org.uk/images//Eighteenth_Century_Genoese_armchair_thumb.JPG" width="150" height="146" alt="Rachael Pearcey, Eighteenth century Genoese Armchair" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Eighteenth_Century_Genoese_armchair.JPG" title="See larger version of - Rachael Pearcey, Eighteenth century Genoese Armchair"><img src="//stmgrts.org.uk/assets/images/2014/Eighteenth_Century_Genoese_armchair_thumb.JPG" width="150" height="146" alt="Rachael Pearcey, Eighteenth century Genoese Armchair" class="photo right" /></a>
 
 Make & Create showcases affordable, attractive crafted items for the home, ranging from prints, quilts, embroidery, felt, rugs, glassware, ceramics, and mixed media works.
 
@@ -26,7 +26,3 @@ Participating artists and makers include:
 _Jennifer Chaplin, Hanna ten Doornkaat, Wendy Hale, Sin&#233;ad Finnegan, Elise Menghini, Amanda Mercer, Rachel Pearcey, Barbara Jansma, Mary Funk-Butterworth, Jo Davies, Desa Philips, Tong - Il (Tommy) Seo, Louise Brooks, Sarah Cowley, Anna Didik, Karen Cocksedge, Marian Medina-Cuesta, Gerti Hofmeister-Biddles, Charlotte Stockley, Derek Pearce, Albert Montserrat, Annie Jennings, Maria Murtagh, Pramila Muthiah, Sarah McLean and Maria Garcia-Pinilla._
 
 The exhibition runs from 31 May - 19 July. All works are for sale and prices start at &pound;19, with many exhibits at around the &pound;30-&pound;50 mark.
-
-
-
-

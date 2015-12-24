@@ -16,23 +16,3 @@ If the hawk decides to nest in the area, it could decimate the local bird commun
 The sighting has been reported to both the RSPCA and the local council."
 
 p. <em>from Jonathan Blair, local resident</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-02-25-hawk_in_moormea in site.data.2007-02-25-hawk_in_moormea %}
-       <li>
-
-         {{ 2007-02-25-hawk_in_moormea.comment }}
-
-         <cite>{{ 2007-02-25-hawk_in_moormea.author }} on {{ 2007-02-25-hawk_in_moormea.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

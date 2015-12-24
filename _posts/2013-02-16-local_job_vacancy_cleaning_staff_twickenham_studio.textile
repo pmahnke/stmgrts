@@ -7,7 +7,7 @@ date: 2013-02-16 17:16:27
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//TwickenhamStudios_Logo.png" title="See larger version of - Twickenham Studios Logo"><img src="http://www.stmgrts.org.uk/images//TwickenhamStudios_Logo_thumb.png" width="150" height="107" alt="Twickenham Studios Logo" class=" right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2013/TwickenhamStudios_Logo.png" title="See larger version of - Twickenham Studios Logo"><img src="//stmgrts.org.uk/assets/images/2013/TwickenhamStudios_Logo_thumb.png" width="150" height="107" alt="Twickenham Studios Logo" class=" right"/></a>
  
 Twickenham Studios are looking for hardworking dedicated cleaners.
 
@@ -15,8 +15,3 @@ You will be required to work during the times in which the studios are non opera
  
 For further details please contact info@twickenhamstudios.com
  
-
-
-
-
-

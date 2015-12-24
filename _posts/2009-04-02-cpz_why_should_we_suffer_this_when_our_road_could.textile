@@ -5,7 +5,7 @@ permalink: /archives/2009/04/cpz_why_should_we_suffer_this_when_our_road_could.h
 category: around_town
 date: 2009-04-02 14:00:12
 excerpt: |
-    |<a href="http://www.stmgrts.org.uk/images/winchester.jpg"><img src="http://www.stmgrts.org.uk/images/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
+    |<a href="//stmgrts.org.uk/assets/images/2009/winchester.jpg"><img src="//stmgrts.org.uk/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
     <br />Winchester Road|
     
     These two photos were taken at the same time of the day (9 am); the one of Godstone Road is full of parked commuter traffic, while Winchester Road remains almost empty.  This is how effective restricted parking is at pushing more cars onto de-restricted roads like Godstone.  The only way to ensure this does not get even worse is to ensure Godstone Road is included in the CPZ.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-|<a href="http://www.stmgrts.org.uk/images/winchester.jpg"><img src="http://www.stmgrts.org.uk/images/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
+|<a href="//stmgrts.org.uk/assets/images/2009/winchester.jpg"><img src="//stmgrts.org.uk/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
 <br />Winchester Road|
 
 These two photos were taken at the same time of the day (9 am); the one of Godstone Road is full of parked commuter traffic, while Winchester Road remains almost empty.  This is how effective restricted parking is at pushing more cars onto de-restricted roads like Godstone.  The only way to ensure this does not get even worse is to ensure Godstone Road is included in the CPZ.
@@ -23,24 +23,3 @@ I have just moved into this lovely area with my young son; getting him to and fr
 Please take some time to complete the request to bring organisation to our road and ensure we have a quieter and more hassle free life.
 
 <cite>-- from Lucy  on Godstone Road</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could in site.data.2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could %}
-       <li>
-
-         {{ 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could.comment }}
-
-         <cite>{{ 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could.author }} on {{ 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

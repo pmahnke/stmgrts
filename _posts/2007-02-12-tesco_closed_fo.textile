@@ -47,22 +47,3 @@ h4. Need Cashback?
 
 * The *Post Office* in St Margarets Road offers banking facilities for most major banks. 
 * *Cutters* at 28 Crown Road and *Gift* at 2 Crown Road both offer the cashback facility.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-02-12-tesco_closed_fo in site.data.2007-02-12-tesco_closed_fo %}
-       <li>
-
-         {{ 2007-02-12-tesco_closed_fo.comment }}
-
-         <cite>{{ 2007-02-12-tesco_closed_fo.author }} on {{ 2007-02-12-tesco_closed_fo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

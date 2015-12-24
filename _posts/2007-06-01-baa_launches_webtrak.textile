@@ -5,7 +5,7 @@ permalink: /archives/2007/06/baa_launches_webtrak.html
 category: news
 date: 2007-06-01 09:15:44
 excerpt: |
-    <img alt="aeroplane noise" src="http://www.stmgrts.org.uk/images/airportnoise-thumb.jpg" width="111" height="106" class="right" />
+    <img alt="aeroplane noise" src="//stmgrts.org.uk/assets/images/2007/airportnoise-thumb.jpg" width="111" height="106" class="right" />
     
     Campaign group HACAN welcomed the introduction of "WebTrak":http://www.baa.com/noise, launched by BAA last week. WebTrak enables people to watch planes land and take off at Heathrow, Stansted and Gatwick airports on their computer screens.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<img alt="aeroplane noise" src="http://www.stmgrts.org.uk/images/airportnoise-thumb.jpg" width="111" height="106" class="right" />
+<img alt="aeroplane noise" src="//stmgrts.org.uk/assets/images/2007/airportnoise-thumb.jpg" width="111" height="106" class="right" />
 
 Campaign group HACAN welcomed the introduction of "WebTrak":http://www.baa.com/noise, launched by BAA last week. WebTrak enables people to watch planes land and take off at Heathrow, Stansted and Gatwick airports on their computer screens.
 
@@ -30,21 +30,3 @@ HACAN Chair John Stewart said, "For year we have been campaigning for this syste
 Stewart added, "The one oddity of WebTrak is the way that parts of east and south east London are not covered by it. HACAN will be issuing a report later this month which will show the dramatic way noise has increased in many of these areas over the last decade. They need to be added to the system."
 
 -- _from a HACAN Press Release_
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-01-baa_launches_webtrak in site.data.2007-06-01-baa_launches_webtrak %}
-       <li>
-
-         {{ 2007-06-01-baa_launches_webtrak.comment }}
-
-         <cite>{{ 2007-06-01-baa_launches_webtrak.author }} on {{ 2007-06-01-baa_launches_webtrak.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -11,26 +11,5 @@ The Winchester Hall was packed to bursting on Tuesday 24 July evening when 90 lo
 
 h4. Presentations
 
-* <a href="http://www.stmgrts.org.uk/Collective_Enfranchisement.pdf">Collective Enfranchisement -- The Legal Right (pdf)</a>
-* <a href="http://www.stmgrts.org.uk/Lease%20Extension.pdf">Lease Extension -- Statutory Rights (pdf)</a>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-08-02-notes_from_the_lease_extension_meeting in site.data.2007-08-02-notes_from_the_lease_extension_meeting %}
-       <li>
-
-         {{ 2007-08-02-notes_from_the_lease_extension_meeting.comment }}
-
-         <cite>{{ 2007-08-02-notes_from_the_lease_extension_meeting.author }} on {{ 2007-08-02-notes_from_the_lease_extension_meeting.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-
+* <a href="//stmgrts.org.uk/assets/images/2007/Collective_Enfranchisement.pdf">Collective Enfranchisement -- The Legal Right (pdf)</a>
+* <a href="//stmgrts.org.uk/assets/images/2007/Lease%20Extension.pdf">Lease Extension -- Statutory Rights (pdf)</a>

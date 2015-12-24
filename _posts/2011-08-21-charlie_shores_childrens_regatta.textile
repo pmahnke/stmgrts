@@ -5,7 +5,7 @@ permalink: /archives/2011/08/charlie_shores_childrens_regatta.html
 category: around_town
 date: 2011-08-21 15:44:48
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//charlie_shore_regatta_2.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="http://www.stmgrts.org.uk/images//charlie_shore_regatta_2_thumb.jpg" width="150" height="114" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_2.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_2_thumb.jpg" width="150" height="114" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
     
     Saturday 17<sup>th</sup> September will start with the recreation of the Charlie Shore's Twickenham Boys' and Girls' Regatta, which was founded in 1894 and last held in 1958; it is hoped to be an annual event. The regatta competitors are boys and girls (ages 13-16). The event will be for 20 rowers from schools in  the Borough.
     
@@ -14,13 +14,13 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//charlie_shore_regatta_2.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="http://www.stmgrts.org.uk/images//charlie_shore_regatta_2_thumb.jpg" width="150" height="114" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_2.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_2_thumb.jpg" width="150" height="114" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
 
 Saturday 17<sup>th</sup> September will start with the recreation of the Charlie Shore's Twickenham Boys' and Girls' Regatta, which was founded in 1894 and last held in 1958; it is hoped to be an annual event. The regatta competitors are boys and girls (ages 13-16). The event will be for 20 rowers from schools in  the Borough.
 
 The Charlie Shore Regatta is sponsored by the Richmond Environmental Information Centre, with the Twickenham Rowing Club as its delivery partner. The 350m course will be from opposite the White Swan to the site of the original Charlie Shore boathouse, just below the Eel Pie Island footbridge.
 
-<a href="http://www.stmgrts.org.uk/images//charlie_shore_regatta_1.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="http://www.stmgrts.org.uk/images//charlie_shore_regatta_1_thumb.jpg" width="150" height="94" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_1.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="//stmgrts.org.uk/assets/images/2011/charlie_shore_regatta_1_thumb.jpg" width="150" height="94" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
 
 Heats will be two abreast using 'ER' boats, followed by a demonstration race using traditional two-man skiffs. The format of the race will be a knockout with a repecharge so every crew has at least two races.  Races will commence at 10:00 and finish at 13:00, followed by a prize giving.
 
@@ -49,7 +49,3 @@ h4. Sunday 18<sup>th</sup> September
 * More information on: "www.twickenhamalive.com":http://www.twickenhamalive.com
 
 _Images courtesy of London Borough of Richmond upon Thames Local Studies Collection_
-
-
-
-

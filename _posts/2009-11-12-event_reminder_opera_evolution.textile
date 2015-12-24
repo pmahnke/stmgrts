@@ -5,7 +5,7 @@ permalink: /archives/2009/11/event_reminder_opera_evolution.html
 category: around_town
 date: 2009-11-12 12:32:39
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="http://www.stmgrts.org.uk/images/events/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="//stmgrts.org.uk/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
     
     Local St Margarets resident and Royal College of Art trained conceptual artist Ingrid Macody Lund Fraser, has recently been awarded support from the Arts Council to stage her production "*Opera Evolution* at York House, Twickenham on Sunday 15<sup>th</sup> November 7pm":http://stmgrts.org.uk/event/fair/200705142249.
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="http://www.stmgrts.org.uk/images/events/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="//stmgrts.org.uk/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
 
 Local St Margarets resident and Royal College of Art trained conceptual artist Ingrid Macody Lund Fraser, has recently been awarded support from the Arts Council to stage her production "*Opera Evolution* at York House, Twickenham on Sunday 15<sup>th</sup> November 7pm":http://stmgrts.org.uk/event/fair/200705142249.
 
@@ -30,8 +30,3 @@ To find out more about the event or to book tickets, please go online to
 "www.operaevolution.com":http://www.operaevolution.com/ 
 
  
-
-
-
-
-

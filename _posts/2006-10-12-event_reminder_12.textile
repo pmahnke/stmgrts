@@ -8,23 +8,3 @@ date: 2006-10-12 11:02:24
 ---
 
 After the very successful community clear out and paint day in the summer, now is your next chance to get mucky. Come and help plant bulbs (daffodils) at Moor Mead on "Saturday 14th October":http://www.stmgrts.org.uk/event/Meeting/200610050726. Meet at the pavilion at 11am. Bulbs, instructions and tools will be provided as will tea and coffee. Come and plant as many or as few as you like.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-12-event_reminder_12 in site.data.2006-10-12-event_reminder_12 %}
-       <li>
-
-         {{ 2006-10-12-event_reminder_12.comment }}
-
-         <cite>{{ 2006-10-12-event_reminder_12.author }} on {{ 2006-10-12-event_reminder_12.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

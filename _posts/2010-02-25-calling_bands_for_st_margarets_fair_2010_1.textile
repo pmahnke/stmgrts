@@ -13,24 +13,3 @@ Over the years the Fair has become synonymous with its live musical performances
 ":mailto:livemusic@blueyonder.co.uk
 
 _All genres of music are welcome._
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-02-25-calling_bands_for_st_margarets_fair_2010_1 in site.data.2010-02-25-calling_bands_for_st_margarets_fair_2010_1 %}
-       <li>
-
-         {{ 2010-02-25-calling_bands_for_st_margarets_fair_2010_1.comment }}
-
-         <cite>{{ 2010-02-25-calling_bands_for_st_margarets_fair_2010_1.author }} on {{ 2010-02-25-calling_bands_for_st_margarets_fair_2010_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

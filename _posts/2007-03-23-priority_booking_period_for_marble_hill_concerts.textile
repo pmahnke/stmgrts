@@ -7,7 +7,7 @@ date: 2007-03-23 16:40:07
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/marble_hill_picnic_concert.jpg"><img src="http://www.stmgrts.org.uk/images/marble_hill_picnic_concert-thumb.jpg" width="106" height="150" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/marble_hill_picnic_concert.jpg"><img src="//stmgrts.org.uk/assets/images/2007/marble_hill_picnic_concert-thumb.jpg" width="106" height="150" alt="poster" class="photo right" /></a>
 
 
 IMG and English Heritage have given the _St Margarets Community Website_ details for local resident priority booking for the Marble Hill Picnic Concerts this August.  Unfortunately, I failed to get it up earlier in the week, so you only have from now until Sunday, 25<sup>th</sup> March to book ahead of the general public ticket sales -- sorry!
@@ -32,24 +32,3 @@ Here is this year's line up:
 <br /></li>
 
 </ul>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-23-priority_booking_period_for_marble_hill_concerts in site.data.2007-03-23-priority_booking_period_for_marble_hill_concerts %}
-       <li>
-
-         {{ 2007-03-23-priority_booking_period_for_marble_hill_concerts.comment }}
-
-         <cite>{{ 2007-03-23-priority_booking_period_for_marble_hill_concerts.author }} on {{ 2007-03-23-priority_booking_period_for_marble_hill_concerts.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

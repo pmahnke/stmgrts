@@ -7,7 +7,7 @@ date: 2012-11-28 21:38:54
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Christmas_at_Pilates_Plus.png" title="See larger version of - Christmas at Pilates Plus"><img src="http://www.stmgrts.org.uk/images//Christmas_at_Pilates_Plus_thumb.png" width="150" height="212" alt="Christmas at Pilates Plus" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/Christmas_at_Pilates_Plus.png" title="See larger version of - Christmas at Pilates Plus"><img src="//stmgrts.org.uk/assets/images/2012/Christmas_at_Pilates_Plus_thumb.png" width="150" height="212" alt="Christmas at Pilates Plus" class="photo right" /></a>
 
 h3. Sunday, 9 December 2012 - Open Taster Day
 
@@ -30,7 +30,3 @@ Available for classes or products for the fitness enthusiast in your family. We 
 h3. Sunday Opening
 
 We will be open right up until 4pm on Christmas Eve and on all Sundays in December. The shop and Studio will re open on Jan 3rd
-
-
-
-

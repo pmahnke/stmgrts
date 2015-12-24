@@ -5,21 +5,21 @@ permalink: /archives/2011/11/boom_boom_out_goes_the_lights.html
 category: around_town
 date: 2011-11-11 09:52:01
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//power-cut-dinner.jpg" title="See larger version of - power cut dinner"><img src="http://www.stmgrts.org.uk/images//power-cut-dinner_thumb.jpg" width="150" height="112" alt="power cut dinner" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/power-cut-dinner.jpg" title="See larger version of - power cut dinner"><img src="//stmgrts.org.uk/assets/images/2011/power-cut-dinner_thumb.jpg" width="150" height="112" alt="power cut dinner" class="photo right" /></a>
     
     Last week the power failed twice in St Margarets. The first time was just before noon on Wednesday, 26<sup>th</sup> October. The radio fell silent, the fridge stopped humming and the computer rolled over and died. After a few of minutes of confused scrabbling around on the phone I finally found a nice pre-recorded woman who told me that Twickenham, Brentford and Isleworth were experiencing "a power outage" and not to worry too much about the food in the freezer. _"Normal service will be resumed in two to three hours"_, she said - and it was. It was announced later that the "outage" was caused by equipment failure.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//power-cut-dinner.jpg" title="See larger version of - power cut dinner"><img src="http://www.stmgrts.org.uk/images//power-cut-dinner_thumb.jpg" width="150" height="112" alt="power cut dinner" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/power-cut-dinner.jpg" title="See larger version of - power cut dinner"><img src="//stmgrts.org.uk/assets/images/2011/power-cut-dinner_thumb.jpg" width="150" height="112" alt="power cut dinner" class="photo right" /></a>
 
 Last week the power failed twice in St Margarets. The first time was just before noon on Wednesday, 26<sup>th</sup> October. The radio fell silent, the fridge stopped humming and the computer rolled over and died. After a few of minutes of confused scrabbling around on the phone I finally found a nice pre-recorded woman who told me that Twickenham, Brentford and Isleworth were experiencing "a power outage" and not to worry too much about the food in the freezer. _"Normal service will be resumed in two to three hours"_, she said - and it was. It was announced later that the "outage" was caused by equipment failure.
 
 The second power failure, cause as yet unknown, happened on Monday, 1<sup>st</sup> November about 6.30pm. The lights in the kitchen flickered a bit and then went out leaving me with darkness and a half cooked shepherd's pie. This time it wasn't just the street that had lost its juice but the entire community. The only noise I could hear were neighbours bumping into each other outside in the street and asking, _"Have your lights gone off too?"_ There was also considerable anxiety about food in freezers and what Clive Horrobin might get up to on "The Archers."
 
 
-<a href="http://www.stmgrts.org.uk/images//power-cut.jpg" title="See larger version of - power cut lamp"><img src="http://www.stmgrts.org.uk/images//power-cut_thumb.jpg" width="150" height="70" alt="power cut lamp" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/power-cut.jpg" title="See larger version of - power cut lamp"><img src="//stmgrts.org.uk/assets/images/2011/power-cut_thumb.jpg" width="150" height="70" alt="power cut lamp" class="photo right" /></a>
 
 
 The first blackout had prepared me for the second. Torches were standing by, candles and matches were to hand and in the event that I would have to do something really dramatic like deliver a baby or defuse an unexploded WW2 bomb I had a Tilley Pressure Lamp ready to go - just like in those black and white movies they show on Film4 where the hero shouts "Boil some water! Lots of it!" Fortunately no babies needed delivering, no unexploded bombs revealed themselves and the lights came back on after about 30 minutes.
@@ -58,7 +58,7 @@ A golem swallows the moon.
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//power-cut-sign.jpg" title="See larger version of - power cut sign"><img src="http://www.stmgrts.org.uk/images//power-cut-sign_thumb.jpg" width="150" height="89" alt="power cut sign" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/power-cut-sign.jpg" title="See larger version of - power cut sign"><img src="//stmgrts.org.uk/assets/images/2011/power-cut-sign_thumb.jpg" width="150" height="89" alt="power cut sign" class="photo left" /></a>
 
 
 h4. What to do When the Lights Go Out
@@ -76,21 +76,3 @@ h4. YouTube - Katie Melua singing "If the Lights Go Out"
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-11-11-boom_boom_out_goes_the_lights in site.data.2011-11-11-boom_boom_out_goes_the_lights %}
-       <li>
-
-         {{ 2011-11-11-boom_boom_out_goes_the_lights.comment }}
-
-         <cite>{{ 2011-11-11-boom_boom_out_goes_the_lights.author }} on {{ 2011-11-11-boom_boom_out_goes_the_lights.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

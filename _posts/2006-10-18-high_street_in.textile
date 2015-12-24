@@ -60,21 +60,3 @@ Emma Callaway and another local resident have bought the Yummy Mummy shop and ar
 *No. 125 St Margarets Road -- Phelps basement > Par Vinu*
 
 This site was part of the sprawling basement showroom of the Phelps Antiques shop.  It will become an upscale wine bar with an entrance through a renovated Streets green grocers.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-18-high_street_in in site.data.2006-10-18-high_street_in %}
-       <li>
-
-         {{ 2006-10-18-high_street_in.comment }}
-
-         <cite>{{ 2006-10-18-high_street_in.author }} on {{ 2006-10-18-high_street_in.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

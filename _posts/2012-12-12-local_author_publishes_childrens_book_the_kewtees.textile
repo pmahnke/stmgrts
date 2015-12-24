@@ -5,7 +5,7 @@ permalink: /archives/2012/12/local_author_publishes_childrens_book_the_kewtees.h
 category: around_town
 date: 2012-12-12 20:35:40
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="http://www.stmgrts.org.uk/images//kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="//stmgrts.org.uk/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
     
     _the first kids book to be set in Kew Gardens_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="http://www.stmgrts.org.uk/images//kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="//stmgrts.org.uk/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
 
 _the first kids book to be set in Kew Gardens_
 
@@ -22,9 +22,3 @@ Colin Hines was taken to Kew as a child and in turn he and his wife Ann took the
 "The Kewtees":http://www.kewtees.co.uk costs just &pound;7.99. It has 40 pages with 20 beautifully detailed colour illustrations by John Hilder.
 
 <em>Colin Hines is also author of "Art Deco London":http://www.stmgrts.org.uk/archives/2006/11/art_deco_london.html</em>
-
-
-
-
-
-

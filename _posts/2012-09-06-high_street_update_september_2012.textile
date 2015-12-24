@@ -5,7 +5,7 @@ permalink: /archives/2012/09/high_street_update_september_2012.html
 category: around_town
 date: 2012-09-06 22:06:50
 excerpt: |
-    <img src="http://mystmargarets.com/images/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"/>
+    <img src="//stmgrts.org.uk/assets/images/2012/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"/>
     
     _St Margarets is open for business_
     
@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 
-<img src="http://mystmargarets.com/images/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"/>
+<img src="//stmgrts.org.uk/assets/images/2012/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"/>
 
 _St Margarets is open for business_
 
@@ -75,22 +75,3 @@ _91 Crown Road_
 The Vet in St Margarets provides veterinary excellence to pets and their owners in the community and local surrounding areas of Twickenham, Isleworth, Richmond and Teddington. With a focus on dogs, cats and small furries plus on-site Pet Dog Behaviour Advisor, The Vet in St Margarets brings all the experience, professional care and customer service you will expect from this independent practice with an on-site surgical suite, kennels and cattery, your pet is looked after every step of the way and with The Vet and Alpha Vet, you don't have to travel far for the peace of mind you need.
 
 <cite>-- from "St Margarets Traders Association":http://www.mystmargarets.com</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-09-06-high_street_update_september_2012 in site.data.2012-09-06-high_street_update_september_2012 %}
-       <li>
-
-         {{ 2012-09-06-high_street_update_september_2012.comment }}
-
-         <cite>{{ 2012-09-06-high_street_update_september_2012.author }} on {{ 2012-09-06-high_street_update_september_2012.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

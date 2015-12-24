@@ -7,7 +7,7 @@ date: 2007-09-28 09:13:05
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/ChurchillsWalkingBus003.jpg"><img src="http://www.stmgrts.org.uk/images/ChurchillsWalkingBus003-thumb.jpg" width="200" height="112" alt="Walking Buss" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/ChurchillsWalkingBus003.jpg"><img src="//stmgrts.org.uk/assets/images/2007/ChurchillsWalkingBus003-thumb.jpg" width="200" height="112" alt="Walking Buss" class="photo right" /></a>
 
 
 
@@ -34,7 +34,3 @@ Further information for parents interested in using the Walking Bus services:
 
 
 ??from a press release??
-
-
-
-

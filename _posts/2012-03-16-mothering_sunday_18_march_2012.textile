@@ -5,7 +5,7 @@ permalink: /archives/2012/03/mothering_sunday_18_march_2012.html
 category: around_town
 date: 2012-03-16 10:20:44
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="http://www.stmgrts.org.uk/images//MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
     
     
     bq. "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="http://www.stmgrts.org.uk/images//MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
 
 
 bq. "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
@@ -44,7 +44,7 @@ Half that blessing thou'lt give me.
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//MOTHERING_simnel-cake.jpg" title="See larger version of - Simnel cake"><img src="http://www.stmgrts.org.uk/images//MOTHERING_simnel-cake_thumb.jpg" width="150" height="121" alt="Simnel cake" class="left right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_simnel-cake.jpg" title="See larger version of - Simnel cake"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_simnel-cake_thumb.jpg" width="150" height="121" alt="Simnel cake" class="left right" /></a>
 
 
 Simnel Cakes... ornamented with scallops - in commemoration of the banquet given by Joseph to his brethren, which forms the first lesson of Mid-Lent Sunday, and the feeding of the five thousand, which forms the gospel of the day.
@@ -59,13 +59,13 @@ bq. "Writers in...'The Gentleman's Magazine' for 1784 confess their ignorance of
 
 ??IONA AND PETER OPIE "The Lore and Language of Schoolchildren" 1959??
 
-<a href="http://www.stmgrts.org.uk/images//MOTHERING_anna-jarvis.jpg" title="See larger version of - Anna Jarvis"><img src="http://www.stmgrts.org.uk/images//MOTHERING_anna-jarvis_thumb.jpg" width="150" height="157" alt="Anna Jarvis" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_anna-jarvis.jpg" title="See larger version of - Anna Jarvis"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_anna-jarvis_thumb.jpg" width="150" height="157" alt="Anna Jarvis" class="photo right" /></a>
 
 And so it would have continued into total oblivion were it not for Miss Anna Jarvis of Philadelphia, USA. Her own mother, Ann Maria Reeves Jarvis, the founder of the Mother's Day Work Clubs died on 9<sup>th</sup> May 1906. The bereavement convinced Anna that a special day should be set aside each year to honour motherhood. Gathering supporters and using what some have interpreted as emotional blackmail - (<em>"anyone who opposes this does not love his own mother"</em>) - the U.S government was persuaded to mark the second Sunday in May as "Mother's Day", and establish a national holiday, dedicated to "the best mother in the world, your mother."
 
 Although Mother's Day soon became a popular institution and a widely observed event, by the 1920's Anna Jarvis was becoming increasingly embittered by the growing commercialisation of the holiday...
 
-<a href="http://www.stmgrts.org.uk/images//MOTHERING_Mothers_Day_Card.jpg" title="See larger version of - Mothers Day Card"><img src="http://www.stmgrts.org.uk/images//MOTHERING_Mothers_Day_Card_thumb.jpg" width="150" height="151" alt="Mothers Day Card" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_Mothers_Day_Card.jpg" title="See larger version of - Mothers Day Card"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_Mothers_Day_Card_thumb.jpg" width="150" height="151" alt="Mothers Day Card" class="photo right" /></a>
 
 
 bq. "A printed card means nothing except that you are too lazy to write to the woman who has done more for you than anyone in the world. And candy! You take a box to Mother--and then eat most of it yourself. A pretty sentiment."
@@ -91,12 +91,8 @@ bq. God could not be everywhere and therefore he made mothers.
 <div class="box">
 A Mothering Sunday Song on YouTube written by Richard Durrant and performed by Richard and his children - Daisy aged 10, Django 8 and Felix 6.
 
-<iframe width="300" height="203" src="http://www.youtube-nocookie.com/embed/HCiZYK1eTxg" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="203" src="//stmgrts.org.uk/assets/images/2012/HCiZYK1eTxg" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

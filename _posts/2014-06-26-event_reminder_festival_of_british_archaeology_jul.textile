@@ -5,7 +5,7 @@ permalink: /archives/2014/06/event_reminder_festival_of_british_archaeology_jul.
 category: around_town
 date: 2014-06-26 08:49:02
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Festival-of-Arch-Flyer.jpg" title="See larger version of - Festival of Arch Flyer"><img src="http://www.stmgrts.org.uk/images//Festival-of-Arch-Flyer_thumb.jpg" width="150" height="208" alt="Festival of Arch Flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Festival-of-Arch-Flyer.jpg" title="See larger version of - Festival of Arch Flyer"><img src="//stmgrts.org.uk/assets/images/2014/Festival-of-Arch-Flyer_thumb.jpg" width="150" height="208" alt="Festival of Arch Flyer" class="photo right" /></a>
     
     
     _The Museum of Richmond is celebrating the Festival of British Archaeology during July 2014_
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Festival-of-Arch-Flyer.jpg" title="See larger version of - Festival of Arch Flyer"><img src="http://www.stmgrts.org.uk/images//Festival-of-Arch-Flyer_thumb.jpg" width="150" height="208" alt="Festival of Arch Flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Festival-of-Arch-Flyer.jpg" title="See larger version of - Festival of Arch Flyer"><img src="//stmgrts.org.uk/assets/images/2014/Festival-of-Arch-Flyer_thumb.jpg" width="150" height="208" alt="Festival of Arch Flyer" class="photo right" /></a>
 
 
 _The Museum of Richmond is celebrating the Festival of British Archaeology during July 2014_
@@ -39,7 +39,3 @@ h4. Movies at the Museum: Time Team: A Richmond Palace Special.
 Delve into the archaeological foundations of Richmond Palace for the Festival of Archaeology.
 
 _£3 donation welcomed, booking required._
-
-
-
-

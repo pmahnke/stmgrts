@@ -7,7 +7,7 @@ date: 2007-03-24 07:32:38
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Moormead-Fit-Point.jpg"><img src="http://www.stmgrts.org.uk/images/Moormead-Fit-Point-thumb.jpg" width="150" height="112" alt="FitPoint in Moormead Park" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/Moormead-Fit-Point.jpg"><img src="//stmgrts.org.uk/assets/images/2007/Moormead-Fit-Point-thumb.jpg" width="150" height="112" alt="FitPoint in Moormead Park" class="photo right" /></a>
 
 
 Richmond Council's Parks and Open Spaces have started a trial of _FitPoint_, a  piece of fitness equipment in Moormead Park.  FitPoint is designed for both young and old to test their strength and exercise their bodies.  The unit consists of a rowing machine, twisting disc, bench lift, push-up, pull-up and step-up.  
@@ -16,22 +16,3 @@ Richmond Council's Parks and Open Spaces have started a trial of _FitPoint_, a  
 This is a temporary installation and is part of a roaming project within the Borough's Parks and Open Spaces. The Fitpoint has been in Kneller Gardens, Meadway, Twickenham for the past 6 weeks where it was well received.
 
 The Council would like feedback on the _FitPoint_ to assess whether it would be a popular addition to the park, so if you have an opinion, call 020 8487 5243.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-24-test_of_exercise_equipment_in_moormead_park in site.data.2007-03-24-test_of_exercise_equipment_in_moormead_park %}
-       <li>
-
-         {{ 2007-03-24-test_of_exercise_equipment_in_moormead_park.comment }}
-
-         <cite>{{ 2007-03-24-test_of_exercise_equipment_in_moormead_park.author }} on {{ 2007-03-24-test_of_exercise_equipment_in_moormead_park.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

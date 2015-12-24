@@ -7,7 +7,7 @@ date: 2005-11-08 13:38:30
 
 ---
 
-<img alt="Brunnel Site Expansion" src="http://www.stmgrts.org.uk/archives/brunnel_growth.gif" width="204" height="153" class="photo right" /></a>
+<img alt="Brunnel Site Expansion" src="//stmgrts.org.uk/assets/images/2005/brunnel_growth.gif" width="204" height="153" class="photo right" /></a>
 
 Three recent planning applications have been submitted for the Brunel site which will have an impact on the area. Two are for staff accommodation to replace garages attached to five bedroom houses. 
 
@@ -25,6 +25,3 @@ The third application is:
 
 * "Erection of side gate to rear garden from Kilmorey Road":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05/2973/FUL
 This is the second request for a gate in the historic wall around the site, probably for easier access to parking.  The previous request was rejected by the council.  The gate would provide access to a garden that already has access via another gate.
-
-
-

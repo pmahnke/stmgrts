@@ -12,23 +12,3 @@ There is going to be a Cornish Farmers Market at The Turks Head. Organised by "M
 "Marghas.co.uk":http://www.marghas.co.uk is a small business started up by an ex-St Margarets resident who lives in Cornwall and the local area is being used as the first part of London to target. I've been buying off them for the past  month or so and the quality is fantastic.
 
 <cite>-- from Rob Sandes</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-06-12-event_reminder_cornish_farmers_market_at_turks_hea in site.data.2009-06-12-event_reminder_cornish_farmers_market_at_turks_hea %}
-       <li>
-
-         {{ 2009-06-12-event_reminder_cornish_farmers_market_at_turks_hea.comment }}
-
-         <cite>{{ 2009-06-12-event_reminder_cornish_farmers_market_at_turks_hea.author }} on {{ 2009-06-12-event_reminder_cornish_farmers_market_at_turks_hea.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

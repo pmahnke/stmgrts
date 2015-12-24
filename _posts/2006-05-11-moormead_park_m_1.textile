@@ -23,21 +23,3 @@ A smaller group met to discuss landscaping, bulb planting in the park.
 
 If anyone would like further details or to offer their help, please contact Claire Wilson; 020 8744 0700 email; "corpunit@aol.com":mailto:corpunit@aol.com
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-11-moormead_park_m_1 in site.data.2006-05-11-moormead_park_m_1 %}
-       <li>
-
-         {{ 2006-05-11-moormead_park_m_1.comment }}
-
-         <cite>{{ 2006-05-11-moormead_park_m_1.author }} on {{ 2006-05-11-moormead_park_m_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

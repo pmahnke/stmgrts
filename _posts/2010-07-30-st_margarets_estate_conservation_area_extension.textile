@@ -5,14 +5,14 @@ permalink: /archives/2010/07/st_margarets_estate_conservation_area_extension.htm
 category: news
 date: 2010-07-30 11:34:02
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//con_st_margaret_s_extension.jpg" title="See larger version of - map of proposed extension"><img src="http://www.stmgrts.org.uk/images//con_st_margaret_s_extension_thumb.jpg" width="150" height="103" alt="map of proposed extension" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/con_st_margaret_s_extension.jpg" title="See larger version of - map of proposed extension"><img src="//stmgrts.org.uk/assets/images/2010/con_st_margaret_s_extension_thumb.jpg" width="150" height="103" alt="map of proposed extension" class="photo right" /></a>
     
     The Council is proposing the extend the boundary of the St Margarets Estate Conservation Area under the Planning (Listed Building and Conservation Areas) Act 1990. The proposed extension includes this property. As part of this process, the Council is seeking views of all owners and/or occupiers.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//con_st_margaret_s_extension.jpg" title="See larger version of - map of proposed extension"><img src="http://www.stmgrts.org.uk/images//con_st_margaret_s_extension_thumb.jpg" width="300" height="207" alt="map of proposed extension" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/con_st_margaret_s_extension.jpg" title="See larger version of - map of proposed extension"><img src="//stmgrts.org.uk/assets/images/2010/con_st_margaret_s_extension_thumb.jpg" width="300" height="207" alt="map of proposed extension" class="photo center" /></a>
 
 The Council is proposing the extend the boundary of the St Margarets Estate Conservation Area under the Planning (Listed Building and Conservation Areas) Act 1990. The proposed extension includes this property. As part of this process, the Council is seeking views of all owners and/or occupiers.
 
@@ -30,8 +30,3 @@ _Please note: the deadline for comments has been extended to 3 September 2010 in
 Consultation ends on 3 September 2010
 
 "Council's web page":http://richmond.gov.uk/home/council_government_and_democracy/council/consulation_and_feedback/council_consultations/consultation_details.htm?id=C00359
-
-
-
-
-

@@ -17,23 +17,3 @@ We don't need more executive homes! Twickenham has been at the forefront of the 
 
 
 <cite>-- from local resident, Maria Walker</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-02-26-petition_to_save_twickenham_film_studios in site.data.2012-02-26-petition_to_save_twickenham_film_studios %}
-       <li>
-
-         {{ 2012-02-26-petition_to_save_twickenham_film_studios.comment }}
-
-         <cite>{{ 2012-02-26-petition_to_save_twickenham_film_studios.author }} on {{ 2012-02-26-petition_to_save_twickenham_film_studios.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

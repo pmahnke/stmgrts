@@ -7,7 +7,7 @@ date: 2006-01-31 21:10:20
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/"><img src="http://www.stmgrts.org.uk/images/" width="150" height="112" alt="go to London like you know you should" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/"><img src="http://www.stmgrts.org.uk/images/" width="150" height="112" alt="go to London like you know you should" class="photo right" /></a>
 
 Need some inspiration for "different" things to do with the kids?
 
@@ -191,22 +191,3 @@ _In her latest novel The White Darkness, award-winning writer Geraldine McCaughr
 ** Thursday 16th February
 11:30 am Purcell Room
 _Morris Gleitzman pays us a rare visit from his home in Australia to read from and talk about his brand new book, Once._
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-01-31-half_term_activ in site.data.2006-01-31-half_term_activ %}
-       <li>
-
-         {{ 2006-01-31-half_term_activ.comment }}
-
-         <cite>{{ 2006-01-31-half_term_activ.author }} on {{ 2006-01-31-half_term_activ.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

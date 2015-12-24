@@ -5,7 +5,7 @@ permalink: /archives/2011/03/event_reminder_art_picnic_sugarcraft_workshop_17_a.
 category: around_town
 date: 2011-03-30 21:00:47
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="http://www.stmgrts.org.uk/images//art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
     
     With Sugar crafter Danielle Armstrong
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="http://www.stmgrts.org.uk/images//art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
 
 With Sugar crafter Danielle Armstrong
 
@@ -32,7 +32,7 @@ Please bring an apron and rolling pin. All other materials will be provided for 
 *ADVANCE BOOKING ESSENTIAL*
 
 
-<a href="http://www.stmgrts.org.uk/images//Sugarworkshop_poster.gif" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//Sugarworkshop_poster_thumb.gif" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Sugarworkshop_poster.gif" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/Sugarworkshop_poster_thumb.gif" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 h4. Details
 
@@ -53,7 +53,3 @@ This event is taking place in St Margaret's and parking is available. It is also
 Please call the office on 020 8891 5455 or e-mail: office@environmenttrust.co.uk to book your place.
 
 Contact on the day : Danielle Armstrong 07903 735886
-
-
-
-

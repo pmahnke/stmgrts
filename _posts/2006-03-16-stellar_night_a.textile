@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Burmese-Days-002.jpg"><img src="http://www.stmgrts.org.uk/images/Burmese-Days-002-thumb.jpg" width="150" height="112" alt="Band : Burmese Days" class="photo right ignore" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/Burmese-Days-002.jpg"><img src="//stmgrts.org.uk/assets/images/2006/Burmese-Days-002-thumb.jpg" width="150" height="112" alt="Band : Burmese Days" class="photo right ignore" /></a>
 
 The following story was submitted by Toby Hartwell following his very successful "charity event":/archives/2006/02/a_starstudded_n.html that raised nearly  &pound;2000 for the "Shooting Star Children's Hospice":/cgi-bin/directory.cgi?key=200602091019&action=getlisting.  The event was part of Toby's campaign for running in this year's London Marathon.
 
@@ -26,7 +26,3 @@ bq. "I was absolutely delighted that so many people were able to come and I woul
 Toby asks that if anyone has any photos of the event to mail them to him for the Charity's website at "thartwell@ap.org":mailto:thartwell@ap.org.
 
 </div>
-
-
-
-

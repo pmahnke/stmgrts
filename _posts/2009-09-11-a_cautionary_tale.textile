@@ -19,7 +19,7 @@ Well here's a lesson for us all. A friend of mine who has nous and street sense 
 
 
 
-<a href="http://www.stmgrts.org.uk/images/money.png"><img src="http://www.stmgrts.org.uk/images/money-thumb.png" width="150" height="90" alt="photo of money" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/money.png"><img src="//stmgrts.org.uk/assets/images/2009/money-thumb.png" width="150" height="90" alt="photo of money" class="photo right" /></a>
 
 
 
@@ -44,7 +44,3 @@ The confidence trick outlined above took place at the beginning of August and in
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

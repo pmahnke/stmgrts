@@ -7,7 +7,7 @@ date: 2012-04-01 10:40:04
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//nickpraterflyer.jpg" title="See larger version of - nick prater"><img src="http://www.stmgrts.org.uk/images//nickpraterflyer_thumb.jpg" width="150" height="113" alt="nick prater" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/nickpraterflyer.jpg" title="See larger version of - nick prater"><img src="//stmgrts.org.uk/assets/images/2012/nickpraterflyer_thumb.jpg" width="150" height="113" alt="nick prater" class="photo right" /></a>
 
 _Let Your Heart Sing!_
 
@@ -27,7 +27,3 @@ h4. More Information
 * Please send cheques payable to P. Payan with contact details including your email address and telephone number, to 31 Victor Rd, Teddington, TW11 8SP
 
 <em>For more details of Nick and Susie Prater go to "www.nickprater.co.uk":http://www.nickprater.co.uk or "www.naturalvoice.net":http://www.naturalvoice.net</em>
-
-
-
-

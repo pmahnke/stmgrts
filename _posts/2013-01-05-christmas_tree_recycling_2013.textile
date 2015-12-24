@@ -5,7 +5,7 @@ permalink: /archives/2013/01/christmas_tree_recycling_2013.html
 category: 
 date: 2013-01-05 20:14:30
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/recycle-your-christmas-tree.html" onclick="window.open('http://www.stmgrts.org.uk/recycle-your-christmas-tree.html','popup','width=180,height=167,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.stmgrts.org.uk/recycle-your-christmas-tree-thumb.jpg" width="150" height="139" alt="recycle"  class="right"  /></a>
+    <a href="http://www.stmgrts.org.uk/recycle-your-christmas-tree.html" onclick="window.open('http://www.stmgrts.org.uk/recycle-your-christmas-tree.html','popup','width=180,height=167,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="//stmgrts.org.uk/assets/images/2013/recycle-your-christmas-tree-thumb.jpg" width="150" height="139" alt="recycle"  class="right"  /></a>
     
     
     Household real Christmas trees will be collected for recycling between Monday 7 and Friday 18 January 2013 on the same day as your normal waste and recycling collections.
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/recycle-your-christmas-tree.html" onclick="window.open('http://www.stmgrts.org.uk/recycle-your-christmas-tree.html','popup','width=180,height=167,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.stmgrts.org.uk/recycle-your-christmas-tree-thumb.jpg" width="150" height="139" alt="recycle"  class="right"  /></a>
+<a href="http://www.stmgrts.org.uk/recycle-your-christmas-tree.html" onclick="window.open('http://www.stmgrts.org.uk/recycle-your-christmas-tree.html','popup','width=180,height=167,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="//stmgrts.org.uk/assets/images/2013/recycle-your-christmas-tree-thumb.jpg" width="150" height="139" alt="recycle"  class="right"  /></a>
 
 
 Household real Christmas trees will be collected for recycling between Monday 7 and Friday 18 January 2013 on the same day as your normal waste and recycling collections.
@@ -27,9 +27,3 @@ Put your tree out on your normal collection day in a place that is easy to see b
 Last year we collected around 20,000 Christmas trees for recycling which was fantastic. However, high demand means _we may not collect all trees immediately. If yours is not taken first time, put it out again the following week on your collection day._
 
 * "More information on LBRUT site":http://www.richmond.gov.uk/home/environment/rubbish_and_recycling/household_recycling/christmas_tree_recycling.htm
-
-
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2010/10/the_boroughs_byelaws.html
 category: around_town
 date: 2010-10-25 19:50:06
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/Woodcut-Tip-Cat.png"><img alt="Woodcut-Tip-Cat.png" src="http://www.stmgrts.org.uk/images/Woodcut-Tip-Cat-thumb.png" width="150" height="101" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/Woodcut-Tip-Cat.png"><img alt="Woodcut-Tip-Cat.png" src="//stmgrts.org.uk/assets/images/2010/Woodcut-Tip-Cat-thumb.png" width="150" height="101" class="right" /></a>
     
     The Borough's Bye-Laws have been kindly published by the Council, and as a result, the law abiding citizens of Twickenham need to be on their guard so as to ensure that they do not transgress. There appears to be different sets of rules applying to the three parts of the Borough united when the London Borough came into existence in 1965. Although there are a lot of similar provisions, those for Twickenham affect us and make interesting reading, perhaps.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Woodcut-Tip-Cat.png"><img alt="Woodcut-Tip-Cat.png" src="http://www.stmgrts.org.uk/images/Woodcut-Tip-Cat-thumb.png" width="150" height="101" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Woodcut-Tip-Cat.png"><img alt="Woodcut-Tip-Cat.png" src="//stmgrts.org.uk/assets/images/2010/Woodcut-Tip-Cat-thumb.png" width="150" height="101" class="right" /></a>
 
 The Borough's Bye-Laws have been kindly published by the Council, and as a result, the law abiding citizens of Twickenham need to be on their guard so as to ensure that they do not transgress. There appears to be different sets of rules applying to the three parts of the Borough united when the London Borough came into existence in 1965. Although there are a lot of similar provisions, those for Twickenham affect us and make interesting reading, perhaps.
 
@@ -32,7 +32,3 @@ More comforting is a regulation dating from 1968 which provides that hairdresser
 If this is all a bit boring and you are beginning to drop off, please be advised that you are forbidden from sleeping in libraries if you are asked not to by a library officer.
 
 <cite>-- from Laurence Mann</cite>
-
-
-
-

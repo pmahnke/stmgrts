@@ -7,7 +7,7 @@ date: 2011-12-08 22:02:47
 
 ---
 
-<img src="http://www.richmondteamministry.org/images/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
+<img src="//stmgrts.org.uk/assets/images/2011/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
 
 Here is a list of church services for Christmas Eve and Christmas for some local churches.
 
@@ -187,7 +187,3 @@ h4. Saturday 24 December
 h4. Sunday 25 December
 
 * 10.00am - Festival Eucharist
-
-
-
-

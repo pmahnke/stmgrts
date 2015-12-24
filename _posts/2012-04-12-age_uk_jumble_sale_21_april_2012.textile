@@ -7,7 +7,7 @@ date: 2012-04-12 22:18:33
 
 ---
 
-<img src="http://www.ageuk.org.uk/BrandPartnerGlobal/richmonduponthamesVPP/Images/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" alt="Age UK logo"  class="photo right" width="160" height="80" />
+<img src="//stmgrts.org.uk/assets/images/2012/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" alt="Age UK logo"  class="photo right" width="160" height="80" />
 
 BARNES GREEN CENTRE
 
@@ -19,8 +19,3 @@ Admission 50p
 Tea coffee cakes ~ Clothes ~ Bric a Brac
 
 <em>"all proceeds to Age UK Richmond":http://www.ageuk.org.uk/richmonduponthames/</em>
-
-
-
-
-

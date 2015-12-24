@@ -39,23 +39,3 @@ David Allister
 Head of Parks, Document & Delivery
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-10-10-moormead_pavilion_expression_of_interest in site.data.2015-10-10-moormead_pavilion_expression_of_interest %}
-       <li>
-
-         {{ 2015-10-10-moormead_pavilion_expression_of_interest.comment }}
-
-         <cite>{{ 2015-10-10-moormead_pavilion_expression_of_interest.author }} on {{ 2015-10-10-moormead_pavilion_expression_of_interest.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

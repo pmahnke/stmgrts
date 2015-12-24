@@ -5,7 +5,7 @@ permalink: /archives/2014/02/wild_tots_and_wild_preschool_2014_spring_term.html
 category: news
 date: 2014-02-14 09:12:31
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//wild_tots.png" title="See larger version of - wild tots"><img src="http://www.stmgrts.org.uk/images//wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="//stmgrts.org.uk/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
     
     St Margarets Mum Ellie Wrigglesworth has always enjoyed mud and invites you and your children to come and share her passion!
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//wild_tots.png" title="See larger version of - wild tots"><img src="http://www.stmgrts.org.uk/images//wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="//stmgrts.org.uk/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
 
 St Margarets Mum Ellie Wrigglesworth has always enjoyed mud and invites you and your children to come and share her passion!
 
@@ -56,22 +56,3 @@ Wild Education also runs school curriculum sessions, after school clubs and holi
 * "www.wildeducation.co.uk":http://www.wildeducation.co.uk for online booking and payment
 * Facebook: "www.facebook.com/WildEducation":http://www.facebook.com/WildEducation
 * Twitter: "@wildeducationuk":http://www.twitter.com/wildeducationuk
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term in site.data.2014-02-14-wild_tots_and_wild_preschool_2014_spring_term %}
-       <li>
-
-         {{ 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term.comment }}
-
-         <cite>{{ 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term.author }} on {{ 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

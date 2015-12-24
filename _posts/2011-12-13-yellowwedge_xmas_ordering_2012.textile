@@ -9,7 +9,7 @@ date: 2011-12-13 09:53:26
 
 <div class="letter">
 
-<a href="http://www.stmgrts.org.uk/images//cheese_xmas_tree.png" title="See larger version of - cheese xmas tree"><img src="http://www.stmgrts.org.uk/images//cheese_xmas_tree_thumb.png" width="150" height="131" alt="cheese xmas tree" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/cheese_xmas_tree.png" title="See larger version of - cheese xmas tree"><img src="//stmgrts.org.uk/assets/images/2011/cheese_xmas_tree_thumb.png" width="150" height="131" alt="cheese xmas tree" class="right" /></a>
 
 Dear Cheese Lover,
 
@@ -42,7 +42,3 @@ And whatever your plans for the festive season, our very best wishes from all of
 |MONDAY |02ND|Bank Holiday - Closed|
 |TUESDAY|03RD|Closed|
 |WEDNESDAY|04TH|Business as usual...|
-
-
-
-

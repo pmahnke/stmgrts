@@ -7,7 +7,7 @@ date: 2014-05-08 22:18:57
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="http://www.stmgrts.org.uk/images//Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="//stmgrts.org.uk/assets/images/2014/Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
 
 _Join us in a celebration of original art and the hand-crafted ceramics, glass, fine art, sculpture, jewellery, metalwork, photography, fashion and more_
 
@@ -23,7 +23,3 @@ h4. More Information
 * Free entry and free parking. Disabled access
 * Redlees Studios, Redlees Park, Worton Road, Isleworth, TW7 6DW
 * Find full details of artists and map on "www.redlees.org":http://www.redlees.org
-
-
-
-

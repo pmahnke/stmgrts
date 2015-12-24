@@ -5,7 +5,7 @@ permalink: /archives/2008/12/i_told_bob_dylan_he_was_dead.html
 category: news
 date: 2008-12-19 16:06:56
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/bobdylan_nashvilleskyline.jpg"><img src="http://www.stmgrts.org.uk/images/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/bobdylan_nashvilleskyline.jpg"><img src="//stmgrts.org.uk/assets/images/2008/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
     
     
     
@@ -16,13 +16,13 @@ excerpt: |
 
 <div class="box">Local residents might care to note that the following story  - which is absolutely true - has nothing whatsoever to do with St. Margarets. The only connection is the writer now lives in St. Margarets. At the time that the story is set he had never heard of the place!  Thank you.</div>
 
-<a href="http://www.stmgrts.org.uk/images/bobdylan_nashvilleskyline.jpg"><img src="http://www.stmgrts.org.uk/images/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/bobdylan_nashvilleskyline.jpg"><img src="//stmgrts.org.uk/assets/images/2008/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
 
 
 In the summer of 1969 I told Bob Dylan he was dead. He hadn't heard the news at the time but he didn't appear to be too bothered. Perhaps, like the rest of us who had made it through the Sixties, Bob had become inured to rock deaths - including his own. Since Buddy Holly, Ritchie Valens and the Big Bopper had died in that plane crash in February 1959 a whole gang of rockers had joined the great tour bus in the sky - Eddie Cochran, Otis Redding, the Bar-Kays, Brian Jones, Johnny Kidd, Sam Cooke, Bobby Fuller, Johnny Burnette, Joe Meek, Frankie Lymon and countless others. There was one major difference however. They really were dead and Bob Dylan wasn't but it didn't matter. The story going round in the summer of '69 said he was and the rumour carried just enough fact to make it seem plausible.
 
 
-<a href="http://www.stmgrts.org.uk/images/george_patti.jpg"><img src="http://www.stmgrts.org.uk/images/george_patti-thumb.jpg" width="150" height="108" alt="George and Patti" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/george_patti.jpg"><img src="//stmgrts.org.uk/assets/images/2008/george_patti-thumb.jpg" width="150" height="108" alt="George and Patti" class="photo right" /></a>
 
 
 Everybody knew that in 1967 Bob had survived a motorbike accident. By the summer of 1969 it was being suggested that Bob had actually died in the crash, the victim of an assassination plot. The story claimed that he had been replaced by a look-a-like, sound-a-like impostor. The proof - and you always need a spot of 'proof' to turn fiction into incontrovertible fact - was to be found in Bob's latest album "Nashville Skyline" released in April 1969. Instead of the expected assortment of protest songs, dark symbolism and minimalist rock 'n' roll delivered in that familiar ever-so-slightly flat snarl, here you find a pleasant collection of cheery country songs gently crooned by some geek who had obviously just been voted "Employee of the Month" at the local K-Mart and was cutting a few tracks before marrying his high school sweetheart. They had even put a photograph of the charlatan on the record sleeve. No Bob's big hair and 1000 yard stare for this one. Here was just some fresh-faced kid with a cowboy hat, a wispy beard and a pleasant smile....and Bob never smiled, pleasantly or otherwise. To complete the mystery there were also some suitably cryptic sleeve notes written by Johnny Cash...
@@ -43,29 +43,10 @@ George said that he thought the story was 'weird' and asked if I would repeat it
 
 
 
-<a href="http://www.stmgrts.org.uk/images/PaulorBilly.jpg"><img src="http://www.stmgrts.org.uk/images/PaulorBilly-thumb.jpg" width="135" height="150" alt="Paul or Billy?" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/PaulorBilly.jpg"><img src="//stmgrts.org.uk/assets/images/2008/PaulorBilly-thumb.jpg" width="135" height="150" alt="Paul or Billy?" class="photo right" /></a>
 
 
 
 Klaus told me later that George and his wife Patti Boyd were staying with Bob Dylan in his house just outside New York. Patti, the beautiful schoolgirl from "Hard Days Night" was in America learning how to fly... and I was learning how to crawl under the carpet.  In June 1970  Bob Dylan released his next album 'Self Portrait'. The wispy beard had disappeared and the familiar rasping voice was back. I didn't notice. By then we were too busy sorting out the latest "Guess Who's Dead?" mystery, this time involving Paul McCartney. The story sounded familiar. Paul had been killed in a car crash in November 1966 and replaced by a look-alike, sound-alike called William Campbell. The proof was concealed in obscure song lyrics, mystic symbols and hidden messages - Paul's bare feet on the cover of Abbey Road, a secret phone number spelt out by the stars on the cover of 'Magical Mystery Tour', a garbled backwards sentence buried in a record run out groove. Paul is no more, they all said - but he wasn't - and neither was Bob Dylan. I know because I had spoken to him.  I had told him he was dead.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-12-19-i_told_bob_dylan_he_was_dead in site.data.2008-12-19-i_told_bob_dylan_he_was_dead %}
-       <li>
-
-         {{ 2008-12-19-i_told_bob_dylan_he_was_dead.comment }}
-
-         <cite>{{ 2008-12-19-i_told_bob_dylan_he_was_dead.author }} on {{ 2008-12-19-i_told_bob_dylan_he_was_dead.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

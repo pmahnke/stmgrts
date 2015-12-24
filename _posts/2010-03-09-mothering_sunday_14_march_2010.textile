@@ -7,7 +7,7 @@ date: 2010-03-09 09:39:40
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/mothersday.jpg"><img src="http://www.stmgrts.org.uk/images/mothersday-thumb.jpg" width="150" height="90" alt="" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/mothersday.jpg"><img src="//stmgrts.org.uk/assets/images/2010/mothersday-thumb.jpg" width="150" height="90" alt="" class="photo right" /></a>
 
 
 Mothering Sunday is traditionally the day we show our Mothers that we appreciate them and love them and that we are thankful to have them in our lives.  Mothers Day came to be celebrated in UK in 17<sup>th</sup> century as Mothering Sunday. On this day children give flowers and bouquets to their mother to express their love for them.
@@ -34,7 +34,3 @@ Here in St Margarets, Forgetmenot Flowers offers beautiful bouquets of fresh sea
 Please see our website "www.forgetmenotflowersdelivery.co.uk":http://www.forgetmenotflowersdelivery.co.uk or telephone us on 0845 680 9081.
 
 </div>
-
-
-
-

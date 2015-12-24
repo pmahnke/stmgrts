@@ -5,13 +5,13 @@ permalink: /archives/2015/06/local_artists_at_jmw_turners_house_for_arthouse_20.
 category: around_town
 date: 2015-06-25 19:28:28
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="http://www.stmgrts.org.uk/images//arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmgrts.org.uk/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
     
     Celebrating ARThouse 2015 Turner's House is delighted to host an exhibition by two local professional artists, both inspired by our great British landscape painter.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="http://www.stmgrts.org.uk/images//arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmgrts.org.uk/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
 
 Celebrating ARThouse 2015 Turner's House is delighted to host an exhibition by two local professional artists, both inspired by our great British landscape painter.
 
@@ -24,7 +24,3 @@ Over the past year Beverley Waller has been inspired by the beauty of Turner's H
 Jim Woodman's inspiration is the landscape, one of his favourite locations being the Thames and its environs in London, as it was for Turner, who designed his country retreat, Sandycombe Lodge, near the river at St Margarets, Twickenham. A member of the National Society of Painters, Sculptors and Printmakers, Jim uses oils and watercolours in strong, vibrant colours.
 
 Both are widely exhibited in both public and private galleries.
-
-
-
-

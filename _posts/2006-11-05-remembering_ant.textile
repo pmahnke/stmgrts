@@ -14,23 +14,3 @@ bq.. Many residents will remember Tony from the St Margarets Railway Station. Af
 A keen photographer, cyclist, motor bike enthusiast, cook, gardener, calligrapher, wine and beer- maker he also taught himself how to play the flute and serenaded many of us over the years from the ticket kiosk.
 
 p. <em>-- Maeve Good</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-05-remembering_ant in site.data.2006-11-05-remembering_ant %}
-       <li>
-
-         {{ 2006-11-05-remembering_ant.comment }}
-
-         <cite>{{ 2006-11-05-remembering_ant.author }} on {{ 2006-11-05-remembering_ant.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

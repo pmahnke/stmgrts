@@ -5,13 +5,13 @@ permalink: /archives/2014/11/lidl_in_east_twickenham.html
 category: news
 date: 2014-11-14 08:46:55
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="http://www.stmgrts.org.uk/images//LIDL-Richmond-Road_thumb.jpg" width="150" height="93" alt="LIDL Richmond Road drawing" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="//stmgrts.org.uk/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="150" height="93" alt="LIDL Richmond Road drawing" class="photo right" /></a>
     
     Lidl are developing a planning application and they are holding a Public Consultation evening on Friday, 14 November 2014 from 4 to 8pm at the Crossway Centre, part of St Stephen's Church.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="http://www.stmgrts.org.uk/images//LIDL-Richmond-Road_thumb.jpg" width="250" height="155" alt="LIDL Richmond Road drawing" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="//stmgrts.org.uk/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="250" height="155" alt="LIDL Richmond Road drawing" class="photo right" /></a>
 
 Lidl are developing a planning application and they are holding a Public Consultation evening on Friday, 14 November 2014 from 4 to 8pm at the Crossway Centre, part of St Stephen's Church.
 
@@ -20,26 +20,3 @@ They have sent a letter to many local residents looking for support.  It appears
 There is a website with more information "www.richmondroad.lidl.co.uk":http://www.richmondroad.lidl.co.uk and an online petition to support the idea "www.gopetition.com/petitions/support-lidl-in-twickenham.html":http://www.gopetition.com/petitions/support-lidl-in-twickenham.html.
 
 _What do you think?_
-
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-11-14-lidl_in_east_twickenham in site.data.2014-11-14-lidl_in_east_twickenham %}
-       <li>
-
-         {{ 2014-11-14-lidl_in_east_twickenham.comment }}
-
-         <cite>{{ 2014-11-14-lidl_in_east_twickenham.author }} on {{ 2014-11-14-lidl_in_east_twickenham.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

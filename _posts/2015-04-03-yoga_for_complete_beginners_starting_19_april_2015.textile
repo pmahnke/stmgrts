@@ -5,7 +5,7 @@ permalink: /archives/2015/04/yoga_for_complete_beginners_starting_19_april_2015.
 category: around_town
 date: 2015-04-03 08:58:48
 excerpt: |
-    <p><a href="http://www.stmgrts.org.uk/images//yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="http://www.stmgrts.org.uk/images//yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a></p>
+    <p><a href="//stmgrts.org.uk/assets/images/2015/yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="//stmgrts.org.uk/assets/images/2015/yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a></p>
     
     In our hectic modern world many people are taking 'time out' to practice yoga - a system that originated in India 5,000 years ago. Everyone can practice yoga, regardless of age, sex or ability.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<p><a href="http://www.stmgrts.org.uk/images//yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="http://www.stmgrts.org.uk/images//yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a></p>
+<p><a href="//stmgrts.org.uk/assets/images/2015/yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="//stmgrts.org.uk/assets/images/2015/yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a></p>
 
 In our hectic modern world many people are taking 'time out' to practice yoga - a system that originated in India 5,000 years ago. Everyone can practice yoga, regardless of age, sex or ability.
 
@@ -50,7 +50,3 @@ For further information or to book contact Sammie:
 * "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
 
 _Sammie Mason is a qualified teacher with the British Wheel of Yoga_
-
-
-
-

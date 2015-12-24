@@ -18,24 +18,3 @@ TW have removed, they say, c. 10,000 dead fish which they have taken to Mogden s
 The last time a London river was fouled like this was a discharge of bleach into the Wandle by TW a few years ago: they paid &pound;0.5 mn. into a trust fund to pay for the cost of bringing the river back to life. So it is expected that something similar will be agreed this time, before TW come to court in a year's time or later.
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-11-12-river_crane_pollution_update_10_november_2011 in site.data.2011-11-12-river_crane_pollution_update_10_november_2011 %}
-       <li>
-
-         {{ 2011-11-12-river_crane_pollution_update_10_november_2011.comment }}
-
-         <cite>{{ 2011-11-12-river_crane_pollution_update_10_november_2011.author }} on {{ 2011-11-12-river_crane_pollution_update_10_november_2011.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

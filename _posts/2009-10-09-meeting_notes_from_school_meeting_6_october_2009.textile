@@ -11,23 +11,3 @@ The meeting on the St Stephen's expansion was a success with overwhelming suppor
  
 The architects are presenting a third revision of the plans on Monday to the school head, the Chair of Governors and the Local Authority. We are not hopeful that the plans will fall within the available budget. Helen Henderson will send an update on Monday to attendees. If you have any questions, please email her at "helen_f_hendersn@hotmail.com":mailto:helen_f_hendersn@hotmail.com
  
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-10-09-meeting_notes_from_school_meeting_6_october_2009 in site.data.2009-10-09-meeting_notes_from_school_meeting_6_october_2009 %}
-       <li>
-
-         {{ 2009-10-09-meeting_notes_from_school_meeting_6_october_2009.comment }}
-
-         <cite>{{ 2009-10-09-meeting_notes_from_school_meeting_6_october_2009.author }} on {{ 2009-10-09-meeting_notes_from_school_meeting_6_october_2009.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

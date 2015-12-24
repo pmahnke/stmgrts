@@ -27,6 +27,3 @@ The LEAP criteria are:
 * Each site must be entirely fenced with self-closing gates.
 * Each site must have signs excluding dogs.
 * Each site must be overlooked by housing, pedestrian routes or other well used public facilities.
-
-
-

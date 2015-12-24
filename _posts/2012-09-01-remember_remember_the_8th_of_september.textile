@@ -7,7 +7,7 @@ date: 2012-09-01 09:42:03
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//gass_2011.png" title="See larger version of - GASS"><img src="http://www.stmgrts.org.uk/images//gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/gass_2011.png" title="See larger version of - GASS"><img src="//stmgrts.org.uk/assets/images/2012/gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
 
 _Grand Annual Street Sale - Saturday 8<sup>th</sup> September_
 
@@ -32,7 +32,3 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 "Here is a link to a map.":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
 
 </div>
-
-
-
-

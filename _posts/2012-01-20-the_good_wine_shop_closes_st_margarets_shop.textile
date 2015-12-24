@@ -5,7 +5,7 @@ permalink: /archives/2012/01/the_good_wine_shop_closes_st_margarets_shop.html
 category: news
 date: 2012-01-20 22:13:04
 excerpt: |
-    
+    <div class="letter">
     
     <img src="/images/directory/200511281416_The_Good_Wine_Shop.jpg"  alt="The_Good_Wine_Shop" width="150"  class="photo right" />
     
@@ -52,23 +52,3 @@ Owner
 </div>
 
 We wish them the best of luck and hope they fine a nearby location soon.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-01-20-the_good_wine_shop_closes_st_margarets_shop in site.data.2012-01-20-the_good_wine_shop_closes_st_margarets_shop %}
-       <li>
-
-         {{ 2012-01-20-the_good_wine_shop_closes_st_margarets_shop.comment }}
-
-         <cite>{{ 2012-01-20-the_good_wine_shop_closes_st_margarets_shop.author }} on {{ 2012-01-20-the_good_wine_shop_closes_st_margarets_shop.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

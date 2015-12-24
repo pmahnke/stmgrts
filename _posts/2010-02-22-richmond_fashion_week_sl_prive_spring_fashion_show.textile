@@ -5,7 +5,7 @@ permalink: /archives/2010/02/richmond_fashion_week_sl_prive_spring_fashion_show.
 category: around_town
 date: 2010-02-22 13:24:38
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf"><img src="http://www.stmgrts.org.uk/images//InviationSLP2010FashionShow_thumb.gif" width="106" height="150" alt="Download the pdf" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf"><img src="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow_thumb.gif" width="106" height="150" alt="Download the pdf" class="photo right" /></a>
     
     bq.. Too busy for Milan?
     Too cold in New York?
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf"><img src="http://www.stmgrts.org.uk/images//InviationSLP2010FashionShow_thumb.gif" width="106" height="150" alt="Download the pdf" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf"><img src="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow_thumb.gif" width="106" height="150" alt="Download the pdf" class="photo right" /></a>
 
 bq.. Too busy for Milan?
 Too cold in New York?
@@ -44,9 +44,4 @@ h4. Details
 * Tickets &pound;25 per person
 * All ticket proceeds will be going to the New Victoria Medical Foundation.
 * To buy tickets or to get more information on the event, please call Susana or Philippa at SL Priv&#233;e on 0208 332 2299
-* <a href="http://www.stmgrts.org.uk/images/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf">Download the invitation</a> [PDF]
-
-
-
-
-
+* <a href="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf">Download the invitation</a> [PDF]

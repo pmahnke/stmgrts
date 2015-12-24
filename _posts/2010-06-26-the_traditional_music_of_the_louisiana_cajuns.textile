@@ -5,7 +5,7 @@ permalink: /archives/2010/06/the_traditional_music_of_the_louisiana_cajuns.html
 category: around_town
 date: 2010-06-26 06:23:32
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="http://www.stmgrts.org.uk/images//LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="//stmgrts.org.uk/assets/images/2010/LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
     
     
     The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out "last week's article":http://www.stmgrts.org.uk/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.)
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="http://www.stmgrts.org.uk/images//LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="//stmgrts.org.uk/assets/images/2010/LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
 
 bq. "The music bites, burns and blisters the heart with its cruel loneliness of our Cajun history. Not only the loneliness at the time of our exile, but the later years of poverty..."
 
@@ -31,7 +31,7 @@ The Cajun Triangle or "'Tit Fer" (Little Iron) is not the chrome plated confecti
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/images/events/LO2_1.jpg" title="See larger version of - Accordian"><img src="http://www.stmgrts.org.uk/images/events/LO2_1_thumb.jpg" width="109" height="150" alt="Accordion " class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/LO2_1.jpg" title="See larger version of - Accordian"><img src="//stmgrts.org.uk/assets/images/2010/LO2_1_thumb.jpg" width="109" height="150" alt="Accordion " class="photo right" /></a>
 
 The Cajun Accordion is not a big red shiny plastic thing with an over indulgence of piano keys down one side and zillions of buttons down the other. That is a Piano Accordion and most Cajun musicians avoid them ...although they are played with great enthusiasm by Louisiana's Zydeco musicians.
 
@@ -54,7 +54,7 @@ As their 17<sup>th</sup> century French heritage might suggest the Cajuns have r
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/images//LO2_2.jpg" title="See larger version of - Crane River Cajuns"><img src="http://www.stmgrts.org.uk/images//LO2_2_thumb.jpg" width="150" height="113" alt="Crane River Cajuns" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/LO2_2.jpg" title="See larger version of - Crane River Cajuns"><img src="//stmgrts.org.uk/assets/images/2010/LO2_2_thumb.jpg" width="150" height="113" alt="Crane River Cajuns" class="photo right" /></a>
 
 
 The British have a strange knack for taking other people's musical traditions, giving them a polish and then selling them back. It happened during the 20's and 30's with Dixieland jazz, in the 50's with rock 'n' roll and in the early 60's with blues as demonstrated by groups like the Rolling Stones and the Yardbirds. That process continues today with cajun and zydeco music. There are a number of zydeco and cajun bands operating in Britain and numerous clubs where you can both hear them play and learn how to dance 'cajun style'. Some of these bands have even played in Louisiana.  Not surprisingly St Margarets has its own Cajun band, the Crane River Cajuns, who proudly boast that, like the original Cajuns, they too live on a bayou. It just happens that theirs flows into the River Thames.
@@ -65,31 +65,13 @@ h4. Cajun and zydeco music in action...
 
 h3. Buckwheat Zydeco burning it up on Australian TV
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/kCBCPlXkqAI&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kCBCPlXkqAI&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="//stmgrts.org.uk/assets/images/2010/kCBCPlXkqAI&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kCBCPlXkqAI&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
 One of the greatest Cajun Bands - ever! The Balfa Brothers with Nathan Abshire. The word 'negresse' is a term of endearment.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/RUI7LxZI650&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RUI7LxZI650&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="//stmgrts.org.uk/assets/images/2010/RUI7LxZI650&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RUI7LxZI650&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-06-26-the_traditional_music_of_the_louisiana_cajuns in site.data.2010-06-26-the_traditional_music_of_the_louisiana_cajuns %}
-       <li>
-
-         {{ 2010-06-26-the_traditional_music_of_the_louisiana_cajuns.comment }}
-
-         <cite>{{ 2010-06-26-the_traditional_music_of_the_louisiana_cajuns.author }} on {{ 2010-06-26-the_traditional_music_of_the_louisiana_cajuns.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

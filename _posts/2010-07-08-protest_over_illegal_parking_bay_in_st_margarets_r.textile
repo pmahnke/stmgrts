@@ -20,23 +20,3 @@ Mr Wise said: 'The bay in question is over 15m long. It therefore can't be class
 'It's a clear cut case of illegal signage.'"
 
 -- from "The Richmond & Twickenham Times":http://www.richmondandtwickenhamtimes.co.uk/news/8258142.Protest_over__illegal__parking_bay/ 8 July 2010
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-07-08-protest_over_illegal_parking_bay_in_st_margarets_r in site.data.2010-07-08-protest_over_illegal_parking_bay_in_st_margarets_r %}
-       <li>
-
-         {{ 2010-07-08-protest_over_illegal_parking_bay_in_st_margarets_r.comment }}
-
-         <cite>{{ 2010-07-08-protest_over_illegal_parking_bay_in_st_margarets_r.author }} on {{ 2010-07-08-protest_over_illegal_parking_bay_in_st_margarets_r.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

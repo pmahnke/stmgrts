@@ -7,7 +7,7 @@ date: 2006-02-21 11:36:28
 
 ---
 
-<img src="/images/events/200602151510_Annual_Comedy_Night.gif" alt="Annual_Comedy_Night" class="right" width="221" height="100"/>
+<img src="//stmgrts.org.uk/assets/images/2006/200602151510_Annual_Comedy_Night.gif" alt="Annual_Comedy_Night" class="right" width="221" height="100"/>
 
 Local resident, Orleans Park parent and stand up comedian Milton Jones has put together a cracking line up of his friends from the comedy circuit and by no co-incidence -- top comedians to perform at "Orleans Park on Tuesday 14th March":/cgi-bin/events.cgi?key=200602151510&action=getevent. 
 
@@ -18,6 +18,3 @@ _All money raised will go to help the school._
  It's a rare treat to find Jim Tavare, Hal Cruttendon, Otis Canneloni and Marcus Brigstocke on the same bill, so get your tickets in advance by phoning Chaz Rastan (020 8892 6822) or D. Skelton (020 8892 1263), or by booking online at "www.opsa.org.uk":http://www.opsa.org.uk/.  Alternatively, take your chances on seats still being available and pay at the door on the night.
 
 All tickets &pound;10.
-
-
-

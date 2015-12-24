@@ -5,7 +5,7 @@ permalink: /archives/2009/09/jayne_mansfield_and_the_chiswick_flyover.html
 category: around_town
 date: 2009-09-24 21:19:55
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/JM_opening_ChiswickFlyover.png"><img src="http://www.stmgrts.org.uk/images/JM_opening_ChiswickFlyover-thumb.png" width="150" height="111" alt="JAYNE MANSFIELD OPENS CHISWICK FLYOVER" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/JM_opening_ChiswickFlyover.png"><img src="//stmgrts.org.uk/assets/images/2009/JM_opening_ChiswickFlyover-thumb.png" width="150" height="111" alt="JAYNE MANSFIELD OPENS CHISWICK FLYOVER" class="photo right" /></a>
     
     
     There was a time when we loved our cars with a passion. On Saturdays we would wash them and on Sundays take them out for a spin. We would titivate them with fluffy dice and padded steering wheels. On the back seat - already trimmed in polyester tigerskin - we would throw a tartan travel blanket and a couple of lacy cushions.  We even wore special clothes to drive too. Boxy 'car coats', leather fronted 'driving gloves' and special non-slip driving shoes to help with those tricky double declutching gear changes were de rigeur. And when we were done with all that we would stick our names on them - usually under the plastic sun shield. Such was the love of the car that some people would take picnics to busy lay-bys just to sit and watch them go streaming by.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/cleaning_car.jpg"><img src="http://www.stmgrts.org.uk/images/cleaning_car-thumb.jpg" width="104" height="150" alt="Cleaning the family car" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/cleaning_car.jpg"><img src="//stmgrts.org.uk/assets/images/2009/cleaning_car-thumb.jpg" width="104" height="150" alt="Cleaning the family car" class="photo right" /></a>
 
 
 There was a time when we loved our cars with a passion. On Saturdays we would wash them and on Sundays take them out for a spin. We would titivate them with fluffy dice and padded steering wheels. On the back seat - already trimmed in polyester tigerskin - we would throw a tartan travel blanket and a couple of lacy cushions.  We even wore special clothes to drive too. Boxy 'car coats', leather fronted 'driving gloves' and special non-slip driving shoes to help with those tricky double declutching gear changes were de rigeur. And when we were done with all that we would stick our names on them - usually under the plastic sun shield. Such was the love of the car that some people would take picnics to busy lay-bys just to sit and watch them go streaming by.
@@ -28,7 +28,7 @@ While our cars indicated our status in the world, motorways, flyovers, and servi
 
 In August 1959, exactly fifty years ago, the builders were putting the final touches to the Chiswick Flyover - the first major two-level highway scheme to be constructed since World War 2. The works extended for about half a mile linking London's western approach, the Cromwell Road Extension, to the Great West Road soaring over the 40,000 cars a day that used the new 400ft diameter roundabout that lay beneath it. It was an engineering triumph and deserved a proper opening ceremony...well, that's what Mr. J. E Dayton, the joint Managing Director of Alderton's Construction Co., the principal contractors for the project, resolutely believed. His opinion was not shared.
 
-<a href="http://www.stmgrts.org.uk/images/JM_opening_ChiswickFlyover.png"><img src="http://www.stmgrts.org.uk/images/JM_opening_ChiswickFlyover-thumb.png" width="150" height="111" alt="JAYNE MANSFIELD OPENS CHISWICK FLYOVER" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/JM_opening_ChiswickFlyover.png"><img src="//stmgrts.org.uk/assets/images/2009/JM_opening_ChiswickFlyover-thumb.png" width="150" height="111" alt="JAYNE MANSFIELD OPENS CHISWICK FLYOVER" class="photo right" /></a>
 
 
 
@@ -40,7 +40,7 @@ Letters to the Brentford and Chiswick Times published on October 2nd criticized 
 
 bq. "I welcome ... all that is being done in the development of transport and the building of roads...It is, I consider, altogether a good thing that Miss Jayne Mansfield opened the Chiswick flyover. It gave the occasion a bit of publicity and introduced a controversial note."
 
-<a href="http://www.stmgrts.org.uk/images/mariska.png"><img src="http://www.stmgrts.org.uk/images/mariska-thumb.png" width="114" height="150" alt="MARISKA HARGITAY" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/mariska.png"><img src="//stmgrts.org.uk/assets/images/2009/mariska-thumb.png" width="114" height="150" alt="MARISKA HARGITAY" class="photo right" /></a>
 
 
 On September 30<sup>th</sup> 2009, the 50<sup>th</sup> anniversary of the flyover's glamorous opening, Councillor Paul Lynch, the mayor of Hounslow, hopes that Mariska Hargitay, the star of 'Law & Order' and Jayne Mansfield's youngest daughter will agree to come to the borough to commemorate the event. "Whether we love the flyover or hate it, we can't let this moment go by without doing something," Councillor Lynch said. "I suppose it wouldn't occur to anyone to get someone like Miss Mansfield to open a stretch of motorway these days, but in the fifties we still associated motoring with fun and we need to re-capture some of that spirit as we mark the half century."  It is hoped that Miss Hargitay will attend a "small drinks party" immediately beneath the flyover so that it won't interfere with the flow of traffic.
@@ -55,7 +55,7 @@ Jayne Mansfield, her career on a downward slide, died in a car crash in the earl
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images/jayne_mansfield.png"><img src="http://www.stmgrts.org.uk/images/jayne_mansfield-thumb.png" width="110" height="150" alt="40-21-35" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/jayne_mansfield.png"><img src="//stmgrts.org.uk/assets/images/2009/jayne_mansfield-thumb.png" width="110" height="150" alt="40-21-35" class="photo left" /></a>
 
 
 
@@ -67,7 +67,3 @@ Despite the "blonde bimbo" image which she fostered in many films and stage show
 <cite>-- from Martyn Day</cite>
 
 _This article was written with the generous assistance of James Marshall,  Local Studies Librarian at Hounslow Library, The Treaty Centre,  Hounslow TW3 1ES_
-
-
-
-

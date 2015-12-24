@@ -24,21 +24,3 @@ Dr Vincent Cable, MP
 Twickenham TW1 4JQ
 Member of Parliament for Twickenham, Teddington, Whitton and the Hamptons
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-11-18-mp_vincent_cabl_1 in site.data.2005-11-18-mp_vincent_cabl_1 %}
-       <li>
-
-         {{ 2005-11-18-mp_vincent_cabl_1.comment }}
-
-         <cite>{{ 2005-11-18-mp_vincent_cabl_1.author }} on {{ 2005-11-18-mp_vincent_cabl_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

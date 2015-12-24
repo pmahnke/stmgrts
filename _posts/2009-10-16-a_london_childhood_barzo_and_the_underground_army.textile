@@ -7,7 +7,7 @@ date: 2009-10-16 18:20:52
 excerpt: |
     We knew all about the war at Burghley Road Primary School. Our Dads had fought it, our Mums were still sweeping up the mess and we, the boys of Miss Kirby's class, had heard all the stories and were now busily embellishing them.
     
-    <a href="http://www.stmgrts.org.uk/images/childs_cap_gun.jpg"><img alt=" A CHILD'S CAP GUN" src="http://www.stmgrts.org.uk/images/childs_cap_gun-thumb.jpg" width="150" height="72" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/childs_cap_gun.jpg"><img alt=" A CHILD'S CAP GUN" src="//stmgrts.org.uk/assets/images/2009/childs_cap_gun-thumb.jpg" width="150" height="72" class="right" /></a>
     
     bq.. "My Dad was a Spitfire pilot. He shot down 13 Messerschmitts - rat tat tat tat tat!"
     
@@ -22,7 +22,7 @@ excerpt: |
 
 We knew all about the war at Burghley Road Primary School. Our Dads had fought it, our Mums were still sweeping up the mess and we, the boys of Miss Kirby's class, had heard all the stories and were now busily embellishing them.
 
-<a href="http://www.stmgrts.org.uk/images/childs_cap_gun.jpg"><img alt=" A CHILD'S CAP GUN" src="http://www.stmgrts.org.uk/images/childs_cap_gun-thumb.jpg" width="150" height="72" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/childs_cap_gun.jpg"><img alt=" A CHILD'S CAP GUN" src="//stmgrts.org.uk/assets/images/2009/childs_cap_gun-thumb.jpg" width="150" height="72" class="right" /></a>
 
 bq.. "My Dad was a Spitfire pilot. He shot down 13 Messerschmitts - rat tat tat tat tat!"
 
@@ -70,7 +70,7 @@ bq.. "It's my Dad's pistol"  he said. "The one he had in Poland."
 
 "Oh yeah? Oh yeah? Well let's see it!"
 
-<a href="http://www.stmgrts.org.uk/images/barzo_pistol.png"><img alt="BARZO'S DAD'S PISTOL" src="http://www.stmgrts.org.uk/images/barzo_pistol-thumb.png" width="150" height="92" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/barzo_pistol.png"><img alt="BARZO'S DAD'S PISTOL" src="//stmgrts.org.uk/assets/images/2009/barzo_pistol-thumb.png" width="150" height="92" class="right" /></a>
 
 
 p. Barzo opened up his bag and inside was a huge, black, greasy revolver. This was so far from the shiny silver and plastic "Roy Rogers" cap guns that we played with - "Bang! Bang! You're dead!" - that we knew that this great slab of metal was the real deal.
@@ -101,7 +101,7 @@ As well as continual attacks against the German occupation the Polish Undergroun
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/images/polish_war_mem.png"><img alt="polish_war_mem.png" src="http://www.stmgrts.org.uk/images/polish_war_mem-thumb.png" width="87" height="150" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/polish_war_mem.png"><img alt="polish_war_mem.png" src="//stmgrts.org.uk/assets/images/2009/polish_war_mem-thumb.png" width="87" height="150" class="photo right" /></a>
 
 h3. THE POLISH WAR MEMORIAL
 
@@ -110,8 +110,3 @@ On the 19 September 2009 a war memorial was unveiled at the National Memorial Ar
 Feliks Keidrowski, 88, a veteran of those times said of Poland's contribution to the Allied war effort: "I'm glad it was recognised at long last - it's a long time after the war." It was also a long time since I last thought of Burghley Road Primary School and my friend Barzo and his Dad.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-
-

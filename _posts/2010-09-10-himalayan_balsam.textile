@@ -5,14 +5,14 @@ permalink: /archives/2010/09/himalayan_balsam.html
 category: around_town
 date: 2010-09-10 08:33:50
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="http://www.stmgrts.org.uk/images//220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="//stmgrts.org.uk/assets/images/2010/220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
     
     That is the story of Himalayan Balsam (<em>Impatiens glandulifera</em>) A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="http://www.stmgrts.org.uk/images//220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="//stmgrts.org.uk/assets/images/2010/220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
 
 
 _Once upon a time..._
@@ -22,7 +22,7 @@ bq. Lizzie was an old and dear friend. One day she introduced me to Laya, one of
 That is the story of Himalayan Balsam (<em>Impatiens glandulifera</em>) A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
 
 
-<a href="http://www.stmgrts.org.uk/images//busy_lizzie.jpg" title="See larger version of - Busy Lizzie"><img src="http://www.stmgrts.org.uk/images//busy_lizzie_thumb.jpg" width="98" height="150" alt="Busy Lizzie" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/busy_lizzie.jpg" title="See larger version of - Busy Lizzie"><img src="//stmgrts.org.uk/assets/images/2010/busy_lizzie_thumb.jpg" width="98" height="150" alt="Busy Lizzie" class="photo right" /></a>
 
 This tall succulent annual was first introduced into Kew Gardens in 1839 as a greenhouse plant. As a taller cousin of the bedding plant Impatiens, our familiar friend "Busy Lizzy", nobody thought much of Himalayan Balsam - until it escaped into the wild. There this attractive and willowy stranger revealed her true colours - as a rampant bruiser.
 
@@ -40,21 +40,3 @@ As well as producing a natural yellow dye the stems of Himalayan Balsam can be e
 
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-09-10-himalayan_balsam in site.data.2010-09-10-himalayan_balsam %}
-       <li>
-
-         {{ 2010-09-10-himalayan_balsam.comment }}
-
-         <cite>{{ 2010-09-10-himalayan_balsam.author }} on {{ 2010-09-10-himalayan_balsam.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

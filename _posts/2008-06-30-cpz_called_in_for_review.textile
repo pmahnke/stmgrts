@@ -14,25 +14,3 @@ bq. "a) the due processes and consultations were flawed, b) the review in 6 mont
 The Council website says: "The decision is currently being reconsidered":http://tinyurl.com/5snk3d
 
 <cite>-- from Christopher Squire</cite>
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-06-30-cpz_called_in_for_review in site.data.2008-06-30-cpz_called_in_for_review %}
-       <li>
-
-         {{ 2008-06-30-cpz_called_in_for_review.comment }}
-
-         <cite>{{ 2008-06-30-cpz_called_in_for_review.author }} on {{ 2008-06-30-cpz_called_in_for_review.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

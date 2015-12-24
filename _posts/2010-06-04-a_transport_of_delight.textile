@@ -5,7 +5,7 @@ permalink: /archives/2010/06/a_transport_of_delight.html
 category: around_town
 date: 2010-06-04 09:16:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//37-Fare-Stage.jpg" title="See larger version of - Fare Stage"><img src="http://www.stmgrts.org.uk/images//37-Fare-Stage_thumb.jpg" width="150" height="144" alt="Fare Stage" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/37-Fare-Stage.jpg" title="See larger version of - Fare Stage"><img src="//stmgrts.org.uk/assets/images/2010/37-Fare-Stage_thumb.jpg" width="150" height="144" alt="Fare Stage" class=" right" /></a>
     
     
     A brief history of the H37 bus route and an assortment of allied omnibus trivia.
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//37-Fare-Stage.jpg" title="See larger version of - Fare Stage"><img src="http://www.stmgrts.org.uk/images//37-Fare-Stage_thumb.jpg" width="150" height="144" alt="Fare Stage" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/37-Fare-Stage.jpg" title="See larger version of - Fare Stage"><img src="//stmgrts.org.uk/assets/images/2010/37-Fare-Stage_thumb.jpg" width="150" height="144" alt="Fare Stage" class=" right" /></a>
 
 
 A brief history of the H37 bus route and an assortment of allied omnibus trivia.
@@ -40,7 +40,7 @@ In 2007 the Hounslow terminal was moved from the Bus Station to the New Blenheim
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//37-bus-ticket.jpg" title="See larger version of - ticket"><img src="http://www.stmgrts.org.uk/images//37-bus-ticket_thumb.jpg" width="60" height="150" alt="ticket" class=" left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/37-bus-ticket.jpg" title="See larger version of - ticket"><img src="//stmgrts.org.uk/assets/images/2010/37-bus-ticket_thumb.jpg" width="60" height="150" alt="ticket" class=" left" /></a>
 
 H37 - a helpful note for passengers:-  This route is classed as high frequency, and as such controllers will endeavour to provide an even service rather than necessarily adhering exactly to the times shown.
 </div>
@@ -71,7 +71,7 @@ h4. METHOD 4
 Sell off the bus company, open a bike shop in Crown Road and let the passengers cycle to work!
 
 
-<a href="http://www.stmgrts.org.uk/images/events/H37bus.jpg" title="See larger version of - H37 Bus"><img src="http://www.stmgrts.org.uk/images/events/H37bus_thumb.jpg" width="150" height="120" alt="H37 Bus" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/H37bus.jpg" title="See larger version of - H37 Bus"><img src="//stmgrts.org.uk/assets/images/2010/H37bus_thumb.jpg" width="150" height="120" alt="H37 Bus" class="photo right" /></a>
 
 
 h3. THE BUSMAN'S 'LORD'S PRAYER'
@@ -90,21 +90,3 @@ For Iver and Iver
 Crouch End.
 
 p. <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-06-04-a_transport_of_delight in site.data.2010-06-04-a_transport_of_delight %}
-       <li>
-
-         {{ 2010-06-04-a_transport_of_delight.comment }}
-
-         <cite>{{ 2010-06-04-a_transport_of_delight.author }} on {{ 2010-06-04-a_transport_of_delight.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -24,23 +24,3 @@ A limited number of spaces are available for the show. A panel of celebrity judg
 
 
 _More details to follow..._
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-05-01-announcing_st_margarets_family_fun_day in site.data.2009-05-01-announcing_st_margarets_family_fun_day %}
-       <li>
-
-         {{ 2009-05-01-announcing_st_margarets_family_fun_day.comment }}
-
-         <cite>{{ 2009-05-01-announcing_st_margarets_family_fun_day.author }} on {{ 2009-05-01-announcing_st_margarets_family_fun_day.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

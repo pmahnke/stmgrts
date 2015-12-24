@@ -7,7 +7,7 @@ date: 2010-06-10 09:09:27
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/Dream-Catcher_film.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images/events/Dream-Catcher_film_thumb.jpg" width="105" height="150" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Dream-Catcher_film.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2010/Dream-Catcher_film_thumb.jpg" width="105" height="150" alt="Poster" class="photo right" /></a>
 
 Dreamcatcher Media, based in Twickenham Film Studios are running a film making summer camp for children aged 6 -16 during July and August.  The camp will be run from The Cole Court Center at 150 London road, Twickenham.
 
@@ -19,9 +19,3 @@ h4. Details
 
 * 5 day course prior to June 22<sup>nd</sup> is £199 after which it's £275
 * 2 day animation course prior to June 22<sup>nd</sup> is £99 and £130 afterwards
-
-
-
-
-
-

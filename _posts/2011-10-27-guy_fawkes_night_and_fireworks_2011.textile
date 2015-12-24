@@ -6,7 +6,7 @@ category: around_town
 date: 2011-10-27 22:16:37
 excerpt: |
     
-    <a href="http://www.stmgrts.org.uk/images/fireworks.jpg"><img src="http://www.stmgrts.org.uk/images/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/fireworks.jpg"><img src="//stmgrts.org.uk/assets/images/2011/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
     
     h3. Friday 4<sup>th</sup> November 2011
     
@@ -21,7 +21,7 @@ excerpt: |
 ---
 
 
-<a href="http://www.stmgrts.org.uk/images/fireworks.jpg"><img src="http://www.stmgrts.org.uk/images/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/fireworks.jpg"><img src="//stmgrts.org.uk/assets/images/2011/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
 
 h3. Friday 4<sup>th</sup> November 2011
 
@@ -77,7 +77,3 @@ _The Lord Mayors Show London celebrates an 800 year London tradition in grand, h
 * display: 5pm
 * River Thames, between Waterloo Bridge and Blackfriars Bridge
 * Admission: Free
-
-
-
-

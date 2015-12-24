@@ -5,7 +5,7 @@ permalink: /archives/2013/01/event_reminder_allo_allo.html
 category: around_town
 date: 2013-01-10 21:22:11
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="http://www.stmgrts.org.uk/images//AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="//stmgrts.org.uk/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
     
     bq. "Listen very carefully, I shall say zis only once..."
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="http://www.stmgrts.org.uk/images//AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="//stmgrts.org.uk/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
 
 bq. "Listen very carefully, I shall say zis only once..."
 
@@ -38,6 +38,3 @@ h4. More Information
 ** Online: "www.ttc-boxoffice.org.uk":http://www.ttc-boxoffice.org.uk
 
 _Written by Jeremy Lloyd and David Croft, directed by Angela Gibbins_
-
-
-

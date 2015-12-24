@@ -14,24 +14,3 @@ Come and see the "Richmond Orchestra's Spring Concert":http://www.stmgrts.org.uk
 * Brahms -- 1st Symphony D Major
 
 To reserve tickets and for information call 020 8547 2695.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-19-event_reminder_richmond_orchestra_spring_concert in site.data.2009-03-19-event_reminder_richmond_orchestra_spring_concert %}
-       <li>
-
-         {{ 2009-03-19-event_reminder_richmond_orchestra_spring_concert.comment }}
-
-         <cite>{{ 2009-03-19-event_reminder_richmond_orchestra_spring_concert.author }} on {{ 2009-03-19-event_reminder_richmond_orchestra_spring_concert.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

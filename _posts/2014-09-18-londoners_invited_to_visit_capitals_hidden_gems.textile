@@ -5,7 +5,7 @@ permalink: /archives/2014/09/londoners_invited_to_visit_capitals_hidden_gems.htm
 category: around_town
 date: 2014-09-18 19:42:21
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="http://www.stmgrts.org.uk/images//Ride-n-Stride-Richmond-2014_thumb.jpg" width="150" height="215" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="//stmgrts.org.uk/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="150" height="215" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
     
     _Get on your bikes or put your best foot forward to raise much needed funds for London's places of worship!_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="http://www.stmgrts.org.uk/images//Ride-n-Stride-Richmond-2014_thumb.jpg" width="250" height="359" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="//stmgrts.org.uk/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="250" height="359" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
 
 _Get on your bikes or put your best foot forward to raise much needed funds for London's places of worship!_
 
@@ -52,9 +52,3 @@ bq. "This is a brilliant chance for people to see buildings of interest that are
 London co-ordinator Fiona Morgan says that although the places of interest are religious buildings this isn't an event that is aimed purely at churchgoers: "Everyone is invited to take part and every pound we can raise will make a huge difference. Ride+Stride is an excellent day out for body and soul and a chance to see gems of London architecture. It offers individuals, families and groups an unusual day out with plenty to see, do, hear, eat, drink and be involved in".
 
 *Full details of the places of worship involved, routes, lists of top 10 buildings, a tallest tower quiz and general information are available at "www.heritageoflondon.com.":http://www.heritageoflondon.com. The website also contains the sponsorship form for use by participants and guided tours which can be booked in advance.*
-
-
-
-
-
-

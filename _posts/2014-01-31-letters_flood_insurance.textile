@@ -23,24 +23,3 @@ Gail Rooke
 </div>
 
 <em>Any one else having this issue with their insurance?  Please leave a comment below.</em>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-01-31-letters_flood_insurance in site.data.2014-01-31-letters_flood_insurance %}
-       <li>
-
-         {{ 2014-01-31-letters_flood_insurance.comment }}
-
-         <cite>{{ 2014-01-31-letters_flood_insurance.author }} on {{ 2014-01-31-letters_flood_insurance.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -38,23 +38,3 @@ It was pointed out that there was nobody at the meeting from St Margarets and th
 _If you would like to be informed of the meetings please email us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk and the website will forward them to the Council._
 
 Approximately 60 people went to the meeting about the community development plan at the Turks Head somebody must have been interested in going to this! Councillor Morgan has agreed to update the website about the school proposals and Cllr Khosa has "regarding the CPZ":http://www.stmgrts.org.uk/archives/2006/07/cllr_khosas_cpz.html. Please let us have your views.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-05-meeting_notes_a in site.data.2006-07-05-meeting_notes_a %}
-       <li>
-
-         {{ 2006-07-05-meeting_notes_a.comment }}
-
-         <cite>{{ 2006-07-05-meeting_notes_a.author }} on {{ 2006-07-05-meeting_notes_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

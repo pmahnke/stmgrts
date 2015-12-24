@@ -23,8 +23,3 @@ Katie
 "slapinfo@yahoo.co.uk":mailto:slapinfo@yahoo.co.uk
 "www.slap.uk.com":http://www.slap.uk.com/
 </cite>
-
-
-
-
-

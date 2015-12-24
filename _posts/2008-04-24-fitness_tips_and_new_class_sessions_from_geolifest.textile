@@ -5,7 +5,7 @@ permalink: /archives/2008/04/fitness_tips_and_new_class_sessions_from_geolifest.
 category: around_town
 date: 2008-04-24 09:58:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/georgie.jpg"><img src="http://www.stmgrts.org.uk/images/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/georgie.jpg"><img src="//stmgrts.org.uk/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
     h4. How to improve fitness levels.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/georgie.jpg"><img src="http://www.stmgrts.org.uk/images/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/georgie.jpg"><img src="//stmgrts.org.uk/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
 
 h4. How to improve fitness levels.
 
@@ -30,7 +30,3 @@ h4. New classes
 
 * Mondays 12.30pm in Marble Hill Park. This class is aimed at beginners or those who want to tone up. There is no need to book, just turn up and pay &pound;5. Buggies welcome.
 * Bootcamps for May will be held on Tuesday 6th May until Friday 16th May. Meet Marble Hill car park at 6.15am. Please call Georgie on 07736 070612 to book as places will be limited.
-
-
-
-

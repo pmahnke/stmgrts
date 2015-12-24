@@ -7,7 +7,7 @@ date: 2013-04-10 22:19:09
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Open-Labs-flyer.jpg" title="See larger version of - Open Labs flyer"><img src="http://www.stmgrts.org.uk/images//Open-Labs-flyer_thumb.jpg" width="150" height="212" alt="Open Labs flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/Open-Labs-flyer.jpg" title="See larger version of - Open Labs flyer"><img src="//stmgrts.org.uk/assets/images/2013/Open-Labs-flyer_thumb.jpg" width="150" height="212" alt="Open Labs flyer" class="photo right" /></a>
 
 "PrefaceMorn":http://prefacemorn.co.uk/ is proud to announce the launch of our new Open Dance Labs. The labs are designed for mixed abilities and will to help you discover your own improvisation skills. They provide a good opportunity to work with the PrefaceMorn team and are lead by the Artistic Director, Niall Cullen.
 
@@ -28,7 +28,3 @@ h4. Fee
 Donate what you can!
 
 Please Email: "prefacemorn@gmail.com":mailto:prefacemorn@gmail.com for more information about how you can get involved!
-
-
-
-

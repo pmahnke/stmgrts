@@ -7,7 +7,7 @@ date: 2012-07-11 21:56:13
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//stmargfaircover2012.jpg" title="See larger version of - stmargfaircover2012"><img src="http://www.stmgrts.org.uk/images//stmargfaircover2012_thumb.jpg" width="150" height="211" alt="stmargfaircover2012" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/stmargfaircover2012.jpg" title="See larger version of - stmargfaircover2012"><img src="//stmgrts.org.uk/assets/images/2012/stmargfaircover2012_thumb.jpg" width="150" height="211" alt="stmargfaircover2012" class="photo right" /></a>
 
 Don't forget that this Saturday, 14 July 2011, from 12 - 7.45pm, is the 34<sup>th</sup> Annual St Margarets Fair in Moormead Park.
 
@@ -24,10 +24,3 @@ Don't forget that this Saturday, 14 July 2011, from 12 - 7.45pm, is the 34<sup>t
 <p>All profits from these stalls go direct to our charities - please support these stalls. See how we spend the <a href="http://www.stmargaretsfair.org/charities.html">money</a>.</p>
 
 <p>For more information: <a href="http://www.stmargaretsfair.org/">www.stmargaretsfair.org</a></p>
-
-
-
-
-
-
-

@@ -11,21 +11,3 @@ Unfortunately we were unable to attend the St Margarets Question Time event at t
 
 
 <iframe width="610" height="343" src="https://www.youtube-nocookie.com/embed/zK4Z7za8g7k?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-02-19-st_margarets_question_time_video in site.data.2015-02-19-st_margarets_question_time_video %}
-       <li>
-
-         {{ 2015-02-19-st_margarets_question_time_video.comment }}
-
-         <cite>{{ 2015-02-19-st_margarets_question_time_video.author }} on {{ 2015-02-19-st_margarets_question_time_video.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

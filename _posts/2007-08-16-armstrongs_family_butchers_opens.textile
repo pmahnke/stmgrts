@@ -7,7 +7,7 @@ date: 2007-08-16 15:41:20
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/armstrongs.jpg"><img src="http://www.stmgrts.org.uk/images/armstrongs-thumb.jpg" width="112" height="150" alt="Armstrong's butcher shop" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/armstrongs.jpg"><img src="//stmgrts.org.uk/assets/images/2007/armstrongs-thumb.jpg" width="112" height="150" alt="Armstrong's butcher shop" class="photo right" /></a>
 
 
 Armstrong's Family Butchers opened in St. Margarets on Monday 6th August.
@@ -23,24 +23,3 @@ Armstrong's opening hours are:
 |Sunday|closed|
 
 <cite>-- from Ed Randall</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-08-16-armstrongs_family_butchers_opens in site.data.2007-08-16-armstrongs_family_butchers_opens %}
-       <li>
-
-         {{ 2007-08-16-armstrongs_family_butchers_opens.comment }}
-
-         <cite>{{ 2007-08-16-armstrongs_family_butchers_opens.author }} on {{ 2007-08-16-armstrongs_family_butchers_opens.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -34,21 +34,3 @@ Cheers!
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-11-03-letters_to_amer in site.data.2005-11-03-letters_to_amer %}
-       <li>
-
-         {{ 2005-11-03-letters_to_amer.comment }}
-
-         <cite>{{ 2005-11-03-letters_to_amer.author }} on {{ 2005-11-03-letters_to_amer.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

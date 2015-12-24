@@ -35,21 +35,3 @@ David Harvey, Chairman of the Thames Anglers Conservancy said: "We welcome this 
 London Wildlife Trust is also very encouraged by the remedial action of Thames Water. Carlo Laurenzi OBE, at LWT said "We look forward to working with partners within the Crane Valley to continue to improve the river for people and wildlife"
 
 -- from a Crane Valley Partenership press release
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-06-02-river_crane_pollution_moving_back_from_the_brink in site.data.2012-06-02-river_crane_pollution_moving_back_from_the_brink %}
-       <li>
-
-         {{ 2012-06-02-river_crane_pollution_moving_back_from_the_brink.comment }}
-
-         <cite>{{ 2012-06-02-river_crane_pollution_moving_back_from_the_brink.author }} on {{ 2012-06-02-river_crane_pollution_moving_back_from_the_brink.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

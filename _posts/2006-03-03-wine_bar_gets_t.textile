@@ -9,7 +9,7 @@ excerpt: |
 
 ---
 
-<img alt="ParVinu Logo" src="http://www.stmgrts.org.uk/archives/ParVinu-logo-thumb.gif" width="150" height="69" class="photo right" />
+<img alt="ParVinu Logo" src="//stmgrts.org.uk/assets/images/2006/ParVinu-logo-thumb.gif" width="150" height="69" class="photo right" />
 
 On 2<sup>nd</sup> March 2006, the  Richmond Council Planning Committee Meeting gave ‘conditional permission’ for the proposed wine bar in the basement formerly occupied by Phelps.  
 
@@ -78,24 +78,3 @@ Councillors want to make sure that the plans for the plants on the roof top mini
 Councillors insist that the A4 planning should not pass to another, less neighbourly owner.
 # *2am New Year's Licence*
 Council felt strongly that 2am was late enough, a 24 hour license was unnecessary.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-03-wine_bar_gets_t in site.data.2006-03-03-wine_bar_gets_t %}
-       <li>
-
-         {{ 2006-03-03-wine_bar_gets_t.comment }}
-
-         <cite>{{ 2006-03-03-wine_bar_gets_t.author }} on {{ 2006-03-03-wine_bar_gets_t.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

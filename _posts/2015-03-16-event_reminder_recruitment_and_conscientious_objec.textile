@@ -5,7 +5,7 @@ permalink: /archives/2015/03/event_reminder_recruitment_and_conscientious_objec.
 category: around_town
 date: 2015-03-16 22:35:19
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="http://www.stmgrts.org.uk/images//recruitment-in-richmond-park_thumb.jpg" width="150" height="107" alt="recruitment in richmond park" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="//stmgrts.org.uk/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="150" height="107" alt="recruitment in richmond park" class="photo right" /></a>
     
     _A talk by WWI Historian Dr Chris Kempshall_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="http://www.stmgrts.org.uk/images//recruitment-in-richmond-park_thumb.jpg" width="250" height="178" alt="recruitment in richmond park" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="//stmgrts.org.uk/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="250" height="178" alt="recruitment in richmond park" class="photo right" /></a>
 
 _A talk by WWI Historian Dr Chris Kempshall_
 
@@ -38,7 +38,3 @@ h4. More Information
 
 * Tickets - are a recommended &pound;2 donation, please contact the Museum on 0208 332 1141 or email "museumofrichmond@btconnect.com":mailto:museumofrichmond@btconnect.com to book your place.
 * Exhibition - '1914-1918 Richmond at Home and at War, Local stories and their International Links' runs at the Museum of Richmond until April 22<sup>nd</sup> 2015. The Museum of Richmond is open Tue-Fri 11am-5pm and Sat 11-4pm.
-
-
-
-

@@ -7,7 +7,7 @@ date: 2014-01-08 20:03:35
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//yoga_2014.png" title="See larger version of - yoga 2014"><img src="http://www.stmgrts.org.uk/images//yoga_2014_thumb.png" width="150" height="84" alt="yoga 2014" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/yoga_2014.png" title="See larger version of - yoga 2014"><img src="//stmgrts.org.uk/assets/images/2014/yoga_2014_thumb.png" width="150" height="84" alt="yoga 2014" class="photo right" /></a>
 
 Why not give your New Year's resolutions a yoga focus this year with either, the brand new, 'IMPROVING BEGINNERS' - a five week course, designed specifically for the beginner who has some previous experience, already knows some of the basics and wants to deepen their knowledge and practice further or 'COMPLETE BEGINNERS' - a set of five week courses, designed for those with no previous experience and who want an introduction into the world of Yoga. The main emphasis will be on learning key Yoga poses and sequences, as well as looking at basic breathing and relaxation techniques.
 
@@ -36,22 +36,3 @@ h4. For more details contact Sammie on:
 * 07758 866 834
 * "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk
 * or visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-01-08-new_year_new_yoga_from_yogafitness in site.data.2014-01-08-new_year_new_yoga_from_yogafitness %}
-       <li>
-
-         {{ 2014-01-08-new_year_new_yoga_from_yogafitness.comment }}
-
-         <cite>{{ 2014-01-08-new_year_new_yoga_from_yogafitness.author }} on {{ 2014-01-08-new_year_new_yoga_from_yogafitness.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

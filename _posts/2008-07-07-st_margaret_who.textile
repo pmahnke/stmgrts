@@ -5,7 +5,7 @@ permalink: /archives/2008/07/st_margaret_who.html
 category: around_town
 date: 2008-07-07 08:16:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/stmargaret_statue.jpg"><img src="http://www.stmgrts.org.uk/images/stmargaret_statue-thumb.jpg" width="99" height="150" alt="status of st margaret" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/stmargaret_statue.jpg"><img src="//stmgrts.org.uk/assets/images/2008/stmargaret_statue-thumb.jpg" width="99" height="150" alt="status of st margaret" class="photo right" /></a>
     
     
     I went to see St Margaret yesterday -- but the poor soul wasn't looking her best. A hundred years of nights out on the tiles has left our local Saint looking pitted and windblown... but that's what happens when you're a stone statue!
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/stmargaret_statue.jpg"><img src="http://www.stmgrts.org.uk/images/stmargaret_statue-thumb.jpg" width="99" height="150" alt="status of st margaret" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/stmargaret_statue.jpg"><img src="//stmgrts.org.uk/assets/images/2008/stmargaret_statue-thumb.jpg" width="99" height="150" alt="status of st margaret" class="photo right" /></a>
 
 
 I went to see St Margaret yesterday -- but the poor soul wasn't looking her best. A hundred years of nights out on the tiles has left our local Saint looking pitted and windblown... but that's what happens when you're a stone statue!
@@ -28,22 +28,3 @@ But what St Margaret is she?  We have at least 5 to choose from! There's Margare
 Of course, as far as the Anglican Church authorities are concerned we do not live in St. Margarets at all! Because there are other parishes in the country called St. Margarets and church rules do not allow two parishes to carry the same name, about 100 years ago they renamed our parish "St Margarets on Thames". Now that is a very stylish name indeed and guaranteed to add at least &pound;25,000 to property values. At this time of credit crunch and falling house prices perhaps we should all change our addresses, swapping 'St Margarets' for the oh-so-classy 'St Margarets on Thames'. It is certainly easier than being swallowed by a dragon!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-07-07-st_margaret_who in site.data.2008-07-07-st_margaret_who %}
-       <li>
-
-         {{ 2008-07-07-st_margaret_who.comment }}
-
-         <cite>{{ 2008-07-07-st_margaret_who.author }} on {{ 2008-07-07-st_margaret_who.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

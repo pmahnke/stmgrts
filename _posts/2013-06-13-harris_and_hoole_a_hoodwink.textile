@@ -81,22 +81,3 @@ bq. "Feb. 3<sup>rd</sup>, 1664. In Covent Garden to-night, going to fetch home m
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-06-13-harris_and_hoole_a_hoodwink in site.data.2013-06-13-harris_and_hoole_a_hoodwink %}
-       <li>
-
-         {{ 2013-06-13-harris_and_hoole_a_hoodwink.comment }}
-
-         <cite>{{ 2013-06-13-harris_and_hoole_a_hoodwink.author }} on {{ 2013-06-13-harris_and_hoole_a_hoodwink.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

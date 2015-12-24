@@ -7,7 +7,7 @@ date: 2013-08-29 22:04:07
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Webfriendly-version_poster.JPG" title="See larger version of - Orleans House....and Home - Late summer Fair"><img src="http://www.stmgrts.org.uk/images//Webfriendly-version_poster_thumb.JPG" width="150" height="212" alt="Orleans House....and Home - Late summer Fair" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/Webfriendly-version_poster.JPG" title="See larger version of - Orleans House....and Home - Late summer Fair"><img src="//stmgrts.org.uk/assets/images/2013/Webfriendly-version_poster_thumb.JPG" width="150" height="212" alt="Orleans House....and Home - Late summer Fair" class="photo right" /></a>
 
 
 As well as an exciting host of local designers/makers at next weekends "Orleans House and Home Fair":http://www.stmgrts.org.uk/event/fair/200705144132, there is also a jam packed programme of FREE events for the whole family and we would
@@ -35,7 +35,3 @@ Head to the Stables Gallery to have a go on our 'Human Jukebox'. To complement o
 * *Musical instrument making*
 _1 September - 2-3.30pm_
 Join Miriam Baez to jam away the afternoon in a musical instrument making session inspired by the current Stables exhibition 'Eel Pie Island: The Birth of Rhythm and Blues'.
-
-
-
-

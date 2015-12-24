@@ -5,7 +5,7 @@ permalink: /archives/2013/09/wild_education_job_posting_and_information.html
 category: news
 date: 2013-09-05 22:52:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//forestschool.png" title="See larger version of - Wild Education"><img src="http://www.stmgrts.org.uk/images//forestschool_thumb.png" width="150" height="189" alt="Wild Education" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/forestschool.png" title="See larger version of - Wild Education"><img src="//stmgrts.org.uk/assets/images/2013/forestschool_thumb.png" width="150" height="189" alt="Wild Education" class="photo right" /></a>
     
     
     _Wild Education - learning outside makes children smarter, healthier, happier_
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//forestschool.png" title="See larger version of - Wild Education"><img src="http://www.stmgrts.org.uk/images//forestschool_thumb.png" width="150" height="189" alt="Wild Education" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/forestschool.png" title="See larger version of - Wild Education"><img src="//stmgrts.org.uk/assets/images/2013/forestschool_thumb.png" width="150" height="189" alt="Wild Education" class="photo right" /></a>
 
 
 _Wild Education - learning outside makes children smarter, healthier, happier_
@@ -44,7 +44,3 @@ If you want to get in touch about any of our activities or want to work with us 
 * Email - "ellie@wildeducation.co.uk":mailto:ellie@wildeducation.co.uk
 * Tweet - "@wildeducationuk":http://www.twitter.com/wildeducationuk
 * Mobile - 07837 746366
-
-
-
-

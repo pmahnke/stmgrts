@@ -54,21 +54,3 @@ He added:
 bq. "TfL's change of heart is a victory for common-sense and testament to the hard work of those in our community that fought alongside us to see our bridge was saved.  This is a great day for the people of St Margarets and North Twickenham."
 
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-01-15-tfl_decides_keeps_a316_footbridge in site.data.2015-01-15-tfl_decides_keeps_a316_footbridge %}
-       <li>
-
-         {{ 2015-01-15-tfl_decides_keeps_a316_footbridge.comment }}
-
-         <cite>{{ 2015-01-15-tfl_decides_keeps_a316_footbridge.author }} on {{ 2015-01-15-tfl_decides_keeps_a316_footbridge.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

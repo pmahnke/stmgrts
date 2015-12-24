@@ -12,23 +12,3 @@ Superdrug's seperate application for a backlit sign was rejected by the Planning
 bq. The application for Advertisement Consent was not considered to be acceptable for visual reasons and was also incomplete in its documentation; it was not, therefore, validated ...  The applicant's agent was advised of this and has stated that fresh documents will be sent in the near future, showing a painted fascia with applied, slightly proud, lettering and existing external swanneck light fittings.  When the application is finally validated, normal consultation procedures will follow.  The reason that the signage has not been publicised is that no valid application yet exists.
 
 p>. -- _John Brown, Planning Officer, Environment Directorate, Richmond_
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-07-no_backlit_sign_1 in site.data.2005-09-07-no_backlit_sign_1 %}
-       <li>
-
-         {{ 2005-09-07-no_backlit_sign_1.comment }}
-
-         <cite>{{ 2005-09-07-no_backlit_sign_1.author }} on {{ 2005-09-07-no_backlit_sign_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,14 +5,14 @@ permalink: /archives/2012/08/class_a_taste_of_opera_at_the_normansfield_theatre.
 category: around_town
 date: 2012-08-23 19:25:19
 excerpt: |
-    <img src="http://langdondownmuseum.org.uk/uploads/images/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
+    <img src="//stmgrts.org.uk/assets/images/2012/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
     
     This 10 week course on Wednesday evenings 7pm to 9pm from 19 September, will be a  lighthearted, guided tour through the development of opera, illustrated with a variety of recent and historic audio and video recording.  You don't need to have an extensive knowledge of operas to enjoy this course, just an interest to learn more about them.
     
 
 ---
 
-<img src="http://langdondownmuseum.org.uk/uploads/images/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
+<img src="//stmgrts.org.uk/assets/images/2012/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
 
 This 10 week course on Wednesday evenings 7pm to 9pm from 19 September, will be a  lighthearted, guided tour through the development of opera, illustrated with a variety of recent and historic audio and video recording.  You don't need to have an extensive knowledge of operas to enjoy this course, just an interest to learn more about them.
 
@@ -26,7 +26,3 @@ h4. More Information
 * call 0208 614 5100 to book your place
 * Wednesdays 7-9pm from 19 September 2012
 * "www.langdondowncentre.org.uk":http://www.langdondowncentre.org.uk or "lesley.alabaf@downs-syndrome.org.uk":mailto:lesley.alabaf@downs-syndrome.org.uk
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2007/04/interview_jo_dunbar_of_botanica_medica_herbal_apot.
 category: around_town
 date: 2007-04-25 08:34:59
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/jo_dunbar.jpg"><img src="http://www.stmgrts.org.uk/images/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2007/jo_dunbar.jpg"><img src="//stmgrts.org.uk/assets/images/2007/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
     
     
     _In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/jo_dunbar.jpg"><img src="http://www.stmgrts.org.uk/images/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/jo_dunbar.jpg"><img src="//stmgrts.org.uk/assets/images/2007/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
 
 
 _In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._
@@ -54,22 +54,3 @@ bq. Almost anything. The area we are most popular is either where people don't w
 *How have doctors responded to you?*
 
 bq. I suppose there is still the odd old fashioned antagonistic attitude, but actually doctors are becoming more and more aware of how complementary and orthodox medicine can work in an integrated manner with the patient's best interest always at heart. We even have some doctors on our patient list.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot in site.data.2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot %}
-       <li>
-
-         {{ 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot.comment }}
-
-         <cite>{{ 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot.author }} on {{ 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

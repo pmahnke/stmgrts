@@ -7,7 +7,7 @@ date: 2006-11-29 09:09:02
 
 ---
 
-<a href="/images/events/Alcohol-and-Drugs-Poster.jpg" title="See larger version of - Drug and Alcohol Seminar Poster"><img src="/images/events/Alcohol-and-Drugs-Poster_thumb.jpg" width="150" height="211" alt="Drug and Alcohol Seminar Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/Alcohol-and-Drugs-Poster.jpg" title="See larger version of - Drug and Alcohol Seminar Poster"><img src="//stmgrts.org.uk/assets/images/2006/Alcohol-and-Drugs-Poster_thumb.jpg" width="150" height="211" alt="Drug and Alcohol Seminar Poster" class="photo right" /></a>
 
 The fight against alcohol and drugs misuse will be highlighted at a "seminar in York House":http://stmgrts.org.uk/event/Meeting/200611290308 on 12 December. 
 
@@ -31,7 +31,3 @@ In the afternoon subjects covered will include Young People and Substance Misuse
 The event is open to all professionals and frontline staff from any agency or voluntary group as well as community groups and individual local residents. 
 
 Anyone wishing to attend should book a place in advance by calling the Community Safety Partnership on 020 8891 7777 or email "community.safety@richmond.gov.uk":mailto:community.safety@richmond.gov.uk
-
-
-
-

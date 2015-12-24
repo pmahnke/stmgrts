@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img src="http://www.stmgrts.org.uk/archives/fooi-thumb.gif" width="200" height="71" alt="FOOI Logo" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2006/fooi-thumb.gif" width="200" height="71" alt="FOOI Logo" class="photo right" />
 
 "Friends of Orleans Infant School (FOOI)":/directory/charity/200604150358 is a registered charity that raises money to enhance the pupils learning and their time at the school.  They hold a series of events throughout the year including summer and Christmas Fairs, quiz night (parents only) and a valentines disco.  This year for the first time they held a popular pamper evening and will be organising a "day trip to France":/event/Tour/200604150412 (parents only).  The numbers of members varies with every school year but there are normally about 8-10 members.
 
@@ -21,6 +21,3 @@ FOOI has close links with the local traders association who have helped FOOI man
 This year they are hoping to raise a record sum towards refurbishing the playground.  They always need extra volunteers, more money and raffle prizes -- you can contact FOOI through the school office at:  Orleans Infant School, Hartington Road, Twickenham, TW1 3EN.
 
 NOTE: _They are also planning a "St Georges Day Celebration":/event/Fair/200604150407 at the Turk's Head on the 23<sup>rd</sup> April._
-
-
-

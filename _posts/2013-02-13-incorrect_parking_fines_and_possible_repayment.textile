@@ -28,24 +28,3 @@ _Why can't our professional parking operators/office/staff know and implement th
 ??rgds, David Houston??
 
 </div>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-02-13-incorrect_parking_fines_and_possible_repayment in site.data.2013-02-13-incorrect_parking_fines_and_possible_repayment %}
-       <li>
-
-         {{ 2013-02-13-incorrect_parking_fines_and_possible_repayment.comment }}
-
-         <cite>{{ 2013-02-13-incorrect_parking_fines_and_possible_repayment.author }} on {{ 2013-02-13-incorrect_parking_fines_and_possible_repayment.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

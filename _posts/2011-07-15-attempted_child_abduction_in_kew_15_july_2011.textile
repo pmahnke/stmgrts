@@ -24,23 +24,3 @@ _Updated 16 July 2011 - 11.29am_
 Please be careful.
 
 <em>Note, we have been passed this warning from a community member, not the Police and well after "this article from the Richmond and Twickenham Times":http://www.richmondandtwickenhamtimes.co.uk/news/9142947.Police_calm_fears_of_abductions__but_urge_continued_vigilance/ was published</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-07-15-attempted_child_abduction_in_kew_15_july_2011 in site.data.2011-07-15-attempted_child_abduction_in_kew_15_july_2011 %}
-       <li>
-
-         {{ 2011-07-15-attempted_child_abduction_in_kew_15_july_2011.comment }}
-
-         <cite>{{ 2011-07-15-attempted_child_abduction_in_kew_15_july_2011.author }} on {{ 2011-07-15-attempted_child_abduction_in_kew_15_july_2011.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

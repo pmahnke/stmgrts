@@ -5,7 +5,7 @@ permalink: /archives/2013/03/event_reminder_orleans_primary_school_dance_night.h
 category: around_town
 date: 2013-03-08 22:02:19
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//NLogo-Final-Poster-A4-FROM-SCHOOL.jpg" title="See larger version of - Poster dance night"><img src="http://www.stmgrts.org.uk/images//NLogo-Final-Poster-A4-FROM-SCHOOL_thumb.jpg" width="150" height="216" alt="Poster dance night" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/NLogo-Final-Poster-A4-FROM-SCHOOL.jpg" title="See larger version of - Poster dance night"><img src="//stmgrts.org.uk/assets/images/2013/NLogo-Final-Poster-A4-FROM-SCHOOL_thumb.jpg" width="150" height="216" alt="Poster dance night" class="photo right" /></a>
     
     
     Join us on the "15<sup>th</sup> March 2013":http://www.stmgrts.org.uk/event/event/200705143835 for a night of dancing.  The amazing Fake Tan will be playing.  It starts at 8pm and tickets are &pound;12 including a glass of prosecco.
@@ -15,15 +15,9 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//NLogo-Final-Poster-A4-FROM-SCHOOL.jpg" title="See larger version of - Poster dance night"><img src="http://www.stmgrts.org.uk/images//NLogo-Final-Poster-A4-FROM-SCHOOL_thumb.jpg" width="150" height="216" alt="Poster dance night" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/NLogo-Final-Poster-A4-FROM-SCHOOL.jpg" title="See larger version of - Poster dance night"><img src="//stmgrts.org.uk/assets/images/2013/NLogo-Final-Poster-A4-FROM-SCHOOL_thumb.jpg" width="150" height="216" alt="Poster dance night" class="photo right" /></a>
 
 
 Join us on the "15<sup>th</sup> March 2013":http://www.stmgrts.org.uk/event/event/200705143835 for a night of dancing.  The amazing Fake Tan will be playing.  It starts at 8pm and tickets are &pound;12 including a glass of prosecco.
 
 Tickets queries can be directed to the school office on 8892 1654.
-
-
-
-
-
-

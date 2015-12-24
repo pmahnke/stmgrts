@@ -5,13 +5,13 @@ permalink: /archives/2015/01/donate_to_claire4harvey_and_help_weir_archer_acade.
 category: around_town
 date: 2015-01-23 23:24:14
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//clare4harvey.png" title="See larger version of - clare4harvey"><img src="http://www.stmgrts.org.uk/images//clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="//stmgrts.org.uk/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
     
     Claire Wood is my son Harvey's former support teacher. She has played a pivotal role in helping him access mainstream education and making school such an enjoyable experience for him. She is running the London Marathon for the Weir Archer Academy. They provide Harvey with access to sports, a racing wheelchair and expert coaching to help him fulfil his dreams.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//clare4harvey.png" title="See larger version of - clare4harvey"><img src="http://www.stmgrts.org.uk/images//clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="//stmgrts.org.uk/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
 
 Claire Wood is my son Harvey's former support teacher. She has played a pivotal role in helping him access mainstream education and making school such an enjoyable experience for him. She is running the London Marathon for the Weir Archer Academy. They provide Harvey with access to sports, a racing wheelchair and expert coaching to help him fulfil his dreams.
 
@@ -26,7 +26,3 @@ He then had the opportunity to attend a Weir Archer Academy open day and Harvey'
 I know this marathon is going to be torturous but knowing I'm running for a charity that has changed Harvey's life will get me through!  You can "watch a short video about the wonderful work they do (along with a great little cameo from Harvey)":https://www.youtube.com/watch?v=oIfprSokqRw&feature=youtu.be
 
 p. Each racing wheelchair costs thousands of pounds but the joy that they bring is priceless. Claire has been set a minimum target of raising &pound;2,000 which is the minimum requirement for a charity to gain a place at the London Marathon. We would obviously like to raise much more. Claire, Harvey and I would all be delighted if You would make a donation by sponsoring Claire. If you decide you would like to make a donation you can do so at: "uk.virginmoneygiving.com":http://uk.virginmoneygiving.com/fundraiser-web/fundraiser/showFundraiserProfilePage.action?userUrl=Claire4Harvey
-
-
-
-

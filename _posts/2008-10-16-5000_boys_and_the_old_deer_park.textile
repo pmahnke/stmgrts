@@ -6,7 +6,7 @@ category: around_town
 date: 2008-10-16 14:52:07
 excerpt: |
     
-    <a href="http://www.stmgrts.org.uk/images/jamboree_poster.jpg"><img src="http://www.stmgrts.org.uk/images/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/jamboree_poster.jpg"><img src="//stmgrts.org.uk/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
     
     
     A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
@@ -19,7 +19,7 @@ excerpt: |
 ---
 
 
-<a href="http://www.stmgrts.org.uk/images/jamboree_poster.jpg"><img src="http://www.stmgrts.org.uk/images/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/jamboree_poster.jpg"><img src="//stmgrts.org.uk/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
 
 
 A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
@@ -35,7 +35,7 @@ However just as every dog has its day, I believe that every park should have its
 
 
 
-<a href="http://www.stmgrts.org.uk/images/scouts_deerpark.jpg"><img src="http://www.stmgrts.org.uk/images/scouts_deerpark-thumb.jpg" width="150" height="83" alt="Scouts in Old Deer Park" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/scouts_deerpark.jpg"><img src="//stmgrts.org.uk/assets/images/2008/scouts_deerpark-thumb.jpg" width="150" height="83" alt="Scouts in Old Deer Park" class="photo right" /></a>
 
 
 
@@ -63,22 +63,3 @@ By the 11<sup>th</sup> August the tents had been struck, the fire pits filled in
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-10-16-5000_boys_and_the_old_deer_park in site.data.2008-10-16-5000_boys_and_the_old_deer_park %}
-       <li>
-
-         {{ 2008-10-16-5000_boys_and_the_old_deer_park.comment }}
-
-         <cite>{{ 2008-10-16-5000_boys_and_the_old_deer_park.author }} on {{ 2008-10-16-5000_boys_and_the_old_deer_park.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

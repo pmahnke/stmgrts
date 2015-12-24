@@ -7,7 +7,7 @@ date: 2005-09-02 09:34:45
 
 ---
 
-<img src="/archives/nsmra_funday.jpg" width="150" heigh="100" alt="Fun Day" class="img_right" />
+<img src="//stmgrts.org.uk/assets/images/2005/nsmra_funday.jpg" width="150" heigh="100" alt="Fun Day" class="img_right" />
 
 All of St Margarets is invited to attend the "Third Annual North St Margarets Fun Day":/cgi-bin/events.cgi?key=200506300544&action=getevent on Saturday, 10 September.  
 
@@ -18,8 +18,3 @@ A wide variety of events have been planned, including:
 * from 7:30 - 11, a _Cajun Party and Supper_ at "All Souls Church Hall":/cgi-bin/directory.cgi?key=200506080805&action=getlisting
 
 Here is a "PDF":/archives/NorthStMargaretsFunDay2005.pdf of the event.  You can also see more detailed information in our "events section":/cgi-bin/events.cgi?key=200506300544&action=getevent.
-
-
-
-
-

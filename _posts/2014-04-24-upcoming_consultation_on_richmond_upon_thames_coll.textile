@@ -5,7 +5,7 @@ permalink: /archives/2014/04/upcoming_consultation_on_richmond_upon_thames_coll.
 category: news
 date: 2014-04-24 21:32:59
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//rich0609_consultationflyer_a5_aw_web-1.jpg" title="See larger version of - consultation flyer"><img src="http://www.stmgrts.org.uk/images//rich0609_consultationflyer_a5_aw_web-1_thumb.jpg" width="150" height="210" alt="consultation flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1.jpg" title="See larger version of - consultation flyer"><img src="//stmgrts.org.uk/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1_thumb.jpg" width="150" height="210" alt="consultation flyer" class="photo right" /></a>
     
     _Help shape the future of the Richmond Education and Enterprise Campus_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//rich0609_consultationflyer_a5_aw_web-1.jpg" title="See larger version of - consultation flyer"><img src="http://www.stmgrts.org.uk/images//rich0609_consultationflyer_a5_aw_web-1_thumb.jpg" width="150" height="210" alt="consultation flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1.jpg" title="See larger version of - consultation flyer"><img src="//stmgrts.org.uk/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1_thumb.jpg" width="150" height="210" alt="consultation flyer" class="photo right" /></a>
 
 _Help shape the future of the Richmond Education and Enterprise Campus_
 
@@ -37,9 +37,4 @@ For more information or to sign up for regular updates, go to:
 
 * "www.reec.org.uk":http://www.reec.org.uk 
 * email: "richmond.college@richmond.gov.uk":mailto:richmond.college@richmond.gov.uk
-* <a href="http://www.stmgrts.org.uk/rich0609_consultationflyer_a5_aw_web.pdf">Download flyer</a>
-
-
-
-
-
+* <a href="//stmgrts.org.uk/assets/images/2014/rich0609_consultationflyer_a5_aw_web.pdf">Download flyer</a>

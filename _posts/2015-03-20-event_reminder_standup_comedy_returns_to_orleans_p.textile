@@ -5,13 +5,13 @@ permalink: /archives/2015/03/event_reminder_standup_comedy_returns_to_orleans_p.
 category: around_town
 date: 2015-03-20 09:26:12
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="http://www.stmgrts.org.uk/images//SuzyBennettPic_thumb.jpg" width="150" height="112" alt="SuzyBennettPic" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic_thumb.jpg" width="150" height="112" alt="SuzyBennettPic" class="photo right" /></a>
     
     Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="http://www.stmgrts.org.uk/images//SuzyBennettPic_thumb.jpg" width="250" height="187" alt="SuzyBennettPic" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic_thumb.jpg" width="250" height="187" alt="SuzyBennettPic" class="photo right" /></a>
 
 "Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.":http://www.stmgrts.org.uk/event/show/200705144926
 
@@ -61,10 +61,6 @@ h4. More Information
 _Advance booking essential_
 
 
-<a href="http://www.stmgrts.org.uk/images//SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="http://www.stmgrts.org.uk/images//SuzyBennettPic_thumb.jpg" width="150" height="112" alt="SuzyBennettPic" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="//stmgrts.org.uk/assets/images/2015/SuzyBennettPic_thumb.jpg" width="150" height="112" alt="SuzyBennettPic" class="photo right" /></a>
 
 Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.
-
-
-
-

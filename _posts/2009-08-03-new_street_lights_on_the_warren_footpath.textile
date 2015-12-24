@@ -17,8 +17,3 @@ All lights will have a white light fixture with no UV which are better for human
 * "details of the closures":http://www.richmond.gov.uk/warren_footpath_additonal_information.pdf
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-

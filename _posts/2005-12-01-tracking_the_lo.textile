@@ -19,25 +19,3 @@ Here is how it works:
 # Then go to the "Online Log":http://www.stmgrts.org.uk/forms/tesco_board.php to see a record of all the submitted observations.
 
 NOTE: <em>if you have forgotten, the "Loading Bay's Rules are posted here":http://www.stmgrts.org.uk/archives/2005/10/council_legitim.html.</em>
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-12-01-tracking_the_lo in site.data.2005-12-01-tracking_the_lo %}
-       <li>
-
-         {{ 2005-12-01-tracking_the_lo.comment }}
-
-         <cite>{{ 2005-12-01-tracking_the_lo.author }} on {{ 2005-12-01-tracking_the_lo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

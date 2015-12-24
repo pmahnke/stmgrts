@@ -17,24 +17,3 @@ This is the first stage of consultation when we would like your views on your lo
 The second formal stage of consultation will take place during September and October 2015 and will focus solely on the local planning guidance for St Margarets before it is adopted in late 2015.
 
 * "Take the online survey by 29 June 2015":http://stmgrts.org.uk/l/th3vl
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-06-04-online_survey_your_vision_your_st_margarets in site.data.2015-06-04-online_survey_your_vision_your_st_margarets %}
-       <li>
-
-         {{ 2015-06-04-online_survey_your_vision_your_st_margarets.comment }}
-
-         <cite>{{ 2015-06-04-online_survey_your_vision_your_st_margarets.author }} on {{ 2015-06-04-online_survey_your_vision_your_st_margarets.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2011-02-18 14:52:52
 
 ---
 
-<img src="http://www.richmond.gov.uk/10-15a_medium_holiday_activities_2011.jpg" alt="class" width="150" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2011/10-15a_medium_holiday_activities_2011.jpg" alt="class" width="150" class="photo right" />
 
 For February Half-term 2011, Orleans House Gallery are offering a range of fun, inspiring and creative activities to keep you busy during the holidays.
 
@@ -80,7 +80,3 @@ _New places available in response to demand._
 h3. Booking
 
 Booking is essential for all half term activities. Book online or call Orleans House Gallery at 020 8831 6000.
-
-
-
-

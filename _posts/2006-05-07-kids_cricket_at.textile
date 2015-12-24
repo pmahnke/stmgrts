@@ -11,15 +11,10 @@ excerpt: |
 
 ---
 
-<img alt="kwikcricket.jpg" src="http://www.stmgrts.org.uk/archives/kwikcricket-thumb.jpg" width="91" height="150" class="photo right"/>
+<img alt="kwikcricket.jpg" src="//stmgrts.org.uk/assets/images/2006/kwikcricket-thumb.jpg" width="91" height="150" class="photo right"/>
 
 Alistair Wright of "Crossbats Cricket Club":/directory/sports/200602240454 would like to start a children's cricket club to either meet after football on Saturdays or Sundays if enough people are interested.
 
 The type of cricket they are interested in playing is a version called "Kwick Cricket":http://www.ecb.co.uk/kids/kwik-cricket/kwik-cricket-information-pack,282,BP.html whose emphasis is always on participation and enjoyment.  In practice any number of children can play, from 2 to 32.
 
 If you are interested, please email Alistair at "captain@crossbats.co.uk":mailto:captain@crossbats.co.uk 
-
-
-
-
-

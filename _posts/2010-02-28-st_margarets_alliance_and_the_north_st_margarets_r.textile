@@ -11,23 +11,3 @@ The North St Margarets Residents' Association’s committee resolved on 23 Febru
 
 Laurence Mann
 Secretary
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-02-28-st_margarets_alliance_and_the_north_st_margarets_r in site.data.2010-02-28-st_margarets_alliance_and_the_north_st_margarets_r %}
-       <li>
-
-         {{ 2010-02-28-st_margarets_alliance_and_the_north_st_margarets_r.comment }}
-
-         <cite>{{ 2010-02-28-st_margarets_alliance_and_the_north_st_margarets_r.author }} on {{ 2010-02-28-st_margarets_alliance_and_the_north_st_margarets_r.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -10,7 +10,7 @@ date: 2014-04-09 21:12:28
 Some upcoming ukulele courses from Surya.
 
 
-<a href="http://www.stmgrts.org.uk/images//RUGFBkProfilePic14_2W.jpg" title="See larger version of - RUGFBkProfilePic14 2W"><img src="http://www.stmgrts.org.uk/images//RUGFBkProfilePic14_2W_thumb.jpg" width="150" height="144" alt="RUGFBkProfilePic14 2W" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/RUGFBkProfilePic14_2W.jpg" title="See larger version of - RUGFBkProfilePic14 2W"><img src="//stmgrts.org.uk/assets/images/2014/RUGFBkProfilePic14_2W_thumb.jpg" width="150" height="144" alt="RUGFBkProfilePic14 2W" class="photo right" /></a>
 
 h4. Ukulele Free Beginners Workshop
 
@@ -37,7 +37,3 @@ h4. Ukulele Improvers Course
 * &pound;50 for newcomers, &pound;45 if not (&pound;40 if booked by 15<sup>th</sup> April)
 
 All info: "richmond-ukulele.co.uk":http://richmond-ukulele.co.uk/
-
-
-
-

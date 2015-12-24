@@ -5,7 +5,7 @@ permalink: /archives/2014/03/event_reminder_60s_night_21_march_2014.html
 category: around_town
 date: 2014-03-06 20:02:40
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//David_Adams_-_60s-website2014.jpg" title="See larger version of - David Adams   60s website2014"><img src="http://www.stmgrts.org.uk/images//David_Adams_-_60s-website2014_thumb.jpg" width="150" height="212" alt="David Adams   60s website2014" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/David_Adams_-_60s-website2014.jpg" title="See larger version of - David Adams   60s website2014"><img src="//stmgrts.org.uk/assets/images/2014/David_Adams_-_60s-website2014_thumb.jpg" width="150" height="212" alt="David Adams   60s website2014" class="photo right" /></a>
     
     Twist and Shout the night away with original band members from The Kinks, Foundations and George Harrison Band.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//David_Adams_-_60s-website2014.jpg" title="See larger version of - David Adams   60s website2014"><img src="http://www.stmgrts.org.uk/images//David_Adams_-_60s-website2014_thumb.jpg" width="150" height="212" alt="David Adams   60s website2014" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/David_Adams_-_60s-website2014.jpg" title="See larger version of - David Adams   60s website2014"><img src="//stmgrts.org.uk/assets/images/2014/David_Adams_-_60s-website2014_thumb.jpg" width="150" height="212" alt="David Adams   60s website2014" class="photo right" /></a>
 
 Twist and Shout the night away with original band members from The Kinks, Foundations and George Harrison Band.
 
@@ -31,7 +31,3 @@ h4. More Information
 * &pound;20 includes light supper. Cash bar
 
 _All proceeds go to The Royal Marsden Cancer Hospital (Reg charity 1095197)_
-
-
-
-

@@ -22,6 +22,3 @@ h3. Links
 * "Council's Case File":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05%2F2229%2FFUL
 * "Planning Meeting Agenda":http://www.richmond.gov.uk/home/environment/planning/planning_committee.htm?mgl=ieListDocuments.asp&CId=224&MId=1390&Ver=4
 * "Planning Officer Report":http://cabnet.richmond.gov.uk/Published/C00000224/M00001390/AI00010455/$Carparkrearof107StMargaretsRoad.doc.pdf
-
-
-

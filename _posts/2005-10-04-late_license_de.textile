@@ -22,23 +22,3 @@ The hours they have been given are as follows:
 |Friday & Saturday|10am - 1am|
 
 _30 minutes drinking up time for both._
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-10-04-late_license_de in site.data.2005-10-04-late_license_de %}
-       <li>
-
-         {{ 2005-10-04-late_license_de.comment }}
-
-         <cite>{{ 2005-10-04-late_license_de.author }} on {{ 2005-10-04-late_license_de.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

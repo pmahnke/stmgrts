@@ -20,23 +20,3 @@ Have any other local residents experienced this problem?
 I would appreciate some comments!
  
 <cite>-- from Gerhard</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-08-31-tiny_flies_invading_houses in site.data.2008-08-31-tiny_flies_invading_houses %}
-       <li>
-
-         {{ 2008-08-31-tiny_flies_invading_houses.comment }}
-
-         <cite>{{ 2008-08-31-tiny_flies_invading_houses.author }} on {{ 2008-08-31-tiny_flies_invading_houses.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

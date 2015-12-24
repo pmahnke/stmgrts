@@ -18,24 +18,3 @@ L'Amandine will occupy the ground floor shop premises and the front one-third of
 We will continue to provide you with updates as matters progress.  We are delighted to have secured L'Amindine as a tenant and I believe that this letting goes a long way to meeting the local residents requirements."
  
 p. <cite> -- from Nick Jones, Director, Queensgate Finance</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-08-30-a_baker_for_st_margarets in site.data.2007-08-30-a_baker_for_st_margarets %}
-       <li>
-
-         {{ 2007-08-30-a_baker_for_st_margarets.comment }}
-
-         <cite>{{ 2007-08-30-a_baker_for_st_margarets.author }} on {{ 2007-08-30-a_baker_for_st_margarets.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

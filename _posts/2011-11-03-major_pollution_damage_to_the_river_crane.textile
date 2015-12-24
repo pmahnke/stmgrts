@@ -5,7 +5,7 @@ permalink: /archives/2011/11/major_pollution_damage_to_the_river_crane.html
 category: news
 date: 2011-11-03 21:14:36
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="http://farm4.static.flickr.com/3195/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
+    <a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
     
     FORCE trustees and members have been very saddened to see the effects of a major pollution incident in the River Crane over the last few days. This has been caused by raw sewage flowing into the river by the A4 Bath Road between Saturday night and early Monday morning due to a defective valve on the two metre diameter sewer that services the Heathrow area.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="http://farm4.static.flickr.com/3195/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
+<a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
 
 FORCE trustees and members have been very saddened to see the effects of a major pollution incident in the River Crane over the last few days. This has been caused by raw sewage flowing into the river by the A4 Bath Road between Saturday night and early Monday morning due to a defective valve on the two metre diameter sewer that services the Heathrow area.
 
@@ -36,22 +36,3 @@ Recovery will not be a quick fix and Thames Water needs to work with local group
 p. In the short term it is important for all riverside visitors to keep both themselves and their dogs out of the river until further notice. Despite the warning notices posted in the park by FORCE trustees, there were still dogs bathing in the river this week.
 
 <cite>-- press release from Friends of the River Crane Environment (FORCE) - 1 November 2011 - "www.force.org.uk":http://www.force.org.uk</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-11-03-major_pollution_damage_to_the_river_crane in site.data.2011-11-03-major_pollution_damage_to_the_river_crane %}
-       <li>
-
-         {{ 2011-11-03-major_pollution_damage_to_the_river_crane.comment }}
-
-         <cite>{{ 2011-11-03-major_pollution_damage_to_the_river_crane.author }} on {{ 2011-11-03-major_pollution_damage_to_the_river_crane.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

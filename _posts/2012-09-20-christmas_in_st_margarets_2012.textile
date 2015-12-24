@@ -18,25 +18,3 @@ Please send your ideas to "editor@mystmargarets.com":mailto:editor@mystmargarets
 h4. St Margarets Christmas Fair
 
 This years St Margarets Christmas Fair will be held in Crown Road on Sunday 9<sup>th</sup> December 2012. To book a stall please contact "events@mystmargarets.com":mailto:events@mystmargarets.com Space is limited. We are also looking for entertainers and performers that would like to entertain the crowds please contact us at traders@mystmargarets if you are interested in performing.
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-09-20-christmas_in_st_margarets_2012 in site.data.2012-09-20-christmas_in_st_margarets_2012 %}
-       <li>
-
-         {{ 2012-09-20-christmas_in_st_margarets_2012.comment }}
-
-         <cite>{{ 2012-09-20-christmas_in_st_margarets_2012.author }} on {{ 2012-09-20-christmas_in_st_margarets_2012.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

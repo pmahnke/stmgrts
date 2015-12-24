@@ -21,22 +21,3 @@ I've had as little success as the mighty Waitrose in trying to point out to the 
 I suppose if we're that desperate to shop at Waitrose in Twickenham many of us might, with some difficulty for a large shop, manage it without a car.  But why should we, when we're periodically reminded to use Twickenham town centre to keep it alive - whilst the Council isn't practising what it's preaching to us as residents in terms of it's green travel policies, by allowing well over 400 vehicles to either park freely or relatively cheaply there all day, each weekday.  It might be interesting to hear Councillor Trigg's (Cabinet member for Traffic, Transport & Parking) take on this.  But for now it seems like for lovers of Waitrose the answer is Richmond or Sheen, where they have their own car parks.
 
 <cite>Harry Jacobs - Broadway Avenue</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-04-15-how_green_is_my_council in site.data.2010-04-15-how_green_is_my_council %}
-       <li>
-
-         {{ 2010-04-15-how_green_is_my_council.comment }}
-
-         <cite>{{ 2010-04-15-how_green_is_my_council.author }} on {{ 2010-04-15-how_green_is_my_council.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

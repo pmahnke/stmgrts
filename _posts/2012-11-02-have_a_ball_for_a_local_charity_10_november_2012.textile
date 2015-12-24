@@ -7,7 +7,7 @@ date: 2012-11-02 11:16:32
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//diamond_invite.jpg" title="See larger version of - diamond invite"><img src="http://www.stmgrts.org.uk/images//diamond_invite_thumb.jpg" width="150" height="102" alt="diamond invite" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/diamond_invite.jpg" title="See larger version of - diamond invite"><img src="//stmgrts.org.uk/assets/images/2012/diamond_invite_thumb.jpg" width="150" height="102" alt="diamond invite" class="photo right" /></a>
 
 _Diamond Ball on Saturday 10<sup>th</sup> November at The Jumeirah Carlton Tower_
 
@@ -18,9 +18,3 @@ A Glittering Night with magician, casino, caricaturist, auctions and dancing to 
 Organised by The David Adams Leukaemia Appeal, a local St Margarets charity.
 
 "www.davidadamsleukaemiaappeal.org":http://www.davidadamsleukaemiaappeal.org
-
-
-
-
-
-

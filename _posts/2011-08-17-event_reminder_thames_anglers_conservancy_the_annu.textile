@@ -5,7 +5,7 @@ permalink: /archives/2011/08/event_reminder_thames_anglers_conservancy_the_annu.
 category: around_town
 date: 2011-08-17 15:48:06
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//annual-tac-summer-match-201.jpg" title="See larger version of - Download the poster"><img src="http://www.stmgrts.org.uk/images//annual-tac-summer-match-201_thumb.jpg" width="150" height="211" alt="Download the poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/annual-tac-summer-match-201.jpg" title="See larger version of - Download the poster"><img src="//stmgrts.org.uk/assets/images/2011/annual-tac-summer-match-201_thumb.jpg" width="150" height="211" alt="Download the poster" class="photo right" /></a>
     
     A year has passed since the first summer match.  If you attended the first one, we are sure you will be here for the second and if you didn't why not come down and show some support. Whether you are fishing or saying hello you will be made most welcome.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//annual-tac-summer-match-201.jpg" title="See larger version of - Download the poster"><img src="http://www.stmgrts.org.uk/images//annual-tac-summer-match-201_thumb.jpg" width="150" height="211" alt="Download the poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/annual-tac-summer-match-201.jpg" title="See larger version of - Download the poster"><img src="//stmgrts.org.uk/assets/images/2011/annual-tac-summer-match-201_thumb.jpg" width="150" height="211" alt="Download the poster" class="photo right" /></a>
 
 A year has passed since the first summer match.  If you attended the first one, we are sure you will be here for the second and if you didn't why not come down and show some support. Whether you are fishing or saying hello you will be made most welcome.
 
@@ -39,9 +39,3 @@ Meet at Walton Bridge car park KT12 1QW for the draw to take place at 17.30 hrs,
 All abilities welcome.
 
 Entrance is &pound;5.00  "www.rivertac.org":http://www.rivertac.org
-
-
-
-
-
-

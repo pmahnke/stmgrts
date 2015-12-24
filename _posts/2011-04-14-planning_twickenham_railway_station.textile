@@ -16,23 +16,3 @@ h4. More information
 * "Learn the current status of the application":http://www2.richmond.gov.uk/PlanData2/Planning_CaseNo.aspx?strCASENO=10/3465/FUL
 * "Read the case-file and comments":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=10/3465/FUL
 * "Comment on the application":http://idoxwam.richmond.gov.uk/WAM/createComment.do;jsessionid=73FE2A60F7093CA1FA1AD1050198F7CC?action=CreateApplicationComment&applicationType=PLANNING&appNumber=10/3465/FUL
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-04-14-planning_twickenham_railway_station in site.data.2011-04-14-planning_twickenham_railway_station %}
-       <li>
-
-         {{ 2011-04-14-planning_twickenham_railway_station.comment }}
-
-         <cite>{{ 2011-04-14-planning_twickenham_railway_station.author }} on {{ 2011-04-14-planning_twickenham_railway_station.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

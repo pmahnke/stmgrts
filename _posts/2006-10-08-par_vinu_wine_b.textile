@@ -20,21 +20,3 @@ Opening Hours applied for are:
 
 * "Licensing Committee Meeting Details":http://www.richmond.gov.uk/home/council_government_and_democracy/democratic_processes_and_events/calendar_of_meetings.htm?mgl=ieListDocuments.asp&CId=232&MId=1649
 * "Council Agenda Information":http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=11826
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-08-par_vinu_wine_b in site.data.2006-10-08-par_vinu_wine_b %}
-       <li>
-
-         {{ 2006-10-08-par_vinu_wine_b.comment }}
-
-         <cite>{{ 2006-10-08-par_vinu_wine_b.author }} on {{ 2006-10-08-par_vinu_wine_b.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

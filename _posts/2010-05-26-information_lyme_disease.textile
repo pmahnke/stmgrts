@@ -29,7 +29,7 @@ If you have been bitten by a tick and notice any adverse symptoms seek medical h
 
 h2. Lyme disease: know the facts  
 
-<a href="http://www.stmgrts.org.uk/2010_tick_poster.pdf">Download an informational poster [PDF 98k]</a>
+<a href="//stmgrts.org.uk/assets/images/2010/2010_tick_poster.pdf">Download an informational poster [PDF 98k]</a>
 
 Lyme Disease Action (LDA) is a UK-registered charity striving for the prevention and treatment of Lyme disease and associated tick borne diseases. Ticks are tiny parasitic, blood-sucking arthropods related to spiders, mites and scorpions. There are many different species of tick in the UK, each preferring to feed on the blood of different animal hosts – though they will feed on human blood too if given the chance. 
 
@@ -57,21 +57,3 @@ Diagnosed and treated at an early stage, it is usually curable with antibiotics,
 Can Lyme disease be prevented?
 
 There are many measures you can take to protect yourself from infection. These include wearing suitable clothing (keep your arms and legs covered) and frequently checking the skin for ticks. Make sure you know how to remove a tick properly and seek medical advice promptly if you notice any symptoms.  
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-05-26-information_lyme_disease in site.data.2010-05-26-information_lyme_disease %}
-       <li>
-
-         {{ 2010-05-26-information_lyme_disease.comment }}
-
-         <cite>{{ 2010-05-26-information_lyme_disease.author }} on {{ 2010-05-26-information_lyme_disease.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

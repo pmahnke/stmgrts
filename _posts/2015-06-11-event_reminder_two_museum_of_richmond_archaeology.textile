@@ -5,7 +5,7 @@ permalink: /archives/2015/06/event_reminder_two_museum_of_richmond_archaeology.h
 category: around_town
 date: 2015-06-11 18:37:15
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
     
     The Museum of Richmond is delighted to be taking part in this year's Festival of Archaeology by hosting two engaging family events on Thursday 23<sup>rd</sup> July 2015 and Saturday 25<sup>th</sup>  July 2015.
     
@@ -17,7 +17,7 @@ The Museum of Richmond is delighted to be taking part in this year's Festival of
 
 h4. Archaeology of the Thames
 
-<a href="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
 
 "Thursday July 23<sup>rd</sup> 12pm to 3pm":http://www.stmgrts.org.uk/event/event/200705145027
 
@@ -27,7 +27,7 @@ Archaeologists from the Thames Discovery Programme (an organisation which monito
 
 h4. Roman Day
 
-<a href="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Roman-Tony.jpg" title="See larger version of - Roman Tony"><img src="http://www.stmgrts.org.uk/images//MUS_RICH_ARCH_Roman-Tony_thumb.jpg" width="150" height="150" alt="Roman Tony" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Roman-Tony.jpg" title="See larger version of - Roman Tony"><img src="//stmgrts.org.uk/assets/images/2015/MUS_RICH_ARCH_Roman-Tony_thumb.jpg" width="150" height="150" alt="Roman Tony" class="photo right" /></a>
 
 "Saturday 25<sup>th</sup> July 12pm to 3pm":http://www.stmgrts.org.uk/event/event/200705145028
 
@@ -39,7 +39,3 @@ h4. More Information
 
 * Museum of Richmond, Old Town Hall (Second Floor) Whittaker Avenue, Surrey, TW9 1TP
 * Free Entry, open to all ages
-
-
-
-

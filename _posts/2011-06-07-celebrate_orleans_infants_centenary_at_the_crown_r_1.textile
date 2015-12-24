@@ -7,7 +7,7 @@ date: 2011-06-07 08:06:05
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//crf_summer-2011.jpg" title="See larger version of - crown road summer fair "><img src="http://www.stmgrts.org.uk/images//crf_summer-2011_thumb.jpg" width="150" height="300" alt="crown road summer fair " class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/crf_summer-2011.jpg" title="See larger version of - crown road summer fair "><img src="//stmgrts.org.uk/assets/images/2011/crf_summer-2011_thumb.jpg" width="150" height="300" alt="crown road summer fair " class=" right" /></a>
 
 
 h4. CROWN ROAD ST MARGARETS COMMUNITY FAIR
@@ -23,8 +23,3 @@ p=. <em>Mini fun fair ~ Side Stalls ~ Face painting ~ Arts and crafts stalls ~ S
 PLUS... the Orleans Infants School Tug-of-War challenge
 
 As the event is also a celebration of Orleans Infants School Centenary year -- so expect some 1911 themed fun!
-
-
-
-
-

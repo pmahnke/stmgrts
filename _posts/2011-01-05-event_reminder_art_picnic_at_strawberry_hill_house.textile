@@ -5,7 +5,7 @@ permalink: /archives/2011/01/event_reminder_art_picnic_at_strawberry_hill_house.
 category: around_town
 date: 2011-01-05 14:01:03
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Poster_jan11_art_picnic.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//Poster_jan11_art_picnic_thumb.jpg" width="150" height="221" alt="Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/Poster_jan11_art_picnic.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/Poster_jan11_art_picnic_thumb.jpg" width="150" height="221" alt="Poster" class="photo right" /></a>
     
     "Sunday, 23<sup>rd</sup> January 2011 - 11am to 4pm":http://stmgrts.org.uk/event/event/200705142683
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Poster_jan11_art_picnic.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//Poster_jan11_art_picnic_thumb.jpg" width="150" height="221" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/Poster_jan11_art_picnic.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/Poster_jan11_art_picnic_thumb.jpg" width="150" height="221" alt="Poster" class="photo right" /></a>
 
 "Sunday, 23<sup>rd</sup> January 2011 - 11am to 4pm":http://stmgrts.org.uk/event/event/200705142683
 
@@ -26,7 +26,3 @@ h4. Details
 * "Download a poster with prices and more details":http://www.stmgrts.org.uk/images//Poster_jan11_art_picnic.jpg
 * Please call the office on 020 8891 5455 or e-mail: "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk to book your place.
 * Contact on the day : Angela Kidner 07768 097686
-
-
-
-

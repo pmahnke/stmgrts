@@ -5,7 +5,7 @@ permalink: /archives/2015/03/see_saw_2015.html
 category: around_town
 date: 2015-03-05 21:15:06
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//SeeSaw-Orleans-House-Flyer-Jan-2015.jpg" title="See larger version of - SeeSaw Orleans House Flyer Jan 2015"><img src="http://www.stmgrts.org.uk/images//SeeSaw-Orleans-House-Flyer-Jan-2015_thumb.jpg" width="150" height="212" alt="SeeSaw Orleans House Flyer Jan 2015" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/SeeSaw-Orleans-House-Flyer-Jan-2015.jpg" title="See larger version of - SeeSaw Orleans House Flyer Jan 2015"><img src="//stmgrts.org.uk/assets/images/2015/SeeSaw-Orleans-House-Flyer-Jan-2015_thumb.jpg" width="150" height="212" alt="SeeSaw Orleans House Flyer Jan 2015" class="photo right" /></a>
     
     _Weekly drop-in sessions for underr-fives and their carers._
     
@@ -15,7 +15,7 @@ excerpt: |
 
 
 
-<a href="http://www.stmgrts.org.uk/images//SeeSaw-Orleans-House-Flyer-Jan-2015.jpg" title="See larger version of - SeeSaw Orleans House Flyer Jan 2015"><img src="http://www.stmgrts.org.uk/images//SeeSaw-Orleans-House-Flyer-Jan-2015_thumb.jpg" width="250" height="353" alt="SeeSaw Orleans House Flyer Jan 2015" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/SeeSaw-Orleans-House-Flyer-Jan-2015.jpg" title="See larger version of - SeeSaw Orleans House Flyer Jan 2015"><img src="//stmgrts.org.uk/assets/images/2015/SeeSaw-Orleans-House-Flyer-Jan-2015_thumb.jpg" width="250" height="353" alt="SeeSaw Orleans House Flyer Jan 2015" class="photo right" /></a>
 
 _Weekly drop-in sessions for under-fives and their carers._
 
@@ -37,6 +37,3 @@ h4. More Information
 * Cost - &pound;6 per (first) child and &pound;3 for siblings over 6 months of age.
 * SeeSaw takes place every week during term time and school holidays.
 * For more information call 020 8831 6000 or email "artseducation@richmond.gov.uk":mailto:artseducation@richmond.gov.uk.
-
-
-

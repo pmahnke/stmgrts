@@ -16,23 +16,3 @@ The station is celebrating its 40th Anniversary this year, having broadcast its 
 Radio West Middlesex - which is a registered charity - broadcast its first record request programme in May 1967. From a weekly one hour show the station now provides a 24 hour service, with over 25 volunteers visiting patients in the wards and presenting programmes. The mix of record requests, special interest programmes, hospital and local information along with relaxing music is made available to the patients on their bedside entertainment systems.
 
 For more information and programme details go to "www.radiowestmiddlesex.org.uk":http://www.radiowestmiddlesex.org.uk/
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-11-21-radio_west_middlesexs_40th_anniversary in site.data.2007-11-21-radio_west_middlesexs_40th_anniversary %}
-       <li>
-
-         {{ 2007-11-21-radio_west_middlesexs_40th_anniversary.comment }}
-
-         <cite>{{ 2007-11-21-radio_west_middlesexs_40th_anniversary.author }} on {{ 2007-11-21-radio_west_middlesexs_40th_anniversary.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

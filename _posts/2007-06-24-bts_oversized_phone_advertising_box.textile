@@ -7,7 +7,7 @@ date: 2007-06-24 17:33:13
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/bt_phone.jpg"><img alt="bt_phone.jpg" src="http://www.stmgrts.org.uk/images/bt_phone-thumb.jpg" width="150" height="112" alt="BT's Big Phone" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/bt_phone.jpg"><img alt="bt_phone.jpg" src="//stmgrts.org.uk/assets/images/2007/bt_phone-thumb.jpg" width="150" height="112" alt="BT's Big Phone" class="photo right" /></a>
 
 bq. "[How has this] this godforsaken excrescence made its appearance.  How in hell did BT get permission (do they need it?) to take over the pavement. The previous box (hardly less obscene -- oh for the return of the classic K6) was set further back, took up less space..."
 
@@ -16,23 +16,3 @@ bq. "[How has this] this godforsaken excrescence made its appearance.  How in he
 Indeed.
 
 The Council did move the bike rack near it that made passing with a push chair impossible, but how can BT be allowed to take up ~75% of the pavement?
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-24-bts_oversized_phone_advertising_box in site.data.2007-06-24-bts_oversized_phone_advertising_box %}
-       <li>
-
-         {{ 2007-06-24-bts_oversized_phone_advertising_box.comment }}
-
-         <cite>{{ 2007-06-24-bts_oversized_phone_advertising_box.author }} on {{ 2007-06-24-bts_oversized_phone_advertising_box.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

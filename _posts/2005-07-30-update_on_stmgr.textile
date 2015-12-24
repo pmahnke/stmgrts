@@ -40,21 +40,3 @@ _The Web Team_
 
 p.s. Don't forget to sign-up for the "newsletter":http://stmgrts.org.uk/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
                         
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-07-30-update_on_stmgr in site.data.2005-07-30-update_on_stmgr %}
-       <li>
-
-         {{ 2005-07-30-update_on_stmgr.comment }}
-
-         <cite>{{ 2005-07-30-update_on_stmgr.author }} on {{ 2005-07-30-update_on_stmgr.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

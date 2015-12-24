@@ -25,22 +25,3 @@ Local actress Samantha Bond who supports the reopening of the caf&eacute; says: 
 Jenni Dunn says:
 
 bq. "We are grateful for the support of English Heritage. We will provide fresh coffee, afternoon tea with home-baked cakes, light and healthy lunches and, of course, ice creams and children's food -- all served in the caf&eacute; or outside on the park terrace."
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-04-05-marble_hill_caf_to_open_again in site.data.2007-04-05-marble_hill_caf_to_open_again %}
-       <li>
-
-         {{ 2007-04-05-marble_hill_caf_to_open_again.comment }}
-
-         <cite>{{ 2007-04-05-marble_hill_caf_to_open_again.author }} on {{ 2007-04-05-marble_hill_caf_to_open_again.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

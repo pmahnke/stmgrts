@@ -5,7 +5,7 @@ permalink: /archives/2013/06/rfu_strawberry_hill_music_family_fun_day_7_july_20.
 category: around_town
 date: 2013-06-28 21:15:28
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Strawberry-Hill-2013-A4.jpg" title="See larger version of - Strawberry Hill 2013 Flyer"><img src="http://www.stmgrts.org.uk/images//Strawberry-Hill-2013-A4_thumb.jpg" width="150" height="220" alt="Strawberry Hill 2013 Flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/Strawberry-Hill-2013-A4.jpg" title="See larger version of - Strawberry Hill 2013 Flyer"><img src="//stmgrts.org.uk/assets/images/2013/Strawberry-Hill-2013-A4_thumb.jpg" width="150" height="220" alt="Strawberry Hill 2013 Flyer" class="photo right" /></a>
     
     <em>"Sunday, 7 July 12 noon - 7.30pm at Strawberry Hill House":http://www.stmgrts.org.uk/event/fair/200705144028</em>
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Strawberry-Hill-2013-A4.jpg" title="See larger version of - Strawberry Hill 2013 Flyer"><img src="http://www.stmgrts.org.uk/images//Strawberry-Hill-2013-A4_thumb.jpg" width="150" height="220" alt="Strawberry Hill 2013 Flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/Strawberry-Hill-2013-A4.jpg" title="See larger version of - Strawberry Hill 2013 Flyer"><img src="//stmgrts.org.uk/assets/images/2013/Strawberry-Hill-2013-A4_thumb.jpg" width="150" height="220" alt="Strawberry Hill 2013 Flyer" class="photo right" /></a>
 
 <em>"Sunday, 7 July 12 noon - 7.30pm at Strawberry Hill House":http://www.stmgrts.org.uk/event/fair/200705144028</em>
 
@@ -31,9 +31,3 @@ h4. Live stage order of appearance:
 * 4.30 - 5.20 The Mustangs
 * 5.35 - 6.25 The Blue Meanies
 * 6.35 - 7.25 Nark Drool & The Shudders
-
-
-
-
-
-

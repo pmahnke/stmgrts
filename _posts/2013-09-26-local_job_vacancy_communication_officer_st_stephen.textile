@@ -5,13 +5,13 @@ permalink: /archives/2013/09/local_job_vacancy_communication_officer_st_stephen.
 category: around_town
 date: 2013-09-26 19:46:56
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//st_stephens_school_logo.png" title="See larger version of - st stephens school logo"><img src="http://www.stmgrts.org.uk/images//st_stephens_school_logo_thumb.png" width="150" height="102" alt="st stephens school logo" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/st_stephens_school_logo.png" title="See larger version of - st stephens school logo"><img src="//stmgrts.org.uk/assets/images/2013/st_stephens_school_logo_thumb.png" width="150" height="102" alt="st stephens school logo" class=" right" /></a>
     
     To provide administrative, clerical support within the school; on occasions, this may necessitate acting on own initiative within the broad outlines and guidance of the Headteacher.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//st_stephens_school_logo.png" title="See larger version of - st stephens school logo"><img src="http://www.stmgrts.org.uk/images//st_stephens_school_logo_thumb.png" width="150" height="102" alt="st stephens school logo" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/st_stephens_school_logo.png" title="See larger version of - st stephens school logo"><img src="//stmgrts.org.uk/assets/images/2013/st_stephens_school_logo_thumb.png" width="150" height="102" alt="st stephens school logo" class=" right" /></a>
 
 To provide administrative, clerical support within the school; on occasions, this may necessitate acting on own initiative within the broad outlines and guidance of the Headteacher.
 
@@ -21,9 +21,3 @@ h4. More Information
 * salary: £11.15 per hour
 * hours: 20 hours per week [afternoons], 39 weeks a year, term time only 
 * annual leave: annual leave is not to be taken in term time
-
-
-
-
-
-

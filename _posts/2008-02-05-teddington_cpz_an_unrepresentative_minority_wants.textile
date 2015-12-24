@@ -37,21 +37,3 @@ This Wednesday is the last chance to state your views before the Liberal Democra
 </div>
 
 <a href="http://www.stmgrts.org.uk/TeddingtonCPZsurveyresults2007.xls">Download Excel spreadsheet with more data.</a>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-02-05-teddington_cpz_an_unrepresentative_minority_wants in site.data.2008-02-05-teddington_cpz_an_unrepresentative_minority_wants %}
-       <li>
-
-         {{ 2008-02-05-teddington_cpz_an_unrepresentative_minority_wants.comment }}
-
-         <cite>{{ 2008-02-05-teddington_cpz_an_unrepresentative_minority_wants.author }} on {{ 2008-02-05-teddington_cpz_an_unrepresentative_minority_wants.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -13,25 +13,4 @@ Thanks to everyone who participated in the survey,  please find results attached
 
 Those who wish to proceed with a lease extension or purchase of freehold immediately and within the next 6 months will be contacted by email shortly regarding moving forward with the process as a group. Those wishing to pursue this at a later stage can view regular updates on this website.
 
-* <a href="http://www.stmgrts.org.uk/LeaseSurveyResults.pdf">Download pdf</a>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-09-13-lease_extension_update_to_recent_survey in site.data.2007-09-13-lease_extension_update_to_recent_survey %}
-       <li>
-
-         {{ 2007-09-13-lease_extension_update_to_recent_survey.comment }}
-
-         <cite>{{ 2007-09-13-lease_extension_update_to_recent_survey.author }} on {{ 2007-09-13-lease_extension_update_to_recent_survey.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-
+* <a href="//stmgrts.org.uk/assets/images/2007/LeaseSurveyResults.pdf">Download pdf</a>

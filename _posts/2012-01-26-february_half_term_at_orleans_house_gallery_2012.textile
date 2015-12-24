@@ -7,7 +7,7 @@ date: 2012-01-26 21:54:09
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//orleans_half_term.jpg" title="See larger version of - orleans half term"><img src="http://www.stmgrts.org.uk/images//orleans_half_term_thumb.jpg" width="150" height="210" alt="orleans half term" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/orleans_half_term.jpg" title="See larger version of - orleans half term"><img src="//stmgrts.org.uk/assets/images/2012/orleans_half_term_thumb.jpg" width="150" height="210" alt="orleans half term" class="photo right" /></a>
 
 
 Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating. "Visit our website":http://www.richmond.gov.uk/arts
@@ -58,6 +58,3 @@ h3. Half Day Paint Workshop - 'The Art of Play' - Friday, 17 February
 Spin, spray and splatter paint with artist Imogen Luddy to learn about colour and colour mixing.
 
 _Booking essential: Please call 020 8831 6000 or book online_
-
-
-

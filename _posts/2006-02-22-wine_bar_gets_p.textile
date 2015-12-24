@@ -7,7 +7,7 @@ date: 2006-02-22 09:43:12
 
 ---
 
-<img src="/images/hot/hot_ParVinu-logo.gif" width="100" height="46" alt="Par Vinu Logo" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2006/hot_ParVinu-logo.gif" width="100" height="46" alt="Par Vinu Logo" class="photo right" />
 
 The Richmond Council Planning Officer, John Brown, has recommended that the Planning Committee give its 'permission' for the proposed wine bar in the basement formerly occupied by Phelps in his "recently published report":http://stmgrts.url123.com/anbup.  The Planning Committee will meet on the 2<sup>nd</sup> of March at 6:30 pm in the Salon at "York House":/cgi-bin/directory.cgi?key=200508171541&action=getlisting to decide whether to grant or reject this recommendation. 
 
@@ -38,21 +38,3 @@ h3. Links
 * "Planning Meeting Agenda":http://stmgrts.url123.com/an4b8
 * "Planning Officer Report":http://stmgrts.url123.com/anbup
 * _also see the "homepage":/index.shtml for a links to all articles published on this site_
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-02-22-wine_bar_gets_p in site.data.2006-02-22-wine_bar_gets_p %}
-       <li>
-
-         {{ 2006-02-22-wine_bar_gets_p.comment }}
-
-         <cite>{{ 2006-02-22-wine_bar_gets_p.author }} on {{ 2006-02-22-wine_bar_gets_p.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

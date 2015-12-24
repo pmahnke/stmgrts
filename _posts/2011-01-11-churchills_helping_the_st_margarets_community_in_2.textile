@@ -5,13 +5,13 @@ permalink: /archives/2011/01/churchills_helping_the_st_margarets_community_in_2.
 category: news
 date: 2011-01-11 08:48:46
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/churchill_lynn.jpg"><img alt="churchill_lynn.jpg" src="http://www.stmgrts.org.uk/images/churchill_lynn-thumb.jpg" width="152" height="289" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/churchill_lynn.jpg"><img alt="churchill_lynn.jpg" src="//stmgrts.org.uk/assets/images/2011/churchill_lynn-thumb.jpg" width="152" height="289" class="right" /></a>
     
     "Churchills Estate Agents":http://www.stmgrts.org.uk/directory/estate_agent/201012150731 of St Margarets would like to thank all the local residents for their support for the "Lynn's Bowel Cancer":http://www.stmgrts.org.uk/directory/charity/200702020407 Campaign Tombola at the St Margarets Christmas Fair in December.  We raised a very handsome sum for this great cause and we hope to continue this support into 2011. In turbulent economic times we feel it is important to help our fellow independent businesses and charities and every effort goes a long way.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/churchill_lynn.jpg"><img alt="churchill_lynn.jpg" src="http://www.stmgrts.org.uk/images/churchill_lynn-thumb.jpg" width="152" height="289" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/churchill_lynn.jpg"><img alt="churchill_lynn.jpg" src="//stmgrts.org.uk/assets/images/2011/churchill_lynn-thumb.jpg" width="152" height="289" class="right" /></a>
 
 "Churchills Estate Agents":http://www.stmgrts.org.uk/directory/estate_agent/201012150731 of St Margarets would like to thank all the local residents for their support for the "Lynn's Bowel Cancer":http://www.stmgrts.org.uk/directory/charity/200702020407 Campaign Tombola at the St Margarets Christmas Fair in December.  We raised a very handsome sum for this great cause and we hope to continue this support into 2011. In turbulent economic times we feel it is important to help our fellow independent businesses and charities and every effort goes a long way.
 
@@ -22,9 +22,3 @@ We anticipate a healthy growth of buyers drawn to St Margarets in 2011 and wish 
 If you have any further suggestions how we may help in forthcoming community events and fundraising or for professional property advice please contact Julia Green on 0208 891 3987.
 
 Our aim is to be more than an estate agent but to be very much part of the community and growth of St Margarets in 2011.
-
-
-
-
-
-

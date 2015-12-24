@@ -34,23 +34,3 @@ Individual train alterations and cancellation will be "advertised on our website
 This message will be updated by 04:30hrs tomorrow morning. 
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-09-22-potential_train_problems_23_september_2013 in site.data.2013-09-22-potential_train_problems_23_september_2013 %}
-       <li>
-
-         {{ 2013-09-22-potential_train_problems_23_september_2013.comment }}
-
-         <cite>{{ 2013-09-22-potential_train_problems_23_september_2013.author }} on {{ 2013-09-22-potential_train_problems_23_september_2013.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

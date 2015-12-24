@@ -5,7 +5,7 @@ permalink: /archives/2009/11/1st_st_margarets_beaver_scouts_seek_new_leader.html
 category: news
 date: 2009-11-19 16:23:31
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//BeaversLeaderSearch.jpg" title="See larger version of - Leader?"><img src="http://www.stmgrts.org.uk/images//BeaversLeaderSearch_thumb.jpg" width="150" height="84" alt="Leader?" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/BeaversLeaderSearch.jpg" title="See larger version of - Leader?"><img src="//stmgrts.org.uk/assets/images/2009/BeaversLeaderSearch_thumb.jpg" width="150" height="84" alt="Leader?" class="photo right" /></a>
     
     
     The 1st St Margarets Scouts' Beaver Colony faces closure unless it can find a new leader by the end of December.
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//BeaversLeaderSearch.jpg" title="See larger version of - Leader?"><img src="http://www.stmgrts.org.uk/images//BeaversLeaderSearch_thumb.jpg" width="150" height="84" alt="Leader?" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/BeaversLeaderSearch.jpg" title="See larger version of - Leader?"><img src="//stmgrts.org.uk/assets/images/2009/BeaversLeaderSearch_thumb.jpg" width="150" height="84" alt="Leader?" class="photo right" /></a>
 
 
 The 1st St Margarets Scouts' Beaver Colony faces closure unless it can find a new leader by the end of December.
@@ -39,9 +39,3 @@ The Group is also looking for adult helpers for Beavers, Cubs and Scouts.
 Full training will be given for these roles, with childcare costs provided if needed.
 
 Anyone interested in finding out more about either role should contact Jo Kitson 020 8891 2110, email "Johanna_kitson@hotmail.com":mailto:Johanna_kitson@hotmail.com
-
-
-
-
-
-

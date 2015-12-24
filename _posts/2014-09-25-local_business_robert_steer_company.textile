@@ -5,14 +5,14 @@ permalink: /archives/2014/09/local_business_robert_steer_company.html
 category: around_town
 date: 2014-09-25 10:16:59
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//outside_workshop.jpg" title="See larger version of - outside workshop"><img src="http://www.stmgrts.org.uk/images//outside_workshop_thumb.jpg" width="150" height="112" alt="outside workshop" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/outside_workshop.jpg" title="See larger version of - outside workshop"><img src="//stmgrts.org.uk/assets/images/2014/outside_workshop_thumb.jpg" width="150" height="112" alt="outside workshop" class="photo right" /></a>
     
     
     "Robert Steer & Company":http://www.stmgrts.org.uk/directory/home_and_garden/201409250512 design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//outside_workshop.jpg" title="See larger version of - outside workshop"><img src="http://www.stmgrts.org.uk/images//outside_workshop_thumb.jpg" width="250" height="187" alt="outside workshop" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/outside_workshop.jpg" title="See larger version of - outside workshop"><img src="//stmgrts.org.uk/assets/images/2014/outside_workshop_thumb.jpg" width="250" height="187" alt="outside workshop" class="photo right" /></a>
 
 "Robert Steer & Company":http://www.stmgrts.org.uk/directory/home_and_garden/201409250512 design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
 
@@ -22,7 +22,4 @@ Owner Robert Steer, who trained in architecture and joinery, runs the business f
 
 All Robert's team are hand picked craftsmen who live locally. The company has a recycling policy and only 5% of its waste goes to landfill. The staff are encourage to travel by bicycle to and from work. They only use responsibly sourced timbers and never medium density fibreboard.
 
-|<a href="http://www.stmgrts.org.uk/images//Elm_Stair.jpg" title="See larger version of - Elm Stair"><img src="http://www.stmgrts.org.uk/images//Elm_Stair_thumb.jpg" width="250" height="222" alt="Elm Stair" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//Oxted_bookcase.jpg" title="See larger version of - Oxted bookcase"><img src="http://www.stmgrts.org.uk/images//Oxted_bookcase_thumb.jpg" width="250" height="187" alt="Oxted bookcase" class="photo" /></a>|
-
-
-
+|<a href="//stmgrts.org.uk/assets/images/2014/Elm_Stair.jpg" title="See larger version of - Elm Stair"><img src="//stmgrts.org.uk/assets/images/2014/Elm_Stair_thumb.jpg" width="250" height="222" alt="Elm Stair" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//Oxted_bookcase.jpg" title="See larger version of - Oxted bookcase"><img src="http://www.stmgrts.org.uk/images//Oxted_bookcase_thumb.jpg" width="250" height="187" alt="Oxted bookcase" class="photo" /></a>|

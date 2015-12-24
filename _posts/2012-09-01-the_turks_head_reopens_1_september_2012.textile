@@ -7,7 +7,7 @@ date: 2012-09-01 10:00:42
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//the_turks_head.jpg" title="See larger version of - the turks head"><img src="http://www.stmgrts.org.uk/images//the_turks_head_thumb.jpg" width="150" height="112" alt="the turks head" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/the_turks_head.jpg" title="See larger version of - the turks head"><img src="//stmgrts.org.uk/assets/images/2012/the_turks_head_thumb.jpg" width="150" height="112" alt="the turks head" class="photo right" /></a>
 
 After a month of remodeling, The Turks Head is reopening.  The entire building has been improved including:
 
@@ -22,10 +22,3 @@ After a month of remodeling, The Turks Head is reopening.  The entire building h
 We were invited to a pre-opening meal and were quite impressed with the food and quality of the staff.  The menu was small, but the quality excellent.
 
 Please drop in and let us know what you think.
-
-
-
-
-
-
-

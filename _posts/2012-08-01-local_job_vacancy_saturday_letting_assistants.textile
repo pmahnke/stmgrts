@@ -7,7 +7,7 @@ date: 2012-08-01 21:46:24
 excerpt: |
     <img src="http://www.stmgrts.org.uk/images/directory/201009030936_Fitz-Gibbon_mystm.png"  class="photo right" width="150" alt="fitzgibbon" />
     
-    
+    <div class="box">
     THIS POSITION HAS NOW BEEN FILLED
     </div>
     
@@ -32,9 +32,3 @@ Specialist residential letting agency requires Saturday Assistants for our Richm
 The successful candidates will hold a clean UK manual driving licence, be articulate and smartly presented, enjoy meeting people, be comfortable using a bespoke software system (training will be given) and be an excellent time keeper!.
 
 If you are interested please forward your CV in the fist instance to: "cbarrett@fitzgibbon.co.uk":mailto:cbarrett@fitzgibbon.co.uk
-
-
-
-
-
-

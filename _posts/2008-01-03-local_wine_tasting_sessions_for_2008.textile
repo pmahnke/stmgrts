@@ -22,24 +22,3 @@ Convenor, St St Margaret's Wine Appeciation Group
 phone: 0208 892 9429
 email: <a href="mailto:hazelle.jackson@dial.pipex.com?Subject=St Margarets%20Wine%20Appeciation%20Group
 ">hazelle.jackson@dial.pipex.com</a>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-01-03-local_wine_tasting_sessions_for_2008 in site.data.2008-01-03-local_wine_tasting_sessions_for_2008 %}
-       <li>
-
-         {{ 2008-01-03-local_wine_tasting_sessions_for_2008.comment }}
-
-         <cite>{{ 2008-01-03-local_wine_tasting_sessions_for_2008.author }} on {{ 2008-01-03-local_wine_tasting_sessions_for_2008.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

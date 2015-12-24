@@ -7,7 +7,7 @@ date: 2011-06-30 08:05:28
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//don-pasquale-orchard-picture.jpg" title="See larger version of - DON PASQUALE"><img src="http://www.stmgrts.org.uk/images//don-pasquale-orchard-picture_thumb.jpg" width="150" height="106" alt="DON PASQUALE" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/don-pasquale-orchard-picture.jpg" title="See larger version of - DON PASQUALE"><img src="//stmgrts.org.uk/assets/images/2011/don-pasquale-orchard-picture_thumb.jpg" width="150" height="106" alt="DON PASQUALE" class="photo right" /></a>
 
 Pop-up Opera is an innovative touring opera company which takes opera to unusual venues. We bring opera to bars, boats, barns, and all sorts of unexpected places. Productions are uniquely adapted to each individual venue but will maintain the highest professional standards. The originality of the settings will reveal the universal appeal of opera.
 
@@ -18,7 +18,3 @@ h4. Details
 * The performance starts at 7.30pm and tickets cost &pound;12.
 * "www.popupopera.co.uk":http://www.popupopera.co.uk/
 * Tickets can also be bought directly from the Turks Head
-
-
-
-

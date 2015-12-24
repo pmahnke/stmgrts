@@ -5,14 +5,14 @@ permalink: /archives/2015/09/see_saw_at_orleans_house_gallery.html
 category: around_town
 date: 2015-09-03 22:20:29
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//SeeSaw_Orleans_House_Flyer_20150903.jpgjpg.jpg" title="See larger version of - SeeSaw Orleans House Flyer 20150903jpg"><img src="http://www.stmgrts.org.uk/images//SeeSaw_Orleans_House_Flyer_20150903_thumb.jpgjpg" width="150" height="212" alt="SeeSaw Orleans House Flyer 20150903jpg" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/SeeSaw_Orleans_House_Flyer_20150903.jpgjpg.jpg" title="See larger version of - SeeSaw Orleans House Flyer 20150903jpg"><img src="//stmgrts.org.uk/assets/images/2015/SeeSaw_Orleans_House_Flyer_20150903_thumb.jpgjpg" width="150" height="212" alt="SeeSaw Orleans House Flyer 20150903jpg" class="photo right" /></a>
     
     Weekly drop-in sessions for babies and children under-five and their carers.
     See Saw allows children to learn, play and explore in our multi-sensory sessions designed to encourage creativity, curiosity and develop skills in communication, co-ordination and social interaction.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//SeeSaw_Orleans_House_Flyer_20150903.jpgjpg.jpg" title="See larger version of - SeeSaw Orleans House Flyer 20150903jpg"><img src="http://www.stmgrts.org.uk/images//SeeSaw_Orleans_House_Flyer_20150903_thumb.jpgjpg" width="250" height="353" alt="SeeSaw Orleans House Flyer 20150903jpg" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/SeeSaw_Orleans_House_Flyer_20150903.jpgjpg.jpg" title="See larger version of - SeeSaw Orleans House Flyer 20150903jpg"><img src="//stmgrts.org.uk/assets/images/2015/SeeSaw_Orleans_House_Flyer_20150903_thumb.jpgjpg" width="250" height="353" alt="SeeSaw Orleans House Flyer 20150903jpg" class="photo right" /></a>
 
 Weekly drop-in sessions for babies and children under-five and their carers.
 See Saw allows children to learn, play and explore in our multi-sensory sessions designed to encourage creativity, curiosity and develop skills in communication, co-ordination and social interaction.
@@ -28,8 +28,3 @@ h4. More Information
 * Cost - &pound;6 per (first) child and &pound;3 for siblings over 6 months of age.
 * SeeSaw takes place every week during term time and school holidays.
 * Check out the Richmond Council Arts Service website for more information: "www.richmond.gov.uk":http://www.richmond.gov.uk /arts
-
-
-
-
-

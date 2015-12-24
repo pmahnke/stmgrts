@@ -5,7 +5,7 @@ permalink: /archives/2014/10/event_reminder_speak_up_for_kew_22_october_2014.htm
 category: around_town
 date: 2014-10-17 11:52:14
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Kew-Gardens-public-leaflet.png" title="See larger version of - Kew Gardens public leaflet"><img src="http://www.stmgrts.org.uk/images//Kew-Gardens-public-leaflet_thumb.png" width="150" height="217" alt="Kew Gardens public leaflet" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Kew-Gardens-public-leaflet.png" title="See larger version of - Kew Gardens public leaflet"><img src="//stmgrts.org.uk/assets/images/2014/Kew-Gardens-public-leaflet_thumb.png" width="150" height="217" alt="Kew Gardens public leaflet" class="photo right" /></a>
     
     <em>Please come to a public meeting to hear about the impact of budget and staffing cuts on the service that Kew provides on "Wednesday, 22 October 2014 from 7.00pm to 8.45pm":http://www.stmgrts.org.uk/event/meeting/200705144722.</em>
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Kew-Gardens-public-leaflet.png" title="See larger version of - Kew Gardens public leaflet"><img src="http://www.stmgrts.org.uk/images//Kew-Gardens-public-leaflet_thumb.png" width="250" height="363" alt="Kew Gardens public leaflet" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Kew-Gardens-public-leaflet.png" title="See larger version of - Kew Gardens public leaflet"><img src="//stmgrts.org.uk/assets/images/2014/Kew-Gardens-public-leaflet_thumb.png" width="250" height="363" alt="Kew Gardens public leaflet" class="photo right" /></a>
 
 <em>Please come to a public meeting to hear about the impact of budget and staffing cuts on the service that Kew provides on "Wednesday, 22 October 2014 from 7.00pm to 8.45pm":http://www.stmgrts.org.uk/event/meeting/200705144722.</em>
 
@@ -42,7 +42,3 @@ h4. More Information
 * Contact Cathy Cross at "cathyc@pcs.org.uk":mailto:cathyc@pcs.org.uk or on 0778 812 8395 for more information.
 
 _Kew is a national asset of international significance. We need your support to secure Kew's future in order to secure a better future for all of us._
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2011/04/local_deal_st_georges_day_game.html
 category: around_town
 date: 2011-04-11 09:26:32
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//RFU_st-george.jpg" title="See larger version of - RFU Poster"><img src="http://www.stmgrts.org.uk/images//RFU_st-george_thumb.jpg" width="150" height="211" alt="RFU Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/RFU_st-george.jpg" title="See larger version of - RFU Poster"><img src="//stmgrts.org.uk/assets/images/2011/RFU_st-george_thumb.jpg" width="150" height="211" alt="RFU Poster" class="photo right" /></a>
     
     p=. Saturday 23 April - Twickenham Stadium
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//RFU_st-george.jpg" title="See larger version of - RFU Poster"><img src="http://www.stmgrts.org.uk/images//RFU_st-george_thumb.jpg" width="150" height="211" alt="RFU Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/RFU_st-george.jpg" title="See larger version of - RFU Poster"><img src="//stmgrts.org.uk/assets/images/2011/RFU_st-george_thumb.jpg" width="150" height="211" alt="RFU Poster" class="photo right" /></a>
 
 p=. Saturday 23 April - Twickenham Stadium
 
@@ -36,24 +36,3 @@ h4. Details
 * Ticket prices are &pound;45 (Category 1), &pound;25 (Category 2) and &pound;15 (Category 3) with concessions from just &pound;8 by calling the Wasps ticket office on 0844 225 2990.
 * Local Twickenham residents are being offered a special 2 for 1 ticket offer for Category 1 and 2 tickets.
 * Just quote your name, address, post code and the reference "Twickenham" to qualify.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-04-11-local_deal_st_georges_day_game in site.data.2011-04-11-local_deal_st_georges_day_game %}
-       <li>
-
-         {{ 2011-04-11-local_deal_st_georges_day_game.comment }}
-
-         <cite>{{ 2011-04-11-local_deal_st_georges_day_game.author }} on {{ 2011-04-11-local_deal_st_georges_day_game.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

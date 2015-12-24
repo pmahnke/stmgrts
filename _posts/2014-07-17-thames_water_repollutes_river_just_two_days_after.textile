@@ -39,22 +39,3 @@ In addition, further camera surveys and sewer cleans are being carried out to he
 <cite>-- from "cranevalley.org.uk":http://www.cranevalley.org.uk/news/post/pollution-incident-at-whitton-brook/</cite>
 
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-07-17-thames_water_repollutes_river_just_two_days_after in site.data.2014-07-17-thames_water_repollutes_river_just_two_days_after %}
-       <li>
-
-         {{ 2014-07-17-thames_water_repollutes_river_just_two_days_after.comment }}
-
-         <cite>{{ 2014-07-17-thames_water_repollutes_river_just_two_days_after.author }} on {{ 2014-07-17-thames_water_repollutes_river_just_two_days_after.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

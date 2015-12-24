@@ -18,24 +18,3 @@ Roisin Morris and Elle Goulden-White of Forgetmenot Flowers commented,
 bq. "We realised there was a gap in the market for a florist which catered specifically to a client's needs throughout the year.  Each bouquet is hand wrapped and tied with a label describing each flower and how best to maintain your flowers in perfect condition.  If you prefer, Forgetmenot Flowers can deliver the bouquets to different addresses within the delivery area, so you can please your wife, and the mother-in-law all in one go; no challenge is too great for Forgetmenot Flowers!"
 
 -- from a press release
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-11-18-new_local_business_forgetmenot_flowers in site.data.2009-11-18-new_local_business_forgetmenot_flowers %}
-       <li>
-
-         {{ 2009-11-18-new_local_business_forgetmenot_flowers.comment }}
-
-         <cite>{{ 2009-11-18-new_local_business_forgetmenot_flowers.author }} on {{ 2009-11-18-new_local_business_forgetmenot_flowers.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

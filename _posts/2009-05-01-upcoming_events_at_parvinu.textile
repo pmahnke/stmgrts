@@ -5,7 +5,7 @@ permalink: /archives/2009/05/upcoming_events_at_parvinu.html
 category: around_town
 date: 2009-05-01 15:39:54
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/glass-dish.jpg"><img src="http://www.stmgrts.org.uk/images/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/glass-dish.jpg"><img src="//stmgrts.org.uk/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/glass-dish.jpg"><img src="http://www.stmgrts.org.uk/images/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/glass-dish.jpg"><img src="//stmgrts.org.uk/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
 
 
 
@@ -35,9 +35,3 @@ Parvinu will also be open as usual, serving the best coffee, light breakfast pas
 h4. Wednesday Night Jazz
 
 Please "check out our May line up for live jazz on Wednesday Nights":http://www.stmgrts.org.uk/directory/restaurant/200809111151. We have quickly established ourselves as one of the best local spots to offer live jazz, specializing in bluesy, soul, bossa and lounge sounds which perfectly compliment the laid back surroundings at Parvinu. We make sure that we feature locally based performers and given the huge amount of talent living and working in the area we are never short of acts! 
-
-
-
-
-
-

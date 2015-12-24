@@ -5,7 +5,7 @@ permalink: /archives/2014/07/event_reminder_st_margarets_fair_12_july_2014.html
 category: around_town
 date: 2014-07-10 23:03:44
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="http://www.stmgrts.org.uk/images//StMF-ad-comingsoon-2014_thumb.jpg" width="150" height="214" alt="St Margarets Fair coming soon 2014" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="//stmgrts.org.uk/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="150" height="214" alt="St Margarets Fair coming soon 2014" class="photo right" /></a>
     
     Don't miss the "highlight of the summer":http://www.stmgrts.org.uk/event/fair/200705144148.
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="http://www.stmgrts.org.uk/images//StMF-ad-comingsoon-2014_thumb.jpg" width="250" height="356" alt="St Margarets Fair comingsoon 2014" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="//stmgrts.org.uk/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="250" height="356" alt="St Margarets Fair comingsoon 2014" class="photo right" /></a>
 
 Don't miss the "highlight of the summer":http://www.stmgrts.org.uk/event/fair/200705144148.
 
@@ -68,6 +68,3 @@ h4. Schedule of events
 |16:45-17:15|Marble Hill Dance Studios|Display arena|
 |17.20-18.00|Nark Drool & The Shudders|Music stage|
 |18.30-19.30/45|The Deputies|Music stage|
-
-
-

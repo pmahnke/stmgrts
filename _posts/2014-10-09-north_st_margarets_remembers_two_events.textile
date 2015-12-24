@@ -5,7 +5,7 @@ permalink: /archives/2014/10/north_st_margarets_remembers_two_events.html
 category: around_town
 date: 2014-10-09 22:49:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//NSMREMEBERS_Lord_Kitchener.jpg" title="See larger version of - Lord Kitchener"><img src="http://www.stmgrts.org.uk/images//NSMREMEBERS_Lord_Kitchener_thumb.jpg" width="150" height="204" alt="Lord Kitchener" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Lord_Kitchener.jpg" title="See larger version of - Lord Kitchener"><img src="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Lord_Kitchener_thumb.jpg" width="150" height="204" alt="Lord Kitchener" class="photo right" /></a>
     
     _Two local events in St Margarets commemorating the 1<sup>st</sup> World War_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//NSMREMEBERS_Lord_Kitchener.jpg" title="See larger version of - Lord Kitchener"><img src="http://www.stmgrts.org.uk/images//NSMREMEBERS_Lord_Kitchener_thumb.jpg" width="250" height="341" alt="Lord Kitchener" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Lord_Kitchener.jpg" title="See larger version of - Lord Kitchener"><img src="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Lord_Kitchener_thumb.jpg" width="250" height="341" alt="Lord Kitchener" class="photo right" /></a>
 
 _Two local events in St Margarets commemorating the 1<sup>st</sup> World War_
 
@@ -26,7 +26,7 @@ That research has evolved into two forthcoming events commemorating the Great Wa
 
 h4. THE WAR WALK
 
-<a href="http://www.stmgrts.org.uk/images//NSMREMEBERS_Percy_Davies_-_soldier.jpg" title="See larger version of - Percy Davies   soldier"><img src="http://www.stmgrts.org.uk/images//NSMREMEBERS_Percy_Davies_-_soldier_thumb.jpg" width="250" height="562" alt="Percy Davies   soldier" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Percy_Davies_-_soldier.jpg" title="See larger version of - Percy Davies   soldier"><img src="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Percy_Davies_-_soldier_thumb.jpg" width="250" height="562" alt="Percy Davies   soldier" class="photo right" /></a>
 
 <em>"11.00am Saturday - 25 October 2014":http://www.stmgrts.org.uk/event/event/200705144673</em>
 
@@ -41,7 +41,7 @@ h4. More Information
 
 h4. AN AFTERNOON OF POETRY AND SONG
 
-<a href="http://www.stmgrts.org.uk/images//NSMREMEBERS_Exhausted_soldiers..jpg" title="See larger version of - Exhausted soldiers."><img src="http://www.stmgrts.org.uk/images//NSMREMEBERS_Exhausted_soldiers_thumb." width="250" height="166" alt="Exhausted soldiers." class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Exhausted_soldiers..jpg" title="See larger version of - Exhausted soldiers."><img src="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_Exhausted_soldiers_thumb." width="250" height="166" alt="Exhausted soldiers." class="photo right" /></a>
 
 <em>"3.00pm Sunday 14 December 2014":http://www.stmgrts.org.uk/event/event/200705144672</em>
 
@@ -53,7 +53,7 @@ There will be reports on the War's progress and 'news from the front', contempor
 
 We are delighted that local, celebrity actors Stella Gonet and David Firth will be telling the story through poetry and narration. The entire event will be enhanced by a specially commissioned on-screen pictorial presentation of photographs, postcards and posters from the time. A first class sound reinforcement system will make sure that you will clearly hear the proceedings from wherever you are seated in the Church.
 
-<a href="http://www.stmgrts.org.uk/images//NSMREMEBERS_World_War_1_Poster_C.jpg" title="See larger version of - World War 1 Poster C"><img src="http://www.stmgrts.org.uk/images//NSMREMEBERS_World_War_1_Poster_C_thumb.jpg" width="250" height="385" alt="World War 1 Poster C" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_World_War_1_Poster_C.jpg" title="See larger version of - World War 1 Poster C"><img src="//stmgrts.org.uk/assets/images/2014/NSMREMEBERS_World_War_1_Poster_C_thumb.jpg" width="250" height="385" alt="World War 1 Poster C" class="photo right" /></a>
 
 We will be offering complimentary tea and cake to all attending and guests are encouraged to bring along their own choice of refreshments to supplement what will be on offer. Edwardian dress is strictly optional.
 
@@ -71,7 +71,3 @@ h4. More Information
 * For more information please call John Denby on 07860 594620
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

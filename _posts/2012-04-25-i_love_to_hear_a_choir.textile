@@ -5,7 +5,7 @@ permalink: /archives/2012/04/i_love_to_hear_a_choir.html
 category: around_town
 date: 2012-04-25 19:56:35
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//choir_GRAPHIC.jpg" title="See larger version of - choir"><img src="http://www.stmgrts.org.uk/images//choir_GRAPHIC_thumb.jpg" width="150" height="76" alt="choir" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/choir_GRAPHIC.jpg" title="See larger version of - choir"><img src="//stmgrts.org.uk/assets/images/2012/choir_GRAPHIC_thumb.jpg" width="150" height="76" alt="choir" class="right" /></a>
     
     bq. "I love to hear a choir. I love to see the faces of real people devoting themselves to a piece of music. I like the teamwork. It makes me feel optimistic about the human race!"
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//choir_GRAPHIC.jpg" title="See larger version of - choir"><img src="http://www.stmgrts.org.uk/images//choir_GRAPHIC_thumb.jpg" width="150" height="76" alt="choir" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/choir_GRAPHIC.jpg" title="See larger version of - choir"><img src="//stmgrts.org.uk/assets/images/2012/choir_GRAPHIC_thumb.jpg" width="150" height="76" alt="choir" class="right" /></a>
 
 bq. "I love to hear a choir. I love to see the faces of real people devoting themselves to a piece of music. I like the teamwork. It makes me feel optimistic about the human race!"
 
@@ -30,9 +30,3 @@ The cost is &pound;10 per session, but discounts are available. Please phone Sur
 
 bq. "Come lift your voices and sing as one.
 Let's raise the roof - and have some fun!"
-
-
-
-
-
-

@@ -5,13 +5,13 @@ permalink: /archives/2014/02/event_reminder_richmond_and_twickenham_photographi.
 category: around_town
 date: 2014-02-21 11:54:11
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//rich_twick_photo_annual_2014.png" title="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society"><img src="http://www.stmgrts.org.uk/images//rich_twick_photo_annual_2014_thumb.png" width="150" height="97" alt="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/rich_twick_photo_annual_2014.png" title="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society"><img src="//stmgrts.org.uk/assets/images/2014/rich_twick_photo_annual_2014_thumb.png" width="150" height="97" alt="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
     
     The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 9th to 21st April 2014.":http://www.stmgrts.org.uk/event/event/200705144361
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//rich_twick_photo_annual_2014.png" title="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society"><img src="http://www.stmgrts.org.uk/images//rich_twick_photo_annual_2014_thumb.png" width="150" height="97" alt="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/rich_twick_photo_annual_2014.png" title="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society"><img src="//stmgrts.org.uk/assets/images/2014/rich_twick_photo_annual_2014_thumb.png" width="150" height="97" alt="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
 
 The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 9th to 21st April 2014.":http://www.stmgrts.org.uk/event/event/200705144361
 
@@ -26,7 +26,3 @@ h4. More Information
 * 020 8977 7558
 * http://landmarkartscentre.org/ or www.rtps.org.uk
 * For further information please email: rtpspublicity@hotmail.co.uk
-
-
-
-

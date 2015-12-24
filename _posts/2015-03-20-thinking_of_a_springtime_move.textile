@@ -7,7 +7,7 @@ date: 2015-03-20 09:08:12
 
 ---
 
-<img alt="age uk logo" src="http://www.ageuk.org.uk/BrandPartnerGlobal/richmonduponthamesVPP/Images/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" width="150"  class="right" />
+<img alt="age uk logo" src="//stmgrts.org.uk/assets/images/2015/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" width="150"  class="right" />
 
 At long last, spring is in the air!  It's that time of year we think about giving our home a good old spring clean - out with the old and in with the new. It's also the most popular season to buy or sell property, with flowers in bloom and lighter evenings.
 
@@ -16,9 +16,3 @@ If you are thinking of moving to a smaller or more manageable property, sheltere
 Interested? Please&nbsp;call&nbsp;0845 600 1090 for more information or visit "www.ageukrichmond.org.uk":http://www.ageukrichmond.org.uk
 
 _Working in partnership with Seamless Relocation._
-
-
-
-
-
-

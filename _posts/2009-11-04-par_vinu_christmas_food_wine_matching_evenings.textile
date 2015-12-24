@@ -5,7 +5,7 @@ permalink: /archives/2009/11/par_vinu_christmas_food_wine_matching_evenings.html
 category: around_town
 date: 2009-11-04 18:10:05
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/CHRISTMASF&W-tasting-promov3-1.jpg"><img src="http://www.stmgrts.org.uk/images/CHRISTMASF&W-tasting-promov3-1-thumb.jpg" width="102" height="150" alt="flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/CHRISTMASF&W-tasting-promov3-1.jpg"><img src="//stmgrts.org.uk/assets/images/2009/CHRISTMASF&W-tasting-promov3-1-thumb.jpg" width="102" height="150" alt="flyer" class="photo right" /></a>
     
     
     Treat yourself to an early Christmas Present this year with an evening designed to give you the confidence to match food styles with wines!
@@ -14,19 +14,19 @@ excerpt: |
     
     _Join us on either Monday 23<sup>rd</sup> November & Monday 7<sup>th</sup> December_
     
-    <a href="http://www.stmgrts.org.uk/images/CHRISTMASF%26W%20tasting%20promov3.pdf">Download flyer [PDF]</a>
+    <a href="//stmgrts.org.uk/assets/images/2009/CHRISTMASF%26W%20tasting%20promov3.pdf">Download flyer [PDF]</a>
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/CHRISTMASF&W-tasting-promov3-1.jpg"><img src="http://www.stmgrts.org.uk/images/CHRISTMASF&W-tasting-promov3-1-thumb.jpg" width="102" height="150" alt="flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/CHRISTMASF&W-tasting-promov3-1.jpg"><img src="//stmgrts.org.uk/assets/images/2009/CHRISTMASF&W-tasting-promov3-1-thumb.jpg" width="102" height="150" alt="flyer" class="photo right" /></a>
 
 
 Treat yourself to an early Christmas Present this year with an evening designed to give you the confidence to match food styles with wines!
 
 We can help take the confusion out of the overwhelming choices you face over the Christmas period when entertaining your family and friends. With the help of our Wine Expert, Erica Dent and our own chefs, we have created a three-hour course that promises to be fun, educational and enlightening, with a generous helping of great wines and delicious food.
 
-<a href="http://www.stmgrts.org.uk/images/CHRISTMASF%26W%20tasting%20promov3.pdf">Download flyer [PDF]</a>
+<a href="//stmgrts.org.uk/assets/images/2009/CHRISTMASF%26W%20tasting%20promov3.pdf">Download flyer [PDF]</a>
 
 
 _Join us on either Monday 23<sup>rd</sup> November & Monday 7<sup>th</sup> December_
@@ -44,7 +44,3 @@ The Evenings Proceeding's
 Your chance to ask more questions &pound;60.00 per person inclusive.
 
 Each evening is limited to 24 people so please be sure to reserve your place early.
-
-
-
-

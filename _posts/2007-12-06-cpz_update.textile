@@ -25,21 +25,3 @@ The Council has now decided to convene another unpublicised meeting with invited
 It could be your road next!
 
 <cite>-- from Kim Thomas</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-12-06-cpz_update in site.data.2007-12-06-cpz_update %}
-       <li>
-
-         {{ 2007-12-06-cpz_update.comment }}
-
-         <cite>{{ 2007-12-06-cpz_update.author }} on {{ 2007-12-06-cpz_update.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2005-09-29 16:58:03
 
 ---
 
-<img alt="ParVinu Logo" src="http://www.stmgrts.org.uk/archives/ParVinu-logo-thumb.gif" width="150" height="69" class="img_right" />
+<img alt="ParVinu Logo" src="//stmgrts.org.uk/assets/images/2005/ParVinu-logo-thumb.gif" width="150" height="69" class="img_right" />
 
 _On the 27<sup>th</sup> September 2005, the three principals of "Grapespot Limited":http://www.grapespot.com sat down with the *St Margarets Community Website* to talk about their proposed wine bar, _Parvinu at Phelps_ and address some of the comments and concerns "voiced on this site":/archives/2005/09/application_for.html about the plan._
 
@@ -73,21 +73,3 @@ The web team hope that we have asked all the questions posted on the site and ra
 
 Should you have any further questions we would be pleased to contact Grapespot for the answers, or you can contact them directly through their site ("www.grapespot.com":http://www.grapespot.com/) or email them at "drink@grapespot.com":mailto:drink@grapespot.com.
 </em>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-29-interview_princ_1 in site.data.2005-09-29-interview_princ_1 %}
-       <li>
-
-         {{ 2005-09-29-interview_princ_1.comment }}
-
-         <cite>{{ 2005-09-29-interview_princ_1.author }} on {{ 2005-09-29-interview_princ_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

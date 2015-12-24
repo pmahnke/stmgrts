@@ -33,21 +33,3 @@ Yes, the teachers and children might find the wholesale swap a bit disorienting,
 I acknowledge there is a pupil placement crisis (not new, but a crisis nonetheless).  Finally, money is available to deal with it.  Let's not waste the opportunity to create a proper village school system covering the whole area, instead of drawing a thick line down Broadway Avenue, and sending out the border guards.
 
 <cite>-- from Nigel Cannings</cite> 
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-07-03-swap_our_schools in site.data.2009-07-03-swap_our_schools %}
-       <li>
-
-         {{ 2009-07-03-swap_our_schools.comment }}
-
-         <cite>{{ 2009-07-03-swap_our_schools.author }} on {{ 2009-07-03-swap_our_schools.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

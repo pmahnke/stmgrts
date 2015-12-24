@@ -5,14 +5,14 @@ permalink: /archives/2015/05/event_reminder_beep_beep_family_dropin_17_may_2015.
 category: around_town
 date: 2015-05-14 22:09:41
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//orleans-family_event_17May.jpg" title="See larger version of - orleans family event 17May"><img src="http://www.stmgrts.org.uk/images//orleans-family_event_17May_thumb.jpg" width="150" height="212" alt="orleans family event 17May" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/orleans-family_event_17May.jpg" title="See larger version of - orleans family event 17May"><img src="//stmgrts.org.uk/assets/images/2015/orleans-family_event_17May_thumb.jpg" width="150" height="212" alt="orleans family event 17May" class="photo right" /></a>
     
     Come and join artist Michelle Reader to make some transport inspired artwork and find out about our upcoming exhibition 'Beep Beep! Trains, Planes and Automobiles'.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//orleans-family_event_17May.jpg" title="See larger version of - orleans family event 17May"><img src="http://www.stmgrts.org.uk/images//orleans-family_event_17May_thumb.jpg" width="250" height="353" alt="orleans family event 17May" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/orleans-family_event_17May.jpg" title="See larger version of - orleans family event 17May"><img src="//stmgrts.org.uk/assets/images/2015/orleans-family_event_17May_thumb.jpg" width="250" height="353" alt="orleans family event 17May" class="photo right" /></a>
 
 Come and join artist Michelle Reader to make some transport inspired artwork and find out about our upcoming exhibition 'Beep Beep! Trains, Planes and Automobiles'.
 
@@ -26,8 +26,3 @@ h4. More Information
 * Drop-in any time
 * Suitable for children aged 4 upwards
 * Children must be accompanied by adults at all times
-
-
-
-
-

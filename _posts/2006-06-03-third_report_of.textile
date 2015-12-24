@@ -69,22 +69,3 @@ _There are three things to consider when preventing yourself from becoming a vic
 
 * Once you have completed a transaction, discreetly put your money and your card away before leaving the cash machine. 
 * Dispose of your cash machine receipt, mini-statement or balance enquiry with care. Tear up or, preferably, shred these items before you discard them.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-03-third_report_of in site.data.2006-06-03-third_report_of %}
-       <li>
-
-         {{ 2006-06-03-third_report_of.comment }}
-
-         <cite>{{ 2006-06-03-third_report_of.author }} on {{ 2006-06-03-third_report_of.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

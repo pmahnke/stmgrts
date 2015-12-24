@@ -74,21 +74,3 @@ There was a brief discussion on a changing wall on Kilmorey Road.  It appears pl
 h3. Wrap Up
 
 The meeting was running well past 10pm, so a few general questions were allowed.  The most interesting was that the councillors were questioned if they _supported_ the decision for the expanded Tesco loading bay.  Annie Hambidge said, "no, absolutely not."  Simon Lamb was pressed to give an answer and eventually said that he supported the extension and made the note that "at least Tesco is paying for it."
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-11-02-notes_from_the in site.data.2005-11-02-notes_from_the %}
-       <li>
-
-         {{ 2005-11-02-notes_from_the.comment }}
-
-         <cite>{{ 2005-11-02-notes_from_the.author }} on {{ 2005-11-02-notes_from_the.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

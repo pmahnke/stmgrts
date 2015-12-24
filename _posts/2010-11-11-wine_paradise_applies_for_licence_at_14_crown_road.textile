@@ -28,24 +28,3 @@ date: 2010-11-11 20:57:55
 <li><a href="http://stmgrts.org.uk/l/nBUko">Richmond Council page for licensing</a></li> 
 <li><a href="http://stmgrts.org.uk/l/PROpI">Richmond Council New and variation premises licence applications</a> [pdf]</li> 
 </ul> 
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-11-11-wine_paradise_applies_for_licence_at_14_crown_road in site.data.2010-11-11-wine_paradise_applies_for_licence_at_14_crown_road %}
-       <li>
-
-         {{ 2010-11-11-wine_paradise_applies_for_licence_at_14_crown_road.comment }}
-
-         <cite>{{ 2010-11-11-wine_paradise_applies_for_licence_at_14_crown_road.author }} on {{ 2010-11-11-wine_paradise_applies_for_licence_at_14_crown_road.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

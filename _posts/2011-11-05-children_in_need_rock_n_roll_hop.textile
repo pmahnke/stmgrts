@@ -7,7 +7,7 @@ date: 2011-11-05 13:04:27
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//pudsey_guitar_270.jpg" title="See larger version of - pudsey guitar 270"><img src="http://www.stmgrts.org.uk/images//pudsey_guitar_270_thumb.jpg" width="150" height="91" alt="pudsey guitar 270" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/pudsey_guitar_270.jpg" title="See larger version of - pudsey guitar 270"><img src="//stmgrts.org.uk/assets/images/2011/pudsey_guitar_270_thumb.jpg" width="150" height="91" alt="pudsey guitar 270" class="photo right" /></a>
 
 bq. "I wanna be your Teddy Bear!"
 
@@ -21,7 +21,7 @@ This year St Margarets very own 1950 style rock 'n' roll band, 'Nark Drool and t
 Thursday 17<sup>th</sup> November from 7.30 - 11.30pm.
 
 
-<a href="http://www.stmgrts.org.uk/images//NarkDrool_poster.jpg" title="See larger version of - NarkDrool poster"><img src="http://www.stmgrts.org.uk/images//NarkDrool_poster_thumb.jpg" width="150" height="205" alt="NarkDrool poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/NarkDrool_poster.jpg" title="See larger version of - NarkDrool poster"><img src="//stmgrts.org.uk/assets/images/2011/NarkDrool_poster_thumb.jpg" width="150" height="205" alt="NarkDrool poster" class="photo right" /></a>
 
 It will be a night of all those rock 'n' roll favourites that got your granny grooving back in the days of Teddy Boys and Dungaree Dolls with spot prizes and personality competitions.  There will also be a licensed bar and a Pudsey Pantry serving up old style burgers, dogs and fries!
 
@@ -37,7 +37,3 @@ Twickenham TW1 3EQ
 </pre>
 
 _Places are limited, so don't delay!_
-
-
-
-

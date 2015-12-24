@@ -7,7 +7,7 @@ date: 2014-02-21 11:01:06
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//AGERICHMOND_PHS-Poster-Aug13-v2.jpg" title="See larger version of - PHS Poster Aug13 v2"><img src="http://www.stmgrts.org.uk/images//AGERICHMOND_PHS-Poster-Aug13-v2_thumb.jpg" width="150" height="208" alt="PHS Poster Aug13 v2" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/AGERICHMOND_PHS-Poster-Aug13-v2.jpg" title="See larger version of - PHS Poster Aug13 v2"><img src="//stmgrts.org.uk/assets/images/2014/AGERICHMOND_PHS-Poster-Aug13-v2_thumb.jpg" width="150" height="208" alt="PHS Poster Aug13 v2" class="photo right" /></a>
 
 At Age UK Richmond we work with 1,000's of older people every year. We have a wealth of in-house specialisms and are the experts in understanding our client's needs. For example, we know that a percentage of people face extreme difficulties in looking after their home, going out to the shops, having someone to talk to or indeed having someone to accompany them on visits to meet up with an old friend.
 
@@ -33,6 +33,3 @@ h4. We need reliable Housekeeping staff
 To help us to fulfil our vision of this much needed service we require reliable, trustworthy, hard working and exceptional Housekeepers. Recruiting the right person for this role is key to the success of the new service. We will only consider applicants who address all the points in the person specification.
 
 * "Download more detailed job description":/images/AGERICHMOND_HOUSEKEEPERS_JD_AND_PS.pdf  [pdf]
-
-
-

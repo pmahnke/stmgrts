@@ -5,14 +5,14 @@ permalink: /archives/2009/10/event_reminder_area_consultation_meeting_and_polic.
 category: around_town
 date: 2009-10-02 09:56:12
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="http://www.stmgrts.org.uk/images/events/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="//stmgrts.org.uk/assets/images/2009/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
     
     
     On Tuesday, 6 October, you are welcome to attend the "Joint Area Consultation Meeting (ACM) and Police Liaison Group (PLG) meeting":http://stmgrts.org.uk/event/meeting/200705142236 for St Margarets & North Twickenham.  The ACM starts at 7.30pm and the PLG follows at 8.30 pm. The meetings are held in York House, Richmond Road, Twickenham.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="http://www.stmgrts.org.uk/images/events/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="//stmgrts.org.uk/assets/images/2009/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
 
 
 On Tuesday, 6 October, you are welcome to attend the "Joint Area Consultation Meeting (ACM) and Police Liaison Group (PLG) meeting":http://stmgrts.org.uk/event/meeting/200705142236 for St Margarets & North Twickenham.  The ACM starts at 7.30pm and the PLG follows at 8.30 pm. The meetings are held in York House, Richmond Road, Twickenham.
@@ -30,9 +30,3 @@ This is an opportunity to meet your ward councillors; Geoff Acton, Ben Khosa and
 * "j.taylor@richmond.gov.uk":mailto:j.taylor@richmond.gov.uk or "stmargarets.northtwickenham.snt@met.police.uk":mailto:stmargarets.northtwickenham.snt@met.police.uk
 * 020 8891 7155 or 020 8721 2908
 * "www.met.police.uk/teams/richmond/stmargaretsandnorthtwickenham":http://www.met.police.uk/teams/richmond/stmargaretsandnorthtwickenham/index.php
-
-
-
-
-
-

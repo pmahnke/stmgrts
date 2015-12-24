@@ -17,29 +17,3 @@ Future projects already booked there will be moved to other venues, such as Pine
 The source, who asked to remain anonymous, said selling the studios to property developers was the "easiest option" for the current owners. 
 
 <cite>-- from the Richmond & Twickenham Times - "17 February 2012":http://www.richmondandtwickenhamtimes.co.uk/news/9538838.After_99_years_of_movie_magic__Twickenham_Film_Studios_put_up_for_sale/</cite>
-
-
-
-
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-02-18-twickenham_film_studios_put_up_for_sale in site.data.2012-02-18-twickenham_film_studios_put_up_for_sale %}
-       <li>
-
-         {{ 2012-02-18-twickenham_film_studios_put_up_for_sale.comment }}
-
-         <cite>{{ 2012-02-18-twickenham_film_studios_put_up_for_sale.author }} on {{ 2012-02-18-twickenham_film_studios_put_up_for_sale.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

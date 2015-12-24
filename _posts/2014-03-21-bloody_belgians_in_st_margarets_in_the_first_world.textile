@@ -5,7 +5,7 @@ permalink: /archives/2014/03/bloody_belgians_in_st_margarets_in_the_first_world.
 category: around_town
 date: 2014-03-21 23:16:37
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//BELGIAN_Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="http://www.stmgrts.org.uk/images//BELGIAN_Pelabon-Works_thumb.png" width="150" height="94" alt="&copy;  Postcards Then and Now" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/BELGIAN_Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="//stmgrts.org.uk/assets/images/2014/BELGIAN_Pelabon-Works_thumb.png" width="150" height="94" alt="&copy;  Postcards Then and Now" class="photo right" /></a>
     
     
     News about the First World War Belgian refugees across the border in East Twickenham has now hit the headlines, but the story of the refugees in St Margarets is still to be told. If East Twickenham was the hub of the Belgian community, then St Margarets and adjacent parts of Central Twickenham were its perimeter.
@@ -13,7 +13,7 @@ excerpt: |
 ---
 
 <div class="img_caption right">
-<a href="http://www.stmgrts.org.uk/images//BELGIAN_Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="http://www.stmgrts.org.uk/images//BELGIAN_Pelabon-Works_thumb.png" width="150" height="94" alt="&copy;  Postcards Then and Now" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/BELGIAN_Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="//stmgrts.org.uk/assets/images/2014/BELGIAN_Pelabon-Works_thumb.png" width="150" height="94" alt="&copy;  Postcards Then and Now" class="photo right" /></a>
 <span>Building Pelabon Workshop No. 4: the building which later became Richmond Ice Rink. 1914-15 &copy;  "Postcards Then and Now":http://postcardsthenandnow.blogspot.com/2011/04/twickenham-middlesex-pelabon-works-1914.html</span>
 </div>
 
@@ -22,7 +22,7 @@ News about the First World War Belgian refugees across the border in East Twicke
 If you don't yet know the background, East Twickenham became the centre of a community of 6000 First World War Belgians after a huge Munitions Works was set up by Monsieur Charles Pelabon. This started in a disused roller-skating rink in Cambridge Road and then expanded to cover the whole of the area which is now the Richmond Bridge Estates development. Another of Pelabon's buildings later became the famous Richmond Ice Rink, which was demolished to make way for these luxury flats.
 
 
-|<a href="http://www.stmgrts.org.uk/images//BELGIAN_shops-2.png" title="See larger version of - BELGIAN shops 2"><img src="http://www.stmgrts.org.uk/images//BELGIAN_shops-2_thumb.png" width="150" height="92" alt="BELGIAN shops 2" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//BELGIAN_shops-1.png" title="See larger version of - Belgian shops 1"><img src="http://www.stmgrts.org.uk/images//BELGIAN_shops-1_thumb.png" width="150" height="86" alt="Belgian shops 1" class="photo " /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2014/BELGIAN_shops-2.png" title="See larger version of - BELGIAN shops 2"><img src="//stmgrts.org.uk/assets/images/2014/BELGIAN_shops-2_thumb.png" width="150" height="92" alt="BELGIAN shops 2" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//BELGIAN_shops-1.png" title="See larger version of - Belgian shops 1"><img src="http://www.stmgrts.org.uk/images//BELGIAN_shops-1_thumb.png" width="150" height="86" alt="Belgian shops 1" class="photo " /></a>|
 
 <em>Rows of Belgian shops in Richmond Road, East Twickenham - From "Bloody Belgians!" by Simon Fowler &  Keith Gregson,  Ancestors  No 33, May 2005, p.46</em>
 
@@ -31,7 +31,7 @@ The Pelabon Works employed nearly 2000 men and women, almost all of whom were Be
 Monsieur Pelabon was altogether dynamic, and he was producing munitions on the site as early as January 1915. However neither the factory not the Belgian community reached their peak instantly. At first only the original building was in use; the workforce would have been relatively small and could have been more easily contained in East Twickenham. Over time, though, Pelabon increased his production with at least four more newly-built workshops, and his need for a workforce grew in tandem. At this point he probably joined all the other munitions factories across the country in recruiting from the thousands of Belgians living in refugee camps in Holland.
 
 <div class="img_caption center">
-<a href="http://www.stmgrts.org.uk/images//BELGIAN_workers-at-Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="http://www.stmgrts.org.uk/images//BELGIAN_workers-at-Pelabon-Works_thumb.png" width="500" height="314" alt="&copy;  Postcards Then and Now" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/BELGIAN_workers-at-Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="//stmgrts.org.uk/assets/images/2014/BELGIAN_workers-at-Pelabon-Works_thumb.png" width="500" height="314" alt="&copy;  Postcards Then and Now" class="photo center" /></a>
 <span>A group of Belgian women workers at the Pelabon Works, with their Managers and male colleagues &copy;  "Postcards Then and Now":http://postcardsthenandnow.blogspot.com/2011/04/twickenham-middlesex-pelabon-works-1914.html
 </span>
 </div>
@@ -43,7 +43,7 @@ A reminiscence diary written years later by Minnie Cowley, who lived in Moor Mea
 
 Another local diarist speaks of empty shops being taken over by Belgian shopkeepers, but we don't know whether these were also in St Margarets as well as in East Twickenham. The East Twickenham shops were within reasonable walking distance, especially for Belgians employed at the Works, and the concentrated trade outside the factory may well have been more attractive for the Belgian shopkeepers.
 
-<div class="img_caption center"><a href="http://www.stmgrts.org.uk/images//BELGIAN_Orleans-Council_School.png" title="See larger version of - BELGIAN Orleans Council School"><img src="http://www.stmgrts.org.uk/images//BELGIAN_Orleans-Council_School_thumb.png" width="500" height="367" alt="&copy; London Borough of Richmond upon Thames" class="photo center" /></a><span>Credit - Richmond-upon-Thames Local Studies Collection</span></div>
+<div class="img_caption center"><a href="//stmgrts.org.uk/assets/images/2014/BELGIAN_Orleans-Council_School.png" title="See larger version of - BELGIAN Orleans Council School"><img src="//stmgrts.org.uk/assets/images/2014/BELGIAN_Orleans-Council_School_thumb.png" width="500" height="367" alt="&copy; London Borough of Richmond upon Thames" class="photo center" /></a><span>Credit - Richmond-upon-Thames Local Studies Collection</span></div>
 
 <em>The Orleans Council School buildings (centre of photograph) which housed the 1WW "Belgian Department", taken in 1931. The original Orleans building was the one-storey Infants School in Hartington Road, built in 1912; this continued as Orleans Infants School Through the twentieth century and is now the front building of the enlarged Orleans Primary School. The two-storey building next to it, reached from Napoleon Road, was built in early 1915 for the secondary section of the school. The railway line on the other side of Amyand Park Road can be seen at the top of the picture.</em>
 
@@ -59,7 +59,3 @@ East Twickenham Village are planning to commemorate the Belgian Community in 191
 <cite>Helen Baker and Val Coltman - 15 March 2014</cite>
 
 <em>Notes: </em>
-
-
-
-

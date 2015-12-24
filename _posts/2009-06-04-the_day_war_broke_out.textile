@@ -5,7 +5,7 @@ permalink: /archives/2009/06/the_day_war_broke_out.html
 category: around_town
 date: 2009-06-04 08:46:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/neville_chamberlain.png"><img src="http://www.stmgrts.org.uk/images/neville_chamberlain-thumb.png" width="108" height="150" alt="Neville Chamberlain" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/neville_chamberlain.png"><img src="//stmgrts.org.uk/assets/images/2009/neville_chamberlain-thumb.png" width="108" height="150" alt="Neville Chamberlain" class="photo right" /></a>
     
     
     Just before 11.00am on the morning of Sunday 3rd September 1939 the people of Britain gathered around their wireless sets to listen to a very important announcement from the Prime Minister, Neville Chamberlain. Gardeners put down their tools and came indoors. Golfers cut short their game and returned to the clubhouse. Ministers brought radios into their churches or made arrangements for the news to be read out the moment it was received. It came at 11.15...
@@ -25,7 +25,7 @@ I said," I'll do something!..."
 p. Just before 11.00am on the morning of Sunday 3<sup>rd</sup> September 1939 the people of Britain gathered around their wireless sets to listen to a very important announcement from the Prime Minister, Neville Chamberlain. Gardeners put down their tools and came indoors. Golfers cut short their game and returned to the clubhouse. Ministers brought radios into their churches or made arrangements for the news to be read out the moment it was received. It came at 11.15...
 
 
-<a href="http://www.stmgrts.org.uk/images/neville_chamberlain.png"><img src="http://www.stmgrts.org.uk/images/neville_chamberlain-thumb.png" width="108" height="150" alt="Neville Chamberlain" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/neville_chamberlain.png"><img src="//stmgrts.org.uk/assets/images/2009/neville_chamberlain-thumb.png" width="108" height="150" alt="Neville Chamberlain" class="photo right" /></a>
 
 
 <a href="http://www.stmgrts.org.uk/images/Chamberlain.mp3" title="Neville Chamberlain radio broadcast" >Neville Chamberlain's radio broadcast</a>
@@ -45,7 +45,7 @@ He was right about the war but wrong about the 'black-out' materials. On the day
 
 Public air-raid shelters had already been dug all over the area - on Twickenham Green, York House, Richmond Green and even in the middle of the St Margarets roundabout! In Kingston, Bentalls were encouraging 'Do It Yourself' shelter builders to buy their "Pick Axes with hickory handles" 3/9d (= 19p) or "Best Cast Steel Shovels" for 3/6d (= 18p). For the more cautious they also had Fire Extinguishers for 5/6d (= 28p). The brand new Regal cinema in Twickenham was anticipating trouble as well. It advertised that it would open on September 25<sup>th</sup> - 'war permitting'.
 
-<a href="http://www.stmgrts.org.uk/images/ve_cele_richmond.png"><img src="http://www.stmgrts.org.uk/images/ve_cele_richmond-thumb.png" width="150" height="99" alt="VE Day Celebrations in Richmond" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/ve_cele_richmond.png"><img src="//stmgrts.org.uk/assets/images/2009/ve_cele_richmond-thumb.png" width="150" height="99" alt="VE Day Celebrations in Richmond" class="photo right" /></a>
 
 
 
@@ -69,7 +69,7 @@ Appeals were made for volunteers of all kinds - to fill sandbags, to tow ambulan
 
 In the first 5 days of war there were 3 air raid warnings in the district - but they all proved to be false alarms. There were no bombs, no guns, no searchlights. Having geared themselves up for a heroic struggle some people were disappointed that the fighting hadn't started. Britain slipped into a long period of 'Phoney War' that didn't end until the Fall of France and the Dunkirk Evacuation in May 1940.
 
-<a href="http://www.stmgrts.org.uk/images/ve_parade_hampton.png"><img src="http://www.stmgrts.org.uk/images/ve_parade_hampton-thumb.png" width="109" height="150" alt="VE Day Parade in Hampton" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/ve_parade_hampton.png"><img src="//stmgrts.org.uk/assets/images/2009/ve_parade_hampton-thumb.png" width="109" height="150" alt="VE Day Parade in Hampton" class="photo right" /></a>
 
 
 
@@ -103,7 +103,3 @@ bq. "Japan with all its treachery and greed remains unsubdued"
 The editorial in the 'Richmond and Twickenham Times' summed it up neatly... "a big cloud has lifted, but we are still at war!"  And so we were.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

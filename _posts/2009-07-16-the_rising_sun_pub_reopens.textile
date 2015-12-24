@@ -12,23 +12,3 @@ This pub has reopened as the "Rising Sun/Marble Hill":http://www.stmgrts.org.uk/
 Residents, including children, are invited to a drinks evening at 6 pm on Sunday July 26. RSVP to: "marblehillpub@yahoo.co.uk":mailto:marblehillpub@yahoo.co.uk or just turn up. They say that 'this drinks evening will be a great opportunity to voice any previous concerns and how can work closely together into the future'.
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-07-16-the_rising_sun_pub_reopens in site.data.2009-07-16-the_rising_sun_pub_reopens %}
-       <li>
-
-         {{ 2009-07-16-the_rising_sun_pub_reopens.comment }}
-
-         <cite>{{ 2009-07-16-the_rising_sun_pub_reopens.author }} on {{ 2009-07-16-the_rising_sun_pub_reopens.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

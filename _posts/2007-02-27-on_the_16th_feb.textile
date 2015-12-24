@@ -17,24 +17,4 @@ The refusal was for five planning reasons:
 # no groundwater and pollution protection plan
 # no local wildlife impact assessment
 
-For all the details, read the Committee's letter <a href="http://www.stmgrts.org.uk/refused_car_wash.pdf">here (PDF)</a>.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-02-27-on_the_16th_feb in site.data.2007-02-27-on_the_16th_feb %}
-       <li>
-
-         {{ 2007-02-27-on_the_16th_feb.comment }}
-
-         <cite>{{ 2007-02-27-on_the_16th_feb.author }} on {{ 2007-02-27-on_the_16th_feb.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-
+For all the details, read the Committee's letter <a href="//stmgrts.org.uk/assets/images/2007/refused_car_wash.pdf">here (PDF)</a>.

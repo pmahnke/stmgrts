@@ -5,7 +5,7 @@ permalink: /archives/2015/02/visit_orleans_house_gallerys_exhibit_rudi_patterso.
 category: around_town
 date: 2015-02-05 08:17:27
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//oreleans_Rudi_poster.jpg" title="See larger version of - oreleans Rudi poster"><img src="http://www.stmgrts.org.uk/images//oreleans_Rudi_poster_thumb.jpg" width="150" height="208" alt="oreleans Rudi poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/oreleans_Rudi_poster.jpg" title="See larger version of - oreleans Rudi poster"><img src="//stmgrts.org.uk/assets/images/2015/oreleans_Rudi_poster_thumb.jpg" width="150" height="208" alt="oreleans Rudi poster" class="photo right" /></a>
     
     Orleans House Gallery presents the biggest ever retrospective of one of the UK's leading black artists, Jamaican born Rudi Patterson (1933-2013).
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//oreleans_Rudi_poster.jpg" title="See larger version of - oreleans Rudi poster"><img src="http://www.stmgrts.org.uk/images//oreleans_Rudi_poster_thumb.jpg" width="250" height="346" alt="oreleans Rudi poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/oreleans_Rudi_poster.jpg" title="See larger version of - oreleans Rudi poster"><img src="//stmgrts.org.uk/assets/images/2015/oreleans_Rudi_poster_thumb.jpg" width="250" height="346" alt="oreleans Rudi poster" class="photo right" /></a>
 
 
 Orleans House Gallery presents the biggest ever retrospective of one of the UK's leading black artists, Jamaican born Rudi Patterson (1933-2013).
@@ -35,7 +35,3 @@ bq. "Rudi had an intensely powerful visual memory and sorting out the immense am
 Patterson's prolific output is testament to his tremendous creativity and interest in experimentation.  He was  self-taught  and  the exhibition contains dozens of  Patterson's landscapes and features works in gouache, watercolours and oils,  ceramics, papier mache , although sadly none of his hand painted T shirts -  as once  worn by Freddie Mercury.
 
 _Runs until 22 March 2015._
-
-
-
-

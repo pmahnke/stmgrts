@@ -49,21 +49,3 @@ h4. Option 2 Highlights
 bq. "These proposals would, in due course, be subject to the publication of statutory proposals and full consultation, to which parents and other local residents would be invited to respond, before any final decisions would be taken"
 
 ??Nick Whitfield, Directory of Children's Services and Culture??
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-02-25-richmond_councils_school_place_planning_update in site.data.2010-02-25-richmond_councils_school_place_planning_update %}
-       <li>
-
-         {{ 2010-02-25-richmond_councils_school_place_planning_update.comment }}
-
-         <cite>{{ 2010-02-25-richmond_councils_school_place_planning_update.author }} on {{ 2010-02-25-richmond_councils_school_place_planning_update.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

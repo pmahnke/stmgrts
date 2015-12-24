@@ -14,23 +14,3 @@ bq.. Dear Editor
 I note there is some confusion on the vouchers issue re:Yummy Mummy and Cocoon.  We understand from the previous owner Kerrie Dorman that she did sell a significant number of vouchers this year which still remain valid.  It is clear that as part of the sale of the business and associated liabilities Ms Dorman is fully expecting Cocoon Spa to honour all the vouchers.  For our part we feel that it is only fair to honour any vouchers redeemed after the closure of the business on Friday August 4th this year and so we have accounted for this in the context of taking on ongoing liabilities of Yummy Mummy.  It is important to stress that following the start up of Cocoon Spa we will only honour Yummy Mummy vouchers which have an expiry date post 4th August.
  
 In terms of anyone who does hold vouchers and is unclear of the situation please call Jane Franks at Cocoon Spa on <!--0208 891 0287--> +phone number removed+.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-02-cocoon_spa_and in site.data.2006-11-02-cocoon_spa_and %}
-       <li>
-
-         {{ 2006-11-02-cocoon_spa_and.comment }}
-
-         <cite>{{ 2006-11-02-cocoon_spa_and.author }} on {{ 2006-11-02-cocoon_spa_and.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

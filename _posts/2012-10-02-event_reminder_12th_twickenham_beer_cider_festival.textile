@@ -7,7 +7,7 @@ date: 2012-10-02 21:59:40
 
 ---
 
-<img src="http://www.rhcamra.org.uk/images/TBF12logo350.gif" alt="rugby beer guys"  width="150" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2012/TBF12logo350.gif" alt="rugby beer guys"  width="150" class="photo right" />
 
 "18<sup>th</sup> - 20<sup>th</sup> October 2012":http://www.stmgrts.org.uk/event/fair/200705143621
 
@@ -22,7 +22,3 @@ h4. More Information
 * Open Thursday 5 to 10.30 pm, Fri/Sat 11am-10.30pm (last admission 10pm).
 * Food available all sessions, no music, seating usually available, souvenir glasses.
 * Admission non-members &pound;3 (Fri to 5pm &pound;2), members &pound;2 (Fri to 5pm free) - cards must be shown.
-
-
-
-

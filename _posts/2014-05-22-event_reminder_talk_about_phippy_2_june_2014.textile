@@ -5,13 +5,13 @@ permalink: /archives/2014/05/event_reminder_talk_about_phippy_2_june_2014.html
 category: around_town
 date: 2014-05-22 23:03:56
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Phippy.jpg" title="See larger version of - Phippy"><img src="http://www.stmgrts.org.uk/images//Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmgrts.org.uk/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
     
     The Museum of Richmond's collection contains many items and information on the Georgian period. In order to join the celebrations marking the beginning of this important era, the museum is organising the following talk...
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Phippy.jpg" title="See larger version of - Phippy"><img src="http://www.stmgrts.org.uk/images//Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmgrts.org.uk/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
 
 The Museum of Richmond's collection contains many items and information on the Georgian period. In order to join the celebrations marking the beginning of this important era, the museum is organising the following talk:
 
@@ -33,7 +33,3 @@ h4. More Information
 * Tickets - &pound;8 (&pound;5 RLHS members, &pound;4 Museum Supporters, - join the Supporters when you buy your ticket for an immediate reduction and all the other advantages of membership). - Apply in person or by post, enclosing a cheque and stamped addressed envelope, to: Museum of Richmond, Old Town Hall, Whittaker Avenue, Richmond, Surrey, TW9 1TP. For enquiries only: phone 020 8332 1141.
 * Proceeds towards the Museum's Refurbishment Appeal
 * Museum of Richmond Registered Charity no. 295164
-
-
-
-

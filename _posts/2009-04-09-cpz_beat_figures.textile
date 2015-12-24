@@ -40,23 +40,3 @@ From the _Beat survey_ you can see that there are approximately 100 fewer cars p
 
 
 <cite>-- from Mary Ainscough</cite> 
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-04-09-cpz_beat_figures in site.data.2009-04-09-cpz_beat_figures %}
-       <li>
-
-         {{ 2009-04-09-cpz_beat_figures.comment }}
-
-         <cite>{{ 2009-04-09-cpz_beat_figures.author }} on {{ 2009-04-09-cpz_beat_figures.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

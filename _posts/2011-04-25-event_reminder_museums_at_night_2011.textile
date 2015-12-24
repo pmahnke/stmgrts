@@ -7,7 +7,7 @@ date: 2011-04-25 20:24:49
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//PosterMuseumsAtNight_small.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//PosterMuseumsAtNight_small_thumb.jpg" width="150" height="211" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/PosterMuseumsAtNight_small.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/PosterMuseumsAtNight_small_thumb.jpg" width="150" height="211" alt="Poster" class="photo right" /></a>
 
 Come and explore the gallery after dark!  A rare opportunity to enjoy the Orleans House Gallery and the historical site under moonlight.  To celebreate Museums at Night 2011, Orleans House Gallery extends its hours from 5:30 to 9:00pm on "Friday,  13<sup>th</sup> May 2011 and offers a free event":http://stmgrts.org.uk/event/exhibition/200705142767. Visit the gallery for a late night viewing of exhibitions and free book cover design event for families. The Karmarama cafe will be open and offering a selection of delicious suppers.  Why not enjoy an artful evening at the gallery?
 
@@ -18,9 +18,3 @@ Come and explore the gallery after dark!  A rare opportunity to enjoy the Orlean
 _Children must be accompanied by an adult._
 
 For "more information about the event":http://www.richmond.gov.uk/home/leisure_and_culture/arts/museums_at_night.htm, please contact Orleans House Gallery at 020 8831 6000 or email "artsinfo@richmond.gov.uk":mailto:artsinfo@richmond.gov.uk.
-
-
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2008/11/medieval_mugging_in_st_margarets.html
 category: around_town
 date: 2008-11-28 12:52:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/mummers.jpg"><img src="http://www.stmgrts.org.uk/images/mummers-thumb.jpg" width="150" height="133" alt="Mummers Play" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/mummers.jpg"><img src="//stmgrts.org.uk/assets/images/2008/mummers-thumb.jpg" width="150" height="133" alt="Mummers Play" class="photo right" /></a>
     
     
     Maybe it's something in the water or those strange odorous gases that sometimes drift in from Mogden. Maybe there is a crack in the space-time continuum separating the area from the rest of decent civilisation. Whatever the reason it is undeniable that the good people up in north St. Margarets are weird! First they stop the traffic with an annual street fair. Then they get their children rushing around the streets 'beating the bounds'. Now they are intending to celebrate Christmas with a traditional medieval Mummers Play. Next they'll be dunking witches and dancing around a maypole!
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/mummers.jpg"><img src="http://www.stmgrts.org.uk/images/mummers-thumb.jpg" width="150" height="133" alt="Mummers Play" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/mummers.jpg"><img src="//stmgrts.org.uk/assets/images/2008/mummers-thumb.jpg" width="150" height="133" alt="Mummers Play" class="photo right" /></a>
 
 
 Maybe it's something in the water or those strange odorous gases that sometimes drift in from Mogden. Maybe there is a crack in the space-time continuum separating the area from the rest of decent civilisation. Whatever the reason it is undeniable that the good people up in north St. Margarets are weird! First they stop the traffic with an annual street fair. Then they get their children rushing around the streets 'beating the bounds'. Now they are intending to celebrate Christmas with a traditional medieval Mummers Play. Next they'll be dunking witches and dancing around a maypole!
@@ -53,7 +53,3 @@ p. Although in the past the Mummers Plays would be performed all around a distri
 <strong>You are invited to join us to welcome in Christmas in medieval style. The play starts at "4.15pm on Saturday December 6th in the Church Hall, Northcote Road":http://www.stmgrts.org.uk/event/play/200705142010. Admission is free... although the ragamuffins would appreciate a few shiny coins -- and the play is entirely suitable for children and adults of all ages. It lasts for approximately 25 minutes. Refreshments of a suitably seasonable kind will be available.
 
 To reserve your seat please ring Old Father Time on 020 8892 5211.</strong>
-
-
-
-

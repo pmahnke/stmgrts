@@ -7,7 +7,7 @@ date: 2011-03-01 22:18:07
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//zac-goldsmith2.jpg" title="See larger version of - Zac Goldsmith, MP"><img src="http://www.stmgrts.org.uk/images//zac-goldsmith2_thumb.jpg" width="150" height="153" alt="Zac Goldsmith, MP" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/zac-goldsmith2.jpg" title="See larger version of - Zac Goldsmith, MP"><img src="//stmgrts.org.uk/assets/images/2011/zac-goldsmith2_thumb.jpg" width="150" height="153" alt="Zac Goldsmith, MP" class="photo right" /></a>
 
 
 On "Thursday March 17<sup>th</sup>":http://stmgrts.org.uk/event/event/200705142659, For Sanity's Sake are hosting a Working Mums networking/chat evening in Richmond, Surrey, with a whole host of inspirational Mums attending, as well as stalls showcasing local entrepreneurial Mums' businesses, franchises and social enterprises.
@@ -24,7 +24,3 @@ At the event we are offering working Mums the opportunity to host a stall in ord
 Talk to others about the juggle of work and family life, as well as childcare options and outside perceptions of Working Mums. If you're looking for new business contacts come along and see who you can meet.
 
 Places are limited and pre-booking is required. For full details and to book your spot go to "www.forsanityssake.com":http://www.forsanityssake.com and see Working Mums Event on the homepage. For Sanity's Sake is a free, community website which has a calendar of events to keep you up-to-date with everything that's going on in the local area, everyday of the week.
-
-
-
-

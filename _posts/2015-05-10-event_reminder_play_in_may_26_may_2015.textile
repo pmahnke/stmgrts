@@ -7,7 +7,7 @@ date: 2015-05-10 21:06:48
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="http://www.stmgrts.org.uk/images//Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="//stmgrts.org.uk/assets/images/2015/Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
 
 _Free Sessions in support of the NSPCC_
 
@@ -25,7 +25,3 @@ We are cherishing childhood with the NSPCC, as every childhood is worth fighting
 
 For more details and to book your place please contact
 us on 020 8607 9995 or e-mail us at "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
-
-
-
-

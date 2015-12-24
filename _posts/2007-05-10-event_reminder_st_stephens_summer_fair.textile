@@ -5,7 +5,7 @@ permalink: /archives/2007/05/event_reminder_st_stephens_summer_fair.html
 category: around_town
 date: 2007-05-10 13:07:01
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/ststephens_fair_poster.jpg"><img src="http://www.stmgrts.org.uk/images/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2007/ststephens_fair_poster.jpg"><img src="//stmgrts.org.uk/assets/images/2007/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
     
     
     With May upon us the Summer Fair season swings into action! Don't miss the "St Stephen's School Summer Fair":http://www.stmgrts.org.uk/event/Fair/200705100703 -- Saturday May 19<sup>th</sup>, 12-3pm, St Stephen's School, Winchester Road, Twickenham.
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/ststephens_fair_poster.jpg"><img src="http://www.stmgrts.org.uk/images/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/ststephens_fair_poster.jpg"><img src="//stmgrts.org.uk/assets/images/2007/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
 
 
 With May upon us the Summer Fair season swings into action! Don't miss the "St Stephen's School Summer Fair":http://www.stmgrts.org.uk/event/Fair/200705100703 -- Saturday May 19<sup>th</sup>, 12-3pm, St Stephen's School, Winchester Road, Twickenham.
@@ -34,7 +34,3 @@ And, to quench that thirst, Pimms, Rum punch, fine wines and beers will be avail
 It's shaping up to be a perfect afternoon ..... see you then. Entry - adults &pound;1.50, children get in free!
 
 If you would like to rent a stall at our fair, please call Sherralyn on 8744 2301 for more details or email at "sherralynrainey@aol.com":mailto:sherralynrainey@aol.com.
-
-
-
-

@@ -16,23 +16,3 @@ We were pleased to support another St Margarets business on the evening, "The Ye
 They are coming back soon to hold their own evening at Parvinu, so we suggest you visit their Crown Road shop and find out more.
 
 <cite>-- from Parvinu</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-05-01-business_networking_at_parvinu in site.data.2009-05-01-business_networking_at_parvinu %}
-       <li>
-
-         {{ 2009-05-01-business_networking_at_parvinu.comment }}
-
-         <cite>{{ 2009-05-01-business_networking_at_parvinu.author }} on {{ 2009-05-01-business_networking_at_parvinu.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -13,7 +13,7 @@ Maggies Book Club was created in March 2012 and since then has maintained a core
 
 The books we have read so far are:
 
-<img src="http://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Dubliners_title_page.jpg/153px-Dubliners_title_page.jpg" width="153" alt="title page of the first edition of the Dubliners"  class="photo right"  />
+<img src="//stmgrts.org.uk/assets/images/2013/153px-Dubliners_title_page.jpg" width="153" alt="title page of the first edition of the Dubliners"  class="photo right"  />
 
 * March 2012: Julian Barnes - 'Sense of an ending',
 * April 2012: Ralph Ellison - 'The Invisible Man',
@@ -34,9 +34,3 @@ We meet on the 3<sup>rd</sup> Thursday of each month, at 8pm, in the restaurant 
 We are all women at the moment, but men are very welcome. Our ages range from mid-thirties to sixty-plus, so there is a wide mix of interests, experiences and tastes!
 
 If you would like to come along, please email the Club Secretary at "maggiesbookclub@gmail.com":mailto:maggiesbookclub@gmail.com.
-
-
-
-
-
-

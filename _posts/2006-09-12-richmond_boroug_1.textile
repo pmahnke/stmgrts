@@ -7,29 +7,8 @@ date: 2006-09-12 16:03:43
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/public_toilet.jpg"><img src="http://www.stmgrts.org.uk/images/public_toilet-thumb.jpg" width="150" height="107" alt="public convenience?" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/public_toilet.jpg"><img src="//stmgrts.org.uk/assets/images/2006/public_toilet-thumb.jpg" width="150" height="107" alt="public convenience?" class="photo right" /></a>
 
 The Richmond Council is conducting "a review of toilet provision across the borough" and are looking for resident feedback to understand what our needs are.  They have set up an "online survey":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=I1dWnKVVTCM and ask for feedback by the 30 September.
 
 Considering the extreme lack of public conveniences in our area, we recommend that you fill out the survey.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-09-12-richmond_boroug_1 in site.data.2006-09-12-richmond_boroug_1 %}
-       <li>
-
-         {{ 2006-09-12-richmond_boroug_1.comment }}
-
-         <cite>{{ 2006-09-12-richmond_boroug_1.author }} on {{ 2006-09-12-richmond_boroug_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

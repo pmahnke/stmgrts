@@ -24,23 +24,3 @@ As you are probably aware, the "second stage questionnaire":http://www.richmond.
 
 * "take the poll":http://www.stmgrts.org.uk/poll/CPZ2
 * "see the results":http://www.stmgrts.org.uk/poll/CPZ2/results
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-05-15-poll_cpz_second_stage in site.data.2008-05-15-poll_cpz_second_stage %}
-       <li>
-
-         {{ 2008-05-15-poll_cpz_second_stage.comment }}
-
-         <cite>{{ 2008-05-15-poll_cpz_second_stage.author }} on {{ 2008-05-15-poll_cpz_second_stage.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

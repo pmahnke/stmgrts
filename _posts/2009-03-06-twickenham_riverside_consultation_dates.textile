@@ -12,23 +12,3 @@ The public consultation on the three developers' projected schemes for the Twick
 The exhibition will be held on the ground floor of the Civic Centre, Twickenham from Monday 9 March to Sunday 15 March (inclusive). Hours of opening will be: 2 pm until 8 pm on Monday to Friday ; 10 am until 4 pm on Saturday 14 March; and 11 am until 3p m on Sunday 15 March. The final decision on the choice of scheme/developer will be taken at the Cabinet meeting of 27 April.
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-06-twickenham_riverside_consultation_dates in site.data.2009-03-06-twickenham_riverside_consultation_dates %}
-       <li>
-
-         {{ 2009-03-06-twickenham_riverside_consultation_dates.comment }}
-
-         <cite>{{ 2009-03-06-twickenham_riverside_consultation_dates.author }} on {{ 2009-03-06-twickenham_riverside_consultation_dates.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

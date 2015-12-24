@@ -5,13 +5,13 @@ permalink: /archives/2010/07/the_ballad_of_the_crane.html
 category: around_town
 date: 2010-07-01 09:59:59
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/events/River-Crane-1.jpg" title="See larger version of - River Crane"><img src="http://www.stmgrts.org.uk/images/events/River-Crane-1_thumb.jpg" width="150" height="99" alt="River Crane" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/River-Crane-1.jpg" title="See larger version of - River Crane"><img src="//stmgrts.org.uk/assets/images/2010/River-Crane-1_thumb.jpg" width="150" height="99" alt="River Crane" class="photo right" /></a>
     
     I sometimes wonder myself how many people living in St. Margarets today actually know about the River Crane. Although it runs right through our neighbourhood it is hidden and out of sight, lost behind fences and hedges, tucked away at the bottom of gardens and buried under bridges and culverts. 
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//River-Crane-2.jpg" title="See larger version of - River Crane"><img src="http://www.stmgrts.org.uk/images//River-Crane-2_thumb.jpg" width="300" height="225" alt="River Crane" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/River-Crane-2.jpg" title="See larger version of - River Crane"><img src="//stmgrts.org.uk/assets/images/2010/River-Crane-2_thumb.jpg" width="300" height="225" alt="River Crane" class="photo center" /></a>
 
 
 bq.. "I may observe that the man who delights in a quiet lazy ramble by all sorts of short cuts and byways will see some unpretentious scenery upon a stream whose praises, I believe, have hitherto been unsung, and even unnoticed...
@@ -24,7 +24,7 @@ I sometimes wonder myself how many people living in St Margarets today actually 
 
 
 
-<a href="http://www.stmgrts.org.uk/images/events/River-Crane-1.jpg" title="See larger version of - River Crane"><img src="http://www.stmgrts.org.uk/images/events/River-Crane-1_thumb.jpg" width="150" height="99" alt="River Crane" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/River-Crane-1.jpg" title="See larger version of - River Crane"><img src="//stmgrts.org.uk/assets/images/2010/River-Crane-1_thumb.jpg" width="150" height="99" alt="River Crane" class="photo right" /></a>
 
 bq. "The Crane rises near Headstone Farm near Pinner; thence it follows a winding course. South of Ickenham it turns southward and is known as the Yeading Brook. Beyond here it dodges about among two big canals, the Paddington and the Grand Junction, passes through Cranford Park to Cranford Bridge, turns up again at Bedfont Powder Mills and those of Hounslow, and so comes down to Twickenham- by that time quite a respectable size... It is at Isleworth that the Crane enters the Thames by two mouths, (one artificial). One in the centre of the old village close to the church and the other just above the eyot, north of the R.N School at St Margarets."
 
@@ -68,22 +68,3 @@ It's then I find my garden at the bottom of the Crane.
 p. ??Hal Eburton-Roade  2010??
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-07-01-the_ballad_of_the_crane in site.data.2010-07-01-the_ballad_of_the_crane %}
-       <li>
-
-         {{ 2010-07-01-the_ballad_of_the_crane.comment }}
-
-         <cite>{{ 2010-07-01-the_ballad_of_the_crane.author }} on {{ 2010-07-01-the_ballad_of_the_crane.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

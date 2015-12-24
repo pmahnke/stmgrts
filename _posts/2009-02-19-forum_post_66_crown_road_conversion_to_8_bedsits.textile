@@ -14,23 +14,3 @@ A previous planning application in respect of 66 Crown Road was refused last yea
 If, like me, you have concerns regarding this development please email "planningenforcement@richmond.gov.uk":mailto:planningenforcement@richmond.gov.uk quoting the case number above.
 
 -- "from jayc":http://www.stmgrts.org.uk/forum.cgi?action=jump&topic=Local%20News%20&%20Events&topic_id=2&name=&user_id=
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits in site.data.2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits %}
-       <li>
-
-         {{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.comment }}
-
-         <cite>{{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.author }} on {{ 2009-02-19-forum_post_66_crown_road_conversion_to_8_bedsits.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

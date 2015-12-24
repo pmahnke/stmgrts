@@ -33,21 +33,3 @@ p. We hope that you will join us.   How do you feel this could be done?  What so
 Now we are waiting to hear from you onilne and hopefully see you at Winchester Hall!
 
 <em>If you haven't already, Don’t forget to sign-up for our "Weekly Newsletter":/cgi-bin/newsletter.cgi.</em>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-08-building_a_comm in site.data.2006-05-08-building_a_comm %}
-       <li>
-
-         {{ 2006-05-08-building_a_comm.comment }}
-
-         <cite>{{ 2006-05-08-building_a_comm.author }} on {{ 2006-05-08-building_a_comm.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -21,23 +21,3 @@ Additionally, if you could take a few moments, could you vote in our poll to see
 
 * "vote in the poll":http://www.stmgrts.org.uk/poll/CPZ3
 * "see the results":http://www.stmgrts.org.uk/poll/CPZ3/results
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-04-15-cpz_questionnaire_deadline_20th_april_2009 in site.data.2009-04-15-cpz_questionnaire_deadline_20th_april_2009 %}
-       <li>
-
-         {{ 2009-04-15-cpz_questionnaire_deadline_20th_april_2009.comment }}
-
-         <cite>{{ 2009-04-15-cpz_questionnaire_deadline_20th_april_2009.author }} on {{ 2009-04-15-cpz_questionnaire_deadline_20th_april_2009.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

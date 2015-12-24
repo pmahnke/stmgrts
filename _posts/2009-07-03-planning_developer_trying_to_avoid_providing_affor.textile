@@ -39,6 +39,3 @@ Essentially it looks like they are trying to avoid the requirement to build a ce
 This might be of interest to some of your readers who may feel inclined to add their own comments on the matter!
 
 <cite>-- from Ed Randall</cite>
-
-
-

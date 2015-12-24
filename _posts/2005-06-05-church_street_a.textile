@@ -14,23 +14,3 @@ There are six restaurants and two pubs are participating.
 The hours are every Thursday, Friday and Saturday evening from 6-11pm and Sundays from 10:30am - 8pm.
 
 For more information, look at their "website":http://www.twickenhamchurchstreet.org/.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-06-05-church_street_a in site.data.2005-06-05-church_street_a %}
-       <li>
-
-         {{ 2005-06-05-church_street_a.comment }}
-
-         <cite>{{ 2005-06-05-church_street_a.author }} on {{ 2005-06-05-church_street_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -215,21 +215,3 @@ Friendship bracelets, football, rope swings, quiz nights, table tennis, games, a
 h3. Families Upon Thames
 
 For more ideas  go to "www.familiesonline.co.uk/local/upon-thames":http://www.familiesonline.co.uk/local/upon-thames and look under the 'out and about' section for more great ideas for day trips, sports, cinema, theatre, museums, events and great fun  in and around London.
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-07-27-kids_summer_act in site.data.2005-07-27-kids_summer_act %}
-       <li>
-
-         {{ 2005-07-27-kids_summer_act.comment }}
-
-         <cite>{{ 2005-07-27-kids_summer_act.author }} on {{ 2005-07-27-kids_summer_act.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

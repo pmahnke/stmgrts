@@ -5,7 +5,7 @@ permalink: /archives/2013/08/event_reminder_on_the_edge_festival_17_to_18_augus.
 category: around_town
 date: 2013-08-08 21:49:49
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//world_music.jpg" title="See larger version of - world music"><img src="http://www.stmgrts.org.uk/images//world_music_thumb.jpg" width="150" height="226" alt="world music" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/world_music.jpg" title="See larger version of - world music"><img src="//stmgrts.org.uk/assets/images/2013/world_music_thumb.jpg" width="150" height="226" alt="world music" class="photo right" /></a>
     
     _Richmond Riverside springs to life with the global sounds of world music and dance._
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//world_music.jpg" title="See larger version of - world music"><img src="http://www.stmgrts.org.uk/images//world_music_thumb.jpg" width="150" height="226" alt="world music" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/world_music.jpg" title="See larger version of - world music"><img src="//stmgrts.org.uk/assets/images/2013/world_music_thumb.jpg" width="150" height="226" alt="world music" class="photo right" /></a>
 
 _Richmond Riverside springs to life with the global sounds of world music and dance._
 
@@ -23,9 +23,3 @@ h4. More Information
 
 * For a full line-up please visit: "www.richmond.gov.uk/on_the_edge.htm":http://www.richmond.gov.uk/on_the_edge.htm
 * Free
-
-
-
-
-
-

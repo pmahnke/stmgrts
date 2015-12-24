@@ -7,7 +7,7 @@ date: 2013-04-23 21:16:34
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="http://www.stmgrts.org.uk/images//yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2013/yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="//stmgrts.org.uk/assets/images/2013/yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right"/></a>
 
 _Put a spring in your step with Yoga-Fitness_
 
@@ -33,7 +33,3 @@ h4. More Information
 COMING SOON, 'NEW COMPLETE BEGINNERS INTRODUCTORY YOGA COURSE' contact for more details
 
 _Sammie Mason is a Student Teacher with the British Wheel of Yoga_
-
-
-
-

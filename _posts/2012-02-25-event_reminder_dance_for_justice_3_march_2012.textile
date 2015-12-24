@@ -7,7 +7,7 @@ date: 2012-02-25 11:05:36
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//dance_for_justice.jpg" title="See larger version of - dance for justice"><img src="http://www.stmgrts.org.uk/images//dance_for_justice_thumb.jpg" width="150" height="106" alt="dance for justice" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/dance_for_justice.jpg" title="See larger version of - dance for justice"><img src="//stmgrts.org.uk/assets/images/2012/dance_for_justice_thumb.jpg" width="150" height="106" alt="dance for justice" class="photo right" /></a>
 
 "3 March 2012 at 7.30pm, St Stephen's Church":http://www.stmgrts.org.uk/event/event/200705143231
  
@@ -27,7 +27,3 @@ h4. More Information
 * Suggested £10 donation on the night. 
 * To reserve your seats please email danceforjustice.d4j@gmail.com
 * http://hopeforjustice.org.uk/
-
-
-
-

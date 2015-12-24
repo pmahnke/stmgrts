@@ -21,23 +21,3 @@ h4. Details of decision
 * To instruct officers to investigate traffic and parking arrangements in Railshead Road in liaison with the emergency services.
 * To carry out a review six months after implementation, should a zone be introduced, and the review to include those areas adjacent to the zone.
 * To progress the application to the Magistrates Court for the stopping up of the service road to the rear of 141-143 St Margarets Road. 
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-25-expanded_cpz_moves_to_next_stage in site.data.2007-07-25-expanded_cpz_moves_to_next_stage %}
-       <li>
-
-         {{ 2007-07-25-expanded_cpz_moves_to_next_stage.comment }}
-
-         <cite>{{ 2007-07-25-expanded_cpz_moves_to_next_stage.author }} on {{ 2007-07-25-expanded_cpz_moves_to_next_stage.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

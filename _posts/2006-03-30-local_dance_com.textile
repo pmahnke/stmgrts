@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/St. Stephens small.jpg"><img src="http://www.stmgrts.org.uk/images/St. Stephens small-thumb.jpg" width="150" height="100" alt="Too Cool for Skool" class="photo right ignore" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/St. Stephens small.jpg"><img src="//stmgrts.org.uk/assets/images/2006/St. Stephens small-thumb.jpg" width="150" height="100" alt="Too Cool for Skool" class="photo right ignore" /></a>
 
 A new local dance company is holding dance and drama workshops over the Easter holiday for children aged 7-14 years old.  The workshops will be held in "All Souls Church Hall":/directory/church/200506080805, St Margarets on 10th, 11th and 12th April, and will include a varied programme of dance and drama styles over the three days.
  
@@ -22,7 +22,3 @@ Livia Maciejowska said, “Our popularity in local schools has enabled us to exp
 Students at the Easter Workshops will take sessions in street dance, jazz and contemporary dance, alongside drama, improvisation skills and role-play. This will all culminate in a performance of their devised work on the last day.
  
 For further information about the Easter workshops, readers should contact Livia Maciejowska on 07977 076 859
-
-
-
-

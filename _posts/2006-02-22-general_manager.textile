@@ -14,23 +14,3 @@ Oisin Rogers, the manager of the  "The St Margarets Tavern":/cgi-bin/directory.c
 bq. "I will be very sad to leave _The St Margarets Tavern_ after three brilliant years. I was offered the opportunity to to run two fabulous businesses (one is the Boathouse in Putney). I have decided to oversee both of them and will be employed by Youngs Brewery. I do however hope to keep _The St Margarets Tavern_ as my local."
 
 -- Oisin Rogers
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-02-22-general_manager in site.data.2006-02-22-general_manager %}
-       <li>
-
-         {{ 2006-02-22-general_manager.comment }}
-
-         <cite>{{ 2006-02-22-general_manager.author }} on {{ 2006-02-22-general_manager.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

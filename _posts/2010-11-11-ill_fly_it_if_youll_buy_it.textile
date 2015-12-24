@@ -5,7 +5,7 @@ permalink: /archives/2010/11/ill_fly_it_if_youll_buy_it.html
 category: around_town
 date: 2010-11-11 22:04:10
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Spitfire_Twickenham_11.jpg" title="See larger version of - Spitfire Twickenham"><img src="http://www.stmgrts.org.uk/images//Spitfire_Twickenham_11_thumb.jpg" width="300" height="213" alt="Spitfire Twickenham" class="photo center" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/Spitfire_Twickenham_11.jpg" title="See larger version of - Spitfire Twickenham"><img src="//stmgrts.org.uk/assets/images/2010/Spitfire_Twickenham_11_thumb.jpg" width="300" height="213" alt="Spitfire Twickenham" class="photo center" /></a>
     
     _We were really up against it, that summer of 1940. We all knew it..._
     
@@ -13,13 +13,13 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Spitfire_Twickenham_11.jpg" title="See larger version of - Spitfire Twickenham"><img src="http://www.stmgrts.org.uk/images//Spitfire_Twickenham_11_thumb.jpg" width="300" height="213" alt="Spitfire Twickenham" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Spitfire_Twickenham_11.jpg" title="See larger version of - Spitfire Twickenham"><img src="//stmgrts.org.uk/assets/images/2010/Spitfire_Twickenham_11_thumb.jpg" width="300" height="213" alt="Spitfire Twickenham" class="photo center" /></a>
 
 _We were really up against it, that summer of 1940. We all knew it..._
 
 Hitler's Army had swept across Europe and was now glaring at us from across the Channel. The British Expeditionary Force had been brought home from Dunkirk. We were all beginning to lose weight because of rationing and now we were being reminded to always carry our gas masks - just in case.  Above our heads the summer skies were laced with twisting vapour trails as the RAF took on the German Luftwaffe... and on the ground we wondered what we could do to help those brave young men who were risking their lives to save ours.
 
-<a href="http://www.stmgrts.org.uk/images//Spitfire_Fund.jpg" title="See larger version of - SPITFIRE FUND"><img src="http://www.stmgrts.org.uk/images//Spitfire_Fund_thumb.jpg" width="300" height="229" alt="SPITFIRE FUND" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Spitfire_Fund.jpg" title="See larger version of - SPITFIRE FUND"><img src="//stmgrts.org.uk/assets/images/2010/Spitfire_Fund_thumb.jpg" width="300" height="229" alt="SPITFIRE FUND" class="photo center" /></a>
 
 Fighting alone, with their backs against the wall, the people of Britain decided that the most useful thing to do, the most practical and patriotic thing to do, would be to buy Spitfires to replace those that had fallen. And so in the summer of 1940 communities large and small, businesses, organisations, societies, clubs,  trade unions and individuals started up "Spitfire Funds". As the poster showing a cheery RAF pilot suggested, their slogan was -  "_I'll fly it if you'll buy it!_"
 
@@ -66,7 +66,7 @@ p. Between 1940 and 1945 around 1500 "Presentation" Spitfires, paid for by ordin
 A cartoon of the time caught their reaction...
 
 <div class="img_caption  center" style="width: 80%; margin-bottom: 2em;">
-<a href="http://www.stmgrts.org.uk/images//Spitfire_cartoon.JPG" title="See larger version of - "... 'Borough of Grimstone' calling 'Metal-Workers' Guiold' and 'Ethels of the Empire.'""><img src="http://www.stmgrts.org.uk/images//Spitfire_cartoon_thumb.JPG" width="300" height="474" alt=""... 'Borough of Grimstone' calling 'Metal-Workers' Guiold' and 'Ethels of the Empire.'"" class="center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Spitfire_cartoon.JPG" title="See larger version of - "... 'Borough of Grimstone' calling 'Metal-Workers' Guiold' and 'Ethels of the Empire.'""><img src="//stmgrts.org.uk/assets/images/2010/Spitfire_cartoon_thumb.JPG" width="300" height="474" alt=""... 'Borough of Grimstone' calling 'Metal-Workers' Guiold' and 'Ethels of the Empire.'"" class="center" /></a>
 <span>"... 'Borough of Grimstone' calling 'Metal-Workers' Guiold' and 'Ethels of the Empire.'"</span></div>
 
 
@@ -75,7 +75,7 @@ h3. So What Became of Our Spitfires?
 
 h4. "Jubilee - Borough of Richmond" - Mk Iib P8347.
 
-<a href="http://www.stmgrts.org.uk/images//Jubilee.jpg" title="See larger version of - Spitfire Jubilee"><img src="http://www.stmgrts.org.uk/images//Jubilee_thumb.jpg" width="150" height="109" alt="Spitfire Jubilee" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Jubilee.jpg" title="See larger version of - Spitfire Jubilee"><img src="//stmgrts.org.uk/assets/images/2010/Jubilee_thumb.jpg" width="150" height="109" alt="Spitfire Jubilee" class="photo right" /></a>
 
 Bought in November 1940 with a donation of &pound;6,203 19s 7d the Richmond Spitfire was called _"Jubilee - Borough of Richmond"_   to mark the 50<sup>th</sup> anniversary of the Borough. The local paper said... 
 
@@ -86,7 +86,7 @@ Based at RAF Coltishall _"Jubilee"_ served with 222 (Natal) Squadron on bomber e
 
 h4. "Twickenham I" - Mk Vb Ad116 And "Twickenham Ii" - Mk Vb Ad241.
 
-<a href="http://www.stmgrts.org.uk/images//Twickenham_1.jpg" title="See larger version of - Spitfire Twickenham 1"><img src="http://www.stmgrts.org.uk/images//Twickenham_1_thumb.jpg" width="150" height="97" alt="Spitfire Twickenham 1" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Twickenham_1.jpg" title="See larger version of - Spitfire Twickenham 1"><img src="//stmgrts.org.uk/assets/images/2010/Twickenham_1_thumb.jpg" width="150" height="97" alt="Spitfire Twickenham 1" class="photo right" /></a>
 
 
 The Spitfire Fund in Twickenham was started by Alderman A.G Greig JP who suggested that it would be "a decent thing to do to raise money for a Spitfire." The people of Twickenham responded by declaring that they would give not one Spitfire but two - and did so by raising &pound;10,297.
@@ -110,7 +110,3 @@ h4. Credits
 * The photograph of Spitfire Mk Vb AD241 "Twickenham II" is used with the kind permission of Richmond Library - Local Studies Collection
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2013/11/richmond_upon_thames_literature_festival_november.h
 category: around_town
 date: 2013-11-05 21:27:01
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//2013-Brochure-richmond-lit-festival-1.jpg" title="See larger version of - 2013 Brochure richmond lit festival 1"><img src="http://www.stmgrts.org.uk/images//2013-Brochure-richmond-lit-festival-1_thumb.jpg" width="150" height="212" alt="2013 Brochure richmond lit festival 1" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/2013-Brochure-richmond-lit-festival-1.jpg" title="See larger version of - 2013 Brochure richmond lit festival 1"><img src="//stmgrts.org.uk/assets/images/2013/2013-Brochure-richmond-lit-festival-1_thumb.jpg" width="150" height="212" alt="2013 Brochure richmond lit festival 1" class="photo right" /></a>
     
     _A fantastic festival of books & words, tales, talks, ideas & thoughts_
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//2013-Brochure-richmond-lit-festival-1.jpg" title="See larger version of - 2013 Brochure richmond lit festival 1"><img src="http://www.stmgrts.org.uk/images//2013-Brochure-richmond-lit-festival-1_thumb.jpg" width="150" height="212" alt="2013 Brochure richmond lit festival 1" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/2013-Brochure-richmond-lit-festival-1.jpg" title="See larger version of - 2013 Brochure richmond lit festival 1"><img src="//stmgrts.org.uk/assets/images/2013/2013-Brochure-richmond-lit-festival-1_thumb.jpg" width="150" height="212" alt="2013 Brochure richmond lit festival 1" class="photo right" /></a>
 
 _A fantastic festival of books & words, tales, talks, ideas & thoughts_
 
@@ -42,8 +42,4 @@ Many of this years' festival events are set among prestigious heritage locations
 For more information on the festival and how to book, please visit "www.richmondliterature.com":http://www.richmondliterature.com
 Booking will open at the end of September and the full festival programme and brochure will be available then.
 
-* <a href="/images//2013_Brochure_richmond_lit_festival.pdf" title="2013 Brochure richmond lit festival.pdf">2013 Brochure</a> [pdf]
-
-
-
-
+* <a href="//stmgrts.org.uk/assets/images/2013/2013_Brochure_richmond_lit_festival.pdf" title="2013 Brochure richmond lit festival.pdf">2013 Brochure</a> [pdf]

@@ -41,22 +41,3 @@ h4. Twickenham Riverside
 |John Grant|_Labour|159|
 |Sheila Nixon|_Labour|141|
 |Andrew James Constantine|_UKIP|106|
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-05-lib_dems_sweep in site.data.2006-05-05-lib_dems_sweep %}
-       <li>
-
-         {{ 2006-05-05-lib_dems_sweep.comment }}
-
-         <cite>{{ 2006-05-05-lib_dems_sweep.author }} on {{ 2006-05-05-lib_dems_sweep.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

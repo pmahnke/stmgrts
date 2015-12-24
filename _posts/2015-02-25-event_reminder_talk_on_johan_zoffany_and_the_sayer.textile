@@ -5,13 +5,13 @@ permalink: /archives/2015/02/event_reminder_talk_on_johan_zoffany_and_the_sayer.
 category: around_town
 date: 2015-02-25 06:41:09
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="http://www.stmgrts.org.uk/images//zoffany_poster_thumb.jpg" width="150" height="203" alt="zoffany poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="//stmgrts.org.uk/assets/images/2015/zoffany_poster_thumb.jpg" width="150" height="203" alt="zoffany poster" class="photo right" /></a>
     
     A talk by art historian David Wilson. "Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.":http://www.stmgrts.org.uk/event/event/200705144893 Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="http://www.stmgrts.org.uk/images//zoffany_poster_thumb.jpg" width="250" height="339" alt="zoffany poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="//stmgrts.org.uk/assets/images/2015/zoffany_poster_thumb.jpg" width="250" height="339" alt="zoffany poster" class="photo right" /></a>
 
 _Johan Zoffany RA painting brings eighteenth century Richmond to life._
 
@@ -33,7 +33,3 @@ h4. More Information
 * Monday 16<sup>th</sup> March 7.30pm. At St Mary Magdalene Church, Paradise Road, Richmond.
 * Tickets - &pound;8 or &pound;5 concession (student or Museum member) they can be purchased by contacting the Museum of Richmond on 0208 332 1141 or on the night.
 * Reduced price copies of the book, signed by the author, will be on sale on the night.
-
-
-
-

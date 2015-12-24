@@ -7,7 +7,7 @@ date: 2009-12-03 22:08:01
 
 ---
 
-<img src="http://www.stmgrts.org.uk/archives/snowflake-thumb.jpg" alt="snowflake" class="right" />
+<img src="//stmgrts.org.uk/assets/images/2009/snowflake-thumb.jpg" alt="snowflake" class="right" />
 
 Don't miss the "Crown Road Christmas Fair 2009":http://www.stmgrts.org.uk/event/fair/200705142248 this Sunday, 6 December 2009. The event starts at 11.00am and closes at 4.00pm when St Stephen's Church will be holding an open air Carol Service.
 
@@ -24,23 +24,3 @@ Please join us for a day of family fun and entertainment:
 Please see "mystmargarets.com":http://mystmargarets.com/ for more information.
 
 _Sponsored by Richmond Council and the RFU_
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-12-03-event_reminder_crown_road_christmas_fair_2009 in site.data.2009-12-03-event_reminder_crown_road_christmas_fair_2009 %}
-       <li>
-
-         {{ 2009-12-03-event_reminder_crown_road_christmas_fair_2009.comment }}
-
-         <cite>{{ 2009-12-03-event_reminder_crown_road_christmas_fair_2009.author }} on {{ 2009-12-03-event_reminder_crown_road_christmas_fair_2009.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

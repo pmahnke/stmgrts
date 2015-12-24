@@ -19,25 +19,3 @@ Highlights from the documents are:
 * onsite cycle storage
 
 To learn more about or comment on the proposal, "look here":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=08/2274/FUL
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-10-25-planning_proposal_for_crown_works in site.data.2008-10-25-planning_proposal_for_crown_works %}
-       <li>
-
-         {{ 2008-10-25-planning_proposal_for_crown_works.comment }}
-
-         <cite>{{ 2008-10-25-planning_proposal_for_crown_works.author }} on {{ 2008-10-25-planning_proposal_for_crown_works.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

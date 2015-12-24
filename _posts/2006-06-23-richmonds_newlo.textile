@@ -57,21 +57,3 @@ London Borough of Richmond upon Thames Libraries
 "promotions@richmond.gov.uk":mailto:promotions@richmond.gov.uk
 "www.richmond.gov.uk/libraries":http://www.richmond.gov.uk/libraries/
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-23-richmonds_newlo in site.data.2006-06-23-richmonds_newlo %}
-       <li>
-
-         {{ 2006-06-23-richmonds_newlo.comment }}
-
-         <cite>{{ 2006-06-23-richmonds_newlo.author }} on {{ 2006-06-23-richmonds_newlo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -24,21 +24,3 @@ But if you are _community minded_, have something to share with your neighbors a
 We hope you understand and take this editorial's meaning in the right light.
 
 -- "St Margarets Community Website Editor":mailto:editor@stmgrts.org.uk
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-11-04-unconditional in site.data.2010-11-04-unconditional %}
-       <li>
-
-         {{ 2010-11-04-unconditional.comment }}
-
-         <cite>{{ 2010-11-04-unconditional.author }} on {{ 2010-11-04-unconditional.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

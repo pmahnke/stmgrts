@@ -5,14 +5,14 @@ permalink: /archives/2015/09/event_reminder_thames_tidefest_20_september_2015.ht
 category: around_town
 date: 2015-09-06 22:53:40
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Tidefest_2015_Poster.png" title="See larger version of - Tidefest 2015 Poster"><img src="http://www.stmgrts.org.uk/images//Tidefest_2015_Poster_thumb.png" width="150" height="212" alt="Tidefest 2015 Poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/Tidefest_2015_Poster.png" title="See larger version of - Tidefest 2015 Poster"><img src="//stmgrts.org.uk/assets/images/2015/Tidefest_2015_Poster_thumb.png" width="150" height="212" alt="Tidefest 2015 Poster" class="photo right" /></a>
     
     
     TideFest is a new River Thames event which took place for the first time in 2014 on World Rivers Day to highlight the recreational importance of the Thames to Londoners. TideFest 2015 takes place on "September 20<sup>th</sup>":http://www.stmgrts.org.uk/event/event/200705145176 at Chiswick, Kew, Brentford, Barnes, Isleworth and at other locations along the Thames Tideway. TideFest is organised by river and wildlife organisations and is part of the Totally Thames Festival and is sponsored by Thames Tideway Tunnel and Thames Water.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Tidefest_2015_Poster.png" title="See larger version of - Tidefest 2015 Poster"><img src="http://www.stmgrts.org.uk/images//Tidefest_2015_Poster_thumb.png" width="250" height="353" alt="Tidefest 2015 Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Tidefest_2015_Poster.png" title="See larger version of - Tidefest 2015 Poster"><img src="//stmgrts.org.uk/assets/images/2015/Tidefest_2015_Poster_thumb.png" width="250" height="353" alt="Tidefest 2015 Poster" class="photo right" /></a>
 
 TideFest is a new River Thames event which took place for the first time in 2014 on World Rivers Day to highlight the recreational importance of the Thames to Londoners. TideFest 2015 takes place on "September 20<sup>th</sup>":http://www.stmgrts.org.uk/event/event/200705145176 at Chiswick, Kew, Brentford, Barnes, Isleworth and at other locations along the Thames Tideway. TideFest is organised by river and wildlife organisations and is part of the Totally Thames Festival and is sponsored by Thames Tideway Tunnel and Thames Water.
 
@@ -40,8 +40,3 @@ There are a lot of family family activities going on including:
 h4. More Information
 
 * event details: "thamestidefest.net":http://thamestidefest.net/2015/07/15/whats-happening-at-tidefest/
-
-
-
-
-

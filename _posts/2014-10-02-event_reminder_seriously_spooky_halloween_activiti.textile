@@ -5,13 +5,13 @@ permalink: /archives/2014/10/event_reminder_seriously_spooky_halloween_activiti.
 category: around_town
 date: 2014-10-02 22:09:34
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Taking_part_in_Halloween_activities_at_Strawberry_Hill.jpg" title="See larger version of - Taking part in Halloween activities at Strawberry Hill"><img src="http://www.stmgrts.org.uk/images//Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg" width="150" height="112" alt="Taking part in Halloween activities at Strawberry Hill" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill.jpg" title="See larger version of - Taking part in Halloween activities at Strawberry Hill"><img src="//stmgrts.org.uk/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg" width="150" height="112" alt="Taking part in Halloween activities at Strawberry Hill" class="photo right" /></a>
     
     Horace Walpole's castle in Twickenham, Middlesex will be the scene for a week of seriously spooky Halloween activities for children and adults from 25 October to 31 October 2014.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Taking_part_in_Halloween_activities_at_Strawberry_Hill.jpg" title="See larger version of - Taking part in Halloween activities at Strawberry Hill"><img src="http://www.stmgrts.org.uk/images//Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg" width="250" height="187" alt="Taking part in Halloween activities at Strawberry Hill" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill.jpg" title="See larger version of - Taking part in Halloween activities at Strawberry Hill"><img src="//stmgrts.org.uk/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg" width="250" height="187" alt="Taking part in Halloween activities at Strawberry Hill" class="photo right" /></a>
 
 Horace Walpole's castle in Twickenham, Middlesex will be the scene for a week of seriously spooky Halloween activities for children and adults from 25 October to 31 October 2014.
 
@@ -32,8 +32,3 @@ Nick Smith, Director at Strawberry Hill said, "This is the second time Milestone
 "We are really pleased to lend our support to Strawberry Hill for the exciting Halloween week which includes the fantastic Murder Mystery evening.  There really is something for all both children and adults and it is certainly one week to make a date of in the diary!", said Antony Robson, Managing Director of Milestone & Collis, Twickenham.
 
 * "For further information on the week of Halloween activities":http://www.strawberryhillhouse.org.uk/events
-
-
-
-
-

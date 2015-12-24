@@ -27,23 +27,3 @@ Thank you all for supporting us in our efforts to make life a little easier .
 sincerely ............Annie Hambidge  
 
 </div> 
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-30-moormead_area_p in site.data.2006-03-30-moormead_area_p %}
-       <li>
-
-         {{ 2006-03-30-moormead_area_p.comment }}
-
-         <cite>{{ 2006-03-30-moormead_area_p.author }} on {{ 2006-03-30-moormead_area_p.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

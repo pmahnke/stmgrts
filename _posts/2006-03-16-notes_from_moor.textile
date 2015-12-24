@@ -31,21 +31,3 @@ The council has identified &pound;60K for the playground and has spent &pound;20
 
 
 It was agreed that the next meeting would be held after the Easter holidays in approximately six weeks time. 
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-16-notes_from_moor in site.data.2006-03-16-notes_from_moor %}
-       <li>
-
-         {{ 2006-03-16-notes_from_moor.comment }}
-
-         <cite>{{ 2006-03-16-notes_from_moor.author }} on {{ 2006-03-16-notes_from_moor.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

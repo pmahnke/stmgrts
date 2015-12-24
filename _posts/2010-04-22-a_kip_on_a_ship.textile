@@ -5,19 +5,19 @@ permalink: /archives/2010/04/a_kip_on_a_ship.html
 category: around_town
 date: 2010-04-22 21:14:32
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//HMS_Belfast1.png" title="See larger version of - HMS Belfast"><img src="http://www.stmgrts.org.uk/images//HMS_Belfast1_thumb.png" width="200" height="118" alt="HMS Belfast" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/HMS_Belfast1.png" title="See larger version of - HMS Belfast"><img src="//stmgrts.org.uk/assets/images/2010/HMS_Belfast1_thumb.png" width="200" height="118" alt="HMS Belfast" class="photo right" /></a>
     
     H.M.S Belfast is a Second World War light cruiser preserved for the nation on the Thames at Tower Bridge.  She is an eleven thousand ton, nine decked, four turreted lean, mean fighting machine and last Saturday night she was home for the Cubs of the 1<sup>st</sup> St Margarets Cub Pack.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//HMS_Belfast1.png" title="See larger version of - HMS Belfast"><img src="http://www.stmgrts.org.uk/images//HMS_Belfast1_thumb.png" width="200" height="118" alt="HMS Belfast" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/HMS_Belfast1.png" title="See larger version of - HMS Belfast"><img src="//stmgrts.org.uk/assets/images/2010/HMS_Belfast1_thumb.png" width="200" height="118" alt="HMS Belfast" class="photo right" /></a>
 
 H.M.S Belfast is a Second World War light cruiser preserved for the nation on the Thames at Tower Bridge.  She is an eleven thousand ton, nine decked, four turreted lean, mean fighting machine and last Saturday night she was home for the Cubs of the 1<sup>st</sup> St Margarets Cub Pack.
 
 In her war time 'Dazzle' camouflage, from the outside H.M.S Belfast looks exactly like what she is - an aggressive weapon of war that helped sink the German battle-cruiser _'Scharnhorst'_, protected the Arctic convoys, fired its massive guns at D. Day and saw action during the Korean War. Step inside and you find yourself in a confusing warren of narrow corridors and companionways lined not only with all the accoutrements of war but also with everything that you might expect to find in a small town - a dentist, a potato store, a butcher, a carpentry shop, a bakery, a chapel, a Welfare Office, a NAAFI selling long forgotten items like Capstan Full Strength cigarettes, Spangles and sherbet fountains and a Provision Room that supplied the sailors daily tot of rum.
 
-<a href="http://www.stmgrts.org.uk/images//HMS_Belfast2.jpg" title="See larger version of - Kip on the Ship"><img src="http://www.stmgrts.org.uk/images//HMS_Belfast2_thumb.jpg" width="150" height="112" alt="Kip on the Ship" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/HMS_Belfast2.jpg" title="See larger version of - Kip on the Ship"><img src="//stmgrts.org.uk/assets/images/2010/HMS_Belfast2_thumb.jpg" width="150" height="112" alt="Kip on the Ship" class="photo right" /></a>
 
 The Cubs spent the night in G Mess, accessed by a steep ladder from the main deck and very close to the two forward turrets which are powerful enough to hit targets 14 miles away. As everyone observed 'St Stephens School' was a rather tempting target.
 
@@ -34,6 +34,3 @@ Expected to be disposed of as scrap, in 1967 efforts were initiated to preserve 
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-

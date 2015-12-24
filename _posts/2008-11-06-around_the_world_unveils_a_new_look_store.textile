@@ -29,22 +29,3 @@ To celebrate this change Jon and Emma are inviting local customers to join them 
 'We are very excited about our new image and offerings' states Jon, who set up _Around the World_ in June 1997. 'We are determined to deserve the support of our local community by offering a fantastic choice of products at competitive prices with great service. And the smart, fresh new identity to the shop will certainly help to maintain the individuality and character of St Margarets which appeals to so many of us.'
 
 Existing customers will be pleased to see that many of the existing services offered by Around the World, such as a complementary gift wrap and handmade paper bag with every purchase, will continue under the new _Denham & Finney_ offering.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-11-06-around_the_world_unveils_a_new_look_store in site.data.2008-11-06-around_the_world_unveils_a_new_look_store %}
-       <li>
-
-         {{ 2008-11-06-around_the_world_unveils_a_new_look_store.comment }}
-
-         <cite>{{ 2008-11-06-around_the_world_unveils_a_new_look_store.author }} on {{ 2008-11-06-around_the_world_unveils_a_new_look_store.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

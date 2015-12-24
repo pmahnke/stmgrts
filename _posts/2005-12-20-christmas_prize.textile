@@ -46,7 +46,7 @@ _Prize donated by The St Margarets' Traders Association._
 </div>
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images/toranXmaswinner05.jpg"><img src="http://www.stmgrts.org.uk/images/toranXmaswinner05-thumb.jpg" width="150" height="80" alt="Toran's Winning Picture" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2005/toranXmaswinner05.jpg"><img src="//stmgrts.org.uk/assets/images/2005/toranXmaswinner05-thumb.jpg" width="150" height="80" alt="Toran's Winning Picture" class="photo right" /></a>
 
 h4. The Christmas Poster Competition
 
@@ -56,7 +56,3 @@ _Prize donated by play insideout -- ("www.playinsideout.co.uk":http://www.playin
 </div> 
 
 <a name="collect">*</a> _please collect your prizes from Pauline Crisp at Churchill's St.Margaret's road offices from Tuesday_
-
-
-
-

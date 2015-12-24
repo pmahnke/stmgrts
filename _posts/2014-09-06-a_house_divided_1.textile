@@ -5,7 +5,7 @@ permalink: /archives/2014/09/a_house_divided_1.html
 category: around_town
 date: 2014-09-06 09:06:11
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//House_Divided.jpg" title="See larger version of - House Divided"><img src="http://www.stmgrts.org.uk/images//House_Divided_thumb.jpg" width="150" height="152" alt="House Divided" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/House_Divided.jpg" title="See larger version of - House Divided"><img src="//stmgrts.org.uk/assets/images/2014/House_Divided_thumb.jpg" width="150" height="152" alt="House Divided" class="right" /></a>
     
     Once Upon A Present Day...
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//House_Divided.jpg" title="See larger version of - House Divided"><img src="http://www.stmgrts.org.uk/images//House_Divided_thumb.jpg" width="250" height="254" alt="House Divided" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/House_Divided.jpg" title="See larger version of - House Divided"><img src="//stmgrts.org.uk/assets/images/2014/House_Divided_thumb.jpg" width="250" height="254" alt="House Divided" class="right" /></a>
 
 Once Upon A Present Day...
 
@@ -22,7 +22,7 @@ George and Flora had been married for a long time and seemed very happy together
 
 One day Flora came to the conclusion that she would be better off and much happier living on her own and so she decided to get shot of George. She also decided to divide their house down the middle, she taking one half and he the other.  When she told George and just as he began to splutter those inevitable questions like "What brought this on?" and "How will you manage on your own?" she informed him bluntly that she wasn't interested in his views. George thought this rather unfair considering how long they had shared and cared for their home.
 
-<a href="http://www.stmgrts.org.uk/images//house_divided_2.jpg" title="See larger version of - house divided"><img src="http://www.stmgrts.org.uk/images//house_divided_2_thumb.jpg" width="250" height="278" alt="house divided" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/house_divided_2.jpg" title="See larger version of - house divided"><img src="//stmgrts.org.uk/assets/images/2014/house_divided_2_thumb.jpg" width="250" height="278" alt="house divided" class="right" /></a>
 
 George and Flora had two children. The youngest was at college and still living at home. The other, who was working away, had moved out. When Flora told them the news of a possible marital breakup she encouraged the child living at home to discuss the matter with her and even offer an opinion... but the child living away she completely ignored. He was to have no involvement in what was about to happen - no discussion, no counsel, no comment. Only those actually residing in Flora's half of the house would be allowed to participate. That included the Polish lodger, Andrej. George didn't want Flora to terminate their relationship like this. Although he may have taken her for granted and kept a rather tight rein on their affairs, he did love her, not just for her good looks and engaging personality but also for her many talents and her not inconsiderable wealth.
 
@@ -50,24 +50,3 @@ bq. "And if a house be divided against itself, that house cannot stand."
 ??THE BIBLE: Mark 3:25??
 
 <cite>-- from Martyn Day</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-09-06-a_house_divided_1 in site.data.2014-09-06-a_house_divided_1 %}
-       <li>
-
-         {{ 2014-09-06-a_house_divided_1.comment }}
-
-         <cite>{{ 2014-09-06-a_house_divided_1.author }} on {{ 2014-09-06-a_house_divided_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2007-09-10 20:44:34
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Tams-Coope-067.jpg"><img src="http://www.stmgrts.org.uk/images/Tams-Coope-067-thumb.jpg" width="99" height="150" alt="Tams and Coope" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/Tams-Coope-067.jpg"><img src="//stmgrts.org.uk/assets/images/2007/Tams-Coope-067-thumb.jpg" width="99" height="150" alt="Tams and Coope" class="photo right" /></a>
 
 
 Making the short trip from the South Bank's National Theatre to Twickenham on "Sunday September 23rd":http://www.stmgrts.org.uk/event/show/200705141673, multi-award winner John Tams returns to Twickfolk at the Cabbage Patch, alongside Barry Coope.
@@ -28,7 +28,3 @@ Colin Hall of Get Rhythm and What's On in London commented "John Tams and Barry 
 Both Derbyshire born, John and Barry live in neighbouring communities, choosing their offers carefully to retain the sense of occasion that attends their performances.
 
 "We're both as enthusiastic now as ever we've been, we're still pushing the margins, still keen and ... still here." - they said ...
-
-
-
-

@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/balls.jpg"><img src="http://www.stmgrts.org.uk/images/balls-thumb.jpg" width="112" height="150" alt="Balls to Cancer Mystery Man" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/balls.jpg"><img src="//stmgrts.org.uk/assets/images/2006/balls-thumb.jpg" width="112" height="150" alt="Balls to Cancer Mystery Man" class="photo right" /></a>
 
 Nigel Cannings, a local resident, has passed  the following  along and asked that we help promote <em>Testicular Cancer Awareness Month</em>; however, I will leave the rest for Nigel to explain:
 
@@ -28,22 +28,3 @@ All of the money we receive is going to help support research into Testicular Ca
 There's also some mystery bloke on there as well - Don't know if you recognise him...
  
 </div>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-16-say_balls_to_ca in site.data.2006-06-16-say_balls_to_ca %}
-       <li>
-
-         {{ 2006-06-16-say_balls_to_ca.comment }}
-
-         <cite>{{ 2006-06-16-say_balls_to_ca.author }} on {{ 2006-06-16-say_balls_to_ca.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

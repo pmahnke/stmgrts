@@ -14,24 +14,3 @@ Strawberry Hill House, in Waldegrave Road, will officially open to visitors on S
 The Grade I listed building was built by the writer and son of Britain's first Prime Minister, Horace Walpole, between 1747 and 1792 as a Gothic fantasy. It is one of Britain's finest examples of Georgian Gothic Revival architecture."
 
 p. <cite>-- from "The Richmond &amp; Twickenham Times":http://www.richmondandtwickenhamtimes.co.uk/news/8416531.Strawberry_Hill_House_to_reopen_after___9m_restoration___/?ref=rss</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-09-30-strawberry_hill_house_reopens_2_october_2010 in site.data.2010-09-30-strawberry_hill_house_reopens_2_october_2010 %}
-       <li>
-
-         {{ 2010-09-30-strawberry_hill_house_reopens_2_october_2010.comment }}
-
-         <cite>{{ 2010-09-30-strawberry_hill_house_reopens_2_october_2010.author }} on {{ 2010-09-30-strawberry_hill_house_reopens_2_october_2010.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

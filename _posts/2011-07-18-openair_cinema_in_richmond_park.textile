@@ -5,7 +5,7 @@ permalink: /archives/2011/07/openair_cinema_in_richmond_park.html
 category: around_town
 date: 2011-07-18 18:47:33
 excerpt: |
-    <img src="http://www.wegottickets.com/nomadcinema/nomadcinema/images/camel_large.png" width="150" alt="Nomad logo" class="right" />
+    <img src="//stmgrts.org.uk/assets/images/2011/camel_large.png" width="150" alt="Nomad logo" class="right" />
     
     2,500 acres of beautiful wilderness in London: hills, woodlands, ponds, gardens, grasslands and 650 free roaming red deer -- Richmond Park is the largest and wildest of London's Royal Parks and a fine, fitting backdrop for the Nomad's 3-night mini-season of Nostalgic Adventure.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<img src="http://www.wegottickets.com/nomadcinema/nomadcinema/images/camel_large.png" width="150" alt="Nomad logo" class="right" />
+<img src="//stmgrts.org.uk/assets/images/2011/camel_large.png" width="150" alt="Nomad logo" class="right" />
 
 2,500 acres of beautiful wilderness in London: hills, woodlands, ponds, gardens, grasslands and 650 free roaming red deer -- Richmond Park is the largest and wildest of London's Royal Parks and a fine, fitting backdrop for the Nomad's 3-night mini-season of Nostalgic Adventure.
 
@@ -27,9 +27,3 @@ The Nomad and The Royal Parks invite you to an unprecedented season of outdoor c
 <li><a href="http://www.stmgrts.org.uk/event/show/200705142863">The African Queen</a><br />Friday, 2 September 6:30pm
 </li>
 </ul>
-
-
-
-
-
-

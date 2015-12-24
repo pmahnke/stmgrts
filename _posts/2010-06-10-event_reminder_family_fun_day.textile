@@ -7,7 +7,7 @@ date: 2010-06-10 09:51:33
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//punch_judy.jpg" title="See larger version of - Punch and Judy"><img src="http://www.stmgrts.org.uk/images//punch_judy_thumb.jpg" width="113" height="150" alt="Punch and Judy" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/punch_judy.jpg" title="See larger version of - Punch and Judy"><img src="//stmgrts.org.uk/assets/images/2010/punch_judy_thumb.jpg" width="113" height="150" alt="Punch and Judy" class="photo right" /></a>
 
 _Punch and Judy will be visiting St Margarets this weekend!_
 
@@ -20,9 +20,3 @@ Mr Punch added that the Punch and Judy shows will obviously be the main attracti
 Mr Punch is also looking forward to sampling some great food on the day including his all time favourite - Sausages!
 
 More information please see "www.mystmargarets.com":http://www.mystmargarets.com
-
-
-
-
-
-

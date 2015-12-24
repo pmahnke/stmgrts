@@ -7,7 +7,7 @@ date: 2005-09-07 21:39:54
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/realAleNick.jpg"><img src="http://www.stmgrts.org.uk/images/realAleNick-thumb.jpg" width="112" height="150" alt="Nick Dolan of RealAle" class="right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2005/realAleNick.jpg"><img src="//stmgrts.org.uk/assets/images/2005/realAleNick-thumb.jpg" width="112" height="150" alt="Nick Dolan of RealAle" class="right"/></a>
 
 _In May of this year, Nick Dolan opened a new local business, "Real Ale":/cgi-bin/directory.cgi?key=200505231555&action=getlisting on the high street in East Twickenham.  As you might have guessed from the name, Real Ale offers a wide selection of the finest real ales and ciders that are produced by British micro-breweries.  Previously, you could only get these by visiting the breweries or a few local outlets._
 
@@ -53,22 +53,3 @@ p. *Can you recommend some beer to food pairings?*
 bq. [In the store] we have a list of all our real ales in stock with tasting notes and recommended companion dishes, such as red meats, poultry, fish, curries, desserts and cheese.
 
 _Come meet Nick and taste some Real Ale at the "St Margarets Autumn Event":cgi-bin/events.cgi?key=200507211432&action=getevent on Saturday, 17 September 2005._
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-07-interview_nick in site.data.2005-09-07-interview_nick %}
-       <li>
-
-         {{ 2005-09-07-interview_nick.comment }}
-
-         <cite>{{ 2005-09-07-interview_nick.author }} on {{ 2005-09-07-interview_nick.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -16,23 +16,3 @@ We will commence refurbishing our new sales and lettings office very soon, with 
 If you have any queries please contact Michael Peacock on 020 8744 2434 or e-mail to "m.peacock@chasebuchanan.co.uk":mailto:m.peacock@chasebuchanan.co.uk.
 
 <cite>-- From Chase Buchanan</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-06-26-chase_buchanan_taking_phillip_hodges_offices in site.data.2008-06-26-chase_buchanan_taking_phillip_hodges_offices %}
-       <li>
-
-         {{ 2008-06-26-chase_buchanan_taking_phillip_hodges_offices.comment }}
-
-         <cite>{{ 2008-06-26-chase_buchanan_taking_phillip_hodges_offices.author }} on {{ 2008-06-26-chase_buchanan_taking_phillip_hodges_offices.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2007-07-26 09:59:53
 
 ---
 
-<a href="/images/events/alce_harfield.jpg" title="See larger version of - Flower painting"><img src="/images/events/alce_harfield_thumb.jpg" width="150" height="149" alt="Flower painting" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/alce_harfield.jpg" title="See larger version of - Flower painting"><img src="//stmgrts.org.uk/assets/images/2007/alce_harfield_thumb.jpg" width="150" height="149" alt="Flower painting" class="photo right" /></a>
 
 Alce was born in Sussex in 1966 into an artistic family, surrounded by photographers, art teachers, architects and printmakers, so it came as no surprise when she embarked on an artistic career of her own!
 
@@ -16,8 +16,3 @@ Alce studied at Worthing College of Art and paints in acrylics on canvas and pap
 The show runs from "Saturday 28th July to Saturday 11th August":http://www.stmgrts.org.uk/event/exhibition/200705141668 at Par Ici on Church Street in Twickenham.
 
 There is a _preview evening_ with glass of wine on Friday 27th July, 19.30 - 21.00.
-
-
-
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2006/06/moormead_playgr.html
 category: news
 date: 2006-06-19 21:19:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/playground_older.jpg"><img src="http://www.stmgrts.org.uk/images/playground_older-thumb.jpg" width="150" height="112" alt="Older Kids Area"  class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2006/playground_older.jpg"><img src="//stmgrts.org.uk/assets/images/2006/playground_older-thumb.jpg" width="150" height="112" alt="Older Kids Area"  class="photo right" /></a>
     
     For those of you who have not been in Moormead Park lately, work has begun on the refurbishment of the playground.  Starting about three weeks ago, the old playground has been completely removed as well as the fence parallel to Moormead Road.
     
@@ -14,35 +14,14 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/playground_older.jpg"><img src="http://www.stmgrts.org.uk/images/playground_older-thumb.jpg" width="150" height="112" alt="Older Kids Area"  class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/playground_older.jpg"><img src="//stmgrts.org.uk/assets/images/2006/playground_older-thumb.jpg" width="150" height="112" alt="Older Kids Area"  class="photo right" /></a>
 
 For those of you who have not been in Moormead Park lately, work has begun on the refurbishment of the playground.  Starting about three weeks ago, the old playground has been completely removed as well as the fence parallel to Moormead Road.
 
 Currently only the brick outlines of the new toddler and children's areas are visible.  However, the Council still hopes to have all work completed by the St Margarets' Fair on 15 July.
 
-<a href="http://www.stmgrts.org.uk/images/playground_toddler.jpg"><img src="http://www.stmgrts.org.uk/images/playground_toddler-thumb.jpg" width="150" height="112" alt="Toddlers Area" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/playground_toddler.jpg"><img src="//stmgrts.org.uk/assets/images/2006/playground_toddler-thumb.jpg" width="150" height="112" alt="Toddlers Area" class="photo right" /></a>
 
 Additionally, new lighting has been put up along the all the paths in the park; from Moormead Road to Cole Park Road, as well as from Cole Park View to St Margarets Grove.
 
 Also, do not forget that on Saturday, 24 June, there is the "Moormead Park Group : Pavilion Clearing Out Day":http://www.stmgrts.org.uk/event/Meeting/200606011527 hopes to clear out and paint the pavilion.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-19-moormead_playgr in site.data.2006-06-19-moormead_playgr %}
-       <li>
-
-         {{ 2006-06-19-moormead_playgr.comment }}
-
-         <cite>{{ 2006-06-19-moormead_playgr.author }} on {{ 2006-06-19-moormead_playgr.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

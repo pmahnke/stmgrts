@@ -9,7 +9,7 @@ date: 2011-10-31 13:49:08
 
 <div class="letter">
 
-<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
 
 A two-metre valve (penstock) in a major sewer serving Heathrow Airport jammed shut on Saturday afternoon at Cranford Bridge on the A4 Bath Road while engineers carried out routine maintenance.
 
@@ -27,7 +27,7 @@ Once normal flows resume, probably later this morning, some stronger than normal
 
 </div>
 
-|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310213.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310214.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310221.jpg" width="150" alt="Crane fish kill" class="photo" />|
+|<img src="//stmgrts.org.uk/assets/images/2011/pa310213.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310214.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310221.jpg" width="150" alt="Crane fish kill" class="photo" />|
 
 And the result - _major fish-kill on the River Crane._
 
@@ -37,21 +37,3 @@ People should not paddle in the water and wash thoroughly after contact. We advi
 
 
 -- from Ed Randall
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-10-31-river_crane_polluted in site.data.2011-10-31-river_crane_polluted %}
-       <li>
-
-         {{ 2011-10-31-river_crane_polluted.comment }}
-
-         <cite>{{ 2011-10-31-river_crane_polluted.author }} on {{ 2011-10-31-river_crane_polluted.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

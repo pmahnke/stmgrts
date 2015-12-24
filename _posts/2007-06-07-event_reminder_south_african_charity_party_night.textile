@@ -7,7 +7,7 @@ date: 2007-06-07 20:57:06
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/RedLionPosterPage.jpg"><img src="http://www.stmgrts.org.uk/images/RedLionPosterPage-thumb.jpg" width="105" height="150" alt="flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/RedLionPosterPage.jpg"><img src="//stmgrts.org.uk/assets/images/2007/RedLionPosterPage-thumb.jpg" width="105" height="150" alt="flyer" class="photo right" /></a>
 
 
 
@@ -20,9 +20,3 @@ Just to give you a little background info on our charity:
 Katherine Lee, Project Director of the charity, went to school in West London and is now devoting her career to working for the charity in Cape Town, supported by family and friends in Twickenham. The African Pulse provides schools with innovative educational resources to enhance life skills and HIV/AIDS education amongst 8-14 year olds.
 
 These teaching resources which are produced in South Africa includes tools such as a CD-ROM, comic book, video, activity books and facilitator's guides. Through animated stories, games and interactive classroom work, the programme addresses issues around growing up, relationships, healthy living, sex and HIV/AIDS, with a focus on promoting positive values and attitudes.
-
-
-
-
-
-

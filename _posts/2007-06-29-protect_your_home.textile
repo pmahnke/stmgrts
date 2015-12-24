@@ -16,24 +16,3 @@ So don't be complacent, make sure all your windows and doors are locked securely
 If you need locks or security items do go and see the helpful and friendly staff at Cowley security at 146 Colne Road Twickenham (phone 8894 1212) -- no this is not my shop! I just know them to be a local, long established, and very helpful small business."
 
 p. ??-- from reader, Lee Hearson??
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-29-protect_your_home in site.data.2007-06-29-protect_your_home %}
-       <li>
-
-         {{ 2007-06-29-protect_your_home.comment }}
-
-         <cite>{{ 2007-06-29-protect_your_home.author }} on {{ 2007-06-29-protect_your_home.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

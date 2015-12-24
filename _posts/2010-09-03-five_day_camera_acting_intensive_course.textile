@@ -7,7 +7,7 @@ date: 2010-09-03 11:28:46
 
 ---
 
-<img alt="FVLLogobutton.gif" src="http://www.stmgrts.org.uk/images/FVLLogobutton-thumb.gif" width="112" height="95" class="right"/>
+<img alt="FVLLogobutton.gif" src="//stmgrts.org.uk/assets/images/2010/FVLLogobutton-thumb.gif" width="112" height="95" class="right"/>
 
 
 From 25<sup>th</sup> October - 29<sup>th</sup> October 2010 in Twickenham.
@@ -21,8 +21,3 @@ Practical and inclusive with a very small group to allow for specific, catered a
 With an emphasis on practical scene work, the process of working intimately with a director and other actors will be deconstructed and demystified. The course will consist of 4 x 7 hour workshop days and 1 x 7 hour shoot day.
 
 For more information: "filmventure.co.uk/intensivefilmacting.html":http://filmventure.co.uk/intensivefilmacting.html
-
-
-
-
-

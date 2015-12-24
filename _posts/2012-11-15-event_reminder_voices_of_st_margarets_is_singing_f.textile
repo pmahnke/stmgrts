@@ -5,7 +5,7 @@ permalink: /archives/2012/11/event_reminder_voices_of_st_margarets_is_singing_f.
 category: around_town
 date: 2012-11-15 21:52:23
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//surya_charity_concert_dec_2012.jpg" title="See larger version of - surya charity concert dec 2012"><img src="http://www.stmgrts.org.uk/images//surya_charity_concert_dec_2012_thumb.jpg" width="150" height="199" alt="surya charity concert dec 2012" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/surya_charity_concert_dec_2012.jpg" title="See larger version of - surya charity concert dec 2012"><img src="//stmgrts.org.uk/assets/images/2012/surya_charity_concert_dec_2012_thumb.jpg" width="150" height="199" alt="surya charity concert dec 2012" class="photo right" /></a>
     
     On Monday December 17<sup>th</sup> 2012  at the ETNA, 13 Rosslyn Rd, E. Twickenham TW1 2AR  ("www.etnacentre.org":http://www.etnacentre.org) from 6-8.30pm, Voices of St Margarets  is singing to raise money for Save the Children's life-saving work in the world's poorest countries.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//surya_charity_concert_dec_2012.jpg" title="See larger version of - surya charity concert dec 2012"><img src="http://www.stmgrts.org.uk/images//surya_charity_concert_dec_2012_thumb.jpg" width="150" height="199" alt="surya charity concert dec 2012" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/surya_charity_concert_dec_2012.jpg" title="See larger version of - surya charity concert dec 2012"><img src="//stmgrts.org.uk/assets/images/2012/surya_charity_concert_dec_2012_thumb.jpg" width="150" height="199" alt="surya charity concert dec 2012" class="photo right" /></a>
 
 On Monday December 17<sup>th</sup> 2012  at the ETNA, 13 Rosslyn Rd, E. Twickenham TW1 2AR  ("www.etnacentre.org":http://www.etnacentre.org) from 6-8.30pm, Voices of St Margarets  is singing to raise money for Save the Children's life-saving work in the world's poorest countries.
 
@@ -36,7 +36,3 @@ Every year 6.9 million children under five die from easily preventable causes li
 If you would like to find out more about Save the Children's singing initiative, visit savethechildren.org.uk/sing
 
 For more information please contact Surya on 07770 993289 or email "info@vitalvoices.co.uk":mailto:info@vitalvoices.co.uk
-
-
-
-

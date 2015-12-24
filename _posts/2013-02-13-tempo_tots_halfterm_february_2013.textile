@@ -5,7 +5,7 @@ permalink: /archives/2013/02/tempo_tots_halfterm_february_2013.html
 category: around_town
 date: 2013-02-13 22:09:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//TempoTotsEmailLogo.jpg" title="See larger version of - TempoTots lLogo"><img src="http://www.stmgrts.org.uk/images//TempoTotsEmailLogo_thumb.jpg" width="150" height="150" alt="TempoTots lLogo" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/TempoTotsEmailLogo.jpg" title="See larger version of - TempoTots lLogo"><img src="//stmgrts.org.uk/assets/images/2013/TempoTotsEmailLogo_thumb.jpg" width="150" height="150" alt="TempoTots lLogo" class=" right" /></a>
     
     _Looking for something to do in half term?  Why not pop along to the fab TEMPO TOTS!!!_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//TempoTotsEmailLogo.jpg" title="See larger version of - TempoTots lLogo"><img src="http://www.stmgrts.org.uk/images//TempoTotsEmailLogo_thumb.jpg" width="150" height="150" alt="TempoTots lLogo" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/TempoTotsEmailLogo.jpg" title="See larger version of - TempoTots lLogo"><img src="//stmgrts.org.uk/assets/images/2013/TempoTotsEmailLogo_thumb.jpg" width="150" height="150" alt="TempoTots lLogo" class=" right" /></a>
 
 _Looking for something to do in half term?  Why not pop along to the fab TEMPO TOTS!!!_
 
@@ -82,7 +82,3 @@ h4. For further information and booking enquiries please contact Charlotte:
 * phone: 07956 447118
 * "bookings@tempo-tots.com":mailto:bookings@tempo-tots.com
 * "www.tempo-tots.com":http://www.tempo-tots.com
-
-
-
-

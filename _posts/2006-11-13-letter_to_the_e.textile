@@ -20,23 +20,3 @@ Now after three weeks someone somewhere has seen some sense and placed barriers 
 How much longer will they be there?  Are we just expected to put up with this ignorant behaviour by our utility companies?
 
 p. <em>-- Ed Randall</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-13-letter_to_the_e in site.data.2006-11-13-letter_to_the_e %}
-       <li>
-
-         {{ 2006-11-13-letter_to_the_e.comment }}
-
-         <cite>{{ 2006-11-13-letter_to_the_e.author }} on {{ 2006-11-13-letter_to_the_e.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

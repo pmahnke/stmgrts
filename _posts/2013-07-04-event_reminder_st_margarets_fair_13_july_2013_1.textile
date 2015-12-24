@@ -5,33 +5,14 @@ permalink: /archives/2013/07/event_reminder_st_margarets_fair_13_july_2013_1.htm
 category: around_town
 date: 2013-07-04 21:21:45
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//St-Margarets-Fair-2013.jpg" title="See larger version of - St Margarets Fair 2013"><img src="http://www.stmgrts.org.uk/images//St-Margarets-Fair-2013_thumb.jpg" width="150" alt="St Margarets Fair 2013" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/St-Margarets-Fair-2013.jpg" title="See larger version of - St Margarets Fair 2013"><img src="//stmgrts.org.uk/assets/images/2013/St-Margarets-Fair-2013_thumb.jpg" width="150" alt="St Margarets Fair 2013" class="photo right" /></a>
     
     The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//St-Margarets-Fair-2013.jpg" title="St Margarets Fair 2013 - The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up."><img src="http://www.stmgrts.org.uk/images//St-Margarets-Fair-2013.jpg" width="100%" alt="St Margarets Fair 2013 - The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up." class=" center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/St-Margarets-Fair-2013.jpg" title="St Margarets Fair 2013 - The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up."><img src="http://www.stmgrts.org.uk/images//St-Margarets-Fair-2013.jpg" width="100%" alt="St Margarets Fair 2013 - The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up." class=" center" /></a>
 
 The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up.
 
 * "More information":http://www.stmgrts.org.uk/event/fair/200705144026
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-07-04-event_reminder_st_margarets_fair_13_july_2013_1 in site.data.2013-07-04-event_reminder_st_margarets_fair_13_july_2013_1 %}
-       <li>
-
-         {{ 2013-07-04-event_reminder_st_margarets_fair_13_july_2013_1.comment }}
-
-         <cite>{{ 2013-07-04-event_reminder_st_margarets_fair_13_july_2013_1.author }} on {{ 2013-07-04-event_reminder_st_margarets_fair_13_july_2013_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -23,23 +23,3 @@ p>. -- from Trevor Whittall
 
 
 p. If you want to make representations on this subject, then write to "licensing@richmond.gov.uk":mailto:licensing@richmond.gov.uk.  Also,  Trevor Whittall ("trevor.whittall@kcl.ac.uk":mailto:trevor.whittall@kcl.ac.uk) is prepared to help residents with any issues.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-08-15-alisa_taverns_a in site.data.2005-08-15-alisa_taverns_a %}
-       <li>
-
-         {{ 2005-08-15-alisa_taverns_a.comment }}
-
-         <cite>{{ 2005-08-15-alisa_taverns_a.author }} on {{ 2005-08-15-alisa_taverns_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

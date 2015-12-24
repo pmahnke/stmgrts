@@ -5,7 +5,7 @@ permalink: /archives/2014/04/dressing_the_press.html
 category: around_town
 date: 2014-04-03 20:42:24
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//DRESSING_Jacobean_house.jpg" title="See larger version of - Jacobean house"><img src="http://www.stmgrts.org.uk/images//DRESSING_Jacobean_house_thumb.jpg" width="150" height="100" alt="Jacobean house" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/DRESSING_Jacobean_house.jpg" title="See larger version of - Jacobean house"><img src="//stmgrts.org.uk/assets/images/2014/DRESSING_Jacobean_house_thumb.jpg" width="150" height="100" alt="Jacobean house" class="photo right" /></a>
     
     <em>or how to titivate your 'Telegraph'</em>
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//DRESSING_Jacobean_house.jpg" title="See larger version of - Jacobean house"><img src="http://www.stmgrts.org.uk/images//DRESSING_Jacobean_house_thumb.jpg" width="150" height="100" alt="Jacobean house" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DRESSING_Jacobean_house.jpg" title="See larger version of - Jacobean house"><img src="//stmgrts.org.uk/assets/images/2014/DRESSING_Jacobean_house_thumb.jpg" width="150" height="100" alt="Jacobean house" class="photo right" /></a>
 
 <em>or how to titivate your 'Telegraph'</em>
 
@@ -26,7 +26,7 @@ Every morning, instead of sticking her newspapers, the <em>'Times'</em>, the <em
 
 h3. DRESSING THE PRESS - THE METHOD.
 
-<a href="http://www.stmgrts.org.uk/images//DRESSING_butlers-parlour.jpg" title="See larger version of - a butlers parlour"><img src="http://www.stmgrts.org.uk/images//DRESSING_butlers-parlour_thumb.jpg" width="150" height="111" alt="a butlers parlour" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DRESSING_butlers-parlour.jpg" title="See larger version of - a butlers parlour"><img src="//stmgrts.org.uk/assets/images/2014/DRESSING_butlers-parlour_thumb.jpg" width="150" height="111" alt="a butlers parlour" class="photo right" /></a>
 
 h4. Requisites:-
 
@@ -48,7 +48,7 @@ h4. Requisites:-
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//DRESSING_butler.jpg" title="See larger version of - a butler"><img src="http://www.stmgrts.org.uk/images//DRESSING_butler_thumb.jpg" width="150" height="118" alt="a butler" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DRESSING_butler.jpg" title="See larger version of - a butler"><img src="//stmgrts.org.uk/assets/images/2014/DRESSING_butler_thumb.jpg" width="150" height="118" alt="a butler" class="photo left" /></a>
 
 A proficient butler will know that in the country the breakfast hour varies, from 9.00 to 10.30am, and in some country houses it is an understood thing that the guests are at liberty to come down to breakfast at any time between these two hours.
 
@@ -62,7 +62,7 @@ The effect of the warm iron and the brown paper is remarkable. As well as soakin
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//DRESSING_queen_and_queen_mother.jpg" title="See larger version of - the Queen and Queen Mother"><img src="http://www.stmgrts.org.uk/images//DRESSING_queen_and_queen_mother_thumb.jpg" width="150" height="90" alt="the Queen and Queen Mother" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DRESSING_queen_and_queen_mother.jpg" title="See larger version of - the Queen and Queen Mother"><img src="//stmgrts.org.uk/assets/images/2014/DRESSING_queen_and_queen_mother_thumb.jpg" width="150" height="90" alt="the Queen and Queen Mother" class="photo left" /></a>
 
 On one particular occasion both the Queen and the Queen Mother spent a weekend at the Jacobean house. Because of formal protocol I had to deliver two copies of every national and regional newspaper along with the regular copy of the <em>'Sporting Life'</em> ...a particular favourite of the Queen Mother I was told. The ironing, folding and warming in the butler's pantry went on forever even with the assistance of additional staff. My efforts in dragging half of Fleet Street up the long drive on my bike were not forgotten. That Christmas, instead of the usual <em>'thank-you'</em> card and 5/- tip, the lady of the manor gave me a brace of pheasants, a bottle of whiskey and a bottle of port. Unfortunately I could enjoy none of it. I didn't like the pheasant - too gamey and too much lead shot and I couldn't drink the drink either. My Mum said I too young.
 
@@ -70,7 +70,3 @@ On one particular occasion both the Queen and the Queen Mother spent a weekend a
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

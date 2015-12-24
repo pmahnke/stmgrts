@@ -16,24 +16,3 @@ If you do receive a card with these details, then please contact Royal Mail Frau
 *This is a genuine scam.*
 
 This service is under investigation by ICSTIS. Please be aware of this scam and forward this information to as many as possible.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-18-parcel_delivery in site.data.2006-10-18-parcel_delivery %}
-       <li>
-
-         {{ 2006-10-18-parcel_delivery.comment }}
-
-         <cite>{{ 2006-10-18-parcel_delivery.author }} on {{ 2006-10-18-parcel_delivery.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

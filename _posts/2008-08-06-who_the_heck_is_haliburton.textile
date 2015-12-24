@@ -5,7 +5,7 @@ permalink: /archives/2008/08/who_the_heck_is_haliburton.html
 category: around_town
 date: 2008-08-06 15:15:25
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/Thomas_Haliburton.jpg"><img src="http://www.stmgrts.org.uk/images/Thomas_Haliburton-thumb.jpg" width="121" height="150" alt="Thomas Chandler Haliburton" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/Thomas_Haliburton.jpg"><img src="//stmgrts.org.uk/assets/images/2008/Thomas_Haliburton-thumb.jpg" width="121" height="150" alt="Thomas Chandler Haliburton" class="photo right" /></a>
     
     
     There are some lucky people whose self-esteem is enhanced by living in a road named after the famous or the good -- or both. Statesmen, sports personalities, explorers and even top-secret World War 2 acronyms have all given their names to local streets.
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Thomas_Haliburton.jpg"><img src="http://www.stmgrts.org.uk/images/Thomas_Haliburton-thumb.jpg" width="121" height="150" alt="Thomas Chandler Haliburton" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/Thomas_Haliburton.jpg"><img src="//stmgrts.org.uk/assets/images/2008/Thomas_Haliburton-thumb.jpg" width="121" height="150" alt="Thomas Chandler Haliburton" class="photo right" /></a>
 
 
 There are some lucky people whose self-esteem is enhanced by living in a road named after the famous or the good -- or both. Statesmen, sports personalities, explorers and even top-secret World War 2 acronyms have all given their names to local streets.
@@ -35,22 +35,3 @@ In 1863 Haliburton took up the famous Banting Diet, the high protein forerunner 
 Haliburton is buried next door to another famous Canadian, the explorer George Vancouver. Unfortunately they are about 2 miles out. Vancouver is actually buried in St Peter's churchyard, Petersham. As Sam Slick would have had it  -- 'they are barking up the wrong tree!'</em>
 
 <cite>-- Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-08-06-who_the_heck_is_haliburton in site.data.2008-08-06-who_the_heck_is_haliburton %}
-       <li>
-
-         {{ 2008-08-06-who_the_heck_is_haliburton.comment }}
-
-         <cite>{{ 2008-08-06-who_the_heck_is_haliburton.author }} on {{ 2008-08-06-who_the_heck_is_haliburton.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -7,7 +7,7 @@ date: 2011-01-05 14:06:48
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//fvl_dublin-67.jpg" title="See larger version of - class"><img src="http://www.stmgrts.org.uk/images//fvl_dublin-67_thumb.jpg" width="150" height="100" alt="class" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/fvl_dublin-67.jpg" title="See larger version of - class"><img src="//stmgrts.org.uk/assets/images/2011/fvl_dublin-67_thumb.jpg" width="150" height="100" alt="class" class="photo right" /></a>
 
 _From 31<sup>st</sup> January - 4<sup>th</sup> February 2011 in Twickenham._
 
@@ -16,9 +16,3 @@ If your New Years Resolution was to finally give your acting career a boost, the
 Full details about the course are on our website along with testimonials from past participants: "filmventure.co.uk/intensivefilmactinglondon.html":http://filmventure.co.uk/intensivefilmactinglondon.html
 
 Email Amy on "admin@filmventure.co.uk":mailto:admin@filmventure.co.uk for more information or call 02034417151.
-
-
-
-
-
-

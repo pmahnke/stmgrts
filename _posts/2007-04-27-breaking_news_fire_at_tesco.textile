@@ -12,23 +12,3 @@ We have received a report that there is currently a fire at Tesco.  Apparently t
 *Update:* at 6pm, I spoke to a fireman, still at Tesco, who said the "fire was in the store room and we still don't know the cause."
 
 *Update:* _The Richmond & Twickenham Times_ have "an article on the fire":http://www.richmondandtwickenhamtimes.co.uk/display.var.1361302.0.0.php?utag=11331 with a few more details.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-04-27-breaking_news_fire_at_tesco in site.data.2007-04-27-breaking_news_fire_at_tesco %}
-       <li>
-
-         {{ 2007-04-27-breaking_news_fire_at_tesco.comment }}
-
-         <cite>{{ 2007-04-27-breaking_news_fire_at_tesco.author }} on {{ 2007-04-27-breaking_news_fire_at_tesco.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

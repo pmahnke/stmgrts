@@ -6,7 +6,7 @@ category: news
 date: 2015-08-28 18:49:28
 excerpt: |
     
-    
+    <div class="box">
     
     Martyn Day's article "Me No See RWC Legacy":http://www.stmgrts.org.uk/archives/2015/08/me_no_see_rwc_legacy.html was picked up by The Guardian on 17 August 2015.
     
@@ -28,9 +28,3 @@ Drunken fans, traffic chaos, rubbish everywhere - Richmond council wants pubs to
 It is every resident's nightmare: inebriated sports fans vomiting or urinating on the streets and into front gardens after a match. Yet this is what lies in store for the residents of leafy Richmond and Twickenham, south-west London, when the Rugby World Cup gets under way next month.
 
 * "Read more at The Guardian":http://www.theguardian.com/sport/2015/aug/17/rugby-world-cup-whats-in-it-for-the-residents-of-twickenham
-
-
-
-
-
-

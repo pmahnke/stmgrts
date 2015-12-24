@@ -7,7 +7,7 @@ date: 2012-03-01 20:16:52
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//st_margarets_2012_bag.jpg" title="See larger version of - the 2012 st margarets bag"><img src="http://www.stmgrts.org.uk/images//st_margarets_2012_bag_thumb.jpg" width="150" height="248" alt="the 2012 st margarets bag" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/st_margarets_2012_bag.jpg" title="See larger version of - the 2012 st margarets bag"><img src="//stmgrts.org.uk/assets/images/2012/st_margarets_2012_bag_thumb.jpg" width="150" height="248" alt="the 2012 st margarets bag" class="right" /></a>
 
 _Your local traders are getting ready to celebrate The Queens Diamond Jubilee._
 
@@ -30,22 +30,3 @@ To book a stall at the fair please contact "events@mystmargarets.com":mailto:eve
 h3. Do your bit to help
 
 The new St Margarets shopper is now available throughout St Margarets including: Streets, Armstrongs, Cutters, The Chemist, Heirloom, Denham & Finney, Monica Mooney and Churchills Sales and Lettings offices. All of the profits from the sale of the bags will go towards our Jubilee celebrations - please support St Margarets by buying your bag.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-03-01-st_margarets_get_ready_to_celebrate in site.data.2012-03-01-st_margarets_get_ready_to_celebrate %}
-       <li>
-
-         {{ 2012-03-01-st_margarets_get_ready_to_celebrate.comment }}
-
-         <cite>{{ 2012-03-01-st_margarets_get_ready_to_celebrate.author }} on {{ 2012-03-01-st_margarets_get_ready_to_celebrate.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -31,23 +31,3 @@ h4. What do you think?
 * leave a comment
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-05-24-local_school_cancels_mosque_trip in site.data.2011-05-24-local_school_cancels_mosque_trip %}
-       <li>
-
-         {{ 2011-05-24-local_school_cancels_mosque_trip.comment }}
-
-         <cite>{{ 2011-05-24-local_school_cancels_mosque_trip.author }} on {{ 2011-05-24-local_school_cancels_mosque_trip.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

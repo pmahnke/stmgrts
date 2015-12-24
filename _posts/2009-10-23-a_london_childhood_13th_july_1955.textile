@@ -5,7 +5,7 @@ permalink: /archives/2009/10/a_london_childhood_13th_july_1955.html
 category: around_town
 date: 2009-10-23 14:56:32
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/ruth_ellis.jpg"><img src="http://www.stmgrts.org.uk/images/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/ruth_ellis.jpg"><img src="//stmgrts.org.uk/assets/images/2009/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
     
     
     At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by. The second knocked Blakely to the ground. Ruth calmly walked over to where he was laying and fired the remaining four shots at close range. Still holding the gun in her hand she was immediately arrested by an off duty policeman who heard her say, "I am guilty, I'm a little confused".
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/ruth_ellis.jpg"><img src="http://www.stmgrts.org.uk/images/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/ruth_ellis.jpg"><img src="//stmgrts.org.uk/assets/images/2009/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
 
 
 At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by. The second knocked Blakely to the ground. Ruth calmly walked over to where he was laying and fired the remaining four shots at close range. Still holding the gun in her hand she was immediately arrested by an off duty policeman who heard her say, "I am guilty, I'm a little confused".
@@ -37,7 +37,7 @@ bq.. "Mrs Ellis, when you fired that revolver at close range into the body of Da
 
 
 
-<a href="http://www.stmgrts.org.uk/images/ruth_ellis_blakey.jpg"><img src="http://www.stmgrts.org.uk/images/ruth_ellis_blakey-thumb.jpg" width="121" height="150" alt="RUTH ELLIS" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/ruth_ellis_blakey.jpg"><img src="//stmgrts.org.uk/assets/images/2009/ruth_ellis_blakey-thumb.jpg" width="121" height="150" alt="RUTH ELLIS" class="photo right" /></a>
 
 
 
@@ -53,7 +53,7 @@ Some of the boys who lived closest to the prison claimed that during her trial t
 
 In the days before the execution a morbid atmosphere descended over the school. Boys spent ages talking about what was going to happen, often referring back to other hangings that had taken place in our short lifetime. There were enough of them:- Neville Heath, John Christie, Timothy Evans and John Haigh, the notorious acid bath murderer. The Ellis execution and a gruesome curiosity about what they were doing just up the road prompted a small gang of us to visit the prison on our way to school. The date was 13<sup>th</sup> July 1955.
 
-<a href="http://www.stmgrts.org.uk/images/holloway_prison_ruth_ellis.png"><img src="http://www.stmgrts.org.uk/images/holloway_prison_ruth_ellis-thumb.png" width="150" height="118" alt="THE SCENE OUTSIDE HOLLOWAY PRISON" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/holloway_prison_ruth_ellis.png"><img src="//stmgrts.org.uk/assets/images/2009/holloway_prison_ruth_ellis-thumb.png" width="150" height="118" alt="THE SCENE OUTSIDE HOLLOWAY PRISON" class="photo right" /></a>
 
 
 
@@ -78,22 +78,3 @@ Numerous attempts have been made to grant Ruth Ellis a posthumous pardon, the mo
 I have never forgotten.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-10-23-a_london_childhood_13th_july_1955 in site.data.2009-10-23-a_london_childhood_13th_july_1955 %}
-       <li>
-
-         {{ 2009-10-23-a_london_childhood_13th_july_1955.comment }}
-
-         <cite>{{ 2009-10-23-a_london_childhood_13th_july_1955.author }} on {{ 2009-10-23-a_london_childhood_13th_july_1955.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

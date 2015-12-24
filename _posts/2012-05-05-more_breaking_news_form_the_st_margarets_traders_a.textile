@@ -7,7 +7,7 @@ date: 2012-05-05 13:38:00
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//St-Margarets-Diamond-part-2.jpg" title="See larger version of - St Margarets Diamond part 2"><img src="http://www.stmgrts.org.uk/images//St-Margarets-Diamond-part-2_thumb.jpg" width="150" height="212" alt="St Margarets Diamond part 2" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/St-Margarets-Diamond-part-2.jpg" title="See larger version of - St Margarets Diamond part 2"><img src="//stmgrts.org.uk/assets/images/2012/St-Margarets-Diamond-part-2_thumb.jpg" width="150" height="212" alt="St Margarets Diamond part 2" class="photo right" /></a>
 
 *It is with great regret we announce that the famous St Margarets Diamond has gone missing!*
 
@@ -26,6 +26,3 @@ h4. Help us and help Johnny's Journey too...
 Churchills will also make a donation to local charity Jonny's Journey for every completed clue sheet that is returned to their offices in St Margarets Road.
 
 Good luck 
-
-
-

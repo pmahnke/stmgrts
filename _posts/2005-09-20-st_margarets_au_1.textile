@@ -7,7 +7,7 @@ date: 2005-09-20 19:50:31
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/autfair05_street.jpg"><img src="http://www.stmgrts.org.uk/images/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2005/autfair05_street.jpg"><img src="//stmgrts.org.uk/assets/images/2005/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
 
 The _St Margarets Autumn Fair_, held in Crown Road on Saturday, 17<sup>th</sup> September, was a big success.  Hundreds, perhaps a thousand, people came out to enjoy a day of live music, food, drink, clowns, art, a fun fair and more.
 
@@ -51,22 +51,3 @@ h3. 8 Things You Didn't Know About the Event
 # The RSPCA stall was setup and run by a local school girl (go Emily!)
 # The Harley Davidson 'ride' was provided at the last moment by a local resident who wanted to help the _Shooting Star_ charity and let the neighbourhood kids, who keep asking for a ride, have one.
 # Kim Hare coordinated the Dog Show and all the craft stalls
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-20-st_margarets_au_1 in site.data.2005-09-20-st_margarets_au_1 %}
-       <li>
-
-         {{ 2005-09-20-st_margarets_au_1.comment }}
-
-         <cite>{{ 2005-09-20-st_margarets_au_1.author }} on {{ 2005-09-20-st_margarets_au_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

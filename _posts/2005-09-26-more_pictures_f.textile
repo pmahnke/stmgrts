@@ -7,15 +7,8 @@ date: 2005-09-26 11:35:15
 
 ---
 
-<img alt="dogshow" src="http://www.stmgrts.org.uk/archives/dogshow-thumb.jpg" width="150" height="113" class="img_right photo ignore"/>
+<img alt="dogshow" src="//stmgrts.org.uk/assets/images/2005/dogshow-thumb.jpg" width="150" height="113" class="img_right photo ignore"/>
 
 Stevan Bennett has given us "five more photos":/static/fair/aut_05_2.html of the _St Margarets Autumn Event_ to share.  Most are from the dog show.
 
 Thank you Stevan.
-
-
-
-
-
-
-

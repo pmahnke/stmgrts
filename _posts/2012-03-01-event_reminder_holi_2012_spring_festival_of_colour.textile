@@ -7,7 +7,7 @@ date: 2012-03-01 20:06:12
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//holi_smaller2.jpg" title="See larger version of - holi paints"><img src="http://www.stmgrts.org.uk/images//holi_smaller2_thumb.jpg" width="150" height="85" alt="holi paints" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/holi_smaller2.jpg" title="See larger version of - holi paints"><img src="//stmgrts.org.uk/assets/images/2012/holi_smaller2_thumb.jpg" width="150" height="85" alt="holi paints" class="photo right" /></a>
 
 
 "Saturday, 10th March 11.30am to 4pm":http://www.stmgrts.org.uk/event/event/200705143244
@@ -19,8 +19,3 @@ Twickenham town centre will become a vision of colour and excitement as performe
 h4. More Information
 
 * http://www.richmond.gov.uk/home/leisure_and_culture/arts/holi.htm
-
-
-
-
-

@@ -32,21 +32,3 @@ We are all doing well and enjoying the recent weather.  I hope you all are doin
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-04-09-letters_to_amer_4 in site.data.2006-04-09-letters_to_amer_4 %}
-       <li>
-
-         {{ 2006-04-09-letters_to_amer_4.comment }}
-
-         <cite>{{ 2006-04-09-letters_to_amer_4.author }} on {{ 2006-04-09-letters_to_amer_4.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

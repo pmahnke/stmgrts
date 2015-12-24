@@ -20,23 +20,3 @@ Consultees will have the opportunity to resubmit their response if they feel tha
 "consultations.tfl.gov.uk":https://consultations.tfl.gov.uk/consultation-and-engagement/a316-st-margarets-crossing
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul in site.data.2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul %}
-       <li>
-
-         {{ 2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul.comment }}
-
-         <cite>{{ 2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul.author }} on {{ 2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

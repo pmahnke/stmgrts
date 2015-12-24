@@ -47,21 +47,3 @@ Headteacher
 
 * "Richmond Planning Officer Recommendation":http://cabnet.richmond.gov.uk/Published/C00000224/M00001611/AI00013074/$STMARYSCOFEJUNIORSCHOOL.doc.pdf
 * "image of original letter from Stuart Campbell":http://www.stmgrts.org.uk/images/stmarys-astroturf.jpg
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-05-08-st_marys_astroturf_planning_problems in site.data.2007-05-08-st_marys_astroturf_planning_problems %}
-       <li>
-
-         {{ 2007-05-08-st_marys_astroturf_planning_problems.comment }}
-
-         <cite>{{ 2007-05-08-st_marys_astroturf_planning_problems.author }} on {{ 2007-05-08-st_marys_astroturf_planning_problems.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

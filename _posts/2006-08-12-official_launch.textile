@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/NTSTM_PLG_launch.jpg"><img src="http://www.stmgrts.org.uk/images/NTSTM_PLG_launch-thumb.jpg" width="150" height="159" alt="North Twickenham and St Margarets Police and local councillors" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/NTSTM_PLG_launch.jpg"><img src="//stmgrts.org.uk/assets/images/2006/NTSTM_PLG_launch-thumb.jpg" width="150" height="159" alt="North Twickenham and St Margarets Police and local councillors" class="photo right" /></a>
 
 Recognising residents' concerns and following Government guidelines, a new Police Liaison Group has been set up for the North Twickenham and St Margarets' ward. It was launched at a public meeting on Wednesday 19 July in the Winchester Hall, St Margarets.
 
@@ -25,7 +25,3 @@ Liberal Democrat Councillor Ben Khosa said: "We are delighted to launch this new
 The team of normally six Police and Police Community Support Officers is dedicated to the community. In the meantime if you have any concerns please contact PS Arif Malik, PC Alan Richens or PCSO Lucy Burt and PCSO Eugenia Venour on 020 8721 2912, mobile 0787 9432330 or text 0778 1472588.
 
 -- _from a Liberal Democrat press release_
-
-
-
-

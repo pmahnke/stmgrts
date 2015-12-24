@@ -5,13 +5,13 @@ permalink: /archives/2009/01/recipe_thai_curried_chicken_salad.html
 category: food
 date: 2009-01-19 12:57:33
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/3208888807/" title="Thai Curried Chicken Salad by Peter M, on Flickr"><img src="http://farm4.static.flickr.com/3123/3208888807_3b82cf91fc_m.jpg" width="240" height="183" alt="Thai Curried Chicken Salad" class="photo right" /></a>
+    <a href="http://www.flickr.com/photos/mahnke/3208888807/" title="Thai Curried Chicken Salad by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2009/3208888807_3b82cf91fc_m.jpg" width="240" height="183" alt="Thai Curried Chicken Salad" class="photo right" /></a>
     
     It's January so if you're anything like me you've decided its time to eat healthy and save some money. One of the easiest ways to do both at once is to bring a packed lunch to work. Not all offices have microwaves (or at least not microwaves you'd actually want to use) so the lunch possibilities are often limited to things that can be eaten cold, like salads and sandwiches. I must admit I get a bit bored with both so I came up with a recipe that's a bit different, a little bit spicy and remains healthy at the same time. This Thai Curried Chicken Salad can be eaten either as a sandwich filling or on top of a salad.
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/3208888807/" title="Thai Curried Chicken Salad by Peter M, on Flickr"><img src="http://farm4.static.flickr.com/3123/3208888807_3b82cf91fc_m.jpg" width="240" height="183" alt="Thai Curried Chicken Salad" class="photo right" /></a>
+<a href="http://www.flickr.com/photos/mahnke/3208888807/" title="Thai Curried Chicken Salad by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2009/3208888807_3b82cf91fc_m.jpg" width="240" height="183" alt="Thai Curried Chicken Salad" class="photo right" /></a>
 
 It's January so if you're anything like me you've decided its time to eat healthy and save some money. One of the easiest ways to do both at once is to bring a packed lunch to work. Not all offices have microwaves (or at least not microwaves you'd actually want to use) so the lunch possibilities are often limited to things that can be eaten cold, like salads and sandwiches. I must admit I get a bit bored with both so I came up with a recipe that's a bit different, a little bit spicy and remains healthy at the same time. This Thai Curried Chicken Salad can be eaten either as a sandwich filling or on top of a salad.
 
@@ -37,6 +37,3 @@ Chop the chicken into small bite sized pieces and mix with all other ingredients
 </div>
 
 For further healthy recipes please see Catherine's website at "stmargaretskitchen.blogspot.com":http://stmargaretskitchen.blogspot.com/
-
-
-

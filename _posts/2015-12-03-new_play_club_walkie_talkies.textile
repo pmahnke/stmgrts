@@ -1,16 +1,17 @@
 ---
 layout: post
 title: "New Play Club - Walkie Talkies"
-permalink: /archives/2015/12/new-play-club-walkie-talkies.html
+permalink: /archives/2015/12/new_play_club_walkie_talkies.html
 category: around_town
-date: 2015-12-01 20:12:59
+date: 2015-12-03 19:20:23
 excerpt: |
-    <a href="/assets/images/2015/12/walkie-talkies.jpg" title="walkie talkies logo"><img src="/assets/images/2015/12/walkie-talkies-thumb.jpg" width="250" class="photo right" alt="walkie talkies logo" /></a>
-
+    <a href="//stmgrts.org.uk/assets/images/2015/walkie-talkies.jpg" title="See larger version of - walkie talkies"><img src="//stmgrts.org.uk/assets/images/2015/walkie-talkies_thumb.jpg" width="150" height="62" alt="walkie talkies" class=" right" /></a>
+    
     Join Walkie Talkies the new drop off play club for 1 - 3 year olds, focusing on child-led creative play with more structured Music and Dance fun to finish!
 
---- 
-<a href="/assets/images/2015/12/walkie-talkies.jpg" title="walkie talkies logo"><img src="/assets/images/2015/12/walkie-talkies-thumb.jpg" width="250" class="photo right" alt="walkie talkies logo" /></a>
+---
+
+<a href="//stmgrts.org.uk/assets/images/2015/walkie-talkies.jpg" title="See larger version of - walkie talkies"><img src="//stmgrts.org.uk/assets/images/2015/walkie-talkies_thumb.jpg" width="250" height="104" alt="walkie talkies" class=" right" /></a>
 
 Join Walkie Talkies the new drop off play club for 1 - 3 year olds, focusing on child-led creative play with more structured Music and Dance fun to finish!
 

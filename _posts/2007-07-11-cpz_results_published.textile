@@ -5,7 +5,7 @@ permalink: /archives/2007/07/cpz_results_published.html
 category: news
 date: 2007-07-11 13:12:19
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="http://www.stmgrts.org.uk/images/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="//stmgrts.org.uk/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
     
     The "report on the CPZ consultation has been published":http://tinyurl.com/2f4ww.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="http://www.stmgrts.org.uk/images/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="//stmgrts.org.uk/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
 
 The "report on the CPZ consultation has been published":http://tinyurl.com/2f4ww5.
 
@@ -33,7 +33,7 @@ The following roads have clearly voted 'YES':
 |St Peters Road|70%|
 |Cumberland Close|55%| 
 
-<a href="http://www.stmgrts.org.uk/images/stmargarets_cpz_results_map.jpg"><img src="http://www.stmgrts.org.uk/images/stmargarets_cpz_results_map-thumb.jpg" width="121" height="150" alt="google map" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/stmargarets_cpz_results_map.jpg"><img src="//stmgrts.org.uk/assets/images/2007/stmargarets_cpz_results_map-thumb.jpg" width="121" height="150" alt="google map" class="photo right" /></a>
 
 
 The following roads have clearly voted 'NO': 
@@ -60,7 +60,7 @@ The following roads have clearly voted 'NO':
 |St Margarets Road|74%|
 |Talbot Road|100%|
 
-<a href="http://www.stmgrts.org.uk/images/all_streets_cpz_bar.jpg"><img src="http://www.stmgrts.org.uk/images/all_streets_cpz_bar-thumb.jpg" width="113" height="150" alt="street by street detail" class="photo right"  /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/all_streets_cpz_bar.jpg"><img src="//stmgrts.org.uk/assets/images/2007/all_streets_cpz_bar-thumb.jpg" width="113" height="150" alt="street by street detail" class="photo right"  /></a>
 
 
 
@@ -75,22 +75,3 @@ The report will be the main business of a "meeting of the Transport Consultative
 
 
 ??thanks to Chris Squire for the core of this post??
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-11-cpz_results_published in site.data.2007-07-11-cpz_results_published %}
-       <li>
-
-         {{ 2007-07-11-cpz_results_published.comment }}
-
-         <cite>{{ 2007-07-11-cpz_results_published.author }} on {{ 2007-07-11-cpz_results_published.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

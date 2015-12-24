@@ -47,24 +47,3 @@ _Ian Blackman_
 Twickenham Residents Action Group (TRAG)  - not TAP
 
 </div>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-04-25-letter_from_twickenham_residents_action_group_25_a in site.data.2012-04-25-letter_from_twickenham_residents_action_group_25_a %}
-       <li>
-
-         {{ 2012-04-25-letter_from_twickenham_residents_action_group_25_a.comment }}
-
-         <cite>{{ 2012-04-25-letter_from_twickenham_residents_action_group_25_a.author }} on {{ 2012-04-25-letter_from_twickenham_residents_action_group_25_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

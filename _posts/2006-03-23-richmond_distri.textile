@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/UNDERGROUND.jpg"><img src="http://www.stmgrts.org.uk/images/UNDERGROUND-thumb.jpg" width="150" height="121" alt="underground" class="right ignore" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/UNDERGROUND.jpg"><img src="//stmgrts.org.uk/assets/images/2006/UNDERGROUND-thumb.jpg" width="150" height="121" alt="underground" class="right ignore" /></a>
 
 The Richmond branch of the District Line will be closed for the nine days from the 1<sup>st</sup> to the 10<sup>th</sup> of April from Richmond to Turnham Green.  Underground tickets will be accepted on South West Trains to Waterloo and there will be two replacement bus services.  Additional works are planned for the Sunday mornings of 16, 23, 30 April and 28 May 2006.
 
@@ -23,7 +23,3 @@ The two rail replacement bus services will run from:
 Richmond - Kew Botanic Gardens - Gunnersbury - Turnham Green (buses will run empty to Stamford Brook with mobility impaired customers _on request_)
 * _Service B_
 Richmond - Kew Botanic Gardens - Gunnersbury - Chiswick Park - South Acton - Acton Town - Acton Central - extended to Willesden Junction on 1 and 2 April 2006
-
-
-
-

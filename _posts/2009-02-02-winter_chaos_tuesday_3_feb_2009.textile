@@ -20,23 +20,3 @@ So far we have confirmation that:
 "... more schools and Richmond Council services listed here":http://richmond.gov.uk/home/policing_and_public_safety/accidents_emergencies_and_safety/emergency_planning/guidance_on_specific_incidents/winter_weather.htm
 
 Any more reports, please email "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-02-02-winter_chaos_tuesday_3_feb_2009 in site.data.2009-02-02-winter_chaos_tuesday_3_feb_2009 %}
-       <li>
-
-         {{ 2009-02-02-winter_chaos_tuesday_3_feb_2009.comment }}
-
-         <cite>{{ 2009-02-02-winter_chaos_tuesday_3_feb_2009.author }} on {{ 2009-02-02-winter_chaos_tuesday_3_feb_2009.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

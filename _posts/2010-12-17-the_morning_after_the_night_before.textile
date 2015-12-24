@@ -5,7 +5,7 @@ permalink: /archives/2010/12/the_morning_after_the_night_before.html
 category: around_town
 date: 2010-12-17 12:40:54
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//hangover_manhungover.jpg" title="See larger version of - Man hungover"><img src="http://www.stmgrts.org.uk/images//hangover_manhungover_thumb.jpg" width="150" height="112" alt="Man hungover" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/hangover_manhungover.jpg" title="See larger version of - Man hungover"><img src="//stmgrts.org.uk/assets/images/2010/hangover_manhungover_thumb.jpg" width="150" height="112" alt="Man hungover" class="photo right" /></a>
     
     
     There can't be many of us who, at some time in our youthful lives, haven't woken up with a throbbing head, a mouth like a zoo-keepers bucket and one thought on our minds - "Never Again."
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//hangover_manhungover.jpg" title="See larger version of - Man hungover"><img src="http://www.stmgrts.org.uk/images//hangover_manhungover_thumb.jpg" width="150" height="112" alt="Man hungover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/hangover_manhungover.jpg" title="See larger version of - Man hungover"><img src="//stmgrts.org.uk/assets/images/2010/hangover_manhungover_thumb.jpg" width="150" height="112" alt="Man hungover" class="photo right" /></a>
 
 
 bq. "O God, that men should put an enemy in their mouths to steal away their brains! that we should, with joy, pleasance, revel, and applause, transform ourselves into beasts!"
@@ -29,7 +29,7 @@ Hangovers are self inflicted wounds, universal and international. They have many
 
 
 
-<a href="http://www.stmgrts.org.uk/images//hangover_thedinnerparty.jpg" title="See larger version of - Dinner Party"><img src="http://www.stmgrts.org.uk/images//hangover_thedinnerparty_thumb.jpg" width="150" height="99" alt="Dinner Party" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/hangover_thedinnerparty.jpg" title="See larger version of - Dinner Party"><img src="//stmgrts.org.uk/assets/images/2010/hangover_thedinnerparty_thumb.jpg" width="150" height="99" alt="Dinner Party" class="photo right" /></a>
 
 
 In Britain hangovers took on an added significance in the 18<sup>th</sup> century when polite society discovered the pleasures of 'fine dining'. It was the French who introduced the fashion for organised menus and meals divided into 'courses'. One social commentator welcomed the new 'mode'... 
@@ -46,7 +46,7 @@ With the hindsight of medical science this remedy works not by suppressing 'the 
 
 In the early 19<sup>th</sup> century the serving of aperitifs became popular in Britain. In 1824 "The Family Oracle of Health, noting the 'northern custom of a whet-cup or coupe d'avant' before meals' recommended its readers to drink a large glass of rum, brandy or bitters before sitting down to a heavy meal... 
 
-<a href="http://www.stmgrts.org.uk/images//hangover_dining-table.jpg" title="See larger version of - Dining Table"><img src="http://www.stmgrts.org.uk/images//hangover_dining-table_thumb.jpg" width="150" height="119" alt="Dining Table" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/hangover_dining-table.jpg" title="See larger version of - Dining Table"><img src="//stmgrts.org.uk/assets/images/2010/hangover_dining-table_thumb.jpg" width="150" height="119" alt="Dining Table" class="photo right" /></a>
 
 
 bq. "This would be a good English drink, certainly more than a Frenchman could stand up to -- it would infallibly crisp his stomach -- but all such delicate creatures could have recourse to a large glass of an infusion of camomile, quassia, or any other good bitter."
@@ -77,7 +77,3 @@ bq.. Hangover cures are generally a myth. There are no cures for a hangover. The
 p. I'll drink to that!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

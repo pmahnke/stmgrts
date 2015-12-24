@@ -7,7 +7,7 @@ date: 2012-04-10 10:59:42
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//strawb_jazz.jpg" title="See larger version of - strawb jazz"><img src="http://www.stmgrts.org.uk/images//strawb_jazz_thumb.jpg" width="150" height="112" alt="strawb jazz" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/strawb_jazz.jpg" title="See larger version of - strawb jazz"><img src="//stmgrts.org.uk/assets/images/2012/strawb_jazz_thumb.jpg" width="150" height="112" alt="strawb jazz" class="photo right" /></a>
 
 _Why not spend Jubilee Weekend, "Sunday 3<sup>rd</sup> June and Monday 4<sup>th</sup>":http://www.stmgrts.org.uk/event/concert/200705143211 in the beautiful grounds of Strawberry Hill House?_
 
@@ -27,7 +27,3 @@ h4. More Information
 * enq 0208 286 3242 and for discounted weekend breaks
 * "www.jubileejazz.destinationrichmond.co.uk":http://www.jubileejazz.destinationrichmond.co.uk
 * Children under 12 free
-
-
-
-

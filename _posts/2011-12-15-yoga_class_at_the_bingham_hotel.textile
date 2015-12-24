@@ -7,7 +7,7 @@ date: 2011-12-15 23:16:32
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//chrisJonesYoga.jpg" title="See larger version of - chrisJonesYoga"><img src="http://www.stmgrts.org.uk/images//chrisJonesYoga_thumb.jpg" width="150" height="108" alt="Chris James Yoga" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/chrisJonesYoga.jpg" title="See larger version of - chrisJonesYoga"><img src="//stmgrts.org.uk/assets/images/2011/chrisJonesYoga_thumb.jpg" width="150" height="108" alt="Chris James Yoga" class="photo right" /></a>
 
 Local resident Chris James is offering Yoga classes at the Bingham in Richmond.
 
@@ -31,10 +31,3 @@ h4. More Information
 * phone: 0871 223 0507 
 * email: chrisjames@chrisjamesyoga.com
 * www.chrisjamesyoga.com
-
-
-
-
-
-
-

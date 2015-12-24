@@ -7,32 +7,10 @@ date: 2008-08-06 15:49:51
 
 ---
 
-<a href="http://stmgrts.org.uk/images/events/larks_kan_kan.jpg" title="See larger version of - Kan Kan"><img src="http://stmgrts.org.uk/images/events/larks_kan_kan_thumb.jpg" width="150" height="98" alt="Kan Kan" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/larks_kan_kan.jpg" title="See larger version of - Kan Kan"><img src="//stmgrts.org.uk/assets/images/2008/larks_kan_kan_thumb.jpg" width="150" height="98" alt="Kan Kan" class="photo right" /></a>
 
 Jactito Theatre presents "Kan Kan Kangaroo":http://stmgrts.org.uk/event/play/200705141893 this Thursday, 7 August in Moormead Park, 2pm for children aged 2 to 5.
 
 Baby Kan Kan has made a new friend in Spike the hedgehog, but she still needs to find her Mummy, Priscilla the Kangaroo. Can you help the animals get Kan Kan home for tea?
 
 "Book your tickets online":http://www.richmond.gov.uk/home/leisure_and_culture/childrens_activities/larks_in_the_parks_2008/book_tickets_for_larks_in_the_parks_2008.htm
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-08-06-event_reminder_kan_kan_kangaroo in site.data.2008-08-06-event_reminder_kan_kan_kangaroo %}
-       <li>
-
-         {{ 2008-08-06-event_reminder_kan_kan_kangaroo.comment }}
-
-         <cite>{{ 2008-08-06-event_reminder_kan_kan_kangaroo.author }} on {{ 2008-08-06-event_reminder_kan_kan_kangaroo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -33,22 +33,3 @@ bq.. "Gloriana deserves to - and I am sure will - find a home where she is welco
 p. Speaking on behalf of Gloriana Lord Sterling stated: "We were kindly invited to work with Richmond Council on a study to assess the feasibility of building a permanent home for The Queen's Rowbarge, Gloriana, in Richmond. Sadly, the consultation carried out following the feasibility study showed that there is opposition to using this particular site. We have therefore decided to explore further locations along the river."
 
 <cite>-- from a "Richmond Council press release":http://www.richmond.gov.uk/home/council/news/older_news/september_2014/potential_borough_home_for_gloriana_not_to_proceed.htm - 11 September 2014</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped in site.data.2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped %}
-       <li>
-
-         {{ 2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped.comment }}
-
-         <cite>{{ 2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped.author }} on {{ 2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

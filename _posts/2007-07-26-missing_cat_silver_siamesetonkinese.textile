@@ -10,24 +10,3 @@ date: 2007-07-26 14:32:49
 Much loved family pet went missing a week ago from his home in The Grove Road near The Turks Head Pub.   He has a collar with his name on it.  
 
 Please can you ring 0207 891 1275 or 07813815829 if you have seen him.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-26-missing_cat_silver_siamesetonkinese in site.data.2007-07-26-missing_cat_silver_siamesetonkinese %}
-       <li>
-
-         {{ 2007-07-26-missing_cat_silver_siamesetonkinese.comment }}
-
-         <cite>{{ 2007-07-26-missing_cat_silver_siamesetonkinese.author }} on {{ 2007-07-26-missing_cat_silver_siamesetonkinese.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

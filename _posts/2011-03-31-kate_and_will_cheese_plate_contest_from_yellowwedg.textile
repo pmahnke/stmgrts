@@ -7,7 +7,7 @@ date: 2011-03-31 20:00:08
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images//YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 <em>Excited about the Royal Wedding?
 Looking for a fun activity for the
@@ -22,9 +22,3 @@ Judging will be on Royal Wedding Day - plus all entries will be displayed in the
 Get your 'S'*KATES* on - closing deadline for entries is 27<sup>th</sup> April. *WILL* you be the winner?
 
 "View the poster":http://www.stmgrts.org.uk/images//YWC_william_kate_competitio.jpg
-
-
-
-
-
-

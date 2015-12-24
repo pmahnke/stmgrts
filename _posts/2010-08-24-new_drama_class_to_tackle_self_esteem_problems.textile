@@ -7,7 +7,7 @@ date: 2010-08-24 21:55:50
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/PAL_Logo_200_pix.jpg"><img alt="PAL_Logo_200_pix.jpg" src="http://www.stmgrts.org.uk/images/PAL_Logo_200_pix-thumb.jpg" width="150" height="131" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/PAL_Logo_200_pix.jpg"><img alt="PAL_Logo_200_pix.jpg" src="//stmgrts.org.uk/assets/images/2010/PAL_Logo_200_pix-thumb.jpg" width="150" height="131" class="right" /></a>
 
 
 With the current problems regarding anti-social behaviour and youth violence Performance Academy London is endeavouring to change the self-image of children in the local area.  We thought you might be interested in putting this information onto your website.
@@ -34,22 +34,3 @@ h4. Details
 ** There will be a 25% discount for siblings.
 
 If you have any questions about the classes or want more information on the story please feel free to contact Robert Wells on: 07854252442 or email him at "info@performanceacademylondon.co.uk":mailto:info@performanceacademylondon.co.uk.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-08-24-new_drama_class_to_tackle_self_esteem_problems in site.data.2010-08-24-new_drama_class_to_tackle_self_esteem_problems %}
-       <li>
-
-         {{ 2010-08-24-new_drama_class_to_tackle_self_esteem_problems.comment }}
-
-         <cite>{{ 2010-08-24-new_drama_class_to_tackle_self_esteem_problems.author }} on {{ 2010-08-24-new_drama_class_to_tackle_self_esteem_problems.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -24,22 +24,3 @@ This leaves the pavilion.  The general response has been to keep it for communit
 If you are able to join us for this Moormead community day, please do call or email Claire Wilson –-- 020 8744 0700, "corpunit@aol.com":mailto:corpunit@aol.com.
 
 _Everyone is welcome._
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-01-moormead_park_c_1 in site.data.2006-06-01-moormead_park_c_1 %}
-       <li>
-
-         {{ 2006-06-01-moormead_park_c_1.comment }}
-
-         <cite>{{ 2006-06-01-moormead_park_c_1.author }} on {{ 2006-06-01-moormead_park_c_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

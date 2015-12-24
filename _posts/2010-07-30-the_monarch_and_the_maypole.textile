@@ -5,7 +5,7 @@ permalink: /archives/2010/07/the_monarch_and_the_maypole.html
 category: around_town
 date: 2010-07-30 12:05:44
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//monarch_1.jpg" title="See larger version of - Melusina von der Schulemburg"><img src="http://www.stmgrts.org.uk/images//monarch_1_thumb.jpg" width="112" height="150" alt="Melusina von der Schulemburg" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/monarch_1.jpg" title="See larger version of - Melusina von der Schulemburg"><img src="//stmgrts.org.uk/assets/images/2010/monarch_1_thumb.jpg" width="112" height="150" alt="Melusina von der Schulemburg" class="photo right" /></a>
     
     
     _Fun And Games At Kendal House_
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//monarch_1.jpg" title="See larger version of - Melusina von der Schulemburg"><img src="http://www.stmgrts.org.uk/images//monarch_1_thumb.jpg" width="112" height="150" alt="Melusina von der Schulemburg" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/monarch_1.jpg" title="See larger version of - Melusina von der Schulemburg"><img src="//stmgrts.org.uk/assets/images/2010/monarch_1_thumb.jpg" width="112" height="150" alt="Melusina von der Schulemburg" class="photo right" /></a>
 
 
 _Fun And Games At Kendal House_
@@ -23,7 +23,7 @@ _Fun And Games At Kendal House_
 In its time the Isleworth/St Margarets riverside has been graced by some fine and famous buildings. There was Lacy house, home for a while to Richard Brinsley Sheridan, Kilmorey House, built for but never occupied by the Earl of Kilmorey, Gordon House, home of lawyer and humorist Thomas Chandler Haliburton, Nazareth House and St Margarets, the family seat of the Marquis of Ailsa and over whose grounds is built the district that now bears its name. But of them all perhaps the most notable, if not the most famous was Kendal House, the home of the Duchess of Kendal, the German mistress of King George I.
 
 
-<a href="http://www.stmgrts.org.uk/images//monarch_2.jpg" title="See larger version of - King George I"><img src="http://www.stmgrts.org.uk/images//monarch_2_thumb.jpg" width="110" height="150" alt="King George I" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/monarch_2.jpg" title="See larger version of - King George I"><img src="//stmgrts.org.uk/assets/images/2010/monarch_2_thumb.jpg" width="110" height="150" alt="King George I" class="photo right" /></a>
 
 
 The Duchess first met George in the 1670's when she was plain old Ehrengard Melusina von der Schulemburg and serving as a maid of honour to his mother, Sophia, the Electress of Hanover. At the time George was married to his cousin, Sophia Dorothea of Celle. Theirs was not a happy union. He saw her only as an annual wage packet of 100,000 thalers. She saw him as a "snout faced pig." It all ended in tears. In 1681 she found solace with the handsome Philip Christoph von K&#246;nigsmarck. George found the same in the skinny arms of the maid of honour, Ehrengard Melusina von der Schulemburg... and skinny she was. One contemporary writer described her as "lank bony hideousness that was to later to distinguish her in England". In 1694 George divorced Sophie Dorothea of Celle and because of her infidelity with Philip Christoph von K&#246;nigsmarck threw her into prison where she stayed for the rest of her life. The fact that he was doing the same with Ehrengard Melusina etc etc didn't seem to count for much in those days.
@@ -61,7 +61,7 @@ p. If all her other titles were not enough, in 1723, Charles VI, Holy Roman Empe
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//monarch_3.jpg" title="See larger version of - Melusine"><img src="http://www.stmgrts.org.uk/images//monarch_3_thumb.jpg" width="150" height="150" alt="Melusine" class="left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/monarch_3.jpg" title="See larger version of - Melusine"><img src="//stmgrts.org.uk/assets/images/2010/monarch_3_thumb.jpg" width="150" height="150" alt="Melusine" class="left" /></a>
 
 
 It is thought that the name Melusina (or Melusine) was taken from the fresh water siren or feminine spirit of European legend. The Melusine is usually depicted as a woman who is a serpent or fish much like a mermaid.  She is sometimes depicted with wings, two tails or both, and is sometimes referred to as 'a nixie.'
@@ -70,22 +70,3 @@ Interestingly the Starbucks logo is based upon a two tailed Melusine as an early
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-07-30-the_monarch_and_the_maypole in site.data.2010-07-30-the_monarch_and_the_maypole %}
-       <li>
-
-         {{ 2010-07-30-the_monarch_and_the_maypole.comment }}
-
-         <cite>{{ 2010-07-30-the_monarch_and_the_maypole.author }} on {{ 2010-07-30-the_monarch_and_the_maypole.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

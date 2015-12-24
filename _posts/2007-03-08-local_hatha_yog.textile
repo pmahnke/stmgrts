@@ -7,7 +7,7 @@ date: 2007-03-08 22:09:29
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/yoga.jpg"><img src="http://www.stmgrts.org.uk/images/yoga-thumb.jpg" width="150" height="152" alt="downward dog yoga logo" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/yoga.jpg"><img src="//stmgrts.org.uk/assets/images/2007/yoga-thumb.jpg" width="150" height="152" alt="downward dog yoga logo" class="right" /></a>
 
 
 Hatha yoga is 5,000 years old. It is non-competitive and it teaches us self-discipline and self-awareness.
@@ -52,22 +52,3 @@ I also offer one-on-one, small group tuition and corporate classes.
 * Phone: 0781 371 2073
 * Email: "ddogyoga@btinternet.com":ddogyoga@btinternet.com
 * Website: "www.downwarddog.co.uk":http://www.downwarddog.co.uk/
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-08-local_hatha_yog in site.data.2007-03-08-local_hatha_yog %}
-       <li>
-
-         {{ 2007-03-08-local_hatha_yog.comment }}
-
-         <cite>{{ 2007-03-08-local_hatha_yog.author }} on {{ 2007-03-08-local_hatha_yog.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

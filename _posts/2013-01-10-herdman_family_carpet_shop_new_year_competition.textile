@@ -5,7 +5,7 @@ permalink: /archives/2013/01/herdman_family_carpet_shop_new_year_competition.htm
 category: around_town
 date: 2013-01-10 20:59:01
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//herdman_promo.jpg" title="See larger version of - herdman competition details"><img src="http://www.stmgrts.org.uk/images//herdman_promo_thumb.jpg" width="150" height="185" alt="herdman competition details" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/herdman_promo.jpg" title="See larger version of - herdman competition details"><img src="//stmgrts.org.uk/assets/images/2013/herdman_promo_thumb.jpg" width="150" height="185" alt="herdman competition details" class="photo right" /></a>
     
     h4. WIN WIN WIN
     
@@ -22,7 +22,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//herdman_promo.jpg" title="See larger version of - herdman competition details"><img src="http://www.stmgrts.org.uk/images//herdman_promo_thumb.jpg" width="150" height="185" alt="herdman competition details" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/herdman_promo.jpg" title="See larger version of - herdman competition details"><img src="//stmgrts.org.uk/assets/images/2013/herdman_promo_thumb.jpg" width="150" height="185" alt="herdman competition details" class="photo right" /></a>
 
 h4. WIN WIN WIN
 
@@ -37,9 +37,3 @@ Email your answer to: "competition@herdmancarpets.com":mailto:competition@herdma
 Closing date: 28<sup>th</sup> February 2013
 
 _The Herdman Family Carpet Shop - the small family business that always puts the customer first_
-
-
-
-
-
-

@@ -5,14 +5,14 @@ permalink: /archives/2007/04/event_reminder_partners_in_dance.html
 category: around_town
 date: 2007-04-05 10:01:05
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/6-Week-Dance-Courses-flyer.jpg"><img src="http://www.stmgrts.org.uk/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
+    <a href="//stmgrts.org.uk/assets/images/2007/6-Week-Dance-Courses-flyer.jpg"><img src="http://www.stmgrts.org.uk/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
     
     Richmond Council's "Partners in Dance":http://www.stmgrts.org.uk/directory/theatre/200704050651 festival is offering three exciting 6 week long dance classes over April and May.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/6-Week-Dance-Courses-flyer.jpg"><img src="http://www.stmgrts.org.uk/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2007/6-Week-Dance-Courses-flyer.jpg"><img src="http://www.stmgrts.org.uk/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
 
 Richmond Council's "Partners in Dance":http://www.stmgrts.org.uk/directory/theatre/200704050651 festival is offering three exciting 6 week long dance classes over April and May.
 
@@ -26,9 +26,3 @@ Richmond Council's "Partners in Dance":http://www.stmgrts.org.uk/directory/theat
 </ul>
 
 "Read their flyer":http://www.stmgrts.org.uk/images/6-Week-Dance-Courses-flyer.jpg
-
-
-
-
-
-

@@ -7,7 +7,7 @@ date: 2008-09-11 16:56:29
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/parvinu.jpg"><img src="http://www.stmgrts.org.uk/images/parvinu-thumb.jpg" width="150" height="109" alt="parvinu interior" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/parvinu.jpg"><img src="//stmgrts.org.uk/assets/images/2008/parvinu-thumb.jpg" width="150" height="109" alt="parvinu interior" class="photo right" /></a>
 
 
 "Parvinu at Phelps":http://www.stmgrts.org.uk/directory/restaurant/200809111151 has now opened providing St Margarets with a new wine bar with food.
@@ -24,22 +24,3 @@ bq.. The Sub-Committee imposed two further conditions upon the licence:
 A telephone number of a contact person shall be made available to nearby residents, posted on the community website and mail-dropped to the immediate area prior to opening.
 
 Gavin Mitchell is the Designated Premises Supervisor (DPS) and General Manager is Tim Vaughan Spencer. Both of can be contacted on 020 8892 7166 or "info@parvinuatphelps.com":mailto:info@parvinuatphelps.com in case of any queries.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-09-11-parvinu_at_phelps_is_open in site.data.2008-09-11-parvinu_at_phelps_is_open %}
-       <li>
-
-         {{ 2008-09-11-parvinu_at_phelps_is_open.comment }}
-
-         <cite>{{ 2008-09-11-parvinu_at_phelps_is_open.author }} on {{ 2008-09-11-parvinu_at_phelps_is_open.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

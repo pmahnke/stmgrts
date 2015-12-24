@@ -7,7 +7,7 @@ date: 2010-09-09 19:41:31
 
 ---
 
-<a href="http://stmgrts.org.uk/images/facethepeople_flyer_001.pdf" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images/events/facethepeople_flyer_001-1_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/facethepeople_flyer_001.pdf" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2010/facethepeople_flyer_001-1_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
 
 _YOUR COMMUNITY - YOUR SAFETY - YOUR SAY_
 
@@ -20,8 +20,3 @@ This is an opportunity to hear about what has been done in the last year and for
 For more information about this event, please contact Juliette Taylor on 020 8891 7155 or email "j.taylor@richmond.gov.uk":mailto:j.taylor@richmond.gov.uk
 
 "Download the flyer":http://stmgrts.org.uk/images/facethepeople_flyer_001.pdf [PDF]
-
-
-
-
-

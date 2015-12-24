@@ -20,23 +20,3 @@ The source of the pollution has been traced to an outfall pipe upstream of the A
 -- from the "Richmond & Twickenham Times - 4 October 2013":http://www.richmondandtwickenhamtimes.co.uk/news/10718273.Dismay_as_many_fish_die_in_River_Crane_pollution/
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-10-04-another_accident_on_the_river_crane in site.data.2013-10-04-another_accident_on_the_river_crane %}
-       <li>
-
-         {{ 2013-10-04-another_accident_on_the_river_crane.comment }}
-
-         <cite>{{ 2013-10-04-another_accident_on_the_river_crane.author }} on {{ 2013-10-04-another_accident_on_the_river_crane.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

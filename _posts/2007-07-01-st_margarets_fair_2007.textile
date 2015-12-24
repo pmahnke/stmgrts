@@ -5,7 +5,7 @@ permalink: /archives/2007/07/st_margarets_fair_2007.html
 category: news
 date: 2007-07-01 09:22:22
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/stmgrts_fair_2007.jpg"><img src="http://www.stmgrts.org.uk/images/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2007/stmgrts_fair_2007.jpg"><img src="//stmgrts.org.uk/assets/images/2007/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
     
     
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/stmgrts_fair_2007.jpg"><img src="http://www.stmgrts.org.uk/images/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/stmgrts_fair_2007.jpg"><img src="//stmgrts.org.uk/assets/images/2007/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
 
 
 
@@ -27,24 +27,3 @@ Our support this year is for the Alzheimer's Society, Heatham House and the Rich
 The Fair Committee have always strived to ensure that it remains primarily a Community event, and therefore we are always grateful for your support, and especially everyone living very close to Moormead. We all hope you have an enjoyable time in the sunshine we've come to expect for the day of the Fair.
  
 ??-- from The St Margarets Fair Committee??
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-01-st_margarets_fair_2007 in site.data.2007-07-01-st_margarets_fair_2007 %}
-       <li>
-
-         {{ 2007-07-01-st_margarets_fair_2007.comment }}
-
-         <cite>{{ 2007-07-01-st_margarets_fair_2007.author }} on {{ 2007-07-01-st_margarets_fair_2007.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

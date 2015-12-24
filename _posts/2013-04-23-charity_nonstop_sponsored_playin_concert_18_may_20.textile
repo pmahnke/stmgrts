@@ -7,7 +7,7 @@ date: 2013-04-23 21:41:45
 
 ---
 
-<img src="http://www.richmondorchestra.org.uk/images/ROt.gif" width="150" title="Richmond Orchestra logo"  class="right" />
+<img src="//stmgrts.org.uk/assets/images/2013/ROt.gif" width="150" title="Richmond Orchestra logo"  class="right" />
 
 We invite you to join us in our Non-stop Sponsored Play-In Concert on Saturday 18<sup>th</sup> May 2013, at Sheen Lane Centre.
 
@@ -17,7 +17,7 @@ Or as a soloist or conductor you can actually conduct your favourite piece  or p
 
 
 
-<img src="http://www.richmondorchestra.org.uk/images/MCSt.gif" width="150" title="MacMillan Cancer logo"  class="right" />
+<img src="//stmgrts.org.uk/assets/images/2013/MCSt.gif" width="150" title="MacMillan Cancer logo"  class="right" />
 
 This is an entertaining and light hearted way to make some money for good causes, to make music and to have fun. Invite your friends to come and listen - entry free, tea and cakes on sale all day.
 
@@ -33,7 +33,3 @@ h4. More Information
 * Time: 11:00 to 15:00
 * Contact: Chris Storey 020 8876 4728
 * "sponsored_play_in@richmondorchestra.org.uk":mailto:sponsored_play_in@richmondorchestra.org.uk
-
-
-
-

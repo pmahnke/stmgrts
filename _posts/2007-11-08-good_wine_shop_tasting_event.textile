@@ -7,7 +7,7 @@ date: 2007-11-08 07:33:02
 
 ---
 
-<a href="/images/events/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="/images/events/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="//stmgrts.org.uk/assets/images/2007/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
 
 Corks will be popping at one of South London’s fastest growing independent wine merchants when <a href="http://www.stmgrts.org.uk/directory/wine_aNd_spirits/200511281416">The Good Wine Shop</a>  in St Margarets hosts a special "Winter wine tasting event":http://stmgrts.org.uk/event/meeting/200705141724.  
 
@@ -23,23 +23,3 @@ The Good Wine Shop was established six years ago and since Mark took over in 200
 “We are looking to offer quality, original wines that are value for money. But individual tastes differ vastly and a wine that is enjoyed by one person may not be to the taste of another. By getting to know our customers personally we can actively seek out wines to suit their particular palate.” added Mark.
 
 Tickets can be purchased from The Good Wine Shop(020 8892 7756) in advance at a cost of &pound;10.00 per person and a refund of the ticket price is available to those purchasing a case(12 bottles) on the day.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-11-08-good_wine_shop_tasting_event in site.data.2007-11-08-good_wine_shop_tasting_event %}
-       <li>
-
-         {{ 2007-11-08-good_wine_shop_tasting_event.comment }}
-
-         <cite>{{ 2007-11-08-good_wine_shop_tasting_event.author }} on {{ 2007-11-08-good_wine_shop_tasting_event.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

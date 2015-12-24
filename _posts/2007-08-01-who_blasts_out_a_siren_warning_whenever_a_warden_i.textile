@@ -7,7 +7,7 @@ date: 2007-08-01 19:01:12
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/martin_siren.jpg"><img src="http://www.stmgrts.org.uk/images/martin_siren-thumb.jpg" width="150" height="121" alt="photo by Alex Lentat" class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2007/martin_siren.jpg"><img src="//stmgrts.org.uk/assets/images/2007/martin_siren-thumb.jpg" width="150" height="121" alt="photo by Alex Lentat" class="photo right"/></a>
 
 
 _Martin Herdman of course._
@@ -23,24 +23,3 @@ Then, as soon as the alarm was raised, he started playing a recording of a Secon
 Mr Herdman's early warning system gives customers a chance to move their cars before they are ticketed by the warden."
 
 p. <cite>-- "read the full article":http://www.thisislondon.co.uk/news/article-23406609-details/The%20trader%20who%20blasts%20out%20a%20siren%20warning%20whenever%20a%20warden%20is%20coming/article.do </cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i in site.data.2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i %}
-       <li>
-
-         {{ 2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i.comment }}
-
-         <cite>{{ 2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i.author }} on {{ 2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

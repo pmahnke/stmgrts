@@ -18,23 +18,3 @@ The Mayor of London (Boris) can overturn the decision. Over 5000 new petitions n
 </div>
 
 <cite>-- from Twickenham Residents' Action Group (TRAG)</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-01-05-petition_to_overturn_planning_permission_for_the_t in site.data.2012-01-05-petition_to_overturn_planning_permission_for_the_t %}
-       <li>
-
-         {{ 2012-01-05-petition_to_overturn_planning_permission_for_the_t.comment }}
-
-         <cite>{{ 2012-01-05-petition_to_overturn_planning_permission_for_the_t.author }} on {{ 2012-01-05-petition_to_overturn_planning_permission_for_the_t.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

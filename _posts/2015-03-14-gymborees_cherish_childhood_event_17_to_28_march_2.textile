@@ -23,7 +23,3 @@ h4. Contact info
 * 020 8607 9995
 * "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
 * "gymboree-uk.com":http://gymboree-uk.com
-
-
-
-

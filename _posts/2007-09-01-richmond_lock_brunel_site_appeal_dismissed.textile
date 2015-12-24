@@ -18,23 +18,3 @@ This is good news indeed, not only for residents of St Margaret's but for the Bo
 * "read the decision here":http://tinyurl.com/38lq6e (pdf)
 
 <cite>-- Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-09-01-richmond_lock_brunel_site_appeal_dismissed in site.data.2007-09-01-richmond_lock_brunel_site_appeal_dismissed %}
-       <li>
-
-         {{ 2007-09-01-richmond_lock_brunel_site_appeal_dismissed.comment }}
-
-         <cite>{{ 2007-09-01-richmond_lock_brunel_site_appeal_dismissed.author }} on {{ 2007-09-01-richmond_lock_brunel_site_appeal_dismissed.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

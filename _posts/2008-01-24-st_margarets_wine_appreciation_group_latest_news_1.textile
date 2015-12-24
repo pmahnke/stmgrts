@@ -19,23 +19,3 @@ Hazelle Jackson
 
 * email: "hazelle.jackson@dial.pipex.com":mailto:hazelle.jackson@dial.pipex.com
 * tel: 020 88929429
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-01-24-st_margarets_wine_appreciation_group_latest_news_1 in site.data.2008-01-24-st_margarets_wine_appreciation_group_latest_news_1 %}
-       <li>
-
-         {{ 2008-01-24-st_margarets_wine_appreciation_group_latest_news_1.comment }}
-
-         <cite>{{ 2008-01-24-st_margarets_wine_appreciation_group_latest_news_1.author }} on {{ 2008-01-24-st_margarets_wine_appreciation_group_latest_news_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

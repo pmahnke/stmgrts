@@ -5,7 +5,7 @@ permalink: /archives/2012/05/posters_in_the_park_2012.html
 category: around_town
 date: 2012-05-11 08:09:10
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Posters-in-the-Park_2012.jpg" title="See larger version of - Posters in the Park 2012"><img src="http://www.stmgrts.org.uk/images//Posters-in-the-Park_2012_thumb.jpg" width="150" height="202" alt="Posters in the Park 2012" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/Posters-in-the-Park_2012.jpg" title="See larger version of - Posters in the Park 2012"><img src="//stmgrts.org.uk/assets/images/2012/Posters-in-the-Park_2012_thumb.jpg" width="150" height="202" alt="Posters in the Park 2012" class="photo right" /></a>
     
     _Design an eye-catching poster to help protect Richmond Park_
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Posters-in-the-Park_2012.jpg" title="See larger version of - Posters in the Park 2012"><img src="http://www.stmgrts.org.uk/images//Posters-in-the-Park_2012_thumb.jpg" width="150" height="202" alt="Posters in the Park 2012" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/Posters-in-the-Park_2012.jpg" title="See larger version of - Posters in the Park 2012"><img src="//stmgrts.org.uk/assets/images/2012/Posters-in-the-Park_2012_thumb.jpg" width="150" height="202" alt="Posters in the Park 2012" class="photo right" /></a>
 
 _Design an eye-catching poster to help protect Richmond Park_
 
@@ -26,9 +26,3 @@ You can enter:
 * If you're inspired to design a great poster that will be used in conservation campaigns
 
 For details and to enter, see: "www.frp.org.uk/friends/competitions":http://www.frp.org.uk/friends/competitions
-
-
-
-
-
-

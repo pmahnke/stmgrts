@@ -18,7 +18,7 @@ excerpt: |
     
     ??A STREET BALLAD??
     
-    <a href="http://www.stmgrts.org.uk/images/events/disgrace_1_flogging.png" title="See larger version of - A MILITARY FLOGGING 1844"><img src="http://www.stmgrts.org.uk/images/events/disgrace_1_flogging_thumb.png" width="150" height="131" alt="A MILITARY FLOGGING 1844" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/disgrace_1_flogging.png" title="See larger version of - A MILITARY FLOGGING 1844"><img src="//stmgrts.org.uk/assets/images/2010/disgrace_1_flogging_thumb.png" width="150" height="131" alt="A MILITARY FLOGGING 1844" class="photo right" /></a>
     
     In the early summer of 1846 John White, a 27 year old private in the 7<sup>th</sup> Queens Own Hussars based at Hounslow Barracks was found guilty of striking his sergeant with a metal bar in a drunken fight. At a drumhead court-martial he was sentenced to receive a flogging of 150 lashes.
 
@@ -37,7 +37,7 @@ The death of John White, the brave soldier,
 
 ??A STREET BALLAD??
 
-<a href="http://www.stmgrts.org.uk/images/events/disgrace_1_flogging.png" title="See larger version of - A MILITARY FLOGGING 1844"><img src="http://www.stmgrts.org.uk/images/events/disgrace_1_flogging_thumb.png" width="150" height="131" alt="A MILITARY FLOGGING 1844" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/disgrace_1_flogging.png" title="See larger version of - A MILITARY FLOGGING 1844"><img src="//stmgrts.org.uk/assets/images/2010/disgrace_1_flogging_thumb.png" width="150" height="131" alt="A MILITARY FLOGGING 1844" class="photo right" /></a>
 
 In the early summer of 1846 John White, a 27 year old private in the 7<sup>th</sup> Queens Own Hussars based at Hounslow Barracks was found guilty of striking his sergeant with a metal bar in a drunken fight. At a drumhead court-martial he was sentenced to receive a flogging of 150 lashes.
 
@@ -57,7 +57,7 @@ In Hounslow Barracks White's death had so enraged his comrades that their cartri
 
 The local coroner was the redoubtable Thomas Wakly, a determined and courageous reformer and a firm opponent of military flogging. He was not going to be deterred by the War Office and their protests.
 
-<a href="http://www.stmgrts.org.uk/images//disgrace_2_WAKLEY.png" title="See larger version of - THOMAS WAKLEY"><img src="http://www.stmgrts.org.uk/images//disgrace_2_WAKLEY_thumb.png" width="104" height="150" alt="THOMAS WAKLEY" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/disgrace_2_WAKLEY.png" title="See larger version of - THOMAS WAKLEY"><img src="//stmgrts.org.uk/assets/images/2010/disgrace_2_WAKLEY_thumb.png" width="104" height="150" alt="THOMAS WAKLEY" class="photo right" /></a>
 
 
 The inquest duly opened early in August 1846 at The George IV inn in Hounslow. Wakley immediately made an order for the exhumation of the body. The War Office strenuously opposed this. To prevent Wakley proceeding they sent two military surgeons to Heston to obstruct the Court's officers. Wakley, who had foreseen the possibility of this happening, banned them from the churchyard. Following the post-mortem the Hounslow jury, instructed by Wakley, brought in the verdict that Private White had died "from the mortal effects of a severe and cruel flogging of 150 lashes"...
@@ -72,7 +72,7 @@ After the inquest in Hounslow 689 Private Frederick John White was reinterred un
 
 bq. "This stone is erected by his comrades as a testimony of their sympathy for his fate and their respect for his memory."
 
-<a href="http://www.stmgrts.org.uk/images//disgrace_3_grave.png" title="See larger version of - THE GRAVE OF PRIVATE WHITE IN HESTON CHURCHYARD"><img src="http://www.stmgrts.org.uk/images//disgrace_3_grave_thumb.png" width="112" height="150" alt="THE GRAVE OF PRIVATE WHITE IN HESTON CHURCHYARD" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/disgrace_3_grave.png" title="See larger version of - THE GRAVE OF PRIVATE WHITE IN HESTON CHURCHYARD"><img src="//stmgrts.org.uk/assets/images/2010/disgrace_3_grave_thumb.png" width="112" height="150" alt="THE GRAVE OF PRIVATE WHITE IN HESTON CHURCHYARD" class="photo right" /></a>
 
 The wretched Colonel Whyte, the commanding officer of the 7th Hussars soon became the subject of ballads sold and sung in the public streets. Such was the anger and contempt directed towards him that he was unable to show his face outside the barracks. After a time he was quietly moved to the command of a native cavalry regiment in India, and was never heard of again.  689 Private Frederick John White however will always be remembered as the man whose cruel death resulted in the eventual abolition of a merciless law.
 
@@ -90,21 +90,3 @@ From London resounded to Newry,
 p. ??A STREET BALLAD OF THE TIME??
 
 <cite>-- from Martyn Day</cite>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-01-14-the_disgraceful_affair_at_hounslow in site.data.2010-01-14-the_disgraceful_affair_at_hounslow %}
-       <li>
-
-         {{ 2010-01-14-the_disgraceful_affair_at_hounslow.comment }}
-
-         <cite>{{ 2010-01-14-the_disgraceful_affair_at_hounslow.author }} on {{ 2010-01-14-the_disgraceful_affair_at_hounslow.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

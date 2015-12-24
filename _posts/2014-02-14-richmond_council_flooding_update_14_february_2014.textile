@@ -34,22 +34,3 @@ Monitor the local tide times: "www.bbc.co.uk/weather/coast_and_sea/tide_tables":
 For further information about the local impact of flooding, including regular updates and health and advice, go to: "www.richmond.gov.uk/flooding":http://www.richmond.gov.uk/flooding or follow the Council on Twitter "@LBRUT":http://www.twitter.com/LBRUT #lbrutflooding
 
 -- from London Borough of Richmond upon Thames
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-02-14-richmond_council_flooding_update_14_february_2014 in site.data.2014-02-14-richmond_council_flooding_update_14_february_2014 %}
-       <li>
-
-         {{ 2014-02-14-richmond_council_flooding_update_14_february_2014.comment }}
-
-         <cite>{{ 2014-02-14-richmond_council_flooding_update_14_february_2014.author }} on {{ 2014-02-14-richmond_council_flooding_update_14_february_2014.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

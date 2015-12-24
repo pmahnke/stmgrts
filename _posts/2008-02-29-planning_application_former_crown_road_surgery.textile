@@ -16,23 +16,3 @@ The owners or the building that used to be the Crown Road Surgery, at 66 Crown R
 They also seek to retain the two doctor's parking spaces as private spaces for the residents.
 
 "If you would like to comment on the application, you can do so here.":http://idoxwam.richmond.gov.uk/WAM/createComment.do;jsessionid=23F0D248A60A68E52616DA7D81D58DFD?action=CreateApplicationComment&applicationType=PLANNING&appNumber=07/4239/FUL 
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-02-29-planning_application_former_crown_road_surgery in site.data.2008-02-29-planning_application_former_crown_road_surgery %}
-       <li>
-
-         {{ 2008-02-29-planning_application_former_crown_road_surgery.comment }}
-
-         <cite>{{ 2008-02-29-planning_application_former_crown_road_surgery.author }} on {{ 2008-02-29-planning_application_former_crown_road_surgery.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

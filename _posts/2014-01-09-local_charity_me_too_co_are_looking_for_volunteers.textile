@@ -5,14 +5,14 @@ permalink: /archives/2014/01/local_charity_me_too_co_are_looking_for_volunteers.
 category: around_town
 date: 2014-01-09 22:40:10
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//metoologo.png" title="See larger version of - metoologo"><img src="http://www.stmgrts.org.uk/images//metoologo_thumb.png" width="150" height="40" alt="metoologo" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/metoologo.png" title="See larger version of - metoologo"><img src="//stmgrts.org.uk/assets/images/2014/metoologo_thumb.png" width="150" height="40" alt="metoologo" class=" right" /></a>
     
     We are a charity that helps children and young people with additional needs and their families. We offer a broad range of activities for children as well as support and advice for their parents and carers. We are based in Twickenham at The Crossway Centre, near Marble Hill. We need volunteers to support the children with fun activities such as music therapy, art, singing and signing.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//metoologo.png" title="See larger version of - metoologo"><img src="http://www.stmgrts.org.uk/images//metoologo_thumb.png" width="150" height="40" alt="metoologo" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/metoologo.png" title="See larger version of - metoologo"><img src="//stmgrts.org.uk/assets/images/2014/metoologo_thumb.png" width="150" height="40" alt="metoologo" class=" right" /></a>
 
 We are a charity that helps children and young people with additional needs and their families. We offer a broad range of activities for children as well as support and advice for their parents and carers. We are based in Twickenham at The Crossway Centre, near Marble Hill. We need volunteers to support the children with fun activities such as music therapy, art, singing and signing.
 
@@ -37,7 +37,3 @@ h4. More Information
 * 07946 646033
 * Or visit our website "www.metooandco.org.uk":http://www.metooandco.org.uk
 * All ages welcome (over 16)
-
-
-
-

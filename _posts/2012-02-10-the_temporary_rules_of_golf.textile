@@ -7,7 +7,7 @@ date: 2012-02-10 14:15:57
 excerpt: |
     Golf has many stories and jokes associated with it. Here's an example....
     
-    <a href="http://www.stmgrts.org.uk/images//GOLF_vintage-golf-photo.jpg" title="See larger version of - Vintage golf photo"><img src="http://www.stmgrts.org.uk/images//GOLF_vintage-golf-photo_thumb.jpg" width="150" height="112" alt="Vintage golf photo" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/GOLF_vintage-golf-photo.jpg" title="See larger version of - Vintage golf photo"><img src="//stmgrts.org.uk/assets/images/2012/GOLF_vintage-golf-photo_thumb.jpg" width="150" height="112" alt="Vintage golf photo" class="photo right" /></a>
     
     GOLFER 1: _I've got a golf ball that is impossible to lose._
     GOLFER 2: _Really?_
@@ -33,7 +33,7 @@ Let me begin by stating that I do not play golf, I know nothing about the game a
 
 Golf has many stories and jokes associated with it. Here's an example....
 
-<a href="http://www.stmgrts.org.uk/images//GOLF_vintage-golf-photo.jpg" title="See larger version of - Vintage golf photo"><img src="http://www.stmgrts.org.uk/images//GOLF_vintage-golf-photo_thumb.jpg" width="150" height="112" alt="Vintage golf photo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/GOLF_vintage-golf-photo.jpg" title="See larger version of - Vintage golf photo"><img src="//stmgrts.org.uk/assets/images/2012/GOLF_vintage-golf-photo_thumb.jpg" width="150" height="112" alt="Vintage golf photo" class="photo right" /></a>
 
 GOLFER 1: _I've got a golf ball that is impossible to lose._
 GOLFER 2: _Really?_
@@ -43,7 +43,7 @@ GOLFER 1: _I found it!_
 
 (Loud rattling noise as people with expensive sticks collapse on ground with laughter.)
 
-<a href="http://www.stmgrts.org.uk/images//GOFL_ww2_heinkel_bombers.jpg" title="See larger version of - WWII Heinkel Bombers"><img src="http://www.stmgrts.org.uk/images//GOFL_ww2_heinkel_bombers_thumb.jpg" width="150" height="203" alt="WWII Heinkel Bombers" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/GOFL_ww2_heinkel_bombers.jpg" title="See larger version of - WWII Heinkel Bombers"><img src="//stmgrts.org.uk/assets/images/2012/GOFL_ww2_heinkel_bombers_thumb.jpg" width="150" height="203" alt="WWII Heinkel Bombers" class="photo right" /></a>
 
 
 One of the most popular golf stories is the one about the set of Temporary Rules drawn up by Richmond Golf Club during the early days of the Second World War. It goes like this...
@@ -53,7 +53,7 @@ In the autumn of 1940, towards the end of the Battle of Britain, the German Luft
 
 <div class="letter">
 
-<a href="http://www.stmgrts.org.uk/images//GOLF_temporary_rules.jpg" title="See larger version of - temporary rules"><img src="http://www.stmgrts.org.uk/images//GOLF_temporary_rules_thumb.jpg" width="150" height="149" alt="temporary rules" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/GOLF_temporary_rules.jpg" title="See larger version of - temporary rules"><img src="//stmgrts.org.uk/assets/images/2012/GOLF_temporary_rules_thumb.jpg" width="150" height="149" alt="temporary rules" class="photo right" /></a>
 
 
 h3. RICHMOND GOLF CLUB - TEMPORARY RULES, 1940
@@ -78,7 +78,7 @@ The 1940 Temporary Rules story was quickly repeated around the world as an examp
 
 <div class="letter">
 
-<a href="http://www.stmgrts.org.uk/images//GOLF_richmond_golf_club.jpg" title="See larger version of - Richmond Golf Club"><img src="http://www.stmgrts.org.uk/images//GOLF_richmond_golf_club_thumb.jpg" width="150" height="112" alt="Richmond Golf Club" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/GOLF_richmond_golf_club.jpg" title="See larger version of - Richmond Golf Club"><img src="//stmgrts.org.uk/assets/images/2012/GOLF_richmond_golf_club_thumb.jpg" width="150" height="112" alt="Richmond Golf Club" class="photo right" /></a>
 
 
 h3. GOLF RULES REVISED FOR WAR HAZARDS
@@ -97,7 +97,7 @@ London golfers can take it even to the point where their game has to be adapted 
 </div>
 
 
-<a href="http://www.stmgrts.org.uk/images//GOLF_Melrose_mirror.jpg" title="See larger version of - Melrose mirror"><img src="http://www.stmgrts.org.uk/images//GOLF_Melrose_mirror_thumb.jpg" width="150" height="131" alt="Melrose mirror" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/GOLF_Melrose_mirror.jpg" title="See larger version of - Melrose mirror"><img src="//stmgrts.org.uk/assets/images/2012/GOLF_Melrose_mirror_thumb.jpg" width="150" height="131" alt="Melrose mirror" class="right" /></a>
 
 A much more recent retelling of the story in the ' Melrose Mirror', from Melrose, Massachusetts, published in June 2007, also redates the Temporary Rules to 1941 and includes a copy of the Rules to prove it.
 
@@ -110,6 +110,3 @@ The word "Bogie" is used in both golf and the RAF. In RAF wartime slang "a bogey
 </div>
 
 <cite>-- from Martyn Day</cite>
-
-
-

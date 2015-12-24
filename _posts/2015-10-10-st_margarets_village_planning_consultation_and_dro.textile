@@ -5,7 +5,7 @@ permalink: /archives/2015/10/st_margarets_village_planning_consultation_and_dro.
 category: news
 date: 2015-10-10 11:28:22
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="http://www.stmgrts.org.uk/images//allinone-stmgrts-20151009_thumb.png" width="150" height="208" alt="allinone stmgrts 20151009" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="//stmgrts.org.uk/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="150" height="208" alt="allinone stmgrts 20151009" class="photo right" /></a>
     
     "Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015":http://www.stmgrts.org.uk/event/event/200705145247
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="http://www.stmgrts.org.uk/images//allinone-stmgrts-20151009_thumb.png" width="250" height="348" alt="allinone stmgrts 20151009" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="//stmgrts.org.uk/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="250" height="348" alt="allinone stmgrts 20151009" class="photo right" /></a>
 
 "Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015":http://www.stmgrts.org.uk/event/event/200705145247
 
@@ -27,27 +27,3 @@ You are now invited to "review the draft SPDs":https://consultation.richmond.gov
 A consultation has "been opened online":https://consultation.richmond.gov.uk/consultation/stmargarets-spd/consult_view. In addition, drop in sessions will give residents an opportunity to view and discuss the documents with Council officers.
 
 For more information on the Village Plans, please go to: "www.richmond.gov.uk/village_plans":http://www.richmond.gov.uk/village_plans
-
-
-
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-10-10-st_margarets_village_planning_consultation_and_dro in site.data.2015-10-10-st_margarets_village_planning_consultation_and_dro %}
-       <li>
-
-         {{ 2015-10-10-st_margarets_village_planning_consultation_and_dro.comment }}
-
-         <cite>{{ 2015-10-10-st_margarets_village_planning_consultation_and_dro.author }} on {{ 2015-10-10-st_margarets_village_planning_consultation_and_dro.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

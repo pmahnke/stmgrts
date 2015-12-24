@@ -7,7 +7,7 @@ date: 2009-12-03 17:16:53
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/xmass_5dec_childrens.jpg" title="See larger version of - Poster"><img src="http://www.stmgrts.org.uk/images/events/xmass_5dec_childrens_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/xmass_5dec_childrens.jpg" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2009/xmass_5dec_childrens_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
 
 Come to our "Christmas Fair":http://stmgrts.org.uk/event/event/200705142318 and enjoy:
 
@@ -24,9 +24,3 @@ Come to our "Christmas Fair":http://stmgrts.org.uk/event/event/200705142318 and 
 _benefits the Steiner Kindergarten at Marble Hill Park_
 
 Entrance: &pound;1
-
-
-
-
-
-

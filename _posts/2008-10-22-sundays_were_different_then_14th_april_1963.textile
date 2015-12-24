@@ -5,7 +5,7 @@ permalink: /archives/2008/10/sundays_were_different_then_14th_april_1963.html
 category: around_town
 date: 2008-10-22 09:01:41
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/crawdaddy_stones.jpg"><img src="http://www.stmgrts.org.uk/images/crawdaddy_stones-thumb.jpg" width="150" height="112" alt="photo by Phil Bird from www.eelpie.org/music01.htm" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/crawdaddy_stones.jpg"><img src="//stmgrts.org.uk/assets/images/2008/crawdaddy_stones-thumb.jpg" width="150" height="112" alt="photo by Phil Bird from www.eelpie.org/music01.htm" class="photo right" /></a>
     
     
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/crawdaddy_stones.jpg"><img src="http://www.stmgrts.org.uk/images/crawdaddy_stones-thumb.jpg" width="150" height="112" alt="photo by Phil Bird from www.eelpie.org/music01.htm" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/crawdaddy_stones.jpg"><img src="//stmgrts.org.uk/assets/images/2008/crawdaddy_stones-thumb.jpg" width="150" height="112" alt="photo by Phil Bird from www.eelpie.org/music01.htm" class="photo right" /></a>
 
 
 
@@ -80,7 +80,3 @@ In March 1965 the Crawdaddy Club, the home of rhythm and blues in Great Britain,
 If you're waiting for those shops to open on Sunday you've got a long wait ahead of you. That isn't going to happen until 1994. As I said, Sundays were different then!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

@@ -27,23 +27,3 @@ h4. Adding Draft Documents
 * "Draft of the Membership Form":http://www.stmgrts.org.uk/images/FMM_Draft_Membership_Form.pdf
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2013-01-10-updated_event_reminder_friends_of_moormead_park_29 in site.data.2013-01-10-updated_event_reminder_friends_of_moormead_park_29 %}
-       <li>
-
-         {{ 2013-01-10-updated_event_reminder_friends_of_moormead_park_29.comment }}
-
-         <cite>{{ 2013-01-10-updated_event_reminder_friends_of_moormead_park_29.author }} on {{ 2013-01-10-updated_event_reminder_friends_of_moormead_park_29.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

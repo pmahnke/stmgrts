@@ -5,7 +5,7 @@ permalink: /archives/2014/10/the_duel_a_combat_of_honour.html
 category: around_town
 date: 2014-10-16 23:12:31
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Duel_with_pistols.jpg" title="See larger version of - Duel with pistols"><img src="http://www.stmgrts.org.uk/images//Duel_with_pistols_thumb.jpg" width="150" height="212" alt="Duel with pistols" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Duel_with_pistols.jpg" title="See larger version of - Duel with pistols"><img src="//stmgrts.org.uk/assets/images/2014/Duel_with_pistols_thumb.jpg" width="150" height="212" alt="Duel with pistols" class="photo right" /></a>
     
     Hounslow Heath once had a fearsome reputation for a wide variety of unsavoury activities, including murder, highway robbery, the general seduction of the innocent and gullible and the execution of assorted miscreants and subsequent grisly exhibition of their corpses. It was also, at a time when individuals settled their differences with swords and pistols, a perfect place for duels. In his admirable history of the area, <em>"And So Make A City Here"</em>, historian G.E Bate notes a couple for our interest...
     
@@ -18,7 +18,7 @@ excerpt: |
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/images//DUEL_Georgian_Duel.jpg" title="See larger version of - Georgian Duel"><img src="http://www.stmgrts.org.uk/images//DUEL_Georgian_Duel_thumb.jpg" width="250" height="146" alt="Georgian Duel" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DUEL_Georgian_Duel.jpg" title="See larger version of - Georgian Duel"><img src="//stmgrts.org.uk/assets/images/2014/DUEL_Georgian_Duel_thumb.jpg" width="250" height="146" alt="Georgian Duel" class="photo right" /></a>
 
 Hounslow Heath once had a fearsome reputation for a wide variety of unsavoury activities, including murder, highway robbery, the general seduction of the innocent and gullible and the execution of assorted miscreants and subsequent grisly exhibition of their corpses. It was also, at a time when individuals settled their differences with swords and pistols, a perfect place for duels. In his admirable history of the area, <em>"And So Make A City Here"</em>, historian G.E Bate notes a couple for our interest...
 
@@ -41,7 +41,7 @@ bq. " The last fray of the times was between two young lawyers who were found bo
 Bate does not mention any final outcome.
 
 
-<a href="http://www.stmgrts.org.uk/images//Duel_with_pistols.jpg" title="See larger version of - Duel with pistols"><img src="http://www.stmgrts.org.uk/images//Duel_with_pistols_thumb.jpg" width="250" height="186" alt="Duel with pistols" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Duel_with_pistols.jpg" title="See larger version of - Duel with pistols"><img src="//stmgrts.org.uk/assets/images/2014/Duel_with_pistols_thumb.jpg" width="250" height="186" alt="Duel with pistols" class="photo right" /></a>
 
 
 Our slice of paradise has also provided the perfect setting for a number of fictional duels. One was fought on the towpath between where Twickenham Bridge and Richmond Lock now stand - and carries "an attached ghost story...":http://www.stmgrts.org.uk/archives/2011/11/the_obelisks.html
@@ -65,7 +65,7 @@ The last fatal duel to occur in England was between two French refugees, Cournet
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//DUEL_Bismarck.jpg" title="See larger version of - Bismarck"><img src="http://www.stmgrts.org.uk/images//DUEL_Bismarck_thumb.jpg" width="250" height="333" alt="Bismarck" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/DUEL_Bismarck.jpg" title="See larger version of - Bismarck"><img src="//stmgrts.org.uk/assets/images/2014/DUEL_Bismarck_thumb.jpg" width="250" height="333" alt="Bismarck" class="photo right" /></a>
 
 * In 1808, two Frenchmen are said to have fought in balloons over Paris, each attempting to shoot and puncture the other's balloon. One duellist is said to have been shot down and killed with his second.
 * In 1843, two other Frenchmen are said to have fought a duel by means of throwing billiard balls at each other.
@@ -75,8 +75,3 @@ The last fatal duel to occur in England was between two French refugees, Cournet
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-
-

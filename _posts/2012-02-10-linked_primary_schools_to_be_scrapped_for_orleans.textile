@@ -14,23 +14,3 @@ This will make places at Orleans Park available to the East Twickenham children 
 * "Read the minutes":http://www.richmond.gov.uk/adfor060212minutes.pdf [pdf]
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans in site.data.2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans %}
-       <li>
-
-         {{ 2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans.comment }}
-
-         <cite>{{ 2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans.author }} on {{ 2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

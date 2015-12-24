@@ -7,7 +7,7 @@ date: 2006-10-02 09:43:31
 
 ---
 
-<a href="/images/events/Race-night-poster.jpg" title="See larger version of - race night"><img src="/images/events/Race-night-poster_thumb.jpg" width="150" height="147" alt="race night" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/Race-night-poster.jpg" title="See larger version of - race night"><img src="//stmgrts.org.uk/assets/images/2006/Race-night-poster_thumb.jpg" width="150" height="147" alt="race night" class="photo right" /></a>
 
 The St Margarets Fair Committee invites you to an evening of "Virtual Horse Racing":http://www.stmgrts.org.uk/event/Race/200610020342, light hearted better and cheese!  With live video images and compere!
 
@@ -18,8 +18,3 @@ Tickets can be purchases from the Real Ale Shop or call Zeph King on 079 7729 80
 Only &pound;8 per person -- which includes a cheese platter.
 
 All money raised goes towards local schools and community projects.  The event is sponsored by "Real Ale":http://www.realale.com/
-
-
-
-
-

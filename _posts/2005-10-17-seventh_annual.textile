@@ -7,7 +7,7 @@ date: 2005-10-17 12:06:01
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/beer_festival.jpg"><img src="http://www.stmgrts.org.uk/images/beer_festival-thumb.jpg" width="150" height="112" alt="6th Annual Twickenham Beer Festival" class="right ignore photo"/></a>
+<a href="//stmgrts.org.uk/assets/images/2005/beer_festival.jpg"><img src="//stmgrts.org.uk/assets/images/2005/beer_festival-thumb.jpg" width="150" height="112" alt="6th Annual Twickenham Beer Festival" class="right ignore photo"/></a>
 
 From Thursday, 20<sup>th</sup> October to Saturday, 22<sup>nd</sup> October 2005 is the "Seventh Annual Twickenham Beer and Cider Festival":/cgi-bin/events.cgi?key=200510100823&action=getevent held at "York House":/cgi-bin/directory.cgi?key=200508171541&action=getlisting and is sponsered by CAMRA, _The Campaign for Real Ale_.  
 
@@ -39,7 +39,3 @@ h3. History of the Twickenham Festival
 In the 1990’s the focus of the local campaign changed in order to reflect and promote the wider availability of Real Ales that could now be found. To help achieve this, the annual Twickenham Beer Festival was started at the Feltham Assembly Rooms in 1992. The Beer Festival was an instant success and has nearly always been a sell-out. By 1998, it was too big for Feltham so the festival was moved to York House. The CAMRA Twickenham Beer Festival at York House is now one of the most popular and eagerly awaited events on the local calendar. 
 
 Full details of the activities of The Richmond and Hounslow Branch of CAMRA are on our website at "www.camra.org.uk/richmond":http://www.camra.org.uk/richmond.
-
-
-
-

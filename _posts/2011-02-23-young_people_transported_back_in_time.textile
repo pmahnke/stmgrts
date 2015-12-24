@@ -7,7 +7,7 @@ date: 2011-02-23 11:12:15
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/nowistheseason_TFLMuseum.jpg"><img src="http://www.stmgrts.org.uk/images/nowistheseason_TFLMuseum-thumb.jpg" width="150" height="104" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/nowistheseason_TFLMuseum.jpg"><img src="//stmgrts.org.uk/assets/images/2011/nowistheseason_TFLMuseum-thumb.jpg" width="150" height="104" alt="poster" class="photo right" /></a>
 
 
 Young people from Grey Court School are demonstrating their creative skills next month at an exhibition celebrating historical transport posters of the borough.
@@ -33,7 +33,3 @@ h4. Details
 * Riverside Gallery, Old Town Hall Richmond.
 * Free admission.
 * Go to: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts for more information
-
-
-
-

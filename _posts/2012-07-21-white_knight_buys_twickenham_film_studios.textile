@@ -21,22 +21,3 @@ bq. "The recent press, industry and public interest in the Studios has shown how
 Ms. Walker is a respected post-production supervisor who has a long-standing association with the studio stretching back nearly thirty years. Amongst the productions she's worked on there include: "In America", "The Count of Monte Cristo" and just recently "Fast Girls". She is also a resident of Twickenham
 
 <cite>-- from a TSF Press Release - 17 July 2012</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-07-21-white_knight_buys_twickenham_film_studios in site.data.2012-07-21-white_knight_buys_twickenham_film_studios %}
-       <li>
-
-         {{ 2012-07-21-white_knight_buys_twickenham_film_studios.comment }}
-
-         <cite>{{ 2012-07-21-white_knight_buys_twickenham_film_studios.author }} on {{ 2012-07-21-white_knight_buys_twickenham_film_studios.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

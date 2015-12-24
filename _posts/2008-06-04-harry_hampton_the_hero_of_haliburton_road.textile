@@ -5,7 +5,7 @@ permalink: /archives/2008/06/harry_hampton_the_hero_of_haliburton_road.html
 category: news
 date: 2008-06-04 22:23:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/hampton_small.jpg"><img src="http://www.stmgrts.org.uk/images/hampton_small-thumb.jpg" width="101" height="200" alt="Harry Hampton" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/hampton_small.jpg"><img src="//stmgrts.org.uk/assets/images/2008/hampton_small-thumb.jpg" width="101" height="200" alt="Harry Hampton" class="photo right" /></a>
     
     
     If you are looking for heroes with chiselled jaws, cool unflinching eyes and nerves of steel you had better start flicking through the pages of your old comic books -- because you won't find them in real life. Most heroes are ordinary men and women who just happen to do extraordinary things. There could be a hero or two standing behind you in the queue for the H37. There could be a hero or two living in your street... there certainly was in ours!
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/hampton_small.jpg"><img src="http://www.stmgrts.org.uk/images/hampton_small-thumb.jpg" width="101" height="200" alt="Harry Hampton" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/hampton_small.jpg"><img src="//stmgrts.org.uk/assets/images/2008/hampton_small-thumb.jpg" width="101" height="200" alt="Harry Hampton" class="photo right" /></a>
 
 
 If you are looking for heroes with chiselled jaws, cool unflinching eyes and nerves of steel you had better start flicking through the pages of your old comic books -- because you won't find them in real life. Most heroes are ordinary men and women who just happen to do extraordinary things. There could be a hero or two standing behind you in the queue for the H37. There could be a hero or two living in your street... there certainly was in ours!
@@ -30,7 +30,3 @@ And so the story ends apart from a mysterious occurrence a few years later.  One
 Perhaps the saying that 'old soldiers never die, they just fade away" is true. Maybe our own local hero is doing just that -- but taking his time about it! Next time you're queuing for the H37 may you should check out who is standing behind you!
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

@@ -13,24 +13,3 @@ bq.. "The joint administrators are pleased to announce that following the re-mar
 
 
 p. <cite>-- from "Gerald M Krasner of Begbies Traynor, joint administrator of Twickenham Film Studios Ltd":http://www.begbies-traynorgroup.com/begbies-traynor/news/12-06-06/statement_by_gerald_m_krasner_of_begbies_traynor_joint_administrator_of_twickenham_film_studios_ltd.aspx - 6 June 2012</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-06-07-twickenham_studios_is_sold_again in site.data.2012-06-07-twickenham_studios_is_sold_again %}
-       <li>
-
-         {{ 2012-06-07-twickenham_studios_is_sold_again.comment }}
-
-         <cite>{{ 2012-06-07-twickenham_studios_is_sold_again.author }} on {{ 2012-06-07-twickenham_studios_is_sold_again.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

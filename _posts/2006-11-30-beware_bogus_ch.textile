@@ -41,21 +41,3 @@ Some 'companies' to look out for include:
 * "Unwanted clothing collection" ("5583979":http://www.ukdata.com/creditreports/viewCompanyDetails.do?companyId=5583979) -- Registered as Rogaile Ltd Oct. 2005
 
 <em>-- by Maddie Menzies</em>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-30-beware_bogus_ch in site.data.2006-11-30-beware_bogus_ch %}
-       <li>
-
-         {{ 2006-11-30-beware_bogus_ch.comment }}
-
-         <cite>{{ 2006-11-30-beware_bogus_ch.author }} on {{ 2006-11-30-beware_bogus_ch.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

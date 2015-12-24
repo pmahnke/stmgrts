@@ -5,7 +5,7 @@ permalink: /archives/2011/05/all_in_one_planning_event_11_june_2011.html
 category: news
 date: 2011-05-05 16:11:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
     
     Last year, over 13,500 local people took the opportunity to have their say about their local areas through the survey run by Richmond Council. That represents 17% of households spread evenly across the borough.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
 
 Last year, over 13,500 local people took the opportunity to have their say about their local areas through the survey run by Richmond Council. That represents 17% of households spread evenly across the borough.
 
@@ -26,9 +26,3 @@ people want for their local area and villages. To help with the next stage, the 
 If you would like to have your say about the area where you live, please come along to your nearest event, which is on the "11<sup>th</sup> June for Twickenham, St Margarets, East Twickenham and Strawberry Hill Villages in the Twickenham Civic Centre foyer from 10am to 4pm":http://stmgrts.org.uk/event/meeting/200705142790.
 
 For more information and to see the schedule of events, go to: "www.richmond.gov.uk/all_in_one":http://www.richmond.gov.uk/all_in_one
-
-
-
-
-
-

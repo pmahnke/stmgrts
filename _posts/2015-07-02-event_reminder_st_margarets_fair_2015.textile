@@ -5,14 +5,14 @@ permalink: /archives/2015/07/event_reminder_st_margarets_fair_2015.html
 category: around_town
 date: 2015-07-02 22:56:57
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="http://www.stmgrts.org.uk/images//St_Mags_Fair_thumb.jpg" width="150" height="128" alt="St Mags Fair" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="//stmgrts.org.uk/assets/images/2015/St_Mags_Fair_thumb.jpg" width="150" height="128" alt="St Mags Fair" class="photo right" /></a>
     
     The 2015 Fair again promises to be an incredible day of fun and excitement for our wonderful community. There is a full programme of entertainment throughout the day.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="http://www.stmgrts.org.uk/images//St_Mags_Fair_thumb.jpg" width="250" height="214" alt="St Mags Fair" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="//stmgrts.org.uk/assets/images/2015/St_Mags_Fair_thumb.jpg" width="250" height="214" alt="St Mags Fair" class="photo right" /></a>
 
 "Saturday, 11 July 2015 from 12 to 7.30pm in Moormead Park.":http://www.stmgrts.org.uk/event/fair/200705144924
 
@@ -45,24 +45,3 @@ The 2015 Fair again promises to be an incredible day of fun and excitement for o
 * and much, much more ...
 
 We look forward to seeing you there!
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2015-07-02-event_reminder_st_margarets_fair_2015 in site.data.2015-07-02-event_reminder_st_margarets_fair_2015 %}
-       <li>
-
-         {{ 2015-07-02-event_reminder_st_margarets_fair_2015.comment }}
-
-         <cite>{{ 2015-07-02-event_reminder_st_margarets_fair_2015.author }} on {{ 2015-07-02-event_reminder_st_margarets_fair_2015.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

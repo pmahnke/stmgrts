@@ -26,22 +26,3 @@ h4. More Information
 * 
 07828377939
 * "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-06-19-dreamcatcher_film_camps_2014_starts_on_july_14th_a in site.data.2014-06-19-dreamcatcher_film_camps_2014_starts_on_july_14th_a %}
-       <li>
-
-         {{ 2014-06-19-dreamcatcher_film_camps_2014_starts_on_july_14th_a.comment }}
-
-         <cite>{{ 2014-06-19-dreamcatcher_film_camps_2014_starts_on_july_14th_a.author }} on {{ 2014-06-19-dreamcatcher_film_camps_2014_starts_on_july_14th_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

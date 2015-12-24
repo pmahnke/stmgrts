@@ -33,22 +33,3 @@ p. Philippa Nunn, Head teacher at Waldegrave School for Girls, said: "As a group
 "The consultation runs from 2 March - 30 March":http://www.richmond.gov.uk/home/council_government_and_democracy/council/council_consultations/consultation_details.htm?id=C00961
 
 <cite>from a Richmond Council "press release - 2 March 2012":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/march_2012_press_releases/sixth_forms_one_step_closer.htm</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-03-08-richmond_council_consultation_on_sixth_forms in site.data.2012-03-08-richmond_council_consultation_on_sixth_forms %}
-       <li>
-
-         {{ 2012-03-08-richmond_council_consultation_on_sixth_forms.comment }}
-
-         <cite>{{ 2012-03-08-richmond_council_consultation_on_sixth_forms.author }} on {{ 2012-03-08-richmond_council_consultation_on_sixth_forms.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

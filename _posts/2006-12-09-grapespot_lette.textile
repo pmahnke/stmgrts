@@ -18,28 +18,7 @@ Grapespot Limited
 
 p. The letters.
 
-|<a href="http://www.stmgrts.org.uk/images/Letter_to_H_Jacobs.gif"><img src="http://www.stmgrts.org.uk/images/Letter_to_H_Jacobs-thumb.gif" width="108" height="150" alt="Letter to Harry Jacobs from Grapespot's lawyers - page 1" class="photo"/></a>
+|<a href="//stmgrts.org.uk/assets/images/2006/Letter_to_H_Jacobs.gif"><img src="//stmgrts.org.uk/assets/images/2006/Letter_to_H_Jacobs-thumb.gif" width="108" height="150" alt="Letter to Harry Jacobs from Grapespot's lawyers - page 1" class="photo"/></a>
 <br />Letter to Harry Jacobs from Grapespot's lawyers (page 1)
-|<a href="http://www.stmgrts.org.uk/images/H_Jacobs_appeal_withdrawn.gif"><img src="http://www.stmgrts.org.uk/images/H_Jacobs_appeal_withdrawn-thumb.gif" width="108" height="150" alt="Letter stating the appeal has been withdrawn." class="photo" /></a>
+|<a href="//stmgrts.org.uk/assets/images/2006/H_Jacobs_appeal_withdrawn.gif"><img src="//stmgrts.org.uk/assets/images/2006/H_Jacobs_appeal_withdrawn-thumb.gif" width="108" height="150" alt="Letter stating the appeal has been withdrawn." class="photo" /></a>
 <br />Letter stating the appeal has been withdrawn.|
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-12-09-grapespot_lette in site.data.2006-12-09-grapespot_lette %}
-       <li>
-
-         {{ 2006-12-09-grapespot_lette.comment }}
-
-         <cite>{{ 2006-12-09-grapespot_lette.author }} on {{ 2006-12-09-grapespot_lette.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

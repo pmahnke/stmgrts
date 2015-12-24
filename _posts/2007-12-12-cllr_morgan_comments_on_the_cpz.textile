@@ -20,23 +20,3 @@ A diagram setting out the stages is "available here":http://tinyurl.com/yo4oyn; 
 
 <cite>Councillor Philip Morgan
 "Cllr.PMorgan@richmond.gov.uk":mailto:Cllr.PMorgan@richmond.gov.uk</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-12-12-cllr_morgan_comments_on_the_cpz in site.data.2007-12-12-cllr_morgan_comments_on_the_cpz %}
-       <li>
-
-         {{ 2007-12-12-cllr_morgan_comments_on_the_cpz.comment }}
-
-         <cite>{{ 2007-12-12-cllr_morgan_comments_on_the_cpz.author }} on {{ 2007-12-12-cllr_morgan_comments_on_the_cpz.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

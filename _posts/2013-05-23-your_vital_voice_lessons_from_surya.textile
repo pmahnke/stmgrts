@@ -5,13 +5,13 @@ permalink: /archives/2013/05/your_vital_voice_lessons_from_surya.html
 category: around_town
 date: 2013-05-23 22:29:45
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Voice_Poster_masterMAY.jpg" title="See larger version of - Voice Poster - May 2013"><img src="http://www.stmgrts.org.uk/images//Voice_Poster_masterMAY_thumb.jpg" width="150" height="218" alt="Voice Poster - May 2013" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/Voice_Poster_masterMAY.jpg" title="See larger version of - Voice Poster - May 2013"><img src="//stmgrts.org.uk/assets/images/2013/Voice_Poster_masterMAY_thumb.jpg" width="150" height="218" alt="Voice Poster - May 2013" class="photo right" /></a>
     
     Vital Voices is about a new way of learning to sing, taking your voice in a new musical direction; it's not something you may have experienced before, or seen on TV. It's not Glee, nor a church choir or a community sing-song but a way to give 'Voice' to the music inside you, and share it with others in a relaxed setting. We not only sing part-songs but also work on developing range and tone. We learn to improvise and harmonise, playing with and learning how to care for our voices. Our group also uses percussion to enhance our musicality.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Voice_Poster_masterMAY.jpg" title="See larger version of - Voice Poster - May 2013"><img src="http://www.stmgrts.org.uk/images//Voice_Poster_masterMAY_thumb.jpg" width="150" height="218" alt="Voice Poster - May 2013" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/Voice_Poster_masterMAY.jpg" title="See larger version of - Voice Poster - May 2013"><img src="//stmgrts.org.uk/assets/images/2013/Voice_Poster_masterMAY_thumb.jpg" width="150" height="218" alt="Voice Poster - May 2013" class="photo right" /></a>
 
 _Surya Cooper Tells Us Why Singing is So Good for You_
 
@@ -24,7 +24,3 @@ Songs and chants have been used across cultures and ages for worship, motivation
 Vital Voices meets on Weds at ETNA Community Centre 13 Rosslyn Rd, TW1 2AR  from 12.30-2.30pm usually in term-time, sessions &pound;10 or there are discounts if you pay at the start of a half-term block (5 or 6 weeks)
 
 For more info contact "www.vitalvoices.co.uk":http://www.vitalvoices.co.uk or phone 07770 993289
-
-
-
-

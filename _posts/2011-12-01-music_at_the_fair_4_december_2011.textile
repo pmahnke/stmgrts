@@ -37,24 +37,3 @@ h3. Anthony Alix band
 Alix is from New York and toured America, including a night supporting Duran Duran at Madison Square Garden, before stints in Toronto and Dubai. His trio now plays London with his funky soul hits and what a big sound 3 people can make!
 
 _A special thank you to all of the bands and to Alistair Wright of Radio Jackie who organises the music at the fair and act as MC._
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-12-01-music_at_the_fair_4_december_2011 in site.data.2011-12-01-music_at_the_fair_4_december_2011 %}
-       <li>
-
-         {{ 2011-12-01-music_at_the_fair_4_december_2011.comment }}
-
-         <cite>{{ 2011-12-01-music_at_the_fair_4_december_2011.author }} on {{ 2011-12-01-music_at_the_fair_4_december_2011.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

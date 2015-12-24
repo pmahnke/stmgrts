@@ -18,23 +18,3 @@ Last October we told you that how 50% of the &pound;14,000 profit from July's Fa
 |&pound;150|MARBLE HILL PLAYCENTRES|
 
 Thank you all very much for making this possible with by your continuing and generous support of the St Margarets Fair, which this year will be on Saturday the 10<sup>th</sup> of July.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-03-12-st_margarets_fair_2009_charity_beneficiaries in site.data.2010-03-12-st_margarets_fair_2009_charity_beneficiaries %}
-       <li>
-
-         {{ 2010-03-12-st_margarets_fair_2009_charity_beneficiaries.comment }}
-
-         <cite>{{ 2010-03-12-st_margarets_fair_2009_charity_beneficiaries.author }} on {{ 2010-03-12-st_margarets_fair_2009_charity_beneficiaries.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

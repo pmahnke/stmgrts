@@ -5,7 +5,7 @@ permalink: /archives/2011/10/minster_of_chance_continues.html
 category: news
 date: 2011-10-06 09:42:18
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="http://www.stmgrts.org.uk/images//minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
     
     Good news, locally produced _Minister of Chance_, a modern, pay-as-you-go radio-play is going to continue with Episode three.
     
@@ -18,7 +18,7 @@ Good news, locally produced _Minister of Chance_, a modern, pay-as-you-go radio-
 <div class="letter">
 Dear friends,
 
-<a href="http://www.stmgrts.org.uk/images//minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="http://www.stmgrts.org.uk/images//minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
 
 Thank you so much for making the "Minister of Chance":http://www.stmgrts.org.uk/archives/2011/05/update_the_minister_of_chance.html such a phenomenal success! 
 
@@ -29,10 +29,3 @@ Dan and I are truly grateful for your support...
 Clare Eden
 
 </div>
-
-
-
-
-
-
-

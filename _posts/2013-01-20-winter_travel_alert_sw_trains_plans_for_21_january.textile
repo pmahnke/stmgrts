@@ -5,7 +5,7 @@ permalink: /archives/2013/01/winter_travel_alert_sw_trains_plans_for_21_january.
 category: news
 date: 2013-01-20 13:15:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="http://www.stmgrts.org.uk/images//sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="//stmgrts.org.uk/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
     
     
     _Changes to train times Monday 21st January 2013._
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="http://www.stmgrts.org.uk/images//sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
+<a href="//stmgrts.org.uk/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="//stmgrts.org.uk/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
 
 
 _Changes to train times Monday 21st January 2013._
@@ -54,8 +54,3 @@ South West Trains will be running a revised timetable on the routes shown.
 These timetables are for South West Trains services only.
 
 * "full details online":http://www.southwesttrains.co.uk/SnowPlan2013.aspx
-
-
-
-
-

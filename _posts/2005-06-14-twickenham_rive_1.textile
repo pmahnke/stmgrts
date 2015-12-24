@@ -7,7 +7,7 @@ date: 2005-06-14 16:59:27
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/playground 085a-lores.jpg"><img src="http://www.stmgrts.org.uk/images/playground 085a-lores-thumb.jpg" width="150" height="100" alt="Twickenham Riverside Playground" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2005/playground 085a-lores.jpg"><img src="//stmgrts.org.uk/assets/images/2005/playground 085a-lores-thumb.jpg" width="150" height="100" alt="Twickenham Riverside Playground" class="right" /></a>
 
 
 The regeneration of the Twickenham Riverside is well under way with _Stage 1_ offically completed on 1 June with the opening of the Jubilee Gardens and a playground.  Soon a Café will be opened as well.
@@ -32,7 +32,3 @@ After the groups submit their proposals, the Council will evaluate the proposals
 Most Twickenham Ward residents, including St Margarets, received a glossy 14 page brochure detailing the entire project, but if you missed it or want it again, you can get it as a (rather large) PDF "here":http://www.richmond.gov.uk/riverside_2005_brochure.pdf or throughout the Borough in Council offices and libraries.  It provides a lot of detail on each of these four groups proposals.
 
 Additionally, the Council's website has more information "here":http://www.richmond.gov.uk/twickenhamriverside and will be updated with news.  Finally, the "Twickenham Riverside":http://www.rivercentre.co.uk/ site is an excellent source of news and photos of the site.
-
-
-
-

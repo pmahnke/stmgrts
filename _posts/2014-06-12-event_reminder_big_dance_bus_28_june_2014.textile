@@ -5,7 +5,7 @@ permalink: /archives/2014/06/event_reminder_big_dance_bus_28_june_2014.html
 category: around_town
 date: 2014-06-12 22:09:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Big_Dance_Bus_Twickenham_2012_low_res.jpg" title="See larger version of - Big Dance Bus Twickenham 2012 low res"><img src="http://www.stmgrts.org.uk/images//Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg" width="150" height="225" alt="Big Dance Bus Twickenham 2012 low res" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res.jpg" title="See larger version of - Big Dance Bus Twickenham 2012 low res"><img src="//stmgrts.org.uk/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg" width="150" height="225" alt="Big Dance Bus Twickenham 2012 low res" class="photo right" /></a>
     
      
     "The Big Dance Bus is back to get everyone dancing at Twickenham Green this summer!":http://www.stmgrts.org.uk/event/event/200705144500
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Big_Dance_Bus_Twickenham_2012_low_res.jpg" title="See larger version of - Big Dance Bus Twickenham 2012 low res"><img src="http://www.stmgrts.org.uk/images//Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg" width="150" height="225" alt="Big Dance Bus Twickenham 2012 low res" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res.jpg" title="See larger version of - Big Dance Bus Twickenham 2012 low res"><img src="//stmgrts.org.uk/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg" width="150" height="225" alt="Big Dance Bus Twickenham 2012 low res" class="photo right" /></a>
 
  
 "The Big Dance Bus is back to get everyone dancing at Twickenham Green this summer!":http://www.stmgrts.org.uk/event/event/200705144500
@@ -30,6 +30,3 @@ The Big Dance Bus is taking dance back to the streets.  There will be plenty of 
 The Big Dance Bus is a free outdoor party suitable for all the family. 
  
 Come and join the ultimate celebration of dance!
-
-
-

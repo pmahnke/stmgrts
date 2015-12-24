@@ -7,7 +7,7 @@ date: 2005-09-23 13:41:48
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/tesco_loading_bay.gif"><img src="http://www.stmgrts.org.uk/images/tesco_loading_bay-thumb.gif" width="150" height="112" alt="Tesco's Loading Bay Changes" class="photo right ignore" /></a>
+<a href="//stmgrts.org.uk/assets/images/2005/tesco_loading_bay.gif"><img src="//stmgrts.org.uk/assets/images/2005/tesco_loading_bay-thumb.gif" width="150" height="112" alt="Tesco's Loading Bay Changes" class="photo right ignore" /></a>
 
 The Richmond Council has granted Tesco additional flexibility on the loading bay in front of their St Margarets Road _Tesco Express_ by increasing its overall size and extending the loading time per vehicle to one hour.  The details of the extension are as follows:
 
@@ -26,22 +26,3 @@ p>. -- from the <a href="http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=9206
 Which 'community initiatives' and Tesco's commitment to them have not been communicated yet.
 
 Additionally, the Council claims that they will attempt to enforce the revised restrictions.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-09-23-tesco_granted_m in site.data.2005-09-23-tesco_granted_m %}
-       <li>
-
-         {{ 2005-09-23-tesco_granted_m.comment }}
-
-         <cite>{{ 2005-09-23-tesco_granted_m.author }} on {{ 2005-09-23-tesco_granted_m.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

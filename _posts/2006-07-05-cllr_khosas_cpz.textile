@@ -12,23 +12,3 @@ bq.. "The council is currently in the process of reviewing its criteria for CPZs
 We continue to convey the urgency of our area to Cabinet members but have to abide by their timetable although I am told we are pretty much on the top as far as priority wards are concerned."
 
 p. -- Councillor Ben Khosa
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-05-cllr_khosas_cpz in site.data.2006-07-05-cllr_khosas_cpz %}
-       <li>
-
-         {{ 2006-07-05-cllr_khosas_cpz.comment }}
-
-         <cite>{{ 2006-07-05-cllr_khosas_cpz.author }} on {{ 2006-07-05-cllr_khosas_cpz.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

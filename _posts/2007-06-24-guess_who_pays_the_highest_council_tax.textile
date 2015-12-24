@@ -17,23 +17,3 @@ bq.. "Richmond-upon-Thames has the highest average council tax bill in the count
 p. ??-- from mortgage introducer's article, "Council tax rising ahead of inflation":http://www.mortgageintroducer.com/ccstory/22163/4/Council_tax_rising_ahead_of_inflation.htm??
 
 Anyone surprised?
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-24-guess_who_pays_the_highest_council_tax in site.data.2007-06-24-guess_who_pays_the_highest_council_tax %}
-       <li>
-
-         {{ 2007-06-24-guess_who_pays_the_highest_council_tax.comment }}
-
-         <cite>{{ 2007-06-24-guess_who_pays_the_highest_council_tax.author }} on {{ 2007-06-24-guess_who_pays_the_highest_council_tax.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

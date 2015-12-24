@@ -5,7 +5,7 @@ permalink: /archives/2012/05/pilates_plus_opens_new_space_two_open_days.html
 category: around_town
 date: 2012-05-11 07:22:18
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/pp2006.jpg"><img src="http://www.stmgrts.org.uk/images/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/pp2006.jpg"><img src="//stmgrts.org.uk/assets/images/2012/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
     
     After 10 successful years running her Crown Rd Pilates studio, owner Sarah Duley is pleased to announce the opening of 117, an additional studio in St Margarets, Twickenham.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/pp2006.jpg"><img src="http://www.stmgrts.org.uk/images/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/pp2006.jpg"><img src="//stmgrts.org.uk/assets/images/2012/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
 
 After 10 successful years running her Crown Rd Pilates studio, owner Sarah Duley is pleased to announce the opening of 117, an additional studio in St Margarets, Twickenham.
 
@@ -35,6 +35,3 @@ h4. More Information
 * All bookings and enquiries can be made at our 4 Crown Rd reception.
 * phone: 020 8892 3403
 * info@pilates-plus.co.uk
-
-
-

@@ -12,24 +12,3 @@ Details for booking tickets to the Marble Hill Picnic Concerts this August.
 * See Tickets 0870 890 0146
 * Ticketmaster 0870 333 6206
 * Book online at "www.picnicconcerts.com":http://www.picnicconcerts.com/
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-26-booking_details_for_marble_hill_concerts in site.data.2007-03-26-booking_details_for_marble_hill_concerts %}
-       <li>
-
-         {{ 2007-03-26-booking_details_for_marble_hill_concerts.comment }}
-
-         <cite>{{ 2007-03-26-booking_details_for_marble_hill_concerts.author }} on {{ 2007-03-26-booking_details_for_marble_hill_concerts.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

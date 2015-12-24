@@ -18,23 +18,3 @@ I have once again asked for their help.
 Can I ask through your Newsletter that other Barons residents, who feel the same, please report the problem to Richmond Council?"
 
 p. -- _from Mike Bowden_
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-03-22-reader_appeal_t in site.data.2007-03-22-reader_appeal_t %}
-       <li>
-
-         {{ 2007-03-22-reader_appeal_t.comment }}
-
-         <cite>{{ 2007-03-22-reader_appeal_t.author }} on {{ 2007-03-22-reader_appeal_t.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

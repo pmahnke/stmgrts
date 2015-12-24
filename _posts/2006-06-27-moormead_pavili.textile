@@ -12,23 +12,3 @@ The "Pavilion Clearing Out Day":http://www.stmgrts.org.uk/archives/2006/06/moorm
 bq.. "We had over the course of the day about 50-60 helpers and made a fabulous start to the clearing out and cleaning up process.  The interior is emerging as having great potential for community use, the next stage is raising the funds to pay for the internal refurbishment requirements to make it fit for using.  Externally the first coat of paint has gone up, a great job done there by everyone involved, particularly the children who threw themselves into!
  
 A huge thanks to everyone who took part. Stage 1 of reclaiming the pavilion completed."
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-06-27-moormead_pavili in site.data.2006-06-27-moormead_pavili %}
-       <li>
-
-         {{ 2006-06-27-moormead_pavili.comment }}
-
-         <cite>{{ 2006-06-27-moormead_pavili.author }} on {{ 2006-06-27-moormead_pavili.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

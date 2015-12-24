@@ -7,7 +7,7 @@ date: 2010-07-09 15:12:05
 
 ---
 
-<img src="http://www.stmargaretsfair.org/imagescov/cover100_10.jpg" class="photo right" alt="Fair Poster" />
+<img src="//stmgrts.org.uk/assets/images/2010/cover100_10.jpg" class="photo right" alt="Fair Poster" />
 
 Saturday, 10 July 2010 is this year's "St Margarets Fair":http://www.stmargaretsfair.org/.  It starts at 11.30am finishes at 7.30pm. This year there are a number of new attractions, including Kub Kart Wars at 15.20 in the main arena and Laser Tag on the playing field starting from 13.00.
 
@@ -22,8 +22,3 @@ In addition, there will be:
 The fair organisers run the Tea Tent, Beer Tent, Pimms Stall, Greek Food, the BBQ, the Bric-a-brac stall, a Plant stall, the Silent Auction, and the Coconut Shy.
 
 All profits from these stalls go direct to our charities - please support these stalls.
-
-
-
-
-

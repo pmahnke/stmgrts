@@ -5,36 +5,16 @@ permalink: /archives/2011/02/our_second_ever_reader_poll.html
 category: editorial
 date: 2011-02-10 23:01:23
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//visits_2005-2010.png" title="See larger version of - visits to the site"><img src="http://www.stmgrts.org.uk/images//visits_2005-2010_thumb.png" width="150" height="96" alt="visits to the site" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/visits_2005-2010.png" title="See larger version of - visits to the site"><img src="//stmgrts.org.uk/assets/images/2011/visits_2005-2010_thumb.png" width="150" height="96" alt="visits to the site" class=" right" /></a>
     
     
     Well, it isn't exactly our six year anniversary, but we are looking at a bit of a redesign, so we thought we should run our _second_ ever "Reader Poll":http://www.stmgrts.org.uk/cgi-bin/readerpoll2011.cgi to see how we are doing. It would be great if you could spare us five minutes of your time to help us know what is working and what isn't.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//visits_2005-2010.png" title="See larger version of - visits to the site"><img src="http://www.stmgrts.org.uk/images//visits_2005-2010_thumb.png" width="150" height="96" alt="visits to the site" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/visits_2005-2010.png" title="See larger version of - visits to the site"><img src="//stmgrts.org.uk/assets/images/2011/visits_2005-2010_thumb.png" width="150" height="96" alt="visits to the site" class=" right" /></a>
 
 
 Well, it isn't exactly our six year anniversary, but we are looking at a bit of a redesign, so we thought we should run our _second_ ever "Reader Poll":http://www.stmgrts.org.uk/cgi-bin/readerpoll2011.cgi to see how we are doing. It would be great if you could spare us five minutes of your time to help us know what is working and what isn't.
 
 The site has been doing fairly well considering we don't directly market the site. However, we know there is a lot more that we could be doing, but we need a lot more help. So if you want to help with writing, typing, finding events, or helping get the word out, please let us know in the "2011 Reader Poll":http://www.stmgrts.org.uk/cgi-bin/readerpoll2011.cgi
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-02-10-our_second_ever_reader_poll in site.data.2011-02-10-our_second_ever_reader_poll %}
-       <li>
-
-         {{ 2011-02-10-our_second_ever_reader_poll.comment }}
-
-         <cite>{{ 2011-02-10-our_second_ever_reader_poll.author }} on {{ 2011-02-10-our_second_ever_reader_poll.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

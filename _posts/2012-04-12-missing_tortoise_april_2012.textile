@@ -14,24 +14,3 @@ He goes by the name of Basil, not that that will be of much help, but he is grea
 Small reward for anyone who finds him. He is a Hermans Tortoise, about 12 years old and would probably be about the same size as an adult male's hand.
 
 Please contact the website "here":mailto:editor@stmgrts.org.uk if you have any information, or Basil himself.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-04-12-missing_tortoise_april_2012 in site.data.2012-04-12-missing_tortoise_april_2012 %}
-       <li>
-
-         {{ 2012-04-12-missing_tortoise_april_2012.comment }}
-
-         <cite>{{ 2012-04-12-missing_tortoise_april_2012.author }} on {{ 2012-04-12-missing_tortoise_april_2012.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

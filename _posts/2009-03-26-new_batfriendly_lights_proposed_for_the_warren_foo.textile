@@ -5,14 +5,14 @@ permalink: /archives/2009/03/new_batfriendly_lights_proposed_for_the_warren_foo.
 category: news
 date: 2009-03-26 10:22:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/bats_thames.jpg" ><img src="http://www.stmgrts.org.uk/images/bats_thames-thumb.jpg" width="150" height="112" alt="photo from BATS IN THE BOROUGH 2008 - http://www.richenvironmentnet.org.uk/Bats.aspx" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/bats_thames.jpg" ><img src="//stmgrts.org.uk/assets/images/2009/bats_thames-thumb.jpg" width="150" height="112" alt="photo from BATS IN THE BOROUGH 2008 - http://www.richenvironmentnet.org.uk/Bats.aspx" class="photo right" /></a>
     
     
     The Warren Footpath, which runs by the river from Richmond Bridge to Orleans Road, is a very important habitat for bats. There are 17 species of bat in the UK, 8 of which have been recorded in Richmond upon Thames. Bats have adapted to avoid predation by being nocturnal; they avoid lit areas and most will not fly into areas of light. Some species will not emerge from their roosts until light levels are low enough. The Ham Reach of the Thames by the Warren Footpath is known as a critical habitat for bats [they roost in the Park and feed along the river].
 
 ---
 
-<a href="http://www.richenvironmentnet.org.uk/Bats.aspx"><img src="http://www.stmgrts.org.uk/images/bats_thames-thumb.jpg" width="150" height="112" alt="photo from BATS IN THE BOROUGH 2008 - http://www.richenvironmentnet.org.uk/Bats.aspx" class="photo right" /></a>
+<a href="http://www.richenvironmentnet.org.uk/Bats.aspx"><img src="//stmgrts.org.uk/assets/images/2009/bats_thames-thumb.jpg" width="150" height="112" alt="photo from BATS IN THE BOROUGH 2008 - http://www.richenvironmentnet.org.uk/Bats.aspx" class="photo right" /></a>
 
 
 The Warren Footpath, which runs by the river from Richmond Bridge to Orleans Road, is a very important habitat for bats. There are 17 species of bat in the UK, 8 of which have been recorded in Richmond upon Thames. Bats have adapted to avoid predation by being nocturnal; they avoid lit areas and most will not fly into areas of light. Some species will not emerge from their roosts until light levels are low enough. The Ham Reach of the Thames by the Warren Footpath is known as a critical habitat for bats [they roost in the Park and feed along the river].
@@ -30,23 +30,3 @@ You view an example of the proposed LED lighting and column between light column
 Consultation documents are available from: The Civic Centre reception in Twickenham, and Richmond Reference Library; or as "downloads here":http://bit.ly/oMpW6 All comments on the proposed works must be received by 5 pm, 9<sup>th</sup> April 2009.
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo in site.data.2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo %}
-       <li>
-
-         {{ 2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo.comment }}
-
-         <cite>{{ 2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo.author }} on {{ 2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

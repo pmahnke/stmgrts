@@ -7,7 +7,7 @@ date: 2009-03-19 14:05:03
 
 ---
 
-<a href="http://stmgrts.org.uk/images/events/stmag_lent_fundraiser.jpg" title="See larger version of - Makumbi Mission Children's Home"><img src="http://stmgrts.org.uk/images/events/stmag_lent_fundraiser_thumb.jpg" width="150" height="74" alt="Makumbi Mission Children's Home" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/stmag_lent_fundraiser.jpg" title="See larger version of - Makumbi Mission Children's Home"><img src="//stmgrts.org.uk/assets/images/2009/stmag_lent_fundraiser_thumb.jpg" width="150" height="74" alt="Makumbi Mission Children's Home" class="photo right" /></a>
 
 Come for a "fun day at the St Margarets Church":http://stmgrts.org.uk/event/fair/200705142090 with:
 
@@ -24,8 +24,3 @@ and help raise money for the Church's Lenten Project, the _Makumbi Mission Child
 *About*
 
 The Makumbi Mission Children's Home has 110 children living in family groups, ranging in age from birth to 18 years.  All the children have come from very traumatic backgrounds and are in desperate need of help.  The facilities at the Home, including Church, clinic, nursery, primary and secondary schools, can also be accessed by children from the local villages serving a wonderful community role.  &pound;300 pays for one child for a year, therefore our Lenten Project is hoping to help many children have a better life.
-
-
-
-
-

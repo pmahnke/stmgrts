@@ -22,23 +22,3 @@ I am a former news reporter and feature writer on the Daily Mail, Daily Mirror a
 If anyone is interested in receiving my newsletters from Palestine, please e-mail me at "gill@gillswain.co.uk":mailto:gill@gillswain.co.uk and I will gladly add you to my list. Also, if anyone would like to host one of my talks, please get in touch. More information about the programme can be found at "www.eappi.org":http://www.eappi.org/
 
 <cite> -- from Gill Swain</cite>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-09-18-local_writer_works_for_peace_in_palestine in site.data.2007-09-18-local_writer_works_for_peace_in_palestine %}
-       <li>
-
-         {{ 2007-09-18-local_writer_works_for_peace_in_palestine.comment }}
-
-         <cite>{{ 2007-09-18-local_writer_works_for_peace_in_palestine.author }} on {{ 2007-09-18-local_writer_works_for_peace_in_palestine.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

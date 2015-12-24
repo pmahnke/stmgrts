@@ -5,13 +5,13 @@ permalink: /archives/2013/01/new_yoga_class_with_chris_james.html
 category: around_town
 date: 2013-01-23 20:26:40
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="http://www.stmgrts.org.uk/images//chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="//stmgrts.org.uk/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
     
     The Crossway is our gorgeous new venue in Richmond Upon Thames. Come and join us in the light and airy Oak Room on Monday evenings, and be stretched, relaxed and inspired for your week ahead...
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="http://www.stmgrts.org.uk/images//chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="//stmgrts.org.uk/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
 
 The Crossway is our gorgeous new venue in Richmond Upon Thames. Come and join us in the light and airy Oak Room on Monday evenings, and be stretched, relaxed and inspired for your week ahead...
 
@@ -27,7 +27,3 @@ h4. More Information
 * Website: "www.chrisjamesyoga.com":http://www.chrisjamesyoga.com
 
 _There is plenty of FREE Parking in the surrounding residential roads, so you can take your pick_
-
-
-
-

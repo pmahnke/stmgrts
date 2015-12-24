@@ -7,7 +7,7 @@ date: 2007-10-10 20:34:00
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Race-night.jpg"><img src="http://www.stmgrts.org.uk/images/Race-night-thumb.jpg" width="105" height="150" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2007/Race-night.jpg"><img src="//stmgrts.org.uk/assets/images/2007/Race-night-thumb.jpg" width="105" height="150" alt="poster" class="photo right" /></a>
 
 
 
@@ -20,9 +20,3 @@ The event is taking place on Friday 12th October at St Margarets R.C. Church Hal
 Doors open from 7.30pm and last orders at the bar are 10.45pm. The first race starts at 8pm!
 
 You can purchase tickets and horses by calling Zeph King on 07977 298045. Alternatively e-mail "zephking@btinternet.com":mailto:zephking@btinternet.com note that tickets are limited.
-
-
-
-
-
-

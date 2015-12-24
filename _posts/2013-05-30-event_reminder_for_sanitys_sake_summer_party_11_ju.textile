@@ -5,7 +5,7 @@ permalink: /archives/2013/05/event_reminder_for_sanitys_sake_summer_party_11_ju.
 category: around_town
 date: 2013-05-30 22:44:12
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="http://www.stmgrts.org.uk/images//FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="//stmgrts.org.uk/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
     
     _It's the end of term and it's party time!! Let us entertain you..._
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="http://www.stmgrts.org.uk/images//FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="//stmgrts.org.uk/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
 
 _It's the end of term and it's party time!! Let us entertain you..._
 
@@ -42,6 +42,3 @@ h4. More Information
 ** All the money raised will go to maintaining For Sanity's Sake, which is a not-for-profit, voluntary run Social Enterprise.
 * "Book online":http://www.eventbrite.com/event/6279587415
 * "Website":http://www.forsanityssake.com/events/end-of-school-year-parent-s-school-ball
-
-
-

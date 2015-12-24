@@ -12,24 +12,3 @@ Our black cat Pumpkin, reported missing on this website (see "Missing Cat No. 3 
 Many thanks to everyone for their help and support.
 
 ??The Dyer family, Hartington Road.??
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-09-28-pumpkin_is_back in site.data.2007-09-28-pumpkin_is_back %}
-       <li>
-
-         {{ 2007-09-28-pumpkin_is_back.comment }}
-
-         <cite>{{ 2007-09-28-pumpkin_is_back.author }} on {{ 2007-09-28-pumpkin_is_back.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

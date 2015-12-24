@@ -16,24 +16,3 @@ The major job, however, has been fitting out a new kitchen. Out with the banks o
 * "Pub details":http://www.stmgrts.org.uk/directory/pub/200505231529
 
 <cite>-- from St Margarets Pub</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-10-11-st_margarets_pub_reopens_11_october_2012 in site.data.2012-10-11-st_margarets_pub_reopens_11_october_2012 %}
-       <li>
-
-         {{ 2012-10-11-st_margarets_pub_reopens_11_october_2012.comment }}
-
-         <cite>{{ 2012-10-11-st_margarets_pub_reopens_11_october_2012.author }} on {{ 2012-10-11-st_margarets_pub_reopens_11_october_2012.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

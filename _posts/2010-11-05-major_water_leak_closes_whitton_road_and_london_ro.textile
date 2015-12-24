@@ -17,23 +17,3 @@ It is likely that Bus Routes 281 and 267 will both be diverted via Crown Road.
 Obviously, the timing is horrible with a major international at Twickenham Stadium tomorrow.
 
 -- from Mary Ainscough and Richmond Council
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-11-05-major_water_leak_closes_whitton_road_and_london_ro in site.data.2010-11-05-major_water_leak_closes_whitton_road_and_london_ro %}
-       <li>
-
-         {{ 2010-11-05-major_water_leak_closes_whitton_road_and_london_ro.comment }}
-
-         <cite>{{ 2010-11-05-major_water_leak_closes_whitton_road_and_london_ro.author }} on {{ 2010-11-05-major_water_leak_closes_whitton_road_and_london_ro.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -34,22 +34,3 @@ Magnet meets twice a term at the Winchester Hall next to the Turks Head.  The ne
 In terms of where Magnet is going it will continue to meet the needs of its members work agendas as they evolve.  This year we are hoping to plan all 6 meetings in advance so that everyone knows what topics are on the agenda for each meeting and so that we can encourage other members to take the lead in some of these meetings.
 
 To contact Magnet email: "magnet_stmargarets@yahoo.co.uk":mailto:magnet_stmargarets@yahoo.co.uk  or phone Sue Jenkins (07810 540041), Penny Vegting (07836 611 477) or Emer Wynne (07908 628 198)
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-12-local_group_mag in site.data.2006-10-12-local_group_mag %}
-       <li>
-
-         {{ 2006-10-12-local_group_mag.comment }}
-
-         <cite>{{ 2006-10-12-local_group_mag.author }} on {{ 2006-10-12-local_group_mag.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

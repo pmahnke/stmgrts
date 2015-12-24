@@ -5,7 +5,7 @@ permalink: /archives/2012/04/the_first_cuckoo.html
 category: around_town
 date: 2012-04-25 21:33:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//CUCKOO_hounslow_mill.jpg" title="See larger version of - hounslow mill"><img src="http://www.stmgrts.org.uk/images//CUCKOO_hounslow_mill_thumb.jpg" width="150" height="150" alt="hounslow mill" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_hounslow_mill.jpg" title="See larger version of - hounslow mill"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_hounslow_mill_thumb.jpg" width="150" height="150" alt="hounslow mill" class="right" /></a>
     
     bq.. "Hounslow, whose heath sublimer terror fills,
     Shall with her gibbets lend her powder mills."
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//CUCKOO_hounslow_mill.jpg" title="See larger version of - hounslow mill"><img src="http://www.stmgrts.org.uk/images//CUCKOO_hounslow_mill_thumb.jpg" width="150" height="150" alt="hounslow mill" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_hounslow_mill.jpg" title="See larger version of - hounslow mill"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_hounslow_mill_thumb.jpg" width="150" height="150" alt="hounslow mill" class="right" /></a>
 
 bq.. "Hounslow, whose heath sublimer terror fills,
 Shall with her gibbets lend her powder mills."
@@ -35,7 +35,7 @@ bq. "... It is said that the first gunpowder manufactured in England was probabl
 
 ??EDWARD WALFORD Writer and Historian 1823-1897??
 
-<a href="http://www.stmgrts.org.uk/images//CUCKOO_safety_sign.jpg" title="See larger version of - safety sign"><img src="http://www.stmgrts.org.uk/images//CUCKOO_safety_sign_thumb.jpg" width="150" height="112" alt="safety sign" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_safety_sign.jpg" title="See larger version of - safety sign"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_safety_sign_thumb.jpg" width="150" height="112" alt="safety sign" class="photo right" /></a>
 
 The Hounslow gunpowder mills may have been at the scientific and technological cutting edge and vital to the nation's defence; they may have used the most sophisticated safety procedures, one of which involved dampening the powder with the urine of wine-drinking bishops - but it didn't stop them blowing up with monotonous regularity...
 
@@ -44,7 +44,7 @@ December 1758 - 'At night at about twelve o'clock a store of gunpowder at Hounsl
 
 The explosions of 1758 were nothing when compared with a major detonation in September 1770 - 
 
-<a href="http://www.stmgrts.org.uk/images//CUCKOO_destroyed_gunpodwer_mill.jpg" title="See larger version of - destroyed gunpowder mill"><img src="http://www.stmgrts.org.uk/images//CUCKOO_destroyed_gunpodwer_mill_thumb.jpg" width="150" height="86" alt="destroyed gunpowder mill" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_destroyed_gunpodwer_mill.jpg" title="See larger version of - destroyed gunpowder mill"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_destroyed_gunpodwer_mill_thumb.jpg" width="150" height="86" alt="destroyed gunpowder mill" class="photo right" /></a>
 
 bq. 'Yesterday morning exactly at half-past nine eight powder mills blew up at Hounslow Heath by the explosion being communicated from one to the other; the shock was so great that there was scarce a pane of glass left whole in the parishes of Twickenham, Brentford, Teddington etc, most parts of London and Westminster likewise felt the shock and imagined it an earthquake....the inhabitants of Brentford, Hounslow, Twickenham and Isleworth etc have advertised for a meeting to petition Parliament for the removal of the powder mills, as not only the inhabitants, but travellers, (they being so near the high road), are now in eminent danger thereof.'
 
@@ -58,7 +58,7 @@ There were other explosions. On Sunday April 1774 the congregation in Isleworth 
 
 The worst detonation of them all was recorded on in January 1776...
 
-<a href="http://www.stmgrts.org.uk/images//CUCKOO_shot_tower.png" title="See larger version of - shot tower"><img src="http://www.stmgrts.org.uk/images//CUCKOO_shot_tower_thumb.png" width="150" height="225" alt="shot tower" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_shot_tower.png" title="See larger version of - shot tower"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_shot_tower_thumb.png" width="150" height="225" alt="shot tower" class="photo right" /></a>
 
 bq. "Between eight and nine o'clock this day the powder mills at Hounslow, owing to the wheels not being properly supplied with oil, took fire and blew up with a dreadful explosion, which not only terrified the inhabitants of the place, but alarmed the City of London. Three men at the works were killed and the flames reached a boat in the mill river, in which were thirty barrels of gunpowder, set fire to the whole and blew it up with a terrible explosion; the man in charge being shattered to bits and the boat blown clean out of the water. Not a vestige of the mills is left standing and Hounslow Heath is covered with bricks and tiles, and the mangled remains of the unfortunate sufferers. The houses in Hounslow, Isleworth and Brentford have suffered considerably, without a whole pane of glass in their windows and the inhabitants so terrified that they not only forsook their dwellings, but a number of women and children, through fear, appeared half naked in the streets, expecting every moment that the houses would fall and bury them. The scattered limbs of the victims were, by order of the magistrates, collected and deposited in the Churchyard. The loss of the valuable manufactory is estimated at near &pound;20,000."
 
@@ -66,7 +66,7 @@ The explosions continued throughout the 19<sup>th</sup> century. One in August 1
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//CUCKOO_gunpowder_explosion.jpg" title="See larger version of - gunpowder explosion"><img src="http://www.stmgrts.org.uk/images//CUCKOO_gunpowder_explosion_thumb.jpg" width="150" height="100" alt="gunpowder explosion" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/CUCKOO_gunpowder_explosion.jpg" title="See larger version of - gunpowder explosion"><img src="//stmgrts.org.uk/assets/images/2012/CUCKOO_gunpowder_explosion_thumb.jpg" width="150" height="100" alt="gunpowder explosion" class="photo right" /></a>
 
 h4. A Story Following the Double Explosion of 1906
 
@@ -79,7 +79,3 @@ There is an article about the "Crane Park Shot Tower":http://www.stmgrts.org.uk/
 <cite>-- from Martyn Day</cite>
 
 _Credit: Much of the information in this article came from "Highwayman's Heath" by Gordon S. Maxwell, published in 1935_
-
-
-
-

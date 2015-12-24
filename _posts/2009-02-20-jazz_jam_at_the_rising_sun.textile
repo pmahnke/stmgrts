@@ -12,24 +12,3 @@ The Jazz Showcase is relaunching as the "Jazz Jam":http://www.stmgrts.org.uk/dir
 Come and listen or sit in with the house band. Ian Anderson on piano, Roger Perrin on bass and Jeremy Holroyd on drums.
 
 Admission free - a collection will be made during the evening.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-02-20-jazz_jam_at_the_rising_sun in site.data.2009-02-20-jazz_jam_at_the_rising_sun %}
-       <li>
-
-         {{ 2009-02-20-jazz_jam_at_the_rising_sun.comment }}
-
-         <cite>{{ 2009-02-20-jazz_jam_at_the_rising_sun.author }} on {{ 2009-02-20-jazz_jam_at_the_rising_sun.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

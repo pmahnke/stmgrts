@@ -5,7 +5,7 @@ permalink: /archives/2014/03/yogafitness_wins_netmums_award.html
 category: news
 date: 2014-03-28 22:48:57
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//favourite_classes_2014_badge.png" title="See larger version of - favourite classes 2014 badge"><img src="http://www.stmgrts.org.uk/images//favourite_classes_2014_badge_thumb.png" width="150" height="150" alt="favourite classes 2014 badge" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/favourite_classes_2014_badge.png" title="See larger version of - favourite classes 2014 badge"><img src="//stmgrts.org.uk/assets/images/2014/favourite_classes_2014_badge_thumb.png" width="150" height="150" alt="favourite classes 2014 badge" class=" right" /></a>
     
     _'Complete Beginners Yoga Course' voted favourite adult class in Richmond area._
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//favourite_classes_2014_badge.png" title="See larger version of - favourite classes 2014 badge"><img src="http://www.stmgrts.org.uk/images//favourite_classes_2014_badge_thumb.png" width="150" height="150" alt="favourite classes 2014 badge" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/favourite_classes_2014_badge.png" title="See larger version of - favourite classes 2014 badge"><img src="//stmgrts.org.uk/assets/images/2014/favourite_classes_2014_badge_thumb.png" width="150" height="150" alt="favourite classes 2014 badge" class=" right" /></a>
 
 _'Complete Beginners Yoga Course' voted favourite adult class in Richmond area._
 
@@ -40,7 +40,3 @@ For more information, please contact Sammie at Yoga-Fitness on
 "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk or 07758 866 834
 
 Or visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
-
-
-
-

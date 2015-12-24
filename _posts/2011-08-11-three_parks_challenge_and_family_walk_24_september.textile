@@ -5,7 +5,7 @@ permalink: /archives/2011/08/three_parks_challenge_and_family_walk_24_september.
 category: around_town
 date: 2011-08-11 14:01:06
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="http://www.stmgrts.org.uk/images//threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="//stmgrts.org.uk/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
     
     Ramble through three beautiful Royal Parks - Richmond Park, Hampton Court Park and Bushy Park and make a real difference to Shooting Star CHASE.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="http://www.stmgrts.org.uk/images//threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="//stmgrts.org.uk/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
 
 Ramble through three beautiful Royal Parks - Richmond Park, Hampton Court Park and Bushy Park and make a real difference to Shooting Star CHASE.
 
@@ -29,7 +29,3 @@ h4. More information
 * "Download a information guide":Download all the info you need for on the day. (pdf)
 * Make a donation in support of this event, you can do so directly to Shooting Star CHASE, or from your mobile phone by JustTextGiving!  Simply text the amount you'd like to give, to *PARK33*
 * Spread the word and invite your friends and family to join you in what promises to be a fantastic event. Registration fee is only &pound;12.50 and suggested minimum sponsorship is &pound;50.
-
-
-
-

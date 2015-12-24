@@ -28,21 +28,3 @@ Can I encourage concerned local residents (one of whom came up and joined the co
 *Links*
 
 * "previous article":http://www.stmgrts.org.uk/archives/2007/06/crossing_of_st_margarets_road_and_a316.html
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2008-01-12-cross_about_the_crossing_an_update in site.data.2008-01-12-cross_about_the_crossing_an_update %}
-       <li>
-
-         {{ 2008-01-12-cross_about_the_crossing_an_update.comment }}
-
-         <cite>{{ 2008-01-12-cross_about_the_crossing_an_update.author }} on {{ 2008-01-12-cross_about_the_crossing_an_update.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

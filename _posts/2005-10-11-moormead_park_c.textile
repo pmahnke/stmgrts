@@ -5,14 +5,14 @@ permalink: /archives/2005/10/moormead_park_c.html
 category: news
 date: 2005-10-11 12:09:26
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/moormead_park_sketch.gif"><img src="http://www.stmgrts.org.uk/images/moormead_park_sm.gif" width="188" height="141" alt="Moormead Park" class="right ignore" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2005/moormead_park_sketch.gif"><img src="//stmgrts.org.uk/assets/images/2005/moormead_park_sm.gif" width="188" height="141" alt="Moormead Park" class="right ignore" /></a>
     
     Moormead Park is an important part of St Margarets, but hasn't been well maintained for years.  Now the Richmond Council has set aside a budget to help improve the park.  Additionally a new group has formed, the  _Moormead Park Group_, made up of local residents and representatives of the cricketers, footballers, St Margarets' Fair Committee and local businesses.  They have circulated paper questionnaire at the St Margarets Autumn Fair and door to door with local residents.
     
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/moormead_park_sketch.gif"><img src="http://www.stmgrts.org.uk/images/moormead_park_sm.gif" width="188" height="141" alt="Moormead Park" class="right ignore" /></a>
+<a href="//stmgrts.org.uk/assets/images/2005/moormead_park_sketch.gif"><img src="//stmgrts.org.uk/assets/images/2005/moormead_park_sm.gif" width="188" height="141" alt="Moormead Park" class="right ignore" /></a>
 
 Moormead Park is an important part of St Margarets, but hasn't been well maintained for years.  Now the Richmond Council has set aside a budget to help improve the park.  Additionally a new group has formed, the  _Moormead Park Group_, made up of local residents and representatives of the cricketers, footballers, St Margarets' Fair Committee and local businesses.  They have circulated paper questionnaire at the St Margarets Autumn Fair and door to door with local residents.
 
@@ -33,22 +33,3 @@ They are also seeking ways to fund some of this development.
 Right now they have an "online questionnaire on the Richmond Council Website":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=AVzmuIDxXXO.  Please take some time right now to fill it in.
 
 You can also email "parks@richmond.gov.uk":mailto:parks@richmond.gov.uk or call 020 8286 8455 for more information or to offer help.
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-10-11-moormead_park_c in site.data.2005-10-11-moormead_park_c %}
-       <li>
-
-         {{ 2005-10-11-moormead_park_c.comment }}
-
-         <cite>{{ 2005-10-11-moormead_park_c.author }} on {{ 2005-10-11-moormead_park_c.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

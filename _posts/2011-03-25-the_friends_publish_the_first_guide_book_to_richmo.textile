@@ -5,7 +5,7 @@ permalink: /archives/2011/03/the_friends_publish_the_first_guide_book_to_richmo.
 category: news
 date: 2011-03-25 08:48:36
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="http://www.stmgrts.org.uk/images//GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="//stmgrts.org.uk/assets/images/2011/GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo right" /></a>
     
     
     Although established by Charles I in 1637 and fully open to the public since 1872, Richmond Park - the largest of the Royal Parks - has not, until now, had its own guidebook. With the Park attracting nearly 3 million visitors per year, the Friends of Richmond Park (FRP) decided that this gap in the market should be filled and the result is The Guide to Richmond Park, a compact yet informative and broad-based 140-page handbook to be published on 28<sup>th</sup> March.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="http://www.stmgrts.org.uk/images//GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="//stmgrts.org.uk/assets/images/2011/GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo right" /></a>
 
 
 Although established by Charles I in 1637 and fully open to the public since 1872, Richmond Park - the largest of the Royal Parks - has not, until now, had its own guidebook. With the Park attracting nearly 3 million visitors per year, the Friends of Richmond Park (FRP) decided that this gap in the market should be filled and the result is The Guide to Richmond Park, a compact yet informative and broad-based 140-page handbook to be published on 28<sup>th</sup> March.
@@ -50,7 +50,7 @@ The Friends of Richmond Park has a wide range of activities, including :
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="http://www.stmgrts.org.uk/images//GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo left" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/GtoRPcover.jpg" title="See larger version of - Guide to Richmond Park cover"><img src="//stmgrts.org.uk/assets/images/2011/GtoRPcover_thumb.jpg" width="150" height="250" alt="Guide to Richmond Park cover" class="photo left" /></a>
 
 h4. The Guide to Richmond Park
 
@@ -63,21 +63,3 @@ h4. The Guide to Richmond Park
 * Design and production by Alison Graham
 
 </div>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-03-25-the_friends_publish_the_first_guide_book_to_richmo in site.data.2011-03-25-the_friends_publish_the_first_guide_book_to_richmo %}
-       <li>
-
-         {{ 2011-03-25-the_friends_publish_the_first_guide_book_to_richmo.comment }}
-
-         <cite>{{ 2011-03-25-the_friends_publish_the_first_guide_book_to_richmo.author }} on {{ 2011-03-25-the_friends_publish_the_first_guide_book_to_richmo.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2010/10/richmond_upon_thames_literature_festival_2010_anno.
 category: news
 date: 2010-10-21 20:30:39
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//rich_lit_festival_2010.jpg" title="See larger version of - Richmond upon Thames Literature Festival 2010"><img src="http://www.stmgrts.org.uk/images//rich_lit_festival_2010_thumb.jpg" width="106" height="150" alt="Richmond upon Thames Literature Festival 2010" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/rich_lit_festival_2010.jpg" title="See larger version of - Richmond upon Thames Literature Festival 2010"><img src="//stmgrts.org.uk/assets/images/2010/rich_lit_festival_2010_thumb.jpg" width="106" height="150" alt="Richmond upon Thames Literature Festival 2010" class="photo right" /></a>
     
     
     The 19<sup>th</sup> Richmond upon Thames Literature Festival will take place throughout November, with another stellar line-up of writers, broadcasters, historians, new talent and activities for all ages.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//rich_lit_festival_2010.jpg" title="See larger version of - Richmond upon Thames Literature Festival 2010"><img src="http://www.stmgrts.org.uk/images//rich_lit_festival_2010_thumb.jpg" width="106" height="150" alt="Richmond upon Thames Literature Festival 2010" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/rich_lit_festival_2010.jpg" title="See larger version of - Richmond upon Thames Literature Festival 2010"><img src="//stmgrts.org.uk/assets/images/2010/rich_lit_festival_2010_thumb.jpg" width="106" height="150" alt="Richmond upon Thames Literature Festival 2010" class="photo right" /></a>
 
 
 The 19<sup>th</sup> Richmond upon Thames Literature Festival will take place throughout November, with another stellar line-up of writers, broadcasters, historians, new talent and activities for all ages.
@@ -28,9 +28,3 @@ For the first time there will be a Fringe programme featuring performances from 
 The festival, which is run by Richmond Council's Arts Services in partnership with artsrichmond, will also be launching a new website featuring exclusive offers, updates and information on education activities for children and young people. See "www.richmondliterature.com":http://www.richmondliterature.com for more details.
 
 <cite>-- from "Richmond Council Website":http://www.richmond.gov.uk/richmond_upon_thames_literature_festival_-_line-up_announced?utm_source=twitterfeed&utm_medium=twitter</cite>
-
-
-
-
-
-

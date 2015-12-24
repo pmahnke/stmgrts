@@ -7,7 +7,7 @@ date: 2006-02-21 10:58:57
 
 ---
 
-<img alt="St Margarets Fair" src="http://www.stmgrts.org.uk/archives/smf_poster_sm-thumb.gif" width="150" height="126" class="right"/>
+<img alt="St Margarets Fair" src="//stmgrts.org.uk/assets/images/2006/smf_poster_sm-thumb.gif" width="150" height="126" class="right"/>
 
 We have been receiving a number of queries about the _St Margarets Fair_ already, so we contacted the Fair's organisers to give you some basic information for those interested in participating.
 
@@ -29,8 +29,3 @@ Harry is in charge of the music.
 * *John I'anson*
 "ianson@btinternet.com":mailto:ianson@btinternet.com
 John is the chair of the committee.
-
-
-
-
-

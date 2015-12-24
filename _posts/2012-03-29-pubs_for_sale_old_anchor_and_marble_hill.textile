@@ -17,24 +17,3 @@ commercial kitchen, so food is limited. Popular music venue.'
 "More information":http://www.christie.com/youngs
 
 <cite>-- from Christopher J Squire</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-03-29-pubs_for_sale_old_anchor_and_marble_hill in site.data.2012-03-29-pubs_for_sale_old_anchor_and_marble_hill %}
-       <li>
-
-         {{ 2012-03-29-pubs_for_sale_old_anchor_and_marble_hill.comment }}
-
-         <cite>{{ 2012-03-29-pubs_for_sale_old_anchor_and_marble_hill.author }} on {{ 2012-03-29-pubs_for_sale_old_anchor_and_marble_hill.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

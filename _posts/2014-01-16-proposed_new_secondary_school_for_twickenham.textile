@@ -24,22 +24,3 @@ In order to realise the secondary school aspect of this project the lead partner
 The proposal is at a very early stage, and we are inviting people to find out more about the project and if they think it is a good idea, to register their support.
 
 * More information is available at "www.reec.org.uk":http://www.reec.org.uk
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-01-16-proposed_new_secondary_school_for_twickenham in site.data.2014-01-16-proposed_new_secondary_school_for_twickenham %}
-       <li>
-
-         {{ 2014-01-16-proposed_new_secondary_school_for_twickenham.comment }}
-
-         <cite>{{ 2014-01-16-proposed_new_secondary_school_for_twickenham.author }} on {{ 2014-01-16-proposed_new_secondary_school_for_twickenham.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

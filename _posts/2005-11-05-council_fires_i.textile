@@ -11,23 +11,3 @@ On the 30<sup>th</sup> of October, St Margarets Councillor, Simon Lamb fired the
 
 
 The decision has been met with uniform anger from local business to our local MP, Dr. Vincent Cable. The role of the town centre manager was to work with help local businesses and residents by creating a sense of community by jointly funding special events and helping improve the town centres for all to enjoy.  St Margarets benefited from Karen Pengelly's help in receiving _civic pride_ grants for Christmas Trees, Hanging Flower Baskets and helping market and organise the two street fairs in Crown Road this year alone.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-11-05-council_fires_i in site.data.2005-11-05-council_fires_i %}
-       <li>
-
-         {{ 2005-11-05-council_fires_i.comment }}
-
-         <cite>{{ 2005-11-05-council_fires_i.author }} on {{ 2005-11-05-council_fires_i.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

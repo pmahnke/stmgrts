@@ -7,7 +7,7 @@ date: 2013-08-29 21:16:30
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//TOpS-Website-main-card.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//TOpS-Website-main-card_thumb.jpg" width="150" height="106" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/TOpS-Website-main-card.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2013/TOpS-Website-main-card_thumb.jpg" width="150" height="106" alt="poster" class="photo right" /></a>
 
 You're invited to join the award winning Twickenham Operatic Society as they take you back to a time when hair was big, greed was good, collars were up, and a wedding singer might just be the coolest guy in the room.
 
@@ -19,7 +19,3 @@ h4. More Information
 "www.twickenhamoperatics.com/tickets":http://www.twickenhamoperatics.com/tickets
 * "tickets@twickenhamoperatics.com":mailto:tickets@twickenhamoperatics.com
 * Tickets are &pound;15 / &pound;14 with Family tickets from &pound;45
-
-
-
-

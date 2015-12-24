@@ -7,7 +7,7 @@ date: 2010-11-01 16:43:10
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/fireworks.jpg"><img src="http://www.stmgrts.org.uk/images/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/fireworks.jpg"><img src="//stmgrts.org.uk/assets/images/2010/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
 
 
 Here are a few things to help you celebrate Guy Fawkes Night.
@@ -34,9 +34,3 @@ h3. Sunday, 7<sup>th</sup> November
 
 * "Richmond":http://www.viewlondon.co.uk/richmond-fireworks-display.aspx
 From 17:00, display at 19:00
-
-
-
-
-
-

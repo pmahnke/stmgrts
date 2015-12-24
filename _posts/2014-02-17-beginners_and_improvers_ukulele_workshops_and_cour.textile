@@ -7,7 +7,7 @@ date: 2014-02-17 21:11:00
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Ukulele-Jan-2014-all-things-on-Website-Image2.jpg" title="See larger version of - Ukulele Jan 2014 all things on Website Image2"><img src="http://www.stmgrts.org.uk/images//Ukulele-Jan-2014-all-things-on-Website-Image2_thumb.jpg" width="150" height="219" alt="Ukulele Jan 2014 all things on Website Image2" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/Ukulele-Jan-2014-all-things-on-Website-Image2.jpg" title="See larger version of - Ukulele Jan 2014 all things on Website Image2"><img src="//stmgrts.org.uk/assets/images/2014/Ukulele-Jan-2014-all-things-on-Website-Image2_thumb.jpg" width="150" height="219" alt="Ukulele Jan 2014 all things on Website Image2" class="photo right" /></a>
 
 h4. Richmond Ukulele Beginners Workshop
 
@@ -34,7 +34,3 @@ h4. More Courses at ETNA
 Tuesday March 11<sup>th</sup> 8pm-10pm
 
 For bookings and more info please see "www.richmond-ukulele.co.uk":http://www.richmond-ukulele.co.uk or phone for more info  07770 993289
-
-
-
-

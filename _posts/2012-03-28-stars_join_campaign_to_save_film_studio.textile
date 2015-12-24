@@ -22,24 +22,3 @@ She said in her email to the minister: "The closing down of these studios will g
 London MEP Mary Honeyball has appealed to the European Commission to help on the grounds that it is important to keep the production of major films in Europe.
 
 <cite>-- from the Evening Standard - "27 March 2012":http://www.thisislondon.co.uk/news/london/stars-join-campaign-to-save-film-studio-7592180.html</cite>
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-03-28-stars_join_campaign_to_save_film_studio in site.data.2012-03-28-stars_join_campaign_to_save_film_studio %}
-       <li>
-
-         {{ 2012-03-28-stars_join_campaign_to_save_film_studio.comment }}
-
-         <cite>{{ 2012-03-28-stars_join_campaign_to_save_film_studio.author }} on {{ 2012-03-28-stars_join_campaign_to_save_film_studio.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

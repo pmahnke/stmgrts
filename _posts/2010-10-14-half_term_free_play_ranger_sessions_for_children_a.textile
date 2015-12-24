@@ -5,7 +5,7 @@ permalink: /archives/2010/10/half_term_free_play_ranger_sessions_for_children_a.
 category: news
 date: 2010-10-14 22:44:56
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/play_rangers_300x164.jpg"><img alt="play_rangers_300x164.jpg" src="http://www.stmgrts.org.uk/images/play_rangers_300x164-thumb.jpg" width="150" height="82" class="right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/play_rangers_300x164.jpg"><img alt="play_rangers_300x164.jpg" src="//stmgrts.org.uk/assets/images/2010/play_rangers_300x164-thumb.jpg" width="150" height="82" class="right" /></a>
     
     Join in with our team of experienced Play Rangers and take part in play and exciting adventures, in a park near you in all weathers, all year round! Our aim is to enable all children to make the most of their local outdoor spaces and parks for play, fun and games and meeting up with friends.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/play_rangers_300x164.jpg"><img alt="play_rangers_300x164.jpg" src="http://www.stmgrts.org.uk/images/play_rangers_300x164-thumb.jpg" width="150" height="82" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/play_rangers_300x164.jpg"><img alt="play_rangers_300x164.jpg" src="//stmgrts.org.uk/assets/images/2010/play_rangers_300x164-thumb.jpg" width="150" height="82" class="right" /></a>
 
 Join in with our team of experienced Play Rangers and take part in play and exciting adventures, in a park near you in all weathers, all year round! Our aim is to enable all children to make the most of their local outdoor spaces and parks for play, fun and games and meeting up with friends.
 
@@ -57,22 +57,3 @@ h4. Friday
 Twilight Play sessions will feature activities such as lantern making and games including torchlight treasure hunt and glow tag. All sessions are free and do not require pre booking- just turn up and join in!
 
 For further information please check out our web page "www.richmond.gov.uk/play_rangers":http://www.richmond.gov.uk/play_rangers or email "claire.chapman@richmond.gov.uk":mailto:claire.chapman@richmond.gov.uk
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-10-14-half_term_free_play_ranger_sessions_for_children_a in site.data.2010-10-14-half_term_free_play_ranger_sessions_for_children_a %}
-       <li>
-
-         {{ 2010-10-14-half_term_free_play_ranger_sessions_for_children_a.comment }}
-
-         <cite>{{ 2010-10-14-half_term_free_play_ranger_sessions_for_children_a.author }} on {{ 2010-10-14-half_term_free_play_ranger_sessions_for_children_a.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

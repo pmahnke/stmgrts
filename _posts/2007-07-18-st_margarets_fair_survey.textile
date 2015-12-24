@@ -5,7 +5,7 @@ permalink: /archives/2007/07/st_margarets_fair_survey.html
 category: around_town
 date: 2007-07-18 08:20:42
 excerpt: |
-    <img alt="fair survey" src="http://www.stmgrts.org.uk/images/fair_survey.jpg" width="150" height="150" class="right" />
+    <img alt="fair survey" src="//stmgrts.org.uk/assets/images/2007/fair_survey.jpg" width="150" height="150" class="right" />
     
     The Fair Committee is looking to get some feedback from this website's readers about the Fair this year to help make next year's Fair, the 30<sup>th</sup> anniversary, the best it can be.
     
@@ -15,30 +15,10 @@ excerpt: |
 
 ---
 
-<img alt="fair survey" src="http://www.stmgrts.org.uk/images/fair_survey.jpg" width="150" height="150" class="right" />
+<img alt="fair survey" src="//stmgrts.org.uk/assets/images/2007/fair_survey.jpg" width="150" height="150" class="right" />
 
 The Fair Committee is looking to get some feedback from this website's readers about the Fair this year to help make next year's Fair, the 30<sup>th</sup> anniversary, the best it can be.
 
 If you can spare three minutes, we would appreciate your thoughts.
 
 Please "follow this link to take the survey":http://www.surveymonkey.com/s.aspx?sm=GUd6XNDH3JqFY_2fUamvHVPg_3d_3d and thank you.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-18-st_margarets_fair_survey in site.data.2007-07-18-st_margarets_fair_survey %}
-       <li>
-
-         {{ 2007-07-18-st_margarets_fair_survey.comment }}
-
-         <cite>{{ 2007-07-18-st_margarets_fair_survey.author }} on {{ 2007-07-18-st_margarets_fair_survey.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

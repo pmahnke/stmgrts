@@ -14,23 +14,3 @@ bq. Miss Hart said she felt compelled to protect her son when the teachers at _O
 <cite>from the 20 July 2009, "London Evening Standard":http://www.thisislondon.co.uk/standard/article-23721613-details/Mother+barred+from+school+for+confronting+son%27s+bully/article.do</cite>
 
 *Update*: another article from the Daily Mail "Mother banned from school for confronting bully who used son as 'human punch bag":http://www.dailymail.co.uk/news/article-1200780/Mother-banned-school-confronting-sons-bully.html
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-07-20-in_the_news_mother_barred_from_school_for_confront in site.data.2009-07-20-in_the_news_mother_barred_from_school_for_confront %}
-       <li>
-
-         {{ 2009-07-20-in_the_news_mother_barred_from_school_for_confront.comment }}
-
-         <cite>{{ 2009-07-20-in_the_news_mother_barred_from_school_for_confront.author }} on {{ 2009-07-20-in_the_news_mother_barred_from_school_for_confront.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

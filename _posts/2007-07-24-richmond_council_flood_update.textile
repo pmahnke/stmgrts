@@ -37,21 +37,3 @@ h4. Borough Contingencies Unit advice for the public
 * Exercise extreme caution if walking through floodwater as hidden obstructions can cause fatal injuries
 
 ??-- from Richmond Council??
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-07-24-richmond_council_flood_update in site.data.2007-07-24-richmond_council_flood_update %}
-       <li>
-
-         {{ 2007-07-24-richmond_council_flood_update.comment }}
-
-         <cite>{{ 2007-07-24-richmond_council_flood_update.author }} on {{ 2007-07-24-richmond_council_flood_update.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

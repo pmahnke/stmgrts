@@ -7,7 +7,7 @@ date: 2011-09-28 18:37:56
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/AKBcolourphoto.jpg" title="See larger version of - Anup Biswas"><img src="http://www.stmgrts.org.uk/images/events/AKBcolourphoto_thumb.jpg" width="150" height="194" alt="Anup Biswas" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/AKBcolourphoto.jpg" title="See larger version of - Anup Biswas"><img src="//stmgrts.org.uk/assets/images/2011/AKBcolourphoto_thumb.jpg" width="150" height="194" alt="Anup Biswas" class=" right" /></a>
 
 _A concert for the benefit of Strawberry Hill House_
 
@@ -23,7 +23,3 @@ h4. More information
 * Doors open 7pm, concert 7.45-9.45pm
 * "Book tickets online":http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=50&
 * Enquirers 0208 286 3242
-
-
-
-

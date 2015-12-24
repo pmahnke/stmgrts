@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/come_get_it_cover.jpg"><img src="http://www.stmgrts.org.uk/images/come_get_it_cover-thumb.jpg" width="150" height="150" alt="Come and Get It Cover" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/come_get_it_cover.jpg"><img src="//stmgrts.org.uk/assets/images/2006/come_get_it_cover-thumb.jpg" width="150" height="150" alt="Come and Get It Cover" class="photo right" /></a>
 
 
 The PTAs at St Stephens Junior School and Orleans Infant School have joined forces to produce a cookery book to raise funds for their schools. Comprising 65 recipes from parents, governors and teachers at the schools, <em>Come and Get It</em> is lavishly illustrated with children's drawings and is published on Friday December 1st.
@@ -21,26 +21,5 @@ The recipes cover everything from starters and main courses, to quick and easy f
 
 If you would like to order a copy of <em>Come and Get It</em> the St Stephens and Orleans Infant Schools cookery book email Sherralyn on "sherralynrainey@aol.com":mailto:sherralynrainey@aol.com  for purchase details. The book retails at &pound;12.
 
-|<a href="http://www.stmgrts.org.uk/images/recipe_salmon.jpg"><img src="http://www.stmgrts.org.uk/images/recipe_salmon-thumb.jpg" width="150" height="150" alt="Salmon Recipe example" class="photo"/></a>
+|<a href="//stmgrts.org.uk/assets/images/2006/recipe_salmon.jpg"><img src="//stmgrts.org.uk/assets/images/2006/recipe_salmon-thumb.jpg" width="150" height="150" alt="Salmon Recipe example" class="photo"/></a>
 |
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-11-29-local_schools_l in site.data.2006-11-29-local_schools_l %}
-       <li>
-
-         {{ 2006-11-29-local_schools_l.comment }}
-
-         <cite>{{ 2006-11-29-local_schools_l.author }} on {{ 2006-11-29-local_schools_l.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

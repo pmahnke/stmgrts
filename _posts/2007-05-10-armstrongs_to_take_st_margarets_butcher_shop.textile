@@ -16,23 +16,3 @@ Great news and hope that everyone will support them, though the quality of their
 p. Good news if it happens... now for the bakery....
 
 _Armstrongs of Richmond is an excellent butchers on 205 Lower Mortlake Rd, Richmond, TW9 2LP_
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-05-10-armstrongs_to_take_st_margarets_butcher_shop in site.data.2007-05-10-armstrongs_to_take_st_margarets_butcher_shop %}
-       <li>
-
-         {{ 2007-05-10-armstrongs_to_take_st_margarets_butcher_shop.comment }}
-
-         <cite>{{ 2007-05-10-armstrongs_to_take_st_margarets_butcher_shop.author }} on {{ 2007-05-10-armstrongs_to_take_st_margarets_butcher_shop.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

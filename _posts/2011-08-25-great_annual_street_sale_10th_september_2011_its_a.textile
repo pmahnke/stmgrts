@@ -5,7 +5,7 @@ permalink: /archives/2011/08/great_annual_street_sale_10th_september_2011_its_a.
 category: around_town
 date: 2011-08-25 11:12:07
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//gass_2011.png" title="See larger version of - GASS"><img src="http://www.stmgrts.org.uk/images//gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/gass_2011.png" title="See larger version of - GASS"><img src="//stmgrts.org.uk/assets/images/2011/gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
     
     There are times when the stuff that we accumulate around ourselves threatens to take over our lives. Bookshelves groan under the weight of unread books and CD racks creak with forgotten records. Cupboards are stuffed with things that we don't even know we had and wardrobes are hung with clothes that went out of fashion when David Bowie abandoned the 3 inch stack heel for lounge suits. What can we do? There are 3 possible solutions:-
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//gass_2011.png" title="See larger version of - GASS"><img src="http://www.stmgrts.org.uk/images//gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/gass_2011.png" title="See larger version of - GASS"><img src="//stmgrts.org.uk/assets/images/2011/gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
 
 There are times when the stuff that we accumulate around ourselves threatens to take over our lives. Bookshelves groan under the weight of unread books and CD racks creak with forgotten records. Cupboards are stuffed with things that we don't even know we had and wardrobes are hung with clothes that went out of fashion when David Bowie abandoned the 3 inch stack heel for lounge suits. What can we do? There are 3 possible solutions:-
 
@@ -37,7 +37,3 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 Here is a link to a map... "maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
 
 Put a note into your diary... "GREAT ANNUAL STREET SALE  - SEPTEMBER 10<sup>th</sup>   from 12.00 midday":http://www.stmgrts.org.uk/event/event/200705142990
-
-
-
-

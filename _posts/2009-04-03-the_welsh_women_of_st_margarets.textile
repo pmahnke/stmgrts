@@ -5,7 +5,7 @@ permalink: /archives/2009/04/the_welsh_women_of_st_margarets.html
 category: around_town
 date: 2009-04-03 08:49:13
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/peartree.jpg"><img src="http://www.stmgrts.org.uk/images/peartree-thumb.jpg" width="150" height="112" alt="Pear Tree" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/peartree.jpg"><img src="//stmgrts.org.uk/assets/images/2009/peartree-thumb.jpg" width="150" height="112" alt="Pear Tree" class="photo right" /></a>
     
     
     Once upon a time St Margarets didn't exist. Where we live now was an empty space. No station, no pub, no shops, no houses, no post office, no nothing. All that separated Isleworth, Twickenham, Richmond and Hounslow were cornfields, orchards and market gardens as far as the eye could see. Henry 8th called the area "London's breadbasket" and he was right. From the banks of the Thames and up the gentle rise to Hounslow the business around here was food.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/peartree.jpg"><img src="http://www.stmgrts.org.uk/images/peartree-thumb.jpg" width="150" height="112" alt="Pear Tree" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/peartree.jpg"><img src="//stmgrts.org.uk/assets/images/2009/peartree-thumb.jpg" width="150" height="112" alt="Pear Tree" class="photo right" /></a>
 
 
 _There's an old fruit tree at the bottom of my garden with a tale to tell..._
@@ -32,22 +32,3 @@ The "Welsh Women" and the fields, orchards and market gardens in which they labo
 A beaten up survivor of those days lives at the bottom of my own garden - an old Conference Pear tree that still manages to squeeze out a few fruits every autumn. Sometimes on warm summer evenings as the breeze drifts through its branches I fancy that I can hear gentle laughter, the rattle of knitting needles and women talking fondly about families and friends a long way away.
 
 <cite>-- from Martyn Day</cite>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-04-03-the_welsh_women_of_st_margarets in site.data.2009-04-03-the_welsh_women_of_st_margarets %}
-       <li>
-
-         {{ 2009-04-03-the_welsh_women_of_st_margarets.comment }}
-
-         <cite>{{ 2009-04-03-the_welsh_women_of_st_margarets.author }} on {{ 2009-04-03-the_welsh_women_of_st_margarets.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

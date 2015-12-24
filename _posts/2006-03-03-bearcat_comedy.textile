@@ -7,7 +7,7 @@ date: 2006-03-03 13:16:49
 
 ---
 
-<img alt="NO Al Murray" src="http://www.stmgrts.org.uk/archives/NOalmurray-thumb.gif" width="97" height="97" class="right"/>
+<img alt="NO Al Murray" src="//stmgrts.org.uk/assets/images/2006/NOalmurray-thumb.gif" width="97" height="97" class="right"/>
 
 From James Punnett of the "Bearcat Comedy Club":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200509210632&action=getlisting;
 
@@ -21,8 +21,3 @@ hear from you.
 
 Al was keen to say sorry, and that he will try to come down to see us when
 he can, later in the year."
-
-
-
-
-

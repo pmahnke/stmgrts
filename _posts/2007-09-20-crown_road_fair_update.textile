@@ -14,23 +14,3 @@ The event is aimed at promoting local schools, charities, clubs and organisation
 If you run or are part of an after school club or group, a Saturday morning club, allotment appreciation group, knitting circle, a member of 'nuclear physics for fun' group, poker school, surfing for beginners groups -- in fact all the associations you and your kids belong to and ask them to take part... its FREE.
  
 For stall information please contact Jamie Parker  at "jamietparker@hotmail.com":mailto:jamietparker@hotmail.com or call 07837 762 866.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-09-20-crown_road_fair_update in site.data.2007-09-20-crown_road_fair_update %}
-       <li>
-
-         {{ 2007-09-20-crown_road_fair_update.comment }}
-
-         <cite>{{ 2007-09-20-crown_road_fair_update.author }} on {{ 2007-09-20-crown_road_fair_update.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

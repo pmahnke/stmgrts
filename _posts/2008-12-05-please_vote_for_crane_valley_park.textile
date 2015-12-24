@@ -5,7 +5,7 @@ permalink: /archives/2008/12/please_vote_for_crane_valley_park.html
 category: news
 date: 2008-12-05 09:24:35
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/Crane_1008.JPG"><img src="http://www.stmgrts.org.uk/images/Crane_1008.JPG" width="112" height="150" alt="Crane Park view" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/Crane_1008.JPG"><img src="http://www.stmgrts.org.uk/images/Crane_1008.JPG" width="112" height="150" alt="Crane Park view" class="photo right" /></a>
     
     
     The Mayor of London has recently announced the final of a competition which will result in ten London parks winning &pound;400,000 each. One of the 47 finalists is Crane Valley Park a project which the Friends of the River Crane Environment (FORCE) have been promoting, together with the London Borough of Richmond upon Thames , the London Borough of Hounslow and London Wildlife Trust.
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/Crane_1008.JPG"><img src="http://www.stmgrts.org.uk/images/Crane_1008.JPG" width="112" height="150" alt="Crane Park view" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/Crane_1008.JPG"><img src="http://www.stmgrts.org.uk/images/Crane_1008.JPG" width="112" height="150" alt="Crane Park view" class="photo right" /></a>
 
 
 The Mayor of London has recently announced the final of a competition which will result in ten London parks winning &pound;400,000 each. One of the 47 finalists is Crane Valley Park a project which the Friends of the River Crane Environment (FORCE) have been promoting, together with the London Borough of Richmond upon Thames , the London Borough of Hounslow and London Wildlife Trust.
@@ -28,7 +28,3 @@ Please also pass this message on - there is nothing to lose and we could gain a 
 For more information about FORCE and the park project go to "www.force.org.uk":http://www.force.org.uk/
 
 <cite>-- from Frances Bennett, Secretary, _FORCE_ "info@force.org.uk":mailto:info@force.org.uk</cite>
-
-
-
-

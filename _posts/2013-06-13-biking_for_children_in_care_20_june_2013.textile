@@ -5,7 +5,7 @@ permalink: /archives/2013/06/biking_for_children_in_care_20_june_2013.html
 category: around_town
 date: 2013-06-13 19:07:53
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//gill_timmis.jpg" title="See larger version of - gill timmis"><img src="http://www.stmgrts.org.uk/images//gill_timmis_thumb.jpg" width="150" height="150" alt="gill timmis" class="photo right"  class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/gill_timmis.jpg" title="See larger version of - gill timmis"><img src="//stmgrts.org.uk/assets/images/2013/gill_timmis_thumb.jpg" width="150" height="150" alt="gill timmis" class="photo right"  class="photo right" /></a>
     
     Long-range cyclists from St Margarets, Twickenham and many parts of Britain head off to Holland next week (20<sup>th</sup> June) for Double Dutch - their second children's charity ride through Holland.
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//gill_timmis.jpg" title="See larger version of - gill timmis"><img src="http://www.stmgrts.org.uk/images//gill_timmis_thumb.jpg" width="150" height="150" alt="gill timmis" class="photo right"  class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/gill_timmis.jpg" title="See larger version of - gill timmis"><img src="//stmgrts.org.uk/assets/images/2013/gill_timmis_thumb.jpg" width="150" height="150" alt="gill timmis" class="photo right"  class="photo right" /></a>
 
 Long-range cyclists from St Margarets, Twickenham and many parts of Britain head off to Holland next week (20<sup>th</sup> June) for Double Dutch - their second children's charity ride through Holland.
 
@@ -36,7 +36,3 @@ Biking for Children in Care started in 2002 with a 1000-mile ride from Lands End
 To make sure they reach their target comfortably, organisers have been to Holland in advance to spot unexpected problems. Gill says: "We found that there aren't all that many public toilets in Holland - which has meant some pretty careful route planning!"
 
 To support their bid, visit "uk.virginmoneygiving.com/GillTimmis":http://uk.virginmoneygiving.com/GillTimmis
-
-
-
-

@@ -29,24 +29,3 @@ So, what are people doing about this? Where did you end up schooling your 4 or 5
 h4. More information
 
 * "Richmond Council's 10-year strategy for providing high quality primary school places":http://cabnet.richmond.gov.uk/mgConvert2PDF.aspx?ID=23723
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-09-21-school_anxiety in site.data.2011-09-21-school_anxiety %}
-       <li>
-
-         {{ 2011-09-21-school_anxiety.comment }}
-
-         <cite>{{ 2011-09-21-school_anxiety.author }} on {{ 2011-09-21-school_anxiety.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

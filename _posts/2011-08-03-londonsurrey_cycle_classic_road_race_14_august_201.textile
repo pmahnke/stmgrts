@@ -5,7 +5,7 @@ permalink: /archives/2011/08/londonsurrey_cycle_classic_road_race_14_august_201.
 category: news
 date: 2011-08-03 14:44:04
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="http://www.stmgrts.org.uk/images//cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="//stmgrts.org.uk/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
     
     London is preparing to welcome the 2012 Olympic and Paralympic Games, and the *London-Surrey Cycle Classic* road race on Sunday, 14 August 2011 will be one of the most important test events.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="http://www.stmgrts.org.uk/images//cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="//stmgrts.org.uk/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
 
 London is preparing to welcome the 2012 Olympic and Paralympic Games, and the *London-Surrey Cycle Classic* road race on Sunday, 14 August 2011 will be one of the most important test events.
 
@@ -27,22 +27,3 @@ While it will be an exciting spectacle, roads and transport, including access to
 * Visit "Transport for London's website":http://www.tfl.gov.uk/gettingaround/20027.aspx for more information.
 * "Map of restrictions and closures in Richmond (pdf)":https://docs.google.com/viewer?url=http://www.tfl.gov.uk/assets/downloads/Richmond_LB_Road_Closure_Map.pdf
 * "List of restricted access roads in Richmond (pdf)":https://docs.google.com/viewer?url=http://www.tfl.gov.uk/assets/downloads/Restricted_Road_Richmond_A3.pdf
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201 in site.data.2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201 %}
-       <li>
-
-         {{ 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201.comment }}
-
-         <cite>{{ 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201.author }} on {{ 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

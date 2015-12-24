@@ -5,7 +5,7 @@ permalink: /archives/2011/11/event_reminder_st_margarets_christmas_fair_4_decem.
 category: around_town
 date: 2011-11-24 22:44:57
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//stmagxmasfair2011poster.jpg" title="See larger version of - st magerets xmas fair 2011 poster"><img src="http://www.stmgrts.org.uk/images//stmagxmasfair2011poster_thumb.jpg" width="150" height="212" alt="st magerets xmas fair 2011 poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/stmagxmasfair2011poster.jpg" title="See larger version of - st magerets xmas fair 2011 poster"><img src="//stmgrts.org.uk/assets/images/2011/stmagxmasfair2011poster_thumb.jpg" width="150" height="212" alt="st magerets xmas fair 2011 poster" class="photo right" /></a>
     
     _The St Margarets Traders Association proudly presents..._
     
@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//stmagxmasfair2011poster.jpg" title="See larger version of - st magerets xmas fair 2011 poster"><img src="http://www.stmgrts.org.uk/images//stmagxmasfair2011poster_thumb.jpg" width="150" height="212" alt="st magerets xmas fair 2011 poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/stmagxmasfair2011poster.jpg" title="See larger version of - st magerets xmas fair 2011 poster"><img src="//stmgrts.org.uk/assets/images/2011/stmagxmasfair2011poster_thumb.jpg" width="150" height="212" alt="st magerets xmas fair 2011 poster" class="photo right" /></a>
 
 _The St Margarets Traders Association proudly presents..._
 
@@ -40,10 +40,3 @@ and
 The event draws to a close at 4pm with St Stephens Church holding an open air carol service.
 
 For more information please contact "traders@mystmargarets.com":mailto:traders@mystmargarets.com
-
-
-
-
-
-
-

@@ -18,23 +18,3 @@ An ambulance was trying to get up St Margarets Road, towards Richmond - Because 
 In the end, an H37 drove up onto the pavement at the foot of the railway bridge to make enough room for the ambulance to get past - But by that time vital minutes had passed.
 
 <em>-- from our friends at "SPASM":http://www.mailspaces.com/spaces/spasm/</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-10-21-tesco_traffic_b in site.data.2006-10-21-tesco_traffic_b %}
-       <li>
-
-         {{ 2006-10-21-tesco_traffic_b.comment }}
-
-         <cite>{{ 2006-10-21-tesco_traffic_b.author }} on {{ 2006-10-21-tesco_traffic_b.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -92,7 +92,7 @@ Explore the magical effects of light in making photograms with Rachel Craddock. 
 
 h3. Deja vu Entertainment - Easter Dance School
 
-<a href="http://www.stmgrts.org.uk/images//teddington_dance.gif" title="See larger version of - Dance poster"><img src="http://www.stmgrts.org.uk/images//teddington_dance_thumb.gif" width="150" height="212" alt="Dance poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/teddington_dance.gif" title="See larger version of - Dance poster"><img src="//stmgrts.org.uk/assets/images/2011/teddington_dance_thumb.gif" width="150" height="212" alt="Dance poster" class="photo right" /></a>
 
 _Spaces are limited so book quickly!_
 
@@ -105,7 +105,3 @@ Dates: 11<sup>th</sup> to 15<sup>th</sup> April
 Cost: &pound;90
 Venue: Teddington School sports centre
 Times: 10am - 1pm
-
-
-
-

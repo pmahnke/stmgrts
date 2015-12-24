@@ -7,7 +7,7 @@ date: 2011-03-20 12:32:25
 
 ---
 
-<img src="http://www.richmond.gov.uk/holi_images_2009-3.jpg" alt="Holi fun" class="photo right" width="150" />
+<img src="//stmgrts.org.uk/assets/images/2011/holi_images_2009-3.jpg" alt="Holi fun" class="photo right" width="150" />
 
 _Come join the crowds throwing brightly coloured pigment to celebrate the end of Winter!_
 
@@ -30,7 +30,3 @@ h4. Details
 
 * 1-4pm 20 March 2011
 * Admission free
-
-
-
-

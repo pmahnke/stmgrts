@@ -7,9 +7,9 @@ date: 2011-05-05 17:43:07
 excerpt: |
     Early in May 1942, the third year of the war, people of Richmond were rather surprised when this leaflet from the mayor, E. A Collings, dropped through their letter box.
     
+    <div class="letter">
     
-    
-    <a href="http://www.stmgrts.org.uk/images//POISON_Gas-Leaflet.gif" title="See larger version of - Poison Gas leaflet"><img src="http://www.stmgrts.org.uk/images//POISON_Gas-Leaflet_thumb.gif" width="150" height="287" alt="Poison Gas leaflet" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/POISON_Gas-Leaflet.gif" title="See larger version of - Poison Gas leaflet"><img src="//stmgrts.org.uk/assets/images/2011/POISON_Gas-Leaflet_thumb.gif" width="150" height="287" alt="Poison Gas leaflet" class="photo right" /></a>
     
     h4. POISON GAS WEEK
     
@@ -32,7 +32,7 @@ Early in May 1942, the third year of the war, people of Richmond were rather sur
 
 <div class="letter">
 
-<a href="http://www.stmgrts.org.uk/images//POISON_Gas-Leaflet.gif" title="See larger version of - Poison Gas leaflet"><img src="http://www.stmgrts.org.uk/images//POISON_Gas-Leaflet_thumb.gif" width="150" height="287" alt="Poison Gas leaflet" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/POISON_Gas-Leaflet.gif" title="See larger version of - Poison Gas leaflet"><img src="//stmgrts.org.uk/assets/images/2011/POISON_Gas-Leaflet_thumb.gif" width="150" height="287" alt="Poison Gas leaflet" class="photo right" /></a>
 
 h4. POISON GAS WEEK
 
@@ -51,13 +51,13 @@ h3. DANGER - THERE WILL BE SURPRISE POISON GAS ATTACKS SO CARRY YOUR GAS-MASK - 
 
 
 
-<a href="http://www.stmgrts.org.uk/images//POISON_gasmask-poster.jpg" title="See larger version of - Gas mask poster"><img src="http://www.stmgrts.org.uk/images//POISON_gasmask-poster_thumb.jpg" width="150" height="230" alt="Gas mask poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/POISON_gasmask-poster.jpg" title="See larger version of - Gas mask poster"><img src="//stmgrts.org.uk/assets/images/2011/POISON_gasmask-poster_thumb.jpg" width="150" height="230" alt="Gas mask poster" class="photo right" /></a>
 
 In those days almost everyone knew about the dangers of poison gas. It had been used extensively in the First World War and over 90,000 soldiers had died as a result. There were still enough survivors around, coughing and wheezing their damaged lungs out, to keep the memory foremost in people's minds. The council's use of terms like "Poison Gas" and "Danger" was not a wise one as the Richmond and Twickenham Times reported on Saturday June 20<sup>th</sup> 1942...
 
 bq. "It had the effect of keeping people in their homes or away from Richmond....our own observation tells us that there have been fewer visitors to the town all through the week...The consensus of opinion seems to be that the organisers of this laudable attempt to induce people to carry their gas-masks, or at least to keep them near at hand, and to be sure that they are ready for service; was marred by excessive zeal and overstatement."
 
-<a href="http://www.stmgrts.org.uk/images//POISON_Richmond-Gasmasks.jpg" title="See larger version of - Richmond Gas masks "><img src="http://www.stmgrts.org.uk/images//POISON_Richmond-Gasmasks_thumb.jpg" width="150" height="96" alt="Richmond Gas masks " class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/POISON_Richmond-Gasmasks.jpg" title="See larger version of - Richmond Gas masks "><img src="//stmgrts.org.uk/assets/images/2011/POISON_Richmond-Gasmasks_thumb.jpg" width="150" height="96" alt="Richmond Gas masks " class="photo right" /></a>
 
 Although the Chief Warden tried to reassure the population that only non - lethal tear gas would be used during the week the damage had been done. The "Daily Mail" picked up the story reporting criticism by local shopkeepers whose takings were down because "nervous shoppers were refusing to come into Richmond". Posters stuck up all over town warning "Danger! Poison Gas" didn't help much either. The manager of a shoe shop said, "_My takings yesterday were practically nil._ There are a lot of elderly retired people in Richmond, and you can understand how they felt when they saw posters about "Danger! Poison Gas." Mr Louis Wilson, the manager of the Royalty cinema said that since the announcement of "Poison Gas Week" 60 percent fewer people had passed through his cinema. Mr Wynton, manager of the Premier cinema had a similar experience. "_People are afraid to come out_," he said.
 
@@ -68,7 +68,7 @@ The climax of "Poison Gas Week" took place with a gas release in George Street o
 
 <div class="box">
 
-<a href="http://www.stmgrts.org.uk/images//POISON_George-St..jpg" title="See larger version of - George Street gas practice"><img src="http://www.stmgrts.org.uk/images//POISON_George-St_thumb." width="300" height="197" alt="George Street gas practice" class="photo center" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/POISON_George-St..jpg" title="See larger version of - George Street gas practice"><img src="//stmgrts.org.uk/assets/images/2011/POISON_George-St_thumb." width="300" height="197" alt="George Street gas practice" class="photo center" /></a>
 
 <blockquote>
 
@@ -111,7 +111,3 @@ h4. I did what I could with gas mask - George Formby
 <cite>-- from Martyn Day</cite>
 
 <em>Credits: Photographs taken in George Street, Richmond are from the 'Daily Mail'. The Mayor's announcement of "Poison Gas Week" are from Richmond Library - Local Studies Collection.</em>
-
-
-
-

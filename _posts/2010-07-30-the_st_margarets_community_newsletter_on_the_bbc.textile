@@ -5,7 +5,7 @@ permalink: /archives/2010/07/the_st_margarets_community_newsletter_on_the_bbc.ht
 category: around_town
 date: 2010-07-30 12:17:36
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="http://www.stmgrts.org.uk/images//vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="//stmgrts.org.uk/assets/images/2010/vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
     
     
     h3. Ziggy Stardust Came From Isleworth
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="http://www.stmgrts.org.uk/images//vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="//stmgrts.org.uk/assets/images/2010/vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
 
 
 h3. Ziggy Stardust Came From Isleworth
@@ -30,8 +30,3 @@ A BBC Producer read the article and now it has been turned into a radio document
 h4. "Ziggy Stardust Came from Isleworth" - BBC Radio 4,  11.30am - Thursday 19<sup>th</sup> August 2010
 
 <em>Note: Once again, this shows you how lucky we are to have "Martyn Day":http://www.google.com/cse?cx=011552492105320257021:aklyesuuk5c&q=Martyn+Day&sa=Search&cof=FORID:0 writing on this website. Thank you Martyn!</em>
-
-
-
-
-

@@ -28,22 +28,3 @@ h4. More Information
 * Mats, blocks & straps provided
 * Class places are limited so to book or for further information: Tel:  07758 866834
 * Email: "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-10-11-beginners_yoga_its_never_too_late_to_reap_the_bene in site.data.2012-10-11-beginners_yoga_its_never_too_late_to_reap_the_bene %}
-       <li>
-
-         {{ 2012-10-11-beginners_yoga_its_never_too_late_to_reap_the_bene.comment }}
-
-         <cite>{{ 2012-10-11-beginners_yoga_its_never_too_late_to_reap_the_bene.author }} on {{ 2012-10-11-beginners_yoga_its_never_too_late_to_reap_the_bene.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,7 +5,7 @@ permalink: /archives/2008/04/fitness_tips_and_class_times_from_geolifestyle.html
 category: around_town
 date: 2008-04-04 09:58:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images/georgie.jpg"><img src="http://www.stmgrts.org.uk/images/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2008/georgie.jpg"><img src="//stmgrts.org.uk/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
     I have been running my personal training and fitness business for the last five years. I currently run group running sessions during the week. These workouts are varied and focus on improving fitness levels. You do not need to be an experienced runner to manage one of these sessions, but just keen to improve your fitness.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/georgie.jpg"><img src="http://www.stmgrts.org.uk/images/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2008/georgie.jpg"><img src="//stmgrts.org.uk/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
 
 I have been running my personal training and fitness business for the last five years. I currently run group running sessions during the week. These workouts are varied and focus on improving fitness levels. You do not need to be an experienced runner to manage one of these sessions, but just keen to improve your fitness.
 
@@ -59,7 +59,3 @@ h4. Boot camps
 I will be running boot camps over the next few months. These would involve training early morning every day for a two week period. The boot camps will be held during May, June, July, August and September. Places will be limited so booking is advisable.
 
 For more information please call me on 07736 070612.  
-
-
-
-

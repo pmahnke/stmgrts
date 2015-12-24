@@ -29,22 +29,3 @@ Other comments I think worth to include:
 h4. More information
 
 * Twickerati has "photos of the plans and more details and lots of comments on the subject":http://twickerati.wordpress.com/2014/06/22/the-twickenham-gloriana-boat-house-experience
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2014-06-25-local_residents_opposing_proposed_development_of_g in site.data.2014-06-25-local_residents_opposing_proposed_development_of_g %}
-       <li>
-
-         {{ 2014-06-25-local_residents_opposing_proposed_development_of_g.comment }}
-
-         <cite>{{ 2014-06-25-local_residents_opposing_proposed_development_of_g.author }} on {{ 2014-06-25-local_residents_opposing_proposed_development_of_g.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -19,23 +19,3 @@ The Police recommend that anyone who used the ATM on that day to check with thei
 ORIGINAL MESSAGE
 
 We need to verify this; however, a reader notified us that the police removed a false front from the St Margarets Road Tesco today.  If you have recently used the cash point, you should check with your bank.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-11-potential_fraud in site.data.2006-05-11-potential_fraud %}
-       <li>
-
-         {{ 2006-05-11-potential_fraud.comment }}
-
-         <cite>{{ 2006-05-11-potential_fraud.author }} on {{ 2006-05-11-potential_fraud.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

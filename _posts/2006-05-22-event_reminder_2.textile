@@ -21,24 +21,3 @@ At "Zorans deli":http://www.stmgrts.org.uk/directory/restaurant/200506220002 –
 p=. Your chance to discuss local police issues and to raise any concerns you may have.
 
 p=. *Also in attendance will be one of our newly elected councillors.*
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-05-22-event_reminder_2 in site.data.2006-05-22-event_reminder_2 %}
-       <li>
-
-         {{ 2006-05-22-event_reminder_2.comment }}
-
-         <cite>{{ 2006-05-22-event_reminder_2.author }} on {{ 2006-05-22-event_reminder_2.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -20,7 +20,3 @@ bq. "are an informal organisation of volunteers -- this means we are reactive ra
 
 
 Turns out they didn't have a website either, so we have hosted a page for them "here":/static/info/smar.html if you are interested in learning more.
-
-
-
-

@@ -7,7 +7,7 @@ date: 2010-06-04 09:05:42
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/twickenham_stadium.jpg"><img alt="twickenham_stadium.jpg" src="http://www.stmgrts.org.uk/images/twickenham_stadium-thumb.jpg" width="150" height="99"  class="photo right"/></a>
+<a href="//stmgrts.org.uk/assets/images/2010/twickenham_stadium.jpg"><img alt="twickenham_stadium.jpg" src="//stmgrts.org.uk/assets/images/2010/twickenham_stadium-thumb.jpg" width="150" height="99"  class="photo right"/></a>
 
 This Saturday, June 5<sup>th</sup>, Twickenham Stadium will be opening its gates for a "Family Fun Day":http://stmgrts.org.uk/event/event/200705142465.
 
@@ -19,9 +19,3 @@ The fun kicks off at 12.00 noon and admission is FREE!!!
 Public parking will be available in the North Car Park on Rugby Road.  Pedestrian entrance is at the West Car Park/Gate 2 on Whitton Road.
 
 For more information Email: "frasercullen@rfu.com":mailto:frasercullen@rfu.com
-
-
-
-
-
-

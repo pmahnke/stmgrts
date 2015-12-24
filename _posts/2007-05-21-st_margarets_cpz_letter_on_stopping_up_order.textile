@@ -27,23 +27,3 @@ Bob Hampson
 2 Broadway Avenue
 
 </div>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-05-21-st_margarets_cpz_letter_on_stopping_up_order in site.data.2007-05-21-st_margarets_cpz_letter_on_stopping_up_order %}
-       <li>
-
-         {{ 2007-05-21-st_margarets_cpz_letter_on_stopping_up_order.comment }}
-
-         <cite>{{ 2007-05-21-st_margarets_cpz_letter_on_stopping_up_order.author }} on {{ 2007-05-21-st_margarets_cpz_letter_on_stopping_up_order.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

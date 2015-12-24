@@ -8,7 +8,7 @@ excerpt: |
     
     h3. Sporting Heroes Workshops
      
-    <a href="http://www.stmgrts.org.uk/images//mofrich_post.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
       
     Celebrate the Summer of Sport at the Museum of Richmond!
     
@@ -20,7 +20,7 @@ excerpt: |
 
 h3. Sporting Heroes Workshops
  
-<a href="http://www.stmgrts.org.uk/images//mofrich_post.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images//mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
   
 Celebrate the Summer of Sport at the Museum of Richmond!
 
@@ -35,6 +35,3 @@ h4. More Information
 * Pre-booking necessary. Please call 020 8332 1141.
 * Museum of Richmond, Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP
 * 020 8332 1141
-
-
-

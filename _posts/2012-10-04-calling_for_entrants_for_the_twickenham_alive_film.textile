@@ -7,7 +7,7 @@ date: 2012-10-04 22:00:51
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Film-Festival-Poster-LBRT.png" title="See larger version of - Film Festival Poster LBRT"><img src="http://www.stmgrts.org.uk/images//Film-Festival-Poster-LBRT_thumb.png" width="150" height="212" alt="Film Festival Poster LBRT" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/Film-Festival-Poster-LBRT.png" title="See larger version of - Film Festival Poster LBRT"><img src="//stmgrts.org.uk/assets/images/2012/Film-Festival-Poster-LBRT_thumb.png" width="150" height="212" alt="Film Festival Poster LBRT" class="photo right" /></a>
 
 _Submissions of short films up to 10 minutes are now being invited for entry in the Festival_
 
@@ -33,7 +33,3 @@ h4. More Information
 * There will be screenings at various locations within the London Borough of Richmond upon Thames with a series of events leading up to the final screening and awards ceremony in April 2013.
 ( The closing date for entries is 1<sup>st</sup> March 2013 and the festival will culminate with a final event in late April 2013.
 * Please contact us if you would like further information or to discuss your film project at "film@twickenhamalive.com":mailto:film@twickenhamalive.com
-
-
-
-

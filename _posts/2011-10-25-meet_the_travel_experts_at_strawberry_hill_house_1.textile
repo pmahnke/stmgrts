@@ -30,23 +30,3 @@ To enhance the day, there will be a series of destination presentations (for 20 
 Finally, adding to this winning day there will be a generous prize draw scheduled to take place at 4:30 pm.
 
 To book your FREE place, please email "events@sunvil.co.uk":mailto:events@sunvil.co.uk to request a booking form.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-10-25-meet_the_travel_experts_at_strawberry_hill_house_1 in site.data.2011-10-25-meet_the_travel_experts_at_strawberry_hill_house_1 %}
-       <li>
-
-         {{ 2011-10-25-meet_the_travel_experts_at_strawberry_hill_house_1.comment }}
-
-         <cite>{{ 2011-10-25-meet_the_travel_experts_at_strawberry_hill_house_1.author }} on {{ 2011-10-25-meet_the_travel_experts_at_strawberry_hill_house_1.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

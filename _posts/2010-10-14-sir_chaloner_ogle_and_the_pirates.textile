@@ -5,14 +5,14 @@ permalink: /archives/2010/10/sir_chaloner_ogle_and_the_pirates.html
 category: 
 date: 2010-10-14 23:19:48
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Ogles_plaque.jpg" title="See larger version of - Ogles plaque"><img src="http://www.stmgrts.org.uk/images//Ogles_plaque_thumb.jpg" width="107" height="150" alt="Ogles plaque" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2010/Ogles_plaque.jpg" title="See larger version of - Ogles plaque"><img src="//stmgrts.org.uk/assets/images/2010/Ogles_plaque_thumb.jpg" width="107" height="150" alt="Ogles plaque" class="photo right" /></a>
     
     
     On the wall of St Marys Church in Twickenham is a monument plaque by Michael Rysbrack in memory of Sir Chaloner Ogle, Bart, Admiral of the Fleet who died on April 20<sup>th</sup> 1750. Surmounted by an over-abundance of carved cannons, spears, an axe, a plumed helmet, standards and a boat hook, together with the head of a goat, a commemorative anchor, a broken column and a standing child is a lengthy eulogy in Latin. It begins..
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Ogles_plaque.jpg" title="See larger version of - Ogles plaque"><img src="http://www.stmgrts.org.uk/images//Ogles_plaque_thumb.jpg" width="107" height="150" alt="Ogles plaque" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Ogles_plaque.jpg" title="See larger version of - Ogles plaque"><img src="//stmgrts.org.uk/assets/images/2010/Ogles_plaque_thumb.jpg" width="107" height="150" alt="Ogles plaque" class="photo right" /></a>
 
 
 _An Officer, a Gentleman, a Cheat._
@@ -33,14 +33,14 @@ p. Unfortunately my own 'O' level Latin never progressed much beyond "Amo, Amas,
 
 
 
-<a href="http://www.stmgrts.org.uk/images//Gifford_house.jpg" title="See larger version of - Gifford house"><img src="http://www.stmgrts.org.uk/images//Gifford_house_thumb.jpg" width="150" height="88" alt="Gifford house" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Gifford_house.jpg" title="See larger version of - Gifford house"><img src="//stmgrts.org.uk/assets/images/2010/Gifford_house_thumb.jpg" width="150" height="88" alt="Gifford house" class="photo right" /></a>
 
 
 bq.  Chaloner Ogle - brave deeds gave honour to his stock - blah -blah-- distinguished himself nobly in Northumbria - blah blah - overcome the Chief of the Pirates - blah blah  - afflicted widow Isabella put up this memorial to devoted husband...blah blah.
 
 p. What the plaque doesn't tell you is that Sir Chaloner Ogle who lived in Gifford Lodge, on Twickenham Green was a bit of a rogue too.
 
-<a href="http://www.stmgrts.org.uk/images//Chaloner_Ogle.jpg" title="See larger version of - Chaloner Ogle"><img src="http://www.stmgrts.org.uk/images//Chaloner_Ogle_thumb.jpg" width="111" height="150" alt="Chaloner Ogle" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Chaloner_Ogle.jpg" title="See larger version of - Chaloner Ogle"><img src="//stmgrts.org.uk/assets/images/2010/Chaloner_Ogle_thumb.jpg" width="111" height="150" alt="Chaloner Ogle" class="photo right" /></a>
 
 
 On the 5<sup>th</sup> February 1722, Captain Chaloner Ogle was commanding the Royal Navy ship "Swallow" off Cape Lopez on the west coast of Africa, when he came across the "Royal Fortune", the "Ranger" and the "Little Ranger", 3 pirate ships under the command of Batholomew Roberts, probably the most successful and notorious pirate of all time. In the skirmishes that followed "Swallow" was able to capture two of Robert's ships - the "Royal Fortune" and the "Ranger" while pirate Roberts was killed by grapeshot as he stood on his deck. Before his body could be captured by Ogle, Roberts' wish to be buried at sea was fulfilled by his crew who wrapped him  in a sail, weighed it down and threw it overboard. Robert's body was never recovered - which led to some speculation that he wasn't dead at all but had escaped. This is what happens when you're the legendary 'Chief of the Pirates'.
@@ -49,7 +49,7 @@ Captain Ogle was knighted for the death of Roberts and awarded the ships "Royal 
 
 The death of Batholomew Roberts in 1772 marked the end of what is known as the "Golden Age of Piracy" Although he is largely forgotten now his name and his achievements still resonate through the broad history of piracy. He was a brave and charismatic leader who drew up a strict code of conduct for his men. As his contemporary, Captain Charles Johnson noted, Roberts was a bit of a dandy too...
 
-<a href="http://www.stmgrts.org.uk/images//Bartholomew_Roberts.jpg" title="See larger version of - Bartholomew Roberts"><img src="http://www.stmgrts.org.uk/images//Bartholomew_Roberts_thumb.jpg" width="101" height="150" alt="Bartholomew Roberts" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2010/Bartholomew_Roberts.jpg" title="See larger version of - Bartholomew Roberts"><img src="//stmgrts.org.uk/assets/images/2010/Bartholomew_Roberts_thumb.jpg" width="101" height="150" alt="Bartholomew Roberts" class="photo right" /></a>
 
 
 bq. "Roberts himself made a gallant figure, at the time of the engagement being dressed in a rich crimson damask waistcoat and breeches, a red feather in his hat, a gold chain round his neck, with a diamond cross hanging to it, a sword in his hand, and two pairs of pistols slung over his shoulders"
@@ -97,22 +97,3 @@ I come, as the lightning comes red from above,
 O'er the race that I loathe, to the battle I love.
 
 <p><cite>-- from Martyn Day</cite></p>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2010-10-14-sir_chaloner_ogle_and_the_pirates in site.data.2010-10-14-sir_chaloner_ogle_and_the_pirates %}
-       <li>
-
-         {{ 2010-10-14-sir_chaloner_ogle_and_the_pirates.comment }}
-
-         <cite>{{ 2010-10-14-sir_chaloner_ogle_and_the_pirates.author }} on {{ 2010-10-14-sir_chaloner_ogle_and_the_pirates.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

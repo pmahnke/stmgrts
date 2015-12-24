@@ -42,7 +42,3 @@ h3. Agenda Moormead Park Meeting
 * "Event Details":/event/Meeting/200603301408
 * "Improvements to Playground in Moormead Park":/archives/2006/04/improvements_to.html
 * "Notes from the 9 March 2006 Moormead Park Meeting":/archives/2006/03/notes_from_moor.html
-
-
-
-

@@ -7,7 +7,7 @@ date: 2011-03-15 13:56:26
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/events/StMargaretsChurch_StPatrick.gif" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images/events/StMargaretsChurch_StPatrick_thumb.gif" width="150" height="225" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/StMargaretsChurch_StPatrick.gif" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/StMargaretsChurch_StPatrick_thumb.gif" width="150" height="225" alt="poster" class="photo right" /></a>
 
 "Friday, 18<sup>th</sup> March 20011":http://stmgrts.org.uk/event/event/200705142729 from 8pm there will be dancing to live music, supper, a raffle and bar at the St Margarets Catholic Church.
 
@@ -17,9 +17,3 @@ h4. Details
 * Enquiries: 07747 035461
 
 _In aid of St Margarets Lenten Project_
-
-
-
-
-
-

@@ -7,7 +7,7 @@ date: 2012-05-19 10:20:20
 excerpt: |
     Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":http://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
     
-    <img src="http://f.cl.ly/items/2Z431N1y1a0e3n3B1K0C/Image%202012.05.19%2009:29:28.png"  class="photo center" width="300" />
+    <img src="//stmgrts.org.uk/assets/images/2012/Image%202012.05.19%2009:29:28.png"  class="photo center" width="300" />
     
     Immediately we checked and the report says, we are in-fact blocked by Orange and T-Mobile.  We then attempted to get on IRC with the Open Rights Group, tried to call, but ended up emailing them - no response yet.  Well it turns out that a lot of other news groups picked up the story and ran very similar versions of it to the original report; however, pulling out this site as an example of the ridiculousness of the blocking mechanism.
     
@@ -18,7 +18,7 @@ excerpt: |
 
 Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":http://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
 
-<img src="http://f.cl.ly/items/2Z431N1y1a0e3n3B1K0C/Image%202012.05.19%2009:29:28.png"  class="photo center" width="300" />
+<img src="//stmgrts.org.uk/assets/images/2012/Image%202012.05.19%2009:29:28.png"  class="photo center" width="300" />
 
 Immediately we checked and the report says, we are in-fact blocked by Orange and T-Mobile.  We then attempted to get on IRC with the Open Rights Group, tried to call, but ended up emailing them - no response yet.  Well it turns out that a lot of other news groups picked up the story and ran very similar versions of it to the original report; however, pulling out this site as an example of the ridiculousness of the blocking mechanism.
 
@@ -27,7 +27,7 @@ At this point we don't know what is going to happen, but read on if you are inte
 
 h4. ISPs Blocking Porn Sites Is a Total Kick In the Nuts | Gizmodo UK
 
-<img src="http://media.gizmodo.co.uk/wp-content/uploads/2012/05/pornlady-140x80.jpg" width="140" height="80" alt="porn lady" class="photo right" />
+<img src="//stmgrts.org.uk/assets/images/2012/pornlady-140x80.jpg" width="140" height="80" alt="porn lady" class="photo right" />
 
 bq.. "Worryingly, some of the sites that are erroneously blocked are political in nature, or concern free speech and privacy. Some of these sites may have been submitted maliciously by opponents, others...well, who would want to block the village green goings-on at this site? (Answer: Orange and T-Mobile)
 
@@ -78,22 +78,3 @@ h4. Other articles
 * Web censorship hurts legit sites - Watchdog warns ISP censorship will make things worse | techeye - "news.techeye.net":http://news.techeye.net/security/web-censorship-hurts-legit-sites
 * Report Slams Default Porn Filters On Mobiles | TechWeekEurope UK - "www.techweekeurope.co.uk":http://www.techweekeurope.co.uk/news/default-porn-filters-dont-work-77916
 * Report: Mobile blocks show net filters "too blunt" - "www.pcpro.co.uk":http://www.pcpro.co.uk/news/374620/report-mobile-blocks-show-net-filters-too-blunt
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2012-05-19-no_such_thing_as_bad_publicity_really in site.data.2012-05-19-no_such_thing_as_bad_publicity_really %}
-       <li>
-
-         {{ 2012-05-19-no_such_thing_as_bad_publicity_really.comment }}
-
-         <cite>{{ 2012-05-19-no_such_thing_as_bad_publicity_really.author }} on {{ 2012-05-19-no_such_thing_as_bad_publicity_really.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

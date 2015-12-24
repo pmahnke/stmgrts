@@ -5,13 +5,13 @@ permalink: /archives/2012/10/event_reminder_environment_trusts_art_auction_2012.
 category: around_town
 date: 2012-10-27 17:27:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//art_auction.png" title="See larger version of - art auction"><img src="http://www.stmgrts.org.uk/images//art_auction_thumb.png" width="150" height="96" alt="art auction" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2012/art_auction.png" title="See larger version of - art auction"><img src="//stmgrts.org.uk/assets/images/2012/art_auction_thumb.png" width="150" height="96" alt="art auction" class="photo right" /></a>
     
     Teddington Lock and Sandys the fishmongers in Twickenham will be two of the many images depicting working life in modern Richmond upon Thames featured in the "Environment Trust's annual Art Auction on November 8<sup>th</sup>.":http://www.stmgrts.org.uk/event/auction/200705143677
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//art_auction.png" title="See larger version of - art auction"><img src="http://www.stmgrts.org.uk/images//art_auction_thumb.png" width="150" height="96" alt="art auction" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2012/art_auction.png" title="See larger version of - art auction"><img src="//stmgrts.org.uk/assets/images/2012/art_auction_thumb.png" width="150" height="96" alt="art auction" class="photo right" /></a>
 
 Teddington Lock and Sandys the fishmongers in Twickenham will be two of the many images depicting working life in modern Richmond upon Thames featured in the "Environment Trust's annual Art Auction on November 8<sup>th</sup>.":http://www.stmgrts.org.uk/event/auction/200705143677
 
@@ -48,7 +48,3 @@ h4. More Information
 * Auction:	From 8pm
 
 _All proceeds will support the Environment Trust for Richmond upon Thames._
-
-
-
-

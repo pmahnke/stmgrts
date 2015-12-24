@@ -12,23 +12,3 @@ The "Richmond Upon Thames Furniture Scheme":http://www.furniture.scheme.ukgatewa
 They are currently in urgent need of donations of standard sized double and single beds, wardrobes and chest of drawers.  They must be in good condition to pass onto socially and economically deprived people in need of furniture and household goods.
 
 Their telephone number is:  020 8755 4665, or you can email them at "furniture.scheme@ukgateway.net":mailto:furniture.scheme@ukgateway.net.
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2005-06-30-richmond_upon_t in site.data.2005-06-30-richmond_upon_t %}
-       <li>
-
-         {{ 2005-06-30-richmond_upon_t.comment }}
-
-         <cite>{{ 2005-06-30-richmond_upon_t.author }} on {{ 2005-06-30-richmond_upon_t.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

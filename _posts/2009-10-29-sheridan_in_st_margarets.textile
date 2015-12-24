@@ -5,7 +5,7 @@ permalink: /archives/2009/10/sheridan_in_st_margarets.html
 category: around_town
 date: 2009-10-29 09:23:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//sheridan.png" title="See larger version of - RICHARD BRINSLEY SHERIDAN"><img src="http://www.stmgrts.org.uk/images//sheridan_thumb.png" width="117" height="150" alt="RICHARD BRINSLEY SHERIDAN" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2009/sheridan.png" title="See larger version of - RICHARD BRINSLEY SHERIDAN"><img src="//stmgrts.org.uk/assets/images/2009/sheridan_thumb.png" width="117" height="150" alt="RICHARD BRINSLEY SHERIDAN" class="photo right" /></a>
     
     bq. "Whatever Sheridan has done or chosen to do has been par excellence always the best of its kind"
     
@@ -23,7 +23,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//sheridan.png" title="See larger version of - RICHARD BRINSLEY SHERIDAN"><img src="http://www.stmgrts.org.uk/images//sheridan_thumb.png" width="117" height="150" alt="RICHARD BRINSLEY SHERIDAN" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/sheridan.png" title="See larger version of - RICHARD BRINSLEY SHERIDAN"><img src="//stmgrts.org.uk/assets/images/2009/sheridan_thumb.png" width="117" height="150" alt="RICHARD BRINSLEY SHERIDAN" class="photo right" /></a>
 
 bq. "Whatever Sheridan has done or chosen to do has been par excellence always the best of its kind"
 
@@ -45,7 +45,7 @@ In 1793 Sheridan was living in Lacy House in north St Margarets. It stood on wha
 
 bq. "The press should be unfettered, that its freedom should be, as indeed it was, commensurate with the freedom of the people and the well-being of a virtuous State; on that account even one hundred libels had better be ushered into the world than one prosecution be instituted which might endanger the liberty of the press of this country."
 
-<a href="http://www.stmgrts.org.uk/images//sheridan_lacyhouse.png" title="See larger version of - LACY HOUSE"><img src="http://www.stmgrts.org.uk/images//sheridan_lacyhouse_thumb.png" width="150" height="87" alt="LACY HOUSE" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/sheridan_lacyhouse.png" title="See larger version of - LACY HOUSE"><img src="//stmgrts.org.uk/assets/images/2009/sheridan_lacyhouse_thumb.png" width="150" height="87" alt="LACY HOUSE" class="photo right" /></a>
 
 Sheridan had chosen his new home wisely. The walk along the northern bank of the Thames between Isleworth and East Twickenham had been described as the finest in England. The poet James Thomson wrote:
 
@@ -55,7 +55,7 @@ To Twitnam's bowers.
 
 p. With only Richmond Bridge to break the line of the river Twickenham Park as it was then known was an open parkland of fine old houses, magnificent trees and beautiful gardens. With an easy proximity to London the area soon attracted many famous and successful people. Even King William 4th had become a local property owner when he bought Gordon House for his illegitimate daughter, Lady Augusta Kennedy-Erskine. "At last you have a home," he said. The flower garden was said to have been laid out under his personal supervision.
 
-<a href="http://www.stmgrts.org.uk/images//sheridan_gordonhouse.png" title="See larger version of - GORDON HOUSE"><img src="http://www.stmgrts.org.uk/images//sheridan_gordonhouse_thumb.png" width="150" height="69" alt="GORDON HOUSE" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2009/sheridan_gordonhouse.png" title="See larger version of - GORDON HOUSE"><img src="//stmgrts.org.uk/assets/images/2009/sheridan_gordonhouse_thumb.png" width="150" height="69" alt="GORDON HOUSE" class="photo right" /></a>
 
 
 With two wildly successful plays behind Sheridan continued to work during his time at Lacy House. He was often seen walking up and down the riverbank, "a man with a firm face, large eyes and curly hair," pondering his latest work. Unlike many other writers who could create directly onto the page Sheridan would spend a long time beforehand carefully considering every aspect of the play before committing words to paper. As he said to one of his sisters:- "The comedy is finished.  I have now nothing to do but to write it out."
@@ -75,7 +75,3 @@ p. ??JOHN GRAHAM, CRANFORD  1808??
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-

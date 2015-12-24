@@ -7,7 +7,7 @@ date: 2015-05-12 21:05:36
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Gymboree_free_music_session.png" title="See larger version of - Gymboree free music session"><img src="http://www.stmgrts.org.uk/images//Gymboree_free_music_session_thumb.png" width="250" height="83" alt="Gymboree free music session" class="right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Gymboree_free_music_session.png" title="See larger version of - Gymboree free music session"><img src="//stmgrts.org.uk/assets/images/2015/Gymboree_free_music_session_thumb.png" width="250" height="83" alt="Gymboree free music session" class="right" /></a>
 
 _Join us for a free trial music session on Thursday 28<sup>th</sup> May 2015_
 
@@ -30,6 +30,3 @@ Dance and sing to variety of musical styles including Rock 'n' Roll, Classical, 
 
 For more details and to book your place please contact
 us on 020 8607 9995 or e-mail us at "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
-
-
-

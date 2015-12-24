@@ -14,24 +14,3 @@ date: 2009-11-13 12:22:05
 Stocking: Rowan, Debbie Bliss, Louisa Harding, Blue Sky Alpacas, Spud & Chloe, Rooster, Noro, VV Rouleaux, Lantern Moon, Amy Butler and much more...
 
 For more information please visit: "www.mrsmoon.co.uk":http://www.mrsmoon.co.uk/.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-11-13-st_margarets_traders_association_welcome_mrs_moon in site.data.2009-11-13-st_margarets_traders_association_welcome_mrs_moon %}
-       <li>
-
-         {{ 2009-11-13-st_margarets_traders_association_welcome_mrs_moon.comment }}
-
-         <cite>{{ 2009-11-13-st_margarets_traders_association_welcome_mrs_moon.author }} on {{ 2009-11-13-st_margarets_traders_association_welcome_mrs_moon.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

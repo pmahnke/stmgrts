@@ -41,21 +41,3 @@ p. Further information regarding the appeal process will follow after the July C
 
 
 -- from a "Richmond Council press release - 5 July 2011":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/july_2011_press_releases/council_to_refund_parking_charges_issued_by_cctv_cars.htm?viewmode=pr
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-07-05-richmond_council_to_refund_parking_charges_issued in site.data.2011-07-05-richmond_council_to_refund_parking_charges_issued %}
-       <li>
-
-         {{ 2011-07-05-richmond_council_to_refund_parking_charges_issued.comment }}
-
-         <cite>{{ 2011-07-05-richmond_council_to_refund_parking_charges_issued.author }} on {{ 2011-07-05-richmond_council_to_refund_parking_charges_issued.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -44,21 +44,3 @@ Yours Sincerely,
 Simon
 Superdrug
 </pre>
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2009-07-15-superdrug_changing_morning_deliveries in site.data.2009-07-15-superdrug_changing_morning_deliveries %}
-       <li>
-
-         {{ 2009-07-15-superdrug_changing_morning_deliveries.comment }}
-
-         <cite>{{ 2009-07-15-superdrug_changing_morning_deliveries.author }} on {{ 2009-07-15-superdrug_changing_morning_deliveries.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -18,23 +18,3 @@ This makes the whole exercise look like a cynical revenue raising scheme, rather
 We urge the Council to erect prominent signs along that stretch of road so that people are aware that CCTV is and has been used to issue parking tickets, to deter people before they get a ticket, not after."
 
 p. -- <em>from Nigel Cannings of "SPASM":http://spasm.jiglu.com/</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-11-tesco_parking_and_richmond_councils_cctv in site.data.2007-06-11-tesco_parking_and_richmond_councils_cctv %}
-       <li>
-
-         {{ 2007-06-11-tesco_parking_and_richmond_councils_cctv.comment }}
-
-         <cite>{{ 2007-06-11-tesco_parking_and_richmond_councils_cctv.author }} on {{ 2007-06-11-tesco_parking_and_richmond_councils_cctv.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

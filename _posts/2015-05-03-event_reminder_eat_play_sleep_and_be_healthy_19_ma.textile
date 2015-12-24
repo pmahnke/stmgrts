@@ -5,13 +5,13 @@ permalink: /archives/2015/05/event_reminder_eat_play_sleep_and_be_healthy_19_ma.
 category: around_town
 date: 2015-05-03 07:41:38
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//fss_baby.jpg" title="See larger version of - fss baby"><img src="http://www.stmgrts.org.uk/images//fss_baby_thumb.jpg" width="150" height="99" alt="fss baby" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="//stmgrts.org.uk/assets/images/2015/fss_baby_thumb.jpg" width="150" height="99" alt="fss baby" class="photo right" /></a>
     
     "For Sanity's Sake":http://www.stmgrts.org.uk/directory/childrens/201012151646 has lots to offer parents at its next event -  _Eat, Play, Sleep & Be Healthy_ at Movers & Shapers in St Margarets on Tuesday, 19 May 2015!
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//fss_baby.jpg" title="See larger version of - fss baby"><img src="http://www.stmgrts.org.uk/images//fss_baby_thumb.jpg" width="250" height="166" alt="fss baby" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="//stmgrts.org.uk/assets/images/2015/fss_baby_thumb.jpg" width="250" height="166" alt="fss baby" class="photo right" /></a>
 
 _If You Have a Child Age 2 or Under, Don't Miss the For Sanity's Sake "Eat, Play, Sleep & Be Healthy" Parenting Event!_
 
@@ -36,9 +36,3 @@ h4. More Information
 * "book online":https://www.eventbrite.co.uk/e/eat-play-sleep-be-healthy-tickets-16630336785
 * The event is being held at "Movers & Shapers":http://www.stmgrts.org.uk/directory/health_aNd_beauty/201504101519, which is conveniently located within yards of the St Margarets train station and H37 bus stops and the walk from Richmond and Twickenham is approximately 15 minutes.
 * If you have questions about the event, please email "olivia@forsanityssake.com":mailto:olivia@forsanityssake.com
-
-
-
-
-
-

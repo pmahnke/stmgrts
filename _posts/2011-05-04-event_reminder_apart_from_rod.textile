@@ -7,7 +7,7 @@ date: 2011-05-04 20:34:18
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/ApartfromRod_flyer.jpg" title="See larger version of - poster"><img src="http://www.stmgrts.org.uk/images/ApartfromRod_flyer_thumb.jpg" width="150" height="206" alt="poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/ApartfromRod_flyer.jpg" title="See larger version of - poster"><img src="//stmgrts.org.uk/assets/images/2011/ApartfromRod_flyer_thumb.jpg" width="150" height="206" alt="poster" class="photo right" /></a>
 
 h4. A Musical Celebration of the Original Rod Stewart Group
 
@@ -17,9 +17,3 @@ h4. Details
 
 * Tickets &pound;20 (in advance only)
 * Cash Bar
-
-
-
-
-
-

@@ -14,23 +14,3 @@ The work - replacing gas mains - started in the spring without any warning; was 
 Vincent Cable has written to the company's Chief Executive to protest and to demand that a senior project manager be put in charge to finish the work: "some of the utility companies make a habit of digging up roads and pavements for weeks on end. But this saga in St Margaret's has gone on for months and is no nearer a resolution. The traders are furious since their livelihoods are on the line. There should surely be some financial sanction when utilities cause unnecessary inconvenience and loss to communities as National Grid is doing."
 
 -- <em>"from local MP, Vince Cable":http://vincentcable.org.uk/news/001340.html</em>
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2007-06-14-gross_incompetence_by_gas_company in site.data.2007-06-14-gross_incompetence_by_gas_company %}
-       <li>
-
-         {{ 2007-06-14-gross_incompetence_by_gas_company.comment }}
-
-         <cite>{{ 2007-06-14-gross_incompetence_by_gas_company.author }} on {{ 2007-06-14-gross_incompetence_by_gas_company.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

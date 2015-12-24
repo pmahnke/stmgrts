@@ -21,24 +21,3 @@ Twickenham Film Studios have asked the council to consider removing the recyclin
 
 * "Vote in our poll":http://www.stmgrts.org.uk/poll/FILM/
 * "View the results":http://www.stmgrts.org.uk/poll/FILM/results
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-11-18-twickenham_film_studios_richmond_council_and_recyc in site.data.2011-11-18-twickenham_film_studios_richmond_council_and_recyc %}
-       <li>
-
-         {{ 2011-11-18-twickenham_film_studios_richmond_council_and_recyc.comment }}
-
-         <cite>{{ 2011-11-18-twickenham_film_studios_richmond_council_and_recyc.author }} on {{ 2011-11-18-twickenham_film_studios_richmond_council_and_recyc.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

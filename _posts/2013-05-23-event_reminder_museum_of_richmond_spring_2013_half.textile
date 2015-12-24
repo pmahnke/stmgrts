@@ -7,7 +7,7 @@ date: 2013-05-23 21:37:33
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//glass_painting_museum_richmond.jpg" title="See larger version of - glass painting museum richmond"><img src="http://www.stmgrts.org.uk/images//glass_painting_museum_richmond_thumb.jpg" width="150" height="113" alt="glass painting museum richmond" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/glass_painting_museum_richmond.jpg" title="See larger version of - glass painting museum richmond"><img src="//stmgrts.org.uk/assets/images/2013/glass_painting_museum_richmond_thumb.jpg" width="150" height="113" alt="glass painting museum richmond" class="photo right" /></a>
 
 h4. Glass Painting Workshops
 
@@ -26,8 +26,3 @@ h4. More Information
 * Pre-booking necessary. Please call 020 8332 1141
 
 _Museum of Richmond, Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP_
-
-
-
-
-

@@ -5,13 +5,13 @@ permalink: /archives/2014/10/richmond_community_awards_2014_nominations_open.htm
 category: news
 date: 2014-10-02 21:49:21
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//com_awards_logo.png" title="See larger version of - com awards logo"><img src="http://www.stmgrts.org.uk/images//com_awards_logo_thumb.png" width="150" height="59" alt="com awards logo" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2014/com_awards_logo.png" title="See larger version of - com awards logo"><img src="//stmgrts.org.uk/assets/images/2014/com_awards_logo_thumb.png" width="150" height="59" alt="com awards logo" class="photo right" /></a>
     
     Residents who live, work or study in the borough and work tirelessly to help improve the quality of lives for others will once again be rewarded via the Council's annual local 'honours' scheme - the Richmond Community Awards.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//com_awards_logo.png" title="See larger version of - com awards logo"><img src="http://www.stmgrts.org.uk/images//com_awards_logo_thumb.png" width="250" height="98" alt="com awards logo" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/com_awards_logo.png" title="See larger version of - com awards logo"><img src="//stmgrts.org.uk/assets/images/2014/com_awards_logo_thumb.png" width="250" height="98" alt="com awards logo" class="photo right" /></a>
 
 Residents who live, work or study in the borough and work tirelessly to help improve the quality of lives for others will once again be rewarded via the Council's annual local 'honours' scheme - the Richmond Community Awards.
 
@@ -25,7 +25,3 @@ Once the nominations are in, a panel of Council officers, chaired by the Leader 
 * Winners will receive a commemorative lapel pin and certificate.
 * Nominations are open between Monday 8 September 2014 and Friday 17 October 2014.
 * "More information":http://www.richmond.gov.uk/community_awards
-
-
-
-

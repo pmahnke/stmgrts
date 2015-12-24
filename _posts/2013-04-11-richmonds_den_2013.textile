@@ -5,13 +5,13 @@ permalink: /archives/2013/04/richmonds_den_2013.html
 category: news
 date: 2013-04-11 21:05:16
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//richmonds_den.jpg" title="See larger version of - richmonds den"><img src="http://www.stmgrts.org.uk/images//richmonds_den_thumb.jpg" width="150" height="91" alt="richmonds den" class=" right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2013/richmonds_den.jpg" title="See larger version of - richmonds den"><img src="//stmgrts.org.uk/assets/images/2013/richmonds_den_thumb.jpg" width="150" height="91" alt="richmonds den" class=" right" /></a>
     
     Richmond's Den is back for 2013.  Following the success of last year's competition, budding or growing social entrepreneurs are invited to 'Take the Next Step' - all it takes is 500 words to enter.  The winner will walk off with a &pound;10,000 prize package but all entrants will benefit.  Shortlisted entrants will receive tailored support to develop their business ideas; all entrants will be offered support through workshops and other events throughout the year. 
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//richmonds_den.jpg" title="See larger version of - richmonds den"><img src="http://www.stmgrts.org.uk/images//richmonds_den_thumb.jpg" width="150" height="91" alt="richmonds den" class=" right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2013/richmonds_den.jpg" title="See larger version of - richmonds den"><img src="//stmgrts.org.uk/assets/images/2013/richmonds_den_thumb.jpg" width="150" height="91" alt="richmonds den" class=" right" /></a>
 
 Richmond's Den is back for 2013.  Following the success of last year's competition, budding or growing social entrepreneurs are invited to 'Take the Next Step' - all it takes is 500 words to enter.  The winner will walk off with a &pound;10,000 prize package but all entrants will benefit.  Shortlisted entrants will receive tailored support to develop their business ideas; all entrants will be offered support through workshops and other events throughout the year.  Full details are at "www.richmondsden.co.uk":http://www.richmondsden.co.uk  and you can also follow us on Facebook at "www.facebook.com/richmondsden":http://www.facebook.com/richmondsden
 
@@ -32,7 +32,3 @@ Other info:
 * More information on last year's entrants/winners is on  "www.richmondsocialenterprisepartnership.co.uk":http://www.richmondsocialenterprisepartnership.co.uk
 * Pitching day: Thursday 13 June
 * Final: Evening of 17 July
-
-
-
-

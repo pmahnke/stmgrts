@@ -12,7 +12,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images/abs_edited.JPG"><img src="http://www.stmgrts.org.uk/images/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/abs_edited.JPG"><img src="http://www.stmgrts.org.uk/images/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
 
 Abigail has lived in St Margarets for six years, originally hailing from Scotland where she danced with Scottish Ballet, the country's national ballet company.
 
@@ -33,23 +33,4 @@ Ages 5-9 -- 9.30am - 12.00pm - &pound;100.00
 
 Ages 10-14 -- 1.00pm - 4.30pm - &pound;150.00 
 
-<a href="http://www.stmgrts.org.uk/archives/marblehilldancesummer.pdf">Download the flyer</a>
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-07-06-abigail_cova_an in site.data.2006-07-06-abigail_cova_an %}
-       <li>
-
-         {{ 2006-07-06-abigail_cova_an.comment }}
-
-         <cite>{{ 2006-07-06-abigail_cova_an.author }} on {{ 2006-07-06-abigail_cova_an.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-
+<a href="//stmgrts.org.uk/assets/images/2006/marblehilldancesummer.pdf">Download the flyer</a>

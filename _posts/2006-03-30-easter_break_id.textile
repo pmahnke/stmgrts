@@ -171,24 +171,3 @@ h4. Other Ideas
 * Walk through Holland Park, daffodils should be in bloom, look for the Peacocks, and check out the adventure playground
 * Go to Battersea Park and check out the children's zoo-other corner of the park also has a big adventure playground and (at least during the summer) there is a neat fountain that turns on and off. 
 * Didn't get all the listings this time around but check out some children's theatre at The Polka Theatre, The Lyric in Hammersmith, or The Tricycle Theatre not to mention the brand new purpose built children's theatre along the southbank -- the Unicorn Theatre.
-
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2006-03-30-easter_break_id in site.data.2006-03-30-easter_break_id %}
-       <li>
-
-         {{ 2006-03-30-easter_break_id.comment }}
-
-         <cite>{{ 2006-03-30-easter_break_id.author }} on {{ 2006-03-30-easter_break_id.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

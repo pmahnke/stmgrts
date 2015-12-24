@@ -5,7 +5,7 @@ permalink: /archives/2011/06/a_plan_for_st_margarets.html
 category: news
 date: 2011-06-09 12:33:24
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="http://www.stmgrts.org.uk/images//St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="//stmgrts.org.uk/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
     
     The "St Margarets Traders Association":http://www.mystmargarets.com has published a leaflet that will soon be distributed to local residents.  It highlights the Traders ideas for improving the high street without cost to the Council.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="http://www.stmgrts.org.uk/images//St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="//stmgrts.org.uk/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
 
 The "St Margarets Traders Association":http://www.mystmargarets.com has published a leaflet that will soon be distributed to local residents.  It highlights the Traders ideas for improving the high street without cost to the Council.
 
@@ -28,23 +28,3 @@ Ideas include getting a fishmonger and a bakery and adding more retail space on 
 You can "download and read the leaflet":http://www.stmgrts.org.uk/images/St_Margarets_plan.pdf [pdf]
 
 _What do you think?_
-
-
-
-
-<div class="comments">
-  <h2>Comments</h2>
-     <ul>
-{% for 2011-06-09-a_plan_for_st_margarets in site.data.2011-06-09-a_plan_for_st_margarets %}
-       <li>
-
-         {{ 2011-06-09-a_plan_for_st_margarets.comment }}
-
-         <cite>{{ 2011-06-09-a_plan_for_st_margarets.author }} on {{ 2011-06-09-a_plan_for_st_margarets.date }}</cite>
-    
-       </li>
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-

@@ -5,13 +5,13 @@ permalink: /archives/2015/11/event_reminder_air_commodore_charles_clarke_obe_an.
 category: around_town
 date: 2015-11-13 19:11:15
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/images//Charles-Clarke-poster.jpg" title="See larger version of - Charles Clarke poster"><img src="http://www.stmgrts.org.uk/images//Charles-Clarke-poster_thumb.jpg" width="150" height="212" alt="Charles Clarke poster" class="photo right" /></a>
+    <a href="//stmgrts.org.uk/assets/images/2015/Charles-Clarke-poster.jpg" title="See larger version of - Charles Clarke poster"><img src="//stmgrts.org.uk/assets/images/2015/Charles-Clarke-poster_thumb.jpg" width="150" height="212" alt="Charles Clarke poster" class="photo right" /></a>
     
     Charles Clarke was shot down over Germany and imprisoned in Stalag Luft III, the camp from which 76 prisoners tunnelled out in the "Great Escape". He later took part in the 'long march' of British PoWs across Germany in the last months of the Third Reich. After the war, he stayed in the RAF, reaching the rank of Air Commodore, continuing to work full time until 1998.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/images//Charles-Clarke-poster.jpg" title="See larger version of - Charles Clarke poster"><img src="http://www.stmgrts.org.uk/images//Charles-Clarke-poster_thumb.jpg" width="250" height="353" alt="Charles Clarke poster" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2015/Charles-Clarke-poster.jpg" title="See larger version of - Charles Clarke poster"><img src="//stmgrts.org.uk/assets/images/2015/Charles-Clarke-poster_thumb.jpg" width="250" height="353" alt="Charles Clarke poster" class="photo right" /></a>
 
 Charles Clarke was shot down over Germany and imprisoned in Stalag Luft III, the camp from which 76 prisoners tunnelled out in the "Great Escape". He later took part in the 'long march' of British PoWs across Germany in the last months of the Third Reich. After the war, he stayed in the RAF, reaching the rank of Air Commodore, continuing to work full time until 1998.
 
@@ -26,9 +26,3 @@ h4. More Information
 * Doors and Bar open 7pm, talk starts 7.30pm
 
 _The Portcullis Trust is raising money for Learners with Learning Difficulties & Disabilities at Richmond Adult Community College_
-
-
-
-
-
-
