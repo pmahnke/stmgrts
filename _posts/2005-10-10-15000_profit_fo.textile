@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&pound;15000 profit for this year's St Margarets Moormead July Fair"
+title: "&pound;15,000 profit for this year's St Margarets Moormead Fair"
 permalink: /archives/2005/10/15000_profit_fo.html
 commentfile: 2005-10-10-15000_profit_fo
 category: news
@@ -8,29 +8,28 @@ date: 2005-10-10 13:18:21
 
 ---
 
-bq.. Record attendance this year brought record profits.  As always the organisers ensure that the profit is re-distributed to local charities and schools.  Only a small amount is kept back to pay for the pre-fair expenses of the following year's Fair.  The schools receive money on a points system based on their input to the organisation of the Fair and on their 'on the day' support.  Selected charities are approached at the start of each year and invited to give a ten minute presentation about their work.  The Fair Committee then decide who the supported charities will be. 
+Record attendance this year brought record profits.  As always the organisers ensure that the profit is re-distributed to local charities and schools.  Only a small amount is kept back to pay for the pre-fair expenses of the following year's Fair.  The schools receive money on a points system based on their input to the organisation of the Fair and on their 'on the day' support.  Selected charities are approached at the start of each year and invited to give a ten minute presentation about their work.  The Fair Committee then decide who the supported charities will be.
 
 
-bq.. 
-Apart from the schools and charities the Fair has always paid for a Christmas meal for around 80 of St Margarets more senior citizens.  This year’s meal is on December 7<sup>th</sup> in the Winchester Hall.  
+Apart from the schools and charities the Fair has always paid for a Christmas meal for around 80 of St Margarets more senior citizens.  This year’s meal is on December 7<sup>th</sup> in the Winchester Hall.
 
-Here’s where the {-L}13,400 of the money’s gone this year –
+Here’s where the &pound;13,400 of the money’s gone in 2005:
 
-|Orleans Infant School|{-L}1600|
-|St Stephens School|{-L}1600|
-|St Mary’s School|{-L}900|
-|Orleans Park School|{-L}2400|
-|Richmond Talking Newspaper|{-L}1000|
-|Centre 32 (MIND)|{-L}1600|
-|Crofters|{-L}1600|
-|Richmond Carers|{-L}1600|
-|Friends of Oak Lane|{-L}100|
-|Marble Hill Playcentres|{-L}500|
-|Radio West Middlesex|{-L}500|
+|Orleans Infant School|&pound;1600|
+|St Stephens School|&pound;1600|
+|St Mary’s School|&pound;900|
+|Orleans Park School|&pound;2400|
+|Richmond Talking Newspaper|&pound;1000|
+|Centre 32 (MIND)|&pound;1600|
+|Crofters|&pound;1600|
+|Richmond Carers|&pound;1600|
+|Friends of Oak Lane|&pound;100|
+|Marble Hill Playcentres|&pound;500|
+|Radio West Middlesex|&pound;500|
 
-Next year's fair will be on Saturday July the 15<sup>th</sup>.  If you’re interested in having a stall next year, please contact Julia Kirkpatrick on 020 8241 1042. 
+Next year's fair will be on Saturday July the 15<sup>th</sup>.  If you’re interested in having a stall next year, please contact Julia Kirkpatrick on 020 8241 1042.
 
-p>. -- from the _St Margarets' Fair Committee_
+<cite>-- from the _St Margarets' Fair Committee_</cite>
 
 
 {% include comments.html %}

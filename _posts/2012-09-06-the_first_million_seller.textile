@@ -7,8 +7,8 @@ category: around_town
 date: 2012-09-06 21:53:27
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2012/MILLION_glenn-miller.jpg" title="See larger version of - Glenn Miller"><img src="//stmgrts.org.uk/assets/images/2012/MILLION_glenn-miller_thumb.jpg" width="150" height="205" alt="Glenn Miller" class="photo right" /></a>
-    
-    
+
+
     The first Gold Record was awarded 70 years ago, in February 1942, to Glenn Miller for his recording of _"Chattanooga Choo Choo"_. It sold 1,200,000 copies. In 1956 Elvis Presley received a Gold Record for 1,000,000 sales of _"Don't Be Cruel."_ The following year, 1957, Harry Belafonte was presented with a Gold Record for his album _"Calypso"_, the first L.P to sell over 1,000,000 copies
 
 ---
@@ -121,14 +121,14 @@ h3. Enjoy the first big hits.....
 
 h4. Charles K Harris sings his own composition "After the Ball" (1930)
 
-<iframe width="480" height="360" src="//stmgrts.org.uk/assets/images/2012/zIXGlQdTDKY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/zIXGlQdTDKY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 h4. Glenn Miller Band - "Chattanooga Choo Choo"
 
 From "Sun Valley Serenade" 1941 (featuring the Nicholas Brothers)
 
-<iframe width="480" height="360" src="//stmgrts.org.uk/assets/images/2012/V2aj0zhXlLA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/V2aj0zhXlLA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 fn1. These early awards were made by RCA, the company that owned the recordings.  In 1958 the Recording Industry Association of America decided that these 'company awards' were a little too self serving so they introduced a 'Gold Award Programme' of their own. Their current scale is:-
