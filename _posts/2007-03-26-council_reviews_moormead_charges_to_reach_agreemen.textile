@@ -2,6 +2,7 @@
 layout: post
 title: "Council Reviews Moormead Charges to Reach Agreement With School"
 permalink: /archives/2007/03/council_reviews_moormead_charges_to_reach_agreemen.html
+commentfile: 2007-03-26-council_reviews_moormead_charges_to_reach_agreemen
 category: news
 date: 2007-03-26 10:39:39
 
@@ -22,3 +23,6 @@ The current rates are set by the Cabinet Member and we will therefore need forma
 For now any invoices outstanding have been put on hold."
 
 p. -- from Eve Risbridger, <em>Head of Parks and Open Spaces</em>, London Borough of Richmond upon Thames
+
+
+{% include comments.html %}

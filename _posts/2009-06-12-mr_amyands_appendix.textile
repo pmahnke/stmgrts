@@ -2,6 +2,7 @@
 layout: post
 title: "Mr Amyand's Appendix"
 permalink: /archives/2009/06/mr_amyands_appendix.html
+commentfile: 2009-06-12-mr_amyands_appendix
 category: around_town
 date: 2009-06-12 10:47:37
 excerpt: |
@@ -55,3 +56,6 @@ As for our hero, Claudius Amyand, he is remembered for a number of papers that h
 <cite>-- from Martyn Day<br />Written with the generous assistance and encouragement of Mr. Laurence Mann.</cite> 
 
 <em>Note: Photos from Twickenham Museum</em>
+
+
+{% include comments.html %}

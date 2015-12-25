@@ -2,6 +2,7 @@
 layout: post
 title: "The War Walk #1 - from the Ailsa to Ypres"
 permalink: /archives/2014/11/the_war_walk_1_from_the_ailsa_to_ypres.html
+commentfile: 2014-11-06-the_war_walk_1_from_the_ailsa_to_ypres
 category: around_town
 date: 2014-11-06 22:18:06
 excerpt: |
@@ -73,3 +74,7 @@ There will be more stories about the local men and women who experienced the Gre
 <cite>-- from Martyn Day</cite>
 
 <em>Read the first instalment, "The War Walk #2 - 'From Ypres To Isleworth'":http://www.stmgrts.org.uk/archives/2014/11/the_war_walk_2_from_ypres_to_isleworth.html</em>
+
+
+
+{% include comments.html %}

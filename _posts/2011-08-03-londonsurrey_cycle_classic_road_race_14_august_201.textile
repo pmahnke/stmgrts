@@ -2,6 +2,7 @@
 layout: post
 title: "London-Surrey Cycle Classic Road Race - 14 August 2011"
 permalink: /archives/2011/08/londonsurrey_cycle_classic_road_race_14_august_201.html
+commentfile: 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201
 category: news
 date: 2011-08-03 14:44:04
 excerpt: |
@@ -27,3 +28,7 @@ While it will be an exciting spectacle, roads and transport, including access to
 * Visit "Transport for London's website":http://www.tfl.gov.uk/gettingaround/20027.aspx for more information.
 * "Map of restrictions and closures in Richmond (pdf)":https://docs.google.com/viewer?url=http://www.tfl.gov.uk/assets/downloads/Richmond_LB_Road_Closure_Map.pdf
 * "List of restricted access roads in Richmond (pdf)":https://docs.google.com/viewer?url=http://www.tfl.gov.uk/assets/downloads/Restricted_Road_Richmond_A3.pdf
+
+
+
+{% include comments.html %}

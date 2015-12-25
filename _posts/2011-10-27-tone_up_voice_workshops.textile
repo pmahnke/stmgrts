@@ -2,6 +2,7 @@
 layout: post
 title: "Tone Up Voice Workshops"
 permalink: /archives/2011/10/tone_up_voice_workshops.html
+commentfile: 2011-10-27-tone_up_voice_workshops
 category: around_town
 date: 2011-10-27 12:42:26
 
@@ -26,3 +27,7 @@ h4. More Information
 * October Tues 11<sup>th</sup> Wed 19<sup>th</sup> Nov Tues 1<sup>st</sup> Wed 9<sup>th</sup> Tuesday 15<sup>th</sup> Wed 23<sup>rd</sup> Tues 29<sup>th</sup> Dec Wed 14<sup>th</sup> is a possibility tbc (if not we'll have an early Christmas celebration!)
 * Please contact Surya to book info "@vitalvoices.co.uk":http://www.twitter.com/vitalvoices.co.uk or ph 07770 993289
 * "www.vitalvoices.co.uk":http://www.vitalvoices.co.uk
+
+
+
+{% include comments.html %}

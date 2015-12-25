@@ -2,6 +2,7 @@
 layout: post
 title: "Great Offers from Your Local Traders - August 2013"
 permalink: /archives/2013/08/great_offers_from_your_local_traders_august_2013.html
+commentfile: 2013-08-15-great_offers_from_your_local_traders_august_2013
 category: around_town
 date: 2013-08-15 21:02:35
 excerpt: |
@@ -20,3 +21,9 @@ h4. Details
 
 * "Page 1":http://www.stmgrts.org.uk/images//St-Margarets-Promo-Leaflet-Aug-2013-1.jpg
 * "Page 2":http://www.stmgrts.org.uk/images//St-Margarets-Promo-Leaflet-Aug-2013-2.jpg
+
+
+
+
+
+{% include comments.html %}

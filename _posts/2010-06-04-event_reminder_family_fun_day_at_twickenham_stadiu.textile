@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; FAMILY FUN DAY AT TWICKENHAM STADIUM - JUNE 5th "
 permalink: /archives/2010/06/event_reminder_family_fun_day_at_twickenham_stadiu.html
+commentfile: 2010-06-04-event_reminder_family_fun_day_at_twickenham_stadiu
 category: around_town
 date: 2010-06-04 09:05:42
 
@@ -19,3 +20,9 @@ The fun kicks off at 12.00 noon and admission is FREE!!!
 Public parking will be available in the North Car Park on Rugby Road.  Pedestrian entrance is at the West Car Park/Gate 2 on Whitton Road.
 
 For more information Email: "frasercullen@rfu.com":mailto:frasercullen@rfu.com
+
+
+
+
+
+{% include comments.html %}

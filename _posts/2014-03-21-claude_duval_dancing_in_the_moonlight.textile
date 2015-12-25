@@ -2,6 +2,7 @@
 layout: post
 title: "Claude Duval - Dancing in the Moonlight"
 permalink: /archives/2014/03/claude_duval_dancing_in_the_moonlight.html
+commentfile: 2014-03-21-claude_duval_dancing_in_the_moonlight
 category: around_town
 date: 2014-03-21 23:15:37
 excerpt: |
@@ -77,3 +78,7 @@ h4. Rogue's Gallery featuring Vic Reeves.
 <em>Credit: Claude Duval painting by William Powell Frith 1860</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

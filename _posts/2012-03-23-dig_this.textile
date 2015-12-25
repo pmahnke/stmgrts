@@ -2,6 +2,7 @@
 layout: post
 title: "Dig This!"
 permalink: /archives/2012/03/dig_this.html
+commentfile: 2012-03-23-dig_this
 category: around_town
 date: 2012-03-23 14:35:19
 excerpt: |
@@ -49,3 +50,7 @@ Our allotment is gently reverting back to what it once was, a small part of "Lon
 <cite>-- from Martyn Day</cite>
 
 <em>Credits: The photographs taken at Cole Park allotments are by Amanda Day.</em>
+
+
+
+{% include comments.html %}

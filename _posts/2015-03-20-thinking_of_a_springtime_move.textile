@@ -2,6 +2,7 @@
 layout: post
 title: "Thinking of a springtime move?"
 permalink: /archives/2015/03/thinking_of_a_springtime_move.html
+commentfile: 2015-03-20-thinking_of_a_springtime_move
 category: around_town
 date: 2015-03-20 09:08:12
 
@@ -16,3 +17,9 @@ If you are thinking of moving to a smaller or more manageable property, sheltere
 Interested? Please&nbsp;call&nbsp;0845 600 1090 for more information or visit "www.ageukrichmond.org.uk":http://www.ageukrichmond.org.uk
 
 _Working in partnership with Seamless Relocation._
+
+
+
+
+
+{% include comments.html %}

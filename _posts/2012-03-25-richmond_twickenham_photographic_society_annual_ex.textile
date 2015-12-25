@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond & Twickenham Photographic Society&#58; Annual Exhibition 2012 - 4 to 15 April 2012"
 permalink: /archives/2012/03/richmond_twickenham_photographic_society_annual_ex.html
+commentfile: 2012-03-25-richmond_twickenham_photographic_society_annual_ex
 category: around_town
 date: 2012-03-25 10:13:05
 excerpt: |
@@ -36,3 +37,7 @@ h4. More Information
 ** Weekends, Good Friday & Easter Monday: 10am - 6.30pm.
 * Admission &pound;1.50
 * Further information available from 020 8977 7558 or "www.rtps.org.uk":http://www.rtps.org.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond Community Choir Christmas Concert - 12 December 2013"
 permalink: /archives/2013/12/event_reminder_richmond_community_choir_christmas_1.html
+commentfile: 2013-12-03-event_reminder_richmond_community_choir_christmas_1
 category: around_town
 date: 2013-12-03 21:13:09
 excerpt: |
@@ -20,3 +21,7 @@ h4. More Information
 * Admission &pound;5 (children free).
 * Interval refreshments will be available.
 * Tickets available on the door but may be reserved by emailing "richmondchoral@gmail.com":mailto:richmondchoral@gmail.com
+
+
+
+{% include comments.html %}

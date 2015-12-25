@@ -2,6 +2,7 @@
 layout: post
 title: "Fairtrade Flies the Flag at Schools' Tea Party"
 permalink: /archives/2011/03/fairtrade_flies_the_flag_at_schools_tea_party.html
+commentfile: 2011-03-17-fairtrade_flies_the_flag_at_schools_tea_party
 category: news
 date: 2011-03-17 19:21:24
 excerpt: |
@@ -20,3 +21,9 @@ All participating schools were invited to a tea party with the Deputy Mayor at w
 At Lady Eleanor Holles school teachers walked the catwalk in Fairtrade cotton t-shirts decorated by the girls to convey the message of fair trade.
 
 Become a Fairtrade School and help meet the inclusion, participation, food and drink and global dimension Sustainable Schools' doorways: "www.fairtrade.org.uk/schools":http://www.fairtrade.org.uk/schools/
+
+
+
+
+
+{% include comments.html %}

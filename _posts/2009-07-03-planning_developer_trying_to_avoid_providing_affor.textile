@@ -2,6 +2,7 @@
 layout: post
 title: "Planning&#58; Developer trying to avoid providing affordable housing"
 permalink: /archives/2009/07/planning_developer_trying_to_avoid_providing_affor.html
+commentfile: 2009-07-03-planning_developer_trying_to_avoid_providing_affor
 category: around_town
 date: 2009-07-03 10:45:59
 
@@ -39,3 +40,6 @@ Essentially it looks like they are trying to avoid the requirement to build a ce
 This might be of interest to some of your readers who may feel inclined to add their own comments on the matter!
 
 <cite>-- from Ed Randall</cite>
+
+
+{% include comments.html %}

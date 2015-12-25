@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Contemporary Textiles Fair - 6 to 8 March 2015"
 permalink: /archives/2015/02/event_reminder_contemporary_textiles_fair_6_to_8_m.html
+commentfile: 2015-02-24-event_reminder_contemporary_textiles_fair_6_to_8_m
 category: around_town
 date: 2015-02-24 06:39:08
 excerpt: |
@@ -31,3 +32,9 @@ h4. More Information
 ** Saturday & Sunday - 10am to 5pm
 * Visit "www.landmarkartscentre.org":http://www.landmarkartscentre.org
 * email "meg@landmarkartscentre.org":mailto:meg@landmarkartscentre.org
+
+
+
+
+
+{% include comments.html %}

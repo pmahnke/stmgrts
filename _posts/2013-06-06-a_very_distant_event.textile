@@ -2,6 +2,7 @@
 layout: post
 title: "A Very Distant Event"
 permalink: /archives/2013/06/a_very_distant_event.html
+commentfile: 2013-06-06-a_very_distant_event
 category: around_town
 date: 2013-06-06 21:57:25
 excerpt: |
@@ -70,3 +71,6 @@ h4. Documentary about that day in 1953 - B&W and colour
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

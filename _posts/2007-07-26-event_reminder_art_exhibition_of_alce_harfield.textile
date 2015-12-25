@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Exhibition of Alce Harfield"
 permalink: /archives/2007/07/event_reminder_art_exhibition_of_alce_harfield.html
+commentfile: 2007-07-26-event_reminder_art_exhibition_of_alce_harfield
 category: around_town
 date: 2007-07-26 09:59:53
 
@@ -16,3 +17,8 @@ Alce studied at Worthing College of Art and paints in acrylics on canvas and pap
 The show runs from "Saturday 28th July to Saturday 11th August":http://www.stmgrts.org.uk/event/exhibition/200705141668 at Par Ici on Church Street in Twickenham.
 
 There is a _preview evening_ with glass of wine on Friday 27th July, 19.30 - 21.00.
+
+
+
+
+{% include comments.html %}

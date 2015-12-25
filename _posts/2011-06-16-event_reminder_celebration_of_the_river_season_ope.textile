@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Celebration of the River Season Opening - 19 June 2011"
 permalink: /archives/2011/06/event_reminder_celebration_of_the_river_season_ope.html
+commentfile: 2011-06-16-event_reminder_celebration_of_the_river_season_ope
 category: around_town
 date: 2011-06-16 09:02:36
 excerpt: |
@@ -31,3 +32,9 @@ The Thames Anglers Conservancy running a "free event on Sunday, 19 June 2011":ht
 
 
 "For more information...":http://www.rivertac.org/site/?page_id=62
+
+
+
+
+
+{% include comments.html %}

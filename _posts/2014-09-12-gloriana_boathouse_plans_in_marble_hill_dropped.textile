@@ -2,6 +2,7 @@
 layout: post
 title: "Gloriana Boathouse Plans in Marble Hill Dropped"
 permalink: /archives/2014/09/gloriana_boathouse_plans_in_marble_hill_dropped.html
+commentfile: 2014-09-12-gloriana_boathouse_plans_in_marble_hill_dropped
 category: news
 date: 2014-09-12 14:49:56
 
@@ -33,3 +34,7 @@ bq.. "Gloriana deserves to - and I am sure will - find a home where she is welco
 p. Speaking on behalf of Gloriana Lord Sterling stated: "We were kindly invited to work with Richmond Council on a study to assess the feasibility of building a permanent home for The Queen's Rowbarge, Gloriana, in Richmond. Sadly, the consultation carried out following the feasibility study showed that there is opposition to using this particular site. We have therefore decided to explore further locations along the river."
 
 <cite>-- from a "Richmond Council press release":http://www.richmond.gov.uk/home/council/news/older_news/september_2014/potential_borough_home_for_gloriana_not_to_proceed.htm - 11 September 2014</cite>
+
+
+
+{% include comments.html %}

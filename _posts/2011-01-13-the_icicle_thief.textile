@@ -2,6 +2,7 @@
 layout: post
 title: "The Icicle Thief"
 permalink: /archives/2011/01/the_icicle_thief.html
+commentfile: 2011-01-13-the_icicle_thief
 category: around_town
 date: 2011-01-13 09:09:06
 excerpt: |
@@ -56,3 +57,6 @@ Jonathan Simpson, highwayman, footpad and expert skater was hanged at Tyburn on 
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

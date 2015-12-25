@@ -2,6 +2,7 @@
 layout: post
 title: "Lidl in East Twickenham"
 permalink: /archives/2014/11/lidl_in_east_twickenham.html
+commentfile: 2014-11-14-lidl_in_east_twickenham
 category: news
 date: 2014-11-14 08:46:55
 excerpt: |
@@ -20,3 +21,11 @@ They have sent a letter to many local residents looking for support.  It appears
 There is a website with more information "www.richmondroad.lidl.co.uk":http://www.richmondroad.lidl.co.uk and an online petition to support the idea "www.gopetition.com/petitions/support-lidl-in-twickenham.html":http://www.gopetition.com/petitions/support-lidl-in-twickenham.html.
 
 _What do you think?_
+
+
+
+
+
+
+
+{% include comments.html %}

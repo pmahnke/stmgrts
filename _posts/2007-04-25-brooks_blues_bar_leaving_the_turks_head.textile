@@ -2,6 +2,7 @@
 layout: post
 title: "Brooks Blues Bar Leaving the Turks Head"
 permalink: /archives/2007/04/brooks_blues_bar_leaving_the_turks_head.html
+commentfile: 2007-04-25-brooks_blues_bar_leaving_the_turks_head
 category: news
 date: 2007-04-25 19:36:46
 
@@ -18,3 +19,6 @@ bq.. Brooks Blues Bar has had a most enjoyable seven months at the Turks Head wi
 Brooks Blues Bar thanks all of its regulars and the musicians for their support at The Turks Head, the very helpful management of The Turks Head and is also very grateful to St Margarets Community Website for posting Brooks Blues Bar past weekly events thereon.
  
 Many thanks to one and all and we hope to see you Fridays at The Telegraph on Putney Heath and/or on Thursday 7th June at The Green Note in Camden Town (limited number of advance tickets available from WeGotTickets)."
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Ladies! Want To Be A Rock 'N' Roll Star?"
 permalink: /archives/2012/11/ladies_want_to_be_a_rock_n_roll_star.html
+commentfile: 2012-11-30-ladies_want_to_be_a_rock_n_roll_star
 category: around_town
 date: 2012-11-30 12:38:21
 excerpt: |
@@ -25,3 +26,9 @@ You can? You do? You are?!! Then you might be just the person that a St Margaret
 Age and experience are immaterial. All that is needed is a good voice, enthusiasm and the ability to shake a tail feather!
 
 For more information please contact Billy Sincere on 020 8892 5211 or "martyn@days.demon.co.uk":mailto:martyn@days.demon.co.uk
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Alice Ayres - A Secular Saint"
 permalink: /archives/2013/03/alice_ayres_a_secular_saint.html
+commentfile: 2013-03-01-alice_ayres_a_secular_saint
 category: around_town
 date: 2013-03-01 09:44:49
 excerpt: |
@@ -77,3 +78,6 @@ h4. A short film about the'Memorial to Heroic Self Sacrifice' in Postman's Park.
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

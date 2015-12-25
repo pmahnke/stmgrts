@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Therapy Charity - 14 November 2011"
 permalink: /archives/2011/11/event_reminder_the_therapy_charity_14_november_201.html
+commentfile: 2011-11-10-event_reminder_the_therapy_charity_14_november_201
 category: around_town
 date: 2011-11-10 07:44:10
 
@@ -29,3 +30,8 @@ h4. More Information
 * Tracy 07828 260614
 * Kate 020 8404 9374
 * Christmas vouchers available
+
+
+
+
+{% include comments.html %}

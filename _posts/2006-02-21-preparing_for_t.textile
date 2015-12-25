@@ -2,6 +2,7 @@
 layout: post
 title: "Preparing for the 2006 St Margarets' Fair"
 permalink: /archives/2006/02/preparing_for_t.html
+commentfile: 2006-02-21-preparing_for_t
 category: news
 date: 2006-02-21 10:58:57
 
@@ -29,3 +30,8 @@ Harry is in charge of the music.
 * *John I'anson*
 "ianson@btinternet.com":mailto:ianson@btinternet.com
 John is the chair of the committee.
+
+
+
+
+{% include comments.html %}

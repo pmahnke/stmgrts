@@ -2,6 +2,7 @@
 layout: post
 title: "The 'Austerity' Games -  July 29 to August 14 1948"
 permalink: /archives/2012/08/the_austerity_games_july_29_to_august_14_1948_1.html
+commentfile: 2012-08-02-the_austerity_games_july_29_to_august_14_1948_1
 category: around_town
 date: 2012-08-02 18:39:16
 excerpt: |
@@ -94,3 +95,6 @@ Some of the material in this article first appeared in the "St Margarets Communi
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

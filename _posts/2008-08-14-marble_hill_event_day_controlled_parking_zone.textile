@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Event Day Controlled Parking Zone"
 permalink: /archives/2008/08/marble_hill_event_day_controlled_parking_zone.html
+commentfile: 2008-08-14-marble_hill_event_day_controlled_parking_zone
 category: news
 date: 2008-08-14 11:26:06
 
@@ -22,3 +23,8 @@ All other parking will not be controlled and will remain free.
 All current resident, business or operational permits, valid in either zones F or S, are automatically valid in the Event Day CPZ.
 
 <cite>-- from the "Richmond Council website":http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/marble_hill_event_day_controlled_parking_zone.htm</cite>
+
+
+
+
+{% include comments.html %}

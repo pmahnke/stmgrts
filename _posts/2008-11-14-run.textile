@@ -2,6 +2,7 @@
 layout: post
 title: "run"
 permalink: /archives/2008/11/run.html
+commentfile: 2008-11-14-run
 category: news
 date: 2008-11-14 10:48:28
 
@@ -14,3 +15,10 @@ Starting January 2009, I am introducing a new circuit-style class in Marble Hill
 I also run regular local running groups, circuits classes, early morning bootcamps and personal training for men and women, as well as sports classes for pre-schoolers and infants, all held in Marble Hill and Moormead parks. Call Georgie Islip for more information on 07736 070612 or email "georgie@run.uk.net":mailto:georgie@run.uk.net.
 
 -- from _run by Georgie Islip_, previously known as _GEO lifestyle_
+
+
+
+
+
+
+{% include comments.html %}

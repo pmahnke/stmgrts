@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Queen's Diamond Jubilee Richmond Park - 15 May 2012"
 permalink: /archives/2012/05/event_reminder_queens_diamond_jubilee_richmond_par.html
+commentfile: 2012-05-11-event_reminder_queens_diamond_jubilee_richmond_par
 category: around_town
 date: 2012-05-11 09:09:17
 excerpt: |
@@ -20,3 +21,9 @@ The event is made up of three main zones - the Recreation zone, the Conservation
 The public festival will be held on the sports pitches between the Sheen Gate and the Roehampton Gate, starting at 11.00am. For those wanting to get a glimpse of The Queen on her drive into the park, she will be arriving at Richmond Park's Sheen Gate in the early afternoon. Exact timings will be announced the day before the visit.
 
 <cite>-- from the "Richmond Council website":http://www.richmond.gov.uk/diamond_jubilee</cite>
+
+
+
+
+
+{% include comments.html %}

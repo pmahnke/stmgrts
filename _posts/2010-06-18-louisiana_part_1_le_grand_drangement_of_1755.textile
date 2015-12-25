@@ -2,6 +2,7 @@
 layout: post
 title: "Louisiana Part 1&#58; Le Grand D&#233;Rangement of 1755"
 permalink: /archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html
+commentfile: 2010-06-18-louisiana_part_1_le_grand_drangement_of_1755
 category: around_town
 date: 2010-06-18 09:06:43
 excerpt: |
@@ -90,3 +91,6 @@ Meekly she bowed her own, and murmured," Father, I thank thee!"
 
 
 p. <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

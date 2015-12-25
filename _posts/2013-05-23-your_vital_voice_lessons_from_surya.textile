@@ -2,6 +2,7 @@
 layout: post
 title: "Your Vital Voice - Lessons from Surya"
 permalink: /archives/2013/05/your_vital_voice_lessons_from_surya.html
+commentfile: 2013-05-23-your_vital_voice_lessons_from_surya
 category: around_town
 date: 2013-05-23 22:29:45
 excerpt: |
@@ -24,3 +25,7 @@ Songs and chants have been used across cultures and ages for worship, motivation
 Vital Voices meets on Weds at ETNA Community Centre 13 Rosslyn Rd, TW1 2AR  from 12.30-2.30pm usually in term-time, sessions &pound;10 or there are discounts if you pay at the start of a half-term block (5 or 6 weeks)
 
 For more info contact "www.vitalvoices.co.uk":http://www.vitalvoices.co.uk or phone 07770 993289
+
+
+
+{% include comments.html %}

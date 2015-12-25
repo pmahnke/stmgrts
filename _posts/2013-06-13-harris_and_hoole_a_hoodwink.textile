@@ -2,6 +2,7 @@
 layout: post
 title: "Harris + Hoole = A Hoodwink?"
 permalink: /archives/2013/06/harris_and_hoole_a_hoodwink.html
+commentfile: 2013-06-13-harris_and_hoole_a_hoodwink
 category: around_town
 date: 2013-06-13 22:15:01
 excerpt: |
@@ -81,3 +82,7 @@ bq. "Feb. 3<sup>rd</sup>, 1664. In Covent Garden to-night, going to fetch home m
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

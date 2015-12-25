@@ -2,6 +2,7 @@
 layout: post
 title: "BedBUGS"
 permalink: /archives/2011/06/bedbugs.html
+commentfile: 2011-06-16-bedbugs
 category: around_town
 date: 2011-06-16 12:58:11
 excerpt: |
@@ -100,3 +101,6 @@ h4. Julie Felix - Mummy's taking us to the Zoo tomorrow.
 "See a slideshow with more pictures on flickr":http://www.flickr.com//photos/mahnke/sets/72157626955219526/show/
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

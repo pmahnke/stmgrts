@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Mini-Fest! Part of Boris' Showtime"
 permalink: /archives/2012/07/event_reminder_minifest_part_of_boris_showtime.html
+commentfile: 2012-07-08-event_reminder_minifest_part_of_boris_showtime
 category: around_town
 date: 2012-07-08 09:47:34
 excerpt: |
@@ -32,3 +33,7 @@ h4. Tuesday 14 August 12pm - 5pm
 Kew Green,
 Richmond,
 TW9 3BH
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Letter from Councillor Hambidge"
 permalink: /archives/2005/07/letter_from_cou.html
+commentfile: 2005-07-08-letter_from_cou
 category: news
 date: 2005-07-08 15:26:21
 
@@ -48,3 +49,6 @@ Jason Debney explained why and what was needed to enable  the refurbishing of th
 Let me "cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk  know if you have any thoughts on how to continue to improve & make St Margaret's 'the place to be'.
  
 This website will provide a marvellous opportunity to keep 'the heart of St Margaret's' beating.
+
+
+{% include comments.html %}

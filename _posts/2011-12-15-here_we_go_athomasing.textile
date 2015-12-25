@@ -2,6 +2,7 @@
 layout: post
 title: "'Here We Go a'Thomasing!'"
 permalink: /archives/2011/12/here_we_go_athomasing.html
+commentfile: 2011-12-15-here_we_go_athomasing
 category: around_town
 date: 2011-12-15 23:31:08
 excerpt: |
@@ -83,3 +84,6 @@ The Guide was produced in response to a survey carried out in 2009 that suggeste
 This was not the experience in North St Margarets. Despite the pouring rain residents seemed more than happy to open their doors and to give generously to the Shooting Star Children's Hospice (See Point 2 on the Carol Singing Check List)... and when the wind and  rain reached Gale Force 11 the entire choir took a tip from St Thomas himself and retired to the pub to find the Christmas spirit!
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

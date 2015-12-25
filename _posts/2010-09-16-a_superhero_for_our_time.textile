@@ -2,6 +2,7 @@
 layout: post
 title: "A Superhero for Our Time"
 permalink: /archives/2010/09/a_superhero_for_our_time.html
+commentfile: 2010-09-16-a_superhero_for_our_time
 category: around_town
 date: 2010-09-16 21:01:02
 excerpt: |
@@ -69,3 +70,7 @@ I believe that he is still there in his cave living on a diet of nuts and berrie
 Now isn't that the kind of superhero that we need?
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

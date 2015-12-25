@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Be Nice to Nettles"
 permalink: /archives/2010/05/event_reminder_be_nice_to_nettles.html
+commentfile: 2010-05-25-event_reminder_be_nice_to_nettles
 category: around_town
 date: 2010-05-25 17:31:11
 
@@ -21,3 +22,9 @@ Contact the Ranger Team for any enquires:
 * Ranger Mobile: 0782 568 0709	
 * Children must be accompanied by an adult.
 * Meeting point: In front of Marble Hill House at 12:00pm
+
+
+
+
+
+{% include comments.html %}

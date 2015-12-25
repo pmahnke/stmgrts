@@ -2,6 +2,7 @@
 layout: post
 title: "Sign-up for 5-a-Side Football at St Margarets Fair"
 permalink: /archives/2011/07/signup_for_5aside_football_at_st_margarets_fair.html
+commentfile: 2011-07-07-signup_for_5aside_football_at_st_margarets_fair
 category: around_town
 date: 2011-07-07 12:26:50
 
@@ -14,3 +15,9 @@ The matches will be held on the morning of the fair 16<sup>th</sup> July, starti
 We welcome submissions from schools, groups of friends, after-school clubs, churches etc... indeed any groups of boys and girls who live inside the borough.  There will be three different age groups for the boys and one age group for the girls.
 
 * "For more information and the application form...":http://www.stmargaretsfair.org/football.html
+
+
+
+
+
+{% include comments.html %}

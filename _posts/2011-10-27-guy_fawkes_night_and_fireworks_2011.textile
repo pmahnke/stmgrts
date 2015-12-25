@@ -2,6 +2,7 @@
 layout: post
 title: "Guy Fawkes Night and Fireworks 2011"
 permalink: /archives/2011/10/guy_fawkes_night_and_fireworks_2011.html
+commentfile: 2011-10-27-guy_fawkes_night_and_fireworks_2011
 category: around_town
 date: 2011-10-27 22:16:37
 excerpt: |
@@ -77,3 +78,7 @@ _The Lord Mayors Show London celebrates an 800 year London tradition in grand, h
 * display: 5pm
 * River Thames, between Waterloo Bridge and Blackfriars Bridge
 * Admission: Free
+
+
+
+{% include comments.html %}

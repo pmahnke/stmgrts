@@ -2,6 +2,7 @@
 layout: post
 title: "Can You Find Pirate Treasure in St Margarets?"
 permalink: /archives/2015/08/_under_the_cover_of.html
+commentfile: 2015-08-28-_under_the_cover_of
 category: around_town
 date: 2015-08-28 19:21:06
 excerpt: |
@@ -40,3 +41,10 @@ The more you find the better your chance of winning a share!
 Winners will be drawn at random. Gook luck, and get hunting!
 
 <iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/ZxezH0gOR_Y?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+{% include comments.html %}

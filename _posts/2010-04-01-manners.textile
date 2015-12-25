@@ -2,6 +2,7 @@
 layout: post
 title: "Manners"
 permalink: /archives/2010/04/manners.html
+commentfile: 2010-04-01-manners
 category: around_town
 date: 2010-04-01 10:43:17
 
@@ -54,3 +55,6 @@ bq. "We don't bother much about dress and manners in England, because as a natio
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

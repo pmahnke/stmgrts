@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Pilates Plus Open Day"
 permalink: /archives/2006/11/event_reminder_14.html
+commentfile: 2006-11-02-event_reminder_14
 category: around_town
 date: 2006-11-02 20:21:30
 
@@ -23,3 +24,7 @@ Sara Bellamy will be displaying the Forever Living Products Aloe Vera range, ans
 We do hope you will be able to join us and look forward to seeing you. Please RSVP by 11th November at  020 8892 3403. 
 
 <em>-- from Pilates Plus</em>
+
+
+
+{% include comments.html %}

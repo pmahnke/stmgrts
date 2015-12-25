@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Crown Road Community Fair and Music Festival - 4 to 8 June 2014"
 permalink: /archives/2014/05/st_margarets_crown_road_community_fair_and_music_f.html
+commentfile: 2014-05-17-st_margarets_crown_road_community_fair_and_music_f
 category: around_town
 date: 2014-05-17 14:53:50
 
@@ -37,3 +38,7 @@ h4. Sunday 8<sup>th</sup> June
 * After the Fair it's Open Mic Night at the Ailsa Tavern: 7.30 - 10.30pm
 
 Please check our :website":http://www.mystmargarets.com, "Facebook page":http://www.facebook.com/mystmags and "Twitter feed":http://www.twitter.com/mystmgrts for more information!
+
+
+
+{% include comments.html %}

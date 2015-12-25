@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; A Bigger Picture at Hounslow - 17 October 2014"
 permalink: /archives/2014/10/event_reminder_a_bigger_picture_at_hounslow_17_oct.html
+commentfile: 2014-10-09-event_reminder_a_bigger_picture_at_hounslow_17_oct
 category: around_town
 date: 2014-10-09 21:56:12
 excerpt: |
@@ -34,3 +35,9 @@ h4. More Information
 * When: 1.30pm, Friday 17 October 2014
 * Where: Paul Robeson Theatre, High St, Hounslow TW3 1ES
 * Admission free
+
+
+
+
+
+{% include comments.html %}

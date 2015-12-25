@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair 2007"
 permalink: /archives/2007/07/st_margarets_fair_2007.html
+commentfile: 2007-07-01-st_margarets_fair_2007
 category: news
 date: 2007-07-01 09:22:22
 excerpt: |
@@ -27,3 +28,9 @@ Our support this year is for the Alzheimer's Society, Heatham House and the Rich
 The Fair Committee have always strived to ensure that it remains primarily a Community event, and therefore we are always grateful for your support, and especially everyone living very close to Moormead. We all hope you have an enjoyable time in the sunshine we've come to expect for the day of the Fair.
  
 ??-- from The St Margarets Fair Committee??
+
+
+
+
+
+{% include comments.html %}

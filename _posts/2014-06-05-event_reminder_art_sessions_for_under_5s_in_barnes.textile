@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Sessions for Under 5s in Barnes"
 permalink: /archives/2014/06/event_reminder_art_sessions_for_under_5s_in_barnes.html
+commentfile: 2014-06-05-event_reminder_art_sessions_for_under_5s_in_barnes
 category: around_town
 date: 2014-06-05 21:31:07
 excerpt: |
@@ -26,3 +27,7 @@ h4. More Information
 * 4 week course : &pound;20, &pound;10 for additional siblings
 
 _Book a course of 4 sessions online at "www.ticketsource.co.uk/osoarts":http://www.ticketsource.co.uk/osoarts to confirm your place or drop-in on the day_
+
+
+
+{% include comments.html %}

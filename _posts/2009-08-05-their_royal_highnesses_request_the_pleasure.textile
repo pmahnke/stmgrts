@@ -2,6 +2,7 @@
 layout: post
 title: "Their Royal Highnesses Request the Pleasure..."
 permalink: /archives/2009/08/their_royal_highnesses_request_the_pleasure.html
+commentfile: 2009-08-05-their_royal_highnesses_request_the_pleasure
 category: around_town
 date: 2009-08-05 22:16:08
 excerpt: |
@@ -89,3 +90,7 @@ On Thursday 16<sup>th</sup> July a small party of Cubs and Scouts from the _1<su
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Beginner Ukulele Courses - Autumn 2013"
 permalink: /archives/2013/09/beginner_ukulele_courses_autumn_2013.html
+commentfile: 2013-09-19-beginner_ukulele_courses_autumn_2013
 category: around_town
 date: 2013-09-19 22:33:24
 
@@ -18,3 +19,7 @@ h4. More information
 * Times:Tuesday evenings 7.30pm - 9pm on October 15<sup>th</sup>, 22<sup>nd</sup> and November 5<sup>th</sup> 2013
 * Price is &pound;50 (&pound;45 if booked by  October 1<sup>st</sup>)
 * Contact Surya Cooper 07770 993289
+
+
+
+{% include comments.html %}

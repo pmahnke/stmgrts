@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Fairport Convention"
 permalink: /archives/2011/03/event_reminder_fairport_convention.html
+commentfile: 2011-03-10-event_reminder_fairport_convention
 category: around_town
 date: 2011-03-10 16:51:47
 excerpt: |
@@ -38,3 +39,9 @@ h4. Details
 * Buy tickets - "www.Brandywinemusic.co.uk":http://www.Brandywinemusic.co.uk
 * Or Call 07798 767770 / The Rugby Store, York St, Twickenham
 * or on the door
+
+
+
+
+
+{% include comments.html %}

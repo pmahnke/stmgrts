@@ -2,6 +2,7 @@
 layout: post
 title: "The Queen, The King, The Cubs and The Constitution"
 permalink: /archives/2011/04/the_queen_the_king_the_cubs_and_the_constitution.html
+commentfile: 2011-04-28-the_queen_the_king_the_cubs_and_the_constitution
 category: around_town
 date: 2011-04-28 10:22:14
 excerpt: |
@@ -28,3 +29,8 @@ Does this clean and precise 50/50 split mean that our monarchy is safe for the n
 As for me, I'll be creosoting the shed.
 
 ??Written by 'Akela'??
+
+
+
+
+{% include comments.html %}

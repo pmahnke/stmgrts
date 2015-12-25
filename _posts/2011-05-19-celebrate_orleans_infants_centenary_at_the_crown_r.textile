@@ -2,6 +2,7 @@
 layout: post
 title: "Celebrate Orleans Infants Centenary at the Crown Road St Margarets Fair"
 permalink: /archives/2011/05/celebrate_orleans_infants_centenary_at_the_crown_r.html
+commentfile: 2011-05-19-celebrate_orleans_infants_centenary_at_the_crown_r
 category: around_town
 date: 2011-05-19 16:11:22
 
@@ -32,3 +33,7 @@ Children's Magic Show and more! ~</strong>
 
 As the event is also a celebration of Orleans Infants School Centenary year
 -  so expect some 1911 themed fun!
+
+
+
+{% include comments.html %}

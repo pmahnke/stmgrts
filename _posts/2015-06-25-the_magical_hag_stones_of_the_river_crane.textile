@@ -2,6 +2,7 @@
 layout: post
 title: "The Magical Hag Stones of the River Crane"
 permalink: /archives/2015/06/the_magical_hag_stones_of_the_river_crane.html
+commentfile: 2015-06-25-the_magical_hag_stones_of_the_river_crane
 category: around_town
 date: 2015-06-25 22:57:45
 excerpt: |
@@ -53,3 +54,8 @@ Lauren Bacall really did take a boat ride up the Crane in 1985. She had heard th
 
 <em>Credit: Carys Thomson - University of Birmingham for advice on helicoidal erosion.
 </em>
+
+
+
+
+{% include comments.html %}

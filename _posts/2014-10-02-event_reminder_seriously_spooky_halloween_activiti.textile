@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Seriously Spooky Halloween Activities at Strawberry Hill"
 permalink: /archives/2014/10/event_reminder_seriously_spooky_halloween_activiti.html
+commentfile: 2014-10-02-event_reminder_seriously_spooky_halloween_activiti
 category: around_town
 date: 2014-10-02 22:09:34
 excerpt: |
@@ -32,3 +33,8 @@ Nick Smith, Director at Strawberry Hill said, "This is the second time Milestone
 "We are really pleased to lend our support to Strawberry Hill for the exciting Halloween week which includes the fantastic Murder Mystery evening.  There really is something for all both children and adults and it is certainly one week to make a date of in the diary!", said Antony Robson, Managing Director of Milestone & Collis, Twickenham.
 
 * "For further information on the week of Halloween activities":http://www.strawberryhillhouse.org.uk/events
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Air Commodore Charles Clarke OBE and Paddy O'Connell in Conversation"
 permalink: /archives/2015/11/event_reminder_air_commodore_charles_clarke_obe_an.html
+commentfile: 2015-11-13-event_reminder_air_commodore_charles_clarke_obe_an
 category: around_town
 date: 2015-11-13 19:11:15
 excerpt: |
@@ -26,3 +27,9 @@ h4. More Information
 * Doors and Bar open 7pm, talk starts 7.30pm
 
 _The Portcullis Trust is raising money for Learners with Learning Difficulties & Disabilities at Richmond Adult Community College_
+
+
+
+
+
+{% include comments.html %}

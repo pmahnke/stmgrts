@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Christmas Fair - 8 December 2013"
 permalink: /archives/2013/11/event_reminder_st_margarets_christmas_fair_8_decem.html
+commentfile: 2013-11-10-event_reminder_st_margarets_christmas_fair_8_decem
 category: around_town
 date: 2013-11-10 17:58:47
 excerpt: |
@@ -21,3 +22,8 @@ For further information please see "www.mystmargarets.com":http://www.mystmargar
 
 
 <em>Please note our community events, floral displays, Christmas trees and all that we do for your St Margarets are funded by you local independent traders with sponsorship help from the council and RFU. Corporate supermarkets and chain stores are not involved in these endeavours. Please consider this when shopping and remember... where you have a choice "Shop with the heart":http://www.mystmargarets.com</em>
+
+
+
+
+{% include comments.html %}

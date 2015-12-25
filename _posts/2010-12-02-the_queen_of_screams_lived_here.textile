@@ -2,6 +2,7 @@
 layout: post
 title: "The Queen of Screams Lived Here"
 permalink: /archives/2010/12/the_queen_of_screams_lived_here.html
+commentfile: 2010-12-02-the_queen_of_screams_lived_here
 category: around_town
 date: 2010-12-02 22:04:14
 excerpt: |
@@ -42,3 +43,9 @@ Ingrid also appeared in "Who Dares Wins" and on television in "Smiley's People" 
 bq. "My entire life was overshadowed by my childhood and the tormenting acts of violence and hate I had to witness. I survived the hell, but hardly anyone else did: 98 per cent of all deportees died. Surviving doesn't made one special - but it does make one extraordinarily lucky."
 
 <cite>-- from Martyn Day</cite> 
+
+
+
+
+
+{% include comments.html %}

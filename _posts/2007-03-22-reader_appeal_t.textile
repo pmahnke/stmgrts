@@ -2,6 +2,7 @@
 layout: post
 title: "Reader Appeal&#58; The Barons Road"
 permalink: /archives/2007/03/reader_appeal_t.html
+commentfile: 2007-03-22-reader_appeal_t
 category: around_town
 date: 2007-03-22 19:59:55
 
@@ -18,3 +19,8 @@ I have once again asked for their help.
 Can I ask through your Newsletter that other Barons residents, who feel the same, please report the problem to Richmond Council?"
 
 p. -- _from Mike Bowden_
+
+
+
+
+{% include comments.html %}

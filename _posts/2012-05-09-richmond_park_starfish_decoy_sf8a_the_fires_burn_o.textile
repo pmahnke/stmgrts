@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Park - Starfish Decoy Sf8A  - The Fires Burn On!"
 permalink: /archives/2012/05/richmond_park_starfish_decoy_sf8a_the_fires_burn_o.html
+commentfile: 2012-05-09-richmond_park_starfish_decoy_sf8a_the_fires_burn_o
 category: around_town
 date: 2012-05-09 08:11:14
 
@@ -29,3 +30,7 @@ The other photographs show an unidentified Starfish site and two different types
 <cite>-- from Martyn Day</cite>
 
 _Credit: All the photographs come from "Fields of Deception" by Colin Dobinson, an English Heritage publication covering the entire history of Britain's wartime bombing decoys_
+
+
+
+{% include comments.html %}

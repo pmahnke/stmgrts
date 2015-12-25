@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets for FRODO"
 permalink: /archives/2009/09/st_margarets_for_frodo.html
+commentfile: 2009-09-04-st_margarets_for_frodo
 category: around_town
 date: 2009-09-04 20:39:08
 excerpt: |
@@ -24,3 +25,8 @@ The next event is the "London Duathlon":http://www.thelondonduathlon.com, a team
 
 To sponsor the our team visit "www.justgiving.com/feet-for-frodo/":http://www.justgiving.com/feet-for-frodo/   or, to find out more about FRODO and how St Margarets is supporting it  visit "www.frodokids.org":http://www.frodokids.org/.
  
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Did you know that Visitor and Trader CPZ parking permits have gone electronic?"
 permalink: /archives/2010/11/did_you_know_that_visitor_and_trader_cpz_parking_p.html
+commentfile: 2010-11-11-did_you_know_that_visitor_and_trader_cpz_parking_p
 category: news
 date: 2010-11-11 20:26:46
 
@@ -13,3 +14,9 @@ On Monday 4 October the Council replaced the scratch cards used for visitor and 
 * "For more information...":http://stmgrts.org.uk/l/parkingpermits
 
 <cite>-- from Harry Jacobs</cite>
+
+
+
+
+
+{% include comments.html %}

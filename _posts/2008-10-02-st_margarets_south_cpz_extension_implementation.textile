@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets South CPZ Extension Implementation"
 permalink: /archives/2008/10/st_margarets_south_cpz_extension_implementation.html
+commentfile: 2008-10-02-st_margarets_south_cpz_extension_implementation
 category: news
 date: 2008-10-02 22:51:40
 
@@ -18,3 +19,8 @@ The zone will come into operation from Monday 20 October 2008 although full enfo
 	
 	
 -- from "Richmond Council's website":http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_changes/st_margarets_south_extension.htm
+
+
+
+
+{% include comments.html %}

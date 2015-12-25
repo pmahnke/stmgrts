@@ -2,6 +2,7 @@
 layout: post
 title: "Sign Up for the Silver Cross Pramathon - 23 June 2013"
 permalink: /archives/2013/05/sign_up_for_the_silver_cross_pramathon_23_june_201.html
+commentfile: 2013-05-05-sign_up_for_the_silver_cross_pramathon_23_june_201
 category: around_town
 date: 2013-05-05 09:24:08
 excerpt: |
@@ -23,3 +24,9 @@ We have just launched a brand new event the "Silver Cross Pramathon 2013":http:/
 * Peppa Pig!
 
 There will also be Milkshake! presenters, entertainers, stalls and even a couple of celebrities to cheer you on.
+
+
+
+
+
+{% include comments.html %}

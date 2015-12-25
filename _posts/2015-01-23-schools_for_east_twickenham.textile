@@ -2,6 +2,7 @@
 layout: post
 title: "Schools for East Twickenham"
 permalink: /archives/2015/01/schools_for_east_twickenham.html
+commentfile: 2015-01-23-schools_for_east_twickenham
 category: around_town
 date: 2015-01-23 14:01:24
 excerpt: |
@@ -36,3 +37,7 @@ Richmond Council's "educational use" may be completed in time to help next year'
 We want to demonstrate very clearly to the Council the strength of local feeling about the urgent need for a new primary school in East Twickenham. 
 
 * "Please sign our petition":http://e-voice.org.uk/etwickschool/
+
+
+
+{% include comments.html %}

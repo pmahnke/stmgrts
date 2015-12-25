@@ -2,6 +2,7 @@
 layout: post
 title: "Free Film Making Workshops for 14-24 Year Olds"
 permalink: /archives/2015/02/free_film_making_workshops_for_1424_year_olds.html
+commentfile: 2015-02-05-free_film_making_workshops_for_1424_year_olds
 category: around_town
 date: 2015-02-05 07:53:17
 excerpt: |
@@ -26,3 +27,8 @@ h4. More Information
 * <a href="//stmgrts.org.uk/assets/images/2015/Isabella_Plantation_Young_Creatives_Project_-__Sign_up_form_-_2015.pdf" title="Isabella Plantation Young Creatives Project  Sign up form   2015.pdf">Sign-up form</a> [pdf]
 * call Faron Woodbridge on 020 7922 1230 / 07816 766 073
 * or email "Faron.Woodbridge@groundwork.org.uk":mailto:Faron.Woodbridge@groundwork.org.uk
+
+
+
+
+{% include comments.html %}

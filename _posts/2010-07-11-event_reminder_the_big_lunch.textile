@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Big Lunch"
 permalink: /archives/2010/07/event_reminder_the_big_lunch.html
+commentfile: 2010-07-11-event_reminder_the_big_lunch
 category: around_town
 date: 2010-07-11 13:56:38
 
@@ -16,3 +17,9 @@ Recently we have seen communities coming together for various celebrations, but 
 To find out more about the The Big Lunch please visit "www.thebiglunch.com":http://www.thebiglunch.com
 
 -- from Ness Reddick
+
+
+
+
+
+{% include comments.html %}

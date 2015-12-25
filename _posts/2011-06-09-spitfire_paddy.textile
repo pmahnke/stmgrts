@@ -2,6 +2,7 @@
 layout: post
 title: "Spitfire Paddy"
 permalink: /archives/2011/06/spitfire_paddy.html
+commentfile: 2011-06-09-spitfire_paddy
 category: around_town
 date: 2011-06-09 13:10:17
 excerpt: |
@@ -123,3 +124,7 @@ Jean Woolford, fianc&#233;e of the late "Paddy" Finucane, has been married to a 
 <cite>-- from Martyn Day</cite>
 
 <em>CREDITS: THE PHOTOGRAPH OF JEAN WOOLFORD - DAILY MAIL</em>
+
+
+
+{% include comments.html %}

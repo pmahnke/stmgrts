@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Circus Roadworks - from July to October 2009"
 permalink: /archives/2009/07/richmond_circus_roadworks_from_july_to_october_200.html
+commentfile: 2009-07-12-richmond_circus_roadworks_from_july_to_october_200
 category: news
 date: 2009-07-12 22:05:35
 
@@ -18,3 +19,8 @@ There are seven phases for these works which will involve every approach at some
 # 1 week from Oct 13: restrictions on the north east corner of Richmond Circus.
 
 * "UK Road Alerts [Jul 06]":http://ukroads.mindtheblog.co.uk/2009/07/richmond-circus-richmond-upon-thames-5/
+
+
+
+
+{% include comments.html %}

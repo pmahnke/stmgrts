@@ -2,6 +2,7 @@
 layout: post
 title: "New&#58; Art Workshops for Kids and Parents"
 permalink: /archives/2012/10/new_art_workshops_for_kids_and_parents.html
+commentfile: 2012-10-27-new_art_workshops_for_kids_and_parents
 category: around_town
 date: 2012-10-27 20:02:18
 excerpt: |
@@ -30,3 +31,7 @@ h4. More Information
 * Cost: &pound;25 for one parent plus one child (joint price). &pound;10 per extra additional child.
 * Email: "annabelinda1@hotmail.com":mailto:annabelinda1@hotmail.com
 * Phone: 07970 451029
+
+
+
+{% include comments.html %}

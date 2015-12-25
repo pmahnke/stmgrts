@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond AID Boosts Advice Service for Disabled People"
 permalink: /archives/2013/05/richmond_aid_boosts_advice_service_for_disabled_pe.html
+commentfile: 2013-05-09-richmond_aid_boosts_advice_service_for_disabled_pe
 category: news
 date: 2013-05-09 21:31:37
 excerpt: |
@@ -28,3 +29,7 @@ Bob Caustick, a Volunteer Advisor with years of experience in social work adds: 
 They are available between 11.00am and 4.00pm Monday to Friday at the Disability Action and Advice Centre, 4 Waldegrave Road, Teddington, TW11 8HT and via the advice line on 020 8831 6070 or email "advice@richmondaid.org.uk":mailto:advice@richmondaid.org.uk.
 
 <cite>-- from a Richmond AID press release - 3 May 2013</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Ailsa Festival - 10 May 2013"
 permalink: /archives/2013/05/event_reminder_the_ailsa_festival_10_may_2013.html
+commentfile: 2013-05-16-event_reminder_the_ailsa_festival_10_may_2013
 category: around_town
 date: 2013-05-16 22:30:26
 excerpt: |
@@ -28,3 +29,6 @@ The aim of the "Rising Stars" talent contest, starting at 3pm on the Saturday af
 If you are interested in taking part in the talent contest, now open for applications, find out more from the festival web site link: "www.elainesamuels.co.uk":http://www.elainesamuels.co.uk/Ailsa%20Festival.htm
 
 <cite>-- from Elaine Samuels</cite>
+
+
+{% include comments.html %}

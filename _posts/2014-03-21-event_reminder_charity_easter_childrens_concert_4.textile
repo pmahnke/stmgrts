@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Easter Children's Concert - 4 April 2014"
 permalink: /archives/2014/03/event_reminder_charity_easter_childrens_concert_4.html
+commentfile: 2014-03-21-event_reminder_charity_easter_childrens_concert_4
 category: around_town
 date: 2014-03-21 22:37:40
 excerpt: |
@@ -26,3 +27,7 @@ h4. More Information
 * "Friday 4<sup>th</sup> April 2014, 10.00-10.45am (18 months +) 11.00-11.45am (3-18 months)":http://www.stmgrts.org.uk/event/concert/200705144388
 * Clarendon Hall, York House, Richmond Road, Twickenham, TW1 3AA
 * To find out more about the project please go to "www.moment-um.org/tempo-tots-music-therapy-project":http://www.moment-um.org/tempo-tots-music-therapy-project.
+
+
+
+{% include comments.html %}

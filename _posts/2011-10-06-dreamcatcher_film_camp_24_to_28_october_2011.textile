@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Film Camp - 24 to 28 October 2011"
 permalink: /archives/2011/10/dreamcatcher_film_camp_24_to_28_october_2011.html
+commentfile: 2011-10-06-dreamcatcher_film_camp_24_to_28_october_2011
 category: around_town
 date: 2011-10-06 09:22:15
 
@@ -20,3 +21,7 @@ This Mid-term break the Camp for 8 - 16 year olds will run at Cole Court, London
 Children come for five days 9-2pm and learn the basic principles of filmmaking. They learn to plan, script, and direct a movie and put this learning into action when they form a production team to make their own short film. Along the way, they get to play the range of different production roles including director, cameraperson, scriptwriter, sound operator and more.  Business Secretary Vince Cable MP has described these courses as "valuable and imaginative".
 
 Booking has started already, so if you'd like your child to have some exciting filming opportunities this mid-term break, please book now. You can book directly on our website "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk or by calling us at Twickenham Film Studios on 0208 607 7273. E-mail: "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Join the Offbeat Choir"
 permalink: /archives/2015/01/join_the_offbeat_choir.html
+commentfile: 2015-01-15-join_the_offbeat_choir
 category: around_town
 date: 2015-01-15 21:41:39
 
@@ -17,3 +18,9 @@ h4. More Information
 
 * "offbeatchoiruk@gmail.com":mailto:offbeatchoiruk@gmail.com
 * "www.facebook.com/richmondlondonchoir":http://www.facebook.com/richmondlondonchoir
+
+
+
+
+
+{% include comments.html %}

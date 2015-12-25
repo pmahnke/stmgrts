@@ -2,6 +2,7 @@
 layout: post
 title: "Turing's Poisoned Apple"
 permalink: /archives/2009/05/turings_poisoned_apple.html
+commentfile: 2009-05-21-turings_poisoned_apple
 category: around_town
 date: 2009-05-21 21:41:04
 excerpt: |
@@ -75,3 +76,7 @@ bq. "Machines take me by surprise with great frequency!"
 
 
 <cite>-- from Martyn Day</cite> 
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Barney in The Barons"
 permalink: /archives/2012/08/barney_in_the_barons.html
+commentfile: 2012-08-23-barney_in_the_barons
 category: around_town
 date: 2012-08-23 21:36:35
 excerpt: |
@@ -110,3 +111,6 @@ bq. 'Simon de Montfort... desired to put down the mighty and ruin their power...
 ??THOMAS WYKES, Chronicles (c. 1290)??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

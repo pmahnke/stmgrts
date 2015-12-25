@@ -2,6 +2,7 @@
 layout: post
 title: "Local Musician Kristin Yeatman Releases New Album"
 permalink: /archives/2010/12/local_musician_kristin_yeatman_releases_new_album.html
+commentfile: 2010-12-09-local_musician_kristin_yeatman_releases_new_album
 category: news
 date: 2010-12-09 18:31:54
 
@@ -25,3 +26,9 @@ h4. Upcoming Shows
 
 * 11 December 2010 - "The Teabox, Richmond":http://www.myspace.com/events/View/8605906/Kristin-Yeatman-Acoustic-Set
 * 18 December 2010 - "The Salutation pub, Hammersmith":http://www.myspace.com/events/View/8606066/Kristin-Yeatman-Live
+
+
+
+
+
+{% include comments.html %}

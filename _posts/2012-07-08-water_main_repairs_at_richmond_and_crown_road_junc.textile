@@ -2,6 +2,7 @@
 layout: post
 title: "Water Main Repairs at Richmond and Crown Road Junction - UPDATED until 20 July 2012"
 permalink: /archives/2012/07/water_main_repairs_at_richmond_and_crown_road_junc.html
+commentfile: 2012-07-08-water_main_repairs_at_richmond_and_crown_road_junc
 category: news
 date: 2012-07-08 17:30:33
 
@@ -24,3 +25,8 @@ We have consulted London Borough of Richmond upon Thames to ensure that traffic 
 If you need to contact us, please call our Customer Centre on 0845 641 0011, quoting your address and reference number CAP 5 / BB 104351 The lines are always open.
 
 <cite>-- from a MGJV letter</cite>
+
+
+
+
+{% include comments.html %}

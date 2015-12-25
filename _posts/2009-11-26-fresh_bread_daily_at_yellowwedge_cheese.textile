@@ -2,6 +2,7 @@
 layout: post
 title: "Fresh Bread Daily at Yellowwedge Cheese!"
 permalink: /archives/2009/11/fresh_bread_daily_at_yellowwedge_cheese.html
+commentfile: 2009-11-26-fresh_bread_daily_at_yellowwedge_cheese
 category: around_town
 date: 2009-11-26 13:52:29
 
@@ -14,3 +15,8 @@ From Friday 27<sup>th</sup> November we'll be stocking bread from our award winn
 We have also included a range of favourites for Christmas pre-order - details in store.
 
 ??from "yellowwedge cheese":http://www.yellowwedge.com/??
+
+
+
+
+{% include comments.html %}

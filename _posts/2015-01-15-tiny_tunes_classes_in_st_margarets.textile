@@ -2,6 +2,7 @@
 layout: post
 title: "Tiny Tunes Classes in St Margarets"
 permalink: /archives/2015/01/tiny_tunes_classes_in_st_margarets.html
+commentfile: 2015-01-15-tiny_tunes_classes_in_st_margarets
 category: around_town
 date: 2015-01-15 21:18:14
 excerpt: |
@@ -22,3 +23,9 @@ h4. More Information
 * cost just &pound;5, with a sibling / childminder rate of &pound;2.50
 * "www.tinytuneslive.com":http://www.tinytuneslive.com
 * "info@tinytuneslive.com":mailto:info@tinytuneslive.com
+
+
+
+
+
+{% include comments.html %}

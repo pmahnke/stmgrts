@@ -2,6 +2,7 @@
 layout: post
 title: "Lenten Project 2006"
 permalink: /archives/2006/09/lenten_project.html
+commentfile: 2006-09-27-lenten_project
 category: news
 date: 2006-09-27 08:35:49
 excerpt: |
@@ -18,3 +19,6 @@ On the 9th April we "posted information":http://www.stmgrts.org.uk/archives/2006
 Two other beneficiaries have received &pound;2000 each from the funds raised: 'Medicins sans Frontieres' for their work in the Pakistan Kashmir earthquake disaster, and the Comboni Sisters at Redeemer Children's Home in Northern Uganda, who provide refuge for children who have escaped from the clutches of the Lord's Resistance Army, and are badly scarred by their experiences and need intense and long-term care, love and education to help them return to any sort of normal life.
 
 So your donations have been passed on and are currently making a difference to the lives of people we are unlikely to ever meet. Fr John writes "CAFOD say they intend to use our experience in their publications to encourage others, and you may even be seeing some reference to your generosity in our local press shortly. On behalf of all who have benefited, THANK YOU!" 
+
+
+{% include comments.html %}

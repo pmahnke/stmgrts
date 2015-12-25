@@ -2,6 +2,7 @@
 layout: post
 title: "Twickerati&#58; School Debate Gets El Brute Airing"
 permalink: /archives/2011/09/twickerati_school_debate_gets_el_brute_airing.html
+commentfile: 2011-09-13-twickerati_school_debate_gets_el_brute_airing
 category: news
 date: 2011-09-13 14:07:01
 excerpt: |
@@ -26,3 +27,8 @@ So, to summarise where we are in the great Roman Catholic secondary school debat
 ??Twickerati - 13 September 2011??
 
 "Continue reading on twickerati.wordpress.com":http://stmgrts.org.uk/l/VaG7l
+
+
+
+
+{% include comments.html %}

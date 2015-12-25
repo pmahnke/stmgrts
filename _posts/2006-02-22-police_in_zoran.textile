@@ -2,6 +2,7 @@
 layout: post
 title: "Police in Zorans"
 permalink: /archives/2006/02/police_in_zoran.html
+commentfile: 2006-02-22-police_in_zoran
 category: news
 date: 2006-02-22 09:00:50
 
@@ -23,3 +24,6 @@ At the moment the police are concerned about a number of burglaries in the area.
 If you see anyone acting suspiciously don’t be afraid to call 999 in an emergency.
 
 If you would like to contact PC Richens but can’t get to the surgery in Zorans you can email him on "alan.ej.richens@met.police.uk":mailto:alan.ej.richens@met.police.uk or call 07879 432330.
+
+
+{% include comments.html %}

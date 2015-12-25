@@ -2,6 +2,7 @@
 layout: post
 title: "Childminder"
 permalink: /archives/2008/11/childminder.html
+commentfile: 2008-11-14-childminder
 category: around_town
 date: 2008-11-14 11:02:45
 
@@ -24,3 +25,8 @@ All children receive:
 My hours are 8am to 6pm and I have spaces available now for January 2009 but they are going fast.
 
 For more information please call 07 9399 74946 or email "janellandmike@yahoo.com.au":mailto:janellandmike@yahoo.com.au.
+
+
+
+
+{% include comments.html %}

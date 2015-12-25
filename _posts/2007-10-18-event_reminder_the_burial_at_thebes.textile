@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Burial at Thebes"
 permalink: /archives/2007/10/event_reminder_the_burial_at_thebes.html
+commentfile: 2007-10-18-event_reminder_the_burial_at_thebes
 category: around_town
 date: 2007-10-18 20:58:06
 
@@ -20,3 +21,8 @@ The tensions between obligations to family and state, obedience to the gods and 
 Director Stella Gheury de Bray says: "Heaney is one of our greatest-ever playwrights and a modern winner of the Nobel Prize for Literature. The play is full of evocative imagery in down-to-earth language, and although high tragedy, every character is true to life and believable."
 
 Performances are at 7.45pm on Saturday Oct 20th, Monday 22nd, Tuesday 23rd, and Thurs- Sat 24th -27th, matinees 4pm Sun 21st and 3pm Saturday 27th. Tickets &pound;7 or &pound;8, all performances non-smoking.
+
+
+
+
+{% include comments.html %}

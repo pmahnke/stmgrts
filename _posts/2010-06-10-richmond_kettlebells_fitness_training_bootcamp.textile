@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Kettlebells&#58; Fitness Training Bootcamp"
 permalink: /archives/2010/06/richmond_kettlebells_fitness_training_bootcamp.html
+commentfile: 2010-06-10-richmond_kettlebells_fitness_training_bootcamp
 category: around_town
 date: 2010-06-10 08:33:57
 
@@ -24,3 +25,9 @@ To book or for more information contact:
 * Phone: 07976 635 062
 * email: "info@richmondkettlebells.co.uk":mailto:info@richmondkettlebells.co.uk
 * web: "www.richmondkettlebells.co.uk":http://www.richmondkettlebells.co.uk/
+
+
+
+
+
+{% include comments.html %}

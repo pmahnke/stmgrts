@@ -2,6 +2,7 @@
 layout: post
 title: "Lady Gaga Coming to Twickenham - 8 September 2012"
 permalink: /archives/2012/04/lady_gaga_coming_to_twickenham_8_september_2012.html
+commentfile: 2012-04-11-lady_gaga_coming_to_twickenham_8_september_2012
 category: around_town
 date: 2012-04-11 08:57:22
 
@@ -18,3 +19,8 @@ She said: "The Haus of Gaga and I have worked for months conceiving a spectacula
 The 55,000-capacity show on September 8 will be her first in London since 2010, when she sold 68,000 tickets during six nights at the O2. Her tour schedule allows for two extra nights to be added.
 
 <cite>-- from the London Evening Standard - "10 April 2012":http://www.thisislondon.co.uk/showbiz/celebrity-news/lady-gaga-announces-most-spectacular-show-yet-for-london-7630727.html?origin=internalSearch</cite>
+
+
+
+
+{% include comments.html %}

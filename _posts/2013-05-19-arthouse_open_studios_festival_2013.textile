@@ -2,6 +2,7 @@
 layout: post
 title: "ARThouse Open Studios Festival 2013"
 permalink: /archives/2013/05/arthouse_open_studios_festival_2013.html
+commentfile: 2013-05-19-arthouse_open_studios_festival_2013
 category: around_town
 date: 2013-05-19 07:24:32
 excerpt: |
@@ -29,3 +30,10 @@ h4. More Information
 
 * "website":http://www.richmond.gov.uk/arthouse_open_studios
 * "list of events":http://www.stmgrts.org.uk/directory/art/201006031129
+
+
+
+
+
+
+{% include comments.html %}

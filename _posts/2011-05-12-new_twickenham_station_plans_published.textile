@@ -2,6 +2,7 @@
 layout: post
 title: "New Twickenham Station Plans Published"
 permalink: /archives/2011/05/new_twickenham_station_plans_published.html
+commentfile: 2011-05-12-new_twickenham_station_plans_published
 category: news
 date: 2011-05-12 12:23:18
 excerpt: |
@@ -26,3 +27,9 @@ bq. '... no affordable housing . . this approach has been agreed by the council 
 It seems clear that this application has been agreed by officers in advance & is expected to sail through. What will residents' group "TRAG-SOS":http://trag-sos.moonfruit.com/ have to say when they see what has been cooked up, I wonder?
 
 <cite>-- from Christopher Squire</cite>
+
+
+
+
+
+{% include comments.html %}

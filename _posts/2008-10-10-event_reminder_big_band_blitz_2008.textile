@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Big Band Blitz 2008"
 permalink: /archives/2008/10/event_reminder_big_band_blitz_2008.html
+commentfile: 2008-10-10-event_reminder_big_band_blitz_2008
 category: around_town
 date: 2008-10-10 22:14:36
 excerpt: |
@@ -49,3 +50,7 @@ The Museum of Richmond, Old Town Hall, Whittaker Avenue, Richmond, or by
 post from Aspects Productions,44 London Road, Twickenham, TW1 3RR
 * INQUIRIES
 020 8973 3605 or 07808 156797
+
+
+
+{% include comments.html %}

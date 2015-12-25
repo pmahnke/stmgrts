@@ -2,6 +2,7 @@
 layout: post
 title: "School Update & Meeting - 6 October 2009"
 permalink: /archives/2009/10/school_update_meeting_6_october_2009.html
+commentfile: 2009-10-02-school_update_meeting_6_october_2009
 category: news
 date: 2009-10-02 10:38:17
 excerpt: |
@@ -45,3 +46,8 @@ The extra money needs to be found to make sure that we continue to have two good
 The Council always knew that expanding St Stephen's would be tricky, so let's remind them that we will not be short-changed and they can't fob us off with emotive arguments about leaving children without school places. What is the point of adding an extra 60 places at St Stephen's if, as a result, the school cannot provide them, and the other 360 children already there, with a decent standard of education?
 
 So, come along on Tuesday, 6 October to hear the facts and have your say.
+
+
+
+
+{% include comments.html %}

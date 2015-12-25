@@ -2,6 +2,7 @@
 layout: post
 title: "Cod Liver Oil, London Zoo and Tigger"
 permalink: /archives/2011/05/cod_liver_oil_london_zoo_and_tigger.html
+commentfile: 2011-05-12-cod_liver_oil_london_zoo_and_tigger
 category: around_town
 date: 2011-05-12 11:21:11
 excerpt: |
@@ -82,3 +83,6 @@ h4. Dr. De Jongh's Cod Liver Oil song by the Dubliners
 <cite>-- from Martyn Day</cite>
 
 <em>CREDITS: The picture of Tigger and friends is by E.H Shepard</em>
+
+
+{% include comments.html %}

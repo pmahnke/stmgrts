@@ -2,6 +2,7 @@
 layout: post
 title: "Jack Dee wants You!"
 permalink: /archives/2008/06/jack_dee_wants_you.html
+commentfile: 2008-06-09-jack_dee_wants_you
 category: around_town
 date: 2008-06-09 20:39:20
 
@@ -17,3 +18,9 @@ We very much look forward to hearing from anyone who is interested in coming alo
 Many thanks.
  
 Open Mike Productions.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "A Busker Film"
 permalink: /archives/2010/11/a_busker_film.html
+commentfile: 2010-11-25-a_busker_film
 category: around_town
 date: 2010-11-25 18:38:10
 
@@ -16,3 +17,9 @@ Although the weather forecast was rain we actually had the most perfect weather;
 It's been entered in the London Short Film Festival so fingers crossed please."
 
 p. <cite>-- from Alister Cameron</cite>
+
+
+
+
+
+{% include comments.html %}

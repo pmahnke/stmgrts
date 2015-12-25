@@ -2,6 +2,7 @@
 layout: post
 title: "Site News&#58; New Forum"
 permalink: /archives/2007/05/site_news_new_forum.html
+commentfile: 2007-05-17-site_news_new_forum
 category: editorial
 date: 2007-05-17 22:05:08
 
@@ -28,3 +29,8 @@ So, "login":http://www.stmgrts.org.uk/forum.cgi?action=login or "register":http:
 
 
 fn1. A *Comment* is a sequential list of messages that are held with a single _article_, while *Forums* are a threaded list of messages that are held inside a _forum_.
+
+
+
+
+{% include comments.html %}

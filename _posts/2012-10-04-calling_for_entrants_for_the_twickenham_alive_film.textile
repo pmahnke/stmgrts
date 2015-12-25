@@ -2,6 +2,7 @@
 layout: post
 title: "Calling for Entrants for The Twickenham Alive Film Festival 2013"
 permalink: /archives/2012/10/calling_for_entrants_for_the_twickenham_alive_film.html
+commentfile: 2012-10-04-calling_for_entrants_for_the_twickenham_alive_film
 category: around_town
 date: 2012-10-04 22:00:51
 
@@ -33,3 +34,7 @@ h4. More Information
 * There will be screenings at various locations within the London Borough of Richmond upon Thames with a series of events leading up to the final screening and awards ceremony in April 2013.
 ( The closing date for entries is 1<sup>st</sup> March 2013 and the festival will culminate with a final event in late April 2013.
 * Please contact us if you would like further information or to discuss your film project at "film@twickenhamalive.com":mailto:film@twickenhamalive.com
+
+
+
+{% include comments.html %}

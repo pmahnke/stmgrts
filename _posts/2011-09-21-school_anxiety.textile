@@ -2,6 +2,7 @@
 layout: post
 title: "School Anxiety"
 permalink: /archives/2011/09/school_anxiety.html
+commentfile: 2011-09-21-school_anxiety
 category: news
 date: 2011-09-21 18:14:14
 excerpt: |
@@ -29,3 +30,9 @@ So, what are people doing about this? Where did you end up schooling your 4 or 5
 h4. More information
 
 * "Richmond Council's 10-year strategy for providing high quality primary school places":http://cabnet.richmond.gov.uk/mgConvert2PDF.aspx?ID=23723
+
+
+
+
+
+{% include comments.html %}

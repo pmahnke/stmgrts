@@ -2,6 +2,7 @@
 layout: post
 title: "The Good Wine Shop is Fully Stocked for the Summer!"
 permalink: /archives/2011/05/the_good_wine_shop_is_fully_stocked_for_the_summer.html
+commentfile: 2011-05-26-the_good_wine_shop_is_fully_stocked_for_the_summer
 category: around_town
 date: 2011-05-26 22:57:38
 excerpt: |
@@ -24,3 +25,9 @@ Simply mention that you saw The Good Wine Shop's article in the community newsle
 The Good Wine Shop is your local independent wine merchant that prides itself on sourcing quirky, interesting, good value wines from small producers around the world. Free delivery in the St Margarets area is available on all case purchases.
 
 You can keep up with all the new wines, special offers and wine-tasting events or tell us what you think of our wines at The Good Wine Shop via the new Twitter page (@thegoodwineshop) or visit our Facebook page. Alternatively come and visit our stall at the Summer Fair on Crown Road on Sunday 12<sup>th</sup> June 11am-5pm.
+
+
+
+
+
+{% include comments.html %}

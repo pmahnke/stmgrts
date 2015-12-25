@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets - Get Ready to Celebrate"
 permalink: /archives/2012/03/st_margarets_get_ready_to_celebrate.html
+commentfile: 2012-03-01-st_margarets_get_ready_to_celebrate
 category: news
 date: 2012-03-01 20:16:52
 
@@ -30,3 +31,7 @@ To book a stall at the fair please contact "events@mystmargarets.com":mailto:eve
 h3. Do your bit to help
 
 The new St Margarets shopper is now available throughout St Margarets including: Streets, Armstrongs, Cutters, The Chemist, Heirloom, Denham & Finney, Monica Mooney and Churchills Sales and Lettings offices. All of the profits from the sale of the bags will go towards our Jubilee celebrations - please support St Margarets by buying your bag.
+
+
+
+{% include comments.html %}

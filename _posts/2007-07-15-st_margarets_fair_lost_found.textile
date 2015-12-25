@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair &#58; Lost & Found"
 permalink: /archives/2007/07/st_margarets_fair_lost_found.html
+commentfile: 2007-07-15-st_margarets_fair_lost_found
 category: around_town
 date: 2007-07-15 22:19:06
 
@@ -23,3 +24,8 @@ Here is a list some found property:
 If you have lost anything, please call 020 8241 1042.
 
 Note: a few other found items are listed in the forum "here":http://stmgrts.org.uk/forum.cgi?action=jump&topic=Local%20News%20&%20Events&topic_id=2
+
+
+
+
+{% include comments.html %}

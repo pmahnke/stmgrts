@@ -2,6 +2,7 @@
 layout: post
 title: "Celebrating 40 Years of Amateur Theatre in Kew"
 permalink: /archives/2011/10/celebrating_40_years_of_amateur_theatre_in_kew.html
+commentfile: 2011-10-13-celebrating_40_years_of_amateur_theatre_in_kew
 category: around_town
 date: 2011-10-13 08:58:57
 excerpt: |
@@ -23,3 +24,9 @@ Helen Smith directs this exciting play by Alan Bennett. Full of wit and humour, 
 * Badger: Jon Coop
 
 Tickets are &pound;8.00 and &pound;6.00 concessions. The Box Office 0208 8766 551 (6.30 - 8.30pm) will be open from 12<sup>th</sup> November to take bookings - if necessary leave your name and contact number and we will confirm your booking.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Himalayan Balsam"
 permalink: /archives/2010/09/himalayan_balsam.html
+commentfile: 2010-09-10-himalayan_balsam
 category: around_town
 date: 2010-09-10 08:33:50
 excerpt: |
@@ -40,3 +41,6 @@ As well as producing a natural yellow dye the stems of Himalayan Balsam can be e
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

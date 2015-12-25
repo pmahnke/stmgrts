@@ -2,6 +2,7 @@
 layout: post
 title: "Local Children's Class Celebrate Pancake Day"
 permalink: /archives/2015/02/local_childrens_class_celebrate_pancake_day.html
+commentfile: 2015-02-14-local_childrens_class_celebrate_pancake_day
 category: around_town
 date: 2015-02-14 07:53:27
 excerpt: |
@@ -26,3 +27,9 @@ The parents seem to enjoy this challenge too, doing lots of demonstrating for th
 Catch-A-Balls are a local family-run friendly business that run classes designed to develop critical movement and ball-handling skills in young children. The multi-sports classes focus on developing good ball and racquet skills to enable the children to go on and enjoy the sport of their choice. Their classes run every day of the week at venues in Hampton, Teddington, Twickenham, and Richmond.
 
 A free trial class can be booked by visiting "www.catch-a-balls.co.uk":http://www.catch-a-balls.co.uk.
+
+
+
+
+
+{% include comments.html %}

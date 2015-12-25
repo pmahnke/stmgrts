@@ -2,6 +2,7 @@
 layout: post
 title: "Chiswick and Whitton Cricket Club - Summer 2015"
 permalink: /archives/2015/05/chiswick_and_whitton_cricket_club_summer_2015.html
+commentfile: 2015-05-08-chiswick_and_whitton_cricket_club_summer_2015
 category: around_town
 date: 2015-05-08 19:29:41
 excerpt: |
@@ -32,3 +33,9 @@ We are keen to get ALL children involved in playing cricket irrespective of back
 We now have 10 qualified and DBS (previously CRB) cleared coaches provided coaching to boys and girls of all school age groups.
 
 We have u10s, u11s, u13s, u15s and u17 teams in the Middlesex Colts Association competitions and arrange friendly games for children aged under 9.
+
+
+
+
+
+{% include comments.html %}

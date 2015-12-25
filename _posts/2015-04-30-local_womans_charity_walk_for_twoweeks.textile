@@ -2,6 +2,7 @@
 layout: post
 title: "Local Woman's Charity Walk for TWOWEEKS"
 permalink: /archives/2015/04/local_womans_charity_walk_for_twoweeks.html
+commentfile: 2015-04-30-local_womans_charity_walk_for_twoweeks
 category: around_town
 date: 2015-04-30 20:47:41
 excerpt: |
@@ -25,3 +26,7 @@ h4. More Information
 * "To sponsor Hannah":http://uk.virginmoneygiving.com/LondontoEdinburgh
 * "Hannah's blog":https://hannahswalk.wordpress.com/
 * "Facebook page":https://www.facebook.com/LondontoEdinburgh
+
+
+
+{% include comments.html %}

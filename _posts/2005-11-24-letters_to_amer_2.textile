@@ -2,6 +2,7 @@
 layout: post
 title: "Letters to America &#58; The World of Daniel"
 permalink: /archives/2005/11/letters_to_amer_2.html
+commentfile: 2005-11-24-letters_to_amer_2
 category: around_town
 date: 2005-11-24 16:07:08
 
@@ -35,3 +36,6 @@ So, that is the news for Daniel's life.  He is having a ball and really seems to
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
+
+
+{% include comments.html %}

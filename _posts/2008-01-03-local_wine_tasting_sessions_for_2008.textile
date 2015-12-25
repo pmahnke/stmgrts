@@ -2,6 +2,7 @@
 layout: post
 title: "Local Wine Tasting Sessions for 2008"
 permalink: /archives/2008/01/local_wine_tasting_sessions_for_2008.html
+commentfile: 2008-01-03-local_wine_tasting_sessions_for_2008
 category: news
 date: 2008-01-03 22:14:26
 
@@ -22,3 +23,9 @@ Convenor, St St Margaret's Wine Appeciation Group
 phone: 0208 892 9429
 email: <a href="mailto:hazelle.jackson@dial.pipex.com?Subject=St Margarets%20Wine%20Appeciation%20Group
 ">hazelle.jackson@dial.pipex.com</a>
+
+
+
+
+
+{% include comments.html %}

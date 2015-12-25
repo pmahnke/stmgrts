@@ -2,6 +2,7 @@
 layout: post
 title: "Reminder&#58; Crown Road Community Fair Road Closures - 6 December 2015"
 permalink: /archives/2015/11/reminder_crown_road_community_fair_road_closures_6.html
+commentfile: 2015-11-26-reminder_crown_road_community_fair_road_closures_6
 category: news
 date: 2015-11-26 18:48:59
 excerpt: |
@@ -37,3 +38,9 @@ and Twitter feed: "@mystmgrts":http://www.twitter.com/mystmgrts
 * Should you require further information please contact "pr@mystmargarets.com":mailto:pr@mystmargarets.com
 
 We thank you for your support and look forward to seeing you there!
+
+
+
+
+
+{% include comments.html %}

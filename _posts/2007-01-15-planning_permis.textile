@@ -2,6 +2,7 @@
 layout: post
 title: "Planning Permission Sought for Hand Car Wash on A316"
 permalink: /archives/2007/01/planning_permis.html
+commentfile: 2007-01-15-planning_permis
 category: news
 date: 2007-01-15 22:16:05
 
@@ -14,3 +15,8 @@ bq.. "Can I draw residents attention to a planning application which has been su
 p. *Link*
 
 * " planning application online":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=06/3166/FUL
+
+
+
+
+{% include comments.html %}

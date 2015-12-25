@@ -2,6 +2,7 @@
 layout: post
 title: "I Don't Sound Like Nobody!"
 permalink: /archives/2013/07/i_dont_sound_like_nobody.html
+commentfile: 2013-07-25-i_dont_sound_like_nobody
 category: around_town
 date: 2013-07-25 22:05:12
 excerpt: |
@@ -85,3 +86,6 @@ h4. "My Happiness" by Elvis Presley, recorded 18<sup>th</sup> July 1953
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

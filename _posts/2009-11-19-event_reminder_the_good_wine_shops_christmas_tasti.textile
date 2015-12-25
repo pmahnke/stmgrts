@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Good Wine Shop's Christmas Tasting 2009 "
 permalink: /archives/2009/11/event_reminder_the_good_wine_shops_christmas_tasti.html
+commentfile: 2009-11-19-event_reminder_the_good_wine_shops_christmas_tasti
 category: around_town
 date: 2009-11-19 15:08:52
 excerpt: |
@@ -28,3 +29,9 @@ Tickets are £10 per person and if you buy a dozen bottles on the day you will g
 
 * Call: 0208 892 7756
 * Email: "manager@thegoodwineshop.co.uk":mailto:manager@thegoodwineshop.co.uk
+
+
+
+
+
+{% include comments.html %}

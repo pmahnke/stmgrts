@@ -2,6 +2,7 @@
 layout: post
 title: "Warning to Residents - Bogus charity strikes again"
 permalink: /archives/2009/10/warning_to_residents_bogus_charity_strikes_again.html
+commentfile: 2009-10-02-warning_to_residents_bogus_charity_strikes_again
 category: news
 date: 2009-10-02 10:18:29
 excerpt: |
@@ -17,3 +18,8 @@ If you want to know more about the impact these companies have on legitimate cha
 Please please do not encourage these companies by leaving bags out for them.
 
 <cite>-- from Maddie Menzies</cite>
+
+
+
+
+{% include comments.html %}

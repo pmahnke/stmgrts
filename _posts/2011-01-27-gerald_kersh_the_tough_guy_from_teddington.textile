@@ -2,6 +2,7 @@
 layout: post
 title: "Gerald Kersh - The Tough Guy From Teddington"
 permalink: /archives/2011/01/gerald_kersh_the_tough_guy_from_teddington.html
+commentfile: 2011-01-27-gerald_kersh_the_tough_guy_from_teddington
 category: around_town
 date: 2011-01-27 09:29:22
 excerpt: |
@@ -74,3 +75,7 @@ h3. THE FILM TRAILER FOR "NIGHT AND THE CITY" 1950
 h4. copyrights
 
 * Photograph of Gerald Kersh's Birthplace by Jim Linwood on Flickr
+
+
+
+{% include comments.html %}

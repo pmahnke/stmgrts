@@ -2,6 +2,7 @@
 layout: post
 title: "Beginners and Improvers Ukulele Workshops and Courses - Spring 2014"
 permalink: /archives/2014/02/beginners_and_improvers_ukulele_workshops_and_cour.html
+commentfile: 2014-02-17-beginners_and_improvers_ukulele_workshops_and_cour
 category: around_town
 date: 2014-02-17 21:11:00
 
@@ -34,3 +35,7 @@ h4. More Courses at ETNA
 Tuesday March 11<sup>th</sup> 8pm-10pm
 
 For bookings and more info please see "www.richmond-ukulele.co.uk":http://www.richmond-ukulele.co.uk or phone for more info  07770 993289
+
+
+
+{% include comments.html %}

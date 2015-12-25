@@ -2,6 +2,7 @@
 layout: post
 title: "A Sweete, Cleare and Pleasant River"
 permalink: /archives/2014/01/a_sweete_cleare_and_pleasant_river.html
+commentfile: 2014-01-16-a_sweete_cleare_and_pleasant_river
 category: around_town
 date: 2014-01-16 21:23:38
 excerpt: |
@@ -58,3 +59,7 @@ Hmmm. Let us hope that the parish of St Margarets-on-Thames doesn't turn into St
 <cite>-- from Martyn Day</cite>
 
 <em>Credits: The painting <em>"Autumn Sunset on the Thames, Richmond"</em> is by John F. Tennant 1796-1872. The photographs of the recent flooding are by Amanda Day LRPS</em>
+
+
+
+{% include comments.html %}

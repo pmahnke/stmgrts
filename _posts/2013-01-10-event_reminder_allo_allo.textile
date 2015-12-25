@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 'Allo 'Allo"
 permalink: /archives/2013/01/event_reminder_allo_allo.html
+commentfile: 2013-01-10-event_reminder_allo_allo
 category: around_town
 date: 2013-01-10 21:22:11
 excerpt: |
@@ -38,3 +39,6 @@ h4. More Information
 ** Online: "www.ttc-boxoffice.org.uk":http://www.ttc-boxoffice.org.uk
 
 _Written by Jeremy Lloyd and David Croft, directed by Angela Gibbins_
+
+
+{% include comments.html %}

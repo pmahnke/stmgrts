@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Christmas Shopping Weekend at Orleans House Gallery - 29 to 30 November 2014"
 permalink: /archives/2014/11/event_reminder_the_christmas_shopping_weekend_at_o.html
+commentfile: 2014-11-12-event_reminder_the_christmas_shopping_weekend_at_o
 category: around_town
 date: 2014-11-12 21:37:37
 excerpt: |
@@ -25,3 +26,6 @@ h4. More Information
 * "Download a pdf with more details":/images/Christmas_Fair_PR.pdf
 * artsinfo@richmond.gov.uk
 * 020 8831 6000
+
+
+{% include comments.html %}

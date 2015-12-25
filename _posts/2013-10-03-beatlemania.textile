@@ -2,6 +2,7 @@
 layout: post
 title: "Beatlemania"
 permalink: /archives/2013/10/beatlemania.html
+commentfile: 2013-10-03-beatlemania
 category: around_town
 date: 2013-10-03 22:05:28
 excerpt: |
@@ -85,3 +86,6 @@ Perhaps we had the Beatles at their best, when they were still four lads from Li
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

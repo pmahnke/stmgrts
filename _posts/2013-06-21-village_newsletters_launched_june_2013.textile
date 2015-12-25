@@ -2,6 +2,7 @@
 layout: post
 title: "Village Newsletters Launched - June 2013"
 permalink: /archives/2013/06/village_newsletters_launched_june_2013.html
+commentfile: 2013-06-21-village_newsletters_launched_june_2013
 category: news
 date: 2013-06-21 10:21:15
 excerpt: |
@@ -23,3 +24,8 @@ The next edition will go out before the end of July and the Council are now look
 
 * "More information about the Village e-newsletters":http://www.richmond.gov.uk/all_in_one_villages_newsletters
 * "Sample newsletter for St Margarets":http://www2.richmond.gov.uk/village_newsletters/vn_May2013_Twickenham.htm
+
+
+
+
+{% include comments.html %}

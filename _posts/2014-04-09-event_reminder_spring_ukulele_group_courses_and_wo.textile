@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Spring Ukulele Group, Courses and Workshops - Spring 2014"
 permalink: /archives/2014/04/event_reminder_spring_ukulele_group_courses_and_wo.html
+commentfile: 2014-04-09-event_reminder_spring_ukulele_group_courses_and_wo
 category: around_town
 date: 2014-04-09 21:12:28
 
@@ -37,3 +38,7 @@ h4. Ukulele Improvers Course
 * &pound;50 for newcomers, &pound;45 if not (&pound;40 if booked by 15<sup>th</sup> April)
 
 All info: "richmond-ukulele.co.uk":http://richmond-ukulele.co.uk/
+
+
+
+{% include comments.html %}

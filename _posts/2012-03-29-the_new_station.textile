@@ -2,6 +2,7 @@
 layout: post
 title: "The New Station"
 permalink: /archives/2012/03/the_new_station.html
+commentfile: 2012-03-29-the_new_station
 category: around_town
 date: 2012-03-29 22:01:43
 excerpt: |
@@ -79,3 +80,6 @@ There are some, estate agents mainly, who insist upon describing St Margarets as
 <cite>-- from Martyn Day</cite>
 
 _Credit: The photographs of the steam trains are by Les Bailey on Flickr_
+
+
+{% include comments.html %}

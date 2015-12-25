@@ -2,6 +2,7 @@
 layout: post
 title: "Half Term at Orleans House Gallery"
 permalink: /archives/2010/01/half_term_at_orleans_house_gallery.html
+commentfile: 2010-01-29-half_term_at_orleans_house_gallery
 category: around_town
 date: 2010-01-29 09:54:10
 
@@ -72,3 +73,7 @@ h4. For Children and Young People with Disabilities
 ** 2pm - 4pm                 Ages 13 - 19
 
 Work with a professional artist, using touch and sight to explore the faces around you and create your own portrait using line, tone and shape. Experiment with a range of drawing materials including ink, graphite, collage and wire. Siblings and friends are welcome to come along too!
+
+
+
+{% include comments.html %}

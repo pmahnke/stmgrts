@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Turkstock II"
 permalink: /archives/2007/02/event_reminder_27.html
+commentfile: 2007-02-27-event_reminder_27
 category: around_town
 date: 2007-02-27 08:11:44
 excerpt: |
@@ -36,3 +37,9 @@ A big thank to Paul Jensen, landlord of  the Turk's Head, for providing us with 
 Tickets are £5 and to get one contact Sherralyn on 87442301 or Yolande on 88915051 or buy one from the St Stephen's School Office. But hurry, they really are selling like hotcakes!
 
 <a href="//stmgrts.org.uk/assets/images/2007/Turkstock_poster.pdf">Download poster (PDF).</a>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Me No See RWC Legacy"
 permalink: /archives/2015/08/me_no_see_rwc_legacy.html
+commentfile: 2015-08-13-me_no_see_rwc_legacy
 category: editorial
 date: 2015-08-13 18:43:23
 excerpt: |
@@ -23,3 +24,6 @@ I've heard most of the arguments about the Rugby World Cup being good for the lo
 At every public Rugby World Cup meeting that I have attended I have asked the same simple question - What is there in it for the people who live here? Any sports facilities for us or our children to use in the future? Any landscaped areas or gardens for older people to enjoy? Any free "Fun Days" at the Stadium? Any open-top bus tours around the district by rugby super stars? Any permanent museum or gallery celebrating this important international event? The answer has always been an embarrassed silence. Tell me. Am I missing something? Are there some really exciting community things coming up that I don't know about or is our legacy going to be no more than a scatter of empty lager tins in our front gardens and a faint whiff of urine in the wind?
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

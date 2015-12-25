@@ -2,6 +2,7 @@
 layout: post
 title: "Mums Choose Favourite Picnic Spot in Richmond Borough"
 permalink: /archives/2011/05/mums_choose_favourite_picnic_spot_in_richmond_boro.html
+commentfile: 2011-05-26-mums_choose_favourite_picnic_spot_in_richmond_boro
 category: news
 date: 2011-05-26 22:24:35
 excerpt: |
@@ -48,3 +49,7 @@ bq. "A great beautiful space, lots of grass for the little one to run around on 
 h3. 4TH PLACE - Richmond Park
 
 bq. "We particularly love the Isabela Plantation for its amazing flowers, duck ponds, and the variety of plants, shrubs, trees etc that make it like an enchanted woodland."
+
+
+
+{% include comments.html %}

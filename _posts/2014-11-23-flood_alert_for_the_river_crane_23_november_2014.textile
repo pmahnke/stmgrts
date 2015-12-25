@@ -2,6 +2,7 @@
 layout: post
 title: "Flood Alert for the River Crane - 23 November 2014"
 permalink: /archives/2014/11/flood_alert_for_the_river_crane_23_november_2014.html
+commentfile: 2014-11-23-flood_alert_for_the_river_crane_23_november_2014
 category: news
 date: 2014-11-23 13:06:54
 
@@ -21,3 +22,6 @@ The River Crane has responded to rain that has been falling overnight and this m
 * Call Floodline on 0845 988 1188 using quickdial 172608 for up-to-date flooding information. 
 
 Stay tuned to radio weather, news and travel bulletins on LBC 97.3 FM and Digital Radio.
+
+
+{% include comments.html %}

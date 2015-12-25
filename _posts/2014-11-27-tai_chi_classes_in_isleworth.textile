@@ -2,6 +2,7 @@
 layout: post
 title: "Tai Chi Classes In Isleworth"
 permalink: /archives/2014/11/tai_chi_classes_in_isleworth.html
+commentfile: 2014-11-27-tai_chi_classes_in_isleworth
 category: around_town
 date: 2014-11-27 20:44:31
 
@@ -26,3 +27,7 @@ h4. More Information
 
 * Contact Stuart on 079997 03021
 * or email "stuartjohnsuk@sky.com":mailto:stuartjohnsuk@sky.com
+
+
+
+{% include comments.html %}

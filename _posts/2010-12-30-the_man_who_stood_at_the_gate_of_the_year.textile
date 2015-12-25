@@ -2,6 +2,7 @@
 layout: post
 title: "The Man Who Stood at the Gate of the Year"
 permalink: /archives/2010/12/the_man_who_stood_at_the_gate_of_the_year.html
+commentfile: 2010-12-30-the_man_who_stood_at_the_gate_of_the_year
 category: around_town
 date: 2010-12-30 08:42:46
 excerpt: |
@@ -58,3 +59,6 @@ On the 7<sup>th</sup> January 2011 "The King's Speech" - a film about how George
 </div>
 
 <cite> -- from Martyn Day</cite>
+
+
+{% include comments.html %}

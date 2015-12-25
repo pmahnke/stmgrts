@@ -2,6 +2,7 @@
 layout: post
 title: "Performance Academy London Easter Drama Courses"
 permalink: /archives/2011/03/performance_academy_london_easter_drama_courses.html
+commentfile: 2011-03-03-performance_academy_london_easter_drama_courses
 category: around_town
 date: 2011-03-03 21:39:55
 
@@ -31,3 +32,7 @@ h4. Details
 If you require any additional information about this holiday course please contact Robert Wells on 07854252442/02088914572 or "info@performanceacademylondon.co.uk":mailto:info@performanceacademylondon.co.uk
 
 _We will be able to offer a discount to bookings of more than 1 child. Please book early to avoid disappointment._
+
+
+
+{% include comments.html %}

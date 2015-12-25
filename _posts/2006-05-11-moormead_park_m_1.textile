@@ -2,6 +2,7 @@
 layout: post
 title: "Moormead Park Meeting Update"
 permalink: /archives/2006/05/moormead_park_m_1.html
+commentfile: 2006-05-11-moormead_park_m_1
 category: around_town
 date: 2006-05-11 16:16:34
 excerpt: |
@@ -23,3 +24,6 @@ A smaller group met to discuss landscaping, bulb planting in the park.
 
 If anyone would like further details or to offer their help, please contact Claire Wilson; 020 8744 0700 email; "corpunit@aol.com":mailto:corpunit@aol.com
 </div>
+
+
+{% include comments.html %}

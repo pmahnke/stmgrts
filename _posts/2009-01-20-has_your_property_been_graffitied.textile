@@ -2,6 +2,7 @@
 layout: post
 title: "Has Your Property Been Graffitied?"
 permalink: /archives/2009/01/has_your_property_been_graffitied.html
+commentfile: 2009-01-20-has_your_property_been_graffitied
 category: around_town
 date: 2009-01-20 16:30:53
 
@@ -22,3 +23,9 @@ London Road
 Twickenham
 TW1 3SY				
 Tel 0208 721 2912							
+
+
+
+
+
+{% include comments.html %}

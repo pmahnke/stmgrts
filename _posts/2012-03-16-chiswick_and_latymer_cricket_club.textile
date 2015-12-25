@@ -2,6 +2,7 @@
 layout: post
 title: "Chiswick and Latymer Cricket Club"
 permalink: /archives/2012/03/chiswick_and_latymer_cricket_club.html
+commentfile: 2012-03-16-chiswick_and_latymer_cricket_club
 category: 
 date: 2012-03-16 09:46:50
 excerpt: |
@@ -31,3 +32,7 @@ No need to book - just turn up - and we look forward to meeting you.
 There will be games for all age groups and teams have been entered into the Middlesex Colts League.
 
 Anyone who requires further information or who would like to join the club as player, umpire, scorer or supporter or who is interested in introducing a colt or helping with their development, please contact Graham Hall on 020 8940 0335 or "graham.hall7@virgin.net":mailto:graham.hall7@virgin.net or visit our web site at "www.chiswickandlatymercc.org":http://www.chiswickandlatymercc.org.
+
+
+
+{% include comments.html %}

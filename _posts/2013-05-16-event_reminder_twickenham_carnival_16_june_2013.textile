@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Twickenham Carnival - 16 June 2013"
 permalink: /archives/2013/05/event_reminder_twickenham_carnival_16_june_2013.html
+commentfile: 2013-05-16-event_reminder_twickenham_carnival_16_june_2013
 category: around_town
 date: 2013-05-16 21:36:15
 excerpt: |
@@ -27,3 +28,7 @@ h4. More Information
 * "www.richmond.gov.uk/twickenham_carnival":http://www.richmond.gov.uk/twickenham_carnival
 * 0208 831 6000
 * "artsinfo@richmond.gov.uk":mailto:artsinfo@richmond.gov.uk
+
+
+
+{% include comments.html %}

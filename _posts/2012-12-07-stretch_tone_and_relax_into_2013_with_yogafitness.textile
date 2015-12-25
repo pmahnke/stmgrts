@@ -2,6 +2,7 @@
 layout: post
 title: "Stretch, Tone and Relax into 2013 with Yoga-Fitness"
 permalink: /archives/2012/12/stretch_tone_and_relax_into_2013_with_yogafitness.html
+commentfile: 2012-12-07-stretch_tone_and_relax_into_2013_with_yogafitness
 category: around_town
 date: 2012-12-07 07:59:09
 
@@ -33,3 +34,9 @@ h4. More Information
 * Email: contact@yoga-fitness.co.uk
  
 _Sammie Mason is a Student Teacher with the British Wheel of Yoga_
+
+
+
+
+
+{% include comments.html %}

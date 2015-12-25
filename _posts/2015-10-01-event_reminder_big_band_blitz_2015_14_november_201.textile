@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Big Band Blitz 2015 - 14 November 2015"
 permalink: /archives/2015/10/event_reminder_big_band_blitz_2015_14_november_201.html
+commentfile: 2015-10-01-event_reminder_big_band_blitz_2015_14_november_201
 category: around_town
 date: 2015-10-01 21:17:03
 excerpt: |
@@ -31,3 +32,7 @@ h4. More Information
 * Credit Card Bookings: SeeTickets, tel: 0843 515 9400
 * Online Bookings: "www.seetickets.com":http://www.seetickets.com
 * General Enquiries: 020 8973 3605 / 07808 156 797
+
+
+
+{% include comments.html %}

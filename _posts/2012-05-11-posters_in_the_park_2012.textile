@@ -2,6 +2,7 @@
 layout: post
 title: "Posters in the Park 2012"
 permalink: /archives/2012/05/posters_in_the_park_2012.html
+commentfile: 2012-05-11-posters_in_the_park_2012
 category: around_town
 date: 2012-05-11 08:09:10
 excerpt: |
@@ -26,3 +27,9 @@ You can enter:
 * If you're inspired to design a great poster that will be used in conservation campaigns
 
 For details and to enter, see: "www.frp.org.uk/friends/competitions":http://www.frp.org.uk/friends/competitions
+
+
+
+
+
+{% include comments.html %}

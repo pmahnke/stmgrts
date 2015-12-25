@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Great River Race - 27 September 2014"
 permalink: /archives/2014/09/event_reminder_great_river_race_27_september_2014.html
+commentfile: 2014-09-25-event_reminder_great_river_race_27_september_2014
 category: around_town
 date: 2014-09-25 10:07:46
 excerpt: |
@@ -28,3 +29,6 @@ h4. Times
 * 15:40 - Finish at the riverside below Ham House
 
 * "More information":http://www.greatriverrace.co.uk/
+
+
+{% include comments.html %}

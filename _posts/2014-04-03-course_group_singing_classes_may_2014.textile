@@ -2,6 +2,7 @@
 layout: post
 title: "Course&#58; Group Singing Classes - May 2014"
 permalink: /archives/2014/04/course_group_singing_classes_may_2014.html
+commentfile: 2014-04-03-course_group_singing_classes_may_2014
 category: around_town
 date: 2014-04-03 18:34:23
 
@@ -27,3 +28,7 @@ h4. More Information
 * Strawberry Hill Golf Club is at Wellesley Road, Strawberry Hill, Middlesex TW2 5SD, next to Strawberry Hill train station
 
 _Also booking for 16<sup>th</sup> September 2014_
+
+
+
+{% include comments.html %}

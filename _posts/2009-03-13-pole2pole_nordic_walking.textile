@@ -2,6 +2,7 @@
 layout: post
 title: "Pole2Pole Nordic Walking"
 permalink: /archives/2009/03/pole2pole_nordic_walking.html
+commentfile: 2009-03-13-pole2pole_nordic_walking
 category: around_town
 date: 2009-03-13 10:48:32
 excerpt: |
@@ -24,3 +25,10 @@ Kay Speakman is a qualified Nordic Walking UK Instructor. She is properly qualif
 * Contact: "kay@pole2pole.uk.com":mailto:kay@pole2pole.uk.com 
 * Mobile: 07990 581347
 * For more information and details of sessions and tasters visit the Website: "www.pole2pole.uk.com":http://www.pole2pole.uk.com/
+
+
+
+
+
+
+{% include comments.html %}

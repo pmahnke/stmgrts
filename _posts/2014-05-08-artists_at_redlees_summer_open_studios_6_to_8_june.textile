@@ -2,6 +2,7 @@
 layout: post
 title: "Artists at Redlees - Summer Open Studios - 6 to 8 June 2014"
 permalink: /archives/2014/05/artists_at_redlees_summer_open_studios_6_to_8_june.html
+commentfile: 2014-05-08-artists_at_redlees_summer_open_studios_6_to_8_june
 category: around_town
 date: 2014-05-08 22:18:57
 
@@ -23,3 +24,7 @@ h4. More Information
 * Free entry and free parking. Disabled access
 * Redlees Studios, Redlees Park, Worton Road, Isleworth, TW7 6DW
 * Find full details of artists and map on "www.redlees.org":http://www.redlees.org
+
+
+
+{% include comments.html %}

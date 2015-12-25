@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Celebrates London -- The Fairtrade Capital of the World"
 permalink: /archives/2008/10/richmond_celebrates_london_the_fairtrade_capital_o.html
+commentfile: 2008-10-23-richmond_celebrates_london_the_fairtrade_capital_o
 category: news
 date: 2008-10-23 20:57:01
 excerpt: |
@@ -49,3 +50,7 @@ If you would like to get more involved in local Fairtrade issues, please contact
 
 
 <cite>-- from Richmond upon Thames Fairtrade Steering Group</cite>
+
+
+
+{% include comments.html %}

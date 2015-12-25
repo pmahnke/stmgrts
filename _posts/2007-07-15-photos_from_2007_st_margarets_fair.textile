@@ -2,6 +2,7 @@
 layout: post
 title: "Photos from 2007 St Margarets Fair"
 permalink: /archives/2007/07/photos_from_2007_st_margarets_fair.html
+commentfile: 2007-07-15-photos_from_2007_st_margarets_fair
 category: around_town
 date: 2007-07-15 14:59:03
 excerpt: |
@@ -27,3 +28,9 @@ If you have any, please forward them to us at "content@stmgrts.org.uk":mailto:co
 
 
 "Here they are...":http://www.stmgrts.org.uk/static/fair/2007/index.html
+
+
+
+
+
+{% include comments.html %}

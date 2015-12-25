@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond Park Reflections - 10 June 2015"
 permalink: /archives/2015/05/event_reminder_richmond_park_reflections_10_june_2.html
+commentfile: 2015-05-08-event_reminder_richmond_park_reflections_10_june_2
 category: around_town
 date: 2015-05-08 20:39:48
 excerpt: |
@@ -26,3 +27,6 @@ h4. More Information
 * Event held in The Belvedere at Pembroke Lodge
 * a buffet supper with wine will be served in the interval
 * "Tickets online":https://www.eventbrite.co.uk/e/richmond-park-reflections-tickets-16679989297?ref=elink%22%20target=%22_blank%22%20style=%22color:#404040%22%3EText%20for%20link%3C/a%3E
+
+
+{% include comments.html %}

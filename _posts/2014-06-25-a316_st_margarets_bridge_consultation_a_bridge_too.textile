@@ -2,6 +2,7 @@
 layout: post
 title: "A316 St Margarets Bridge Consultation - A Bridge Too Far"
 permalink: /archives/2014/06/a316_st_margarets_bridge_consultation_a_bridge_too.html
+commentfile: 2014-06-25-a316_st_margarets_bridge_consultation_a_bridge_too
 category: news
 date: 2014-06-25 06:40:11
 excerpt: |
@@ -33,3 +34,6 @@ h4. More Information
 * There is a "Facebook page":http://www.facebook.com/saveourfootbridge that is updated regularly
 * The "change.org petition":http://www.change.org/en-GB/petitions/transport-for-london-withdraw-the-consultation-calling-for-the-removal-of-the-existing-st-margaret-s-footbridge-over-the-a316-and-its-replacement-with-toucan-crossings asking for the consultation to be withdrawn
 * Read the original article - "TFL Consultation on A316 St Margarets Crossing":http://www.stmgrts.org.uk/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
+
+
+{% include comments.html %}

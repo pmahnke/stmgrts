@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Cambridge Park Bowls Club Open Day - 5 May 2012"
 permalink: /archives/2012/04/event_reminder_cambridge_park_bowls_club_open_day.html
+commentfile: 2012-04-25-event_reminder_cambridge_park_bowls_club_open_day
 category: around_town
 date: 2012-04-25 20:45:17
 
@@ -16,3 +17,9 @@ Enjoy a gentle introduction to the game with the help of our friendly coaches an
 All equipment provided - you just need to wear flat shoes. We'll play outside if fine, inside if not.
 
 _Refreshments available._
+
+
+
+
+
+{% include comments.html %}

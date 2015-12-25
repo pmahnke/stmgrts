@@ -2,6 +2,7 @@
 layout: post
 title: "Watermans Arts Centre - Children's Activities "
 permalink: /archives/2015/05/watermans_arts_centre_childrens_activities.html
+commentfile: 2015-05-21-watermans_arts_centre_childrens_activities
 category: around_town
 date: 2015-05-21 19:03:27
 excerpt: |
@@ -40,3 +41,7 @@ Come and learn the secrets of Free Running and Parkour. Learn to run up walls an
 h4. Urban Ambush Creative Summer Projects
 
 This summer come along to Urban Ambush, our summer creative projects for young people. The projects are led by artists and include graffiti art, Parkour, Capoeira, film making, animation and more. It's a great way to spend the summer holidays, having fun and trying something new. Projects run weekly from 27 July, Mon-Fri, 9am-6.15pm. Groups are split 8-12 and 13-18.
+
+
+
+{% include comments.html %}

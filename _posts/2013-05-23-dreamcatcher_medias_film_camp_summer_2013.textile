@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Media's Film Camp - Summer 2013"
 permalink: /archives/2013/05/dreamcatcher_medias_film_camp_summer_2013.html
+commentfile: 2013-05-23-dreamcatcher_medias_film_camp_summer_2013
 category: around_town
 date: 2013-05-23 21:24:14
 excerpt: |
@@ -24,3 +25,9 @@ Our next 5 day Film Camp starts on 8<sup>th</sup> July. Children come up with th
 Sponsored by the Alpha Plus Group, the Camp takes place at Falcons Boys Prep School in Richmond and runs weekly from July 8<sup>th</sup> until August 30<sup>th</sup> starting at 9am. See website "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk for other locations.
 
 To Book, Call -  0208 8916414 or email "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
+
+
+
+
+
+{% include comments.html %}

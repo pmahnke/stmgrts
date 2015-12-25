@@ -2,6 +2,7 @@
 layout: post
 title: "The Last Wolf in England?"
 permalink: /archives/2012/01/the_last_wolf_in_england.html
+commentfile: 2012-01-13-the_last_wolf_in_england
 category: around_town
 date: 2012-01-13 18:11:45
 
@@ -63,3 +64,7 @@ _The wolf is generally thought to have become extinct in England during the reig
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

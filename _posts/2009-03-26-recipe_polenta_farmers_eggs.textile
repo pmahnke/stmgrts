@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; Polenta Farmer's Eggs"
 permalink: /archives/2009/03/recipe_polenta_farmers_eggs.html
+commentfile: 2009-03-26-recipe_polenta_farmers_eggs
 category: food
 date: 2009-03-26 18:34:33
 excerpt: |
@@ -56,3 +57,7 @@ _This recipe can be partially made the night before. Simply put the dish in the 
 * Active time: 15 minutes
 
 </div>
+
+
+
+{% include comments.html %}

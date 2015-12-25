@@ -2,6 +2,7 @@
 layout: post
 title: "Looking for a Venue? How About a Good Place for a Good Time?"
 permalink: /archives/2009/01/looking_for_a_venue_how_about_a_good_place_for_a_g.html
+commentfile: 2009-01-09-looking_for_a_venue_how_about_a_good_place_for_a_g
 category: around_town
 date: 2009-01-09 16:08:42
 
@@ -17,3 +18,8 @@ If you would like to find out more about hiring this unique and rather magical p
 
 
 _Remember -- once you've crossed the bridge you are in a different world!_
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Social Media Work Experience"
 permalink: /archives/2012/06/local_job_vacancy_social_media_work_experience.html
+commentfile: 2012-06-29-local_job_vacancy_social_media_work_experience
 category: around_town
 date: 2012-06-29 09:29:58
 excerpt: |
@@ -26,3 +27,7 @@ This opportunity is ideal for somebody wishing to develop and showcase their soc
 The association is planning a series of social media marketing trials during the autumn and this opportunity could form part of coursework for a local student or budding marketing entrepreneur.
 
 Applicants interested in this role should send their details to "traders@mystmargarets.com":mailto:traders@mystmargarets.com by 20 July 2012
+
+
+
+{% include comments.html %}

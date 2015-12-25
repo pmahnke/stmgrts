@@ -2,6 +2,7 @@
 layout: post
 title: "The Amiable Crane"
 permalink: /archives/2015/01/the_amiable_crane.html
+commentfile: 2015-01-08-the_amiable_crane
 category: around_town
 date: 2015-01-08 19:15:31
 excerpt: |
@@ -56,3 +57,7 @@ In front the sun climbs slow, how slowly!
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

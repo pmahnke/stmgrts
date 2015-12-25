@@ -2,6 +2,7 @@
 layout: post
 title: "Council Says New Town Square for Twickenham on the Horizon"
 permalink: /archives/2014/11/council_says_new_town_square_for_twickenham_on_the.html
+commentfile: 2014-11-27-council_says_new_town_square_for_twickenham_on_the
 category: news
 date: 2014-11-27 21:06:07
 
@@ -49,3 +50,7 @@ p. Architects are being asked to design a scheme that would:
 * Introduce facilities that could be available for community use including caf&#233;, toilets, room to hire.
 
 <cite>-- from a Richmond Council press release - 21 November 2014</cite>
+
+
+
+{% include comments.html %}

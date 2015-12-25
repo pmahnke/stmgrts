@@ -2,6 +2,7 @@
 layout: post
 title: "Primary school offers day - 93% get a school of choice"
 permalink: /archives/2010/03/primary_school_offers_day_93_get_a_school_of_choic.html
+commentfile: 2010-03-29-primary_school_offers_day_93_get_a_school_of_choic
 category: news
 date: 2010-03-29 21:14:14
 
@@ -18,3 +19,9 @@ I would like to reassure those parents who have been not yet been allocated a pl
 p. Parents have two weeks in which to accept or decline places.
 
 <cite> -- sent by Christopher J Squire</cite>
+
+
+
+
+
+{% include comments.html %}

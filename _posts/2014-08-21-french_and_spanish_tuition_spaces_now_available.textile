@@ -2,6 +2,7 @@
 layout: post
 title: "French and Spanish Tuition - Spaces Now Available"
 permalink: /archives/2014/08/french_and_spanish_tuition_spaces_now_available.html
+commentfile: 2014-08-21-french_and_spanish_tuition_spaces_now_available
 category: around_town
 date: 2014-08-21 21:31:31
 
@@ -17,3 +18,7 @@ h4. More information
 * klcampbell@sky.com
 
 _References available on request_
+
+
+
+{% include comments.html %}

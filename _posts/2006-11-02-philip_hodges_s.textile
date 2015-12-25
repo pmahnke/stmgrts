@@ -2,6 +2,7 @@
 layout: post
 title: "Haweli Seeks Planning Approval"
 permalink: /archives/2006/11/philip_hodges_s.html
+commentfile: 2006-11-02-philip_hodges_s
 category: news
 date: 2006-11-02 22:58:25
 excerpt: |
@@ -27,3 +28,9 @@ Some of the concerns raised by local residents already have been:
 
 * "Planning Application":http://www.ukplanning.com/richmond/findCaseFile.do?appType=planning+folder&appNumber=06%2F3201%2FFUL&action=Search
 * "Comment on Application":http://www.ukplanning.com/richmond/createComment.do;jsessionid=7694E8F8AF233C0693D7519FFED547C5.wam2?action=CreateApplicationComment&applicationType=PLANNING%20FOLDER&appNumber=06/3201/FUL
+
+
+
+
+
+{% include comments.html %}

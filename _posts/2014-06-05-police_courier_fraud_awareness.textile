@@ -2,6 +2,7 @@
 layout: post
 title: "Police&#58; Courier Fraud Awareness"
 permalink: /archives/2014/06/police_courier_fraud_awareness.html
+commentfile: 2014-06-05-police_courier_fraud_awareness
 category: news
 date: 2014-06-05 21:20:17
 
@@ -24,3 +25,7 @@ Officers are advising Londoners and particularly those who may be elderly or vul
 * If you are contacted by someone who asks for these, hang up
 * Use a different line to report the call to police on 101 or allow at least five minutes for the line to automatically clear
 * Call 999 if the crime is in action.
+
+
+
+{% include comments.html %}

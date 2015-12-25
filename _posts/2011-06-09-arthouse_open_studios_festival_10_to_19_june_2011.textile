@@ -2,6 +2,7 @@
 layout: post
 title: "ARThouse Open Studios Festival - 10 to 19 June 2011"
 permalink: /archives/2011/06/arthouse_open_studios_festival_10_to_19_june_2011.html
+commentfile: 2011-06-09-arthouse_open_studios_festival_10_to_19_june_2011
 category: around_town
 date: 2011-06-09 10:38:29
 excerpt: |
@@ -241,3 +242,8 @@ h4. Silvina Soria
 _Open: Friday 10th & 17th from 6 to 9 pm, Saturday 11th & 18th from 11 am to 6 pm, Sunday 12th & 19th from 11 am to 6 pm_
 
 Unique handmade silver jewellery with a sculptural concept.
+
+
+
+
+{% include comments.html %}

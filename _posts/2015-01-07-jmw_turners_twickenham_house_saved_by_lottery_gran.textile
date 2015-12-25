@@ -2,6 +2,7 @@
 layout: post
 title: "JMW Turner's Twickenham House 'Saved' by Lottery Grant"
 permalink: /archives/2015/01/jmw_turners_twickenham_house_saved_by_lottery_gran.html
+commentfile: 2015-01-07-jmw_turners_twickenham_house_saved_by_lottery_gran
 category: news
 date: 2015-01-07 16:04:21
 excerpt: |
@@ -28,3 +29,15 @@ It has only been open to the public for one afternoon a month, but will be open 
 Turner, one of Britain's greatest painters, designed the building as a retreat from his central London studio and as a permanent home for his elderly father, a retired wigmaker and barber, who looked after the house and garden.
 
 <cite>-- more on the "BBC":http://www.bbc.co.uk/news/entertainment-arts-30708457 - 7 January 2015 </cite>
+
+
+
+
+
+
+
+
+
+
+
+{% include comments.html %}

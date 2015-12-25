@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Park - Starfish Bombing Decoy SF8A"
 permalink: /archives/2012/05/richmond_park_starfish_bombing_decoy_sf8a.html
+commentfile: 2012-05-03-richmond_park_starfish_bombing_decoy_sf8a
 category: around_town
 date: 2012-05-03 18:17:00
 
@@ -78,3 +79,6 @@ bq. "...An attempt was rumoured to have taken place, designed to dupe the German
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

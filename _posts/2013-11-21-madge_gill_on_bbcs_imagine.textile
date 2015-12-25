@@ -2,6 +2,7 @@
 layout: post
 title: "Madge Gill on BBC's Imagine"
 permalink: /archives/2013/11/madge_gill_on_bbcs_imagine.html
+commentfile: 2013-11-21-madge_gill_on_bbcs_imagine
 category: news
 date: 2013-11-21 18:14:47
 
@@ -17,3 +18,7 @@ h4. More Information
 * Free admission
 * Tel: 020 8831 6000.
 * "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
+
+
+
+{% include comments.html %}

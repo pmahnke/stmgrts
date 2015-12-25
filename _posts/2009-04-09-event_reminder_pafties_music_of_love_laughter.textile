@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Pafties &#58; Music of Love & Laughter"
 permalink: /archives/2009/04/event_reminder_pafties_music_of_love_laughter.html
+commentfile: 2009-04-09-event_reminder_pafties_music_of_love_laughter
 category: around_town
 date: 2009-04-09 10:59:34
 
@@ -18,3 +19,8 @@ Tickets cost &pound;18 for the concert and &pound;10 for the reception
 Available from: 02088924144, or 02098913471
 
 _The event supports St Margarets Catholic Church's Building Fund._
+
+
+
+
+{% include comments.html %}

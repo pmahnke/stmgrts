@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Strictly Come... Tea Dancing - 16 April 2015"
 permalink: /archives/2015/04/event_reminder_strictly_come_tea_dancing_16_april.html
+commentfile: 2015-04-03-event_reminder_strictly_come_tea_dancing_16_april
 category: around_town
 date: 2015-04-03 11:32:02
 excerpt: |
@@ -21,3 +22,9 @@ h4. More Information
 
 * Thursday, 16 April from 2:00 to 4:00pm. 
 * Free tea, coffee and cakes will be served.
+
+
+
+
+
+{% include comments.html %}

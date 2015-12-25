@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets, Richmond and East Twickenham Village Plans"
 permalink: /archives/2015/10/st_margarets_richmond_and_east_twickenham_village.html
+commentfile: 2015-10-08-st_margarets_richmond_and_east_twickenham_village
 category: news
 date: 2015-10-08 07:52:39
 
@@ -21,3 +22,9 @@ h4. Drop in sessions:
 * Richmond - Saturday 7 November, 10am to 4pm at Duke Street Church
 
 _The deadline for comments will be Friday 20 November 2015._
+
+
+
+
+
+{% include comments.html %}

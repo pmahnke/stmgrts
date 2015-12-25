@@ -2,6 +2,7 @@
 layout: post
 title: "'You Are Kolley Kibber - You Come From Strawberry Hill..."
 permalink: /archives/2011/02/you_are_kolley_kibber_you_come_from_strawberry_hil.html
+commentfile: 2011-02-18-you_are_kolley_kibber_you_come_from_strawberry_hil
 category: around_town
 date: 2011-02-18 17:43:32
 excerpt: |
@@ -85,3 +86,6 @@ As for Kolley Kibber, Graham Greene's "Brighton Rock"  interpretation of Lobby L
 
 
 <cite>-- from Martyn Day</cite> 
+
+
+{% include comments.html %}

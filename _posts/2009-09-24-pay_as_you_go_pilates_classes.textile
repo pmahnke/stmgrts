@@ -2,6 +2,7 @@
 layout: post
 title: "Pay As You Go Pilates Classes"
 permalink: /archives/2009/09/pay_as_you_go_pilates_classes.html
+commentfile: 2009-09-24-pay_as_you_go_pilates_classes
 category: around_town
 date: 2009-09-24 20:44:48
 
@@ -17,3 +18,8 @@ Want something more challenging? Try... Intermediate Tuesday from 2.00 to 3.00pm
 * 0208 549 6110
 * 0774 821 2860
 * "b.spratley@hotmail.co.uk":mailto:b.spratley@hotmail.co.uk
+
+
+
+
+{% include comments.html %}

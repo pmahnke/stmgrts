@@ -2,6 +2,7 @@
 layout: post
 title: "Take the St Margarets Alliance Survey"
 permalink: /archives/2009/07/take_the_st_margarets_alliance_survey.html
+commentfile: 2009-07-12-take_the_st_margarets_alliance_survey
 category: news
 date: 2009-07-12 13:15:13
 excerpt: |
@@ -68,3 +69,7 @@ Chair Barry Edwards, Guy Medd (25 years St Margarets resident) and Glen Cardno (
 Chair Barry Edwards says "This Survey represents a great opportunity for residents to prioritise what matters to them".
 
 "*Take the survey now*":http://www.stmgrts.org.uk/sma_survey/
+
+
+
+{% include comments.html %}

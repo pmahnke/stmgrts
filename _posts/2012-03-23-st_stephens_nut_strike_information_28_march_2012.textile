@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephens NUT Strike Information - 28 March 2012"
 permalink: /archives/2012/03/st_stephens_nut_strike_information_28_march_2012.html
+commentfile: 2012-03-23-st_stephens_nut_strike_information_28_march_2012
 category: news
 date: 2012-03-23 13:16:18
 
@@ -18,3 +19,8 @@ We are aware that school closures inconvenience parents and carers and so I am w
 All the other classes will be closed.
 
 Thank you for your patience and understanding. We apologise in advance for the inconvenience this will cause.
+
+
+
+
+{% include comments.html %}

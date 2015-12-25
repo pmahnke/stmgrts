@@ -2,6 +2,7 @@
 layout: post
 title: "The King is Dead.  Long Live the New Elizabethans!"
 permalink: /archives/2011/01/the_king_is_dead_long_live_the_new_elizabethans.html
+commentfile: 2011-01-20-the_king_is_dead_long_live_the_new_elizabethans
 category: around_town
 date: 2011-01-20 20:04:56
 excerpt: |
@@ -62,3 +63,6 @@ These memories came to mind after I saw the film "The King's Speech" last week. 
 Kingship carries enormous responsibility but confers little real power. On the face of it George VI may not have been the best suited to take on the task but he did, with dedication and determination and the unflagging support of his wife.  He restored the monarchy, became a national figurehead during the 2<sup>nd</sup> World War and the first Head of the Commonwealth. There are many who say that it was the enormous pressure of the job that eventually killed him. Whatever the cause it sent 42 members of class VIII at Burghley Road Primary School, Tufnell Park, tumbling out onto the foggy streets cheering. We didn't care. We were the New Elizabethans and the world was ours.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

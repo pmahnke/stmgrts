@@ -2,6 +2,7 @@
 layout: post
 title: "Summer Activities at Orleans House"
 permalink: /archives/2011/06/summer_activities_at_orleans_house.html
+commentfile: 2011-06-30-summer_activities_at_orleans_house
 category: around_town
 date: 2011-06-30 07:03:01
 excerpt: |
@@ -155,3 +156,7 @@ Suitable for children aged 4 upwards.  All children must be accompanied by an ad
 * 3 July: Antarctic Animals
 * 7 August: Textile Paintings
 * 4 September: Fairy Mobiles
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Very Well, Alone!"
 permalink: /archives/2012/09/very_well_alone.html
+commentfile: 2012-09-20-very_well_alone
 category: around_town
 date: 2012-09-20 20:41:52
 excerpt: |
@@ -78,3 +79,7 @@ _Credit: Some of the information in this article came from "The Real Dad's Army"
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

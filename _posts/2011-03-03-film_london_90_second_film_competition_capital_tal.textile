@@ -2,6 +2,7 @@
 layout: post
 title: "Film London 90 Second Film Competition&#58; Capital Tales"
 permalink: /archives/2011/03/film_london_90_second_film_competition_capital_tal.html
+commentfile: 2011-03-03-film_london_90_second_film_competition_capital_tal
 category: around_town
 date: 2011-03-03 21:50:33
 excerpt: |
@@ -40,3 +41,7 @@ The deadline for applications is 31<sup>st</sup> March 2011.
 Applicants must be resident in the borough of Richmond upon Thames.
 
 For more information, application forms, and the terms & conditions please visit "www.richmond.gov.uk/90secondfilm":http://www.richmond.gov.uk/90secondfilm
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond's New-Look Library"
 permalink: /archives/2006/06/richmonds_newlo.html
+commentfile: 2006-06-23-richmonds_newlo
 category: news
 date: 2006-06-23 09:35:14
 
@@ -57,3 +58,6 @@ London Borough of Richmond upon Thames Libraries
 "promotions@richmond.gov.uk":mailto:promotions@richmond.gov.uk
 "www.richmond.gov.uk/libraries":http://www.richmond.gov.uk/libraries/
 </div>
+
+
+{% include comments.html %}

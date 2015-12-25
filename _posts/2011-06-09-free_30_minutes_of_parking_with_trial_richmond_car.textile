@@ -2,6 +2,7 @@
 layout: post
 title: "Free 30 Minutes of Parking with Trial Richmond Cards"
 permalink: /archives/2011/06/free_30_minutes_of_parking_with_trial_richmond_car.html
+commentfile: 2011-06-09-free_30_minutes_of_parking_with_trial_richmond_car
 category: news
 date: 2011-06-09 09:40:31
 
@@ -16,3 +17,8 @@ The trial cards will function between 10 June and 31 August, and allow the holde
 The trial cards are intended to grab attention and promote the full Richmond Card which has the same benefits, and a 20 per cent discount for over-75s but which operate permanently once local people register. 
 
 "More information":http://stmgrts.org.uk/l/jyWGD
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Building a Community &mdash; Online &amp; Off"
 permalink: /archives/2006/05/building_a_comm.html
+commentfile: 2006-05-08-building_a_comm
 category: editorial
 date: 2006-05-08 20:44:18
 excerpt: |
@@ -33,3 +34,6 @@ p. We hope that you will join us.   How do you feel this could be done?  What so
 Now we are waiting to hear from you onilne and hopefully see you at Winchester Hall!
 
 <em>If you haven't already, Don’t forget to sign-up for our "Weekly Newsletter":/cgi-bin/newsletter.cgi.</em>
+
+
+{% include comments.html %}

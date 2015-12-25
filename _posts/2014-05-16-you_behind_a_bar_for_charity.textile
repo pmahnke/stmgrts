@@ -2,6 +2,7 @@
 layout: post
 title: "You Behind a Bar? For Charity?"
 permalink: /archives/2014/05/you_behind_a_bar_for_charity.html
+commentfile: 2014-05-16-you_behind_a_bar_for_charity
 category: around_town
 date: 2014-05-16 18:04:23
 excerpt: |
@@ -17,3 +18,8 @@ excerpt: |
 All of the money raised at the "St Margarets Fair":http://www.stmgrts.org.uk/event/fair/200705144148 goes directly back to the Fair and its associated charities and local schools. The bar is no exception. This year it will be run by Real Ale, but they are looking for volunteers to help.
 
 If you can spare and hour or two on 12 July 2014, please email Zeph King at zeph@realale.com and pull pints for a good cause.
+
+
+
+
+{% include comments.html %}

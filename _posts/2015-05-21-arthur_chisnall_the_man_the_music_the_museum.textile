@@ -2,6 +2,7 @@
 layout: post
 title: "Arthur Chisnall, The Man, The Music, The Museum!"
 permalink: /archives/2015/05/arthur_chisnall_the_man_the_music_the_museum.html
+commentfile: 2015-05-21-arthur_chisnall_the_man_the_music_the_museum
 category: around_town
 date: 2015-05-21 22:13:27
 excerpt: |
@@ -101,3 +102,8 @@ A documentary about Arthur Chisnall and the Eel Pie Island Hotel...
 <cite>-- from Martyn Day</cite>
 
 <em>Credits: Many of the quotes in this article come from 'Eel Pie Island' a fascinating and well illustrated book by Dan Van der Vat and Michele Whitby</em>
+
+
+
+
+{% include comments.html %}

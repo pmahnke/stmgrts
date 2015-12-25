@@ -2,6 +2,7 @@
 layout: post
 title: "Headstart Uni - What Your Child REALLY Needs to Take to University"
 permalink: /archives/2014/09/headstart_uni_what_your_child_really_needs_to_take.html
+commentfile: 2014-09-11-headstart_uni_what_your_child_really_needs_to_take
 category: news
 date: 2014-09-11 21:04:36
 excerpt: |
@@ -60,3 +61,8 @@ And if it's all too late for Number One Son (or daughter) and they are already a
 Our workshops are for up to 6 teenagers or parents at a time, are friendly, informal and ideally suited to groups of friends.
 
 If you would like to know more, please give us a call on 020 8744 3038 or visit our website "www.headstartuni.co.uk":http://www.headstartuni.co.uk
+
+
+
+
+{% include comments.html %}

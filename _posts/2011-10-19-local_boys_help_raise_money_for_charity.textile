@@ -2,6 +2,7 @@
 layout: post
 title: "Local Boys Help Raise Money for Charity"
 permalink: /archives/2011/10/local_boys_help_raise_money_for_charity.html
+commentfile: 2011-10-19-local_boys_help_raise_money_for_charity
 category: news
 date: 2011-10-19 21:15:34
 excerpt: |
@@ -30,3 +31,6 @@ bq. "Support from people like Cameron and Ryan and their fellow walkers means an
 To find out more about the charity's work in rural India and how you can help support them, visit their website "www.jeevika.org.uk":http://www.jeevika.org.uk.
 
 ??-- from a Press release??
+
+
+{% include comments.html %}

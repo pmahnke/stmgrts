@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Tasting with Les Caves de Pyrene - 10 April 2014"
 permalink: /archives/2014/03/event_reminder_tasting_with_les_caves_de_pyrene_10.html
+commentfile: 2014-03-26-event_reminder_tasting_with_les_caves_de_pyrene_10
 category: around_town
 date: 2014-03-26 21:58:34
 
@@ -29,3 +30,7 @@ h4. Some more reading on Natural Wines...
 The term "natural wine" is by no means precise, but is intended to highlight growers who work in a particular fashion, with minimal mediation, ideally to obtain the purest articulation of terroir, fruit or vintage in the wine. The expression implies that there are wines which are either unnatural, or less natural. This distinction is fundamental to the debate about the way that the wine proceeds from the vine to the bottle.
 
 Natural wines tend to be made in small quantities by artisan or independent producers from organically (or biodynamically) grown grapes in low yielding vineyards and then vinified without sugar, artificial yeasts or enzymes, or recourse to acidification or other adjustments. Most natural wines are neither filtered nor fined. Those that are will either be filtered lightly or fined with organic egg-white.
+
+
+
+{% include comments.html %}

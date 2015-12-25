@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Real Thomas Cromwell - 20 October 2014"
 permalink: /archives/2014/10/event_reminder_the_real_thomas_cromwell_20_october.html
+commentfile: 2014-10-02-event_reminder_the_real_thomas_cromwell_20_october
 category: around_town
 date: 2014-10-02 22:34:10
 excerpt: |
@@ -36,3 +37,7 @@ h4. More Information
 * Proceeds towards the Museum's Development Appeal
 * Tickets can be purchased with a credit card by phoning the MUSEUM of RICHMOND on 020 8332 1141.
 * For enquiries: 020 8332 1141 or "museumofrichmond@btconnect.com":mailto:museumofrichmond@btconnect.com
+
+
+
+{% include comments.html %}

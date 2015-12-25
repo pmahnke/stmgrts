@@ -2,6 +2,7 @@
 layout: post
 title: "Simon Chapman Wins a Richmond Community Awards 2013"
 permalink: /archives/2013/09/simon_chapman_wins_a_richmond_community_awards_201.html
+commentfile: 2013-09-26-simon_chapman_wins_a_richmond_community_awards_201
 category: news
 date: 2013-09-26 21:44:52
 
@@ -21,3 +22,9 @@ _Well done and thank you Simon_
 
 
 * "more details":http://www.richmond.gov.uk/home/council_government_and_democracy/council/get_involved/community_awards.htm
+
+
+
+
+
+{% include comments.html %}

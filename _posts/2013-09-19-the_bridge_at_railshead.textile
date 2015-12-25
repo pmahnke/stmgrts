@@ -2,6 +2,7 @@
 layout: post
 title: "The Bridge at Railshead"
 permalink: /archives/2013/09/the_bridge_at_railshead.html
+commentfile: 2013-09-19-the_bridge_at_railshead
 category: around_town
 date: 2013-09-19 23:00:05
 excerpt: |
@@ -50,3 +51,6 @@ bq. Pink-yellow stock brick, stone and render parapet cill with cast iron strapp
 Railshead Bridge, with its original brick arch and iron strapped parapet, still carries the main St Margarets to Isleworth road over the Crane, just as it has done for the past 180 years. It is of such a modest design that hundreds cross it every day without realising that they have done so... which is probably the most that you can of any bridge.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

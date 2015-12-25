@@ -2,6 +2,7 @@
 layout: post
 title: "Dylan at 70&#58; I Told Bob Dylan He was Dead"
 permalink: /archives/2011/05/dylan_at_70_i_told_bob_dylan_he_was_dead.html
+commentfile: 2011-05-24-dylan_at_70_i_told_bob_dylan_he_was_dead
 category: around_town
 date: 2011-05-24 09:53:40
 excerpt: |
@@ -53,3 +54,7 @@ Happy Birthday, Bob. May you stay forever young.
 <object width="480" height="390"><param name="movie" value="http://www.youtube-nocookie.com/v/9sldgunY3Fw?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/9sldgunY3Fw?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

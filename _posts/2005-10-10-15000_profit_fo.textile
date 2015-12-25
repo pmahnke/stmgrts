@@ -2,6 +2,7 @@
 layout: post
 title: "&pound;15000 profit for this year's St Margarets Moormead July Fair"
 permalink: /archives/2005/10/15000_profit_fo.html
+commentfile: 2005-10-10-15000_profit_fo
 category: news
 date: 2005-10-10 13:18:21
 
@@ -30,3 +31,6 @@ Here’s where the {-L}13,400 of the money’s gone this year –
 Next year's fair will be on Saturday July the 15<sup>th</sup>.  If you’re interested in having a stall next year, please contact Julia Kirkpatrick on 020 8241 1042. 
 
 p>. -- from the _St Margarets' Fair Committee_
+
+
+{% include comments.html %}

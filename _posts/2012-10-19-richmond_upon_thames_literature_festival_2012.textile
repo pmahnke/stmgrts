@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond upon Thames Literature Festival 2012"
 permalink: /archives/2012/10/richmond_upon_thames_literature_festival_2012.html
+commentfile: 2012-10-19-richmond_upon_thames_literature_festival_2012
 category: around_town
 date: 2012-10-19 23:08:39
 excerpt: |
@@ -20,3 +21,9 @@ Our programme for young people includes events with Emma Chichester Clark, the l
 Many of this years' festival events are set among prestigious heritage locations including galleries, arts centres and universities across the borough.
 
 We'll also be introducing The Literary Salon, supported by Arts Council England; our new pop-up shop which will provide a stage for some of the most exciting live literature events for all ages. The programme includes a podcasting workshop, tea, cake and storytelling, poetry, and performances from renowned spoken word artists Martin Figura & Byron Vincent and Inua Ellams & Jacob Sam-La Rose.
+
+
+
+
+
+{% include comments.html %}

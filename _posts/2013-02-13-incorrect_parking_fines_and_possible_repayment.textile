@@ -2,6 +2,7 @@
 layout: post
 title: "Incorrect Parking Fines and Possible Repayment"
 permalink: /archives/2013/02/incorrect_parking_fines_and_possible_repayment.html
+commentfile: 2013-02-13-incorrect_parking_fines_and_possible_repayment
 category: editorial
 date: 2013-02-13 21:28:45
 
@@ -28,3 +29,9 @@ _Why can't our professional parking operators/office/staff know and implement th
 ??rgds, David Houston??
 
 </div>
+
+
+
+
+
+{% include comments.html %}

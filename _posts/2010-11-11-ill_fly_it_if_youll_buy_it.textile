@@ -2,6 +2,7 @@
 layout: post
 title: "I'll Fly It If You'll Buy It!"
 permalink: /archives/2010/11/ill_fly_it_if_youll_buy_it.html
+commentfile: 2010-11-11-ill_fly_it_if_youll_buy_it
 category: around_town
 date: 2010-11-11 22:04:10
 excerpt: |
@@ -110,3 +111,7 @@ h4. Credits
 * The photograph of Spitfire Mk Vb AD241 "Twickenham II" is used with the kind permission of Richmond Library - Local Studies Collection
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

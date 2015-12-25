@@ -2,6 +2,7 @@
 layout: post
 title: "North St Margarets CPZ Consultations "
 permalink: /archives/2015/01/north_st_margarets_cpz_consultations.html
+commentfile: 2015-01-07-north_st_margarets_cpz_consultations
 category: news
 date: 2015-01-07 20:04:05
 excerpt: |
@@ -33,3 +34,8 @@ h4. More information
 * "St Margarets South Community Parking Zone Consultation":https://consultation.richmond.gov.uk/environment/st-margarets-south-community-parking-zone-consulta/consult_view
 * "St Margarets North Community Parking Zone Consultation":https://consultation.richmond.gov.uk/community-engagement/st-margarets-north-parking/consult_view
 * "Orchard Road & Netherton Roads Parking Zone Review":https://consultation.richmond.gov.uk/environment/orchard-road-netherton-roads-parking-zone-s2-revie/consult_view
+
+
+
+
+{% include comments.html %}

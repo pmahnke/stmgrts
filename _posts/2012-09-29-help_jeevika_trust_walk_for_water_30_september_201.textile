@@ -2,6 +2,7 @@
 layout: post
 title: "Help Jeevika Trust 'Walk for Water' - 30 September 2012"
 permalink: /archives/2012/09/help_jeevika_trust_walk_for_water_30_september_201.html
+commentfile: 2012-09-29-help_jeevika_trust_walk_for_water_30_september_201
 category: around_town
 date: 2012-09-29 10:39:40
 
@@ -26,3 +27,6 @@ People who would like to take part in Jeevika Trust's 'Walk for Water' can get m
 * visiting the website "www.jeevika.org.uk/WalkforWater2012.htm":http://www.jeevika.org.uk/WalkforWater2012.htm 
 * emailing "becky@jeevika.org.uk":mailto:becky@jeevika.org.uk 
 * calling 020 8973 3773 (Tuesday/Thursday or leave a message)
+
+
+{% include comments.html %}

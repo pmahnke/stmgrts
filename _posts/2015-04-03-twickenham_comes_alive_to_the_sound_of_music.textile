@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Comes Alive to the Sound of Music"
 permalink: /archives/2015/04/twickenham_comes_alive_to_the_sound_of_music.html
+commentfile: 2015-04-03-twickenham_comes_alive_to_the_sound_of_music
 category: around_town
 date: 2015-04-03 11:26:20
 
@@ -29,3 +30,7 @@ This Arts Council Grant offers the opportunity for artists working on 'The Stree
 For more information on The Streets or the Music and Drama Festival contact the Council's Arts Service on 020 8831 6000 or email "artsinfo@richmond.gov.uk":mailto:artsinfo@richmond.gov.uk
 
 <cite>-- from a "Richmond Council press release 12 March 2015":http://www.richmond.gov.uk/home/council/news/press_office/older_news/march_2015/twickenham_comes_alive_to_the_sound_of_music_thanks_to__600k_grant.htm</cite>
+
+
+
+{% include comments.html %}

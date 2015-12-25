@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Tops England in Primary School Sats 2011"
 permalink: /archives/2011/08/richmond_tops_england_in_primary_school_sats_2011.html
+commentfile: 2011-08-03-richmond_tops_england_in_primary_school_sats_2011
 category: news
 date: 2011-08-03 18:24:25
 excerpt: |
@@ -42,3 +43,6 @@ Again, Richmond did well compared to the national average on level 5, particular
 |Science|52%|50%|
 
 _All data from "Department of Education":http://www.education.gov.uk/rsgateway/DB/SFR/s001018/index.shtml
+
+
+{% include comments.html %}

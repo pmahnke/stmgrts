@@ -2,6 +2,7 @@
 layout: post
 title: "The Sea Wall, the Shaduf and St Margarets"
 permalink: /archives/2010/02/the_sea_wall_the_shaduf_and_st_margarets.html
+commentfile: 2010-02-17-the_sea_wall_the_shaduf_and_st_margarets
 category: around_town
 date: 2010-02-17 11:56:07
 excerpt: |
@@ -41,3 +42,7 @@ This 'machinery' consisted of a vertical post set firmly in the ground a few fee
 The railway came in 1845 and soon modern St Margarets began to fill in around it. Gradually the market gardens, the smallholdings and the seawalls that protected them began to disappear under concrete and landfill. In the 1920's workmen digging a deep trench in Worple Road in Old Isleworth found a reminder of the area as it once was. At a depth of about 11 feet they came across bundles of blackened twigs tied together and placed there at some time in the past to make a path across swampy ground.  The recent history of St Margarets is just beneath our feet... and it's very, very wet.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

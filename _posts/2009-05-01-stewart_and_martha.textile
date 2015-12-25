@@ -2,6 +2,7 @@
 layout: post
 title: "Stewart and Martha"
 permalink: /archives/2009/05/stewart_and_martha.html
+commentfile: 2009-05-01-stewart_and_martha
 category: around_town
 date: 2009-05-01 15:46:47
 excerpt: |
@@ -51,3 +52,7 @@ The last of Martha's bequest to the church was finally used this year to build a
 _Written with the generous assistance of Laurence Mann_
 
 <cite>-- from Martyn Day</cite> 
+
+
+
+{% include comments.html %}

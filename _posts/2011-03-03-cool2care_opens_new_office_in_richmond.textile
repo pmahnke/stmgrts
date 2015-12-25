@@ -2,6 +2,7 @@
 layout: post
 title: "Cool2Care Opens New Office in Richmond"
 permalink: /archives/2011/03/cool2care_opens_new_office_in_richmond.html
+commentfile: 2011-03-03-cool2care_opens_new_office_in_richmond
 category: news
 date: 2011-03-03 22:02:55
 excerpt: |
@@ -47,3 +48,7 @@ h4. Details
 * Email: "vikki.croxson@cool2care.co.uk":mailto:vikki.croxson@cool2care.co.uk
 
 <em>-- from a press release</em>
+
+
+
+{% include comments.html %}

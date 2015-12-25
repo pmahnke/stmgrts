@@ -2,6 +2,7 @@
 layout: post
 title: "Councillors Collect 500 Signatures Against Chelsea FC"
 permalink: /archives/2014/10/councillors_collect_500_signatures_against_chelsea.html
+commentfile: 2014-10-16-councillors_collect_500_signatures_against_chelsea
 category: news
 date: 2014-10-16 22:57:18
 excerpt: |
@@ -32,3 +33,7 @@ He added:
 bq. "As the local Councillors we have made clear to the RFU that the silence has gone on long enough.  Local people are increasingly concerned with the spectre of fortnightly football matches in Twickenham and we have asked the RFU Board to terminate discussions with Chelsea Football Club and reassure the public that this unwanted proposal will not go ahead."
 
 <cite>-- from a Liberal Democrats press release - 15 October 2014</cite>
+
+
+
+{% include comments.html %}

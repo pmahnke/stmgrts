@@ -2,6 +2,7 @@
 layout: post
 title: "New Local School for Twickenham"
 permalink: /archives/2012/05/new_local_school_for_twickenham.html
+commentfile: 2012-05-03-new_local_school_for_twickenham
 category: news
 date: 2012-05-03 17:30:15
 
@@ -23,3 +24,7 @@ The steering group will work with the council to identify a suitable location fo
 For more information about the proposed school, and information on how to register your interest, visit "www.newlocalschool4twickenham.org.uk":http://www.newlocalschool4twickenham.org.uk
 
 <cite>-- from a New Local School for Twickenham Steering Group press release - 27 April 2012</cite>
+
+
+
+{% include comments.html %}

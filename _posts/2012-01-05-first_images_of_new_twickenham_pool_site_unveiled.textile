@@ -2,6 +2,7 @@
 layout: post
 title: "First Images of New Twickenham Pool Site Unveiled"
 permalink: /archives/2012/01/first_images_of_new_twickenham_pool_site_unveiled.html
+commentfile: 2012-01-05-first_images_of_new_twickenham_pool_site_unveiled
 category: news
 date: 2012-01-05 10:18:57
 
@@ -18,3 +19,8 @@ An artist's impression and other drawings of the site have been made public by t
 h4. More Information
 
 * "view the plans":http://www.richmond.gov.uk/home/council_government_and_democracy/council/currentprojects/jubilee_gardens.htm
+
+
+
+
+{% include comments.html %}

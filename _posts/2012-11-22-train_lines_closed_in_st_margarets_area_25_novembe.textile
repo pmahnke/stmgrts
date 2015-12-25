@@ -2,6 +2,7 @@
 layout: post
 title: "Train Lines Closed in St Margarets Area - 25 November 2012"
 permalink: /archives/2012/11/train_lines_closed_in_st_margarets_area_25_novembe.html
+commentfile: 2012-11-22-train_lines_closed_in_st_margarets_area_25_novembe
 category: news
 date: 2012-11-22 10:39:57
 
@@ -21,3 +22,9 @@ Train services will run between Kew Bridge and Woking, connecting with a replace
 Replacement bus services will run between Clapham Junction and Twickenham, connecting there with the altered Reading and Windsor trains.
 
 * "more information":http://www.southwesttrains.co.uk/NovEng2012.aspx#107815
+
+
+
+
+
+{% include comments.html %}

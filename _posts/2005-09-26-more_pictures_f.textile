@@ -2,6 +2,7 @@
 layout: post
 title: "More Pictures from the St Margarets Autumn Event"
 permalink: /archives/2005/09/more_pictures_f.html
+commentfile: 2005-09-26-more_pictures_f
 category: around_town
 date: 2005-09-26 11:35:15
 
@@ -12,3 +13,10 @@ date: 2005-09-26 11:35:15
 Stevan Bennett has given us "five more photos":/static/fair/aut_05_2.html of the _St Margarets Autumn Event_ to share.  Most are from the dog show.
 
 Thank you Stevan.
+
+
+
+
+
+
+{% include comments.html %}

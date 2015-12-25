@@ -2,6 +2,7 @@
 layout: post
 title: "Isleworth Promenade&#58; Do You Like the Change?"
 permalink: /archives/2014/08/isleworth_promenade_do_you_like_the_change.html
+commentfile: 2014-08-14-isleworth_promenade_do_you_like_the_change
 category: news
 date: 2014-08-14 22:16:39
 excerpt: |
@@ -24,3 +25,7 @@ Volunteers also reopened up a couple of vistas to the bend in the Thames. The tr
 If you would like to be involved in establishing a friends group then please contact us on "hello@swlen.org.uk":mailto:hello@swlen.org.uk or 020 8892 0590.
 
 More information can be found at "www.swlen.org.uk":http://www.swlen.org.uk/looking-for-a-group/isleworth-promenade/
+
+
+
+{% include comments.html %}

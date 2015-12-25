@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council Denies Offering Site for Catholic School"
 permalink: /archives/2011/10/richmond_council_denies_offering_site_for_catholic.html
+commentfile: 2011-10-19-richmond_council_denies_offering_site_for_catholic
 category: news
 date: 2011-10-19 21:36:45
 
@@ -18,3 +19,7 @@ Nick Whitfield, the Director of Education, explained that the Council's contract
 The Committee agreed to minute the fact that there was disagreement between its members on whether or not a key decision had actually been taken.
 
 -- from a "Richmond Inclusive Schools Campaign press release - 18 October 2011":http://www.richmondinclusiveschools.org.uk/files/?folder_id=6143985
+
+
+
+{% include comments.html %}

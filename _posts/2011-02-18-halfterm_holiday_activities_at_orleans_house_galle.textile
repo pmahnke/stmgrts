@@ -2,6 +2,7 @@
 layout: post
 title: "Half-term Holiday Activities at Orleans House Gallery"
 permalink: /archives/2011/02/halfterm_holiday_activities_at_orleans_house_galle.html
+commentfile: 2011-02-18-halfterm_holiday_activities_at_orleans_house_galle
 category: around_town
 date: 2011-02-18 14:52:52
 
@@ -80,3 +81,7 @@ _New places available in response to demand._
 h3. Booking
 
 Booking is essential for all half term activities. Book online or call Orleans House Gallery at 020 8831 6000.
+
+
+
+{% include comments.html %}

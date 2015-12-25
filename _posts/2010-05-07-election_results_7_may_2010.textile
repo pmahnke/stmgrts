@@ -2,6 +2,7 @@
 layout: post
 title: "Election Results&#58; St Margarets &amp; North Twickenham Ward - 7 May 2010"
 permalink: /archives/2010/05/election_results_7_may_2010.html
+commentfile: 2010-05-07-election_results_7_may_2010
 category: news
 date: 2010-05-07 14:29:08
 excerpt: |
@@ -43,3 +44,7 @@ h3. Full results
 |Smart Felicity|Independent|574|
 |Suren Rupert William|Independent|109|
 |Tutchell Derek John Arthur|Labour Party|358|
+
+
+
+{% include comments.html %}

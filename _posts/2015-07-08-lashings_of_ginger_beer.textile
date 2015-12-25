@@ -2,6 +2,7 @@
 layout: post
 title: "Lashings of Ginger Beer!"
 permalink: /archives/2015/07/lashings_of_ginger_beer.html
+commentfile: 2015-07-08-lashings_of_ginger_beer
 category: around_town
 date: 2015-07-08 20:30:22
 excerpt: |
@@ -104,3 +105,7 @@ GINGER BEER, ANYONE?
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

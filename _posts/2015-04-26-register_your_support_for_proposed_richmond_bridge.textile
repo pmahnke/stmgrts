@@ -2,6 +2,7 @@
 layout: post
 title: "Register Your Support for Proposed Richmond Bridge School"
 permalink: /archives/2015/04/register_your_support_for_proposed_richmond_bridge.html
+commentfile: 2015-04-26-register_your_support_for_proposed_richmond_bridge
 category: news
 date: 2015-04-26 08:42:35
 excerpt: |
@@ -24,3 +25,7 @@ bq. "A crucial element of our application to the Department for Education is dem
 Bellevue Place Education Trust was established to offer a combination of the best that independent and state education has to offer to parents and pupils from all backgrounds. Richmond Bridge School will be part of the wider Bellevue Place Education Trust family of schools and will be the sister school to Deer Park School which is set to open this autumn near its permanent site in Lower Mortlake Road,
 
 To register your support, please visit "www.richmondbridgeprimary.co.uk/register":http://www.richmondbridgeprimary.co.uk/register
+
+
+
+{% include comments.html %}

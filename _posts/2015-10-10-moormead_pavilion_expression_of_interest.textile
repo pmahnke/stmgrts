@@ -2,6 +2,7 @@
 layout: post
 title: "Moormead Pavilion - Expression of interest"
 permalink: /archives/2015/10/moormead_pavilion_expression_of_interest.html
+commentfile: 2015-10-10-moormead_pavilion_expression_of_interest
 category: news
 date: 2015-10-10 10:50:41
 excerpt: |
@@ -39,3 +40,8 @@ David Allister
 Head of Parks, Document & Delivery
 
 </div>
+
+
+
+
+{% include comments.html %}

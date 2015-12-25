@@ -2,6 +2,7 @@
 layout: post
 title: "Guy Fawkes Night & Fireworks 2010 "
 permalink: /archives/2010/11/guy_fawkes_night_fireworks_2010.html
+commentfile: 2010-11-01-guy_fawkes_night_fireworks_2010
 category: around_town
 date: 2010-11-01 16:43:10
 
@@ -34,3 +35,9 @@ h3. Sunday, 7<sup>th</sup> November
 
 * "Richmond":http://www.viewlondon.co.uk/richmond-fireworks-display.aspx
 From 17:00, display at 19:00
+
+
+
+
+
+{% include comments.html %}

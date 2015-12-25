@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans Park Sixth Forms to Open"
 permalink: /archives/2015/03/orleans_park_sixth_forms_opens.html
+commentfile: 2015-03-12-orleans_park_sixth_forms_opens
 category: news
 date: 2015-03-12 22:03:48
 
@@ -57,3 +58,7 @@ bq. "We are delighted that Richmond Council was committed to introduce sixth for
 Both sixth forms offer traditional A-level subjects including English, Maths, and Science. A range of specialist subject areas are also available, such as A-Levels in Fine Art or Philosophy and Ethics at Christ's sixth form, and A-Levels in Spanish, French and German, or photography at Orleans Park.
 
 <cite>-- from a Richmond Council "press release - 27 February 2015":http://www.richmond.gov.uk/home/council/news/press_office/older_news/february_2015/two_more_sixth_form_centres_to_be_officially_opened.htm</cite>
+
+
+
+{% include comments.html %}

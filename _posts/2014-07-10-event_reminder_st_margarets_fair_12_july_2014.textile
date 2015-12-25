@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Fair - 12 July 2014"
 permalink: /archives/2014/07/event_reminder_st_margarets_fair_12_july_2014.html
+commentfile: 2014-07-10-event_reminder_st_margarets_fair_12_july_2014
 category: around_town
 date: 2014-07-10 23:03:44
 excerpt: |
@@ -68,3 +69,6 @@ h4. Schedule of events
 |16:45-17:15|Marble Hill Dance Studios|Display arena|
 |17.20-18.00|Nark Drool & The Shudders|Music stage|
 |18.30-19.30/45|The Deputies|Music stage|
+
+
+{% include comments.html %}

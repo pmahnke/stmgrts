@@ -2,6 +2,7 @@
 layout: post
 title: "Disorder on the Border"
 permalink: /archives/2012/01/disorder_on_the_border.html
+commentfile: 2012-01-26-disorder_on_the_border
 category: around_town
 date: 2012-01-26 22:33:39
 excerpt: |
@@ -65,3 +66,9 @@ The Heston/Isleworth disagreement continued until the matter was eventually brou
 Debate about local boundaries continues to this day. Prior to 1994 those of us who lived in north St Margarets were citizens of the London Borough of Hounslow and enjoyed the many benefits that went with it - low council rates - or 'community charges' as they were known then - and the peace of mind that came with Hounslow's "Nuclear Free Umbrella." Then in 1994 it was decided to move the eastern end of the boundary away from the Thames westwards to the River Crane. Suddenly north St Margarets became part of the London Borough of Richmond. Council charges went up - but so did house prices by about 10%. More recently the parish of St Margarets-on-Thames (note the "on-Thames" bit!,) centred on the church of All Souls in Haliburton Road, had its own boundary extended westwards to include the Ivybridge Estate... which in a roundabout sort of way brings us back to where we started.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

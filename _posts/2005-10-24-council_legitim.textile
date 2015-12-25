@@ -2,6 +2,7 @@
 layout: post
 title: "Details Emerge on Tesco's Loading Bay"
 permalink: /archives/2005/10/council_legitim.html
+commentfile: 2005-10-24-council_legitim
 category: editorial
 date: 2005-10-24 18:27:51
 
@@ -89,3 +90,7 @@ The Council continues to meet with representatives of Tesco's and is always grat
 I trust this provides you with information that you require although I appreciate that the reply from Tesco may not indicate the sort of changes that you are seeking. Should you see any vehicle inappropriately parked then please do not hesitate to contact the Parking Hotline on 020 8744 0462 (available from 07:00 until midnight)."
 
 p>. Andrew Darvill, _Assistant Director (Traffic & Transport)_, Richmond Council
+
+
+
+{% include comments.html %}

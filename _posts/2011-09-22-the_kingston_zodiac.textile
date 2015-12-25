@@ -2,6 +2,7 @@
 layout: post
 title: "The Kingston Zodiac"
 permalink: /archives/2011/09/the_kingston_zodiac.html
+commentfile: 2011-09-22-the_kingston_zodiac
 category: around_town
 date: 2011-09-22 11:20:22
 excerpt: |
@@ -54,3 +55,8 @@ In these troubled times we all need a gentler, more magical world to go to, if o
 _Credits: The drawings of the Kingston Zodiac and Sagittarius are from Mary Caine's book "The Kingston Zodiac" (revised in 1978)_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

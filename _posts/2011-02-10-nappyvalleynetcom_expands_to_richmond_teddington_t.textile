@@ -2,6 +2,7 @@
 layout: post
 title: "NappyValleyNet.com expands to Richmond, Teddington & Twickenham"
 permalink: /archives/2011/02/nappyvalleynetcom_expands_to_richmond_teddington_t.html
+commentfile: 2011-02-10-nappyvalleynetcom_expands_to_richmond_teddington_t
 category: around_town
 date: 2011-02-10 20:09:06
 
@@ -20,3 +21,9 @@ Businesses interested in hearing more about the benefits of working with NappyVa
 Mums can join in by registering online at "www.nappyvalleynet.com":http://www.nappyvalleynet.com.
 
 <em>-- from a press release</em>
+
+
+
+
+
+{% include comments.html %}

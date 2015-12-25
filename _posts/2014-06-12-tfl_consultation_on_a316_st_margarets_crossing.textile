@@ -2,6 +2,7 @@
 layout: post
 title: "TFL Consultation on A316 St Margarets Crossing"
 permalink: /archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
+commentfile: 2014-06-12-tfl_consultation_on_a316_st_margarets_crossing
 category: news
 date: 2014-06-12 23:09:35
 excerpt: |
@@ -26,3 +27,7 @@ bq.. To make full use of the new toucan crossing, we propose to remove the cycle
 The toucan crossing would improve accessibility for everyone. All roads on this roundabout would then have accessible crossing points.
 
 p. The consultation runs until 4 July 2014. "For more information and to fill out the survey.":https://consultations.tfl.gov.uk/consultation-and-engagement/a316-st-margarets-crossing/consult_view
+
+
+
+{% include comments.html %}

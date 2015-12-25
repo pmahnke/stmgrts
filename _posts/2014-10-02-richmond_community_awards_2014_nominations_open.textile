@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Community Awards 2014 - Nominations Open"
 permalink: /archives/2014/10/richmond_community_awards_2014_nominations_open.html
+commentfile: 2014-10-02-richmond_community_awards_2014_nominations_open
 category: news
 date: 2014-10-02 21:49:21
 excerpt: |
@@ -25,3 +26,7 @@ Once the nominations are in, a panel of Council officers, chaired by the Leader 
 * Winners will receive a commemorative lapel pin and certificate.
 * Nominations are open between Monday 8 September 2014 and Friday 17 October 2014.
 * "More information":http://www.richmond.gov.uk/community_awards
+
+
+
+{% include comments.html %}

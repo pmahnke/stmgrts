@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon De Sables&#58; 6 weeks to go"
 permalink: /archives/2010/02/the_marathon_de_sables_6_weeks_to_go.html
+commentfile: 2010-02-25-the_marathon_de_sables_6_weeks_to_go
 category: around_town
 date: 2010-02-25 20:10:07
 
@@ -20,3 +21,7 @@ So I plan do another 4 long runs between now and when I go. I'm starting to tape
 I am raising money for F.R.O.D.O. which is a charity transforming the quality of life and providing hope for disabled children in developing countries. If you would like to sponsor me then please visit "justgiving.com/Georgie-Islip":http://justgiving.com/Georgie-Islip Thank you for all you support.
 
 <em>Georgie runs her own training business, providing 1:2:1 training, run together sessions or will happily help you with your training and fitness goals. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.</em>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Mindfulness Taster Session - 8 December 2014"
 permalink: /archives/2014/11/event_reminder_mindfulness_taster_session_8_decemb.html
+commentfile: 2014-11-22-event_reminder_mindfulness_taster_session_8_decemb
 category: around_town
 date: 2014-11-22 09:12:52
 
@@ -18,3 +19,7 @@ Could mindfulness be your path to less stress and greater wellbeing?  Come along
 h4. More Information
 
 * check details on "www.makespacetobe.com":http://www.makespacetobe.com
+
+
+
+{% include comments.html %}

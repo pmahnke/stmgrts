@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans Infants and St Stephens to Convert to Primary Schools by September 2012"
 permalink: /archives/2011/10/orleans_infants_and_st_stephens_to_convert_to_prim.html
+commentfile: 2011-10-14-orleans_infants_and_st_stephens_to_convert_to_prim
 category: news
 date: 2011-10-14 09:35:01
 
@@ -58,3 +59,7 @@ St Stephen's CE Junior
 
 
 </div>
+
+
+
+{% include comments.html %}

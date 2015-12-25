@@ -2,6 +2,7 @@
 layout: post
 title: "Charity Wine Tasting"
 permalink: /archives/2006/03/charity_wine_ta.html
+commentfile: 2006-03-07-charity_wine_ta
 category: around_town
 date: 2006-03-07 15:58:38
 
@@ -18,3 +19,8 @@ If you can't come, but want to sponsor Paul in the London Marathon, visit "http:
 <a href="//stmgrts.org.uk/assets/images/2006/Wine-Tasting-15th-March.gif">Click for details.</a>
 
 NOTE: _Don't forget, Toby Hartwell, another local resident, is running this year's London Marathon and and raising money with "a concert at the Turk's Head":/cgi-bin/events.cgi?action=getevent&key=200602091031 on 10 March._
+
+
+
+
+{% include comments.html %}

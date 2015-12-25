@@ -2,6 +2,7 @@
 layout: post
 title: "Update&#58; The Minister of Chance"
 permalink: /archives/2011/05/update_the_minister_of_chance.html
+commentfile: 2011-05-19-update_the_minister_of_chance
 category: around_town
 date: 2011-05-19 12:22:17
 
@@ -24,3 +25,9 @@ Executive Producer
 download the Prologue (free) and First Episode (&pound;1.29) via: "www.ministerofchance.com":http://www.ministerofchance.com
 
 </div>
+
+
+
+
+
+{% include comments.html %}

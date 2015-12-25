@@ -2,6 +2,7 @@
 layout: post
 title: "Help Make a New ITV Series&#58; Neighbours"
 permalink: /archives/2015/02/help_make_a_new_itv_series_neighbours.html
+commentfile: 2015-02-05-help_make_a_new_itv_series_neighbours
 category: around_town
 date: 2015-02-05 08:00:31
 excerpt: |
@@ -24,3 +25,7 @@ If you are interested in this programme, please contact:
 
 * 0207 067 4855 / 07857 991376
 * or email "neighbours@loveproductions.co.uk":mailto:neighbours@loveproductions.co.uk
+
+
+
+{% include comments.html %}

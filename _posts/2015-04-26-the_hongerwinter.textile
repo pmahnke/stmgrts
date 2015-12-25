@@ -2,6 +2,7 @@
 layout: post
 title: "The Hongerwinter"
 permalink: /archives/2015/04/the_hongerwinter.html
+commentfile: 2015-04-26-the_hongerwinter
 category: around_town
 date: 2015-04-26 11:22:56
 excerpt: |
@@ -61,3 +62,10 @@ NOTE: Some images taken in Holland during the <a href="https://youtu.be/poMfISFF
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+{% include comments.html %}

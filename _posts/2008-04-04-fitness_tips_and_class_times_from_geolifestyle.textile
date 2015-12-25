@@ -2,6 +2,7 @@
 layout: post
 title: "Fitness Tips and Class Times from GeoLifestyle - No. 1"
 permalink: /archives/2008/04/fitness_tips_and_class_times_from_geolifestyle.html
+commentfile: 2008-04-04-fitness_tips_and_class_times_from_geolifestyle
 category: around_town
 date: 2008-04-04 09:58:33
 excerpt: |
@@ -59,3 +60,7 @@ h4. Boot camps
 I will be running boot camps over the next few months. These would involve training early morning every day for a two week period. The boot camps will be held during May, June, July, August and September. Places will be limited so booking is advisable.
 
 For more information please call me on 07736 070612.  
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Christmas Market"
 permalink: /archives/2007/11/event_reminder_christmas_market.html
+commentfile: 2007-11-07-event_reminder_christmas_market
 category: around_town
 date: 2007-11-07 08:03:25
 
@@ -22,3 +23,8 @@ Lots of great stalls - many by local Mums, including:-
 * Cards, Christmas cards, wrapping paper, advent calendars
 
 and "much more...":http://stmgrts.org.uk/event/fair/200705141723
+
+
+
+
+{% include comments.html %}

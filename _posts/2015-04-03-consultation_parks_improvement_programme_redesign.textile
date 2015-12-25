@@ -2,6 +2,7 @@
 layout: post
 title: "Consultation&#58; Parks Improvement Programme - Redesign of Champion's Wharf"
 permalink: /archives/2015/04/consultation_parks_improvement_programme_redesign.html
+commentfile: 2015-04-03-consultation_parks_improvement_programme_redesign
 category: around_town
 date: 2015-04-03 11:14:20
 
@@ -12,3 +13,9 @@ As part of our commitment to continually improve our parks and open spaces, Lond
 * "Learn more and have your say.":https://consultation.richmond.gov.uk/parks-open-spaces/champions-wharf/consult_view
 
 _Ends 8 April 2015_
+
+
+
+
+
+{% include comments.html %}

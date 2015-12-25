@@ -2,6 +2,7 @@
 layout: post
 title: "The Tao of Traffic"
 permalink: /archives/2012/11/the_tao_of_traffic.html
+commentfile: 2012-11-22-the_tao_of_traffic
 category: around_town
 date: 2012-11-22 11:02:22
 excerpt: |
@@ -102,3 +103,7 @@ During his many years of research into the psychology of traffic Professor Strad
 # Incidents on motorways cause slowdowns and hold ups - and these can result in 'ghost effects' which may last for some time after the event. If you are driving along a motorway and suddenly run into a traffic build up that has no apparent cause then you may have run into the 'ghost' of an incident or accident that may have happened miles away and hours earlier.
 
 </div>
+
+
+
+{% include comments.html %}

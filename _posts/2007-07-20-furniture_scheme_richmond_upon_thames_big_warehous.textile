@@ -2,6 +2,7 @@
 layout: post
 title: "Furniture Scheme Richmond upon Thames' Big Warehouse Sale"
 permalink: /archives/2007/07/furniture_scheme_richmond_upon_thames_big_warehous.html
+commentfile: 2007-07-20-furniture_scheme_richmond_upon_thames_big_warehous
 category: around_town
 date: 2007-07-20 09:46:58
 
@@ -15,3 +16,8 @@ We are overwhelmed with furniture and very little space in our warehouse.  We ha
 
 
 "See details here":http://www.stmgrts.org.uk/event/exhibition/200705141667
+
+
+
+
+{% include comments.html %}

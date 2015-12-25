@@ -2,6 +2,7 @@
 layout: post
 title: "A Life Down Below"
 permalink: /archives/2015/02/a_life_down_below.html
+commentfile: 2015-02-05-a_life_down_below
 category: around_town
 date: 2015-02-05 22:14:14
 excerpt: |
@@ -68,3 +69,8 @@ A song about sewers and flushers written by Sydney Carter and performed by Ian W
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

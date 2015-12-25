@@ -2,6 +2,7 @@
 layout: post
 title: "Local Artists at JMW Turner's House for ARThouse 2015"
 permalink: /archives/2015/06/local_artists_at_jmw_turners_house_for_arthouse_20.html
+commentfile: 2015-06-25-local_artists_at_jmw_turners_house_for_arthouse_20
 category: around_town
 date: 2015-06-25 19:28:28
 excerpt: |
@@ -24,3 +25,7 @@ Over the past year Beverley Waller has been inspired by the beauty of Turner's H
 Jim Woodman's inspiration is the landscape, one of his favourite locations being the Thames and its environs in London, as it was for Turner, who designed his country retreat, Sandycombe Lodge, near the river at St Margarets, Twickenham. A member of the National Society of Painters, Sculptors and Printmakers, Jim uses oils and watercolours in strong, vibrant colours.
 
 Both are widely exhibited in both public and private galleries.
+
+
+
+{% include comments.html %}

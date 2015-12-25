@@ -2,6 +2,7 @@
 layout: post
 title: "The Other Christmas Truce - 1915"
 permalink: /archives/2014/12/the_other_christmas_truce_1915.html
+commentfile: 2014-12-18-the_other_christmas_truce_1915
 category: around_town
 date: 2014-12-18 21:46:09
 excerpt: |
@@ -93,3 +94,12 @@ About the Christmas Truce of 1914 with music by Mike Harding.
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+
+
+{% include comments.html %}

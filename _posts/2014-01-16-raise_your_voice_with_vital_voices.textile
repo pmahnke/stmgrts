@@ -2,6 +2,7 @@
 layout: post
 title: "Raise Your Voice with Vital Voices!"
 permalink: /archives/2014/01/raise_your_voice_with_vital_voices.html
+commentfile: 2014-01-16-raise_your_voice_with_vital_voices
 category: around_town
 date: 2014-01-16 19:02:14
 excerpt: |
@@ -29,3 +30,7 @@ h4. More Information
 * &pound;10 per session or &pound;40 for 5 sessions (starts 15<sup>th</sup> Jan 2014)
 * "info@vitalvoices.co.uk":mailto:info@vitalvoices.co.uk
 * 07770 993289
+
+
+
+{% include comments.html %}

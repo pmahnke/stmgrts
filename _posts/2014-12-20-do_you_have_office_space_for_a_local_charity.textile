@@ -2,6 +2,7 @@
 layout: post
 title: "Do you have Office Space for a Local Charity?"
 permalink: /archives/2014/12/do_you_have_office_space_for_a_local_charity.html
+commentfile: 2014-12-20-do_you_have_office_space_for_a_local_charity
 category: around_town
 date: 2014-12-20 05:36:04
 
@@ -22,3 +23,7 @@ If you can help please contact Mandie or Liz
 * Mandie 07870 194018  or Liz 07976 906345
 * "adams.appeal@virgin.net":mailto:adams.appeal@virgin.net  or  "liz@davidadamsleukaemiaappeal.org":mailto:liz@davidadamsleukaemiaappeal.org
 * For more information about the charity: "www.davidadamsleukaemiaappeal.org":http://www.davidadamsleukaemiaappeal.org
+
+
+
+{% include comments.html %}

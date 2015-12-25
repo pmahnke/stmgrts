@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; The 2006 St Margarets Fair"
 permalink: /archives/2006/07/event_reminder_6.html
+commentfile: 2006-07-07-event_reminder_6
 category: around_town
 date: 2006-07-07 11:49:30
 excerpt: |
@@ -20,3 +21,8 @@ The Fair is a charity event and this year half of the income will go to the four
 The "programme of events":http://www.stmgrts.org.uk/static/fair/smf_06_programme.html for this year's Fair include six bands, a football tournament, korfball, country dancing, a dog show, a charity auction and will be opened by Samantha Bond (aka Miss Moneypenny).
 
 _Come down for a great day out and help support your local community._
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Return of the Twang!"
 permalink: /archives/2011/06/the_return_of_the_twang.html
+commentfile: 2011-06-30-the_return_of_the_twang
 category: around_town
 date: 2011-06-30 09:02:26
 excerpt: |
@@ -57,3 +58,7 @@ h4. Duane Eddy - 'Rebel Rouser' on YouTube
 <em>Credit: Duane and the Rebels, taken at Finsbury Park Empire - April 1960 l-r pianist Larry Knetchtel, drummer Jimmy Troxel, Duane Eddy, bassist Dave Campbell, sax-player Jim Horn. Photograph by Harry Hammond.</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Local Artist Sets off in the footsteps of Turner"
 permalink: /archives/2014/12/local_artist_sets_off_in_the_footsteps_of_turner.html
+commentfile: 2014-12-04-local_artist_sets_off_in_the_footsteps_of_turner
 category: around_town
 date: 2014-12-04 22:43:27
 excerpt: |
@@ -40,3 +41,8 @@ h4. More Information
 
 * "Fundraising campaign page":https://www.indiegogo.com/projects/in-the-footsteps-of-turner/x/8942803
 * "Facebook page":https://www.facebook.com/turnersfootsteps
+
+
+
+
+{% include comments.html %}

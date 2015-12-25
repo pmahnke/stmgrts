@@ -2,6 +2,7 @@
 layout: post
 title: "Local Schools Statutory Proposals Now Online"
 permalink: /archives/2011/11/local_schools_statutory_proposals_now_online.html
+commentfile: 2011-11-18-local_schools_statutory_proposals_now_online
 category: news
 date: 2011-11-18 09:34:38
 
@@ -24,3 +25,9 @@ TW1 3BZ
 
 * Email: "m.paul@richmond.gov.uk":mailto:m.paul@richmond.gov.uk
 * Telephone: 020 8891 7588
+
+
+
+
+
+{% include comments.html %}

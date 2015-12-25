@@ -2,6 +2,7 @@
 layout: post
 title: "The Friends publish the first Guide book to Richmond Park"
 permalink: /archives/2011/03/the_friends_publish_the_first_guide_book_to_richmo.html
+commentfile: 2011-03-25-the_friends_publish_the_first_guide_book_to_richmo
 category: news
 date: 2011-03-25 08:48:36
 excerpt: |
@@ -63,3 +64,6 @@ h4. The Guide to Richmond Park
 * Design and production by Alison Graham
 
 </div>
+
+
+{% include comments.html %}

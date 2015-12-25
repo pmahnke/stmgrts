@@ -2,6 +2,7 @@
 layout: post
 title: "Apply Now to Join ARThouse Open Studios Festival 2014"
 permalink: /archives/2014/01/apply_now_to_join_arthouse_open_studios_festival_2.html
+commentfile: 2014-01-23-apply_now_to_join_arthouse_open_studios_festival_2
 category: around_town
 date: 2014-01-23 21:53:25
 excerpt: |
@@ -24,3 +25,11 @@ ARThouse 2014 will take place over the following two weekends:
 * 4 - 6 July 2014
 
 "Applications for ARThouse 2014 are now open welcoming individuals, groups, schools and community groups to take part.":http://www.richmond.gov.uk/arthouse_open_studios
+
+
+
+
+
+
+
+{% include comments.html %}

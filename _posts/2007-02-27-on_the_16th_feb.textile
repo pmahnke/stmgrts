@@ -2,6 +2,7 @@
 layout: post
 title: "Planning Permission Refused for Hand Car Wash"
 permalink: /archives/2007/02/on_the_16th_feb.html
+commentfile: 2007-02-27-on_the_16th_feb
 category: news
 date: 2007-02-27 16:40:02
 
@@ -18,3 +19,8 @@ The refusal was for five planning reasons:
 # no local wildlife impact assessment
 
 For all the details, read the Committee's letter <a href="//stmgrts.org.uk/assets/images/2007/refused_car_wash.pdf">here (PDF)</a>.
+
+
+
+
+{% include comments.html %}

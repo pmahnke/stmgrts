@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon de Sables&#58; 1st April 2010. 10 Weeks To Go."
 permalink: /archives/2010/01/the_marathon_de_sables_1st_april_2010_10_weeks_to.html
+commentfile: 2010-01-21-the_marathon_de_sables_1st_april_2010_10_weeks_to
 category: news
 date: 2010-01-21 12:34:22
 excerpt: |
@@ -31,3 +32,6 @@ I am raising money for F.R.O.D.O. which is a charity transforming the quality of
 Georgie runs her own training business, providing 1:2:1 training, run together sessions or will happily help you with your training and fitness goals. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.
 
 <cite>--  from Georgie Islip</cite>
+
+
+{% include comments.html %}

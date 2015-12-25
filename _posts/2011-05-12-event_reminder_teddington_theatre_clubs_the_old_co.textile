@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Teddington Theatre Club's The Old Country"
 permalink: /archives/2011/05/event_reminder_teddington_theatre_clubs_the_old_co.html
+commentfile: 2011-05-12-event_reminder_teddington_theatre_clubs_the_old_co
 category: around_town
 date: 2011-05-12 10:02:06
 excerpt: |
@@ -24,3 +25,6 @@ h4. Details
 * Tickets: £8/£10  
 * Box office: Telephone 0845 838 7529 (between 10am and 8pm only)
 * Online bookings: www.ttc-boxoffice.org.uk 
+
+
+{% include comments.html %}

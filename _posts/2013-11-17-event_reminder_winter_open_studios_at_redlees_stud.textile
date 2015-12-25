@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Winter Open Studios at Redlees Studios"
 permalink: /archives/2013/11/event_reminder_winter_open_studios_at_redlees_stud.html
+commentfile: 2013-11-17-event_reminder_winter_open_studios_at_redlees_stud
 category: around_town
 date: 2013-11-17 20:48:55
 
@@ -21,3 +22,9 @@ Visit the gallery and the individual studios, meet new artists, find original pr
 * Saturday 7<sup>th</sup> and Sunday 8<sup>th</sup>  December:  11am-6pm
 
 _Light refreshments, raffle of artists' works, free entry and free parking_
+
+
+
+
+
+{% include comments.html %}

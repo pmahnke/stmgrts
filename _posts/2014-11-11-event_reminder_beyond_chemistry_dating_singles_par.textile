@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Beyond Chemistry Dating Singles Party - 2 December 2014 "
 permalink: /archives/2014/11/event_reminder_beyond_chemistry_dating_singles_par.html
+commentfile: 2014-11-11-event_reminder_beyond_chemistry_dating_singles_par
 category: around_town
 date: 2014-11-11 20:50:30
 
@@ -22,3 +23,9 @@ h4. More Information
 
 * Tickets are &pound;20
 * Buy online at "www.beyondchemistrydating.co.uk":http://www.beyondchemistrydating.co.uk
+
+
+
+
+
+{% include comments.html %}

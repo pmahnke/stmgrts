@@ -2,6 +2,7 @@
 layout: post
 title: "Medieval Mugging in St Margarets"
 permalink: /archives/2008/11/medieval_mugging_in_st_margarets.html
+commentfile: 2008-11-28-medieval_mugging_in_st_margarets
 category: around_town
 date: 2008-11-28 12:52:33
 excerpt: |
@@ -53,3 +54,7 @@ p. Although in the past the Mummers Plays would be performed all around a distri
 <strong>You are invited to join us to welcome in Christmas in medieval style. The play starts at "4.15pm on Saturday December 6th in the Church Hall, Northcote Road":http://www.stmgrts.org.uk/event/play/200705142010. Admission is free... although the ragamuffins would appreciate a few shiny coins -- and the play is entirely suitable for children and adults of all ages. It lasts for approximately 25 minutes. Refreshments of a suitably seasonable kind will be available.
 
 To reserve your seat please ring Old Father Time on 020 8892 5211.</strong>
+
+
+
+{% include comments.html %}

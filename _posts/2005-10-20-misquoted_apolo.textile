@@ -2,6 +2,7 @@
 layout: post
 title: "Misquoted <del>Apology</del> <ins>Correction</ins>"
 permalink: /archives/2005/10/misquoted_apolo.html
+commentfile: 2005-10-20-misquoted_apolo
 category: editorial
 date: 2005-10-20 15:35:15
 
@@ -16,3 +17,8 @@ p>. -- email from Paul Mortimer, Group Editor, Newsquest
 I told them the point was not as much my designation, but making it appear that I supported the wine bar.  They haven't responded -- last time I talk to them I think.
 
 Look for the "correction" tomorrow.
+
+
+
+
+{% include comments.html %}

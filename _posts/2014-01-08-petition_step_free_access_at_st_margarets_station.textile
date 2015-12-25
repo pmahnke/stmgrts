@@ -2,6 +2,7 @@
 layout: post
 title: "Petition&#58; Step Free Access at St Margarets Station"
 permalink: /archives/2014/01/petition_step_free_access_at_st_margarets_station.html
+commentfile: 2014-01-08-petition_step_free_access_at_st_margarets_station
 category: news
 date: 2014-01-08 21:32:33
 
@@ -14,3 +15,9 @@ bq. Given the number of local people with young children and buggies, we believe
 _On reaching 1,000 signatures or more a full council debate will be held._
 
 If you are interested in learning more or signing, please "visit the Richmond Council website":http://www.richmond.gov.uk/home/council_government_and_democracy/petitions/received_petitions.htm?mgl=mgEPetitionDisplay.aspx&ID=81&RPID=16205801&HPID=16205801 by 20 March 2014.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; Rustic Pesto Chicken"
 permalink: /archives/2009/06/recipe_rustic_pesto_chicken.html
+commentfile: 2009-06-12-recipe_rustic_pesto_chicken
 category: food
 date: 2009-06-12 10:31:09
 excerpt: |
@@ -46,3 +47,7 @@ h4. Instructions
 * Cook time: 15-20 minutes
 
 </div>
+
+
+
+{% include comments.html %}

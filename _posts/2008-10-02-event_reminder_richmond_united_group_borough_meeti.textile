@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond United Group Borough Meeting"
 permalink: /archives/2008/10/event_reminder_richmond_united_group_borough_meeti.html
+commentfile: 2008-10-02-event_reminder_richmond_united_group_borough_meeti
 category: around_town
 date: 2008-10-02 21:35:14
 excerpt: |
@@ -47,3 +48,10 @@ SPEAKERS:
 * Zac Goldsmith, Editor of The Ecologist
 
 "www.richmondunitedgroup.com":http://www.richmondunitedgroup.com
+
+
+
+
+
+
+{% include comments.html %}

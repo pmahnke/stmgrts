@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Studios is Sold Again"
 permalink: /archives/2012/06/twickenham_studios_is_sold_again.html
+commentfile: 2012-06-07-twickenham_studios_is_sold_again
 category: news
 date: 2012-06-07 08:36:32
 
@@ -13,3 +14,9 @@ bq.. "The joint administrators are pleased to announce that following the re-mar
 
 
 p. <cite>-- from "Gerald M Krasner of Begbies Traynor, joint administrator of Twickenham Film Studios Ltd":http://www.begbies-traynorgroup.com/begbies-traynor/news/12-06-06/statement_by_gerald_m_krasner_of_begbies_traynor_joint_administrator_of_twickenham_film_studios_ltd.aspx - 6 June 2012</cite>
+
+
+
+
+
+{% include comments.html %}

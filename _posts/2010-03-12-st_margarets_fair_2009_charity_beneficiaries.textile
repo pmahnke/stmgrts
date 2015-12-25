@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair 2009 Charity Beneficiaries "
 permalink: /archives/2010/03/st_margarets_fair_2009_charity_beneficiaries.html
+commentfile: 2010-03-12-st_margarets_fair_2009_charity_beneficiaries
 category: news
 date: 2010-03-12 08:41:53
 
@@ -18,3 +19,8 @@ Last October we told you that how 50% of the &pound;14,000 profit from July's Fa
 |&pound;150|MARBLE HILL PLAYCENTRES|
 
 Thank you all very much for making this possible with by your continuing and generous support of the St Margarets Fair, which this year will be on Saturday the 10<sup>th</sup> of July.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Rachel Smith, Flute Lessons"
 permalink: /archives/2015/07/rachel_smith_flute_lessons.html
+commentfile: 2015-07-02-rachel_smith_flute_lessons
 category: around_town
 date: 2015-07-02 22:01:32
 
@@ -14,3 +15,9 @@ I have around 15 years of extensive teaching experience of all ages from 8 to 80
 I also teach theory of music and incorporate aural and sight-reading skills into my lessons to prepare students for graded exams.
 
 "More details":http://www.stmgrts.org.uk/directory/music/201507021742
+
+
+
+
+
+{% include comments.html %}

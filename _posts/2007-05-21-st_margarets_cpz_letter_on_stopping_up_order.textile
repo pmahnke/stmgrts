@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets CPZ &#58; Letter on 'Stopping up order'"
 permalink: /archives/2007/05/st_margarets_cpz_letter_on_stopping_up_order.html
+commentfile: 2007-05-21-st_margarets_cpz_letter_on_stopping_up_order
 category: news
 date: 2007-05-21 08:51:18
 excerpt: |
@@ -27,3 +28,8 @@ Bob Hampson
 2 Broadway Avenue
 
 </div>
+
+
+
+
+{% include comments.html %}

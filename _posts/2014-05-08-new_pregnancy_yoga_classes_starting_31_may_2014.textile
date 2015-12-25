@@ -2,6 +2,7 @@
 layout: post
 title: "New Pregnancy Yoga Classes - Starting 31 May 2014"
 permalink: /archives/2014/05/new_pregnancy_yoga_classes_starting_31_may_2014.html
+commentfile: 2014-05-08-new_pregnancy_yoga_classes_starting_31_may_2014
 category: around_town
 date: 2014-05-08 22:48:48
 
@@ -35,3 +36,7 @@ h4. For more information or to book a place, contact Sammie on:
 * 07758 866834
 
 _Sammie Mason is a fully qualified teacher with the British Wheel of Yoga, (the governing body for Yoga in the UK), as well as a mum of two boisterous boys!_
+
+
+
+{% include comments.html %}

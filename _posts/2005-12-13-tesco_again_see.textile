@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Seeks Permission for New Advertising Signage &mdash; Again"
 permalink: /archives/2005/12/tesco_again_see.html
+commentfile: 2005-12-13-tesco_again_see
 category: news
 date: 2005-12-13 12:04:23
 
@@ -16,3 +17,9 @@ Some of the concerns raised by local residents already have been:
 * The use of raised 'pin foamex' lettering is not in accord with other premises in the area, nor is it in keeping with the conservation area.
 * The use of coloured vinyl and frosting of the glass also adversely affects the appearance of the conservation area.
 * The new spotlights are not of a design which accords with the Edwardian facade, nor are the colours used appropriate.
+
+
+
+
+
+{% include comments.html %}

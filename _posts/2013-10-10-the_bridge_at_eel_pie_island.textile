@@ -2,6 +2,7 @@
 layout: post
 title: "The Bridge at Eel Pie Island"
 permalink: /archives/2013/10/the_bridge_at_eel_pie_island.html
+commentfile: 2013-10-10-the_bridge_at_eel_pie_island
 category: around_town
 date: 2013-10-10 17:33:20
 excerpt: |
@@ -76,3 +77,8 @@ _Friday, 7 June 2013_
 <cite>-- from Martyn Day</cite>
 
 CREDIT: <em>Some of the interviews in this article are taken from *"The British Beat Explosion-Rock 'n' Roll Island"* edited by J.C Wheatley,  published by Aurora Metro Books for &pound;9.99. This excellent book tells the fascinating story of how Eel Pie Island became the birthplace, the nursery and the home of British R&B. from where sprung The Rolling Stones, The Who, the Yardbirds and countless other world famous bands.</em>
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 60's Night at the Turks Head"
 permalink: /archives/2010/01/event_reminder_60s_night_at_the_turks_head.html
+commentfile: 2010-01-15-event_reminder_60s_night_at_the_turks_head
 category: around_town
 date: 2010-01-15 08:49:02
 
@@ -14,3 +15,8 @@ Help support the _David Adams Leukaemia Appeal_ at our "annual 60's night":http:
 * "Download the flyer [PDF]":http://stmgrts.org.uk/images/events/A460snight.pdf
 * Tickets &pound;20 including supper
 * Tickets in advance.
+
+
+
+
+{% include comments.html %}

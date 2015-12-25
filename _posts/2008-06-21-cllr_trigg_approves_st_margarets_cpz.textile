@@ -2,6 +2,7 @@
 layout: post
 title: "Cllr Trigg Approves St Margarets CPZ"
 permalink: /archives/2008/06/cllr_trigg_approves_st_margarets_cpz.html
+commentfile: 2008-06-21-cllr_trigg_approves_st_margarets_cpz
 category: news
 date: 2008-06-21 09:23:31
 excerpt: |
@@ -33,3 +34,9 @@ I hereby:
 * "Council website for full decision":http://www.richmond.gov.uk/view_member_decisions?mgl=ieDecisionDetails.asp&ID=1523&q=1   (Public Website) 
 
 This decision will come into effect on 30 June 2008
+
+
+
+
+
+{% include comments.html %}

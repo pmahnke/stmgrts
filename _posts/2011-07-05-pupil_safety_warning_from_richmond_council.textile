@@ -2,6 +2,7 @@
 layout: post
 title: "Pupil Safety Warning from Richmond Council"
 permalink: /archives/2011/07/pupil_safety_warning_from_richmond_council.html
+commentfile: 2011-07-05-pupil_safety_warning_from_richmond_council
 category: news
 date: 2011-07-05 10:48:58
 
@@ -24,3 +25,9 @@ _Deputy Director Children's Services_
 </div>
 
 _Note: We just received this from St Stephens School, sent to all parents._
+
+
+
+
+
+{% include comments.html %}

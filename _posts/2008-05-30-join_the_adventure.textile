@@ -2,6 +2,7 @@
 layout: post
 title: "JOIN THE ADVENTURE!"
 permalink: /archives/2008/05/join_the_adventure.html
+commentfile: 2008-05-30-join_the_adventure
 category: news
 date: 2008-05-30 15:58:12
 excerpt: |
@@ -26,3 +27,10 @@ bq. "No man goeth about a more godly purpose then he who is mindful of the right
 If you would like to learn more about becoming a leader or helper please ring Anna Scothern on 020 8332 9068 or by E Mail to "annascothern@yahoo.com":mailto:annascothern@yahoo.com
 
 *COME ON! JOIN THE ADVENTURE!*
+
+
+
+
+
+
+{% include comments.html %}

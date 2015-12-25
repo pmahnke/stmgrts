@@ -2,6 +2,7 @@
 layout: post
 title: "The Urban Fox"
 permalink: /archives/2014/09/the_urban_fox.html
+commentfile: 2014-09-11-the_urban_fox
 category: around_town
 date: 2014-09-11 21:38:41
 excerpt: |
@@ -65,3 +66,8 @@ bq. "A fox is a wolf who sends flowers."
 ??Ruth Brown??
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

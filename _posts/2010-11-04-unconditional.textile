@@ -2,6 +2,7 @@
 layout: post
 title: "Unconditional"
 permalink: /archives/2010/11/unconditional.html
+commentfile: 2010-11-04-unconditional
 category: editorial
 date: 2010-11-04 23:25:49
 
@@ -24,3 +25,6 @@ But if you are _community minded_, have something to share with your neighbors a
 We hope you understand and take this editorial's meaning in the right light.
 
 -- "St Margarets Community Website Editor":mailto:editor@stmgrts.org.uk
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Learn with the Environment Trust... EXPLORING THE RIVER 1"
 permalink: /archives/2009/04/learn_with_the_environment_trust_exploring_the_riv.html
+commentfile: 2009-04-09-learn_with_the_environment_trust_exploring_the_riv
 category: around_town
 date: 2009-04-09 10:20:42
 
@@ -27,3 +28,11 @@ To find out more and to book your place, call the Environment Trust on 020 8891 
 Places are limited so advance booking and payment is essential.
 
 <a href="//stmgrts.org.uk/assets/images/2009/EnvTrust_COURSEOUTLINE1.pdf">Download a Course Outline [pdf]</a>
+
+
+
+
+
+
+
+{% include comments.html %}

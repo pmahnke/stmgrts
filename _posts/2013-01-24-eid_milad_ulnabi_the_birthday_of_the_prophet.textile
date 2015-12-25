@@ -2,6 +2,7 @@
 layout: post
 title: "Eid Milad ul-Nabi  - The Birthday of the Prophet"
 permalink: /archives/2013/01/eid_milad_ulnabi_the_birthday_of_the_prophet.html
+commentfile: 2013-01-24-eid_milad_ulnabi_the_birthday_of_the_prophet
 category: around_town
 date: 2013-01-24 12:51:49
 excerpt: |
@@ -55,3 +56,7 @@ These differences are largely political and in most other respects Sunni and Shi
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

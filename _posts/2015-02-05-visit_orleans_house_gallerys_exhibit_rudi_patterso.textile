@@ -2,6 +2,7 @@
 layout: post
 title: "Visit Orleans House Gallery's Exhibit, Rudi Patterson"
 permalink: /archives/2015/02/visit_orleans_house_gallerys_exhibit_rudi_patterso.html
+commentfile: 2015-02-05-visit_orleans_house_gallerys_exhibit_rudi_patterso
 category: around_town
 date: 2015-02-05 08:17:27
 excerpt: |
@@ -35,3 +36,7 @@ bq. "Rudi had an intensely powerful visual memory and sorting out the immense am
 Patterson's prolific output is testament to his tremendous creativity and interest in experimentation.  He was  self-taught  and  the exhibition contains dozens of  Patterson's landscapes and features works in gouache, watercolours and oils,  ceramics, papier mache , although sadly none of his hand painted T shirts -  as once  worn by Freddie Mercury.
 
 _Runs until 22 March 2015._
+
+
+
+{% include comments.html %}

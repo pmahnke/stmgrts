@@ -2,6 +2,7 @@
 layout: post
 title: "Casting call&#58; BBC Two 'Back in Time'"
 permalink: /archives/2015/05/casting_call_bbc_two_back_in_time.html
+commentfile: 2015-05-21-casting_call_bbc_two_back_in_time
 category: around_town
 date: 2015-05-21 21:33:31
 excerpt: |
@@ -21,3 +22,8 @@ Following the huge success of BBC Two's Back in Time For Dinner (please see BBC 
 The family should have thoroughly modern leisure habits - turn to modern technology for entertainment and leisure time and enjoy weekend shopping and cinema trips. In a previous series we have filmed at the family home and local businesses and amenities so it may be of interest to those who live in your area.
 
 * For more information: "leisure@walltowall.co.uk":mailto:leisure@walltowall.co.uk
+
+
+
+
+{% include comments.html %}

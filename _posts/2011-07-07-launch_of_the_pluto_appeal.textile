@@ -2,6 +2,7 @@
 layout: post
 title: "Launch of the Pluto Appeal"
 permalink: /archives/2011/07/launch_of_the_pluto_appeal.html
+commentfile: 2011-07-07-launch_of_the_pluto_appeal
 category: news
 date: 2011-07-07 10:22:44
 
@@ -29,3 +30,7 @@ bq.. "Pluto will be a welcomed addition to our team of specialist surgeons and I
 "Operating on small babies, sometimes weighing less than half a bag of sugar, requires great skill and Pluto allows for unparalleled precision and control and Chelsea and Westminster Hospital can provide a unique level of care to babies and children in the UK."
 
 p. Pluto will be the first robot dedicated to paediatric surgery in the South of England and the hospital will become a beacon of this type of treatment in the South of England.
+
+
+
+{% include comments.html %}

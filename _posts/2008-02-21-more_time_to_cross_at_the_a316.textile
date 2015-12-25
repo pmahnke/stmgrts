@@ -2,6 +2,7 @@
 layout: post
 title: "More time to cross at the A316"
 permalink: /archives/2008/02/more_time_to_cross_at_the_a316.html
+commentfile: 2008-02-21-more_time_to_cross_at_the_a316
 category: news
 date: 2008-02-21 12:46:36
 
@@ -18,3 +19,8 @@ Regarding the pedestrian crossing on the North side of the roundabout at the sta
 Finally in response to the speeding issue, Peter has advised us to contact the London Road Safety Unit at TFL and the Highways Agency, both responsible in part for speeding and cameras on or near the roundabout.  Rather helpfully, as we were trying to convince Peter that speeding vehicles were a problem, a Tesco lorry took the roundabout too fast and shed a load of boxes of bottles on the road at the crossing, causing cars behind to swerve out of the way while shards of glass shot up in the air.
 
 <cite>-- from a North St Margarets Residents' Association e-newsletter</cite>
+
+
+
+
+{% include comments.html %}

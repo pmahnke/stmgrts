@@ -2,6 +2,7 @@
 layout: post
 title: "St Marys School Losses Astroturf Appeal"
 permalink: /archives/2008/09/st_marys_school_losses_astroturf_appeal.html
+commentfile: 2008-09-04-st_marys_school_losses_astroturf_appeal
 category: news
 date: 2008-09-04 09:23:25
 
@@ -20,3 +21,8 @@ bq..  "25. The noise in this instance is not constant in any way whatsoever and 
 p. The Astroturf will now have to be "rolled up", and the area landscaped "in accordance with the original plans".
 
 An unfortunate end to an unfortunate story.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "New Soft Play Space for St Margarets Proposed"
 permalink: /archives/2006/03/new_soft_play_s.html
+commentfile: 2006-03-09-new_soft_play_s
 category: news
 date: 2006-03-09 10:51:39
 excerpt: |
@@ -45,3 +46,7 @@ h3. Links
 
 * "Planning Application":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=06/0303/COU
 * "Comment on the Application":http://www.ukplanning.com/richmond/createComment.do;jsessionid=B522757A8D3F005B62B59014680BDF9D?action=CreateApplicationComment&appNumber=06%2F0303%2FCOU
+
+
+
+{% include comments.html %}

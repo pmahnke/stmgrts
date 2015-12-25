@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond could become home to the Queen's Royal Rowbarge"
 permalink: /archives/2014/06/richmond_could_become_home_to_the_queens_royal_row.html
+commentfile: 2014-06-25-richmond_could_become_home_to_the_queens_royal_row
 category: news
 date: 2014-06-25 06:49:01
 
@@ -40,3 +41,6 @@ bq.. "Since having built Gloriana we've had the experience of operating both dow
 
 
 <cite>-- from a Richmond Council press release - 20 June 2014</cite>
+
+
+{% include comments.html %}

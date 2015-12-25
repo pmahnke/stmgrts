@@ -2,6 +2,7 @@
 layout: post
 title: "Guy Fawkes Night and Fireworks 2013"
 permalink: /archives/2013/10/guy_fawkes_night_and_fireworks_2013.html
+commentfile: 2013-10-17-guy_fawkes_night_and_fireworks_2013
 category: around_town
 date: 2013-10-17 21:08:11
 excerpt: |
@@ -54,3 +55,7 @@ h4. "Richmond's Annual Family Fireworks Display - Sunday, 3 November 2013":http:
 <li>gates 5:30pm, display: 8pm</li>
 <li>Admission: &pound;7 in advance, &pound;9 on the night</li>
 </ul>
+
+
+
+{% include comments.html %}

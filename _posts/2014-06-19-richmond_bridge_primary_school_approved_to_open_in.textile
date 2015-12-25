@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Bridge Primary School Approved to Open in 2015"
 permalink: /archives/2014/06/richmond_bridge_primary_school_approved_to_open_in.html
+commentfile: 2014-06-19-richmond_bridge_primary_school_approved_to_open_in
 category: news
 date: 2014-06-19 18:57:25
 excerpt: |
@@ -27,3 +28,7 @@ bq.. "Our goal is to be outstanding in what we do in all our schools by providin
 p. For more information about Richmond Bridge Primary School please visit the school's website at "www.richmondbridgeprimary.co.uk.":http://www.richmondbridgeprimary.co.uk. You can also register your interest online to be kept up-to-date with the school's progress.
 
 <cite>-- from a press release - 19 June 2014</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "New Local Business&#58; St Margarets Property Partnership"
 permalink: /archives/2015/07/new_local_business_st_margarets_property_partnersh.html
+commentfile: 2015-07-06-new_local_business_st_margarets_property_partnersh
 category: around_town
 date: 2015-07-06 20:54:01
 excerpt: |
@@ -34,3 +35,9 @@ h4. More Information
 * 020 8940 3020 / 07815 937 219
 * "rufus@stmargaretspropertypartnership.com":mailto:rufus@stmargaretspropertypartnership.com
 * "www.stmargaretspropertypartnership.com":http://www.stmargaretspropertypartnership.com
+
+
+
+
+
+{% include comments.html %}

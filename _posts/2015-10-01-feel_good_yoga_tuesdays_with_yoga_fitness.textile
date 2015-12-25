@@ -2,6 +2,7 @@
 layout: post
 title: "Feel Good Yoga Tuesdays with Yoga Fitness"
 permalink: /archives/2015/10/feel_good_yoga_tuesdays_with_yoga_fitness.html
+commentfile: 2015-10-01-feel_good_yoga_tuesdays_with_yoga_fitness
 category: around_town
 date: 2015-10-01 22:06:54
 
@@ -27,3 +28,7 @@ h4. More Information
 * The Training Works, 120 St Margarets Road
 * For beginners with some experience/Intermediates
 * Contact Sammie at "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk or call 07758 866 834
+
+
+
+{% include comments.html %}

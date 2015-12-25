@@ -2,6 +2,7 @@
 layout: post
 title: "3-car Pile-up"
 permalink: /archives/2009/01/3car_pileup.html
+commentfile: 2009-01-26-3car_pileup
 category: around_town
 date: 2009-01-26 17:43:18
 excerpt: |
@@ -28,3 +29,9 @@ bq. "Londoners are known for their tight parking skills but this little nudge in
 If you look carefully, you can see this is right across the street from Orleans Park School.
 
 <cite>source Ed Randall</cite>
+
+
+
+
+
+{% include comments.html %}

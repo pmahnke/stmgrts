@@ -2,6 +2,7 @@
 layout: post
 title: "New Drama Class to Tackle Self Esteem Problems"
 permalink: /archives/2010/08/new_drama_class_to_tackle_self_esteem_problems.html
+commentfile: 2010-08-24-new_drama_class_to_tackle_self_esteem_problems
 category: around_town
 date: 2010-08-24 21:55:50
 
@@ -34,3 +35,7 @@ h4. Details
 ** There will be a 25% discount for siblings.
 
 If you have any questions about the classes or want more information on the story please feel free to contact Robert Wells on: 07854252442 or email him at "info@performanceacademylondon.co.uk":mailto:info@performanceacademylondon.co.uk.
+
+
+
+{% include comments.html %}

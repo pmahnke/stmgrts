@@ -2,6 +2,7 @@
 layout: post
 title: "馬  The Year of the Horse"
 permalink: /archives/2014/02/_the_year_of_the_horse.html
+commentfile: 2014-02-15-_the_year_of_the_horse
 category: around_town
 date: 2014-02-15 07:42:38
 excerpt: |
@@ -77,3 +78,7 @@ To find out what the Eastern Horoscope says about you check out.: "www.chinesezo
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: Some of the information in this article is taken from "The Japanese Fortune Calendar" written by Reiko Chiba and published in Bunkyo-Ku, Tokyo, Japan in 1965</em>
+
+
+
+{% include comments.html %}

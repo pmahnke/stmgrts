@@ -2,6 +2,7 @@
 layout: post
 title: "New Noticboard"
 permalink: /archives/2006/10/new_noticboard.html
+commentfile: 2006-10-05-new_noticboard
 category: news
 date: 2006-10-05 10:41:06
 
@@ -14,3 +15,9 @@ St Margarets finally has its own noticeboard, located opposite the St Margarets 
 Cllr Geoff Acton said, "we hope that all residents will find it a valuable addition to the St Margarets' street scene."
  
 Councillor Philip Morgan is in charge of content and will keep a set of keys, an additional set will be held at the Post Office.  Philip can be contacted on 020 8892 6044 or via the Council website on "cllr.pmorgan@richmond.gov.uk":mailto:cllr.pmorgan@richmond.gov.uk.
+
+
+
+
+
+{% include comments.html %}

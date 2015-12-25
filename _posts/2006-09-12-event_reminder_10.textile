@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Give and Take Day"
 permalink: /archives/2006/09/event_reminder_10.html
+commentfile: 2006-09-12-event_reminder_10
 category: around_town
 date: 2006-09-12 16:30:05
 excerpt: |
@@ -28,3 +29,6 @@ unwanted household and garden items -- clean and in good condition
 * *TAKE*
 _12pm - 3pm_
 what you need and can make use of, leaving something for others
+
+
+{% include comments.html %}

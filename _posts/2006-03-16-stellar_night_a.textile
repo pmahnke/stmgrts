@@ -2,6 +2,7 @@
 layout: post
 title: "Stellar Night at Turks Head"
 permalink: /archives/2006/03/stellar_night_a.html
+commentfile: 2006-03-16-stellar_night_a
 category: around_town
 date: 2006-03-16 10:57:03
 excerpt: |
@@ -26,3 +27,7 @@ bq. "I was absolutely delighted that so many people were able to come and I woul
 Toby asks that if anyone has any photos of the event to mail them to him for the Charity's website at "thartwell@ap.org":mailto:thartwell@ap.org.
 
 </div>
+
+
+
+{% include comments.html %}

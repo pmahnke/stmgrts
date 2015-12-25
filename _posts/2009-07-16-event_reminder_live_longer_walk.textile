@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Live Longer Walk"
 permalink: /archives/2009/07/event_reminder_live_longer_walk.html
+commentfile: 2009-07-16-event_reminder_live_longer_walk
 category: around_town
 date: 2009-07-16 09:53:09
 excerpt: |
@@ -33,3 +34,9 @@ Don't forget to wear something spotty. There's a magnificent prize for the perso
 Register today at "www.bowelcancer.tv":http://www.bowelcancer.tv/.
 
 Any questions, please do drop us a line "info@bowelcancer.tv":mailto:info@bowelcancer.tv.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "2x2 Opera and A Very Magical Flute"
 permalink: /archives/2006/02/2x2_opera_and_a.html
+commentfile: 2006-02-01-2x2_opera_and_a
 category: news
 date: 2006-02-01 13:50:41
 
@@ -41,3 +42,6 @@ We also need a _small army of volunteers_ so if you fancy some behind the scenes
 Please contact Deborah if you or your company would like to be involved, or for general information. 
 
 "deborah.meyer@meyermusic.co.uk":mailto:deborah.meyer@meyermusic.co.uk
+
+
+{% include comments.html %}

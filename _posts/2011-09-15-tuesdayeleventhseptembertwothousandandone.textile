@@ -2,6 +2,7 @@
 layout: post
 title: "Tuesday.eleventh.september.two.thousand.and.one"
 permalink: /archives/2011/09/tuesdayeleventhseptembertwothousandandone.html
+commentfile: 2011-09-15-tuesdayeleventhseptembertwothousandandone
 category: around_town
 date: 2011-09-15 10:26:52
 excerpt: |
@@ -52,3 +53,6 @@ h4. The Peace Song from 'Nashe Maalo', sung in Macedonia, Albanian and Roma
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

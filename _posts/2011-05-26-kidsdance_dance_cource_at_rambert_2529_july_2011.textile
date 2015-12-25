@@ -2,6 +2,7 @@
 layout: post
 title: "Kidsdance Dance Cource at Rambert - 25-29 July 2011"
 permalink: /archives/2011/05/kidsdance_dance_cource_at_rambert_2529_july_2011.html
+commentfile: 2011-05-26-kidsdance_dance_cource_at_rambert_2529_july_2011
 category: around_town
 date: 2011-05-26 22:03:45
 excerpt: |
@@ -49,3 +50,7 @@ h4. Details
 * Cost: &pound;150 per child (aged 5-12) if you book by 30<sup>th</sup> June, &pound;170 thereafter
 ** Sibling discount: 10% off for younger siblings
 * Contact Sarah: "info@kidsdancegroup.co.uk":mailto:info@kidsdancegroup.co.uk or 07966 502 557
+
+
+
+{% include comments.html %}

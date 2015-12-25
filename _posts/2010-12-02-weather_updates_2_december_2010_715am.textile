@@ -2,6 +2,7 @@
 layout: post
 title: "Weather Updates - 2 December 2010"
 permalink: /archives/2010/12/weather_updates_2_december_2010_715am.html
+commentfile: 2010-12-02-weather_updates_2_december_2010_715am
 category: news
 date: 2010-12-02 07:16:32
 
@@ -37,3 +38,8 @@ h3. Richmond Council Update
 "See website for updates":http://www.richmond.gov.uk/
 
 _last updated 8.20am_
+
+
+
+
+{% include comments.html %}

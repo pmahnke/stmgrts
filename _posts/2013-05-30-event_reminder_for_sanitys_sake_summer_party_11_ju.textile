@@ -2,6 +2,7 @@
 layout: post
 title: " Event Reminder&#58; For Sanity's Sake Summer Party - 11 July 2013"
 permalink: /archives/2013/05/event_reminder_for_sanitys_sake_summer_party_11_ju.html
+commentfile: 2013-05-30-event_reminder_for_sanitys_sake_summer_party_11_ju
 category: around_town
 date: 2013-05-30 22:44:12
 excerpt: |
@@ -42,3 +43,6 @@ h4. More Information
 ** All the money raised will go to maintaining For Sanity's Sake, which is a not-for-profit, voluntary run Social Enterprise.
 * "Book online":http://www.eventbrite.com/event/6279587415
 * "Website":http://www.forsanityssake.com/events/end-of-school-year-parent-s-school-ball
+
+
+{% include comments.html %}

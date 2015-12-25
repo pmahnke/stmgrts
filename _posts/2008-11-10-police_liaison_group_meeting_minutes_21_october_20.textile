@@ -2,6 +2,7 @@
 layout: post
 title: "Police Liaison Group Meeting Minutes - 21 October 2008"
 permalink: /archives/2008/11/police_liaison_group_meeting_minutes_21_october_20.html
+commentfile: 2008-11-10-police_liaison_group_meeting_minutes_21_october_20
 category: news
 date: 2008-11-10 11:31:18
 
@@ -81,3 +82,6 @@ h4. Next public meeting
 Thursday 19 February 2009.
 
 Dr Atton closed the Police Liaison Group meeting at 8.50pm.
+
+
+{% include comments.html %}

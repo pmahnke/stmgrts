@@ -2,6 +2,7 @@
 layout: post
 title: "Raising Money For War Child"
 permalink: /archives/2013/04/raising_money_for_war_child.html
+commentfile: 2013-04-09-raising_money_for_war_child
 category: around_town
 date: 2013-04-09 20:43:53
 excerpt: |
@@ -24,3 +25,9 @@ To find out more visit: "www.warchild.org.uk":http://www.warchild.org.uk
 
 To donate please visit
 "www.justgiving.com/Louis-Swim":http://www.justgiving.com/Louis-Swim
+
+
+
+
+
+{% include comments.html %}

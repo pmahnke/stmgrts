@@ -2,6 +2,7 @@
 layout: post
 title: "Fire Starter!"
 permalink: /archives/2013/05/fire_starter.html
+commentfile: 2013-05-23-fire_starter
 category: around_town
 date: 2013-05-23 22:47:16
 excerpt: |
@@ -69,3 +70,6 @@ Until we make society into a real fellowship of men, run for the benefit of all 
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Little Black Dress Challenge"
 permalink: /archives/2013/12/the_little_black_dress_challenge.html
+commentfile: 2013-12-13-the_little_black_dress_challenge
 category: around_town
 date: 2013-12-13 12:10:57
 excerpt: |
@@ -72,3 +73,7 @@ Don't 'over train'. You only need to work out for up to one hour maximum at a ti
 For more information on how you could safely lose 7lbs in 14 days, why not take part in my FREE Black Dress Challenge? Head over to "www.blackdresschallenge.com":http://www.blackdresschallenge.com for further details and claim your free rapid results program.
 
 <cite>-- from Matt Roots, a local Health Coach, over at The Movement3 Studio</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Roman Catholic Church Lenten Project"
 permalink: /archives/2006/04/st_margarets_ro_1.html
+commentfile: 2006-04-09-st_margarets_ro_1
 category: news
 date: 2006-04-09 20:29:55
 excerpt: |
@@ -20,3 +21,6 @@ Alternatively you could support one of the many events that are taking place.
 * Saturday, 21<sup>st</sup> May *Family Fun Day* -- 12.00 onwards.
 
 Thank you for your support and interest.
+
+
+{% include comments.html %}

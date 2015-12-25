@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Holly Lodge Centre Christmas Carol Concert"
 permalink: /archives/2008/11/event_reminder_the_holly_lodge_centre_christmas_ca.html
+commentfile: 2008-11-20-event_reminder_the_holly_lodge_centre_christmas_ca
 category: around_town
 date: 2008-11-20 10:37:31
 
@@ -18,3 +19,8 @@ The event is _The Holly Lodge Centre's_ annual fund raising charity Carol Concer
 * e-mail "cmartin@thehollylodgecentre.org.uk":mailto:cmartin@thehollylodgecentre.org.uk
 
 <em>For general information about the centre please see our web site "www.thehollylodgecentre.org.uk":http://www.thehollylodgecentre.org.uk/</em>
+
+
+
+
+{% include comments.html %}

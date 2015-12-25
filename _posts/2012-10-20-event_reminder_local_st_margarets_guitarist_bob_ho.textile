@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Local St Margarets' Guitarist Bob Howard at the Pig's Ear - 21 October 2012"
 permalink: /archives/2012/10/event_reminder_local_st_margarets_guitarist_bob_ho.html
+commentfile: 2012-10-20-event_reminder_local_st_margarets_guitarist_bob_ho
 category: around_town
 date: 2012-10-20 16:07:18
 
@@ -18,3 +19,9 @@ h4. More Information
 * "www.pigs-ears.co.uk":http://www.pigs-ears.co.uk
 * From "20.30 pm":http://www.stmgrts.org.uk/event/show/200705143675
 * Free admission!
+
+
+
+
+
+{% include comments.html %}

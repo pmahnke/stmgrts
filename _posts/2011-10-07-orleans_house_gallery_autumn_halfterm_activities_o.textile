@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans House Gallery Autumn Half-Term Activities - October 2011"
 permalink: /archives/2011/10/orleans_house_gallery_autumn_halfterm_activities_o.html
+commentfile: 2011-10-07-orleans_house_gallery_autumn_halfterm_activities_o
 category: around_town
 date: 2011-10-07 08:00:47
 excerpt: |
@@ -88,3 +89,7 @@ _Sunday 30 October, 2pm - 4pm_
 Suitable for children aged 4 upwards.  All children must be accompanied by an adult.  No booking necessary.
 
 * Free Drop-in Workshop for Families
+
+
+
+{% include comments.html %}

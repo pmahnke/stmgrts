@@ -2,6 +2,7 @@
 layout: post
 title: "Traders Association on Town Centre Manager's Dismissal"
 permalink: /archives/2005/11/traders_associa.html
+commentfile: 2005-11-10-traders_associa
 category: news
 date: 2005-11-10 10:19:17
 
@@ -27,3 +28,6 @@ _St Margarets' Traders Association_
 10 November 2005
 
 </div>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "RISC Releases Report on Faith-based Admissions Discrimination"
 permalink: /archives/2013/09/risc_releases_report_on_faithbased_admissions_disc.html
+commentfile: 2013-09-05-risc_releases_report_on_faithbased_admissions_disc
 category: news
 date: 2013-09-05 22:03:01
 
@@ -20,3 +21,7 @@ Our improvement suggestions are intended to make a constructive contribution to 
 Governing bodies of Catholic and Church of England primaries now have the evidence they need to make positive decisions about their admissions policies over coming months.  We are hopeful that they will choose to do that.  We also hope that Richmond Council will acknowledge the general pressure on primary school places and actively encourage governing bodies to do the right thing."
 
 <cite>-- from a Richmond Inclusive Schools Campaign press release - 1 September 2013</cite>
+
+
+
+{% include comments.html %}

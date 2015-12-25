@@ -2,6 +2,7 @@
 layout: post
 title: "Heathrow Airport to Test 'Mixed-mode' Runway Use"
 permalink: /archives/2011/10/heathrow_airport_to_test_mixedmode_runway_use.html
+commentfile: 2011-10-06-heathrow_airport_to_test_mixedmode_runway_use
 category: news
 date: 2011-10-06 09:33:48
 
@@ -26,3 +27,9 @@ The first trial finishes on 29 February while the second will run from 1 July 20
 John Stewart, chairman of the HACAN Clearskies campaign, said it was a major concern for people living in west London.
 
 <cite>-- from the "BBC website - 2 October 2011":http://www.bbc.co.uk/news/uk-england-london-15141459</cite>
+
+
+
+
+
+{% include comments.html %}

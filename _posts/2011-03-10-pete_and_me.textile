@@ -2,6 +2,7 @@
 layout: post
 title: "Pete and Me"
 permalink: /archives/2011/03/pete_and_me.html
+commentfile: 2011-03-10-pete_and_me
 category: around_town
 date: 2011-03-10 19:37:46
 excerpt: |
@@ -68,3 +69,6 @@ h4. FOOTAGE OF 'THE WHO' AT THE RICHMOND JAZZ AND BLUES FESTIVAL - 6<sup>th</sup
 <object width="480" height="390"><param name="movie" value="http://www.youtube-nocookie.com/v/0hYjsOqOYHo?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/0hYjsOqOYHo?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

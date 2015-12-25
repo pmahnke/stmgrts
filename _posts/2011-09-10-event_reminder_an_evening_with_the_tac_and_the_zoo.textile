@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; An Evening with the TAC and The Zoological Society of London"
 permalink: /archives/2011/09/event_reminder_an_evening_with_the_tac_and_the_zoo.html
+commentfile: 2011-09-10-event_reminder_an_evening_with_the_tac_and_the_zoo
 category: around_town
 date: 2011-09-10 12:19:10
 excerpt: |
@@ -22,3 +23,8 @@ For our first Autumn event we are pleased to have the ZSL coming down to give us
 Admission is free and all are welcome.
 
 "www.rivertac.org":http://www.rivertac.org
+
+
+
+
+{% include comments.html %}

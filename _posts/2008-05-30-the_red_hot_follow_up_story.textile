@@ -2,6 +2,7 @@
 layout: post
 title: "The Red Hot Follow Up Story"
 permalink: /archives/2008/05/the_red_hot_follow_up_story.html
+commentfile: 2008-05-30-the_red_hot_follow_up_story
 category: news
 date: 2008-05-30 14:28:07
 
@@ -28,3 +29,9 @@ Which only goes to show. It does pay to advertise. Locally. In the St Margarets 
 For more information on the band please contact:-
 
 Billy Sincere on 020 8892 5211
+
+
+
+
+
+{% include comments.html %}

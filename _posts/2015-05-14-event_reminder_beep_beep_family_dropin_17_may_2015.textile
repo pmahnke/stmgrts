@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Beep Beep! Family Drop-in - 17 May 2015"
 permalink: /archives/2015/05/event_reminder_beep_beep_family_dropin_17_may_2015.html
+commentfile: 2015-05-14-event_reminder_beep_beep_family_dropin_17_may_2015
 category: around_town
 date: 2015-05-14 22:09:41
 excerpt: |
@@ -26,3 +27,8 @@ h4. More Information
 * Drop-in any time
 * Suitable for children aged 4 upwards
 * Children must be accompanied by adults at all times
+
+
+
+
+{% include comments.html %}

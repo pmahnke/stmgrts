@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Playcentres Re-Opening 7th April"
 permalink: /archives/2008/04/marble_hill_playcentres_reopening_7th_april.html
+commentfile: 2008-04-04-marble_hill_playcentres_reopening_7th_april
 category: news
 date: 2008-04-04 10:44:08
 
@@ -22,3 +23,8 @@ If you have a little one aged between 0 and 5 years come and join us at the *One
 
 
 More details "here":http://www.stmgrts.org.uk/directory/childrens/200704291443 
+
+
+
+
+{% include comments.html %}

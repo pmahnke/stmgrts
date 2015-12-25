@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Autumn Event Needs Your Help"
 permalink: /archives/2005/08/st_margarets_co_1.html
+commentfile: 2005-08-28-st_margarets_co_1
 category: news
 date: 2005-08-28 17:14:46
 
@@ -37,3 +38,6 @@ The stalls will cost {-L}15 if you pre-book and {-L}30 on the day. _No charges a
 They are also looking for 'family oriented' bands, so if you are in a band, or know of one, please contact us.  There is very little money for bands, so think of it as charity with good exposure.
 
 If you are interested in participating in the craft stalls, please contact Simon Chapman at Cutters (<a href="mailto:simonchapman@stm.demon.co.uk">simonchapman@stm.demon.co.uk</a>).
+
+
+{% include comments.html %}

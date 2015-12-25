@@ -2,6 +2,7 @@
 layout: post
 title: "The Save Our Footbridge Campaign Needs You"
 permalink: /archives/2014/11/the_save_our_footbridge_campaign_needs_you.html
+commentfile: 2014-11-14-the_save_our_footbridge_campaign_needs_you
 category: news
 date: 2014-11-14 08:56:15
 excerpt: |
@@ -25,3 +26,6 @@ Please help the campaign and sign the online petition.
 
 * "Save our Footbridge website":www.saveourfootbridge.com
 * "petition":https://www.change.org/p/transport-for-london-withdraw-the-consultation-calling-for-the-removal-of-the-existing-st-margaret-s-footbridge-over-the-a316-and-its-replacement-with-toucan-crossings
+
+
+{% include comments.html %}

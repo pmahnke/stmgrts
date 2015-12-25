@@ -2,6 +2,7 @@
 layout: post
 title: "A House Divided"
 permalink: /archives/2014/09/a_house_divided_1.html
+commentfile: 2014-09-06-a_house_divided_1
 category: around_town
 date: 2014-09-06 09:06:11
 excerpt: |
@@ -50,3 +51,9 @@ bq. "And if a house be divided against itself, that house cannot stand."
 ??THE BIBLE: Mark 3:25??
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

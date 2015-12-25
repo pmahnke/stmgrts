@@ -2,6 +2,7 @@
 layout: post
 title: "Concert Supporting The David Adams Leukemia Appeal Fund - 1 December 2012"
 permalink: /archives/2012/11/concert_supporting_the_david_adams_leukemia_appeal.html
+commentfile: 2012-11-08-concert_supporting_the_david_adams_leukemia_appeal
 category: around_town
 date: 2012-11-08 11:04:55
 excerpt: |
@@ -34,3 +35,7 @@ h4. Date, time and venue:
 * Reserve with Ester on "ester.kosar@gmail.com":mailto:ester.kosar@gmail.com or  078 2577 3179
 
 _All the profit goes to The David Adams Leukemia Appeal Fund_
+
+
+
+{% include comments.html %}

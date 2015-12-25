@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; Thai Curried Chicken Salad"
 permalink: /archives/2009/01/recipe_thai_curried_chicken_salad.html
+commentfile: 2009-01-19-recipe_thai_curried_chicken_salad
 category: food
 date: 2009-01-19 12:57:33
 excerpt: |
@@ -37,3 +38,6 @@ Chop the chicken into small bite sized pieces and mix with all other ingredients
 </div>
 
 For further healthy recipes please see Catherine's website at "stmargaretskitchen.blogspot.com":http://stmargaretskitchen.blogspot.com/
+
+
+{% include comments.html %}

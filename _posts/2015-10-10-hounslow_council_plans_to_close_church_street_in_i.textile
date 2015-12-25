@@ -2,6 +2,7 @@
 layout: post
 title: "Hounslow Council Plans to Close Church Street in Isleworth"
 permalink: /archives/2015/10/hounslow_council_plans_to_close_church_street_in_i.html
+commentfile: 2015-10-10-hounslow_council_plans_to_close_church_street_in_i
 category: news
 date: 2015-10-10 11:48:20
 excerpt: |
@@ -19,3 +20,8 @@ Hounslow Council plans to close Church Street, which runs through Old Isleworth 
 Hounslow Council has said that it will not stop the "trial" once they have started it but confirm that the closure will cause significant disruption.
 
 If this affects you, there is "a petition to stop the trial":https://you.38degrees.org.uk/petitions/don-t-close-church-street-1
+
+
+
+
+{% include comments.html %}

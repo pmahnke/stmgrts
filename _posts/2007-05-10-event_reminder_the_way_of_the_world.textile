@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; The Way of the World"
 permalink: /archives/2007/05/event_reminder_the_way_of_the_world.html
+commentfile: 2007-05-10-event_reminder_the_way_of_the_world
 category: around_town
 date: 2007-05-10 13:47:06
 excerpt: |
@@ -22,3 +23,6 @@ The show runs from Saturday May 19<sup>th</sup> to Saturday 26<sup>th</sup> incl
 Ticket prices are  &pound;7 for the first three performances, and &pound;8 thereafter. Seats can be booked via the telephone box office: 020 8744 0547. Credit card bookings are now accepted (MasterCard and Visa only).
 
 _The Way of the World_ is produced by the Richmond Shakespeare Society, which is a registered charity. Further information is available from the Director, Maxina Cornwell, on 07957 616 474 or email "maxina@msn.com":mailto:maxina@msn.com.
+
+
+{% include comments.html %}

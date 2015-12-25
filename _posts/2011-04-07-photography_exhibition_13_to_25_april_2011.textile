@@ -2,6 +2,7 @@
 layout: post
 title: "Photography Exhibition - 13 to 25 April, 2011"
 permalink: /archives/2011/04/photography_exhibition_13_to_25_april_2011.html
+commentfile: 2011-04-07-photography_exhibition_13_to_25_april_2011
 category: around_town
 date: 2011-04-07 22:28:14
 
@@ -25,3 +26,7 @@ h4. Details
 
 
 ??By Amanda Day??
+
+
+
+{% include comments.html %}

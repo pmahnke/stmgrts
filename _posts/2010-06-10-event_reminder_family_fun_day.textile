@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Family Fun Day"
 permalink: /archives/2010/06/event_reminder_family_fun_day.html
+commentfile: 2010-06-10-event_reminder_family_fun_day
 category: around_town
 date: 2010-06-10 09:51:33
 
@@ -20,3 +21,9 @@ Mr Punch added that the Punch and Judy shows will obviously be the main attracti
 Mr Punch is also looking forward to sampling some great food on the day including his all time favourite - Sausages!
 
 More information please see "www.mystmargarets.com":http://www.mystmargarets.com
+
+
+
+
+
+{% include comments.html %}

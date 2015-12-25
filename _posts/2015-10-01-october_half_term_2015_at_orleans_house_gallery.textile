@@ -2,6 +2,7 @@
 layout: post
 title: "October Half Term 2015 at Orleans House Gallery!"
 permalink: /archives/2015/10/october_half_term_2015_at_orleans_house_gallery.html
+commentfile: 2015-10-01-october_half_term_2015_at_orleans_house_gallery
 category: around_town
 date: 2015-10-01 21:30:36
 excerpt: |
@@ -34,3 +35,7 @@ h4. More Information
 * "Book workshops":http://www2.richmond.gov.uk/Richmondbookings/Default.aspx
 * Call: 020 8831 6000
 * Email: artseducation@richmond.gov.uk
+
+
+
+{% include comments.html %}

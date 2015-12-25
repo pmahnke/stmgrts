@@ -2,6 +2,7 @@
 layout: post
 title: "Upcoming My St Margarets Magazine Feature - Weddings"
 permalink: /archives/2011/01/upcoming_my_st_margarets_magazine_feature_weddings.html
+commentfile: 2011-01-27-upcoming_my_st_margarets_magazine_feature_weddings
 category: around_town
 date: 2011-01-27 08:22:19
 
@@ -19,3 +20,9 @@ We are looking for local stories about your special day.
 * Any pictures?
 
 Please send your wedding stories to "editor@mystmargarets.com":mailto:editor@mystmargarets.com
+
+
+
+
+
+{% include comments.html %}

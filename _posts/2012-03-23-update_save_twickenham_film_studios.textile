@@ -2,6 +2,7 @@
 layout: post
 title: "Update&#58; Save Twickenham Film Studios"
 permalink: /archives/2012/03/update_save_twickenham_film_studios.html
+commentfile: 2012-03-23-update_save_twickenham_film_studios
 category: around_town
 date: 2012-03-23 13:33:36
 
@@ -31,3 +32,7 @@ The Save Twickenham Studios Campaign strongly urges the residents of St Margaret
 For more information, check out the website "www.savetwickenhamstudios.com":http://www.savetwickenhamstudios.com it shows all the dignitaries who have come out in support of us.
 
 <cite>-- from Maria Walker</cite>
+
+
+
+{% include comments.html %}

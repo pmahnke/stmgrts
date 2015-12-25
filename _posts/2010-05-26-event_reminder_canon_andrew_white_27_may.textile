@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Canon Andrew White - 27 May 2010 "
 permalink: /archives/2010/05/event_reminder_canon_andrew_white_27_may.html
+commentfile: 2010-05-26-event_reminder_canon_andrew_white_27_may
 category: around_town
 date: 2010-05-26 14:11:19
 
@@ -14,3 +15,9 @@ Canon Andrew White, often referred to as "the Vicar of Baghdad," serves as paris
 The event is free of charge (though there will be an opportunity to give to the work of FRRME for those who wish to) and there is no need to book.
 
 For further information please phone the church office on 0208 891 6820 or email "ali@allsoulschurch.org.uk":mailto:ali@allsoulschurch.org.uk
+
+
+
+
+
+{% include comments.html %}

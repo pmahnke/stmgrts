@@ -2,6 +2,7 @@
 layout: post
 title: "Minutes from Area Consultation Meeting"
 permalink: /archives/2007/02/minutes_from_ar.html
+commentfile: 2007-02-25-minutes_from_ar
 category: news
 date: 2007-02-25 10:40:27
 
@@ -118,3 +119,6 @@ Monday 16th April 2007 at 7.30pm in the Salon, York House, Twickenham
 h3. CHAIR
 
 The meeting, which started at 7.30pm, ended at 8.49pm.
+
+
+{% include comments.html %}

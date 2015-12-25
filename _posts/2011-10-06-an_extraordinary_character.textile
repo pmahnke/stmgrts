@@ -2,6 +2,7 @@
 layout: post
 title: "An Extraordinary Character"
 permalink: /archives/2011/10/an_extraordinary_character.html
+commentfile: 2011-10-06-an_extraordinary_character
 category: around_town
 date: 2011-10-06 20:29:03
 excerpt: |
@@ -74,3 +75,7 @@ bq. "On Friday I gratified the curiosity of many years, by meeting at dinner Mad
 <cite>-- from Martyn Day</cite>
 
 _CREDITS: The billing from the 'Theatre Royal' was kindly supplied by Jane Baxter, Local Studies Librarian at the London Borough of Richmond upon Thames Local Studies Collection. The print of young Chevalier d'Eon is from Enugmis del l'Historie/Geographie_
+
+
+
+{% include comments.html %}

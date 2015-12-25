@@ -2,6 +2,7 @@
 layout: post
 title: "Dickens in St Margarets"
 permalink: /archives/2011/04/dickens_in_st_margarets.html
+commentfile: 2011-04-14-dickens_in_st_margarets
 category: around_town
 date: 2011-04-14 20:43:14
 excerpt: |
@@ -88,3 +89,6 @@ In August, Charles, Kate, the Snodgering Blee and Popem Jee all returned home to
 <cite>-- from Martyn Day</cite>
 
 _Credits: The 1837 drawing of Charles Dickens is by Samuel Lawrence. The drawing of Sam Weller is by 'Kyd' (Joseph Clayton Clarke). The photograph of Ailsa Park Villas is from the Borough of Richmond upon Thames Local Studies Collection_
+
+
+{% include comments.html %}

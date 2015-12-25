@@ -2,6 +2,7 @@
 layout: post
 title: "Poems in the Park Attracts 650 Local Poets"
 permalink: /archives/2011/11/poems_in_the_park_attracts_650_local_poets.html
+commentfile: 2011-11-24-poems_in_the_park_attracts_650_local_poets
 category: news
 date: 2011-11-24 21:36:59
 
@@ -43,3 +44,7 @@ must be waiting ... tranquil
 </pre>
 
 <cite><em>Kingfisher</em>, Beverley Brook, December 2010 by Chris Rice, local St Margarets Resident</cite>
+
+
+
+{% include comments.html %}

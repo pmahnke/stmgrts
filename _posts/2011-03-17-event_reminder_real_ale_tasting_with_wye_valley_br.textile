@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Real Ale Tasting with Wye Valley Brewery"
 permalink: /archives/2011/03/event_reminder_real_ale_tasting_with_wye_valley_br.html
+commentfile: 2011-03-17-event_reminder_real_ale_tasting_with_wye_valley_br
 category: around_town
 date: 2011-03-17 17:52:07
 excerpt: |
@@ -32,3 +33,7 @@ Thursday 07 April 2011
 7.30pm until 9.30pm
 
 To book a place, please e-mail "zeph@realale.com":mailto:zeph@realale.com or call 020 8894 1114.  We advise that you confirm early as our tastings get booked up very quickly!
+
+
+
+{% include comments.html %}

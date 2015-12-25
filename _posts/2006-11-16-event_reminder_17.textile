@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Christmas Shooting Star Night"
 permalink: /archives/2006/11/event_reminder_17.html
+commentfile: 2006-11-16-event_reminder_17
 category: around_town
 date: 2006-11-16 08:00:30
 excerpt: |
@@ -17,3 +18,9 @@ With four terrific local Twickenham bands playing a wide range of music, from Mo
  
 The bands are giving up their time for free to ensure that all the money raised on the night goes direct to the charity and Karen Peffer from Shooting Star is certainly looking forward to it; "After the success of the first music night that took place in March, we are delighted that this second event is taking place in St Margarets and we hope lots of people will come and support us and enjoy the party!" 
 Tickets are &pound;5 on the door and the music starts at 8.00 pm  
+
+
+
+
+
+{% include comments.html %}

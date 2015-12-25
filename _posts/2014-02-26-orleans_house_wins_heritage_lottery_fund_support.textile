@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans House Wins Heritage Lottery Fund Support"
 permalink: /archives/2014/02/orleans_house_wins_heritage_lottery_fund_support.html
+commentfile: 2014-02-26-orleans_house_wins_heritage_lottery_fund_support
 category: news
 date: 2014-02-26 11:23:02
 excerpt: |
@@ -42,3 +43,7 @@ Orleans House was built in 1710 for James Johnston, Secretary of State for Scotl
 He returned to visit his former retreat, accompanied by Queen Victoria, in 1848 as King of the French. His son, the Duc D'Aumale later made the house his home for nearly two decades and the surviving Stables block dates from his residency.
 
 The main building and conservatory of Orleans House were tragically demolished in 1926. Luckily the remains were saved by the Hon. Mrs Nellie Ionides and left to the borough on her death in 1962.
+
+
+
+{% include comments.html %}

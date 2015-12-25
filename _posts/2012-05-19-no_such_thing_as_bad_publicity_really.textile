@@ -2,6 +2,7 @@
 layout: post
 title: "No Such Thing as Bad Publicity? Really?"
 permalink: /archives/2012/05/no_such_thing_as_bad_publicity_really.html
+commentfile: 2012-05-19-no_such_thing_as_bad_publicity_really
 category: editorial
 date: 2012-05-19 10:20:20
 excerpt: |
@@ -78,3 +79,7 @@ h4. Other articles
 * Web censorship hurts legit sites - Watchdog warns ISP censorship will make things worse | techeye - "news.techeye.net":http://news.techeye.net/security/web-censorship-hurts-legit-sites
 * Report Slams Default Porn Filters On Mobiles | TechWeekEurope UK - "www.techweekeurope.co.uk":http://www.techweekeurope.co.uk/news/default-porn-filters-dont-work-77916
 * Report: Mobile blocks show net filters "too blunt" - "www.pcpro.co.uk":http://www.pcpro.co.uk/news/374620/report-mobile-blocks-show-net-filters-too-blunt
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Man Who Kept Coprolites in Kew"
 permalink: /archives/2013/05/the_man_who_kept_coprolites_in_kew.html
+commentfile: 2013-05-30-the_man_who_kept_coprolites_in_kew
 category: around_town
 date: 2013-05-30 22:57:28
 excerpt: |
@@ -66,3 +67,8 @@ People who remember the 1960's will remember people like Jungle with great affec
 <em>Credit: The painting of Jungleyes is by his sister Harriet. Much of the information is this article came from an obituary in the 'Daily Telegraph' 11th Feb. 2013</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

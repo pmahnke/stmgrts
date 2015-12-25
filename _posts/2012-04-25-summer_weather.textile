@@ -2,6 +2,7 @@
 layout: post
 title: "Summer Weather"
 permalink: /archives/2012/04/summer_weather.html
+commentfile: 2012-04-25-summer_weather
 category: around_town
 date: 2012-04-25 20:32:51
 excerpt: |
@@ -43,3 +44,8 @@ Then you may expect a soak.
 Does anyone know what the Oak and the Ash have been up to recently?
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

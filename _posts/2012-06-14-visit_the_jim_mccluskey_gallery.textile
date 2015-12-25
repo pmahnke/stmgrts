@@ -2,6 +2,7 @@
 layout: post
 title: "Visit the Jim McCluskey Gallery"
 permalink: /archives/2012/06/visit_the_jim_mccluskey_gallery.html
+commentfile: 2012-06-14-visit_the_jim_mccluskey_gallery
 category: around_town
 date: 2012-06-14 21:32:25
 excerpt: |
@@ -22,3 +23,9 @@ I now use my house and studio on St Margarets Road (near Richmond Bridge) as a g
 Just phone me and arrange a visit - 020 8892 5704.
 
 The paintings include views and buildings in Richmond.
+
+
+
+
+
+{% include comments.html %}

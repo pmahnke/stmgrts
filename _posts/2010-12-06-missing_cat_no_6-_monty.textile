@@ -2,6 +2,7 @@
 layout: post
 title: "Missing Cat - Monty - FOUND"
 permalink: /archives/2010/12/missing_cat_no_6-_monty.html
+commentfile: 2010-12-06-missing_cat_no_6-_monty
 category: news
 date: 2010-12-06 16:34:18
 
@@ -26,3 +27,9 @@ He disappeared from our garden in Hartington Road during the night of Sunday 28<
 Our whole family is devastated at losing him.  He has been a big part of our family for many years and we would like him back in our home, where he belongs.  He also has a twin brother, who is missing him dreadfully.
 
 Please could I ask you all to check your garden sheds and under bike covers etc.  Or perhaps a kind resident has taken him in due to the cold weather.  Any information would be gratefully received as soon as possible - our numbers are 8891 6393 or 07956 158197 and email address is "elizabethbryant@blueyonder.co.uk":mailto:elizabethbryant@blueyonder.co.uk.
+
+
+
+
+
+{% include comments.html %}

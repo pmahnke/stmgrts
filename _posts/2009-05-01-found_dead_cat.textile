@@ -2,6 +2,7 @@
 layout: post
 title: "Dead Cat Found"
 permalink: /archives/2009/05/found_dead_cat.html
+commentfile: 2009-05-01-found_dead_cat
 category: around_town
 date: 2009-05-01 02:10:17
 
@@ -14,3 +15,8 @@ I found a black cat dead on Crown Road (just opposite the junction with Claremon
 _If you are the owner of the cat and want to get in touch with Kim, please email this site at "editor@stmgrts.org.uk":mailto:editor@stmgrts.org.uk and I will put you in touch._
 
 _originally published 2009-05-07 22:10:17_
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Mums Career Change and Re-Training Workshop - 29 January 2013"
 permalink: /archives/2013/01/event_reminder_mums_career_change_and_retraining_w.html
+commentfile: 2013-01-02-event_reminder_mums_career_change_and_retraining_w
 category: around_town
 date: 2013-01-02 17:25:22
 
@@ -22,3 +23,7 @@ h4. More Information
 * "full details of programme":http://www.mumandcareer.co.uk/events/career-change-and-re-training-workshop/
 * Location: Cole Court Centre, 150 London Road, Twickenham, TW1 1HD
 ** There is plenty of free parking, and it's not even a 5 min. walk from Twickenham station
+
+
+
+{% include comments.html %}

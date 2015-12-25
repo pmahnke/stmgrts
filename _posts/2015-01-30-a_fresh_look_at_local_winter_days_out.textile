@@ -2,6 +2,7 @@
 layout: post
 title: "A Fresh Look at Local Winter Days Out"
 permalink: /archives/2015/01/a_fresh_look_at_local_winter_days_out.html
+commentfile: 2015-01-30-a_fresh_look_at_local_winter_days_out
 category: around_town
 date: 2015-01-30 20:39:03
 
@@ -22,3 +23,7 @@ More appealing is the idea of exploring somewhere new, where there's something e
 And, you don't have to go too far afield or scratch your heads too much for options. We are blessed with the two largest parks in London on our doorsteps and here's betting that the majority of us haven't uncovered everything they have to offer.
 
 * "Visit For Sanity's Sake for their suggestions":http://www.forsanityssake.com/profiles/blogs/a-new-take-on-local-winter-days-out
+
+
+
+{% include comments.html %}

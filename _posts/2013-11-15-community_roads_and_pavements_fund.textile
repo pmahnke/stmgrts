@@ -2,6 +2,7 @@
 layout: post
 title: "Community Roads and Pavements Fund"
 permalink: /archives/2013/11/community_roads_and_pavements_fund.html
+commentfile: 2013-11-15-community_roads_and_pavements_fund
 category: news
 date: 2013-11-15 20:28:35
 
@@ -18,3 +19,7 @@ h4. Nominations process now open!
 * The closing date for nominations is *13 December 2013*
 * If you have any questions about a suggestion you would like to make please contact "highwaysandtransport@richmond.gov.uk":mailto:highwaysandtransport@richmond.gov.uk
 * "more information":http://richmond.gov.uk/fund
+
+
+
+{% include comments.html %}

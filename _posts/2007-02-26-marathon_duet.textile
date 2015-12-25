@@ -2,6 +2,7 @@
 layout: post
 title: "Marathon Duet"
 permalink: /archives/2007/02/marathon_duet.html
+commentfile: 2007-02-26-marathon_duet
 category: around_town
 date: 2007-02-26 22:17:40
 excerpt: |
@@ -21,3 +22,9 @@ Rachel Evans, a local woman, is running in the London Marathon in April.  She ha
 So if you can, please go to the concert at 7.30pm, Sunday 18th March (suggested donation &pound;8) or if you can not, donate "online":http://www.justgiving.com/speedy_soprano_rachel.
 
 "Click for a poster of the event.":http://www.stmgrts.org.uk/images/marathon_duet.gif
+
+
+
+
+
+{% include comments.html %}

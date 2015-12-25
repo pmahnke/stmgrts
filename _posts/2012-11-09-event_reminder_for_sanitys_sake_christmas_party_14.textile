@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; For Sanity's Sake Christmas Party - 13 December 2012"
 permalink: /archives/2012/11/event_reminder_for_sanitys_sake_christmas_party_14.html
+commentfile: 2012-11-09-event_reminder_for_sanitys_sake_christmas_party_14
 category: around_town
 date: 2012-11-09 21:42:33
 
@@ -29,3 +30,7 @@ h4. More Information
 ** Group ticket - buy four tickets together at &pound;15 each and the fifth ticket is FREE. A group saving of &pound;15
 
 _Note, updated date to the 13<sup>th</sup> from the 14<sup>th</sup> December 2012_ 
+
+
+
+{% include comments.html %}

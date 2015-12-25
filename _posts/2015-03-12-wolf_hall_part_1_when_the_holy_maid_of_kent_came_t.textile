@@ -2,6 +2,7 @@
 layout: post
 title: "Wolf Hall Part 1 - When 'The Holy Maid of Kent' Came to Syon Park"
 permalink: /archives/2015/03/wolf_hall_part_1_when_the_holy_maid_of_kent_came_t.html
+commentfile: 2015-03-12-wolf_hall_part_1_when_the_holy_maid_of_kent_came_t
 category: around_town
 date: 2015-03-12 22:59:57
 excerpt: |
@@ -55,3 +56,8 @@ bq. "On this day the most part of this City are sworn to the king and his legiti
 ??Letter from John Husee to 1<sup>st</sup> Viscount Lisle, Uncle to Henry, 8<sup>th</sup> April 20, 1534??
 
 <em>Don't forget to read "Wolf Hall Part 2 - When One Vicar Turned Against Another":http://www.stmgrts.org.uk/archives/2015/03/wolf_hall_part_2_when_one_vicar_turned_against_ano.html</em>
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Election Results&#58; Twickenham Riverside Ward - 7 May 2010"
 permalink: /archives/2010/05/election_results_twickenham_riverside_ward_7_may_2.html
+commentfile: 2010-05-07-election_results_twickenham_riverside_ward_7_may_2
 category: news
 date: 2010-05-07 14:29:08
 excerpt: |
@@ -39,3 +40,7 @@ h3. Full results
 |Salvoni Samantha Patricia |Conservative Party|2295|
 |Trigg David Stanley Francis|Liberal Democrat|1949|
 |Wilson Michael Robert |Liberal Democrat|1818|
+
+
+
+{% include comments.html %}

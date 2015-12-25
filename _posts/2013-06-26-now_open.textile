@@ -2,6 +2,7 @@
 layout: post
 title: "Now Open"
 permalink: /archives/2013/06/now_open.html
+commentfile: 2013-06-26-now_open
 category: news
 date: 2013-06-26 21:50:22
 excerpt: |
@@ -26,3 +27,6 @@ The website "www.mystmargarets.com":http://www.mystmargarets.com was funded with
 If you know anybody looking to open a shop here "please see":http://www.mystmargarets.com/cgi-bin/commercial.cgi
 
 -- from the St Margarets Traders Association
+
+
+{% include comments.html %}

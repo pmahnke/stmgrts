@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Dance for Justice - 3 March 2012"
 permalink: /archives/2012/02/event_reminder_dance_for_justice_3_march_2012.html
+commentfile: 2012-02-25-event_reminder_dance_for_justice_3_march_2012
 category: around_town
 date: 2012-02-25 11:05:36
 
@@ -27,3 +28,7 @@ h4. More Information
 * Suggested £10 donation on the night. 
 * To reserve your seats please email danceforjustice.d4j@gmail.com
 * http://hopeforjustice.org.uk/
+
+
+
+{% include comments.html %}

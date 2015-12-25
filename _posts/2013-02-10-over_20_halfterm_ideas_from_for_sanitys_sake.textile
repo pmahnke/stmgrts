@@ -2,6 +2,7 @@
 layout: post
 title: "Over 20 Half-term Ideas from For Sanity's Sake"
 permalink: /archives/2013/02/over_20_halfterm_ideas_from_for_sanitys_sake.html
+commentfile: 2013-02-10-over_20_halfterm_ideas_from_for_sanitys_sake
 category: around_town
 date: 2013-02-10 18:27:38
 excerpt: |
@@ -39,3 +40,7 @@ Find over 20 great ideas for February 2013's half term in and around the Richmon
 * Go for a swim with your kids at Richmond Pools on the Park, Teddington Pools, Hampton Open Air Pool or Putney Leisure Centre
 * Walking and seeing the deer in Bushy Park (lunch/tea at the Pheasantry) or Richmond Park (lunch/tea at Pembroke Lodge)
 * Kick a ball or fly a kite in Marble Hill Park (lunch/tea at The Coach House), Twickenham Green, Richmond Green, Kew Green
+
+
+
+{% include comments.html %}

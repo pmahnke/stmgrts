@@ -2,6 +2,7 @@
 layout: post
 title: "Two Crosses"
 permalink: /archives/2008/11/two_crosses.html
+commentfile: 2008-11-04-two_crosses
 category: around_town
 date: 2008-11-04 09:19:02
 excerpt: |
@@ -58,3 +59,7 @@ Records of the 1st World War are often inconsistent and contradictory but if you
 
 
 <cite>-- Martyn Day</cite>
+
+
+
+{% include comments.html %}

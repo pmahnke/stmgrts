@@ -2,6 +2,7 @@
 layout: post
 title: "Thames Water Re-pollutes River Just Two Days After it Pays Fine for 2011 Spill"
 permalink: /archives/2014/07/thames_water_repollutes_river_just_two_days_after.html
+commentfile: 2014-07-17-thames_water_repollutes_river_just_two_days_after
 category: news
 date: 2014-07-17 22:40:35
 
@@ -39,3 +40,7 @@ In addition, further camera surveys and sewer cleans are being carried out to he
 <cite>-- from "cranevalley.org.uk":http://www.cranevalley.org.uk/news/post/pollution-incident-at-whitton-brook/</cite>
 
 </div>
+
+
+
+{% include comments.html %}

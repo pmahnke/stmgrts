@@ -2,6 +2,7 @@
 layout: post
 title: "Parked Cars Hinder Fire Engine in Winchester Road Fire"
 permalink: /archives/2006/09/parked_cars_hin.html
+commentfile: 2006-09-12-parked_cars_hin
 category: news
 date: 2006-09-12 20:32:24
 excerpt: |
@@ -14,3 +15,8 @@ On Monday 11<sup>th</sup> September there was quite a serious fire in a van in t
 The fire was quite quickly brought under control but it could have been much more serious. The point is that something needs to be done about this dangerous situation of people parking across the corners of roads. The emergency services simply cannot reach the houses in some of the streets because of badly parked cars.
 
 _-- submitted by local resident, Jane Pettersson_
+
+
+
+
+{% include comments.html %}

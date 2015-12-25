@@ -2,6 +2,7 @@
 layout: post
 title: "January 6th"
 permalink: /archives/2012/01/_january_6th_is_epiphany.html
+commentfile: 2012-01-05-_january_6th_is_epiphany
 category: around_town
 date: 2012-01-05 10:19:54
 excerpt: |
@@ -41,3 +42,6 @@ I walked about all night and then bought breakfast with the money stolen from th
 p. In his defence Goulter's counsel submitted a plea of insanity, supported by his father who spoke at length about his son's troubled state of mind. "I have had nine years' solid worry over this lad," the retired police inspector told the court. The doctors attending the case testified that Sidney Goulter was sane and the plea of insanity was rejected. On December 3<sup>rd</sup> at Guildford Assizes the Judge, Mr Justice Horridge, sentenced Sidney Goulter to death by hanging....and so at 8.00am on the 6<sup>th</sup> January 1928, while the rest of the country was taking down its Christmas decorations and contemplating the New Year ahead, Sidney Bernard Goulter of Bockhampton Road, Kingston, was hanged at Wandsworth Prison.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Apply for Parking Permits with your Richmond Account"
 permalink: /archives/2012/09/apply_for_parking_permits_with_your_richmond_accou.html
+commentfile: 2012-09-29-apply_for_parking_permits_with_your_richmond_accou
 category: news
 date: 2012-09-29 09:54:17
 
@@ -16,3 +17,7 @@ Residents who have activated their council tax details on the Richmond Account, 
 Cllr Chris Harrison, Cabinet Member for Highways and Transport, said: "Applying for parking permits can often be a laborious and time consuming process. Using this new and streamlined service online means that it will now be easier and quicker to obtain a parking permit, as well as having access to other services and Council news."
 
 By signing up to a "Richmond Account":https://www2.richmond.gov.uk/Account/Member/ParkingPermits.aspx, you can also get weekly emails with useful council information and news, manage your parking, garden waste and Council Tax in a user-friendly online customer account on the Council website. Many more services will be coming soon.
+
+
+
+{% include comments.html %}

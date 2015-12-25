@@ -2,6 +2,7 @@
 layout: post
 title: "High Street Transformation"
 permalink: /archives/2006/10/high_street_in.html
+commentfile: 2006-10-18-high_street_in
 category: news
 date: 2006-10-18 22:28:54
 
@@ -60,3 +61,6 @@ Emma Callaway and another local resident have bought the Yummy Mummy shop and ar
 *No. 125 St Margarets Road -- Phelps basement > Par Vinu*
 
 This site was part of the sprawling basement showroom of the Phelps Antiques shop.  It will become an upscale wine bar with an entrance through a renovated Streets green grocers.
+
+
+{% include comments.html %}

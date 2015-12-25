@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Paints the Town Green for Charity"
 permalink: /archives/2012/03/richmond_paints_the_town_green_for_charity.html
+commentfile: 2012-03-23-richmond_paints_the_town_green_for_charity
 category: news
 date: 2012-03-23 09:38:57
 
@@ -21,3 +22,6 @@ The ultimate success was the money raised for The Citizens Advice Bureau - an ex
 
 
 <cite>-- from a Richmond Council Press release - 21 March 2012</cite>
+
+
+{% include comments.html %}

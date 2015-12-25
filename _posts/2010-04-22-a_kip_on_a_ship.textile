@@ -2,6 +2,7 @@
 layout: post
 title: "A Kip on a Ship"
 permalink: /archives/2010/04/a_kip_on_a_ship.html
+commentfile: 2010-04-22-a_kip_on_a_ship
 category: around_town
 date: 2010-04-22 21:14:32
 excerpt: |
@@ -34,3 +35,6 @@ Expected to be disposed of as scrap, in 1967 efforts were initiated to preserve 
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

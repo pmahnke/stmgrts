@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Thames Angler's Conservancy 'The Annual TAC Summer Match' - 26 August 2011"
 permalink: /archives/2011/08/event_reminder_thames_anglers_conservancy_the_annu.html
+commentfile: 2011-08-17-event_reminder_thames_anglers_conservancy_the_annu
 category: around_town
 date: 2011-08-17 15:48:06
 excerpt: |
@@ -39,3 +40,9 @@ Meet at Walton Bridge car park KT12 1QW for the draw to take place at 17.30 hrs,
 All abilities welcome.
 
 Entrance is &pound;5.00  "www.rivertac.org":http://www.rivertac.org
+
+
+
+
+
+{% include comments.html %}

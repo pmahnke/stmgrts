@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Head to Head"
 permalink: /archives/2011/05/event_reminder_head_to_head.html
+commentfile: 2011-05-05-event_reminder_head_to_head
 category: around_town
 date: 2011-05-05 16:46:24
 excerpt: |
@@ -44,3 +45,7 @@ h4. The Evening
 |8.15 to 8.45|Interval drinks and refreshments (bar opens again)|
 |8.45 to 9.30|Eddie talks to Dave with a selection of Dave's favourite Jazz recordings|
 |9.30|Q and A and close|
+
+
+
+{% include comments.html %}

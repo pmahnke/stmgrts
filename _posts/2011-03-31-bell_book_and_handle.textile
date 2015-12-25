@@ -2,6 +2,7 @@
 layout: post
 title: "Bell, Book and Handle"
 permalink: /archives/2011/03/bell_book_and_handle.html
+commentfile: 2011-03-31-bell_book_and_handle
 category: around_town
 date: 2011-03-31 19:39:12
 excerpt: |
@@ -66,3 +67,7 @@ Since the 'All Souls' plant St Stephen's Church in East Twickenham has repeated 
 <cite>-- from Martyn Day</cite>
 
 _Credits: Photographs by Amanda Day_
+
+
+
+{% include comments.html %}

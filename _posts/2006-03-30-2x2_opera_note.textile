@@ -2,6 +2,7 @@
 layout: post
 title: "2x2 Opera Note"
 permalink: /archives/2006/03/2x2_opera_note.html
+commentfile: 2006-03-30-2x2_opera_note
 category: news
 date: 2006-03-30 20:17:10
 excerpt: |
@@ -25,3 +26,8 @@ Thank you once again for your support,
 
 Deborah (for 2x2 Opera) 
 </div>
+
+
+
+
+{% include comments.html %}

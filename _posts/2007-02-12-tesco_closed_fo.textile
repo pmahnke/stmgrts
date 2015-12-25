@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Closed for Refurbishment"
 permalink: /archives/2007/02/tesco_closed_fo.html
+commentfile: 2007-02-12-tesco_closed_fo
 category: around_town
 date: 2007-02-12 14:23:28
 
@@ -47,3 +48,7 @@ h4. Need Cashback?
 
 * The *Post Office* in St Margarets Road offers banking facilities for most major banks. 
 * *Cutters* at 28 Crown Road and *Gift* at 2 Crown Road both offer the cashback facility.
+
+
+
+{% include comments.html %}

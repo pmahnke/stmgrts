@@ -2,6 +2,7 @@
 layout: post
 title: "Home Start - Everyone Needs a Bit of Help Sometimes"
 permalink: /archives/2014/03/home_start_everyone_needs_a_bit_of_help_sometimes.html
+commentfile: 2014-03-21-home_start_everyone_needs_a_bit_of_help_sometimes
 category: news
 date: 2014-03-21 22:50:26
 excerpt: |
@@ -38,3 +39,7 @@ h4. More Information
 * To find out more, with no obligation, contact us on 020 8487 8500 or "info@homestart-richmond.org.uk":mailto:info@homestart-richmond.org.uk
 * "www.homestart-richmond.org.uk":http://www.homestart-richmond.org.uk
 * Registered Charity no: 1108975
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Whittall's Wine buys half of Oddbins' stores"
 permalink: /archives/2011/05/whittalls_wine_buys_half_of_oddbins_stores.html
+commentfile: 2011-05-04-whittalls_wine_buys_half_of_oddbins_stores
 category: 
 date: 2011-05-04 12:13:16
 
@@ -16,3 +17,8 @@ The sale should help secure about 200 jobs."
 p. <cite>-- from the "BBC website":http://www.bbc.co.uk/news/business-13201033</site>
 
 p. According to people in the St Margarets shop, they are going to remain open.
+
+
+
+
+{% include comments.html %}

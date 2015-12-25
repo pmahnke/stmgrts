@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Sparkle&#58; Contemporary Craft and Gourmet Food Fair - 20 to 22 November 2015"
 permalink: /archives/2015/11/event_reminder_sparkle_contemporary_craft_and_gour.html
+commentfile: 2015-11-13-event_reminder_sparkle_contemporary_craft_and_gour
 category: around_town
 date: 2015-11-13 19:32:54
 excerpt: |
@@ -24,3 +25,7 @@ h4. More Information
 * Saturday and Sunday 10am-5pm
 * Visit www.landmarkartscentre.org 
 * Telephone 020 8977 7558
+
+
+
+{% include comments.html %}

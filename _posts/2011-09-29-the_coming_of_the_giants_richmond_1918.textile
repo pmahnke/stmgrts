@@ -2,6 +2,7 @@
 layout: post
 title: "The Coming of the Giants - Richmond 1918"
 permalink: /archives/2011/09/the_coming_of_the_giants_richmond_1918.html
+commentfile: 2011-09-29-the_coming_of_the_giants_richmond_1918
 category: around_town
 date: 2011-09-29 11:48:13
 excerpt: |
@@ -81,3 +82,7 @@ To her consternation she found herself in the river, the water being nearly up t
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

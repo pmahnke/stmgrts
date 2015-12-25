@@ -2,6 +2,7 @@
 layout: post
 title: "Council Plans Coversion of Orleans Infant and St Stephens Schools"
 permalink: /archives/2009/01/council_plans_coversion_of_orleans_infant_and_st_s.html
+commentfile: 2009-01-06-council_plans_coversion_of_orleans_infant_and_st_s
 category: news
 date: 2009-01-06 20:56:44
 
@@ -14,3 +15,8 @@ The Council has announced plans to provide an additional 150 permanent reception
 _The closing date for comments is Monday, February 2._
 
 <cite>--Christopher J Squire</cite>
+
+
+
+
+{% include comments.html %}

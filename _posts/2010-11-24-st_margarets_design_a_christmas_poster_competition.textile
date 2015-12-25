@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets - Design a Christmas Poster Competition"
 permalink: /archives/2010/11/st_margarets_design_a_christmas_poster_competition.html
+commentfile: 2010-11-24-st_margarets_design_a_christmas_poster_competition
 category: around_town
 date: 2010-11-24 09:03:48
 excerpt: |
@@ -37,3 +38,6 @@ h3. The Rules...
 # Should you have any questions or queries concerning this competition please contact the organisers at "traders@mystmargarets.com":mailto:traders@mystmargarets.com. Please do not contact Churchill's staff regarding this competition.
 
 _Have fun and good luck!_
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "You Always Need a Brewer at Christmas"
 permalink: /archives/2008/12/you_always_need_a_brewer_at_christmas.html
+commentfile: 2008-12-10-you_always_need_a_brewer_at_christmas
 category: around_town
 date: 2008-12-10 15:39:52
 excerpt: |
@@ -83,3 +84,7 @@ bq. "What a fussy old gentleman Dr. Brewer is. I find it very tedious to humour 
 Clearly Ebenezer Brewer was a man well ahead of his time. Not for him the dull stodgy pages of tedium that passed for Victorian literature. He was into the delights of fact and fable, tittle tattle and trivia and all those nuggets of knowledge that today are deemed necessary for a well rounded education. What a great pub quizzer he would have made!
 
 Dr Brewer died at Edwinstone in Nottinghamshire on March 6, 1897 after a long life spent with his nose stuck into a book. His _'Dictionary of Phrase and Fable'_ survives to this present day, enlarged and edited over the years but still true to his wish that it remained an "alms-basket of words".  If you are stuck for as present to buy that nosy niece or enquiring uncle the 17th edition of this marvellous treasure is now available for less than &pound;20 from most bookshops. Every page is a delight and a most suitable gift for anyone with a love of trivia pursued to the point of madness!
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Reclaim Rosslyn Road Petition"
 permalink: /archives/2015/01/reclaim_rosslyn_road_petition.html
+commentfile: 2015-01-30-reclaim_rosslyn_road_petition
 category: news
 date: 2015-01-30 19:39:24
 
@@ -23,3 +24,6 @@ The Reclaim Rosslyn Road group have committed themselves to helping the national
 
 
 <cite>-- from resident, Philip Jeffery - 26 January 2015</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Local Camera Acting Course & HD Showreel Scene!"
 permalink: /archives/2011/01/local_camera_acting_course_hd_showreel_scene.html
+commentfile: 2011-01-05-local_camera_acting_course_hd_showreel_scene
 category: around_town
 date: 2011-01-05 14:06:48
 
@@ -16,3 +17,9 @@ If your New Years Resolution was to finally give your acting career a boost, the
 Full details about the course are on our website along with testimonials from past participants: "filmventure.co.uk/intensivefilmactinglondon.html":http://filmventure.co.uk/intensivefilmactinglondon.html
 
 Email Amy on "admin@filmventure.co.uk":mailto:admin@filmventure.co.uk for more information or call 02034417151.
+
+
+
+
+
+{% include comments.html %}

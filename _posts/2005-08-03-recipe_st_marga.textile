@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe &#58; St Margarets Souvlakia"
 permalink: /archives/2005/08/recipe_st_marga.html
+commentfile: 2005-08-03-recipe_st_marga
 category: food
 date: 2005-08-03 12:04:58
 
@@ -29,3 +30,8 @@ Ready in about 10 minutes ( _plus 30 minutes marinating_ )
 # Push the meat on to barbecue skewers and grill or place on barbecue. Turn frequently for 10-15 minutes until cooked through.
 
 </div>
+
+
+
+
+{% include comments.html %}

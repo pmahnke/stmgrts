@@ -2,6 +2,7 @@
 layout: post
 title: "A Brilliant Mind Pardoned"
 permalink: /archives/2014/01/a_brilliant_mind_pardoned.html
+commentfile: 2014-01-09-a_brilliant_mind_pardoned
 category: around_town
 date: 2014-01-09 22:44:08
 excerpt: |
@@ -28,3 +29,6 @@ Gay rights campaigner Peter Tatchell said Turing's pardon was long overdue but r
 In a salute to them and all those who have faced homophobia, discrimination and hatred over the years, here is "an article about Alan Turing originally published in these pages on 21<sup>st</sup> May 2009":http://www.stmgrts.org.uk/archives/2009/05/turings_poisoned_apple.html.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

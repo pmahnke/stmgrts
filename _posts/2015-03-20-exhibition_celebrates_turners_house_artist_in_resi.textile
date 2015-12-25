@@ -2,6 +2,7 @@
 layout: post
 title: "Exhibition Celebrates Turner's House Artist in Residence"
 permalink: /archives/2015/03/exhibition_celebrates_turners_house_artist_in_resi.html
+commentfile: 2015-03-20-exhibition_celebrates_turners_house_artist_in_resi
 category: news
 date: 2015-03-20 09:31:41
 excerpt: |
@@ -30,3 +31,7 @@ Katie's work is bold and painterly, and large-scale charcoal drawings are an imp
 "Turner would no doubt be delighted that his former home today inspires high-calibre artists such as Katie," said Catherine Parry-Wingfield, chair of Turner's House Trust.
 
 Opening times for the Orleans House Gallery exhibition are from Tuesday to Sunday 10am to 5pm. For more information visit "www.richmond.gov.uk/home/services/arts/the_stables_gallery":http://www.richmond.gov.uk/home/services/arts/the_stables_gallery
+
+
+
+{% include comments.html %}

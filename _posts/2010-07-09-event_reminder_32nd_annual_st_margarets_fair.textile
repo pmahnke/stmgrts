@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 32nd Annual St Margarets Fair"
 permalink: /archives/2010/07/event_reminder_32nd_annual_st_margarets_fair.html
+commentfile: 2010-07-09-event_reminder_32nd_annual_st_margarets_fair
 category: around_town
 date: 2010-07-09 15:12:05
 
@@ -22,3 +23,8 @@ In addition, there will be:
 The fair organisers run the Tea Tent, Beer Tent, Pimms Stall, Greek Food, the BBQ, the Bric-a-brac stall, a Plant stall, the Silent Auction, and the Coconut Shy.
 
 All profits from these stalls go direct to our charities - please support these stalls.
+
+
+
+
+{% include comments.html %}

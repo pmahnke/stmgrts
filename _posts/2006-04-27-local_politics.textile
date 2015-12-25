@@ -2,6 +2,7 @@
 layout: post
 title: "Local Politics for Local People"
 permalink: /archives/2006/04/local_politics.html
+commentfile: 2006-04-27-local_politics
 category: news
 date: 2006-04-27 22:00:31
 excerpt: |
@@ -32,3 +33,9 @@ This is democracy in action folks. The politicians complain that they can't spea
 |<a href="/static/elections06/philipmorgan.html" class="photo" title="Philip Morgan"><img src="//stmgrts.org.uk/assets/images/2006/philipmorgan_100v.jpg" width="75" height="100" alt="Philip Morgan" /></a>
 |"Philip Morgan":/static/elections06/philipmorgan.html|Liberal Democrat|
 |<a href="/static/elections06/catherinesearle.html" class="photo" title="Catherine Searle"><img src="//stmgrts.org.uk/assets/images/2006/catherinesearle_100v.jpg" width="75" height="100" alt="Catherine Searle" /></a>|"Catherine Searle":/static/elections06/catherinesearle.html|Conservative|
+
+
+
+
+
+{% include comments.html %}

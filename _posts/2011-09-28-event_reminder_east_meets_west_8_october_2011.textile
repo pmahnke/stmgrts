@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; East Meets West - 8 October 2011"
 permalink: /archives/2011/09/event_reminder_east_meets_west_8_october_2011.html
+commentfile: 2011-09-28-event_reminder_east_meets_west_8_october_2011
 category: around_town
 date: 2011-09-28 18:37:56
 
@@ -23,3 +24,7 @@ h4. More information
 * Doors open 7pm, concert 7.45-9.45pm
 * "Book tickets online":http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=50&
 * Enquirers 0208 286 3242
+
+
+
+{% include comments.html %}

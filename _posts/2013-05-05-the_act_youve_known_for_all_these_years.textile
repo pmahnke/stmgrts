@@ -2,6 +2,7 @@
 layout: post
 title: "The Act You've Known for All These Years"
 permalink: /archives/2013/05/the_act_youve_known_for_all_these_years.html
+commentfile: 2013-05-05-the_act_youve_known_for_all_these_years
 category: around_town
 date: 2013-05-05 18:05:59
 excerpt: |
@@ -82,3 +83,6 @@ h4. The Bootleg Beatles playing "Ticket to Ride".
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Lecture on Sir Richard Burton, Legendary Victorian Explorer"
 permalink: /archives/2011/02/event_reminder_lecture_on_sir_richard_burton_legen.html
+commentfile: 2011-02-17-event_reminder_lecture_on_sir_richard_burton_legen
 category: around_town
 date: 2011-02-17 21:49:22
 excerpt: |
@@ -32,3 +33,9 @@ h4. Details
 * "www.environmenttrust.co.uk":http://www.environmenttrust.co.uk
 
 _All money raised will go towards the Environment Trust's learning and volunteering programmes._
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Young people 'transported' back in time"
 permalink: /archives/2011/02/young_people_transported_back_in_time.html
+commentfile: 2011-02-23-young_people_transported_back_in_time
 category: around_town
 date: 2011-02-23 11:12:15
 
@@ -33,3 +34,7 @@ h4. Details
 * Riverside Gallery, Old Town Hall Richmond.
 * Free admission.
 * Go to: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts for more information
+
+
+
+{% include comments.html %}

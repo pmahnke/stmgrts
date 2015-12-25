@@ -2,6 +2,7 @@
 layout: post
 title: "A Noble Little  Instrument "
 permalink: /archives/2011/09/a_noble_little_instrument.html
+commentfile: 2011-09-07-a_noble_little_instrument
 category: around_town
 date: 2011-09-07 13:23:00
 excerpt: |
@@ -84,3 +85,7 @@ h4. George Formby "With my little ukulele in my hand"
 _Credit: The photograph of the Ukulele Orchestra of Great Britain is from the BBC_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

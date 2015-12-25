@@ -2,6 +2,7 @@
 layout: post
 title: "Turkstock Event a Success"
 permalink: /archives/2007/03/turkstock_event.html
+commentfile: 2007-03-11-turkstock_event
 category: news
 date: 2007-03-11 21:39:51
 
@@ -10,3 +11,9 @@ date: 2007-03-11 21:39:51
 _Turkstock II_ raised £1,000 for St Stephen's School.
 
 <a href="//stmgrts.org.uk/assets/images/2007/turkstock_thankyou.pdf">Download the thank you PDF.</a>
+
+
+
+
+
+{% include comments.html %}

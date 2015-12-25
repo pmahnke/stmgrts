@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; RealAle May 2011 Tasting Evening with BrewDog"
 permalink: /archives/2011/04/event_reminder_realale_may_2011_tasting_evening_wi.html
+commentfile: 2011-04-07-event_reminder_realale_may_2011_tasting_evening_wi
 category: around_town
 date: 2011-04-07 09:08:28
 
@@ -30,3 +31,7 @@ h4. Details
 * "Thursday 12 May 2011 - 7.30pm until 9.30pm":http://stmgrts.org.uk/event/event/200705142752
 * BOOK EARLY AS PLACES ARE EXTREMELY LIMITED AND FILL UP VERY FAST!!
 * To book a place at the tasting please e-mail "zeph@realale.com":mailto:zeph@realale.com.
+
+
+
+{% include comments.html %}

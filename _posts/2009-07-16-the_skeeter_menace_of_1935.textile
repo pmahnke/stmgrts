@@ -2,6 +2,7 @@
 layout: post
 title: "The Skeeter Menace of 1935"
 permalink: /archives/2009/07/the_skeeter_menace_of_1935.html
+commentfile: 2009-07-16-the_skeeter_menace_of_1935
 category: around_town
 date: 2009-07-16 10:51:52
 excerpt: |
@@ -64,3 +65,7 @@ As July passed into August and then into the cooler weather of September the Ske
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

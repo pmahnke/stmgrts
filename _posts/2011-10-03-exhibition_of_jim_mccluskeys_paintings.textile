@@ -2,6 +2,7 @@
 layout: post
 title: "Exhibition of Jim McCluskey's Paintings"
 permalink: /archives/2011/10/exhibition_of_jim_mccluskeys_paintings.html
+commentfile: 2011-10-03-exhibition_of_jim_mccluskeys_paintings
 category: around_town
 date: 2011-10-03 13:26:37
 excerpt: |
@@ -27,3 +28,9 @@ The opening times will be from "3<sup>rd</sup> to 16<sup>th</sup> October 2011":
 Jim McCluskey will be at the gallery when it will be open from 5.30 pm to 7.00 pm in weekdays.
 
 At weekends it will be open from 11.00 am till 7.00 pm.
+
+
+
+
+
+{% include comments.html %}

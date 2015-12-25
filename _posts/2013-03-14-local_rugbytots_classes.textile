@@ -2,6 +2,7 @@
 layout: post
 title: "Local Rugbytots Classes"
 permalink: /archives/2013/03/local_rugbytots_classes.html
+commentfile: 2013-03-14-local_rugbytots_classes
 category: 
 date: 2013-03-14 09:47:56
 excerpt: |
@@ -41,3 +42,7 @@ h4. More Information
 * 0845 481 6444
 * "lorna@rugbytots.co.uk":mailto:lorna@rugbytots.co.uk
 * "facebook.com/pages/Rugbytots-SW-London/440370845986226":http://facebook.com/pages/Rugbytots-SW-London/440370845986226
+
+
+
+{% include comments.html %}

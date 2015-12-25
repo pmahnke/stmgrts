@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Recruitment and Conscientious Objection - 1 April 2015"
 permalink: /archives/2015/03/event_reminder_recruitment_and_conscientious_objec.html
+commentfile: 2015-03-16-event_reminder_recruitment_and_conscientious_objec
 category: around_town
 date: 2015-03-16 22:35:19
 excerpt: |
@@ -38,3 +39,7 @@ h4. More Information
 
 * Tickets - are a recommended &pound;2 donation, please contact the Museum on 0208 332 1141 or email "museumofrichmond@btconnect.com":mailto:museumofrichmond@btconnect.com to book your place.
 * Exhibition - '1914-1918 Richmond at Home and at War, Local stories and their International Links' runs at the Museum of Richmond until April 22<sup>nd</sup> 2015. The Museum of Richmond is open Tue-Fri 11am-5pm and Sat 11-4pm.
+
+
+
+{% include comments.html %}

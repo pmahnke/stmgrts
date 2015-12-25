@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Flamenco Comes to 'Santa Margarita'"
 permalink: /archives/2009/01/event_reminder_flamenco_comes_to_santa_margarita.html
+commentfile: 2009-01-06-event_reminder_flamenco_comes_to_santa_margarita
 category: around_town
 date: 2009-01-06 21:17:41
 
@@ -26,3 +27,8 @@ Regular classes start at the same venue, Wednesday January 21<sup>st</sup>.
 * Phone 020 8891 0845
 * Mobile 07749723514
 * Email "mart.white@btinternet.com":mailto:mart.white@btinternet.com
+
+
+
+
+{% include comments.html %}

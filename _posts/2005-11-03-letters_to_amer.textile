@@ -2,6 +2,7 @@
 layout: post
 title: "Letters to America &#58; Driving on the wrong/other side of the road"
 permalink: /archives/2005/11/letters_to_amer.html
+commentfile: 2005-11-03-letters_to_amer
 category: around_town
 date: 2005-11-03 19:30:24
 
@@ -34,3 +35,6 @@ Cheers!
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
+
+
+{% include comments.html %}

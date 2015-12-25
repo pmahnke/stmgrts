@@ -2,6 +2,7 @@
 layout: post
 title: "R&T Photographic Society 2013 Annual Exhibition"
 permalink: /archives/2013/03/rt_photographic_society_2013_annual_exhibition.html
+commentfile: 2013-03-06-rt_photographic_society_2013_annual_exhibition
 category: around_town
 date: 2013-03-06 17:07:20
 excerpt: |
@@ -30,3 +31,7 @@ h4. More Information
 * "www.rtps.org.uk":http://www.rtps.org.uk
 
 <em>For further information please email: "rtpspublicity@hotmail.co.uk":mailto:rtpspublicity@hotmail.co.uk</em>
+
+
+
+{% include comments.html %}

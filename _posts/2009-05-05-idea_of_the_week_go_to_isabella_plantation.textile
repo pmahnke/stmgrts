@@ -2,6 +2,7 @@
 layout: post
 title: "Idea of the Week &#58; Go to Isabella Plantation"
 permalink: /archives/2009/05/idea_of_the_week_go_to_isabella_plantation.html
+commentfile: 2009-05-05-idea_of_the_week_go_to_isabella_plantation
 category: around_town
 date: 2009-05-05 14:11:26
 excerpt: |
@@ -19,3 +20,8 @@ We just went to "Isabella Plantation":http://www.royalparks.org.uk/parks/richmon
 Here is Royal Parks description of the plantation:
 
 bq. “The Isabella Plantation is a beautiful woodland garden inside Richmond Park that houses a fine collection of azaleas, including the National Collection of 50 Japanese azalea varieties introduced to the West around 1920 by the famous plant collector, Ernest Wilson. Rhododendrons, camellias, and magnolias thrive under a mature woodland canopy with many other acid-loving plants.”
+
+
+
+
+{% include comments.html %}

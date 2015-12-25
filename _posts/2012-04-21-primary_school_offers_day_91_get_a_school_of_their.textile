@@ -2,6 +2,7 @@
 layout: post
 title: "Primary School Offers Day - 91% Get a School of Their Choice"
 permalink: /archives/2012/04/primary_school_offers_day_91_get_a_school_of_their.html
+commentfile: 2012-04-21-primary_school_offers_day_91_get_a_school_of_their
 category: news
 date: 2012-04-21 18:06:07
 
@@ -14,3 +15,9 @@ On 18 April 2012, Richmond Council will be making the initial allocation of rece
 To meet demand for places, last year the Council announced additional investment to expand the borough's primary schools, as part of a 10 year strategy. This year, an additional three permanent forms of entry, for 90 additional children, will be provided at Hampton Wick Infant, Orleans Primary, St Stephen's C of E Primary, and St Mary's C of E Primary. The provision of the 60 additional places within St Margarets and central/East Twickenham has been particularly helpful in greatly reducing the number of children in those areas who would otherwise have been unplaced at the initial allocations stage.
 
 <cite>-- from a Richmond Council "press release - 18 April 2012":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/april_2012_press_releases/primary_school_offers_day_91_percent_get_a_school_of_their_choice.htm</cite>
+
+
+
+
+
+{% include comments.html %}

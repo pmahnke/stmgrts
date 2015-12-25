@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Singalonga-Santa - 8 December 2012"
 permalink: /archives/2012/11/event_reminder_singalongasanta_8_december_2012.html
+commentfile: 2012-11-28-event_reminder_singalongasanta_8_december_2012
 category: around_town
 date: 2012-11-28 21:49:55
 
@@ -17,3 +18,8 @@ h4. More Information
 * Book on "focg.auth@gmail.com":mailto:focg.auth@gmail.com or 020 8891 0612 to guarantee a visit at your preferred time.
 * Location: Cambridge Gardens, Clevedon Road, East Twickenham, TW1 2TA. Near the Caf&#233;.
 * Time: from 14.30 to 16.00
+
+
+
+
+{% include comments.html %}

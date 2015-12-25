@@ -2,6 +2,7 @@
 layout: post
 title: "Council Confirms Plans for St Johns Hospital Site"
 permalink: /archives/2011/07/council_confirms_plans_for_st_johns_hosipital_site.html
+commentfile: 2011-07-14-council_confirms_plans_for_st_johns_hosipital_site
 category: news
 date: 2011-07-14 11:22:23
 
@@ -16,3 +17,8 @@ This will enable the school to create another 30 reception class places as it be
 Building work is set to begin in September with the new site opening in September 2012.
 
 p. -- from the "Richmond Informer - 11 July 2011":http://www.richmondinformer.co.uk/2011/07/former-twickenham-mental-hospi.html
+
+
+
+
+{% include comments.html %}

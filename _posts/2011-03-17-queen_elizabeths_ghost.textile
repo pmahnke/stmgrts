@@ -2,6 +2,7 @@
 layout: post
 title: "Queen Elizabeth's Ghost"
 permalink: /archives/2011/03/queen_elizabeths_ghost.html
+commentfile: 2011-03-17-queen_elizabeths_ghost
 category: around_town
 date: 2011-03-17 20:15:04
 excerpt: |
@@ -68,3 +69,7 @@ Queen Elizabeth 1<sup>st</sup> died on a Thursday - 24<sup>th</sup> March 1603. 
 _Credits: Wardrobe from Flickr. Death of Elizabeth by Paul Delaroche. Richmond Palace from PastScape, Queen Elizabeth by George Gowers, Elizabeth Southwell from Lalivornia_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

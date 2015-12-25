@@ -2,6 +2,7 @@
 layout: post
 title: "Cancer Research Dinner - 15 October 2013"
 permalink: /archives/2013/09/cancer_research_dinner_15_october_2013.html
+commentfile: 2013-09-05-cancer_research_dinner_15_october_2013
 category: around_town
 date: 2013-09-05 22:19:27
 excerpt: |
@@ -39,3 +40,7 @@ h4. More Information
 * All money donated to William's Group on CR-UK MyProjects, funds research into childhood cancers. Go to  "myprojects.cancerresearchuk.org/projects/treatments-for-childhood-cancer":http://myprojects.cancerresearchuk.org/projects/treatments-for-childhood-cancer   to find out more.
 
 _We really look forward to welcoming you on the 15<sup>th</sup> October 2013_
+
+
+
+{% include comments.html %}

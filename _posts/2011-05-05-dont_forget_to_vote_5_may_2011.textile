@@ -2,6 +2,7 @@
 layout: post
 title: "Don't Forget to Vote - 5 May 2011"
 permalink: /archives/2011/05/dont_forget_to_vote_5_may_2011.html
+commentfile: 2011-05-05-dont_forget_to_vote_5_may_2011
 category: editorial
 date: 2011-05-05 08:15:43
 
@@ -28,3 +29,10 @@ If more people vote 'yes' than 'no', the 'alternative vote' system will be used 
 If more people vote 'no' than 'yes', the 'first past the post' system will continue to be used.
 
 h4. No school at St Stephens CoE Junior School or either St Mary's school sites.
+
+
+
+
+
+
+{% include comments.html %}

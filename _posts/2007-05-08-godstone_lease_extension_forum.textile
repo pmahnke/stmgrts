@@ -2,6 +2,7 @@
 layout: post
 title: "Godstone Lease Extension Forum"
 permalink: /archives/2007/05/godstone_lease_extension_forum.html
+commentfile: 2007-05-08-godstone_lease_extension_forum
 category: around_town
 date: 2007-05-08 08:52:37
 
@@ -12,3 +13,8 @@ bq. "A number of us in Godstone Road are forming an action group relating to the
 -- _from Madeleine Menzies_
 
 To help, we have set up a "forum":http://stmgrts.org.uk/cgi-bin/yabb/YaBB.pl?board=lease where residents can discuss this issue.
+
+
+
+
+{% include comments.html %}

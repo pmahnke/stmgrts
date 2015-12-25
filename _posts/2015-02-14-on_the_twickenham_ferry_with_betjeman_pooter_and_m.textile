@@ -2,6 +2,7 @@
 layout: post
 title: "On The Twickenham Ferry with Betjeman, Pooter and Marzials"
 permalink: /archives/2015/02/on_the_twickenham_ferry_with_betjeman_pooter_and_m.html
+commentfile: 2015-02-14-on_the_twickenham_ferry_with_betjeman_pooter_and_m
 category: around_town
 date: 2015-02-14 09:55:53
 excerpt: |
@@ -107,3 +108,7 @@ If you haven't already read <em>"The Diary of a Nobody":http://www.gutenberg.org
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

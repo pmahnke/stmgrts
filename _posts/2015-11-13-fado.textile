@@ -2,6 +2,7 @@
 layout: post
 title: "Fado"
 permalink: /archives/2015/11/fado.html
+commentfile: 2015-11-13-fado
 category: around_town
 date: 2015-11-13 20:24:01
 excerpt: |
@@ -92,3 +93,10 @@ h4. Ana Moura singing 'Fado Loucura'
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+{% include comments.html %}

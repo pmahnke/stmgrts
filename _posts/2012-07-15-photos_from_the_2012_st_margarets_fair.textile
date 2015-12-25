@@ -2,6 +2,7 @@
 layout: post
 title: "Photos from the 2012 St Margarets Fair"
 permalink: /archives/2012/07/photos_from_the_2012_st_margarets_fair.html
+commentfile: 2012-07-15-photos_from_the_2012_st_margarets_fair
 category: news
 date: 2012-07-15 20:01:43
 excerpt: |
@@ -24,3 +25,10 @@ It was wet, but there was a pretty good turnout for the mostly dry afternoon.  W
 * "View a slideshow on flickr":http://www.flickr.com//photos/mahnke/sets/72157630583153176/show/
 
 If you have some photos to share, please contact us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk.
+
+
+
+
+
+
+{% include comments.html %}

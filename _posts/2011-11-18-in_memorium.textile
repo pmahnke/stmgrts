@@ -2,6 +2,7 @@
 layout: post
 title: "In Memorium"
 permalink: /archives/2011/11/in_memorium.html
+commentfile: 2011-11-18-in_memorium
 category: around_town
 date: 2011-11-18 09:44:29
 
@@ -88,3 +89,7 @@ fn1. In some versions of the epitaph the final line has been revised to read "Fo
 <em>Credits: Sergeant-Major Tobin's quote is from "Forgotten Voices of the Great War" by Max Arthur. The photograph of the epitaph at Kohima is by David Lock. The photograph of the memorial at Kohima is by Mahendra Kumar Goyal.  The photograph of King George laying a wreath in 1919 is from roll-of-honour.com.</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

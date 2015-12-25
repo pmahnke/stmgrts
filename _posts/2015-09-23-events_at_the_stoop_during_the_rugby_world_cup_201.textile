@@ -2,6 +2,7 @@
 layout: post
 title: "Events at The Stoop during the Rugby World Cup 2015"
 permalink: /archives/2015/09/events_at_the_stoop_during_the_rugby_world_cup_201.html
+commentfile: 2015-09-23-events_at_the_stoop_during_the_rugby_world_cup_201
 category: news
 date: 2015-09-23 23:21:41
 
@@ -21,3 +22,7 @@ The Stoop will be screening the matches on a big screen in the stadium. The Stad
 The Stoop will be screening the matches on a big screen in the stadium. The Stadium opens at 16:00 and bars close at 23:00 on both days. The stadium is open for all those who live within 3 miles of The Stoop and those with a match day ticket. Tickets are &pound;10 for adults and &pound;1 for juniors.
 * *31<sup>st</sup> October: Final*
 The Stoop will be screening the match on a big screen in the stadium. The Stadium opens at 13:00 and bars close at 23:00 on both days. The stadium is open for all those who live within 3 miles of The Stoop and those with a match day ticket. Tickets are &pound;10 for adults and &pound;1 for juniors.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Picnic - Kew Gardens in Spring"
 permalink: /archives/2011/03/event_reminder_art_picnic_kew_gardens_in_spring.html
+commentfile: 2011-03-10-event_reminder_art_picnic_kew_gardens_in_spring
 category: around_town
 date: 2011-03-10 16:38:23
 excerpt: |
@@ -45,3 +46,9 @@ for full terms and conditions please contact the office</em>
 ENTRY TO KEW GARDENS NOT INCLUDED, BUT MEMBERS WILL SHARE TICKETS
 
 Please call the office on 020 8891 5455 or e-mail: "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk to book your place. Contact on the day : Alex Robb
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Holi - Orleans House - 20 March 2011"
 permalink: /archives/2011/03/event_reminder_holi_orleans_house_20_march_2011.html
+commentfile: 2011-03-20-event_reminder_holi_orleans_house_20_march_2011
 category: around_town
 date: 2011-03-20 12:32:25
 
@@ -30,3 +31,7 @@ h4. Details
 
 * 1-4pm 20 March 2011
 * Admission free
+
+
+
+{% include comments.html %}

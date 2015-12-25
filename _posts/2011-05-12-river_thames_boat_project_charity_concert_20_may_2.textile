@@ -2,6 +2,7 @@
 layout: post
 title: "River Thames Boat Project Charity Concert - 20 May 2011"
 permalink: /archives/2011/05/river_thames_boat_project_charity_concert_20_may_2.html
+commentfile: 2011-05-12-river_thames_boat_project_charity_concert_20_may_2
 category: around_town
 date: 2011-05-12 09:45:08
 
@@ -27,3 +28,7 @@ h4. Details
 In addition, Richmond Venturer (the barge owned by the River Thames Boat Project) will take a special cruise downstream from Kingston to Richmond in the early evening and a pre-concert reception will be held on board.
 
 A limited number of special all-inclusive packages are available including the cruise from Kingston, drinks reception and concert, or reception and concert. Please email "ccp.concert@gmail.com":mailto:ccp.concert@gmail.com for details.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Pictures for Frances?"
 permalink: /archives/2008/02/pictures_for_frances.html
+commentfile: 2008-02-07-pictures_for_frances
 category: around_town
 date: 2008-02-07 21:18:54
 
@@ -32,3 +33,7 @@ Unfortunately, this dream for her was short-lived. My older sister in Canada, lo
 <cite>-- Gill Baldwin</cite>
 
 </div>
+
+
+
+{% include comments.html %}

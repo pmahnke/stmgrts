@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Great Annual Street Sale - 14 September 2013"
 permalink: /archives/2013/09/event_reminder_great_annual_street_sale_14_septemb.html
+commentfile: 2013-09-05-event_reminder_great_annual_street_sale_14_septemb
 category: around_town
 date: 2013-09-05 22:57:22
 excerpt: |
@@ -43,3 +44,7 @@ For those who like to know these things GASS is organised by NSMRA - the North S
 "Here is a link to a map":https://www.google.co.uk/maps/preview#!data=!1m4!1m3!1d18282!2d-0.323024!3d51.460344
 
 Put a note into your diary... "GREAT ANNUAL STREET SALE - SEPTEMBER 14<sup>th</sup> from 12.00 noon - 3.00pm":
+
+
+
+{% include comments.html %}

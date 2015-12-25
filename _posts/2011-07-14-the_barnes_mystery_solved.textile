@@ -2,6 +2,7 @@
 layout: post
 title: "The Barnes Mystery Solved"
 permalink: /archives/2011/07/the_barnes_mystery_solved.html
+commentfile: 2011-07-14-the_barnes_mystery_solved
 category: around_town
 date: 2011-07-14 14:34:44
 excerpt: |
@@ -61,3 +62,7 @@ And that was the end of Julia Martha Thomas, butchered and boiled into bowls of 
 <cite>-- from Martyn Day</cite>
 
 _Credit: The picture of Julia Martha Thomas is from Richmond Local Studies Collection._
+
+
+
+{% include comments.html %}

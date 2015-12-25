@@ -2,6 +2,7 @@
 layout: post
 title: "Hacked"
 permalink: /archives/2011/03/hacked.html
+commentfile: 2011-03-23-hacked
 category: editorial
 date: 2011-03-23 17:42:14
 
@@ -14,3 +15,8 @@ You might have noticed that this site was Hacked overnight.  We think we have re
 Thank you for all the people who did contact us, that was, in-fact, how we found out.
 
 If you are a hacker, I hope you understand the damage you doing to small websites.
+
+
+
+
+{% include comments.html %}

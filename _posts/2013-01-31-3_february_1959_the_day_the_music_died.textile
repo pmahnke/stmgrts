@@ -2,6 +2,7 @@
 layout: post
 title: "3 February 1959 - The Day The Music Died"
 permalink: /archives/2013/01/3_february_1959_the_day_the_music_died.html
+commentfile: 2013-01-31-3_february_1959_the_day_the_music_died
 category: around_town
 date: 2013-01-31 22:30:04
 excerpt: |
@@ -103,3 +104,8 @@ h4. The Quarrymen sing "That'll be The Day"-featuring John Lennon, Paul McCartne
 </blockquote>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

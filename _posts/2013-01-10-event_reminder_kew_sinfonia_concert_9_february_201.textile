@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Kew Sinfonia Concert - 9 February 2013"
 permalink: /archives/2013/01/event_reminder_kew_sinfonia_concert_9_february_201.html
+commentfile: 2013-01-10-event_reminder_kew_sinfonia_concert_9_february_201
 category: around_town
 date: 2013-01-10 21:55:10
 
@@ -26,3 +27,7 @@ h4. More Information
 * Tickets £10,  concessions  £8,  students £5, children under 12  £3
 
 _Tickets available on the door or from: ABC MUSIC, Station Approach, Kew_
+
+
+
+{% include comments.html %}

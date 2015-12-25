@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets' Own Book Club"
 permalink: /archives/2013/01/st_margarets_own_book_club.html
+commentfile: 2013-01-24-st_margarets_own_book_club
 category: around_town
 date: 2013-01-24 06:58:58
 excerpt: |
@@ -34,3 +35,9 @@ We meet on the 3<sup>rd</sup> Thursday of each month, at 8pm, in the restaurant 
 We are all women at the moment, but men are very welcome. Our ages range from mid-thirties to sixty-plus, so there is a wide mix of interests, experiences and tastes!
 
 If you would like to come along, please email the Club Secretary at "maggiesbookclub@gmail.com":mailto:maggiesbookclub@gmail.com.
+
+
+
+
+
+{% include comments.html %}

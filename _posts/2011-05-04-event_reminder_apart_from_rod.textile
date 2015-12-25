@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Apart from Rod"
 permalink: /archives/2011/05/event_reminder_apart_from_rod.html
+commentfile: 2011-05-04-event_reminder_apart_from_rod
 category: around_town
 date: 2011-05-04 20:34:18
 
@@ -17,3 +18,9 @@ h4. Details
 
 * Tickets &pound;20 (in advance only)
 * Cash Bar
+
+
+
+
+
+{% include comments.html %}

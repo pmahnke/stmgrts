@@ -2,6 +2,7 @@
 layout: post
 title: "Armstrongs Takes Over Frisby's Butcher Shop"
 permalink: /archives/2007/05/armstrongs_to_take_st_margarets_butcher_shop.html
+commentfile: 2007-05-10-armstrongs_to_take_st_margarets_butcher_shop
 category: news
 date: 2007-05-10 13:25:58
 
@@ -16,3 +17,8 @@ Great news and hope that everyone will support them, though the quality of their
 p. Good news if it happens... now for the bakery....
 
 _Armstrongs of Richmond is an excellent butchers on 205 Lower Mortlake Rd, Richmond, TW9 2LP_
+
+
+
+
+{% include comments.html %}

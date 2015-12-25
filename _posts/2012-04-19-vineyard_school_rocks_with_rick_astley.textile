@@ -2,6 +2,7 @@
 layout: post
 title: "Vineyard School Rocks with Rick Astley"
 permalink: /archives/2012/04/vineyard_school_rocks_with_rick_astley.html
+commentfile: 2012-04-19-vineyard_school_rocks_with_rick_astley
 category: news
 date: 2012-04-19 19:31:11
 
@@ -19,3 +20,9 @@ h4. More Information
 
 * Tickets for the event are available at "www.seetickets.com":http://www.seetickets.com for &pound;25 with funds going to the Shooting Star Hospice and the Vineyard School. 
 * Visit the festival's website at "www.thevineyardlive.com":http://www.thevineyardlive.com
+
+
+
+
+
+{% include comments.html %}

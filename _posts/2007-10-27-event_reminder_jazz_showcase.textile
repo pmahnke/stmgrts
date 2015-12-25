@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Jazz showcase"
 permalink: /archives/2007/10/event_reminder_jazz_showcase.html
+commentfile: 2007-10-27-event_reminder_jazz_showcase
 category: around_town
 date: 2007-10-27 13:12:09
 
@@ -13,3 +14,9 @@ date: 2007-10-27 13:12:09
 Annoucing a new night of jazz featuring local musicians playing different styles of Jazz in the informal atmosphere of "The Rising Sun":http://www.stmgrts.org.uk/directory/pub/200611051507. Contemporary to Funk and Trad to Fusion. Every Tuesday from 9pm, all styles from new up and coming groups to professional musicians. Admission is free.
 
 Any musicians and singers who would like to take part, please email Tom Varrall, "tom@rttonline.com":mailto:tom@rttonline.com or phone 020 8892 6433
+
+
+
+
+
+{% include comments.html %}

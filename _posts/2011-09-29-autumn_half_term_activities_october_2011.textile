@@ -2,6 +2,7 @@
 layout: post
 title: "Autumn Half Term Activities - October 2011"
 permalink: /archives/2011/09/autumn_half_term_activities_october_2011.html
+commentfile: 2011-09-29-autumn_half_term_activities_october_2011
 category: around_town
 date: 2011-09-29 10:56:01
 excerpt: |
@@ -60,3 +61,7 @@ h4. Pottery Cafe - East Twickenham
 h4. RHS Garden Wisley
 
 * "Tremendous Trees - Come along and get creative with a host of tree-themed activities that will keep the entire family entertained.":http://www.rhs.org.uk/Gardens/Wisley/What-s-on/October-half-term
+
+
+
+{% include comments.html %}

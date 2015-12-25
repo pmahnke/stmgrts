@@ -2,6 +2,7 @@
 layout: post
 title: "Residents Group Letter on Proposed Indoor Soft Play Area"
 permalink: /archives/2006/03/residents_group.html
+commentfile: 2006-03-16-residents_group
 category: news
 date: 2006-03-16 13:45:04
 excerpt: |
@@ -56,3 +57,7 @@ HILARY IVORY
 Chairman
 
 </div>
+
+
+
+{% include comments.html %}

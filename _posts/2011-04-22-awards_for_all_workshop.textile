@@ -2,6 +2,7 @@
 layout: post
 title: "Awards for All Workshop"
 permalink: /archives/2011/04/awards_for_all_workshop.html
+commentfile: 2011-04-22-awards_for_all_workshop
 category: around_town
 date: 2011-04-22 11:30:02
 
@@ -28,3 +29,7 @@ h4. Details
 * Facilitated by Julie Ward & Reetu Sood from Richmond CVS
 * Book online at "www.richmondcvs.org.uk/events":http://www.richmondcvs.org.uk/events
 * Or call Richmond CVS reception on 0208 2558500
+
+
+
+{% include comments.html %}

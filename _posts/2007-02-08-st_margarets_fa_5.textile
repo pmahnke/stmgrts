@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair Participant Information"
 permalink: /archives/2007/02/st_margarets_fa_5.html
+commentfile: 2007-02-08-st_margarets_fa_5
 category: around_town
 date: 2007-02-08 10:39:58
 excerpt: |
@@ -33,3 +34,6 @@ The Fair is organised entirely by volunteers and all funds raised will
 shared (after costs) between four local schools and three local charities.
 
 _Note: this website does not represent the fair, although we certainly try to help in any way we can, so please do not contact us for information about Stalls or Programmes._
+
+
+{% include comments.html %}

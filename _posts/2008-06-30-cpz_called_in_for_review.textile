@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Called-in for Review"
 permalink: /archives/2008/06/cpz_called_in_for_review.html
+commentfile: 2008-06-30-cpz_called_in_for_review
 category: news
 date: 2008-06-30 15:58:38
 
@@ -14,3 +15,10 @@ bq. "a) the due processes and consultations were flawed, b) the review in 6 mont
 The Council website says: "The decision is currently being reconsidered":http://tinyurl.com/5snk3d
 
 <cite>-- from Christopher Squire</cite>
+
+
+
+
+
+
+{% include comments.html %}

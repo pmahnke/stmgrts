@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council Approves Expansion of Orleans and St Stephens Schools"
 permalink: /archives/2012/01/richmond_council_approves_expansion_of_orleans_and.html
+commentfile: 2012-01-30-richmond_council_approves_expansion_of_orleans_and
 category: news
 date: 2012-01-30 11:39:31
 
@@ -24,3 +25,9 @@ h4. More Information
 
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+
+{% include comments.html %}

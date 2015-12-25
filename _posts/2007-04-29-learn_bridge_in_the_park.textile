@@ -2,6 +2,7 @@
 layout: post
 title: "Learn Bridge in the Park"
 permalink: /archives/2007/04/learn_bridge_in_the_park.html
+commentfile: 2007-04-29-learn_bridge_in_the_park
 category: around_town
 date: 2007-04-29 20:36:36
 excerpt: |
@@ -22,3 +23,9 @@ Fee for the course will be &pound;60 to cover bridge tuition, playing practice a
 "Bridge is an enjoyable game and a way of meeting new people," says Ned.  "I love to teach bridge in pleasant informal surroundings, much less daunting for new players than going straightaway to a regular bridge club. This is also my way of supporting the new Coach House Cafe venture, bringing people to the Park, who might otherwise not go there.  If bridge is something you've always meant to do, seize the chance and come and play in the Park."
 
 If you would like to join or know more about the course, ring Ned Paul on 020-8892 9429 or 07944 768643 or email "bridge@nedpaul.com":mailto:bridge@nedpaul.com
+
+
+
+
+
+{% include comments.html %}

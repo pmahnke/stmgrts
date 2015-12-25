@@ -2,6 +2,7 @@
 layout: post
 title: "The Turks Head Reopens - 1 September 2012"
 permalink: /archives/2012/09/the_turks_head_reopens_1_september_2012.html
+commentfile: 2012-09-01-the_turks_head_reopens_1_september_2012
 category: news
 date: 2012-09-01 10:00:42
 
@@ -22,3 +23,10 @@ After a month of remodeling, The Turks Head is reopening.  The entire building h
 We were invited to a pre-opening meal and were quite impressed with the food and quality of the staff.  The menu was small, but the quality excellent.
 
 Please drop in and let us know what you think.
+
+
+
+
+
+
+{% include comments.html %}

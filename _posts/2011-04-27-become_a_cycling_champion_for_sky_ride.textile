@@ -2,6 +2,7 @@
 layout: post
 title: "Become a Cycling Champion for Sky Ride"
 permalink: /archives/2011/04/become_a_cycling_champion_for_sky_ride.html
+commentfile: 2011-04-27-become_a_cycling_champion_for_sky_ride
 category: around_town
 date: 2011-04-27 21:02:02
 
@@ -20,3 +21,8 @@ Approximately 30 ride leaders are required for the launch of the 2011 programme 
 "More information":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/april_2011_press_releases/spring_into_sky_ride_-_become_a_cycling_leader.htm
 
 -- from a Richmond Council press release
+
+
+
+
+{% include comments.html %}

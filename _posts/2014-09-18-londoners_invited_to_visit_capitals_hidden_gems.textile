@@ -2,6 +2,7 @@
 layout: post
 title: "Londoners Invited to Visit Capital's Hidden Gems"
 permalink: /archives/2014/09/londoners_invited_to_visit_capitals_hidden_gems.html
+commentfile: 2014-09-18-londoners_invited_to_visit_capitals_hidden_gems
 category: around_town
 date: 2014-09-18 19:42:21
 excerpt: |
@@ -52,3 +53,9 @@ bq. "This is a brilliant chance for people to see buildings of interest that are
 London co-ordinator Fiona Morgan says that although the places of interest are religious buildings this isn't an event that is aimed purely at churchgoers: "Everyone is invited to take part and every pound we can raise will make a huge difference. Ride+Stride is an excellent day out for body and soul and a chance to see gems of London architecture. It offers individuals, families and groups an unusual day out with plenty to see, do, hear, eat, drink and be involved in".
 
 *Full details of the places of worship involved, routes, lists of top 10 buildings, a tallest tower quiz and general information are available at "www.heritageoflondon.com.":http://www.heritageoflondon.com. The website also contains the sponsorship form for use by participants and guided tours which can be booked in advance.*
+
+
+
+
+
+{% include comments.html %}

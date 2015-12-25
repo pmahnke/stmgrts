@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Sounds of the 60's and 70's with the 60's All-Stars"
 permalink: /archives/2009/03/event_reminder_sounds_of_the_60s_and_70s_with_the.html
+commentfile: 2009-03-06-event_reminder_sounds_of_the_60s_and_70s_with_the
 category: around_town
 date: 2009-03-06 08:59:32
 
@@ -21,3 +22,8 @@ In aid of _The Royal Marsden Hospital_.
 ** tel 020 8607 7283 
 ** email "teresa.adamsappeal@virgin.net":mailto:teresa.adamsappeal@virgin.net
  
+
+
+
+
+{% include comments.html %}

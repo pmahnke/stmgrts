@@ -2,6 +2,7 @@
 layout: post
 title: "Le Salon Prive Now Open"
 permalink: /archives/2015/05/le_salon_prive_now_open.html
+commentfile: 2015-05-15-le_salon_prive_now_open
 category: around_town
 date: 2015-05-15 13:31:07
 excerpt: |
@@ -23,3 +24,9 @@ Call us on 0208 892 0602.
 h4. Le Salon Priv&#233;
 
 _Private dining in a Classic French restaurant._
+
+
+
+
+
+{% include comments.html %}

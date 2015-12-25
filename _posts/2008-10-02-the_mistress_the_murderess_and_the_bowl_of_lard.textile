@@ -2,6 +2,7 @@
 layout: post
 title: "The Mistress, the Murderess and the Bowl of Lard"
 permalink: /archives/2008/10/the_mistress_the_murderess_and_the_bowl_of_lard.html
+commentfile: 2008-10-02-the_mistress_the_murderess_and_the_bowl_of_lard
 category: around_town
 date: 2008-10-02 23:00:05
 excerpt: |
@@ -50,3 +51,7 @@ Mayhew charitably put it down to Kate having a streak of humanity... the rest of
 
 
 <cite>--from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "February Half Term at Orleans House Gallery - 2012"
 permalink: /archives/2012/01/february_half_term_at_orleans_house_gallery_2012.html
+commentfile: 2012-01-26-february_half_term_at_orleans_house_gallery_2012
 category: around_town
 date: 2012-01-26 21:54:09
 
@@ -58,3 +59,6 @@ h3. Half Day Paint Workshop - 'The Art of Play' - Friday, 17 February
 Spin, spray and splatter paint with artist Imogen Luddy to learn about colour and colour mixing.
 
 _Booking essential: Please call 020 8831 6000 or book online_
+
+
+{% include comments.html %}

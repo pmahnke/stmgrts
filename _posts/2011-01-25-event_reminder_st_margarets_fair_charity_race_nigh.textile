@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; -St Margarets Fair Charity Race Night- POSTPONED"
 permalink: /archives/2011/01/event_reminder_st_margarets_fair_charity_race_nigh.html
+commentfile: 2011-01-25-event_reminder_st_margarets_fair_charity_race_nigh
 category: around_town
 date: 2011-01-25 23:15:30
 excerpt: |
@@ -34,3 +35,9 @@ h4. Details
 * Buy tickets in advance or secure your place for this must attend event by
 contacting Will on 07967 552140 or "omnitodd@googlemail.com":mailto:omnitodd@googlemail.com
 * "Read flyer":http://www.stmgrts.org.uk/images/events/RaceNightflyer2011.jpg
+
+
+
+
+
+{% include comments.html %}

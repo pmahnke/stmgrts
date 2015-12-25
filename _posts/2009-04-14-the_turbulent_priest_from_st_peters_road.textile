@@ -2,6 +2,7 @@
 layout: post
 title: "The Turbulent Priest from St Peters Road"
 permalink: /archives/2009/04/the_turbulent_priest_from_st_peters_road.html
+commentfile: 2009-04-14-the_turbulent_priest_from_st_peters_road
 category: around_town
 date: 2009-04-14 21:52:31
 excerpt: |
@@ -62,3 +63,7 @@ bq. "The Christian Church is intended to be a society not merely for teaching a 
 
 
 <cite>-- from Martyn Day</cite> 
+
+
+
+{% include comments.html %}

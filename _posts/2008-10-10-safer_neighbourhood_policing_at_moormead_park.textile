@@ -2,6 +2,7 @@
 layout: post
 title: "Safer Neighbourhood Policing at Moormead Park"
 permalink: /archives/2008/10/safer_neighbourhood_policing_at_moormead_park.html
+commentfile: 2008-10-10-safer_neighbourhood_policing_at_moormead_park
 category: news
 date: 2008-10-10 21:23:49
 excerpt: |
@@ -44,3 +45,7 @@ h4. What can you do?
 * Report any park-cleaning issues (eg graffiti, rubbish) to the Council, who will take it up with the contractors. Contact them by phone on 020 8891 1411 or use the Street Scene fault reporting form on "www.richmond.gov.uk":http://www.richmond.gov.uk/
 
 <cite>-- from Dr Jenny G Atton</cite>
+
+
+
+{% include comments.html %}

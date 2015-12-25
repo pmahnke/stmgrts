@@ -2,6 +2,7 @@
 layout: post
 title: "Fun Ukulele Courses - January 2014"
 permalink: /archives/2013/12/fun_ukulele_courses_january_2014.html
+commentfile: 2013-12-13-fun_ukulele_courses_january_2014
 category: around_town
 date: 2013-12-13 12:00:14
 excerpt: |
@@ -41,3 +42,7 @@ h4. More Information
 * www.richmond-ukulele.co.uk
 * Price: £50 for set of 3 lessons (early booking discount)
 * Age: 10+
+
+
+
+{% include comments.html %}

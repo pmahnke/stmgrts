@@ -2,6 +2,7 @@
 layout: post
 title: "DYB DYB DYB! DOB, DOB, DOB!"
 permalink: /archives/2009/02/dyb_dyb_dyb_dob_dob_dob.html
+commentfile: 2009-02-20-dyb_dyb_dyb_dob_dob_dob
 category: around_town
 date: 2009-02-20 11:41:00
 excerpt: |
@@ -52,3 +53,7 @@ So if you happen to see a 1<sup>st</sup> St Margarets Beaver, Cub or Scout in th
 <cite>-- from Martyn Day</cite>
 
 fn1. "Dyb, dyb, dyb" was an instruction to "Do Your Best!". The Cubs replied with "Dob, dob, dob" which means "We'll Do Our Best!"
+
+
+
+{% include comments.html %}

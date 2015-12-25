@@ -2,6 +2,7 @@
 layout: post
 title: "New Summer Taekwon-do Course in St Margarets"
 permalink: /archives/2011/07/new_summer_taekwondo_course_in_st_margarets.html
+commentfile: 2011-07-13-new_summer_taekwondo_course_in_st_margarets
 category: around_town
 date: 2011-07-13 18:29:35
 excerpt: |
@@ -44,3 +45,7 @@ h4. Details
 ** "www.twickenham-taekwondo.co.uk":http://www.twickenham-taekwondo.co.uk
 ** "facebook.com/TwickenhamTaekwondo":http://www.facebook.com/TwickenhamTaekwondo
 ** "twitter.com/TwickenhamTKD":http://www.twitter.com/TwickenhamTKD
+
+
+
+{% include comments.html %}

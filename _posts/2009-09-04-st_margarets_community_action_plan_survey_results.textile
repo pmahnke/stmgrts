@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Community Action Plan Survey Results Night - 15th September"
 permalink: /archives/2009/09/st_margarets_community_action_plan_survey_results.html
+commentfile: 2009-09-04-st_margarets_community_action_plan_survey_results
 category: news
 date: 2009-09-04 21:01:53
 
@@ -26,3 +27,7 @@ Community Action Plans are central to the Sustainable Communities Act (SCA) of 2
 It is believed that the Alliance is the only group generating pure data as part of a Community Action Plan and Alliance are working with the Environmental Law Foundation on the development of the St Margarets Community Action Plan to create a 'template' for plans elsewhere in the UK.
 
 More information about Community Action Plans and Alliance can be found on the Alliance website "www.stmargaretsalliance.com":http://www.stmargaretsalliance.com/
+
+
+
+{% include comments.html %}

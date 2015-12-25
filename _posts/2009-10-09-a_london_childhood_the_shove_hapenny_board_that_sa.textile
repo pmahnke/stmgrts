@@ -2,6 +2,7 @@
 layout: post
 title: "A London Childhood&#58; The Shove Ha'penny Board That Saved My Life"
 permalink: /archives/2009/10/a_london_childhood_the_shove_hapenny_board_that_sa.html
+commentfile: 2009-10-09-a_london_childhood_the_shove_hapenny_board_that_sa
 category: around_town
 date: 2009-10-09 14:20:35
 excerpt: |
@@ -56,3 +57,7 @@ When I was a little older my grandfather told me later all about the V2 that fel
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

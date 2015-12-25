@@ -2,6 +2,7 @@
 layout: post
 title: "Petersham Spring Open Gardens - 22 April 2012"
 permalink: /archives/2012/04/petersham_spring_open_gardens_22_april_2012.html
+commentfile: 2012-04-05-petersham_spring_open_gardens_22_april_2012
 category: around_town
 date: 2012-04-05 22:23:15
 excerpt: |
@@ -26,3 +27,7 @@ The ever popular teas and delicious home made cakes will be on sale in the Villa
 The privately owned gardens are all within a ten minute walk from the Petersham Gate entrance to Richmond Park, opposite the Dysart Arms. Buses 65 and 371 from Richmond station serve. Directions to the gardens will be displayed throughout the village, and a simple map is included in your programme.
 
 Advance tickets can be bought at a discounted rate by email from "jo_bradley@btconnect.com":mailto:jo_bradley@btconnect.com. Tickets can also be purchased on the day at all of the participating gardens.
+
+
+
+{% include comments.html %}

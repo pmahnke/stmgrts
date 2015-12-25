@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond upon Thames Literature Festival  - 3 to 27 November 2011"
 permalink: /archives/2011/09/richmond_upon_thames_literature_festival_3_to_27_n.html
+commentfile: 2011-09-05-richmond_upon_thames_literature_festival_3_to_27_n
 category: around_town
 date: 2011-09-05 14:12:46
 excerpt: |
@@ -35,3 +36,6 @@ h4. More information
 * "Event listings":http://www.stmgrts.org.uk/directory/art/200610191449
 * "Download the brochure":http://www.richmondliterature.com/wp-content/uploads/2010/10/Final-Brochure.pdf [pdf]
 * "Richmond Councils pages":http://www.richmond.gov.uk/home/leisure_and_culture/arts/literature_festival.htm
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council's All in One May 2015 Events"
 permalink: /archives/2015/04/richmond_councils_all_in_one_may_2015_events.html
+commentfile: 2015-04-30-richmond_councils_all_in_one_may_2015_events
 category: around_town
 date: 2015-04-30 21:26:22
 excerpt: |
@@ -63,3 +64,7 @@ h4. More Information
 
 * "www.richmond.gov.uk/village_plans":http://www.richmond.gov.uk/village_plans
 * "allinone@richmond.gov.uk":mailto:allinone@richmond.gov.uk
+
+
+
+{% include comments.html %}

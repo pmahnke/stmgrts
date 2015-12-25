@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Skills Space 29 July to 15 August 2013"
 permalink: /archives/2013/07/event_reminder_the_skills_space_29_july_to_15_augu.html
+commentfile: 2013-07-25-event_reminder_the_skills_space_29_july_to_15_augu
 category: around_town
 date: 2013-07-25 21:13:40
 
@@ -17,3 +18,9 @@ h4. More Information
 
 * All workshops take place in The Whittaker Ellis Suite, Richmond Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP
 * The full timetable of workshops, and information on how to book, can be found "on the website":http://www.richmond.gov.uk/home/leisure_and_culture/arts/arts_festivals/summer_festival/the_skills_space.htm
+
+
+
+
+
+{% include comments.html %}

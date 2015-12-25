@@ -2,6 +2,7 @@
 layout: post
 title: "Mayor's Quiz Night"
 permalink: /archives/2005/08/mayors_quiz_nig.html
+commentfile: 2005-08-19-mayors_quiz_nig
 category: around_town
 date: 2005-08-19 09:43:29
 
@@ -17,3 +18,8 @@ bq.. previous events have shown little representation from St Margarets' residen
 night ... & very worthy cause I might add.
 
 If so, to please phone me  8892 1748 leaving details for me to call back.
+
+
+
+
+{% include comments.html %}

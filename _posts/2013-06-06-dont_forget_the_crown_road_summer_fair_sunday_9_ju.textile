@@ -2,6 +2,7 @@
 layout: post
 title: "Don't forget the Crown Road Summer Fair Sunday - 9 June 2013"
 permalink: /archives/2013/06/dont_forget_the_crown_road_summer_fair_sunday_9_ju.html
+commentfile: 2013-06-06-dont_forget_the_crown_road_summer_fair_sunday_9_ju
 category: around_town
 date: 2013-06-06 22:10:17
 excerpt: |
@@ -35,3 +36,9 @@ That's not all:
 ... and much more!
 
 See you on Sunday!
+
+
+
+
+
+{% include comments.html %}

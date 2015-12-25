@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Results Published"
 permalink: /archives/2007/07/cpz_results_published.html
+commentfile: 2007-07-11-cpz_results_published
 category: news
 date: 2007-07-11 13:12:19
 excerpt: |
@@ -75,3 +76,7 @@ The report will be the main business of a "meeting of the Transport Consultative
 
 
 ??thanks to Chris Squire for the core of this post??
+
+
+
+{% include comments.html %}

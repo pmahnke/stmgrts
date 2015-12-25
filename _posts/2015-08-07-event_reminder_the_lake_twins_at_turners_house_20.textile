@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Lake Twins at Turner's House - 20 to 24 August 2015"
 permalink: /archives/2015/08/event_reminder_the_lake_twins_at_turners_house_20.html
+commentfile: 2015-08-07-event_reminder_the_lake_twins_at_turners_house_20
 category: around_town
 date: 2015-08-07 12:10:52
 excerpt: |
@@ -24,3 +25,7 @@ Phoebe and Lydia are identical twins who work collaboratively; Phoebe is left-ha
 Catherine Parry-Wingfield, chair of Turner's House Trust said: "We are delighted to host this exhibition reflecting exciting young talent, which I hope will introduce Turner in Twickenham to a new audience, and this fresh perspective will intrigue and delight our traditional supporters."
 
 "The exhibition runs from 20<sup>th</sup> to 24<sup>th</sup> August, from 12-6pm each day. Entry is free.":http://www.stmgrts.org.uk/event/exhibition/200705145140
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Please Vote for Crane Valley Park"
 permalink: /archives/2008/12/please_vote_for_crane_valley_park.html
+commentfile: 2008-12-05-please_vote_for_crane_valley_park
 category: news
 date: 2008-12-05 09:24:35
 excerpt: |
@@ -28,3 +29,7 @@ Please also pass this message on - there is nothing to lose and we could gain a 
 For more information about FORCE and the park project go to "www.force.org.uk":http://www.force.org.uk/
 
 <cite>-- from Frances Bennett, Secretary, _FORCE_ "info@force.org.uk":mailto:info@force.org.uk</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Oldest Inhabitant - Now"
 permalink: /archives/2012/05/the_oldest_inhabitant_now.html
+commentfile: 2012-05-31-the_oldest_inhabitant_now
 category: around_town
 date: 2012-05-31 23:13:44
 excerpt: |
@@ -62,3 +63,7 @@ Although they are from different centuries Sonny and James Harbor, the 'oldest r
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

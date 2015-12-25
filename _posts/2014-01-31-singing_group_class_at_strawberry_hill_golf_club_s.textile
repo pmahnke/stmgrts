@@ -2,6 +2,7 @@
 layout: post
 title: "Singing Group Class at Strawberry Hill Golf Club - Sprint 2014"
 permalink: /archives/2014/01/singing_group_class_at_strawberry_hill_golf_club_s.html
+commentfile: 2014-01-31-singing_group_class_at_strawberry_hill_golf_club_s
 category: around_town
 date: 2014-01-31 08:35:06
 excerpt: |
@@ -28,3 +29,7 @@ Situated in picturesque and superbly maintained woodland, one of the best in the
 5 week course &pound;90. Booking is essential. Contact Helen on 07710 245 904 or email "info@helenastrid.com":mailto:info@helenastrid.com to reserve a space. Limited to 12 participants.
 
 Strawberry Hill Golf Club , Wellesley Road, Strawberry Hill, Twickenham, Middlesex TW2 5SD, next to Strawberry Hill train station.
+
+
+
+{% include comments.html %}

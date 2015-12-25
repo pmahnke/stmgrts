@@ -2,6 +2,7 @@
 layout: post
 title: "Children's Art Parties at Orleans House Gallery 2015"
 permalink: /archives/2015/03/childrens_art_parties_at_orleans_house_gallery_201.html
+commentfile: 2015-03-05-childrens_art_parties_at_orleans_house_gallery_201
 category: around_town
 date: 2015-03-05 21:00:25
 excerpt: |
@@ -31,3 +32,6 @@ h4. More Information
 * "Babies - 2 years":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/art_parties/parties_for_babies.htm
 * "3 - 5 years":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/art_parties/parties_for_3_to_5_year_olds.htm
 * "6 - 12 years":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/art_parties/parties_for_6_to_12_year_olds.htm
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Stadium Charity Match for New Zealand Earthquake Appeal"
 permalink: /archives/2011/03/twickenham_stadium_charity_match_for_new_zealand_e.html
+commentfile: 2011-03-21-twickenham_stadium_charity_match_for_new_zealand_e
 category: news
 date: 2011-03-21 12:08:46
 
@@ -24,3 +25,9 @@ The game will raise funds for the Red Cross Earthquake appeal in New Zealand as 
 For further information: "www.rfu.com/TwickenhamStadium":http://www.rfu.com/TwickenhamStadium
 
 Tickets for the game can be purchased from Ticketmaster by calling 0844 847 2492 or logging on to "www.ticketmaster.co.uk":http://www.ticketmaster.co.uk
+
+
+
+
+
+{% include comments.html %}

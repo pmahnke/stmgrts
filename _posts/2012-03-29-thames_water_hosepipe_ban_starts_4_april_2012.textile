@@ -2,6 +2,7 @@
 layout: post
 title: "Thames Water Hosepipe Ban Starts 4 April 2012"
 permalink: /archives/2012/03/thames_water_hosepipe_ban_starts_4_april_2012.html
+commentfile: 2012-03-29-thames_water_hosepipe_ban_starts_4_april_2012
 category: news
 date: 2012-03-29 21:55:19
 
@@ -22,3 +23,9 @@ Thames Water Utilities Limited has given notice to all of its customers, that th
 # cleaning walls, or windows, of domestic premises using a hosepipe;
 # cleaning paths or patios using a hosepipe;
 # cleaning other artificial outdoor surfaces using a hosepipe.
+
+
+
+
+
+{% include comments.html %}

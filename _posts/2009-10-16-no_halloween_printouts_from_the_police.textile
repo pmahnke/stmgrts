@@ -2,6 +2,7 @@
 layout: post
 title: "No Halloween Print-outs from the Police"
 permalink: /archives/2009/10/no_halloween_printouts_from_the_police.html
+commentfile: 2009-10-16-no_halloween_printouts_from_the_police
 category: news
 date: 2009-10-16 18:59:52
 
@@ -15,3 +16,9 @@ Apparently everyone doesn't like Halloween.
 If you don't, then you might want to print off one of <a href="//stmgrts.org.uk/assets/images/2009/halloween5.pdf">these pdfs</a> and stick them in your window and on your front door.
 
 Also, keeping your outside light off helps.
+
+
+
+
+
+{% include comments.html %}

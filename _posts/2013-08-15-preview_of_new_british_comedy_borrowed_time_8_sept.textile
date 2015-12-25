@@ -2,6 +2,7 @@
 layout: post
 title: "Preview of New British Comedy 'Borrowed Time'- 8 September 2013"
 permalink: /archives/2013/08/preview_of_new_british_comedy_borrowed_time_8_sept.html
+commentfile: 2013-08-15-preview_of_new_british_comedy_borrowed_time_8_sept
 category: around_town
 date: 2013-08-15 21:39:35
 
@@ -14,3 +15,9 @@ Jules Bishop's feature debut is a precious rarity: an independent, low-budget Br
 There is a chance to meet the actors, director and producers on the night and Strawberry Hill House will be open until 7.00 for tours as an added attraction.
 
 * "Tickets":http://www.twickenhamalive.com/Film_Borrowed_Time.html
+
+
+
+
+
+{% include comments.html %}

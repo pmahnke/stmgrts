@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Meet the Brewer - 20 March 2014"
 permalink: /archives/2014/03/event_reminder_meet_the_brewer_20_march_2014.html
+commentfile: 2014-03-13-event_reminder_meet_the_brewer_20_march_2014
 category: around_town
 date: 2014-03-13 21:53:44
 
@@ -21,3 +22,7 @@ h4. More Information
 * Price - FREE to attend
 * Capacity - please note that we have a strict maximum capacity so you may have to wait if we get too full
 * There is no need to book, please just come along!
+
+
+
+{% include comments.html %}

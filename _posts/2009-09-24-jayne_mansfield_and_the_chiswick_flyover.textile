@@ -2,6 +2,7 @@
 layout: post
 title: "Jayne Mansfield and the Chiswick Flyover"
 permalink: /archives/2009/09/jayne_mansfield_and_the_chiswick_flyover.html
+commentfile: 2009-09-24-jayne_mansfield_and_the_chiswick_flyover
 category: around_town
 date: 2009-09-24 21:19:55
 excerpt: |
@@ -67,3 +68,7 @@ Despite the "blonde bimbo" image which she fostered in many films and stage show
 <cite>-- from Martyn Day</cite>
 
 _This article was written with the generous assistance of James Marshall,  Local Studies Librarian at Hounslow Library, The Treaty Centre,  Hounslow TW3 1ES_
+
+
+
+{% include comments.html %}

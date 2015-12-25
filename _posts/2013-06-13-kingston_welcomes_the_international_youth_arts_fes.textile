@@ -2,6 +2,7 @@
 layout: post
 title: "Kingston Welcomes The International Youth Arts Festival 2013"
 permalink: /archives/2013/06/kingston_welcomes_the_international_youth_arts_fes.html
+commentfile: 2013-06-13-kingston_welcomes_the_international_youth_arts_fes
 category: around_town
 date: 2013-06-13 19:17:11
 excerpt: |
@@ -22,3 +23,7 @@ Not to be missed is "Raise the Roof'" night on 12<sup>th</sup> July showcasing t
 The festival programme is also packed with theatre, comedy, poetry, visual arts, film, fashion and crafts events, with plenty for all the family to enjoy.
 
 ??-- from a press release??
+
+
+
+{% include comments.html %}

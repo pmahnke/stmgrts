@@ -2,6 +2,7 @@
 layout: post
 title: "Art Portrait Workshop - Tuesday 18<sup>th</sup> May"
 permalink: /archives/2010/05/art_portrait_workshop_tuesday_18th_may.html
+commentfile: 2010-05-13-art_portrait_workshop_tuesday_18th_may
 category: around_town
 date: 2010-05-13 17:58:23
 
@@ -16,3 +17,9 @@ The Crane Community Centre is right next to Trafalgar School in The Meadway and 
 There are tables - no easels.  We are mostly using pencil and charcoal,  you can paint but we have to be careful with the carpet. We have a clothed model who poses for us.
 
 Our website: "www.Stay-4-Awhile.co.uk":http://www.Stay-4-Awhile.co.uk
+
+
+
+
+
+{% include comments.html %}

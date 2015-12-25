@@ -2,6 +2,7 @@
 layout: post
 title: "James Hewens"
 permalink: /archives/2014/01/james_hewens.html
+commentfile: 2014-01-31-james_hewens
 category: around_town
 date: 2014-01-31 09:13:40
 excerpt: |
@@ -62,3 +63,7 @@ Another local resident, Alice Ayres, is also remembered in Postman's Park. You c
 <cite>-- from Martyn Day</cite>
 
 _Credit: This article was written with the kind assistance of Laurence Mann. The photographs of Richmond Station were supplied by Richmond Local Studies_
+
+
+
+{% include comments.html %}

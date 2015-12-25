@@ -2,6 +2,7 @@
 layout: post
 title: "New Recording Studio in Whitton"
 permalink: /archives/2013/08/new_recording_studio_in_whitton.html
+commentfile: 2013-08-15-new_recording_studio_in_whitton
 category: news
 date: 2013-08-15 21:24:45
 
@@ -18,3 +19,7 @@ h4. More Information
 * "www.thefreakmachine.co.uk":http://www.thefreakmachine.co.uk
 * "Facebook":https://www.facebook.com/thefreakmachinestudio
 * Our production team "Sparkists":http://www.sparkists.com
+
+
+
+{% include comments.html %}

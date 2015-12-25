@@ -2,6 +2,7 @@
 layout: post
 title: "Norman Jackson  V.C -  A Local Hero"
 permalink: /archives/2010/03/norman_jackson_vc_a_local_hero.html
+commentfile: 2010-03-25-norman_jackson_vc_a_local_hero
 category: around_town
 date: 2010-03-25 22:30:00
 excerpt: |
@@ -60,3 +61,6 @@ bq. "Ever since the 150<sup>th</sup> Anniversary of the Victoria Cross, I have b
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

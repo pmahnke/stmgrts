@@ -2,6 +2,7 @@
 layout: post
 title: "Local Schools Offer Mother's Day Special"
 permalink: /archives/2007/02/local_schools_o.html
+commentfile: 2007-02-25-local_schools_o
 category: around_town
 date: 2007-02-25 10:28:17
 
@@ -23,3 +24,7 @@ Come and Get It was published in December and has become the must have volume in
  
 If you would like to take advantage of this Mother's Day offer call Sherralyn on 0208 7442301 or email on "sherralynrainey@aol.com":mailto:sherralynrainey@aol.com.
  
+
+
+
+{% include comments.html %}

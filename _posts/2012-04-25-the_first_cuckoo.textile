@@ -2,6 +2,7 @@
 layout: post
 title: "The First Cuckoo?"
 permalink: /archives/2012/04/the_first_cuckoo.html
+commentfile: 2012-04-25-the_first_cuckoo
 category: around_town
 date: 2012-04-25 21:33:04
 excerpt: |
@@ -79,3 +80,7 @@ There is an article about the "Crane Park Shot Tower":http://www.stmgrts.org.uk/
 <cite>-- from Martyn Day</cite>
 
 _Credit: Much of the information in this article came from "Highwayman's Heath" by Gordon S. Maxwell, published in 1935_
+
+
+
+{% include comments.html %}

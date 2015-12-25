@@ -2,6 +2,7 @@
 layout: post
 title: "Upcoming Event&#58; Book Now Literature Festival"
 permalink: /archives/2006/10/upcoming_event.html
+commentfile: 2006-10-19-upcoming_event
 category: around_town
 date: 2006-10-19 23:11:55
 
@@ -25,3 +26,9 @@ The festival also has Atlantic rowers, Ben Fogle and James Cracknell, Fay Weldon
 For younger readers there are three of the top writers of children's historical fiction: Viv Richardson, Mary Hooper and Paul Dowswell who will read from their recent books in the magnifi cent setting of Syon House. 
  
 Come and enjoy our celebration of literature...
+
+
+
+
+
+{% include comments.html %}

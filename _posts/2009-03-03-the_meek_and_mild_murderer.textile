@@ -2,6 +2,7 @@
 layout: post
 title: "The Meek and Mild Murderer"
 permalink: /archives/2009/03/the_meek_and_mild_murderer.html
+commentfile: 2009-03-03-the_meek_and_mild_murderer
 category: around_town
 date: 2009-03-03 21:38:32
 excerpt: |
@@ -36,3 +37,7 @@ Jerry Avershaw went to his death seemingly unconcerned by the fate that awaited 
 No such attention came to the meek and mild murderer John Little. He went to an unmarked grave with little fuss and no recognition... but you would expect no less from a gentleman of Kew.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

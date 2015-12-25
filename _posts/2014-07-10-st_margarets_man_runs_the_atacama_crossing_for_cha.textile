@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Man to Run the Atacama Crossing for Charity"
 permalink: /archives/2014/07/st_margarets_man_runs_the_atacama_crossing_for_cha.html
+commentfile: 2014-07-10-st_margarets_man_runs_the_atacama_crossing_for_cha
 category: news
 date: 2014-07-10 22:28:20
 excerpt: |
@@ -37,3 +38,7 @@ bq.. "We're thrilled that Paul and Ross have decided to take on this challenge t
 p. Prostate Cancer UK is currently engaged in its high profile 'Men United v Prostate Cancer' campaign, which aims to build a united front of men against the disease.  Homeland star Damian Lewis, Game of Thrones hard man Charles Dance, Sir Michael Parkinson and rugby legend Will Carling - some of Britain's most iconic figures - have already signed for Men United, a unique team 'managed' by comedian Bill Bailey.
 
 To sponsor Paul and Ross please text PSRJ99 &pound;### to 70070 or visit "www.justgiving.com/PaulandRossAtacama":http://www.justgiving.com/PaulandRossAtacama.
+
+
+
+{% include comments.html %}

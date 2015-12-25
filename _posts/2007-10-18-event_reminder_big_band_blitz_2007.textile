@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Big Band Blitz 2007"
 permalink: /archives/2007/10/event_reminder_big_band_blitz_2007.html
+commentfile: 2007-10-18-event_reminder_big_band_blitz_2007
 category: around_town
 date: 2007-10-18 20:40:01
 
@@ -14,3 +15,8 @@ The Deputy Mayor of Richmond and her guests will step back in time to the 1940s.
 The authentic setting with 1940's Period Dress and Memorabilia, Live Music and Celebrity Guests, Dancing, Food and Drink from the NAAFI, Licensed Bar, the Air-Raid Warning, and Spam, will make this a unique 1940's party, and enable guests to experience the atmosphere of those bygone days.
 
 This special event will feature the critically acclaimed Jon Bennett Big Band, whose many credits include appearances at the Savoy Hotel, Australian High Commission, the Lyceum and Dominion Theatres in London's West End, and the Royal Gala Performance at Richmond Theatre.
+
+
+
+
+{% include comments.html %}

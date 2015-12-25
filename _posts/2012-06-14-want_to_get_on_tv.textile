@@ -2,6 +2,7 @@
 layout: post
 title: "Want to Get on TV?"
 permalink: /archives/2012/06/want_to_get_on_tv.html
+commentfile: 2012-06-14-want_to_get_on_tv
 category: around_town
 date: 2012-06-14 21:06:23
 
@@ -18,3 +19,9 @@ h4. More Information
 * you must be over 18
 * "beonashow@objectiveproductions.com":mailto:beonashow@objectiveproductions.com
 * 020 7202 2375
+
+
+
+
+
+{% include comments.html %}

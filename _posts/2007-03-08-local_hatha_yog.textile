@@ -2,6 +2,7 @@
 layout: post
 title: "Local Hatha Yoga Classes with Helen"
 permalink: /archives/2007/03/local_hatha_yog.html
+commentfile: 2007-03-08-local_hatha_yog
 category: around_town
 date: 2007-03-08 22:09:29
 
@@ -52,3 +53,7 @@ I also offer one-on-one, small group tuition and corporate classes.
 * Phone: 0781 371 2073
 * Email: "ddogyoga@btinternet.com":ddogyoga@btinternet.com
 * Website: "www.downwarddog.co.uk":http://www.downwarddog.co.uk/
+
+
+
+{% include comments.html %}

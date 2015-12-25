@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Isleworth, Church Street 'Big Lunch' Party 2015 - 6 June 2015"
 permalink: /archives/2015/05/event_reminder_isleworth_church_street_big_lunch_p.html
+commentfile: 2015-05-21-event_reminder_isleworth_church_street_big_lunch_p
 category: around_town
 date: 2015-05-21 19:24:54
 excerpt: |
@@ -35,3 +36,8 @@ h4. More Information
 * Further details can be found out on "our Facebook Site":https://www.facebook.com/ChurchStreetPartyIsleworth
 * If you wish to be a volunteer to help out on this special day, please contact us by e-mailing "galedavies@outlook.com":mailto:galedavies@outlook.com or "rinny_r02@yahoo.co.uk":mailto:rinny_r02@yahoo.co.uk
 * Other Enquiries:  Nowell Anderson - 077  9598  1486 
+
+
+
+
+{% include comments.html %}

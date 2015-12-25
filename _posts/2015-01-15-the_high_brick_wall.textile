@@ -2,6 +2,7 @@
 layout: post
 title: "The High Brick Wall"
 permalink: /archives/2015/01/the_high_brick_wall.html
+commentfile: 2015-01-15-the_high_brick_wall
 category: around_town
 date: 2015-01-15 22:48:50
 excerpt: |
@@ -60,3 +61,10 @@ In 2002 the Poor Sisters of Nazareth moved out with accusations of child abuse r
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+{% include comments.html %}

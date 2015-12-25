@@ -2,6 +2,7 @@
 layout: post
 title: "The Richmond Volunteering Fair - 9 May 2013"
 permalink: /archives/2013/05/the_richmond_volunteering_fair_9_may_2013.html
+commentfile: 2013-05-05-the_richmond_volunteering_fair_9_may_2013
 category: around_town
 date: 2013-05-05 10:15:16
 
@@ -26,3 +27,9 @@ h4. More information
 * Clarendon Hall, York House, Richmond Road Twickenham, TW1 3AA
 * "www.volunteeringrichmond.org.uk/vfair.html":http://www.volunteeringrichmond.org.uk/vfair.html
 * 0300 365 9940
+
+
+
+
+
+{% include comments.html %}

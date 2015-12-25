@@ -2,6 +2,7 @@
 layout: post
 title: "For Sanity's Sake Education Expo 2-4-1 Offer - 26 March 2014"
 permalink: /archives/2014/03/for_sanitys_sake_education_expo_241_offer_26_march.html
+commentfile: 2014-03-06-for_sanitys_sake_education_expo_241_offer_26_march
 category: around_town
 date: 2014-03-06 20:08:56
 
@@ -22,3 +23,6 @@ h4. More Information
 * "BOOK your ticket now":http://www.forsanityssake.com/events/pre-schools-primary-schools-education-event and get 2 for 1 to bring a friend
 * £4.50 (+ online booking fee 76p) for 2 tickets or £5 per person on the door.
 * At The Winning Post on the A316
+
+
+{% include comments.html %}

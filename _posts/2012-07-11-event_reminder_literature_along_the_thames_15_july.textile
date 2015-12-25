@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Literature Along the Thames - 15 July 2012 "
 permalink: /archives/2012/07/event_reminder_literature_along_the_thames_15_july.html
+commentfile: 2012-07-11-event_reminder_literature_along_the_thames_15_july
 category: around_town
 date: 2012-07-11 20:16:43
 
@@ -18,3 +19,7 @@ h4. Timings
 |4.00-5.00pm|Young Adult's Poetry|
 
 For more information or to register your interest for a 1-2-1 slot in the workshop please contact the Diamond Jubilee Gardens Event Coordinator Jade Cosstick on "jade@theeventumbrella.com":mailto:jade@theeventumbrella.com
+
+
+
+{% include comments.html %}

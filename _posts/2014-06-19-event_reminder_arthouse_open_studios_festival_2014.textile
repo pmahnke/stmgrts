@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; ARThouse Open Studios Festival 2014"
 permalink: /archives/2014/06/event_reminder_arthouse_open_studios_festival_2014.html
+commentfile: 2014-06-19-event_reminder_arthouse_open_studios_festival_2014
 category: around_town
 date: 2014-06-19 22:27:42
 excerpt: |
@@ -39,3 +40,6 @@ Twickenham
 TW1 3NT
 
 _Tuesday to Saturday 10am - 4pm until 11 July_
+
+
+{% include comments.html %}

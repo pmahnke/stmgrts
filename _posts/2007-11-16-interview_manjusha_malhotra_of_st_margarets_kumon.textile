@@ -2,6 +2,7 @@
 layout: post
 title: "Interview&#58; Manjusha Malhotra of St Margarets Kumon"
 permalink: /archives/2007/11/interview_manjusha_malhotra_of_st_margarets_kumon.html
+commentfile: 2007-11-16-interview_manjusha_malhotra_of_st_margarets_kumon
 category: around_town
 date: 2007-11-16 10:42:59
 
@@ -38,3 +39,8 @@ bq. I first advertised my open event on the 22 September.  I have had a good res
 *What kind of children does Kumon help?*
 
 bq. Kumon can help children of all ages and abilities because the work is studied on an individualised basis, so children as young as four years old can benefit, as can older children.  Kumon can help those that are struggling, but can also enable gifted children ready to move on, to excel.
+
+
+
+
+{% include comments.html %}

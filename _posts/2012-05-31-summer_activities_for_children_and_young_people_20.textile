@@ -2,6 +2,7 @@
 layout: post
 title: "Summer Activities for Children and Young People 2012"
 permalink: /archives/2012/05/summer_activities_for_children_and_young_people_20.html
+commentfile: 2012-05-31-summer_activities_for_children_and_young_people_20
 category: around_town
 date: 2012-05-31 22:14:20
 excerpt: |
@@ -164,3 +165,7 @@ h3. Sunday Afternoon Art
 * Sunday 1<sup>st</sup> July
 * Sunday 5<sup>th</sup> August
 * Sunday 2<sup>nd</sup> September
+
+
+
+{% include comments.html %}

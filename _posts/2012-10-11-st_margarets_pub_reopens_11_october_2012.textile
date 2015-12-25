@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Pub Reopens - 11 October 2012"
 permalink: /archives/2012/10/st_margarets_pub_reopens_11_october_2012.html
+commentfile: 2012-10-11-st_margarets_pub_reopens_11_october_2012
 category: news
 date: 2012-10-11 21:07:50
 
@@ -16,3 +17,9 @@ The major job, however, has been fitting out a new kitchen. Out with the banks o
 * "Pub details":http://www.stmgrts.org.uk/directory/pub/200505231529
 
 <cite>-- from St Margarets Pub</cite>
+
+
+
+
+
+{% include comments.html %}

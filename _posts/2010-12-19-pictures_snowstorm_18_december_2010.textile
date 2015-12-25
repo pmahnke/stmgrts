@@ -2,6 +2,7 @@
 layout: post
 title: "Pictures&#58; Snowstorm - 18 December 2010"
 permalink: /archives/2010/12/pictures_snowstorm_18_december_2010.html
+commentfile: 2010-12-19-pictures_snowstorm_18_december_2010
 category: around_town
 date: 2010-12-19 11:07:44
 
@@ -14,3 +15,8 @@ Finally a big snowfall that fell on a weekend and hasn't melted in the first thr
 If you have pictures you are willing to share, please send them to "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk.
 
 "See a slideshow on flickr":http://www.flickr.com/photos/mahnke/sets/72157625629312390/show/
+
+
+
+
+{% include comments.html %}

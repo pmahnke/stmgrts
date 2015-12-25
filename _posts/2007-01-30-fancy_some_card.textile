@@ -2,6 +2,7 @@
 layout: post
 title: "Fancy Some Cards?"
 permalink: /archives/2007/01/fancy_some_card.html
+commentfile: 2007-01-30-fancy_some_card
 category: around_town
 date: 2007-01-30 18:36:50
 
@@ -15,3 +16,9 @@ bq.. "My husband runs a bridge club. Major events and competitions require new p
 Rather than throw them all away, could anyone locally make use of some or all of them, a school, club or social group maybe?. We live in St Margarets so you can collect or I can deliver locally." 
  
 p. If you are interested, please "email":mailto:macn05@dial.pipex.com.
+
+
+
+
+
+{% include comments.html %}

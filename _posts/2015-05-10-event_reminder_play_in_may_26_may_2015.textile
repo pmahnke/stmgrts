@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Play in May - 26 May 2015"
 permalink: /archives/2015/05/event_reminder_play_in_may_26_may_2015.html
+commentfile: 2015-05-10-event_reminder_play_in_may_26_may_2015
 category: editorial
 date: 2015-05-10 21:06:48
 
@@ -25,3 +26,7 @@ We are cherishing childhood with the NSPCC, as every childhood is worth fighting
 
 For more details and to book your place please contact
 us on 020 8607 9995 or e-mail us at "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
+
+
+
+{% include comments.html %}

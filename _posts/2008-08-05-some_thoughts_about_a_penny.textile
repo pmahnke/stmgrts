@@ -2,6 +2,7 @@
 layout: post
 title: "Some Thoughts About a Penny"
 permalink: /archives/2008/08/some_thoughts_about_a_penny.html
+commentfile: 2008-08-05-some_thoughts_about_a_penny
 category: around_town
 date: 2008-08-05 11:28:12
 excerpt: |
@@ -37,3 +38,7 @@ Twenty men and all their wives, with sticks and picks and pocket knives,
  Digging for their very lives to get the copper back.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Church Services in Our Area - 2014"
 permalink: /archives/2014/12/christmas_church_services_in_our_area_2014.html
+commentfile: 2014-12-24-christmas_church_services_in_our_area_2014
 category: around_town
 date: 2014-12-24 09:54:49
 
@@ -102,3 +103,7 @@ h3. St Stephen's Twickenham
 * Christmas Day
 ** 9am & 10.30am All Age Celebration for Christmas Day
 * "More information":http://www.st-stephens.org.uk/christmas-st-stephens-0
+
+
+
+{% include comments.html %}

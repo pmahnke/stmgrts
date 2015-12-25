@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Wardrobe Sale"
 permalink: /archives/2008/11/event_reminder_st_margarets_wardrobe_sale.html
+commentfile: 2008-11-14-event_reminder_st_margarets_wardrobe_sale
 category: around_town
 date: 2008-11-14 10:53:32
 
@@ -21,3 +22,8 @@ Plus Christmas stalls.
 
 All funds raised for FRODO -- _helping children in Romania_
  
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "February 2014 Half Term Activities at Orleans House Gallery"
 permalink: /archives/2014/01/february_2014_half_term_activities_at_orleans_hous.html
+commentfile: 2014-01-31-february_2014_half_term_activities_at_orleans_hous
 category: around_town
 date: 2014-01-31 08:58:22
 excerpt: |
@@ -79,3 +80,7 @@ Work with artist Mary Herbert to transform sketch to print with the magical tech
 h4. More Information
 
 * Booking essential: Please call 020 8831 6000 or visit our website where you can book online at: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
+
+
+
+{% include comments.html %}

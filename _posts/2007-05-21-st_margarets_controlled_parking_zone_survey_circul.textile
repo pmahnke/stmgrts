@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets' Controlled Parking Zone Survey Circulated"
 permalink: /archives/2007/05/st_margarets_controlled_parking_zone_survey_circul.html
+commentfile: 2007-05-21-st_margarets_controlled_parking_zone_survey_circul
 category: news
 date: 2007-05-21 05:46:52
 excerpt: |
@@ -27,3 +28,8 @@ We want to know what you think, so please:
 * leave a comment in "our forum":http://www.stmgrts.org.uk/forum.cgi?action=jump&amp;topic=CPZ%20Consultation&amp;topic_id=5
 
 Also, the Council is to hold exhibitions with detailed plans at the Winchester Hall next to the Turks Head on Tuesday 5<sup>th</sup> and Thursday 7<sup>th</sup> June from 4pm to 8pm. In attendance will be your local councillors and council officers from the Transport Department. In addition the councillors will be happy to meet up at alternative times should this be necessary.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Wine Bar Gets Conditional Planning Permission"
 permalink: /archives/2006/03/wine_bar_gets_t.html
+commentfile: 2006-03-03-wine_bar_gets_t
 category: news
 date: 2006-03-03 14:32:52
 excerpt: |
@@ -78,3 +79,9 @@ Councillors want to make sure that the plans for the plants on the roof top mini
 Councillors insist that the A4 planning should not pass to another, less neighbourly owner.
 # *2am New Year's Licence*
 Council felt strongly that 2am was late enough, a 24 hour license was unnecessary.
+
+
+
+
+
+{% include comments.html %}

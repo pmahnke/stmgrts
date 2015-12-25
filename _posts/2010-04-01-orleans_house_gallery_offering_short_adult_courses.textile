@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans House Gallery Offering Short Adult Courses this April"
 permalink: /archives/2010/04/orleans_house_gallery_offering_short_adult_courses.html
+commentfile: 2010-04-01-orleans_house_gallery_offering_short_adult_courses
 category: around_town
 date: 2010-04-01 10:13:24
 
@@ -28,3 +29,9 @@ Booking is essential to book or find out more:
 * Call 020 8831 6000
 * Visit our website and book online at: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
 * Email Laura Service at "laura.service@richmond.gov.uk":mailto:laura.service@richmond.gov.uk
+
+
+
+
+
+{% include comments.html %}

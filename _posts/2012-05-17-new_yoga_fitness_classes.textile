@@ -2,6 +2,7 @@
 layout: post
 title: "New Yoga Fitness Classes"
 permalink: /archives/2012/05/new_yoga_fitness_classes.html
+commentfile: 2012-05-17-new_yoga_fitness_classes
 category: news
 date: 2012-05-17 19:45:43
 excerpt: |
@@ -40,3 +41,7 @@ h4. More Information
 * Take advantage of the introductory offer - &pound;6 for the first class, subsequent classes &pound;8
 * Summer Term - Sunday Evenings from 10<sup>th</sup> June until 15<sup>th</sup> July. Starting at 7pm - 8:15pm
 * Classes in the Turk's Head Pub
+
+
+
+{% include comments.html %}

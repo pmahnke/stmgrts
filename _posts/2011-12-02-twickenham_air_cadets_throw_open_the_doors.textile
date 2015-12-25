@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Air Cadets Throw Open the Doors"
 permalink: /archives/2011/12/twickenham_air_cadets_throw_open_the_doors.html
+commentfile: 2011-12-02-twickenham_air_cadets_throw_open_the_doors
 category: news
 date: 2011-12-02 08:08:00
 
@@ -25,3 +26,9 @@ Eighteen year old Flight Sergeant Tara Crank, formerly of Whitton School, plans 
 The squadron will now continue with its normal parade activities on a Tuesday and Thursday evening at the London Road Cadet Centre. Young people interested can make enquiries at the centre on either of these evenings or find out more at "www.aircadets.org":http://www.aircadets.org
 
 <cite>-- from Middlesex Wing Air Training Corps - 23 November 2011</cite>
+
+
+
+
+
+{% include comments.html %}

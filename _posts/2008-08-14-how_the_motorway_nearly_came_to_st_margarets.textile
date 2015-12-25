@@ -2,6 +2,7 @@
 layout: post
 title: "How the Motorway Nearly Came to St Margarets "
 permalink: /archives/2008/08/how_the_motorway_nearly_came_to_st_margarets.html
+commentfile: 2008-08-14-how_the_motorway_nearly_came_to_st_margarets
 category: around_town
 date: 2008-08-14 11:28:44
 excerpt: |
@@ -29,3 +30,7 @@ In the late 1960's Richmond Council approved plans for this new ‘motorway feed
 However, when the plans were passed to the newly formed London Borough of Richmond upon Thames, they were immediately rejected as "deplorable". Happily this seems to have been the end of any real proposals to upgrade the A316 near Richmond for motorway traffic, though the GLC appear to have remained optimistic about the M3 reaching Chiswick until about 1973! 
 
 Abercrombie and his team have passed into history -- but their two reports are still held in very high regard. Their optimism, dedication and determination to build a new city laid low by war at a time when that war was still being fought are to be applauded... even though they tried to drop an 8 lane Motorway around our ears!
+
+
+
+{% include comments.html %}

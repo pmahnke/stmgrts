@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Part-Time Newspaper Distributors Needed"
 permalink: /archives/2013/12/local_job_vacancy_parttime_newspaper_distributors.html
+commentfile: 2013-12-06-local_job_vacancy_parttime_newspaper_distributors
 category: around_town
 date: 2013-12-06 19:18:23
 
@@ -18,3 +19,7 @@ All positions are paid at &pound;6.31 per hour plus 28 days holiday calculated p
 No experience is necessary but any experience in newspaper and magazine distribution is welcome.  All training is provided.
 
 If you are interested in this vacancy, please email "recruitment@thenetwork-uk.com":mailto:recruitment@thenetwork-uk.com with your CV and a covering letter, stating 'Evening Standard Recruitment' as the email subject.  Please note that once registered with The Network, there will be further opportunities for work available.
+
+
+
+{% include comments.html %}

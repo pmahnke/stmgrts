@@ -2,6 +2,7 @@
 layout: post
 title: "Smarter St Stephens Duathlon was a Huge Success"
 permalink: /archives/2011/11/smarter_st_stephens_duathlon_was_a_huge_success.html
+commentfile: 2011-11-03-smarter_st_stephens_duathlon_was_a_huge_success
 category: news
 date: 2011-11-03 20:13:46
 excerpt: |
@@ -19,3 +20,9 @@ The Smarter St Stephen's first ever Duathlon took place on Wednesday, 2 November
 Since St Stephen's launched it's fundraising campaign in June this year, staff, parents and the local St Margarets community have pulled together and raised an incredible &pound;25,000 in just over 4 months. The money is going towards improving the school facilities.  A 'makeover' of the school hall has already started and future plans include improvements to the school's outside spaces.
 
 To donate to the campaign go to  "www.virginmoneygiving.com/charities/StStephen'sSchoolTrust":http://www.virginmoneygiving.com/charities/StStephen'sSchoolTrust
+
+
+
+
+
+{% include comments.html %}

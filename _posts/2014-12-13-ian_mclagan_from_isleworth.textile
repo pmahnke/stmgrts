@@ -2,6 +2,7 @@
 layout: post
 title: "Ian Mclagan... from Isleworth"
 permalink: /archives/2014/12/ian_mclagan_from_isleworth.html
+commentfile: 2014-12-13-ian_mclagan_from_isleworth
 category: around_town
 date: 2014-12-13 09:50:27
 excerpt: |
@@ -77,3 +78,8 @@ h4. <em>'Stay With Me'</em> by the <em>'Faces'</em>
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

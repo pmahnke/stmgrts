@@ -2,6 +2,7 @@
 layout: post
 title: "Crown Road Community Event - 29 September"
 permalink: /archives/2007/08/crown_road_community_event_22_september.html
+commentfile: 2007-08-03-crown_road_community_event_22_september
 category: news
 date: 2007-08-03 07:51:24
 
@@ -17,3 +18,9 @@ Anyone interested in supporting Jamie or participating in the fair, please conta
 "jamietparker@hotmail.com":mailto:jamietparker@hotmail.com
 
 _More details to follow..._
+
+
+
+
+
+{% include comments.html %}

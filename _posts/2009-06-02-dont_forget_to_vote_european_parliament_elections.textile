@@ -2,6 +2,7 @@
 layout: post
 title: "Don't Forget to Vote&#58; European Parliament Elections"
 permalink: /archives/2009/06/dont_forget_to_vote_european_parliament_elections.html
+commentfile: 2009-06-02-dont_forget_to_vote_european_parliament_elections
 category: news
 date: 2009-06-02 08:22:12
 excerpt: |
@@ -26,3 +27,9 @@ MEPs spend some of their time in their regional constituencies in the UK and som
 
 
 <cite>-- from "Richmond Council website":http://www.richmond.gov.uk/home/council_government_and_democracy/elections/previous_elections/european_election.htm</cite>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Yoga Class at the Bingham Hotel"
 permalink: /archives/2011/12/yoga_class_at_the_bingham_hotel.html
+commentfile: 2011-12-15-yoga_class_at_the_bingham_hotel
 category: around_town
 date: 2011-12-15 23:16:32
 
@@ -31,3 +32,10 @@ h4. More Information
 * phone: 0871 223 0507 
 * email: chrisjames@chrisjamesyoga.com
 * www.chrisjamesyoga.com
+
+
+
+
+
+
+{% include comments.html %}

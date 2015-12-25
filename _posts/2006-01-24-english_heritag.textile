@@ -2,6 +2,7 @@
 layout: post
 title: "English Heritage's Licence for Marble Hill"
 permalink: /archives/2006/01/english_heritag.html
+commentfile: 2006-01-24-english_heritag
 category: news
 date: 2006-01-24 11:44:38
 
@@ -27,3 +28,7 @@ Please enter our poll.
 
 * "What do you think of English Heritage's license application for Marble Hill?":/cgi-bin/poll.cgi?pollname=marblehilllicense
 * "View the results":/cgi-bin/poll.cgi?pollname=marblehilllicense&action=results
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Community Awards"
 permalink: /archives/2013/06/richmond_community_awards.html
+commentfile: 2013-06-21-richmond_community_awards
 category: news
 date: 2013-06-21 10:22:32
 excerpt: |
@@ -26,3 +27,9 @@ The new community recognition scheme aims to recognise individuals who have:
 The scheme could see local 'honours' granted to deserving and high-achieving people from every section of the community, from school crossing patrols and charity workers to leaders of their industry.
 
 * "Find out more and nominate your community hero by 11 July":http://www.richmond.gov.uk/community_awards
+
+
+
+
+
+{% include comments.html %}

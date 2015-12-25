@@ -2,6 +2,7 @@
 layout: post
 title: "TFL Extends A316 Footbridge Consultation to 18 July 2014"
 permalink: /archives/2014/07/tfl_extends_a316_footbridge_consultation_to_18_jul.html
+commentfile: 2014-07-06-tfl_extends_a316_footbridge_consultation_to_18_jul
 category: news
 date: 2014-07-06 13:22:48
 
@@ -20,3 +21,8 @@ Consultees will have the opportunity to resubmit their response if they feel tha
 "consultations.tfl.gov.uk":https://consultations.tfl.gov.uk/consultation-and-engagement/a316-st-margarets-crossing
 
 </div>
+
+
+
+
+{% include comments.html %}

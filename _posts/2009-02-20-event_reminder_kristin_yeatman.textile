@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Kristin Yeatman"
 permalink: /archives/2009/02/event_reminder_kristin_yeatman.html
+commentfile: 2009-02-20-event_reminder_kristin_yeatman
 category: around_town
 date: 2009-02-20 13:00:18
 
@@ -22,3 +23,9 @@ With Gabriel Garrick trumpet/flglhorn, Bob McKay saxophone, Matt McDonough drums
 * Winchester Hall
 * Doors open 7.30
 * &pound;5 on the door
+
+
+
+
+
+{% include comments.html %}

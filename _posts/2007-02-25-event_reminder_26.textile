@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; February Fools Cricket Match"
 permalink: /archives/2007/02/event_reminder_26.html
+commentfile: 2007-02-25-event_reminder_26
 category: around_town
 date: 2007-02-25 11:49:04
 
@@ -31,3 +32,6 @@ Everybody is welcome to come along with family and friends for an enjoyable day 
 
 For further information, contact Teresa Broch / Mandie Adams McGuire 
 on 020 8607 7283, "teresa.adamsappeal@virgin.net":mailto:teresa.adamsappeal@virgin.net
+
+
+{% include comments.html %}

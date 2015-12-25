@@ -2,6 +2,7 @@
 layout: post
 title: "Drawing The Line at Hounslow"
 permalink: /archives/2010/01/drawing_the_line_at_hounslow.html
+commentfile: 2010-01-21-drawing_the_line_at_hounslow
 category: around_town
 date: 2010-01-21 13:22:30
 excerpt: |
@@ -64,3 +65,6 @@ bq. "A road map always tells you everything except how to refold it."
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

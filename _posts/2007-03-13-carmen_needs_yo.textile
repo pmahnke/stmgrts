@@ -2,6 +2,7 @@
 layout: post
 title: "Carmen Needs You!"
 permalink: /archives/2007/03/carmen_needs_yo.html
+commentfile: 2007-03-13-carmen_needs_yo
 category: around_town
 date: 2007-03-13 17:01:12
 
@@ -16,3 +17,9 @@ h3. However, help is needed!
 2x2 Opera are currently in need of scenery builders for the afternoon of Sunday 25<sup>th</sup> March at "All Souls Church":http://www.stmgrts.org.uk/directory/church/200506080805.  If you are handy with a hammer / screwdriver and would like to help, please contact Deborah: "deborah.meyer@meyermusic.co.uk":mailto:deborah.meyer@meyermusic.co.uk
 
 For further details visit "www.2x2opera.co.uk":http://www.2x2opera.co.uk.
+
+
+
+
+
+{% include comments.html %}

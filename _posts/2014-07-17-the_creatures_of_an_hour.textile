@@ -2,6 +2,7 @@
 layout: post
 title: "The Creatures of an Hour"
 permalink: /archives/2014/07/the_creatures_of_an_hour.html
+commentfile: 2014-07-17-the_creatures_of_an_hour
 category: around_town
 date: 2014-07-17 22:45:14
 excerpt: |
@@ -136,3 +137,7 @@ Have a great summer!
 <cite>-- from Martyn Day</cite>
 
 <em>CREDIT: For more information on children's verses and rhymes I would recommend "'The Lore and Language of Schoolchildren' by Iona and Peter Opie":https://www.google.co.uk/search?q=%27The+Lore+and+Language+of+Schoolchildren%27+by+Iona+and+Peter+Opie&oq=%27The+Lore+and+Language+of+Schoolchildren%27+by+Iona+and+Peter+Opie&aqs=chrome..69i57j0.373j0j4&sourceid=chrome&es_sm=91&ie=UTF-8. It is a window on our past.</em>
+
+
+
+{% include comments.html %}

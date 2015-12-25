@@ -2,6 +2,7 @@
 layout: post
 title: "News from the 2013 St Margarets Fair"
 permalink: /archives/2013/09/news_from_the_2013_st_margarets_fair.html
+commentfile: 2013-09-26-news_from_the_2013_st_margarets_fair
 category: news
 date: 2013-09-26 21:01:24
 excerpt: |
@@ -28,3 +29,7 @@ What we also really need is a bit of help.   If any of you could help for no mor
 Whether you have 3 hours to help, or just time to carry on supporting the Fair by being there - thank you.
 
 The Fair Committee
+
+
+
+{% include comments.html %}

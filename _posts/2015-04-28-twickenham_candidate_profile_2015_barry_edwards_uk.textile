@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Candidate Profile 2015&#58; Barry Edwards"
 permalink: /archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html
+commentfile: 2015-04-28-twickenham_candidate_profile_2015_barry_edwards_uk
 category: news
 date: 2015-04-28 21:23:55
 excerpt: |
@@ -144,3 +145,9 @@ Mature organic roast beef from a Soil Association Supplier, food carefully produ
 h3. What is your favourite place to take a holiday?
 
 Lake Balaton in Hungary - I have been going there since 1995, when it was under the control of the USSR. There were no problems with fair passage during those days and I also bought property there in 2001. The EU has made no difference!! It has just cost us a fortune and we have lost control of our borders, destiny and decision making. We need a new way, a real change: Britain needs UKIP
+
+
+
+
+
+{% include comments.html %}

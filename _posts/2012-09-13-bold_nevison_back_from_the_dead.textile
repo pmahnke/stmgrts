@@ -2,6 +2,7 @@
 layout: post
 title: "Bold Nevison - Back from the Dead"
 permalink: /archives/2012/09/bold_nevison_back_from_the_dead.html
+commentfile: 2012-09-13-bold_nevison_back_from_the_dead
 category: around_town
 date: 2012-09-13 21:16:41
 
@@ -57,3 +58,7 @@ Nevison may have escaped from prison by pretending to be dead. He may have escap
 The full story of "William Nevison's ride to York first appeared in the St Margarets Community Website on 14<sup>th</sup> May 2012":https://www.google.com/url?q=http://www.stmgrts.org.uk/archives/2012/05/bold_nevison.html&sa=U&ei=njtSULjcN8mChQeOnIHICQ&ved=0CAYQFjAA&client=internal-uds-cse&usg=AFQjCNGzG_eyjb92iREJ4geJeqDC-pM8aw.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

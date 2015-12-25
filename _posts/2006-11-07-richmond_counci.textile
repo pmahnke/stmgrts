@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council Looks to Encourage Eco-Friendly Cars"
 permalink: /archives/2006/11/richmond_counci.html
+commentfile: 2006-11-07-richmond_counci
 category: news
 date: 2006-11-07 14:56:33
 
@@ -29,3 +30,6 @@ Richmond Council is asking for feedback on this proposal with an online "questio
 * "article from thisislondon.co.uk":http://www.thisislondon.co.uk/news/article-23373151-details/Green%20parking%20charges%20to%20spark%20house%20price%20rise/article.do
 * Richmond Council's "proposed changes":http://richmond.gov.uk/home/council_government_and_democracy/council/contacts_consultation_feedback/current_council_consultations/co2_consultation.htm
 * Richmond Council "questionnaire":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=NAJupv7axm0
+
+
+{% include comments.html %}

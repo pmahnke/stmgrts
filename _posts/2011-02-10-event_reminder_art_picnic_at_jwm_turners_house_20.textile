@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Picnic at JWM Turners House - 20 February 2011"
 permalink: /archives/2011/02/event_reminder_art_picnic_at_jwm_turners_house_20.html
+commentfile: 2011-02-10-event_reminder_art_picnic_at_jwm_turners_house_20
 category: around_town
 date: 2011-02-10 22:03:26
 
@@ -38,3 +39,7 @@ Buy a book of 6 tickets and get a 20% discount
 Please call the office on 020 8891 5455 or e-mail: "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk to book your place.
 
 Contact on the day : Jenny Pearce 07792 944564
+
+
+
+{% include comments.html %}

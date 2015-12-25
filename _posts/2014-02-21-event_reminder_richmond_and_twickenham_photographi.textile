@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond and Twickenham Photographic Society Annual Exhibition - 9 to 21 April 2014"
 permalink: /archives/2014/02/event_reminder_richmond_and_twickenham_photographi.html
+commentfile: 2014-02-21-event_reminder_richmond_and_twickenham_photographi
 category: around_town
 date: 2014-02-21 11:54:11
 excerpt: |
@@ -26,3 +27,7 @@ h4. More Information
 * 020 8977 7558
 * http://landmarkartscentre.org/ or www.rtps.org.uk
 * For further information please email: rtpspublicity@hotmail.co.uk
+
+
+
+{% include comments.html %}

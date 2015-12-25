@@ -2,6 +2,7 @@
 layout: post
 title: "Notes from Moormead Park Meeting &#58; 10 May 2006"
 permalink: /archives/2006/05/notes_from_moor_1.html
+commentfile: 2006-05-15-notes_from_moor_1
 category: news
 date: 2006-05-15 20:23:52
 excerpt: |
@@ -28,3 +29,7 @@ The subject of information dissemination once again inspired comments that not e
 The meeting finished with a group discussing landscaping ideas.  Plans for proposed changes will be discussed further along with required budget and funding ideas.
 
 _Notes provided by Madeleine Menzies_
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Autumn Event a Success"
 permalink: /archives/2005/09/st_margarets_au_1.html
+commentfile: 2005-09-20-st_margarets_au_1
 category: around_town
 date: 2005-09-20 19:50:31
 
@@ -51,3 +52,7 @@ h3. 8 Things You Didn't Know About the Event
 # The RSPCA stall was setup and run by a local school girl (go Emily!)
 # The Harley Davidson 'ride' was provided at the last moment by a local resident who wanted to help the _Shooting Star_ charity and let the neighbourhood kids, who keep asking for a ride, have one.
 # Kim Hare coordinated the Dog Show and all the craft stalls
+
+
+
+{% include comments.html %}

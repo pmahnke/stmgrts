@@ -2,6 +2,7 @@
 layout: post
 title: "Poll&#58; CPZ Second Stage"
 permalink: /archives/2008/05/poll_cpz_second_stage.html
+commentfile: 2008-05-15-poll_cpz_second_stage
 category: news
 date: 2008-05-15 17:19:40
 excerpt: |
@@ -24,3 +25,8 @@ As you are probably aware, the "second stage questionnaire":http://www.richmond.
 
 * "take the poll":http://www.stmgrts.org.uk/poll/CPZ2
 * "see the results":http://www.stmgrts.org.uk/poll/CPZ2/results
+
+
+
+
+{% include comments.html %}

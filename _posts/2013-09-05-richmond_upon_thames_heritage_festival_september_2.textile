@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond upon Thames Heritage Festival September 2013"
 permalink: /archives/2013/09/richmond_upon_thames_heritage_festival_september_2.html
+commentfile: 2013-09-05-richmond_upon_thames_heritage_festival_september_2
 category: around_town
 date: 2013-09-05 22:41:19
 excerpt: |
@@ -31,3 +32,7 @@ The action packed programme encompasses the whole of the Borough with events for
 * "Family and kid's activities":http://www.richmond.gov.uk/home/leisure_and_culture/local_history_and_heritage/know_your_place/kyp_family_and_kids_activities.htm - Budding detectives and keen explorers are required to delve into Richmond Upon Thames deep mysteries.
 * "Open House":http://www.richmond.gov.uk/home/leisure_and_culture/local_history_and_heritage/know_your_place/kyp_open_house.htm - we are delighted that the Old Town Hall is included in this year's Open House. We'll be opening up parts of our archives not normally open to the public.
 * "More information":http://www.richmond.gov.uk/home/leisure_and_culture/local_history_and_heritage/know_your_place.htm
+
+
+
+{% include comments.html %}

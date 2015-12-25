@@ -2,6 +2,7 @@
 layout: post
 title: "Please Help Commemorate the St Margarets Belgian Community of 1914-18"
 permalink: /archives/2015/11/please_help_commemorate_the_st_margarets_belgian_c.html
+commentfile: 2015-11-13-please_help_commemorate_the_st_margarets_belgian_c
 category: news
 date: 2015-11-13 19:55:56
 
@@ -18,3 +19,10 @@ St Margarets has a unique WWI history! We gave a home in 1914-18 to a massive Be
 They need &pound;8400 for the memorial, on top of our &pound;5000 grant from Richmond Council.
 
 <a href="//stmgrts.org.uk/assets/images/2015/1WW%20Belgian%20Refugees.Twickenham%20St%20Margarets%202.pdf">Download the factsheet</a>
+
+
+
+
+
+
+{% include comments.html %}

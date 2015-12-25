@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; An Evening with Peter Snow, CBE - 21 March 2014"
 permalink: /archives/2014/02/event_reminder_an_evening_with_peter_snow_cbe_21_m.html
+commentfile: 2014-02-17-event_reminder_an_evening_with_peter_snow_cbe_21_m
 category: around_town
 date: 2014-02-17 21:19:44
 excerpt: |
@@ -26,3 +27,9 @@ h4. More Information
 * To book tickets please visit our website: "www.portcullistrust.org.uk/events":http://www.portcullistrust.org.uk/events
 * Richmond Business School, Richmond Adult Community College, Parkshot. TW9 2RE
 * Doors and Bar open 7pm, talk starts 7.30pm
+
+
+
+
+
+{% include comments.html %}

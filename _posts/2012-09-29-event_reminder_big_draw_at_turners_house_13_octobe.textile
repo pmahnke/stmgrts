@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; BIG Draw at Turners House - 13 October 2012"
 permalink: /archives/2012/09/event_reminder_big_draw_at_turners_house_13_octobe.html
+commentfile: 2012-09-29-event_reminder_big_draw_at_turners_house_13_octobe
 category: around_town
 date: 2012-09-29 10:35:11
 excerpt: |
@@ -24,3 +25,9 @@ h4. More Information
 * "View the poster":http://www.stmgrts.org.uk/images//BIG_Draw_at_Turners_House.jpg
 
 _Note: we are sorry the unrestored house is not suitable for under 4s or those with mobility difficulties._
+
+
+
+
+
+{% include comments.html %}

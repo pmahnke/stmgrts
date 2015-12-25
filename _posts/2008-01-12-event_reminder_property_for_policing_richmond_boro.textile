@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; Property for policing Richmond borough"
 permalink: /archives/2008/01/event_reminder_property_for_policing_richmond_boro.html
+commentfile: 2008-01-12-event_reminder_property_for_policing_richmond_boro
 category: around_town
 date: 2008-01-12 21:07:29
 
@@ -18,3 +19,9 @@ At The Rugby Football Union (RFU) Invincibles suite East stand, on Tuesday 22nd 
 All welcome.
 
 Plenty of visitor car parking in the North car park, plus light refreshments will be served.
+
+
+
+
+
+{% include comments.html %}

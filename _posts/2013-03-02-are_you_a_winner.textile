@@ -2,6 +2,7 @@
 layout: post
 title: "Are You a Winner?"
 permalink: /archives/2013/03/are_you_a_winner.html
+commentfile: 2013-03-02-are_you_a_winner
 category: around_town
 date: 2013-03-02 17:28:15
 
@@ -14,3 +15,9 @@ Why not pop along and meet The Mayor and watch the draw?
 Refreshments available.
 
 _All Welcome._
+
+
+
+
+
+{% include comments.html %}

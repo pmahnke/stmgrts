@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 'What was that' - 10 May 2014"
 permalink: /archives/2014/03/event_reminder_what_was_that_10_may_2014.html
+commentfile: 2014-03-13-event_reminder_what_was_that_10_may_2014
 category: around_town
 date: 2014-03-13 22:17:46
 excerpt: |
@@ -28,3 +29,7 @@ h4. More Information
 * Venue: Duke Street Church, Duke Street, Richmond.
 * Tickets cost &pound;20 for adults and &pound;7 for children (8-16 years, sorry but no younger than 8)
 * Tickets on sale from next Monday 17<sup>th</sup> March
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "This is Where We Live"
 permalink: /archives/2011/06/this_is_where_we_live.html
+commentfile: 2011-06-03-this_is_where_we_live
 category: around_town
 date: 2011-06-03 17:45:30
 excerpt: |
@@ -69,3 +70,7 @@ bq. "The past is a foreign country; they do things differently there."
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: Thanks to a resident of St Margarets from whose collection of old postcards these images have been selected.</em>
+
+
+
+{% include comments.html %}

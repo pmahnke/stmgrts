@@ -2,6 +2,7 @@
 layout: post
 title: "Beating Bowel Cancer's Summer Events"
 permalink: /archives/2007/05/beating_bowel_cancers_summer_events.html
+commentfile: 2007-05-24-beating_bowel_cancers_summer_events
 category: around_town
 date: 2007-05-24 10:40:09
 
@@ -18,3 +19,8 @@ Here is a list of events at which they are having a presence or if any group tha
  
 Read more about Colin Sowden and the charity "here":http://www.getreading.co.uk/news/2010/2010594/doughnutter
  
+
+
+
+
+{% include comments.html %}

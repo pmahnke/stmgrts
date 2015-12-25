@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Sunday Markets in Richmond"
 permalink: /archives/2010/11/christmas_sunday_markets_in_richmond.html
+commentfile: 2010-11-18-christmas_sunday_markets_in_richmond
 category: news
 date: 2010-11-18 19:34:10
 excerpt: |
@@ -24,3 +25,9 @@ bq. "The market will include local artists and crafters, live local musicians an
 h4. Details
 
 * "Download poster":http://www.stmgrts.org.uk/images//DuckPondMarketRichmondPoste.jpg
+
+
+
+
+
+{% include comments.html %}

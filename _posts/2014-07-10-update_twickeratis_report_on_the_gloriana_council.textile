@@ -2,6 +2,7 @@
 layout: post
 title: "Update&#58; Twickerati's Report on the  Gloriana Council Cabinet Meeting - 9 July 2014"
 permalink: /archives/2014/07/update_twickeratis_report_on_the_gloriana_council.html
+commentfile: 2014-07-10-update_twickeratis_report_on_the_gloriana_council
 category: news
 date: 2014-07-10 22:42:52
 
@@ -14,3 +15,9 @@ bq.. El Brute's Council Cabinet meeting last night saw extensive discussion abou
 Lord True said he commissioned the feasibility study for providing a home for Gloriana. As we know, he's a big fan of the scheme. Susan Chappell proposed amendments around providing further information about playground moves, traffic surveys and the operating model. An extension to the consultation was also proposed...
 
 p. <cite>-- read more on the "Twickerati website":https://twickerati.wordpress.com/2014/07/01/twickenham-gloriana-barge-boat-house-plan/#Updates</cite>
+
+
+
+
+
+{% include comments.html %}

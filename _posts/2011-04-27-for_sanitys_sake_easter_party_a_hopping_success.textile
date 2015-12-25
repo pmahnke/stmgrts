@@ -2,6 +2,7 @@
 layout: post
 title: "For Sanity's Sake Easter Party a Hopping Success"
 permalink: /archives/2011/04/for_sanitys_sake_easter_party_a_hopping_success.html
+commentfile: 2011-04-27-for_sanitys_sake_easter_party_a_hopping_success
 category: news
 date: 2011-04-27 19:16:24
 excerpt: |
@@ -45,3 +46,7 @@ Within their classes, Tempo Tots are on hand to offer their support including ad
 Positive energy from professional live music is infectious and this was shown beautifully at For Sanity's Sake & Tempo Tots Easter Party. If you missed the party you can always go along to Tempo Tots classes on a Friday or keep your eyes out for the next For Sanity's Sake event - see "www.forsanityssake.com":http://www.forsanityssake.com for details.
 
 <cite>-- from a For Sanity's Sake press release</cite>
+
+
+
+{% include comments.html %}

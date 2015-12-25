@@ -2,6 +2,7 @@
 layout: post
 title: "Coach House Cafe Looking for Help"
 permalink: /archives/2007/05/coach_house_cafe_looking_for_help.html
+commentfile: 2007-05-17-coach_house_cafe_looking_for_help
 category: around_town
 date: 2007-05-17 14:00:50
 
@@ -15,3 +16,9 @@ bq.. "Since reopening the "Coach House Caf&eacute;":http://www.stmgrts.org.uk/di
 We are on the hunt for a really good caf&eacute; assistant, who can make great coffee (quickly) and who can look after the customers. It would work really well if we could offer this position to someone with the relevant skill and experience within the neighbouring St Margarets' community.  If you are interested, full details of the job can be obtained by emailing Jenni at the "coachhousecafe@hotmail.co.uk":mailto:coachhousecafe@hotmail.co.uk".
 
 p. -- _from Jenni Dunn_
+
+
+
+
+
+{% include comments.html %}

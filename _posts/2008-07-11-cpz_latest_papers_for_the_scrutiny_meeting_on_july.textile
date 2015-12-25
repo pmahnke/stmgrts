@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Latest&#58; Papers for the Scrutiny Meeting on July 17"
 permalink: /archives/2008/07/cpz_latest_papers_for_the_scrutiny_meeting_on_july.html
+commentfile: 2008-07-11-cpz_latest_papers_for_the_scrutiny_meeting_on_july
 category: news
 date: 2008-07-11 09:34:45
 
@@ -88,3 +89,6 @@ h4. 4.4 The six month review will involve monitoring the initial operation of th
 
 
 </div>
+
+
+{% include comments.html %}

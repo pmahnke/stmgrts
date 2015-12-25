@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Furniture Scheme - Open Day"
 permalink: /archives/2010/09/richmond_furniture_scheme_open_day.html
+commentfile: 2010-09-30-richmond_furniture_scheme_open_day
 category: around_town
 date: 2010-09-30 09:46:27
 
@@ -15,3 +16,8 @@ The "Richmond Furniture Scheme":http://www.stmgrts.org.uk/directory/charity/2007
 Come and see what surprises we have in store.
 
 "Download a flyer":http://www.stmgrts.org.uk/images//Rich_Fun_Scheme_SaturdayOct2010.pdf [PDF]
+
+
+
+
+{% include comments.html %}

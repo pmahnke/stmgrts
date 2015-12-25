@@ -2,6 +2,7 @@
 layout: post
 title: "90th Anniversary of 1st St Margarets Scouts!"
 permalink: /archives/2009/11/90th_anniversary_of_1st_st_margarets_scouts.html
+commentfile: 2009-11-27-90th_anniversary_of_1st_st_margarets_scouts
 category: news
 date: 2009-11-27 11:54:55
 
@@ -19,3 +20,9 @@ bq. In the summer of 1919 a local man, Mr Laurence, came to the conclusion that 
 <cite>-- read all about their history in the article "DYB DYB DYB! DOB, DOB, DOB!":http://www.stmgrts.org.uk/archives/2009/02/dyb_dyb_dyb_dob_dob_dob.html by Martyn Day</cite>
 
 And don't forget, they are still looking for a "Beaver Leader.":http://www.stmgrts.org.uk/archives/2009/11/1st_st_margarets_beaver_scouts_seek_new_leader.html
+
+
+
+
+
+{% include comments.html %}

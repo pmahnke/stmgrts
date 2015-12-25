@@ -2,6 +2,7 @@
 layout: post
 title: "The Great Benefactress"
 permalink: /archives/2012/11/the_great_benefactress.html
+commentfile: 2012-11-30-the_great_benefactress
 category: around_town
 date: 2012-11-30 12:49:42
 excerpt: |
@@ -51,3 +52,8 @@ By 1860 Ann Tolson's almshouses had become decrepit and new buildings were erect
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

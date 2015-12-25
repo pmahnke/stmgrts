@@ -2,6 +2,7 @@
 layout: post
 title: "Brula Gets 8 Out of 10 from The Guardian"
 permalink: /archives/2005/09/brula_gets_8_ou.html
+commentfile: 2005-09-26-brula_gets_8_ou
 category: around_town
 date: 2005-09-26 20:07:12
 
@@ -19,3 +20,6 @@ bq. Brula, alas, is miles away in Twickenham. It is 50 yards from a colleague's 
 p>. _Matthew Norman_, 24 September 2005, "The Guardian":http://www.guardian.co.uk/weekend/story/0,,1575669,00.html
 
 "Read the full review.":http://www.guardian.co.uk/weekend/story/0,,1575669,00.html
+
+
+{% include comments.html %}

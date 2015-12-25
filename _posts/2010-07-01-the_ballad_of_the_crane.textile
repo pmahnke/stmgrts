@@ -2,6 +2,7 @@
 layout: post
 title: "The Ballad of the Crane"
 permalink: /archives/2010/07/the_ballad_of_the_crane.html
+commentfile: 2010-07-01-the_ballad_of_the_crane
 category: around_town
 date: 2010-07-01 09:59:59
 excerpt: |
@@ -68,3 +69,7 @@ It's then I find my garden at the bottom of the Crane.
 p. ??Hal Eburton-Roade  2010??
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

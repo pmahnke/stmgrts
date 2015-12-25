@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council's School Place Planning Update - October 2010"
 permalink: /archives/2010/10/richmond_councils_school_place_planning_update_oct.html
+commentfile: 2010-10-06-richmond_councils_school_place_planning_update_oct
 category: news
 date: 2010-10-06 18:20:03
 excerpt: |
@@ -81,3 +82,7 @@ h4. Downloads and articles
 * "View page 2 as an image":http://www.stmgrts.org.uk/images//stmarg_school_places_page_2.jpg
 * "Richmond Council's School Place Planning Update - February 2010":http://www.stmgrts.org.uk/archives/2010/02/richmond_councils_school_place_planning_update.html
 * "Council Purchase of Site for New Primary School":http://www.stmgrts.org.uk/archives/2010/02/council_purchase_of_site_for_new_primary_school.html
+
+
+
+{% include comments.html %}

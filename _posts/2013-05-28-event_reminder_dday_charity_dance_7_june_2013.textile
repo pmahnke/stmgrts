@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; D-Day Charity Dance - 7 June 2013"
 permalink: /archives/2013/05/event_reminder_dday_charity_dance_7_june_2013.html
+commentfile: 2013-05-28-event_reminder_dday_charity_dance_7_june_2013
 category: around_town
 date: 2013-05-28 16:23:45
 excerpt: |
@@ -31,3 +32,7 @@ h4. More Information
 
 * Venue: the newly extended Twickenham Rowing Club on Eel Pie Island
 * Tickets from "www.twickenhamalive.com":http://www.twickenhamalive.com - &pound;15 each or &pound;26 for two
+
+
+
+{% include comments.html %}

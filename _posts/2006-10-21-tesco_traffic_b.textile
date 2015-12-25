@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Traffic Blocks Ambulance"
 permalink: /archives/2006/10/tesco_traffic_b.html
+commentfile: 2006-10-21-tesco_traffic_b
 category: editorial
 date: 2006-10-21 08:06:58
 
@@ -18,3 +19,8 @@ An ambulance was trying to get up St Margarets Road, towards Richmond - Because 
 In the end, an H37 drove up onto the pavement at the foot of the railway bridge to make enough room for the ambulance to get past - But by that time vital minutes had passed.
 
 <em>-- from our friends at "SPASM":http://www.mailspaces.com/spaces/spasm/</em>
+
+
+
+
+{% include comments.html %}

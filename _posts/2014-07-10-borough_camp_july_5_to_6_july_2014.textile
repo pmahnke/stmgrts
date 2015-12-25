@@ -2,6 +2,7 @@
 layout: post
 title: "Borough Camp July -  5 to 6 July 2014"
 permalink: /archives/2014/07/borough_camp_july_5_to_6_july_2014.html
+commentfile: 2014-07-10-borough_camp_july_5_to_6_july_2014
 category: around_town
 date: 2014-07-10 23:03:43
 excerpt: |
@@ -67,3 +68,9 @@ bq. "It's not too late, you know!"
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

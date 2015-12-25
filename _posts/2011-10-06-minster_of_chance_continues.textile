@@ -2,6 +2,7 @@
 layout: post
 title: "Minster of Chance Continues"
 permalink: /archives/2011/10/minster_of_chance_continues.html
+commentfile: 2011-10-06-minster_of_chance_continues
 category: news
 date: 2011-10-06 09:42:18
 excerpt: |
@@ -29,3 +30,10 @@ Dan and I are truly grateful for your support...
 Clare Eden
 
 </div>
+
+
+
+
+
+
+{% include comments.html %}

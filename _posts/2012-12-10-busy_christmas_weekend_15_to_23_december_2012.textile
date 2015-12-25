@@ -2,6 +2,7 @@
 layout: post
 title: "Busy Christmas Weekend - 15 to 23 December 2012"
 permalink: /archives/2012/12/busy_christmas_weekend_15_to_23_december_2012.html
+commentfile: 2012-12-10-busy_christmas_weekend_15_to_23_december_2012
 category: around_town
 date: 2012-12-10 09:39:50
 
@@ -30,3 +31,7 @@ h4. Saturday, 22 December 2012
 h4. Sunday, 23 December 2012
 
 * "TwickFolk : SEASONAL SINGERS NIGHT + XMAS PARTY":http://www.stmgrts.org.uk/event/show/200705143541 from 8pm
+
+
+
+{% include comments.html %}

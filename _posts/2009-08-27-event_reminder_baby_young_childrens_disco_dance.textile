@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Baby & Young Children's Disco Dance"
 permalink: /archives/2009/08/event_reminder_baby_young_childrens_disco_dance.html
+commentfile: 2009-08-27-event_reminder_baby_young_childrens_disco_dance
 category: around_town
 date: 2009-08-27 21:33:34
 
@@ -18,3 +19,8 @@ Saturday, 12th September 2009 St Margarets, Winchester Hall from 10.30am to 12.3
 * &pound;5 per child (parents free)
 * Food and drinks will be available for purchase.
 * For further enquiries please call Gwen Wilcox, Local NCT Co-Chair, Twickenham branch (phone 07903 155 082)
+
+
+
+
+{% include comments.html %}

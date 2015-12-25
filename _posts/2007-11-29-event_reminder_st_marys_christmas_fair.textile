@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Mary's Christmas Fair"
 permalink: /archives/2007/11/event_reminder_st_marys_christmas_fair.html
+commentfile: 2007-11-29-event_reminder_st_marys_christmas_fair
 category: around_town
 date: 2007-11-29 20:53:34
 
@@ -23,3 +24,10 @@ Attractions include:
 ... and much, much more!
 
 All organised by Friends of St.Mary's in aid of the school.
+
+
+
+
+
+
+{% include comments.html %}

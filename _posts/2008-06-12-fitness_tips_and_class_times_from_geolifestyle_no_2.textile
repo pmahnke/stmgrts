@@ -2,6 +2,7 @@
 layout: post
 title: "Fitness Tips and Class Times from GeoLifestyle - No. 5"
 permalink: /archives/2008/06/fitness_tips_and_class_times_from_geolifestyle_no_2.html
+commentfile: 2008-06-12-fitness_tips_and_class_times_from_geolifestyle_no_2
 category: around_town
 date: 2008-06-12 09:08:45
 excerpt: |
@@ -46,3 +47,7 @@ h4. Class Timetable
 |Thursday|2.00pm|Marble Hill Park|Running group|Intermediate/ Advanced|
 |Friday|9.00am|Orleans Infant School|Running group|Intermediate|
 |Alternate Saturdays|8.30am|St Margarets Station|Long run|Intermediate|
+
+
+
+{% include comments.html %}

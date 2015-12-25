@@ -2,6 +2,7 @@
 layout: post
 title: "The Turning of the Tide - Richmond Lock"
 permalink: /archives/2011/05/the_turning_of_the_tide_richmond_lock.html
+commentfile: 2011-05-19-the_turning_of_the_tide_richmond_lock
 category: around_town
 date: 2011-05-19 16:12:21
 excerpt: |
@@ -68,3 +69,7 @@ A petition was raised in 1913 to get the toll abolished but it wasn't finally re
 <cite>-- from Martyn Day</cite>
 
 _Credits: Richmond Lock footbridge is by Jacqueline Banerjee. Richmond Lock by Mark Percy_
+
+
+
+{% include comments.html %}

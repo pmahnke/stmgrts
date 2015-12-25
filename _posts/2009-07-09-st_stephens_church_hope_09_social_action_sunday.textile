@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen's Church 'HOPE 09 Social Action Sunday'"
 permalink: /archives/2009/07/st_stephens_church_hope_09_social_action_sunday.html
+commentfile: 2009-07-09-st_stephens_church_hope_09_social_action_sunday
 category: news
 date: 2009-07-09 08:44:10
 excerpt: |
@@ -53,3 +54,7 @@ bq. "I just wanted to thank you and the teams that transformed the Heath Road ho
 Nick Brooker, Deputy Head of St Stephen's School also thanked the team;
 
 bq. "We are delighted and grateful for the transformation of our perimeter fence and the litter picking and clearing of the Playground.  We all feel renewed and revitalized.  Thank you all!" 
+
+
+
+{% include comments.html %}

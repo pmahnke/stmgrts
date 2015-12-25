@@ -2,6 +2,7 @@
 layout: post
 title: "Wild Tots and Wild Pre-school - 2014 Spring Term"
 permalink: /archives/2014/02/wild_tots_and_wild_preschool_2014_spring_term.html
+commentfile: 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term
 category: news
 date: 2014-02-14 09:12:31
 excerpt: |
@@ -56,3 +57,7 @@ Wild Education also runs school curriculum sessions, after school clubs and holi
 * "www.wildeducation.co.uk":http://www.wildeducation.co.uk for online booking and payment
 * Facebook: "www.facebook.com/WildEducation":http://www.facebook.com/WildEducation
 * Twitter: "@wildeducationuk":http://www.twitter.com/wildeducationuk
+
+
+
+{% include comments.html %}

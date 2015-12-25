@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen's Community Choir - Spring 2014"
 permalink: /archives/2014/01/st_stephens_community_choir_spring_2014.html
+commentfile: 2014-01-31-st_stephens_community_choir_spring_2014
 category: around_town
 date: 2014-01-31 08:26:57
 excerpt: |
@@ -17,3 +18,8 @@ We are an all-female choir singing a wide range of songs including show tunes, p
 Our adventures have also taken us further afield - last year we took part in a gospel workshop performance at the National Theatre, and we have sung with locally-based 2x2 Opera on many occasions.
 
 If you would like more details, please contact Grainne O'Kelly at "grainne@f2s.com":mailto:grainne@f2s.com
+
+
+
+
+{% include comments.html %}

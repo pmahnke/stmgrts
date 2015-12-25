@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; River Thames Draw-off Walk - 23 November 2013"
 permalink: /archives/2013/11/event_reminder_river_thames_drawoff_walk_23_novemb.html
+commentfile: 2013-11-10-event_reminder_river_thames_drawoff_walk_23_novemb
 category: around_town
 date: 2013-11-10 10:16:36
 
@@ -27,3 +28,6 @@ Please contact office on 020 8891 5455; email "office@environmenttrust.co.uk":ma
 * Contact number on the day for walk leader 07768 097686.
 
 _BOOKING ESSENTIAL - Be sure to wear old clothes and wellington boots or similar as the river bed is VERY muddy!_
+
+
+{% include comments.html %}

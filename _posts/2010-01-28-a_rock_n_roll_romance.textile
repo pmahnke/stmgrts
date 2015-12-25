@@ -2,6 +2,7 @@
 layout: post
 title: "A Rock 'n' Roll Romance"
 permalink: /archives/2010/01/a_rock_n_roll_romance.html
+commentfile: 2010-01-28-a_rock_n_roll_romance
 category: around_town
 date: 2010-01-28 21:25:30
 
@@ -27,3 +28,7 @@ For just &pound;10 a ticket you are guaranteed a healthy serving of late 50's, e
 Remember - once you've crossed the bridge you will be travelling back to a time when trousers were tight, hair was lacquered and with £1 in your pocket you and your bird could have a really good time and still have something left for a Wimpy Bender afterwards... but be warned. You may just bump into something that really isn't there. Don't worry. It is only the ghosts of Ken Colyer, Brian Jones, Keith Moon and all those other long gone ravers who have come to find out what's happening, man!
 
 Admission is by ticket only -- so to reserve yours before they are all taken. Please contact Billy Sincere on 020 8892 5211.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: " The Phantom in Richmond Park"
 permalink: /archives/2011/03/the_phantom_in_richmond_park.html
+commentfile: 2011-03-03-the_phantom_in_richmond_park
 category: around_town
 date: 2011-03-03 22:59:55
 excerpt: |
@@ -80,3 +81,6 @@ What equipment did they use for all this mobile to a base unit?
 _Credit: The various photographs of 'Phantom' are from Asher Pirt who is writing a history of 'Phantom' and Roger Spear writing for the VMRAS Newsletter._
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

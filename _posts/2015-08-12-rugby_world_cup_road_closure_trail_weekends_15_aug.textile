@@ -2,6 +2,7 @@
 layout: post
 title: "Rugby World Cup Road Closure Trial Weekends - 15 August and 2 September 2015"
 permalink: /archives/2015/08/rugby_world_cup_road_closure_trail_weekends_15_aug.html
+commentfile: 2015-08-12-rugby_world_cup_road_closure_trail_weekends_15_aug
 category: around_town
 date: 2015-08-12 22:18:27
 excerpt: |
@@ -34,3 +35,9 @@ h4. More Information
 
 
 _There will be 10 events at Twickenham stadium in total during the tournament_
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Thames Angling Conservancy"
 permalink: /archives/2011/01/the_thames_angling_conservancy.html
+commentfile: 2011-01-27-the_thames_angling_conservancy
 category: news
 date: 2011-01-27 08:55:43
 excerpt: |
@@ -38,3 +39,7 @@ Above all, we at the TAC are dedicated to protecting and improving the River Tha
 More details: "www.rivertac.org":http://www.rivertac.org
 
 <cite>-- from Ed Randal</cite>
+
+
+
+{% include comments.html %}

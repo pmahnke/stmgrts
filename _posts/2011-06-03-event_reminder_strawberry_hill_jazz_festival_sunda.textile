@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Strawberry Hill Jazz Festival - Sunday 5 June 2011"
 permalink: /archives/2011/06/event_reminder_strawberry_hill_jazz_festival_sunda.html
+commentfile: 2011-06-03-event_reminder_strawberry_hill_jazz_festival_sunda
 category: around_town
 date: 2011-06-03 17:53:59
 
@@ -34,3 +35,6 @@ h4. Details
 * Purchase online at: "www.strawberryhillhouse.org.uk":http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=26 or "Richmond and Twickenham Jazz Club":http://www.stmgrts.org.uk/directory/music/200802050810
 * Enquiries 0208 286 3242
 * "Download a brochure":http://www.stmgrts.org.uk/images/SHT035_jazz_2.pdf
+
+
+{% include comments.html %}

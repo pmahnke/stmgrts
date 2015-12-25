@@ -2,6 +2,7 @@
 layout: post
 title: "Pop-up Opera at the Turks Head - 12 July 2011"
 permalink: /archives/2011/06/popup_opera_at_the_turks_head_12_july_2011.html
+commentfile: 2011-06-30-popup_opera_at_the_turks_head_12_july_2011
 category: around_town
 date: 2011-06-30 08:05:28
 
@@ -18,3 +19,7 @@ h4. Details
 * The performance starts at 7.30pm and tickets cost &pound;12.
 * "www.popupopera.co.uk":http://www.popupopera.co.uk/
 * Tickets can also be bought directly from the Turks Head
+
+
+
+{% include comments.html %}

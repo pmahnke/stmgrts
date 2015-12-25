@@ -2,6 +2,7 @@
 layout: post
 title: "Please Take a Survey to Help the River Crane"
 permalink: /archives/2012/09/please_take_a_survey_to_help_the_river_crane.html
+commentfile: 2012-09-12-please_take_a_survey_to_help_the_river_crane
 category: news
 date: 2012-09-12 20:37:27
 
@@ -16,3 +17,9 @@ Would you be kind enough to fill in this questionnaire and forward it on to any 
 "Please take our survey":http://www.smart-survey.co.uk/v.asp?i=58443yfuku
 
 Thank you so much for your time!
+
+
+
+
+
+{% include comments.html %}

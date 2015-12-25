@@ -2,6 +2,7 @@
 layout: post
 title: "Half Term Activities"
 permalink: /archives/2006/01/half_term_activ.html
+commentfile: 2006-01-31-half_term_activ
 category: around_town
 date: 2006-01-31 21:10:20
 
@@ -191,3 +192,7 @@ _In her latest novel The White Darkness, award-winning writer Geraldine McCaughr
 ** Thursday 16th February
 11:30 am Purcell Room
 _Morris Gleitzman pays us a rare visit from his home in Australia to read from and talk about his brand new book, Once._
+
+
+
+{% include comments.html %}

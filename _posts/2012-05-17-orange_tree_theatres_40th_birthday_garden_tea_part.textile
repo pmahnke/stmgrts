@@ -2,6 +2,7 @@
 layout: post
 title: "Orange Tree Theatre's 40th Birthday Garden Tea Party"
 permalink: /archives/2012/05/orange_tree_theatres_40th_birthday_garden_tea_part.html
+commentfile: 2012-05-17-orange_tree_theatres_40th_birthday_garden_tea_part
 category: around_town
 date: 2012-05-17 20:03:02
 excerpt: |
@@ -36,3 +37,7 @@ h4. More Information
 * Tickets &pound;10
 * Under 12's &pound;5
 * Under 5's FREE
+
+
+
+{% include comments.html %}

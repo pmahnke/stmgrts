@@ -2,6 +2,7 @@
 layout: post
 title: "London-Surrey Cycle Classic Schedule"
 permalink: /archives/2011/08/londonsurrey_cycle_classic_schedule.html
+commentfile: 2011-08-08-londonsurrey_cycle_classic_schedule
 category: around_town
 date: 2011-08-08 11:07:46
 
@@ -32,3 +33,7 @@ Results will be posted here in due course.
 * Kingston  upon Thames - 11:50
 
 -- from "The London Prepares Series":http://www.londonpreparesseries.com/roadcycling/schedule/index.html
+
+
+
+{% include comments.html %}

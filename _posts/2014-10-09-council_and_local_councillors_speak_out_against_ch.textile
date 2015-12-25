@@ -2,6 +2,7 @@
 layout: post
 title: "Council and Local Councillors Speak Out Against Chelsea FC Proposal"
 permalink: /archives/2014/10/council_and_local_councillors_speak_out_against_ch.html
+commentfile: 2014-10-09-council_and_local_councillors_speak_out_against_ch
 category: news
 date: 2014-10-09 21:43:45
 excerpt: |
@@ -60,3 +61,7 @@ bq. "The letters to members of the RFU Board make abundantly clear that only ear
 
 <cite>-- from a Liberal Democrat press release - 6 October 2014</cite>
 </div>
+
+
+
+{% include comments.html %}

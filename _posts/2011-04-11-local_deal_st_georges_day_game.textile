@@ -2,6 +2,7 @@
 layout: post
 title: "Local deal&#58; St George's Day Game"
 permalink: /archives/2011/04/local_deal_st_georges_day_game.html
+commentfile: 2011-04-11-local_deal_st_georges_day_game
 category: around_town
 date: 2011-04-11 09:26:32
 excerpt: |
@@ -36,3 +37,9 @@ h4. Details
 * Ticket prices are &pound;45 (Category 1), &pound;25 (Category 2) and &pound;15 (Category 3) with concessions from just &pound;8 by calling the Wasps ticket office on 0844 225 2990.
 * Local Twickenham residents are being offered a special 2 for 1 ticket offer for Category 1 and 2 tickets.
 * Just quote your name, address, post code and the reference "Twickenham" to qualify.
+
+
+
+
+
+{% include comments.html %}

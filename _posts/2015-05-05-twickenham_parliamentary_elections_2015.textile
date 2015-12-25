@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Parliamentary Elections 2015"
 permalink: /archives/2015/05/twickenham_parliamentary_elections_2015.html
+commentfile: 2015-05-05-twickenham_parliamentary_elections_2015
 category: news
 date: 2015-05-05 21:07:48
 excerpt: |
@@ -59,3 +60,6 @@ h4. Updates to this post
 * Turned off comments on profiles 6:20pm - 29 April 2015
 
  
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Stephen's Summer Fair"
 permalink: /archives/2007/05/event_reminder_st_stephens_summer_fair.html
+commentfile: 2007-05-10-event_reminder_st_stephens_summer_fair
 category: around_town
 date: 2007-05-10 13:07:01
 excerpt: |
@@ -34,3 +35,7 @@ And, to quench that thirst, Pimms, Rum punch, fine wines and beers will be avail
 It's shaping up to be a perfect afternoon ..... see you then. Entry - adults &pound;1.50, children get in free!
 
 If you would like to rent a stall at our fair, please call Sherralyn on 8744 2301 for more details or email at "sherralynrainey@aol.com":mailto:sherralynrainey@aol.com.
+
+
+
+{% include comments.html %}

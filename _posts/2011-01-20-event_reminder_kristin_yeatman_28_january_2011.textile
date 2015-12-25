@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Kristin Yeatman - 28 January 2011"
 permalink: /archives/2011/01/event_reminder_kristin_yeatman_28_january_2011.html
+commentfile: 2011-01-20-event_reminder_kristin_yeatman_28_january_2011
 category: around_town
 date: 2011-01-20 19:30:17
 
@@ -15,3 +16,10 @@ h4. Details
 
 * Admission free
 * 8:00pm to 11:00pm
+
+
+
+
+
+
+{% include comments.html %}

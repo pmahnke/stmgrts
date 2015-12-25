@@ -2,6 +2,7 @@
 layout: post
 title: "Mayor Clare Launches Local Businessman's Charity Campaign"
 permalink: /archives/2011/09/mayor_clare_launches_local_businessmans_charity_ca.html
+commentfile: 2011-09-08-mayor_clare_launches_local_businessmans_charity_ca
 category: news
 date: 2011-09-08 11:33:48
 excerpt: |
@@ -31,3 +32,9 @@ The Mayor wished Jason well with his challenge and commented 'This is a truly wo
 Jason added 'I know that cancer touches everyone's lives at some point and I know that every penny raised will help to combat this awful disease. I hope you will help me help others, as every penny counts.' To donate to Jason's appeal please see his Just Giving page at "www.justgiving.com/Jason-Payne1":http://www.justgiving.com/Jason-Payne1.
 
 For more information please contact "traders@mystmargarets.com":mailto:traders@mystmargarets.com
+
+
+
+
+
+{% include comments.html %}

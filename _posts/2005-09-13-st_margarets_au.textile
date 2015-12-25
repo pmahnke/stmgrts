@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Autumn Event This Saturday"
 permalink: /archives/2005/09/st_margarets_au.html
+commentfile: 2005-09-13-st_margarets_au
 category: around_town
 date: 2005-09-13 21:42:18
 
@@ -28,3 +29,7 @@ h3. Time Table of Events
 |3.45|Orleans Infant _Dog Show|
 |4.15|_Havana Good Times_ on Stage|
 |5.00|Event Concludes|
+
+
+
+{% include comments.html %}

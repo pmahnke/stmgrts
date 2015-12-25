@@ -2,6 +2,7 @@
 layout: post
 title: "Letters to America &#58; What's Cooking in Britain!"
 permalink: /archives/2005/12/letters_to_amer_3.html
+commentfile: 2005-12-07-letters_to_amer_3
 category: around_town
 date: 2005-12-07 09:02:13
 
@@ -43,3 +44,6 @@ p. Cheers from England!
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
+
+
+{% include comments.html %}

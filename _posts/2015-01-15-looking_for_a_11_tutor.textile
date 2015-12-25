@@ -2,6 +2,7 @@
 layout: post
 title: "Looking for an 11+ Tutor?"
 permalink: /archives/2015/01/looking_for_a_11_tutor.html
+commentfile: 2015-01-15-looking_for_a_11_tutor
 category: around_town
 date: 2015-01-15 21:50:32
 excerpt: |
@@ -31,3 +32,6 @@ The two separate sessions for Year 4 and Year 5 children are going to be held on
 h4. More Information
 
 * Call 07595421750
+
+
+{% include comments.html %}

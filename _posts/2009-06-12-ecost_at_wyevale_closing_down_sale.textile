@@ -2,6 +2,7 @@
 layout: post
 title: "ECO-St at Wyevale Closing Down Sale"
 permalink: /archives/2009/06/ecost_at_wyevale_closing_down_sale.html
+commentfile: 2009-06-12-ecost_at_wyevale_closing_down_sale
 category: around_town
 date: 2009-06-12 10:17:10
 
@@ -23,3 +24,8 @@ Great discounts include:
 * Paints and finishes - Osmo 50%, earthborn 30%
 * Gifts eg. Candles, doy bags, glass, vinyl, coffee cup/slate, eggshell, circuit boards, eden products, moppels, onya bags, ellie poo and wrap n mats 30%
 * Baby e.g. nappies, creams, shampoos and bubble bath 30%
+
+
+
+
+{% include comments.html %}

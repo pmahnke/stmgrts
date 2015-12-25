@@ -2,6 +2,7 @@
 layout: post
 title: "Boom! Boom! Out Goes the Lights!"
 permalink: /archives/2011/11/boom_boom_out_goes_the_lights.html
+commentfile: 2011-11-11-boom_boom_out_goes_the_lights
 category: around_town
 date: 2011-11-11 09:52:01
 excerpt: |
@@ -76,3 +77,6 @@ h4. YouTube - Katie Melua singing "If the Lights Go Out"
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

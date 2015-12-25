@@ -2,6 +2,7 @@
 layout: post
 title: "Help Busk for Charity - 7 June 2014"
 permalink: /archives/2014/05/help_busk_for_charity_7_june_2014.html
+commentfile: 2014-05-22-help_busk_for_charity_7_june_2014
 category: around_town
 date: 2014-05-22 22:56:01
 excerpt: |
@@ -22,3 +23,7 @@ The original date (and therefore people who could make it) has changed and now I
 We'll be doing a variety of songs from the 1920s right up to modern ones.
 
 If you contact me I can send you the songlist, bring songsheets with chords to share etc... "info@vitalvoices.co.uk":mailto:info@vitalvoices.co.uk  or 07770 993289
+
+
+
+{% include comments.html %}

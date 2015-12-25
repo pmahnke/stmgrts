@@ -2,6 +2,7 @@
 layout: post
 title: "Recycling Really Can Help the Community"
 permalink: /archives/2005/04/recycling_reall.html
+commentfile: 2005-04-20-recycling_reall
 category: news
 date: 2005-04-20 14:06:19
 
@@ -18,3 +19,8 @@ The _St Margarets' Traders Association_ has applied to the Richmond Council for 
 Do you think this is a good idea? "Vote on our poll.":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=recycle
 
 "View results.":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=recycle&amp;action=results
+
+
+
+
+{% include comments.html %}

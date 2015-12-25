@@ -2,6 +2,7 @@
 layout: post
 title: "Half Term Activities"
 permalink: /archives/2006/05/half_term_activ_1.html
+commentfile: 2006-05-26-half_term_activ_1
 category: around_town
 date: 2006-05-26 08:28:24
 excerpt: |
@@ -69,3 +70,7 @@ h3. Museums-Tired of the Science and Natural History museum – try these!
 * Another fascinating insight into domestic life can be found at the *Geffrye Museum* ("www.geffrye-museum.org.uk":http://www.geffrye-museum.org.uk/). The displays lead the visitor through domestic interiors from the 17th century to the present time. There are wonderful period gardens and an award-winning herb garden too. 
 * *The National Maritime Museum* ("www.nmm.ac.uk":http://www.nmm.ac.uk/) houses the world’s largest collection of items relating to seafaring. Special children’s activities, such as games for younger children and worksheets for the older ones, are on offer. 
 * Another wonderful South London institution is the *Horniman Museum* ("www.horniman.ac.uk":http://www.horniman.ac.uk/). It specialises in world culture and natural history and is very child-friendly. It also boasts a wonderful garden.
+
+
+
+{% include comments.html %}

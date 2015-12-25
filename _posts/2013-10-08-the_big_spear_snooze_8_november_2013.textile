@@ -2,6 +2,7 @@
 layout: post
 title: "The Big SPEAR Snooze - 8 November 2013"
 permalink: /archives/2013/10/the_big_spear_snooze_8_november_2013.html
+commentfile: 2013-10-08-the_big_spear_snooze_8_november_2013
 category: around_town
 date: 2013-10-08 08:52:16
 
@@ -14,3 +15,9 @@ Our flagship event is The Big SPEAR Snooze where the community takes part in a s
 We are looking for people who would be willing to sleep outside for just one night to help those living without a home.
 
 There is supper and entertainment provided beforehand, and breakfast in the morning. Although it's a challenging event, we promise it's also very memorable and an experience you will never forget.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "River Crane Pollution - One Year On - An Update From Force"
 permalink: /archives/2012/11/river_crane_pollution_one_year_on_an_update_from_f.html
+commentfile: 2012-11-02-river_crane_pollution_one_year_on_an_update_from_f
 category: news
 date: 2012-11-02 10:43:00
 
@@ -44,3 +45,7 @@ h4. Summary
 Whilst we have been pleased by the natural recovery of the river, FORCE has been frustrated over the last year by the slow pace of the authorities in delivering on their promises; and yet we remain hopeful that eventually this process will lead to long term benefits for the river.  We look to the River Wandle as an example of what is possible, as a similar response there to pollution in 2007 led to the development of the Wandle Trust and an investment of several million pounds to date on the environmental and community value of this south London green corridor.
 
 FORCE will continue to work with the other interested parties to improve the environmental value and resilience of the River Crane and to minimise the risk of a repeat of last year's disaster.  We will keep our members and the general public informed of progress and we plan to hold a public meeting in the New Year to review the situation.
+
+
+
+{% include comments.html %}

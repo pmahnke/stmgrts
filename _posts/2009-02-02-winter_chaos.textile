@@ -2,6 +2,7 @@
 layout: post
 title: "Winter Chaos - Monday, 2 Feb 2009"
 permalink: /archives/2009/02/winter_chaos.html
+commentfile: 2009-02-02-winter_chaos
 category: around_town
 date: 2009-02-02 08:22:19
 
@@ -15,3 +16,8 @@ So far we have confirmation that:
 * St Stephens School is closed
 
 Any more reports, please email "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk
+
+
+
+
+{% include comments.html %}

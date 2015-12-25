@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to stmgrts.org.uk"
 permalink: /archives/2005/04/welcome_to_stmg.html
+commentfile: 2005-04-28-welcome_to_stmg
 category: editorial
 date: 2005-04-28 13:47:22
 
@@ -24,3 +25,7 @@ We hope that you will join in.
 It should be great fun!
 
 Don't forget to "sign-up":http://stmgrts.org.uk/cgi-bin/newsletter.cgi for our _Weekly Newsletter_.
+
+
+
+{% include comments.html %}

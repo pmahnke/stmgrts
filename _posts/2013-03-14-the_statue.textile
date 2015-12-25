@@ -2,6 +2,7 @@
 layout: post
 title: "The Statue"
 permalink: /archives/2013/03/the_statue.html
+commentfile: 2013-03-14-the_statue
 category: around_town
 date: 2013-03-14 10:24:17
 excerpt: |
@@ -37,3 +38,6 @@ All that is needed now to celebrate her reappearance and the revitalisation of t
 fn1. *cartophile* n. _One who greatly admires and enjoys maps_
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

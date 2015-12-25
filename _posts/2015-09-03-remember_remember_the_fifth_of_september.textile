@@ -2,6 +2,7 @@
 layout: post
 title: "Remember, Remember, The Fifth of September!"
 permalink: /archives/2015/09/remember_remember_the_fifth_of_september.html
+commentfile: 2015-09-03-remember_remember_the_fifth_of_september
 category: around_town
 date: 2015-09-03 22:35:26
 excerpt: |
@@ -38,3 +39,12 @@ Adding to the day's sense of community at 11.00 local kids in fancy dress will p
 For those unhappy souls in "The Village" who rarely venture north to the other side of the A316, NSMRA represents the good folk living in Northcote, Haliburton, Newry, Talbot, Heron and St Margarets Roads. To find GASS, stroll up the St Margarets Road, the A3004, towards old Isleworth and turn left just past the Ailsa pub. You have nothing to lose but your small change!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.830294310135!2d-0.3262600499999991!3d51.46127219999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760c582d0558e5%3A0x7970d7753dc6d34f!2sTwickenham%2C+Greater+London+TW1+1PE!5e0!3m2!1sen!2suk!4v1441315685367" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+{% include comments.html %}

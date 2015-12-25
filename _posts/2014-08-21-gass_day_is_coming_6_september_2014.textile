@@ -2,6 +2,7 @@
 layout: post
 title: "GASS Day is Coming - 6 September 2014"
 permalink: /archives/2014/08/gass_day_is_coming_6_september_2014.html
+commentfile: 2014-08-21-gass_day_is_coming_6_september_2014
 category: around_town
 date: 2014-08-21 22:28:08
 excerpt: |
@@ -33,3 +34,7 @@ Such is the success of GASS that the event is now open to people living outside 
 For those who like to know these things GASS is organised by NSMRA - the North St Margarets Residents Association. For those unhappy souls who rarely venture north to the other side of the A316, NSMRA represents the good folk living in Northcote, Haliburton, Newry, Talbot, Heron and St Margarets Roads. To find GASS, stroll up the St Margarets Road, the A3004, towards old Isleworth and turn left just past the Ailsa pub.
 
 <strong>Put a note into your diary... "GREAT ANNUAL STREET SALE - SEPTEMBER 6<sup>th</sup>th from 12.00 noon - 3.00pm": You've got nothing to lose but your small change!</strong>
+
+
+
+{% include comments.html %}

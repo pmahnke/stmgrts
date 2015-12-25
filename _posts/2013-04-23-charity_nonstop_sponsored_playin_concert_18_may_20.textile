@@ -2,6 +2,7 @@
 layout: post
 title: "Charity Non-stop Sponsored Play-in Concert - 18 May 2013"
 permalink: /archives/2013/04/charity_nonstop_sponsored_playin_concert_18_may_20.html
+commentfile: 2013-04-23-charity_nonstop_sponsored_playin_concert_18_may_20
 category: around_town
 date: 2013-04-23 21:41:45
 
@@ -33,3 +34,7 @@ h4. More Information
 * Time: 11:00 to 15:00
 * Contact: Chris Storey 020 8876 4728
 * "sponsored_play_in@richmondorchestra.org.uk":mailto:sponsored_play_in@richmondorchestra.org.uk
+
+
+
+{% include comments.html %}

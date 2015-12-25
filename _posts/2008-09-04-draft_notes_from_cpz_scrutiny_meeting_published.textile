@@ -2,6 +2,7 @@
 layout: post
 title: "Draft Notes from CPZ Scrutiny Meeting Published "
 permalink: /archives/2008/09/draft_notes_from_cpz_scrutiny_meeting_published.html
+commentfile: 2008-09-04-draft_notes_from_cpz_scrutiny_meeting_published
 category: news
 date: 2008-09-04 09:06:01
 
@@ -41,3 +42,6 @@ The Committee resolved:
 The final minutes will be agreed at the Committee's next meeting on September 11.
 
 <cite>-- from Chris Squire</cite>
+
+
+{% include comments.html %}

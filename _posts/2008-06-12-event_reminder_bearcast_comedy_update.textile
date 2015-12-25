@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Bearcast Comedy Update"
 permalink: /archives/2008/06/event_reminder_bearcast_comedy_update.html
+commentfile: 2008-06-12-event_reminder_bearcast_comedy_update
 category: around_town
 date: 2008-06-12 10:58:21
 
@@ -24,3 +25,9 @@ The rest of the bill remains as stunning as before as OMID DJALILI is joined by
 * Chav of Chavs LEE "NELSY" NELSON
 
 This Twickenham Festival Show is on FRIDAY (TOMORROW) 13th JUNE 2008.
+
+
+
+
+
+{% include comments.html %}

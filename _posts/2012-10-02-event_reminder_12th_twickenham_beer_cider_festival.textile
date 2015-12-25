@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 12th Twickenham Beer & Cider Festival 2012 - 18 to 20 October 2012"
 permalink: /archives/2012/10/event_reminder_12th_twickenham_beer_cider_festival.html
+commentfile: 2012-10-02-event_reminder_12th_twickenham_beer_cider_festival
 category: around_town
 date: 2012-10-02 21:59:40
 
@@ -22,3 +23,7 @@ h4. More Information
 * Open Thursday 5 to 10.30 pm, Fri/Sat 11am-10.30pm (last admission 10pm).
 * Food available all sessions, no music, seating usually available, souvenir glasses.
 * Admission non-members &pound;3 (Fri to 5pm &pound;2), members &pound;2 (Fri to 5pm free) - cards must be shown.
+
+
+
+{% include comments.html %}

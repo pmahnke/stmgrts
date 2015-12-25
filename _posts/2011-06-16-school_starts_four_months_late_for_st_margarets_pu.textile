@@ -2,6 +2,7 @@
 layout: post
 title: "School Starts Four Months Late for St Margarets Pupils"
 permalink: /archives/2011/06/school_starts_four_months_late_for_st_margarets_pu.html
+commentfile: 2011-06-16-school_starts_four_months_late_for_st_margarets_pu
 category: news
 date: 2011-06-16 08:20:20
 
@@ -20,3 +21,7 @@ bq.. "The planned expansion at Orleans Infants, which we proposed in Febuary 201
 "The Conservatives seem to lack any sense of urgency to solve the problem. The birth rate has not dropped significantly, and we know we will need more new sites. None have been forthcoming. We have reports and press statements, but no positive action. The administration's hope is that "something will turn up".  If they are waiting for money from the government, then they may have a very long time to wait."
 
 p. <cite>-- Press Release from Cllr Malcolm Eady, Liberal Democrat Education spokesperson - 10<sup>th</sup> June 2011</cite>
+
+
+
+{% include comments.html %}

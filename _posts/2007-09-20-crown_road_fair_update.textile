@@ -2,6 +2,7 @@
 layout: post
 title: "Crown Road Fair Update"
 permalink: /archives/2007/09/crown_road_fair_update.html
+commentfile: 2007-09-20-crown_road_fair_update
 category: around_town
 date: 2007-09-20 08:53:16
 
@@ -14,3 +15,8 @@ The event is aimed at promoting local schools, charities, clubs and organisation
 If you run or are part of an after school club or group, a Saturday morning club, allotment appreciation group, knitting circle, a member of 'nuclear physics for fun' group, poker school, surfing for beginners groups -- in fact all the associations you and your kids belong to and ask them to take part... its FREE.
  
 For stall information please contact Jamie Parker  at "jamietparker@hotmail.com":mailto:jamietparker@hotmail.com or call 07837 762 866.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Christmas Open Studios 2009"
 permalink: /archives/2009/11/event_reminder_christmas_open_studios_2009.html
+commentfile: 2009-11-24-event_reminder_christmas_open_studios_2009
 category: around_town
 date: 2009-11-24 10:01:21
 
@@ -29,3 +30,9 @@ On Saturday, 28 November - Sunday, 29 November from 12 - 6pm, come to the "Eel P
 * Sculpture
 
 Home-made food and drinks in the garden.
+
+
+
+
+
+{% include comments.html %}

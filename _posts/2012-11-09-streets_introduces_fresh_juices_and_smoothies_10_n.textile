@@ -2,6 +2,7 @@
 layout: post
 title: "Streets Introduces Fresh Juices and Smoothies - 10 November 2012"
 permalink: /archives/2012/11/streets_introduces_fresh_juices_and_smoothies_10_n.html
+commentfile: 2012-11-09-streets_introduces_fresh_juices_and_smoothies_10_n
 category: around_town
 date: 2012-11-09 19:03:16
 excerpt: |
@@ -24,3 +25,10 @@ _Grand opening on 10 November 2012_
 Streets Florist and Greengrocers offer a great selection of fresh juices and smoothies as well as letting people pick their own flavours.
 
 Print out and bring "this poster":http://www.stmgrts.org.uk/images//StreetsFlyer-SOCIAL.jpg and get a Free drink.
+
+
+
+
+
+
+{% include comments.html %}

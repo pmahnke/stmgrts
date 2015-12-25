@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Refused Permission for Advertising Signage &mdash; Again"
 permalink: /archives/2006/01/tesco_refused_p.html
+commentfile: 2006-01-25-tesco_refused_p
 category: news
 date: 2006-01-25 19:22:23
 
@@ -18,3 +19,6 @@ Apparently, since the Tesco planning request was retrospective, they will have t
 
 * "Details of the Council's decision":http://www.ukplanning.com/richmond/doc/Decision-2619734?extension=.pdf&wmTransparency=0&wmLocation=0&id=2619734&location=VOLUME1&contentType=application%2Fpdf&wmName=&pageCount=2
 * "Planning Officer's Report":http://www.ukplanning.com/richmond/doc/Report-2619733?extension=.pdf&wmTransparency=0&wmLocation=0&id=2619733&location=VOLUME1&contentType=application%2Fpdf&wmName=&pageCount=5
+
+
+{% include comments.html %}

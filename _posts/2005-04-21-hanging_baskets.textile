@@ -2,6 +2,7 @@
 layout: post
 title: "Hanging Baskets Coming Soon"
 permalink: /archives/2005/04/hanging_baskets.html
+commentfile: 2005-04-21-hanging_baskets
 category: news
 date: 2005-04-21 13:23:54
 
@@ -12,3 +13,8 @@ date: 2005-04-21 13:23:54
 From April, 20 hanging baskets will be displayed on the St Margarets high streets.
 
 By sponsoring the 50+ Christmas Trees displayed on St Margarets Road and Crown Road this winter the _St Margarets' Traders Association_ applied for and received a "Civic Pride Grant" from the Richmond Council.  They used this money for both the large Christmas tree at the intersection of Crown and St Margarets Roads and to purchase the baskets and pay for their upkeep through 2005.
+
+
+
+
+{% include comments.html %}

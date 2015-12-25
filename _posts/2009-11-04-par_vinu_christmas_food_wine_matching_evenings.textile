@@ -2,6 +2,7 @@
 layout: post
 title: "Par Vinu&#58; Christmas Food & Wine Matching Evenings"
 permalink: /archives/2009/11/par_vinu_christmas_food_wine_matching_evenings.html
+commentfile: 2009-11-04-par_vinu_christmas_food_wine_matching_evenings
 category: around_town
 date: 2009-11-04 18:10:05
 excerpt: |
@@ -44,3 +45,7 @@ The Evenings Proceeding's
 Your chance to ask more questions &pound;60.00 per person inclusive.
 
 Each evening is limited to 24 people so please be sure to reserve your place early.
+
+
+
+{% include comments.html %}

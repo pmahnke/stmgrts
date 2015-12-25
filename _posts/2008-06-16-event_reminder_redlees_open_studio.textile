@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Redlees Open Studio"
 permalink: /archives/2008/06/event_reminder_redlees_open_studio.html
+commentfile: 2008-06-16-event_reminder_redlees_open_studio
 category: around_town
 date: 2008-06-16 22:16:01
 
@@ -21,3 +22,8 @@ Redlees Studios, Redlees Park, Worton Road, Isleworth, "TW7 6DW":http://maps.goo
 
 Details on how to get to us can be found on "www.redlees.org":http://www.redlees.org/
  
+
+
+
+
+{% include comments.html %}

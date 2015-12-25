@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Candidate Profile 2015&#58; Tanya Williams"
 permalink: /archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html
+commentfile: 2015-04-28-twickenham_candidate_profile_2015_tanya_williams
 category: news
 date: 2015-04-28 09:13:14
 excerpt: |
@@ -95,3 +96,8 @@ Pasta with anything.
 h3. What is your favourite place to take a holiday?
 
 Greece - my father's from Athens, and I don't get there as often as I'd like.
+
+
+
+
+{% include comments.html %}

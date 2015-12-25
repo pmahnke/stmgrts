@@ -2,6 +2,7 @@
 layout: post
 title: "Toss Oars!"
 permalink: /archives/2008/07/toss_oars.html
+commentfile: 2008-07-21-toss_oars
 category: around_town
 date: 2008-07-21 22:28:32
 excerpt: |
@@ -50,3 +51,7 @@ h4. BOAT OARS
 This simply means stacking the oars neatly inside the shallop and knocking off for the day. For the Cubs, aching in every muscle, it was 'thanks' and off home to bed. For the oarsmen of the past it was a chance to impress the ladies of the court with their muscles and hope that the King didn't suddenly decide that he wanted to go water skiing on the way home!
 
 THE ROYAL SHALLOP 'JUBILANT' CAN BE HIRED FOR WEDDINGS OR FOR INFORMAL ROWING BY CONTACTING VIC GRIFFITHS ON 07785 305122 OR "vicgriffiths@sky.com":mailto:vicgriffiths@sky.com  IT IS NOT EXPENSIVE AND IT IS GREAT FUN.
+
+
+
+{% include comments.html %}

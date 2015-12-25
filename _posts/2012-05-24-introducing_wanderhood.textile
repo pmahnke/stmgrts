@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing Wanderhood"
 permalink: /archives/2012/05/introducing_wanderhood.html
+commentfile: 2012-05-24-introducing_wanderhood
 category: news
 date: 2012-05-24 22:10:32
 excerpt: |
@@ -25,3 +26,10 @@ To join the site, local residents, workers or people with a connection to St Mar
 Members can connect and keep up to date with their neighbours online. They can also join or set up local groups and discussions, view or add events, sell things locally and check out the local weather and news (from the St Margarets community website). The website is also available to use from your smartphone, with an app in the works.
 
 If you live or work locally or have a group or event you wish to add to the site you can register at "www.wanderhood.com.":http://www.wanderhood.com. The site launched this week, so Scott is interested in your "feedback":http://www.wanderhood.com/page/comments-1 so he can continue to improve the site.
+
+
+
+
+
+
+{% include comments.html %}

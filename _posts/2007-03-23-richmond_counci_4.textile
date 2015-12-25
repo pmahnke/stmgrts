@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council's CCTV Parking & Traffic Plans"
 permalink: /archives/2007/03/richmond_counci_4.html
+commentfile: 2007-03-23-richmond_counci_4
 category: news
 date: 2007-03-23 08:58:55
 excerpt: |
@@ -25,3 +26,9 @@ bq.. "Indiscriminate parking around schools and pedestrian crossings is highly i
 "This new technology will enable us to focus on problem areas quickly and efficiently, in a way that parking attendants are unable to do."
 
 p. Additionally, the CCTV camera on the mast, next to _Broadway Stores_ will become operational from 1<sup>st</sup> April for monitoring the Tesco loading bay area, resulting in increased issue of fixed penalty notice to any offending parkers.
+
+
+
+
+
+{% include comments.html %}

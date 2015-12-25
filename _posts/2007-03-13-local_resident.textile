@@ -2,6 +2,7 @@
 layout: post
 title: "Local Resident Alistair Wright on Radio Jackie"
 permalink: /archives/2007/03/local_resident.html
+commentfile: 2007-03-13-local_resident
 category: around_town
 date: 2007-03-13 12:40:45
 
@@ -18,3 +19,9 @@ The highlight of his broadcasting career to date was presenting a show from the 
 
 
 Tune in and listen to Alistair on "Radio Jackie":http://www.stmgrts.org.uk/directory/other/200703140618  (107.8 FM "www.radiojackie.com":http://www.radiojackie.com/ ).
+
+
+
+
+
+{% include comments.html %}

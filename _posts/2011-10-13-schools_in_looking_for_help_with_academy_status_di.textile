@@ -2,6 +2,7 @@
 layout: post
 title: "Schools in Looking for Help with Academy Status Dilemma"
 permalink: /archives/2011/10/schools_in_looking_for_help_with_academy_status_di.html
+commentfile: 2011-10-13-schools_in_looking_for_help_with_academy_status_di
 category: news
 date: 2011-10-13 08:52:32
 
@@ -20,3 +21,8 @@ All five remaining council-led schools are undergoing consultation with parents,
 
 
 <cite>Continue reading in *The Richmond & Twickenham Times* -- "Schools in Richmond looking for help with academy status dilemma -- 9 October 2011":http://www.richmondandtwickenhamtimes.co.uk/news/9293843.Schools__academy_status_dilema/</cite>
+
+
+
+
+{% include comments.html %}

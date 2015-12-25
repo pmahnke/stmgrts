@@ -2,6 +2,7 @@
 layout: post
 title: "Home-Start Richmond"
 permalink: /archives/2014/04/homestart_richmond.html
+commentfile: 2014-04-03-homestart_richmond
 category: around_town
 date: 2014-04-03 18:42:16
 excerpt: |
@@ -26,3 +27,7 @@ h4. To find out more, contact Angie Ahmed
 * 020 8487 8500
 * "info@homestart-richmond.org.uk":mailto:info@homestart-richmond.org.uk
 * "www.homestart-richmond.org.uk":http://www.homestart-richmond.org.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Age UK Richmond's Winter Wellbeing Campaign 2012"
 permalink: /archives/2012/11/age_uk_richmonds_winter_wellbeing_campaign_2012.html
+commentfile: 2012-11-28-age_uk_richmonds_winter_wellbeing_campaign_2012
 category: news
 date: 2012-11-28 20:15:45
 excerpt: |
@@ -39,3 +40,7 @@ When the weather takes a turn for the worse, we all struggle to get out and abou
 Together, we aim to tackle the problems that winter brings and make it easier for thousands of older, more vulnerable people to manage during the colder months.
 
 * "www.ageuk.org.uk":http://www.ageuk.org.uk/richmonduponthames/news--campaigns/winter-wellbeing-campaign/
+
+
+
+{% include comments.html %}

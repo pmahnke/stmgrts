@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair &#58; Lost & Found"
 permalink: /archives/2005/07/st_margarets_fa_1.html
+commentfile: 2005-07-19-st_margarets_fa_1
 category: around_town
 date: 2005-07-19 14:45:51
 
@@ -21,3 +22,8 @@ Organisers have found:
 ... and more.
 
 If you have lost something you can call: 020 8241 1042 to see if they have it.
+
+
+
+
+{% include comments.html %}

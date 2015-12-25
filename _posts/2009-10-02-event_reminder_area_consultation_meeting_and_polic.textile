@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Area Consultation Meeting and Police Liaison Group Meeting"
 permalink: /archives/2009/10/event_reminder_area_consultation_meeting_and_polic.html
+commentfile: 2009-10-02-event_reminder_area_consultation_meeting_and_polic
 category: around_town
 date: 2009-10-02 09:56:12
 excerpt: |
@@ -30,3 +31,9 @@ This is an opportunity to meet your ward councillors; Geoff Acton, Ben Khosa and
 * "j.taylor@richmond.gov.uk":mailto:j.taylor@richmond.gov.uk or "stmargarets.northtwickenham.snt@met.police.uk":mailto:stmargarets.northtwickenham.snt@met.police.uk
 * 020 8891 7155 or 020 8721 2908
 * "www.met.police.uk/teams/richmond/stmargaretsandnorthtwickenham":http://www.met.police.uk/teams/richmond/stmargaretsandnorthtwickenham/index.php
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "New Business - Alexander Technique St Margarets"
 permalink: /archives/2014/02/_recent_newcomer_to_st.html
+commentfile: 2014-02-22-_recent_newcomer_to_st
 category: around_town
 date: 2014-02-22 11:01:00
 excerpt: |
@@ -31,3 +32,7 @@ h4. More Information
 
 * To book a private session with Bronwyn, please call her at Alexander Technique St Margarets on 07531 447 887,  020 8892 1392 or email her:    "bronwyn.baud@gmail.com":mailto:bronwyn.baud@gmail.com
 * Alternatively look up the web-site: "www.alexandertechniquestmargarets.com":http://www.alexandertechniquestmargarets.com
+
+
+
+{% include comments.html %}

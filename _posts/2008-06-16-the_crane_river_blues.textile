@@ -2,6 +2,7 @@
 layout: post
 title: "The Crane River Blues"
 permalink: /archives/2008/06/the_crane_river_blues.html
+commentfile: 2008-06-16-the_crane_river_blues
 category: around_town
 date: 2008-06-16 21:55:36
 excerpt: |
@@ -38,3 +39,7 @@ On July 13<sup>th</sup> 1954 the Chris Barber Band went into a studio to record 
 This all might seem a long way from Ken Colyer and the murky waters of the Crane but there is a pleasing circularity to this story. In his later years Lonnie Donegan, the godfather of Britpop, stored all his guitars and tour equipment in a garage in Brentford Dock - just a mile or so from Old Isleworth where the River Crane lazily empties into the Thames. Ken Colyer died in March 1988, largely unrecognised and unrewarded for the part that he played in making British popular music the success that it is today. Still, he would have been pleased that the seed he planted in the mud of the River Crane nearly 60 years ago has done so well.
 
 <cite> -- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

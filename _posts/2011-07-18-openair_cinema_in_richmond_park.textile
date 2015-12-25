@@ -2,6 +2,7 @@
 layout: post
 title: "Open-air Cinema in Richmond Park"
 permalink: /archives/2011/07/openair_cinema_in_richmond_park.html
+commentfile: 2011-07-18-openair_cinema_in_richmond_park
 category: around_town
 date: 2011-07-18 18:47:33
 excerpt: |
@@ -27,3 +28,9 @@ The Nomad and The Royal Parks invite you to an unprecedented season of outdoor c
 <li><a href="http://www.stmgrts.org.uk/event/show/200705142863">The African Queen</a><br />Friday, 2 September 6:30pm
 </li>
 </ul>
+
+
+
+
+
+{% include comments.html %}

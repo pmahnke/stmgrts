@@ -2,6 +2,7 @@
 layout: post
 title: "Netball Anyone?"
 permalink: /archives/2010/12/netball_anyone.html
+commentfile: 2010-12-09-netball_anyone
 category: around_town
 date: 2010-12-09 18:49:55
 
@@ -17,3 +18,9 @@ We are a friendly, sociable club that play a good level of netball. We have 3 te
 We cater for all standards and have an excellent coach who runs sessions which are a mixture of drills, fitness and match play.
 
 For more information email "teddingtonswans@hotmail.com":mailto:teddingtonswans@hotmail.com or come along to one of our training sessions which start again on 6 January 2011.
+
+
+
+
+
+{% include comments.html %}

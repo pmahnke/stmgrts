@@ -2,6 +2,7 @@
 layout: post
 title: "Local Crime Maps"
 permalink: /archives/2009/11/local_crime_maps.html
+commentfile: 2009-11-24-local_crime_maps
 category: news
 date: 2009-11-24 14:45:22
 
@@ -17,3 +18,9 @@ The website is located at  "maps.met.police.uk":http://maps.met.police.uk/
 By clicking on "Crime Types" you can narrow your enquiry. Crime prevention advice for each crime type displayed can be obtained from a panel on the right of the screen.
 
 ??St Margarets Safer Neighbourhood Team??
+
+
+
+
+
+{% include comments.html %}

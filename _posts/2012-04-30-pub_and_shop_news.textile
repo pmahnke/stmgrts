@@ -2,6 +2,7 @@
 layout: post
 title: "Pub and Shop News"
 permalink: /archives/2012/04/pub_and_shop_news.html
+commentfile: 2012-04-30-pub_and_shop_news
 category: news
 date: 2012-04-30 08:44:01
 
@@ -14,3 +15,9 @@ A mini supermarket is also part of the scheme for the Ryde House site (391 Richm
 Let us hope that Richmond Road will be allowed to become a rival to Kew Road as a centre for Richmond's restaurant trade: what could be pleasanter than to meet for a drink on the Riverside and then stroll across the bridge to dine in one of the newly fashionable East Twickenham eateries? We already have Acena "acena.co.uk":http://acena.co.uk/ and Brula "www.brula.co.uk":http://www.brula.co.uk/ : what we need is more of the same and soon, please.
 
 ??Christopher J Squire??
+
+
+
+
+
+{% include comments.html %}

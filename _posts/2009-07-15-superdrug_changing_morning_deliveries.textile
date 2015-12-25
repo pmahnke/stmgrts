@@ -2,6 +2,7 @@
 layout: post
 title: "Superdrug Changing Morning Deliveries"
 permalink: /archives/2009/07/superdrug_changing_morning_deliveries.html
+commentfile: 2009-07-15-superdrug_changing_morning_deliveries
 category: news
 date: 2009-07-15 10:32:01
 
@@ -44,3 +45,6 @@ Yours Sincerely,
 Simon
 Superdrug
 </pre>
+
+
+{% include comments.html %}

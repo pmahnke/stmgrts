@@ -2,6 +2,7 @@
 layout: post
 title: "Pilates Plus - Sale & New Pregnancy Courses"
 permalink: /archives/2011/01/pilates_plus_sale_new_pregnancy_courses.html
+commentfile: 2011-01-13-pilates_plus_sale_new_pregnancy_courses
 category: around_town
 date: 2011-01-13 08:43:21
 
@@ -13,3 +14,9 @@ Although all of our classes are suitable for the pregnant client we have recogni
 SALE now on. All FIT FLOPS reduced by 30%.
 We are offering readers an extra 5% off!
 </div>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Aliens are Here!"
 permalink: /archives/2008/09/the_aliens_are_here.html
+commentfile: 2008-09-11-the_aliens_are_here
 category: news
 date: 2008-09-11 16:27:29
 excerpt: |
@@ -55,3 +56,7 @@ _Crusty Professor:_ No. Just for now. It wasn't the right time for us to meet. B
 <cite> -- _It came from Outer Space_ 1953</cite>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "I Love to Hear a Choir!"
 permalink: /archives/2012/04/i_love_to_hear_a_choir.html
+commentfile: 2012-04-25-i_love_to_hear_a_choir
 category: around_town
 date: 2012-04-25 19:56:35
 excerpt: |
@@ -30,3 +31,9 @@ The cost is &pound;10 per session, but discounts are available. Please phone Sur
 
 bq. "Come lift your voices and sing as one.
 Let's raise the roof - and have some fun!"
+
+
+
+
+
+{% include comments.html %}

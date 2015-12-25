@@ -2,6 +2,7 @@
 layout: post
 title: "Response to London Disorder"
 permalink: /archives/2011/08/response_to_london_disorder.html
+commentfile: 2011-08-09-response_to_london_disorder
 category: news
 date: 2011-08-09 15:36:48
 
@@ -18,3 +19,9 @@ bq.. "The violence we have seen over the past few days, with innocent people los
 "This is a constantly changing picture, and should any incidents take place in Richmond upon Thames, residents can be reassured that together with the Police, we have rigorous contingency plans in place."
 
 p. -- from a Richmond Council "press release on 9 August 2011":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/august_2011_press_releases/response_to_london_disorder.htm?viewmode=pr
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Sir David Attenborough Digs New Jubilee Pond"
 permalink: /archives/2012/05/sir_david_attenborough_digs_new_jubilee_pond.html
+commentfile: 2012-05-17-sir_david_attenborough_digs_new_jubilee_pond
 category: news
 date: 2012-05-17 08:37:26
 excerpt: |
@@ -25,3 +26,8 @@ Sir David, who is a patron of the Friends, said "Water is the lifeblood of the P
 To contribute to the pubic appeal, visit "www.frp.org.uk/ponds-and-streams":http://www.frp.org.uk/ponds-and-streams or "www.healthyplanet.org.uk/jubilee":http://www.healthyplanet.org.uk/jubilee pond.
 
 The site of the new Jubilee Pond in Richmond Park can be found at the following location: "tinyurl.com/cosh5d3":http://tinyurl.com/cosh5d3.
+
+
+
+
+{% include comments.html %}

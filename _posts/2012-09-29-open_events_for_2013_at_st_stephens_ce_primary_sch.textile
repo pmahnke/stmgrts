@@ -2,6 +2,7 @@
 layout: post
 title: "Open Events for 2013 at  St Stephen's CE Primary School"
 permalink: /archives/2012/09/open_events_for_2013_at_st_stephens_ce_primary_sch.html
+commentfile: 2012-09-29-open_events_for_2013_at_st_stephens_ce_primary_sch
 category: around_town
 date: 2012-09-29 10:23:21
 
@@ -29,3 +30,8 @@ h4. Junior Tours at Winchester Road site
 * 9.30a.m. Friday November 16th
 
 The St Stephen's team is looking forward to meeting you.
+
+
+
+
+{% include comments.html %}

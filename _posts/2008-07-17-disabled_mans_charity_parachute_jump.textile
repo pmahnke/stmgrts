@@ -2,6 +2,7 @@
 layout: post
 title: "Disabled Man's Charity Parachute Jump"
 permalink: /archives/2008/07/disabled_mans_charity_parachute_jump.html
+commentfile: 2008-07-17-disabled_mans_charity_parachute_jump
 category: around_town
 date: 2008-07-17 07:26:48
 
@@ -18,3 +19,8 @@ Please come along to the quiz and support this _mad_ person!
 Or go to "justgiving.com/michaelhanrahan":http://justgiving.com/michaelhanrahan all donations are gratefully received.
 
 Hope to see you at the quiz, there will be some nice prizes!
+
+
+
+
+{% include comments.html %}

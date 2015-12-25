@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Eel Pie Open Studios"
 permalink: /archives/2008/11/event_reminder_eel_pie_open_studios.html
+commentfile: 2008-11-28-event_reminder_eel_pie_open_studios
 category: around_town
 date: 2008-11-28 13:10:00
 excerpt: |
@@ -38,3 +39,9 @@ There will also be food and drink.
 * Entry: Free
 * Children: Children welcome, under parental supervision
 * Access: No road access onto the island, footpath only.  
+
+
+
+
+
+{% include comments.html %}

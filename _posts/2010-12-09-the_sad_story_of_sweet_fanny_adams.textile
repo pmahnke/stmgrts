@@ -2,6 +2,7 @@
 layout: post
 title: "The Sad Story of Sweet Fanny Adams"
 permalink: /archives/2010/12/the_sad_story_of_sweet_fanny_adams.html
+commentfile: 2010-12-09-the_sad_story_of_sweet_fanny_adams
 category: around_town
 date: 2010-12-09 19:49:20
 excerpt: |
@@ -102,3 +103,7 @@ Not many now would give a sweet FA!
 </pre>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

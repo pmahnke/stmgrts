@@ -2,6 +2,7 @@
 layout: post
 title: "The Day St Margarets Went Off The Rails"
 permalink: /archives/2012/11/the_day_st_margarets_went_off_the_rails.html
+commentfile: 2012-11-10-the_day_st_margarets_went_off_the_rails
 category: around_town
 date: 2012-11-10 12:54:15
 excerpt: |
@@ -35,3 +36,6 @@ NOTE: The quality of the photographs is poor because they were copied directly o
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

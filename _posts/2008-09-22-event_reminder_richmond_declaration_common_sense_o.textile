@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond Declaration - Common Sense On Planning"
 permalink: /archives/2008/09/event_reminder_richmond_declaration_common_sense_o.html
+commentfile: 2008-09-22-event_reminder_richmond_declaration_common_sense_o
 category: around_town
 date: 2008-09-22 21:01:49
 
@@ -52,3 +53,6 @@ principles.
 I/We, the undersigned, are angry that insensitive Government planning policies are destroying the character of our country. We reject the 'Big Brother' attitude as it is undermining our unique neighbourhoods. We demand that our local Council AND all Government agencies adopt our ten planning principles.
 
 </div>
+
+
+{% include comments.html %}

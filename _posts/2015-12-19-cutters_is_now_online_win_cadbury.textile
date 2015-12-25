@@ -2,6 +2,7 @@
 layout: post
 title: "Cutters is Now Online! Win Cadbury!"
 permalink: /archives/2015/12/cutters_is_now_online_win_cadbury.html
+commentfile: 2015-12-19-cutters_is_now_online_win_cadbury
 category: around_town
 date: 2015-12-19 13:08:59
 excerpt: |
@@ -22,3 +23,11 @@ Just 'Like' their Facebook page at "www.facebook.com/CuttersTW1":http://www.face
 
 They will announce the winner picked at random on January 2<sup>nd</sup> 2016!
 Good luck everyone!
+
+
+
+
+
+
+
+{% include comments.html %}

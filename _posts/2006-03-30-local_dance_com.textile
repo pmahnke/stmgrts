@@ -2,6 +2,7 @@
 layout: post
 title: "Local Dance Company to Run Holiday Workshops for Children"
 permalink: /archives/2006/03/local_dance_com.html
+commentfile: 2006-03-30-local_dance_com
 category: around_town
 date: 2006-03-30 20:23:01
 excerpt: |
@@ -22,3 +23,7 @@ Livia Maciejowska said, “Our popularity in local schools has enabled us to exp
 Students at the Easter Workshops will take sessions in street dance, jazz and contemporary dance, alongside drama, improvisation skills and role-play. This will all culminate in a performance of their devised work on the last day.
  
 For further information about the Easter workshops, readers should contact Livia Maciejowska on 07977 076 859
+
+
+
+{% include comments.html %}

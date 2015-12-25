@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Tree Recycling - 2013"
 permalink: /archives/2013/01/christmas_tree_recycling_2013.html
+commentfile: 2013-01-05-christmas_tree_recycling_2013
 category: 
 date: 2013-01-05 20:14:30
 excerpt: |
@@ -27,3 +28,9 @@ Put your tree out on your normal collection day in a place that is easy to see b
 Last year we collected around 20,000 Christmas trees for recycling which was fantastic. However, high demand means _we may not collect all trees immediately. If yours is not taken first time, put it out again the following week on your collection day._
 
 * "More information on LBRUT site":http://www.richmond.gov.uk/home/environment/rubbish_and_recycling/household_recycling/christmas_tree_recycling.htm
+
+
+
+
+
+{% include comments.html %}

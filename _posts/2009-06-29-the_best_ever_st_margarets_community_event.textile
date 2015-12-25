@@ -2,6 +2,7 @@
 layout: post
 title: "The Best Ever St Margarets Community Event"
 permalink: /archives/2009/06/the_best_ever_st_margarets_community_event.html
+commentfile: 2009-06-29-the_best_ever_st_margarets_community_event
 category: around_town
 date: 2009-06-29 12:11:08
 
@@ -30,3 +31,8 @@ bq. "What an amazing day  -  great for raising awareness of the symptoms of bowe
 St Margarets is some times called the village by the estate agents but it certainly felt like a great place to be on Sunday 14<sup>th</sup> June.
 
 _Photos from Totally Media Ltd &copy; 2009_
+
+
+
+
+{% include comments.html %}

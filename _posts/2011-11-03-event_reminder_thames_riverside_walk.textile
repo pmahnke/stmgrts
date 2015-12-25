@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Thames Riverside Walk - UPDATED"
 permalink: /archives/2011/11/event_reminder_thames_riverside_walk.html
+commentfile: 2011-11-03-event_reminder_thames_riverside_walk
 category: around_town
 date: 2011-11-03 19:08:37
 excerpt: |
@@ -28,3 +29,6 @@ h4. More Information
 * Cost:   Environment Trust members £8.50  non-members £10.00.   
 * To book your place please contact the office at: 020 8891 5455 or email: office@environmenttrust.co.uk 
 * Cheques made payable to Environment Trust for Richmond upon Thames and posted to Unit 3, Phoenix Wharf, Eel Pie Island, Twickenham, TW1 3DY. 
+
+
+{% include comments.html %}

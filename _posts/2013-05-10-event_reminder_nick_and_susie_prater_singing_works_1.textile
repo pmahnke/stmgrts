@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Nick and Susie Prater Singing Workshop - 7 July 2013"
 permalink: /archives/2013/05/event_reminder_nick_and_susie_prater_singing_works_1.html
+commentfile: 2013-05-10-event_reminder_nick_and_susie_prater_singing_works_1
 category: around_town
 date: 2013-05-10 21:41:06
 excerpt: |
@@ -28,3 +29,7 @@ h4. More Information
 * Advance booking essential: &pound;25 before June 14<sup>th</sup>, &pound;30 thereafter
 * Contact Pepita Payan 0208 943 4762, "joeandpep@talktalk.net":mailto:joeandpep@talktalk.net or Lucy Lister 07813 677742, "lalister@hotmail.co.uk":mailto:lalister@hotmail.co.uk Please send cheques payable to P. Payan with contact details including your email address and telephone number, to 31 Victor Rd, Teddington, TW11 8SP
 * For more details of Nick and Susie Prater go to "www.nickprater.co.uk":http://www.nickprater.co.uk or "www.naturalvoice.net":http://www.naturalvoice.net
+
+
+
+{% include comments.html %}

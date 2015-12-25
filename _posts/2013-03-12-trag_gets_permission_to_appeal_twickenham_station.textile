@@ -2,6 +2,7 @@
 layout: post
 title: "TRAG Gets Permission to Appeal Twickenham Station Development"
 permalink: /archives/2013/03/trag_gets_permission_to_appeal_twickenham_station.html
+commentfile: 2013-03-12-trag_gets_permission_to_appeal_twickenham_station
 category: news
 date: 2013-03-12 19:20:50
 excerpt: |
@@ -27,3 +28,9 @@ TRAG spokesperson
 
 11 March 2013
 </div>
+
+
+
+
+
+{% include comments.html %}

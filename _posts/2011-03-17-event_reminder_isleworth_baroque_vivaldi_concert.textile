@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Isleworth Baroque Vivaldi Concert"
 permalink: /archives/2011/03/event_reminder_isleworth_baroque_vivaldi_concert.html
+commentfile: 2011-03-17-event_reminder_isleworth_baroque_vivaldi_concert
 category: around_town
 date: 2011-03-17 18:02:00
 excerpt: |
@@ -21,3 +22,9 @@ excerpt: |
 Our programme will include some well-know choral pieces (Gloria, Magnificat, Beatus Vir), some beautiful instrumental pieces (Concerto Grosso, Concerto for two trumpets), some delightful solo arias and - new for 2011 -  our 'Young Isleworth Baroque' group of younger voices.
 
 Tickets at &pound;10 are on sale online, visit  "www.isleworthbaroque.co.uk,":http://www.isleworthbaroque.co.uk, or to personal callers only at "yellowwedge cheese":http://www.stmgrts.org.uk/directory/grocery/200711270904. For more details call 020 8943 5261.
+
+
+
+
+
+{% include comments.html %}

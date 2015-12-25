@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Concert Licensing Application"
 permalink: /archives/2006/05/marble_hill_con.html
+commentfile: 2006-05-07-marble_hill_con
 category: news
 date: 2006-05-07 08:43:47
 excerpt: |
@@ -63,3 +64,7 @@ h4. For further information please contact:
 |Kevin Waite|"mail@kevin-waite.com":mailto:mail@kevin-waite.com|for Richmond Road & surrounds|
 
 </div>
+
+
+
+{% include comments.html %}

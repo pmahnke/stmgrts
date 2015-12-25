@@ -2,6 +2,7 @@
 layout: post
 title: "No Blame"
 permalink: /archives/2015/04/no_blame.html
+commentfile: 2015-04-03-no_blame
 category: around_town
 date: 2015-04-03 12:28:40
 excerpt: |
@@ -60,3 +61,10 @@ h4. A tribute to Cynthia Lennon by her son Julian
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+{% include comments.html %}

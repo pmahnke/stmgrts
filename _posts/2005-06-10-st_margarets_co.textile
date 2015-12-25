@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Community Event September 2005"
 permalink: /archives/2005/06/st_margarets_co.html
+commentfile: 2005-06-10-st_margarets_co
 category: news
 date: 2005-06-10 20:39:27
 
@@ -20,3 +21,6 @@ _Maybe you would like to organise a stall or a competition?_
 If you would like to get involved and help fund raise for your chosen charity or project please "email us":mailto:volunteer@stmgrts.org.uk.
 
 If you have any comments or suggestions regarding the event please use the comments box below to let us know.
+
+
+{% include comments.html %}

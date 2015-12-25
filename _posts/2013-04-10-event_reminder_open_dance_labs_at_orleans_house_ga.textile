@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Open Dance Labs at Orleans House Gallery"
 permalink: /archives/2013/04/event_reminder_open_dance_labs_at_orleans_house_ga.html
+commentfile: 2013-04-10-event_reminder_open_dance_labs_at_orleans_house_ga
 category: around_town
 date: 2013-04-10 22:19:09
 
@@ -28,3 +29,7 @@ h4. Fee
 Donate what you can!
 
 Please Email: "prefacemorn@gmail.com":mailto:prefacemorn@gmail.com for more information about how you can get involved!
+
+
+
+{% include comments.html %}

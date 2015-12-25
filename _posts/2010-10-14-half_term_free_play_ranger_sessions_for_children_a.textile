@@ -2,6 +2,7 @@
 layout: post
 title: "Half Term&#58; Free Play Ranger Sessions for Children aged 8 to 14"
 permalink: /archives/2010/10/half_term_free_play_ranger_sessions_for_children_a.html
+commentfile: 2010-10-14-half_term_free_play_ranger_sessions_for_children_a
 category: news
 date: 2010-10-14 22:44:56
 excerpt: |
@@ -57,3 +58,7 @@ h4. Friday
 Twilight Play sessions will feature activities such as lantern making and games including torchlight treasure hunt and glow tag. All sessions are free and do not require pre booking- just turn up and join in!
 
 For further information please check out our web page "www.richmond.gov.uk/play_rangers":http://www.richmond.gov.uk/play_rangers or email "claire.chapman@richmond.gov.uk":mailto:claire.chapman@richmond.gov.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Night Flights Allowed for Snow Backlog at Heathrow - 20 Dec 2010 "
 permalink: /archives/2010/12/night_flights_allowed_for_snow_backlog_at_heathrow.html
+commentfile: 2010-12-20-night_flights_allowed_for_snow_backlog_at_heathrow
 category: news
 date: 2010-12-20 20:58:01
 
@@ -14,3 +15,10 @@ bq. "This morning I have spoken to Willy Walsh from BA and Colin Matthews of BAA
 -- from Christopher J Squire
 
 * "More from the Richmond & Twickenham Times":http://stmgrts.org.uk/l/OvJCQ
+
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "New Website for The Good Wine Shop"
 permalink: /archives/2008/12/new_website_for_the_good_wine_shop.html
+commentfile: 2008-12-19-new_website_for_the_good_wine_shop
 category: news
 date: 2008-12-19 13:51:23
 excerpt: |
@@ -28,3 +29,9 @@ Have a browse through our collection of Christmas cases & wines or simply use ou
 LOCAL DELIVERY CUT-OFF DATE - 7pm 23RD DECEMBER</strong>
 
 <cite>-- from a Good Wine Shop press release</cite>
+
+
+
+
+
+{% include comments.html %}

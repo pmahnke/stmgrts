@@ -2,6 +2,7 @@
 layout: post
 title: "Choral Workshop and Concert - 28 January 2012"
 permalink: /archives/2011/12/choral_workshop_and_concert_28_january_2012.html
+commentfile: 2011-12-15-choral_workshop_and_concert_28_january_2012
 category: around_town
 date: 2011-12-15 22:33:26
 
@@ -33,3 +34,7 @@ Please click on the link to download the Registration Form which should be compl
 h4. More Information
 
 Contact our Administrator, Geoffrey Potts on 07531 447960 or email "info@addison-singers.org.uk":mailto:info@addison-singers.org.uk
+
+
+
+{% include comments.html %}

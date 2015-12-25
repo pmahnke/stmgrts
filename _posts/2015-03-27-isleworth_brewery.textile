@@ -2,6 +2,7 @@
 layout: post
 title: "Isleworth Brewery"
 permalink: /archives/2015/03/isleworth_brewery.html
+commentfile: 2015-03-27-isleworth_brewery
 category: around_town
 date: 2015-03-27 23:22:28
 excerpt: |
@@ -67,3 +68,8 @@ A. It's what your granny soaks her teeth in!
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

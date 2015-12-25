@@ -2,6 +2,7 @@
 layout: post
 title: "Message from the St Margarets Web Team"
 permalink: /archives/2005/09/message_from_th.html
+commentfile: 2005-09-25-message_from_th
 category: editorial
 date: 2005-09-25 11:12:46
 
@@ -18,3 +19,6 @@ Third, this web site will only be successful if people help contribute.  The sit
 We are pleased with the positive response so far, and hope we are doing our little part to enhance the community.
 
 The Web Team
+
+
+{% include comments.html %}

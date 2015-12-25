@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Crown Road Community Event"
 permalink: /archives/2007/09/event_reminder_crown_road_community_event.html
+commentfile: 2007-09-27-event_reminder_crown_road_community_event
 category: around_town
 date: 2007-09-27 13:06:44
 
@@ -37,3 +38,8 @@ The "Crown Road Community Event":http://www.stmgrts.org.uk/event/fair/2007051416
 
 * Come and meet the St Margarets & Twickenham North Safer Neighbourhoods Team. 
 Sergeant Steve Davis and team will be at the Crown Road Community Event on the 29th to offer Crime prevention advice, conduct cycle marking and to discuss any problems people may have.
+
+
+
+
+{% include comments.html %}

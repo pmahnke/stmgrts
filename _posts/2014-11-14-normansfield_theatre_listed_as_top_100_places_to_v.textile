@@ -2,6 +2,7 @@
 layout: post
 title: "Normansfield Theatre in Top 100 Places to Visit in London"
 permalink: /archives/2014/11/normansfield_theatre_listed_as_top_100_places_to_v.html
+commentfile: 2014-11-14-normansfield_theatre_listed_as_top_100_places_to_v
 category: news
 date: 2014-11-14 08:34:00
 excerpt: |
@@ -24,3 +25,11 @@ bq. The Langdon Down Museum of Learning Disability in Hampton Wick is home to a 
 <cite>"Read more on lastminute.com":http://www.lastminute.com/inspiration/100-things-in-london/</cite>
 
 _photo &copy; Copyright Mark Percy_
+
+
+
+
+
+
+
+{% include comments.html %}

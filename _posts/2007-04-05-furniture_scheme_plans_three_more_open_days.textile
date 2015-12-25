@@ -2,6 +2,7 @@
 layout: post
 title: "Furniture Scheme Plans Three More Open Days"
 permalink: /archives/2007/04/furniture_scheme_plans_three_more_open_days.html
+commentfile: 2007-04-05-furniture_scheme_plans_three_more_open_days
 category: news
 date: 2007-04-05 08:15:18
 
@@ -25,3 +26,8 @@ However the Furniture Scheme is  also open to the target group referred to above
 The furniture we collect is of a good quality.  You may find something special.  Come and visit us and see for yourself.
 
 -- _from Furniture Scheme RuT_
+
+
+
+
+{% include comments.html %}

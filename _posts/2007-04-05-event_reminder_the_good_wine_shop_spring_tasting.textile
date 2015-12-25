@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Good Wine Shop Spring Tasting"
 permalink: /archives/2007/04/event_reminder_the_good_wine_shop_spring_tasting.html
+commentfile: 2007-04-05-event_reminder_the_good_wine_shop_spring_tasting
 category: around_town
 date: 2007-04-05 12:40:00
 
@@ -26,3 +27,6 @@ The Good Wine Shop was established six years ago and since Mark took over in 200
 Special "double" discounts on mixed cases will be available at the event. Tickets can be purchased from The Good Wine Shop in advance at a cost of &pound;7.50 per person or &pound;10.00 on the door.
 
 -- _from a press release_
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; An Actor's Life for Me!"
 permalink: /archives/2011/04/event_reminder_an_actors_life_for_me.html
+commentfile: 2011-04-07-event_reminder_an_actors_life_for_me
 category: around_town
 date: 2011-04-07 22:19:29
 
@@ -27,3 +28,6 @@ h4. Details
 * Tickets:  &pound;20
 * Call Lesley on 0845 230 0372
 * email "lesley.alabaf@downs-syndrome.org.uk":mailto:lesley.alabaf@downs-syndrome.org.uk.
+
+
+{% include comments.html %}

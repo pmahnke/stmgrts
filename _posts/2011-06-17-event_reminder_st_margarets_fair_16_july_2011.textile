@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Fair - 16 July 2011"
 permalink: /archives/2011/06/event_reminder_st_margarets_fair_16_july_2011.html
+commentfile: 2011-06-17-event_reminder_st_margarets_fair_16_july_2011
 category: around_town
 date: 2011-06-17 15:27:18
 excerpt: |
@@ -37,3 +38,8 @@ The fair organisers run the Tea Tent, Beer Tent, Pimms Stall, the BBQ, the Bric-
 All profits from these stalls go direct to our charities - please support these stalls. See how we spend the <a href="http://www.stmargaretsfair.org/charities.html">money</a>.
 
 For more information: "www.stmargaretsfair.org":http://www.stmargaretsfair.org/
+
+
+
+
+{% include comments.html %}

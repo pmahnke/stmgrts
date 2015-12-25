@@ -2,6 +2,7 @@
 layout: post
 title: "Leap Year 2012"
 permalink: /archives/2012/02/leap_year_2012.html
+commentfile: 2012-02-29-leap_year_2012
 category: around_town
 date: 2012-02-29 19:49:12
 excerpt: |
@@ -87,3 +88,6 @@ And 29 in each leap year
 </pre>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

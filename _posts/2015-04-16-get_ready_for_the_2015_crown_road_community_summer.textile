@@ -2,6 +2,7 @@
 layout: post
 title: "Get Ready for the 2015 Crown Road Community Summer Fair!"
 permalink: /archives/2015/04/get_ready_for_the_2015_crown_road_community_summer.html
+commentfile: 2015-04-16-get_ready_for_the_2015_crown_road_community_summer
 category: news
 date: 2015-04-16 21:31:02
 excerpt: |
@@ -27,3 +28,9 @@ If you would like to get involved please email: "pr@mystmargarets.com":mailto:pr
 Limited spaces for stalls are still available but please act quick to avoid disappointment.
 
 Earlier on the same day it's the Turks Head 10k Fun Run, so join in the fun of both events and let's make St Margarets the place to be!
+
+
+
+
+
+{% include comments.html %}

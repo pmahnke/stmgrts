@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon de Sables&#58; Basic facts"
 permalink: /archives/2009/06/the_marathon_de_sables_basic_facts.html
+commentfile: 2009-06-12-the_marathon_de_sables_basic_facts
 category: around_town
 date: 2009-06-12 09:59:32
 
@@ -22,3 +23,9 @@ So here's to my next long run...
 I'll cover each particular training phase, strategies to cope with long runs, eating on the run and other key tips over the next few weeks. I will be doing this for 2 charities (F.R.O.D.O. and Against Malaria) as it will keep me going in the toughest moments both during training and in the race. If you want to keep up with my training then visit "www.run.uk.net/training diary":http://www.run.uk.net/trainingdiary.aspx
 
 If you want to get fit for summer, why not try early morning bootcamps? The June bootcamp is in full swing, and the July camps starts on the 29<sup>th</sup> June. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.
+
+
+
+
+
+{% include comments.html %}

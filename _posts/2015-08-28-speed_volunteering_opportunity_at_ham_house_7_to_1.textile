@@ -2,6 +2,7 @@
 layout: post
 title: "Speed Volunteering Opportunity at Ham House - 7 to 11 September 2015"
 permalink: /archives/2015/08/speed_volunteering_opportunity_at_ham_house_7_to_1.html
+commentfile: 2015-08-28-speed_volunteering_opportunity_at_ham_house_7_to_1
 category: around_town
 date: 2015-08-28 18:45:05
 
@@ -33,3 +34,7 @@ h4. More Information
 
 * Isabelle Taylor - "Isabelle.Taylor@nationaltrust.org.uk":mailto:Isabelle.Taylor@nationaltrust.org.uk; 07912 179456
 * Victoria Rouse - "Victoria.Rouse@nationaltrust.org.uk":mailto:Victoria.Rouse@nationaltrust.org.uk; 020 8439 8247
+
+
+
+{% include comments.html %}

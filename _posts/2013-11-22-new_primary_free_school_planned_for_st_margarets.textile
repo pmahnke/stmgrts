@@ -2,6 +2,7 @@
 layout: post
 title: "New Primary Free School Planned for St Margarets"
 permalink: /archives/2013/11/new_primary_free_school_planned_for_st_margarets.html
+commentfile: 2013-11-22-new_primary_free_school_planned_for_st_margarets
 category: news
 date: 2013-11-22 21:01:50
 
@@ -16,3 +17,9 @@ We intend to apply to the Department for Education in January 2014 and in order 
 We're going to be out and about in Richmond over the next few weeks talking to people about our proposed school. If you see us, please stop for a chat, take a leaflet and tell all your friends!
 
 <cite>-- from the Richmond Bridge Primary Team</cite>
+
+
+
+
+
+{% include comments.html %}

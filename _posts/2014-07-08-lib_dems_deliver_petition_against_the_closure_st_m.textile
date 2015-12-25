@@ -2,6 +2,7 @@
 layout: post
 title: "Lib Dems Deliver Petition Against the Closure St Margarets Footbridge"
 permalink: /archives/2014/07/lib_dems_deliver_petition_against_the_closure_st_m.html
+commentfile: 2014-07-08-lib_dems_deliver_petition_against_the_closure_st_m
 category: news
 date: 2014-07-08 10:11:45
 
@@ -23,3 +24,7 @@ bq.. "The people of St Margarets and North Twickenham have spoken.  Over 600 loc
 
 
 bq. "TfL must not continue to act with the arrogance and disdain to local concerns that they have to date.  The strength of opinion is plain to see and TfL need to accept they got this one wrong."
+
+
+
+{% include comments.html %}

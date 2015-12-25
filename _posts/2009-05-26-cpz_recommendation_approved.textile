@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Recommendation Approved"
 permalink: /archives/2009/05/cpz_recommendation_approved.html
+commentfile: 2009-05-26-cpz_recommendation_approved
 category: news
 date: 2009-05-26 10:12:15
 
@@ -14,3 +15,8 @@ bq. "On 20<sup>th</sup> May the Council's Transport Consultative Group which con
 The ward councillors will send a street letter to Godstone and Kenley to clarify and dispel doubts.
 
 <cite>-- from Christopher Squire</cite>
+
+
+
+
+{% include comments.html %}

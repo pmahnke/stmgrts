@@ -2,6 +2,7 @@
 layout: post
 title: "Alisa Tavern's Application Rejected"
 permalink: /archives/2005/08/alisa_taverns_a.html
+commentfile: 2005-08-15-alisa_taverns_a
 category: news
 date: 2005-08-15 22:30:36
 
@@ -23,3 +24,8 @@ p>. -- from Trevor Whittall
 
 
 p. If you want to make representations on this subject, then write to "licensing@richmond.gov.uk":mailto:licensing@richmond.gov.uk.  Also,  Trevor Whittall ("trevor.whittall@kcl.ac.uk":mailto:trevor.whittall@kcl.ac.uk) is prepared to help residents with any issues.
+
+
+
+
+{% include comments.html %}

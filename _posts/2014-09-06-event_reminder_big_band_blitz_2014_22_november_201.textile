@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Big Band Blitz 2014 - 22 November 2014"
 permalink: /archives/2014/09/event_reminder_big_band_blitz_2014_22_november_201.html
+commentfile: 2014-09-06-event_reminder_big_band_blitz_2014_22_november_201
 category: around_town
 date: 2014-09-06 08:07:05
 excerpt: |
@@ -31,3 +32,9 @@ h4. More Information
 ** Post Aspects Productions, c/o Executive Mortgages, First Floor, 6 Parkside, Teddington, TW11 OAA. Cheques payable to Aspects Productions (please include SAE for return of tickets)
 ** Credit Card Bookings: Ticketweb: 08444 771 000 ("www.ticketweb.co.uk":http://www.ticketweb.co.uk)
 * General Enquiries: 020 8973 3605 / 07808 156 797
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Candidate Profile 2015&#58; Vince Cable"
 permalink: /archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
+commentfile: 2015-04-28-twickenham_candidate_profile_2015_vince_cable
 category: news
 date: 2015-04-28 21:34:36
 excerpt: |
@@ -102,3 +103,7 @@ A good authentic Goan curry (the speciality of my late wife Olympia)
 h3. What is your favourite place to take a holiday?
 
 Remote Britain:  mountains and coastlines
+
+
+
+{% include comments.html %}

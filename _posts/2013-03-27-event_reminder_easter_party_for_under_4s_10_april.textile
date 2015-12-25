@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Easter Party for Under 4s - 10 April 2013"
 permalink: /archives/2013/03/event_reminder_easter_party_for_under_4s_10_april.html
+commentfile: 2013-03-27-event_reminder_easter_party_for_under_4s_10_april
 category: around_town
 date: 2013-03-27 21:05:39
 
@@ -31,3 +32,6 @@ h4. More Information
 * For more details please contact Rachel McLean on email "rachel@forsaintyssake.com":mailto:rachel@forsaintyssake.com or tel. 07796 922 321.
 
 _ All the money raised will go to maintaining For Sanity's Sake, which is a not-for-profit, voluntary run Social Enterprise._
+
+
+{% include comments.html %}

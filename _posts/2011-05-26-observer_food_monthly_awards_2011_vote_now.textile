@@ -2,6 +2,7 @@
 layout: post
 title: "Observer Food Monthly Awards 2011 - Vote now!"
 permalink: /archives/2011/05/observer_food_monthly_awards_2011_vote_now.html
+commentfile: 2011-05-26-observer_food_monthly_awards_2011_vote_now
 category: news
 date: 2011-05-26 22:46:40
 excerpt: |
@@ -49,3 +50,7 @@ You too can make your own bid for a slice of red carpet glory in the categories 
 Full details can be found "on the Guardian website":http://www.guardian.co.uk/observer-food-monthly-awards, go straight "to voting":http://www.easyanswer.net/observer/, or check out what's up for grabs in the "prize draw":http://www.guardian.co.uk/observer-food-monthly-awards/2011-prizes. Voting and readers entries close June 24<sup>th</sup>. Please note that some awards are determined directly by your vote, for others your votes will be used to form a shortlist from which the expert panel will decide winners - details are on the website.
 
 Can we make it a clean sweep for St Margarets?
+
+
+
+{% include comments.html %}

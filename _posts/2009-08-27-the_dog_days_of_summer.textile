@@ -2,6 +2,7 @@
 layout: post
 title: "The Dog Days of Summer"
 permalink: /archives/2009/08/the_dog_days_of_summer.html
+commentfile: 2009-08-27-the_dog_days_of_summer
 category: around_town
 date: 2009-08-27 21:43:55
 excerpt: |
@@ -67,3 +68,7 @@ bq. "Dog Days bright and clear / indicate a happy year. / But when accompanied b
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

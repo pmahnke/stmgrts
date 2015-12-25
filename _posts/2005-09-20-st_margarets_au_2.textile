@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Autumn Event &#58; Dog Show"
 permalink: /archives/2005/09/st_margarets_au_2.html
+commentfile: 2005-09-20-st_margarets_au_2
 category: around_town
 date: 2005-09-20 15:53:07
 
@@ -24,3 +25,7 @@ There was a mystery contestant who hasn't been seen for a few days. Patch was ca
 <a href="//stmgrts.org.uk/assets/images/2005/patch.jpg"><img src="//stmgrts.org.uk/assets/images/2005/patch-thumb.jpg" width="150" height="112" alt="Good ol' Patch" class="photo right" /></a>
 
 We hope you enjoyed the Dog Show as much as we did. The St Margarets Community Website is proud to sponsor such a glamorous, high profile event. If you have any ideas for future events or would like to write for this prestigious organ please contact us.
+
+
+
+{% include comments.html %}

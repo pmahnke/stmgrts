@@ -2,6 +2,7 @@
 layout: post
 title: "Some Stuff That You Might Not Know About Christmas"
 permalink: /archives/2014/12/some_stuff_that_you_might_not_know_about_christmas.html
+commentfile: 2014-12-05-some_stuff_that_you_might_not_know_about_christmas
 category: around_town
 date: 2014-12-05 09:09:11
 excerpt: |
@@ -90,3 +91,7 @@ bq. "Christmas!" Is there any other word in our whole English vocabulary that ca
 ??"CHRISTMAS AND CHRISTMAS LORE" T.G Crippen pub 1923??
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

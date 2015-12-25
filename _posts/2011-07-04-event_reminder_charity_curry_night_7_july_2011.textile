@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Curry Night - 7 July 2011"
 permalink: /archives/2011/07/event_reminder_charity_curry_night_7_july_2011.html
+commentfile: 2011-07-04-event_reminder_charity_curry_night_7_july_2011
 category: around_town
 date: 2011-07-04 10:55:36
 
@@ -16,3 +17,9 @@ h4. Book in advance
 * 020 8891 2221
 * "adams.appeal@virgin.net":mailto:adams.appeal@virgin.net
 * "www.davidadamsleukaemiaappeal.org":http://www.davidadamsleukaemiaappeal.org
+
+
+
+
+
+{% include comments.html %}

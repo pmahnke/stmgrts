@@ -2,6 +2,7 @@
 layout: post
 title: "Meeting Notes&#58; Police Liaison Group Public Meeting"
 permalink: /archives/2006/11/meeting_notes_p_1.html
+commentfile: 2006-11-19-meeting_notes_p_1
 category: news
 date: 2006-11-19 21:24:15
 
@@ -69,3 +70,6 @@ h3. Policing priorities
 
 No change since the meeting on 19 July: 
 anti-social behaviour; burglary; motor vehicle crime; criminal damage.
+
+
+{% include comments.html %}

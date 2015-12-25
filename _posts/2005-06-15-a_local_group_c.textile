@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco, Stop Pushing Around St Margarets"
 permalink: /archives/2005/06/a_local_group_c.html
+commentfile: 2005-06-15-a_local_group_c
 category: news
 date: 2005-06-15 15:44:12
 
@@ -64,3 +65,6 @@ p. Second, we need to keep a record of what is going on outside the shop.  So th
 p. To SMS the blog, all people have to do is text STM and a message to 07900435322 (i.e. STM there is a large Tesco lorry reg number XXX XXX parked for 1 hour in the loading bay).
 
 p. Remember, Tesco is fighting a game of attrition.  If they keep flouting the rules, they will get their own way.  Maybe the campaigners will give up.  They already have the Council doing their bidding, and will no doubt keep playing the "We're a popular local resource - We have to inconvenience some residents" card.  Bear in mind they installed the ATM (illegally), and used that argument to get retrospective planning permission ( _Note: the Post Office had been told previously an ATM would be out of character with the village, and that any application would be refused_ ).
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Ever Wanted to be Fitter?"
 permalink: /archives/2009/01/ever_wanted_to_be_fitter_1.html
+commentfile: 2009-01-20-ever_wanted_to_be_fitter_1
 category: around_town
 date: 2009-01-20 21:21:07
 excerpt: |
@@ -31,3 +32,9 @@ For further details, contact Julia:
 * 07758 570 656
 * "www.AHM-Go.com":http://www.AHM-Go.com/
 * "info@AHM-Go.com":mailto:info@AHM-Go.com
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Lib Dems Sweep St Margarets and Twickenham Riverside"
 permalink: /archives/2006/05/lib_dems_sweep.html
+commentfile: 2006-05-05-lib_dems_sweep
 category: news
 date: 2006-05-05 06:48:29
 excerpt: |
@@ -41,3 +42,7 @@ h4. Twickenham Riverside
 |John Grant|_Labour|159|
 |Sheila Nixon|_Labour|141|
 |Andrew James Constantine|_UKIP|106|
+
+
+
+{% include comments.html %}

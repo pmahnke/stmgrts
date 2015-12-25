@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Picnic on the Lilian of Stockholm"
 permalink: /archives/2009/03/event_reminder_art_picnic_on_the_lilian_of_stockho.html
+commentfile: 2009-03-03-event_reminder_art_picnic_on_the_lilian_of_stockho
 category: around_town
 date: 2009-03-03 22:10:07
 
@@ -15,3 +16,9 @@ Maximum 20 people - so book early!
 Everyone welcome - Beginners too!
 
 "More details":http://stmgrts.org.uk/event/meeting/200705142064
+
+
+
+
+
+{% include comments.html %}

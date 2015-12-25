@@ -2,6 +2,7 @@
 layout: post
 title: "Bounty on Graffiti Vandals"
 permalink: /archives/2005/04/bounty_on_graff_1.html
+commentfile: 2005-04-15-bounty_on_graff_1
 category: news
 date: 2005-04-15 09:59:05
 
@@ -18,3 +19,8 @@ bq. We want the public to help us beat this plague, be our eyes and ears. If peo
 p>. -- _Cllr Tony Arbour_
 
 p. Please help stop the defacement and disfigurement of our streets and public places!
+
+
+
+
+{% include comments.html %}

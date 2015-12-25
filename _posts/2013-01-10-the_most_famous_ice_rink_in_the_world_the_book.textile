@@ -2,6 +2,7 @@
 layout: post
 title: "The Most Famous Ice Rink in the World - The Book"
 permalink: /archives/2013/01/the_most_famous_ice_rink_in_the_world_the_book.html
+commentfile: 2013-01-10-the_most_famous_ice_rink_in_the_world_the_book
 category: news
 date: 2013-01-10 21:06:10
 excerpt: |
@@ -30,3 +31,7 @@ or post to 29 Popes Avenue, Twickenham TW2 5TP
 
 * "www.twickenhamalive.com/rinkbook.html":http://www.twickenhamalive.com/rinkbook.html
 * "Example Book Entry":http://www.twickenhamalive.com/PDF/Richmond%20Rink%20-%20David%20King%201.pdf [pdf]
+
+
+
+{% include comments.html %}

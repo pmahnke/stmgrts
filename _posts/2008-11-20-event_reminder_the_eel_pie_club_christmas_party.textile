@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Eel Pie Club Christmas Party"
 permalink: /archives/2008/11/event_reminder_the_eel_pie_club_christmas_party.html
+commentfile: 2008-11-20-event_reminder_the_eel_pie_club_christmas_party
 category: around_town
 date: 2008-11-20 11:03:29
 
@@ -30,3 +31,7 @@ Membership to the Eel Pie Club is from &pound;15 annually. To become a Member, g
 * Website: "www.eelpieclub.com":http://www.eelpieclub.com/
 * Phone: 07732 322610
 * Tickets and Membership at the door, or in advance in person or by post (include sae) from The Eel Pie Club, c/o Executive Mortgages, 44 London Road, Twickenham, TW1 3RR
+
+
+
+{% include comments.html %}

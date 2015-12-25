@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Orleans House Gallery Luxury Christmas Fair - 6 December 2013"
 permalink: /archives/2013/11/event_reminder_orleans_house_gallery_luxury_christ.html
+commentfile: 2013-11-26-event_reminder_orleans_house_gallery_luxury_christ
 category: around_town
 date: 2013-11-26 23:00:24
 excerpt: |
@@ -27,3 +28,7 @@ This year the Orleans House Christmas Shopping Fair has an added touch of luxury
 * Contemporary jewellery by *Elizabeth Terzza* is inspired by little botanical treasures found whilst walking through woodlands and forests. Forever collecting and taking note of her rural surroundings, Elizabeth is drawn to the silhouettes and simplicity in nature; the smooth lines in leaves and subtle textures of tree bark.
 
 _Free Admission_
+
+
+
+{% include comments.html %}

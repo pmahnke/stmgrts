@@ -2,6 +2,7 @@
 layout: post
 title: "TED Talks"
 permalink: /archives/2011/07/ted_talks.html
+commentfile: 2011-07-29-ted_talks
 category: around_town
 date: 2011-07-29 09:01:12
 excerpt: |
@@ -22,3 +23,7 @@ Here are some other great talks:
 * "Dan Ariely on our buggy moral code":http://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code.html
 * "Peter Reinhart on bread":http://www.ted.com/talks/lang/eng/peter_reinhart_on_bread.html
 * "Jill Bolte Taylor's stroke of insight":http://www.ted.com/talks/lang/eng/jill_bolte_taylor_s_powerful_stroke_of_insight.html
+
+
+
+{% include comments.html %}

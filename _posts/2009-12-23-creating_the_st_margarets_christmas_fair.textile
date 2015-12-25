@@ -2,6 +2,7 @@
 layout: post
 title: "Creating the St Margarets Christmas Fair"
 permalink: /archives/2009/12/creating_the_st_margarets_christmas_fair.html
+commentfile: 2009-12-23-creating_the_st_margarets_christmas_fair
 category: around_town
 date: 2009-12-23 11:31:31
 excerpt: |
@@ -43,3 +44,8 @@ So what's next _St Margarets' Got Talent?_ or _I'm a Celebrity Let Me Live Here?
 ??Mary - local mum proud to be part of St Margarets??
  
 <em>For a full review of the Fair with photos and videos from the stage show please go to "www.mystmargarets.com":http://www.mystmargarets.com/</em>
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Gloriana Cabinet Meeting - 9 July 2014"
 permalink: /archives/2014/07/gloriana_cabinet_meeting_9_july_2014.html
+commentfile: 2014-07-08-gloriana_cabinet_meeting_9_july_2014
 category: around_town
 date: 2014-07-08 12:00:52
 
@@ -26,3 +27,7 @@ To speak at the meeting, residents should register with the Cabinet Secretary ("
 * "Watch the meeting online":http://www.richmond.public-i.tv/core/portal/home
 
 <cite>-- from a "Richmond Council press release":http://www.richmond.gov.uk/home/council/news/older_news/july_2014/cabinet_meeting_to_be_held_in_clarendon_hall.htm - 7 July 2014</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Scrummy Mummies Healthy Cooking Club"
 permalink: /archives/2014/10/scrummy_mummies_healthy_cooking_club.html
+commentfile: 2014-10-16-scrummy_mummies_healthy_cooking_club
 category: around_town
 date: 2014-10-16 22:49:07
 
@@ -14,3 +15,8 @@ Fear not!  By the time you've perused these ideas for half term fun, not only wi
 _So, now that's settled, what are you going to tackle first?_
 
 * "Get all the details at For Sanity's Sake":http://www.forsanityssake.com/profiles/blogs/craft-cooking-and-other-fun-ideas-for-half-term-by-scrummy-mummie
+
+
+
+
+{% include comments.html %}

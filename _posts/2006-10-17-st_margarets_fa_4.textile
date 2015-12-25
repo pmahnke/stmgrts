@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair Race Night Success"
 permalink: /archives/2006/10/st_margarets_fa_4.html
+commentfile: 2006-10-17-st_margarets_fa_4
 category: news
 date: 2006-10-17 21:14:28
 
@@ -16,3 +17,9 @@ Nearly &pound;900 was raised for the Committee's annual senior citizens Christma
 The race event was sponsored by Real Ale Ltd, where profits from the bar went towards the charity and the cheese was generously provided at a reduced price by The Cheese Shop in Teddington.
 
 Zeph King, from the event, said "a big thank you to all those who came to the event and supported us."
+
+
+
+
+
+{% include comments.html %}

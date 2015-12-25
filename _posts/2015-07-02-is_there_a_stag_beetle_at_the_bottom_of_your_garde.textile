@@ -2,6 +2,7 @@
 layout: post
 title: "Is There a Stag Beetle at the Bottom of Your Garden?"
 permalink: /archives/2015/07/is_there_a_stag_beetle_at_the_bottom_of_your_garde.html
+commentfile: 2015-07-02-is_there_a_stag_beetle_at_the_bottom_of_your_garde
 category: around_town
 date: 2015-07-02 23:15:25
 excerpt: |
@@ -104,3 +105,7 @@ h4. Stag Beetles males fighting...
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

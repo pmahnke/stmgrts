@@ -2,6 +2,7 @@
 layout: post
 title: "Hat-trick Radio 2 Award Winner at Twickfolk"
 permalink: /archives/2007/09/hattrick_radio_2_award_winner_at_twickfolk.html
+commentfile: 2007-09-10-hattrick_radio_2_award_winner_at_twickfolk
 category: around_town
 date: 2007-09-10 20:44:34
 
@@ -28,3 +29,7 @@ Colin Hall of Get Rhythm and What's On in London commented "John Tams and Barry 
 Both Derbyshire born, John and Barry live in neighbouring communities, choosing their offers carefully to retain the sense of occasion that attends their performances.
 
 "We're both as enthusiastic now as ever we've been, we're still pushing the margins, still keen and ... still here." - they said ...
+
+
+
+{% include comments.html %}

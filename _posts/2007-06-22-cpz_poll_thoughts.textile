@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Poll Thoughts"
 permalink: /archives/2007/06/cpz_poll_thoughts.html
+commentfile: 2007-06-22-cpz_poll_thoughts
 category: editorial
 date: 2007-06-22 05:28:00
 
@@ -15,3 +16,8 @@ While some might have predicted this, we did not.  We assumed that most people  
 
 Where you surprised?
   
+
+
+
+
+{% include comments.html %}

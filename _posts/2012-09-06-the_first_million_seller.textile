@@ -2,6 +2,7 @@
 layout: post
 title: "The First Million Seller"
 permalink: /archives/2012/09/the_first_million_seller.html
+commentfile: 2012-09-06-the_first_million_seller
 category: around_town
 date: 2012-09-06 21:53:27
 excerpt: |
@@ -138,3 +139,6 @@ fn1. These early awards were made by RCA, the company that owned the recordings.
 * Gold Records for 500,000 records shipped
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

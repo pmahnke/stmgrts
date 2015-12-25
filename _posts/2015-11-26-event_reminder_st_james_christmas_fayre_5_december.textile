@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St James Christmas Fayre - 5 December 2015"
 permalink: /archives/2015/11/event_reminder_st_james_christmas_fayre_5_december.html
+commentfile: 2015-11-26-event_reminder_st_james_christmas_fayre_5_december
 category: around_town
 date: 2015-11-26 08:12:36
 excerpt: |
@@ -22,3 +23,9 @@ h4. More Information
 * Entrance &pound;2 for an adult, children go free
 * Tickets to be sold on the door
 * 260 Stanley Road, Twickenham
+
+
+
+
+
+{% include comments.html %}

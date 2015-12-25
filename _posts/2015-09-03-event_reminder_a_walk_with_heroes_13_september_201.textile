@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; A Walk with Heroes - 13 September 2015"
 permalink: /archives/2015/09/event_reminder_a_walk_with_heroes_13_september_201.html
+commentfile: 2015-09-03-event_reminder_a_walk_with_heroes_13_september_201
 category: around_town
 date: 2015-09-03 22:49:56
 excerpt: |
@@ -30,3 +31,6 @@ Isleworth Cemetery is a quiet and reflective place but it is not a gloomy one. I
 <em>ISLEWORTH CEMETERY WALK - 11.00am Sunday 13<sup>th</sup> September from the main lodge at North Gate.</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

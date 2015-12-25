@@ -2,6 +2,7 @@
 layout: post
 title: "Give Us Yer Money! - It's Hocktide!"
 permalink: /archives/2010/04/give_us_yer_money_its_hocktide.html
+commentfile: 2010-04-15-give_us_yer_money_its_hocktide
 category: around_town
 date: 2010-04-15 22:00:23
 excerpt: |
@@ -66,3 +67,6 @@ Chugging is a portmanteau neologism referring to the practice of so-called 'char
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Hall with Many Names"
 permalink: /archives/2011/06/the_hall_with_many_names.html
+commentfile: 2011-06-23-the_hall_with_many_names
 category: around_town
 date: 2011-06-23 09:05:09
 excerpt: |
@@ -88,3 +89,7 @@ It you would like to find out more about the "Smarter St. Stephen's Campaign" or
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

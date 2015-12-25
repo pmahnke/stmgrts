@@ -2,6 +2,7 @@
 layout: post
 title: "Notes on CPZ"
 permalink: /archives/2007/12/notes_on_cpz.html
+commentfile: 2007-12-10-notes_on_cpz
 category: editorial
 date: 2007-12-10 22:55:53
 
@@ -16,3 +17,11 @@ The "editorial by Kim Thomas":http://www.stmgrts.org.uk/archives/2007/12/cpz_upd
 ** To carry out a review six months after implementation, should a zone be introduced, and the review to include those areas adjacent to the zone.
 # If you look at the streets currently under consideration, the voting there was closer to 48% in support of the CPZ, it was 65% against if you looked at the entire area in the initial survey.
 # Prior to receiving Kim's editorial this site had asked our local councillors, including Cllr Trigg for more information on the status of the CPZ and received only the most basic information and are still waiting for a more detailed and formal set of information to publish an article.
+
+
+
+
+
+
+
+{% include comments.html %}

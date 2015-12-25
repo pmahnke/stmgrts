@@ -2,6 +2,7 @@
 layout: post
 title: "Broomfield House School takes over Sunflower Montessori Nursery"
 permalink: /archives/2014/05/broomfield_house_school_takes_over_sunflower_monte.html
+commentfile: 2014-05-08-broomfield_house_school_takes_over_sunflower_monte
 category: news
 date: 2014-05-08 21:39:01
 
@@ -23,3 +24,7 @@ Headteacher and owner of Broomfield House School, Norton York, comments:
 bq. "Sunflower is a great school already, and we look forward to helping build on its success and to making the experience our Sunflower pupils have even more special. Sunflower pupils will also get priority on places when applying to Broomfield and we look forward to building the links between our three schools even closer."
 
 Sunflower offers places to children from rising 3's up to 5, at reception age. Children can come 5 mornings a week, and for afternoons Monday to Friday as well. There are also holiday clubs planned for Sunflower pupils as well.
+
+
+
+{% include comments.html %}

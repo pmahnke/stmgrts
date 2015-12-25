@@ -2,6 +2,7 @@
 layout: post
 title: "July 27th - Remember the Flower! Remember the City!"
 permalink: /archives/2009/07/july_27th_remember_the_flower_remember_the_city.html
+commentfile: 2009-07-24-july_27th_remember_the_flower_remember_the_city
 category: news
 date: 2009-07-24 13:00:19
 excerpt: |
@@ -93,3 +94,7 @@ Keep throughout the ages London Pride.
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

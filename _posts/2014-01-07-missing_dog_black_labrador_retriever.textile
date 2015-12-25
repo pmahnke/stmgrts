@@ -2,6 +2,7 @@
 layout: post
 title: "Missing Dog&#58; Black Labrador Retriever"
 permalink: /archives/2014/01/missing_dog_black_labrador_retriever.html
+commentfile: 2014-01-07-missing_dog_black_labrador_retriever
 category: around_town
 date: 2014-01-07 08:45:57
 excerpt: |
@@ -25,3 +26,8 @@ The owners are constantly searching and contacting all the rescue centres / vets
 There is a substantial cash reward for Lily's safe return.
 
 Please contact 07775860964 or 07775860964 if you have any information.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Children's Art Parties at Orleans House Gallery"
 permalink: /archives/2015/09/childrens_art_parties_at_orleans_house_gallery.html
+commentfile: 2015-09-03-childrens_art_parties_at_orleans_house_gallery
 category: around_town
 date: 2015-09-03 22:25:24
 excerpt: |
@@ -20,3 +21,14 @@ Enjoy your child's special celebration at Orleans House Gallery in a location su
 For all our imaginative parties you and your child can choose one of our fun themes and parties are adapted to suit babies to 12 years.
 
 Please contact "heather.whitt@richmond.gov.uk":mailto:heather.whitt@richmond.gov.uk for booking and further information.
+
+
+
+
+
+
+
+
+
+
+{% include comments.html %}

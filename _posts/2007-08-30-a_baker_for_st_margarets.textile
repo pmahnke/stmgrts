@@ -2,6 +2,7 @@
 layout: post
 title: "A Baker for St Margarets?"
 permalink: /archives/2007/08/a_baker_for_st_margarets.html
+commentfile: 2007-08-30-a_baker_for_st_margarets
 category: news
 date: 2007-08-30 22:01:38
 
@@ -18,3 +19,9 @@ L'Amandine will occupy the ground floor shop premises and the front one-third of
 We will continue to provide you with updates as matters progress.  We are delighted to have secured L'Amindine as a tenant and I believe that this letting goes a long way to meeting the local residents requirements."
  
 p. <cite> -- from Nick Jones, Director, Queensgate Finance</cite>
+
+
+
+
+
+{% include comments.html %}

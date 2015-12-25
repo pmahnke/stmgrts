@@ -2,6 +2,7 @@
 layout: post
 title: "The D-Day Dodgers"
 permalink: /archives/2014/06/the_dday_dodgers.html
+commentfile: 2014-06-12-the_dday_dodgers
 category: around_town
 date: 2014-06-12 23:21:58
 excerpt: |
@@ -69,3 +70,9 @@ bq. "Do not rejoice in his defeat, you men. For though the world has stood up an
 ??BERTHOLT BRECHT 'The Resistible Rise of Arturo Ui' 1941??
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

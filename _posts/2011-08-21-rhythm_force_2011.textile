@@ -2,6 +2,7 @@
 layout: post
 title: "Rhythm Force 2011"
 permalink: /archives/2011/08/rhythm_force_2011.html
+commentfile: 2011-08-21-rhythm_force_2011
 category: around_town
 date: 2011-08-21 15:44:45
 excerpt: |
@@ -59,3 +60,7 @@ h4. Details
 * Large fair priced bar and food on site with profits to local and military charities
 * Tickets £13 each - limited to 1000 each night (Some tickets subject to booking fees and availability)
 * For information or to book tickets for Rhythm Force 2011 visit: "www.twickenhamalive.com":http://www.twickenhamalive.com  or email: "info@twickenhamalive.com":mailto:info@twickenhamalive.com
+
+
+
+{% include comments.html %}

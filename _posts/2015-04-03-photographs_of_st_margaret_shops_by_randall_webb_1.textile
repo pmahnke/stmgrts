@@ -2,6 +2,7 @@
 layout: post
 title: "Photographs of St Margaret Shops by Randall Webb - 1976"
 permalink: /archives/2015/04/photographs_of_st_margaret_shops_by_randall_webb_1.html
+commentfile: 2015-04-03-photographs_of_st_margaret_shops_by_randall_webb_1
 category: around_town
 date: 2015-04-03 12:10:59
 excerpt: |
@@ -38,3 +39,8 @@ All the photos were taken in 1976 and give an interesting look back into our not
 </div>
 
 Thank you to Howard Webb for providing these photos.  If you have interesting photos of St Margarets, past or present, please email them to "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk
+
+
+
+
+{% include comments.html %}

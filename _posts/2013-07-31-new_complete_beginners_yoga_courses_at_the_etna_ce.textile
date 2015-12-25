@@ -2,6 +2,7 @@
 layout: post
 title: "New Complete Beginners Yoga Courses at the ETNA Centre - September and November 2013"
 permalink: /archives/2013/07/new_complete_beginners_yoga_courses_at_the_etna_ce.html
+commentfile: 2013-07-31-new_complete_beginners_yoga_courses_at_the_etna_ce
 category: around_town
 date: 2013-07-31 21:36:53
 
@@ -32,3 +33,7 @@ h4. More Information
 * Email: "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk
 
 _Sammie Mason is a qualified teacher with the British Wheel of Yoga_
+
+
+
+{% include comments.html %}

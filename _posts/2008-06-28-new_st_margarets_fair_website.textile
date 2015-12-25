@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair Now Has a Permanent Web Home!"
 permalink: /archives/2008/06/new_st_margarets_fair_website.html
+commentfile: 2008-06-28-new_st_margarets_fair_website
 category: news
 date: 2008-06-28 08:26:58
 
@@ -24,3 +25,9 @@ An added attraction this year comes from Twickenham Rowing Club with their dry l
 Any finally to really celebrate 30 years of the Fair we've had some limited edition high quality T-shirts especially produced.  There's just 200 of them and they will be available 'on the day' at the Information Tent for &pound;7 each for all sizes.  You can also buy them from the 1st of July at Cutters 28 Crown Road and Real Ale Limited 371 Richmond Road. All profits as usual go to the supported schools and charities.
 
 For all the other Fair information and news you'll just need to follow this link "www.stmargaretsfair.org":http://www.stmargaretsfair.org/  Starting next year you'll also be able to book your stall online as well as over the phone.
+
+
+
+
+
+{% include comments.html %}

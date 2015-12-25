@@ -2,6 +2,7 @@
 layout: post
 title: "Talk&#58; Village Treasures of Hounslow Borough - 23 May 2014"
 permalink: /archives/2014/05/talk_village_treasures_of_hounslow_borough_23_may.html
+commentfile: 2014-05-17-talk_village_treasures_of_hounslow_borough_23_may
 category: around_town
 date: 2014-05-17 14:27:09
 ---
@@ -21,3 +22,6 @@ h4. More Information
 * Chiswick Town Hall, Heathfield Terrace, W4 4JN
 * Doors open at 7.15 for 8pm.
 * Entry: members £1.50, non-members £2.
+
+
+{% include comments.html %}

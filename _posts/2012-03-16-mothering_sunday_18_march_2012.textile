@@ -2,6 +2,7 @@
 layout: post
 title: "Mothering Sunday - 18 March 2012"
 permalink: /archives/2012/03/mothering_sunday_18_march_2012.html
+commentfile: 2012-03-16-mothering_sunday_18_march_2012
 category: around_town
 date: 2012-03-16 10:20:44
 excerpt: |
@@ -96,3 +97,7 @@ A Mothering Sunday Song on YouTube written by Richard Durrant and performed by R
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

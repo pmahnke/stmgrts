@@ -2,6 +2,7 @@
 layout: post
 title: "Recycling Reminder"
 permalink: /archives/2007/01/recycling_remin.html
+commentfile: 2007-01-24-recycling_remin
 category: around_town
 date: 2007-01-24 08:19:33
 
@@ -17,3 +18,11 @@ bq. "Just to remind local residents that not only can you recycle your cans bott
 
 * Richmond Council has a list of "all recycling sites in the borough":http://www.richmond.gov.uk/home/environment/rubbish_waste_and_recycling/recycling_centres/recycling_sites_by_area.htm?area=22 with a list of what they collect
 * The Sainsbury on Manor Road and the A316 also takes plastic bottles.</em>
+
+
+
+
+
+
+
+{% include comments.html %}

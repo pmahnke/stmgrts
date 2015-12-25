@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Festival 2009"
 permalink: /archives/2009/05/twickenham_festival_2009.html
+commentfile: 2009-05-26-twickenham_festival_2009
 category: around_town
 date: 2009-05-26 21:42:16
 excerpt: |
@@ -41,3 +42,7 @@ Twickenham's fabulous Festival Fun Day on Twickenham Green starts at 12pm on the
 Throughout the Festival, the 2009 chosen charity, the United Reformed Church will be selling raffle tickets for this year's Festival Raffle.  Buy a ticket or two and you could be in with the chance of winning a holiday in Italy for four.
 
 All details are listed on "www.twickenhamtown.co.uk":http://www.twickenhamtown.co.uk/ and within the programme available through Twickenham shops and businesses, local libraries and at Tourist Information Centres.
+
+
+
+{% include comments.html %}

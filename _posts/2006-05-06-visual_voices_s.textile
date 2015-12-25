@@ -2,6 +2,7 @@
 layout: post
 title: "'Visual Voices' Show Features Local Artist"
 permalink: /archives/2006/05/visual_voices_s.html
+commentfile: 2006-05-06-visual_voices_s
 category: around_town
 date: 2006-05-06 14:45:33
 excerpt: |
@@ -20,3 +21,7 @@ Caroline lives half the year in France and her work reflects the journeying betw
 
 
 <img alt="Sue Waters, Child’s Shell Bathing Suit, Shells and Mastic, 46 x 24 19 cms" src="//stmgrts.org.uk/assets/images/2006/art_shell.jpg" width="200" height="300" class="photo" /></a>
+
+
+
+{% include comments.html %}

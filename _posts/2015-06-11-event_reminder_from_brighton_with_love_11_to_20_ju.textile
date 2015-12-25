@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; From Brighton with Love - 11 to 20 June 2015"
 permalink: /archives/2015/06/event_reminder_from_brighton_with_love_11_to_20_ju.html
+commentfile: 2015-06-11-event_reminder_from_brighton_with_love_11_to_20_ju
 category: around_town
 date: 2015-06-11 20:34:17
 excerpt: |
@@ -31,3 +32,10 @@ Artists include:
 * Mary Fellows - T-towels, retro and fun
 * White Ginger - stunning clothing with a classic feel
 * Nila Aye - original mugs and prints
+
+
+
+
+
+
+{% include comments.html %}

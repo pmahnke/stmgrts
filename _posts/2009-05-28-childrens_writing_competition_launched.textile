@@ -2,6 +2,7 @@
 layout: post
 title: "Children's Writing Competition Launched"
 permalink: /archives/2009/05/childrens_writing_competition_launched.html
+commentfile: 2009-05-28-childrens_writing_competition_launched
 category: news
 date: 2009-05-28 13:14:17
 
@@ -32,3 +33,6 @@ The closing date for the competition is : Monday 13 July 2009
 All entries should be addressed to : I HAVE A DREAM, St John the Baptist C of E Junior School, Lower Teddington Road, Hampton Wick, KT1 4HQ and arrive no later than 5pm on 13 July.
 
 "For rules of the competition and further information visit":http://www.st-john.richmond.sch.uk 
+
+
+{% include comments.html %}

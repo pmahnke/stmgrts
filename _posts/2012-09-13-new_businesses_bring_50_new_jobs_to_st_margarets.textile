@@ -2,6 +2,7 @@
 layout: post
 title: "New Businesses Bring 50 New Jobs to St Margarets"
 permalink: /archives/2012/09/new_businesses_bring_50_new_jobs_to_st_margarets.html
+commentfile: 2012-09-13-new_businesses_bring_50_new_jobs_to_st_margarets
 category: news
 date: 2012-09-13 21:38:05
 
@@ -35,3 +36,7 @@ bq.. "St Margarets boasts a unique high street bursting with independent special
 bq. "There are now no empty shops here, and very few areas are able to claim that. St Margarets is definitely leading the way in terms of new business, so it's quite a celebration to have nine new and refurbished businesses formally opened in one day. The great support from the Council is clear evidence that they are listening and reacting positively to resident's views as reflected in the All in One Survey which rated highly the importance of local shops. We've had great support from the Economic Development team at Richmond, generous funding from their Town Centre Opportunities fund, and further support from the Parking team and more recently the recycling team whose project sought to increase levels of recycling and reducing costs among businesses."
 
 -- from a St Margarets Traders Association press release
+
+
+
+{% include comments.html %}

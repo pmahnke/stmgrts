@@ -2,6 +2,7 @@
 layout: post
 title: "Help a Local Filmmaker Make His London Symphony"
 permalink: /archives/2014/09/help_a_local_filmmaker_make_his_london_symphony.html
+commentfile: 2014-09-11-help_a_local_filmmaker_make_his_london_symphony
 category: news
 date: 2014-09-11 20:12:35
 excerpt: |
@@ -62,3 +63,7 @@ h4. ABOUT THE FILMMAKERS
 * *Rahim Moledina* - Writer: An award winning filmmaker and writer, Rahim completed his Masters in Screenwriting at the London College of Communication in 2012 and currently works as a freelancer. His script Iqbal's Shoes was selected from more than 3000 scripts to be part of the BBC Writersroom scriptroom 2013. "www.101projects.org":http://www.101projects.org
 * *James McWilliam* - Composer: A composer and orchestral arranger, James has written music for 3 successful feature films, a number of high profile short films and TV shows for the BBC, Channel 4 and international network stations. As an orchestral arranger he has worked with some of the leading film composers including Eric Neveux, Gabriel Yared, Klaus Badelt, Gustavo Santaolalla and Patrick Doyle. "www.jamesmcwilliam.com":http://www.jamesmcwilliam.com
 * *Peter Harmer* - Cinematographer: A professional filmmaker and film tutor. His production company Stories specialises in community and youth-based filmmaking projects and helps outside organisations work successfully with the moving image. "www.storiesfilm.com":http://www.storiesfilm.com
+
+
+
+{% include comments.html %}

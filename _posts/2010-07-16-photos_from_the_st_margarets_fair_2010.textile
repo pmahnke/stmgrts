@@ -2,6 +2,7 @@
 layout: post
 title: "Photos from the St Margarets Fair 2010"
 permalink: /archives/2010/07/photos_from_the_st_margarets_fair_2010.html
+commentfile: 2010-07-16-photos_from_the_st_margarets_fair_2010
 category: around_town
 date: 2010-07-16 11:21:09
 
@@ -16,3 +17,8 @@ This year Martyn Day has taken some lovely photos. Please take a look at the "sl
 _Update_
 
 There are many more photos at the "St Margarets Fair Website":http://www.stmargaretsfair.org/photos2010/index.html as well.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "New Yoga Classes from Quest Fitness"
 permalink: /archives/2013/07/new_yoga_classes_from_quest_fitness.html
+commentfile: 2013-07-25-new_yoga_classes_from_quest_fitness
 category: around_town
 date: 2013-07-25 21:20:55
 
@@ -13,3 +14,9 @@ I have been practising yoga for 7 years, and am a certified British Wheel of Yog
 
 If you'd like to book to come to a class or find out more please contact me on "info@quest-fitness.co.uk":mailto:info@quest-fitness.co.uk or "cassieisherwood@hotmail.com":mailto:cassieisherwood@hotmail.com
 Summer Offer for July & August is &pound;9 per class or 4 classes for &pound;32.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Music of Bond&#58; James Bond - 9 October 2015"
 permalink: /archives/2015/08/event_reminder_the_music_of_bond_james_bond_9_octo.html
+commentfile: 2015-08-13-event_reminder_the_music_of_bond_james_bond_9_octo
 category: around_town
 date: 2015-08-13 17:39:09
 excerpt: |
@@ -28,3 +29,10 @@ h4. More Information
 *  To book Grand Tour tickets please call the Box Office on 020 7589 8212 quoting '20525'.
 * Queries to "friendship@royalalberthall.com":mailto:friendship@royalalberthall.com or visit
 "www.royalalberthall.com/tickets/events/2015/friendship-matinee":http://www.royalalberthall.com/tickets/events/2015/friendship-matinee/
+
+
+
+
+
+
+{% include comments.html %}

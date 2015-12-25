@@ -2,6 +2,7 @@
 layout: post
 title: "Planning Update&#58; Hostel Planned for Former Crown Road Surgery"
 permalink: /archives/2009/07/planning_update_hostel_planned_for_former_crown_ro.html
+commentfile: 2009-07-03-planning_update_hostel_planned_for_former_crown_ro
 category: news
 date: 2009-07-03 13:25:32
 
@@ -95,3 +96,6 @@ If anyone else has discussed the hostel development with the Council, I would ve
 *Link*
 
 * "The Council's documentation on this application":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=09/0703/COU
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Who blasts out a siren warning whenever a warden is coming?"
 permalink: /archives/2007/08/who_blasts_out_a_siren_warning_whenever_a_warden_i.html
+commentfile: 2007-08-01-who_blasts_out_a_siren_warning_whenever_a_warden_i
 category: around_town
 date: 2007-08-01 19:01:12
 
@@ -23,3 +24,9 @@ Then, as soon as the alarm was raised, he started playing a recording of a Secon
 Mr Herdman's early warning system gives customers a chance to move their cars before they are ticketed by the warden."
 
 p. <cite>-- "read the full article":http://www.thisislondon.co.uk/news/article-23406609-details/The%20trader%20who%20blasts%20out%20a%20siren%20warning%20whenever%20a%20warden%20is%20coming/article.do </cite>
+
+
+
+
+
+{% include comments.html %}

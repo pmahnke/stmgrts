@@ -2,6 +2,7 @@
 layout: post
 title: "Rock Around the Embargo - Part 2"
 permalink: /archives/2014/07/rock_around_the_embargo_part_2.html
+commentfile: 2014-07-03-rock_around_the_embargo_part_2
 category: around_town
 date: 2014-07-03 22:28:41
 excerpt: |
@@ -61,3 +62,7 @@ h4. The Who - talking about their generation
 <em>Note: For more information about this exciting period in British Pop Music read "British Rock Guitar - the first 50 years" by Mo Foster published by Northumbria Press. Twangtastic!</em>
 
 <em>Read part 1 of "Rock Around The Embargo":http://www.stmgrts.org.uk/archives/2014/06/rock_around_the_embargo_part_1.html</em>
+
+
+
+{% include comments.html %}

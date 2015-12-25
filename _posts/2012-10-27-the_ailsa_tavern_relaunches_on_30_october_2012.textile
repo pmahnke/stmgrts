@@ -2,6 +2,7 @@
 layout: post
 title: "The Ailsa Tavern Relaunches on 30 October 2012"
 permalink: /archives/2012/10/the_ailsa_tavern_relaunches_on_30_october_2012.html
+commentfile: 2012-10-27-the_ailsa_tavern_relaunches_on_30_october_2012
 category: news
 date: 2012-10-27 20:38:27
 excerpt: |
@@ -41,3 +42,7 @@ On Thursday nights we're having Irish and Scottish Folk music - a group of music
 On Sundays between 4pm and 6pm we're going to have a different jazz quartet every week. A fantastic trumpeter called Evan Clegg is going to run the session and invite a different three performers to join him each time. Hopefully this will be a great accompaniment to the tail end of our Sunday roast trade, where people can come and be entertained without worrying about being home late due to children or work. Starts November 4<sup>th</sup>.
 
 We will also have two open mic nights a month, on the second and last weeks. These have already proved very popular and are run by Elaine Samuels, a musician who has just started a national campaign to support live music in pubs ("www.elainesamuels.co.uk/OpenMicNights.htm":http://www.elainesamuels.co.uk/OpenMicNights.htm). We get a range of standards, from very talented up-and-coming or established acts all the way to very cheesy novelty performances - it never fails to entertain!
+
+
+
+{% include comments.html %}

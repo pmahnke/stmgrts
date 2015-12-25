@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Workshops for Children 14-17 @ Orleans House Gallery - Easter 2015"
 permalink: /archives/2015/03/event_reminder_workshops_for_children_1417_orleans.html
+commentfile: 2015-03-27-event_reminder_workshops_for_children_1417_orleans
 category: around_town
 date: 2015-03-27 21:40:52
 excerpt: |
@@ -39,3 +40,6 @@ h4. More Information
 
 * You can "book online":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/arts_for_young_people.htm or over the phone (020 8831 6000)
 * We  also have a full schedule of holidays workshops for children aged 4-14, which you can find more details about on "our galley website":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/art_clubs_and_holiday_activities/holiday_activities.htm.
+
+
+{% include comments.html %}

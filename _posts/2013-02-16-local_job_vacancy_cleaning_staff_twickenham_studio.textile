@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Cleaning Staff - Twickenham Studios"
 permalink: /archives/2013/02/local_job_vacancy_cleaning_staff_twickenham_studio.html
+commentfile: 2013-02-16-local_job_vacancy_cleaning_staff_twickenham_studio
 category: around_town
 date: 2013-02-16 17:16:27
 
@@ -15,3 +16,8 @@ You will be required to work during the times in which the studios are non opera
  
 For further details please contact info@twickenhamstudios.com
  
+
+
+
+
+{% include comments.html %}

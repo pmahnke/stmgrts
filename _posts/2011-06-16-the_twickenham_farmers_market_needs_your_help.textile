@@ -2,6 +2,7 @@
 layout: post
 title: "The Twickenham Farmers Market Needs Your Help"
 permalink: /archives/2011/06/the_twickenham_farmers_market_needs_your_help.html
+commentfile: 2011-06-16-the_twickenham_farmers_market_needs_your_help
 category: news
 date: 2011-06-16 08:35:57
 
@@ -27,3 +28,7 @@ Thanks for your support. We will carry out more surveys at markets in coming mon
 On the plus side, we will have morrismen at the farmers' market from 11am this Saturday, as part of the Twickenham Festival!
 
 ??from the London Farmers' Markets??
+
+
+
+{% include comments.html %}

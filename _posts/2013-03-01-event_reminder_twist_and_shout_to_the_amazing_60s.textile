@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Twist and Shout to the Amazing 60s All-Stars - 8 March 2013"
 permalink: /archives/2013/03/event_reminder_twist_and_shout_to_the_amazing_60s.html
+commentfile: 2013-03-01-event_reminder_twist_and_shout_to_the_amazing_60s
 category: around_town
 date: 2013-03-01 08:09:24
 excerpt: |
@@ -32,3 +33,7 @@ h4. More Information
 * 7.30pm - midnight
 
 _All proceeds go to The Royal Marsden Cancer Hospital_
+
+
+
+{% include comments.html %}

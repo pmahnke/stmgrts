@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Playcentres - Now Open for Summer 2013!"
 permalink: /archives/2013/05/marble_hill_playcentres_now_open_for_summer_2013.html
+commentfile: 2013-05-18-marble_hill_playcentres_now_open_for_summer_2013
 category: around_town
 date: 2013-05-18 08:15:28
 excerpt: |
@@ -47,3 +48,10 @@ Adults £2, 1st child £1.50, 2nd child + 50p each. Season ticket £60 or £5 su
 * "Details and contact information":http://www.stmgrts.org.uk/directory/childrens/200704291443
  
  
+
+
+
+
+
+
+{% include comments.html %}

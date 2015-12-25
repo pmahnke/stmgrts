@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; Police Surgery"
 permalink: /archives/2006/05/event_reminder_2.html
+commentfile: 2006-05-22-event_reminder_2
 category: around_town
 date: 2006-05-22 22:25:51
 
@@ -21,3 +22,9 @@ At "Zorans deli":http://www.stmgrts.org.uk/directory/restaurant/200506220002 –
 p=. Your chance to discuss local police issues and to raise any concerns you may have.
 
 p=. *Also in attendance will be one of our newly elected councillors.*
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58;  Free winemaker tasting - Saturday 26 June 2010"
 permalink: /archives/2010/06/event_reminder_free_winemaker_tasting_saturday_26.html
+commentfile: 2010-06-26-event_reminder_free_winemaker_tasting_saturday_26
 category: around_town
 date: 2010-06-26 05:55:37
 
@@ -17,3 +18,9 @@ He will be pouring wines in our Kew shop between 2-6pm this Saturday 26th June i
 
 * Old Coach Road, Sauvignon Blanc, 2008
 * Sweet Agnes, Riesling, 2009
+
+
+
+
+
+{% include comments.html %}

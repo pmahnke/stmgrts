@@ -2,6 +2,7 @@
 layout: post
 title: "Happy Birthday, Chris!"
 permalink: /archives/2012/04/happy_birthday_chris.html
+commentfile: 2012-04-19-happy_birthday_chris
 category: around_town
 date: 2012-04-19 21:18:53
 
@@ -50,3 +51,6 @@ A YouTube clip of Chris Barber on bass and Lonnie Donegan singing "Over in the N
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

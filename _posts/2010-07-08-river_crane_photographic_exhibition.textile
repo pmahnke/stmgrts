@@ -2,6 +2,7 @@
 layout: post
 title: "River Crane Photographic Exhibition "
 permalink: /archives/2010/07/river_crane_photographic_exhibition.html
+commentfile: 2010-07-08-river_crane_photographic_exhibition
 category: news
 date: 2010-07-08 14:30:36
 
@@ -26,3 +27,7 @@ The best photos will be included with the exhibition when it is shown at Orleans
 Further details about FORCE can be found at "www.force.org.uk":http://www.force.org.uk   Details about current plans for the work in Crane Park currently planned as part of the Mayor of London's Priority Parks Programme can be found at "www.richmond.gov.uk":http://www.richmond.gov.uk or "www.hounslow.gov.uk":http://www.hounslow.gov.uk
 
 -- from Frances Bennett, FORCE
+
+
+
+{% include comments.html %}

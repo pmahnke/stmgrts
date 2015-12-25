@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Georges Day at the Races!"
 permalink: /archives/2008/03/event_reminder_st_georges_day_at_the_races.html
+commentfile: 2008-03-07-event_reminder_st_georges_day_at_the_races
 category: around_town
 date: 2008-03-07 12:09:37
 
@@ -25,3 +26,10 @@ Please reserve your tickets by contacting:
 * Herbert at "hfuchs@btinternet.com":mailto:hfuchs@btinternet.com or 88924144
 
 _A Fundraising Event in support of the Restoration Fund_
+
+
+
+
+
+
+{% include comments.html %}

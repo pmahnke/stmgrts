@@ -2,6 +2,7 @@
 layout: post
 title: "Increased Night Flights Consultation "
 permalink: /archives/2005/08/increased_night.html
+commentfile: 2005-08-19-increased_night
 category: news
 date: 2005-08-19 10:29:06
 
@@ -23,3 +24,6 @@ We want a proper night curfew on flights.
 The Council also opposes Government plans to add a third runway at Heathrow as, inevitably, this will increase aircraft noise still further.
 
 p. Additionally, there is an "online survey":http://www.richmond.gov.uk/night_flights_questionnaire on aircraft noise to help the Council gauge resident's feedback.
+
+
+{% include comments.html %}

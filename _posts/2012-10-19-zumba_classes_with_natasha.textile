@@ -2,6 +2,7 @@
 layout: post
 title: "Zumba Classes with Natasha"
 permalink: /archives/2012/10/zumba_classes_with_natasha.html
+commentfile: 2012-10-19-zumba_classes_with_natasha
 category: around_town
 date: 2012-10-19 13:25:15
 excerpt: |
@@ -35,3 +36,9 @@ h4. More Information
 * Twitter: "@TashaZumbaUK":http://www.twitter.com/TashaZumbaUK
 
 _If you have a little one at home, you are welcome to bring them along to sit and watch or do some drawing or colouring but do remember, this is an adult class & kids must be fully supervised by their parent at all times._
+
+
+
+
+
+{% include comments.html %}

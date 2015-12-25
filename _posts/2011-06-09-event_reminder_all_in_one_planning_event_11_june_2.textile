@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; All in One Planning Event - 11 June 2011"
 permalink: /archives/2011/06/event_reminder_all_in_one_planning_event_11_june_2.html
+commentfile: 2011-06-09-event_reminder_all_in_one_planning_event_11_june_2
 category: around_town
 date: 2011-06-09 12:31:53
 
@@ -22,3 +23,8 @@ If you would like to have your say about the area where you live, please come al
 If you go, please talk to the Council about the St Margarets Traders Association's "A plan for St Margarets...":http://www.stmgrts.org.uk/images/St_Margarets_plan.pdf [pdf]
 
 </div>
+
+
+
+
+{% include comments.html %}

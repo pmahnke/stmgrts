@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; ARThouse Open Studios Festival - 22 June to 1 July 2012"
 permalink: /archives/2012/06/event_reminder_arthouse_open_studios_festival_22_j.html
+commentfile: 2012-06-21-event_reminder_arthouse_open_studios_festival_22_j
 category: around_town
 date: 2012-06-21 22:20:56
 excerpt: |
@@ -21,3 +22,10 @@ This year's "ARThouse Open Studios Festival":http://www.richmond.gov.uk/arthouse
 Do take advantage of this wonderful opportunity to meet local artists and learn about their artistic processes in their own unique environments across the borough. You will have the chance to meet some of the area's finest creative people, pick up creative advice, and even buy original pieces.
 
 Admission is free to all open studio venues.
+
+
+
+
+
+
+{% include comments.html %}

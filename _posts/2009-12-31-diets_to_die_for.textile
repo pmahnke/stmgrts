@@ -2,6 +2,7 @@
 layout: post
 title: "Diets to Die for"
 permalink: /archives/2009/12/diets_to_die_for.html
+commentfile: 2009-12-31-diets_to_die_for
 category: around_town
 date: 2009-12-31 10:32:19
 excerpt: |
@@ -60,3 +61,6 @@ bq. "Adopting a new healthier lifestyle can involve changing diet to include mor
 ??Linford Christie??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

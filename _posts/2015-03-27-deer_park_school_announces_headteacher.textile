@@ -2,6 +2,7 @@
 layout: post
 title: "Deer Park School Announces Headteacher"
 permalink: /archives/2015/03/deer_park_school_announces_headteacher.html
+commentfile: 2015-03-27-deer_park_school_announces_headteacher
 category: news
 date: 2015-03-27 22:29:05
 
@@ -24,3 +25,7 @@ In essence, an application to Deer Park School is a risk-free choice for 2015 as
 To be kept-up-to date with the school's progress, please sign up to receive the school's e-newsletter at "www.deerparkschool.org.uk/register":http://www.deerparkschool.org.uk/register or follow the school on Facebook or Twitter.
 
 <cite>-- from a Deer Park School press release - 20 March 2015</cite>
+
+
+
+{% include comments.html %}

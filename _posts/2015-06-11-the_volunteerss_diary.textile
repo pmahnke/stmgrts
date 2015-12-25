@@ -2,6 +2,7 @@
 layout: post
 title: "The Volunteers's Diary"
 permalink: /archives/2015/06/the_volunteerss_diary.html
+commentfile: 2015-06-11-the_volunteerss_diary
 category: around_town
 date: 2015-06-11 21:00:08
 excerpt: |
@@ -73,3 +74,9 @@ bq. "Those who can, do. Those who can do more, volunteer."
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

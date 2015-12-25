@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Children's Garden Christmas Fair"
 permalink: /archives/2009/12/event_reminder_childrens_garden_christmas_fair.html
+commentfile: 2009-12-03-event_reminder_childrens_garden_christmas_fair
 category: around_town
 date: 2009-12-03 17:16:53
 
@@ -24,3 +25,9 @@ Come to our "Christmas Fair":http://stmgrts.org.uk/event/event/200705142318 and 
 _benefits the Steiner Kindergarten at Marble Hill Park_
 
 Entrance: &pound;1
+
+
+
+
+
+{% include comments.html %}

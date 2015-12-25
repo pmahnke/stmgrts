@@ -2,6 +2,7 @@
 layout: post
 title: "Ultimate Frisbee is Back!"
 permalink: /archives/2011/04/ultimate_frisbee_is_back_1.html
+commentfile: 2011-04-14-ultimate_frisbee_is_back_1
 category: around_town
 date: 2011-04-14 11:33:58
 
@@ -14,3 +15,9 @@ Every Monday night from 7pm in Marble Hill Park. On the rugby pitch closest to O
 Completely free, completely mixed and completely great for fitness.
 
 Join this friendly team - e-mail "zephking@btinternet.com":mailto:zephking@btinternet.com
+
+
+
+
+
+{% include comments.html %}

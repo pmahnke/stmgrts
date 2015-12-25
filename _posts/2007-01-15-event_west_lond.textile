@@ -2,6 +2,7 @@
 layout: post
 title: "Event&#58; West London Business Clinics"
 permalink: /archives/2007/01/event_west_lond.html
+commentfile: 2007-01-15-event_west_lond
 category: around_town
 date: 2007-01-15 09:11:05
 
@@ -22,3 +23,8 @@ Barclays Bank in Park Royal on:
 * "Tuesday 6th February 2007":http://stmgrts.org.uk/event/Meeting/200701150306
 
 If you are interested, please follow the links above for more information.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Age UK Jumble Sale - 21 April 2012"
 permalink: /archives/2012/04/age_uk_jumble_sale_21_april_2012.html
+commentfile: 2012-04-12-age_uk_jumble_sale_21_april_2012
 category: around_town
 date: 2012-04-12 22:18:33
 
@@ -19,3 +20,8 @@ Admission 50p
 Tea coffee cakes ~ Clothes ~ Bric a Brac
 
 <em>"all proceeds to Age UK Richmond":http://www.ageuk.org.uk/richmonduponthames/</em>
+
+
+
+
+{% include comments.html %}

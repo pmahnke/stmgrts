@@ -2,6 +2,7 @@
 layout: post
 title: "Free Computer Lessons for Over 50's"
 permalink: /archives/2011/09/free_computer_lessons_for_over_50s.html
+commentfile: 2011-09-13-free_computer_lessons_for_over_50s
 category: around_town
 date: 2011-09-13 12:46:03
 excerpt: |
@@ -46,3 +47,7 @@ The course schedule:
 * Word: Tuesday 20 September 10am
 * Facebook: Friday 23<sup>rd</sup> September 10am
 * Email: Tuesday 20 September 2pm and Friday 23<sup>rd</sup> September 2pm
+
+
+
+{% include comments.html %}

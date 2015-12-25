@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Working Mums Networking Evening - 10 November 2011"
 permalink: /archives/2011/10/event_reminder_working_mums_networking_evening_10.html
+commentfile: 2011-10-24-event_reminder_working_mums_networking_evening_10
 category: around_town
 date: 2011-10-24 20:12:31
 
@@ -18,3 +19,9 @@ h4. More Information
 * "Details about the event":http://www.stmgrts.org.uk/event/event/200705143111
 * Tickets are &pound;10 per person and can be purchased at
 "www.forsanityssake.com/events/fss-working-mums-networking-event":http://www.forsanityssake.com/events/fss-working-mums-networking-event
+
+
+
+
+
+{% include comments.html %}

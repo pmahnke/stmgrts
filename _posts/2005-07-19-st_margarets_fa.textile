@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair a Huge Success"
 permalink: /archives/2005/07/st_margarets_fa.html
+commentfile: 2005-07-19-st_margarets_fa
 category: news
 date: 2005-07-19 14:46:51
 
@@ -18,3 +19,9 @@ Here is a list of our carefully compiled anecdotal evidence:
 * The Pimms Stall sold out completely by 4:30pm of all the Pimms they planned plus all the available stock from the big Tesco in Twickenham and Odd Bins as well... this means _222 litres of Pimms_!
 
 We have also put up some pictures from the fair of the "football":http://stmgrts.org.uk/static/fair/smf_05_football.html, "bands":http://stmgrts.org.uk/static/fair/smf_05_bands.html and some "general":http://stmgrts.org.uk/static/fair/smf_05_around.html ones and opened up a "forum":http://stmgrts.org.uk/cgi-bin/yabb/YaBB.pl?board=fair for people to up comments, suggestion and reviews.
+
+
+
+
+
+{% include comments.html %}

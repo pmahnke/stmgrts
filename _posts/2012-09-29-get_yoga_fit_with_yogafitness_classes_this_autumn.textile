@@ -2,6 +2,7 @@
 layout: post
 title: "Get Yoga Fit with Yoga-Fitness Classes this Autumn"
 permalink: /archives/2012/09/get_yoga_fit_with_yogafitness_classes_this_autumn.html
+commentfile: 2012-09-29-get_yoga_fit_with_yogafitness_classes_this_autumn
 category: around_town
 date: 2012-09-29 09:30:54
 
@@ -31,3 +32,7 @@ Class places are limited so to book or for further information, phone 07758 8668
 ALSO COMING SOON... 'Complete Beginners 7 week Yoga course' starting November 2012. Contact for further details
 
 _Sammie Mason is a Student Teacher with the British Wheel of Yoga_
+
+
+
+{% include comments.html %}

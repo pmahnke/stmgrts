@@ -2,6 +2,7 @@
 layout: post
 title: "Free Two Week Trial for Star Club"
 permalink: /archives/2015/03/free_two_week_trial_for_star_club.html
+commentfile: 2015-03-20-free_two_week_trial_for_star_club
 category: around_town
 date: 2015-03-20 09:02:12
 excerpt: |
@@ -25,3 +26,11 @@ h4. More Information
 * 3.45-5pm
 * Please call 0208 831 6000 or visit us on our website "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
 * Booking is essential
+
+
+
+
+
+
+
+{% include comments.html %}

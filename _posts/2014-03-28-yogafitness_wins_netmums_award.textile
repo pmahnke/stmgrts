@@ -2,6 +2,7 @@
 layout: post
 title: "Yoga-Fitness Wins Netmums Award"
 permalink: /archives/2014/03/yogafitness_wins_netmums_award.html
+commentfile: 2014-03-28-yogafitness_wins_netmums_award
 category: news
 date: 2014-03-28 22:48:57
 excerpt: |
@@ -40,3 +41,7 @@ For more information, please contact Sammie at Yoga-Fitness on
 "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk or 07758 866 834
 
 Or visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
+
+
+
+{% include comments.html %}

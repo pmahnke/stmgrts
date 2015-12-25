@@ -2,6 +2,7 @@
 layout: post
 title: "New Cooking Classes for Families"
 permalink: /archives/2012/05/new_cooking_classes_for_families.html
+commentfile: 2012-05-17-new_cooking_classes_for_families
 category: around_town
 date: 2012-05-17 20:48:42
 excerpt: |
@@ -38,3 +39,7 @@ h4. More Information
 
 * "tuckfortots@gmail.com":mailto:tuckfortots@gmail.com
 * Phone: 07729459123
+
+
+
+{% include comments.html %}

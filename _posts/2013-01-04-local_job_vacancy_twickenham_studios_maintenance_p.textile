@@ -2,6 +2,7 @@
 layout: post
 title: " Local Job Vacancy&#58; Twickenham Studios - Maintenance Person"
 permalink: /archives/2013/01/local_job_vacancy_twickenham_studios_maintenance_p.html
+commentfile: 2013-01-04-local_job_vacancy_twickenham_studios_maintenance_p
 category: around_town
 date: 2013-01-04 10:59:44
 excerpt: |
@@ -25,3 +26,9 @@ As part of the major development plan at Twickenham Studios we expanding our in-
 * Occasional shift changes as production deadlines dictate.
 
 _For further information and application for please contact Maria Walker ("maria.walker@twickenhamstudios.com":mailto:maria.walker@twickenhamstudios.com) by 10<sup>th</sup> January 2013_
+
+
+
+
+
+{% include comments.html %}

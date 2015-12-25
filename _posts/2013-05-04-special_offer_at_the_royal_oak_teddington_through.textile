@@ -2,6 +2,7 @@
 layout: post
 title: "Special Offer at the Royal Oak Teddington - through June 2013"
 permalink: /archives/2013/05/special_offer_at_the_royal_oak_teddington_through.html
+commentfile: 2013-05-04-special_offer_at_the_royal_oak_teddington_through
 category: around_town
 date: 2013-05-04 15:40:29
 excerpt: |
@@ -26,3 +27,9 @@ h4. More Information
 * 0208 943 4444
 
 fn1. 25% discount off food only. All bookings must be made in advance - 0208 943 4444 and quote the St Margarets.
+
+
+
+
+
+{% include comments.html %}

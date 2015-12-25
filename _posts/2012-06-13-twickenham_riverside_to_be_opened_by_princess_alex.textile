@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Riverside to be Opened by Princess Alexandra - 23 June 2012"
 permalink: /archives/2012/06/twickenham_riverside_to_be_opened_by_princess_alex.html
+commentfile: 2012-06-13-twickenham_riverside_to_be_opened_by_princess_alex
 category: news
 date: 2012-06-13 22:27:50
 
@@ -18,3 +19,6 @@ Completion of the work, cements the Council promise to open the Twickenham River
 The Sunshine Café has been extended to include a new patio seating area next to the lawn and the area next to the where the old changing rooms were has been paved to create a public performance square.
 
 <cite>-- from Richmond Council press release - "8 June 2012":http://www.richmond.gov.uk/twickenham_riverside_to_be_opened_by_royal_approval</cite>
+
+
+{% include comments.html %}

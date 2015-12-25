@@ -2,6 +2,7 @@
 layout: post
 title: "The Return of 'Nellie the Elephant'"
 permalink: /archives/2013/02/the_return_of_nellie_the_elephant.html
+commentfile: 2013-02-20-the_return_of_nellie_the_elephant
 category: around_town
 date: 2013-02-20 22:15:20
 excerpt: |
@@ -94,3 +95,6 @@ CPR IS EASILY TO LEARN AND REALLY DOES SAVE LIVES. WHY DON'T YOU LEARN HOW TO DO
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

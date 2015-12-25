@@ -2,6 +2,7 @@
 layout: post
 title: "Teddington CPZ&#58; An Unrepresentative Minority wants a CPZ"
 permalink: /archives/2008/02/teddington_cpz_an_unrepresentative_minority_wants.html
+commentfile: 2008-02-05-teddington_cpz_an_unrepresentative_minority_wants
 category: news
 date: 2008-02-05 18:59:09
 
@@ -37,3 +38,6 @@ This Wednesday is the last chance to state your views before the Liberal Democra
 </div>
 
 <a href="http://www.stmgrts.org.uk/TeddingtonCPZsurveyresults2007.xls">Download Excel spreadsheet with more data.</a>
+
+
+{% include comments.html %}

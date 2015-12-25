@@ -2,6 +2,7 @@
 layout: post
 title: "Turing's Poisoned Apple - A Footnote"
 permalink: /archives/2009/09/turings_poisoned_apple_a_footnote.html
+commentfile: 2009-09-17-turings_poisoned_apple_a_footnote
 category: around_town
 date: 2009-09-17 22:42:01
 excerpt: |
@@ -27,3 +28,9 @@ bq. "Without his outstanding contribution the history of world war two could wel
 This belated apology will be welcomed by all those gay men and women who have suffered as a result of homophobic laws and homophobic attitudes. It will make no difference however to Alan Turning.  On the morning of 8 June 1954, dishonoured and defiled, he committed suicide by eating an apple laced with cyanide, He was 41 years old.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

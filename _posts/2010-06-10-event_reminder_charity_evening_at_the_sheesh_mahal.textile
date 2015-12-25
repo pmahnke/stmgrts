@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Evening at the Sheesh Mahal"
 permalink: /archives/2010/06/event_reminder_charity_evening_at_the_sheesh_mahal.html
+commentfile: 2010-06-10-event_reminder_charity_evening_at_the_sheesh_mahal
 category: 
 date: 2010-06-10 08:54:52
 
@@ -21,3 +22,9 @@ Please RSVP to: Liz or Mandie
 * 020 8891 2221
 
 For more details, visit: "www.davidadamsleukaemiaappeal.org":http://www.davidadamsleukaemiaappeal.org
+
+
+
+
+
+{% include comments.html %}

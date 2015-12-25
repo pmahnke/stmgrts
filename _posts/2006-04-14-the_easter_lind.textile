@@ -2,6 +2,7 @@
 layout: post
 title: "The Easter Lindt?"
 permalink: /archives/2006/04/the_easter_lind.html
+commentfile: 2006-04-14-the_easter_lind
 category: around_town
 date: 2006-04-14 07:58:10
 excerpt: |
@@ -18,3 +19,8 @@ Gift wondered if we would like to hold a special draw for those members who have
 The 40% reduction offer is, I am told, also available at "Cutters":/directory/general%20store/200506090425.
 
 So we have had a draw and emailed one reader; hopefully, they will allow us to post their details.
+
+
+
+
+{% include comments.html %}

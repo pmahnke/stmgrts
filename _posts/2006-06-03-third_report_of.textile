@@ -2,6 +2,7 @@
 layout: post
 title: "Third Report of a False Front at the Tesco Cash Point"
 permalink: /archives/2006/06/third_report_of.html
+commentfile: 2006-06-03-third_report_of
 category: news
 date: 2006-06-03 18:55:27
 excerpt: |
@@ -69,3 +70,7 @@ _There are three things to consider when preventing yourself from becoming a vic
 
 * Once you have completed a transaction, discreetly put your money and your card away before leaving the cash machine. 
 * Dispose of your cash machine receipt, mini-statement or balance enquiry with care. Tear up or, preferably, shred these items before you discard them.
+
+
+
+{% include comments.html %}

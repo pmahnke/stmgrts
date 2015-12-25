@@ -2,6 +2,7 @@
 layout: post
 title: "Harrison Branthwaite  vs.  The Demon Drink"
 permalink: /archives/2008/08/harrison_branthwaite_vs_the_demon_drink.html
+commentfile: 2008-08-31-harrison_branthwaite_vs_the_demon_drink
 category: around_town
 date: 2008-08-31 16:21:37
 
@@ -36,3 +37,7 @@ Harrison Branthwaite died in 1890, esteemed by both friends and former patients.
 You can buy copies of the 1884 Ordnance Survey Map (London Sheet 110) showing Richmond and St Margarets from Alan Godfrey Maps. Their website is "www.alangodfreymaps.co.uk/":http://www.alangodfreymaps.co.uk/  or ring (01207) 583388.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Consultation&#58; Community Roads and Pavements Fund 2015"
 permalink: /archives/2015/01/consultation_community_roads_and_pavements_fund_20.html
+commentfile: 2015-01-23-consultation_community_roads_and_pavements_fund_20
 category: around_town
 date: 2015-01-23 22:37:05
 excerpt: |
@@ -25,3 +26,7 @@ _The closing date for nominations is 22 February 2015._
 
 * "More information
 on the Richmond Council website":https://consultation.richmond.gov.uk/environment/fund/consult_view
+
+
+
+{% include comments.html %}

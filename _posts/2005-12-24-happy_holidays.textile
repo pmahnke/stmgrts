@@ -2,6 +2,7 @@
 layout: post
 title: "Happy Holidays 2005"
 permalink: /archives/2005/12/happy_holidays.html
+commentfile: 2005-12-24-happy_holidays
 category: editorial
 date: 2005-12-24 15:00:03
 
@@ -13,3 +14,9 @@ date: 2005-12-24 15:00:03
 
 
 <p style="font-family: georgia, times, serif; font-style: italic; color: darkgreen; font-size: 2em;  line-height: 0.75em; text-align: center;">from all of us at<br />St Margarets Community Website</p>
+
+
+
+
+
+{% include comments.html %}

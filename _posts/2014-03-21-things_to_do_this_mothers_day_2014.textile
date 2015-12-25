@@ -2,6 +2,7 @@
 layout: post
 title: "Things To Do... this Mother's Day 2014"
 permalink: /archives/2014/03/things_to_do_this_mothers_day_2014.html
+commentfile: 2014-03-21-things_to_do_this_mothers_day_2014
 category: around_town
 date: 2014-03-21 22:44:29
 excerpt: |
@@ -73,3 +74,7 @@ h4. See the little pigs
 Children can pop along to Kew little pigs on Saturday 29<sup>th</sup> March where they are holding hour visits for those who want to surprise their mother with a crazy and fun gift. Tea and cake will be served as a special treat.
 
 "For Sanity's Sake":http://www.forsanityssake.com is an award-winning local not-for-profit providing an up-to-date online calendar of activities, events and information for parents of pre-schoolers in Richmond Borough.
+
+
+
+{% include comments.html %}

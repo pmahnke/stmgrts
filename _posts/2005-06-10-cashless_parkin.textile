@@ -2,6 +2,7 @@
 layout: post
 title: "Cashless Parking is Coming"
 permalink: /archives/2005/06/cashless_parkin.html
+commentfile: 2005-06-10-cashless_parkin
 category: news
 date: 2005-06-10 17:45:32
 
@@ -20,3 +21,6 @@ bq.. "This is an exciting decision that promises to put us in the vanguard of au
 "We are watching closely the experience of other boroughs and will consider carefully the tenders we receive in order to get the best value and most convenient system for our residents and visitors."
 
 p. What do you think?  "Let us know in our poll":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=cashlessparking
+
+
+{% include comments.html %}

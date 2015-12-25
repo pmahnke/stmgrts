@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets CPZ Proposed Extension Questionnaires Sent"
 permalink: /archives/2008/05/st_margarets_cpz_proposed_extension_questionnaires.html
+commentfile: 2008-05-08-st_margarets_cpz_proposed_extension_questionnaires
 category: news
 date: 2008-05-08 10:01:20
 
@@ -53,3 +54,7 @@ Twickenham
 TW1 3BZ
 
 Email: "stmargaretscpzconsultation@richmond.gov.uk":mailto:stmargaretscpzconsultation@richmond.gov.uk
+
+
+
+{% include comments.html %}

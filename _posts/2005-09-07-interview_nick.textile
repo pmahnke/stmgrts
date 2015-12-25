@@ -2,6 +2,7 @@
 layout: post
 title: "Interview &#58; Nick Dolan of Real Ale"
 permalink: /archives/2005/09/interview_nick.html
+commentfile: 2005-09-07-interview_nick
 category: around_town
 date: 2005-09-07 21:39:54
 
@@ -53,3 +54,7 @@ p. *Can you recommend some beer to food pairings?*
 bq. [In the store] we have a list of all our real ales in stock with tasting notes and recommended companion dishes, such as red meats, poultry, fish, curries, desserts and cheese.
 
 _Come meet Nick and taste some Real Ale at the "St Margarets Autumn Event":cgi-bin/events.cgi?key=200507211432&action=getevent on Saturday, 17 September 2005._
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Wet Weather Camping "
 permalink: /archives/2012/07/wet_weather_camping.html
+commentfile: 2012-07-20-wet_weather_camping
 category: around_town
 date: 2012-07-20 10:45:57
 excerpt: |
@@ -133,3 +134,6 @@ bq. "When you can see the hills in the distance it is going to rain. When you ca
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

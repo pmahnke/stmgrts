@@ -2,6 +2,7 @@
 layout: post
 title: "Sundays Were Different Then -14th April 1963"
 permalink: /archives/2008/10/sundays_were_different_then_14th_april_1963.html
+commentfile: 2008-10-22-sundays_were_different_then_14th_april_1963
 category: around_town
 date: 2008-10-22 09:01:41
 excerpt: |
@@ -80,3 +81,7 @@ In March 1965 the Crawdaddy Club, the home of rhythm and blues in Great Britain,
 If you're waiting for those shops to open on Sunday you've got a long wait ahead of you. That isn't going to happen until 1994. As I said, Sundays were different then!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

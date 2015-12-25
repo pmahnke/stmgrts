@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets and North Twickenham Council Election Candidates"
 permalink: /archives/2010/04/st_margarets_and_north_twickenham_council_election.html
+commentfile: 2010-04-15-st_margarets_and_north_twickenham_council_election
 category: news
 date: 2010-04-15 21:43:43
 
@@ -20,3 +21,9 @@ And there are two independents: Felicity Smart [3 Netherton Road, TW1 1LZ] and R
 In 2006 the shares of the total vote were: Liberal Democrat 53%; Conservative 34%; Green 6%; Labour 2%; Independents 5 %. Barry Edwards, the sometimes controversial local resident who polled 474 votes as an independent in 2006 [the highest total in the borough], is standing for the Conservatives in Teddington [Lib Dem majority 26%. ]
 
 ??from Christopher Squire??
+
+
+
+
+
+{% include comments.html %}

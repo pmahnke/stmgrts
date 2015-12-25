@@ -2,6 +2,7 @@
 layout: post
 title: "Consultation&#58; Local Flood Risk Management Strategy"
 permalink: /archives/2015/02/consultation_local_flood_risk_management_strategy.html
+commentfile: 2015-02-26-consultation_local_flood_risk_management_strategy
 category: news
 date: 2015-02-26 21:58:49
 excerpt: |
@@ -33,3 +34,7 @@ We are now seeking the views of residents, groups and businesses on our draft Lo
 * "Take the survey":https://consultation.richmond.gov.uk/environment/flood-risk/consult_view
 
 _The closing date for the consultation is Friday 6<sup>th</sup> March 2015._
+
+
+
+{% include comments.html %}

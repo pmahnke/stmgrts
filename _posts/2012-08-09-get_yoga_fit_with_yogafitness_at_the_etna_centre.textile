@@ -2,6 +2,7 @@
 layout: post
 title: "Get Yoga Fit with Yoga-Fitness at the ETNA Centre"
 permalink: /archives/2012/08/get_yoga_fit_with_yogafitness_at_the_etna_centre.html
+commentfile: 2012-08-09-get_yoga_fit_with_yogafitness_at_the_etna_centre
 category: around_town
 date: 2012-08-09 08:38:43
 
@@ -31,3 +32,7 @@ ALSO COMING SOON... '_Complete Beginners 7 week Yoga course_' starting November 
 Contact for further details
 
 _Sammie Mason is a Student Teacher with the British Wheel of Yoga_
+
+
+
+{% include comments.html %}

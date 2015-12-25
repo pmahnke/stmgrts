@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; ARThouse 2007"
 permalink: /archives/2007/06/event_reminder_arthouse_2007.html
+commentfile: 2007-06-07-event_reminder_arthouse_2007
 category: around_town
 date: 2007-06-07 21:25:56
 
@@ -19,3 +20,8 @@ ARThouse dates and venue opening times:
 * Saturday and Sunday 9th, 10th, 16th, and 17th June: 11.00am to 6.00pm 
 
 "Click here for more details":http://www.richmond.gov.uk/home/leisure_and_culture/arts/arthouse_open_studios.htm
+
+
+
+
+{% include comments.html %}

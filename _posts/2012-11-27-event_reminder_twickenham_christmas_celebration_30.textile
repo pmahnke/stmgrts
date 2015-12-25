@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Twickenham Christmas Celebration - 30 November 2012"
 permalink: /archives/2012/11/event_reminder_twickenham_christmas_celebration_30.html
+commentfile: 2012-11-27-event_reminder_twickenham_christmas_celebration_30
 category: around_town
 date: 2012-11-27 12:05:02
 excerpt: |
@@ -50,3 +51,7 @@ h4. Timetable
 |5.00 - 6.30pm|The Carnabys|
 |6.30 - 6.45pm|YAK Dance performance|
 |7.00 - 8.30pm|Nark Drool and The Shudders|
+
+
+
+{% include comments.html %}

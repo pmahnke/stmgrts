@@ -2,6 +2,7 @@
 layout: post
 title: "A Tale of Two Tobys"
 permalink: /archives/2011/04/a_tale_of_two_tobys.html
+commentfile: 2011-04-07-a_tale_of_two_tobys
 category: around_town
 date: 2011-04-07 22:44:27
 excerpt: |
@@ -79,3 +80,7 @@ bq. "One night I had a dream - a vision, if you will. I was on a vast heath stre
 <cite>-- from Martyn Day</cite>
 
 _CREDIT: The painting of Twickenham Green is by David Hankin_
+
+
+
+{% include comments.html %}

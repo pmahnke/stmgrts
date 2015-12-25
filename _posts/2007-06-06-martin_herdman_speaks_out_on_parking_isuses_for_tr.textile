@@ -2,6 +2,7 @@
 layout: post
 title: "Martin Herdman Speaks Out on Parking Isuses for Traders"
 permalink: /archives/2007/06/martin_herdman_speaks_out_on_parking_isuses_for_tr.html
+commentfile: 2007-06-06-martin_herdman_speaks_out_on_parking_isuses_for_tr
 category: around_town
 date: 2007-06-06 11:37:30
 excerpt: |
@@ -72,3 +73,7 @@ BE HEARD, don't just roll over and let it happen.
 Martin Herdman
 
 </div>
+
+
+
+{% include comments.html %}

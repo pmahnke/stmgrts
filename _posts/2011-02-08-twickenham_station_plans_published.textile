@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Station Plans Published"
 permalink: /archives/2011/02/twickenham_station_plans_published.html
+commentfile: 2011-02-08-twickenham_station_plans_published
 category: news
 date: 2011-02-08 08:10:04
 
@@ -18,3 +19,9 @@ There is a separate planning application for the podium on which the building wi
 The planning committee will consider the application at its March 31, 2011 meeting.
 
 -- from Christopher J Squire
+
+
+
+
+
+{% include comments.html %}

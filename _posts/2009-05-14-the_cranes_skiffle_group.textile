@@ -2,6 +2,7 @@
 layout: post
 title: "The Cranes Skiffle Group"
 permalink: /archives/2009/05/the_cranes_skiffle_group.html
+commentfile: 2009-05-14-the_cranes_skiffle_group
 category: around_town
 date: 2009-05-14 09:28:59
 excerpt: |
@@ -48,3 +49,7 @@ By 1965, with the rise of pop stars and fans who adored them, there was no call 
 As for Chas McDevitt, he is still playing out there playing skiffle and still very much in touch with the music scene. He is also probably the only person to have covered his own worldwide hit under a pseudonym!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

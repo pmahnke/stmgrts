@@ -2,6 +2,7 @@
 layout: post
 title: "Art Class Starts 11 September 2013"
 permalink: /archives/2013/09/art_class_starts_11_september_2013.html
+commentfile: 2013-09-05-art_class_starts_11_september_2013
 category: around_town
 date: 2013-09-05 22:07:02
 excerpt: |
@@ -34,3 +35,7 @@ h4. More Information
 * "www.theseasonsartclass.com":http://www.theseasonsartclass.com/
 
 _To maintain a high standard of tuition, spaces are limited and are going fast._
+
+
+
+{% include comments.html %}

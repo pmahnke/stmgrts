@@ -2,6 +2,7 @@
 layout: post
 title: "Events&#58; June 2012 Half Term - Orleans House Gallery"
 permalink: /archives/2012/05/events_june_2012_half_term_orleans_house_gallery.html
+commentfile: 2012-05-03-events_june_2012_half_term_orleans_house_gallery
 category: around_town
 date: 2012-05-03 17:24:09
 excerpt: |
@@ -65,3 +66,7 @@ Learn, play and explore together in our multi-sensory sessions designed to encou
 h4. Sunday Afternoon Art
 
 Free Drop-in Workshops for Families, 2pm - 3.30. Suitable for children aged 4 upwards.  All children must be accompanied by an adult.  No booking necessary.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Timings and Road Closures for the London-Surrey Cycle Classic"
 permalink: /archives/2011/08/timings_and_road_closures_for_the_londonsurrey_cyc.html
+commentfile: 2011-08-11-timings_and_road_closures_for_the_londonsurrey_cyc
 category: news
 date: 2011-08-11 15:02:32
 excerpt: |
@@ -61,3 +62,6 @@ Richmond and Bushy Parks will be closed all day. This is the responsibility of T
 h4. More information
 
 * Please visit "www.richmond.gov.uk/olympic_test_event":http://www.richmond.gov.uk/olympic_test_event for more information and details
+
+
+{% include comments.html %}

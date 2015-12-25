@@ -2,6 +2,7 @@
 layout: post
 title: "The Monarch and the Maypole"
 permalink: /archives/2010/07/the_monarch_and_the_maypole.html
+commentfile: 2010-07-30-the_monarch_and_the_maypole
 category: around_town
 date: 2010-07-30 12:05:44
 excerpt: |
@@ -70,3 +71,7 @@ Interestingly the Starbucks logo is based upon a two tailed Melusine as an early
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

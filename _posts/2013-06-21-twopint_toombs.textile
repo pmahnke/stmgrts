@@ -2,6 +2,7 @@
 layout: post
 title: "Two-Pint Toombs"
 permalink: /archives/2013/06/twopint_toombs.html
+commentfile: 2013-06-21-twopint_toombs
 category: around_town
 date: 2013-06-21 10:32:31
 excerpt: |
@@ -60,3 +61,6 @@ Richmond was home to another hero of the Battle of Britain. With a 'bag' of 26 c
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

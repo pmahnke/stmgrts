@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; TW12 Jazz Festival - 17 to 19 July 2015"
 permalink: /archives/2015/06/event_reminder_tw12_jazz_festival_17_to_19_july_20.html
+commentfile: 2015-06-01-event_reminder_tw12_jazz_festival_17_to_19_july_20
 category: around_town
 date: 2015-06-01 21:15:40
 excerpt: |
@@ -18,3 +19,10 @@ Back for a third year, TW12 Jazz Festival is extending to a three day event, two
 This festival features top internationally known jazz artists as well as local bands and students. This year the hosts are delighted to have and extra day at the Garrick Temple on the Riverside featuring students from the Richmond Music Trust and the Gareth Lockrane Flute Quartet. The main event remains on Sunday in the Hampton Hill Playhouse as in previous years and features eight different bands. The headline act at the end of the festival will be the Kyle Eastwood Band (son of actor Clint Eastwood).
 
 For full information and ticket prices please see website - "www.tw12jazzfestival.co.uk.":http://www.tw12jazzfestival.co.uk. Online booking only.
+
+
+
+
+
+
+{% include comments.html %}

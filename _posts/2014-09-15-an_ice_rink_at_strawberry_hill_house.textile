@@ -2,6 +2,7 @@
 layout: post
 title: "An Ice Rink at Strawberry Hill House"
 permalink: /archives/2014/09/an_ice_rink_at_strawberry_hill_house.html
+commentfile: 2014-09-15-an_ice_rink_at_strawberry_hill_house
 category: news
 date: 2014-09-15 18:14:28
 
@@ -16,3 +17,9 @@ Details of the planning application can be seen via the link below and we would 
 We look forward to welcoming you on the ice this winter!
 
 "Richmond Rink":http://www.RichmondRink.com
+
+
+
+
+
+{% include comments.html %}

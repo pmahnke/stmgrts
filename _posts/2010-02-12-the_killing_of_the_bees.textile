@@ -2,6 +2,7 @@
 layout: post
 title: "The Killing of the Bees"
 permalink: /archives/2010/02/the_killing_of_the_bees.html
+commentfile: 2010-02-12-the_killing_of_the_bees
 category: around_town
 date: 2010-02-12 10:20:22
 excerpt: |
@@ -70,3 +71,6 @@ Are murder'd for our pains."
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

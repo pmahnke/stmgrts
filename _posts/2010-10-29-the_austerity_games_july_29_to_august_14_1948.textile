@@ -2,6 +2,7 @@
 layout: post
 title: "The 'Austerity' Games -  July 29 to August 14, 1948 "
 permalink: /archives/2010/10/the_austerity_games_july_29_to_august_14_1948.html
+commentfile: 2010-10-29-the_austerity_games_july_29_to_august_14_1948
 category: around_town
 date: 2010-10-29 08:49:14
 excerpt: |
@@ -70,3 +71,7 @@ Karoly Takacs had been a member of the Hungary's world champion pistol shooting 
 _This article was suggested by Mr Laurence Mann_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

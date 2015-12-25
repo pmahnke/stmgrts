@@ -2,6 +2,7 @@
 layout: post
 title: "Armstrong's Family Butchers Opens"
 permalink: /archives/2007/08/armstrongs_family_butchers_opens.html
+commentfile: 2007-08-16-armstrongs_family_butchers_opens
 category: news
 date: 2007-08-16 15:41:20
 
@@ -23,3 +24,9 @@ Armstrong's opening hours are:
 |Sunday|closed|
 
 <cite>-- from Ed Randall</cite>
+
+
+
+
+
+{% include comments.html %}

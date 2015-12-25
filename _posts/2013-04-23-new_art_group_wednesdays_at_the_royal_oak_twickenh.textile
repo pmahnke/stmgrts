@@ -2,6 +2,7 @@
 layout: post
 title: "New Art Group - Wednesdays at the Royal Oak, Twickenham"
 permalink: /archives/2013/04/new_art_group_wednesdays_at_the_royal_oak_twickenh.html
+commentfile: 2013-04-23-new_art_group_wednesdays_at_the_royal_oak_twickenh
 category: around_town
 date: 2013-04-23 21:23:16
 
@@ -25,3 +26,7 @@ h4. More Information
 ** 07900242997
 ** "info@leecampbell.co.uk":mailto:info@leecampbell.co.uk
 ** "www.leecampbell.co.uk":http://www.leecampbell.co.uk
+
+
+
+{% include comments.html %}

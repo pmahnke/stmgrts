@@ -2,6 +2,7 @@
 layout: post
 title: "Children's Play - Up and Down - 3 to 5 June 2014"
 permalink: /archives/2014/05/childrens_play_up_and_down_3_to_5_june_2014.html
+commentfile: 2014-05-17-childrens_play_up_and_down_3_to_5_june_2014
 category: around_town
 date: 2014-05-17 14:35:55
 excerpt: |
@@ -18,3 +19,6 @@ After a sell-out tour around London last Autumn and a four star review in the Da
 This highly innovative production integrates live theatre (two actors) with magical projections on the cinema screen based on illustrations from the book which tell the story of the penguin who wants to fly and the boys who tries to help him.
 
 * "For more about the show and tickets":http://www.gagatheatre.co.uk/book-tickets/
+
+
+{% include comments.html %}

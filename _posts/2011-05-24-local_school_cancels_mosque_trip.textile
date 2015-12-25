@@ -2,6 +2,7 @@
 layout: post
 title: "Local School Cancels Mosque Trip"
 permalink: /archives/2011/05/local_school_cancels_mosque_trip.html
+commentfile: 2011-05-24-local_school_cancels_mosque_trip
 category: news
 date: 2011-05-24 22:44:50
 
@@ -31,3 +32,8 @@ h4. What do you think?
 * leave a comment
 
 </div>
+
+
+
+
+{% include comments.html %}

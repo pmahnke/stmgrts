@@ -2,6 +2,7 @@
 layout: post
 title: "More Furniture Scheme Open Days"
 permalink: /archives/2007/09/more_furniture_scheme_open_days.html
+commentfile: 2007-09-07-more_furniture_scheme_open_days
 category: around_town
 date: 2007-09-07 09:36:02
 
@@ -35,3 +36,8 @@ TEL/FAX   020 8755 4665
 
 "www.furniture.scheme.ukgateway.net":http://www.furniture.scheme.ukgateway.net
 </div>
+
+
+
+
+{% include comments.html %}

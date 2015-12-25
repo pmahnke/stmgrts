@@ -2,6 +2,7 @@
 layout: post
 title: "Can You Help?"
 permalink: /archives/2005/04/can_you_help.html
+commentfile: 2005-04-20-can_you_help
 category: news
 date: 2005-04-20 21:13:12
 
@@ -24,3 +25,6 @@ In order to be able to continue to put on these events, the Traders Association 
 * Resources data base manager
 
 These events are always well attended, enhance community spirit, and help to support local organizations. If you are able to help out in any way please contact Simon Chapman in Cutters located in Crown Road.
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "River Crane Pollution Update from FORCE"
 permalink: /archives/2011/11/river_crane_pollution_update_from_force.html
+commentfile: 2011-11-11-river_crane_pollution_update_from_force
 category: news
 date: 2011-11-11 09:30:45
 excerpt: |
@@ -55,3 +56,7 @@ h4. What you can do to help.
 Our members and other local people have been asking how they can help and - as well as attending our work days - you can be our eyes and ears on the river. All reports of river life over the next six months in the form of fish species, kingfishers, dragonflies, herons and crayfish for example, will be greatly appreciated. We shall relay this information to the Environment Agency and it will help to build a detailed record of the recovery process and allow the intelligent planning of support actions such as fish stocking. Suggestions of improvements that can be made in the longer term would also be welcomed.
 
 <cite>"FORCE website":http://homepage.ntlworld.com/borsuk/force/news.html</cite>
+
+
+
+{% include comments.html %}

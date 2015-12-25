@@ -2,6 +2,7 @@
 layout: post
 title: "Legal Challenge to New Catholic Secondary"
 permalink: /archives/2012/04/legal_challenge_to_new_catholic_secondary.html
+commentfile: 2012-04-12-legal_challenge_to_new_catholic_secondary
 category: news
 date: 2012-04-12 22:19:09
 
@@ -18,3 +19,7 @@ Rosa Curling from RISC/BHA's solicitors Leigh Day & Co said today: "We are conce
 bq. "Despite widespread local opposition, the Council appears to have decided that it can bypass its legal obligations and simply approve the Diocese's proposals to open two, selective state-funded Catholic schools. We have advised our clients that this is incorrect and the Council's actions are unlawful."
 
 <cite>-- from Christopher J Squire - 12 April 2012</cite>
+
+
+
+{% include comments.html %}

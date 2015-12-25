@@ -2,6 +2,7 @@
 layout: post
 title: "Monday Night Special at the Turks Head"
 permalink: /archives/2010/09/monday_night_special_at_the_turks_head.html
+commentfile: 2010-09-23-monday_night_special_at_the_turks_head
 category: around_town
 date: 2010-09-23 21:13:42
 
@@ -16,3 +17,9 @@ h4. Terms and conditions apply
 * Not valid on Bank holidays
 * Cheaper of 2 meals is &pound;1
 * Includes Junior Menu
+
+
+
+
+
+{% include comments.html %}

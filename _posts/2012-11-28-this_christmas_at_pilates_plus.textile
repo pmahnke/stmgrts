@@ -2,6 +2,7 @@
 layout: post
 title: "This Christmas at Pilates Plus"
 permalink: /archives/2012/11/this_christmas_at_pilates_plus.html
+commentfile: 2012-11-28-this_christmas_at_pilates_plus
 category: around_town
 date: 2012-11-28 21:38:54
 
@@ -30,3 +31,7 @@ Available for classes or products for the fitness enthusiast in your family. We 
 h3. Sunday Opening
 
 We will be open right up until 4pm on Christmas Eve and on all Sundays in December. The shop and Studio will re open on Jan 3rd
+
+
+
+{% include comments.html %}

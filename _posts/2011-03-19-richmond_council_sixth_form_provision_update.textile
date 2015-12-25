@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council&#58; Sixth Form Provision Update"
 permalink: /archives/2011/03/richmond_council_sixth_form_provision_update.html
+commentfile: 2011-03-19-richmond_council_sixth_form_provision_update
 category: news
 date: 2011-03-19 11:11:02
 
@@ -20,3 +21,7 @@ bq.. "Last December, the Council's Cabinet agreed to jointly explore with school
 "We want to expand the range of post-16 provision in the borough. Our secondary schools have worked extremely hard to raise standards in 11-16 education. Two of our secondaries are now rated outstanding by Ofsted, and as a group they have moved up the national tables. Richmond upon Thames College and Richmond Adult Community College also continue to provide a very broad range of excellent post 16 options to our students."
 
 -- read more on the "Richmond Council website - 18 March 2011":http://stmgrts.org.uk/l/Jk66q
+
+
+
+{% include comments.html %}

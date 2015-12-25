@@ -2,6 +2,7 @@
 layout: post
 title: "Trial of Exercise Equipment in Moormead Park"
 permalink: /archives/2007/03/test_of_exercise_equipment_in_moormead_park.html
+commentfile: 2007-03-24-test_of_exercise_equipment_in_moormead_park
 category: news
 date: 2007-03-24 07:32:38
 
@@ -16,3 +17,7 @@ Richmond Council's Parks and Open Spaces have started a trial of _FitPoint_, a  
 This is a temporary installation and is part of a roaming project within the Borough's Parks and Open Spaces. The Fitpoint has been in Kneller Gardens, Meadway, Twickenham for the past 6 weeks where it was well received.
 
 The Council would like feedback on the _FitPoint_ to assess whether it would be a popular addition to the park, so if you have an opinion, call 020 8487 5243.
+
+
+
+{% include comments.html %}

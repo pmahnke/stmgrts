@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Bearcat Comedy's 25th Anniversary Show"
 permalink: /archives/2009/06/event_reminder_bearcat_comedys_25th_anniversary_sh.html
+commentfile: 2009-06-19-event_reminder_bearcat_comedys_25th_anniversary_sh
 category: around_town
 date: 2009-06-19 08:27:34
 
@@ -39,3 +40,8 @@ FROM
 OR
 020 88911852
  
+
+
+
+
+{% include comments.html %}

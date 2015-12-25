@@ -2,6 +2,7 @@
 layout: post
 title: "<em>yellowwedge cheese</em>, Wins Gold"
 permalink: /archives/2008/10/_yellowwedge_cheese__wins_gold.html
+commentfile: 2008-10-10-_yellowwedge_cheese__wins_gold
 category: news
 date: 2008-10-10 21:28:03
 excerpt: |
@@ -32,3 +33,7 @@ The yellowwedge team are always happy to advise customers and, while they can wa
 And it doesn't stop at cheese! A wide range of fine wines, dessert and port wines, cheese accompaniments such as pickles, chutneys, jellies, tracklments, crackers and oils are stocked, as well as elegant olive wood and slate cheeseboards and cheese knives. Exciting ideas are in the pipeline for Christmas, including a range of affordable and stylish 'cheesy' gifts, Christmas Cheese Cakes, and a fantastic range of high-quality palate pleasing goodies. 
 
 <cite>-- from "PR Web":http://www.prweb.com/releases/yellowwedge/cheese/prweb1393014.htm</cite>
+
+
+
+{% include comments.html %}

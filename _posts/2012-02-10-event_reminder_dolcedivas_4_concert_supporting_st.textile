@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Dolcedivas 4 Concert Supporting St Stephens School - 18 February 2012"
 permalink: /archives/2012/02/event_reminder_dolcedivas_4_concert_supporting_st.html
+commentfile: 2012-02-10-event_reminder_dolcedivas_4_concert_supporting_st
 category: around_town
 date: 2012-02-10 11:50:04
 
@@ -16,3 +17,9 @@ We are two flutes, cello, piano and voice.
 Our programme is varied and  lightly classical including  Quantz, Bach , Haydyn, Bridge, songs from Kurt Weil , our own arrangements of twenties and thirties songs and a recital of Dylan Thomas's Fern Hill.
 
 Musicians: Elizabeth Dufter Wimmer, Rosie Timpson, Noonie Minogue and Angela Fogg.
+
+
+
+
+
+{% include comments.html %}

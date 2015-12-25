@@ -2,6 +2,7 @@
 layout: post
 title: "Meeting Reminder &#58; Moormead Park Meeting"
 permalink: /archives/2006/05/meeting_reminde_2.html
+commentfile: 2006-05-06-meeting_reminde_2
 category: around_town
 date: 2006-05-06 15:59:37
 excerpt: |
@@ -42,3 +43,7 @@ h3. Agenda Moormead Park Meeting
 * "Event Details":/event/Meeting/200603301408
 * "Improvements to Playground in Moormead Park":/archives/2006/04/improvements_to.html
 * "Notes from the 9 March 2006 Moormead Park Meeting":/archives/2006/03/notes_from_moor.html
+
+
+
+{% include comments.html %}

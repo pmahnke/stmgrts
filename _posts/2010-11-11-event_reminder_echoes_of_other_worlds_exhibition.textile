@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Echoes of Other Worlds Exhibition"
 permalink: /archives/2010/11/event_reminder_echoes_of_other_worlds_exhibition.html
+commentfile: 2010-11-11-event_reminder_echoes_of_other_worlds_exhibition
 category: around_town
 date: 2010-11-11 19:41:59
 excerpt: |
@@ -30,3 +31,7 @@ Dr Stephen Hicks is a Research Fellow in Neuroscience at the University of Oxfor
 Other artists featured include past and present students from the Royal College of Art, Kingston University and Goldsmiths, as well as teaching staff from the Royal Academy.
 
 Also featured are the 'army' of terracotta cats, created by gallery staff, volunteers and younger members of after school art clubs.
+
+
+
+{% include comments.html %}

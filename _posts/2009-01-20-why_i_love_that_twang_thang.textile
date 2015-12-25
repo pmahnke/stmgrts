@@ -2,6 +2,7 @@
 layout: post
 title: "Why I Love That Twang Thang"
 permalink: /archives/2009/01/why_i_love_that_twang_thang.html
+commentfile: 2009-01-20-why_i_love_that_twang_thang
 category: around_town
 date: 2009-01-20 21:33:05
 excerpt: |
@@ -48,3 +49,7 @@ h4. THE UNATTAINABLE BRIGITTE BARDOT
 The writer of this piece relives those short days of twang by playing with 'Nark Drool and the Shudders', St Margarets very own - and only - genuine rock 'n' roll band. On stage he wears a red drape jacket, drainpipe trousers and a vacant smile. In the real world it might be 2009 but inside his head it is still 1960.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

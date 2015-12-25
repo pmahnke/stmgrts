@@ -2,6 +2,7 @@
 layout: post
 title: "Arts Award Summer School&#58; Printmaking Week for 11-17s"
 permalink: /archives/2015/08/arts_award_summer_school_printmaking_week_for_1117.html
+commentfile: 2015-08-07-arts_award_summer_school_printmaking_week_for_1117
 category: around_town
 date: 2015-08-07 13:04:24
 excerpt: |
@@ -27,3 +28,10 @@ h4. "More Information":http://www.artsaward.org.uk/site/?id=64
 * "Book online":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/arts_for_young_people.htm
 
 _Please note that places are limited and are granted on a first come first served basis._
+
+
+
+
+
+
+{% include comments.html %}

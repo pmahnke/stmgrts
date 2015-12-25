@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Richmond Speech and Language Therapy Service Open Day - 3 July 2013"
 permalink: /archives/2013/06/event_reminder_richmond_speech_and_language_therap.html
+commentfile: 2013-06-24-event_reminder_richmond_speech_and_language_therap
 category: around_town
 date: 2013-06-24 21:45:23
 excerpt: |
@@ -28,3 +29,7 @@ h4. Programme
 h4. More Information
 
 * Venue: Clarendon Hall, York House, Richmond Road, Twickenham, TW1 3AA
+
+
+
+{% include comments.html %}

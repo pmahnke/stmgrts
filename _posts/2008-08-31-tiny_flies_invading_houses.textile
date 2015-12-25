@@ -2,6 +2,7 @@
 layout: post
 title: "Tiny Flies Invading Houses?"
 permalink: /archives/2008/08/tiny_flies_invading_houses.html
+commentfile: 2008-08-31-tiny_flies_invading_houses
 category: around_town
 date: 2008-08-31 15:54:21
 
@@ -20,3 +21,8 @@ Have any other local residents experienced this problem?
 I would appreciate some comments!
  
 <cite>-- from Gerhard</cite>
+
+
+
+
+{% include comments.html %}

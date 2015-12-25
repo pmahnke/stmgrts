@@ -2,6 +2,7 @@
 layout: post
 title: "Information&#58; Lyme Disease"
 permalink: /archives/2010/05/information_lyme_disease.html
+commentfile: 2010-05-26-information_lyme_disease
 category: news
 date: 2010-05-26 13:52:03
 
@@ -57,3 +58,6 @@ Diagnosed and treated at an early stage, it is usually curable with antibiotics,
 Can Lyme disease be prevented?
 
 There are many measures you can take to protect yourself from infection. These include wearing suitable clothing (keep your arms and legs covered) and frequently checking the skin for ticks. Make sure you know how to remove a tick properly and seek medical advice promptly if you notice any symptoms.  
+
+
+{% include comments.html %}

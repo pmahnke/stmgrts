@@ -2,6 +2,7 @@
 layout: post
 title: "The January Parliament"
 permalink: /archives/2015/01/the_january_parliament.html
+commentfile: 2015-01-23-the_january_parliament
 category: around_town
 date: 2015-01-23 23:50:09
 excerpt: |
@@ -123,3 +124,6 @@ bq. 'Simon de Montfort... desired to put down the mighty and ruin their power...
 ??THOMAS WYKES, Chronicles (c. 1290)??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

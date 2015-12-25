@@ -2,6 +2,7 @@
 layout: post
 title: "Never Forgotten"
 permalink: /archives/2015/10/never_forgotten.html
+commentfile: 2015-10-15-never_forgotten
 category: around_town
 date: 2015-10-15 21:33:29
 excerpt: |
@@ -82,3 +83,9 @@ The North St Margarets Residents Association, the NSMRA, has just completed a se
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

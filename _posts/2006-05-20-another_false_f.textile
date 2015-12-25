@@ -2,6 +2,7 @@
 layout: post
 title: "Another False Front at Tesco Cash Point"
 permalink: /archives/2006/05/another_false_f.html
+commentfile: 2006-05-20-another_false_f
 category: news
 date: 2006-05-20 16:49:04
 excerpt: |
@@ -35,3 +36,6 @@ A neighbour has just mentioned to me - did you know that you can withdraw cash  
 So the security-vigilant were unfortunately defeated this time.  But I'd really  appreciate it if you could run an article on this as soon as possible, in  particular it would help to alert anyone who used that cash machine on Saturday  20th May up until about 14:15 that they should probably at least change their PIN number, check their bank statements for any suspicious withdrawls and  contact their bank if necessary.
 
 </div>
+
+
+{% include comments.html %}

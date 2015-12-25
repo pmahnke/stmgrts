@@ -2,6 +2,7 @@
 layout: post
 title: "The Ghost Buster from St Margarets"
 permalink: /archives/2009/07/the_ghost_buster_from_st_margarets.html
+commentfile: 2009-07-09-the_ghost_buster_from_st_margarets
 category: around_town
 date: 2009-07-09 21:12:57
 excerpt: |
@@ -69,3 +70,7 @@ And so they did, repeating the Davenport's act in every respect - and not a spir
 There was no looking back for Maskelyne and Cooke. Inspired by the attention that they had received they set off on a tour that in 1874 brought them to London and a celebrated 31 year residency at the Egyptian Hall in Piccadilly. Billing themselves as "royal illusionists and anti-spiritualists" they created many famous illusions that are still used today. George Alfred Cooke did what any successful gentleman of the time would do. No longer impoverished he bought himself an elegant villa called Glenrosa on St. Margarets Road in the smart new suburb of St. Margarets and lived there with his young wife and son until his death in February 1905.
 
 The Davenport's careers came to an end in 1877 when William died suddenly on tour in Australia. Ira ordered a magnificent memorial for his brother on which was carved a representation of their ropes, spirit cabinet and other séance props. Officials in Sydney would not allow the monument within the cemetery grounds so it was left outside. Ira himself died in 1911.
+
+
+
+{% include comments.html %}

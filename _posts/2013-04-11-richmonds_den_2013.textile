@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond's Den 2013"
 permalink: /archives/2013/04/richmonds_den_2013.html
+commentfile: 2013-04-11-richmonds_den_2013
 category: news
 date: 2013-04-11 21:05:16
 excerpt: |
@@ -32,3 +33,7 @@ Other info:
 * More information on last year's entrants/winners is on  "www.richmondsocialenterprisepartnership.co.uk":http://www.richmondsocialenterprisepartnership.co.uk
 * Pitching day: Thursday 13 June
 * Final: Evening of 17 July
+
+
+
+{% include comments.html %}

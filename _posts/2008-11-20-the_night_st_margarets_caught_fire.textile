@@ -2,6 +2,7 @@
 layout: post
 title: "The Night St Margarets Caught Fire"
 permalink: /archives/2008/11/the_night_st_margarets_caught_fire.html
+commentfile: 2008-11-20-the_night_st_margarets_caught_fire
 category: news
 date: 2008-11-20 10:29:15
 excerpt: |
@@ -50,3 +51,7 @@ None of this bothered Mr Rodgers, a 55 year old caretaker arrested in Richmond t
 fn1. November 1940 saw the borough sustain its highest casualties. 74 people were killed, the majority in a devastating attack which took place on the night of November 29.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

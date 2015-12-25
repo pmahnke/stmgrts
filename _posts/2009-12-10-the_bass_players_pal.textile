@@ -2,6 +2,7 @@
 layout: post
 title: "The Bass Player's Pal"
 permalink: /archives/2009/12/the_bass_players_pal.html
+commentfile: 2009-12-10-the_bass_players_pal
 category: around_town
 date: 2009-12-10 22:08:38
 excerpt: |
@@ -57,3 +58,6 @@ h4. See Paul Tutmarc and his band, the Wranglers
 <object width="320" height="265"><param name="movie" value="//stmgrts.org.uk/assets/images/2009/skfqZUy20NQ&hl=en_GB&fs=1&rel=0&color1=0x402061&color2=0x9461ca"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/skfqZUy20NQ&hl=en_GB&fs=1&rel=0&color1=0x402061&color2=0x9461ca" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
 
 </div>
+
+
+{% include comments.html %}

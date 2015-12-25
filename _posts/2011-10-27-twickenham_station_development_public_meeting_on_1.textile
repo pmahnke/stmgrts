@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Station Development - Public Meeting on 18 October 2011"
 permalink: /archives/2011/10/twickenham_station_development_public_meeting_on_1.html
+commentfile: 2011-10-27-twickenham_station_development_public_meeting_on_1
 category: news
 date: 2011-10-27 21:40:10
 
@@ -14,3 +15,8 @@ The meeting at York House, organised by TRAG, was attended by more than 200 loca
 You can look at these plans, known as <a href="http://trag-sos.moonfruit.com/#/plan-b1/4556583608">Plan B1</a> and <a href="http://trag-sos.moonfruit.com/#/plan-b2/4556544947">Plan B2</a> and let us know what you think.
 
 -- more information on the "Twickenham Residents Action Group (TRAG)":http://trag-sos.moonfruit.com
+
+
+
+
+{% include comments.html %}

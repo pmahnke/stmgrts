@@ -2,6 +2,7 @@
 layout: post
 title: "Massive Fish Kill following Thames Pollution Incident"
 permalink: /archives/2011/06/massive_fish_kill_following_thames_pollution_incid.html
+commentfile: 2011-06-09-massive_fish_kill_following_thames_pollution_incid
 category: news
 date: 2011-06-09 08:57:43
 excerpt: |
@@ -29,3 +30,9 @@ TAC members have reported seeing may dead Roach, Dace, Bream, schooly Bass and b
 
 
 -- from "Thames Anglers Conservancy press release -- 6 June 2011":http://www.rivertac.org/site/?p=2302
+
+
+
+
+
+{% include comments.html %}

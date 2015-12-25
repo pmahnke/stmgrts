@@ -2,6 +2,7 @@
 layout: post
 title: "Downward Dog Yoga Classes"
 permalink: /archives/2008/01/downward_dog_yoga_classes.html
+commentfile: 2008-01-12-downward_dog_yoga_classes
 category: around_town
 date: 2008-01-12 20:47:29
 
@@ -19,3 +20,8 @@ To book a class or for more information:
 * Go to "www.downwarddog.co.uk":http://www.downwarddog.co.uk
 * Call 0781 371 2073
 * Email "ddogyoga@btinternet.com":mailto:ddogyoga@btinternet.com
+
+
+
+
+{% include comments.html %}

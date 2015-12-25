@@ -2,6 +2,7 @@
 layout: post
 title: "Formally Forming Friends of Moormead Park - 5 March 2013"
 permalink: /archives/2013/02/formally_forming_friends_of_moormead_park_5_march.html
+commentfile: 2013-02-20-formally_forming_friends_of_moormead_park_5_march
 category: news
 date: 2013-02-20 21:56:51
 
@@ -26,3 +27,7 @@ h4. More Information
 * "Draft Constitution Friends of Moormead - v2":http://www.stmgrts.org.uk/images//FoM_Constitution_Friends_of_Moormead__Ver_2.pdf [pdf]
 
 For further information or to put your name forward to become an Officer of the Friends of Moormead please contact either Mandie or Stephen by Wednesday, 27 February 2013.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Good Wine Shop Free Beer Tasting - 13 August 2011"
 permalink: /archives/2011/08/event_reminder_the_good_wine_shop_free_beer_tastin.html
+commentfile: 2011-08-11-event_reminder_the_good_wine_shop_free_beer_tastin
 category: around_town
 date: 2011-08-11 14:46:00
 excerpt: |
@@ -36,3 +37,7 @@ h4. THE BREWERS & UNION BEERS TO TRY:
 * *Steph Weiss* - Liquid sunshine. Delicate, smooth and creamy - a true unfiltered Bavarian white beer with aromas of vanilla and clove.
 * *Berne - Unfiltered amber lager in a rare old German style. Wholesome and buttery with toasty bready malts and hints of caramel and toffee. A smooth and naturally cloudy beer.
 * *Dark Lager* - Very drinkable, dry and beautifully hopped yet rich and loaded with dark roasted malt flavour. Relatively light in body but bursting with character.
+
+
+
+{% include comments.html %}

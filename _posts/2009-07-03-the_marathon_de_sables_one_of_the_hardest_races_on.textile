@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon de Sables&#58; One of the hardest races on earth"
 permalink: /archives/2009/07/the_marathon_de_sables_one_of_the_hardest_races_on.html
+commentfile: 2009-07-03-the_marathon_de_sables_one_of_the_hardest_races_on
 category: around_town
 date: 2009-07-03 09:57:09
 excerpt: |
@@ -36,3 +37,6 @@ I'll cover each particular training phase, strategies to cope with long runs, ea
 We are organising a charity children's duathlon event to be held on Sunday 20<sup>th </sup>September, if you are interested then please get in touch with me. All funds raised will go to F.R.O.D.O.
 
 If you want to get fit for summer, why not try early morning bootcamps? The July bootcamp is in full swing. There will be an August bootcamp starting the 3rd, and running until the 14<sup>th</sup> August. Visit "www.run.uk.net":http://www.run.uk.net/ for more information or call Georgie on 07736 070612.  
+
+
+{% include comments.html %}

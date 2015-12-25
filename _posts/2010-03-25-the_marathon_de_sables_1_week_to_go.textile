@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon De Sables&#58; 1 week to go!"
 permalink: /archives/2010/03/the_marathon_de_sables_1_week_to_go.html
+commentfile: 2010-03-25-the_marathon_de_sables_1_week_to_go
 category: around_town
 date: 2010-03-25 19:21:57
 excerpt: |
@@ -40,3 +41,7 @@ Then on Sunday the 4<sup>th</sup> I start my journey. I'm viewing it as a journe
 ??Georgie??
 
 <em>Georgie runs her own training business, providing 1:2:1 training, run together sessions or will happily help you with your training and fitness goals. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.</em>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Courses&#58; Space to Be 8-Week Mindfulness Course - 3 September to 29 October 2014"
 permalink: /archives/2014/07/courses_space_to_be_8week_mindfulness_course_3_sep.html
+commentfile: 2014-07-24-courses_space_to_be_8week_mindfulness_course_3_sep
 category: around_town
 date: 2014-07-24 21:35:20
 
@@ -18,3 +19,9 @@ Could mindfulness be your path to less stress and greater wellbeing?
 h4. More Information
 
 * "www.makespacetobe.com":http://www.makespacetobe.com
+
+
+
+
+
+{% include comments.html %}

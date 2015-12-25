@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder &#58; A Community Plan for St Margarets -- 6th June"
 permalink: /archives/2006/06/event_reminder_4.html
+commentfile: 2006-06-01-event_reminder_4
 category: around_town
 date: 2006-06-01 21:47:38
 excerpt: |
@@ -30,3 +31,7 @@ The final outcome will feed into the council's Local Development Framework (LDF)
 An initial meeting has been arranged for "Tuesday 6th June, 7.30 pm":http://www.stmgrts.org.uk/event/Meeting/200605081437 at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
 
 Contact Judy Maciejowska "judymaciejowska@blueyonder.co.uk":mailto:judymaciejowska@blueyonder.co.uk for further information.
+
+
+
+{% include comments.html %}

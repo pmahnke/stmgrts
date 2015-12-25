@@ -2,6 +2,7 @@
 layout: post
 title: "Shine on Mrs. Moon"
 permalink: /archives/2009/11/shine_on_mrs_moon.html
+commentfile: 2009-11-13-shine_on_mrs_moon
 category: around_town
 date: 2009-11-13 11:58:55
 excerpt: |
@@ -84,3 +85,7 @@ knitting the night.
 </pre>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "White Knight Buys Twickenham Film Studios"
 permalink: /archives/2012/07/white_knight_buys_twickenham_film_studios.html
+commentfile: 2012-07-21-white_knight_buys_twickenham_film_studios
 category: news
 date: 2012-07-21 07:06:08
 
@@ -21,3 +22,7 @@ bq. "The recent press, industry and public interest in the Studios has shown how
 Ms. Walker is a respected post-production supervisor who has a long-standing association with the studio stretching back nearly thirty years. Amongst the productions she's worked on there include: "In America", "The Count of Monte Cristo" and just recently "Fast Girls". She is also a resident of Twickenham
 
 <cite>-- from a TSF Press Release - 17 July 2012</cite>
+
+
+
+{% include comments.html %}

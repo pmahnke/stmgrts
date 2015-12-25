@@ -2,6 +2,7 @@
 layout: post
 title: "Jay's Kilimanjaro Charity Trek"
 permalink: /archives/2011/09/jays_kilimanjaro_charity_trek.html
+commentfile: 2011-09-01-jays_kilimanjaro_charity_trek
 category: news
 date: 2011-09-01 10:48:21
 excerpt: |
@@ -21,3 +22,9 @@ Local business owner Jason Payne from Crown Classic Cars in Crown Road, will be 
 Please visit Jay's charity page to make a donation: "www.justgiving.com/jason-payne1":http://www.justgiving.com/jason-payne1
 
 The Mayor is "visiting St Margarets to promote her campaign to encourage volunteering on Saturday, 3<sup>rd</sup> September 2011 from 11am to 1pm":http://www.stmgrts.org.uk/event/meeting/200705142967. Mayor Cllr Clare Head is spearheading a volunteer recruitment drive to encourage more people to give their time to support others in the community. The Mayor is encouraging people to sign up to work with local organisations and charities through "Richmond Council for Voluntary Services":http://www.richmondcvs.org.uk/ or to help improve the area where they live through the borough council's Community Resource Bank.
+
+
+
+
+
+{% include comments.html %}

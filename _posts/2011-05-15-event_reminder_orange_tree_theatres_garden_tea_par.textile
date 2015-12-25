@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Orange Tree Theatre's Garden Tea Party"
 permalink: /archives/2011/05/event_reminder_orange_tree_theatres_garden_tea_par.html
+commentfile: 2011-05-15-event_reminder_orange_tree_theatres_garden_tea_par
 category: around_town
 date: 2011-05-15 09:20:49
 
@@ -23,3 +24,7 @@ h4. Details
 * Under 12s &pound;5
 * Under 5s FREE
 * To book, call the theatre Box Office on 020 8940 3633.
+
+
+
+{% include comments.html %}

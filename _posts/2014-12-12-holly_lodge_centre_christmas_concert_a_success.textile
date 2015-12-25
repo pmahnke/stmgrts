@@ -2,6 +2,7 @@
 layout: post
 title: "Holly Lodge Centre Christmas Concert a Success"
 permalink: /archives/2014/12/holly_lodge_centre_christmas_concert_a_success.html
+commentfile: 2014-12-12-holly_lodge_centre_christmas_concert_a_success
 category: around_town
 date: 2014-12-12 19:54:53
 excerpt: |
@@ -35,3 +36,9 @@ The Clarendon School in Hampton is a day community special school for pupils age
 The Sheen Mount School is a primary school based in East Sheen where music and the arts have a high profile.  Children at the school enjoy singing in school assemblies, concerts and shows.
 
 The Holly Lodge Centre was founded more than 20 years ago with the aim of providing groups of children and adults - particularly those with special physical and educational needs - a secure environment in which to benefit from the natural and historic wonders of Richmond Park.  The Centre is a charity with over 100 volunteers which benefits from a number of events including this, the Centre's eighth annual Christmas concert.
+
+
+
+
+
+{% include comments.html %}

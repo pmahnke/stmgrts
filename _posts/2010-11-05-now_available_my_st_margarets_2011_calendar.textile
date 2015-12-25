@@ -2,6 +2,7 @@
 layout: post
 title: "Now available... My St Margarets 2011 Calendar"
 permalink: /archives/2010/11/now_available_my_st_margarets_2011_calendar.html
+commentfile: 2010-11-05-now_available_my_st_margarets_2011_calendar
 category: around_town
 date: 2010-11-05 21:38:28
 
@@ -16,3 +17,8 @@ Copies are also available from _Orleans Infants_ and _St Stephen’s Junior Scho
 
 Priced &pound;8 each.
  
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Gymboree's Cherish Childhood Event - 17 to 28 March 2015"
 permalink: /archives/2015/03/gymborees_cherish_childhood_event_17_to_28_march_2.html
+commentfile: 2015-03-14-gymborees_cherish_childhood_event_17_to_28_march_2
 category: around_town
 date: 2015-03-14 08:36:15
 
@@ -23,3 +24,7 @@ h4. Contact info
 * 020 8607 9995
 * "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
 * "gymboree-uk.com":http://gymboree-uk.com
+
+
+
+{% include comments.html %}

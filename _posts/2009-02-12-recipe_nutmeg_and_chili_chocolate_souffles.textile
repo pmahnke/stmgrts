@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; Nutmeg and Chili, Chocolate Souffles"
 permalink: /archives/2009/02/recipe_nutmeg_and_chili_chocolate_souffles.html
+commentfile: 2009-02-12-recipe_nutmeg_and_chili_chocolate_souffles
 category: food
 date: 2009-02-12 21:43:03
 excerpt: |
@@ -47,3 +48,7 @@ h4. Instructions
 </div>
 
 For further healthy recipes please see Catherine's website at "stmargaretskitchen.blogspot.com":http://stmargaretskitchen.blogspot.com/
+
+
+
+{% include comments.html %}

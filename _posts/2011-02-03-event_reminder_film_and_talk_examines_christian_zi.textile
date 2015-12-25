@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Film and Talk Examines Christian Zionism - 9 February 2011"
 permalink: /archives/2011/02/event_reminder_film_and_talk_examines_christian_zi.html
+commentfile: 2011-02-03-event_reminder_film_and_talk_examines_christian_zi
 category: around_town
 date: 2011-02-03 19:54:45
 excerpt: |
@@ -26,3 +27,9 @@ The film looks at the theology of Christian Zionism which teaches that Jews are 
 Dr Sizer has spent many years studying the theology, politics and history of the Middle East and is the author of "Christian Zionism - Road Map to Armageddon?" He believes Christian Zionism shapes United States foreign policy towards Israel/Palestine.
 
 "With God On Our Side," directed by Porter Speakman, will be shown at the Richmond and Putney Unitarian Church Hall, Ormond Road, Richmond, TW10 6TH on Wednesday, February 9<sup>th</sup>, at 7.30 pm. Entry is free.
+
+
+
+
+
+{% include comments.html %}

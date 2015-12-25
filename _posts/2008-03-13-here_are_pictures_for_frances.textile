@@ -2,6 +2,7 @@
 layout: post
 title: "Here are Pictures for Frances"
 permalink: /archives/2008/03/here_are_pictures_for_frances.html
+commentfile: 2008-03-13-here_are_pictures_for_frances
 category: news
 date: 2008-03-13 19:55:07
 
@@ -17,3 +18,9 @@ If you recall, in the article "Pictures for Frances":http://www.stmgrts.org.uk/a
 * We have also posted a few "here":http://picasaweb.google.com/StMargaretsCommunityWebsite
 
 Check them out and if you have more, either email us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk or add them to a free "flickr":http://www.flickr.com/ account and tag the photos "stmgrts":http://www.flickr.com/search/?q=stmgrts&m=tags.
+
+
+
+
+
+{% include comments.html %}

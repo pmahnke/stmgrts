@@ -2,6 +2,7 @@
 layout: post
 title: "Holistic Yoga Classes"
 permalink: /archives/2010/09/holistic_yoga_classes.html
+commentfile: 2010-09-10-holistic_yoga_classes
 category: around_town
 date: 2010-09-10 08:25:06
 excerpt: |
@@ -39,3 +40,9 @@ Contact Surya on:
 * "surya@blueyonder.co.uk":mailto:surya@blueyonder.co.uk
 
 _Surya's courses are open to all but she considers the needs of the individual by adapting postures. It is also designed to help and support those who may be living with or recovering from illness, injury or trauma._
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Strawberry Hill Jazz Festival"
 permalink: /archives/2011/05/strawberry_hill_jazz_festival.html
+commentfile: 2011-05-11-strawberry_hill_jazz_festival
 category: around_town
 date: 2011-05-11 20:36:15
 excerpt: |
@@ -61,3 +62,6 @@ h4. Details
 * Purchase online at: "www.strawberryhillhouse.org.uk":http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=26 or "Richmond and Twickenham Jazz Club":http://www.stmgrts.org.uk/directory/music/200802050810
 * Enquiries 0208 286 3242
 * "Download a brochure":http://www.stmgrts.org.uk/images/SHT035_jazz_2.pdf
+
+
+{% include comments.html %}

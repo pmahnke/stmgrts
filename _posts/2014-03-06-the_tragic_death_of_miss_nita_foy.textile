@@ -2,6 +2,7 @@
 layout: post
 title: "The Tragic Death of Miss Nita Foy"
 permalink: /archives/2014/03/the_tragic_death_of_miss_nita_foy.html
+commentfile: 2014-03-06-the_tragic_death_of_miss_nita_foy
 category: around_town
 date: 2014-03-06 21:38:38
 excerpt: |
@@ -82,3 +83,6 @@ bq. "Anita was always full of pluck. She was the life of the company wherever sh
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

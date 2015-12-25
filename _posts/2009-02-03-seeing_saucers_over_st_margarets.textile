@@ -2,6 +2,7 @@
 layout: post
 title: "Seeing Saucers over St Margarets"
 permalink: /archives/2009/02/seeing_saucers_over_st_margarets.html
+commentfile: 2009-02-03-seeing_saucers_over_st_margarets
 category: around_town
 date: 2009-02-03 10:51:29
 excerpt: |
@@ -54,3 +55,6 @@ p. So what are we to make of all this? Are we about to be invaded by aliens who 
 bq. "Beam me up, Scottie!"
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

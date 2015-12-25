@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; An Inspector Calls"
 permalink: /archives/2008/01/event_reminder_an_inspector_calls.html
+commentfile: 2008-01-17-event_reminder_an_inspector_calls
 category: around_town
 date: 2008-01-17 08:31:55
 
@@ -20,3 +21,9 @@ They all claim to have had no hand in her demise. But under questioning they rev
 Veteran director Rodney Figaro, winner of the first-ever Swan award and an RSS member for 32 years, says: "It's a great whodunnit with socialist undertones showing workers as real people, not just cheap labour -- and there's a surprise revelation in the second and third acts"
 
 Shows are at 7.45pm on Jan 19th, 21st, 22nd and 24th -26th, matinees 4pm Sun 20th and 3pm Sat 26th. Tickets &pound;8 or &pound;10, all performances now non-smoking.
+
+
+
+
+
+{% include comments.html %}

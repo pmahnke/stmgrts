@@ -2,6 +2,7 @@
 layout: post
 title: "Your Twickenham Villages, Your Say"
 permalink: /archives/2011/04/your_twickenham_villages_your_say.html
+commentfile: 2011-04-27-your_twickenham_villages_your_say
 category: news
 date: 2011-04-27 19:21:06
 
@@ -34,3 +35,7 @@ The things that most needed improving:
 More at: "www.richmond.gov.uk/all_twickenham_villages":http://www.richmond.gov.uk/all_twickenham_villages
 
 <cite>-- from Christopher Squire</cite>
+
+
+
+{% include comments.html %}

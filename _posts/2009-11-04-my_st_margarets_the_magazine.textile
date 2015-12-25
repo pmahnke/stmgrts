@@ -2,6 +2,7 @@
 layout: post
 title: "My St Margarets, The Magazine"
 permalink: /archives/2009/11/my_st_margarets_the_magazine.html
+commentfile: 2009-11-04-my_st_margarets_the_magazine
 category: news
 date: 2009-11-04 18:14:50
 
@@ -17,3 +18,7 @@ Coming soon through your letter box, _My St Margarets, The Magazine_, published 
 
 
 Coming soon through your letter box, _My St Margarets, The Magazine_, published this week by the _St Margarets Traders Association_. An essential guide to a St Margarets Christmas, the magazine is bursting with gift ideas, special offers, local news and features.
+
+
+
+{% include comments.html %}

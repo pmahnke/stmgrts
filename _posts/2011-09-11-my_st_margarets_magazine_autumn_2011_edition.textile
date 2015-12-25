@@ -2,6 +2,7 @@
 layout: post
 title: "My St Margarets Magazine - Autumn 2011 Edition"
 permalink: /archives/2011/09/my_st_margarets_magazine_autumn_2011_edition.html
+commentfile: 2011-09-11-my_st_margarets_magazine_autumn_2011_edition
 category: news
 date: 2011-09-11 18:16:21
 excerpt: |
@@ -23,3 +24,7 @@ In this edition we meet some of our local resident authors and have the privileg
 Free draw for readers of the "St Margarets Community Website's newsletter":http://www.stmgrts.org.uk/cgi-bin/newsletter.cgi - we have a signed edition of Devoured by local author Denise Meredith to give away, one lucky subscriber will be drawn at random and will receive the copy of the book.
 
 This edition will be followed by the Christmas edition which is due for publication end November. The publishers have received many request from local residents about advertising in the magazine. If you are interested in advertising in future editions of the magazine please contact "traders@mystmargarets.com":mailto:traders@mystmargarets.com.
+
+
+
+{% include comments.html %}

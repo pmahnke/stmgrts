@@ -2,6 +2,7 @@
 layout: post
 title: "Parvinu at Phelps is open"
 permalink: /archives/2008/09/parvinu_at_phelps_is_open.html
+commentfile: 2008-09-11-parvinu_at_phelps_is_open
 category: news
 date: 2008-09-11 16:56:29
 
@@ -24,3 +25,7 @@ bq.. The Sub-Committee imposed two further conditions upon the licence:
 A telephone number of a contact person shall be made available to nearby residents, posted on the community website and mail-dropped to the immediate area prior to opening.
 
 Gavin Mitchell is the Designated Premises Supervisor (DPS) and General Manager is Tim Vaughan Spencer. Both of can be contacted on 020 8892 7166 or "info@parvinuatphelps.com":mailto:info@parvinuatphelps.com in case of any queries.
+
+
+
+{% include comments.html %}

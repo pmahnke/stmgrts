@@ -2,6 +2,7 @@
 layout: post
 title: "The Rise and Fall and Rise Again of the Coffee Houses"
 permalink: /archives/2013/09/the_rise_and_fall_and_rise_again_of_the_coffee_hou.html
+commentfile: 2013-09-26-the_rise_and_fall_and_rise_again_of_the_coffee_hou
 category: around_town
 date: 2013-09-26 22:05:34
 excerpt: |
@@ -60,3 +61,7 @@ As for the debate, Harris and Hoole seem to have quietly settled in and appear b
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

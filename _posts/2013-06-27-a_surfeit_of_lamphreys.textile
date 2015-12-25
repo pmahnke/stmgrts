@@ -2,6 +2,7 @@
 layout: post
 title: "A Surfeit of Lamphreys"
 permalink: /archives/2013/06/a_surfeit_of_lamphreys.html
+commentfile: 2013-06-27-a_surfeit_of_lamphreys
 category: around_town
 date: 2013-06-27 22:21:20
 excerpt: |
@@ -72,3 +73,6 @@ fn1. One commentator believed that the Dutch fishermen were able to keep the lam
 fn2. Marilyn Bell did go on to become the first person to swim across Lake Ontario in just under 21 hours.  The following year, 1955, she became the youngest person to swim the English Channel.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

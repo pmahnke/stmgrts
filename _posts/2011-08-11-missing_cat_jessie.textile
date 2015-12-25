@@ -2,6 +2,7 @@
 layout: post
 title: "Missing Cat&#58; Jessie"
 permalink: /archives/2011/08/missing_cat_jessie.html
+commentfile: 2011-08-11-missing_cat_jessie
 category: around_town
 date: 2011-08-11 14:34:54
 excerpt: |
@@ -29,3 +30,9 @@ If you have seen her please contact Kevin on the following number:
 * home: 0208 744 0380
 
 Thank you.
+
+
+
+
+
+{% include comments.html %}

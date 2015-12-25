@@ -2,6 +2,7 @@
 layout: post
 title: "Letter&#58; Why We Need a CPZ"
 permalink: /archives/2008/05/letter_why_we_need_a_cpz.html
+commentfile: 2008-05-15-letter_why_we_need_a_cpz
 category: news
 date: 2008-05-15 11:40:48
 
@@ -43,3 +44,7 @@ We are fortunate in that, should Sidney Road residents vote against the CPZ, we 
 Peter, Rosie, Clare, David, Carol, Rob.
 
 </div>
+
+
+
+{% include comments.html %}

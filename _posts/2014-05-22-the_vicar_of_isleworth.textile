@@ -2,6 +2,7 @@
 layout: post
 title: "The Vicar of Isleworth"
 permalink: /archives/2014/05/the_vicar_of_isleworth.html
+commentfile: 2014-05-22-the_vicar_of_isleworth
 category: around_town
 date: 2014-05-22 23:28:44
 excerpt: |
@@ -74,3 +75,7 @@ bq. "From the depressing rule of the Puritans, repressions and moral control, ma
 I wonder what the Vicar of Isleworth made of it?
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

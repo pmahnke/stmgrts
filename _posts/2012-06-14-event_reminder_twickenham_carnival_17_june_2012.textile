@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Twickenham Carnival - 17 June 2012"
 permalink: /archives/2012/06/event_reminder_twickenham_carnival_17_june_2012.html
+commentfile: 2012-06-14-event_reminder_twickenham_carnival_17_june_2012
 category: around_town
 date: 2012-06-14 21:46:34
 
@@ -16,3 +17,10 @@ As the culmination of a two-week Twickenham Riverside festival, Carnival will op
 From 1-5pm.
 
 * "More information":http://www.stmgrts.org.uk/event/fair/200705143403
+
+
+
+
+
+
+{% include comments.html %}

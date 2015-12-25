@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Tea with Turner - 28 April 2013"
 permalink: /archives/2013/04/event_reminder_tea_with_turner_28_april_2013.html
+commentfile: 2013-04-11-event_reminder_tea_with_turner_28_april_2013
 category: around_town
 date: 2013-04-11 20:46:31
 excerpt: |
@@ -31,3 +32,6 @@ h4. More Information
 * To book please email "turnerintwickenham@gmail.com":mailto:turnerintwickenham@gmail.com or telephone 020 8892 3908.
 
 _Past Pleasures is generously supporting Turner's House Trust in this re-enactment of what their conversations might have been._
+
+
+{% include comments.html %}

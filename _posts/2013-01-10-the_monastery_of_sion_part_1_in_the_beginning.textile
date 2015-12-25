@@ -2,6 +2,7 @@
 layout: post
 title: "The Monastery of Sion - Part 1 - In the Beginning"
 permalink: /archives/2013/01/the_monastery_of_sion_part_1_in_the_beginning.html
+commentfile: 2013-01-10-the_monastery_of_sion_part_1_in_the_beginning
 category: around_town
 date: 2013-01-10 22:32:29
 excerpt: |
@@ -73,3 +74,8 @@ Just to put the record straight St Margarets, or the parish of St Margarets-upon
 _Next week - more fun and games in the Monastery of Sion._
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

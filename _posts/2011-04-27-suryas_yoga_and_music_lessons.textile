@@ -2,6 +2,7 @@
 layout: post
 title: "Surya's Yoga and Music Lessons"
 permalink: /archives/2011/04/suryas_yoga_and_music_lessons.html
+commentfile: 2011-04-27-suryas_yoga_and_music_lessons
 category: around_town
 date: 2011-04-27 18:37:09
 
@@ -20,3 +21,9 @@ This offer also applies if you find a therapist to book  a stall onto the "Holis
 I am donating money earned this term to the Shooting Star (amount tbc but probably 10% or 20%, depending on my costs)
 
 Contact me on 07770 993289 or "info@soundmindsoundbody.co.uk":mailto:info@soundmindsoundbody.co.uk.
+
+
+
+
+
+{% include comments.html %}

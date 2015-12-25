@@ -2,6 +2,7 @@
 layout: post
 title: "Letter from Twickenham Residents Action Group - 25 April 2012"
 permalink: /archives/2012/04/letter_from_twickenham_residents_action_group_25_a.html
+commentfile: 2012-04-25-letter_from_twickenham_residents_action_group_25_a
 category: around_town
 date: 2012-04-25 20:26:14
 
@@ -47,3 +48,9 @@ _Ian Blackman_
 Twickenham Residents Action Group (TRAG)  - not TAP
 
 </div>
+
+
+
+
+
+{% include comments.html %}

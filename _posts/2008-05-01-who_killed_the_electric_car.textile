@@ -2,6 +2,7 @@
 layout: post
 title: "Who Killed the Electric Car?"
 permalink: /archives/2008/05/who_killed_the_electric_car.html
+commentfile: 2008-05-01-who_killed_the_electric_car
 category: news
 date: 2008-05-01 10:45:31
 excerpt: |
@@ -24,3 +25,7 @@ Bamber Gascoigne (right) then introduced the film, andemphasised how his G-Wiz w
 There were at least two other EV drivers in the audience.  Philip Day from Goingreen had brought along the latest the model: the G-Wiz i and was able to answer technical questions. Mike Wilsdon, from Kew, brought pictures of a 1945 plastic bodied French vehicle. He alsoh as a diverse collection of antique cycles collected over the years from various countries, which he is happy to show visitors by arrangement.
 
 Several manufacturers are working on 'plug-in hybrids' (hybrid hybrids, if you like) making use of the higher performance lithium-ion batteries. A French designed car that stores energy with compressed air is also under development. And yes, a sequel to the film is due out in the autumn. If there is enough demand to cover costs we might show it locally.
+
+
+
+{% include comments.html %}

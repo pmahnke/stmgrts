@@ -2,6 +2,7 @@
 layout: post
 title: "Dangerous Crossing of St Margarets Road and A316"
 permalink: /archives/2007/06/crossing_of_st_margarets_road_and_a316.html
+commentfile: 2007-06-07-crossing_of_st_margarets_road_and_a316
 category: news
 date: 2007-06-07 20:40:40
 
@@ -19,3 +20,9 @@ I want to convince TfL that people cannot see the red light, and that traffic sh
 There is a lot more info at "crossing.jiglu.com":http://crossing.jiglu.com.
 
 -- _from Nigel Cannings_
+
+
+
+
+
+{% include comments.html %}

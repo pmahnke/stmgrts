@@ -2,6 +2,7 @@
 layout: post
 title: "The Death of Silas Ping"
 permalink: /archives/2011/02/the_death_of_silas_ping.html
+commentfile: 2011-02-03-the_death_of_silas_ping
 category: around_town
 date: 2011-02-03 21:06:16
 excerpt: |
@@ -62,3 +63,7 @@ Set against the grand events of history the death in 1722 of a virtually unknown
 _CREDIT: The picture of the Judges is by William Hogarth. The picture of the Gamekeeper is courtesy of Life Magazine - copyright free._
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

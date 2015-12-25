@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Gets Licence for Five Concerts per Year"
 permalink: /archives/2006/06/marble_hill_get.html
+commentfile: 2006-06-13-marble_hill_get
 category: news
 date: 2006-06-13 19:56:13
 excerpt: |
@@ -39,3 +40,6 @@ Denise
 *Links*
 
 * "Marble Hill Concert Licensing Application":http://www.stmgrts.org.uk/archives/2006/05/marble_hill_con.html
+
+
+{% include comments.html %}

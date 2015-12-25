@@ -2,6 +2,7 @@
 layout: post
 title: "In their Footsteps&#58; Richmond's First World War - Orleans House Gallery"
 permalink: /archives/2014/08/in_their_footsteps_richmonds_first_world_war_orlea.html
+commentfile: 2014-08-21-in_their_footsteps_richmonds_first_world_war_orlea
 category: around_town
 date: 2014-08-21 21:48:11
 excerpt: |
@@ -29,3 +30,7 @@ Creative inspiration was also taken from personal and poignant stories such as t
 The work on display has been made by participants aged 6 - 21. The youngest groups explored children's contributions to the war effort such as the National Egg Collection scheme and also the animal mascots of the South African Army - 'Jackie' the baboon and 'Nancy' the springbok.
 
 The exhibition has been funded through Heritage Lottery Fund and Richmond upon Thames council. It will be held at Orleans House Gallery, Riverside, Twickenham from 2<sup>nd</sup> August until 16<sup>th</sup> November.
+
+
+
+{% include comments.html %}

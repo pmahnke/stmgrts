@@ -2,6 +2,7 @@
 layout: post
 title: "Come on, Eileen!"
 permalink: /archives/2015/02/come_on_eileen.html
+commentfile: 2015-02-26-come_on_eileen
 category: around_town
 date: 2015-02-26 23:22:49
 excerpt: |
@@ -58,3 +59,6 @@ There is more of Eileen Sheridan's fascinating story in her autobiography <em>"W
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

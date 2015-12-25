@@ -2,6 +2,7 @@
 layout: post
 title: "The Great River Race - 17 September 2011"
 permalink: /archives/2011/08/the_great_river_race_17_september_2011.html
+commentfile: 2011-08-18-the_great_river_race_17_september_2011
 category: around_town
 date: 2011-08-18 15:42:12
 excerpt: |
@@ -55,3 +56,7 @@ Now racing a against a semi-rural backdrop, the faster dragonboats, Waterman Cut
 Richmond's riverside spectators cheer on the crews as they pass through the Bridge. With 35 trophies up for grabs, crews must draw on their last reserves to vie for a winning spot.
 # 16:40 - *RIVERSIDE BELOW HAM HOUSE, RICHMOND*
 Our Race winner crosses the line to a cannon broadside, rousing applause, and the prospect of receiving _The Challenge Trophy of The Company of Watermen & Lightermen_ and becoming the UK Traditional Boat Champions in the process.
+
+
+
+{% include comments.html %}

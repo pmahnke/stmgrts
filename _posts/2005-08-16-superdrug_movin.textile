@@ -2,6 +2,7 @@
 layout: post
 title: "Superdrug Moving into Phelps Site"
 permalink: /archives/2005/08/superdrug_movin.html
+commentfile: 2005-08-16-superdrug_movin
 category: news
 date: 2005-08-16 05:08:40
 
@@ -28,3 +29,7 @@ Councillor Hambidge urges residents to:
 bq. decide how you feel about the changes taking place in St Margarets.  The future lies in your hands ... do you want [St Margarets] to become another 'high street' or do you feel sufficiently concerned to make your voice heard.
 
 p. If you are concerned about this, please comment on this site, email us at "editorial@stmgrts.org.uk":mailto:editorial@stmgrts.org.uk and email Councillor Hambidge ("cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk).
+
+
+
+{% include comments.html %}

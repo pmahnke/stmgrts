@@ -2,6 +2,7 @@
 layout: post
 title: "American Pie"
 permalink: /archives/2014/01/american_pie.html
+commentfile: 2014-01-23-american_pie
 category: around_town
 date: 2014-01-23 22:24:25
 excerpt: |
@@ -122,3 +123,7 @@ Here is a film on YouTube made to illustrate the original recording.
 _Like Don McLean I was delivering newspapers on February 4<sup>th</sup> 1959. It was outside the home of Mr and Mrs Pollard in Station Road, Welham Green that I read about the death of Buddy, the Big Bopper and Ritchie Valens. I was 14 years old and it was my first encounter with mortality._
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

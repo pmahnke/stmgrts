@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets' Royal Wedding Street Parties"
 permalink: /archives/2011/05/st_margarets_royal_wedding_street_parties.html
+commentfile: 2011-05-03-st_margarets_royal_wedding_street_parties
 category: news
 date: 2011-05-03 09:47:05
 excerpt: |
@@ -22,3 +23,8 @@ St Margarets had at least five street parties to celebrate the Royal wedding.  I
 Here is a "slide-show on flickr":http://www.flickr.com/photos/mahnke/sets/72157626489325165/show/ of some of the parties in St Margarets.
 
 If you have more photos, please send them to "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk
+
+
+
+
+{% include comments.html %}

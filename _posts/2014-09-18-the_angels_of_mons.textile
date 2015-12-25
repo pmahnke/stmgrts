@@ -2,6 +2,7 @@
 layout: post
 title: "The Angels of Mons"
 permalink: /archives/2014/09/the_angels_of_mons.html
+commentfile: 2014-09-18-the_angels_of_mons
 category: around_town
 date: 2014-09-18 21:41:52
 excerpt: |
@@ -82,3 +83,6 @@ And all his bl--ding army."
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

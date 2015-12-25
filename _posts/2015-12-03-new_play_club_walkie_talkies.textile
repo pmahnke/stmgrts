@@ -2,6 +2,7 @@
 layout: post
 title: "New Play Club - Walkie Talkies"
 permalink: /archives/2015/12/new_play_club_walkie_talkies.html
+commentfile: 2015-12-03-new_play_club_walkie_talkies
 category: around_town
 date: 2015-12-03 19:20:23
 excerpt: |
@@ -28,3 +29,7 @@ h4. More Information
 * Contact
 ** Margaret McCondach (BMUS, PGCE, MA) 07960 499494
 ** Jodie Sitner (AISTD, MBBO) 07914 796651
+
+
+
+{% include comments.html %}

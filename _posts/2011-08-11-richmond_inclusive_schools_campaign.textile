@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Inclusive Schools Campaign"
 permalink: /archives/2011/08/richmond_inclusive_schools_campaign.html
+commentfile: 2011-08-11-richmond_inclusive_schools_campaign
 category: news
 date: 2011-08-11 14:25:33
 excerpt: |
@@ -21,3 +22,9 @@ It reads:
 bq. We, the undersigned, petition the council to ensure that every state-funded school opening in the borough from now on is inclusive, so that no child can be denied a place in a good local school because of the religion or belief of their parents. Rising pupil numbers mean the borough needs more secondary schools. Sites are hard to find and money is tight. Yet the Council has given top priority to offering a site for a Voluntary Aided Catholic school, which will effectively be closed to a majority of the borough's children. It needs to think again.
 
 p. The website for _Richmond Inclusive Schools Campaign_ is "www.richmondinclusiveschools.org.uk":http://www.richmondinclusiveschools.org.uk if you want to find out more.
+
+
+
+
+
+{% include comments.html %}

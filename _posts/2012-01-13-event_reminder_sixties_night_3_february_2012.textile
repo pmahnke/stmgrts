@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Sixties Night - 3 February 2012"
 permalink: /archives/2012/01/event_reminder_sixties_night_3_february_2012.html
+commentfile: 2012-01-13-event_reminder_sixties_night_3_february_2012
 category: around_town
 date: 2012-01-13 17:48:26
 excerpt: |
@@ -31,3 +32,9 @@ h4. More Information
 ** Liz: "liz@davidadamsleukaemiaapeal.org":mailto:liz@davidadamsleukaemiaapeal.org
 ** 020 8891 2221
 ** The David Adams Leukaemia Appeal
+
+
+
+
+
+{% include comments.html %}

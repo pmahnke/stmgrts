@@ -2,6 +2,7 @@
 layout: post
 title: "River Crane Catchment Plan Released"
 permalink: /archives/2013/11/river_crane_catchment_plan_released.html
+commentfile: 2013-11-15-river_crane_catchment_plan_released
 category: news
 date: 2013-11-15 21:18:15
 
@@ -17,3 +18,8 @@ The Plan was launched at the Crane Valley Conference on 4 October 2013.
 
 * "Download Catchment Plan":http://cranevalley.org.uk/symphony/extension/richtext_redactor/getfile/?name=95f5d06c0a49bd28015f645289047532.pdf [PDF]
 * "Crane Valley Partnership website":http://cranevalley.org.uk/
+
+
+
+
+{% include comments.html %}

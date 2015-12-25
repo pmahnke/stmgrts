@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Jubilee Jazz Festival - 3 to 4 June 2012"
 permalink: /archives/2012/04/event_reminder_jubilee_jazz_festival_3_to_4_june_2.html
+commentfile: 2012-04-10-event_reminder_jubilee_jazz_festival_3_to_4_june_2
 category: around_town
 date: 2012-04-10 10:59:42
 
@@ -27,3 +28,7 @@ h4. More Information
 * enq 0208 286 3242 and for discounted weekend breaks
 * "www.jubileejazz.destinationrichmond.co.uk":http://www.jubileejazz.destinationrichmond.co.uk
 * Children under 12 free
+
+
+
+{% include comments.html %}

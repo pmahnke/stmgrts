@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The 'Reel' Village Dance - 3 October 2014"
 permalink: /archives/2014/09/event_reminder_the_reel_village_dance_3_october_20.html
+commentfile: 2014-09-06-event_reminder_the_reel_village_dance_3_october_20
 category: around_town
 date: 2014-09-06 08:21:50
 excerpt: |
@@ -28,3 +29,7 @@ There will be live folk music from the fantastic local Squirrels Band, featuring
 Tickets are just &pound;10 - a bargain for what we promise will be the most fun you've had for ages! All proceeds will be donated to local charity Spear, working to enable homeless people in our community to find secure accommodation and to take steps towards a more positive future.
 
 To buy tickets or for more information, please call Judy on 07806 612101 or email "Judy.Jackson02@gmail.com":mailto:Judy.Jackson02@gmail.com.
+
+
+
+{% include comments.html %}

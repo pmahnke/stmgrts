@@ -2,6 +2,7 @@
 layout: post
 title: "St.Art - a New Pop-up Gallery Space in the Heart of St Margarets"
 permalink: /archives/2009/10/start_a_new_popup_gallery_space_in_the_heart_of_st.html
+commentfile: 2009-10-16-start_a_new_popup_gallery_space_in_the_heart_of_st
 category: news
 date: 2009-10-16 18:47:52
 excerpt: |
@@ -29,3 +30,9 @@ St.Art is proud to be showing work from artists that include Deborah Lanyon, an 
 
 The four day event takes place at 13 Broadway Avenue, St Margarets from Friday 20<sup>th</sup> to Sunday 22<sup>nd</sup> November 10am - 4pm daily.
 Those wishing to join the St.Art mailing list for details of future events or to receive an invitation to the private view please email "ingrid@start-gallery.co.uk":mailto:ingrid@start-gallery.co.uk. The private view will take place on Thursday 19<sup>th</sup> November 6.30 - 9pm at 13 Broadway Avenue, St Margarets.
+
+
+
+
+
+{% include comments.html %}

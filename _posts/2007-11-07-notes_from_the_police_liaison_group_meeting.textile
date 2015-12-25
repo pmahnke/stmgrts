@@ -2,6 +2,7 @@
 layout: post
 title: "Notes from the Police Liaison Group Meeting"
 permalink: /archives/2007/11/notes_from_the_police_liaison_group_meeting.html
+commentfile: 2007-11-07-notes_from_the_police_liaison_group_meeting
 category: news
 date: 2007-11-07 12:38:20
 
@@ -57,3 +58,6 @@ Public satisfaction with the local police force is 77%, the third highest in the
 Before the public meeting, Policing Priorities for the ward were: burglary, anti-social behaviour, motor vehicle crime, and criminal damage.
 
 But after each attendee was asked what they would like to see prioritised, they were revised as follows: robbery, anti-social behaviour and theft of pedal cycles.
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Crown Road Community Summer Fair Date Announced"
 permalink: /archives/2014/04/crown_road_community_summer_fair_date_announced.html
+commentfile: 2014-04-09-crown_road_community_summer_fair_date_announced
 category: news
 date: 2014-04-09 21:31:09
 excerpt: |
@@ -19,3 +20,9 @@ This year's Crown Road Community Fair takes place on "Sunday, 8 June 2014, from 
 St Margarets will be alive with the sound of music as we're having a stage in the Tavern's car park, with live acts playing throughout the day and into the night.
 
 Come along and bring your dancing shoes! More details to follow...
+
+
+
+
+
+{% include comments.html %}

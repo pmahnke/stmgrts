@@ -2,6 +2,7 @@
 layout: post
 title: "Sunday Drop-in Workshops at Orleans House Gallery"
 permalink: /archives/2010/09/sunday_dropin_workshops_at_orleans_house_gallery.html
+commentfile: 2010-09-13-sunday_dropin_workshops_at_orleans_house_gallery
 category: around_town
 date: 2010-09-13 09:07:14
 excerpt: |
@@ -47,3 +48,6 @@ Orleans House Gallery, Riverside, Twickenham, TW1 3DJ
 Tel: 020 8831 6000
 Email: betsy.lewisholmes@richmond.gov.uk
 Website: www.richmond.gov.uk/arts
+
+
+{% include comments.html %}

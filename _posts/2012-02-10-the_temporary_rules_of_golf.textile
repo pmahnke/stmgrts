@@ -2,6 +2,7 @@
 layout: post
 title: "The Temporary Rules of Golf"
 permalink: /archives/2012/02/the_temporary_rules_of_golf.html
+commentfile: 2012-02-10-the_temporary_rules_of_golf
 category: around_town
 date: 2012-02-10 14:15:57
 excerpt: |
@@ -110,3 +111,6 @@ The word "Bogie" is used in both golf and the RAF. In RAF wartime slang "a bogey
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

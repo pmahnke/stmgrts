@@ -2,6 +2,7 @@
 layout: post
 title: "Election Results&#58; Tories Win Control of Richmond Council - May 2010"
 permalink: /archives/2010/05/election_results_tories_win_control_of_richmond_co.html
+commentfile: 2010-05-08-election_results_tories_win_control_of_richmond_co
 category: news
 date: 2010-05-08 07:52:26
 
@@ -38,3 +39,8 @@ h3. Results
 |West Twickenham |.|3|
 |Whitton |1|2|
 |Total|30|24|
+
+
+
+
+{% include comments.html %}

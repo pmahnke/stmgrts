@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Jazz Showcase - Back to The Rising Sun!"
 permalink: /archives/2008/06/event_reminder_the_jazz_showcase_back_to_the_risin.html
+commentfile: 2008-06-19-event_reminder_the_jazz_showcase_back_to_the_risin
 category: around_town
 date: 2008-06-19 09:05:59
 
@@ -18,3 +19,8 @@ As a special treat we hope to have Sarah Ellen Hughes singing with us this Monda
 Sarah has been the principal singer with the National Youth Jazz Orchestra for the last three years and has appeared with NYJO at the Pizza Express Dean Street, Ronnie Scotts and The Stables at Wavendon and now has a residency at Pizza on the Park on the first Wednesday of each month.
 
 Admission is free
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Last Post"
 permalink: /archives/2010/11/the_last_post.html
+commentfile: 2010-11-18-the_last_post
 category: around_town
 date: 2010-11-18 21:53:42
 excerpt: |
@@ -79,3 +80,8 @@ Over the years the playing of the "Last Post" at day's end spread throughout the
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

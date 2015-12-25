@@ -2,6 +2,7 @@
 layout: post
 title: "Looking for Heroes!"
 permalink: /archives/2015/06/looking_for_heroes.html
+commentfile: 2015-06-02-looking_for_heroes
 category: around_town
 date: 2015-06-02 21:58:55
 excerpt: |
@@ -69,3 +70,12 @@ Boy Seaman First Class Jack Cornwell is still remembered. His name has been give
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: The painting of Jack Cornwell by his gun is by Frank O Salisbury 1874-1962</em>
+
+
+
+
+
+
+
+
+{% include comments.html %}

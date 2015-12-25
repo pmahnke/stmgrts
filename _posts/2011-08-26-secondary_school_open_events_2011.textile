@@ -2,6 +2,7 @@
 layout: post
 title: "Secondary School Open Events 2011"
 permalink: /archives/2011/08/secondary_school_open_events_2011.html
+commentfile: 2011-08-26-secondary_school_open_events_2011
 category: news
 date: 2011-08-26 15:19:31
 
@@ -108,3 +109,7 @@ h3. "St Catherine's School":http://www.stmgrts.org.uk/directory/school/201108291
 * Open Morning: Wednesday 23 November 2011 2.00pm
 
 If you would like to reserve a place on one of the above dates, please telephone the Admissions Secretary, Angelita Faulkner on 0203 261 0139 or "admissions@stcatherineschool.co.uk":mailto:admissions@stcatherineschool.co.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Pub Quiz - 29 March 2015"
 permalink: /archives/2015/03/event_reminder_charity_pub_quiz_29_march_2015.html
+commentfile: 2015-03-05-event_reminder_charity_pub_quiz_29_march_2015
 category: around_town
 date: 2015-03-05 20:46:33
 excerpt: |
@@ -17,3 +18,9 @@ My name is Pete and I am running the London Marathon in April. In order to do th
 On the night there will be a cash prize for the winning team and as well as a raffle with some fantastic prizes. All ticket and raffle money will be donated to "my just giving page":http://www.justgiving.com/peteabbott.
 
 If you would like to take part in the quiz tickets can be "purchased from my website":http://www.petept.uk/vmlm-pub-quiz-ticket/.
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Age Richmond's New Premier Housekeeping Service"
 permalink: /archives/2014/02/age_richmonds_new_premier_housekeeping_service.html
+commentfile: 2014-02-21-age_richmonds_new_premier_housekeeping_service
 category: news
 date: 2014-02-21 11:01:06
 
@@ -33,3 +34,6 @@ h4. We need reliable Housekeeping staff
 To help us to fulfil our vision of this much needed service we require reliable, trustworthy, hard working and exceptional Housekeepers. Recruiting the right person for this role is key to the success of the new service. We will only consider applicants who address all the points in the person specification.
 
 * "Download more detailed job description":/images/AGERICHMOND_HOUSEKEEPERS_JD_AND_PS.pdf  [pdf]
+
+
+{% include comments.html %}

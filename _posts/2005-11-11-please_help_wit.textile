@@ -2,6 +2,7 @@
 layout: post
 title: "Please Help with Operation Simba"
 permalink: /archives/2005/11/please_help_wit.html
+commentfile: 2005-11-11-please_help_wit
 category: around_town
 date: 2005-11-11 08:39:59
 
@@ -25,3 +26,6 @@ Operation Simba is looking for:
 Please put the gifts in cardboard boxes, labeled clearly and sealed, with a description of the contents. 
 
 British Airways will ship the goods to Kenya - one of the world's poorest countries.  From where Bimal Shah, with the Lions Club of Nairobi, will distribute the goods directly to under-privileged children. 
+
+
+{% include comments.html %}

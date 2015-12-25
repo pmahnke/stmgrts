@@ -2,6 +2,7 @@
 layout: post
 title: "Midsummer Carriage Rides in Richmond Park - 12 to 28 June 2015"
 permalink: /archives/2015/05/midsummer_carriage_rides_in_richmond_park_12_to_28.html
+commentfile: 2015-05-14-midsummer_carriage_rides_in_richmond_park_12_to_28
 category: around_town
 date: 2015-05-14 21:54:18
 excerpt: |
@@ -23,3 +24,7 @@ h4. More Information
 
 * The rides run from 12 to 28 June 2015, with three rides per day at 5:30pm, 6:30pm and 7:30pm
 * "Book online":http://www.supporttheroyalparks.org/shop/experiences/filter/horse+rides
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Riverside Jubilee Festival 2012"
 permalink: /archives/2012/05/twickenham_riverside_jubilee_festival_2012.html
+commentfile: 2012-05-24-twickenham_riverside_jubilee_festival_2012
 category: around_town
 date: 2012-05-24 23:02:09
 excerpt: |
@@ -22,3 +23,8 @@ The Festival, which was inspired by the success of the Twickenham Riverside Rega
 The Twickenham Riverside Jubilee Festival will start with the traditional Tug of War outside the Barmy Arms and the popular Morris dancers will be making their customary appearance. Twickenham Alive aims to bring new events to the Festival and will be working up until the last minute to make this the most exciting festival to take place in Twickenham.
 
 * "Download the flyer with event listings":http://www.stmgrts.org.uk/images/TRJF_Programme_2012.pdf  [pdf]
+
+
+
+
+{% include comments.html %}

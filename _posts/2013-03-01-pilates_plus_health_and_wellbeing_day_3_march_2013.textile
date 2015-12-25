@@ -2,6 +2,7 @@
 layout: post
 title: "Pilates Plus Health and Wellbeing Day - 3 March 2013"
 permalink: /archives/2013/03/pilates_plus_health_and_wellbeing_day_3_march_2013.html
+commentfile: 2013-03-01-pilates_plus_health_and_wellbeing_day_3_march_2013
 category: around_town
 date: 2013-03-01 07:15:19
 
@@ -27,3 +28,9 @@ Gift Vouchers Available
 More information is available on line at "www.pilates-plus.co.uk":http://www.pilates-plus.co.uk or from the Pilates Plus reception at 4 Crown Road or 0208 892340.
 
 _Booking is essential either at reception or on-line_
+
+
+
+
+
+{% include comments.html %}

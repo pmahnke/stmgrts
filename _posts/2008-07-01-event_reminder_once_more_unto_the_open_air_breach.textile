@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Once More unto the (Open Air) Breach -- with Henry V"
 permalink: /archives/2008/07/event_reminder_once_more_unto_the_open_air_breach.html
+commentfile: 2008-07-01-event_reminder_once_more_unto_the_open_air_breach
 category: around_town
 date: 2008-07-01 22:55:44
 
@@ -26,3 +27,7 @@ Muth founded Bard Unbound in the USA where she first began creating site-specifi
 
 'I have enormous respect for this play. The role of Henry is as challenging at Hamlet without getting so much help from the text. Where a strong ensemble can save a weak Hamlet, Henry can't survive as anything less than a dynamic, capable commander prepared to expose chinks in his armour. We're lucky to have a very strong ensemble & an outstanding Henry played by Teddington-born James Ellis.'
 Performances of Henry V run from 7.45 on 6-12th July (except Wednesday 9th). The ambitious show, supported by Twickenham Fine Ales and Hampton Fuel Allotment Charity, runs on the sunken lawn at Twickenham's York House Gardens -- bring a picnic and a rug or chair to sit on (licensed bar on premises). For details and bookings, call the box office on 020 8744 0547 or visit "www.rss-mwt.org.uk":http://www.rss-mwt.org.uk/
+
+
+
+{% include comments.html %}

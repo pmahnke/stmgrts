@@ -2,6 +2,7 @@
 layout: post
 title: "Freckleface Fundraising for Malawi"
 permalink: /archives/2010/09/freckleface_fundraising_for_malawi.html
+commentfile: 2010-09-03-freckleface_fundraising_for_malawi
 category: news
 date: 2010-09-03 11:42:58
 excerpt: |
@@ -27,3 +28,9 @@ h3. Book a session with Freckleface Photography
 Book a 30 minute kids studio photo-session and donate £20 to the Phunzira appeal (normal session price £125!)  Receive an online gallery of photos taken on the day where you can view and order prints.  All profits from the prints will also be donated!
 
 For more information, or to book a session, please call Emma on 07814301926, email "info@frecklefacephotography.com":mailto:info@frecklefacephotography.com or visit "www.frecklefacephotography.com":http://www.frecklefacephotography.com.
+
+
+
+
+
+{% include comments.html %}

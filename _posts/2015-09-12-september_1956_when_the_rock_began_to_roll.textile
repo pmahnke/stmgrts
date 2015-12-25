@@ -2,6 +2,7 @@
 layout: post
 title: "September 1956 - When the Rock Began to Roll"
 permalink: /archives/2015/09/september_1956_when_the_rock_began_to_roll.html
+commentfile: 2015-09-12-september_1956_when_the_rock_began_to_roll
 category: around_town
 date: 2015-09-12 09:55:08
 excerpt: |
@@ -86,3 +87,7 @@ Dancers Earl Barton and Lisa Gaye and some hip jive talk, daddio! Coming in on a
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

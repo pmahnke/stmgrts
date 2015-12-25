@@ -2,6 +2,7 @@
 layout: post
 title: "The Ghost on Richmond Green"
 permalink: /archives/2010/09/the_ghost_on_richmond_green.html
+commentfile: 2010-09-24-the_ghost_on_richmond_green
 category: around_town
 date: 2010-09-24 08:37:06
 excerpt: |
@@ -36,3 +37,7 @@ Maybe they should have added that it didn't conjure up ghosts either and scare h
 _This article was motivated by "Ghosts, Murderers and Mayhem in Richmond" by Norman Radley, written on behalf of the Richmond upon Thames Society of Voluntary Guides._
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

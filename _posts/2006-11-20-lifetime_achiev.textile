@@ -2,6 +2,7 @@
 layout: post
 title: "Lifetime Achievement Award for Sunvil's Noel Josephides"
 permalink: /archives/2006/11/lifetime_achiev.html
+commentfile: 2006-11-20-lifetime_achiev
 category: around_town
 date: 2006-11-20 19:14:18
 excerpt: |
@@ -34,3 +35,7 @@ Says Josephides:  "I am very honoured and happy to receive this prestigious awar
 Josephides has also been recognised by the governments of Cyprus and Portugal and the Greek and Cypriot tourism industries, and currently sits on the boards of AITO (the Association of Independent Tour Operators), the AITO Trust, AGTA (Association of Greek Cypriot Travel Agents), ATOP (Association of Tour Operators to Portugal) and ABTA (Association of British Travel Agents).
 
 <em>-- from a press release</em>
+
+
+
+{% include comments.html %}

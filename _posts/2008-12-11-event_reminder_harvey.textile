@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Harvey"
 permalink: /archives/2008/12/event_reminder_harvey.html
+commentfile: 2008-12-11-event_reminder_harvey
 category: around_town
 date: 2008-12-11 09:35:09
 excerpt: |
@@ -30,3 +31,8 @@ Director John Gilbert says: "The play works best in the period in which it's wri
 bq. "In 1950 Harvey became a memorable film starring James Stewart. As Elwood shares his ... well, idiosyncratic outlook, its Pulitzer Prize credentials still sparkle through just as superbly. We expect it to become this year's top pre-Christmas present, and given its likely popularity, we'll be performing 10 shows rather than our usual eight."
 
 "Harvey runs from December 12th":http://www.stmgrts.org.uk/event/play/200705142016 to 20th at 7.45pm (Sun 14th 4pm, matinees Sats 13th & 20th 3pm, no show Weds 17th). Box office 020 8744 0547 for bookings, membership and more details.
+
+
+
+
+{% include comments.html %}

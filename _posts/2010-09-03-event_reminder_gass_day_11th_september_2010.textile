@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; GASS Day - 11 September 2010"
 permalink: /archives/2010/09/event_reminder_gass_day_11th_september_2010.html
+commentfile: 2010-09-03-event_reminder_gass_day_11th_september_2010
 category: around_town
 date: 2010-09-03 12:15:23
 excerpt: |
@@ -32,3 +33,9 @@ Adding to the day's sense of community at 2.30pm local kids in fancy dress will 
 GASS Day pitches are available to residents and non-residents alike. The cost of a resident pitch is £2, for non-residents it is £5. Please note that these pitches are for NON-COMMERCIAL purposes only.
 
 For more information or to register a pitch please call Laurence on 0208 400 9822
+
+
+
+
+
+{% include comments.html %}

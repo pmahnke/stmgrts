@@ -2,6 +2,7 @@
 layout: post
 title: "A Plan for St Margarets"
 permalink: /archives/2011/06/a_plan_for_st_margarets.html
+commentfile: 2011-06-09-a_plan_for_st_margarets
 category: news
 date: 2011-06-09 12:33:24
 excerpt: |
@@ -28,3 +29,8 @@ Ideas include getting a fishmonger and a bakery and adding more retail space on 
 You can "download and read the leaflet":http://www.stmgrts.org.uk/images/St_Margarets_plan.pdf [pdf]
 
 _What do you think?_
+
+
+
+
+{% include comments.html %}

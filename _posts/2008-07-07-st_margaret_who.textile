@@ -2,6 +2,7 @@
 layout: post
 title: "St Margaret Who?"
 permalink: /archives/2008/07/st_margaret_who.html
+commentfile: 2008-07-07-st_margaret_who
 category: around_town
 date: 2008-07-07 08:16:20
 excerpt: |
@@ -28,3 +29,7 @@ But what St Margaret is she?  We have at least 5 to choose from! There's Margare
 Of course, as far as the Anglican Church authorities are concerned we do not live in St. Margarets at all! Because there are other parishes in the country called St. Margarets and church rules do not allow two parishes to carry the same name, about 100 years ago they renamed our parish "St Margarets on Thames". Now that is a very stylish name indeed and guaranteed to add at least &pound;25,000 to property values. At this time of credit crunch and falling house prices perhaps we should all change our addresses, swapping 'St Margarets' for the oh-so-classy 'St Margarets on Thames'. It is certainly easier than being swallowed by a dragon!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

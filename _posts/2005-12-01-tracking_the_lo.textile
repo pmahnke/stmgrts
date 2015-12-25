@@ -2,6 +2,7 @@
 layout: post
 title: "Tracking the Loading Bay for the Council"
 permalink: /archives/2005/12/tracking_the_lo.html
+commentfile: 2005-12-01-tracking_the_lo
 category: editorial
 date: 2005-12-01 17:05:24
 
@@ -19,3 +20,10 @@ Here is how it works:
 # Then go to the "Online Log":http://www.stmgrts.org.uk/forms/tesco_board.php to see a record of all the submitted observations.
 
 NOTE: <em>if you have forgotten, the "Loading Bay's Rules are posted here":http://www.stmgrts.org.uk/archives/2005/10/council_legitim.html.</em>
+
+
+
+
+
+
+{% include comments.html %}

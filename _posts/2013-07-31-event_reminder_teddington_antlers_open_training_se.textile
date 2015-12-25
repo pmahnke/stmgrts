@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Teddington Antlers Open Training Session - 11 August 2013"
 permalink: /archives/2013/07/event_reminder_teddington_antlers_open_training_se.html
+commentfile: 2013-07-31-event_reminder_teddington_antlers_open_training_se
 category: around_town
 date: 2013-07-31 21:23:59
 excerpt: |
@@ -44,3 +45,7 @@ h4. When
 h4. Contact us
 
 * Let us know if you're coming! Email us at "ladies@teddingtonrfc.co.uk":mailto:ladies@teddingtonrfc.co.uk
+
+
+
+{% include comments.html %}

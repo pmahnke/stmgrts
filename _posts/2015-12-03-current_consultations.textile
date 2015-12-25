@@ -2,6 +2,7 @@
 layout: post
 title: "Current Consultations"
 permalink: /archives/2015/12/current_consultations.html
+commentfile: 2015-12-03-current_consultations
 category: news
 date: 2015-12-03 19:42:02
 excerpt: |
@@ -23,3 +24,6 @@ We want the very best for Twickenham. A place where people choose to live, work,
 
 
 Residents and businesses have told us Twickenham needs a new 'heart' and improved public space. This is our chance to do it. To work together to create a high quality community space for markets, performances and where people can relax and enjoy the town and the river for years to come.
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Beware of Bogus Force Representative"
 permalink: /archives/2011/11/beware_of_bogus_force_representative.html
+commentfile: 2011-11-16-beware_of_bogus_force_representative
 category: news
 date: 2011-11-16 09:57:50
 
@@ -16,3 +17,9 @@ We are working with the Environment Agency, Thames Water and others to develop a
 FORCE does run a membership scheme, details of this are available on our website
 
 <cite>-- from Friends of the River Crane Environment (FORCE) - 15 November 2011</cite>
+
+
+
+
+
+{% include comments.html %}

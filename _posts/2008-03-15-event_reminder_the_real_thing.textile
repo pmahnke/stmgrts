@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Real Thing"
 permalink: /archives/2008/03/event_reminder_the_real_thing.html
+commentfile: 2008-03-15-event_reminder_the_real_thing
 category: around_town
 date: 2008-03-15 19:15:32
 excerpt: |
@@ -30,3 +31,8 @@ The highly experienced cast includes Francis Abbott as Henry, Sue Baxter as Anni
 The Real Thing runs from Sat 29th March to Sat Apr 5th, (no show Wed) at 7.45pm with matinees at 4pm on Sunday Mar 30th and 3pm on Saturday Apr 5th. Tickets &pound;8 or &pound;10.
 
 The RSS is a Club Theatre, and tickets may only be sold to members. Tickets by post, or phone from Box Office, Mary Wallace Theatre, Embankment, Twickenham, TW1 3DU, 020 8744 0547, "www.rss-mwt.org.uk":http://www.rss-mwt.org.uk/ Bookings must be secured by credit card, or by cash or cheque within three days. Membership enquiries 020 8940 1606, "membership@rss-mwt.org.uk":mailto:membership@rss-mwt.org.uk.
+
+
+
+
+{% include comments.html %}

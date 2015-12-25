@@ -2,6 +2,7 @@
 layout: post
 title: "Review of Dolce Divas 4 Concert"
 permalink: /archives/2012/02/review_of_dolce_divas_4_concert.html
+commentfile: 2012-02-25-review_of_dolce_divas_4_concert
 category: around_town
 date: 2012-02-25 10:36:16
 
@@ -12,3 +13,8 @@ An audience were treated to a wonderful concert on Saturday by the St Margarets 
 Admission was free but there was a collection in aid of St Stephens's school. The heartfelt and enthusiastic applause confirmed that further concerts will be eagerly anticipated.
 
 <cite>-- from Alister Cameron</cite>
+
+
+
+
+{% include comments.html %}

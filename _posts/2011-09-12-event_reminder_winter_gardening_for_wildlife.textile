@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Winter Gardening for Wildlife"
 permalink: /archives/2011/09/event_reminder_winter_gardening_for_wildlife.html
+commentfile: 2011-09-12-event_reminder_winter_gardening_for_wildlife
 category: around_town
 date: 2011-09-12 13:48:22
 excerpt: |
@@ -34,3 +35,7 @@ h4. Details
 * Accompanied children 11 years and over are welcome, this event is not suitable for younger children.
 * Accessible for wheelchair users.
 * To be held in Kew's Jodrell Lecture Theatre - 2pm to 4.30pm, entry via the Jodrell Gate (opposite Gloucester Court) from 1.30pm.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Poison Gas Week"
 permalink: /archives/2011/05/poison_gas_week.html
+commentfile: 2011-05-05-poison_gas_week
 category: around_town
 date: 2011-05-05 17:43:07
 excerpt: |
@@ -111,3 +112,7 @@ h4. I did what I could with gas mask - George Formby
 <cite>-- from Martyn Day</cite>
 
 <em>Credits: Photographs taken in George Street, Richmond are from the 'Daily Mail'. The Mayor's announcement of "Poison Gas Week" are from Richmond Library - Local Studies Collection.</em>
+
+
+
+{% include comments.html %}

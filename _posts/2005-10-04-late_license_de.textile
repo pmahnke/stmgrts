@@ -2,6 +2,7 @@
 layout: post
 title: "Late License Decision for the Turks Head"
 permalink: /archives/2005/10/late_license_de.html
+commentfile: 2005-10-04-late_license_de
 category: news
 date: 2005-10-04 14:47:22
 
@@ -22,3 +23,8 @@ The hours they have been given are as follows:
 |Friday & Saturday|10am - 1am|
 
 _30 minutes drinking up time for both._
+
+
+
+
+{% include comments.html %}

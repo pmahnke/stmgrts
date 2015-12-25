@@ -2,6 +2,7 @@
 layout: post
 title: "Volunteer Minibus Driver Needed"
 permalink: /archives/2011/11/volunteer_minibus_driver_needed.html
+commentfile: 2011-11-24-volunteer_minibus_driver_needed
 category: around_town
 date: 2011-11-24 21:55:46
 excerpt: |
@@ -20,3 +21,9 @@ h4. More Information
 
 * Phone: 020 8891 3346
 * "handscaregroup@btconnect.com":mailto:handscaregroup@btconnect.com
+
+
+
+
+
+{% include comments.html %}

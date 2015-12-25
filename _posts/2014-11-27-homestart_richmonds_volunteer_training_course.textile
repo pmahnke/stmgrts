@@ -2,6 +2,7 @@
 layout: post
 title: "Home-Start Richmond's Volunteer Training Course"
 permalink: /archives/2014/11/homestart_richmonds_volunteer_training_course.html
+commentfile: 2014-11-27-homestart_richmonds_volunteer_training_course
 category: around_town
 date: 2014-11-27 20:48:52
 
@@ -21,3 +22,7 @@ h2. To find out more, contact Angie Ahmed
 
 * 020 8487 8500
 * "info@homestart-richmond.org.uk":mailto:info@homestart-richmond.org.uk
+
+
+
+{% include comments.html %}

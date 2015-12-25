@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Granted More Loading Bay Leniency"
 permalink: /archives/2005/09/tesco_granted_m.html
+commentfile: 2005-09-23-tesco_granted_m
 category: news
 date: 2005-09-23 13:41:48
 
@@ -26,3 +27,7 @@ p>. -- from the <a href="http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=9206
 Which 'community initiatives' and Tesco's commitment to them have not been communicated yet.
 
 Additionally, the Council claims that they will attempt to enforce the revised restrictions.
+
+
+
+{% include comments.html %}

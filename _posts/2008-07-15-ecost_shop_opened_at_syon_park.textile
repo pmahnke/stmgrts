@@ -2,6 +2,7 @@
 layout: post
 title: "ECO-St Shop Opened at Syon Park"
 permalink: /archives/2008/07/ecost_shop_opened_at_syon_park.html
+commentfile: 2008-07-15-ecost_shop_opened_at_syon_park
 category: around_town
 date: 2008-07-15 08:40:17
 
@@ -16,3 +17,8 @@ ECO-St's aim is to help people work out how they can lower their carbon footprin
 Another green initiative we have set up, which is proving popular around our other two stores, is a low energy light bulb library. This is a 'suitcase' type bag housing our most popular 40 low energy light bulbs. This can be borrowed by green groups and schools to take home so people can work out in the comfort of their own home, which light bulbs work best in their light fittings. Additionally, we will give 10% of the total spent on low energy light bulbs, through the use ofour library, to the school borrowing the library.
 
 For further details visit "www.eco-st.com":http://www.eco-st.com/
+
+
+
+
+{% include comments.html %}

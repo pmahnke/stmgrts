@@ -2,6 +2,7 @@
 layout: post
 title: "Missing Cat No. 4 - Tama"
 permalink: /archives/2007/11/missing_cat_no_4_tama.html
+commentfile: 2007-11-24-missing_cat_no_4_tama
 category: around_town
 date: 2007-11-24 14:35:45
 
@@ -16,3 +17,8 @@ We miss him very much and are very worried as he has never stayed  away this lon
 We last saw him on Monday morning 19 November 2007.
 
 Please email "s.rofanishearer@btinternet.com":mailto:s.rofanishearer@btinternet.com
+
+
+
+
+{% include comments.html %}

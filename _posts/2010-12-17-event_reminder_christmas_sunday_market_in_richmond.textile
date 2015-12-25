@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Christmas Sunday Market in Richmond - 19 December 2010"
 permalink: /archives/2010/12/event_reminder_christmas_sunday_market_in_richmond.html
+commentfile: 2010-12-17-event_reminder_christmas_sunday_market_in_richmond
 category: around_town
 date: 2010-12-17 11:57:46
 
@@ -17,3 +18,9 @@ bq. "The market will include local artists and crafters, live local musicians an
 h4. Details
 
 * "Download poster":http://www.stmgrts.org.uk/images//DuckPondMarketRichmondPoste.jpg
+
+
+
+
+
+{% include comments.html %}

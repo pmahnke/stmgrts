@@ -2,6 +2,7 @@
 layout: post
 title: "Isleworth Promenade - a New Friends Group?"
 permalink: /archives/2014/11/isleworth_promenade_a_new_friends_group.html
+commentfile: 2014-11-06-isleworth_promenade_a_new_friends_group
 category: news
 date: 2014-11-06 21:06:00
 
@@ -18,3 +19,7 @@ h4. More Information
 * "www.swlen.org.uk":http://www.swlen.org.uk
 * "info@swlen.org.uk":mailto:info@swlen.org.uk
 * 020 8892 0590
+
+
+
+{% include comments.html %}

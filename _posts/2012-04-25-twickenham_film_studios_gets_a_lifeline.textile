@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Film Studios gets a lifeline"
 permalink: /archives/2012/04/twickenham_film_studios_gets_a_lifeline.html
+commentfile: 2012-04-25-twickenham_film_studios_gets_a_lifeline
 category: news
 date: 2012-04-25 14:22:16
 
@@ -16,3 +17,8 @@ Gerald Krasner, administrator for the studios, said: "It is the purchaser's inte
 <cite>The Guardian - "25 April 2012":http://www.guardian.co.uk/film/2012/apr/25/twickenham-film-studios-lifeline</cite>
 
 _Thanks Maeve Good!_
+
+
+
+
+{% include comments.html %}

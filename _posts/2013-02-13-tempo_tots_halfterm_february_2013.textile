@@ -2,6 +2,7 @@
 layout: post
 title: "Tempo Tots Half-term - February 2013"
 permalink: /archives/2013/02/tempo_tots_halfterm_february_2013.html
+commentfile: 2013-02-13-tempo_tots_halfterm_february_2013
 category: around_town
 date: 2013-02-13 22:09:04
 excerpt: |
@@ -82,3 +83,7 @@ h4. For further information and booking enquiries please contact Charlotte:
 * phone: 07956 447118
 * "bookings@tempo-tots.com":mailto:bookings@tempo-tots.com
 * "www.tempo-tots.com":http://www.tempo-tots.com
+
+
+
+{% include comments.html %}

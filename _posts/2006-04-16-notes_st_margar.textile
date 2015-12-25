@@ -2,6 +2,7 @@
 layout: post
 title: "Notes &#58; St Margaret's Parking Congestion Meeting"
 permalink: /archives/2006/04/notes_st_margar.html
+commentfile: 2006-04-16-notes_st_margar
 category: news
 date: 2006-04-16 08:37:14
 excerpt: |
@@ -41,3 +42,6 @@ It is proposed that residents' display discs and instructions will be distribute
 Once the numbers are collated, they will be presented for discussion at an open meeting: precise date to be confirmed, but hopefully the first week of June.
 
 The Council has stated the solution that is agreed at the open meeting will be applied for a six-month trial period only in order to enable residents to test and assess the result.  Following this, the arrangement can be adjusted or changed completely as deemed appropriate.
+
+
+{% include comments.html %}

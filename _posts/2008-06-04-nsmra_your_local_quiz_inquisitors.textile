@@ -2,6 +2,7 @@
 layout: post
 title: "NSMRA -- Your Local Quiz Inquisitors"
 permalink: /archives/2008/06/nsmra_your_local_quiz_inquisitors.html
+commentfile: 2008-06-04-nsmra_your_local_quiz_inquisitors
 category: around_town
 date: 2008-06-04 22:14:53
 
@@ -20,3 +21,11 @@ The "NSMRA Quiz Night":http://stmgrts.org.uk/event/meeting/200705141868 is on Sa
 "The Great Annual Street Sale - GASS":http://stmgrts.org.uk/event/meeting/200705141869 takes place in and around Haliburton Road on the afternoon of Saturday 6th September.
 
 If you want to find out more about NSMRA or any of their events please Email: "nsmra@btinternet.com":mailto:nsmra@btinternet.com
+
+
+
+
+
+
+
+{% include comments.html %}

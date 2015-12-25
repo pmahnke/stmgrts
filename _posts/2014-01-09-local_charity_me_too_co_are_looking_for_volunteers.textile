@@ -2,6 +2,7 @@
 layout: post
 title: "Local Charity 'me too & co' are Looking for Volunteers"
 permalink: /archives/2014/01/local_charity_me_too_co_are_looking_for_volunteers.html
+commentfile: 2014-01-09-local_charity_me_too_co_are_looking_for_volunteers
 category: around_town
 date: 2014-01-09 22:40:10
 excerpt: |
@@ -37,3 +38,7 @@ h4. More Information
 * 07946 646033
 * Or visit our website "www.metooandco.org.uk":http://www.metooandco.org.uk
 * All ages welcome (over 16)
+
+
+
+{% include comments.html %}

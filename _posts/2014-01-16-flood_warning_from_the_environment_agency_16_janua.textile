@@ -2,6 +2,7 @@
 layout: post
 title: "Flood Warning from the Environment Agency - 16 January 2014"
 permalink: /archives/2014/01/flood_warning_from_the_environment_agency_16_janua.html
+commentfile: 2014-01-16-flood_warning_from_the_environment_agency_16_janua
 category: news
 date: 2014-01-16 17:08:54
 
@@ -14,3 +15,9 @@ bq. "The current river flow at Teddington Weir is high at 353 cubic metres per s
 
 
 Gardens along the Tidal Crane are flooding even now.
+
+
+
+
+
+{% include comments.html %}

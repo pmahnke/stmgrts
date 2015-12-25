@@ -2,6 +2,7 @@
 layout: post
 title: "BIBA Journalist of the Year 2012 - Bob Howard"
 permalink: /archives/2012/07/biba_journalist_of_the_year_2012_bob_howard.html
+commentfile: 2012-07-20-biba_journalist_of_the_year_2012_bob_howard
 category: news
 date: 2012-07-20 10:37:04
 
@@ -26,3 +27,10 @@ bq.. "We are now in our 30th year of the awards, and every year we have seen the
 "I commend all those short-listed for providing a valuable service to the British consumer and the insurance sector, and would like to congratulate the winners on their fantastic and well deserved achievement."
 
 </div>
+
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Community Website 2014 Review"
 permalink: /archives/2014/12/st_margarets_community_website_2014_review.html
+commentfile: 2014-12-31-st_margarets_community_website_2014_review
 category: editorial
 date: 2014-12-31 09:06:05
 excerpt: |
@@ -93,3 +94,8 @@ One trend we have been watching is how many people are now using the site on pho
 
 
 Well, hope you have a great 2015 and if you want to write an article or promote that local event, please "get in touch":http://www.stmgrts.org.uk/static/info/contact.html
+
+
+
+
+{% include comments.html %}

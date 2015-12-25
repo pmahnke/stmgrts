@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Film and TV Summer Camp 2012"
 permalink: /archives/2012/05/dreamcatcher_film_and_tv_summer_camp_2012.html
+commentfile: 2012-05-24-dreamcatcher_film_and_tv_summer_camp_2012
 category: around_town
 date: 2012-05-24 21:57:34
 excerpt: |
@@ -41,3 +42,7 @@ h4. More Information
 * email: "breda@dreamcatchermedia.co.uk":mailto:breda@dreamcatchermedia.co.uk
 * "www.dreamcatchermedia.co.uk/summer-camp":http://www.dreamcatchermedia.co.uk/summer-camp/
 * <a href="//stmgrts.org.uk/assets/images/2012/2012pdfflyer.pdf">Download brochure</a> [pdf]
+
+
+
+{% include comments.html %}

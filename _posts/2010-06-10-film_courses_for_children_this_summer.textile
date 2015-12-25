@@ -2,6 +2,7 @@
 layout: post
 title: "Film Courses for Children this Summer"
 permalink: /archives/2010/06/film_courses_for_children_this_summer.html
+commentfile: 2010-06-10-film_courses_for_children_this_summer
 category: around_town
 date: 2010-06-10 09:09:27
 
@@ -19,3 +20,9 @@ h4. Details
 
 * 5 day course prior to June 22<sup>nd</sup> is £199 after which it's £275
 * 2 day animation course prior to June 22<sup>nd</sup> is £99 and £130 afterwards
+
+
+
+
+
+{% include comments.html %}

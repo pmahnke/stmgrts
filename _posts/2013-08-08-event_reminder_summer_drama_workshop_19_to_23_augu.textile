@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Summer Drama Workshop - 19 to 23 August 2013"
 permalink: /archives/2013/08/event_reminder_summer_drama_workshop_19_to_23_augu.html
+commentfile: 2013-08-08-event_reminder_summer_drama_workshop_19_to_23_augu
 category: around_town
 date: 2013-08-08 21:35:09
 excerpt: |
@@ -28,3 +29,7 @@ We are trying to reach as many children/young people as we can to take advantage
 Improve your confidence and make new friends.
 
 If you would like to register your interest, or want to know more, please contact us on 020 8890 6826 or use the contact page on our website, "www.axisyouthproductions.co.uk":http://www.axisyouthproductions.co.uk.
+
+
+
+{% include comments.html %}

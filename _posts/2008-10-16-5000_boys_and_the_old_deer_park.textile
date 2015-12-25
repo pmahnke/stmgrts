@@ -2,6 +2,7 @@
 layout: post
 title: "5,000 Boys and the Old Deer Park"
 permalink: /archives/2008/10/5000_boys_and_the_old_deer_park.html
+commentfile: 2008-10-16-5000_boys_and_the_old_deer_park
 category: around_town
 date: 2008-10-16 14:52:07
 excerpt: |
@@ -63,3 +64,7 @@ By the 11<sup>th</sup> August the tents had been struck, the fire pits filled in
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

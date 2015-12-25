@@ -2,6 +2,7 @@
 layout: post
 title: "Bearcat Comedy Clubs' New Season Starts"
 permalink: /archives/2009/09/bearcat_comedy_clubs_new_season_starts.html
+commentfile: 2009-09-04-bearcat_comedy_clubs_new_season_starts
 category: around_town
 date: 2009-09-04 20:24:59
 
@@ -22,3 +23,8 @@ This week; "ADAM BLOOM, OTIZ CANNELLONI, ANDI OSHO and DAVID HADINGHAM":http://s
 
 * "More information":http://stmgrts.org.uk/event/show/200705142210
 * For tickets email "jamespunnett@bearcatcomedy.freeserve.co.uk":mailto:jamespunnett@bearcatcomedy.freeserve.co.uk
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Strawberry Summer Ball - 28 June 2013"
 permalink: /archives/2013/04/event_reminder_strawberry_summer_ball_28_june_2013.html
+commentfile: 2013-04-14-event_reminder_strawberry_summer_ball_28_june_2013
 category: around_town
 date: 2013-04-14 09:55:58
 excerpt: |
@@ -29,3 +30,7 @@ The fund-raising event for Strawberry Hill is part of Twickenham Festival and is
 Nick Smith, Director of the Strawberry Hill Trust said: "We are really delighted to be involved in the Twickenham Festival by staging the Strawberry Summer Ball, which gives a great opportunity to enjoy an evening in Horace Walpole's amazing house and garden.  This is one summer event not to miss!"
 
 Tickets for the Strawberry Summer Ball are &pound;35 and can be purchased by visiting "www.strawberryhillhouse.org.uk/events":http://www.strawberryhillhouse.org.uk/events which also features information on booking a table to dine at the ball.  Telephone 020 8744 1241 for further information.
+
+
+
+{% include comments.html %}

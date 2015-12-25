@@ -2,6 +2,7 @@
 layout: post
 title: "UPDATED&#58; The Spirit Group Appeals Licensing Decision"
 permalink: /archives/2005/12/updated_the_spi.html
+commentfile: 2005-12-22-updated_the_spi
 category: news
 date: 2005-12-22 18:19:07
 
@@ -24,3 +25,6 @@ The grounds of appeal state,
 Unlike local authority hearings there is no public disclosure of the documents to be relied on by the parties to the court case."
 
 p. -- _Rob Mitchener, Head of Licensing - Richmond Council_
+
+
+{% include comments.html %}

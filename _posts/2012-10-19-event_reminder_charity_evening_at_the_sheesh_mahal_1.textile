@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Evening at the Sheesh Mahal"
 permalink: /archives/2012/10/event_reminder_charity_evening_at_the_sheesh_mahal_1.html
+commentfile: 2012-10-19-event_reminder_charity_evening_at_the_sheesh_mahal_1
 category: around_town
 date: 2012-10-19 20:55:11
 excerpt: |
@@ -22,3 +23,9 @@ h4. More Information
 * Please book in advance on
 ** 020 8891 2221
 ** "adams.maguire@virgin.net":mailto:adams.maguire@virgin.net
+
+
+
+
+
+{% include comments.html %}

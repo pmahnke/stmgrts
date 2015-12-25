@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets is Back in Business"
 permalink: /archives/2009/11/st_margarets_is_back_in_business.html
+commentfile: 2009-11-19-st_margarets_is_back_in_business
 category: news
 date: 2009-11-19 16:59:15
 
@@ -32,3 +33,8 @@ bq. "We are 55 independent businesses working together and we believe we have so
 For more information about the shops and businesses please visit "www.mystmargarets.com":http://www.mystmargarets.com
 
 <cite>-- from a Richmond Council press release</cite>
+
+
+
+
+{% include comments.html %}

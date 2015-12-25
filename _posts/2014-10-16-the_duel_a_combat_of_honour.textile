@@ -2,6 +2,7 @@
 layout: post
 title: "The Duel - A Combat of Honour"
 permalink: /archives/2014/10/the_duel_a_combat_of_honour.html
+commentfile: 2014-10-16-the_duel_a_combat_of_honour
 category: around_town
 date: 2014-10-16 23:12:31
 excerpt: |
@@ -75,3 +76,8 @@ The last fatal duel to occur in England was between two French refugees, Cournet
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

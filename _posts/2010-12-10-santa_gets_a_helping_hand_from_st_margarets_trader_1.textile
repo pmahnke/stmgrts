@@ -2,6 +2,7 @@
 layout: post
 title: "Santa Gets a Helping Hand from St Margarets Traders"
 permalink: /archives/2010/12/santa_gets_a_helping_hand_from_st_margarets_trader_1.html
+commentfile: 2010-12-10-santa_gets_a_helping_hand_from_st_margarets_trader_1
 category: news
 date: 2010-12-10 08:58:57
 excerpt: |
@@ -28,3 +29,8 @@ St Margarets
 
 11am - 9pm, 7 days a week. Call 020 8892 2505
  </div>
+
+
+
+
+{% include comments.html %}

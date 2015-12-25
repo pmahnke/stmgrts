@@ -2,6 +2,7 @@
 layout: post
 title: "MP Vincent Cable Clarifies Position on Wine Bar"
 permalink: /archives/2005/11/mp_vincent_cabl_1.html
+commentfile: 2005-11-18-mp_vincent_cabl_1
 category: news
 date: 2005-11-18 17:47:48
 
@@ -24,3 +25,6 @@ Dr Vincent Cable, MP
 Twickenham TW1 4JQ
 Member of Parliament for Twickenham, Teddington, Whitton and the Hamptons
 </div>
+
+
+{% include comments.html %}

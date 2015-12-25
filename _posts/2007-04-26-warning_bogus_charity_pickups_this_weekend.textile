@@ -2,6 +2,7 @@
 layout: post
 title: "Warning&#58; Bogus Charity Pickups this Weekend"
 permalink: /archives/2007/04/warning_bogus_charity_pickups_this_weekend.html
+commentfile: 2007-04-26-warning_bogus_charity_pickups_this_weekend
 category: news
 date: 2007-04-26 13:05:20
 
@@ -13,3 +14,9 @@ Apparently there have been a few leaflets handed out in St Margarets from "bogus
 * The StraightForward Company (UK) Ltd
 
 Please do not support these companies.
+
+
+
+
+
+{% include comments.html %}

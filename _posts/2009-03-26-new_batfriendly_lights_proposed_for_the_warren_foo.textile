@@ -2,6 +2,7 @@
 layout: post
 title: "New Bat-Friendly Lights Proposed for the Warren Footpath"
 permalink: /archives/2009/03/new_batfriendly_lights_proposed_for_the_warren_foo.html
+commentfile: 2009-03-26-new_batfriendly_lights_proposed_for_the_warren_foo
 category: news
 date: 2009-03-26 10:22:04
 excerpt: |
@@ -30,3 +31,8 @@ You view an example of the proposed LED lighting and column between light column
 Consultation documents are available from: The Civic Centre reception in Twickenham, and Richmond Reference Library; or as "downloads here":http://bit.ly/oMpW6 All comments on the proposed works must be received by 5 pm, 9<sup>th</sup> April 2009.
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+{% include comments.html %}

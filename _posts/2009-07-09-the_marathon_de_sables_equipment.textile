@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon de Sables&#58; Equipment"
 permalink: /archives/2009/07/the_marathon_de_sables_equipment.html
+commentfile: 2009-07-09-the_marathon_de_sables_equipment
 category: around_town
 date: 2009-07-09 19:10:30
 
@@ -21,3 +22,6 @@ I'll cover each particular training phase, strategies to cope with long runs, ea
 We are organising a charity children's duathlon event to be held on Sunday 20<sup>th</sup> September, if you are interested then please get in touch with me. All funds raised will go to F.R.O.D.O.
 
 <em>If you want to get fit for summer, why not try early morning bootcamps? The July bootcamp is in full swing. There will be an August bootcamp starting the 3<sup>rd</sup>, and running until the 14<sup>th</sup> August. Visit "www.run.uk.net":http://www.run.uk.net/ for more information or call Georgie on 07736 070612.</em>
+
+
+{% include comments.html %}

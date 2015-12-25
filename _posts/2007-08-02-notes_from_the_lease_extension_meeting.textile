@@ -2,6 +2,7 @@
 layout: post
 title: "Notes from the Lease Extension Meeting"
 permalink: /archives/2007/08/notes_from_the_lease_extension_meeting.html
+commentfile: 2007-08-02-notes_from_the_lease_extension_meeting
 category: news
 date: 2007-08-02 08:58:38
 
@@ -13,3 +14,9 @@ h4. Presentations
 
 * <a href="//stmgrts.org.uk/assets/images/2007/Collective_Enfranchisement.pdf">Collective Enfranchisement -- The Legal Right (pdf)</a>
 * <a href="//stmgrts.org.uk/assets/images/2007/Lease%20Extension.pdf">Lease Extension -- Statutory Rights (pdf)</a>
+
+
+
+
+
+{% include comments.html %}

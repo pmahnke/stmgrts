@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen's Curriculum 'outstanding' says Ofsted"
 permalink: /archives/2008/05/st_stephens_curriculum_outstanding_says_ofsted.html
+commentfile: 2008-05-15-st_stephens_curriculum_outstanding_says_ofsted
 category: news
 date: 2008-05-15 12:10:26
 
@@ -26,3 +27,8 @@ The school governing body was seen as very supportive.
 *Link*
 
 * "full Ofsted report":http://www.st-stephens.richmond.sch.uk/pdf/ofsted2008.pdf
+
+
+
+
+{% include comments.html %}

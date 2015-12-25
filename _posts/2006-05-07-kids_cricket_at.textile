@@ -2,6 +2,7 @@
 layout: post
 title: "Kids Cricket at Moormead?"
 permalink: /archives/2006/05/kids_cricket_at.html
+commentfile: 2006-05-07-kids_cricket_at
 category: around_town
 date: 2006-05-07 13:17:35
 excerpt: |
@@ -18,3 +19,8 @@ Alistair Wright of "Crossbats Cricket Club":/directory/sports/200602240454 would
 The type of cricket they are interested in playing is a version called "Kwick Cricket":http://www.ecb.co.uk/kids/kwik-cricket/kwik-cricket-information-pack,282,BP.html whose emphasis is always on participation and enjoyment.  In practice any number of children can play, from 2 to 32.
 
 If you are interested, please email Alistair at "captain@crossbats.co.uk":mailto:captain@crossbats.co.uk 
+
+
+
+
+{% include comments.html %}

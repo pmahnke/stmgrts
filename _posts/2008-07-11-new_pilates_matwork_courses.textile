@@ -2,6 +2,7 @@
 layout: post
 title: "New Pilates Matwork Courses"
 permalink: /archives/2008/07/new_pilates_matwork_courses.html
+commentfile: 2008-07-11-new_pilates_matwork_courses
 category: around_town
 date: 2008-07-11 09:26:09
 
@@ -26,3 +27,10 @@ Mats provided £60 per course.
 * "karenaskew@yahoo.co.uk":mailto:karenaskew@yahoo.co.uk
 
 _Fully qualified and Insured_
+
+
+
+
+
+
+{% include comments.html %}

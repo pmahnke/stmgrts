@@ -2,6 +2,7 @@
 layout: post
 title: "Bluff King Hal"
 permalink: /archives/2010/03/bluff_king_hal.html
+commentfile: 2010-03-19-bluff_king_hal
 category: around_town
 date: 2010-03-19 12:08:17
 excerpt: |
@@ -81,3 +82,7 @@ Hopped the twig, and a good job too.
 
 
 p. <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Bold Nevison"
 permalink: /archives/2012/05/bold_nevison.html
+commentfile: 2012-05-17-bold_nevison
 category: around_town
 date: 2012-05-17 21:09:56
 excerpt: |
@@ -86,3 +87,7 @@ h4. The story of Nevison's Leap
 _Credit: The Ride to York is by Chris Rawlins_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

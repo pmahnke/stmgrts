@@ -2,6 +2,7 @@
 layout: post
 title: "Cross about the Crossing - an update"
 permalink: /archives/2008/01/cross_about_the_crossing_an_update.html
+commentfile: 2008-01-12-cross_about_the_crossing_an_update
 category: news
 date: 2008-01-12 21:12:54
 
@@ -28,3 +29,6 @@ Can I encourage concerned local residents (one of whom came up and joined the co
 *Links*
 
 * "previous article":http://www.stmgrts.org.uk/archives/2007/06/crossing_of_st_margarets_road_and_a316.html
+
+
+{% include comments.html %}

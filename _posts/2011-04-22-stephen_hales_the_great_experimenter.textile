@@ -2,6 +2,7 @@
 layout: post
 title: "Stephen Hales - The Great Experimenter"
 permalink: /archives/2011/04/stephen_hales_the_great_experimenter.html
+commentfile: 2011-04-22-stephen_hales_the_great_experimenter
 category: around_town
 date: 2011-04-22 12:07:19
 excerpt: |
@@ -70,3 +71,7 @@ bq. "The farthest researches we make into this admirable scene of things, the mo
 <cite>-- from Martyn Day</cite>
 
 _Credit: Photographs of Hales Memorial in Teddington by Amanda Day_
+
+
+
+{% include comments.html %}

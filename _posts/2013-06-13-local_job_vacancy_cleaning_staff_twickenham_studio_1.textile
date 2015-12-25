@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Cleaning Staff - Twickenham Studios"
 permalink: /archives/2013/06/local_job_vacancy_cleaning_staff_twickenham_studio_1.html
+commentfile: 2013-06-13-local_job_vacancy_cleaning_staff_twickenham_studio_1
 category: around_town
 date: 2013-06-13 21:31:37
 
@@ -11,3 +12,9 @@ date: 2013-06-13 21:31:37
 
  
 Twickenham Studios are looking for cleaners to join our housekeeping team. The vacancies involve shift work schedules. Please contact  natalie.penkethman@twickenhamstudios.com for further information and to apply.
+
+
+
+
+
+{% include comments.html %}

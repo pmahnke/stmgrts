@@ -2,6 +2,7 @@
 layout: post
 title: "April 14th 1912 - 11.50pm - Lat. 41.46 N. Lon 50.14 W - 'Struck Iceberg. Sinking Fast'"
 permalink: /archives/2012/04/april_14th_1912_1150pm_lat_4146_n_lon_5014_w_struc.html
+commentfile: 2012-04-12-april_14th_1912_1150pm_lat_4146_n_lon_5014_w_struc
 category: around_town
 date: 2012-04-12 22:57:51
 
@@ -73,3 +74,7 @@ A survivor of the _Titanic_ disaster, Second Officer Charles Herbert Lightoller,
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: The photographs of the Pears Memorial are by Amanda Day.</em>
+
+
+
+{% include comments.html %}

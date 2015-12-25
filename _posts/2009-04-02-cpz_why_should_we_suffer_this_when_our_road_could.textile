@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ&#58; Why should we suffer this when our road could be much clearer?"
 permalink: /archives/2009/04/cpz_why_should_we_suffer_this_when_our_road_could.html
+commentfile: 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could
 category: around_town
 date: 2009-04-02 14:00:12
 excerpt: |
@@ -23,3 +24,9 @@ I have just moved into this lovely area with my young son; getting him to and fr
 Please take some time to complete the request to bring organisation to our road and ensure we have a quieter and more hassle free life.
 
 <cite>-- from Lucy  on Godstone Road</cite>
+
+
+
+
+
+{% include comments.html %}

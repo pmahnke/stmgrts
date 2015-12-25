@@ -2,6 +2,7 @@
 layout: post
 title: "66 Crown Road Update"
 permalink: /archives/2009/09/66_crown_road_update.html
+commentfile: 2009-09-25-66_crown_road_update
 category: 
 date: 2009-09-25 15:34:36
 
@@ -20,3 +21,8 @@ Although continued conversion alone represents no breach of planning law, occupa
 Today a number of local residents have informed the Council's Planning department of Mr. Massie's continued attempts to convert the property. An LBRUT Enforcement Officer stated to me that he would be contacting Mr. Massie to establish his intentions and advise him against undertaking any steps which would lead to a breach of the Council's authority. The Enforcement Officer commented that the Council possess a number of powers to enforce its decision - including a temporary stop notice and eviction order.
 
 <cite>-- from Greg Hughes</cite>
+
+
+
+
+{% include comments.html %}

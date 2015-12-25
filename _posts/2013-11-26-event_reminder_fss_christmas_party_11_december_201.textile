@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; FSS Christmas Party - 11 December 2013"
 permalink: /archives/2013/11/event_reminder_fss_christmas_party_11_december_201.html
+commentfile: 2013-11-26-event_reminder_fss_christmas_party_11_december_201
 category: around_town
 date: 2013-11-26 23:29:10
 excerpt: |
@@ -41,3 +42,7 @@ h4. More Information
 * The party is &pound;9 per child. All the money raised will go to maintaining For Sanity's Sake, which is a not-for-profit, voluntary run Social Enterprise.
 * Where: The Little Gym Hampton Hill address is High Street, Hampton Hill, TW12 1NY.
 * For more details please contact Rachel McLean on email "rachel@forsanityssake.com":mailto:rachel@forsanityssake.com or tel. 07796 922 321
+
+
+
+{% include comments.html %}

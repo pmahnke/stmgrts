@@ -2,6 +2,7 @@
 layout: post
 title: "Appointment of Architects for Expansion of Local Schools"
 permalink: /archives/2009/08/appointment_of_architects_for_expansion_of_local_s.html
+commentfile: 2009-08-03-appointment_of_architects_for_expansion_of_local_s
 category: news
 date: 2009-08-03 08:10:48
 
@@ -20,3 +21,8 @@ Additionally these consultants should ideally be appointed before the school sum
 </blockquote>
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+{% include comments.html %}

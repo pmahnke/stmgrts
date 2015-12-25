@@ -2,6 +2,7 @@
 layout: post
 title: "The Robber Robbed"
 permalink: /archives/2010/05/the_robber_robbed.html
+commentfile: 2010-05-21-the_robber_robbed
 category: around_town
 date: 2010-05-21 17:40:48
 excerpt: |
@@ -86,3 +87,6 @@ His rapier hilt a-twinkle, under the jewelled sky.
 p. <cite>Alfred Noyes 1906</cite>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

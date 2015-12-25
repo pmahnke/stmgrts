@@ -2,6 +2,7 @@
 layout: post
 title: "I Told Bob Dylan He was Dead"
 permalink: /archives/2008/12/i_told_bob_dylan_he_was_dead.html
+commentfile: 2008-12-19-i_told_bob_dylan_he_was_dead
 category: news
 date: 2008-12-19 16:06:56
 excerpt: |
@@ -50,3 +51,7 @@ George said that he thought the story was 'weird' and asked if I would repeat it
 Klaus told me later that George and his wife Patti Boyd were staying with Bob Dylan in his house just outside New York. Patti, the beautiful schoolgirl from "Hard Days Night" was in America learning how to fly... and I was learning how to crawl under the carpet.  In June 1970  Bob Dylan released his next album 'Self Portrait'. The wispy beard had disappeared and the familiar rasping voice was back. I didn't notice. By then we were too busy sorting out the latest "Guess Who's Dead?" mystery, this time involving Paul McCartney. The story sounded familiar. Paul had been killed in a car crash in November 1966 and replaced by a look-alike, sound-alike called William Campbell. The proof was concealed in obscure song lyrics, mystic symbols and hidden messages - Paul's bare feet on the cover of Abbey Road, a secret phone number spelt out by the stars on the cover of 'Magical Mystery Tour', a garbled backwards sentence buried in a record run out groove. Paul is no more, they all said - but he wasn't - and neither was Bob Dylan. I know because I had spoken to him.  I had told him he was dead.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

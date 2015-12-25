@@ -2,6 +2,7 @@
 layout: post
 title: "Isleworth Promenade Tidy-up - 1 and 3 August 2014"
 permalink: /archives/2014/07/isleworth_promenade_tidyup_1_and_3_august_2014.html
+commentfile: 2014-07-17-isleworth_promenade_tidyup_1_and_3_august_2014
 category: around_town
 date: 2014-07-17 22:19:33
 excerpt: |
@@ -21,3 +22,7 @@ On the 1 and 3 August 2014, a team lead by the "Thames Landscape Strategy":http:
 Details can be found on "www.streetlife.com":https://www.streetlife.com/page/community-links-1/ and "facebook.com":https://www.facebook.com/events/686314968115500/
 
 They would like a few volunteers to help on the days, and to ask if there is any local interest in setting up a 'Friends of Isleworth Promenade' type group.
+
+
+
+{% include comments.html %}

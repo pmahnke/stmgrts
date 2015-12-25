@@ -2,6 +2,7 @@
 layout: post
 title: "Something to Get Your Teeth Into"
 permalink: /archives/2010/09/something_to_get_your_teeth_into.html
+commentfile: 2010-09-03-something_to_get_your_teeth_into
 category: around_town
 date: 2010-09-03 12:08:21
 excerpt: |
@@ -75,3 +76,6 @@ Oh, I wish I'd looked after me teeth.
 p. ??PAM AYRES??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

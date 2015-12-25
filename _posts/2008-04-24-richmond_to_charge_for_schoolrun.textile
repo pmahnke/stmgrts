@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond to charge for school-run"
 permalink: /archives/2008/04/richmond_to_charge_for_schoolrun.html
+commentfile: 2008-04-24-richmond_to_charge_for_schoolrun
 category: news
 date: 2008-04-24 11:35:09
 
@@ -14,3 +15,8 @@ A controversial scheme that charges parents who drive their children to school c
 From September, Lib Dem-controlled Richmond wants to charge parents up to &pound;75 for a 15-minute parking permit allowing them to park in bays near their child's school.
 
 <cite>-- "from the BBC":http://news.bbc.co.uk/1/hi/uk_politics/7358545.stm</cite>
+
+
+
+
+{% include comments.html %}

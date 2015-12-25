@@ -2,6 +2,7 @@
 layout: post
 title: "Charity lecture by Elizabeth Banks - 25 April 2012"
 permalink: /archives/2012/03/charity_lecture_by_elizabeth_banks_25_april_2012.html
+commentfile: 2012-03-23-charity_lecture_by_elizabeth_banks_25_april_2012
 category: around_town
 date: 2012-03-23 09:53:56
 
@@ -22,3 +23,7 @@ h4. About INS - Integrated Neurological Services
 * 82 Hampton Road, Twickenham, TW2 5QS
 * 020 8755 4000
 * serves a large community from Kew as far as Hounslow and beyond.
+
+
+
+{% include comments.html %}

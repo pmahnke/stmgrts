@@ -2,6 +2,7 @@
 layout: post
 title: "Hounslow Swords"
 permalink: /archives/2014/03/hounslow_swords.html
+commentfile: 2014-03-29-hounslow_swords
 category: around_town
 date: 2014-03-29 00:04:34
 excerpt: |
@@ -52,3 +53,7 @@ bq. "The pen is mightier than the sword, and considerably easier to write with."
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: The portrait of 'Sir William Waller' is by Cornelius Janssens van Ceulen</em>
+
+
+
+{% include comments.html %}

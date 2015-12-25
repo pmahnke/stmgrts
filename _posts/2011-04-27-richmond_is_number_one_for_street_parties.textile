@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond is Number One for Street Parties"
 permalink: /archives/2011/04/richmond_is_number_one_for_street_parties.html
+commentfile: 2011-04-27-richmond_is_number_one_for_street_parties
 category: news
 date: 2011-04-27 21:09:16
 
@@ -40,3 +41,6 @@ The most parties in the borough, with 18, is St Margarets and Twickenham!
 * Tennyson Avenue
 * Upper Grotto Road
 * Winchester Road
+
+
+{% include comments.html %}

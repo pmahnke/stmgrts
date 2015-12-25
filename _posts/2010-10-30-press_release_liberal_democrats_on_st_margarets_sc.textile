@@ -2,6 +2,7 @@
 layout: post
 title: "Press Release&#58; Liberal Democrats on St Margarets School Places"
 permalink: /archives/2010/10/press_release_liberal_democrats_on_st_margarets_sc.html
+commentfile: 2010-10-30-press_release_liberal_democrats_on_st_margarets_sc
 category: news
 date: 2010-10-30 12:32:36
 
@@ -24,3 +25,6 @@ bq.. "These delays could result in parents not being able to get their children 
 "After the election this programme was halted, and in September parents were told of plans instead for the expansion of St Mary's primary school from 2 to 3 forms of entry spread over three sites (10 new classrooms in all), while postponing, until Government money is available, the expansion of Orleans Infants School and a possible costly expansion of the St Stephen's School site."
 
 "This is irresponsible in the extreme. The record of all Governments in funding School places in Richmond has been poor - they have always underfunded. The extra places are going to have to be provided, so they may as well be done now, instead of inflicting worry and long traveling times onto parents and young children."
+
+
+{% include comments.html %}

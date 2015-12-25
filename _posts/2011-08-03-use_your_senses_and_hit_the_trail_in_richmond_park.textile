@@ -2,6 +2,7 @@
 layout: post
 title: "Use Your Senses and Hit the Trail in Richmond Park"
 permalink: /archives/2011/08/use_your_senses_and_hit_the_trail_in_richmond_park.html
+commentfile: 2011-08-03-use_your_senses_and_hit_the_trail_in_richmond_park
 category: news
 date: 2011-08-03 09:46:33
 excerpt: |
@@ -61,3 +62,7 @@ The Friends of Richmond Park, which has over 1,800 members, is currently celebra
 # Lobbying park management and central and local government on conservation issues
 # Resisting planning developments that threaten the Park and its wildlife
 # Working with Park management and the police to improve observance of Park regulations concerning wildlife
+
+
+
+{% include comments.html %}

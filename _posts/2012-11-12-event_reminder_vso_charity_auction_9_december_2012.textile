@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; VSO Charity Auction - 9 December 2012"
 permalink: /archives/2012/11/event_reminder_vso_charity_auction_9_december_2012.html
+commentfile: 2012-11-12-event_reminder_vso_charity_auction_9_december_2012
 category: around_town
 date: 2012-11-12 16:53:15
 excerpt: |
@@ -26,3 +27,7 @@ This event will raise money for Voluntary Services Overseas (VSO reg charity num
 I will be volunteering with them in February. My place is already funded so all the money raised on the evening will go directly towards future projects. If you would like to find out more about the amazing work VSO do visit "www.vso.org.uk":http://www.vso.org.uk
 
 If you have any questions please do not hesitate to contact me by email "swannisabelle@hotmail.co.uk":mailto:swannisabelle@hotmail.co.uk or on 07523389668
+
+
+
+{% include comments.html %}

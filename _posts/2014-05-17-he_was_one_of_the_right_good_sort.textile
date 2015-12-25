@@ -2,6 +2,7 @@
 layout: post
 title: "He Was One of the Right Good Sort"
 permalink: /archives/2014/05/he_was_one_of_the_right_good_sort.html
+commentfile: 2014-05-17-he_was_one_of_the_right_good_sort
 category: around_town
 date: 2014-05-17 14:54:10
 excerpt: |
@@ -45,3 +46,7 @@ In our own way we will remember them.
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

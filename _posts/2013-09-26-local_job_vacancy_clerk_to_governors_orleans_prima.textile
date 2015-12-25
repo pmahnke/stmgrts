@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Clerk to Governors - Orleans Primary School"
 permalink: /archives/2013/09/local_job_vacancy_clerk_to_governors_orleans_prima.html
+commentfile: 2013-09-26-local_job_vacancy_clerk_to_governors_orleans_prima
 category: around_town
 date: 2013-09-26 20:28:49
 excerpt: |
@@ -19,3 +20,9 @@ h4. More Information
 * <a href="//stmgrts.org.uk/assets/images/2013/orleans-vacancy-application-form-201309.pdf" title="Application form">Application form</a>
 * Submit your application to: "applications@orleans.richmond.sch.uk":mailto:applications@orleans.richmond.sch.uk
 * Closing date for applications: 12pm on 3<sup>rd</sup> October 2013
+
+
+
+
+
+{% include comments.html %}

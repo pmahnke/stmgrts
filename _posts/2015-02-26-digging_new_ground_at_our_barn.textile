@@ -2,6 +2,7 @@
 layout: post
 title: "Digging new ground at Our Barn"
 permalink: /archives/2015/02/digging_new_ground_at_our_barn.html
+commentfile: 2015-02-26-digging_new_ground_at_our_barn
 category: around_town
 date: 2015-02-26 22:47:08
 excerpt: |
@@ -43,3 +44,9 @@ Three years later they are ready to take their next steps: a gardening project i
 The project involves young people working in the Tudor style kitchen garden under the guidance of Osterley's Head Gardener. A trainee horticultural therapist is also part of their team.  "This is a huge step for us" says Karen "We're expanding services at a time when there is a commitment from national and local government to reduce social care budgets. That means we have to be innovative but we get to be creative too."
 
 Our Barn "@Osterley":http://www.twitter.com/Osterley starts in March and there are plans for the gardeners to form a social enterprise, amongst other things.  Further details from the website: "www.ourbarn.org.uk":http://www.ourbarn.org.uk
+
+
+
+
+
+{% include comments.html %}

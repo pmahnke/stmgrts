@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephens' Five-a-Side Tournament"
 permalink: /archives/2011/06/st_stephens_fiveaside_tournament.html
+commentfile: 2011-06-23-st_stephens_fiveaside_tournament
 category: news
 date: 2011-06-23 09:00:52
 excerpt: |
@@ -23,3 +24,8 @@ Well done to all who participated!
 "Watch the slideshow on flickr":http://www.flickr.com//photos/mahnke/sets/72157626879298597/show/
 
 <em>If you have photos you are willing to share, you might notice a lop sided number of them for a certain Year 5 team, please email them to "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk</em>
+
+
+
+
+{% include comments.html %}

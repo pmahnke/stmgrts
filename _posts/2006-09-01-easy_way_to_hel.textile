@@ -2,6 +2,7 @@
 layout: post
 title: "Easy Way to Help Local Schools"
 permalink: /archives/2006/09/easy_way_to_hel.html
+commentfile: 2006-09-01-easy_way_to_hel
 category: around_town
 date: 2006-09-01 09:55:53
 excerpt: |
@@ -25,3 +26,8 @@ When you log on through the links below and use the retailer’s online shops, t
 |St Stephens|"www.buy.at/ststephensjunior":http://www.buy.at/ststephensjunior/|
 
 Please add a link to your favourites and use it whenever you need to buy online.
+
+
+
+
+{% include comments.html %}

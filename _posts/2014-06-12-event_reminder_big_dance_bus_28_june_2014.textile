@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Big Dance Bus - 28 June 2014"
 permalink: /archives/2014/06/event_reminder_big_dance_bus_28_june_2014.html
+commentfile: 2014-06-12-event_reminder_big_dance_bus_28_june_2014
 category: around_town
 date: 2014-06-12 22:09:20
 excerpt: |
@@ -30,3 +31,6 @@ The Big Dance Bus is taking dance back to the streets.  There will be plenty of 
 The Big Dance Bus is a free outdoor party suitable for all the family. 
  
 Come and join the ultimate celebration of dance!
+
+
+{% include comments.html %}

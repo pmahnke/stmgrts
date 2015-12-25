@@ -2,6 +2,7 @@
 layout: post
 title: "All's Well at the Mary Wallace Theatre for 14 - 18 year olds!"
 permalink: /archives/2007/12/alls_well_at_the_mary_wallace_theatre_for_14_18_ye.html
+commentfile: 2007-12-12-alls_well_at_the_mary_wallace_theatre_for_14_18_ye
 category: news
 date: 2007-12-12 13:16:37
 
@@ -23,3 +24,7 @@ For further details and enquiries call Karin on 07949 111 373
 The Mary Wallace Theatre
 The Embankment
 Twickenham
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Cocoon Spa Closed"
 permalink: /archives/2008/08/cocoon_spa_closed.html
+commentfile: 2008-08-26-cocoon_spa_closed
 category: around_town
 date: 2008-08-26 11:19:04
 
@@ -14,3 +15,8 @@ bq.. "I am ... collecting post from the shop and if anyone wants to write to me,
 It was with huge reluctance that the company had to go into liquidation and I can only apologise for any inconvenience this has caused anyone."
 
 <cite>-- from Jane Franks</cite>
+
+
+
+
+{% include comments.html %}

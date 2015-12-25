@@ -2,6 +2,7 @@
 layout: post
 title: "Letters - Flood insurance"
 permalink: /archives/2014/01/letters_flood_insurance.html
+commentfile: 2014-01-31-letters_flood_insurance
 category: editorial
 date: 2014-01-31 15:04:48
 
@@ -23,3 +24,9 @@ Gail Rooke
 </div>
 
 <em>Any one else having this issue with their insurance?  Please leave a comment below.</em>
+
+
+
+
+
+{% include comments.html %}

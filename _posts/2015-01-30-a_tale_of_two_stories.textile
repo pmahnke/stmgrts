@@ -2,6 +2,7 @@
 layout: post
 title: "A Tale of Two Stories"
 permalink: /archives/2015/01/a_tale_of_two_stories.html
+commentfile: 2015-01-30-a_tale_of_two_stories
 category: around_town
 date: 2015-01-30 21:16:03
 excerpt: |
@@ -58,3 +59,6 @@ h3. ...And there the <Em>'Daily Express'</Em> Coronation Souvenir ended
 * Princess Elizabeth Alexandra Mary Windsor, the eldest daughter of King George 6<sup>th</sup> was crowned as Queen Elizabeth 2<sup>nd</sup> on 2<sup>nd</sup> June 1953. She remains our Queen until this day.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

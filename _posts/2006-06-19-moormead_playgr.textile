@@ -2,6 +2,7 @@
 layout: post
 title: "Moormead Playground Refurbishment Underway"
 permalink: /archives/2006/06/moormead_playgr.html
+commentfile: 2006-06-19-moormead_playgr
 category: news
 date: 2006-06-19 21:19:04
 excerpt: |
@@ -25,3 +26,9 @@ Currently only the brick outlines of the new toddler and children's areas are vi
 Additionally, new lighting has been put up along the all the paths in the park; from Moormead Road to Cole Park Road, as well as from Cole Park View to St Margarets Grove.
 
 Also, do not forget that on Saturday, 24 June, there is the "Moormead Park Group : Pavilion Clearing Out Day":http://www.stmgrts.org.uk/event/Meeting/200606011527 hopes to clear out and paint the pavilion.
+
+
+
+
+
+{% include comments.html %}

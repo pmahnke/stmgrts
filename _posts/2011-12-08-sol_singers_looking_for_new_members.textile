@@ -2,6 +2,7 @@
 layout: post
 title: "Sol Singers Looking for New Members"
 permalink: /archives/2011/12/sol_singers_looking_for_new_members.html
+commentfile: 2011-12-08-sol_singers_looking_for_new_members
 category: around_town
 date: 2011-12-08 21:25:35
 
@@ -16,3 +17,9 @@ _For more information or to arrange an informal audition contact musical directo
 * "solsingers@gmail.com":mailto:solsingers@gmail.com
 * 07946 900543
 * "www.solsingers.com":http://www.solsingers.com
+
+
+
+
+
+{% include comments.html %}

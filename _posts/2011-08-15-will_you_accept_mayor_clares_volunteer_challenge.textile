@@ -2,6 +2,7 @@
 layout: post
 title: "Will You Accept Mayor Clare's Volunteer Challenge?"
 permalink: /archives/2011/08/will_you_accept_mayor_clares_volunteer_challenge.html
+commentfile: 2011-08-15-will_you_accept_mayor_clares_volunteer_challenge
 category: news
 date: 2011-08-15 18:39:12
 excerpt: |
@@ -31,3 +32,7 @@ p. On "Saturday,  3<sup>rd</sup> September":http://www.stmgrts.org.uk/event/meet
 Once they have completed and sent back the form, they will be contacted by representatives of the Council or RCVS to match their time and talents to particular organisations or projects.
 
 Please join the Mayor outside Armstrong's Butchers in St Margarets Road on "Saturday, 3<sup>rd</sup> September from 11.00am to 1.00pm":http://www.stmgrts.org.uk/event/meeting/200705142967.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Bike Fest Comes to Borough - 24 June 2012"
 permalink: /archives/2012/06/bike_fest_comes_to_borough_24_june_2012.html
+commentfile: 2012-06-21-bike_fest_comes_to_borough_24_june_2012
 category: around_town
 date: 2012-06-21 22:29:45
 
@@ -22,3 +23,6 @@ bq. "I would like to encourage cyclists of all abilities to come along and get i
 Bike Fest runs from 10am - 4.00pm at Kneller Gardens, The Meadway, Twickenham, on 24 June 2012.
 
 <cite>-- from a Richmond Council press release "14 June 2012":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/june_2012_press_releases/bike_fest_comes_to_borough.htm</cite>
+
+
+{% include comments.html %}

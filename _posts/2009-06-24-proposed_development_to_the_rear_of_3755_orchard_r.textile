@@ -2,6 +2,7 @@
 layout: post
 title: "Proposed Development to the Rear of 37-55 Orchard Road"
 permalink: /archives/2009/06/proposed_development_to_the_rear_of_3755_orchard_r.html
+commentfile: 2009-06-24-proposed_development_to_the_rear_of_3755_orchard_r
 category: around_town
 date: 2009-06-24 15:05:04
 
@@ -18,3 +19,8 @@ This development, if built, would place a further burden on already limited park
 * "Read and comment the planning proposal online":http://bit.ly/11REKN
 
 <cite>-- from Kim Thomas</cite>
+
+
+
+
+{% include comments.html %}

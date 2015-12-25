@@ -2,6 +2,7 @@
 layout: post
 title: "Cllr Morgan Comments on the CPZ"
 permalink: /archives/2007/12/cllr_morgan_comments_on_the_cpz.html
+commentfile: 2007-12-12-cllr_morgan_comments_on_the_cpz
 category: editorial
 date: 2007-12-12 12:06:16
 
@@ -20,3 +21,8 @@ A diagram setting out the stages is "available here":http://tinyurl.com/yo4oyn; 
 
 <cite>Councillor Philip Morgan
 "Cllr.PMorgan@richmond.gov.uk":mailto:Cllr.PMorgan@richmond.gov.uk</cite>
+
+
+
+
+{% include comments.html %}

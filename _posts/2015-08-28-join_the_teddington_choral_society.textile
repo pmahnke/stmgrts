@@ -2,6 +2,7 @@
 layout: post
 title: "Join the Teddington Choral Society"
 permalink: /archives/2015/08/join_the_teddington_choral_society.html
+commentfile: 2015-08-28-join_the_teddington_choral_society
 category: around_town
 date: 2015-08-28 22:06:20
 excerpt: |
@@ -34,3 +35,7 @@ h4. More Information
 * "www.teddingtonchoral.co.uk":http://www.teddingtonchoral.co.uk/
 * Now with our new Musical Director, Sam Evans and Hannah Parry, Accompanist.
 * _Special rates for full time students._
+
+
+
+{% include comments.html %}

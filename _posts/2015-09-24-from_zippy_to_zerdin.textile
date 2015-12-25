@@ -2,6 +2,7 @@
 layout: post
 title: "From Zippy to Zerdin"
 permalink: /archives/2015/09/from_zippy_to_zerdin.html
+commentfile: 2015-09-24-from_zippy_to_zerdin
 category: around_town
 date: 2015-09-24 23:45:34
 excerpt: |
@@ -75,3 +76,9 @@ Also working on <em>'Rise and Shine'</em> 22 years ago was an 18 year old runner
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+{% include comments.html %}

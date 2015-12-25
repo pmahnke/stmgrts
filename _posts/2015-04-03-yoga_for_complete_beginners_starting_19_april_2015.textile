@@ -2,6 +2,7 @@
 layout: post
 title: "Yoga for Complete Beginners - Starting 19 April 2015"
 permalink: /archives/2015/04/yoga_for_complete_beginners_starting_19_april_2015.html
+commentfile: 2015-04-03-yoga_for_complete_beginners_starting_19_april_2015
 category: around_town
 date: 2015-04-03 08:58:48
 excerpt: |
@@ -50,3 +51,7 @@ For further information or to book contact Sammie:
 * "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
 
 _Sammie Mason is a qualified teacher with the British Wheel of Yoga_
+
+
+
+{% include comments.html %}

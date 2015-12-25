@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Film Camps Go On Despite Closure of Studios"
 permalink: /archives/2012/03/dreamcatcher_film_camps_go_on_despite_closure_of_s.html
+commentfile: 2012-03-01-dreamcatcher_film_camps_go_on_despite_closure_of_s
 category: around_town
 date: 2012-03-01 19:28:22
 
@@ -14,3 +15,9 @@ In the meantime, we will continue to run an Easter Film Camp at Cole Court, Lond
 For those readers whose children may not have attended the Camps previously, children aged 8-17 are taught the basics of film production and then form a production team to make their own short film. Along the way, they get to play all the different production roles from director and scriptwriter to cameraperson and sound operator. It's an amazing, fun learning experience. You can read more about the film camps at "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk.
 
 For enquiries please call 0208 607 7273 or email "davidok@dreamcatchermedia.co.uk":mailto:davidok@dreamcatchermedia.co.uk.
+
+
+
+
+
+{% include comments.html %}

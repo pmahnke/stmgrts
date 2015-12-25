@@ -2,6 +2,7 @@
 layout: post
 title: "Help Orleans House Gallery Win the Art Fund Prize 2009"
 permalink: /archives/2009/04/help_orleans_house_gallery_win_the_art_fund_prize.html
+commentfile: 2009-04-03-help_orleans_house_gallery_win_the_art_fund_prize
 category: news
 date: 2009-04-03 09:09:01
 excerpt: |
@@ -18,3 +19,8 @@ Orleans House Gallery has been long-listed for a &pound;100,000 prize in the Art
 The Art Fund Prize recognises and stimulates originality and excellence in museums and galleries and aims to increase public appreciation and enjoyment of all they have to offer. Judges have already visited Orleans House and are now asking for the views of the public -- last year's winner The Lightbox Gallery in Woking had over 800 comments so we really need your help.
 
 "Please register your support for Orleans House":http://www.artfundprize.org.uk/2009/longlist.php  
+
+
+
+
+{% include comments.html %}

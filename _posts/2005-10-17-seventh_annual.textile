@@ -2,6 +2,7 @@
 layout: post
 title: "Seventh Annual Twickenham Beer and Cider Festival"
 permalink: /archives/2005/10/seventh_annual.html
+commentfile: 2005-10-17-seventh_annual
 category: news
 date: 2005-10-17 12:06:01
 
@@ -39,3 +40,7 @@ h3. History of the Twickenham Festival
 In the 1990’s the focus of the local campaign changed in order to reflect and promote the wider availability of Real Ales that could now be found. To help achieve this, the annual Twickenham Beer Festival was started at the Feltham Assembly Rooms in 1992. The Beer Festival was an instant success and has nearly always been a sell-out. By 1998, it was too big for Feltham so the festival was moved to York House. The CAMRA Twickenham Beer Festival at York House is now one of the most popular and eagerly awaited events on the local calendar. 
 
 Full details of the activities of The Richmond and Hounslow Branch of CAMRA are on our website at "www.camra.org.uk/richmond":http://www.camra.org.uk/richmond.
+
+
+
+{% include comments.html %}

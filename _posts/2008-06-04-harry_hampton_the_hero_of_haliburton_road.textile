@@ -2,6 +2,7 @@
 layout: post
 title: "Harry Hampton - The Hero of Haliburton Road"
 permalink: /archives/2008/06/harry_hampton_the_hero_of_haliburton_road.html
+commentfile: 2008-06-04-harry_hampton_the_hero_of_haliburton_road
 category: news
 date: 2008-06-04 22:23:16
 excerpt: |
@@ -30,3 +31,7 @@ And so the story ends apart from a mysterious occurrence a few years later.  One
 Perhaps the saying that 'old soldiers never die, they just fade away" is true. Maybe our own local hero is doing just that -- but taking his time about it! Next time you're queuing for the H37 may you should check out who is standing behind you!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

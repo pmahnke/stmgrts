@@ -2,6 +2,7 @@
 layout: post
 title: "Grigg Motorcycles"
 permalink: /archives/2015/08/grigg_motorcycles.html
+commentfile: 2015-08-28-grigg_motorcycles
 category: around_town
 date: 2015-08-28 23:26:07
 excerpt: |
@@ -100,3 +101,6 @@ A song by Richard Thomson about another legendary British motorcycle - the 1952 
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

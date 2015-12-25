@@ -2,6 +2,7 @@
 layout: post
 title: "From Kids Come First - Breaking Up is Hard to Do"
 permalink: /archives/2015/08/from_kids_come_first_breaking_up_is_hard_to_do.html
+commentfile: 2015-08-07-from_kids_come_first_breaking_up_is_hard_to_do
 category: around_town
 date: 2015-08-07 11:00:38
 
@@ -25,3 +26,7 @@ h4. More Information
 * "kidscomefirstuk@mail.com":mailto:kidscomefirstuk@mail.com
 * 0778 9497275
 * Follow us on Twitter: "@KidscomefirstUK":http://www.twitter.com/KidscomefirstUK
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Redlees UNROOTED - 4 to 5 April 2015"
 permalink: /archives/2015/03/event_reminder_redlees_unrooted_4_to_5_april_2015.html
+commentfile: 2015-03-27-event_reminder_redlees_unrooted_4_to_5_april_2015
 category: around_town
 date: 2015-03-27 22:39:52
 excerpt: |
@@ -33,3 +34,8 @@ Andy Clemson's soundscape responds to the work of the four exhibiting artists. C
 
 * Opening Saturday 4 April, 6.30 - 9.00pm
 Sunday 5 April, 11am - 4pm
+
+
+
+
+{% include comments.html %}

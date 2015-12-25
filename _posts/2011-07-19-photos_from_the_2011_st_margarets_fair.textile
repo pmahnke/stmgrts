@@ -2,6 +2,7 @@
 layout: post
 title: "Photos from the 2011 St Margarets Fair"
 permalink: /archives/2011/07/photos_from_the_2011_st_margarets_fair.html
+commentfile: 2011-07-19-photos_from_the_2011_st_margarets_fair
 category: around_town
 date: 2011-07-19 08:29:30
 excerpt: |
@@ -20,3 +21,9 @@ Thank you to all those who volunteered their time, specially the St Margarets Fa
 "Watch a slideshow on flickr":http://www.flickr.com//photos/mahnke/sets/72157627105669303/show/
 
 <em>If you have photos you are willing to share, please email "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk</em>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Pocahontas - The Powhatan Princess of Old Brentford"
 permalink: /archives/2009/03/pocahontas_the_powhatan_princess_of_old_brentford.html
+commentfile: 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford
 category: around_town
 date: 2009-03-26 22:58:07
 excerpt: |
@@ -60,3 +61,7 @@ In March 1617, Rolfe and Pocahontas boarded a ship to return to Virginia. Howeve
 A lot of Americans claim kinship with Pocahontas through her son Thomas, including designer and socialite Pauline de Rothschild, astronomer Percival Lowell and the former First-Lady Nancy Reagan. As far as we know nobody from Brentford has stepped forward so far claiming the same lineage.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

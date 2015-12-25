@@ -2,6 +2,7 @@
 layout: post
 title: "New Socially Conscious Alcohol Unit Counter from Nova"
 permalink: /archives/2011/03/new_socially_conscious_alcohol_unit_counter_from_n.html
+commentfile: 2011-03-03-new_socially_conscious_alcohol_unit_counter_from_n
 category: news
 date: 2011-03-03 22:25:55
 excerpt: |
@@ -30,3 +31,9 @@ h4. More information
 * if you are a shop interested in carrying 'unit' please email "marketing@nova-enterprise.co.uk":mailto:marketing@nova-enterprise.co.uk
 * learn more on the Nova website: "nova-enterprise.co.uk":http://nova-enterprise.co.uk/
 * read the full press release: <a href="//stmgrts.org.uk/assets/images/2011/20110303_Nova_Press_Release.pdf">Download pdf file</a>
+
+
+
+
+
+{% include comments.html %}

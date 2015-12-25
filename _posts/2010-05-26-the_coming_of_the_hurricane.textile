@@ -2,6 +2,7 @@
 layout: post
 title: "The Coming of the Hurricane"
 permalink: /archives/2010/05/the_coming_of_the_hurricane.html
+commentfile: 2010-05-26-the_coming_of_the_hurricane
 category: around_town
 date: 2010-05-26 22:28:12
 excerpt: |
@@ -54,3 +55,6 @@ Does anyone remember Hurricanes being transported up the St Margarets Road - and
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

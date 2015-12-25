@@ -2,6 +2,7 @@
 layout: post
 title: "Oyster Off-Peak Fare Tip"
 permalink: /archives/2010/02/oyster_offpeak_fare_tip.html
+commentfile: 2010-02-09-oyster_offpeak_fare_tip
 category: news
 date: 2010-02-09 12:57:16
 
@@ -29,3 +30,8 @@ If (as happened to me today) the 9:30 train is then cancelled and you have to th
 The only way to get an Off-Peak Oyster fare at St Margarets seems to be to wait up the top of the stairs until the reader says 9:30, then touch and run!
 
 <cite>-- from Ed Randall</cite> 
+
+
+
+
+{% include comments.html %}

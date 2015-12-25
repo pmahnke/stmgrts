@@ -2,6 +2,7 @@
 layout: post
 title: "Kid's Summer Activities"
 permalink: /archives/2005/07/kids_summer_act.html
+commentfile: 2005-07-27-kids_summer_act
 category: around_town
 date: 2005-07-27 13:08:44
 
@@ -215,3 +216,6 @@ Friendship bracelets, football, rope swings, quiz nights, table tennis, games, a
 h3. Families Upon Thames
 
 For more ideas  go to "www.familiesonline.co.uk/local/upon-thames":http://www.familiesonline.co.uk/local/upon-thames and look under the 'out and about' section for more great ideas for day trips, sports, cinema, theatre, museums, events and great fun  in and around London.
+
+
+{% include comments.html %}

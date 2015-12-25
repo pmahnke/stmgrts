@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council to Freeze Council Tax Again for 2015/16"
 permalink: /archives/2015/03/richmond_council_to_freeze_council_tax_again_for_2.html
+commentfile: 2015-03-12-richmond_council_to_freeze_council_tax_again_for_2
 category: news
 date: 2015-03-12 22:08:37
 
@@ -22,3 +23,7 @@ bq. "Once again our prudent financial management of the Council's affairs mean t
 Whilst so many homes across the country have been squeezed by the recession, Richmond Council has frozen Council Tax for five successive years. This has been made possible thanks to prudent financial control of the Council's budget. Since 2011/12 the Council has achieved over &pound;31m in savings including &pound;15m from restructuring and sharing services, &pound;10m from procurement and contract savings and &pound;6m from income generation and other measures.
 
 <cite>-- from a Richmond Council "press release - 13 February 2015":http://www.richmond.gov.uk/home/council/news/press_office/older_news/february_2015/we_intend_to_freeze_council_tax_for_sixth_successive_year.htm</cite>
+
+
+
+{% include comments.html %}

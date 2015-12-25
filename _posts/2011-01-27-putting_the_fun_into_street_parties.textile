@@ -2,6 +2,7 @@
 layout: post
 title: "Putting the Fun into Street Parties"
 permalink: /archives/2011/01/putting_the_fun_into_street_parties.html
+commentfile: 2011-01-27-putting_the_fun_into_street_parties
 category: news
 date: 2011-01-27 08:35:49
 
@@ -20,3 +21,8 @@ bq.. “We will not have people’s spirits dampened by unneeded bureaucracy and
 “We will move heaven and earth to make it is as easy as possible for local people to celebrate special days, such as the forthcoming royal wedding.”
 
 p. -- excerpted from the "Richmond Council website":http://www.richmond.gov.uk/putting_the_fun_into_street_parties 
+
+
+
+
+{% include comments.html %}

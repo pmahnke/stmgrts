@@ -2,6 +2,7 @@
 layout: post
 title: "Family Explorers 2015"
 permalink: /archives/2015/03/family_explorers.html
+commentfile: 2015-03-05-family_explorers
 category: 
 date: 2015-03-05 21:05:02
 excerpt: |
@@ -45,3 +46,6 @@ h4. More Information
 * Children must be accompanied by an adult at all times.
 
 _Please wear clothes suitable for painting in!_
+
+
+{% include comments.html %}

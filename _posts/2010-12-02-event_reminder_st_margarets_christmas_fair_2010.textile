@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Christmas Fair 2010"
 permalink: /archives/2010/12/event_reminder_st_margarets_christmas_fair_2010.html
+commentfile: 2010-12-02-event_reminder_st_margarets_christmas_fair_2010
 category: around_town
 date: 2010-12-02 22:27:11
 excerpt: |
@@ -59,3 +60,7 @@ With a voice to soothe and compel her audience, she sings to the sound of crisp 
 15.20 - 15.50 hrs                  Kid Champion
 
 All fuzz, fun and fury, three-piece outfit Kid Champion were forged not long ago in the back-alleys and bunkers of Twickenham and have built a sound to be proud of - a heady mix of complex riffs, hard-and-fast drums and infectious pop hooks
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Heir Today, Gone Tomorrow"
 permalink: /archives/2014/06/heir_today_gone_tomorrow.html
+commentfile: 2014-06-19-heir_today_gone_tomorrow
 category: around_town
 date: 2014-06-19 22:59:20
 excerpt: |
@@ -64,3 +65,7 @@ In the latter years of Victoria's reign beards and moustaches came to be regarde
 Unfortunately the 'Modern Moustache Movement' never reached Henry Budd. He went to his grave in the family vault banning his heirs from having any hair. The only reminder that we have of him now is 'Budd's Alley', the narrow lane that runs by the railway from Arlington Close to Ducks Walk. I nearly got knocked over down there by a cyclist on a mountain bike. It was a close shave.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

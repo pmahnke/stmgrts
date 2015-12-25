@@ -2,6 +2,7 @@
 layout: post
 title: "Minutes&#58; Police Liaison Group Public Meeting - 19 February 2009"
 permalink: /archives/2009/03/minutes_police_liaison_group_public_meeting_19_feb.html
+commentfile: 2009-03-13-minutes_police_liaison_group_public_meeting_19_feb
 category: news
 date: 2009-03-13 11:05:07
 excerpt: |
@@ -82,3 +83,8 @@ h4. Next public meeting
 To be combined with the Council Area meeting on Tuesday 6 October 2009 (preliminary date). Dr Atton closed the Police Liaison Group meeting at 9 pm.
 
 </div>
+
+
+
+
+{% include comments.html %}

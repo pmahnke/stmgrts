@@ -2,6 +2,7 @@
 layout: post
 title: "Local Languages Over the Summer"
 permalink: /archives/2015/07/local_languages_over_the_summer.html
+commentfile: 2015-07-16-local_languages_over_the_summer
 category: around_town
 date: 2015-07-16 19:28:14
 
@@ -19,3 +20,9 @@ h4. More Information
 
 * "infolivelanguages@gmail.com":mailto:infolivelanguages@gmail.com
 * 07855 528 483
+
+
+
+
+
+{% include comments.html %}

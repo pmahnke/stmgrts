@@ -2,6 +2,7 @@
 layout: post
 title: "A London Childhood&#58; 13th July 1955"
 permalink: /archives/2009/10/a_london_childhood_13th_july_1955.html
+commentfile: 2009-10-23-a_london_childhood_13th_july_1955
 category: around_town
 date: 2009-10-23 14:56:32
 excerpt: |
@@ -78,3 +79,7 @@ Numerous attempts have been made to grant Ruth Ellis a posthumous pardon, the mo
 I have never forgotten.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

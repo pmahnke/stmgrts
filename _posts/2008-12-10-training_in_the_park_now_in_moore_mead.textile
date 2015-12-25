@@ -2,6 +2,7 @@
 layout: post
 title: "Training in the park - Now in Moore Mead "
 permalink: /archives/2008/12/training_in_the_park_now_in_moore_mead.html
+commentfile: 2008-12-10-training_in_the_park_now_in_moore_mead
 category: around_town
 date: 2008-12-10 16:54:41
 
@@ -19,3 +20,9 @@ If you are not sure you could have a look at "www.one-element.co.uk/service-ct.h
 See you there soon I hope.
 
 <cite>-- from Tom Marien, Managing Director, _one element_ 020 8871 1295 "one-element.co.uk":http://one-element.co.uk/</cite>
+
+
+
+
+
+{% include comments.html %}

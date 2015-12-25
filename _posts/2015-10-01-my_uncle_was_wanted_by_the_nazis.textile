@@ -2,6 +2,7 @@
 layout: post
 title: "My Uncle Was Wanted by the Nazis!"
 permalink: /archives/2015/10/my_uncle_was_wanted_by_the_nazis.html
+commentfile: 2015-10-01-my_uncle_was_wanted_by_the_nazis
 category: around_town
 date: 2015-10-01 22:27:16
 ---
@@ -52,3 +53,6 @@ h4. An extract of Churchill's speech
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "TFL Decides Keeps A316 Footbridge"
 permalink: /archives/2015/01/tfl_decides_keeps_a316_footbridge.html
+commentfile: 2015-01-15-tfl_decides_keeps_a316_footbridge
 category: news
 date: 2015-01-15 22:16:37
 excerpt: |
@@ -54,3 +55,6 @@ He added:
 bq. "TfL's change of heart is a victory for common-sense and testament to the hard work of those in our community that fought alongside us to see our bridge was saved.  This is a great day for the people of St Margarets and North Twickenham."
 
 </div>
+
+
+{% include comments.html %}

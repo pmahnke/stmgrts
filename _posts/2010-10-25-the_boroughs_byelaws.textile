@@ -2,6 +2,7 @@
 layout: post
 title: "The Borough's Bye-Laws"
 permalink: /archives/2010/10/the_boroughs_byelaws.html
+commentfile: 2010-10-25-the_boroughs_byelaws
 category: around_town
 date: 2010-10-25 19:50:06
 excerpt: |
@@ -32,3 +33,7 @@ More comforting is a regulation dating from 1968 which provides that hairdresser
 If this is all a bit boring and you are beginning to drop off, please be advised that you are forbidden from sleeping in libraries if you are asked not to by a library officer.
 
 <cite>-- from Laurence Mann</cite>
+
+
+
+{% include comments.html %}

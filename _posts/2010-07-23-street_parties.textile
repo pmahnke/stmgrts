@@ -2,6 +2,7 @@
 layout: post
 title: "Street Parties"
 permalink: /archives/2010/07/street_parties.html
+commentfile: 2010-07-23-street_parties
 category: around_town
 date: 2010-07-23 10:08:34
 
@@ -51,3 +52,7 @@ Of course to be absolutely honest St Margarets was never a village despite what 
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

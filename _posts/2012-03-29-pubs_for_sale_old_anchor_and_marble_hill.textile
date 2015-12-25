@@ -2,6 +2,7 @@
 layout: post
 title: "Pubs for sale&#58; Old Anchor and Marble Hill"
 permalink: /archives/2012/03/pubs_for_sale_old_anchor_and_marble_hill.html
+commentfile: 2012-03-29-pubs_for_sale_old_anchor_and_marble_hill
 category: news
 date: 2012-03-29 12:26:11
 
@@ -17,3 +18,9 @@ commercial kitchen, so food is limited. Popular music venue.'
 "More information":http://www.christie.com/youngs
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+
+{% include comments.html %}

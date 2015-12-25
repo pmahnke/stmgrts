@@ -2,6 +2,7 @@
 layout: post
 title: "Sheridan in St Margarets"
 permalink: /archives/2009/10/sheridan_in_st_margarets.html
+commentfile: 2009-10-29-sheridan_in_st_margarets
 category: around_town
 date: 2009-10-29 09:23:33
 excerpt: |
@@ -75,3 +76,7 @@ p. ??JOHN GRAHAM, CRANFORD  1808??
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

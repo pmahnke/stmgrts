@@ -2,6 +2,7 @@
 layout: post
 title: "Expanded CPZ Moves to Next Stage"
 permalink: /archives/2007/07/expanded_cpz_moves_to_next_stage.html
+commentfile: 2007-07-25-expanded_cpz_moves_to_next_stage
 category: news
 date: 2007-07-25 08:47:30
 
@@ -21,3 +22,8 @@ h4. Details of decision
 * To instruct officers to investigate traffic and parking arrangements in Railshead Road in liaison with the emergency services.
 * To carry out a review six months after implementation, should a zone be introduced, and the review to include those areas adjacent to the zone.
 * To progress the application to the Magistrates Court for the stopping up of the service road to the rear of 141-143 St Margarets Road. 
+
+
+
+
+{% include comments.html %}

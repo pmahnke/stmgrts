@@ -2,6 +2,7 @@
 layout: post
 title: "Planning&#58; Twickenham Railway Station "
 permalink: /archives/2011/04/planning_twickenham_railway_station.html
+commentfile: 2011-04-14-planning_twickenham_railway_station
 category: news
 date: 2011-04-14 16:42:28
 
@@ -16,3 +17,8 @@ h4. More information
 * "Learn the current status of the application":http://www2.richmond.gov.uk/PlanData2/Planning_CaseNo.aspx?strCASENO=10/3465/FUL
 * "Read the case-file and comments":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=10/3465/FUL
 * "Comment on the application":http://idoxwam.richmond.gov.uk/WAM/createComment.do;jsessionid=73FE2A60F7093CA1FA1AD1050198F7CC?action=CreateApplicationComment&applicationType=PLANNING&appNumber=10/3465/FUL
+
+
+
+
+{% include comments.html %}

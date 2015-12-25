@@ -2,6 +2,7 @@
 layout: post
 title: "William Cobbett and The Gin Drinkers of St Margarets"
 permalink: /archives/2010/05/william_cobbett_and_the_gin_drinkers_of_st_margare.html
+commentfile: 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare
 category: around_town
 date: 2010-05-13 18:09:58
 excerpt: |
@@ -48,3 +49,7 @@ bq. "I view the tea-drinking as a destroyer of health, an enfeebler of the frame
 He didn't think much of St Margarets either.
 
 <cite>--from Martyn Day</cite>
+
+
+
+{% include comments.html %}

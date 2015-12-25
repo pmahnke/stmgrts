@@ -2,6 +2,7 @@
 layout: post
 title: "The White Rajah - New Book, Local Author"
 permalink: /archives/2010/11/the_white_rajah_new_book_local_author.html
+commentfile: 2010-11-25-the_white_rajah_new_book_local_author
 category: around_town
 date: 2010-11-25 18:05:46
 excerpt: |
@@ -21,3 +22,8 @@ The book will have limited distribution in the UK (although you can buy it from 
 p. <cite>-- from Tom Williams</cite>
 
 "What to know more?":http://thewhiterajah.blogspot.com/2010/11/whats-your-book-all-about-then.html
+
+
+
+
+{% include comments.html %}

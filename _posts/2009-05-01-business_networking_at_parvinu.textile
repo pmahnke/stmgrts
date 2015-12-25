@@ -2,6 +2,7 @@
 layout: post
 title: "Business Networking at Parvinu"
 permalink: /archives/2009/05/business_networking_at_parvinu.html
+commentfile: 2009-05-01-business_networking_at_parvinu
 category: around_town
 date: 2009-05-01 15:37:54
 
@@ -16,3 +17,8 @@ We were pleased to support another St Margarets business on the evening, "The Ye
 They are coming back soon to hold their own evening at Parvinu, so we suggest you visit their Crown Road shop and find out more.
 
 <cite>-- from Parvinu</cite>
+
+
+
+
+{% include comments.html %}

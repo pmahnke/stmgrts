@@ -2,6 +2,7 @@
 layout: post
 title: "Application for Wine Bar Re-submitted"
 permalink: /archives/2005/09/application_for.html
+commentfile: 2005-09-14-application_for
 category: news
 date: 2005-09-14 21:42:18
 
@@ -29,3 +30,7 @@ The original application was submitted on 28 July 2004 and was withdrawn on 15 N
 What do you think of this plan?  Please let us know with a comment and vote in our "poll":/cgi-bin/poll.cgi?pollname=parvinu or see the "results":/cgi-bin/poll.cgi?pollname=parvinu&action=results.
 
 Don't forget to Support or Object to this proposal on the Richmond Planning Website, found "here":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05%2F2442%2FCOU.
+
+
+
+{% include comments.html %}

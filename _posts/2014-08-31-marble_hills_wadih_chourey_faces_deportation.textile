@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill's Wadih Chourey Faces Deportation"
 permalink: /archives/2014/08/marble_hills_wadih_chourey_faces_deportation.html
+commentfile: 2014-08-31-marble_hills_wadih_chourey_faces_deportation
 category: news
 date: 2014-08-31 08:17:45
 excerpt: |
@@ -35,3 +36,11 @@ h4. More Information
 
 * "Sign a petition":https://you.38degrees.org.uk/petitions/do-not-deport-wadih-chourey-vack-to-the-lebanon-just-because-his-parents-have-died?bucket=38blast
 * "Read more on the Daily Mirror":http://www.mirror.co.uk/news/uk-news/downs-syndrome-boy-faces-being-4131650#ixzz3Bx4hZxJ5 - 29 August  2014
+
+
+
+
+
+
+
+{% include comments.html %}

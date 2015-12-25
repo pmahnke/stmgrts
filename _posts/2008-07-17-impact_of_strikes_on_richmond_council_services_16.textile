@@ -2,6 +2,7 @@
 layout: post
 title: "Impact of strikes on Richmond Council services, 16 and 17 July"
 permalink: /archives/2008/07/impact_of_strikes_on_richmond_council_services_16.html
+commentfile: 2008-07-17-impact_of_strikes_on_richmond_council_services_16
 category: news
 date: 2008-07-17 08:14:06
 
@@ -12,3 +13,8 @@ bq.. There have been no major disruptions in the borough following the start of 
 We hope that any disruption to residents will continue to be minimal and that the dispute will be settled quickly.
 
 p. <cite>-- from the "Richmond Council website":http://www.richmond.gov.uk/</cite>
+
+
+
+
+{% include comments.html %}

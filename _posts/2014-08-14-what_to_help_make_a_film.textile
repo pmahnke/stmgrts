@@ -2,6 +2,7 @@
 layout: post
 title: "What to Help Make a Film?"
 permalink: /archives/2014/08/what_to_help_make_a_film.html
+commentfile: 2014-08-14-what_to_help_make_a_film
 category: around_town
 date: 2014-08-14 22:31:21
 excerpt: |
@@ -43,3 +44,6 @@ h4. More Information
 * Email or call Colin Graham for more Information
 ** Colin.Graham@groundwork.org.uk
 ** 020 8510 5416 
+
+
+{% include comments.html %}

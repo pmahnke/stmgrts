@@ -2,6 +2,7 @@
 layout: post
 title: "Remember, Remember, the 8th of September!"
 permalink: /archives/2012/09/remember_remember_the_8th_of_september.html
+commentfile: 2012-09-01-remember_remember_the_8th_of_september
 category: around_town
 date: 2012-09-01 09:42:03
 
@@ -32,3 +33,7 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 "Here is a link to a map.":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
 
 </div>
+
+
+
+{% include comments.html %}

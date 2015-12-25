@@ -2,6 +2,7 @@
 layout: post
 title: "The Happiest of Men"
 permalink: /archives/2013/12/the_happiest_of_men.html
+commentfile: 2013-12-06-the_happiest_of_men
 category: around_town
 date: 2013-12-06 19:42:01
 excerpt: |
@@ -74,3 +75,6 @@ Ease, and alternate labour.
 Or a Tony Blackburn once put it <em>"Money won't make you happy but at least you can be miserable in comfort!"</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

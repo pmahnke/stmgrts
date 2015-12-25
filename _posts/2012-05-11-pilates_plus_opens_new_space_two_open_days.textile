@@ -2,6 +2,7 @@
 layout: post
 title: "Pilates Plus Opens New Space + Two Open Days"
 permalink: /archives/2012/05/pilates_plus_opens_new_space_two_open_days.html
+commentfile: 2012-05-11-pilates_plus_opens_new_space_two_open_days
 category: around_town
 date: 2012-05-11 07:22:18
 excerpt: |
@@ -35,3 +36,6 @@ h4. More Information
 * All bookings and enquiries can be made at our 4 Crown Rd reception.
 * phone: 020 8892 3403
 * info@pilates-plus.co.uk
+
+
+{% include comments.html %}

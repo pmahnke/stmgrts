@@ -2,6 +2,7 @@
 layout: post
 title: "UPDATED&#58; Moormead Park Meeting"
 permalink: /archives/2006/03/moormead_park_m.html
+commentfile: 2006-03-01-moormead_park_m
 category: news
 date: 2006-03-01 17:06:09
 
@@ -32,3 +33,6 @@ St Margaret's is changing!!  nothing wrong with that but let's try to retain t
 Look forward to seeing as many as possible at the meeting .
 
 Best wishes Annie H."
+
+
+{% include comments.html %}

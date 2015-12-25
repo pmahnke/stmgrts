@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Mary's Advent Bazaar"
 permalink: /archives/2009/11/event_reminder_st_marys_advent_bazaar.html
+commentfile: 2009-11-24-event_reminder_st_marys_advent_bazaar
 category: around_town
 date: 2009-11-24 09:31:45
 
@@ -17,3 +18,9 @@ There will be and a number of stalls including:
 * a Raffle
 
 ... and 13<sup>th</sup> Twickenham (St Mary's) Scouts
+
+
+
+
+
+{% include comments.html %}

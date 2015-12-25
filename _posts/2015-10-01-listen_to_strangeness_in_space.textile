@@ -2,6 +2,7 @@
 layout: post
 title: "Listen to Strangeness in Space"
 permalink: /archives/2015/10/listen_to_strangeness_in_space.html
+commentfile: 2015-10-01-listen_to_strangeness_in_space
 category: news
 date: 2015-10-01 20:54:05
 excerpt: |
@@ -22,3 +23,9 @@ bq. What would happen if Sophie, the manager of a NASA Space Centre gift shop, a
 "Episode 1 of this adventure is available for FREE":http://strangenessinspace.com/episodes/. Episode Two will go on public release on 3<sup>rd</sup> October 2015. If you want to see behind the scenes as we make the series,  join The Wormhole, our members-only web area that has exclusive photos, videos, articles and competitions.
 
 * More information on "strangenessinspace.com":http://strangenessinspace.com/
+
+
+
+
+
+{% include comments.html %}

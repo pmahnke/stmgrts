@@ -2,6 +2,7 @@
 layout: post
 title: "Photos of the London-Surrey Cycle Classic"
 permalink: /archives/2011/08/photos_of_the_londonsurrey_cycle_classic.html
+commentfile: 2011-08-14-photos_of_the_londonsurrey_cycle_classic
 category: news
 date: 2011-08-14 11:15:43
 excerpt: |
@@ -28,3 +29,8 @@ We have two slideshows on flickr:
 * "Twickenham by Graham Bancroft":http://www.flickr.com//photos/grahambancroft/sets/72157627304540957/show/
 
 If you have some photos and want to share, please email "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk
+
+
+
+
+{% include comments.html %}

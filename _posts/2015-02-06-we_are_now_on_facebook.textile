@@ -2,6 +2,7 @@
 layout: post
 title: "We are now on Facebook"
 permalink: /archives/2015/02/we_are_now_on_facebook.html
+commentfile: 2015-02-06-we_are_now_on_facebook
 category: editorial
 date: 2015-02-06 12:37:34
 
@@ -14,3 +15,10 @@ After years of resisting, we finally decided to join the "facebook":https://www.
 We are posting all of our articles and upcoming events there.  So if you are on facebook, "please 'like us'":https://www.facebook.com/stmgrts.
 
 And, don't forget we are also on twitter at "@smgrts":https://twitter.com/stmgrts
+
+
+
+
+
+
+{% include comments.html %}

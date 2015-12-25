@@ -2,6 +2,7 @@
 layout: post
 title: "Yoga Fitness Starts the New Year with Two New Classes"
 permalink: /archives/2014/12/yoga_fitness_starts_the_new_year_with_two_new_clas.html
+commentfile: 2014-12-13-yoga_fitness_starts_the_new_year_with_two_new_clas
 category: around_town
 date: 2014-12-13 09:33:56
 excerpt: |
@@ -69,3 +70,9 @@ h4. For further details or to book contact Sammie:
 * "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk
 * 07758 866834
 * "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
+
+
+
+
+
+{% include comments.html %}

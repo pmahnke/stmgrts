@@ -2,6 +2,7 @@
 layout: post
 title: "The Twickenham Jazz Club is Back at The Cabbage Patch"
 permalink: /archives/2015/01/the_twickenham_jazz_club_is_back_at_the_cabbage_pa.html
+commentfile: 2015-01-23-the_twickenham_jazz_club_is_back_at_the_cabbage_pa
 category: news
 date: 2015-01-23 22:41:42
 excerpt: |
@@ -30,3 +31,7 @@ It is wise to check the programme on the web site to make sure you choose a nigh
 h4. More Information
 
 * "www.twickenhamjazzclub.co.uk":http://www.twickenhamjazzclub.co.uk
+
+
+
+{% include comments.html %}

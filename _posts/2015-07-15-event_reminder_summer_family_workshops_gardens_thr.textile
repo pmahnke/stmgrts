@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Summer Family Workshops - Gardens Through Time"
 permalink: /archives/2015/07/event_reminder_summer_family_workshops_gardens_thr.html
+commentfile: 2015-07-15-event_reminder_summer_family_workshops_gardens_thr
 category: around_town
 date: 2015-07-15 19:25:33
 excerpt: |
@@ -29,3 +30,7 @@ h4. More Information
 * Museum of Richmond, Whittaker Ave, Richmond, TW9 1TP
 * Cost - &pound;4 p/child, adults free
 * To book, call 0208-332-1141 or email "museumofrichmond@btconnect.com":mailto:museumofrichmond@btconnect.com with a contact number name and age of children attending
+
+
+
+{% include comments.html %}

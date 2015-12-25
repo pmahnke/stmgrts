@@ -2,6 +2,7 @@
 layout: post
 title: "Zac's Blog - The Riots"
 permalink: /archives/2011/08/zacs_blog_the_riots.html
+commentfile: 2011-08-10-zacs_blog_the_riots
 category: news
 date: 2011-08-10 06:59:50
 
@@ -18,3 +19,9 @@ People will give their lives for political causes, which makes policing in those
 That the thugs were willing to so brazenly challenge the authorities last night in their pursuit of fashion accessories surely tells us that there is something profoundly wrong in the approach used by the police."
 
 p. <cite>Continue reading on "Zac Goldsmith, MP for Richmond's blog ...":http://www.zacgoldsmith.com/default.asp?contentID=85</cite>
+
+
+
+
+
+{% include comments.html %}

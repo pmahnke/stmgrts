@@ -2,6 +2,7 @@
 layout: post
 title: "National Massage Day Celebratory Offer at Pilates Plus"
 permalink: /archives/2014/05/national_massage_day_celebratory_offer_at_pilates.html
+commentfile: 2014-05-16-national_massage_day_celebratory_offer_at_pilates
 category: around_town
 date: 2014-05-16 18:12:50
 excerpt: |
@@ -27,3 +28,6 @@ h4. More Information
 
 * massages by Jules Round - BA Hons, ITEC Dip, LCIC
 * book now at "Pilates Plus":http://www.stmgrts.org.uk/directory/health_aNd_beauty/200506220001 or call Jules on 07712 009 503
+
+
+{% include comments.html %}

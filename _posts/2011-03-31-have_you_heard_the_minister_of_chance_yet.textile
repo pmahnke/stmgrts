@@ -2,6 +2,7 @@
 layout: post
 title: "Have you heard THE MINISTER OF CHANCE yet?"
 permalink: /archives/2011/03/have_you_heard_the_minister_of_chance_yet.html
+commentfile: 2011-03-31-have_you_heard_the_minister_of_chance_yet
 category: around_town
 date: 2011-03-31 21:35:32
 excerpt: |
@@ -48,3 +49,8 @@ bq. "Quality drama with terrific production values"
 bq. "Fantastic, original and mould breaking drama..."
 
 ??Celia Imrie??
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Olympic Events in Richmond Borough"
 permalink: /archives/2012/07/olympic_events_in_richmond_borough.html
+commentfile: 2012-07-08-olympic_events_in_richmond_borough
 category: news
 date: 2012-07-08 17:33:30
 
@@ -55,3 +56,7 @@ The time trails start and finish at Hampton court Palace.
 
 * "Women: 12.30pm to 1.45pm":http://www.stmgrts.org.uk/event/event/200705143440
 * "Men: 14.15pm to 16.05pm":http://www.stmgrts.org.uk/event/event/200705143441
+
+
+
+{% include comments.html %}

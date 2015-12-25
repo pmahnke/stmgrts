@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ&#58; Beat Figures"
 permalink: /archives/2009/04/cpz_beat_figures.html
+commentfile: 2009-04-09-cpz_beat_figures
 category: around_town
 date: 2009-04-09 11:50:32
 
@@ -40,3 +41,8 @@ From the _Beat survey_ you can see that there are approximately 100 fewer cars p
 
 
 <cite>-- from Mary Ainscough</cite> 
+
+
+
+
+{% include comments.html %}

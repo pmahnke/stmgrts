@@ -2,6 +2,7 @@
 layout: post
 title: "The Marathon de Sables&#58; 1st April 2010. Where am I now?"
 permalink: /archives/2009/11/the_marathon_de_sables_1st_april_2010_where_am_i_n.html
+commentfile: 2009-11-19-the_marathon_de_sables_1st_april_2010_where_am_i_n
 category: news
 date: 2009-11-19 16:43:55
 
@@ -22,3 +23,9 @@ I am raising money for F.R.O.D.O. and I have set up a just giving site. So if yo
 Georgie runs her own training business, providing 1:2:1 training, run together sessions or will happily help you with your training and fitness goals. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.
 
 <cite>-- from Georgie Islip</cite>
+
+
+
+
+
+{% include comments.html %}

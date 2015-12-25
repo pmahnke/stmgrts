@@ -2,6 +2,7 @@
 layout: post
 title: "Clap Hands - Here Comes Charlie!"
 permalink: /archives/2014/03/clap_hands_here_comes_charlie.html
+commentfile: 2014-03-13-clap_hands_here_comes_charlie
 category: around_town
 date: 2014-03-13 22:34:45
 excerpt: |
@@ -54,3 +55,6 @@ Goodbye Charlie...and thanks!
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

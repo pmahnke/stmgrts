@@ -2,6 +2,7 @@
 layout: post
 title: "Rock Around The Embargo - Part 1"
 permalink: /archives/2014/06/rock_around_the_embargo_part_1.html
+commentfile: 2014-06-26-rock_around_the_embargo_part_1
 category: around_town
 date: 2014-06-26 09:06:52
 excerpt: |
@@ -76,3 +77,7 @@ Mean, moody, magnificent - and playing American Fender guitars! (Sorry about the
 <em>Read part 2 of "Rock Around The Embargo":http://www.stmgrts.org.uk/archives/2014/07/rock_around_the_embargo_part_2.html</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Do You Enjoy Singing?"
 permalink: /archives/2011/04/do_you_enjoy_singing.html
+commentfile: 2011-04-27-do_you_enjoy_singing
 category: around_town
 date: 2011-04-27 20:48:09
 
@@ -24,3 +25,7 @@ We're also stars of YouTube!
 We rehearse on alternate Thursdays at St Stephens School Hall in St Margarets.
 
 If you'd like to join us, phone Gr&#225;inne O'Kelly on 8892-1355 or email "grainne@f2s.com":mailto:grainne@f2s.com for details.
+
+
+
+{% include comments.html %}

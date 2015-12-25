@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council Flood Update"
 permalink: /archives/2007/07/richmond_council_flood_update.html
+commentfile: 2007-07-24-richmond_council_flood_update
 category: news
 date: 2007-07-24 16:24:12
 
@@ -37,3 +38,6 @@ h4. Borough Contingencies Unit advice for the public
 * Exercise extreme caution if walking through floodwater as hidden obstructions can cause fatal injuries
 
 ??-- from Richmond Council??
+
+
+{% include comments.html %}

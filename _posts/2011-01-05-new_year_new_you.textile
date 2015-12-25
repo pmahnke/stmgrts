@@ -2,6 +2,7 @@
 layout: post
 title: "New Year New You!"
 permalink: /archives/2011/01/new_year_new_you.html
+commentfile: 2011-01-05-new_year_new_you
 category: around_town
 date: 2011-01-05 08:40:18
 
@@ -23,3 +24,9 @@ The  classes consider the needs of the individual by adapting postures to help t
 Contact me either by calling 020 8400 1797 or mobile 07770 993289.
 
 "www.soundmindsoundbody.co.uk":http://www.soundmindsoundbody.co.uk
+
+
+
+
+
+{% include comments.html %}

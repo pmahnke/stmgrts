@@ -2,6 +2,7 @@
 layout: post
 title: "Kew Sinfonia's Summer Concert - 23 June 2012"
 permalink: /archives/2012/05/kew_sinfonias_summer_concert_23_june_2012.html
+commentfile: 2012-05-31-kew_sinfonias_summer_concert_23_june_2012
 category: around_town
 date: 2012-05-31 22:39:26
 excerpt: |
@@ -31,3 +32,9 @@ h4. More Information
 &pound;3 children under 12 in advance or on the door from ABC MUSIC, Station Approach, Kew (0208 940 1892)
 * St Anne's Church, Kew Green
 * "www.kewsinfonia.org.uk":http://www.kewsinfonia.org.uk
+
+
+
+
+
+{% include comments.html %}

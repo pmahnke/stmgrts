@@ -2,6 +2,7 @@
 layout: post
 title: "Thursday Night Music Club at the Turk's Head"
 permalink: /archives/2015/06/thursday_night_music_club_at_the_turks_head.html
+commentfile: 2015-06-25-thursday_night_music_club_at_the_turks_head
 category: around_town
 date: 2015-06-25 22:44:06
 excerpt: |
@@ -18,3 +19,11 @@ Methyl Blue, has recently launched the Thursday Night Music Club at the Turk's H
 
 
 The next event is on 9 July 2015.
+
+
+
+
+
+
+
+{% include comments.html %}

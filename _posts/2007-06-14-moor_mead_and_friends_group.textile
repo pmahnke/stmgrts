@@ -2,6 +2,7 @@
 layout: post
 title: "Moor Mead and Friend's Group"
 permalink: /archives/2007/06/moor_mead_and_friends_group.html
+commentfile: 2007-06-14-moor_mead_and_friends_group
 category: news
 date: 2007-06-14 15:02:30
 
@@ -22,3 +23,8 @@ A small group of local residents has met to begin discussing how the pavilion co
 Please contact Claire Wilson -- "corpunit@aol.com":mailto:corpunit@aol.com or 020 8744 0700 for more details.
 
 We would also like to know what you thought of the Fitpoint.
+
+
+
+
+{% include comments.html %}

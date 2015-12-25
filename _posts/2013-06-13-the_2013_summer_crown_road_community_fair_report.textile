@@ -2,6 +2,7 @@
 layout: post
 title: "The 2013 Summer Crown Road Community Fair Report"
 permalink: /archives/2013/06/the_2013_summer_crown_road_community_fair_report.html
+commentfile: 2013-06-13-the_2013_summer_crown_road_community_fair_report
 category: news
 date: 2013-06-13 22:00:51
 excerpt: |
@@ -26,3 +27,7 @@ Thousands of residents turned out to enjoy the day which was nicely summed up by
 The St Margarets Traders Association organises the summer and Christmas Fairs in Crown Road with support from Richmond Council and generous sponsorship help from the RFU and local property companies Chase Buchanan and Fitz-Gibbon.
 
 * "See photos from the fair on flickr":http://www.flickr.com/photos/mahnke/sets/72157634031700451/
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "This Autumn at Pilates Plus"
 permalink: /archives/2012/10/this_autumn_at_pilates_plus.html
+commentfile: 2012-10-15-this_autumn_at_pilates_plus
 category: around_town
 date: 2012-10-15 20:59:56
 excerpt: |
@@ -38,3 +39,7 @@ h4. Family Friendly Fridays
 _Friday 10.00-11.00_
 
 Bring a friend or meet new mums at our Post Natal Pilates Class. Babies are welcome to come along too. Plenty of space and step free access to studio. Lots of places for coffee on Crown Road afterwards!
+
+
+
+{% include comments.html %}

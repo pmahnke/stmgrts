@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Auction"
 permalink: /archives/2007/10/event_reminder_art_auction.html
+commentfile: 2007-10-23-event_reminder_art_auction
 category: around_town
 date: 2007-10-23 20:17:47
 
@@ -18,3 +19,10 @@ The Trust's fund-raising this year is focusing on its ambitious River Centre pro
 
 The Auction is on Thursday November 8th, at York House, Twickenham. Viewing starts at 7pm, the auction begins at 8pm, and tickets are &pound;5 (to include a glass of wine and canap{e'}s) from the Environment Trust on 020 8891 5455, or email "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk
 You can have a preview of the pictures available by going to the Trust's website, "www.environmenttrust.co.uk":http://www.environmenttrust.co.uk/
+
+
+
+
+
+
+{% include comments.html %}

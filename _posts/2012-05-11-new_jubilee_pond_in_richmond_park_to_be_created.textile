@@ -2,6 +2,7 @@
 layout: post
 title: "New Jubilee Pond in Richmond Park to be Created"
 permalink: /archives/2012/05/new_jubilee_pond_in_richmond_park_to_be_created.html
+commentfile: 2012-05-11-new_jubilee_pond_in_richmond_park_to_be_created
 category: news
 date: 2012-05-11 09:21:57
 excerpt: |
@@ -75,3 +76,6 @@ The pond's sinuous design creates an interesting feature which avoids a protecte
 The ponds will be shallow (maximum 1.5m deep) and alder trees will be planted alongside the north bank. Plants will naturally colonise the pond and its margins, but other native species, characteristic of the area, will be planted to increase diversity. The pond will be fenced for the first few years to prevent damage to the new planting by deer and dogs.
 
 The conservation charity, Healthy Planet, is providing the core funding for the Jubilee Pond and will match pound for pound everything raised through the public appeal.
+
+
+{% include comments.html %}

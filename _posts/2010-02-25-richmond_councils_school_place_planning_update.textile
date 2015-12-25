@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Council's School Place Planning Update - February 2010"
 permalink: /archives/2010/02/richmond_councils_school_place_planning_update.html
+commentfile: 2010-02-25-richmond_councils_school_place_planning_update
 category: news
 date: 2010-02-25 21:08:08
 
@@ -49,3 +50,6 @@ h4. Option 2 Highlights
 bq. "These proposals would, in due course, be subject to the publication of statutory proposals and full consultation, to which parents and other local residents would be invited to respond, before any final decisions would be taken"
 
 ??Nick Whitfield, Directory of Children's Services and Culture??
+
+
+{% include comments.html %}

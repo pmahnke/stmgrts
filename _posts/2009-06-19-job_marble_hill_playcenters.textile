@@ -2,6 +2,7 @@
 layout: post
 title: "Job&#58; Marble Hill Playcenters "
 permalink: /archives/2009/06/job_marble_hill_playcenters.html
+commentfile: 2009-06-19-job_marble_hill_playcenters
 category: around_town
 date: 2009-06-19 08:23:43
 
@@ -17,3 +18,8 @@ For an application form and job description please contact Claire Chapman our Pl
 
 * Closing date: 3/07/09
 * Interviews:  20/07/09 
+
+
+
+
+{% include comments.html %}

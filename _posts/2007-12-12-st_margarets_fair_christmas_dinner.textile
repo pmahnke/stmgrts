@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair Christmas Dinner"
 permalink: /archives/2007/12/st_margarets_fair_christmas_dinner.html
+commentfile: 2007-12-12-st_margarets_fair_christmas_dinner
 category: news
 date: 2007-12-12 22:02:59
 
@@ -15,3 +16,9 @@ Around a hundred of St Margarets more senior citizens had an early Christmas mea
 |<a href="//stmgrts.org.uk/assets/images/2007/xmas_fair_dinner3.jpg"><img src="//stmgrts.org.uk/assets/images/2007/xmas_fair_dinner3-thumb.jpg" width="150" height="112" alt="photo 1" class="photo" /></a>
 |
 |Some of the charity beneficiary representatives with St Margarets Fair committee members.|Gloria Ketley who has organised the meal on behalf of the Fair Committee for nearly thirty years, with two of the guests.|
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Letters to America &#58; The Property Market & The French"
 permalink: /archives/2006/04/letters_to_amer_4.html
+commentfile: 2006-04-09-letters_to_amer_4
 category: around_town
 date: 2006-04-09 21:44:54
 excerpt: |
@@ -32,3 +33,6 @@ We are all doing well and enjoying the recent weather.  I hope you all are doin
 </div>
 
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
+
+
+{% include comments.html %}

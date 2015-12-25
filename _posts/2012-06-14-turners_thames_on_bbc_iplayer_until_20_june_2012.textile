@@ -2,6 +2,7 @@
 layout: post
 title: "Turner's Thames on BBC iPlayer - until 20 June 2012"
 permalink: /archives/2012/06/turners_thames_on_bbc_iplayer_until_20_june_2012.html
+commentfile: 2012-06-14-turners_thames_on_bbc_iplayer_until_20_june_2012
 category: around_town
 date: 2012-06-14 21:22:42
 excerpt: |
@@ -31,3 +32,7 @@ Turner's greatness as a painter is often attributed to his modern use of colour.
 * "www.bbc.co.uk/programmes/b01jv255":http://www.bbc.co.uk/programmes/b01jv255
 
 </div>
+
+
+
+{% include comments.html %}

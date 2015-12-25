@@ -2,6 +2,7 @@
 layout: post
 title: "The Isleworth Mona Lisa"
 permalink: /archives/2012/10/the_isleworth_mona_lisa.html
+commentfile: 2012-10-04-the_isleworth_mona_lisa
 category: around_town
 date: 2012-10-04 22:40:07
 
@@ -40,3 +41,7 @@ For a final word I asked a man at the Isleworth bus stop for his opinion. He sai
 The Louvre Museum, who own the original, declined to comment, particularly about the H37.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

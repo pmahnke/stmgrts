@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Play - We Can Do It! - 19 to 22 March 2014"
 permalink: /archives/2014/03/event_reminder_play_we_can_do_it_19_to_22_march_20.html
+commentfile: 2014-03-06-event_reminder_play_we_can_do_it_19_to_22_march_20
 category: around_town
 date: 2014-03-06 18:58:25
 excerpt: |
@@ -34,3 +35,7 @@ h4. Performance dates:
 * Friday 21<sup>st</sup> March 2014 at 7.30pm
 * Saturday 22<sup>nd</sup> March 2014 at 2.30pm
 * Saturday 22<sup>nd</sup> March 2014 at 7.30pm
+
+
+
+{% include comments.html %}

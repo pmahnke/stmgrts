@@ -2,6 +2,7 @@
 layout: post
 title: "The Twichenham Challenge"
 permalink: /archives/2005/06/twickenham_rive_1.html
+commentfile: 2005-06-14-twickenham_rive_1
 category: news
 date: 2005-06-14 16:59:27
 
@@ -32,3 +33,7 @@ After the groups submit their proposals, the Council will evaluate the proposals
 Most Twickenham Ward residents, including St Margarets, received a glossy 14 page brochure detailing the entire project, but if you missed it or want it again, you can get it as a (rather large) PDF "here":http://www.richmond.gov.uk/riverside_2005_brochure.pdf or throughout the Borough in Council offices and libraries.  It provides a lot of detail on each of these four groups proposals.
 
 Additionally, the Council's website has more information "here":http://www.richmond.gov.uk/twickenhamriverside and will be updated with news.  Finally, the "Twickenham Riverside":http://www.rivercentre.co.uk/ site is an excellent source of news and photos of the site.
+
+
+
+{% include comments.html %}

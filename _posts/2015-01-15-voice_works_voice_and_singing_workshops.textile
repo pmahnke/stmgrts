@@ -2,6 +2,7 @@
 layout: post
 title: "Voice Works' Voice And Singing Workshops"
 permalink: /archives/2015/01/voice_works_voice_and_singing_workshops.html
+commentfile: 2015-01-15-voice_works_voice_and_singing_workshops
 category: around_town
 date: 2015-01-15 22:03:44
 excerpt: |
@@ -32,3 +33,7 @@ h4. More Information
 
 * 07813 397608
 * "voiceworks12@hotmail.com":mailto:voiceworks12@hotmail.com
+
+
+
+{% include comments.html %}

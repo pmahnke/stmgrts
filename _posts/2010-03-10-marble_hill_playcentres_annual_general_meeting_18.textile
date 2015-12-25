@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Playcentres Annual General Meeting - 18 March 2010"
 permalink: /archives/2010/03/marble_hill_playcentres_annual_general_meeting_18.html
+commentfile: 2010-03-10-marble_hill_playcentres_annual_general_meeting_18
 category: news
 date: 2010-03-10 09:01:46
 
@@ -20,3 +21,9 @@ The position is voluntary but expenses (including babysitting) are payable.
 Your initial commitment would be for just one year but we would hope that people will want to continue their involvement beyond that.
 
 If you are interested, please contact the Chair, Sarah Liquorish by phone (88926732) or email ("sarahliquorish@onetel.com":mailto:sarahliquorish@onetel.com).
+
+
+
+
+
+{% include comments.html %}

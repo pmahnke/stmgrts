@@ -2,6 +2,7 @@
 layout: post
 title: "LOUISIANA PART 2&#58; The Traditional Music of the Louisiana Cajuns"
 permalink: /archives/2010/06/the_traditional_music_of_the_louisiana_cajuns.html
+commentfile: 2010-06-26-the_traditional_music_of_the_louisiana_cajuns
 category: around_town
 date: 2010-06-26 06:23:32
 excerpt: |
@@ -75,3 +76,6 @@ One of the greatest Cajun Bands - ever! The Balfa Brothers with Nathan Abshire. 
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

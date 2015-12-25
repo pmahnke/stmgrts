@@ -2,6 +2,7 @@
 layout: post
 title: "Yellowwedge Xmas Ordering 2012"
 permalink: /archives/2011/12/yellowwedge_xmas_ordering_2012.html
+commentfile: 2011-12-13-yellowwedge_xmas_ordering_2012
 category: around_town
 date: 2011-12-13 09:53:26
 
@@ -42,3 +43,7 @@ And whatever your plans for the festive season, our very best wishes from all of
 |MONDAY |02ND|Bank Holiday - Closed|
 |TUESDAY|03RD|Closed|
 |WEDNESDAY|04TH|Business as usual...|
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "7 January 1928 - The Day That St Margarets Flooded"
 permalink: /archives/2011/10/7_january_1928_the_day_that_st_margarets_flooded.html
+commentfile: 2011-10-27-7_january_1928_the_day_that_st_margarets_flooded
 category: around_town
 date: 2011-10-27 22:35:02
 excerpt: |
@@ -83,3 +84,7 @@ Markers recording the height of the flood waters of the 7<sup>th</sup> January 1
 <em>Credits: The postcards showing the floods in Kew came from "Richmond and Kew - Archive Photographs" compiled by Richard Essen. The photographs of the flood markers were taken by Amanda Day</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

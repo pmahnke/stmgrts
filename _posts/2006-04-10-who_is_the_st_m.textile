@@ -2,6 +2,7 @@
 layout: post
 title: "Who is the St Margarets Association of Residents?"
 permalink: /archives/2006/04/who_is_the_st_m.html
+commentfile: 2006-04-10-who_is_the_st_m
 category: around_town
 date: 2006-04-10 22:35:07
 excerpt: |
@@ -20,3 +21,7 @@ bq. "are an informal organisation of volunteers -- this means we are reactive ra
 
 
 Turns out they didn't have a website either, so we have hosted a page for them "here":/static/info/smar.html if you are interested in learning more.
+
+
+
+{% include comments.html %}

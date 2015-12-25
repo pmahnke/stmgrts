@@ -2,6 +2,7 @@
 layout: post
 title: "Breaking News &#58; The Spirit Group Drops Appeal"
 permalink: /archives/2006/03/breaking_news.html
+commentfile: 2006-03-08-breaking_news
 category: news
 date: 2006-03-08 13:37:20
 excerpt: |
@@ -16,3 +17,6 @@ Apparently, "The Spirit Group":http://www.thespiritgroup.com/ have today dropped
 We will publish more detail as we get more information.
 
 NOTE: _this story will be replaced when more information comes in..._
+
+
+{% include comments.html %}

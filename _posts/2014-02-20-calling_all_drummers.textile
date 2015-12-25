@@ -2,6 +2,7 @@
 layout: post
 title: "Calling All Drummers"
 permalink: /archives/2014/02/calling_all_drummers.html
+commentfile: 2014-02-20-calling_all_drummers
 category: around_town
 date: 2014-02-20 21:26:47
 
@@ -22,3 +23,7 @@ If you are interested, please contact Geoff Varrall on:
 
 * 07710 020040
 * "geoff@rttonline.com":mailto:geoff@rttonline.com
+
+
+
+{% include comments.html %}

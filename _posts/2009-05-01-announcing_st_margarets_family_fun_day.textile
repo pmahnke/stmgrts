@@ -2,6 +2,7 @@
 layout: post
 title: "Announcing St Margarets Family Fun Day"
 permalink: /archives/2009/05/announcing_st_margarets_family_fun_day.html
+commentfile: 2009-05-01-announcing_st_margarets_family_fun_day
 category: news
 date: 2009-05-01 15:40:54
 
@@ -24,3 +25,8 @@ A limited number of spaces are available for the show. A panel of celebrity judg
 
 
 _More details to follow..._
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "A Transport of Delight "
 permalink: /archives/2010/06/a_transport_of_delight.html
+commentfile: 2010-06-04-a_transport_of_delight
 category: around_town
 date: 2010-06-04 09:16:33
 excerpt: |
@@ -90,3 +91,6 @@ For Iver and Iver
 Crouch End.
 
 p. <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

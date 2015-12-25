@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Shopping at Turner's House - 29 November 2015"
 permalink: /archives/2015/11/christmas_shopping_at_turners_house_29_november_20.html
+commentfile: 2015-11-19-christmas_shopping_at_turners_house_29_november_20
 category: around_town
 date: 2015-11-19 21:40:05
 
@@ -26,3 +27,7 @@ Other stalls include jewellery and delicious Italian deli products, and new addi
 And be sure to not leave without an indulgent cake to take home for tea.
 
 Plus, if you missed Turner's House open days this year, the Christmas Fair is one more - and final - chance to see Turner's Twickenham villa prior to restoration.
+
+
+
+{% include comments.html %}

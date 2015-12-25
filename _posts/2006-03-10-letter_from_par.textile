@@ -2,6 +2,7 @@
 layout: post
 title: "Letter from ParVinu"
 permalink: /archives/2006/03/letter_from_par.html
+commentfile: 2006-03-10-letter_from_par
 category: editorial
 date: 2006-03-10 08:02:07
 excerpt: |
@@ -26,3 +27,6 @@ Best wishes
 
 Gavin, Berkley and Tony
 </div>
+
+
+{% include comments.html %}

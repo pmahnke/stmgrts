@@ -2,6 +2,7 @@
 layout: post
 title: "Running for RACC"
 permalink: /archives/2012/12/running_for_racc.html
+commentfile: 2012-12-20-running_for_racc
 category: around_town
 date: 2012-12-20 09:39:44
 
@@ -43,3 +44,7 @@ h4. Fund raising for RACC
 An independent registered charity The Portcullis Trust (PT 281564) has been raising funds for the college for over thirty years.
 
 If you are interested in joining as a trustee or being involved in any way do please contact us.
+
+
+
+{% include comments.html %}

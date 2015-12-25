@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; RTPS Annual Exhibition - 25 March to 6 April 2015"
 permalink: /archives/2015/02/event_reminder_rtps_annual_exhibition_25_march_to.html
+commentfile: 2015-02-19-event_reminder_rtps_annual_exhibition_25_march_to
 category: around_town
 date: 2015-02-19 20:32:21
 excerpt: |
@@ -25,3 +26,6 @@ h4. More Information
 * Admission &pound;2.00 (Children free)
 * 020 8977 7558
 * "www.rtps.org.uk":http://www.rtps.org.uk
+
+
+{% include comments.html %}

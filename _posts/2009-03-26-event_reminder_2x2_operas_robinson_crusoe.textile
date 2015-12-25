@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 2x2 Opera's Robinson Crusoe"
 permalink: /archives/2009/03/event_reminder_2x2_operas_robinson_crusoe.html
+commentfile: 2009-03-26-event_reminder_2x2_operas_robinson_crusoe
 category: around_town
 date: 2009-03-26 11:29:19
 excerpt: |
@@ -20,3 +21,9 @@ This is our sixth production and involves a staggering 62 strong chorus of child
 Local resident and TV producer Keith Cheetham directs this new adaptation.
 
 For full details, please visit our website: "www.2x2opera.co.uk":http://www.2x2opera.co.uk/
+
+
+
+
+
+{% include comments.html %}

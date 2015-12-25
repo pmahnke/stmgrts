@@ -2,6 +2,7 @@
 layout: post
 title: "Beware Bogus 'Charities' and Third World Appeals"
 permalink: /archives/2006/11/beware_bogus_ch.html
+commentfile: 2006-11-30-beware_bogus_ch
 category: editorial
 date: 2006-11-30 15:14:55
 
@@ -41,3 +42,6 @@ Some 'companies' to look out for include:
 * "Unwanted clothing collection" ("5583979":http://www.ukdata.com/creditreports/viewCompanyDetails.do?companyId=5583979) -- Registered as Rogaile Ltd Oct. 2005
 
 <em>-- by Maddie Menzies</em>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Still Want to Learn & Play Bridge?"
 permalink: /archives/2007/05/still_want_to_learn_play_bridge.html
+commentfile: 2007-05-17-still_want_to_learn_play_bridge
 category: around_town
 date: 2007-05-17 13:53:04
 
@@ -12,3 +13,8 @@ The _Learn & Play Bridge_ group (see "article":http://www.stmgrts.org.uk/archive
 The group meets at the Cafe at 10am on Fridays and plays until noon.
 
 Enquiries: Ned Paul, 020-8892 9429/07944 768643 or "ned@nedpaul.com":mailto:ned@nedpaul.com.
+
+
+
+
+{% include comments.html %}

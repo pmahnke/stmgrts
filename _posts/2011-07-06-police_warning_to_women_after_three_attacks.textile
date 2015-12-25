@@ -2,6 +2,7 @@
 layout: post
 title: "Police Warning to Women After Three Attacks"
 permalink: /archives/2011/07/police_warning_to_women_after_three_attacks.html
+commentfile: 2011-07-06-police_warning_to_women_after_three_attacks
 category: news
 date: 2011-07-06 11:48:48
 
@@ -33,3 +34,7 @@ If you are approached by someone who you are suspicious of, do not engage them i
 For emergencies, call 999. For non-emergencies call 0300 123 1212.
 
 Anyone with information relating to the incidents described should call Richmond upon Thames CID on 020 8247 7032.
+
+
+
+{% include comments.html %}

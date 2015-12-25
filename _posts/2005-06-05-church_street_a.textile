@@ -2,6 +2,7 @@
 layout: post
 title: "Church Street 'al fresco' Dining"
 permalink: /archives/2005/06/church_street_a.html
+commentfile: 2005-06-05-church_street_a
 category: news
 date: 2005-06-05 20:57:33
 
@@ -14,3 +15,8 @@ There are six restaurants and two pubs are participating.
 The hours are every Thursday, Friday and Saturday evening from 6-11pm and Sundays from 10:30am - 8pm.
 
 For more information, look at their "website":http://www.twickenhamchurchstreet.org/.
+
+
+
+
+{% include comments.html %}

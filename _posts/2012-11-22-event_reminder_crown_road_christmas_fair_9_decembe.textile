@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Crown Road Christmas Fair - 9 December 2012"
 permalink: /archives/2012/11/event_reminder_crown_road_christmas_fair_9_decembe.html
+commentfile: 2012-11-22-event_reminder_crown_road_christmas_fair_9_decembe
 category: around_town
 date: 2012-11-22 11:44:40
 excerpt: |
@@ -37,3 +38,8 @@ Word has it that Santa will be arriving in his grotto at 11am and will be bringi
 
 
 "Download the poster":http://www.stmgrts.org.uk/images//2012-Christmas-Fair-Poster.jpg
+
+
+
+
+{% include comments.html %}

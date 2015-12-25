@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancies&#58; Forest School Leader and Assistant - Wild Education"
 permalink: /archives/2013/03/local_job_vacancies_forest_school_leader_and_assis.html
+commentfile: 2013-03-12-local_job_vacancies_forest_school_leader_and_assis
 category: around_town
 date: 2013-03-12 20:03:21
 excerpt: |
@@ -30,3 +31,6 @@ h4. For more information please contact -
 Ellie Wrigglesworth
 07837 746366
 "wrigglers@talktalk.net":mailto:wrigglers@talktalk.net
+
+
+{% include comments.html %}

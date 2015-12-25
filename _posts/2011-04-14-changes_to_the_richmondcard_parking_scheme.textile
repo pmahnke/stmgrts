@@ -2,6 +2,7 @@
 layout: post
 title: "Changes to the RichmondCard Parking Scheme"
 permalink: /archives/2011/04/changes_to_the_richmondcard_parking_scheme.html
+commentfile: 2011-04-14-changes_to_the_richmondcard_parking_scheme
 category: news
 date: 2011-04-14 14:36:17
 excerpt: |
@@ -27,3 +28,6 @@ h4. Details
 
 * More information on the "RichmondCard scheme":http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/parking_meters/richmondcard.htm
 * Information on "Council defers new parking charges until June":http://www.richmond.gov.uk/council_defers_new_parking_charges?utm_source=twitterfeed&utm_medium=twitter
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Confirmed &#58; The Spirit Group Drops Appeal"
 permalink: /archives/2006/03/confirmed_the_s.html
+commentfile: 2006-03-15-confirmed_the_s
 category: news
 date: 2006-03-15 21:27:00
 excerpt: |
@@ -26,3 +27,7 @@ bq.. "The St Margaret's Tavern officially withdrew their appeal today!
 This means that the decision of the Licensing Sub-Committee will stand.  The Sub-Committee granted the following hours for the sale of alcohol, anything of a similar description and facilities for dancing: Sunday to Thursday -- 10:00 to 23:00; Friday and Saturday -- 10:00 to 00:00.  Live music was authorised between the hours of 10:00 and 23:00.  Recorded music is an automatic right upon conversion to the new licensing regime for existing justices licence holders."
 
 p. -- Louisa Jeschke, Licensing and Litigation Lawyer, Richmond Council
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "20 Ideas for... Mother's Day"
 permalink: /archives/2013/03/20_ideas_for_mothers_day.html
+commentfile: 2013-03-08-20_ideas_for_mothers_day
 category: around_town
 date: 2013-03-08 22:09:00
 excerpt: |
@@ -61,3 +62,7 @@ Syon House, Osterley Park and Chiswick House are all fantastic for a relaxing st
 For the complete indulgence visit William Curley, Richmond. We're not talking about a simple truffle here and there, we're talking apricot pate de fruit and wasabiganache, earl grey tea and Toscano dark and milk chocolate, Kyoto green tea and dark chocolate cubes, sea salt caramels, thyme and Scottish heather honey parcels and Japanese black rice vinegar and dark chocolate ganache...yum.
 
 Produced by For Sanity's Sake "www.forsanityssake.com":http://www.forsanityssake.com - the local activity website for kids.
+
+
+
+{% include comments.html %}

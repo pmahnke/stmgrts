@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Film Studios, Richmond Council and Recycling"
 permalink: /archives/2011/11/twickenham_film_studios_richmond_council_and_recyc.html
+commentfile: 2011-11-18-twickenham_film_studios_richmond_council_and_recyc
 category: editorial
 date: 2011-11-18 09:23:59
 excerpt: |
@@ -21,3 +22,9 @@ Twickenham Film Studios have asked the council to consider removing the recyclin
 
 * "Vote in our poll":http://www.stmgrts.org.uk/poll/FILM/
 * "View the results":http://www.stmgrts.org.uk/poll/FILM/results
+
+
+
+
+
+{% include comments.html %}

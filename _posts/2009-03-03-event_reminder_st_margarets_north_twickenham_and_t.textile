@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets & North Twickenham and Twickenham Riverside, Area Consultation Meetings"
 permalink: /archives/2009/03/event_reminder_st_margarets_north_twickenham_and_t.html
+commentfile: 2009-03-03-event_reminder_st_margarets_north_twickenham_and_t
 category: around_town
 date: 2009-03-03 22:58:53
 
@@ -22,3 +23,8 @@ This is a new item introduced to Area Consultation Meetings. Councillors will be
 # OTHER ITEMS TO BE RAISED AT THE MEETING
 # NEXT SCHEDULED AREA CONSULTATION MEETING
 The next St Margaret's & North Twickenham and Twickenham Riverside ACM is scheduled for 6 October 2009 in York House.
+
+
+
+
+{% include comments.html %}

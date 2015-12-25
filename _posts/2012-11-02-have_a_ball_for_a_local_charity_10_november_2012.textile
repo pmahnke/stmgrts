@@ -2,6 +2,7 @@
 layout: post
 title: "Have a Ball for a Local Charity - 10 November 2012"
 permalink: /archives/2012/11/have_a_ball_for_a_local_charity_10_november_2012.html
+commentfile: 2012-11-02-have_a_ball_for_a_local_charity_10_november_2012
 category: around_town
 date: 2012-11-02 11:16:32
 
@@ -18,3 +19,9 @@ A Glittering Night with magician, casino, caricaturist, auctions and dancing to 
 Organised by The David Adams Leukaemia Appeal, a local St Margarets charity.
 
 "www.davidadamsleukaemiaappeal.org":http://www.davidadamsleukaemiaappeal.org
+
+
+
+
+
+{% include comments.html %}

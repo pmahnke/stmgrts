@@ -2,6 +2,7 @@
 layout: post
 title: "Council's CPZ Review for Morley Road area, East Twickenham"
 permalink: /archives/2009/01/councils_cpz_review_for_morley_road_area_east_twic.html
+commentfile: 2009-01-06-councils_cpz_review_for_morley_road_area_east_twic
 category: news
 date: 2009-01-06 20:32:04
 
@@ -19,3 +20,8 @@ Following discussions with residents, the ward councillors and the Cabinet Membe
 <cite> -- from "www.richmond.gov.uk/morley_road":http://www.richmond.gov.uk/morley_road</cite>
 
 <cite>-- highlighted to the site by Gerhard Schellberg</cite>
+
+
+
+
+{% include comments.html %}

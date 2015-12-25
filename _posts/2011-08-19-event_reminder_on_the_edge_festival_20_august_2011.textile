@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; On the Edge Festival - 20 August 2011"
 permalink: /archives/2011/08/event_reminder_on_the_edge_festival_20_august_2011.html
+commentfile: 2011-08-19-event_reminder_on_the_edge_festival_20_august_2011
 category: around_town
 date: 2011-08-19 14:52:40
 excerpt: |
@@ -27,3 +28,9 @@ Grab your picnic basket and dancing shoes and head down to On the Edge.
 From the Caribbean beats of Tropical Storm and the sultry Jesus Cutino & Son de Cuba, to Karan's Bollywood performance and workshop which will have everyone their feet! Zambula change the mood with music from Uganda and the Congo before Toby Nowell's Runaway Wedding Band bring their own riotous melee of Balkan bebop, with Serbian songs, high speed coceks and Balkan brass classics. Dancing will be unavoidable!
 
 For more information: "www.richmond.gov.uk/home/leisure_and_culture/arts/music/on_the_edge.htm":http://www.richmond.gov.uk/home/leisure_and_culture/arts/music/on_the_edge.htm
+
+
+
+
+
+{% include comments.html %}

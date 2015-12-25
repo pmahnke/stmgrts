@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Holly Lodge Centre Christmas Concert - 2 December 2014"
 permalink: /archives/2014/11/event_reminder_holly_lodge_centre_christmas_concer.html
+commentfile: 2014-11-06-event_reminder_holly_lodge_centre_christmas_concer
 category: around_town
 date: 2014-11-06 21:24:22
 excerpt: |
@@ -27,3 +28,7 @@ At Sheen Mount School in East Sheen music and the arts have a high profile withi
 * Adrian Mills, a patron of the Holly Lodge Centre and host of this year's concert is a television presenter. He appeared on That's Life! with Esther Rantzen until 1994. Since then he has presented talk show Central Weekend Live, reported for BBC viewer feedback programme Bite Back, appeared as a location reporter on Surprise, Surprise, and in later years was a host on TV Travel Shop.
 
 The Holly Lodge Centre in Richmond Park was founded more than 20 years ago with the aim of providing groups of children and adults - particularly those with special physical and educational needs - a secure environment in which to benefit from the natural and historic wonders of Richmond Park. The Centre is a charity with over 100 volunteers which relies entirely on donations from individuals and trusts. It also benefits from a number of events each year including this Christmas concert.
+
+
+
+{% include comments.html %}

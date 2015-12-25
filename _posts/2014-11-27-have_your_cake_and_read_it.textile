@@ -2,6 +2,7 @@
 layout: post
 title: "Have Your Cake and Read It!"
 permalink: /archives/2014/11/have_your_cake_and_read_it.html
+commentfile: 2014-11-27-have_your_cake_and_read_it
 category: around_town
 date: 2014-11-27 20:55:29
 
@@ -23,3 +24,6 @@ Jess Morrison the schools Literacy Co-ordinator added <em>"The new national curr
 
 
 <cite>-- from a St Stephens press release - 20 November 2014</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Thames Tidefest - 20 September 2015"
 permalink: /archives/2015/09/event_reminder_thames_tidefest_20_september_2015.html
+commentfile: 2015-09-06-event_reminder_thames_tidefest_20_september_2015
 category: around_town
 date: 2015-09-06 22:53:40
 excerpt: |
@@ -40,3 +41,8 @@ There are a lot of family family activities going on including:
 h4. More Information
 
 * event details: "thamestidefest.net":http://thamestidefest.net/2015/07/15/whats-happening-at-tidefest/
+
+
+
+
+{% include comments.html %}

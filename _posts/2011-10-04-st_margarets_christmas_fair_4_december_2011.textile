@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Christmas Fair - 4 December 2011"
 permalink: /archives/2011/10/st_margarets_christmas_fair_4_december_2011.html
+commentfile: 2011-10-04-st_margarets_christmas_fair_4_december_2011
 category: around_town
 date: 2011-10-04 18:35:52
 excerpt: |
@@ -22,3 +23,9 @@ Please join us for a day of family fun and entertainment including:  live music,
 Regular updates will be posted on the St Margarets community site "www.stmgrts.org.uk":http://www.stmgrts.org.uk and on the trader's website "www.mystmargarets.com":http://www.mystmargarets.com
 
 If you are interested in booking a stall please contact "events@mystmargarets.com":mailto:events@mystmargarets.com all other enquiries to "traders@mystmargarets.com":mailto:traders@mystmargarets.com
+
+
+
+
+
+{% include comments.html %}

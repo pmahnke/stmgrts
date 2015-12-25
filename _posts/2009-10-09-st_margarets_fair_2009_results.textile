@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair - 2009 Results"
 permalink: /archives/2009/10/st_margarets_fair_2009_results.html
+commentfile: 2009-10-09-st_margarets_fair_2009_results
 category: news
 date: 2009-10-09 13:53:44
 
@@ -19,3 +20,9 @@ In spite of the not having the usual sun soaked Saturday and the somewhat inclem
 That leaves us with &pound;7000 for our local charities. This year we're going to give everybody in St Margarets the opportunity to put forward their suggestions for some worthy local causes that could benefit from a share of this money.  So if you are a local charity or just want to suggest an organisation for us to consider please contact us via our email address "info@stmargaretsfair.org":mailto:info@stmargaretsfair.org
 
 As always thank you very much for your continuing support of our local community event.
+
+
+
+
+
+{% include comments.html %}

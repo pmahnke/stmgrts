@@ -2,6 +2,7 @@
 layout: post
 title: "Shooting Star Chase&#58; Sunrise Walk - 1 June 2014"
 permalink: /archives/2014/03/shooting_star_chase_sunrise_walk_1_june_2014.html
+commentfile: 2014-03-21-shooting_star_chase_sunrise_walk_1_june_2014
 category: around_town
 date: 2014-03-21 22:03:08
 excerpt: |
@@ -31,3 +32,7 @@ The route will take you past some picturesque sights including Richmond Park, Ri
 
 We're looking for 400 walkers to take part. Are you up for the challenge?
 "www.shootingstarchase.org.uk/sunrisewalk":http://www.shootingstarchase.org.uk/sunrisewalk
+
+
+
+{% include comments.html %}

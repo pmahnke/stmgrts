@@ -2,6 +2,7 @@
 layout: post
 title: "Three Parks Challenge and Family Walk - 24 September 2011"
 permalink: /archives/2011/08/three_parks_challenge_and_family_walk_24_september.html
+commentfile: 2011-08-11-three_parks_challenge_and_family_walk_24_september
 category: around_town
 date: 2011-08-11 14:01:06
 excerpt: |
@@ -29,3 +30,7 @@ h4. More information
 * "Download a information guide":Download all the info you need for on the day. (pdf)
 * Make a donation in support of this event, you can do so directly to Shooting Star CHASE, or from your mobile phone by JustTextGiving!  Simply text the amount you'd like to give, to *PARK33*
 * Spread the word and invite your friends and family to join you in what promises to be a fantastic event. Registration fee is only &pound;12.50 and suggested minimum sponsorship is &pound;50.
+
+
+
+{% include comments.html %}

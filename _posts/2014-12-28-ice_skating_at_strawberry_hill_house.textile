@@ -2,6 +2,7 @@
 layout: post
 title: "Ice Skating at Strawberry Hill House"
 permalink: /archives/2014/12/ice_skating_at_strawberry_hill_house.html
+commentfile: 2014-12-28-ice_skating_at_strawberry_hill_house
 category: around_town
 date: 2014-12-28 11:47:55
 
@@ -17,3 +18,8 @@ Skate in front of Horace Walpole's Gothic Castle at Richmond Rink at Strawberry 
 sauce.
 
 * "More Information":http://www.richmondrink.com
+
+
+
+
+{% include comments.html %}

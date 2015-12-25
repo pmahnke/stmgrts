@@ -2,6 +2,7 @@
 layout: post
 title: "Today is the St Margarets Christmas Fair"
 permalink: /archives/2005/12/today_is_the_st.html
+commentfile: 2005-12-09-today_is_the_st
 category: around_town
 date: 2005-12-09 09:09:26
 
@@ -16,3 +17,8 @@ Come down for all the holiday fun.
 The _St Margarets Community Website_ will be there as well, so stop by and say 'hello'.
 
 </div>
+
+
+
+
+{% include comments.html %}

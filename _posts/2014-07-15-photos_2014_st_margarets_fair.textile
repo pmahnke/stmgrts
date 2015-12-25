@@ -2,6 +2,7 @@
 layout: post
 title: "Photos&#58; 2014 St Margarets Fair"
 permalink: /archives/2014/07/photos_2014_st_margarets_fair.html
+commentfile: 2014-07-15-photos_2014_st_margarets_fair
 category: around_town
 date: 2014-07-15 08:31:29
 excerpt: |
@@ -19,3 +20,8 @@ What a day, what a fair.
 With the best weather in years, thousands flocked to Moormead Park to enjoy the 2014 St Margarets Fair.  We took a few photos, until our camera died.  Please email us at "editor@stmgrts.org.uk":mailto:editor@stmgrts.org.uk if you want to share any of your photos.
 
 * "See more photos of flickr":https://www.flickr.com/photos/mahnke/sets/72157645708100243/
+
+
+
+
+{% include comments.html %}

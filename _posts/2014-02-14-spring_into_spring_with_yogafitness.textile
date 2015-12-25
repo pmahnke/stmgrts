@@ -2,6 +2,7 @@
 layout: post
 title: "Spring into Spring with Yoga-Fitness"
 permalink: /archives/2014/02/spring_into_spring_with_yogafitness.html
+commentfile: 2014-02-14-spring_into_spring_with_yogafitness
 category: around_town
 date: 2014-02-14 11:28:41
 excerpt: |
@@ -61,3 +62,7 @@ h4. For more details contact Sammie on:
 * 07758 866 834
 * "contact@yoga-fitness.co.uk":mailto:contact@yoga-fitness.co.uk
 * visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "TWICKEREE 2012"
 permalink: /archives/2012/06/twickeree_2012.html
+commentfile: 2012-06-21-twickeree_2012
 category: around_town
 date: 2012-06-21 22:38:24
 
@@ -76,3 +77,6 @@ Because of 'Branding' issues I do not know if can use terms like "The Olympics",
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

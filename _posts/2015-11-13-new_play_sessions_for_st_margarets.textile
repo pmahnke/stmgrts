@@ -2,6 +2,7 @@
 layout: post
 title: "New play sessions for St Margarets!"
 permalink: /archives/2015/11/new_play_sessions_for_st_margarets.html
+commentfile: 2015-11-13-new_play_sessions_for_st_margarets
 category: news
 date: 2015-11-13 19:23:33
 excerpt: |
@@ -23,3 +24,7 @@ Monday afternoons 1.30-3.30pm and Saturday mornings 10-12pm families can come an
 New session for autumn 2015 "Fantastic Fridays Play Cafe.":http://brilliantplay.co.uk/fantastic-fridays-play-cafe/ As the nights start to draw in and the park starts to look unappealing for any length of time Brilliant Play aim to provide a cosy place to meet with friends and relax with a cuppa and treat yourself to a slice of cake. 'Fantastic Fridays' will be the perfect place to play if you have older ones to collect from school too as there will  be an art and craft activity, twilight games in the garden as well as tasty treats to buy from the cafe. Think of it as the ultimate Friday play date (but without the mess in your house!) The Play Cafe will run from 2.30-5pm every term time Friday afternoon at the St Margarets Catholic Church hall &pound;3.50 for adults and &pound;1.50 per child.
 
 For information on all sessions please visit "www.brilliantplay.co.uk":http://www.brilliantplay.co.uk
+
+
+
+{% include comments.html %}

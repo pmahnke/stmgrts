@@ -2,6 +2,7 @@
 layout: post
 title: "Jet Harris"
 permalink: /archives/2011/03/jet_harris.html
+commentfile: 2011-03-25-jet_harris
 category: around_town
 date: 2011-03-25 09:37:54
 excerpt: |
@@ -74,3 +75,7 @@ h4. JET HARRIS AND 'THE SHADOWS' IN "THE YOUNG ONES"
 <cite>-- from Martyn Day</cite>
 
 _Picture credits: The Shadows is from the Telegraph, Jet Harris from the Independent_
+
+
+
+{% include comments.html %}

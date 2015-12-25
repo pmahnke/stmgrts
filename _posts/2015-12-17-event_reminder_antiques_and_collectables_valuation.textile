@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58;  Antiques and Collectables Valuation Event - 10 March 2016"
 permalink: /archives/2015/12/event_reminder_antiques_and_collectables_valuation.html
+commentfile: 2015-12-17-event_reminder_antiques_and_collectables_valuation
 category: around_town
 date: 2015-12-17 20:50:36
 excerpt: |
@@ -20,3 +21,7 @@ These valuation days have proven to be very popular in the past, and we have con
 One of the most interesting items we have sold recently was a fragment of pennant flag believed to have been carried by the army of Richard III at the Battle of Bosworth. This was featured on television, and in newspapers nationwide. Sold for &pound;2800 as a speculative item, the feeling was strong overall that the story behind the flag is true. It was nice to handle a topical item such as this. (Coins of Richard III do very well also!)
 
 If you have any questions feel free to contact Lockdales' Martlesham offices: 01473 627110, "sales@lockdales.com":mailto:sales@lockdales.com. For further information see our website "www.lockdales.com":http://www.lockdales.com
+
+
+
+{% include comments.html %}

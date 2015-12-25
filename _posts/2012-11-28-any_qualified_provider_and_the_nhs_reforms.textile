@@ -2,6 +2,7 @@
 layout: post
 title: "Any Qualified Provider and the NHS Reforms"
 permalink: /archives/2012/11/any_qualified_provider_and_the_nhs_reforms.html
+commentfile: 2012-11-28-any_qualified_provider_and_the_nhs_reforms
 category: news
 date: 2012-11-28 20:35:51
 
@@ -20,3 +21,7 @@ It has been the NHS experience that most back pain and neck pain can be resolved
 This reform represents a big increase in the resources available to treat back pain and neck pain within the NHS. There should be no waiting lists for treatment. If you are suffering you should visit you GP immediately.
 
 <cite>-- from Jonathan Grice, Evolved Clinic, Regal House, Twickenham "www.evolvedclinic.com":http://www.evolvedclinic.com</cite>
+
+
+
+{% include comments.html %}

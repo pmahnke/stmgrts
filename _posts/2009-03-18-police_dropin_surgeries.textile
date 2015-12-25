@@ -2,6 +2,7 @@
 layout: post
 title: "Police Drop-in Surgeries"
 permalink: /archives/2009/03/police_dropin_surgeries.html
+commentfile: 2009-03-18-police_dropin_surgeries
 category: around_town
 date: 2009-03-18 13:51:46
 
@@ -29,3 +30,8 @@ The last Thursday of every month
 Come along to discuss any local concerns or issues and to receive crime prevention information.
 
 You could have your mobile phone registered and your bike marked for FREE.
+
+
+
+
+{% include comments.html %}

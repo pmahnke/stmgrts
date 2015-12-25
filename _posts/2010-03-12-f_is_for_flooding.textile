@@ -2,6 +2,7 @@
 layout: post
 title: "'F' is for Flooding"
 permalink: /archives/2010/03/f_is_for_flooding.html
+commentfile: 2010-03-12-f_is_for_flooding
 category: around_town
 date: 2010-03-12 08:44:27
 excerpt: |
@@ -65,3 +66,7 @@ The Thames Barrier is one of London's most striking and famous landmarks. With i
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

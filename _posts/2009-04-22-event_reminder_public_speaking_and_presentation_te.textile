@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Public Speaking and Presentation Techniques"
 permalink: /archives/2009/04/event_reminder_public_speaking_and_presentation_te.html
+commentfile: 2009-04-22-event_reminder_public_speaking_and_presentation_te
 category: around_town
 date: 2009-04-22 10:37:13
 
@@ -42,3 +43,7 @@ PowerPoint
 * Please contact Margaret Squire, "msquire@riverroad.co.uk":mailto:msquire@riverroad.co.uk, 020 8274 2587 
 or Janet Donbavand, "jdonbavand@btinternet.com":mailto:jdonbavand@btinternet.com, 07891 777350/ 020 8892 7497, to book your place, or for further details.
 * Future dates: Friday 10th July, Friday 11th September, Friday 6th November
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Carols in St Margarets"
 permalink: /archives/2010/11/christmas_carols_in_st_margarets.html
+commentfile: 2010-11-24-christmas_carols_in_st_margarets
 category: news
 date: 2010-11-24 09:02:43
 
@@ -10,3 +11,8 @@ date: 2010-11-24 09:02:43
 <a href="http://www.flickr.com/photos/bessgrant/2133707212/" title="carollers by bess grant, on Flickr"><img src="//stmgrts.org.uk/assets/images/2010/2133707212_f783103270_m.jpg" width="150" class="photo right" alt="carollers" /></a>
 
 The St Margarets Traders Association have arranged the necessary police/council/insurance requirements to allow carol singers to sing around the centre-piece Christmas tree in St Margarets on the three Saturdays prior to Christmas. If you would like your group/school/church etc to sing and collect for your chosen charity please contact the association at "traders@mystmargarets.com":mailto:traders@mystmargarets.com. There are some guidelines that have to be followed and booking is required.
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "For Sanity Sake's 20 Things To Do... in half term"
 permalink: /archives/2013/10/for_sanity_sakes_20_things_to_do_in_half_term.html
+commentfile: 2013-10-17-for_sanity_sakes_20_things_to_do_in_half_term
 category: around_town
 date: 2013-10-17 21:36:06
 
@@ -111,3 +112,7 @@ Get into the party mood this half-term as The Little Gym, Hampton and Teddington
 For something more mellow, join Tempo Tots for a live classical music performance by Aurora Duo on Friday 1<sup>st</sup> November , for children aged from 3 months to 4 years.  All money raised goes to local charities.
 
 For lots more great ideas, visit: "www.forsanityssake.com":http://www.forsanityssake.com
+
+
+
+{% include comments.html %}

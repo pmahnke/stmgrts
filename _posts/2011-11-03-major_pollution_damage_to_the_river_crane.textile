@@ -2,6 +2,7 @@
 layout: post
 title: "Major Pollution Damage to the River Crane"
 permalink: /archives/2011/11/major_pollution_damage_to_the_river_crane.html
+commentfile: 2011-11-03-major_pollution_damage_to_the_river_crane
 category: news
 date: 2011-11-03 21:14:36
 excerpt: |
@@ -36,3 +37,7 @@ Recovery will not be a quick fix and Thames Water needs to work with local group
 p. In the short term it is important for all riverside visitors to keep both themselves and their dogs out of the river until further notice. Despite the warning notices posted in the park by FORCE trustees, there were still dogs bathing in the river this week.
 
 <cite>-- press release from Friends of the River Crane Environment (FORCE) - 1 November 2011 - "www.force.org.uk":http://www.force.org.uk</cite>
+
+
+
+{% include comments.html %}

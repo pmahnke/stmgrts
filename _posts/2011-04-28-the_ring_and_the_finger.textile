@@ -2,6 +2,7 @@
 layout: post
 title: "The Ring and the Finger"
 permalink: /archives/2011/04/the_ring_and_the_finger.html
+commentfile: 2011-04-28-the_ring_and_the_finger
 category: 
 date: 2011-04-28 10:46:59
 excerpt: |
@@ -64,3 +65,7 @@ Whether William and Kate will be thinking about any of these things when they ge
 <cite>-- from Martyn Day</cite>
 
 _CREDIT: The picture of William and Kate is the official engagement photograph by Mario Testino. The photograph of the wedding rings is by Jeff Belmonte._
+
+
+
+{% include comments.html %}

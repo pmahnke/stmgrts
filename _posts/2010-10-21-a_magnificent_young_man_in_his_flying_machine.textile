@@ -2,6 +2,7 @@
 layout: post
 title: "A Magnificent Young Man in His Flying Machine"
 permalink: /archives/2010/10/a_magnificent_young_man_in_his_flying_machine.html
+commentfile: 2010-10-21-a_magnificent_young_man_in_his_flying_machine
 category: around_town
 date: 2010-10-21 21:32:28
 excerpt: |
@@ -84,3 +85,6 @@ p. The "Richmond Herald's" final words on the tragic accident that took place at
 bq. "The fact remains that flying is as yet an exceedingly dangerous pastime and that those who engage in it may be literally said to take their lives in their hands every time that they take to that unstable element, the air."
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

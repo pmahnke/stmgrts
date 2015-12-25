@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Plant Fair this Saturday, 2 April 2011"
 permalink: /archives/2011/03/twickenham_plant_fair_this_saturday_2nd_april_2011.html
+commentfile: 2011-03-31-twickenham_plant_fair_this_saturday_2nd_april_2011
 category: around_town
 date: 2011-03-31 17:51:06
 
@@ -22,3 +23,7 @@ RHS medal winners, Rose Cottage Plants specialise in growing hardy bulbs and per
 Peter Sikora set up the Culinary Herb Company in 2008 and now provides Londoners with a huge range of herbs for every cooking taste. His stall is certainly one to 'browse by scent', and the perfect first stop for putting together a windowsill herbary! "www.culinaryherbco.co.uk":http://www.culinaryherbco.co.uk
 * *Rosie's Garden Plants- Kent*
 Jackie Aviolet (aka Rosie) grows a little bit of everything on her nursery near Maidstone. She has unusual-looking prickly cacti, colourful Spring bulbs and well over 30 different types of rose bush. Jackie is one of the plant fairs' real characters and is always happy to stop for a natter with customers.
+
+
+
+{% include comments.html %}

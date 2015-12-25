@@ -2,6 +2,7 @@
 layout: post
 title: "Volunteer at Missing People?"
 permalink: /archives/2012/05/volunteer_at_missing_people.html
+commentfile: 2012-05-24-volunteer_at_missing_people
 category: around_town
 date: 2012-05-24 22:03:01
 
@@ -29,3 +30,8 @@ bq. "It is an experience you will cherish far beyond any expectation"
 bq. "It's a great, friendly environment and training is first class"
 
 If you can't make it to our office, check out our website for volunteering opportunities - "www.missingpeople.org.uk/volunteer":http://www.missingpeople.org.uk/volunteer
+
+
+
+
+{% include comments.html %}

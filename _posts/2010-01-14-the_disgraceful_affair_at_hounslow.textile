@@ -2,6 +2,7 @@
 layout: post
 title: "The Disgraceful Affair at Hounslow"
 permalink: /archives/2010/01/the_disgraceful_affair_at_hounslow.html
+commentfile: 2010-01-14-the_disgraceful_affair_at_hounslow
 category: around_town
 date: 2010-01-14 22:14:07
 excerpt: |
@@ -90,3 +91,6 @@ From London resounded to Newry,
 p. ??A STREET BALLAD OF THE TIME??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

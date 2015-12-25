@@ -2,6 +2,7 @@
 layout: post
 title: "OPERA EVOLUTION - debut performance by St Margretian artist"
 permalink: /archives/2009/10/opera_evolution_debut_performance_by_st_margretian.html
+commentfile: 2009-10-23-opera_evolution_debut_performance_by_st_margretian
 category: news
 date: 2009-10-23 08:53:18
 excerpt: |
@@ -34,3 +35,8 @@ Local creative hub St.Art has been working closely with Ingrid to launch this pr
 To find out more about the event or to book tickets, please go online to
 
 "www.operaevolution.com":http://www.operaevolution.com/ 
+
+
+
+
+{% include comments.html %}

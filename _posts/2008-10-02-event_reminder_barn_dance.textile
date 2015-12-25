@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Barn Dance"
 permalink: /archives/2008/10/event_reminder_barn_dance.html
+commentfile: 2008-10-02-event_reminder_barn_dance
 category: around_town
 date: 2008-10-02 22:11:38
 excerpt: |
@@ -30,3 +31,8 @@ At St Stephen's School Hall, St Margarets, Twickenham (entrance on A316)
 All money raised goes to the St Margaret's Fair senior citizen’s Christmas dinner!
 
 For further details and to reserve a table, please call John I'Anson (07880 796174) or Zeph King (07977 298045).
+
+
+
+
+{% include comments.html %}

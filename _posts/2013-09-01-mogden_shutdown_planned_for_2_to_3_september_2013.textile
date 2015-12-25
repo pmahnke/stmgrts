@@ -2,6 +2,7 @@
 layout: post
 title: "Mogden shutdown planned for - 2 to 3 September 2013"
 permalink: /archives/2013/09/mogden_shutdown_planned_for_2_to_3_september_2013.html
+commentfile: 2013-09-01-mogden_shutdown_planned_for_2_to_3_september_2013
 category: news
 date: 2013-09-01 22:05:55
 
@@ -22,3 +23,8 @@ Regards,
 
 
 </div>
+
+
+
+
+{% include comments.html %}

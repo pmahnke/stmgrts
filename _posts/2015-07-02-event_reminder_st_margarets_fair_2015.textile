@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Fair 2015"
 permalink: /archives/2015/07/event_reminder_st_margarets_fair_2015.html
+commentfile: 2015-07-02-event_reminder_st_margarets_fair_2015
 category: around_town
 date: 2015-07-02 22:56:57
 excerpt: |
@@ -45,3 +46,9 @@ The 2015 Fair again promises to be an incredible day of fun and excitement for o
 * and much, much more ...
 
 We look forward to seeing you there!
+
+
+
+
+
+{% include comments.html %}

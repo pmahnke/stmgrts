@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Prize Winners"
 permalink: /archives/2005/12/christmas_prize.html
+commentfile: 2005-12-20-christmas_prize
 category: around_town
 date: 2005-12-20 11:05:24
 
@@ -56,3 +57,7 @@ _Prize donated by play insideout -- ("www.playinsideout.co.uk":http://www.playin
 </div> 
 
 <a name="collect">*</a> _please collect your prizes from Pauline Crisp at Churchill's St.Margaret's road offices from Tuesday_
+
+
+
+{% include comments.html %}

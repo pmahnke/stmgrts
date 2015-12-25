@@ -2,6 +2,7 @@
 layout: post
 title: "The Morning After The Night Before"
 permalink: /archives/2010/12/the_morning_after_the_night_before.html
+commentfile: 2010-12-17-the_morning_after_the_night_before
 category: around_town
 date: 2010-12-17 12:40:54
 excerpt: |
@@ -77,3 +78,7 @@ bq.. Hangover cures are generally a myth. There are no cures for a hangover. The
 p. I'll drink to that!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

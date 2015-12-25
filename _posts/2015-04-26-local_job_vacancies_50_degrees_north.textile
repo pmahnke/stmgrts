@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancies&#58; 50 Degrees North"
 permalink: /archives/2015/04/local_job_vacancies_50_degrees_north.html
+commentfile: 2015-04-26-local_job_vacancies_50_degrees_north
 category: around_town
 date: 2015-04-26 09:43:50
 excerpt: |
@@ -24,3 +25,8 @@ We are currently recruiting for two positions:
 We invite applications for 2 positions at our small and very busy office by the Thames in Richmond.
 
 * <a href="http://www.ribaappointments.com/Job/Richmond-London_Senior-Architectural-Technologist_(9475).aspx">More information</a>
+
+
+
+
+{% include comments.html %}

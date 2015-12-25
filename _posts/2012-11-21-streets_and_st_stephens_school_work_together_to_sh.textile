@@ -2,6 +2,7 @@
 layout: post
 title: "Streets and St Stephens School Work Together to Share Christmas Joy!"
 permalink: /archives/2012/11/streets_and_st_stephens_school_work_together_to_sh.html
+commentfile: 2012-11-21-streets_and_st_stephens_school_work_together_to_sh
 category: news
 date: 2012-11-21 22:03:06
 excerpt: |
@@ -22,3 +23,9 @@ St Stephen's PTA is encouraging the school's local families, friends and staff t
 This is a great initiative to create new and return business for Streets and at the same time the PTA of St Stephen's Primary School will benefit.
 
 _The PTA at St Stephen's are currently raising funds to extend and upgrade the school library._
+
+
+
+
+
+{% include comments.html %}

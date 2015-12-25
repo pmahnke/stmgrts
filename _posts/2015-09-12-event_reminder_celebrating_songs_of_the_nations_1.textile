@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Celebrating Songs of the Nations - 1, 8 and 15 October 2015"
 permalink: /archives/2015/09/event_reminder_celebrating_songs_of_the_nations_1.html
+commentfile: 2015-09-12-event_reminder_celebrating_songs_of_the_nations_1
 category: around_town
 date: 2015-09-12 09:23:00
 
@@ -24,3 +25,9 @@ h4. More Information
 * Suitable for children (aged 12+), young people and adults.
 * Booking just &pound;2pp
 * "website":http://www2.richmond.gov.uk/richmondbookings/Details.aspx?Id=53489
+
+
+
+
+
+{% include comments.html %}

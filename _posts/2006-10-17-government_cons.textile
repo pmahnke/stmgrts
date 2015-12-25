@@ -2,6 +2,7 @@
 layout: post
 title: "Government Consultation on Runway Alternation Postponed for a Second Time"
 permalink: /archives/2006/10/government_cons.html
+commentfile: 2006-10-17-government_cons
 category: news
 date: 2006-10-17 11:32:39
 
@@ -19,3 +20,6 @@ John Stewart, Chair of residents' group HACAN ClearSkies, said, "The Government 
  
 
 -- _from HACAN ClearSkies_
+
+
+{% include comments.html %}

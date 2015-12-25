@@ -2,6 +2,7 @@
 layout: post
 title: "Mini Ha-Ha Clean-Up - 12 June 2011"
 permalink: /archives/2011/06/mini_haha_cleanup_12_june_2011.html
+commentfile: 2011-06-09-mini_haha_cleanup_12_june_2011
 category: news
 date: 2011-06-09 09:08:59
 
@@ -14,3 +15,8 @@ The Thames Angler's Conservancy are organising a litter pick and clean-up of the
 The Mini Ha-Ha is a flood drainage ditch which runs alongside the Thames from Richmond railway bridge downstream as far as Kew Gardens. During high spring tides the river floods the Old Deer Park, the water drains away again via this channel. It is also a haven for wildlife and a spawning ground for fish.
 
 _Updated: 8.30, not 8.00!_
+
+
+
+
+{% include comments.html %}

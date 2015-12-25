@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Church Services in Our Area"
 permalink: /archives/2010/12/christmas_church_services_in_our_area.html
+commentfile: 2010-12-24-christmas_church_services_in_our_area
 category: around_town
 date: 2010-12-24 05:54:44
 
@@ -115,3 +116,9 @@ h3. "St John the Divine, Richmond":http://www.richmondteamministry.org/index.php
 ** 10.30am - Sung Eucharist
 * Boxing Day and St Stephen's Day
 ** 11am - Sung Eucharist
+
+
+
+
+
+{% include comments.html %}

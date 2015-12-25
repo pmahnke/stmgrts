@@ -2,6 +2,7 @@
 layout: post
 title: "Charlie Shore's Children's Regatta"
 permalink: /archives/2011/08/charlie_shores_childrens_regatta.html
+commentfile: 2011-08-21-charlie_shores_childrens_regatta
 category: around_town
 date: 2011-08-21 15:44:48
 excerpt: |
@@ -49,3 +50,7 @@ h4. Sunday 18<sup>th</sup> September
 * More information on: "www.twickenhamalive.com":http://www.twickenhamalive.com
 
 _Images courtesy of London Borough of Richmond upon Thames Local Studies Collection_
+
+
+
+{% include comments.html %}

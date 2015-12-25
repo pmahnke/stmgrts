@@ -2,6 +2,7 @@
 layout: post
 title: "Governor Vacancy for Orleans Primary School"
 permalink: /archives/2014/09/governor_vacancy_for_orleans_primary_school.html
+commentfile: 2014-09-25-governor_vacancy_for_orleans_primary_school
 category: news
 date: 2014-09-25 10:20:58
 excerpt: |
@@ -14,3 +15,8 @@ excerpt: |
 _Please note that Local Authority governors should not be parents or staff of the school._
 
 If you are interested, please contact the school office on 020 8892 1654 or governors@orleans.richmond.sch.uk
+
+
+
+
+{% include comments.html %}

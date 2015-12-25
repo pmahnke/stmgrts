@@ -2,6 +2,7 @@
 layout: post
 title: "Meeting Reminder &#58; Moormead Children's Play Area Plans"
 permalink: /archives/2006/04/meeting_reminde.html
+commentfile: 2006-04-16-meeting_reminde
 category: around_town
 date: 2006-04-16 08:43:24
 excerpt: |
@@ -27,3 +28,6 @@ The LEAP criteria are:
 * Each site must be entirely fenced with self-closing gates.
 * Each site must have signs excluding dogs.
 * Each site must be overlooked by housing, pedestrian routes or other well used public facilities.
+
+
+{% include comments.html %}

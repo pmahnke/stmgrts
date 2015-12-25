@@ -2,6 +2,7 @@
 layout: post
 title: "New Tuck for Tots Cookery Classes - June and July 2012"
 permalink: /archives/2012/06/new_tuck_for_tots_cookery_classes_june_and_july_20.html
+commentfile: 2012-06-14-new_tuck_for_tots_cookery_classes_june_and_july_20
 category: around_town
 date: 2012-06-14 22:00:32
 excerpt: |
@@ -26,3 +27,9 @@ h4. More Information
 
 * For more information or to book a class email: tuckfortots@gmail.com
 * Call / text Elaine on 07729459123
+
+
+
+
+
+{% include comments.html %}

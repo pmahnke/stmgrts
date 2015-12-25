@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets CPZ Recommendations"
 permalink: /archives/2008/06/st_margarets_cpz_recommendations.html
+commentfile: 2008-06-12-st_margarets_cpz_recommendations
 category: news
 date: 2008-06-12 16:02:17
 
@@ -41,3 +42,10 @@ h4. Question 2 _"If the adjacent roads have a CPZ introduced would you then want
 
 4.12 Due to the analysis showing substantial support for a CPZ extension in Bridge Road and Winchester Road and that these roads are situated adjacent to the existing CPZ, it is recommended that the CPZ be extended to these two roads only at this time and that the situation be monitored and reviewed after the extension has been in operation for six months.  The review will provide the opportunity for any further extensions to the CPZ to be considered.
 </div>
+
+
+
+
+
+
+{% include comments.html %}

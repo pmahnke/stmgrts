@@ -2,6 +2,7 @@
 layout: post
 title: "Bacon But Briefly"
 permalink: /archives/2012/09/bacon_but_briefly.html
+commentfile: 2012-09-29-bacon_but_briefly
 category: around_town
 date: 2012-09-29 11:02:57
 excerpt: |
@@ -72,3 +73,7 @@ bq. "The Snow so chilled him that he immediately fell so extremely ill, that he 
 
 
 <em>Credit: The portrait of 18 year old Francis Bacon is by Nicholas Hilliard (1579) The other portrait is by Frans Pourbus (1617). The portrait of Bacon holding a mask of Shakespeare is by Colin McMillan. The view from Twitnam Park is by Thomas Christopher Holland (1822)</em>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen, Who?"
 permalink: /archives/2009/12/st_stephen_who.html
+commentfile: 2009-12-23-st_stephen_who
 category: around_town
 date: 2009-12-23 11:34:28
 excerpt: |
@@ -34,3 +35,7 @@ Let's drink to that... in moderation!
 |<a href="//stmgrts.org.uk/assets/images/2009/wenceslas_3.png" title="See larger version of -   GOOD KING WENCESLAS"><img src="//stmgrts.org.uk/assets/images/2009/wenceslas_3_thumb.png" width="105" height="150" alt="  GOOD KING WENCESLAS" class="photo left" /></a>|Good King Wenceslas was St Wenceslas, Duke of Bohemia (907-935), known in the Czech language as Svat&#253; V&#225;clav.|
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

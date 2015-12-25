@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Church Services"
 permalink: /archives/2005/12/christmas_churc.html
+commentfile: 2005-12-23-christmas_churc
 category: around_town
 date: 2005-12-23 07:05:44
 
@@ -67,3 +68,8 @@ Sunday, 25 December _Christmas Day Services_
 * 10.00 am -- Christmas Eucharist  (Hebrews 1.1-12, John1.1-14)
 
 </div>
+
+
+
+
+{% include comments.html %}

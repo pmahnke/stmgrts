@@ -2,6 +2,7 @@
 layout: post
 title: "Help All Souls Church Get Solar Panels"
 permalink: /archives/2011/09/help_all_souls_church_get_solar_panels.html
+commentfile: 2011-09-07-help_all_souls_church_get_solar_panels
 category: news
 date: 2011-09-07 11:00:51
 excerpt: |
@@ -23,3 +24,9 @@ Please help support All Souls Church's bid to get funding through the 'Energy sh
 They have managed to get into the final 100 successful bids across the whole of the UK but  only have until the end of September to seek as many local supporters as possible to ensure they are successful in gaining the fund and installing the panels.
 
 Please support them now, it is only and only take a minute: "www.energyshare.com/all-souls-solar":http://www.energyshare.com/all-souls-solar/
+
+
+
+
+
+{% include comments.html %}

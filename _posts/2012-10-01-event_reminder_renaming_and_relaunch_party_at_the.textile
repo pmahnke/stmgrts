@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Re-naming and Re-launch Party at the Marble Hill Pub - 2 October 2012"
 permalink: /archives/2012/10/event_reminder_renaming_and_relaunch_party_at_the.html
+commentfile: 2012-10-01-event_reminder_renaming_and_relaunch_party_at_the
 category: around_town
 date: 2012-10-01 20:39:50
 
@@ -18,3 +19,9 @@ And there will be food and drink samples to try for free.
 And as if that wasn't enough, they have a great range of craft beers, so you can enjoy your very own comparative tasting.
 
 See you there!
+
+
+
+
+
+{% include comments.html %}

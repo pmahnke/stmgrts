@@ -2,6 +2,7 @@
 layout: post
 title: "Still Stalls Available for Holistic Health and Wellbeing Day"
 permalink: /archives/2011/04/still_stalls_available_for_holistic_health_and_wel.html
+commentfile: 2011-04-27-still_stalls_available_for_holistic_health_and_wel
 category: around_town
 date: 2011-04-27 18:33:24
 
@@ -31,3 +32,7 @@ For more information on the day,  contact us on:
 
 * Surya 0208 400 1797 or 07770 993289
 * Alexandra 01903 882303 or  07747607805
+
+
+
+{% include comments.html %}

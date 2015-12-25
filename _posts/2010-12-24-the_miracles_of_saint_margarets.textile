@@ -2,6 +2,7 @@
 layout: post
 title: "The Miracles of Saint Margarets"
 permalink: /archives/2010/12/the_miracles_of_saint_margarets.html
+commentfile: 2010-12-24-the_miracles_of_saint_margarets
 category: around_town
 date: 2010-12-24 06:24:47
 excerpt: |
@@ -104,3 +105,6 @@ January 1814 was one of the coldest months on record. The temperature in Richmon
 
 
 <cite> -- from Martyn Day</cite>
+
+
+{% include comments.html %}

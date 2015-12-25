@@ -2,6 +2,7 @@
 layout: post
 title: "Sunday Farmer's Market Coming this Summer"
 permalink: /archives/2005/04/sunday_farmers.html
+commentfile: 2005-04-21-sunday_farmers
 category: news
 date: 2005-04-21 08:58:19
 
@@ -14,3 +15,10 @@ Stay tuned for more information.
 In order to make the market a success, let us know what kind of vendors you are most interested in seeing by "taking part in our poll":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=farmmkt.  
 
 Here are the "results so far.":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=farmmkt&amp;action=results
+
+
+
+
+
+
+{% include comments.html %}

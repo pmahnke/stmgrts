@@ -2,6 +2,7 @@
 layout: post
 title: "Crown Road Summer Fair 2011 Photos"
 permalink: /archives/2011/06/crown_road_summer_fair_2011_photos.html
+commentfile: 2011-06-13-crown_road_summer_fair_2011_photos
 category: news
 date: 2011-06-13 13:55:35
 excerpt: |
@@ -26,3 +27,8 @@ Thanks to all who helped make it a great day!
 "See some photos on flickr":http://www.flickr.com//photos/mahnke/sets/72157626951247128/show/
 
 <em>If you have some photos to share, email them to "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk.</em>
+
+
+
+
+{% include comments.html %}

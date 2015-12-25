@@ -2,6 +2,7 @@
 layout: post
 title: "Please Support DEBRA's Engergy Healing Event - 11 May 2013"
 permalink: /archives/2013/05/please_support_debras_engergy_healing_event_11_may.html
+commentfile: 2013-05-05-please_support_debras_engergy_healing_event_11_may
 category: around_town
 date: 2013-05-05 09:15:50
 excerpt: |
@@ -37,3 +38,7 @@ h4. More Information
 * Saturday, 11<sup>th</sup> May 2013
 * 2pm to 6pm
 * Putney Leisure Centre, Dryburgh Road, Putney, London SW15 1BL
+
+
+
+{% include comments.html %}

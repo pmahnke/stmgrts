@@ -2,6 +2,7 @@
 layout: post
 title: "A Very Busy Weekend - 10 to 12 June 2011"
 permalink: /archives/2011/06/a_very_busy_weekend_10_to_12_june_2011.html
+commentfile: 2011-06-09-a_very_busy_weekend_10_to_12_june_2011
 category: news
 date: 2011-06-09 13:26:46
 
@@ -33,3 +34,9 @@ h4. Sunday
 
 
 _Updated: 10 June with correct day for Mrs Moon and added the Twickenham Festival start_
+
+
+
+
+
+{% include comments.html %}

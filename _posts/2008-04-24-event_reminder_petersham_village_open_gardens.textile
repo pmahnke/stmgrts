@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Petersham Village Open Gardens"
 permalink: /archives/2008/04/event_reminder_petersham_village_open_gardens.html
+commentfile: 2008-04-24-event_reminder_petersham_village_open_gardens
 category: around_town
 date: 2008-04-24 10:35:09
 
@@ -18,3 +19,8 @@ The gardens, all privately owned, are spread around Petersham and are all within
 This is the third time that this highly successful venture is being held. The money is raised for The Petersham Trust, a charitable foundation whose aims are to maintain the famous view from Richmond Hill over Petersham meadows by conserving and protecting the water meadows and maintaining the herd of cows grazing on the land.
 
 Thanks to past donations, the Trust has been able to complete works to the infrastructure of the meadows by refurbishing the Victorian milking parlour, building a new barn for the cows and erecting a new rustic fence around the perimeter.
+
+
+
+
+{% include comments.html %}

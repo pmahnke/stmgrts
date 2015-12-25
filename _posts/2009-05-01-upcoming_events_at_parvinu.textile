@@ -2,6 +2,7 @@
 layout: post
 title: "Upcoming Events at Parvinu"
 permalink: /archives/2009/05/upcoming_events_at_parvinu.html
+commentfile: 2009-05-01-upcoming_events_at_parvinu
 category: around_town
 date: 2009-05-01 15:39:54
 excerpt: |
@@ -35,3 +36,9 @@ Parvinu will also be open as usual, serving the best coffee, light breakfast pas
 h4. Wednesday Night Jazz
 
 Please "check out our May line up for live jazz on Wednesday Nights":http://www.stmgrts.org.uk/directory/restaurant/200809111151. We have quickly established ourselves as one of the best local spots to offer live jazz, specializing in bluesy, soul, bossa and lounge sounds which perfectly compliment the laid back surroundings at Parvinu. We make sure that we feature locally based performers and given the huge amount of talent living and working in the area we are never short of acts! 
+
+
+
+
+
+{% include comments.html %}

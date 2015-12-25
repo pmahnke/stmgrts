@@ -2,6 +2,7 @@
 layout: post
 title: "Brunel Developers Seek Permission for More Expansion"
 permalink: /archives/2005/11/brunel_develope_1.html
+commentfile: 2005-11-08-brunel_develope_1
 category: news
 date: 2005-11-08 13:38:30
 
@@ -25,3 +26,6 @@ The third application is:
 
 * "Erection of side gate to rear garden from Kilmorey Road":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05/2973/FUL
 This is the second request for a gate in the historic wall around the site, probably for easier access to parking.  The previous request was rejected by the council.  The gate would provide access to a garden that already has access via another gate.
+
+
+{% include comments.html %}

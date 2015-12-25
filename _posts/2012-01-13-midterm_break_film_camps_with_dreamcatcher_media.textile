@@ -2,6 +2,7 @@
 layout: post
 title: "Mid-Term Break Film Camps with Dreamcatcher Media"
 permalink: /archives/2012/01/midterm_break_film_camps_with_dreamcatcher_media.html
+commentfile: 2012-01-13-midterm_break_film_camps_with_dreamcatcher_media
 category: around_town
 date: 2012-01-13 16:51:11
 
@@ -23,3 +24,6 @@ Children come for 5 days 9-2pm and learn the basic principles of filmmaking. The
 The forthcoming  mid-term break Camp for 8 - 16 year olds will run at Cole Court, London Road, Twickenham TW1 1HD from Monday 13<sup>th</sup> to Friday 17<sup>th</sup> February. Owing to the bank holidays, our Easter Camp will be a 4 day Camp running from Monday 2<sup>nd</sup> to Friday 5<sup>th</sup> April. Summer courses will start in early July. The venue  is minutes walk from Twickenham and St Margarets stations. It offers plenty safe space for filming with the large house, including cafe and training rooms, set in its own secluded grounds. Off-street parking spaces are available for pick ups and drop offs.
 
 Booking has started already, so if you'd like your child to have some exciting filming opportunities this mid-term break, please book now. You can book directly on our website "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk or by calling us at Twickenham Film Studios on 0208 607 7273. E-mail: "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
+
+
+{% include comments.html %}

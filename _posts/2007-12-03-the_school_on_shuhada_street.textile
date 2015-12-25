@@ -2,6 +2,7 @@
 layout: post
 title: "The School on Shuhada Street"
 permalink: /archives/2007/12/the_school_on_shuhada_street.html
+commentfile: 2007-12-03-the_school_on_shuhada_street
 category: news
 date: 2007-12-03 10:23:34
 
@@ -72,3 +73,7 @@ serving on the World Council of Churches' Ecumenical Accompaniment
 Programme in Palestine and Israel (EAPPI). The views contained in this
 e-mail are personal and do not necessarily reflect those of my employer
 (QPSW) or the WCC._
+
+
+
+{% include comments.html %}

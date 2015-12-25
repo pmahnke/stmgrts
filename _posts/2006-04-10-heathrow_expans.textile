@@ -2,6 +2,7 @@
 layout: post
 title: "Heathrow Expansion Concerns"
 permalink: /archives/2006/04/heathrow_expans.html
+commentfile: 2006-04-10-heathrow_expans
 category: news
 date: 2006-04-10 22:28:26
 excerpt: |
@@ -39,3 +40,6 @@ She teases him to go and do it; he does and then the balloon really goes up! In 
 Sample scenes from the play will be available in the near future -- if you like the flavour of them, you'll want to go along to the show. The tickets are only &pound;10, but members of HACAN will be entitled to a 20% discount. HACAN will earn a donation too."
 
 p. -- John Stewart, Chair for Hacan
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Extension of CO2 parking charges"
 permalink: /archives/2009/01/extension_of_co2_parking_charges.html
+commentfile: 2009-01-26-extension_of_co2_parking_charges
 category: news
 date: 2009-01-26 17:57:40
 
@@ -27,3 +28,9 @@ Summary of key points
 What do you think?  _leave a comment below_
 
 <cite>source Maeve Good</cite>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 2x2 Opera's Carmen"
 permalink: /archives/2007/03/event_reminder_2x2_operas_carmen.html
+commentfile: 2007-03-28-event_reminder_2x2_operas_carmen
 category: around_town
 date: 2007-03-28 20:07:51
 
@@ -19,3 +20,7 @@ date: 2007-03-28 20:07:51
 * Performances at All Soul's Church, Northcote Road, St Margarets
 * Tickets are available in advance (preferred but not reserved seating) on *020 8891 4641*, or on the door. (&pound;8.50/&pound;4.50).
 * As parking is extremely limited (non-existent), walking is recommended.  Alternatively, the H37 bus stops at the top of Northcote Road.
+
+
+
+{% include comments.html %}

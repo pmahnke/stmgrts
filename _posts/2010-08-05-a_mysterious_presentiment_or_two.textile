@@ -2,6 +2,7 @@
 layout: post
 title: "A Mysterious Presentiment... or Two?"
 permalink: /archives/2010/08/a_mysterious_presentiment_or_two.html
+commentfile: 2010-08-05-a_mysterious_presentiment_or_two
 category: around_town
 date: 2010-08-05 21:07:31
 excerpt: |
@@ -55,3 +56,7 @@ Strangely the Royal Naval Female School had also received a' mysterious presenti
 bq. "Germany calling! Germany calling.....we are sorry to have to bomb the Naval School - so upsetting for the fathers at sea!"
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

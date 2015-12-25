@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Blossoms"
 permalink: /archives/2005/06/hanging_baskets_1.html
+commentfile: 2005-06-10-hanging_baskets_1
 category: news
 date: 2005-06-10 20:25:38
 
@@ -26,3 +27,6 @@ bq.. "We are looking at ways in which we could fund further floral displays and 
 p. _see our article "Recycling Really Can Help the Community":http://stmgrts.org.uk/archives/2005/04/recycling_reall.html for details._
 
 If you would like to add a comment or have any ideas for future funding please add your comments here...
+
+
+{% include comments.html %}

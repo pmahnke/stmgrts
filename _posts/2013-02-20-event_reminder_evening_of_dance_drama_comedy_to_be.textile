@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Evening of Dance, Drama & Comedy to Benefit The Mulberry Centre"
 permalink: /archives/2013/02/event_reminder_evening_of_dance_drama_comedy_to_be.html
+commentfile: 2013-02-20-event_reminder_evening_of_dance_drama_comedy_to_be
 category: around_town
 date: 2013-02-20 21:08:25
 excerpt: |
@@ -38,3 +39,7 @@ h4. More Information
 * &pound;13, &pound;10 concessions
 * "www.watermans.org.uk":http://www.watermans.org.uk
 * 020 8232 1010
+
+
+
+{% include comments.html %}

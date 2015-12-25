@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Neal's Yard Gallery in Chiswick -  15-16 October 2010"
 permalink: /archives/2010/10/event_reminder_neals_yard_gallery_in_chiswick_1516.html
+commentfile: 2010-10-14-event_reminder_neals_yard_gallery_in_chiswick_1516
 category: around_town
 date: 2010-10-14 23:03:48
 excerpt: |
@@ -20,3 +21,9 @@ Neal's Yard Galleries have set up another nomadic gallery right on Chiswick roun
 A lot of the work is going on to the Affordable Art Fair if it doesn't sell (although there were quite a few red stickers last week..). The paintings, sculpture and ceramics are by exceptional artists and very competitively priced. A wide range of artwork in a good sized space!
 
 Their website is "www.nealsyardgalleries.com":http://www.nealsyardgalleries.com for further information and directions.
+
+
+
+
+
+{% include comments.html %}

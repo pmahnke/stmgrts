@@ -2,6 +2,7 @@
 layout: post
 title: "All in One Planning Event - 11 June 2011"
 permalink: /archives/2011/05/all_in_one_planning_event_11_june_2011.html
+commentfile: 2011-05-05-all_in_one_planning_event_11_june_2011
 category: news
 date: 2011-05-05 16:11:16
 excerpt: |
@@ -26,3 +27,9 @@ people want for their local area and villages. To help with the next stage, the 
 If you would like to have your say about the area where you live, please come along to your nearest event, which is on the "11<sup>th</sup> June for Twickenham, St Margarets, East Twickenham and Strawberry Hill Villages in the Twickenham Civic Centre foyer from 10am to 4pm":http://stmgrts.org.uk/event/meeting/200705142790.
 
 For more information and to see the schedule of events, go to: "www.richmond.gov.uk/all_in_one":http://www.richmond.gov.uk/all_in_one
+
+
+
+
+
+{% include comments.html %}

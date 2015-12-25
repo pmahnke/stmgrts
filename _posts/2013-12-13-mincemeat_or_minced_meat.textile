@@ -2,6 +2,7 @@
 layout: post
 title: "Mincemeat or Minced Meat?"
 permalink: /archives/2013/12/mincemeat_or_minced_meat.html
+commentfile: 2013-12-13-mincemeat_or_minced_meat
 category: around_town
 date: 2013-12-13 12:37:37
 excerpt: |
@@ -87,3 +88,7 @@ Just north of the Hogs Back on the A 31 near Farnborough is a small hamlet calle
 <em>Credit: The painting <em>"Christmas Pie"</em> is by William Henry Hunt 1790-1864</em>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

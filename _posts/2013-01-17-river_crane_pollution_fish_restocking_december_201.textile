@@ -2,6 +2,7 @@
 layout: post
 title: "River Crane Pollution - Fish Restocking - December 2012"
 permalink: /archives/2013/01/river_crane_pollution_fish_restocking_december_201.html
+commentfile: 2013-01-17-river_crane_pollution_fish_restocking_december_201
 category: news
 date: 2013-01-17 20:54:48
 excerpt: |
@@ -36,3 +37,8 @@ FORCE would like to see a restocking strategy that reflects the species of fish 
 FORCE also looks forward to the imminent recruitment of an officer to develop and implement a plan of action for the restoration of the river over the next five years, with the bulk of the funding being available for river improvement projects. This post is being funded though a formal commitment from Thames Water to work with the Crane Valley Partnership.
 
 For more information e-mail "info@force.org.uk":mailto:info@force.org.uk  visit "www.force.org.uk":http://www.force.org.uk or call Rob Gray, Chair of FORCE, on 020 8892 9518
+
+
+
+
+{% include comments.html %}

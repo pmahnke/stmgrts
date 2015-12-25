@@ -2,6 +2,7 @@
 layout: post
 title: "Great Annual Street Sale  - September 19th - It's A Guaranteed GASS!"
 permalink: /archives/2009/09/great_annual_street_sale_september_19th_its_a_guar.html
+commentfile: 2009-09-04-great_annual_street_sale_september_19th_its_a_guar
 category: around_town
 date: 2009-09-04 20:51:45
 
@@ -30,3 +31,7 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 "Here is a link to a map...":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
 
 Put a note into your diary... "GREAT ANNUAL STREET SALE  - SEPTEMBER 19<sup>th</sup>   from 2.00pm":
+
+
+
+{% include comments.html %}

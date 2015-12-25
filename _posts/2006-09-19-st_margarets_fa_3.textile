@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Fair Update"
 permalink: /archives/2006/09/st_margarets_fa_3.html
+commentfile: 2006-09-19-st_margarets_fa_3
 category: news
 date: 2006-09-19 08:21:45
 excerpt: |
@@ -23,3 +24,8 @@ This year the remaining money will go towards funding part of the planned refurb
 
 Next year's Fair will be on Saturday July the 14<sup>th</sup> -- and within the next few months the Fair will have its own dedicated website.  
                                                           
+
+
+
+
+{% include comments.html %}

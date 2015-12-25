@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Voices of St Margarets is singing for Save the Children - 17 December 2012"
 permalink: /archives/2012/11/event_reminder_voices_of_st_margarets_is_singing_f.html
+commentfile: 2012-11-15-event_reminder_voices_of_st_margarets_is_singing_f
 category: around_town
 date: 2012-11-15 21:52:23
 excerpt: |
@@ -36,3 +37,7 @@ Every year 6.9 million children under five die from easily preventable causes li
 If you would like to find out more about Save the Children's singing initiative, visit savethechildren.org.uk/sing
 
 For more information please contact Surya on 07770 993289 or email "info@vitalvoices.co.uk":mailto:info@vitalvoices.co.uk
+
+
+
+{% include comments.html %}

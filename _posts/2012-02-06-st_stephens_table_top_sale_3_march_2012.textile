@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen's Table Top Sale - 3 March 2012"
 permalink: /archives/2012/02/st_stephens_table_top_sale_3_march_2012.html
+commentfile: 2012-02-06-st_stephens_table_top_sale_3_march_2012
 category: around_town
 date: 2012-02-06 13:47:26
 
@@ -23,3 +24,7 @@ on 020 8892 3462.
 * The cost to have a table, provided by the school &pound;15 or &pound;10 if you bring your own table.
 
 _Spaces are limited, so book a space early to avoid disappointment._
+
+
+
+{% include comments.html %}

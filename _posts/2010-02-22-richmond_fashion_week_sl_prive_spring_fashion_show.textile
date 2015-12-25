@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond Fashion Week&#58; SL Priv&#233;e Spring Fashion Show @ Parvinu"
 permalink: /archives/2010/02/richmond_fashion_week_sl_prive_spring_fashion_show.html
+commentfile: 2010-02-22-richmond_fashion_week_sl_prive_spring_fashion_show
 category: around_town
 date: 2010-02-22 13:24:38
 excerpt: |
@@ -45,3 +46,8 @@ h4. Details
 * All ticket proceeds will be going to the New Victoria Medical Foundation.
 * To buy tickets or to get more information on the event, please call Susana or Philippa at SL Priv&#233;e on 0208 332 2299
 * <a href="//stmgrts.org.uk/assets/images/2010/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf">Download the invitation</a> [PDF]
+
+
+
+
+{% include comments.html %}

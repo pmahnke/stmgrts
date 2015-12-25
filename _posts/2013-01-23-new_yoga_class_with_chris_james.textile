@@ -2,6 +2,7 @@
 layout: post
 title: "New Yoga Class with Chris James"
 permalink: /archives/2013/01/new_yoga_class_with_chris_james.html
+commentfile: 2013-01-23-new_yoga_class_with_chris_james
 category: around_town
 date: 2013-01-23 20:26:40
 excerpt: |
@@ -27,3 +28,7 @@ h4. More Information
 * Website: "www.chrisjamesyoga.com":http://www.chrisjamesyoga.com
 
 _There is plenty of FREE Parking in the surrounding residential roads, so you can take your pick_
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Day War Broke Out"
 permalink: /archives/2009/06/the_day_war_broke_out.html
+commentfile: 2009-06-04-the_day_war_broke_out
 category: around_town
 date: 2009-06-04 08:46:04
 excerpt: |
@@ -103,3 +104,7 @@ bq. "Japan with all its treachery and greed remains unsubdued"
 The editorial in the 'Richmond and Twickenham Times' summed it up neatly... "a big cloud has lifted, but we are still at war!"  And so we were.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

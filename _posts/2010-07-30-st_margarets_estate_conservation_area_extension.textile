@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Estate Conservation Area Extension"
 permalink: /archives/2010/07/st_margarets_estate_conservation_area_extension.html
+commentfile: 2010-07-30-st_margarets_estate_conservation_area_extension
 category: news
 date: 2010-07-30 11:34:02
 excerpt: |
@@ -30,3 +31,8 @@ _Please note: the deadline for comments has been extended to 3 September 2010 in
 Consultation ends on 3 September 2010
 
 "Council's web page":http://richmond.gov.uk/home/council_government_and_democracy/council/consulation_and_feedback/council_consultations/consultation_details.htm?id=C00359
+
+
+
+
+{% include comments.html %}

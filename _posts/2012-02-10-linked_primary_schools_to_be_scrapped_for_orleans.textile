@@ -2,6 +2,7 @@
 layout: post
 title: "Linked Primary Schools to be Scrapped for Orleans Park from 2013"
 permalink: /archives/2012/02/linked_primary_schools_to_be_scrapped_for_orleans.html
+commentfile: 2012-02-10-linked_primary_schools_to_be_scrapped_for_orleans
 category: news
 date: 2012-02-10 11:55:10
 
@@ -14,3 +15,8 @@ This will make places at Orleans Park available to the East Twickenham children 
 * "Read the minutes":http://www.richmond.gov.uk/adfor060212minutes.pdf [pdf]
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+{% include comments.html %}

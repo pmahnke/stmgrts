@@ -2,6 +2,7 @@
 layout: post
 title: "Advent"
 permalink: /archives/2011/12/advent.html
+commentfile: 2011-12-02-advent
 category: around_town
 date: 2011-12-02 10:04:47
 
@@ -100,3 +101,7 @@ He will come like child.
 _Credit: The photograph of a church at Advent was taken at Our Lady & St. Philip Neri Catholic Church in Sydenham_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

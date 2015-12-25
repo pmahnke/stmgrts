@@ -2,6 +2,7 @@
 layout: post
 title: "Dressing the Press"
 permalink: /archives/2014/04/dressing_the_press.html
+commentfile: 2014-04-03-dressing_the_press
 category: around_town
 date: 2014-04-03 20:42:24
 excerpt: |
@@ -70,3 +71,7 @@ On one particular occasion both the Queen and the Queen Mother spent a weekend a
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

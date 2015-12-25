@@ -2,6 +2,7 @@
 layout: post
 title: "Three Peaks for Francesco"
 permalink: /archives/2011/08/three_peaks_for_francesco.html
+commentfile: 2011-08-12-three_peaks_for_francesco
 category: news
 date: 2011-08-12 08:20:30
 excerpt: |
@@ -36,3 +37,7 @@ h4. More information
 * "www.facebook.com/FrancescoAnsteyTPC":http://www.facebook.com/FrancescoAnsteyTPC
 * "www.justgiving.com/francescoansteytpc":http://www.justgiving.com/francescoansteytpc/
 * "An article from the Richmond & Twickenham Times":http://www.richmondandtwickenhamtimes.co.uk/news/richmondnews/9183899.Special_meaning_for_three_peaks_challenge/
+
+
+
+{% include comments.html %}

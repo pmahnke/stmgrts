@@ -2,6 +2,7 @@
 layout: post
 title: "High Court Gives Go Ahead for Twickenham Station"
 permalink: /archives/2012/12/high_court_gives_go_ahead_for_twickenham_station.html
+commentfile: 2012-12-21-high_court_gives_go_ahead_for_twickenham_station
 category: news
 date: 2012-12-21 17:21:36
 
@@ -19,3 +20,7 @@ Since the decision was made a local campaign group, the Twickenham Residents Act
 At a Court hearing, the Judge reviewed all the evidence presented and agreed with the Council that the process followed was correct and the decision properly made. The claimants also requested leave to appeal, which was refused by the Judge.
 
 <cite>from a Richmond Council press release - "21 December 2012":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/december_2012_press_releases/high_court_gives_go_ahead_for_twickenham_train_station_redevelopment.htm</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Petition&#58; Save Heatham House"
 permalink: /archives/2011/07/petition_save_heatham_house.html
+commentfile: 2011-07-28-petition_save_heatham_house
 category: news
 date: 2011-07-28 18:44:55
 excerpt: |
@@ -28,3 +29,9 @@ bq.. "There is no Council plan to remove a youth facility in Twickenham. There h
 This Council will retain permanently a key youth facility in central Twickenham that has access to a significant green area. Any suggestion otherwise is totally without foundation."
 
 p. Why not have your say?
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Sing a Song of Summer"
 permalink: /archives/2011/07/sing_a_song_of_summer.html
+commentfile: 2011-07-21-sing_a_song_of_summer
 category: around_town
 date: 2011-07-21 14:44:36
 excerpt: |
@@ -83,3 +84,7 @@ h4. Cliff Richard and the Shadows in "Summer Holiday"
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

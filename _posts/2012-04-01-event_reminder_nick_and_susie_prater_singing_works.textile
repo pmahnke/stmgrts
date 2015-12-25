@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Nick and Susie Prater Singing Workshop - 13 May 2012"
 permalink: /archives/2012/04/event_reminder_nick_and_susie_prater_singing_works.html
+commentfile: 2012-04-01-event_reminder_nick_and_susie_prater_singing_works
 category: around_town
 date: 2012-04-01 10:40:04
 
@@ -27,3 +28,7 @@ h4. More Information
 * Please send cheques payable to P. Payan with contact details including your email address and telephone number, to 31 Victor Rd, Teddington, TW11 8SP
 
 <em>For more details of Nick and Susie Prater go to "www.nickprater.co.uk":http://www.nickprater.co.uk or "www.naturalvoice.net":http://www.naturalvoice.net</em>
+
+
+
+{% include comments.html %}

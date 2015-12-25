@@ -2,6 +2,7 @@
 layout: post
 title: "Moormead Park Consultation"
 permalink: /archives/2005/10/moormead_park_c.html
+commentfile: 2005-10-11-moormead_park_c
 category: news
 date: 2005-10-11 12:09:26
 excerpt: |
@@ -33,3 +34,7 @@ They are also seeking ways to fund some of this development.
 Right now they have an "online questionnaire on the Richmond Council Website":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=AVzmuIDxXXO.  Please take some time right now to fill it in.
 
 You can also email "parks@richmond.gov.uk":mailto:parks@richmond.gov.uk or call 020 8286 8455 for more information or to offer help.
+
+
+
+{% include comments.html %}

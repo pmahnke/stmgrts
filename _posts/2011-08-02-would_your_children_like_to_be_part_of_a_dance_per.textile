@@ -2,6 +2,7 @@
 layout: post
 title: "Would your children like to be part of a dance performance at Hampton Court Palace?"
 permalink: /archives/2011/08/would_your_children_like_to_be_part_of_a_dance_per.html
+commentfile: 2011-08-02-would_your_children_like_to_be_part_of_a_dance_per
 category: around_town
 date: 2011-08-02 09:24:53
 excerpt: |
@@ -38,3 +39,7 @@ Free tickets will be available for the friends and family of the young performer
 If you would like more information on the project or would like to register your child's interest, please contact Anna Ramsay, Arts Events Co-ordinator on 020 8831 6460 or email "anna.ramsay@richmond.gov.uk":mailto:anna.ramsay@richmond.gov.uk
 
 More information on LOCATE dance festival is available here "www.richmond.gov.uk/locate_festival":http://www.richmond.gov.uk/locate_festival
+
+
+
+{% include comments.html %}

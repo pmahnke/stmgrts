@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Fair Race Night"
 permalink: /archives/2006/10/event_reminder_11.html
+commentfile: 2006-10-02-event_reminder_11
 category: around_town
 date: 2006-10-02 09:43:31
 
@@ -18,3 +19,8 @@ Tickets can be purchases from the Real Ale Shop or call Zeph King on 079 7729 80
 Only &pound;8 per person -- which includes a cheese platter.
 
 All money raised goes towards local schools and community projects.  The event is sponsored by "Real Ale":http://www.realale.com/
+
+
+
+
+{% include comments.html %}

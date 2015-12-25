@@ -2,6 +2,7 @@
 layout: post
 title: "Boogie Before Bedtime ... with the Police!"
 permalink: /archives/2007/01/boogie_before_b.html
+commentfile: 2007-01-24-boogie_before_b
 category: around_town
 date: 2007-01-24 08:39:55
 
@@ -17,3 +18,9 @@ Hosted by the Police Liaison Group, and supported by the generosity of Twickenha
 The other highlight of the evening - one that will be discussed at supper tables all over the Ward for weeks to come - was the high-octane display of Bhangra dancing put on by several pillars of the community, plus the constabulary and the Council. 
 
 Eat your hearts out, Bollywood - you've nothing to compare! 
+
+
+
+
+
+{% include comments.html %}

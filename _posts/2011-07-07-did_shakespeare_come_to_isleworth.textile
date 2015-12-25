@@ -2,6 +2,7 @@
 layout: post
 title: "Did Shakespeare Come to Isleworth?"
 permalink: /archives/2011/07/did_shakespeare_come_to_isleworth.html
+commentfile: 2011-07-07-did_shakespeare_come_to_isleworth
 category: around_town
 date: 2011-07-07 11:11:30
 excerpt: |
@@ -60,3 +61,7 @@ Interestingly a William Shakespeare, the son of Leonard Shakespeare, was born in
 </div>
 
  <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

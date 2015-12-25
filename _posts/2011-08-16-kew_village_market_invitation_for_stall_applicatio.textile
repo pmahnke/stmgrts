@@ -2,6 +2,7 @@
 layout: post
 title: "Kew Village Market - Invitation for Stall Applications"
 permalink: /archives/2011/08/kew_village_market_invitation_for_stall_applicatio.html
+commentfile: 2011-08-16-kew_village_market_invitation_for_stall_applicatio
 category: news
 date: 2011-08-16 08:03:48
 excerpt: |
@@ -23,3 +24,9 @@ The market is being run by a volunteer committee and any profits made will be di
 If you would like to apply for a stall at the market, visit our website "www.kewvillagemarket.org":http://www.kewvillagemarket.org where you will find further details and application forms etc.
 
 Applications must be received before 5<sup>th</sup> September to be considered for the trial period.
+
+
+
+
+
+{% include comments.html %}

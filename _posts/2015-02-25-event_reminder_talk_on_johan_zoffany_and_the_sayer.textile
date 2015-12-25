@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Talk on Johan Zoffany and The Sayer Family - 16 March 2015"
 permalink: /archives/2015/02/event_reminder_talk_on_johan_zoffany_and_the_sayer.html
+commentfile: 2015-02-25-event_reminder_talk_on_johan_zoffany_and_the_sayer
 category: around_town
 date: 2015-02-25 06:41:09
 excerpt: |
@@ -33,3 +34,7 @@ h4. More Information
 * Monday 16<sup>th</sup> March 7.30pm. At St Mary Magdalene Church, Paradise Road, Richmond.
 * Tickets - &pound;8 or &pound;5 concession (student or Museum member) they can be purchased by contacting the Museum of Richmond on 0208 332 1141 or on the night.
 * Reduced price copies of the book, signed by the author, will be on sale on the night.
+
+
+
+{% include comments.html %}

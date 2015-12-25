@@ -2,6 +2,7 @@
 layout: post
 title: "Victory For Residents Against Thames Water"
 permalink: /archives/2011/12/victory_for_residents_against_thames_water.html
+commentfile: 2011-12-08-victory_for_residents_against_thames_water
 category: news
 date: 2011-12-08 21:30:45
 
@@ -37,3 +38,6 @@ bq. "Because I have held that Thames Water failed to carry out the work and cond
 
 
 <cite>-- from a Mogden Residents Action Group press release - 8 December 2011</cite>
+
+
+{% include comments.html %}

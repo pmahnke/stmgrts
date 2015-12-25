@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Fair - 14 July 2012"
 permalink: /archives/2012/07/event_reminder_st_margarets_fair_14_july_2012.html
+commentfile: 2012-07-11-event_reminder_st_margarets_fair_14_july_2012
 category: around_town
 date: 2012-07-11 21:56:13
 
@@ -24,3 +25,10 @@ Don't forget that this Saturday, 14 July 2011, from 12 - 7.45pm, is the 34<sup>t
 <p>All profits from these stalls go direct to our charities - please support these stalls. See how we spend the <a href="http://www.stmargaretsfair.org/charities.html">money</a>.</p>
 
 <p>For more information: <a href="http://www.stmargaretsfair.org/">www.stmargaretsfair.org</a></p>
+
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Support RACC - Richmond Park Marathon - 5 May 2013"
 permalink: /archives/2013/05/support_racc_richmond_park_marathon_sunday_5th_may.html
+commentfile: 2013-05-04-support_racc_richmond_park_marathon_sunday_5th_may
 category: around_town
 date: 2013-05-04 15:33:38
 excerpt: |
@@ -29,3 +30,9 @@ We have a target of &pound;3,000, so far we have raised just over &pound;2,000.
 Donate via the Portcullis Trust website - "www.portcullistrust.org.uk":http://www.portcullistrust.org.uk
 
 Please join us for a glass of cava at the finish line near Sheen Gate at approximately 1pm. Look for the Portcullis Trust gazebo.
+
+
+
+
+
+{% include comments.html %}

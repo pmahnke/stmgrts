@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Charity Dog Walk in Richmond Park - 29 January 2012"
 permalink: /archives/2012/01/event_reminder_charity_dog_walk_in_richmond_park.html
+commentfile: 2012-01-13-event_reminder_charity_dog_walk_in_richmond_park
 category: around_town
 date: 2012-01-13 17:42:31
 excerpt: |
@@ -29,3 +30,9 @@ h4. More Information
 ** Liz: "liz@davidadamsleukaemiaapeal.org":mailto:liz@davidadamsleukaemiaapeal.org
 ** 020 8891 2221
 ** The David Adams Leukaemia Appeal
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Tennis Taster Sessions at the St Margarets Fair"
 permalink: /archives/2011/07/tennis_taster_sessions_at_the_st_margarets_fair.html
+commentfile: 2011-07-13-tennis_taster_sessions_at_the_st_margarets_fair
 category: around_town
 date: 2011-07-13 18:58:32
 excerpt: |
@@ -30,3 +31,8 @@ If you have any questions about the open day, please contact:
 
 * Victor Benissan - 07896 202086 - jezzhooton@hotmail.com
 * Jeremy Hooton - 07747 450404 - victorbenissan@yahoo.fr
+
+
+
+
+{% include comments.html %}

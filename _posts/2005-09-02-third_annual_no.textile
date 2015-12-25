@@ -2,6 +2,7 @@
 layout: post
 title: "Third Annual North St Margarets Fun Day"
 permalink: /archives/2005/09/third_annual_no.html
+commentfile: 2005-09-02-third_annual_no
 category: around_town
 date: 2005-09-02 09:34:45
 
@@ -18,3 +19,8 @@ A wide variety of events have been planned, including:
 * from 7:30 - 11, a _Cajun Party and Supper_ at "All Souls Church Hall":/cgi-bin/directory.cgi?key=200506080805&action=getlisting
 
 Here is a "PDF":/archives/NorthStMargaretsFunDay2005.pdf of the event.  You can also see more detailed information in our "events section":/cgi-bin/events.cgi?key=200506300544&action=getevent.
+
+
+
+
+{% include comments.html %}

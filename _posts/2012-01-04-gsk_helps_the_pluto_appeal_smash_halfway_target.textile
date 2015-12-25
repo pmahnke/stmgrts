@@ -2,6 +2,7 @@
 layout: post
 title: "Gsk Helps The Pluto Appeal Smash Halfway Target"
 permalink: /archives/2012/01/gsk_helps_the_pluto_appeal_smash_halfway_target.html
+commentfile: 2012-01-04-gsk_helps_the_pluto_appeal_smash_halfway_target
 category: news
 date: 2012-01-04 12:53:20
 
@@ -28,3 +29,7 @@ Mr Munther Haddad, Service Director of Paediatric Surgery at Chelsea and Westmin
 Their support also demonstrates their recognition of the importance of having a robotic operating facility for children and babies at Chelsea and Westminster Hospital."
 
 Jason Bradbury, (The Gadget Show), patron for The Pluto Appeal said: "Helping to buy Pluto the Robot is the most important project I've ever been involved with and so I'm thrilled that it's been given such a huge boost by GSK."
+
+
+
+{% include comments.html %}

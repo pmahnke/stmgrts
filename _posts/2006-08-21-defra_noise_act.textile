@@ -2,6 +2,7 @@
 layout: post
 title: "DEFRA Noise Act Consultation"
 permalink: /archives/2006/08/defra_noise_act.html
+commentfile: 2006-08-21-defra_noise_act
 category: news
 date: 2006-08-21 16:54:24
 excerpt: |
@@ -31,3 +32,7 @@ SW1E 6DE
 
 Fax: 020 7082 8995 
 Email: "noise@defra.gsi.gov.uk":mailto:noise@defra.gsi.gov.uk 
+
+
+
+{% include comments.html %}

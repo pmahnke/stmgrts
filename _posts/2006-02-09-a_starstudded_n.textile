@@ -2,6 +2,7 @@
 layout: post
 title: "A Star-Studded Night in St Margarets"
 permalink: /archives/2006/02/a_starstudded_n.html
+commentfile: 2006-02-09-a_starstudded_n
 category: around_town
 date: 2006-02-09 16:36:42
 
@@ -29,3 +30,6 @@ The evening features five talented local bands:
 * _Sixth Sense_ -- another talented young band
 
 For more information you can call Toby on 0778619362 or visit his "fundraising website":http://www.justgiving.com/tobyhartwell/.
+
+
+{% include comments.html %}

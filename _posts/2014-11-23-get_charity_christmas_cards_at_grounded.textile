@@ -2,6 +2,7 @@
 layout: post
 title: "Get Charity Christmas Cards at Grounded"
 permalink: /archives/2014/11/get_charity_christmas_cards_at_grounded.html
+commentfile: 2014-11-23-get_charity_christmas_cards_at_grounded
 category: around_town
 date: 2014-11-23 06:58:04
 excerpt: |
@@ -23,3 +24,9 @@ Grounded are supporting The Children's Hospital Trust Fund by selling their char
 Amanda, owner of "Grounded":http://www.stmgrts.org.uk/directory/restaurant/201411230151, said:
 
 bq. "We fell in love with the image, which is an original black and white photograph taken in hospital at Christmas ‎1939 of children decorating a tree with nurses. We're thrilled to be helping The Children's Hospital Trust Fund with their vital work at this wonderful hospital."
+
+
+
+
+
+{% include comments.html %}

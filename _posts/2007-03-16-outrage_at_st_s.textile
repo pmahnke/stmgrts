@@ -2,6 +2,7 @@
 layout: post
 title: "Outrage at St Stephens for Moormead Fees"
 permalink: /archives/2007/03/outrage_at_st_s.html
+commentfile: 2007-03-16-outrage_at_st_s
 category: news
 date: 2007-03-16 10:02:56
 excerpt: |
@@ -22,3 +23,8 @@ Currently the school is refusing to play.
 A group of parents at St Stephens is organising a petition against the council's outrageous 356% increase.  The petition is outside the school's office and in the playground after school during pick-up time. 
 
 What do you think?  "Vote in our poll":http://www.stmgrts.org.uk/poll/ststephens
+
+
+
+
+{% include comments.html %}

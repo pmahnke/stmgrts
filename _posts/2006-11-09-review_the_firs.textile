@@ -2,6 +2,7 @@
 layout: post
 title: "Review&#58; The First Stone"
 permalink: /archives/2006/11/review_the_firs.html
+commentfile: 2006-11-09-review_the_firs
 category: editorial
 date: 2006-11-09 10:10:10
 
@@ -27,3 +28,7 @@ You can purchase the book at the new agents next to the St Margarets Train Stati
 Since starting this website, I have always made time to put up all of the stories that I have found or been passed even though it consumes far too much of my family time.  The only story that I knowingly failed to write is this one -- since May -- and it has been bothering me ever since.
 
 However, its wasn't because I didn't want write it, it was because I wanted to do it well.  I wanted to both interview Guido and read the book.  Sadly, I only got a bit of an interview and it took me until last night to finish the book (the complete works of Donna Leon and Jared Diamond got in the way).
+
+
+
+{% include comments.html %}

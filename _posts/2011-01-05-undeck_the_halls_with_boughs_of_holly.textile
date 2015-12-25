@@ -2,6 +2,7 @@
 layout: post
 title: "Undeck the Halls with Boughs of Holly!"
 permalink: /archives/2011/01/undeck_the_halls_with_boughs_of_holly.html
+commentfile: 2011-01-05-undeck_the_halls_with_boughs_of_holly
 category: around_town
 date: 2011-01-05 14:13:15
 excerpt: |
@@ -86,3 +87,6 @@ As when ye innocent met here.
 ??by Robert Herrick??
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

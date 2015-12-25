@@ -2,6 +2,7 @@
 layout: post
 title: "Easter Holiday Activities 2011"
 permalink: /archives/2011/03/easter_holiday_activities_2011.html
+commentfile: 2011-03-30-easter_holiday_activities_2011
 category: around_town
 date: 2011-03-30 21:16:25
 
@@ -105,3 +106,7 @@ Dates: 11<sup>th</sup> to 15<sup>th</sup> April
 Cost: &pound;90
 Venue: Teddington School sports centre
 Times: 10am - 1pm
+
+
+
+{% include comments.html %}

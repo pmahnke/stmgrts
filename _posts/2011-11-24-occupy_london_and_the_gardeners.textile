@@ -2,6 +2,7 @@
 layout: post
 title: "Occupy London and the Gardeners"
 permalink: /archives/2011/11/occupy_london_and_the_gardeners.html
+commentfile: 2011-11-24-occupy_london_and_the_gardeners
 category: around_town
 date: 2011-11-24 22:10:28
 excerpt: |
@@ -95,3 +96,7 @@ Let's hope so.
 <cite>-- from Martyn Day</cite>
 
 _Credit: The painting of the medieval vegetable market from norwich-market.org.uk. The print of the medieval gardener is from Wageningen Digital Library._
+
+
+
+{% include comments.html %}

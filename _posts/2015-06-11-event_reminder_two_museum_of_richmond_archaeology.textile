@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Two Museum of Richmond Archaeology Events - July 2015"
 permalink: /archives/2015/06/event_reminder_two_museum_of_richmond_archaeology.html
+commentfile: 2015-06-11-event_reminder_two_museum_of_richmond_archaeology
 category: around_town
 date: 2015-06-11 18:37:15
 excerpt: |
@@ -39,3 +40,7 @@ h4. More Information
 
 * Museum of Richmond, Old Town Hall (Second Floor) Whittaker Avenue, Surrey, TW9 1TP
 * Free Entry, open to all ages
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Seventy Years Ago..."
 permalink: /archives/2015/05/seventy_years_ago.html
+commentfile: 2015-05-08-seventy_years_ago
 category: around_town
 date: 2015-05-08 21:06:48
 excerpt: |
@@ -95,3 +96,7 @@ On VE Day, Vera Lynn singing <em>"There'</em>ll always be an England.
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

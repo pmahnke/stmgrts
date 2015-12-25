@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; St Margarets Christmas Fair - 4 December 2011"
 permalink: /archives/2011/11/event_reminder_st_margarets_christmas_fair_4_decem.html
+commentfile: 2011-11-24-event_reminder_st_margarets_christmas_fair_4_decem
 category: around_town
 date: 2011-11-24 22:44:57
 excerpt: |
@@ -40,3 +41,10 @@ and
 The event draws to a close at 4pm with St Stephens Church holding an open air carol service.
 
 For more information please contact "traders@mystmargarets.com":mailto:traders@mystmargarets.com
+
+
+
+
+
+
+{% include comments.html %}

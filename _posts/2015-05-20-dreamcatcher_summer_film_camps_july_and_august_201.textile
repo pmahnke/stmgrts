@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Summer Film Camps - July and August 2015"
 permalink: /archives/2015/05/dreamcatcher_summer_film_camps_july_and_august_201.html
+commentfile: 2015-05-20-dreamcatcher_summer_film_camps_july_and_august_201
 category: around_town
 date: 2015-05-20 22:01:11
 excerpt: |
@@ -37,3 +38,7 @@ h4. To book
 * 07828377939 
 * "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
 * "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "'Bloody Belgians' in St Margarets in the First World War"
 permalink: /archives/2014/03/bloody_belgians_in_st_margarets_in_the_first_world.html
+commentfile: 2014-03-21-bloody_belgians_in_st_margarets_in_the_first_world
 category: around_town
 date: 2014-03-21 23:16:37
 excerpt: |
@@ -59,3 +60,7 @@ East Twickenham Village are planning to commemorate the Belgian Community in 191
 <cite>Helen Baker and Val Coltman - 15 March 2014</cite>
 
 <em>Notes: </em>
+
+
+
+{% include comments.html %}

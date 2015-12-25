@@ -2,6 +2,7 @@
 layout: post
 title: "Holiday Activities at Orleans House Gallery - May Half Term 2015"
 permalink: /archives/2015/05/holiday_activities_at_orleans_house_gallery_may_ha.html
+commentfile: 2015-05-14-holiday_activities_at_orleans_house_gallery_may_ha
 category: around_town
 date: 2015-05-14 21:25:19
 excerpt: |
@@ -133,3 +134,10 @@ h3. Booking
 * Booking for holiday activities is essential.
 * To book call us on 020 8831 6000, or "book online":http://www2.richmond.gov.uk/richmondbookings/Arts.aspx
 * Please only book your child into workshops of the appropriate age range to ensure a positive experience for all children.
+
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Teddington Theatre Club's Steel Magnolias"
 permalink: /archives/2011/05/event_reminder_teddington_theatre_clubs_steel_magn.html
+commentfile: 2011-05-05-event_reminder_teddington_theatre_clubs_steel_magn
 category: around_town
 date: 2011-05-05 15:19:14
 excerpt: |
@@ -25,3 +26,7 @@ h4. Details
 * Ticket prices: Sunday &pound;8/&pound;10 - Monday 2 for the price of one &pound;10/&pound;12 - Rest of the run &pound;10/&pound;12
 * Location: Hampton Hill Playhouse 90 High Street Hampton Hill TW12 1NY
 * Contact: Box office - 0845 838 7529 (10am to 8pm only) or online at "www.ttc-boxoffice.org.uk":http://www.ttc-boxoffice.org.uk
+
+
+
+{% include comments.html %}

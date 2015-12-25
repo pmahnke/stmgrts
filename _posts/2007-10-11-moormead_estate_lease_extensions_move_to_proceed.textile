@@ -2,6 +2,7 @@
 layout: post
 title: "Moormead Estate Lease Extensions -- Move to Proceed"
 permalink: /archives/2007/10/moormead_estate_lease_extensions_move_to_proceed.html
+commentfile: 2007-10-11-moormead_estate_lease_extensions_move_to_proceed
 category: news
 date: 2007-10-11 09:14:56
 
@@ -22,3 +23,6 @@ Since the survey, the Central Group (of volunteers) has been investigating the b
 * Central Group research indicates that Owen Grainger ("www.grainger.co.uk":http://www.grainger.co.uk/) is the best surveyor to use for lease extensions on the Moormead Estate. Owen has an excellent record in negotiating lease extensions with Northumberland & Durham.
 * For the reasons set out in the attachment, lease extension is likely to make more sense than buying the freehold for Moormead residents.
 * The process is likely to take approximately 6 months. Lease extensions are likely to cost between 15 and 20 thousand pounds, excluding costs.
+
+
+{% include comments.html %}

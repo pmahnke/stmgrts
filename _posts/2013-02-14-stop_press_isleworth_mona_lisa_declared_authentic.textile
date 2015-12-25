@@ -2,6 +2,7 @@
 layout: post
 title: "Stop Press&#58; Isleworth Mona Lisa Declared Authentic!"
 permalink: /archives/2013/02/stop_press_isleworth_mona_lisa_declared_authentic.html
+commentfile: 2013-02-14-stop_press_isleworth_mona_lisa_declared_authentic
 category: news
 date: 2013-02-14 21:26:06
 excerpt: |
@@ -32,3 +33,6 @@ For the full background story please read "The Isleworth Mona Lisa":http://www.s
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "King Dinuzulu's Beads"
 permalink: /archives/2011/02/king_dinuzulus_beads.html
+commentfile: 2011-02-10-king_dinuzulus_beads
 category: around_town
 date: 2011-02-10 22:24:25
 excerpt: |
@@ -58,3 +59,7 @@ bq. "King Dinuzulu will always be remembered by our people as one of the kings w
 <cite>-- from Martyn Day</cite>
 
 _Credits: Photograph of Dinuzulu statue by Kleinz on Flickr_
+
+
+
+{% include comments.html %}

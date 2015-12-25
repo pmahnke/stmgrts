@@ -2,6 +2,7 @@
 layout: post
 title: "Meet Henry VIII's Great Horses at Hampton Court Palace"
 permalink: /archives/2015/04/meet_henry_viiis_great_horses_at_hampton_court_pal.html
+commentfile: 2015-04-03-meet_henry_viiis_great_horses_at_hampton_court_pal
 category: around_town
 date: 2015-04-03 10:59:22
 excerpt: |
@@ -34,3 +35,10 @@ Come onto the box seat, and drive a lap of honour on the tram before the gardens
 "Enter the competition":http://www.operationcentaur.com/competition/
 
 </div>
+
+
+
+
+
+
+{% include comments.html %}

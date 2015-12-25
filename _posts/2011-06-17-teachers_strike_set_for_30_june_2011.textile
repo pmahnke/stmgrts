@@ -2,6 +2,7 @@
 layout: post
 title: "Teacher's Strike Set for 30 June 2011"
 permalink: /archives/2011/06/teachers_strike_set_for_30_june_2011.html
+commentfile: 2011-06-17-teachers_strike_set_for_30_june_2011
 category: news
 date: 2011-06-17 13:40:20
 
@@ -31,3 +32,10 @@ Updates:
 
 * 23 June - added Orleans Infant School, thanks Camilla Danson
 * 27 June - added Archdeacon, Grey Court and Stanley Primary, thanks Ian, Becky, Kim and Graham
+
+
+
+
+
+
+{% include comments.html %}

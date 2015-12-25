@@ -2,6 +2,7 @@
 layout: post
 title: "BAA Launches WebTrak"
 permalink: /archives/2007/06/baa_launches_webtrak.html
+commentfile: 2007-06-01-baa_launches_webtrak
 category: news
 date: 2007-06-01 09:15:44
 excerpt: |
@@ -30,3 +31,6 @@ HACAN Chair John Stewart said, "For year we have been campaigning for this syste
 Stewart added, "The one oddity of WebTrak is the way that parts of east and south east London are not covered by it. HACAN will be issuing a report later this month which will show the dramatic way noise has increased in many of these areas over the last decade. They need to be added to the system."
 
 -- _from a HACAN Press Release_
+
+
+{% include comments.html %}

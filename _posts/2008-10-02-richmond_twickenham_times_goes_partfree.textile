@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond & Twickenham Times goes part-free"
 permalink: /archives/2008/10/richmond_twickenham_times_goes_partfree.html
+commentfile: 2008-10-02-richmond_twickenham_times_goes_partfree
 category: news
 date: 2008-10-02 22:03:55
 excerpt: |
@@ -22,3 +23,8 @@ Regional publisher Newsquest is to dump two existing free weekly newspapers and 
 The free edition of the Times will be delivered door to door in Richmond & Twickenham from Friday, October 10, replacing the area's current free weekly the Richmond Guardian.
 
 -- from "The Guardian":http://www.guardian.co.uk/media/2008/sep/19/newsquest.pressandpublishing, Friday September 19 2008
+
+
+
+
+{% include comments.html %}

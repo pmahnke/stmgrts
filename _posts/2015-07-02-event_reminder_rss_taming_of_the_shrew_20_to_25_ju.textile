@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; RSS Taming of the Shrew - 20 to 25 July 2015"
 permalink: /archives/2015/07/event_reminder_rss_taming_of_the_shrew_20_to_25_ju.html
+commentfile: 2015-07-02-event_reminder_rss_taming_of_the_shrew_20_to_25_ju
 category: around_town
 date: 2015-07-02 22:17:48
 excerpt: |
@@ -30,3 +31,9 @@ h4. More Information
 * Box Office: 020 8744 0547
 * "www.richmondshakespeare.org.uk":http://www.richmondshakespeare.org.uk
 * Tickets: &pound;10 for members & &pound;12 for non-members
+
+
+
+
+
+{% include comments.html %}

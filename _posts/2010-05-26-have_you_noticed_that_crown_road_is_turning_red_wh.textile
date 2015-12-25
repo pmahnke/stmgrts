@@ -2,6 +2,7 @@
 layout: post
 title: "Have You Noticed that Crown Road is Turning Red, White and Blue?"
 permalink: /archives/2010/05/have_you_noticed_that_crown_road_is_turning_red_wh.html
+commentfile: 2010-05-26-have_you_noticed_that_crown_road_is_turning_red_wh
 category: around_town
 date: 2010-05-26 22:04:47
 excerpt: |
@@ -20,3 +21,9 @@ The "St Margarets Traders Association":http://www.mystmargarets.com/ invite you 
 Please come along and join in the fun!
 
 If you would like any more information or would like to participate please contact us at "events@mystmargarets.com":mailto:events@mystmargarets.com.
+
+
+
+
+
+{% include comments.html %}

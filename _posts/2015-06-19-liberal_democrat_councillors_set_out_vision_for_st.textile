@@ -2,6 +2,7 @@
 layout: post
 title: "Liberal Democrat Councillors Set Out Vision for St Margarets"
 permalink: /archives/2015/06/liberal_democrat_councillors_set_out_vision_for_st.html
+commentfile: 2015-06-19-liberal_democrat_councillors_set_out_vision_for_st
 category: around_town
 date: 2015-06-19 15:22:23
 
@@ -27,3 +28,6 @@ bq. "Nothing in today's requests have grand financial or resource implications f
 * <a href="//stmgrts.org.uk/assets/images/2015/LibDem-Village-Plan-Submission-june2015.pdf" title="LibDem Village Plan Submission june2015.pdf">Village Plan Submission</a> [pdf]
 
 <cite-- from Liberal Democrat Councillors press release - 15 June 2015</cite>
+
+
+{% include comments.html %}

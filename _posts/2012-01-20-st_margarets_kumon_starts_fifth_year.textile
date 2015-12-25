@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Kumon Starts Fifth Year"
 permalink: /archives/2012/01/st_margarets_kumon_starts_fifth_year.html
+commentfile: 2012-01-20-st_margarets_kumon_starts_fifth_year
 category: around_town
 date: 2012-01-20 21:59:48
 
@@ -20,3 +21,7 @@ h4. More Information
 
 * Call Manjusha Malhotra on 0208 7373527
 * "stmargarets@kumoncentre.co.uk":mailto:stmargarets@kumoncentre.co.uk
+
+
+
+{% include comments.html %}

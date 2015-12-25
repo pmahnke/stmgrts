@@ -2,6 +2,7 @@
 layout: post
 title: "The Day the Church Fell Down"
 permalink: /archives/2013/03/the_day_the_church_fell_down.html
+commentfile: 2013-03-08-the_day_the_church_fell_down
 category: around_town
 date: 2013-03-08 20:49:19
 excerpt: |
@@ -77,3 +78,6 @@ fn2.  Some records state that Sir Godfrey died on the 19<sup>th</sup> October  1
 _CREDIT: The photograph of the Church Tower was taken by Stephen Harris_
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

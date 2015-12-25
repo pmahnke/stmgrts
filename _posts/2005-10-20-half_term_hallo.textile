@@ -2,6 +2,7 @@
 layout: post
 title: "Half Term &amp; Halloween Activities"
 permalink: /archives/2005/10/half_term_hallo.html
+commentfile: 2005-10-20-half_term_hallo
 category: around_town
 date: 2005-10-20 16:25:54
 
@@ -197,3 +198,7 @@ h3. MONDAY 31 OCTOBER
 *Halloween Ghost Walk*
 Old Town Hall, 6pm & 7.30pm, {-L}5 
 020 8940 9125 
+
+
+
+{% include comments.html %}

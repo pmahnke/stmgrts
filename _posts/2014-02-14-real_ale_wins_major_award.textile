@@ -2,6 +2,7 @@
 layout: post
 title: "Real Ale Wins Major Award"
 permalink: /archives/2014/02/real_ale_wins_major_award.html
+commentfile: 2014-02-14-real_ale_wins_major_award
 category: news
 date: 2014-02-14 09:08:36
 excerpt: |
@@ -24,3 +25,6 @@ Real Ale's Managing Director, Nick Dolan, said "We are really delighted to retai
 Off Licence News - the voice of drinks retailing - has been serving the off-trade for 150 years and is the only fortnightly newspaper focused solely on the take-home drinks market. This award winning publication is widely regarded as the most important source of information for anyone wanting to keep up-to-date with the latest news and issues currently facing the industry.
 
 <cite>-- from a Press release - 5<sup>th</sup> February 2014</cite>
+
+
+{% include comments.html %}

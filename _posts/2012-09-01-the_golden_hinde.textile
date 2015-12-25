@@ -2,6 +2,7 @@
 layout: post
 title: "The Golden Hinde"
 permalink: /archives/2012/09/the_golden_hinde.html
+commentfile: 2012-09-01-the_golden_hinde
 category: around_town
 date: 2012-09-01 09:28:51
 excerpt: |
@@ -88,3 +89,7 @@ p. ??DRAKE'S DRUM by Sir Henry Newbolt??
 _Credit: The portrait of Sir Francis Drake is by Jodocus Hondius_
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

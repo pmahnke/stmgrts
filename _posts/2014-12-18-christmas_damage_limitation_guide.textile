@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Damage Limitation Guide"
 permalink: /archives/2014/12/christmas_damage_limitation_guide.html
+commentfile: 2014-12-18-christmas_damage_limitation_guide
 category: around_town
 date: 2014-12-18 21:33:48
 
@@ -64,3 +65,7 @@ Have a great day,
 _Matt Roots_
 
 Fitness & Lifestyle Coach
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Book&#58; The Most Famous Ice Rink in the World"
 permalink: /archives/2015/11/the_book_the_most_famous_ice_rink_in_the_world.html
+commentfile: 2015-11-05-the_book_the_most_famous_ice_rink_in_the_world
 category: news
 date: 2015-11-05 20:12:22
 excerpt: |
@@ -38,3 +39,7 @@ The overriding theme is that everyone loved Richmond Rink; people from all walks
 For the last three years many of those who were associated with the ice rink in East Twickenham have come together to provide a temporary, community, ice rink in Twickenham. It is staffed by those who grew up skating in East Twickenham, managed by an international ice hockey player who has been honoured in the Ice Hockey Hall of Fame and the ice is tended by the same Zambonie operator who worked at Richmond Rink, even the well remembered ticket collector makes an occasional appearance. The temporary rink is visited by many local skaters and welcomes children who have the enthusiasm to skate just as thousands of children in Twickenham before them.
 
 THE ICE RINK AT STRAWBERRY HILL HOUSE IS OPEN FROM 5 DECEMBER 2015 UNTIL 24 JANUARY 2016: AN EXHIBITION OF PHOTOGRAPHS FROM RICHMOND RINK WILL BE OPEN EACH DAY
+
+
+
+{% include comments.html %}

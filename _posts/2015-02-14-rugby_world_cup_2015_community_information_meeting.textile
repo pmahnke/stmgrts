@@ -2,6 +2,7 @@
 layout: post
 title: "Rugby World Cup 2015 Community information Meetings"
 permalink: /archives/2015/02/rugby_world_cup_2015_community_information_meeting.html
+commentfile: 2015-02-14-rugby_world_cup_2015_community_information_meeting
 category: around_town
 date: 2015-02-14 09:03:06
 excerpt: |
@@ -21,3 +22,8 @@ h4. All briefings
 * Monday 9 March, 6.30 to 8.30pm, Turks Head, St Margarets
 * Tuesday 17 March, 6.30 to 8.30pm, Clarendon Hall, Twickenham
 * Monday 23 March, 6.30 to 8.30pm, Richmond Adult Community College (RACC) Parkshot, Richmond
+
+
+
+
+{% include comments.html %}

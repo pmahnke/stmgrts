@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; OPERA EVOLUTION"
 permalink: /archives/2009/11/event_reminder_opera_evolution.html
+commentfile: 2009-11-12-event_reminder_opera_evolution
 category: around_town
 date: 2009-11-12 12:32:39
 excerpt: |
@@ -30,3 +31,8 @@ To find out more about the event or to book tickets, please go online to
 "www.operaevolution.com":http://www.operaevolution.com/ 
 
  
+
+
+
+
+{% include comments.html %}

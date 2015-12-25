@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Limited Edition Multi-Print - On Sale Now!"
 permalink: /archives/2014/05/st_margarets_limited_edition_multiprint_on_sale_no.html
+commentfile: 2014-05-17-st_margarets_limited_edition_multiprint_on_sale_no
 category: around_town
 date: 2014-05-17 12:44:25
 excerpt: |
@@ -28,3 +29,7 @@ h4. More Information
 * All orders for Father's Day must be placed by 23rd May
 
 If you would like to look in more detail... examples on display in Zoran's Delicatessen and Grounded coffee shop.
+
+
+
+{% include comments.html %}

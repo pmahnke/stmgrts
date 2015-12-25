@@ -2,6 +2,7 @@
 layout: post
 title: "The Rivulet of Happy Families"
 permalink: /archives/2013/09/the_rivulet_of_happy_families.html
+commentfile: 2013-09-05-the_rivulet_of_happy_families
 category: around_town
 date: 2013-09-05 23:02:58
 excerpt: |
@@ -42,3 +43,7 @@ It is 80 years since Linney made his trip up the Crane but the river still flows
 <cite>-- from Martyn Day</cite>
 
 _Credit: The photographs of the River Crane were taken by Amanda Day LRPS_
+
+
+
+{% include comments.html %}

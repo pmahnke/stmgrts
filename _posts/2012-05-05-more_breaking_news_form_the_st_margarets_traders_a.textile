@@ -2,6 +2,7 @@
 layout: post
 title: "More Breaking News form the St Margarets Traders Association"
 permalink: /archives/2012/05/more_breaking_news_form_the_st_margarets_traders_a.html
+commentfile: 2012-05-05-more_breaking_news_form_the_st_margarets_traders_a
 category: around_town
 date: 2012-05-05 13:38:00
 
@@ -26,3 +27,6 @@ h4. Help us and help Johnny's Journey too...
 Churchills will also make a donation to local charity Jonny's Journey for every completed clue sheet that is returned to their offices in St Margarets Road.
 
 Good luck 
+
+
+{% include comments.html %}

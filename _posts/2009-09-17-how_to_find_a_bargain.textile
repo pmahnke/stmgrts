@@ -2,6 +2,7 @@
 layout: post
 title: "How to Find a Bargain?"
 permalink: /archives/2009/09/how_to_find_a_bargain.html
+commentfile: 2009-09-17-how_to_find_a_bargain
 category: around_town
 date: 2009-09-17 22:20:03
 excerpt: |
@@ -27,3 +28,9 @@ Like a car boot sale, but without the car or the boot, the streets will take on 
 *Put a note into your diary... GREAT ANNUAL STREET SALE -- SEPTEMBER 19th   from 2.00pm*
 
 "Here is a link to a map...":http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15
+
+
+
+
+
+{% include comments.html %}

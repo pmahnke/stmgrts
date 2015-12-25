@@ -2,6 +2,7 @@
 layout: post
 title: "Local charity appeals for the 'Sweetest Gift'"
 permalink: /archives/2015/12/local_charity_appeals_for_the_sweetest_gift.html
+commentfile: 2015-12-17-local_charity_appeals_for_the_sweetest_gift
 category: around_town
 date: 2015-12-17 21:00:53
 excerpt: |
@@ -37,3 +38,9 @@ h4. More Information
 * To support Jeevika Trust's "Sweetest Gift" appeal, please text SWEE70 &pound;5 (or the amount of your choice, up to &pound;10) to 70070 
 * visit "www.justgiving.com/sweetestgift":http://www.justgiving.com/sweetestgift to make a donation of any amount.
 * To find out more about Jeevika Trust or this appeal, please call 0208 973 3773, email Lucy Ferrier on "lucy@jeevika.org.uk":mailto:lucy@jeevika.org.uk, or visit "www.jeevika.org.uk":http://www.jeevika.org.uk
+
+
+
+
+
+{% include comments.html %}

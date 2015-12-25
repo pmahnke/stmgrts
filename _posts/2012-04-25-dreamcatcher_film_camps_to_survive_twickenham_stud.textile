@@ -2,6 +2,7 @@
 layout: post
 title: "Dreamcatcher Film Camps to Survive Twickenham Studios Closure"
 permalink: /archives/2012/04/dreamcatcher_film_camps_to_survive_twickenham_stud.html
+commentfile: 2012-04-25-dreamcatcher_film_camps_to_survive_twickenham_stud
 category: around_town
 date: 2012-04-25 20:18:29
 
@@ -27,3 +28,7 @@ h4. More Information
 * Email: "davidok@dreamcatchermedia.co.uk":mailto:davidok@dreamcatchermedia.co.uk
 * For more information about our Film Camps, find us at
 "www.dreamcatchermedia.co.uk/summer-camp/":http://www.dreamcatchermedia.co.uk/summer-camp/ "
+
+
+
+{% include comments.html %}

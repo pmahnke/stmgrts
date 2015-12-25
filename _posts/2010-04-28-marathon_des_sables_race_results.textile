@@ -2,6 +2,7 @@
 layout: post
 title: "Marathon des Sables - Race Results!"
 permalink: /archives/2010/04/marathon_des_sables_race_results.html
+commentfile: 2010-04-28-marathon_des_sables_race_results
 category: around_town
 date: 2010-04-28 07:43:40
 
@@ -64,3 +65,7 @@ I was not euphoric completing this race, but content and calm. It has shown me t
 Thank you to all those you supported me.
 
 <cite>Georgie Islip -- Finisher of the MdS 2010!</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Warm your Cockles this Winter with Vocality"
 permalink: /archives/2011/09/warm_your_cockles_this_winter_with_vocality.html
+commentfile: 2011-09-22-warm_your_cockles_this_winter_with_vocality
 category: around_town
 date: 2011-09-22 10:53:11
 excerpt: |
@@ -29,3 +30,9 @@ Their experienced choir leader will soon have you relishing the sounds of an ene
 The choir will be giving a pre-Christmas performance to showcase their achievements.
 
 Vocality is offering a free taster session to try it out. Please see their new website "www.vocalitysinging.co.uk":http://www.vocalitysinging.co.uk for more details.
+
+
+
+
+
+{% include comments.html %}

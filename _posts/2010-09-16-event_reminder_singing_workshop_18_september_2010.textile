@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Singing Workshop - 18 September 2010"
 permalink: /archives/2010/09/event_reminder_singing_workshop_18_september_2010.html
+commentfile: 2010-09-16-event_reminder_singing_workshop_18_september_2010
 category: around_town
 date: 2010-09-16 18:11:01
 
@@ -27,3 +28,7 @@ Rehearsals will be on Saturday afternoons from 25<sup>th</sup> September, with t
 For more information about 2x2 Opera please visit our website: "www.2x2opera.co.uk":http://www.2x2opera.co.uk or contact "admin@2x2opera.co.uk":mailto:admin@2x2opera.co.uk.
 
 We look forward to seeing you on 18<sup>th</sup> September!
+
+
+
+{% include comments.html %}

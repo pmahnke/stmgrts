@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Twickenham Police Station Open Day - 10 July 2011"
 permalink: /archives/2011/07/event_reminder_twickenham_police_station_open_day.html
+commentfile: 2011-07-04-event_reminder_twickenham_police_station_open_day
 category: around_town
 date: 2011-07-04 19:18:29
 
@@ -30,3 +31,6 @@ h4. More details
 * Entry is free.
 * Last visitors will be admitted at 3.30pm.
 * Children must be accompanied by an adult.
+
+
+{% include comments.html %}

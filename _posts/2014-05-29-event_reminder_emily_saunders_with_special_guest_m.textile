@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Emily Saunders with special guest Mobo-nominated saxophonist Tony Kofi"
 permalink: /archives/2014/05/event_reminder_emily_saunders_with_special_guest_m.html
+commentfile: 2014-05-29-event_reminder_emily_saunders_with_special_guest_m
 category: around_town
 date: 2014-05-29 20:58:17
 excerpt: |
@@ -25,3 +26,7 @@ h4. More Information
 * Doors: 12.15
 * Entrance: FREE
 * Venue: Stokes & Moncrieff 13 Richmond Road, Twickenham TW1 3AB
+
+
+
+{% include comments.html %}

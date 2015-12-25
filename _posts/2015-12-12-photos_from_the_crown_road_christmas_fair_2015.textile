@@ -2,6 +2,7 @@
 layout: post
 title: "Photos from the Crown Road Christmas Fair 2015"
 permalink: /archives/2015/12/photos_from_the_crown_road_christmas_fair_2015.html
+commentfile: 2015-12-12-photos_from_the_crown_road_christmas_fair_2015
 category: around_town
 date: 2015-12-12 09:27:58
 excerpt: |
@@ -19,3 +20,11 @@ excerpt: |
 Once again, the "St Margarets Traders Association":http://www.mystmargarets.com/ put on a great Christmas Fair this year.  Thank you for all the hard work of the traders, schools, churches, police, Council and volunteers.
 
 "Here are some photos":http://stmgrts.org.uk/l/kRM7y
+
+
+
+
+
+
+
+{% include comments.html %}

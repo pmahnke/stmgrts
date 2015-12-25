@@ -2,6 +2,7 @@
 layout: post
 title: "Age UK Richmond Gardening Service"
 permalink: /archives/2014/04/age_uk_richmond_gardening_service.html
+commentfile: 2014-04-03-age_uk_richmond_gardening_service
 category: news
 date: 2014-04-03 18:27:05
 excerpt: |
@@ -28,3 +29,9 @@ h4. More Information
 *  "handyperson@ageukrichmond.org.uk":mailto:handyperson@ageukrichmond.org.uk
 * 020 8876 0620
 * "www.ageukrichmond.org.uk":http://www.ageukrichmond.org.uk
+
+
+
+
+
+{% include comments.html %}

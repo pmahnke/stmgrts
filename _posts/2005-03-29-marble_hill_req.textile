@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Requests Planning Permission for More Events"
 permalink: /archives/2005/03/marble_hill_req.html
+commentfile: 2005-03-29-marble_hill_req
 category: news
 date: 2005-03-29 15:57:18
 
@@ -46,3 +47,6 @@ Please fill in the following form to send a comment directly to the Richmond Cou
     document.commentForm.name.focus();
 -->
 </script>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Post-call in statement of the St Margarets' CPZ extension"
 permalink: /archives/2008/07/postcall_in_statement_of_the_st_margarets_cpz_exte.html
+commentfile: 2008-07-22-postcall_in_statement_of_the_st_margarets_cpz_exte
 category: news
 date: 2008-07-22 22:09:47
 
@@ -24,3 +25,8 @@ We thank Cllrs Head and Hodgins for challenging the decision on our behalf, and 
 <cite>-- Statement issued by the _St Margarets Parking Association_</cite>
 
 </div>
+
+
+
+
+{% include comments.html %}

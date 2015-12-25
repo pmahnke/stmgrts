@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Revolutionary Witness"
 permalink: /archives/2010/09/event_reminder_revolutionary_witness.html
+commentfile: 2010-09-10-event_reminder_revolutionary_witness
 category: around_town
 date: 2010-09-10 08:16:14
 excerpt: |
@@ -21,3 +22,8 @@ The performance takes place in the Coward Room, a 53 seat studio theatre, and as
 Oh, yes. And latecomers will be shot.
 
 p. -- from Barry Evans
+
+
+
+
+{% include comments.html %}

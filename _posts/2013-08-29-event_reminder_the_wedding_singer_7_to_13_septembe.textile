@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Wedding Singer - 7 to 13 September 2013"
 permalink: /archives/2013/08/event_reminder_the_wedding_singer_7_to_13_septembe.html
+commentfile: 2013-08-29-event_reminder_the_wedding_singer_7_to_13_septembe
 category: around_town
 date: 2013-08-29 21:16:30
 
@@ -19,3 +20,7 @@ h4. More Information
 "www.twickenhamoperatics.com/tickets":http://www.twickenhamoperatics.com/tickets
 * "tickets@twickenhamoperatics.com":mailto:tickets@twickenhamoperatics.com
 * Tickets are &pound;15 / &pound;14 with Family tickets from &pound;45
+
+
+
+{% include comments.html %}

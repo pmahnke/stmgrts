@@ -2,6 +2,7 @@
 layout: post
 title: "Home-Start Richmond - New Volunteer Course - Starting 16 April 2015"
 permalink: /archives/2015/01/homestart_richmond_new_volunteer_course_starting_1.html
+commentfile: 2015-01-30-homestart_richmond_new_volunteer_course_starting_1
 category: around_town
 date: 2015-01-30 19:47:55
 excerpt: |
@@ -26,3 +27,7 @@ h4. To find out more, contact Angie Ahmed
 
 * 020 8487 8500
 * "info@homestart-richmond.org.uk":mailto:info@homestart-richmond.org.uk
+
+
+
+{% include comments.html %}

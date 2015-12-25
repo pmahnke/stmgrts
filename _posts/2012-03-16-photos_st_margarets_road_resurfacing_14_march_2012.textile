@@ -2,6 +2,7 @@
 layout: post
 title: "Photos&#58; St Margarets Road Resurfacing - 14 March 2012"
 permalink: /archives/2012/03/photos_st_margarets_road_resurfacing_14_march_2012.html
+commentfile: 2012-03-16-photos_st_margarets_road_resurfacing_14_march_2012
 category: around_town
 date: 2012-03-16 10:00:47
 
@@ -12,3 +13,8 @@ date: 2012-03-16 10:00:47
 Rev Richard Frank of All Souls Church captured some lovely photos (really) of the recent resurfacing St Margarets Road.
 
 * "View a slideshow":http://richardfrank.smugmug.com/photos/swfpopup.mg?AlbumID=21941175&AlbumKey=MjRKRs
+
+
+
+
+{% include comments.html %}

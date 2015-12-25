@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Services 2011"
 permalink: /archives/2011/12/christmas_services_2011.html
+commentfile: 2011-12-08-christmas_services_2011
 category: around_town
 date: 2011-12-08 22:02:47
 
@@ -187,3 +188,7 @@ h4. Saturday 24 December
 h4. Sunday 25 December
 
 * 10.00am - Festival Eucharist
+
+
+
+{% include comments.html %}

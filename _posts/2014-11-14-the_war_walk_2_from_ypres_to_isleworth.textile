@@ -2,6 +2,7 @@
 layout: post
 title: "The War Walk #2 - 'From Ypres To Isleworth'"
 permalink: /archives/2014/11/the_war_walk_2_from_ypres_to_isleworth.html
+commentfile: 2014-11-14-the_war_walk_2_from_ypres_to_isleworth
 category: around_town
 date: 2014-11-14 12:52:19
 excerpt: |
@@ -96,3 +97,7 @@ _played by Corp. Matthew Creek of the Royal Military College Band at the Austral
 
 
 <em>Read the first instalment, "The War Walk #1 - from the Ailsa to Ypres":http://www.stmgrts.org.uk/archives/2014/11/the_war_walk_1_from_the_ailsa_to_ypres.html</em>
+
+
+
+{% include comments.html %}

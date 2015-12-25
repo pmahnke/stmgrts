@@ -2,6 +2,7 @@
 layout: post
 title: "30th January - Dinner at the Calves Head Club"
 permalink: /archives/2012/02/_bq_a_meal_is.html
+commentfile: 2012-02-03-_bq_a_meal_is
 category: around_town
 date: 2012-02-03 13:11:48
 excerpt: |
@@ -75,3 +76,6 @@ And in coal-holes their ribbons hide and garters.'
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

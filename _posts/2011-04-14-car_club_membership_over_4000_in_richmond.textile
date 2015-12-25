@@ -2,6 +2,7 @@
 layout: post
 title: "Car Club Membership Over 4,000 in Richmond"
 permalink: /archives/2011/04/car_club_membership_over_4000_in_richmond.html
+commentfile: 2011-04-14-car_club_membership_over_4000_in_richmond
 category: news
 date: 2011-04-14 20:01:35
 excerpt: |
@@ -34,3 +35,8 @@ h4. More information
 
 * "Full article":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/april_2011_press_releases/car_club_membership_rocketing_in_richmond_upon_thames.htm
 * "Richmond Smarter Travel campaign":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/environment_directorate/smarter_travel_richmond_upon_thames.htm
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "A New Fair in Twickenham"
 permalink: /archives/2012/03/a_new_fair_in_twickenham.html
+commentfile: 2012-03-01-a_new_fair_in_twickenham
 category: news
 date: 2012-03-01 19:07:59
 
@@ -23,3 +24,6 @@ For further details and stand reservations, please call V&A Fairs on:
 
 
 <cite>from a press release</cite>
+
+
+{% include comments.html %}

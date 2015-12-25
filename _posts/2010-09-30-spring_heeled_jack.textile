@@ -2,6 +2,7 @@
 layout: post
 title: "Spring Heeled Jack "
 permalink: /archives/2010/09/spring_heeled_jack.html
+commentfile: 2010-09-30-spring_heeled_jack
 category: around_town
 date: 2010-09-30 10:29:08
 excerpt: |
@@ -51,3 +52,7 @@ Eventually the "Spring-Heeled Jack" panic in London died down but sightings of d
 Spring Heeled Jack is now largely forgotten, replaced in the darker corners of our minds by other semi mythical characters whose names still inspire fear and panic - the 'hooligans' of Victorian times, the 'razor gangs', and the 'spivs' of the 1940's, the 'Teddy Boys' of the 50's, and today's 'muggers' and 'hoodies' - real but not real, haunting our streets, unnerving us. I wonder what Jack is up to tonight?
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

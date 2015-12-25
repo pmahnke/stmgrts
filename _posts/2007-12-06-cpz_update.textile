@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Update"
 permalink: /archives/2007/12/cpz_update.html
+commentfile: 2007-12-06-cpz_update
 category: editorial
 date: 2007-12-06 15:27:56
 
@@ -25,3 +26,6 @@ The Council has now decided to convene another unpublicised meeting with invited
 It could be your road next!
 
 <cite>-- from Kim Thomas</cite>
+
+
+{% include comments.html %}

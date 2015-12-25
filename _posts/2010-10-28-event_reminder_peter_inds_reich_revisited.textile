@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Peter Ind's Reich Revisited"
 permalink: /archives/2010/10/event_reminder_peter_inds_reich_revisited.html
+commentfile: 2010-10-28-event_reminder_peter_inds_reich_revisited
 category: around_town
 date: 2010-10-28 21:33:29
 
@@ -23,3 +24,9 @@ Peter first came across Reich's work when he lived in New York in the 50s and wa
 
 Tickets can be reserved on line at the Cockpit Theatre - "www.cockpittheatre.org.uk":http://www.cockpittheatre.org.uk for collection on the night
 or paid for via cheque (contact "waveindjones@aol.com":mailto:waveindjones@aol.com) or Paypal ("www.peterind.com":http://www.peterind.com)
+
+
+
+
+
+{% include comments.html %}

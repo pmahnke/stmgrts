@@ -2,6 +2,7 @@
 layout: post
 title: "Ziggy Stardust Came from Isleworth"
 permalink: /archives/2009/04/ziggy_stardust_came_from_isleworth.html
+commentfile: 2009-04-23-ziggy_stardust_came_from_isleworth
 category: around_town
 date: 2009-04-23 14:38:51
 excerpt: |
@@ -65,3 +66,7 @@ Although Vince is long gone his weirdness continues. He still writes an occasion
 Now, that's what I call rock 'n' roll!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

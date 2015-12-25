@@ -2,6 +2,7 @@
 layout: post
 title: "Leeches? Filthy Little Devils!"
 permalink: /archives/2008/07/leeches_filthy_little_devils.html
+commentfile: 2008-07-07-leeches_filthy_little_devils
 category: news
 date: 2008-07-07 21:57:08
 excerpt: |
@@ -31,3 +32,7 @@ River Clearing Day has turned from a grim and exhausting chore into a neighbourh
 
 
 The Tidal Crane Association River Clearing took place on Saturday 5th July
+
+
+
+{% include comments.html %}

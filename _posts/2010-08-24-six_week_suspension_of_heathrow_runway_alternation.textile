@@ -2,6 +2,7 @@
 layout: post
 title: "Six Week Suspension of Heathrow Runway Alternation"
 permalink: /archives/2010/08/six_week_suspension_of_heathrow_runway_alternation.html
+commentfile: 2010-08-24-six_week_suspension_of_heathrow_runway_alternation
 category: news
 date: 2010-08-24 22:04:59
 
@@ -14,3 +15,9 @@ When the airport is on easterly operations, the usual practice will not change: 
 Details at: "tinyurl.com/32g574l":http://tinyurl.com/32g574l
 
 <cite>-- from Christopher J Squire</cite>
+
+
+
+
+
+{% include comments.html %}

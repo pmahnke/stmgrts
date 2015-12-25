@@ -2,6 +2,7 @@
 layout: post
 title: "The St Margarets Community Newsletter on the BBC!"
 permalink: /archives/2010/07/the_st_margarets_community_newsletter_on_the_bbc.html
+commentfile: 2010-07-30-the_st_margarets_community_newsletter_on_the_bbc
 category: around_town
 date: 2010-07-30 12:17:36
 excerpt: |
@@ -30,3 +31,8 @@ A BBC Producer read the article and now it has been turned into a radio document
 h4. "Ziggy Stardust Came from Isleworth" - BBC Radio 4,  11.30am - Thursday 19<sup>th</sup> August 2010
 
 <em>Note: Once again, this shows you how lucky we are to have "Martyn Day":http://www.google.com/cse?cx=011552492105320257021:aklyesuuk5c&q=Martyn+Day&sa=Search&cof=FORID:0 writing on this website. Thank you Martyn!</em>
+
+
+
+
+{% include comments.html %}

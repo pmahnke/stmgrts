@@ -2,6 +2,7 @@
 layout: post
 title: "Sun Draws Record Crowds to the 2014 St Margarets Fair"
 permalink: /archives/2014/07/sun_draws_record_crowds_to_the_2014_st_margarets_f.html
+commentfile: 2014-07-17-sun_draws_record_crowds_to_the_2014_st_margarets_f
 category: news
 date: 2014-07-17 22:48:46
 excerpt: |
@@ -35,3 +36,6 @@ For younger visitors there were fun rides, bouncy castles, candyfloss and chance
 As ever, proceeds from the Fair support local causes which this year include Richmond Homes and Lifestyle Trust which supports people with a learning disability in the borough of Richmond, Off the Record, a walk-in information, counselling and sexual health service for 11-24 year olds in Richmond and HANDS which supports local volunteers who help help local people of any age group, especially older, frail, disabled, sick and lonely people.
 
 <cite>-- from a Press Release - 16 July 2014</cite>
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Charity Fashion Show Raises Over £3,000"
 permalink: /archives/2009/05/charity_fashion_show_raises_over_3000.html
+commentfile: 2009-05-01-charity_fashion_show_raises_over_3000
 category: news
 date: 2009-05-01 15:38:54
 
@@ -23,3 +24,9 @@ The most pleasing aspect of the evening was being able to work successfully with
 At the time of writing the charity had raised over &pound;3,000 on the evening.
 
 <cite>-- from Parvinu</cite>
+
+
+
+
+
+{% include comments.html %}

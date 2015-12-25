@@ -2,6 +2,7 @@
 layout: post
 title: "Turing House School Application Progressing"
 permalink: /archives/2013/03/turing_house_school_application_progressing.html
+commentfile: 2013-03-12-turing_house_school_application_progressing
 category: news
 date: 2013-03-12 12:20:02
 
@@ -41,3 +42,7 @@ bq. "Despite already having more than 1400 children registered, we know there ar
 More details of the Turing House School proposal can be found on the group's website at "www.turinghouseschool.org.uk/,":http://www.turinghouseschool.org.uk/, where families can register an interest in a future place at the school, or sign up to the mailing list.
 
 ??Press release - 8<sup>th</sup> March 2013??
+
+
+
+{% include comments.html %}

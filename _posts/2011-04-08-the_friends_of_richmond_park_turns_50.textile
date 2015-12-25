@@ -2,6 +2,7 @@
 layout: post
 title: "The Friends of Richmond Park Turns 50"
 permalink: /archives/2011/04/the_friends_of_richmond_park_turns_50.html
+commentfile: 2011-04-08-the_friends_of_richmond_park_turns_50
 category: news
 date: 2011-04-08 08:28:41
 excerpt: |
@@ -63,3 +64,7 @@ The Friends of Richmond Park now has nearly 2,000 members and If you would like 
 </div>
 
 <cite>-- written by the Friends' historian Mary Pollard</cite>
+
+
+
+{% include comments.html %}

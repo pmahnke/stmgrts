@@ -2,6 +2,7 @@
 layout: post
 title: "Tesco Appeals Advertising Signage Decision"
 permalink: /archives/2006/03/tesco_appeals_a.html
+commentfile: 2006-03-16-tesco_appeals_a
 category: news
 date: 2006-03-16 13:35:25
 excerpt: |
@@ -37,3 +38,6 @@ h4. Links
 * _Previous Articles_
 ** "Tesco Refused Permission for Advertising Signage -- Again":/archives/2006/01/tesco_refused_p.html
 ** "Tesco Seeks Permission for New Advertising Signage -- Again":/archives/2005/12/tesco_again_see.html
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Celebration of Flanders and Swann"
 permalink: /archives/2011/07/event_reminder_celebration_of_flanders_and_swann.html
+commentfile: 2011-07-14-event_reminder_celebration_of_flanders_and_swann
 category: around_town
 date: 2011-07-14 07:46:05
 
@@ -23,3 +24,7 @@ h4. Details
 
 * Tickets  &pound;15.00
 * BOX OFFICE: 0845 230 0372 or email: "Lesley.alabaf@downs-syndrome.org.uk":mailto:Lesley.alabaf@downs-syndrome.org.uk
+
+
+
+{% include comments.html %}

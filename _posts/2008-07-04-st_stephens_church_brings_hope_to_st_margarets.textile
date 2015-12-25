@@ -2,6 +2,7 @@
 layout: post
 title: "St Stephen's Church brings Hope to St Margarets "
 permalink: /archives/2008/07/st_stephens_church_brings_hope_to_st_margarets.html
+commentfile: 2008-07-04-st_stephens_church_brings_hope_to_st_margarets
 category: news
 date: 2008-07-04 08:08:47
 
@@ -19,3 +20,9 @@ And why? St Stephen's wants to be a blessing to the community and to demonstrate
 No strings, no nonsense, display of love to all!
 
 <cite>-- from a St Stephen's press release</cite>
+
+
+
+
+
+{% include comments.html %}

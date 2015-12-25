@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; 60s Night - 21 March 2014"
 permalink: /archives/2014/03/event_reminder_60s_night_21_march_2014.html
+commentfile: 2014-03-06-event_reminder_60s_night_21_march_2014
 category: around_town
 date: 2014-03-06 20:02:40
 excerpt: |
@@ -31,3 +32,7 @@ h4. More Information
 * &pound;20 includes light supper. Cash bar
 
 _All proceeds go to The Royal Marsden Cancer Hospital (Reg charity 1095197)_
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; The Good Wine Shop Tasting"
 permalink: /archives/2006/11/event_reminder_16.html
+commentfile: 2006-11-13-event_reminder_16
 category: around_town
 date: 2006-11-13 21:16:45
 excerpt: |
@@ -22,3 +23,8 @@ Owner Mark Wrigglesworth will be on hand to help guests decipher their Rioja fro
 bq. "We believe wine is all about enjoyment. There can be a certain snobbery surrounding wines but at The Good Wine Shop we aim to break down those barriers, offering the finest vintages from the world's best small producers, which wouldn't normally be found on the high street."
 
 Special pre-Christmas offers will be available at the event. Tickets can be purchased from The Good Wine Shop in advance at a cost of &pound;7.50 per person or &pound;10.00 on the door.
+
+
+
+
+{% include comments.html %}

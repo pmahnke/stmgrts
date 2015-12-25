@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans Gallery Exhibition- Richmond's Royal Connections"
 permalink: /archives/2012/05/orleans_gallery_exhibition_richmonds_royal_connect.html
+commentfile: 2012-05-11-orleans_gallery_exhibition_richmonds_royal_connect
 category: around_town
 date: 2012-05-11 08:02:25
 
@@ -27,3 +28,6 @@ h4. More Information
 * Tel: 020 8831 6000
 * Email: "artsinfo@richmond.gov.uk":mailto:artsinfo@richmond.gov.uk
 * Website: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
+
+
+{% include comments.html %}

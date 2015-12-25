@@ -2,6 +2,7 @@
 layout: post
 title: "Summer 2015 Holiday Activities at Orleans House Gallery!"
 permalink: /archives/2015/07/summer_2015_holiday_activities_at_orleans_house_ga.html
+commentfile: 2015-07-02-summer_2015_holiday_activities_at_orleans_house_ga
 category: around_town
 date: 2015-07-02 22:39:29
 excerpt: |
@@ -55,3 +56,8 @@ h4. More Information
 Please only book your child into workshops of the appropriate age range to ensure a positive experience for all children.
 
 "See Timetable on our website":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/art_clubs_and_holiday_activities/holiday_activities.htm
+
+
+
+
+{% include comments.html %}

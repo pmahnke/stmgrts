@@ -2,6 +2,7 @@
 layout: post
 title: "Richmond upon Thames Literature Festival 2010 Announced"
 permalink: /archives/2010/10/richmond_upon_thames_literature_festival_2010_anno.html
+commentfile: 2010-10-21-richmond_upon_thames_literature_festival_2010_anno
 category: news
 date: 2010-10-21 20:30:39
 excerpt: |
@@ -28,3 +29,9 @@ For the first time there will be a Fringe programme featuring performances from 
 The festival, which is run by Richmond Council's Arts Services in partnership with artsrichmond, will also be launching a new website featuring exclusive offers, updates and information on education activities for children and young people. See "www.richmondliterature.com":http://www.richmondliterature.com for more details.
 
 <cite>-- from "Richmond Council Website":http://www.richmond.gov.uk/richmond_upon_thames_literature_festival_-_line-up_announced?utm_source=twitterfeed&utm_medium=twitter</cite>
+
+
+
+
+
+{% include comments.html %}

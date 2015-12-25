@@ -2,6 +2,7 @@
 layout: post
 title: "The Brentford Griffin and Other Mysteries"
 permalink: /archives/2009/05/the_brentford_griffin_and_other_mysteries.html
+commentfile: 2009-05-07-the_brentford_griffin_and_other_mysteries
 category: around_town
 date: 2009-05-07 22:43:33
 excerpt: |
@@ -85,3 +86,7 @@ To enjoy more of the outlandish mysteries of Brentford you should read Robert Ra
 
 
 <cite>-- from Martyn Day</cite> 
+
+
+
+{% include comments.html %}

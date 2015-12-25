@@ -2,6 +2,7 @@
 layout: post
 title: "Unanimous Approval for Turner's House Restoration Plans"
 permalink: /archives/2015/04/unanimous_approval_for_turners_house_restoration_p.html
+commentfile: 2015-04-07-unanimous_approval_for_turners_house_restoration_p
 category: news
 date: 2015-04-07 21:20:43
 
@@ -23,3 +24,6 @@ Now open to the public only one afternoon per month (for seven months of the yea
 To support the restoration of Turner's House visit "www.turnerintwickenham.org.uk":http://www.turnerintwickenham.org.uk
 
 <cite>-- from a Turner's House Trust press release - 7 April 2015</cite>
+
+
+{% include comments.html %}

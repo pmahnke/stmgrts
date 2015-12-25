@@ -2,6 +2,7 @@
 layout: post
 title: "Upcoming Yoga Fitness Classes - Autumn 2014"
 permalink: /archives/2014/10/upcoming_yoga_fitness_classes_autumn_2014.html
+commentfile: 2014-10-09-upcoming_yoga_fitness_classes_autumn_2014
 category: around_town
 date: 2014-10-09 22:03:40
 
@@ -37,3 +38,7 @@ For further information or to book, contact Sammie:
 * Or visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
 
 _Sammie Mason is a qualified British Wheel of Yoga Teacher and offers Beginners Yoga Courses, Weekly Dynamic Yoga Classes and bespoke private one to one sessions, all in a calming and restorative environment._
+
+
+
+{% include comments.html %}

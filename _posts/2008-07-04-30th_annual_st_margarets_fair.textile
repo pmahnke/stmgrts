@@ -2,6 +2,7 @@
 layout: post
 title: "30th Annual St Margarets Fair"
 permalink: /archives/2008/07/30th_annual_st_margarets_fair.html
+commentfile: 2008-07-04-30th_annual_st_margarets_fair
 category: around_town
 date: 2008-07-04 08:27:30
 excerpt: |
@@ -59,3 +60,6 @@ h4. Saturday 12th July 2008
 |1800 - 1830|The Retrobates – a young band with a great variety of covers, from the 50's till the present.|(music stage)|
 |1830 - 1845|Charity Auction time |(music stage)|
 |1900 - 1930|Nark Drool & The Shudders - ramming back the ’rama lama ding dong!’ into toe-tapping rock ‘n’ roll classics,|(music stage)|
+
+
+{% include comments.html %}

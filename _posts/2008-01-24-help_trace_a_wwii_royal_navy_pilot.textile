@@ -2,6 +2,7 @@
 layout: post
 title: "Help Trace a WWII Royal Navy Pilot?"
 permalink: /archives/2008/01/help_trace_a_wwii_royal_navy_pilot.html
+commentfile: 2008-01-24-help_trace_a_wwii_royal_navy_pilot
 category: news
 date: 2008-01-24 20:56:30
 
@@ -26,3 +27,8 @@ Co. Sligo
 Ireland
 
 "Visit the War Room Website":http://www.skynet.ie/~dan/war/crashes.htm
+
+
+
+
+{% include comments.html %}

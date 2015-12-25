@@ -2,6 +2,7 @@
 layout: post
 title: "Orleans House Gallery announces Journeys"
 permalink: /archives/2011/02/orleans_house_gallery_announces_journeys.html
+commentfile: 2011-02-03-orleans_house_gallery_announces_journeys
 category: around_town
 date: 2011-02-03 20:03:52
 excerpt: |
@@ -28,3 +29,7 @@ Stories of the World: London is part of London 2012 Cultural Olympiad programme 
 In London, the project is led by Renaissance London and will see 1,000 young people, aged 14 - 24, involved.  Inspired by the museum collections, young people will create artworks, films, performances, music, poetry, fashion shows, podcasts - and culminate in four major exhibitions in 2012 at the lead museums of Museum of London, Geffrye Museum, Horniman Museum and London Transport Museum. Stories of the World: London will reach a million people from 2009 to 2012.
 
 The Mayor of London, Boris Johnson said: "Key to the success of 2012, in cultural as well as sporting terms, will be inspiring young people - to get involved, to aim high and to do the best they can. London has an incredibly rich variety of museums, from the world-renowned to smaller, local treasures. Stories of the World will put young people in the driving seat giving them a chance to curate exhibitions and collections - bringing a fresh perspective to the telling of our city's and our nation's history."
+
+
+
+{% include comments.html %}

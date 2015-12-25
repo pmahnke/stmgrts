@@ -2,6 +2,7 @@
 layout: post
 title: "Do You Like Singing? Join the Richmond Community Choir"
 permalink: /archives/2013/01/do_you_like_singing_join_the_richmond_community_ch.html
+commentfile: 2013-01-10-do_you_like_singing_join_the_richmond_community_ch
 category: around_town
 date: 2013-01-10 21:27:13
 excerpt: |
@@ -31,3 +32,6 @@ There is a termly subscription donation of &pound;35.00, including materials.
 New members are very welcome at any rehearsal, do come along without obligation, or for further information contact  us via email at "richmondchoral@gmail.com":mailto:richmondchoral@gmail.com.
 
 _Join Richmond Community Choir in St Margarets_
+
+
+{% include comments.html %}

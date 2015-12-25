@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas in St Margarets 2010"
 permalink: /archives/2010/10/christmas_in_st_margarets_2010.html
+commentfile: 2010-10-14-christmas_in_st_margarets_2010
 category: around_town
 date: 2010-10-14 22:37:43
 
@@ -26,3 +27,8 @@ Please join us for a day of family fun and entertainment:
 * Mince Pies & Mulled Wine
 
 For more information, please visit "www.mystmargarets.com":http://www.mystmargarets.com/2010/10/christmas_in_st_margarets_2010.html
+
+
+
+
+{% include comments.html %}

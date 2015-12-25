@@ -2,6 +2,7 @@
 layout: post
 title: "Recycling Really <del>Can</del><ins>Could</ins> Help the Community<ins>?</ins>"
 permalink: /archives/2005/06/recycling_reall_1.html
+commentfile: 2005-06-23-recycling_reall_1
 category: editorial
 date: 2005-06-23 21:37:06
 
@@ -25,3 +26,6 @@ p. In our "poll":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=recycle&action=
 <a href="http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=recycle&action=results"><img src="//stmgrts.org.uk/assets/images/2005/recycling_poll_results_20050623-thumb.png" width="200" height="200" alt="Poll Results, 92% in favour" class="img_right"/></a>
 
 p. We recommend that you email one of our local councillors, Anne Hambidge at <a href="mailto:cllr.ahambidge@richmond.gov.uk?Subject=St Margarets' Barron's Road Recycling Site Adoption">cllr.ahambidge@richmond.gov.uk</a>, who is empathetic on this issue, to complain.
+
+
+{% include comments.html %}

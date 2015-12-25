@@ -2,6 +2,7 @@
 layout: post
 title: "Mr Sweeting - The Boy Curate of Nunnely"
 permalink: /archives/2013/11/mr_sweeting_the_boy_curate_of_nunnely.html
+commentfile: 2013-11-16-mr_sweeting_the_boy_curate_of_nunnely
 category: around_town
 date: 2013-11-16 12:07:20
 excerpt: |
@@ -69,3 +70,7 @@ The novel's popularity resulted in 'Shirley' becoming a woman's name. Before its
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

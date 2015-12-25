@@ -2,6 +2,7 @@
 layout: post
 title: "Walk into the Sunset with the Richmond Ramblers"
 permalink: /archives/2013/06/walk_into_the_sunset_with_the_richmond_ramblers.html
+commentfile: 2013-06-27-walk_into_the_sunset_with_the_richmond_ramblers
 category: around_town
 date: 2013-06-27 21:55:42
 
@@ -31,3 +32,7 @@ h4. More information
 * For further information contact: Mavis White 020 8941 2053
 * Find Richmond Ramblers on Facebook
 * To find more Summer Evening Walks near you visit "www.ramblers.org.uk/walksfinder":http://www.ramblers.org.uk/walksfinder
+
+
+
+{% include comments.html %}

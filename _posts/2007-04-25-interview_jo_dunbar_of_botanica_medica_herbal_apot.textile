@@ -2,6 +2,7 @@
 layout: post
 title: "Interview&#58; Jo Dunbar of Botanica Medica Herbal Apothecary"
 permalink: /archives/2007/04/interview_jo_dunbar_of_botanica_medica_herbal_apot.html
+commentfile: 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot
 category: around_town
 date: 2007-04-25 08:34:59
 excerpt: |
@@ -54,3 +55,7 @@ bq. Almost anything. The area we are most popular is either where people don't w
 *How have doctors responded to you?*
 
 bq. I suppose there is still the odd old fashioned antagonistic attitude, but actually doctors are becoming more and more aware of how complementary and orthodox medicine can work in an integrated manner with the patient's best interest always at heart. We even have some doctors on our patient list.
+
+
+
+{% include comments.html %}

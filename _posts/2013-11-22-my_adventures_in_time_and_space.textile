@@ -2,6 +2,7 @@
 layout: post
 title: "My Adventures in Time and Space"
 permalink: /archives/2013/11/my_adventures_in_time_and_space.html
+commentfile: 2013-11-22-my_adventures_in_time_and_space
 category: around_town
 date: 2013-11-22 21:36:43
 excerpt: |
@@ -94,3 +95,6 @@ h4. Clip from "Dr. Who and the Sea Devils" TX from 26/02/7
 
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

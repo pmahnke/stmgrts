@@ -2,6 +2,7 @@
 layout: post
 title: "Initial Responses to Pollution Damage of the River Crane"
 permalink: /archives/2011/11/initial_responses_to_pollution_damage_of_the_river.html
+commentfile: 2011-11-24-initial_responses_to_pollution_damage_of_the_river
 category: news
 date: 2011-11-24 21:03:29
 excerpt: |
@@ -25,3 +26,7 @@ FORCE members showed their concern last week at the charity's AGM when the discu
 Young children at Archdeacon Cambridge's School in Twickenham have also responded to the incident. Archdeacon Cambridge's School is a Green Flag Eco-school and many of the children walk to school along the river in Crane Park. Class 3GM were upset about the pollution and spent a lesson discussing the impact and producing a visual record of what they had seen. Their pictures show that they understand the profound effect that the pollution incident has had on the river and all the wildlife in Crane Park and Kneller Gardens. One of the children wrote "I am very sad because the River Crane has been polluted and every fish has died. I want to stop polluting forever."
 
 <cite>-- from a FORCE Press Release - 14<sup>th</sup> November 2011</cite>
+
+
+
+{% include comments.html %}

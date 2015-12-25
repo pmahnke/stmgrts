@@ -2,6 +2,7 @@
 layout: post
 title: "Dad Day at Old Town Hall"
 permalink: /archives/2015/09/dad_day_at_old_town_hall.html
+commentfile: 2015-09-03-dad_day_at_old_town_hall
 category: around_town
 date: 2015-09-03 22:23:50
 excerpt: |
@@ -33,3 +34,10 @@ h4. More Information
 * Whittaker Ellis Suite at Old Town Hall, Whittaker Avenue, Richmond TW9 1TP
 &pound;6 for first child, &pound;3 for additional siblings over 6 months.
 * Check out the Richmond Council Arts Service website for more information: "www.richmond.gov.uk":http://www.richmond.gov.uk /arts
+
+
+
+
+
+
+{% include comments.html %}

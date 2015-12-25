@@ -2,6 +2,7 @@
 layout: post
 title: "Who the Heck is Haliburton?"
 permalink: /archives/2008/08/who_the_heck_is_haliburton.html
+commentfile: 2008-08-06-who_the_heck_is_haliburton
 category: around_town
 date: 2008-08-06 15:15:25
 excerpt: |
@@ -35,3 +36,7 @@ In 1863 Haliburton took up the famous Banting Diet, the high protein forerunner 
 Haliburton is buried next door to another famous Canadian, the explorer George Vancouver. Unfortunately they are about 2 miles out. Vancouver is actually buried in St Peter's churchyard, Petersham. As Sam Slick would have had it  -- 'they are barking up the wrong tree!'</em>
 
 <cite>-- Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Five Days in December"
 permalink: /archives/2009/02/five_days_in_december.html
+commentfile: 2009-02-12-five_days_in_december
 category: around_town
 date: 2009-02-12 22:15:24
 excerpt: |
@@ -48,3 +49,7 @@ In 2002 Tim Williamson, policy officer of the National Society for Clean Air in 
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

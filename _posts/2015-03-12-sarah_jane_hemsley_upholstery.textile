@@ -2,6 +2,7 @@
 layout: post
 title: "Sarah Jane Hemsley Upholstery"
 permalink: /archives/2015/03/sarah_jane_hemsley_upholstery.html
+commentfile: 2015-03-12-sarah_jane_hemsley_upholstery
 category: around_town
 date: 2015-03-12 22:23:32
 excerpt: |
@@ -22,3 +23,9 @@ Certified by the Association of Master Upholsterers my training is in traditiona
 To view previous work and furniture for sale, including the range of BUTE + Vintage cushions, please see "my website.":http://www.sjhupholstery.com
 
 _This summer I'll have a stall at Kew Fete on 21<sup>st</sup> June 2015, be open to the public as part of ARThouse Open studios on 27-28<sup>th</sup> June 2015 and 4<sup>th</sup> July 2015 and have a stall at St Margarets Fair on 11<sup>th</sup> July 2015._
+
+
+
+
+
+{% include comments.html %}

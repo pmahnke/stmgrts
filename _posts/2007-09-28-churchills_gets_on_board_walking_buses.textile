@@ -2,6 +2,7 @@
 layout: post
 title: "Churchills Gets on Board Walking Buses"
 permalink: /archives/2007/09/churchills_gets_on_board_walking_buses.html
+commentfile: 2007-09-28-churchills_gets_on_board_walking_buses
 category: news
 date: 2007-09-28 09:13:05
 
@@ -34,3 +35,7 @@ Further information for parents interested in using the Walking Bus services:
 
 
 ??from a press release??
+
+
+
+{% include comments.html %}

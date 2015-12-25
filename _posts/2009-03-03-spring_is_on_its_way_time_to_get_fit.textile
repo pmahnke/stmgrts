@@ -2,6 +2,7 @@
 layout: post
 title: "Spring is on its way! Time to get fit!"
 permalink: /archives/2009/03/spring_is_on_its_way_time_to_get_fit.html
+commentfile: 2009-03-03-spring_is_on_its_way_time_to_get_fit
 category: around_town
 date: 2009-03-03 22:23:29
 
@@ -29,3 +30,14 @@ If you have any questions about exercise then email Georgie at "georgie@run.uk.n
 
 
 Georgie runs run, her personal training business in St. Margarets. Bootcamps and early bird sessions will start in April. Visit "www.run.uk.net":http://www.run.uk.net/ for more information.
+
+
+
+
+
+
+
+
+
+
+{% include comments.html %}

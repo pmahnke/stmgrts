@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Art Picnic - Island Barn Sailing Club - 24 July 2011"
 permalink: /archives/2011/07/event_reminder_art_picnic_island_barn_sailing_club.html
+commentfile: 2011-07-14-event_reminder_art_picnic_island_barn_sailing_club
 category: around_town
 date: 2011-07-14 07:59:37
 
@@ -37,3 +38,6 @@ h4. Details
 * Tickets can be used at any art picnic, but places need to be booked in advance
 * Please call the office on 020 8891 5455 or e-mail: "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk to book your place.
 * Contact on the day :  Emily Burton 07906 795998
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Playcentres wins top Playground Award"
 permalink: /archives/2007/10/marble_hill_playcentres_wins_top_playground_award.html
+commentfile: 2007-10-10-marble_hill_playcentres_wins_top_playground_award
 category: news
 date: 2007-10-10 21:44:13
 
@@ -16,3 +17,6 @@ The AP provides a wide range of play opportunities for children and young people
 The Adventure Playground has had a busy summer season despite the wet weather. Highlights have included the BBC filming a live link for the BBC news on National Playday and Nickleodoen filming their new trailer. Parents also attended a fabulous Queen Tribute night to raise funds.
 
 Marble Hill Playcentres took over the running of the Adventure Playground and One O'Clock Club in 2001. MHP is a registered charity and is run by a voluntary management committee.
+
+
+{% include comments.html %}

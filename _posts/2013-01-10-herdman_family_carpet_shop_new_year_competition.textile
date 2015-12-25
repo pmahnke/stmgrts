@@ -2,6 +2,7 @@
 layout: post
 title: "Herdman Family Carpet Shop New Year Competition"
 permalink: /archives/2013/01/herdman_family_carpet_shop_new_year_competition.html
+commentfile: 2013-01-10-herdman_family_carpet_shop_new_year_competition
 category: around_town
 date: 2013-01-10 20:59:01
 excerpt: |
@@ -37,3 +38,9 @@ Email your answer to: "competition@herdmancarpets.com":mailto:competition@herdma
 Closing date: 28<sup>th</sup> February 2013
 
 _The Herdman Family Carpet Shop - the small family business that always puts the customer first_
+
+
+
+
+
+{% include comments.html %}

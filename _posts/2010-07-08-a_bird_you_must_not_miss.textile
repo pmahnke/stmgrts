@@ -2,6 +2,7 @@
 layout: post
 title: "A Bird You Must Not Miss"
 permalink: /archives/2010/07/a_bird_you_must_not_miss.html
+commentfile: 2010-07-08-a_bird_you_must_not_miss
 category: around_town
 date: 2010-07-08 14:52:21
 excerpt: |
@@ -49,3 +50,6 @@ With their annual fund raising 'Appeals' Magpie's approach was honest, direct an
 bq. 8 for a wish, 9 for a kiss, 10 for a bird you must not ... Ma-a-a-a-ag-pie! Ma-a-a-a-ag-pie!
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

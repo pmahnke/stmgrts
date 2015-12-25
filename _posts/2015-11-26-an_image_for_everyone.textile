@@ -2,6 +2,7 @@
 layout: post
 title: "An Image for Everyone"
 permalink: /archives/2015/11/an_image_for_everyone.html
+commentfile: 2015-11-26-an_image_for_everyone
 category: around_town
 date: 2015-11-26 19:11:33
 excerpt: |
@@ -57,3 +58,10 @@ Although specifically designed for the anti-nuclear movement Holtom's logo was n
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+{% include comments.html %}

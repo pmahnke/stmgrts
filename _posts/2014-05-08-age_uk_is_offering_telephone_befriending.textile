@@ -2,6 +2,7 @@
 layout: post
 title: "Age UK is Offering Telephone Befriending"
 permalink: /archives/2014/05/age_uk_is_offering_telephone_befriending.html
+commentfile: 2014-05-08-age_uk_is_offering_telephone_befriending
 category: around_town
 date: 2014-05-08 21:42:14
 
@@ -18,3 +19,9 @@ If you would like to volunteer as a Telephone Befriender, please get in touch.
 Find out about our services at "www.ageukrichmond.org.uk":http://www.ageukrichmond.org.uk
 
 fn1. phone lines are open from 10.00am-4.00pm, Monday-Friday.
+
+
+
+
+
+{% include comments.html %}

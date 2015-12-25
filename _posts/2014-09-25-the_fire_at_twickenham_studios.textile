@@ -2,6 +2,7 @@
 layout: post
 title: "The Fire at Twickenham Studios"
 permalink: /archives/2014/09/the_fire_at_twickenham_studios.html
+commentfile: 2014-09-25-the_fire_at_twickenham_studios
 category: around_town
 date: 2014-09-25 10:59:31
 excerpt: |
@@ -59,3 +60,11 @@ Here is a 9.5mm clip from "She Shall Have Music" made at Twickenham Studios afte
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+
+
+
+{% include comments.html %}

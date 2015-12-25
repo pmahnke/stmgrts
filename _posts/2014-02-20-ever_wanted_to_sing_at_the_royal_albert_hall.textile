@@ -2,6 +2,7 @@
 layout: post
 title: "Ever Wanted to Sing at the Royal Albert Hall?"
 permalink: /archives/2014/02/ever_wanted_to_sing_at_the_royal_albert_hall.html
+commentfile: 2014-02-20-ever_wanted_to_sing_at_the_royal_albert_hall
 category: around_town
 date: 2014-02-20 21:03:12
 excerpt: |
@@ -32,3 +33,7 @@ _There is an audition during the first rehearsal and the cost is &pound;20._
 Copies of the vocal score (Ricordi) will be available for hire if required.
 
 If you are interested please contact Chris Britton at "chris.britton@blueyonder.co.uk":mailto:chris.britton@blueyonder.co.uk for further details.
+
+
+
+{% include comments.html %}

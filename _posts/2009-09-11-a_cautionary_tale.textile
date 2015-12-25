@@ -2,6 +2,7 @@
 layout: post
 title: "A Cautionary Tale"
 permalink: /archives/2009/09/a_cautionary_tale.html
+commentfile: 2009-09-11-a_cautionary_tale
 category: around_town
 date: 2009-09-11 10:13:15
 
@@ -44,3 +45,7 @@ The confidence trick outlined above took place at the beginning of August and in
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

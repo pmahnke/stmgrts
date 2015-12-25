@@ -2,6 +2,7 @@
 layout: post
 title: "Rylance, Rugby and Revelations"
 permalink: /archives/2015/03/rylance_rugby_and_revelations.html
+commentfile: 2015-03-05-rylance_rugby_and_revelations
 category: around_town
 date: 2015-03-05 21:58:39
 excerpt: |
@@ -74,3 +75,13 @@ bq. "Even to the most biased eye, it is obvious that the <em>'I Ching'</em> repr
 <cite>-- from Martyn Day</cite>
 
 <em>Credit: The photograph of the Yarrow sticks Achillea millefolium is by Charlie Huang</em>
+
+
+
+
+
+
+
+
+
+{% include comments.html %}

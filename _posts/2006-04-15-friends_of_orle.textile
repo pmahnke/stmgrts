@@ -2,6 +2,7 @@
 layout: post
 title: "Friends of Orleans Infants School (FOOI)"
 permalink: /archives/2006/04/friends_of_orle.html
+commentfile: 2006-04-15-friends_of_orle
 category: around_town
 date: 2006-04-15 10:14:49
 excerpt: |
@@ -21,3 +22,6 @@ FOOI has close links with the local traders association who have helped FOOI man
 This year they are hoping to raise a record sum towards refurbishing the playground.  They always need extra volunteers, more money and raffle prizes -- you can contact FOOI through the school office at:  Orleans Infant School, Hartington Road, Twickenham, TW1 3EN.
 
 NOTE: _They are also planning a "St Georges Day Celebration":/event/Fair/200604150407 at the Turk's Head on the 23<sup>rd</sup> April._
+
+
+{% include comments.html %}

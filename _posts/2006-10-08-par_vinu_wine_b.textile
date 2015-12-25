@@ -2,6 +2,7 @@
 layout: post
 title: "Par Vinu Wine Bar License"
 permalink: /archives/2006/10/par_vinu_wine_b.html
+commentfile: 2006-10-08-par_vinu_wine_b
 category: news
 date: 2006-10-08 21:12:53
 
@@ -20,3 +21,6 @@ Opening Hours applied for are:
 
 * "Licensing Committee Meeting Details":http://www.richmond.gov.uk/home/council_government_and_democracy/democratic_processes_and_events/calendar_of_meetings.htm?mgl=ieListDocuments.asp&CId=232&MId=1649
 * "Council Agenda Information":http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=11826
+
+
+{% include comments.html %}

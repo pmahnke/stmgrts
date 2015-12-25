@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Hamlet"
 permalink: /archives/2007/02/event_reminder_25.html
+commentfile: 2007-02-25-event_reminder_25
 category: around_town
 date: 2007-02-25 11:21:57
 
@@ -22,3 +23,6 @@ So, is Hamlet mad, or putting it on? Does he really lack willpower, or is he out
 The show runs from March 10<sup>th</sup> to 17<sup>th</sup> inclusive. Performances start on at 7.45, with matinee performances at 4.00pm on Sunday March 11<sup>th</sup> and 3.00pm on Saturday 17<sup>th</sup>. There is no performance on Wednesday 14<sup>th</sup>.
 
 Ticket prices are  £7 for the first three performances, and £8 thereafter. Seats can be booked via the telephone box office: 020 8744 0547. Credit card bookings are now accepted (MasterCard and Visa only).
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Christmas Rubbish and Recycling Collections 2012"
 permalink: /archives/2012/12/christmas_rubbish_and_recycling_collections_2012.html
+commentfile: 2012-12-21-christmas_rubbish_and_recycling_collections_2012
 category: news
 date: 2012-12-21 17:14:27
 excerpt: |
@@ -28,3 +29,9 @@ Rubbish and recycling collection days will change due to the Christmas and New Y
 
 
 * See the "full list of waste and recycling collection times":http://www.richmond.gov.uk/christmas_dates_12_13.pdf (including garden, clinical and bulky waste items)
+
+
+
+
+
+{% include comments.html %}

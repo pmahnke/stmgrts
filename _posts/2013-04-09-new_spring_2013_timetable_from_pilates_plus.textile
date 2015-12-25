@@ -2,6 +2,7 @@
 layout: post
 title: "New Spring 2013 Timetable from Pilates Plus"
 permalink: /archives/2013/04/new_spring_2013_timetable_from_pilates_plus.html
+commentfile: 2013-04-09-new_spring_2013_timetable_from_pilates_plus
 category: around_town
 date: 2013-04-09 20:55:37
 excerpt: |
@@ -26,3 +27,8 @@ Get in touch today
 
 * www.pilates-plus.co.uk
 * 0208 892 3403
+
+
+
+
+{% include comments.html %}

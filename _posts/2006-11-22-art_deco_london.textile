@@ -2,6 +2,7 @@
 layout: post
 title: "Art Deco London - Local Book, Local Bargain"
 permalink: /archives/2006/11/art_deco_london.html
+commentfile: 2006-11-22-art_deco_london
 category: around_town
 date: 2006-11-22 08:26:26
 excerpt: |
@@ -26,3 +27,9 @@ The book would make an excellent Christmas present for anyone interested in arch
 * Order from: Park House Press, PO Box 157, Twickenham, TW1 2WQ
 * Even cheaper, arrange to collect your copy  0208 892 5051
 * Learn more at "www.artdecolondon.com":http://www.artdecolondon.com/
+
+
+
+
+
+{% include comments.html %}

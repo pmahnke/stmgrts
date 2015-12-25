@@ -2,6 +2,7 @@
 layout: post
 title: "ARThouse Pop-up in Old Lyric Palace Cinema - until 10 July 2015"
 permalink: /archives/2015/06/arthouse_popup_in_old_lyric_palace_cinema_until_10.html
+commentfile: 2015-06-25-arthouse_popup_in_old_lyric_palace_cinema_until_10
 category: around_town
 date: 2015-06-25 19:13:46
 excerpt: |
@@ -29,3 +30,10 @@ This is the borough's 20<sup>th</sup> ARThouse Festival (June 26-28 and July 3-5
 Richmond Council Cabinet Member for Culture, Cllr Meena Bond, said:
 
 bq. "ARThouse is a perfect chance for everyone to enjoy experiencing Richmond in the summer, exploring new neighbourhoods and creative communities. Art and culture is held close to the hearts of Richmond residents which is why this festival is always tremendously successful. Richmond's council run Arts Service should feel proud that its festival is now in its second decade, flourishing and still going strong!"
+
+
+
+
+
+
+{% include comments.html %}

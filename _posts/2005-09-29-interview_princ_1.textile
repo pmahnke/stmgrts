@@ -2,6 +2,7 @@
 layout: post
 title: "Interview &#58; Principals of the Proposed Wine Bar"
 permalink: /archives/2005/09/interview_princ_1.html
+commentfile: 2005-09-29-interview_princ_1
 category: news
 date: 2005-09-29 16:58:03
 
@@ -73,3 +74,6 @@ The web team hope that we have asked all the questions posted on the site and ra
 
 Should you have any further questions we would be pleased to contact Grapespot for the answers, or you can contact them directly through their site ("www.grapespot.com":http://www.grapespot.com/) or email them at "drink@grapespot.com":mailto:drink@grapespot.com.
 </em>
+
+
+{% include comments.html %}

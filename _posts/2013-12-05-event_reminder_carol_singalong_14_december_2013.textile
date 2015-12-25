@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Carol sing-a-long - 14 December 2013"
 permalink: /archives/2013/12/event_reminder_carol_singalong_14_december_2013.html
+commentfile: 2013-12-05-event_reminder_carol_singalong_14_december_2013
 category: around_town
 date: 2013-12-05 18:08:58
 
@@ -18,3 +19,7 @@ h4. More Information
 
 * Meet at 1.00pm around the tree.
 * For further information contact Mary Regan: "maryregan@blueyonder.co.uk":mailto:maryregan@blueyonder.co.uk
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Rising Sun"
 permalink: /archives/2008/08/the_rising_sun.html
+commentfile: 2008-08-22-the_rising_sun
 category: around_town
 date: 2008-08-22 11:14:58
 
@@ -27,3 +28,8 @@ We are taking bookings for Christmas, please contact us through our new website.
 "www.risingsuntwickenham.co.uk":http://www.risingsuntwickenham.co.uk
 
 <cite>-- from the Rising Sun</cite>
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Sir Chaloner Ogle and the Pirates"
 permalink: /archives/2010/10/sir_chaloner_ogle_and_the_pirates.html
+commentfile: 2010-10-14-sir_chaloner_ogle_and_the_pirates
 category: 
 date: 2010-10-14 23:19:48
 excerpt: |
@@ -97,3 +98,7 @@ I come, as the lightning comes red from above,
 O'er the race that I loathe, to the battle I love.
 
 <p><cite>-- from Martyn Day</cite></p>
+
+
+
+{% include comments.html %}

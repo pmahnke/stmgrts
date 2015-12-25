@@ -2,6 +2,7 @@
 layout: post
 title: "Local Author Publishes Children's Book, 'The Kewtees'"
 permalink: /archives/2012/12/local_author_publishes_childrens_book_the_kewtees.html
+commentfile: 2012-12-12-local_author_publishes_childrens_book_the_kewtees
 category: around_town
 date: 2012-12-12 20:35:40
 excerpt: |
@@ -22,3 +23,9 @@ Colin Hines was taken to Kew as a child and in turn he and his wife Ann took the
 "The Kewtees":http://www.kewtees.co.uk costs just &pound;7.99. It has 40 pages with 20 beautifully detailed colour illustrations by John Hilder.
 
 <em>Colin Hines is also author of "Art Deco London":http://www.stmgrts.org.uk/archives/2006/11/art_deco_london.html</em>
+
+
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Priority Booking Period for Marble Hill Concerts"
 permalink: /archives/2007/03/priority_booking_period_for_marble_hill_concerts.html
+commentfile: 2007-03-23-priority_booking_period_for_marble_hill_concerts
 category: around_town
 date: 2007-03-23 16:40:07
 
@@ -32,3 +33,9 @@ Here is this year's line up:
 <br /></li>
 
 </ul>
+
+
+
+
+
+{% include comments.html %}

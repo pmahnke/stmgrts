@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Parking Review - Second Stage"
 permalink: /archives/2015/06/st_margarets_parking_review_second_stage.html
+commentfile: 2015-06-11-st_margarets_parking_review_second_stage
 category: news
 date: 2015-06-11 18:08:01
 excerpt: |
@@ -27,3 +28,7 @@ Following an initial consultation, the Council is now undertaking a 'second stag
 If you have any comments or queries, please feel free to call the Customer Service Centre on 0208 891 1411.
 
 _The consultations run until 5 July 2015._
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Picturing Science Exhibition"
 permalink: /archives/2010/11/event_reminder_picturing_science_exhibition.html
+commentfile: 2010-11-25-event_reminder_picturing_science_exhibition
 category: around_town
 date: 2010-11-25 21:18:10
 excerpt: |
@@ -33,3 +34,7 @@ Curator Mark De Novellis stated:
 bq. "Although science is seemingly the logical, rational, ordered antithesis of artistic creativity, artists and scientists still share a common drive to innovate, explore, dissect and reveal. They have a unified love and awe for the world around and within them.  Exhibiting artists draw from a wide variety of scientific disciplines from botany, astronomy to astrophysics to create an accessible, compelling and though-provoking show that is not to be missed!"
 
 The exhibition runs until 26 February 2011 and admission to the Riverside Gallery is free.
+
+
+
+{% include comments.html %}

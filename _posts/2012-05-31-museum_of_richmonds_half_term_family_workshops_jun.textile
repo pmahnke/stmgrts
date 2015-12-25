@@ -2,6 +2,7 @@
 layout: post
 title: "Museum of Richmond's Half Term Family Workshops - June 2012"
 permalink: /archives/2012/05/museum_of_richmonds_half_term_family_workshops_jun.html
+commentfile: 2012-05-31-museum_of_richmonds_half_term_family_workshops_jun
 category: around_town
 date: 2012-05-31 22:24:02
 excerpt: |
@@ -71,3 +72,7 @@ h4. More Information
 * 11.00 - 15.00
 * &pound;3.00 donation welcomed
 * Drop in workshop.
+
+
+
+{% include comments.html %}

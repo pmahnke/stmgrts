@@ -2,6 +2,7 @@
 layout: post
 title: "Dr Who and Vincent Van Gogh"
 permalink: /archives/2010/06/dr_who_and_vincent_van_gogh.html
+commentfile: 2010-06-10-dr_who_and_vincent_van_gogh
 category: around_town
 date: 2010-06-10 09:37:49
 excerpt: |
@@ -106,3 +107,6 @@ One of the often repeated facts about van Gogh is he cut off one of his ears. In
 The other account is that he had a fierce argument with his friend Gauguin and threatened him with a knife. Afterwards, feeling guilty and remorseful, Vincent cut off one of his own ears in an act of repentance. I am sure that modern scholarship has settled this matter - but whatever the truth both accounts suggest that van Gogh was a very disturbed man.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

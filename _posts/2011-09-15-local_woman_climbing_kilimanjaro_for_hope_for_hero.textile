@@ -2,6 +2,7 @@
 layout: post
 title: "Local Woman Climbing Kilimanjaro for Hope for Heroes"
 permalink: /archives/2011/09/local_woman_climbing_kilimanjaro_for_hope_for_hero.html
+commentfile: 2011-09-15-local_woman_climbing_kilimanjaro_for_hope_for_hero
 category: around_town
 date: 2011-09-15 09:53:48
 excerpt: |
@@ -23,3 +24,9 @@ Phoebe Armstrong, a true St Margarets girl, who went to Orleans Infants, St Step
 So if you can, please help the _3 Blondes_ reach their goal.
 
 * "Visit their website and donate.":http://h4h3blondes.wordpress.com/our-ultimate-adventure-mt-kilimanjaro/
+
+
+
+
+
+{% include comments.html %}

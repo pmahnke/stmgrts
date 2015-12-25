@@ -2,6 +2,7 @@
 layout: post
 title: "RACC Business, Enterprise and Networking events"
 permalink: /archives/2011/05/racc_business_enterprise_and_networking_events.html
+commentfile: 2011-05-05-racc_business_enterprise_and_networking_events
 category: 
 date: 2011-05-05 17:18:32
 
@@ -35,3 +36,7 @@ h4. Indicative Programme for the event
 h4. More information
 
 * "www.racc.ac.uk/course/B00201-101102":http://www.racc.ac.uk/course/B00201-101102
+
+
+
+{% include comments.html %}

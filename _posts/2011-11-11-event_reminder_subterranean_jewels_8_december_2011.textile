@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Subterranean Jewels - 8 December 2011"
 permalink: /archives/2011/11/event_reminder_subterranean_jewels_8_december_2011.html
+commentfile: 2011-11-11-event_reminder_subterranean_jewels_8_december_2011
 category: around_town
 date: 2011-11-11 09:09:21
 excerpt: |
@@ -31,3 +32,7 @@ h4. More Information
 * Tickets are &pound;20.00 per person and include a glass of wine and nibbles
 * Tickets can be purchased by calling the Environment Trust on 020 8891 5455
 or please email us at "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk.
+
+
+
+{% include comments.html %}

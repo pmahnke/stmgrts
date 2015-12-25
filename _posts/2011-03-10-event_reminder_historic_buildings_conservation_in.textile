@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Historic Buildings -- Conservation in Action"
 permalink: /archives/2011/03/event_reminder_historic_buildings_conservation_in.html
+commentfile: 2011-03-10-event_reminder_historic_buildings_conservation_in
 category: around_town
 date: 2011-03-10 16:31:36
 excerpt: |
@@ -35,3 +36,9 @@ h4. Details
 * Talks: 7.30pm
 * Tickets Environment Trust Members &pound;15, students &pound;10, others &pound;20, including wine and canap&#233;s
 * Further information and tickets from "office@environmenttrust.co.uk":mailto:office@environmenttrust.co.uk or call 0208 891 5455
+
+
+
+
+
+{% include comments.html %}

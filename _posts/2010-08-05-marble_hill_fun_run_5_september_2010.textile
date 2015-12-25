@@ -2,6 +2,7 @@
 layout: post
 title: "Marble Hill Fun Run - 5 September 2010"
 permalink: /archives/2010/08/marble_hill_fun_run_5_september_2010.html
+commentfile: 2010-08-05-marble_hill_fun_run_5_september_2010
 category: around_town
 date: 2010-08-05 20:34:12
 
@@ -22,3 +23,6 @@ h4. Details
 * For futher information email: "CancerResearch_MarbleHillRun@live.co.uk":mailto:CancerResearch_MarbleHillRun@live.co.uk.
 * Entry: &pound;10 adults, &pound;5 children
 * Distance: 6K adults, 1K children
+
+
+{% include comments.html %}

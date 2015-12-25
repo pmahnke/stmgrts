@@ -2,6 +2,7 @@
 layout: post
 title: "Creativity is Key! Bucking Employment Trends"
 permalink: /archives/2011/10/_the_high_cost_of.html
+commentfile: 2011-10-03-_the_high_cost_of
 category: food
 date: 2011-10-03 11:38:19
 excerpt: |
@@ -46,3 +47,7 @@ For Sanity's Sake are looking to further improve their offering, as the local co
 To support For Sanity's Sake in achieving their goal for the Richmond Borough please click on their entry for the NatWest CommunityForce initiative anytime from 26<sup>th</sup> September - 5<sup>th</sup> October. Their entry is for London but it would be great to see a Richmond Borough Not-For-Profit win: "communityforce.natwest.com/project/5234":http://communityforce.natwest.com/project/5234
 
 -- _from a For Sanity's Sake press release_
+
+
+
+{% include comments.html %}

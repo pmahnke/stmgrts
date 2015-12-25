@@ -2,6 +2,7 @@
 layout: post
 title: "Update on stmgrts.org.uk"
 permalink: /archives/2005/07/update_on_stmgr.html
+commentfile: 2005-07-30-update_on_stmgr
 category: editorial
 date: 2005-07-30 13:52:40
 
@@ -40,3 +41,6 @@ _The Web Team_
 
 p.s. Don't forget to sign-up for the "newsletter":http://stmgrts.org.uk/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
                         
+
+
+{% include comments.html %}

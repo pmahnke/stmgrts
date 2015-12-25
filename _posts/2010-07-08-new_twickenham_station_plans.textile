@@ -2,6 +2,7 @@
 layout: post
 title: "New Twickenham Station Plans"
 permalink: /archives/2010/07/new_twickenham_station_plans.html
+commentfile: 2010-07-08-new_twickenham_station_plans
 category: news
 date: 2010-07-08 14:24:02
 
@@ -41,3 +42,7 @@ Solum intends to submit a planning application for the main development project 
 h4. Additional links
 
 * "Richmond Council impact assessment":http://www.richmond.gov.uk/home/environment/planning/environmental_impact_assessments.htm
+
+
+
+{% include comments.html %}

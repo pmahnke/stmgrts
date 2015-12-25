@@ -2,6 +2,7 @@
 layout: post
 title: "Ever Wanted to be Fitter?"
 permalink: /archives/2008/11/ever_wanted_to_be_fitter.html
+commentfile: 2008-11-05-ever_wanted_to_be_fitter
 category: around_town
 date: 2008-11-05 20:23:54
 
@@ -14,3 +15,8 @@ This is aimed at those who want to power walk or jog in a group both in rain & 
 Positive individuals are 6 times more likely to achieve their aspirations!
 
 <cite>-- from Martin McCabe, Senior Partner for AHM-Go!</cite>
+
+
+
+
+{% include comments.html %}

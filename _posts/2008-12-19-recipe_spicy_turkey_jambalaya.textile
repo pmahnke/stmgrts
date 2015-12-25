@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; Spicy Turkey Jambalaya"
 permalink: /archives/2008/12/recipe_spicy_turkey_jambalaya.html
+commentfile: 2008-12-19-recipe_spicy_turkey_jambalaya
 category: food
 date: 2008-12-19 14:05:21
 excerpt: |
@@ -53,3 +54,7 @@ h4. Instructions
 <em>See the original recipe on "St Margarets Kitchen website":http://stmargaretskitchen.blogspot.com/2008/12/turkey-jambalaya.html</em>
 
 </div>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Partners in Dance"
 permalink: /archives/2007/04/event_reminder_partners_in_dance.html
+commentfile: 2007-04-05-event_reminder_partners_in_dance
 category: around_town
 date: 2007-04-05 10:01:05
 excerpt: |
@@ -26,3 +27,9 @@ Richmond Council's "Partners in Dance":http://www.stmgrts.org.uk/directory/theat
 </ul>
 
 "Read their flyer":http://www.stmgrts.org.uk/images/6-Week-Dance-Courses-flyer.jpg
+
+
+
+
+
+{% include comments.html %}

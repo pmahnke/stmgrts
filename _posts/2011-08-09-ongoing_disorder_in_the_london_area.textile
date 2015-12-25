@@ -2,6 +2,7 @@
 layout: post
 title: "Ongoing Disorder in the London Area"
 permalink: /archives/2011/08/ongoing_disorder_in_the_london_area.html
+commentfile: 2011-08-09-ongoing_disorder_in_the_london_area
 category: news
 date: 2011-08-09 20:23:21
 
@@ -75,3 +76,8 @@ If you wish to offer your help in responding to the current situation in a pract
 
 
 <cite>-- from the Community & Police Partnership</cite>
+
+
+
+
+{% include comments.html %}

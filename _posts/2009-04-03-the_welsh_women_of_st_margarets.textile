@@ -2,6 +2,7 @@
 layout: post
 title: " The Welsh Women of St Margarets"
 permalink: /archives/2009/04/the_welsh_women_of_st_margarets.html
+commentfile: 2009-04-03-the_welsh_women_of_st_margarets
 category: around_town
 date: 2009-04-03 08:49:13
 excerpt: |
@@ -32,3 +33,7 @@ The "Welsh Women" and the fields, orchards and market gardens in which they labo
 A beaten up survivor of those days lives at the bottom of my own garden - an old Conference Pear tree that still manages to squeeze out a few fruits every autumn. Sometimes on warm summer evenings as the breeze drifts through its branches I fancy that I can hear gentle laughter, the rattle of knitting needles and women talking fondly about families and friends a long way away.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

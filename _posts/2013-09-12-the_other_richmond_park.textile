@@ -2,6 +2,7 @@
 layout: post
 title: "The Other Richmond Park"
 permalink: /archives/2013/09/the_other_richmond_park.html
+commentfile: 2013-09-12-the_other_richmond_park
 category: around_town
 date: 2013-09-12 21:45:07
 excerpt: |
@@ -46,3 +47,6 @@ We do have a Richmond Park of our own in Richmond but there is no Richmond Castl
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

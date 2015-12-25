@@ -2,6 +2,7 @@
 layout: post
 title: "Recipe&#58; 7 Minute Peanut-Lime Noodles"
 permalink: /archives/2009/04/recipe_7_minute_peanutlime_noodles.html
+commentfile: 2009-04-23-recipe_7_minute_peanutlime_noodles
 category: food
 date: 2009-04-23 14:06:26
 excerpt: |
@@ -59,3 +60,7 @@ _Serve with sesame seeds and spring onions_
 * Prep time: 2 minutes
 
 </div>
+
+
+
+{% include comments.html %}

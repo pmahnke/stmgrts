@@ -2,6 +2,7 @@
 layout: post
 title: "So Jewellery unveiled as 'Hot 100' of the UK Jewellery Industry"
 permalink: /archives/2012/09/so_jewellery_unveiled_as_hot_100_of_the_uk_jewelle.html
+commentfile: 2012-09-09-so_jewellery_unveiled_as_hot_100_of_the_uk_jewelle
 category: news
 date: 2012-09-09 16:19:12
 
@@ -13,3 +14,8 @@ For Emma Finney and Jon Tompkins the past year has been filled with awards, incr
 
 * "Read more on mystmargarets.com":http://www.mystmargarets.com/2012/09/twickenhambased_business_unveiled_as_hot_100_of_the_uk_jewel.shtml#more
 * "See So Jewellery at Denham & Finney":http://www.stmgrts.org.uk/directory/gifts/201009030907
+
+
+
+
+{% include comments.html %}

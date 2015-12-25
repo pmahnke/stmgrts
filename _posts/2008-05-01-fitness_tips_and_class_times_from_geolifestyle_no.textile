@@ -2,6 +2,7 @@
 layout: post
 title: "Fitness Tips and Class Times from GeoLifestyle - No. 3"
 permalink: /archives/2008/05/fitness_tips_and_class_times_from_geolifestyle_no.html
+commentfile: 2008-05-01-fitness_tips_and_class_times_from_geolifestyle_no
 category: around_town
 date: 2008-05-01 10:39:51
 excerpt: |
@@ -62,3 +63,7 @@ Mondays 12.30pm in Marble Hill Park. This class is aimed at beginners or those w
 h4. ADVANCED RUNNING SESSION
 
 Thursdays at 2pm in Marble Hill Park, meet by the car park. Session includes speed work and tempo running.
+
+
+
+{% include comments.html %}

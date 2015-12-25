@@ -2,6 +2,7 @@
 layout: post
 title: "The Twice Told Tale of the Titanic"
 permalink: /archives/2008/12/the_twice_told_tale_of_the_titanic.html
+commentfile: 2008-12-05-the_twice_told_tale_of_the_titanic
 category: around_town
 date: 2008-12-05 10:33:32
 excerpt: |
@@ -73,3 +74,7 @@ Recently, poking around the back of the sink in my kitchen, I found an old silve
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

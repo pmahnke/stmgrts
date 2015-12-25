@@ -2,6 +2,7 @@
 layout: post
 title: "Support David Walliams' Thames Swim"
 permalink: /archives/2011/09/support_david_walliams_thames_swim.html
+commentfile: 2011-09-09-support_david_walliams_thames_swim
 category: news
 date: 2011-09-09 14:53:08
 excerpt: |
@@ -27,3 +28,9 @@ He has raised nearly &pound;500k so far for Sports Relief and could use your sup
 You can track his current location here: "www.sportrelief.com/whats-on/the-bt-sport-relief-challenges-walliams-vs-the-thames":http://www.sportrelief.com/whats-on/the-bt-sport-relief-challenges-walliams-vs-the-thames or you can donate to Sports Relief here: https://www.sportrelief.com/donate/walliams
 
 <cite>-- hat tip to Ed Randall</cite>
+
+
+
+
+
+{% include comments.html %}

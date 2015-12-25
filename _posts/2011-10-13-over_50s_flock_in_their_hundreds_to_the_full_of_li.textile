@@ -2,6 +2,7 @@
 layout: post
 title: "Over 50s flock in their hundreds to the Full of Life Fair"
 permalink: /archives/2011/10/over_50s_flock_in_their_hundreds_to_the_full_of_li.html
+commentfile: 2011-10-13-over_50s_flock_in_their_hundreds_to_the_full_of_li
 category: news
 date: 2011-10-13 09:11:06
 excerpt: |
@@ -31,3 +32,7 @@ bq.. "I was so pleased to come to the Full of Life Fair in my new role as the Ch
 p. To keep updated about the Full of Life Fair 2012 contact Abigail Cochrane on 020 8487 5049
 
 <cite>-- from a Richmond Council press release on 10 October 2011</cite>
+
+
+
+{% include comments.html %}

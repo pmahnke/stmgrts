@@ -2,6 +2,7 @@
 layout: post
 title: "Churchills Helping the St Margarets Community in 2011"
 permalink: /archives/2011/01/churchills_helping_the_st_margarets_community_in_2.html
+commentfile: 2011-01-11-churchills_helping_the_st_margarets_community_in_2
 category: news
 date: 2011-01-11 08:48:46
 excerpt: |
@@ -22,3 +23,9 @@ We anticipate a healthy growth of buyers drawn to St Margarets in 2011 and wish 
 If you have any further suggestions how we may help in forthcoming community events and fundraising or for professional property advice please contact Julia Green on 0208 891 3987.
 
 Our aim is to be more than an estate agent but to be very much part of the community and growth of St Margarets in 2011.
+
+
+
+
+
+{% include comments.html %}

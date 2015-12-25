@@ -2,6 +2,7 @@
 layout: post
 title: "A London Childhood&#58; Barzo And The Underground Army"
 permalink: /archives/2009/10/a_london_childhood_barzo_and_the_underground_army.html
+commentfile: 2009-10-16-a_london_childhood_barzo_and_the_underground_army
 category: around_town
 date: 2009-10-16 18:20:52
 excerpt: |
@@ -110,3 +111,8 @@ On the 19 September 2009 a war memorial was unveiled at the National Memorial Ar
 Feliks Keidrowski, 88, a veteran of those times said of Poland's contribution to the Allied war effort: "I'm glad it was recognised at long last - it's a long time after the war." It was also a long time since I last thought of Burghley Road Primary School and my friend Barzo and his Dad.
 
 <cite>-- from Martyn Day</cite>
+
+
+
+
+{% include comments.html %}

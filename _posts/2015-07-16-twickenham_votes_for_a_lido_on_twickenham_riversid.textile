@@ -2,6 +2,7 @@
 layout: post
 title: "Twickenham Votes for a Lido on Twickenham Riverside"
 permalink: /archives/2015/07/twickenham_votes_for_a_lido_on_twickenham_riversid.html
+commentfile: 2015-07-16-twickenham_votes_for_a_lido_on_twickenham_riversid
 category: around_town
 date: 2015-07-16 19:25:10
 excerpt: |
@@ -35,3 +36,7 @@ Twickenham Riverside used to be a vibrant area for the local community with its 
 Please support our petition and help us persuade the London Borough of Richmond upon Thames to reinstate Twickenham's Lido.
 
 * See the Petition at "twickenhamlido.com":http://twickenhamlido.com/
+
+
+
+{% include comments.html %}

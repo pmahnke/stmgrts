@@ -2,6 +2,7 @@
 layout: post
 title: "Zumba Classes in Winchester Hall"
 permalink: /archives/2011/05/zumba_classes_in_winchester_hall.html
+commentfile: 2011-05-05-zumba_classes_in_winchester_hall
 category: news
 date: 2011-05-05 16:19:20
 excerpt: |
@@ -28,3 +29,9 @@ h4. For more details...
 * Contact Natasha on 07855 816 126
 * Website: "www.zumba.com/profiles/117364/natasha-woolman":http://www.zumba.com/profiles/117364/natasha-woolman
 * _Children are welcome to join in, but this is an adult class and your children's safety is your responsibility._
+
+
+
+
+
+{% include comments.html %}

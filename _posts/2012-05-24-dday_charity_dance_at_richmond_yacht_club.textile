@@ -2,6 +2,7 @@
 layout: post
 title: "D-Day Charity Dance at Richmond Yacht Club"
 permalink: /archives/2012/05/dday_charity_dance_at_richmond_yacht_club.html
+commentfile: 2012-05-24-dday_charity_dance_at_richmond_yacht_club
 category: around_town
 date: 2012-05-24 22:30:13
 excerpt: |
@@ -44,3 +45,7 @@ h4. More Information
 ** Tel: 020 8744 0574
 ** Email "info@crusadertravel.com":mailto:info@crusadertravel.com
 * If you need any further information contact:  "dance@reic.uk.com":mailto:dance@reic.uk.com
+
+
+
+{% include comments.html %}

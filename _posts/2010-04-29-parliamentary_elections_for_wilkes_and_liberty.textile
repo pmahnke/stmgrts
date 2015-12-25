@@ -2,6 +2,7 @@
 layout: post
 title: "Parliamentary Elections - for Wilkes and Liberty"
 permalink: /archives/2010/04/parliamentary_elections_for_wilkes_and_liberty.html
+commentfile: 2010-04-29-parliamentary_elections_for_wilkes_and_liberty
 category: around_town
 date: 2010-04-29 13:44:47
 excerpt: |
@@ -75,3 +76,6 @@ Just after the 1774 elections an inhabitant of Brentford was travelling in Germa
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

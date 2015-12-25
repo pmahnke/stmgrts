@@ -2,6 +2,7 @@
 layout: post
 title: "Letter to the Editor&#58; The Gas Man Cometh (NOT!)"
 permalink: /archives/2006/11/letter_to_the_e.html
+commentfile: 2006-11-13-letter_to_the_e
 category: editorial
 date: 2006-11-13 15:52:51
 
@@ -20,3 +21,8 @@ Now after three weeks someone somewhere has seen some sense and placed barriers 
 How much longer will they be there?  Are we just expected to put up with this ignorant behaviour by our utility companies?
 
 p. <em>-- Ed Randall</em>
+
+
+
+
+{% include comments.html %}

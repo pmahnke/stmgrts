@@ -2,6 +2,7 @@
 layout: post
 title: "Le Duck d'Orleans est de retour"
 permalink: /archives/2014/04/le_duck_dorleans_est_de_retour.html
+commentfile: 2014-04-24-le_duck_dorleans_est_de_retour
 category: around_town
 date: 2014-04-24 21:53:04
 excerpt: |
@@ -22,3 +23,9 @@ A mallard duck, named the 'Duck d'Orleans' after the former resident of Orleans 
 He sits 30 feet up on the archway to the Stables Courtyard and quacks.
 
 He is gaining quite a following.
+
+
+
+
+
+{% include comments.html %}

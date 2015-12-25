@@ -2,6 +2,7 @@
 layout: post
 title: "Scouting for a BBC Documentary"
 permalink: /archives/2014/11/scouting_for_a_bbc_documentary.html
+commentfile: 2014-11-14-scouting_for_a_bbc_documentary
 category: around_town
 date: 2014-11-14 09:28:42
 
@@ -23,3 +24,8 @@ h4. More Information
 * 07584 516 877
 
 * 
+
+
+
+
+{% include comments.html %}

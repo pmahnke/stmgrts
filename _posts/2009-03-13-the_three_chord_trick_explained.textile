@@ -2,6 +2,7 @@
 layout: post
 title: "The Three Chord Trick Explained"
 permalink: /archives/2009/03/the_three_chord_trick_explained.html
+commentfile: 2009-03-13-the_three_chord_trick_explained
 category: around_town
 date: 2009-03-13 12:20:46
 excerpt: |
@@ -79,3 +80,7 @@ bq. "Rock and roll is taking those same old three chords and making them sound n
 fn1. THE THREE CHORD TRICK- The first chord is the tonic chord. The next is the dominant chord, and the third chord is the subdominant. In the Key of C for example, the 3 chords are C, F and G (or G7 if you want to be really jazzy!) In the Key of E they are E, A and B. Buddy Holly made a career and 50 odd songs out of the Key of A and the chords A, D and E. Not bad for a bloke with glasses?
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "CPZ Consultation in St Margarets Delayed"
 permalink: /archives/2006/11/cpz_consultatio.html
+commentfile: 2006-11-22-cpz_consultatio
 category: news
 date: 2006-11-22 08:33:14
 excerpt: |
@@ -28,3 +29,6 @@ Residents should be aware that:
 Opinion in St Margarets is divided. The delay gives both sides of the argument ample time to marshal their case and identify both supporters and opponents. Let battle commence!
 
 <em>-- from Chris Squire</em>
+
+
+{% include comments.html %}

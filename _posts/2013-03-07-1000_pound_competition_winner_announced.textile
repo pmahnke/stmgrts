@@ -2,6 +2,7 @@
 layout: post
 title: "1,000 Pound Competition Winner Announced"
 permalink: /archives/2013/03/1000_pound_competition_winner_announced.html
+commentfile: 2013-03-07-1000_pound_competition_winner_announced
 category: around_town
 date: 2013-03-07 18:58:23
 excerpt: |
@@ -24,3 +25,9 @@ The Mayor was delighted to announce that M. Griffin was the lucky winner - well 
 The competition asked, *which character did Joshua Herdman play in the Blockbuster movie Harry Potter?*
 
 _The answer was of course... Gregory Goyle_
+
+
+
+
+
+{% include comments.html %}

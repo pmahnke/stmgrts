@@ -2,6 +2,7 @@
 layout: post
 title: "Chiswick and Latymer Cricket Club - Summer 2014"
 permalink: /archives/2014/04/chiswick_and_latymer_cricket_club_summer_2014.html
+commentfile: 2014-04-24-chiswick_and_latymer_cricket_club_summer_2014
 category: news
 date: 2014-04-24 21:59:58
 excerpt: |
@@ -22,3 +23,9 @@ We are based at Whitton Park (190 Wills Crescent, Hounslow TW3 2JD) and training
 We now have 10 qualified and DBS (previously CRB) cleared coaches provided coaching to boys and girls of all school age groups.
 
 We run a u11s, u13s, u15s and u17 team in the Middlesex Colts Association competitions and arrange friendly games for children aged under 9.
+
+
+
+
+
+{% include comments.html %}

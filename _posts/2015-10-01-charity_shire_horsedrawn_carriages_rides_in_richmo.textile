@@ -2,6 +2,7 @@
 layout: post
 title: "Charity Shire Horse-drawn Carriages Rides in Richmond Park"
 permalink: /archives/2015/10/charity_shire_horsedrawn_carriages_rides_in_richmo.html
+commentfile: 2015-10-01-charity_shire_horsedrawn_carriages_rides_in_richmo
 category: news
 date: 2015-10-01 22:12:36
 excerpt: |
@@ -27,3 +28,8 @@ h4. More Information
 * Rides from 28 to 31 October at 6pm, 7pm and 8pm.
 * Cost: &pound;48 for a one hour ride including carriage blankets and a glass of sloe gin
 * "Book tickets online":http://www.supporttheroyalparks.org/events/events_in_hyde_park/filter/horse+rides
+
+
+
+
+{% include comments.html %}

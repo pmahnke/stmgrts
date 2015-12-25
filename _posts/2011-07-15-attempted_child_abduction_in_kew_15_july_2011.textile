@@ -2,6 +2,7 @@
 layout: post
 title: "NO Attempted Child Abduction in Kew - 15 July 2011"
 permalink: /archives/2011/07/attempted_child_abduction_in_kew_15_july_2011.html
+commentfile: 2011-07-15-attempted_child_abduction_in_kew_15_july_2011
 category: news
 date: 2011-07-15 17:32:06
 
@@ -24,3 +25,8 @@ _Updated 16 July 2011 - 11.29am_
 Please be careful.
 
 <em>Note, we have been passed this warning from a community member, not the Police and well after "this article from the Richmond and Twickenham Times":http://www.richmondandtwickenhamtimes.co.uk/news/9142947.Police_calm_fears_of_abductions__but_urge_continued_vigilance/ was published</em>
+
+
+
+
+{% include comments.html %}

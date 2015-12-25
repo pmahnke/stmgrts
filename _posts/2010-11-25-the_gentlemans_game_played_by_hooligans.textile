@@ -2,6 +2,7 @@
 layout: post
 title: "The Gentleman's Game Played by Hooligans"
 permalink: /archives/2010/11/the_gentlemans_game_played_by_hooligans.html
+commentfile: 2010-11-25-the_gentlemans_game_played_by_hooligans
 category: around_town
 date: 2010-11-25 18:22:11
 excerpt: |
@@ -91,3 +92,7 @@ bq. "I don't know much about football. I know what a goal is, which is surely th
 
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

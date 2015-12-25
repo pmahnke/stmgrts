@@ -2,6 +2,7 @@
 layout: post
 title: "A Mindfulness Course Near You!"
 permalink: /archives/2011/01/a_mindfulness_course_near_you.html
+commentfile: 2011-01-27-a_mindfulness_course_near_you
 category: around_town
 date: 2011-01-27 06:35:49
 
@@ -19,3 +20,9 @@ h4. Details
 * Costs  &pound;250 including CDs and handbook
 * For more information and to book call 07929 295685 or 07766 271040 or
 email "Gomindfully@hotmail.co.uk":mailto:Gomindfully@hotmail.co.uk
+
+
+
+
+
+{% include comments.html %}

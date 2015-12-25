@@ -2,6 +2,7 @@
 layout: post
 title: "Council Purchase of Site for New Primary School"
 permalink: /archives/2010/02/council_purchase_of_site_for_new_primary_school.html
+commentfile: 2010-02-17-council_purchase_of_site_for_new_primary_school
 category: news
 date: 2010-02-17 18:18:11
 
@@ -28,3 +29,6 @@ p. The plans are part of the Council's borough-wide school expansion programme.
 For more details visit "www.richmond.gov.uk/cabinet_meetings_agendas_and_documents?mgl=ieListDocuments.aspx&CId=163&MId=2222&Ver=4":http://www.richmond.gov.uk/cabinet_meetings_agendas_and_documents?mgl=ieListDocuments.aspx&CId=163&MId=2222&Ver=4
 
  
+
+
+{% include comments.html %}

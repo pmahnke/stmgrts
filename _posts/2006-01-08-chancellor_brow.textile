@@ -2,6 +2,7 @@
 layout: post
 title: "Chancellor Brown Wants Third Heathrow Runway"
 permalink: /archives/2006/01/chancellor_brow.html
+commentfile: 2006-01-08-chancellor_brow
 category: news
 date: 2006-01-08 21:24:06
 
@@ -13,3 +14,8 @@ To read more detail see:
 
 * "Fury greets new plan for Heathrow expansion":http://stmgrts.url123.com/vdenn, _The Observer_, 31 December 2005
 * "Battles ensues over third runway":http://stmgrts.url123.com/vduzq, _The Richmond & Twickenham Times_, 6 January 2006
+
+
+
+
+{% include comments.html %}

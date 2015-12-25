@@ -2,6 +2,7 @@
 layout: post
 title: "Cambridge Park Indoor Bowls Club Open Day - 29 September 2012"
 permalink: /archives/2012/09/cambridge_park_indoor_bowls_club_open_day_29_septe.html
+commentfile: 2012-09-06-cambridge_park_indoor_bowls_club_open_day_29_septe
 category: around_town
 date: 2012-09-06 21:11:40
 excerpt: |
@@ -31,3 +32,10 @@ h4. More Information
 
 * "Saturday September 29<sup>th</sup>, from 11am to 4pm":http://www.stmgrts.org.uk/event/event/200705143577
 * Cambridge Park Bowls Club, Twickenham TW1 2PG
+
+
+
+
+
+
+{% include comments.html %}

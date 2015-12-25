@@ -2,6 +2,7 @@
 layout: post
 title: "Updated Event Reminder&#58; Friends of Moormead Park - 29 January 2013"
 permalink: /archives/2013/01/updated_event_reminder_friends_of_moormead_park_29.html
+commentfile: 2013-01-10-updated_event_reminder_friends_of_moormead_park_29
 category: around_town
 date: 2013-01-10 21:43:02
 
@@ -27,3 +28,8 @@ h4. Adding Draft Documents
 * "Draft of the Membership Form":http://www.stmgrts.org.uk/images/FMM_Draft_Membership_Form.pdf
 
 </div>
+
+
+
+
+{% include comments.html %}

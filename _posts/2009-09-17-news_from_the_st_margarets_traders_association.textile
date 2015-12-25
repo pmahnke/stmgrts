@@ -2,6 +2,7 @@
 layout: post
 title: "News from the St Margarets Traders Association"
 permalink: /archives/2009/09/news_from_the_st_margarets_traders_association.html
+commentfile: 2009-09-17-news_from_the_st_margarets_traders_association
 category: news
 date: 2009-09-17 22:49:46
 excerpt: |
@@ -29,3 +30,8 @@ The traders association with support from Richmond council has been actively see
 The Traders Association will be also launching the St Margarets magazine in November. The magazine will include news and information about all the latest ranges of offer in St Margarets along with recommendations for your festive table.
 
 We would also like to include some local stories, recommendations, pictures and illustrations. If you would like to submit an article or favourite picture for inclusion in the magazine please contact the editor at "events@stmgrts.org.uk":mailto:events@stmgrts.org.uk
+
+
+
+
+{% include comments.html %}

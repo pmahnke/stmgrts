@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Spectacular May Fayre - 17 May 2013"
 permalink: /archives/2013/04/event_reminder_spectacular_may_fayre_17_may_2013.html
+commentfile: 2013-04-11-event_reminder_spectacular_may_fayre_17_may_2013
 category: around_town
 date: 2013-04-11 20:53:10
 excerpt: |
@@ -36,3 +37,7 @@ h4. "More Information":http://www.stmgrts.org.uk/event/fair/200705143873
 ** 2.45-3.30pm (4months - 18months+)
 * To book please visit "www.eventbrite.co.uk/org/2620258308":http://www.eventbrite.co.uk/org/2620258308
 * &pound;10 per child, plus booking fee, adults go free!
+
+
+
+{% include comments.html %}

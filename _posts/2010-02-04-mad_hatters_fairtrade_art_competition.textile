@@ -2,6 +2,7 @@
 layout: post
 title: "Mad Hatter's Fairtrade Art Competition"
 permalink: /archives/2010/02/mad_hatters_fairtrade_art_competition.html
+commentfile: 2010-02-04-mad_hatters_fairtrade_art_competition
 category: around_town
 date: 2010-02-04 08:58:11
 excerpt: |
@@ -40,3 +41,9 @@ As Alice said to the Mad Hatter and the Dormouse,
 bq. "Come, let's have some fun!"
 
 For details on how to enter this competition, visit "www.richmondfairtrade.org.uk":http://www.richmondfairtrade.org.uk/
+
+
+
+
+
+{% include comments.html %}

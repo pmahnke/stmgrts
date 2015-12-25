@@ -2,6 +2,7 @@
 layout: post
 title: "News from The St Margarets Fair - 5 December 2012"
 permalink: /archives/2012/12/news_from_the_st_margarets_fair_5_december_2012.html
+commentfile: 2012-12-07-news_from_the_st_margarets_fair_5_december_2012
 category: news
 date: 2012-12-07 08:25:28
 excerpt: |
@@ -21,3 +22,6 @@ Over eighty St Margarets senior residents enjoyed a free Christmas meal on the 5
 This year the meal also enjoyed traditional songs from the St Stephens Community Choir.  The longest serving member of the Fair Committee is Gloria Ketley, and it's Gloria who has been the prime organiser of the Christmas meal since its inception 35 years ago.  So thank you St Margarets for your continuous loyal support to our community event - and thank you Gloria for all your hard work for the past 35 years.
 
 |<a href="//stmgrts.org.uk/assets/images/2012/stm_xmas_2012_2.jpg" title="See larger version of - stm xmas 2012 2"><img src="//stmgrts.org.uk/assets/images/2012/stm_xmas_2012_2_thumb.jpg" width="150" height="114" alt="stm xmas 2012 2" class="photo " /></a>|<a href="http://www.stmgrts.org.uk/images//stm_xmas_2012_3.jpg" title="See larger version of - stm xmas 2012 3"><img src="http://www.stmgrts.org.uk/images//stm_xmas_2012_3_thumb.jpg" width="150" height="116" alt="stm xmas 2012 3" class="photo " /></a>|
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "The Ghost of Brentford Lock"
 permalink: /archives/2009/12/the_ghost_of_brentford_lock.html
+commentfile: 2009-12-03-the_ghost_of_brentford_lock
 category: around_town
 date: 2009-12-03 21:47:05
 excerpt: |
@@ -89,3 +90,7 @@ A few months later the serial killer/s struck again. On October 26, 1935 the cho
 </div>
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

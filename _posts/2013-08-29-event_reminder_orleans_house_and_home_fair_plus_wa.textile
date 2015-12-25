@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Orleans House and Home Fair plus Walks, Talks and Family Activities - 31 August and 1 September 2013"
 permalink: /archives/2013/08/event_reminder_orleans_house_and_home_fair_plus_wa.html
+commentfile: 2013-08-29-event_reminder_orleans_house_and_home_fair_plus_wa
 category: around_town
 date: 2013-08-29 22:04:07
 
@@ -35,3 +36,7 @@ Head to the Stables Gallery to have a go on our 'Human Jukebox'. To complement o
 * *Musical instrument making*
 _1 September - 2-3.30pm_
 Join Miriam Baez to jam away the afternoon in a musical instrument making session inspired by the current Stables exhibition 'Eel Pie Island: The Birth of Rhythm and Blues'.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "BT's Oversized <del>Phone</del> <ins>Advertising</ins> Box"
 permalink: /archives/2007/06/bts_oversized_phone_advertising_box.html
+commentfile: 2007-06-24-bts_oversized_phone_advertising_box
 category: news
 date: 2007-06-24 17:33:13
 
@@ -16,3 +17,8 @@ bq. "[How has this] this godforsaken excrescence made its appearance.  How in he
 Indeed.
 
 The Council did move the bike rack near it that made passing with a push chair impossible, but how can BT be allowed to take up ~75% of the pavement?
+
+
+
+
+{% include comments.html %}

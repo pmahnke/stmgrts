@@ -2,6 +2,7 @@
 layout: post
 title: "16 June 2012 - Trooping The Colour"
 permalink: /archives/2012/06/16_june_2012_trooping_the_colour.html
+commentfile: 2012-06-14-16_june_2012_trooping_the_colour
 category: around_town
 date: 2012-06-14 22:17:04
 excerpt: |
@@ -79,3 +80,7 @@ Trooping the colour in 2008 - 1<sup>st</sup> Battalion Welsh Guards marching to 
 <cite>-- from Martyn Day</cite>
 
 _Credit: The portrait of John Evelyn is by Hendrick Van der Borcht 1641_
+
+
+
+{% include comments.html %}

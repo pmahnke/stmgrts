@@ -2,6 +2,7 @@
 layout: post
 title: "Exercise &#58; Getting Started"
 permalink: /archives/2006/05/georgie_islip_exercise.html
+commentfile: 2006-05-25-georgie_islip_exercise
 category: around_town
 date: 2006-05-25 23:27:11
 excerpt: |
@@ -36,3 +37,7 @@ I will discuss more about the benefits of exercise in the next article.
 
 
 <em>For more information please call Georgie on 07736070612 or visit her website "www.geolifestyle.co.uk":http://www.geolifestyle.co.uk/</em>
+
+
+
+{% include comments.html %}

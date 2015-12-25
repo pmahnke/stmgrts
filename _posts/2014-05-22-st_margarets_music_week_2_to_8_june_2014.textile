@@ -2,6 +2,7 @@
 layout: post
 title: "St Margarets Music Week - 2 to 8 June 2014"
 permalink: /archives/2014/05/st_margarets_music_week_2_to_8_june_2014.html
+commentfile: 2014-05-22-st_margarets_music_week_2_to_8_june_2014
 category: around_town
 date: 2014-05-22 22:35:58
 
@@ -73,3 +74,7 @@ These classes are part of our normal timetable and are held at Studio 117 with A
 h4. Sunday June 8<sup>th</sup> - The St Margarets Fair
 
 We very much look forward to seeing you and your friends and family at as many events as possible
+
+
+
+{% include comments.html %}

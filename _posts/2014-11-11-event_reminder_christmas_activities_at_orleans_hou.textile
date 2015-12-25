@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Christmas Activities at Orleans House Gallery - 2014"
 permalink: /archives/2014/11/event_reminder_christmas_activities_at_orleans_hou.html
+commentfile: 2014-11-11-event_reminder_christmas_activities_at_orleans_hou
 category: around_town
 date: 2014-11-11 12:17:33
 excerpt: |
@@ -70,3 +71,10 @@ h4. For more information and to book
 
 * 020 8831 6000
 * "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
+
+
+
+
+
+
+{% include comments.html %}

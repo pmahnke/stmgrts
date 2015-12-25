@@ -2,6 +2,7 @@
 layout: post
 title: "Wild Education - Job Posting and Information"
 permalink: /archives/2013/09/wild_education_job_posting_and_information.html
+commentfile: 2013-09-05-wild_education_job_posting_and_information
 category: news
 date: 2013-09-05 22:52:16
 excerpt: |
@@ -44,3 +45,7 @@ If you want to get in touch about any of our activities or want to work with us 
 * Email - "ellie@wildeducation.co.uk":mailto:ellie@wildeducation.co.uk
 * Tweet - "@wildeducationuk":http://www.twitter.com/wildeducationuk
 * Mobile - 07837 746366
+
+
+
+{% include comments.html %}

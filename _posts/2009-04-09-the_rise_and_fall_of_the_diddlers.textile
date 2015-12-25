@@ -2,6 +2,7 @@
 layout: post
 title: "The Rise and Fall of the Diddlers"
 permalink: /archives/2009/04/the_rise_and_fall_of_the_diddlers.html
+commentfile: 2009-04-09-the_rise_and_fall_of_the_diddlers
 category: around_town
 date: 2009-04-09 11:35:10
 excerpt: |
@@ -43,3 +44,7 @@ bq. "With the trolleys you had to worry about the road in front of you and what 
 The last trolleybus to see service in London pulled out of Fulwell Depot on 8th May 1962 and made its last run to Kingston and back. Standing on the platform at the back was the same ultra smart conductor, Charles Hadland, who had been standing there in 1931 when the first trolley made its run. As proud as he was to be there he confessed later that he would have preferred to have been at the front -- driving!
 
 <cite>-- from Martyn Day</cite>
+
+
+
+{% include comments.html %}

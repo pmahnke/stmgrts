@@ -2,6 +2,7 @@
 layout: post
 title: "Exhibition Reminder&#58; Landscapes - Seen and Imagined"
 permalink: /archives/2006/11/exhibition_remi.html
+commentfile: 2006-11-22-exhibition_remi
 category: around_town
 date: 2006-11-22 08:20:22
 excerpt: |
@@ -28,3 +29,7 @@ The show runs through 14 January 2007.
 Idun creates abstract oil paintings of urban English landscapes and also of her native Norway. These works are imbued with light - "a glow that is only found in northern parts of the world." Idun stated. Her subtle, majestic works are evolved from pencil drawings, oil and pastel sketches, digital photographs and memory. 
 
 Jane also paints in oils and her work draws inspiration from nature, in two themes: cloudscapes and then, closer to home, paintings based on Kew Gardens. Especially in the Kew series, colour evokes a particular mood and the resulting paintings hover between the recognisable and the hidden.These works explore man's relationship with nature and the environment. As Jane says: "I am moved and horrified by mankind's destruction of the environment, while being aware how much the very world we are destroying is the nature that uplifts and sustains us."
+
+
+
+{% include comments.html %}

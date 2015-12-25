@@ -2,6 +2,7 @@
 layout: post
 title: "Good Wine Shop Tasting Event "
 permalink: /archives/2007/11/good_wine_shop_tasting_event.html
+commentfile: 2007-11-08-good_wine_shop_tasting_event
 category: around_town
 date: 2007-11-08 07:33:02
 
@@ -23,3 +24,8 @@ The Good Wine Shop was established six years ago and since Mark took over in 200
 “We are looking to offer quality, original wines that are value for money. But individual tastes differ vastly and a wine that is enjoyed by one person may not be to the taste of another. By getting to know our customers personally we can actively seek out wines to suit their particular palate.” added Mark.
 
 Tickets can be purchased from The Good Wine Shop(020 8892 7756) in advance at a cost of &pound;10.00 per person and a refund of the ticket price is available to those purchasing a case(12 bottles) on the day.
+
+
+
+
+{% include comments.html %}

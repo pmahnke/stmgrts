@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Environment Trust's Art Auction 2012 - 8 November 2012"
 permalink: /archives/2012/10/event_reminder_environment_trusts_art_auction_2012.html
+commentfile: 2012-10-27-event_reminder_environment_trusts_art_auction_2012
 category: around_town
 date: 2012-10-27 17:27:16
 excerpt: |
@@ -48,3 +49,7 @@ h4. More Information
 * Auction:	From 8pm
 
 _All proceeds will support the Environment Trust for Richmond upon Thames._
+
+
+
+{% include comments.html %}

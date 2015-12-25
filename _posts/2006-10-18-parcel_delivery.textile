@@ -2,6 +2,7 @@
 layout: post
 title: "Parcel Delivery Service (PDS) Scam Warning"
 permalink: /archives/2006/10/parcel_delivery.html
+commentfile: 2006-10-18-parcel_delivery
 category: news
 date: 2006-10-18 09:52:37
 
@@ -16,3 +17,9 @@ If you do receive a card with these details, then please contact Royal Mail Frau
 *This is a genuine scam.*
 
 This service is under investigation by ICSTIS. Please be aware of this scam and forward this information to as many as possible.
+
+
+
+
+
+{% include comments.html %}

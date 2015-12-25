@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Come Party with Pluto - 22 June 2012"
 permalink: /archives/2012/06/event_reminder_come_party_with_pluto_22_june_2012.html
+commentfile: 2012-06-15-event_reminder_come_party_with_pluto_22_june_2012
 category: around_town
 date: 2012-06-15 11:24:52
 excerpt: |
@@ -34,3 +35,9 @@ Entertainment on the night includes:
 
 
 _John D Wood have kindly sponsored our marquee, so the party will go on come rain or shine!_
+
+
+
+
+
+{% include comments.html %}

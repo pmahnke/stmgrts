@@ -2,6 +2,7 @@
 layout: post
 title: "This is a Food War!"
 permalink: /archives/2010/02/this_is_a_food_war.html
+commentfile: 2010-02-25-this_is_a_food_war
 category: around_town
 date: 2010-02-25 20:31:20
 excerpt: |
@@ -108,3 +109,6 @@ bq. 'We hope the stories of resourcefulness and commitment shown in (the exhibit
 Many thousands of people were involved in the supply of food during the war - the 30,000 merchant seaman who died shipping it, the 6000 Preservation Centres run by the Woman's Institute making jams and pickles, the mobile canteens staffed by the Women's Voluntary Services providing emergency meals to people made homeless by air raids and of course the countless housewives who queued patiently to buy it... and are probably queuing still.
 
 <cite>-- from Martyn Day</cite>
+
+
+{% include comments.html %}

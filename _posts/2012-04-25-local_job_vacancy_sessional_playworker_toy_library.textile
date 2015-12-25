@@ -2,6 +2,7 @@
 layout: post
 title: "Local Job Vacancy&#58; Sessional Playworker, Toy Library"
 permalink: /archives/2012/04/local_job_vacancy_sessional_playworker_toy_library.html
+commentfile: 2012-04-25-local_job_vacancy_sessional_playworker_toy_library
 category: around_town
 date: 2012-04-25 19:48:14
 
@@ -24,3 +25,7 @@ h4. More Information
 * Closing date is the 16<sup>th</sup> of May 2012
 * To request an application pack please contact "mhpc@talktalk.net":mailto:mhpc@talktalk.net
 * For more information please call Tania on 07943567475
+
+
+
+{% include comments.html %}

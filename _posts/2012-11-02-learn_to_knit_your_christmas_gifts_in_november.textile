@@ -2,6 +2,7 @@
 layout: post
 title: "Learn to knit your Christmas Gifts in November"
 permalink: /archives/2012/11/learn_to_knit_your_christmas_gifts_in_november.html
+commentfile: 2012-11-02-learn_to_knit_your_christmas_gifts_in_november
 category: around_town
 date: 2012-11-02 10:31:55
 excerpt: |
@@ -18,3 +19,7 @@ This season Mrs Moon ("www.mrsmoon.co.uk":http://www.mrsmoon.co.uk) launches its
 Whilst for those of you who would like to create some unique festive decorations for your home, on Saturday 10<sup>th</sup> November, Mrs Moon founder Susan will teach you the basics of crochet.   During the day, you will use these new found skills to create a snowflake or mistletoe decoration.   All materials you need in this &pound;70 workshop are provided and you will be given a lesson guide to take away, plus the yarn and crochet hooks to create your own snowflakes and mistletoe to decorate your home this Christmas.
 
 If you are looking for an on-trend, stylish knitting or crochet project this winter, Mrs Moon have recently launched their own exclusive gorgeous knitting and crochet designs for scarves, throws and tops, perfect projects for cold winter evenings and, once completed, a unique Christmas gift idea for a loved one.
+
+
+
+{% include comments.html %}

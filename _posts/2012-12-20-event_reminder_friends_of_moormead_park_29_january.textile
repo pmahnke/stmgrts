@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Friends of Moormead Park - 29 January 2013"
 permalink: /archives/2012/12/event_reminder_friends_of_moormead_park_29_january.html
+commentfile: 2012-12-20-event_reminder_friends_of_moormead_park_29_january
 category: around_town
 date: 2012-12-20 10:11:48
 
@@ -26,3 +27,7 @@ The Proposers are:
 * Stephen Alexander FCA - 5, Cole Park View. - "alexander.stephen@gmail.com":mailto:alexander.stephen@gmail.com
 
 For further information on the draft constitution and to put your name forward to become an Officer of the Friends of Moormead please contact either Mandie or Stephen on the above emails.
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Jeevika Trust in Charity Week eBay Action - 23 to 30 June 2013"
 permalink: /archives/2013/06/jeevika_trust_in_charity_week_ebay_action_23_to_30.html
+commentfile: 2013-06-24-jeevika_trust_in_charity_week_ebay_action_23_to_30
 category: news
 date: 2013-06-24 22:05:39
 excerpt: |
@@ -44,3 +45,6 @@ And you can bid for the Cleve West package here -  "www.ebay.co.uk/itm/CLEVE-WES
 To support Jeevika Trust, go to "www.jeevika.org.uk":http://www.jeevika.org.uk
 
 -- from a press release - 24 June 2013
+
+
+{% include comments.html %}

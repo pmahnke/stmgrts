@@ -2,6 +2,7 @@
 layout: post
 title: "New Exhibition&#58; Richmond Remembers World War Two"
 permalink: /archives/2015/10/new_exhibition_richmond_remembers_world_war_two.html
+commentfile: 2015-10-01-new_exhibition_richmond_remembers_world_war_two
 category: around_town
 date: 2015-10-01 21:04:05
 excerpt: |
@@ -40,3 +41,9 @@ h4. More Information
 * Entrance is free and will be accompanied by a range of events and educational opportunities.
 * Opening times for the museum are Tue-Sat 10am to 5pm.
 * Enquiries 0208 332 1141 or "museumofrichmond@btconnect.com":mailto:museumofrichmond@btconnect.com
+
+
+
+
+
+{% include comments.html %}

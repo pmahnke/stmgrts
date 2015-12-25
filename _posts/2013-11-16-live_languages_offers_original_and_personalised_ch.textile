@@ -2,6 +2,7 @@
 layout: post
 title: "Live Languages Offers Original and Personalised Christmas Presents!"
 permalink: /archives/2013/11/live_languages_offers_original_and_personalised_ch.html
+commentfile: 2013-11-16-live_languages_offers_original_and_personalised_ch
 category: around_town
 date: 2013-11-16 07:41:37
 
@@ -18,3 +19,7 @@ h4. Your Lessons:
 * Free 20 minute consultation with feedback on development areas and learning plan tailored to your individual needs - Call 07855 528483 today.
 * Friendly, fun, safe and secure environment for children and adults, 2 minutes' from Richmond Bridge.
 * taught by Adrienne Green, MA (Oxon) (University of Oxford), QTS, CELTA, CRB
+
+
+
+{% include comments.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; Group Singing Lessons - starting 14 January 2014"
 permalink: /archives/2014/01/event_reminder_group_singing_lessons_starting_14_j.html
+commentfile: 2014-01-08-event_reminder_group_singing_lessons_starting_14_j
 category: around_town
 date: 2014-01-08 20:02:50
 
@@ -20,3 +21,7 @@ h4. More Information
 * Normansfield Theatre, Langdon Down Centre, Teddington
 * Tuesdays, 6.30pm to 8.30pm.
 * Ideal for beginners to intermediate level
+
+
+
+{% include comments.html %}

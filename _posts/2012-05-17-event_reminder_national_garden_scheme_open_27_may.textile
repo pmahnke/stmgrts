@@ -2,6 +2,7 @@
 layout: post
 title: "Event Reminder&#58; National Garden Scheme Open - 27 May 2012"
 permalink: /archives/2012/05/event_reminder_national_garden_scheme_open_27_may.html
+commentfile: 2012-05-17-event_reminder_national_garden_scheme_open_27_may
 category: around_town
 date: 2012-05-17 08:34:17
 excerpt: |
@@ -18,3 +19,8 @@ Our garden at 7 St.George's Road, St Margarets is open for the National Garden S
 * "More information":http://www.ngs.org.uk/gardens/gardenfinder/garden.aspx?id=7641
 
 <cite>-- from Jenny Raworth</cite>
+
+
+
+
+{% include comments.html %}
