@@ -5,6 +5,8 @@ permalink: /archives/2015/09/star_club_at_orleans_house_gallery_autumn_2015.html
 commentfile: 2015-09-24-star_club_at_orleans_house_gallery_autumn_2015
 category: around_town
 date: 2015-09-24 23:06:40
+excerpt: |
+    A series of after school workshops for 4 to 7 year olds combining movement, story telling, music and art. Taking inspiration from the exhibition and surrounding natural environment of Orleans House Gallery, we will learn about creative performance making, communication and group work, building to a small showcase.
 
 ---
 
