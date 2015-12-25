@@ -2,8 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 _includes/homepage*
-*.yaml~
-
-*.textile~
-
-*.yaml~
+assets/images/**.yaml~
+*.*~

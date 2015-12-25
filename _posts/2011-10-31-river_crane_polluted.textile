@@ -5,7 +5,10 @@ permalink: /archives/2011/10/river_crane_polluted.html
 commentfile: 2011-10-31-river_crane_polluted
 category: news
 date: 2011-10-31 13:49:08
+excerpt: |
+    <img src="//stmgrts.org.uk/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
 
+    A two-metre valve (penstock) in a major sewer serving Heathrow Airport jammed shut on Saturday afternoon at Cranford Bridge on the A4 Bath Road while engineers carried out routine maintenance.
 ---
 
 <div class="letter">

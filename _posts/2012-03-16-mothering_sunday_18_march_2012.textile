@@ -7,12 +7,12 @@ category: around_town
 date: 2012-03-16 10:20:44
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="//stmgrts.org.uk/assets/images/2012/MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
-    
-    
+
+
     bq. "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
-    
+
     ??REG: The Life of Brian??
-    
+
     In a roundabout way they created Mothering Sunday.
 
 ---
@@ -92,7 +92,7 @@ bq. God could not be everywhere and therefore he made mothers.
 <div class="box">
 A Mothering Sunday Song on YouTube written by Richard Durrant and performed by Richard and his children - Daisy aged 10, Django 8 and Felix 6.
 
-<iframe width="300" height="203" src="//stmgrts.org.uk/assets/images/2012/HCiZYK1eTxg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/HCiZYK1eTxg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
