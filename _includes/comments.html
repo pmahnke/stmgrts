@@ -1,5 +1,5 @@
 <div class="comments">
-    <h2>Comments</h2>
+    <h3>Comments</h3>
     <ul>
 {% for comment in site.data.[include.commentfile] %}
     {% if comment.comment != null %}
@@ -14,17 +14,17 @@
 </div><!-- end comments -->
 
 <div id="commentform">
-    <form method="get" action="//stmgrts.org.uk/cgi-bin/comments.cgi">
+    <form method="post" action="//stmgrts.org.uk/cgi-bin/comments.cgi">
         <fieldset>
-            <h3>Add a comment</h3>
+            <h4>Add a comment</h4>
             <p><label for="name">Name</label><br />
                 <input type="text" id="name" name="name" value="" /></p>
             <p><label for="email">Email</label><br />
                 <input type="email" id="email" name="email" value="" /></p>
             <p><label for="comment">Comment</label><br />
                 <textarea id="comment" name="comment"></textarea></p>
-            <p><input type="submit" name="a" value="comment" /></p>
-                <input type="hidden" name="page-id" value="{{ include.commentfile }}" />
+            <p><input type="submit" name="a" value="comment" />
+                <input type="hidden" name="page-id" value="{{ include.commentfile }}" /></p>
         </fieldset>
     </form>
-</div>
+</div><!-- end commentform -->
