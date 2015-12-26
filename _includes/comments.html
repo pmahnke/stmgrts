@@ -1,7 +1,7 @@
 <div class="comments">
     <h2>Comments</h2>
     <ul>
-{% for comment in site.data.{{ include.commentfile   }} %}
+{% for comment in site.data.[include.commentfile] %}
     {% if comment.comment != null %}
         <li>
 {{ comment.comment }}
