@@ -43,4 +43,4 @@ h4. "More Information":http://www.friendsofmoormead.org.uk/index.shtml
 * If any of the current committee  wishes to resign or anyone wishes to nominate themselves, please let us know before the meeting
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

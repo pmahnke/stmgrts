@@ -33,4 +33,4 @@ h4. More Information
 * For information please see "www.twickenhamalive.com":http://www.twickenhamalive.com
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

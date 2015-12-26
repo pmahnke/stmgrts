@@ -29,4 +29,4 @@ For further information please see "www.strawberryhillmusicday.co.uk":http://www
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

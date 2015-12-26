@@ -42,4 +42,4 @@ More details: "www.rivertac.org":http://www.rivertac.org
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -41,4 +41,4 @@ _If you have a little one at home, you are welcome to bring them along to sit an
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

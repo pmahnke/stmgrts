@@ -26,4 +26,4 @@ If you would like any more information or would like to participate please conta
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

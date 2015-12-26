@@ -23,4 +23,4 @@ _The recital will begin at 8:00 pm with tickets at &pound;15.00 and &pound;5.00 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -26,4 +26,4 @@ Additionally, if you could take a few moments, could you vote in our poll to see
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

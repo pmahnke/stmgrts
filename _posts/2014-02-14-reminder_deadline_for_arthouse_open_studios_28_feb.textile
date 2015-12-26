@@ -16,4 +16,4 @@ The deadline for artists to apply to take part in ARThouse Open Studios is fast 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

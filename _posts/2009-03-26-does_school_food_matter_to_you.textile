@@ -27,4 +27,4 @@ If you are interested, "sign the petition here.":http://www.gopetition.com/petit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

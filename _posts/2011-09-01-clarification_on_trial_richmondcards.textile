@@ -34,4 +34,4 @@ Or if residents prefer, the pay-by-phone system (RingGo) offers identical discou
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

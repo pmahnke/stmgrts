@@ -54,4 +54,4 @@ THE ROYAL SHALLOP 'JUBILANT' CAN BE HIRED FOR WEDDINGS OR FOR INFORMAL ROWING BY
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

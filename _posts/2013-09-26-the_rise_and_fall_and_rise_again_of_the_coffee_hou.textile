@@ -64,4 +64,4 @@ As for the debate, Harris and Hoole seem to have quietly settled in and appear b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

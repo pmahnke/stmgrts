@@ -36,4 +36,4 @@ shared (after costs) between four local schools and three local charities.
 _Note: this website does not represent the fair, although we certainly try to help in any way we can, so please do not contact us for information about Stalls or Programmes._
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

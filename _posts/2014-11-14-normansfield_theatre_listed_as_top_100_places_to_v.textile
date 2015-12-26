@@ -32,4 +32,4 @@ _photo &copy; Copyright Mark Percy_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ p. The website for _Richmond Inclusive Schools Campaign_ is "www.richmondinclusi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

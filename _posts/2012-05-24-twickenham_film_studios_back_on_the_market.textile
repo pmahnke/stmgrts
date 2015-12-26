@@ -22,4 +22,4 @@ Mr Krasner was adamant the studios would not be sold for property development, w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

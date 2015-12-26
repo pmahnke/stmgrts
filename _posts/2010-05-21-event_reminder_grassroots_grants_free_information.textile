@@ -20,4 +20,4 @@ RCVS are running a final "Grassroots Grants Information Session between 2-4pm on
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -18,4 +18,4 @@ In the first instance, drop Annie a line on "anniesiddons@blueyonder.co.uk":mail
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

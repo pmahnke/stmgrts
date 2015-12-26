@@ -18,4 +18,4 @@ bq. "It is only a temporary camera and will remain there for about 28 days, if a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

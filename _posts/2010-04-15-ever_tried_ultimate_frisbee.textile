@@ -20,4 +20,4 @@ Join this friendly team - e-mail "zephking@btinternet.com":mailto:zephking@btint
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

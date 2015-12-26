@@ -36,4 +36,4 @@ _Join us in a celebration of original art and the hand-crafted_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

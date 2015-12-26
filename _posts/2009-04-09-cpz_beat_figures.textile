@@ -45,4 +45,4 @@ From the _Beat survey_ you can see that there are approximately 100 fewer cars p
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

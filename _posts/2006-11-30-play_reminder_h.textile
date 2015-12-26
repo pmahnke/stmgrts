@@ -31,4 +31,4 @@ Humpty Dumpty is written by John Crocker with lyrics by Eric Gilder, and is dire
 <em>-- from the Richmond Shakespeare Society</em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

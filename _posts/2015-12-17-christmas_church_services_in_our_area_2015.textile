@@ -98,4 +98,4 @@ h3. St Stephen's Twickenham
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

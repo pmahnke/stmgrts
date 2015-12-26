@@ -34,4 +34,4 @@ LOCAL DELIVERY CUT-OFF DATE - 7pm 23RD DECEMBER</strong>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

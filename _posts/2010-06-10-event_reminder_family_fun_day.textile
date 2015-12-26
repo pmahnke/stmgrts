@@ -26,4 +26,4 @@ More information please see "www.mystmargarets.com":http://www.mystmargarets.com
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

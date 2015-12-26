@@ -46,4 +46,4 @@ h3. Agenda Moormead Park Meeting
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

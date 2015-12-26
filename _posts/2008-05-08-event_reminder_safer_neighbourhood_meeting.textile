@@ -17,4 +17,4 @@ The "meeting is on 15 May 2008, 7pm–8.30pm at the All Souls Church Hall":http:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

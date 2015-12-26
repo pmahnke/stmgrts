@@ -34,4 +34,4 @@ Membership to the Eel Pie Club is from &pound;15 annually. To become a Member, g
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

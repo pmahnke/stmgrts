@@ -37,4 +37,4 @@ Nick Smith, Director at Strawberry Hill said, "This is the second time Milestone
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

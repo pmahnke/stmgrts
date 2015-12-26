@@ -31,4 +31,4 @@ Chmiel was arrested on 2 January 2005 at his home address by detectives from the
 Both men will be sentenced at Middlesex Guildhall Crown Court on 22 August 2006.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

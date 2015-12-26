@@ -26,4 +26,4 @@ Applications are now open, for all artists, artist groups, schools, community gr
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

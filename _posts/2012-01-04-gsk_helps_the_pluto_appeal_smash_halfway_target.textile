@@ -32,4 +32,4 @@ Jason Bradbury, (The Gadget Show), patron for The Pluto Appeal said: "Helping to
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

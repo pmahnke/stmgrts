@@ -22,4 +22,4 @@ _posted 25 February 2012_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -62,4 +62,4 @@ h4. Saturday 12th July 2008
 |1900 - 1930|Nark Drool & The Shudders - ramming back the ’rama lama ding dong!’ into toe-tapping rock ‘n’ roll classics,|(music stage)|
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

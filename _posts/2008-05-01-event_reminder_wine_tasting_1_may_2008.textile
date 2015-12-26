@@ -19,4 +19,4 @@ St Margaret's Wine Appreciation Group is a group of local residents, of all ages
 If you would like to be added to our e-mailing list,please contact Hazelle on <a href="mailto:macn05@dial.pipex.com?Subject=Chateau St Margaret's">macn05@dial.pipex.com</a>.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

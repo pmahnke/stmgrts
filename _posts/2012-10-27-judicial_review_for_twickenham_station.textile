@@ -70,4 +70,4 @@ bq.. "We are naturally disappointed that the new station that Twickenham despera
 <cite>"Richmond Council press release - 26 October 2012":http://richmond.gov.uk/council_twickenham_station</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

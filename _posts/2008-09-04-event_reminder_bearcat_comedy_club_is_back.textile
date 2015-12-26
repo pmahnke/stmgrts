@@ -22,4 +22,4 @@ The line-up for our "First Show":http://stmgrts.org.uk/event/show/200705141904 i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

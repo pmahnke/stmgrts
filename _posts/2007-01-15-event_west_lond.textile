@@ -27,4 +27,4 @@ If you are interested, please follow the links above for more information.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

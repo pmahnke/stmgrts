@@ -17,4 +17,4 @@ By sponsoring the 50+ Christmas Trees displayed on St Margarets Road and Crown R
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

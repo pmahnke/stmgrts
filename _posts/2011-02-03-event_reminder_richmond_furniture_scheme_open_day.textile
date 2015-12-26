@@ -20,4 +20,4 @@ Our main customer base are people on benefits. However, to help raise necessary 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

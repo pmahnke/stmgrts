@@ -30,4 +30,4 @@ Performances of Henry V run from 7.45 on 6-12th July (except Wednesday 9th). The
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

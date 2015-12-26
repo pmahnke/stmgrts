@@ -88,4 +88,4 @@ Perhaps we had the Beatles at their best, when they were still four lads from Li
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -15,4 +15,4 @@ But after the shop closes, "Peace and Plenty":http://www.stmgrts.org.uk/director
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -42,4 +42,4 @@ The song that launched it all.
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

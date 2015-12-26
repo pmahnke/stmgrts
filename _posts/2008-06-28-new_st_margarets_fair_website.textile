@@ -30,4 +30,4 @@ For all the other Fair information and news you'll just need to follow this link
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ They are coming back soon to hold their own evening at Parvinu, so we suggest yo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

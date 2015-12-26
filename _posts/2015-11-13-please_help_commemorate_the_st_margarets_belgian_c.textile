@@ -25,4 +25,4 @@ They need &pound;8400 for the memorial, on top of our &pound;5000 grant from Ric
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

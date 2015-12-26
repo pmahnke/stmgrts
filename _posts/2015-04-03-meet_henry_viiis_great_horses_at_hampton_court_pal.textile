@@ -41,4 +41,4 @@ Come onto the box seat, and drive a lap of honour on the tram before the gardens
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

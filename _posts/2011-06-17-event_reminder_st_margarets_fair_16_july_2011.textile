@@ -42,4 +42,4 @@ For more information: "www.stmargaretsfair.org":http://www.stmargaretsfair.org/
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

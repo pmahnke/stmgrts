@@ -76,4 +76,4 @@ bq. "The Snow so chilled him that he immediately fell so extremely ill, that he 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

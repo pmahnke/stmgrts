@@ -30,4 +30,4 @@ _Book a course of 4 sessions online at "www.ticketsource.co.uk/osoarts":http://w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

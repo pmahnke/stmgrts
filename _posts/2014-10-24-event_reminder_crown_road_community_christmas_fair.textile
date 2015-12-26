@@ -24,4 +24,4 @@ If you would like more information, or like to book a stall at our event, please
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -68,4 +68,4 @@ As July passed into August and then into the cooler weather of September the Ske
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

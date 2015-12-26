@@ -54,4 +54,4 @@ Mayhew charitably put it down to Kate having a streak of humanity... the rest of
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

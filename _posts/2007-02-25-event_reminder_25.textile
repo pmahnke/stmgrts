@@ -25,4 +25,4 @@ The show runs from March 10<sup>th</sup> to 17<sup>th</sup> inclusive. Performan
 Ticket prices are  £7 for the first three performances, and £8 thereafter. Seats can be booked via the telephone box office: 020 8744 0547. Credit card bookings are now accepted (MasterCard and Visa only).
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

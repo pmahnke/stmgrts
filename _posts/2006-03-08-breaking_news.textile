@@ -19,4 +19,4 @@ We will publish more detail as we get more information.
 NOTE: _this story will be replaced when more information comes in..._
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

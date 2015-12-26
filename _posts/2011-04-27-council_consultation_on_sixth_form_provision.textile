@@ -21,4 +21,4 @@ Your views are important to us and will be taken into account when the resulting
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

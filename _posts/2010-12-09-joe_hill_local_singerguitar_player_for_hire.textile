@@ -20,4 +20,4 @@ So if you have an event coming up and are in need of some entertainment, please 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

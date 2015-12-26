@@ -37,4 +37,4 @@ The Thames Anglers Conservancy running a "free event on Sunday, 19 June 2011":ht
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

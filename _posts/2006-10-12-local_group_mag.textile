@@ -38,4 +38,4 @@ To contact Magnet email: "magnet_stmargarets@yahoo.co.uk":mailto:magnet_stmargar
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

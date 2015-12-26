@@ -68,4 +68,4 @@ NOTE: Some images taken in Holland during the <a href="https://youtu.be/poMfISFF
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

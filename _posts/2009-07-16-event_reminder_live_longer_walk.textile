@@ -39,4 +39,4 @@ Any questions, please do drop us a line "info@bowelcancer.tv":mailto:info@bowelc
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

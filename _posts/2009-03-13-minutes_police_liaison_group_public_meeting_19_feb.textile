@@ -87,4 +87,4 @@ To be combined with the Council Area meeting on Tuesday 6 October 2009 (prelimin
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

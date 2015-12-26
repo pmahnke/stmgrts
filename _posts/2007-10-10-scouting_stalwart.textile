@@ -17,4 +17,4 @@ Anyone who remembers Ossie and who would like to add a message to his retirement
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

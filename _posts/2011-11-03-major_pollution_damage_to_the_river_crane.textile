@@ -40,4 +40,4 @@ p. In the short term it is important for all riverside visitors to keep both the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

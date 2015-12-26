@@ -24,4 +24,4 @@ If this affects you, there is "a petition to stop the trial":https://you.38degre
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

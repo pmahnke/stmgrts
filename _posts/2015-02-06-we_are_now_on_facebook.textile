@@ -21,4 +21,4 @@ And, don't forget we are also on twitter at "@smgrts":https://twitter.com/stmgrt
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

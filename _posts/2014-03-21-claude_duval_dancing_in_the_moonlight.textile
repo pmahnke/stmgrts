@@ -81,4 +81,4 @@ h4. Rogue's Gallery featuring Vic Reeves.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

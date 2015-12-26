@@ -35,4 +35,4 @@ p. To keep updated about the Full of Life Fair 2012 contact Abigail Cochrane on 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

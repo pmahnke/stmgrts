@@ -28,4 +28,4 @@ p. ??Catherine Parry-Wingfield, Chairman, Turner's House Trust??
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

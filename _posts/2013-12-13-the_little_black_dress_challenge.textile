@@ -76,4 +76,4 @@ For more information on how you could safely lose 7lbs in 14 days, why not take 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

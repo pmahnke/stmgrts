@@ -30,4 +30,4 @@ h4. More Information
 * book now at "Pilates Plus":http://www.stmgrts.org.uk/directory/health_aNd_beauty/200506220001 or call Jules on 07712 009 503
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

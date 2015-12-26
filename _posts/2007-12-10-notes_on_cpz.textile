@@ -24,4 +24,4 @@ The "editorial by Kim Thomas":http://www.stmgrts.org.uk/archives/2007/12/cpz_upd
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

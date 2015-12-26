@@ -142,4 +142,4 @@ h4. Additional information
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

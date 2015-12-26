@@ -19,4 +19,4 @@ There is also a "Easter crafts":http://www.stmgrts.org.uk/event/meeting/20070514
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -37,4 +37,4 @@ p. Philippa Nunn, Head teacher at Waldegrave School for Girls, said: "As a group
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ Twickenham TW1 2AA
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

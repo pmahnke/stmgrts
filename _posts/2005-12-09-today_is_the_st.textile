@@ -21,4 +21,4 @@ The _St Margarets Community Website_ will be there as well, so stop by and say '
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

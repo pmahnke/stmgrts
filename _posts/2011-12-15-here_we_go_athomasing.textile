@@ -86,4 +86,4 @@ This was not the experience in North St Margarets. Despite the pouring rain resi
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

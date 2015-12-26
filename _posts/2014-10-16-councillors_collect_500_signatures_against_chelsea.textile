@@ -36,4 +36,4 @@ bq. "As the local Councillors we have made clear to the RFU that the silence has
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -24,4 +24,4 @@ If you can help in any way phone  0208 274 9517
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

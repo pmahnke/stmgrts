@@ -24,4 +24,4 @@ With over 110 local artists, three community groups, and 10 of the borough's sch
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

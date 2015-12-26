@@ -40,4 +40,4 @@ _This article was motivated by "Ghosts, Murderers and Mayhem in Richmond" by Nor
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

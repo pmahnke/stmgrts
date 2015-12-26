@@ -73,4 +73,4 @@ The Davenport's careers came to an end in 1877 when William died suddenly on tou
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

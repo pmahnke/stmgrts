@@ -82,4 +82,4 @@ _Credit: Some of the information in this article came from "The Real Dad's Army"
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

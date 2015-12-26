@@ -104,4 +104,4 @@ _Credit: The photograph of a church at Advent was taken at Our Lady & St. Philip
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

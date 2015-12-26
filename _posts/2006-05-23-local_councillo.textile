@@ -19,4 +19,4 @@ Also at the meeting. the _St Margarets Traders Association_ also took the opport
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

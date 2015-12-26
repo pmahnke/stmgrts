@@ -16,4 +16,4 @@ Entrance to the exhibition costs &pound;2.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

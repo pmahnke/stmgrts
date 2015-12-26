@@ -21,4 +21,4 @@ If you do register your opinion with the council you will be automatically notif
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

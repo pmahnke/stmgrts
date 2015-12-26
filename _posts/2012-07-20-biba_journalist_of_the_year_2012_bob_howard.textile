@@ -33,4 +33,4 @@ bq.. "We are now in our 30th year of the awards, and every year we have seen the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

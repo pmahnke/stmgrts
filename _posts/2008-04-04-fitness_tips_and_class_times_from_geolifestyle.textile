@@ -63,4 +63,4 @@ For more information please call me on 07736 070612.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

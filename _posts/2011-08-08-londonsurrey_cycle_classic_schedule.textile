@@ -36,4 +36,4 @@ Results will be posted here in due course.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

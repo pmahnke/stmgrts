@@ -19,4 +19,4 @@ We are offering readers an extra 5% off!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

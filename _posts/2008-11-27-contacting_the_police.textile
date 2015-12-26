@@ -60,4 +60,4 @@ Visit "www.met.police.uk":http://www.met.police.uk/ for more information. for mo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

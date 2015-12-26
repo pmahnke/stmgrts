@@ -22,4 +22,4 @@ The major job, however, has been fitting out a new kitchen. Out with the banks o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

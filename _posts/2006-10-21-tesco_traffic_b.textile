@@ -23,4 +23,4 @@ In the end, an H37 drove up onto the pavement at the foot of the railway bridge 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

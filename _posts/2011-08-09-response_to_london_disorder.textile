@@ -24,4 +24,4 @@ p. -- from a Richmond Council "press release on 9 August 2011":http://www.richmo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

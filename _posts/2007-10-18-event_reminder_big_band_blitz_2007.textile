@@ -19,4 +19,4 @@ This special event will feature the critically acclaimed Jon Bennett Big Band, w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -51,4 +51,4 @@ For further healthy recipes please see Catherine's website at "stmargaretskitche
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

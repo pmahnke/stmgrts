@@ -19,4 +19,4 @@ First up are "Gordon Smith and Rob Mason":http://stmgrts.org.uk/event/Concert/20
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

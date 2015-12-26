@@ -34,4 +34,4 @@ be purchased on 020 8891 5455 or "office@environmenttrust.co.uk":mailto:office@e
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

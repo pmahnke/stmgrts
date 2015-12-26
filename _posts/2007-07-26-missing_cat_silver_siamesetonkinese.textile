@@ -16,4 +16,4 @@ Please can you ring 0207 891 1275 or 07813815829 if you have seen him.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

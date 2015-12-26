@@ -21,4 +21,4 @@ Remember, if you can't say anything nice, don't say anything.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

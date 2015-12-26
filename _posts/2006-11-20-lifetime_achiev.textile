@@ -38,4 +38,4 @@ Josephides has also been recognised by the governments of Cyprus and Portugal an
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

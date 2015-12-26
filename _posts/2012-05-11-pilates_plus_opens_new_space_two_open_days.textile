@@ -38,4 +38,4 @@ h4. More Information
 * info@pilates-plus.co.uk
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

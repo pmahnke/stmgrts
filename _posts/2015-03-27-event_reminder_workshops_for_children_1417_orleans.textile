@@ -42,4 +42,4 @@ h4. More Information
 * We  also have a full schedule of holidays workshops for children aged 4-14, which you can find more details about on "our galley website":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/education_at_orleans_house_gallery/art_clubs_and_holiday_activities/holiday_activities.htm.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

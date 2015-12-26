@@ -46,4 +46,4 @@ _Credit: The photographs of the River Crane were taken by Amanda Day LRPS_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

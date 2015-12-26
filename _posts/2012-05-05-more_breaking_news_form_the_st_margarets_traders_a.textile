@@ -29,4 +29,4 @@ Churchills will also make a donation to local charity Jonny's Journey for every 
 Good luck 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

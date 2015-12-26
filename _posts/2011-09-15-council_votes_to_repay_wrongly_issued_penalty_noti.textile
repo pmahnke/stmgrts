@@ -36,4 +36,4 @@ The cost of refunding the wrongly issued tickets will be covered by expected und
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

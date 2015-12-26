@@ -25,4 +25,4 @@ The "St Margarets Traders Association":http://mystmargarets.com/ would like to h
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

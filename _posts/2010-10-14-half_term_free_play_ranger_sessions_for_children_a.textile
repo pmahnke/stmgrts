@@ -61,4 +61,4 @@ For further information please check out our web page "www.richmond.gov.uk/play_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

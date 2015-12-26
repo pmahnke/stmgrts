@@ -43,4 +43,4 @@ DO NOT APPLY IF YOU DON'T HAVE THE RIGHT EQUIPMENT AND EXPERIENCE AS THESE ARE E
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

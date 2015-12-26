@@ -31,4 +31,4 @@ On the plus side, we will have morrismen at the farmers' market from 11am this S
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

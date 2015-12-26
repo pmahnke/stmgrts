@@ -17,4 +17,4 @@ The Furniture Scheme collect donated furniture from the Richmond borough area, w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

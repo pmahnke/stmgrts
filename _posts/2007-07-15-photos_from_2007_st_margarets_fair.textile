@@ -33,4 +33,4 @@ If you have any, please forward them to us at "content@stmgrts.org.uk":mailto:co
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

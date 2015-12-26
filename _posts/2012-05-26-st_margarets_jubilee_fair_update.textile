@@ -33,4 +33,4 @@ _Please pass this information on and feel free to post on your websites, media, 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

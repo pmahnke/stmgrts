@@ -26,4 +26,4 @@ p. <cite>Richmond & Twickenham Times - "20 April 2012":http://www.richmondandtwi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

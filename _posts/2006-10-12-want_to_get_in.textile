@@ -16,4 +16,4 @@ To take part you need to be available for eight one-hour home Pilates sessions b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

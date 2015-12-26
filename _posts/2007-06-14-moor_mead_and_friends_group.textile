@@ -27,4 +27,4 @@ We would also like to know what you thought of the Fitpoint.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

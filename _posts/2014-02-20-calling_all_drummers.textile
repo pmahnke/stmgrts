@@ -26,4 +26,4 @@ If you are interested, please contact Geoff Varrall on:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -34,4 +34,4 @@ or post to 29 Popes Avenue, Twickenham TW2 5TP
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

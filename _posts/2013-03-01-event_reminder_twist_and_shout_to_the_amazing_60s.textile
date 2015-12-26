@@ -36,4 +36,4 @@ _All proceeds go to The Royal Marsden Cancer Hospital_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

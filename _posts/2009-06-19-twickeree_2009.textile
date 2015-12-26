@@ -62,4 +62,4 @@ _Calling L- Leader, you are cleared for landing!_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

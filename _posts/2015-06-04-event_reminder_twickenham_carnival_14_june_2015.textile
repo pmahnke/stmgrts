@@ -22,4 +22,4 @@ Carnival 2015 will celebrate 'team spirit' as we welcome the arrival of the Rugb
 Join us for an afternoon of live Carnival music and dance, fused with sports games, arts-activities and workshops.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

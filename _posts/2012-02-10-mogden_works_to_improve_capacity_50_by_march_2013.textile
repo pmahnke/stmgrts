@@ -16,4 +16,4 @@ The half-way line to completion has been crossed in the &pound;140m improvement 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

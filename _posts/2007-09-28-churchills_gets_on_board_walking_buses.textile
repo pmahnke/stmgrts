@@ -38,4 +38,4 @@ Further information for parents interested in using the Walking Bus services:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

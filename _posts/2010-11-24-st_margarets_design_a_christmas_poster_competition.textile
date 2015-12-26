@@ -40,4 +40,4 @@ h3. The Rules...
 _Have fun and good luck!_
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

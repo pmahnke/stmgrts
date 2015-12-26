@@ -26,4 +26,4 @@ For further information about the Easter workshops, readers should contact Livia
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

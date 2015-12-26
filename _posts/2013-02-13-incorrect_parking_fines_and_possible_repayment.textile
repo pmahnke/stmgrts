@@ -34,4 +34,4 @@ _Why can't our professional parking operators/office/staff know and implement th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

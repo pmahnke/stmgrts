@@ -32,4 +32,4 @@ Richmond Council's "Partners in Dance":http://www.stmgrts.org.uk/directory/theat
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

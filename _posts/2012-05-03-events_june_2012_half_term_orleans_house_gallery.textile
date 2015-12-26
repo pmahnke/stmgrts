@@ -69,4 +69,4 @@ Free Drop-in Workshops for Families, 2pm - 3.30. Suitable for children aged 4 up
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

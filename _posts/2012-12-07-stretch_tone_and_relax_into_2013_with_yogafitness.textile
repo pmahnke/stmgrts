@@ -39,4 +39,4 @@ _Sammie Mason is a Student Teacher with the British Wheel of Yoga_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

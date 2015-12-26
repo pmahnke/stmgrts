@@ -13,4 +13,4 @@ Orleans Infants are having some work done to the Nursery Playground - there are 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

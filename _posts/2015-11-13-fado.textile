@@ -99,4 +99,4 @@ h4. Ana Moura singing 'Fado Loucura'
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ The array of things up for grabs at bargain basement prices is vast, from toys, 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

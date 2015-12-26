@@ -21,4 +21,4 @@ Apparently, since the Tesco planning request was retrospective, they will have t
 * "Planning Officer's Report":http://www.ukplanning.com/richmond/doc/Report-2619733?extension=.pdf&wmTransparency=0&wmLocation=0&id=2619733&location=VOLUME1&contentType=application%2Fpdf&wmName=&pageCount=5
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

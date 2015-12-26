@@ -17,4 +17,4 @@ More info can be found on "www.justgiving.com/marblehill_dogwalkers":http://www.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

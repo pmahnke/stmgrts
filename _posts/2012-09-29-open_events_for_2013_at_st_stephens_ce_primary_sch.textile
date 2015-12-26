@@ -34,4 +34,4 @@ The St Stephen's team is looking forward to meeting you.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

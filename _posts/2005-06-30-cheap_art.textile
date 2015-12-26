@@ -15,4 +15,4 @@ Get a special &pound;10 ticket for the "Richmond Theatre's":http://stmgrts.org.u
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

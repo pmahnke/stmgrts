@@ -15,4 +15,4 @@ Patients will not have to change registrations as a result of the move.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

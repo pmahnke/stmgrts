@@ -30,4 +30,4 @@ _St Margarets' Traders Association_
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

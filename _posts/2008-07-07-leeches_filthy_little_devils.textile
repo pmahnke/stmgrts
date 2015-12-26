@@ -35,4 +35,4 @@ The Tidal Crane Association River Clearing took place on Saturday 5th July
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

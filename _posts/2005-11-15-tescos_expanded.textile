@@ -41,4 +41,4 @@ p. To that end, we recommend the following:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

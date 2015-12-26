@@ -23,4 +23,4 @@ At a Court hearing, the Judge reviewed all the evidence presented and agreed wit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

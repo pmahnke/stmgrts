@@ -32,4 +32,4 @@ If you would like to register your interest, or want to know more, please contac
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

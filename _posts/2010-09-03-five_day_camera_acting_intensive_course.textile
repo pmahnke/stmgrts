@@ -26,4 +26,4 @@ For more information: "filmventure.co.uk/intensivefilmacting.html":http://filmve
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -24,4 +24,4 @@ Here are a few things to help you celebrate Guy Fawkes Night.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

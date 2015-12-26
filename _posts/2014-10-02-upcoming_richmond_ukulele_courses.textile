@@ -28,4 +28,4 @@ As always Surya will be involved in local charities and everyone is welcome to j
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

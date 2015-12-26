@@ -13,4 +13,4 @@ A much loved neutered tortoiseshell moggy called Isis went missing from Gordon A
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

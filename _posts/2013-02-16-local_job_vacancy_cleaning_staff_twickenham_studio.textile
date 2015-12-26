@@ -20,4 +20,4 @@ For further details please contact info@twickenhamstudios.com
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

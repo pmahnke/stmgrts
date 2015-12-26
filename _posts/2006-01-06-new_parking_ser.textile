@@ -17,4 +17,4 @@ Also from Monday the _Richmond Parking Shop_ is moving to 232 Upper Richmond Roa
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

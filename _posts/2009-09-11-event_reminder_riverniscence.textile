@@ -24,4 +24,4 @@ The project brings together school students from Christ's with elders of the riv
 Between The Locks is hosting a reminiscence morning, "River-niscence, on Wednesday 23<sup>rd</sup> September at Vestry Hall, Paradise Road in Richmond":http://stmgrts.org.uk/event/meeting/200705142218. The event will run from 10:30am to 12:30pm and is an opportunity for those who worked on the river or who were and are part of the river community to reminiscence about life and work, exchange stories with old friends and our young interviewers! You supply the story, we'll supply the tea! We hope to see you there! For more information, please contact Fiona on 07941 126 354 or email "fiona@environmenttrust.co.uk":mailto:fiona@environmenttrust.co.uk.  
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

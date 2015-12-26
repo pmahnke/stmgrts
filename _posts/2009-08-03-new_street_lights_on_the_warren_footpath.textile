@@ -22,4 +22,4 @@ All lights will have a white light fixture with no UV which are better for human
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

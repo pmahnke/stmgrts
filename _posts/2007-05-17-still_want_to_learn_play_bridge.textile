@@ -17,4 +17,4 @@ Enquiries: Ned Paul, 020-8892 9429/07944 768643 or "ned@nedpaul.com":mailto:ned@
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

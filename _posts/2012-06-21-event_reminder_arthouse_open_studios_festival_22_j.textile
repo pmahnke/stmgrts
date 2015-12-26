@@ -28,4 +28,4 @@ Admission is free to all open studio venues.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

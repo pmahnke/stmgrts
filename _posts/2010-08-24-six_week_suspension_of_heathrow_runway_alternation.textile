@@ -20,4 +20,4 @@ Details at: "tinyurl.com/32g574l":http://tinyurl.com/32g574l
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

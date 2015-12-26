@@ -21,4 +21,4 @@ Priced &pound;8 each.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

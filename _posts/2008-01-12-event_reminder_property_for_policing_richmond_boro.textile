@@ -24,4 +24,4 @@ Plenty of visitor car parking in the North car park, plus light refreshments wil
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

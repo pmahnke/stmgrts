@@ -19,4 +19,4 @@ It was with huge reluctance that the company had to go into liquidation and I ca
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

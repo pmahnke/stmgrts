@@ -50,4 +50,4 @@ To support For Sanity's Sake in achieving their goal for the Richmond Borough pl
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

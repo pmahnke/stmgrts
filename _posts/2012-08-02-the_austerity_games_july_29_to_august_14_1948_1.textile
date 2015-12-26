@@ -97,4 +97,4 @@ Some of the material in this article first appeared in the "St Margarets Communi
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

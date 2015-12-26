@@ -97,4 +97,4 @@ By Ella Logan, orchestra accompanied by Perry Botkin, recorded exactly 77 years 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -38,4 +38,4 @@ For bookings and more info please see "www.richmond-ukulele.co.uk":http://www.ri
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -20,4 +20,4 @@ Don't forget to bring the kids!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

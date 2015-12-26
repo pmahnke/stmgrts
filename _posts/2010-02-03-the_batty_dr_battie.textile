@@ -58,4 +58,4 @@ There is a continuing debate about the origin of the term "batty" meaning 'eccen
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -38,4 +38,4 @@ h4. More Information
 * 020 8332 1141
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

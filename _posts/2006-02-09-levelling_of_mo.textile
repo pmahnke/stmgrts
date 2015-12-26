@@ -18,4 +18,4 @@ The work is proceeding quickly and should be completed by the end of the week or
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ The Turks Head is a newly refurbished fresh food focussed pub located in the des
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

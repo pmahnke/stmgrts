@@ -77,4 +77,4 @@ We very much look forward to seeing you and your friends and family at as many e
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

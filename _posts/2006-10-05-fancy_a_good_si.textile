@@ -13,4 +13,4 @@ If you're even the tiniest bit musical, or are perhaps daunted by the profession
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -26,4 +26,4 @@ If you would like to nominate a local charity or group you feel deserve some or 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -18,4 +18,4 @@ bq. Ticket office hours at South West Trains (SWT) stations in London and Surrey
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

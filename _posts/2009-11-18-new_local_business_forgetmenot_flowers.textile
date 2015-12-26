@@ -24,4 +24,4 @@ bq. "We realised there was a gap in the market for a florist which catered speci
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

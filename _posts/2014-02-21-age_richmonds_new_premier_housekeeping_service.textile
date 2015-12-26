@@ -36,4 +36,4 @@ To help us to fulfil our vision of this much needed service we require reliable,
 * "Download more detailed job description":/images/AGERICHMOND_HOUSEKEEPERS_JD_AND_PS.pdf  [pdf]
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

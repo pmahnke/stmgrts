@@ -79,4 +79,4 @@ The Thames 'Draw Off' takes place every year in November. The weirs at Richmond 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

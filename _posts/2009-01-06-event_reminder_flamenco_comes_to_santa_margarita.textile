@@ -31,4 +31,4 @@ Regular classes start at the same venue, Wednesday January 21<sup>st</sup>.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

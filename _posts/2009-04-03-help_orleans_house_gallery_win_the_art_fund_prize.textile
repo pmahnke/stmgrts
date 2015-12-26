@@ -23,4 +23,4 @@ The Art Fund Prize recognises and stimulates originality and excellence in museu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -67,4 +67,4 @@ In 2002 the Poor Sisters of Nazareth moved out with accusations of child abuse r
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

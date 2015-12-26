@@ -68,4 +68,4 @@ _CREDIT: The picture of William and Kate is the official engagement photograph b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

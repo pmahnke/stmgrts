@@ -19,4 +19,4 @@ bq. "I will be very sad to leave _The St Margarets Tavern_ after three brilliant
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

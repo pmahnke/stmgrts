@@ -66,4 +66,4 @@ bq. "The Christian Church is intended to be a society not merely for teaching a 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

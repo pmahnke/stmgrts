@@ -31,4 +31,4 @@ _For further information and application for please contact Maria Walker ("maria
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

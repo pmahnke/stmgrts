@@ -25,4 +25,4 @@ _Come down for a great day out and help support your local community._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ Look for the "correction" tomorrow.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

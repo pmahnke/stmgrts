@@ -28,4 +28,4 @@ If you want to find out more about NSMRA or any of their events please Email: "n
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

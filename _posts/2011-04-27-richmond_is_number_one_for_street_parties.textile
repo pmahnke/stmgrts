@@ -43,4 +43,4 @@ The most parties in the borough, with 18, is St Margarets and Twickenham!
 * Winchester Road
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

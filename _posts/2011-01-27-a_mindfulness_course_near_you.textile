@@ -25,4 +25,4 @@ email "Gomindfully@hotmail.co.uk":mailto:Gomindfully@hotmail.co.uk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

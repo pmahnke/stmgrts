@@ -49,4 +49,4 @@ Our Barn "@Osterley":http://www.twitter.com/Osterley starts in March and there a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -29,4 +29,4 @@ Contact me either by calling 020 8400 1797 or mobile 07770 993289.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -15,4 +15,4 @@ The Film Festival is a community event created by Twickenham Alive in 2013 which
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

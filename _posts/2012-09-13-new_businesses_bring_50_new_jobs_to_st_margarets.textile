@@ -39,4 +39,4 @@ bq. "There are now no empty shops here, and very few areas are able to claim tha
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -22,4 +22,4 @@ If you are looking for an on-trend, stylish knitting or crochet project this win
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

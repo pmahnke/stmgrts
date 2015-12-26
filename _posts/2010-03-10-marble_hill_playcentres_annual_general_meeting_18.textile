@@ -26,4 +26,4 @@ If you are interested, please contact the Chair, Sarah Liquorish by phone (88926
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

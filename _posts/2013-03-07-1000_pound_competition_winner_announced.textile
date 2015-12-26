@@ -30,4 +30,4 @@ _The answer was of course... Gregory Goyle_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

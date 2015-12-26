@@ -36,4 +36,4 @@ h4. Thursday, 13 December 2012
 * "Richmond Community Choir Christmas Concert":http://www.stmgrts.org.uk/archives/2012/11/event_reminder_richmond_community_choir_christmas.html - from 7.30pm
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

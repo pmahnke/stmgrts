@@ -246,4 +246,4 @@ Unique handmade silver jewellery with a sculptural concept.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

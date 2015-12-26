@@ -35,4 +35,4 @@ Consultation ends on 3 September 2010
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

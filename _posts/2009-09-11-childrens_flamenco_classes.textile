@@ -45,4 +45,4 @@ They will be at Winchester Hall, St Margarets on Wednesdays from 4.00 to 4.45pm,
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

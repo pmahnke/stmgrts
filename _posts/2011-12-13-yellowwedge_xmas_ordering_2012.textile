@@ -46,4 +46,4 @@ And whatever your plans for the festive season, our very best wishes from all of
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

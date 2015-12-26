@@ -38,4 +38,4 @@ Ages 10-14 -- 1.00pm - 4.30pm - &pound;150.00
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

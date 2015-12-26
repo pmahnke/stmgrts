@@ -42,4 +42,4 @@ Contact on the day : Jenny Pearce 07792 944564
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

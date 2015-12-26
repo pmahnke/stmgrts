@@ -21,4 +21,4 @@ p. According to people in the St Margarets shop, they are going to remain open.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -81,4 +81,4 @@ Also working on <em>'Rise and Shine'</em> 22 years ago was an 18 year old runner
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

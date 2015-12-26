@@ -27,4 +27,4 @@ bq. "TfL must not continue to act with the arrogance and disdain to local concer
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

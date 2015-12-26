@@ -15,4 +15,4 @@ King was sentenced to an attendance centre order for 24 hours and ordered to pay
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

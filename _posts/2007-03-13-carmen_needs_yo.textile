@@ -22,4 +22,4 @@ For further details visit "www.2x2opera.co.uk":http://www.2x2opera.co.uk.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

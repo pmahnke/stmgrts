@@ -21,4 +21,4 @@ Here are the "results so far.":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=f
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

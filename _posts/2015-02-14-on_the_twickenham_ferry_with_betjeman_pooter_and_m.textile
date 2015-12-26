@@ -111,4 +111,4 @@ If you haven't already read <em>"The Diary of a Nobody":http://www.gutenberg.org
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

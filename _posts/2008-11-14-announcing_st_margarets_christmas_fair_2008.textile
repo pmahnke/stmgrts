@@ -22,4 +22,4 @@ And if anybody would like a stall please can they contact Anita at "anita@forgoo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

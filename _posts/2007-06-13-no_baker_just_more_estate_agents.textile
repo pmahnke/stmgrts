@@ -28,4 +28,4 @@ UPDATE: strangely, people are having a hard time reading the links in this parti
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

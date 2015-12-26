@@ -27,4 +27,4 @@ Director Katie Abbott says: "We had scenes from The Importance of Being Earnest'
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -38,4 +38,4 @@ For more information or to register a pitch please call Laurence on 0208 400 982
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

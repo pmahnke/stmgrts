@@ -18,4 +18,4 @@ Contact: Su Bonfanti, on behalf of the East Twickenham Village Group, on "su@bon
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

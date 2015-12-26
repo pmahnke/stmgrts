@@ -30,4 +30,4 @@ Entrance: &pound;1
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

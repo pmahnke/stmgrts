@@ -40,4 +40,4 @@ fn1. *cartophile* n. _One who greatly admires and enjoys maps_
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

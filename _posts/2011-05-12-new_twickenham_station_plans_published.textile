@@ -32,4 +32,4 @@ It seems clear that this application has been agreed by officers in advance & is
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

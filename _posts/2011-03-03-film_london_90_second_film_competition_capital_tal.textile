@@ -44,4 +44,4 @@ For more information, application forms, and the terms & conditions please visit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

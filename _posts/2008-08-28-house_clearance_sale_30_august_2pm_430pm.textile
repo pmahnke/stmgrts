@@ -31,4 +31,4 @@ _p.s. please bring change._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -29,4 +29,4 @@ Special "double" discounts on mixed cases will be available at the event. Ticket
 -- _from a press release_
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

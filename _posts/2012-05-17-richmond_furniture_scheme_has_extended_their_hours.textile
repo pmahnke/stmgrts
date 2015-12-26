@@ -17,4 +17,4 @@ We are part of the newly launched Re-Ward Scheme that gives members rewards when
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

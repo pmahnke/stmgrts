@@ -32,4 +32,4 @@ fn1. 25% discount off food only. All bookings must be made in advance - 0208 943
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

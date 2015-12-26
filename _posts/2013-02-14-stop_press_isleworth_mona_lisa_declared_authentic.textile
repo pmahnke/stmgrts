@@ -35,4 +35,4 @@ For the full background story please read "The Isleworth Mona Lisa":http://www.s
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

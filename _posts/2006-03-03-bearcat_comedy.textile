@@ -26,4 +26,4 @@ he can, later in the year."
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ This time however, our rehearsals will not be sung to the panelled walls of that
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

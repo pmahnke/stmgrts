@@ -21,4 +21,4 @@ p. _-- from *The Guardian*, 16 January 2006_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

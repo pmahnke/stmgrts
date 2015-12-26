@@ -26,4 +26,4 @@ Additionally, they are now taking advance bookings for special guided tours for 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -30,4 +30,4 @@ To donate please visit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

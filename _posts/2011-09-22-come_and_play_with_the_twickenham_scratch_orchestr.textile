@@ -22,4 +22,4 @@ Please let us know if you might be interested and what instrument you play by em
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

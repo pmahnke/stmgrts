@@ -21,4 +21,4 @@ h4. "Details":http://stmgrts.org.uk/event/event/200705142722
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -54,4 +54,4 @@ Klaus told me later that George and his wife Patti Boyd were staying with Bob Dy
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -36,4 +36,4 @@ h4. More Information
 * Read the original article - "TFL Consultation on A316 St Margarets Crossing":http://www.stmgrts.org.uk/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

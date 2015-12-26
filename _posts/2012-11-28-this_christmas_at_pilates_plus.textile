@@ -34,4 +34,4 @@ We will be open right up until 4pm on Christmas Eve and on all Sundays in Decemb
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

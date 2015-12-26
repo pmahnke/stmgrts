@@ -18,4 +18,4 @@ Please ask her to call into _Absolute Pets_ at 47 Crown Road to collect her priz
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

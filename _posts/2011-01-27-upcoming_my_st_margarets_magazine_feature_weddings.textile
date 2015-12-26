@@ -25,4 +25,4 @@ Please send your wedding stories to "editor@mystmargarets.com":mailto:editor@mys
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

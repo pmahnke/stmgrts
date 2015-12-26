@@ -21,4 +21,4 @@ _Thanks Maeve Good!_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

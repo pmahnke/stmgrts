@@ -15,4 +15,4 @@ It will be suitable for parents with pre-school children, and will have a few to
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

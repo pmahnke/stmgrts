@@ -27,4 +27,4 @@ What do you think?  "Vote in our poll":http://www.stmgrts.org.uk/poll/ststephens
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -121,4 +121,4 @@ h3. CHAIR
 The meeting, which started at 7.30pm, ended at 8.49pm.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -41,4 +41,4 @@ h4. More Information
 * "Downlaod the flyer":http://www.stmgrts.org.uk/images//Dream-Catcher-Flyer-Easter-2014.jpg
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

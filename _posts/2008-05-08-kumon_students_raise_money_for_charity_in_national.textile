@@ -22,4 +22,4 @@ Toru Kumon, a maths teacher from Japan, began developing worksheets for his son 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

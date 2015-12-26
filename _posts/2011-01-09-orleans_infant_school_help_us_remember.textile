@@ -25,4 +25,4 @@ Plans are being formulated to celebrate the School Centenary with several events
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

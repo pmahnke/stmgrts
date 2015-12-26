@@ -34,4 +34,4 @@ You could have your mobile phone registered and your bike marked for FREE.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

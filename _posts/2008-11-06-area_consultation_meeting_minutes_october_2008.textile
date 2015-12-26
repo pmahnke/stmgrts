@@ -19,4 +19,4 @@ The Minutes for the St Margarets & North Twickenham and Twickenham Riverside ACM
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

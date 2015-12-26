@@ -32,4 +32,4 @@ There's also some mystery bloke on there as well - Don't know if you recognise h
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

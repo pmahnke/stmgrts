@@ -21,4 +21,4 @@ Philip Brocklehurst
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -1,12 +1,14 @@
 <div class="comments">
     <h2>Comments</h2>
     <ul>
-{% for comment in site.data.[page.commentfile] %}
+{% for comment in site.data.{{ include.commentfile   }} %}
+    {% if comment.comment != null %}
         <li>
 {{ comment.comment }}
             <cite>{{ comment.author }} on {{ comment.date }}</cite>
 
         </li>
+    {% endif %}
 {% endfor %}
     </ul>
 </div><!-- end comments -->
@@ -22,7 +24,7 @@
             <p><label for="comment">Comment</label><br />
                 <textarea id="comment" name="comment"></textarea></p>
             <p><input type="submit" name="a" value="comment" /></p>
-                <input type="hidden" name="page-id" value="[page.commentfile]" />
+                <input type="hidden" name="page-id" value="{{ include.commentfile }}" />
         </fieldset>
     </form>
 </div>

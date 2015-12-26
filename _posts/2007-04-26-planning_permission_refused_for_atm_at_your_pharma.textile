@@ -15,4 +15,4 @@ Reason for the refusal was that the plans would "visually clutter" the shop fron
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

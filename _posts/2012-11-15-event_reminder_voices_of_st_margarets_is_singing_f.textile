@@ -40,4 +40,4 @@ For more information please contact Surya on 07770 993289 or email "info@vitalvo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

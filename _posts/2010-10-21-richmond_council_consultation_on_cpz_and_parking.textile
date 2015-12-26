@@ -33,4 +33,4 @@ h4. Additional information and links
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

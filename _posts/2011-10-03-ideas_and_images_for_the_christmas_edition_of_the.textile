@@ -21,4 +21,4 @@ We might be in the middle of an Indian Summer but were busy compiling the Christ
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -35,4 +35,4 @@ Those wishing to join the St.Art mailing list for details of future events or to
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

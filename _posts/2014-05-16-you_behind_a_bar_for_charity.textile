@@ -22,4 +22,4 @@ If you can spare and hour or two on 12 July 2014, please email Zeph King at zeph
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

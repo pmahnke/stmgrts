@@ -15,4 +15,4 @@ The concert features choral, chamber music and jazz, performed by the Music Stud
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

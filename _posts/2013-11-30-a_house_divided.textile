@@ -83,4 +83,4 @@ fn1. For a fuller description of St Margaret and her many miracles please look a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

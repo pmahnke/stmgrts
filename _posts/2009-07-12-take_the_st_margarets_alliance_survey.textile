@@ -72,4 +72,4 @@ Chair Barry Edwards says "This Survey represents a great opportunity for residen
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

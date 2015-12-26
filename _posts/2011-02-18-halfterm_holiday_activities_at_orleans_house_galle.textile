@@ -84,4 +84,4 @@ Booking is essential for all half term activities. Book online or call Orleans H
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

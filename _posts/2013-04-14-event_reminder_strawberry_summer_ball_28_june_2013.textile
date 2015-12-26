@@ -33,4 +33,4 @@ Tickets for the Strawberry Summer Ball are &pound;35 and can be purchased by vis
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

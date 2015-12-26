@@ -54,4 +54,4 @@ The NSMRA invite you to proceed on their musical and poetical excursion from 2.3
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

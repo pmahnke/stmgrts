@@ -122,4 +122,4 @@ Alastair Sim in <em>"A Christmas Carol"</em>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

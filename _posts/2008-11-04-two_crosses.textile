@@ -62,4 +62,4 @@ Records of the 1st World War are often inconsistent and contradictory but if you
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

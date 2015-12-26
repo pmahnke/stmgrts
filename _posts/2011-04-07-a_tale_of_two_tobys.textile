@@ -83,4 +83,4 @@ _CREDIT: The painting of Twickenham Green is by David Hankin_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

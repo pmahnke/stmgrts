@@ -56,4 +56,4 @@ fn1. "Dyb, dyb, dyb" was an instruction to "Do Your Best!". The Cubs replied wit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

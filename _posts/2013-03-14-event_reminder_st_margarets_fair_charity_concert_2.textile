@@ -30,4 +30,4 @@ _Bar and Snacks will be available_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -25,4 +25,4 @@ Bike Fest runs from 10am - 4.00pm at Kneller Gardens, The Meadway, Twickenham, o
 <cite>-- from a Richmond Council press release "14 June 2012":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/june_2012_press_releases/bike_fest_comes_to_borough.htm</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

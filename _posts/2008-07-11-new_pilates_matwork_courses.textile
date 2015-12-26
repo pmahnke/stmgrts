@@ -33,4 +33,4 @@ _Fully qualified and Insured_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

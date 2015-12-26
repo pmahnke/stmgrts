@@ -17,4 +17,4 @@ If you RSVP, your kids can have a free lunch.  To RSVP, email "turkshead@fullers
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

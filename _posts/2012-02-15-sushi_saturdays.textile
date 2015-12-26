@@ -27,4 +27,4 @@ Eddie's stall is fully licensed by Richmond council. The St Margarets Traders As
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

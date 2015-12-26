@@ -19,4 +19,4 @@ Solum Regeneration's plans for Twickenham station were approved by Richmond Coun
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

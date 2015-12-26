@@ -17,4 +17,4 @@ Compost bins will be on sale from 12 noon. Entrance to the event for pedestrians
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

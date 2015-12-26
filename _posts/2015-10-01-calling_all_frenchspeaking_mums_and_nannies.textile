@@ -18,4 +18,4 @@ SVP joignez notre groupe : << Mamans et nounous dans le sud-ouest de Londres >> 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

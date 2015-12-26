@@ -44,4 +44,4 @@ p. In his defence Goulter's counsel submitted a plea of insanity, supported by h
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

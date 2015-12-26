@@ -16,4 +16,4 @@ We're currently learning a range of pieces for our Christmas concert on 13 Decem
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

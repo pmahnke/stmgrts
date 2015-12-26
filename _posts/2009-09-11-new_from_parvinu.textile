@@ -21,4 +21,4 @@ Here are a few things from Parvinu:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

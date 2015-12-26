@@ -90,4 +90,4 @@ _Credit: The Ride to York is by Chris Rawlins_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

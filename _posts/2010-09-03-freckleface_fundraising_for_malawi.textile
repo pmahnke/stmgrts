@@ -33,4 +33,4 @@ For more information, or to book a session, please call Emma on 07814301926, ema
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -28,4 +28,4 @@ Get your 'S'*KATES* on - closing deadline for entries is 27<sup>th</sup> April. 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ All submissions must be made by post to Orleans House Gallery, Riverside, Twicke
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -67,4 +67,4 @@ bq. "A road map always tells you everything except how to refold it."
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

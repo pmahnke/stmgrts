@@ -28,4 +28,4 @@ Several manufacturers are working on 'plug-in hybrids' (hybrid hybrids, if you l
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

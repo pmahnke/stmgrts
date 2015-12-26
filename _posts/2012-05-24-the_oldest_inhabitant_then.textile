@@ -82,4 +82,4 @@ Next week we will be following on the Diamond Jubilee tradition established by t
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

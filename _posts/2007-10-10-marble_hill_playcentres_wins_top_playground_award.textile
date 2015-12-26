@@ -19,4 +19,4 @@ The Adventure Playground has had a busy summer season despite the wet weather. H
 Marble Hill Playcentres took over the running of the Adventure Playground and One O'Clock Club in 2001. MHP is a registered charity and is run by a voluntary management committee.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

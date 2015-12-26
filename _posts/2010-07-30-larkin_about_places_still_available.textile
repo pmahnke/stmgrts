@@ -22,4 +22,4 @@ This is a free project but booking in advance is a must. If you would like to co
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

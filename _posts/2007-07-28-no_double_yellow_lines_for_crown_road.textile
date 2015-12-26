@@ -19,4 +19,4 @@ No details are available at present.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

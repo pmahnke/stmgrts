@@ -57,4 +57,4 @@ We wish them the best of luck and hope they fine a nearby location soon.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

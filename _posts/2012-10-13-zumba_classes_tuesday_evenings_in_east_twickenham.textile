@@ -28,4 +28,4 @@ The class takes part on a Tuesday evening at 7.30 until 8.30pm in the Crossway C
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

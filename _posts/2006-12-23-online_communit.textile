@@ -19,4 +19,4 @@ With all the talk about e-democracy, it is a shame that Oncom could not find the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

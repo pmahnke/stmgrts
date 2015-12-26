@@ -24,4 +24,4 @@ bq. “The Isabella Plantation is a beautiful woodland garden inside Richmond Pa
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

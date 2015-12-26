@@ -33,4 +33,4 @@ Also, the mausoleum will be "open on Saturday 19<sup>th</sup> September":http://
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

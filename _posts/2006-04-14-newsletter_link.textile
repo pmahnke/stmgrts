@@ -17,4 +17,4 @@ Sorry for any confusion.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

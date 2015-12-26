@@ -218,4 +218,4 @@ h3. Families Upon Thames
 For more ideas  go to "www.familiesonline.co.uk/local/upon-thames":http://www.familiesonline.co.uk/local/upon-thames and look under the 'out and about' section for more great ideas for day trips, sports, cinema, theatre, museums, events and great fun  in and around London.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

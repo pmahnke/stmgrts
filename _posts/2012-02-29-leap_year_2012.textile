@@ -90,4 +90,4 @@ And 29 in each leap year
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

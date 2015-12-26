@@ -168,4 +168,4 @@ h3. Sunday Afternoon Art
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -57,4 +57,4 @@ The Saint Valentine who is celebrated on February 14 remains in the Catholic Chu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

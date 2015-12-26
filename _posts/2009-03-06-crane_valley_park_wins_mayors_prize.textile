@@ -27,4 +27,4 @@ The work now begins in earnest to use the award of &pound;400,000 to create a bi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

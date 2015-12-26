@@ -35,4 +35,4 @@ Home-made food and drinks in the garden.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

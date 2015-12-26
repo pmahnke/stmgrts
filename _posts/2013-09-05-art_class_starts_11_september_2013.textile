@@ -38,4 +38,4 @@ _To maintain a high standard of tuition, spaces are limited and are going fast._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

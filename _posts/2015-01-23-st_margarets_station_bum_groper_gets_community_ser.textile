@@ -20,4 +20,4 @@ He was also ordered to pay total costs of &pound;220, including &pound;75 compen
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ The playground will extend slightly beyond the boundary of the current one to re
 The existing maintenance contracts with playground companies as the rest of the borough apply. Equipment is checked on a monthly basis to ensure safe -- nuts and bolts secure and so on.  Any faults are reported when these checks are made. Service Team will make daily checks for glass, rubbish and graffiti.  Yearly inspections and risks are assessed by an independent company.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

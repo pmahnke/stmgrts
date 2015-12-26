@@ -21,4 +21,4 @@ Be warned! Light sleepers may be awoken early on Saturday 12th July by distant t
 It has long been recognised that smashing up china is very therapeutic and a positive boon to mental health. With that thought in mind you should come to the St. Margarets Fair on Saturday 12th July and throw a few exhibit 2's at exhibit 3's.  Beat the Kredit Krunch before Krazy Kitchen gets privatised!
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

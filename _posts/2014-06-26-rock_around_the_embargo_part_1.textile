@@ -80,4 +80,4 @@ Mean, moody, magnificent - and playing American Fender guitars! (Sorry about the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

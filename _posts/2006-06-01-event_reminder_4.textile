@@ -34,4 +34,4 @@ Contact Judy Maciejowska "judymaciejowska@blueyonder.co.uk":mailto:judymaciejows
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

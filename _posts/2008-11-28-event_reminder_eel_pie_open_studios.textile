@@ -44,4 +44,4 @@ There will also be food and drink.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ We haven't provided a link to the story because of the subscription fee The Time
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

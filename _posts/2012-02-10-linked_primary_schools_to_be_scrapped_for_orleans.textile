@@ -19,4 +19,4 @@ This will make places at Orleans Park available to the East Twickenham children 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -26,4 +26,4 @@ These teaching resources which are produced in South Africa includes tools such 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

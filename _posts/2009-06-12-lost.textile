@@ -27,4 +27,4 @@ Prize draw takes place at the "St Margarets Family Fun Day":http://www.stmgrts.o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

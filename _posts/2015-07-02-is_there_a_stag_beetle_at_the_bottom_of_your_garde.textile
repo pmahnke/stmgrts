@@ -108,4 +108,4 @@ h4. Stag Beetles males fighting...
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

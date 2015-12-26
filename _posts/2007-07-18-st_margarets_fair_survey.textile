@@ -27,4 +27,4 @@ Please "follow this link to take the survey":http://www.surveymonkey.com/s.aspx?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

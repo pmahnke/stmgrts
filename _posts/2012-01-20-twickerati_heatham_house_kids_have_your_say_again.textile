@@ -19,4 +19,4 @@ The future of youth provision in the Borough is bubbling up nicely as part of th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

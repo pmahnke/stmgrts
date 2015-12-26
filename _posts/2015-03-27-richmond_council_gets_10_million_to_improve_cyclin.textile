@@ -30,4 +30,4 @@ bq. "This is long awaited good news. The A316 improvements should be a real help
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

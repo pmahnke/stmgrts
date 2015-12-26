@@ -25,4 +25,4 @@ Brunch and lunch being served.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

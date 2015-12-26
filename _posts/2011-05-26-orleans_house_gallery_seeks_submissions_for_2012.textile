@@ -27,4 +27,4 @@ To receive a submissions pack outlining how to apply, please call the gallery on
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

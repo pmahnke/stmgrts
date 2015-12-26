@@ -26,4 +26,4 @@ Jackie Aviolet (aka Rosie) grows a little bit of everything on her nursery near 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -17,4 +17,4 @@ If people would like to contact us, please email "marblehillap@talktalk.net":mai
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

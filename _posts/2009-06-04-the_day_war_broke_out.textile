@@ -107,4 +107,4 @@ The editorial in the 'Richmond and Twickenham Times' summed it up neatly... "a b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

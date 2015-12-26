@@ -28,4 +28,4 @@ London MEP Mary Honeyball has appealed to the European Commission to help on the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -28,4 +28,4 @@ Well done to all who participated!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

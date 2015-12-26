@@ -31,4 +31,4 @@ Tickets can be booked now by contacting "vocals@vodafone.net":mailto:vocals@voda
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

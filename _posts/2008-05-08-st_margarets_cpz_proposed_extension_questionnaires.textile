@@ -57,4 +57,4 @@ Email: "stmargaretscpzconsultation@richmond.gov.uk":mailto:stmargaretscpzconsult
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

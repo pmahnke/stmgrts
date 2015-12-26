@@ -15,4 +15,4 @@ You can turn it in to a family outing, take some time out and do something for y
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

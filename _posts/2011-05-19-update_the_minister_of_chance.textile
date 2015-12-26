@@ -30,4 +30,4 @@ download the Prologue (free) and First Episode (&pound;1.29) via: "www.ministero
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

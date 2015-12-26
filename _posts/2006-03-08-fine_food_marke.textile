@@ -25,4 +25,4 @@ h3. Links
 * "Planning Officer Report":http://cabnet.richmond.gov.uk/Published/C00000224/M00001390/AI00010455/$Carparkrearof107StMargaretsRoad.doc.pdf
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

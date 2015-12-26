@@ -21,4 +21,4 @@ The trial cards are intended to grab attention and promote the full Richmond Car
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

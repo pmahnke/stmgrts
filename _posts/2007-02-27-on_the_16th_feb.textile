@@ -23,4 +23,4 @@ For all the details, read the Committee's letter <a href="//stmgrts.org.uk/asset
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

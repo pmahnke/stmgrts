@@ -22,4 +22,4 @@ If so, to please phone me  8892 1748 leaving details for me to call back.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

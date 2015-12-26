@@ -35,4 +35,4 @@ Consultation documents are available from: The Civic Centre reception in Twicken
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

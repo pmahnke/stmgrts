@@ -19,4 +19,4 @@ For more information please visit: "www.mrsmoon.co.uk":http://www.mrsmoon.co.uk/
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

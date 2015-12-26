@@ -22,4 +22,4 @@ John Stewart, Chair of residents' group HACAN ClearSkies, said, "The Government 
 -- _from HACAN ClearSkies_
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

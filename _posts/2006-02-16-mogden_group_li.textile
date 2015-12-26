@@ -15,4 +15,4 @@ Neil Stockdale, at the environment group at Hugh James, was appointed as the lea
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

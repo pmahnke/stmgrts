@@ -27,4 +27,4 @@ The second play was _Games_, which attempts (and succeeds) on breaking the barri
 NOTE:  There is also one last performance of the Saunders' "Bye Bye Blue & Double Double":/cgi-bin/events.cgi?key=200511230736&action=getevent tomorrow at 4pm as well.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

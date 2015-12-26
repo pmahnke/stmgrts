@@ -22,4 +22,4 @@ p. <cite>-- from Alister Cameron</cite>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

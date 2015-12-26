@@ -33,4 +33,4 @@ _Note, updated date to the 13<sup>th</sup> from the 14<sup>th</sup> December 201
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -17,4 +17,4 @@ If you use Richmond upon Thames libraries please "complete the short survey befo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

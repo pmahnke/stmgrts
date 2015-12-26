@@ -27,4 +27,4 @@ _The deadline for comments will be Friday 20 November 2015._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

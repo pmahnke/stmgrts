@@ -32,4 +32,4 @@ For more information and to see the schedule of events, go to: "www.richmond.gov
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

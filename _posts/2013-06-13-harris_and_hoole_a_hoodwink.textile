@@ -85,4 +85,4 @@ bq. "Feb. 3<sup>rd</sup>, 1664. In Covent Garden to-night, going to fetch home m
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

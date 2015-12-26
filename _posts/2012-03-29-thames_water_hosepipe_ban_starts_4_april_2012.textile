@@ -28,4 +28,4 @@ Thames Water Utilities Limited has given notice to all of its customers, that th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

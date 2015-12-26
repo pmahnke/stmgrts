@@ -21,4 +21,4 @@ _All money raised will go to help the school._
 All tickets &pound;10.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

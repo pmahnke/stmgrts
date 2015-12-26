@@ -65,4 +65,4 @@ Produced by For Sanity's Sake "www.forsanityssake.com":http://www.forsanityssake
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

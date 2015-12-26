@@ -84,4 +84,4 @@ bq. "Even to the most biased eye, it is obvious that the <em>'I Ching'</em> repr
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

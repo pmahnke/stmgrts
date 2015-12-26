@@ -19,4 +19,4 @@ For more information please visit "www.positively-pilates.co.uk":http://www.posi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

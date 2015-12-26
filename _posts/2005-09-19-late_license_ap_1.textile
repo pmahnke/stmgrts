@@ -46,4 +46,4 @@ The hearing has passed for The Crown.  They have been granted the following:
 More details "here":http://www.richmond.gov.uk/home/council_government_and_democracy/council/decision_making_council/committees/search_committee_documents.htm?mgl=ieListDocuments.Asp&CId=232&MID=1425#AI9032
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

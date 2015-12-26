@@ -27,4 +27,4 @@ For more details, visit: "www.davidadamsleukaemiaappeal.org":http://www.davidada
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

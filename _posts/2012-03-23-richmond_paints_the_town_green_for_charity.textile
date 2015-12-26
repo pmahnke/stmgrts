@@ -24,4 +24,4 @@ The ultimate success was the money raised for The Citizens Advice Bureau - an ex
 <cite>-- from a Richmond Council Press release - 21 March 2012</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

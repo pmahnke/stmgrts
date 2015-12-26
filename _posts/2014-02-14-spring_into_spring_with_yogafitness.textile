@@ -65,4 +65,4 @@ h4. For more details contact Sammie on:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

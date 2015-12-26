@@ -23,4 +23,4 @@ New signage and publicity in the local newspapers will advertise this new power 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

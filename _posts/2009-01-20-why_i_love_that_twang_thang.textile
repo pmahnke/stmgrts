@@ -52,4 +52,4 @@ The writer of this piece relives those short days of twang by playing with 'Nark
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

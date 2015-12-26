@@ -78,4 +78,4 @@ h4. A YouTube glimpse inside the dome of Kew Observatory
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

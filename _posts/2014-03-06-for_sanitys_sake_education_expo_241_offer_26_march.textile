@@ -25,4 +25,4 @@ h4. More Information
 * At The Winning Post on the A316
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

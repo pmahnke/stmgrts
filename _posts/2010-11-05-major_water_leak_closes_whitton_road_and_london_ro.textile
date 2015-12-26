@@ -22,4 +22,4 @@ Obviously, the timing is horrible with a major international at Twickenham Stadi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

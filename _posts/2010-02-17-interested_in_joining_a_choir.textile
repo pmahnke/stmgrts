@@ -13,4 +13,4 @@ The Community Choir, meets in the Music Centre, Richmond College, Egerton Road, 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

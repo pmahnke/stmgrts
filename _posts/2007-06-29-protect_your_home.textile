@@ -22,4 +22,4 @@ p. ??-- from reader, Lee Hearson??
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

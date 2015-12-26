@@ -44,4 +44,4 @@ p. Unfortunately poor poet Pope was not left to sleep in peace. In 1830 his grav
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -43,4 +43,4 @@ Just a few things make life bearable for Hashem - the support of Israeli friends
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

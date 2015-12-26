@@ -28,4 +28,4 @@ Please email "Anna.Ramsay@richmond.gov.uk":mailto:Anna.Ramsay@richmond.gov.uk to
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

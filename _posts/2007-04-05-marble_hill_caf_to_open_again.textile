@@ -29,4 +29,4 @@ bq. "We are grateful for the support of English Heritage. We will provide fresh 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

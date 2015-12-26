@@ -30,4 +30,4 @@ Tickets for the game can be purchased from Ticketmaster by calling 0844 847 2492
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -15,4 +15,4 @@ John Armstrong died recently, and his memorial service was held at St Mary's Chu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

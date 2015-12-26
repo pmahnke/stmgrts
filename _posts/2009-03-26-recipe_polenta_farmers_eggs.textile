@@ -60,4 +60,4 @@ _This recipe can be partially made the night before. Simply put the dish in the 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -22,4 +22,4 @@ Thank you so much for your time!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -39,4 +39,4 @@ fn1. Includes entrance to the Main House
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

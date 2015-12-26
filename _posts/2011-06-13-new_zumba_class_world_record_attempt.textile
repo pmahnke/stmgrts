@@ -17,4 +17,4 @@ Thank you to Graham Bancroft for the excellent photos of the day.  "See the slid
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

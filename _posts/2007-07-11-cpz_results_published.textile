@@ -79,4 +79,4 @@ The report will be the main business of a "meeting of the Transport Consultative
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

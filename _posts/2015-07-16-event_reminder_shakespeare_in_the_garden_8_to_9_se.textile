@@ -30,4 +30,4 @@ See a different side to the Turk's Head this Summer, with two magical evenings w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

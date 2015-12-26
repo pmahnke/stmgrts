@@ -27,4 +27,4 @@ The next St Margaret's & North Twickenham and Twickenham Riverside ACM is schedu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

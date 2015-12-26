@@ -17,4 +17,4 @@ Twickenham Studios are looking for cleaners to join our housekeeping team. The v
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

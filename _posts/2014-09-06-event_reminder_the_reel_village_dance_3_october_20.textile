@@ -32,4 +32,4 @@ To buy tickets or for more information, please call Judy on 07806 612101 or emai
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -35,4 +35,4 @@ _Health  and fitness coaching with a personal touch._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

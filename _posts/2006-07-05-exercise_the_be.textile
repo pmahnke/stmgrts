@@ -58,4 +58,4 @@ Increasing your daily activity levels to follow.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

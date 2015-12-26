@@ -51,4 +51,4 @@ bq. "We are pleased to reach this decision which works for all parties. We have 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

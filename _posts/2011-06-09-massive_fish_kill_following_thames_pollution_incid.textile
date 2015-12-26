@@ -35,4 +35,4 @@ TAC members have reported seeing may dead Roach, Dace, Bream, schooly Bass and b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

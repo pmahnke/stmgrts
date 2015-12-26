@@ -40,4 +40,4 @@ h4. More Information
 * Tickets £20 half day and £30 full event in advance only through the "website":http://www.tw12jazzfestival.co.uk.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

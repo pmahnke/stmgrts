@@ -23,4 +23,4 @@ If you are interested, check out "Richmond FreeShare":http://mailspaces.com/spac
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

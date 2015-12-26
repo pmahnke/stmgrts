@@ -57,4 +57,4 @@ h4. All lines between Salisbury and Trowbridge will be closed all day Sunday.
 For the latest live running information please see http://www.journeycheck.southwesttrains.co.uk/
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

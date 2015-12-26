@@ -32,4 +32,4 @@ For more information about FORCE and the park project go to "www.force.org.uk":h
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

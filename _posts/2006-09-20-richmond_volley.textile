@@ -17,4 +17,4 @@ Vera Kenyon commented that the Richmond Summer volleyball league is an important
 If you want to get ready for the League competition next summer, do not delay. You can start practicing on Sundays 6-8pm in Whitton Sports Centre, Percy Road, Whitton (just off A 316). All levels welcome. Juniors and Seniors.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ The main part of his visit will be the 'Tell Ken' event that will take place at 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

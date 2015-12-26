@@ -20,4 +20,4 @@ To meet demand for places, last year the Council announced additional investment
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

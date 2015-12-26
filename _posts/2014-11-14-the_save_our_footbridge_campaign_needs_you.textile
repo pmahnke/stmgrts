@@ -28,4 +28,4 @@ Please help the campaign and sign the online petition.
 * "petition":https://www.change.org/p/transport-for-london-withdraw-the-consultation-calling-for-the-removal-of-the-existing-st-margaret-s-footbridge-over-the-a316-and-its-replacement-with-toucan-crossings
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

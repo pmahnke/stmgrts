@@ -73,4 +73,4 @@ h3. Museums-Tired of the Science and Natural History museum – try these!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ _Well done and thank you Simon_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

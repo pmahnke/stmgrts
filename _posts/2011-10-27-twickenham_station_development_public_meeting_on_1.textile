@@ -19,4 +19,4 @@ You can look at these plans, known as <a href="http://trag-sos.moonfruit.com/#/p
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

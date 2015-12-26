@@ -16,4 +16,4 @@ This one is almost convincing.  "Helping Arms" make claims to support University
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

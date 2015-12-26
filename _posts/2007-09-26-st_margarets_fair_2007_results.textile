@@ -26,4 +26,4 @@ For more details about having a stall at the Fair you should contact Julia Kirkp
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

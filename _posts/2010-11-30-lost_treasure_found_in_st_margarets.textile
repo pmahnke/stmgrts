@@ -20,4 +20,4 @@ Please join us at the "St Margarets Christmas Fair":http://www.stmgrts.org.uk/ev
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

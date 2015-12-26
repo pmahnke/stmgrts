@@ -15,4 +15,4 @@ bq. "It is with great sadness that I am writing to report the tragic death of Ja
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

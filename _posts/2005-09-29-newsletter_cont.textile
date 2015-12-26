@@ -17,4 +17,4 @@ This month’s contest is for a six pack of real ale from "Real Ale":/cgi-bin/di
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

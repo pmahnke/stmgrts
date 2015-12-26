@@ -201,4 +201,4 @@ Old Town Hall, 6pm & 7.30pm, &pound;5
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

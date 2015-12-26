@@ -21,4 +21,4 @@ Around a hundred of St Margarets more senior citizens had an early Christmas mea
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

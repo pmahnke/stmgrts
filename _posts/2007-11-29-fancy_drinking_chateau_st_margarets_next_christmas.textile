@@ -16,4 +16,4 @@ Contact Hazelle Jackson on "macn05@dial.pipex.com":mailto:macn05@dial.pipex.com
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

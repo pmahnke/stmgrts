@@ -85,4 +85,4 @@ bq. "Anita was always full of pluck. She was the life of the company wherever sh
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

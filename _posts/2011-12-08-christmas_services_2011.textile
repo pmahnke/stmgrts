@@ -191,4 +191,4 @@ h4. Sunday 25 December
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

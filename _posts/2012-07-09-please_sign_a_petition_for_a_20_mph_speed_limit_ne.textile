@@ -17,4 +17,4 @@ The opening of a new school in Strafford Road makes traffic mitigation imperativ
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

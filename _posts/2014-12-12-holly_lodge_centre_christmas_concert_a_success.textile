@@ -41,4 +41,4 @@ The Holly Lodge Centre was founded more than 20 years ago with the aim of provid
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

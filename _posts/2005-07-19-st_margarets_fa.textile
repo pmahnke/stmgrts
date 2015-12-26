@@ -24,4 +24,4 @@ We have also put up some pictures from the fair of the "football":http://stmgrts
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

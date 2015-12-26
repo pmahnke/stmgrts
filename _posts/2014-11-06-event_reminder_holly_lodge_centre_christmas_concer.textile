@@ -31,4 +31,4 @@ The Holly Lodge Centre in Richmond Park was founded more than 20 years ago with 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

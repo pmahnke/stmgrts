@@ -22,4 +22,4 @@ h4. MEET
 * Also frequent trains from London Waterloo to Teddington Station, 15 minutes walk to Centre.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

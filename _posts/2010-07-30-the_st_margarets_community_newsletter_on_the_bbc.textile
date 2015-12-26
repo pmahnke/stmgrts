@@ -35,4 +35,4 @@ h4. "Ziggy Stardust Came from Isleworth" - BBC Radio 4,  11.30am - Thursday 19<s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

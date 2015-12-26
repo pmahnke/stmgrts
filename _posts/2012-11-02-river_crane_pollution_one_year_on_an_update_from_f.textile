@@ -48,4 +48,4 @@ FORCE will continue to work with the other interested parties to improve the env
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

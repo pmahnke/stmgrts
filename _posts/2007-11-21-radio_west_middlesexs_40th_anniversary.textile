@@ -21,4 +21,4 @@ For more information and programme details go to "www.radiowestmiddlesex.org.uk"
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

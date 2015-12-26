@@ -78,4 +78,4 @@ Boy Seaman First Class Jack Cornwell is still remembered. His name has been give
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

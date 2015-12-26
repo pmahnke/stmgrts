@@ -39,4 +39,4 @@ To find out more about the event or to book tickets, please go online to
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

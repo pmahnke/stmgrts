@@ -17,4 +17,4 @@ The dance is at "York House":http://www.stmgrts.org.uk/directory/historic_house/
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

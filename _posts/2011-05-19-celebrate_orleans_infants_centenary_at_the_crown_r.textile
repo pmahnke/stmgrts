@@ -36,4 +36,4 @@ As the event is also a celebration of Orleans Infants School Centenary year
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ We have also included a range of favourites for Christmas pre-order - details in
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

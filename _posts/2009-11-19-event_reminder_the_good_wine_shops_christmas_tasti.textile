@@ -34,4 +34,4 @@ Tickets are £10 per person and if you buy a dozen bottles on the day you will g
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -43,4 +43,4 @@ p.s. Don't forget to sign-up for the "newsletter":http://stmgrts.org.uk/cgi-bin/
                         
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

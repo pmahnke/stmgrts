@@ -23,4 +23,4 @@ The second formal stage of consultation will take place during September and Oct
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

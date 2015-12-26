@@ -17,4 +17,4 @@ To purchase tickets, starting on 9<sup>th</sup> March 2007 at 9am, go to the "Ti
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

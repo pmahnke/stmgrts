@@ -47,4 +47,4 @@ You can learn more about Andrea and her cooking classes at "www.talkofthetable.c
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

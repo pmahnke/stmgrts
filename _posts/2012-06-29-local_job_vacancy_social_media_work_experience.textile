@@ -30,4 +30,4 @@ Applicants interested in this role should send their details to "traders@mystmar
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

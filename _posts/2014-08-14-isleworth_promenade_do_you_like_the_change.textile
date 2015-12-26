@@ -28,4 +28,4 @@ More information can be found at "www.swlen.org.uk":http://www.swlen.org.uk/look
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

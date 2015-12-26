@@ -44,4 +44,4 @@ Some 'companies' to look out for include:
 <em>-- by Maddie Menzies</em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

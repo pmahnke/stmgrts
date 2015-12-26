@@ -31,4 +31,4 @@ For more information please contact Billy Sincere on 020 8892 5211 or "martyn@da
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

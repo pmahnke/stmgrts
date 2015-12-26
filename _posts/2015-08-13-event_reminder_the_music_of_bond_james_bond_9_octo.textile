@@ -31,8 +31,4 @@ h4. More Information
 "www.royalalberthall.com/tickets/events/2015/friendship-matinee":http://www.royalalberthall.com/tickets/events/2015/friendship-matinee/
 
 
-
-
-
-
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile %}

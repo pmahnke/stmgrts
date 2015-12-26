@@ -29,4 +29,4 @@ If you would like to order a copy of <em>Come and Get It</em> the St Stephens an
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

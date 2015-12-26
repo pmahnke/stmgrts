@@ -20,4 +20,4 @@ Many properties require advanced booking, so go online now.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

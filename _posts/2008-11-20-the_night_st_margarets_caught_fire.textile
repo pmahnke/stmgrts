@@ -54,4 +54,4 @@ fn1. November 1940 saw the borough sustain its highest casualties. 74 people wer
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

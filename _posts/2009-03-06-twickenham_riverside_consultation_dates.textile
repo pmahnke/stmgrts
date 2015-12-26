@@ -17,4 +17,4 @@ The exhibition will be held on the ground floor of the Civic Centre, Twickenham 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -17,4 +17,4 @@ The post asks about some charity challenges, but what do you think about the lar
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

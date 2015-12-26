@@ -27,4 +27,4 @@ Richmond - Kew Botanic Gardens - Gunnersbury - Chiswick Park - South Acton - Act
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

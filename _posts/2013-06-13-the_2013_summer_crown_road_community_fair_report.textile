@@ -30,4 +30,4 @@ The St Margarets Traders Association organises the summer and Christmas Fairs in
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

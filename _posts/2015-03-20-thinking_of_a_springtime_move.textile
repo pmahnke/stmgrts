@@ -22,4 +22,4 @@ _Working in partnership with Seamless Relocation._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

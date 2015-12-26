@@ -34,4 +34,4 @@ h4. Sunday, 23 December 2012
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

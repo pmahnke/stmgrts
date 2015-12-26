@@ -26,4 +26,4 @@ All the way from Australia, Victoria presents an irresistible mix of sensual Jaz
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

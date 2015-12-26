@@ -25,4 +25,4 @@ Check website for full programme "www.richmond.gov.uk/play":http://www.richmond.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

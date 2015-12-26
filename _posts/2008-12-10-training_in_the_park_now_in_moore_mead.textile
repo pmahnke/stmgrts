@@ -25,4 +25,4 @@ See you there soon I hope.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

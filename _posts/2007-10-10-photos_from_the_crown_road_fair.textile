@@ -21,4 +21,4 @@ We are all looking forward to the "Christmas Fair on 7<sup>th</sup> December":ht
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

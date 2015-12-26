@@ -21,4 +21,4 @@ We are pleased with the positive response so far, and hope we are doing our litt
 The Web Team
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

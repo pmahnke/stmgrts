@@ -103,4 +103,4 @@ h4. Julie Felix - Mummy's taking us to the Zoo tomorrow.
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

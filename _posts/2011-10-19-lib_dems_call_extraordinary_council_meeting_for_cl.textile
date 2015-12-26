@@ -19,4 +19,4 @@ bq. "This council resolves to consult all parents of children at the borough's m
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

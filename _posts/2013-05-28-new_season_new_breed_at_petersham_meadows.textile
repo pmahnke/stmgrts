@@ -38,4 +38,4 @@ bq. "It is wonderful to see the continuation of the cows grazing in the meadows.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

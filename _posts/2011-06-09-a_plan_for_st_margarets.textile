@@ -33,4 +33,4 @@ _What do you think?_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

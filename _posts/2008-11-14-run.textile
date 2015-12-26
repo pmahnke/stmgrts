@@ -21,4 +21,4 @@ I also run regular local running groups, circuits classes, early morning bootcam
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

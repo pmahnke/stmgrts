@@ -25,4 +25,4 @@ All five remaining council-led schools are undergoing consultation with parents,
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

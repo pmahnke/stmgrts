@@ -28,4 +28,4 @@ Our aim is to be more than an estate agent but to be very much part of the commu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

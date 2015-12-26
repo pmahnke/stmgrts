@@ -14,4 +14,4 @@ Complete Beginners 6 week Yoga Course starting Sunday 3rd November at the ETNA C
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

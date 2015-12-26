@@ -84,4 +84,4 @@ If you're waiting for those shops to open on Sunday you've got a long wait ahead
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

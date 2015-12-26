@@ -31,4 +31,4 @@ p. Additionally, the CCTV camera on the mast, next to _Broadway Stores_ will bec
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

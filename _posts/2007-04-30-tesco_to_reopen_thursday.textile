@@ -17,4 +17,4 @@ We would like to apologise once again for the inconvenience caused by the incide
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

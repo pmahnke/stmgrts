@@ -37,4 +37,4 @@ p. Speaking on behalf of Gloriana Lord Sterling stated: "We were kindly invited 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

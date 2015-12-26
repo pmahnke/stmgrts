@@ -17,4 +17,4 @@ Contact Surya (0208 400 1797, 07770 993289 or "surya@blueyonder.co.uk":mailto:su
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

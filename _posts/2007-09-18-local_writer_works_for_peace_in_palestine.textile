@@ -27,4 +27,4 @@ If anyone is interested in receiving my newsletters from Palestine, please e-mai
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

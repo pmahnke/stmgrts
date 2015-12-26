@@ -23,4 +23,4 @@ Look out for a copy of My St Margarets Magazine coming through your letter box s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

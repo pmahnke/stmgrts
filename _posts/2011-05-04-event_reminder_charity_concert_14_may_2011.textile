@@ -27,4 +27,4 @@ p=.. Call the Parish Office directly: 0208 892 3902
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -31,4 +31,4 @@ For more details visit "www.richmond.gov.uk/cabinet_meetings_agendas_and_documen
  
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

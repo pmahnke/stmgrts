@@ -28,4 +28,4 @@ Next year's Fair will be on Saturday July the 14<sup>th</sup> -- and within the 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

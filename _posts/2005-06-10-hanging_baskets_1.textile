@@ -29,4 +29,4 @@ p. _see our article "Recycling Really Can Help the Community":http://stmgrts.org
 If you would like to add a comment or have any ideas for future funding please add your comments here...
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

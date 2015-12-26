@@ -16,4 +16,4 @@ The 2010 St Margarets Christmas Fair takes place on "Sunday 5<sup>th</sup> Decem
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

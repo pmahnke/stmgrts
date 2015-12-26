@@ -23,4 +23,4 @@ bq.. "This is an exciting decision that promises to put us in the vanguard of au
 p. What do you think?  "Let us know in our poll":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=cashlessparking
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ There are many more photos at the "St Margarets Fair Website":http://www.stmarga
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

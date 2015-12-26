@@ -36,4 +36,4 @@ Now we are waiting to hear from you onilne and hopefully see you at Winchester H
 <em>If you haven't already, Don’t forget to sign-up for our "Weekly Newsletter":/cgi-bin/newsletter.cgi.</em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

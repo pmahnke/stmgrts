@@ -27,4 +27,4 @@ On Thursday, 19 February 2009: 7pm-8.30pm at Heatham House Youth Centre.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

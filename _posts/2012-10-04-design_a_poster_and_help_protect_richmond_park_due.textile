@@ -20,4 +20,4 @@ Prizes will include the fabulous new hardcover book from local award-winning pho
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

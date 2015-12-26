@@ -44,4 +44,4 @@ Sammie Mason is a qualified British Wheel of Yoga Teacher, (and a mum of two boi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

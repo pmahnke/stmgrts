@@ -21,4 +21,4 @@ Also, keeping your outside light off helps.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

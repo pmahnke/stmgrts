@@ -89,4 +89,4 @@ h4. 'Ging Gang Gooli - a particularly lively version
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

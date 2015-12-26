@@ -16,4 +16,4 @@ The Richmond and Hounslow branch of CAMRA are looking for looking for volunteers
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

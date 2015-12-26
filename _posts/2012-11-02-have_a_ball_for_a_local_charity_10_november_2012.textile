@@ -24,4 +24,4 @@ Organised by The David Adams Leukaemia Appeal, a local St Margarets charity.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -25,4 +25,4 @@ The St Margarets Jubilee Fair and Street Party  Fair takes place on Sunday 3<sup
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

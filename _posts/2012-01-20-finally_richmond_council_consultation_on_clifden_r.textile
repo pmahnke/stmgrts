@@ -38,4 +38,4 @@ fn2. State-funded school maintained by a faith organisation's board of education
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -39,4 +39,4 @@ _Updated: 10 June with correct day for Mrs Moon and added the Twickenham Festiva
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

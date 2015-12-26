@@ -93,4 +93,4 @@ North Cornwall, come rain or shine, a beautiful part of the world
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

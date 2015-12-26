@@ -25,4 +25,4 @@ And don't forget, they are still looking for a "Beaver Leader.":http://www.stmgr
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

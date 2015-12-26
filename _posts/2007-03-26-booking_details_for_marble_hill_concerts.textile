@@ -18,4 +18,4 @@ Details for booking tickets to the Marble Hill Picnic Concerts this August.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

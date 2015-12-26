@@ -17,4 +17,4 @@ The Christmas Fayre will happen on "Sunday 16<sup>th</sup> December from 5pm":ht
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

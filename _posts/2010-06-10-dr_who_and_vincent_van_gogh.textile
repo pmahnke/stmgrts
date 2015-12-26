@@ -109,4 +109,4 @@ The other account is that he had a fierce argument with his friend Gauguin and t
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

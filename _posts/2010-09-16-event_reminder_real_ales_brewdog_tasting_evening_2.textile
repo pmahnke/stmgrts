@@ -20,4 +20,4 @@ To book a place at the tasting please call Zeph King on 020 8894 1114 or e-mail 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

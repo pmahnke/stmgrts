@@ -28,4 +28,4 @@ Note: a few other found items are listed in the forum "here":http://stmgrts.org.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

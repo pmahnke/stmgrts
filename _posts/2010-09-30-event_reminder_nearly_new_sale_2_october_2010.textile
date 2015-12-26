@@ -18,4 +18,4 @@ If anyone has any donations please drop them off at the church from 9 am
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

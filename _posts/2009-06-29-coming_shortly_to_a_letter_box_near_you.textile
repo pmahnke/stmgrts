@@ -19,4 +19,4 @@ For a preview of all the events and to look at a layout of the Fair on Saturday 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

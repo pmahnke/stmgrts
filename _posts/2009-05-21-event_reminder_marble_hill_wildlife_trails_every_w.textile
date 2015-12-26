@@ -20,4 +20,4 @@ ONLY &pound;1.00 PER CHILD
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

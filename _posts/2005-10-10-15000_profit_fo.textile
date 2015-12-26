@@ -32,4 +32,4 @@ Next year's fair will be on Saturday July the 15<sup>th</sup>.  If you’re inte
 <cite>-- from the _St Margarets' Fair Committee_</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

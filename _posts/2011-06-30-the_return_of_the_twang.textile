@@ -61,4 +61,4 @@ h4. Duane Eddy - 'Rebel Rouser' on YouTube
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

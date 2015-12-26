@@ -19,4 +19,4 @@ If you need a break from endless shopping, Christmas card lists, pudding stirrin
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

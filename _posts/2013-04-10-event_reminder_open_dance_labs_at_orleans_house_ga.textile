@@ -32,4 +32,4 @@ Please Email: "prefacemorn@gmail.com":mailto:prefacemorn@gmail.com for more info
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

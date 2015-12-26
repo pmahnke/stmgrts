@@ -19,4 +19,4 @@ For full details please see our website  "www.2x2opera.co.uk":http://www.2x2oper
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

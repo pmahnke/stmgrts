@@ -19,4 +19,4 @@ A seasonal selection of 40 wines will be on offer for guests to sample during th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

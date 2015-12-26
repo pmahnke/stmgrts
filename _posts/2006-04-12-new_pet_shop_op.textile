@@ -17,4 +17,4 @@ According to Glen, "Absolute Pets feels more like a boutique than a pet shop wit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

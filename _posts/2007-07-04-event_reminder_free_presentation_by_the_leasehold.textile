@@ -21,4 +21,4 @@ Please note that any mention of LAG is an error.  The Lease Advisory Service is 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

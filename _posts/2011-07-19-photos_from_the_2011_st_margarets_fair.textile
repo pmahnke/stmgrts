@@ -26,4 +26,4 @@ Thank you to all those who volunteered their time, specially the St Margarets Fa
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

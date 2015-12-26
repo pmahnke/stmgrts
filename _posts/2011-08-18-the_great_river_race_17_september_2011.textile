@@ -59,4 +59,4 @@ Our Race winner crosses the line to a cannon broadside, rousing applause, and th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

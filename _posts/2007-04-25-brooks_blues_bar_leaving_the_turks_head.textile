@@ -21,4 +21,4 @@ Brooks Blues Bar thanks all of its regulars and the musicians for their support 
 Many thanks to one and all and we hope to see you Fridays at The Telegraph on Putney Heath and/or on Thursday 7th June at The Green Note in Camden Town (limited number of advance tickets available from WeGotTickets)."
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -22,4 +22,4 @@ If you are interested in this vacancy, please email "recruitment@thenetwork-uk.c
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

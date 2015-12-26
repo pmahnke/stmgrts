@@ -106,4 +106,4 @@ Not many now would give a sweet FA!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

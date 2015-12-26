@@ -15,4 +15,4 @@ Additionally, the Council will increase their funding to the school to cover the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

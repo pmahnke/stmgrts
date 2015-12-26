@@ -64,4 +64,4 @@ bq. "The letters to members of the RFU Board make abundantly clear that only ear
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

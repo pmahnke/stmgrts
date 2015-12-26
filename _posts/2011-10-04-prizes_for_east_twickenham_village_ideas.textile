@@ -26,4 +26,4 @@ ETNA can be found at: "www.etnacentre.org":http://www.etnacentre.org
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

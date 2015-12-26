@@ -21,4 +21,4 @@ They also seek to retain the two doctor's parking spaces as private spaces for t
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

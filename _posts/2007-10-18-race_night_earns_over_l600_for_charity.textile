@@ -15,4 +15,4 @@ bq. "I'm pleased to let you know that our race night made &pound;676.46 on Frida
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

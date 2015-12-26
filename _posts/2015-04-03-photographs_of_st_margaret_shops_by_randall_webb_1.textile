@@ -43,4 +43,4 @@ Thank you to Howard Webb for providing these photos.  If you have interesting ph
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

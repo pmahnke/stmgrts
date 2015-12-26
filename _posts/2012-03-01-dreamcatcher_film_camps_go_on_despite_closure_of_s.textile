@@ -20,4 +20,4 @@ For enquiries please call 0208 607 7273 or email "davidok@dreamcatchermedia.co.u
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

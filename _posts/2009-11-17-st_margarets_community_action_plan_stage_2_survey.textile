@@ -23,4 +23,4 @@ If you would like to be kept informed of future developments please contact "all
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

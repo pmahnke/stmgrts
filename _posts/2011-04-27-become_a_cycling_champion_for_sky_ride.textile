@@ -25,4 +25,4 @@ Approximately 30 ride leaders are required for the launch of the 2011 programme 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

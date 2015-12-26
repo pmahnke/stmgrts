@@ -43,4 +43,4 @@ bq.. "Since having built Gloriana we've had the experience of operating both dow
 <cite>-- from a Richmond Council press release - 20 June 2014</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

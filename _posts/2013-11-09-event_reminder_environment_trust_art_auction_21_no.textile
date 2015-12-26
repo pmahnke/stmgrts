@@ -25,4 +25,4 @@ Viewing from 6.30pm: auction at 8pm.  The auction includes pictures commissioned
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

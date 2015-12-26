@@ -27,4 +27,4 @@ For more information, contact Julie Hollyer or Claire Wilson, on 020 8744 0700 o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

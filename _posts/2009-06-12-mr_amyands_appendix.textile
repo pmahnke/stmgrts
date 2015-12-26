@@ -58,4 +58,4 @@ As for our hero, Claudius Amyand, he is remembered for a number of papers that h
 <em>Note: Photos from Twickenham Museum</em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

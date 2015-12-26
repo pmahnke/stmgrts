@@ -38,4 +38,4 @@ Sunday 5 April, 11am - 4pm
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -65,4 +65,4 @@ The Friends of Richmond Park, which has over 1,800 members, is currently celebra
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

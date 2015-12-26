@@ -19,4 +19,4 @@ If you're interested in signing up or would like more information please email "
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

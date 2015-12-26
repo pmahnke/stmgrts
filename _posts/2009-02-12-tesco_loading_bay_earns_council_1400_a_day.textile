@@ -45,4 +45,4 @@ p. -- "Story from BBC NEWS":http://news.bbc.co.uk/go/pr/fr/-/1/hi/england/london
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

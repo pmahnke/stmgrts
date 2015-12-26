@@ -36,4 +36,4 @@ Don't forget that this "Saturday, 13 July 2013, from 11.30am to 7.30pm":http://w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -42,4 +42,4 @@ Bring a friend or meet new mums at our Post Natal Pilates Class. Babies are welc
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

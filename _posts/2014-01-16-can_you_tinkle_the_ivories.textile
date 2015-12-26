@@ -25,4 +25,4 @@ Please contact Billy Sincere on 0208 892 5211.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

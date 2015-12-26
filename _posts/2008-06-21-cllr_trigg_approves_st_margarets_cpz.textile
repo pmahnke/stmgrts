@@ -39,4 +39,4 @@ This decision will come into effect on 30 June 2008
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -25,4 +25,4 @@ h4. Details
 * Distance: 6K adults, 1K children
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

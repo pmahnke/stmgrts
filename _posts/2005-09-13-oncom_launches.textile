@@ -15,4 +15,4 @@ Some of you may know of the _Online Communities_ website _St Margarets Online_ w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

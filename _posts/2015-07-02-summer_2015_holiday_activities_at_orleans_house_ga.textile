@@ -60,4 +60,4 @@ Please only book your child into workshops of the appropriate age range to ensur
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

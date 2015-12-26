@@ -38,4 +38,4 @@ _All the profit goes to The David Adams Leukemia Appeal Fund_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

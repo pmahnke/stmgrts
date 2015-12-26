@@ -60,4 +60,4 @@ London Borough of Richmond upon Thames Libraries
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

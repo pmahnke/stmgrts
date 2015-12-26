@@ -18,4 +18,4 @@ There is limited advertising space available if you would further details please
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

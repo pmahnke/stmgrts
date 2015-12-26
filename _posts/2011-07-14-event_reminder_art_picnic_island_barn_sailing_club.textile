@@ -40,4 +40,4 @@ h4. Details
 * Contact on the day :  Emily Burton 07906 795998
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

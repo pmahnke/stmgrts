@@ -45,4 +45,4 @@ Again, Richmond did well compared to the national average on level 5, particular
 _All data from "Department of Education":http://www.education.gov.uk/rsgateway/DB/SFR/s001018/index.shtml
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

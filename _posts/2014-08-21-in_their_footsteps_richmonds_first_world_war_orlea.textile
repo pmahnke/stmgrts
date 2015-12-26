@@ -33,4 +33,4 @@ The exhibition has been funded through Heritage Lottery Fund and Richmond upon T
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

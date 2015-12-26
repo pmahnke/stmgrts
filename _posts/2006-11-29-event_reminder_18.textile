@@ -35,4 +35,4 @@ Anyone wishing to attend should book a place in advance by calling the Community
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

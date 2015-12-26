@@ -31,4 +31,4 @@ Thanks to all who helped make it a great day!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

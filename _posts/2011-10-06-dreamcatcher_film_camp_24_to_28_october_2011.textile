@@ -24,4 +24,4 @@ Booking has started already, so if you'd like your child to have some exciting f
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

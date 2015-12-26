@@ -27,4 +27,4 @@ Once again, the "St Margarets Traders Association":http://www.mystmargarets.com/
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ We are currently looking for enthusiastic people to volunteer in a number of cap
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

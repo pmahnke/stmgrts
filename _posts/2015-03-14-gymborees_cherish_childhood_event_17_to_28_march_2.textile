@@ -27,4 +27,4 @@ h4. Contact info
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

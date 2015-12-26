@@ -17,4 +17,4 @@ bq. "British icons such as Queen Victoria, Isambard Kingdom Brunel and King Rich
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

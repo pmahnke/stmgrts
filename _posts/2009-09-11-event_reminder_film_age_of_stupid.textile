@@ -19,4 +19,4 @@ The film is aimed at getting people to think more about and take action on clima
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -53,4 +53,4 @@ Railshead Bridge, with its original brick arch and iron strapped parapet, still 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

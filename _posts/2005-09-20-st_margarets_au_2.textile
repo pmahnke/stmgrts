@@ -28,4 +28,4 @@ We hope you enjoyed the Dog Show as much as we did. The St Margarets Community W
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

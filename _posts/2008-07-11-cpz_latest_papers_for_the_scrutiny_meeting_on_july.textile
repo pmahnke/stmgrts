@@ -91,4 +91,4 @@ h4. 4.4 The six month review will involve monitoring the initial operation of th
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

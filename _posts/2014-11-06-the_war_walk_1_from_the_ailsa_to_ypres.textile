@@ -77,4 +77,4 @@ There will be more stories about the local men and women who experienced the Gre
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

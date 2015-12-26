@@ -28,4 +28,4 @@ If you are interested in this programme, please contact:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -24,4 +24,4 @@ Caroline lives half the year in France and her work reflects the journeying betw
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

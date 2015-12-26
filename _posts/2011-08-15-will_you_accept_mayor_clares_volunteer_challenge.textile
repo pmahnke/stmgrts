@@ -35,4 +35,4 @@ Please join the Mayor outside Armstrong's Butchers in St Margarets Road on "Satu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

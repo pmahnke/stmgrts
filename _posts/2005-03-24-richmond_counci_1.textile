@@ -18,4 +18,4 @@ fn1. (24 March 2005) "_Council Tax News_":http://www.timesonline.co.uk/article/0
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ For enquiries, please contact David O'Keeffe Tel: 07977 067576 or email "davidok
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

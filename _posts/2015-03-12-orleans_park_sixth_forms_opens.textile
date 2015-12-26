@@ -61,4 +61,4 @@ Both sixth forms offer traditional A-level subjects including English, Maths, an
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

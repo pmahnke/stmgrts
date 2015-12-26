@@ -15,4 +15,4 @@ You can read the details "here":http://idoxwam.richmond.gov.uk:90/WAM/findCaseFi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -60,4 +60,4 @@ Can Lyme disease be prevented?
 There are many measures you can take to protect yourself from infection. These include wearing suitable clothing (keep your arms and legs covered) and frequently checking the skin for ticks. Make sure you know how to remove a tick properly and seek medical advice promptly if you notice any symptoms.  
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

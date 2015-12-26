@@ -17,4 +17,4 @@ Yes, the the Fair was months ago, but I have been very busy... but here are some
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

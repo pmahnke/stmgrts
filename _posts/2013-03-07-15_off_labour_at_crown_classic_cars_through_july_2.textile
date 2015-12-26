@@ -40,4 +40,4 @@ fn1. T&C - 15% discount applies to all labour costs.  Offer runs until 31 July 2
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

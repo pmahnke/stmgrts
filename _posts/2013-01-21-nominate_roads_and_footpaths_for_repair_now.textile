@@ -18,4 +18,4 @@ As part of the Council's drive to improve the environment of the borough and aft
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

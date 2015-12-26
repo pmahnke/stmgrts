@@ -127,4 +127,4 @@ Jean Woolford, fianc&#233;e of the late "Paddy" Finucane, has been married to a 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

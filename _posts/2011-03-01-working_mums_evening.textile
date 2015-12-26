@@ -28,4 +28,4 @@ Places are limited and pre-booking is required. For full details and to book you
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

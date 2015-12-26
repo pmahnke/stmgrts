@@ -23,4 +23,4 @@ bq. "I would like to encourage local people to come to this event for a chance t
 The event runs from 7 to 8pm in the Hyde Room at York House, Twickenham. For more information contact the CPP administrator on "community.safety@richmond.gov.uk":mailto:community.safety@richmond.gov.uk or on 020 8891 7777.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

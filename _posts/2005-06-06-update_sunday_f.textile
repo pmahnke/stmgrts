@@ -23,4 +23,4 @@ If you support the Farmer's Market, we encourage you to "tell the Council Websit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

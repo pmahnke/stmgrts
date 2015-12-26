@@ -56,4 +56,4 @@ h4. OTHER FIREWORKS DISPLAY
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -34,4 +34,4 @@ For more information about St Margarets businesses please contact "traders@mystm
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

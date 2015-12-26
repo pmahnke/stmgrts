@@ -27,4 +27,4 @@ All current resident, business or operational permits, valid in either zones F o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

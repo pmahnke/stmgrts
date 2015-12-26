@@ -85,4 +85,4 @@ h4. Dr. De Jongh's Cod Liver Oil song by the Dubliners
 <em>CREDITS: The picture of Tigger and friends is by E.H Shepard</em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

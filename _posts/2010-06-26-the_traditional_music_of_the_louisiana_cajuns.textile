@@ -78,4 +78,4 @@ One of the greatest Cajun Bands - ever! The Balfa Brothers with Nathan Abshire. 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -90,4 +90,4 @@ Dancers Earl Barton and Lisa Gaye and some hip jive talk, daddio! Coming in on a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

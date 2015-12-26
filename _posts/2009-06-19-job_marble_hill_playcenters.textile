@@ -22,4 +22,4 @@ For an application form and job description please contact Claire Chapman our Pl
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

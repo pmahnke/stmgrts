@@ -19,4 +19,4 @@ bq. "The Insect Hotel is part of the Council's exciting Riverside Project and wi
 -- from a "Richmond Council press release - 26 February 2014":http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/february_2014/richmond_buzzing_about_new_insect_hotel_.htm
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

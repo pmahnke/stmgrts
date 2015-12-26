@@ -39,4 +39,4 @@ We are organising a charity children's duathlon event to be held on Sunday 20<su
 If you want to get fit for summer, why not try early morning bootcamps? The July bootcamp is in full swing. There will be an August bootcamp starting the 3rd, and running until the 14<sup>th</sup> August. Visit "www.run.uk.net":http://www.run.uk.net/ for more information or call Georgie on 07736 070612.  
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

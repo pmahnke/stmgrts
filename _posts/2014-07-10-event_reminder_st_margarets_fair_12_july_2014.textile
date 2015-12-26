@@ -71,4 +71,4 @@ h4. Schedule of events
 |18.30-19.30/45|The Deputies|Music stage|
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

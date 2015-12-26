@@ -24,4 +24,4 @@ Tickets are priced at &pound;7 for the first three nights, &pound;8 after that. 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -31,4 +31,4 @@ Print out and bring "this poster":http://www.stmgrts.org.uk/images//StreetsFlyer
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

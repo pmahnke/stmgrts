@@ -32,4 +32,4 @@ p. If you are concerned about this, please comment on this site, email us at "ed
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

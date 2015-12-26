@@ -17,4 +17,4 @@ Please contact "carey@greeneruponthames.org":mailto:carey@greeneruponthames.org
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

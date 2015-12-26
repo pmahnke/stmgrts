@@ -49,4 +49,4 @@ We do have a Richmond Park of our own in Richmond but there is no Richmond Castl
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

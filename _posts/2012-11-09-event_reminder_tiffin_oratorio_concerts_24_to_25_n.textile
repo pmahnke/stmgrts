@@ -30,4 +30,4 @@ _Booking fees apply to tickets bought by phone or online_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

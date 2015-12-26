@@ -26,4 +26,4 @@ In aid of _The Royal Marsden Hospital_.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

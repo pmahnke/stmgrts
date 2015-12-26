@@ -67,4 +67,4 @@ bq. "Ask for the old paths, where there is a good way, and walk therein, and ye 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -32,4 +32,4 @@ Of course, as far as the Anglican Church authorities are concerned we do not liv
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

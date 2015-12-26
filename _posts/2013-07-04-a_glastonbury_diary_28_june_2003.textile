@@ -84,4 +84,4 @@ According to some sources random cries of "Wally!" at Rock Festivals originated 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

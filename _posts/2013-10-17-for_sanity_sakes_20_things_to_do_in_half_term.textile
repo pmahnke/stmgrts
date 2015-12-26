@@ -115,4 +115,4 @@ For lots more great ideas, visit: "www.forsanityssake.com":http://www.forsanitys
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

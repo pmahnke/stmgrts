@@ -34,4 +34,4 @@ John is the chair of the committee.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

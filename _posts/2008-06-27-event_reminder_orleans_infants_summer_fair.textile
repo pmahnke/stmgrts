@@ -19,4 +19,4 @@ The fair is on 28th June from 12-3pm.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

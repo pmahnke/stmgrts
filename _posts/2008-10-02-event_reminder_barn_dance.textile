@@ -35,4 +35,4 @@ For further details and to reserve a table, please call John I'Anson (07880 7961
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

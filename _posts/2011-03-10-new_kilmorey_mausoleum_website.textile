@@ -22,4 +22,4 @@ It also has interesting  facts about Egyptian architectural influences and mytho
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

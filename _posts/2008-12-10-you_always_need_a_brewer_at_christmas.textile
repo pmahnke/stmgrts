@@ -87,4 +87,4 @@ Dr Brewer died at Edwinstone in Nottinghamshire on March 6, 1897 after a long li
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

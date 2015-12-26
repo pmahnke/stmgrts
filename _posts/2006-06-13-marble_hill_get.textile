@@ -42,4 +42,4 @@ Denise
 * "Marble Hill Concert Licensing Application":http://www.stmgrts.org.uk/archives/2006/05/marble_hill_con.html
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

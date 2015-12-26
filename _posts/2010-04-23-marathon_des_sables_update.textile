@@ -22,4 +22,4 @@ Georgie
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

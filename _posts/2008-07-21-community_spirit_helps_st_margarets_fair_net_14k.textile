@@ -17,4 +17,4 @@ p. <cite>-- from "www.richmondandtwickenhamtimes.co.uk":http://www.richmondandtw
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

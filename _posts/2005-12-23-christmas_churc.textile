@@ -72,4 +72,4 @@ Sunday, 25 December _Christmas Day Services_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

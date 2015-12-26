@@ -25,4 +25,4 @@ If you want to get fit for summer, why not try early morning bootcamps? Visit "w
 <cite> -- from Georgie Islip</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

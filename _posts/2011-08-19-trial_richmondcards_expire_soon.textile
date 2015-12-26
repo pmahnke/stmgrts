@@ -19,4 +19,4 @@ Over the past two months thousands of residents have been using a free trial Ric
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

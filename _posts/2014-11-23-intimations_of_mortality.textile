@@ -69,4 +69,4 @@ A mod anthem by Dobie Gray. This clip features scenes from <em>'Quadrophenia.'</
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

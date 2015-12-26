@@ -26,4 +26,4 @@ To support the restoration of Turner's House visit "www.turnerintwickenham.org.u
 <cite>-- from a Turner's House Trust press release - 7 April 2015</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

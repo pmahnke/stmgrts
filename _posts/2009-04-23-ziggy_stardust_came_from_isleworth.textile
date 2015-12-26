@@ -69,4 +69,4 @@ Now, that's what I call rock 'n' roll!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

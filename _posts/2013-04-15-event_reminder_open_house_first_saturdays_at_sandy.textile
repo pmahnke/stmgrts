@@ -22,4 +22,4 @@ For just &pound;4 entrance fee, this is a unique opportunity to soak up the atmo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

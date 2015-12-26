@@ -19,4 +19,4 @@ Enquiries to "richmondchoral@gmail.com":mailto:richmondchoral@gmail.com, or on 0
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

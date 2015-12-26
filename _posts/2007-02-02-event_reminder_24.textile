@@ -21,4 +21,4 @@ She  studied at Worthing College of Art, prior to gaining an honours degree in I
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

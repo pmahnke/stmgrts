@@ -15,4 +15,4 @@ The Orange Tree Theatre is delighted to announce that its Arts Council grant has
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

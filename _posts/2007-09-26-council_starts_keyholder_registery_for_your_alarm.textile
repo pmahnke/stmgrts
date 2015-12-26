@@ -23,4 +23,4 @@ For commercial premises, please call 8891-7994, email "commercialeh@richmond.gov
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -31,4 +31,4 @@ For more information about the proposed school, and information on how to regist
 <cite>-- from a press release - 31 January 2012</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

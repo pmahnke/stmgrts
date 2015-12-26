@@ -33,4 +33,4 @@ To show his support for our Social Enterprise, Vince Cable MP will be popping in
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

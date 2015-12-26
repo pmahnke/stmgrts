@@ -43,4 +43,4 @@ Full details of the activities of The Richmond and Hounslow Branch of CAMRA are 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

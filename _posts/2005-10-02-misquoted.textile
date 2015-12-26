@@ -19,4 +19,4 @@ Sorry about this, but it was beyond my control.  As we mentioned in our "recent 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

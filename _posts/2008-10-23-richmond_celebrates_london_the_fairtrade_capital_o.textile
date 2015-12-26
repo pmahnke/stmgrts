@@ -53,4 +53,4 @@ If you would like to get more involved in local Fairtrade issues, please contact
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

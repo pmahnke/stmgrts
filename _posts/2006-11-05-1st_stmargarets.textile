@@ -17,4 +17,4 @@ Further details please call Jo on 8891 2110
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

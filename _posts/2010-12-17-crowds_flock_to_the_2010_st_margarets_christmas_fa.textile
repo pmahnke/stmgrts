@@ -27,4 +27,4 @@ If you would like to view some pictures of the event, just click "this link to s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

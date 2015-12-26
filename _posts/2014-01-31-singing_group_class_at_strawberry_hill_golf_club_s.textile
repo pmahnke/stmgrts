@@ -32,4 +32,4 @@ Strawberry Hill Golf Club , Wellesley Road, Strawberry Hill, Twickenham, Middles
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

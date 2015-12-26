@@ -21,4 +21,4 @@ Local charity, the Friends of Richmond Park, organises competitions, walks, talk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

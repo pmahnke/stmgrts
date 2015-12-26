@@ -63,4 +63,4 @@ _Serve with sesame seeds and spring onions_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

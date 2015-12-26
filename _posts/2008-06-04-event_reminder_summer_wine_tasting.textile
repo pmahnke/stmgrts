@@ -27,4 +27,4 @@ The price of your ticket will be refunded against the purchase of one or more ca
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

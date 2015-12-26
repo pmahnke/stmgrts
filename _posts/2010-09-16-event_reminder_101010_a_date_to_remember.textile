@@ -19,4 +19,4 @@ Would you like to do something special at 10am on the 10<sup>th</sup> October 20
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

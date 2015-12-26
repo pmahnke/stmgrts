@@ -42,4 +42,4 @@ TW1 3NT
 _Tuesday to Saturday 10am - 4pm until 11 July_
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

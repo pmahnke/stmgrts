@@ -21,4 +21,4 @@ There will be refreshments available after the meeting.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

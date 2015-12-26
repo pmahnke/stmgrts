@@ -23,4 +23,4 @@ Apparently 2 more children are needed to ensure the football camp runs, so call 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

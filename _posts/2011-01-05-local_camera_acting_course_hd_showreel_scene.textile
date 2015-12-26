@@ -22,4 +22,4 @@ Email Amy on "admin@filmventure.co.uk":mailto:admin@filmventure.co.uk for more i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

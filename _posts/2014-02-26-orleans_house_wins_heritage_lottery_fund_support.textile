@@ -46,4 +46,4 @@ The main building and conservatory of Orleans House were tragically demolished i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

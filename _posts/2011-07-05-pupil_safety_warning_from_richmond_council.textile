@@ -30,4 +30,4 @@ _Note: We just received this from St Stephens School, sent to all parents._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

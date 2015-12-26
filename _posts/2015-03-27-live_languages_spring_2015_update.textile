@@ -26,4 +26,4 @@ _I also do bespoke private languages tutoring in Spanish, German, French and Eng
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

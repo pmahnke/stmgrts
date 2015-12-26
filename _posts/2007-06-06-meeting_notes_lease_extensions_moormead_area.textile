@@ -69,4 +69,4 @@ Actions:
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ On Monday 4 October the Council replaced the scratch cards used for visitor and 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

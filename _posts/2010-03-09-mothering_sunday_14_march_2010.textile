@@ -38,4 +38,4 @@ Please see our website "www.forgetmenotflowersdelivery.co.uk":http://www.forgetm
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

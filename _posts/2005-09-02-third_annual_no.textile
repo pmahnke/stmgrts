@@ -23,4 +23,4 @@ Here is a "PDF":/archives/NorthStMargaretsFunDay2005.pdf of the event.  You can 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

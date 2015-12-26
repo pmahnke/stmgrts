@@ -22,4 +22,4 @@ FORCE does run a membership scheme, details of this are available on our website
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

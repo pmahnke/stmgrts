@@ -28,4 +28,4 @@ email: <a href="mailto:hazelle.jackson@dial.pipex.com?Subject=St Margarets%20Win
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

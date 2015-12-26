@@ -25,4 +25,4 @@ The Alpha Course is open to everyone interested in discovering what Christianity
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

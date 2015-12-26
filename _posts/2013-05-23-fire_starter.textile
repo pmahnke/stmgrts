@@ -72,4 +72,4 @@ Until we make society into a real fellowship of men, run for the benefit of all 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -29,4 +29,4 @@ or paid for via cheque (contact "waveindjones@aol.com":mailto:waveindjones@aol.c
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

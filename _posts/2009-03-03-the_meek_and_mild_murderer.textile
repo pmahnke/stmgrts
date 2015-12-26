@@ -40,4 +40,4 @@ No such attention came to the meek and mild murderer John Little. He went to an 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

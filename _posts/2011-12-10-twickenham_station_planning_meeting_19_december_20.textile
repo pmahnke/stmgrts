@@ -16,4 +16,4 @@ The station scheme "11/1443/FUL":http://www2.richmond.gov.uk/PlanData2/Planning_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

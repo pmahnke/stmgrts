@@ -24,4 +24,4 @@ Tune in and listen to Alistair on "Radio Jackie":http://www.stmgrts.org.uk/direc
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

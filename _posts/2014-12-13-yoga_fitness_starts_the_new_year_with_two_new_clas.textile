@@ -75,4 +75,4 @@ h4. For further details or to book contact Sammie:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -81,4 +81,4 @@ CREDIT: <em>Some of the interviews in this article are taken from *"The British 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

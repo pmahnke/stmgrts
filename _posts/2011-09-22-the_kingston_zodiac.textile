@@ -59,4 +59,4 @@ _Credits: The drawings of the Kingston Zodiac and Sagittarius are from Mary Cain
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

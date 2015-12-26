@@ -20,4 +20,4 @@ Please contact the website "here":mailto:editor@stmgrts.org.uk if you have any i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

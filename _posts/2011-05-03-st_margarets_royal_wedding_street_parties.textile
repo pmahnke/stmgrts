@@ -27,4 +27,4 @@ If you have more photos, please send them to "content@stmgrts.org.uk":mailto:con
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -77,4 +77,4 @@ h4. For more information and to book
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

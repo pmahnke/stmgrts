@@ -77,4 +77,4 @@ fn1. For more information about Vince Taylor and "Brand New Cadillac" please che
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

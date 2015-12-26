@@ -26,4 +26,4 @@ The planning meeting will be held on 15 May 2008 6:30 pm at York House.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

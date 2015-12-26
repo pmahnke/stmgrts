@@ -26,4 +26,4 @@ Mums can join in by registering online at "www.nappyvalleynet.com":http://www.na
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

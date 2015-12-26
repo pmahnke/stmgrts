@@ -27,4 +27,4 @@ I confirm I am satisfied with the above arrangements and thank Tony for making t
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

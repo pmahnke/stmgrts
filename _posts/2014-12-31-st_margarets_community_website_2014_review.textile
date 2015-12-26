@@ -98,4 +98,4 @@ Well, hope you have a great 2015 and if you want to write an article or promote 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

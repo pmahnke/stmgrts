@@ -30,4 +30,4 @@ This Twickenham Festival Show is on FRIDAY (TOMORROW) 13th JUNE 2008.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ If your readers have concerns please email Dr Cable asap at the following addres
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

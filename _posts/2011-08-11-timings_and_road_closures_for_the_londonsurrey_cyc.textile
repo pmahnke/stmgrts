@@ -64,4 +64,4 @@ h4. More information
 * Please visit "www.richmond.gov.uk/olympic_test_event":http://www.richmond.gov.uk/olympic_test_event for more information and details
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

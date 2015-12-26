@@ -89,4 +89,4 @@ To enjoy more of the outlandish mysteries of Brentford you should read Robert Ra
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

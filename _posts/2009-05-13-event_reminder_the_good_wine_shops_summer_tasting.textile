@@ -39,4 +39,4 @@ As well as featuring over 40 wines from all over the world, we will also have fi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

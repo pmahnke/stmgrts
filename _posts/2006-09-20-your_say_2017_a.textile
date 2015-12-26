@@ -34,4 +34,4 @@ As well as using the website, the council and it’s partners will be arranging 
 * Email: "c.tack@richmond.gov.uk":mailto:c.tack@richmond.gov.uk
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

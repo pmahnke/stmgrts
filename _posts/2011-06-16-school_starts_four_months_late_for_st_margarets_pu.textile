@@ -24,4 +24,4 @@ p. <cite>-- Press Release from Cllr Malcolm Eady, Liberal Democrat Education spo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

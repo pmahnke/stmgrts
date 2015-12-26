@@ -40,4 +40,4 @@ After prayers are over at midday, the 300,000 children and middle-aged pilgrims 
 As I watch them pouring through Damascus Gate, I begin to understand how it is that many Israelis, never mind people round the world, manage to blind themselves to the grim realities of daily life for the Palestinians. Given Kafkaesque arrangements like these - it's really quite easy.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

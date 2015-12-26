@@ -22,4 +22,4 @@ The Christmas edition of the My St Margarets Magazine is out.  It is packed with
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

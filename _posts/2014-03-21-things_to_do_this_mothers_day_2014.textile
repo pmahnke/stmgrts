@@ -77,4 +77,4 @@ Children can pop along to Kew little pigs on Saturday 29<sup>th</sup> March wher
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -67,4 +67,4 @@ h4. A tribute to Cynthia Lennon by her son Julian
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

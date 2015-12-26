@@ -47,4 +47,4 @@ For those unhappy souls in "The Village" who rarely venture north to the other s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

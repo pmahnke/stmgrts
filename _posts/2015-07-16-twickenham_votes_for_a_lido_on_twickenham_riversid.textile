@@ -39,4 +39,4 @@ Please support our petition and help us persuade the London Borough of Richmond 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

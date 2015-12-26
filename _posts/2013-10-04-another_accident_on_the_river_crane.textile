@@ -25,4 +25,4 @@ The source of the pollution has been traced to an outfall pipe upstream of the A
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

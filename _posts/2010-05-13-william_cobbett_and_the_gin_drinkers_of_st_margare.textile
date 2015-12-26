@@ -52,4 +52,4 @@ He didn't think much of St Margarets either.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

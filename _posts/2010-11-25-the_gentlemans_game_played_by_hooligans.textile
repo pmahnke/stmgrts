@@ -95,4 +95,4 @@ bq. "I don't know much about football. I know what a goal is, which is surely th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

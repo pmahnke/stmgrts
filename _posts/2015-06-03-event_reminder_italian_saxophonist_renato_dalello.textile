@@ -26,4 +26,4 @@ Renato is a superlative saxophonist and Poet ! He has all the virtues a Jazz mus
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

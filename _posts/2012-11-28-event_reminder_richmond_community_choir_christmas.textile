@@ -22,4 +22,4 @@ The Choir is now based at Orleans Primary School in St Margarets, and anyone who
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -23,4 +23,4 @@ Finally in response to the speeding issue, Peter has advised us to contact the L
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

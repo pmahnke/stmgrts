@@ -24,4 +24,4 @@ p. Parents have two weeks in which to accept or decline places.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

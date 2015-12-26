@@ -20,4 +20,4 @@ The _St Margarets' Traders Association_ ask customers to ensure that they do not
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

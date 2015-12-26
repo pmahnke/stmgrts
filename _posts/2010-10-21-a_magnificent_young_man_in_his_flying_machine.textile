@@ -87,4 +87,4 @@ bq. "The fact remains that flying is as yet an exceedingly dangerous pastime and
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

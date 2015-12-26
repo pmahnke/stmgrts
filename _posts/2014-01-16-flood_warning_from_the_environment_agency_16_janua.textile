@@ -20,4 +20,4 @@ Gardens along the Tidal Crane are flooding even now.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

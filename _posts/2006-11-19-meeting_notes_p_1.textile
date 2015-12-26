@@ -72,4 +72,4 @@ No change since the meeting on 19 July:
 anti-social behaviour; burglary; motor vehicle crime; criminal damage.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

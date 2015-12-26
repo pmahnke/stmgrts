@@ -29,4 +29,4 @@ All money raised went to Vitalise, a charity that runs holiday centres for disab
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

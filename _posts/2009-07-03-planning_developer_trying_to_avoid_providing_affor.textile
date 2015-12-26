@@ -42,4 +42,4 @@ This might be of interest to some of your readers who may feel inclined to add t
 <cite>-- from Ed Randall</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

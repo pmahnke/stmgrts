@@ -103,4 +103,4 @@ A song by Richard Thomson about another legendary British motorcycle - the 1952 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

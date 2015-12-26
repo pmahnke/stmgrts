@@ -55,4 +55,4 @@ h4. An extract of Churchill's speech
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

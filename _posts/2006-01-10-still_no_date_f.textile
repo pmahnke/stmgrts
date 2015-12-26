@@ -15,4 +15,4 @@ While the principles of the wine bar were hoping for an October 2005 hearing wit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -27,4 +27,4 @@ Twickenham Film Studios have asked the council to consider removing the recyclin
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

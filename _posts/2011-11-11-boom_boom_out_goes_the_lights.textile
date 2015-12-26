@@ -79,4 +79,4 @@ h4. YouTube - Katie Melua singing "If the Lights Go Out"
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

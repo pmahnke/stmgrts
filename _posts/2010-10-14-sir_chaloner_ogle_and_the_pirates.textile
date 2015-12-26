@@ -101,4 +101,4 @@ O'er the race that I loathe, to the battle I love.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

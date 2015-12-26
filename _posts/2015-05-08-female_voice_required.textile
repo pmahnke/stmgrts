@@ -27,4 +27,4 @@ If interested, email "helen@thehelenastridsingingacademy.com":mailto:helen@thehe
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

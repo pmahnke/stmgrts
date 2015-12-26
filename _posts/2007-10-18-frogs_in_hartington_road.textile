@@ -20,4 +20,4 @@ p. -- "justin@echo-edit.freeserve.co.uk":mailto:justin@echo-edit.freeserve.co.uk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

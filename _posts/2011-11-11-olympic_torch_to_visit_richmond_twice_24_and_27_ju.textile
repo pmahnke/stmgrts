@@ -20,4 +20,4 @@ As part of its tour around the UK, the Olympic Torch will visit over 1,000 villa
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -43,4 +43,4 @@ In addition, further camera surveys and sewer cleans are being carried out to he
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

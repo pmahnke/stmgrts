@@ -36,4 +36,4 @@ schools being left open longer and making arrangements for children who are not 
 p. Councillor Hambidge also mentioned that Waterloo Station appears to be running.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

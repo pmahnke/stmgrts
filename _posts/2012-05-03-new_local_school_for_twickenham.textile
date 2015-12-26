@@ -27,4 +27,4 @@ For more information about the proposed school, and information on how to regist
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -28,4 +28,4 @@ Colin Hines was taken to Kew as a child and in turn he and his wife Ann took the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

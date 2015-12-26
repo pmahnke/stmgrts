@@ -93,4 +93,4 @@ p>. Andrew Darvill, _Assistant Director (Traffic & Transport)_, Richmond Council
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

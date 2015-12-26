@@ -57,4 +57,4 @@ h4. Instructions
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

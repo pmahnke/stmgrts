@@ -19,4 +19,4 @@ If, like me, you have concerns regarding this development please email "planning
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -94,4 +94,4 @@ bq. "Christmas!" Is there any other word in our whole English vocabulary that ca
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -32,4 +32,4 @@ If you would like to look in more detail... examples on display in Zoran's Delic
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

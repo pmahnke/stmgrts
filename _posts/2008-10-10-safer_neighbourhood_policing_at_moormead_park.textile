@@ -48,4 +48,4 @@ h4. What can you do?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

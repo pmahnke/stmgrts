@@ -97,4 +97,4 @@ h4. "St Mary Magdalene, Richmond":http://www.richmondteamministry.org/stmary
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

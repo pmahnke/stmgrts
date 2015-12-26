@@ -53,4 +53,4 @@ _Images courtesy of London Borough of Richmond upon Thames Local Studies Collect
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

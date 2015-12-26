@@ -19,4 +19,4 @@ date: 2005-12-24 15:00:03
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

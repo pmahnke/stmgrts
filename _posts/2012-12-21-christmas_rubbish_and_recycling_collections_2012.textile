@@ -34,4 +34,4 @@ Rubbish and recycling collection days will change due to the Christmas and New Y
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

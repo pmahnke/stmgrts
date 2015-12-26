@@ -16,4 +16,4 @@ If you are interested, please contact the school office on 020 8892 1654 or "gov
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

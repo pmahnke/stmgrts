@@ -20,4 +20,4 @@ If you are interested please forward your CV in the fist instance to: "cbarrett@
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

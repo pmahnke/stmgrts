@@ -30,4 +30,4 @@ Deborah (for 2x2 Opera)
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

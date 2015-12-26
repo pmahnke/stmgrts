@@ -20,4 +20,4 @@ The Council would like feedback on the _FitPoint_ to assess whether it would be 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

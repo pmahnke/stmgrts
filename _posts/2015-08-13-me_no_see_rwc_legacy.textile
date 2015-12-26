@@ -26,4 +26,4 @@ At every public Rugby World Cup meeting that I have attended I have asked the sa
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

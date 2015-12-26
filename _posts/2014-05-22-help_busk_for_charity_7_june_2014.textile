@@ -26,4 +26,4 @@ If you contact me I can send you the songlist, bring songsheets with chords to s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

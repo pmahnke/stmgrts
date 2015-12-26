@@ -26,4 +26,4 @@ h4. More Information
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

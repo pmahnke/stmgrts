@@ -24,4 +24,4 @@ bq.. "Last December, the Council's Cabinet agreed to jointly explore with school
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

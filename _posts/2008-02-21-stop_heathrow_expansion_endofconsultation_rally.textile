@@ -25,4 +25,4 @@ It is an opportunity for anybody who wishes to go and lobby their MP in Parliame
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -24,4 +24,4 @@ h4. More Information
 * Entry: members £1.50, non-members £2.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -30,4 +30,4 @@ Toby asks that if anyone has any photos of the event to mail them to him for the
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

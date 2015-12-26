@@ -58,4 +58,4 @@ There will be three inspirational speakers providing ideas on how to keep your c
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

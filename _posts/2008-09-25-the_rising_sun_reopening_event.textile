@@ -17,4 +17,4 @@ Friday afternoon will be by invitation only -- "download an invitation":http://w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

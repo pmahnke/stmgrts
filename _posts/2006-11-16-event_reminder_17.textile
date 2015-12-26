@@ -23,4 +23,4 @@ Tickets are &pound;5 on the door and the music starts at 8.00 pm
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

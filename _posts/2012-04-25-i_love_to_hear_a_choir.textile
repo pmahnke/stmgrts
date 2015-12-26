@@ -36,4 +36,4 @@ Let's raise the roof - and have some fun!"
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

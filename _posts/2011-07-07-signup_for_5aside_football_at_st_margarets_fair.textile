@@ -20,4 +20,4 @@ We welcome submissions from schools, groups of friends, after-school clubs, chur
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

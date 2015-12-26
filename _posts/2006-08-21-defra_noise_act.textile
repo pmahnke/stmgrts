@@ -35,4 +35,4 @@ Email: "noise@defra.gsi.gov.uk":mailto:noise@defra.gsi.gov.uk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

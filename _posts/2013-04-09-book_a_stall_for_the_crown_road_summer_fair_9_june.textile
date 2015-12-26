@@ -23,4 +23,4 @@ The theme of the fair this year will be - My St Margarets Farm! We will have a v
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

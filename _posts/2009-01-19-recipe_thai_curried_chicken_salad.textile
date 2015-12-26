@@ -40,4 +40,4 @@ Chop the chicken into small bite sized pieces and mix with all other ingredients
 For further healthy recipes please see Catherine's website at "stmargaretskitchen.blogspot.com":http://stmargaretskitchen.blogspot.com/
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -20,4 +20,4 @@ We are overwhelmed with furniture and very little space in our warehouse.  We ha
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

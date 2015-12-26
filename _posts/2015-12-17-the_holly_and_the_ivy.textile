@@ -118,4 +118,4 @@ The choir at King's College Cambridge singing The Holly and the Ivy arr Walford 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

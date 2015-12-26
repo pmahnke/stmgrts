@@ -28,4 +28,4 @@ To register your support, please visit "www.richmondbridgeprimary.co.uk/register
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

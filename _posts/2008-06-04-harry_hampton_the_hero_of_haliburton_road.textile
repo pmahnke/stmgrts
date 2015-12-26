@@ -34,4 +34,4 @@ Perhaps the saying that 'old soldiers never die, they just fade away" is true. M
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

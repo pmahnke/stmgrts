@@ -28,4 +28,4 @@ In a tranquil setting, the Holly Lodge Centre offers visitors close encounters w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

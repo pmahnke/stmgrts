@@ -40,4 +40,4 @@ h4. Borough Contingencies Unit advice for the public
 ??-- from Richmond Council??
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

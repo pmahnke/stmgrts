@@ -15,4 +15,4 @@ The good news is that there is finally some enforcement of the parking rules, ba
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -30,4 +30,4 @@ For more information and to book tickets, see our website "www.royalalberthall.c
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

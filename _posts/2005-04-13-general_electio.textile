@@ -21,4 +21,4 @@ There is also a by-election for the Twickenham Riverside Ward.  If you vote in t
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

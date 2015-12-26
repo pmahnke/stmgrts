@@ -19,4 +19,4 @@ Never Mind the Botox follows four local residents to tiny music halls and enormo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

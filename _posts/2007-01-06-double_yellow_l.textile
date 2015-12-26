@@ -19,4 +19,4 @@ Additionaly, the school is appealing to parents to stop parking on the yellow zi
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

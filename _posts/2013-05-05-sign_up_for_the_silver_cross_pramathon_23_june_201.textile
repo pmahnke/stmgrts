@@ -29,4 +29,4 @@ There will also be Milkshake! presenters, entertainers, stalls and even a couple
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

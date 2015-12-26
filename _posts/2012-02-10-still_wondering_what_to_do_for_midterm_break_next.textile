@@ -28,4 +28,4 @@ Call now to book one of the last few places!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

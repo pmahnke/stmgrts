@@ -54,4 +54,4 @@ Did anyone see "Gullible" in there?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

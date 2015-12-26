@@ -26,4 +26,4 @@ On 10 February 2014 Sir David Williams will present "a visual history of Ham and
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

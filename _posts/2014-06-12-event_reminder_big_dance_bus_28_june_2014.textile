@@ -33,4 +33,4 @@ The Big Dance Bus is a free outdoor party suitable for all the family.
 Come and join the ultimate celebration of dance!
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

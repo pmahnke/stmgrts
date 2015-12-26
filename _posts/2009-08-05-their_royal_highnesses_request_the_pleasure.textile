@@ -93,4 +93,4 @@ On Thursday 16<sup>th</sup> July a small party of Cubs and Scouts from the _1<su
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

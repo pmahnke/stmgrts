@@ -21,4 +21,4 @@ If you have any queries please contact Michael Peacock on 020 8744 2434 or e-mai
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

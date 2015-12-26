@@ -25,4 +25,4 @@ To donate to the campaign go to  "www.virginmoneygiving.com/charities/StStephen'
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

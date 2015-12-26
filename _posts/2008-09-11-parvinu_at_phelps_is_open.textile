@@ -28,4 +28,4 @@ Gavin Mitchell is the Designated Premises Supervisor (DPS) and General Manager i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

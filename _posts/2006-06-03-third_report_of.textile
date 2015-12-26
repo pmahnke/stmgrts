@@ -73,4 +73,4 @@ _There are three things to consider when preventing yourself from becoming a vic
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

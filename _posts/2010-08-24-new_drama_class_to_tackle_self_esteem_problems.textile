@@ -38,4 +38,4 @@ If you have any questions about the classes or want more information on the stor
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

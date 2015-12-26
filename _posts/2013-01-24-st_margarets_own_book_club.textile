@@ -40,4 +40,4 @@ If you would like to come along, please email the Club Secretary at "maggiesbook
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

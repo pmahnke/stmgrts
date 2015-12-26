@@ -14,4 +14,4 @@ Fancy a bit of power walking, jogging, stretching and toning for FREE?  This is 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

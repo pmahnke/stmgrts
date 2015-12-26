@@ -72,4 +72,4 @@ _Credits: Richmond Lock footbridge is by Jacqueline Banerjee. Richmond Lock by M
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

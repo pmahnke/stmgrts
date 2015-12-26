@@ -31,4 +31,4 @@ p. If you would like to support us in this challenge, and help raise money, plea
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

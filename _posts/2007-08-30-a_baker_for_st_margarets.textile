@@ -24,4 +24,4 @@ p. <cite> -- from Nick Jones, Director, Queensgate Finance</cite>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

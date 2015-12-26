@@ -27,4 +27,4 @@ Thousands flocked to crown road to soak up the fantastic atmosphere and enjoy th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

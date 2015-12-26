@@ -19,4 +19,4 @@ From September, Lib Dem-controlled Richmond wants to charge parents up to &pound
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

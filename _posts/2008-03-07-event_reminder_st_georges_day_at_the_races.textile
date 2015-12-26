@@ -32,4 +32,4 @@ _A Fundraising Event in support of the Restoration Fund_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

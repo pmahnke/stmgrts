@@ -91,4 +91,4 @@ Just north of the Hogs Back on the A 31 near Farnborough is a small hamlet calle
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -90,4 +90,4 @@ bq. "Good luck Stagg: may all your depressions be nice little ones: but remember
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

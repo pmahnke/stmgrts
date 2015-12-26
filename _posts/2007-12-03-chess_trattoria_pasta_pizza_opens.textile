@@ -15,4 +15,4 @@ Please support this new and exciting local project which will provide the good f
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

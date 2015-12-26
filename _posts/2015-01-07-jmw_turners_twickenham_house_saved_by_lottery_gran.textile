@@ -40,4 +40,4 @@ Turner, one of Britain's greatest painters, designed the building as a retreat f
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

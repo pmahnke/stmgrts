@@ -19,4 +19,4 @@ Well now the daffodils we planted are all up and looking great!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

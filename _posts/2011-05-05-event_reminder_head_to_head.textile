@@ -48,4 +48,4 @@ h4. The Evening
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

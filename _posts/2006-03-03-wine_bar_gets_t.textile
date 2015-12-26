@@ -84,4 +84,4 @@ Council felt strongly that 2am was late enough, a 24 hour license was unnecessar
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

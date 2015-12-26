@@ -23,4 +23,4 @@ Read the "Guardian obituary for Simon Hoggart":http://www.theguardian.com/media/
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

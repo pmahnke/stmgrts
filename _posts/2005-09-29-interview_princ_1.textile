@@ -76,4 +76,4 @@ Should you have any further questions we would be pleased to contact Grapespot f
 </em>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

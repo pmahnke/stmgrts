@@ -40,4 +40,4 @@ The Fairtrade Guide can be picked up at borough libraries.
 <cite>-- "from a Richmond Council press release":http://www.richmond.gov.uk/press_office/press_releases/february_2009_press_releases/guide_launched_for_fairtrade_fortnight.htm</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

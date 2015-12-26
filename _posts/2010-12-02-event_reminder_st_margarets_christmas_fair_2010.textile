@@ -63,4 +63,4 @@ All fuzz, fun and fury, three-piece outfit Kid Champion were forged not long ago
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

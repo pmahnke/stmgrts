@@ -28,4 +28,4 @@ The next edition will go out before the end of July and the Council are now look
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

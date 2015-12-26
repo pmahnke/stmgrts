@@ -40,4 +40,4 @@ h4. Links
 ** "Tesco Seeks Permission for New Advertising Signage -- Again":/archives/2005/12/tesco_again_see.html
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

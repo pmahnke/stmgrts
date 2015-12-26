@@ -66,4 +66,4 @@ Although they are from different centuries Sonny and James Harbor, the 'oldest r
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

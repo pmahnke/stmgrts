@@ -55,4 +55,4 @@ h3. 8 Things You Didn't Know About the Event
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

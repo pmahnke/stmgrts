@@ -13,4 +13,4 @@ Monday, 7 August is the "St Margarets Police Safer Neighbourhood Clinic":http://
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

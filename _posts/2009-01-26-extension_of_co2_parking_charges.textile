@@ -33,4 +33,4 @@ What do you think?  _leave a comment below_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

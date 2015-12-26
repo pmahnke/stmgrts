@@ -29,4 +29,4 @@ us on 020 8607 9995 or e-mail us at "stmargarets@gymboree-uk.com":mailto:stmarga
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

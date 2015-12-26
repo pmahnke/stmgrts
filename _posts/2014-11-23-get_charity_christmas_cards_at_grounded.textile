@@ -29,4 +29,4 @@ bq. "We fell in love with the image, which is an original black and white photog
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

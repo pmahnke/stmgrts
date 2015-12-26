@@ -18,4 +18,4 @@ Meanwhile "here are some pictures from this year's Fair":/images/2006SMF/2006SMF
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

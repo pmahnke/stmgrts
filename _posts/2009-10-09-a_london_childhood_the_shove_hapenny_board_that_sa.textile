@@ -60,4 +60,4 @@ When I was a little older my grandfather told me later all about the V2 that fel
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

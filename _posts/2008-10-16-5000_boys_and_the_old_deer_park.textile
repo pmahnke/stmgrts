@@ -67,4 +67,4 @@ By the 11<sup>th</sup> August the tents had been struck, the fire pits filled in
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

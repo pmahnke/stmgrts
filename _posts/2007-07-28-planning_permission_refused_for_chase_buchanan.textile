@@ -15,4 +15,4 @@ No additional details are available at the moment.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -62,4 +62,4 @@ St Stephen's CE Junior
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -29,4 +29,4 @@ h4. More Information
 <cite>-- from Christopher J Squire</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

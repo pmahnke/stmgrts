@@ -55,4 +55,4 @@ I/We, the undersigned, are angry that insensitive Government planning policies a
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

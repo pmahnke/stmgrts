@@ -17,4 +17,4 @@ Jill at "jilltaunton@yahoo.co.uk":mailto:jilltaunton@yahoo.co.uk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

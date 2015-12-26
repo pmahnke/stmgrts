@@ -64,4 +64,4 @@ Although specifically designed for the anti-nuclear movement Holtom's logo was n
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

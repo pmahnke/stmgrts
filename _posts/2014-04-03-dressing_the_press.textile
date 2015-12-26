@@ -74,4 +74,4 @@ On one particular occasion both the Queen and the Queen Mother spent a weekend a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

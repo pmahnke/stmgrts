@@ -19,4 +19,4 @@ ADMISSION _only_ 50p!
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

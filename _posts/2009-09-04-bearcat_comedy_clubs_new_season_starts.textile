@@ -27,4 +27,4 @@ This week; "ADAM BLOOM, OTIZ CANNELLONI, ANDI OSHO and DAVID HADINGHAM":http://s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -65,4 +65,4 @@ If you would like to know more, please give us a call on 020 8744 3038 or visit 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

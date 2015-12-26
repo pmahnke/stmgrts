@@ -18,4 +18,4 @@ They would like to hear from as many people as possible who use or have an inter
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

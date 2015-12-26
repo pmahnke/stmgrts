@@ -23,4 +23,4 @@ All money raised goes towards local schools and community projects.  The event i
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

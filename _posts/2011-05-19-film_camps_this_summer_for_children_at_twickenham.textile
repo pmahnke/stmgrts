@@ -29,4 +29,4 @@ The Camp starts on 11<sup>th</sup> July and runs through until 26<sup>th</sup> A
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ To get the Club off the ground, it would be great if interested parties could co
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

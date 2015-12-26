@@ -42,4 +42,4 @@ THE ICE RINK AT STRAWBERRY HILL HOUSE IS OPEN FROM 5 DECEMBER 2015 UNTIL 24 JANU
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -28,4 +28,4 @@ Email "zeph@realale.com":mailto:zeph@realale.com to book your place.  Bring your
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

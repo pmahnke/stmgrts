@@ -97,4 +97,4 @@ h4. Clip from "Dr. Who and the Sea Devils" TX from 26/02/7
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

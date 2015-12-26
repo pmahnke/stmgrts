@@ -36,4 +36,4 @@ _The money raised will support the charitable work of the Royal Parks Foundation
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

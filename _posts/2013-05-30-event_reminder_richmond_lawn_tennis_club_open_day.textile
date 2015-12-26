@@ -19,4 +19,4 @@ Also, there is plenty of room at the weekly social tennis sessions Wednesday's f
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

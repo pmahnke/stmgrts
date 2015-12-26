@@ -63,4 +63,4 @@ bq. "Adopting a new healthier lifestyle can involve changing diet to include mor
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

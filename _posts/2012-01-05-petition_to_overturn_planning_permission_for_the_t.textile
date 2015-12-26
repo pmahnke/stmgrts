@@ -23,4 +23,4 @@ The Mayor of London (Boris) can overturn the decision. Over 5000 new petitions n
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

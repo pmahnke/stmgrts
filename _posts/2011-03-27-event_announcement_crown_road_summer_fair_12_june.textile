@@ -33,4 +33,4 @@ This years Community Fair takes place on "Sunday 12<sup>th</sup> June 2011 in Cr
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

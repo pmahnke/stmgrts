@@ -25,4 +25,4 @@ p. -- excerpted from the "Richmond Council website":http://www.richmond.gov.uk/p
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

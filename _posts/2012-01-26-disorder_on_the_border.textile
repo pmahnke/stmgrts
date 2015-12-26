@@ -71,4 +71,4 @@ Debate about local boundaries continues to this day. Prior to 1994 those of us w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -22,4 +22,4 @@ There are also moves at a national level as this problem is being replicated out
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

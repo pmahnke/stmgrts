@@ -15,4 +15,4 @@ More detailed results will be available in December 2006.  The survey is sponsor
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

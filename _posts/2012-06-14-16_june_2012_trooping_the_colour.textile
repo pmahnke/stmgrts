@@ -83,4 +83,4 @@ _Credit: The portrait of John Evelyn is by Hendrick Van der Borcht 1641_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

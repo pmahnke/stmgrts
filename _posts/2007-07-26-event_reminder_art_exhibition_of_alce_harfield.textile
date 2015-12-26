@@ -21,4 +21,4 @@ There is a _preview evening_ with glass of wine on Friday 27th July, 19.30 - 21.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

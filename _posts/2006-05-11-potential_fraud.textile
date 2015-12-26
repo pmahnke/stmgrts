@@ -24,4 +24,4 @@ We need to verify this; however, a reader notified us that the police removed a 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

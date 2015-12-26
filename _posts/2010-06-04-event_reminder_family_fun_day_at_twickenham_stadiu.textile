@@ -25,4 +25,4 @@ For more information Email: "frasercullen@rfu.com":mailto:frasercullen@rfu.com
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

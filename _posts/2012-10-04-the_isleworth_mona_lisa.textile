@@ -44,4 +44,4 @@ The Louvre Museum, who own the original, declined to comment, particularly about
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

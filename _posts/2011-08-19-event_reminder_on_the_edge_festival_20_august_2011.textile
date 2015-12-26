@@ -33,4 +33,4 @@ For more information: "www.richmond.gov.uk/home/leisure_and_culture/arts/music/o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

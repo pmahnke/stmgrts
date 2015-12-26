@@ -34,4 +34,4 @@ The only way to get an Off-Peak Oyster fare at St Margarets seems to be to wait 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

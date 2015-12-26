@@ -27,4 +27,4 @@ _Spaces are limited, so book a space early to avoid disappointment._
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

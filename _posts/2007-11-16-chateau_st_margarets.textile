@@ -19,4 +19,4 @@ It has got me thinking. There is no doubt that we have an increasingly mild micr
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

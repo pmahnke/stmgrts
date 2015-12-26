@@ -56,4 +56,4 @@ I also offer one-on-one, small group tuition and corporate classes.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

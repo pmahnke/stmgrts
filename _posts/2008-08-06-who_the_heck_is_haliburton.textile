@@ -39,4 +39,4 @@ Haliburton is buried next door to another famous Canadian, the explorer George V
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

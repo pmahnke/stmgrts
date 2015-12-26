@@ -18,4 +18,4 @@ More information is available from 0208 892 3133 or by emailing "guidotod@blueyo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

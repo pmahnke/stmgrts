@@ -57,4 +57,4 @@ bq. "We don't bother much about dress and manners in England, because as a natio
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

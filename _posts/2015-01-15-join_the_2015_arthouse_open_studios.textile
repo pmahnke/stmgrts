@@ -24,4 +24,4 @@ _The application deadline is 27<sup>th</sup> February!_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

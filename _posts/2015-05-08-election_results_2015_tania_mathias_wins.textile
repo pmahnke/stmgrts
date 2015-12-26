@@ -43,4 +43,4 @@ Full data and details from the "BBC.":http://www.bbc.co.uk/news/politics/constit
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

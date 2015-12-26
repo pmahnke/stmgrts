@@ -22,4 +22,4 @@ The _Your Pharmacy_ at 38 Crown Road has applied for planning permission for a s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

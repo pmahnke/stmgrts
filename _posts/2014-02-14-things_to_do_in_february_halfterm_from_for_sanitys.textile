@@ -104,4 +104,4 @@ Our borough offers so many great options for getting out into the fresh air, jum
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ NOTICE IS HEREBY GIVEN that the Council of the London Borough of Richmond upon T
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

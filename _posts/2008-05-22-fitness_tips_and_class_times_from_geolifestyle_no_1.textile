@@ -55,4 +55,4 @@ Mondays 12.30pm in Marble Hill Park. This class is aimed at beginners or those w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

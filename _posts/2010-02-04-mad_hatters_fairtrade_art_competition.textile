@@ -46,4 +46,4 @@ For details on how to enter this competition, visit "www.richmondfairtrade.org.u
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

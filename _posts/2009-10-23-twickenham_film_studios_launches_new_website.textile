@@ -29,4 +29,4 @@ The site was designed and developed by local web design agency "Phuture Design":
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

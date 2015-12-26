@@ -19,4 +19,4 @@ Pilates-Plus in the heart of St Margarets is running a number of Introduction wo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

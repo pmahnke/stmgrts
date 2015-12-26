@@ -23,4 +23,4 @@ School parties will be welcomed by the staff which includes international ice ho
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

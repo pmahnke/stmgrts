@@ -19,4 +19,4 @@ Polling hours 7am to 10pm.
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

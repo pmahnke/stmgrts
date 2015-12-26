@@ -35,4 +35,4 @@ _We will be able to offer a discount to bookings of more than 1 child. Please bo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

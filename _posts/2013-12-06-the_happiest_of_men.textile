@@ -77,4 +77,4 @@ Or a Tony Blackburn once put it <em>"Money won't make you happy but at least you
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

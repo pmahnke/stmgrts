@@ -31,4 +31,4 @@ _Museum of Richmond, Old Town Hall, Whittaker Avenue, Richmond, TW9 1TP_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

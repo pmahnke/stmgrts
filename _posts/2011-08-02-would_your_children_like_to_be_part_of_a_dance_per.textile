@@ -42,4 +42,4 @@ More information on LOCATE dance festival is available here "www.richmond.gov.uk
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

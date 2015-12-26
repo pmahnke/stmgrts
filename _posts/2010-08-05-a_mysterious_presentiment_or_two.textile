@@ -59,4 +59,4 @@ bq. "Germany calling! Germany calling.....we are sorry to have to bomb the Naval
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

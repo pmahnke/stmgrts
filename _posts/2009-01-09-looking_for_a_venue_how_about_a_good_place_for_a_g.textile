@@ -22,4 +22,4 @@ _Remember -- once you've crossed the bridge you are in a different world!_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

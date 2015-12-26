@@ -20,4 +20,4 @@ I also teach theory of music and incorporate aural and sight-reading skills into
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

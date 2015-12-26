@@ -24,4 +24,4 @@ To sign up, please visit: "www.meetup.com/TW1-Womens-30-40s-Social-Meetup":http:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

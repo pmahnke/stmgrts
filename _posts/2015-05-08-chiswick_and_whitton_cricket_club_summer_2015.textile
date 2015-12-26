@@ -38,4 +38,4 @@ We have u10s, u11s, u13s, u15s and u17 teams in the Middlesex Colts Association 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -18,4 +18,4 @@ Any parents who applied using the paper form and now wish to add St Stephen's sh
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

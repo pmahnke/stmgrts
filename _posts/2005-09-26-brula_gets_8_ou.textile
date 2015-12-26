@@ -22,4 +22,4 @@ p>. _Matthew Norman_, 24 September 2005, "The Guardian":http://www.guardian.co.u
 "Read the full review.":http://www.guardian.co.uk/weekend/story/0,,1575669,00.html
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

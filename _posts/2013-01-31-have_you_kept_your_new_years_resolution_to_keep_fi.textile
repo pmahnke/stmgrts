@@ -28,4 +28,4 @@ _No-one should face breast cancer alone. Funds raised from Breast Cancer Care's 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

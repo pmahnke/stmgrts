@@ -48,4 +48,4 @@ So what's next _St Margarets' Got Talent?_ or _I'm a Celebrity Let Me Live Here?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

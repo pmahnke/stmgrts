@@ -73,4 +73,4 @@ Now isn't that the kind of superhero that we need?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

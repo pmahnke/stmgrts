@@ -56,4 +56,4 @@ bq. "And if a house be divided against itself, that house cannot stand."
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

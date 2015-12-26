@@ -22,4 +22,4 @@ The Holly Lodge Centre holds several fundraising events a year but the most impo
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -71,4 +71,4 @@ bq. "Dog Days bright and clear / indicate a happy year. / But when accompanied b
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

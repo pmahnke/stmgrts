@@ -82,4 +82,4 @@ h4. <em>'Stay With Me'</em> by the <em>'Faces'</em>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -19,4 +19,4 @@ _-- submitted by local resident, Jane Pettersson_
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -14,4 +14,4 @@ Residents are invited to have their say on the plans to redevelop Twickenham sta
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

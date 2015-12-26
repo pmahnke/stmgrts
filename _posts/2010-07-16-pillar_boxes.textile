@@ -65,4 +65,4 @@ p. ??"The Letter" by CHARLOTTE BRONTE??
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

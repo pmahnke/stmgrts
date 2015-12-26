@@ -23,4 +23,4 @@ Opening Hours applied for are:
 * "Council Agenda Information":http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=11826
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

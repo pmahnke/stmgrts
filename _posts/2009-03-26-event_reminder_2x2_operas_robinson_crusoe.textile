@@ -26,4 +26,4 @@ For full details, please visit our website: "www.2x2opera.co.uk":http://www.2x2o
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -25,4 +25,4 @@ If you are interested, please follow us and perhaps we can even retweet your stu
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

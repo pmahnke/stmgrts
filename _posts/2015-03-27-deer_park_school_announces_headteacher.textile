@@ -28,4 +28,4 @@ To be kept-up-to date with the school's progress, please sign up to receive the 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

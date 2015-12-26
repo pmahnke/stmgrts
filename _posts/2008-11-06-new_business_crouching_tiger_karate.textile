@@ -31,4 +31,4 @@ Classes are held during school term-time at Winchester Hall:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

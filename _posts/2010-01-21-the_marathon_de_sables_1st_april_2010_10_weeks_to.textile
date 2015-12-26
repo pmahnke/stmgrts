@@ -34,4 +34,4 @@ Georgie runs her own training business, providing 1:2:1 training, run together s
 <cite>--  from Georgie Islip</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

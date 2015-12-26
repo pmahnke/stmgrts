@@ -22,4 +22,4 @@ p. The hearing is 9.45 am on the 30th of November at Richmond Magistrates' Court
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

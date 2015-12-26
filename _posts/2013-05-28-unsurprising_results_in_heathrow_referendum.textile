@@ -27,4 +27,4 @@ Over the four week voting period (from 22 April to 16 May) 342,514 residents wer
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

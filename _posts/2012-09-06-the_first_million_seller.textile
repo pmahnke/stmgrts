@@ -141,4 +141,4 @@ fn1. These early awards were made by RCA, the company that owned the recordings.
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

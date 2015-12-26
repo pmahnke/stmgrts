@@ -64,4 +64,4 @@ Interestingly a William Shakespeare, the son of Leonard Shakespeare, was born in
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

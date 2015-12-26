@@ -91,4 +91,4 @@ In 1926 a firm of ballast and gravel merchants bought Orleans House and demolish
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

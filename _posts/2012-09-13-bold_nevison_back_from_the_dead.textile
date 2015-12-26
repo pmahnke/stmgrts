@@ -61,4 +61,4 @@ The full story of "William Nevison's ride to York first appeared in the St Marga
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

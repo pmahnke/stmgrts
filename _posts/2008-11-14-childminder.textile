@@ -29,4 +29,4 @@ For more information please call 07 9399 74946 or email "janellandmike@yahoo.com
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

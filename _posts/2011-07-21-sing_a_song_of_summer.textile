@@ -87,4 +87,4 @@ h4. Cliff Richard and the Shadows in "Summer Holiday"
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

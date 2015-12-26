@@ -17,4 +17,4 @@ Rev Richard Frank of All Souls Church captured some lovely photos (really) of th
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

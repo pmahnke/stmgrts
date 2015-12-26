@@ -19,4 +19,4 @@ Any musicians and singers who would like to take part, please email Tom Varrall,
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

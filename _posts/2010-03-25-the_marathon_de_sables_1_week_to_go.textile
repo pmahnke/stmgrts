@@ -44,4 +44,4 @@ Then on Sunday the 4<sup>th</sup> I start my journey. I'm viewing it as a journe
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

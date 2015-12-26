@@ -26,4 +26,4 @@ Before the performance there will be an illustrated talk on the work, and there 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

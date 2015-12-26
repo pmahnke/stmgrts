@@ -33,4 +33,4 @@ fn1. A *Comment* is a sequential list of messages that are held with a single _a
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

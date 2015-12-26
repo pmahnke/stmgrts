@@ -76,4 +76,4 @@ Work with a professional artist, using touch and sight to explore the faces arou
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

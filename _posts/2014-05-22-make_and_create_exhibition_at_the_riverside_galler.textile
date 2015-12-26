@@ -30,4 +30,4 @@ The exhibition runs from 31 May - 19 July. All works are for sale and prices sta
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

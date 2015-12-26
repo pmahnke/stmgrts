@@ -17,4 +17,4 @@ Emirates Airline hopes to bypass restrictions on night flights by landing its A3
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

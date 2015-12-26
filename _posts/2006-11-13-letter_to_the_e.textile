@@ -25,4 +25,4 @@ p. <em>-- Ed Randall</em>
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

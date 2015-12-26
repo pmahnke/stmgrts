@@ -30,4 +30,4 @@ There are four clubs across the borough:
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

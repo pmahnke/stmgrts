@@ -23,4 +23,4 @@ Also coming soon, although we haven't finalised details and dates yet is a regul
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

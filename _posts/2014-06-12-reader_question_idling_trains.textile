@@ -15,4 +15,4 @@ bq. Hi I wondered if I was the only one in St Margarets being kept awake in the 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

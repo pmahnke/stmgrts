@@ -18,4 +18,4 @@ Some 120 parents, friends and hangers-on threatened to overflow the Drama Studio
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

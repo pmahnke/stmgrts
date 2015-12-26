@@ -17,4 +17,4 @@ Discuss Richmond Council plans to change the school to a two form entry school w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -47,4 +47,4 @@ Put a note into your diary... "GREAT ANNUAL STREET SALE - SEPTEMBER 14<sup>th</s
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

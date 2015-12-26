@@ -78,4 +78,4 @@ I wonder what the Vicar of Isleworth made of it?
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

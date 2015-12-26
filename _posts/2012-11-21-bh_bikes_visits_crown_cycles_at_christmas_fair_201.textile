@@ -26,4 +26,4 @@ Mark and his team at Crown Cycles look forward to seeing you and sharing some of
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

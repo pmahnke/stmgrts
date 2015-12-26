@@ -31,4 +31,4 @@ The squadron will now continue with its normal parade activities on a Tuesday an
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

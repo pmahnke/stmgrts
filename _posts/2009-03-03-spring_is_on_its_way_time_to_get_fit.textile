@@ -40,4 +40,4 @@ Georgie runs run, her personal training business in St. Margarets. Bootcamps and
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

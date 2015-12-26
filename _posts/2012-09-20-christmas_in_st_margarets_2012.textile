@@ -25,4 +25,4 @@ This years St Margarets Christmas Fair will be held in Crown Road on Sunday 9<su
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

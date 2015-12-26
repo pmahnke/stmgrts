@@ -31,4 +31,4 @@ Admission is by ticket only -- so to reserve yours before they are all taken. Pl
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

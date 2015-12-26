@@ -23,4 +23,4 @@ So we have had a draw and emailed one reader; hopefully, they will allow us to p
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -115,4 +115,4 @@ h4. I did what I could with gas mask - George Formby
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

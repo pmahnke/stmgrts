@@ -15,4 +15,4 @@ All sorts of vegetable and flower seedlings will be available including tomatoes
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -21,4 +21,4 @@ Could you please let us know either by responding on this website or going to "w
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

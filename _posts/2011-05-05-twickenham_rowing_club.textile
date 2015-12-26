@@ -22,4 +22,4 @@ If you are interested in hearing more about what the club has to offer, meeting 
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

@@ -35,4 +35,4 @@ bq.. Our special offers are always changing, in fact we try and offer something 
 We are really delighted to support the _St Margarets Community Website_ it is amazing that the residents and traders are all pulling together for our community. We are very happy to be sponsoring the prize of an express facial or a neck, back and shoulder massage if you sign up to receive the "St Margarets Community Website newsletter":/cgi-bin/newsletter.cgi before the next draw on the 15th of January [starting 16th December]. In addition if you mention the website when using Yummy Mummy we will give you a 10% reduction. Best wishes for a Happy Christmas and a Peaceful New Year from all of us at Yummy Mummy and Yummy Tots.
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

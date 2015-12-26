@@ -27,4 +27,4 @@ Member of Parliament for Twickenham, Teddington, Whitton and the Hamptons
 </div>
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}

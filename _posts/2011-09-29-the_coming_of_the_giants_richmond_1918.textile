@@ -85,4 +85,4 @@ To her consternation she found herself in the river, the water being nearly up t
 
 
 
-{% include comments.html %}
+{% include comments.html commentfile=page.commentfile%}
