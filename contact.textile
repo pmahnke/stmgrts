@@ -1,0 +1,26 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
+h2. Contact us
+
+p. We would love to hear from you.  Please pick the most appropriate email and drop us a line.
+
+
+* *editorial*
+<em><a href="mailto:editor@stmgrts.org.uk">editor@stmgrts.org.uk</a></em>
+If you have any comments or ideas about what we have written or found a comment or forum posting that you have found inappropriate -- please let us know!
+* *support questions*
+<em><a href="mailto:support@stmgrts.org.uk">support@stmgrts.org.uk</a></em>
+Are you having a problem with the site that you think we can help with, let us know.
+* *submit content*
+<em><a href="mailto:content@stmgrts.org.uk">content@stmgrts.org.uk</a></em>
+If you have some specific content (e.g. a story, event or information) that you would to see up on the site.
+* *volunteer*
+<em><a href="mailto:volunteer@stmgrts.org.uk">volunteer@stmgrts.org.uk</a></em>
+If you would like to help make the site better, we are always looking for writers, designers, forum helpers, anything really)
+* *administrative*
+<em><a href="mailto:admin@stmgrts.org.uk">admin@stmgrts.org.uk</a></em>
+If you have any technical issues (e.g. you found a bug or have any technical questions about the site.

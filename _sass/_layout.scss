@@ -201,37 +201,37 @@ td li {
   }
 }
 
-/* 
+/*
 
 IMAGE STYLES
-    
-    all images are displayed in a block with a 5 pixel space and no border 
-    
+
+    all images are displayed in a block with a 5 pixel space and no border
+
     all the rest are classes that can be used to do different combinations of things
-    
+
     USAGE
-    
-	<img src="location of image" alt="description" 
+
+	<img src="location of image" alt="description"
 	     width="in pixels" height="in pixels"
 	     class="inline OR image photo OR right OR left OR right photo OR left photo" />
-	     
+
     DESCRIPTION
-	
-	inline - makes the picture act like a word, 
+
+	inline - makes the picture act like a word,
 	 just sitting wherever it was placed
-	
-	photo  - adds a 1 pixel solid grey border 
-	 around the photo that is 5 pixels from 
-	 the photo and addes some space around 
-	 the border, so the text isn't right up 
+
+	photo  - adds a 1 pixel solid grey border
+	 around the photo that is 5 pixels from
+	 the photo and addes some space around
+	 the border, so the text isn't right up
 	 against it
-	 
+
 	right  - pushes the photo to the right of the text
-	
+
 	left   - pushes the photo to the left of the text
 
 	center - centers the image, text will not wrap around
-	     
+
 */
 
 img {
@@ -1054,6 +1054,88 @@ a.toggle {
   &:visited, &:active, &:link, &:hover {
     color: #eee;
     text-decoration: none;
+  }
+}
+
+/* Forum stuff */
+forum table {
+  width: 98%;
+}
+
+#forum th, td {
+  margin: 0;
+  padding: 0.5em 1em;
+  font-size: 1.2em;
+}
+
+#forum {
+  th {
+    background-color: #800080;
+    color: white;
+    text-align: left;
+  }
+  fieldset {
+    border: 0;
+  }
+}
+
+#topic {
+  .list {
+    width: 90%;
+  }
+  .count {
+    font-size: 0.95em;
+    padding-left: 2em;
+  }
+}
+
+#conversation {
+  .title {
+    color: #4b0082;
+  }
+  .who {
+    font-style: italic;
+  }
+  .me .who {
+    background-color: #990066;
+    color: #eee;
+  }
+  .you .who {
+    background-color: #c9a0dc;
+    color: #fff;
+  }
+  .message {
+    padding: 0 1em;
+    line-height: 1.25em;
+  }
+  td {
+    border-bottom: 1px solid #4b0082;
+  }
+}
+
+#topic td {
+  border-bottom: 1px solid #4b0082;
+}
+
+#conversation th, #topic th {
+  border: 1px solid #ccc;
+}
+
+#forum {
+  input, textarea {
+    font-size: 1.4em;
+    font-family: verdana, arial, sans-serif;
+    width: 75%;
+  }
+  .submit {
+    width: 20%;
+    font-size: 1.2em;
+  }
+  .sub_conv {
+    background-color: #eee;
+  }
+  .title {
+    font-weight: bold;
   }
 }
 

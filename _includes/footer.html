@@ -4,32 +4,29 @@
   <div id="footer_nav" class="offset-by-one five columns">
      <h2>Navigation</h2>
      <ul>
-        <li><a href="/index.shtml">homepage</a></li>
+        <li><a href="/index.html">homepage</a></li>
         <li><a href="/event">events</a></li>
         <li><a href="/directory">local info</a></li>
-        <li><a href="/forum.cgi">forums</a></li>
-        <li><a href="/static/info/colophon.html">about</a></li>
+        <li><a href="/forum">forums</a></li>
         <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
         <li><a href="/poll">polls</a></li>
-        <li><a href="/static/info/contact.html">contact</a></li>
-        <li><a href="/static/info/colophon.html">about</a></li>
+        <li><a href="/contact">contact</a></li>
+        <li><a href="/colophon">about</a></li>
      </ul>
    </div><!-- end div footer_nav -->
 
   <div id="footer_archives" class="five columns">
-     <h2><a href="/archives.html" title="Archives by Category">Archives</a></h2>
+     <h2><a href="/archives" title="Archives">Archives</a></h2>
      <ul>
         <li><a href="/archives/news/index.html">news</a></li>
         <li><a href="/archives/editorial/index.html">editorial</a></li>
         <li><a href="/archives/around_town/index.html">around town</a></li>
      </ul>
 
-     <h2>News Feeds</h2>
+     <h2>News Feed</h2>
 
      <ul>
-        <li><a href="/atom.xml">atom</a></li>
-        <li><a href="/index.rdf">rss1</a></li>
-        <li><a href="/index.xml">rss2</a></li>
+        <li><a href="/feed.xml">atom</a></li>
      </ul>
 
 
@@ -60,14 +57,14 @@
    </div><!-- end div footer_search -->
 
 
-<p class="copyright">Copyright &copy; 2005-2015 St Margarets Community Website<br/>Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="http://www.stmgrts.org.uk/images/cc_by_nd.png.pagespeed.ce.ZdDNI8EW7r.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;" pagespeed_url_hash="3856159963"/></a></p>
+<p class="copyright">Copyright &copy; 2005-2015 St Margarets Community Website<br/>Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="http://www.stmgrts.org.uk/images/cc_by_nd.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;" /></a></p>
 
 
 </div><!-- end div footer -->
 
 <!-- SCRIPTS -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script async src="/assets/js/footnotes.js"  type="text/javascript" ></script> 
+    <script async src="/assets/js/footnotes.js"  type="text/javascript" ></script>
 
 <script>
     $(document).ready(function(){
@@ -75,13 +72,13 @@
 	$('.menu-icon').click(function(){
 		$('#navigation').toggle('slow');
   	});
-	
+
 	$('.search-icon').click(function(){
 		$('#search').toggle('slow');
   	});
 
   	$("#search").hide();
-  	
+
     $( window ).resize(function() {
     	var screen=$(this)
     	if (screen.width() < 767) {
@@ -89,7 +86,7 @@
     	} else {
         	$("#navigation").show();
     	}
-    
+
     footnoteLinks('article','article');
 
     });
