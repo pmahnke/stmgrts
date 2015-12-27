@@ -7,7 +7,7 @@ category: around_town
 date: 2015-02-14 09:55:53
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="150" height="187" alt="Betjeman at the BBC" class="photo right" /></a>
-    
+
     In a radio programme broadcast on Christmas Eve 1950, the poet John Betjeman invited listeners to join him at a Victorian musical evening...
 
 ---
@@ -29,7 +29,7 @@ bq. "We shall have <em>'Twickenham Ferry'</em> - Mr Pooter, will you sing that? 
 
 And so, being something of a Victorian party animal and <em>"Twickenham Ferry"</em> such a recent hit, Mr Pooter duly obliged...
 
-|<a href="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing."><img src="http://www.stmgrts.org.uk/images//TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing_thumb." width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="//stmgrts.org.uk/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="http://stmgrts.org.uk/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing."><img src="http://stmgrts.org.uk/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing_thumb." width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
 
 <pre class="poem">
 

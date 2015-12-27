@@ -7,7 +7,7 @@ category: news
 date: 2010-10-06 18:19:54
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2010/stage_text.pdf" title="See larger version of - Read flier"><img src="//stmgrts.org.uk/assets/images/2010/stage_text_thumb.pdf" width="109" height="150" alt="Read flier" class="photo right" /></a>
-    
+
     Captioning on stage works in a similar way to subtitles on a foreign film - except as well as displaying dialogue from the play, it also shows sound effects, music descriptions and other noises (such as coughs!) too! In this area, both Richmond Theatre and The Rose Theatre, Kingston schedule regular captioned shows.
 
 ---
@@ -24,7 +24,7 @@ h4. For more information, please contact Charlie Swinbourne
 
 * phone: 0207 377 0540
 * email: "charlie@stagetext.org":mailto:charlie@stagetext.org
-* "Download the flier":http://www.stmgrts.org.uk/images//stage_text.pdf [pdf]
+* "Download the flier":/assets/images/2010/stage_text.pdf [pdf]
 
 
 

@@ -7,14 +7,14 @@ category: around_town
 date: 2012-11-09 19:03:16
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2012/StreetsFlyer-SOCIAL.jpg" title="See larger version of - Streets Juice Flyer"><img src="//stmgrts.org.uk/assets/images/2012/StreetsFlyer-SOCIAL_thumb.jpg" width="150" height="212" alt="Streets Juice Flyer" class="photo right" /></a>
-    
+
     _Grand opening on 10 November 2012_
-    
+
     Streets Florist and Greengrocers offer a great selection of fresh juices and smoothies as well as letting people pick their own flavours.
-    
-    Print out and bring "this poster":http://www.stmgrts.org.uk/images//StreetsFlyer-SOCIAL.jpg and get a Free drink.
-    
-    
+
+    Print out and bring "this poster":http://stmgrts.org.uk/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
+
+
 
 ---
 
@@ -24,7 +24,7 @@ _Grand opening on 10 November 2012_
 
 Streets Florist and Greengrocers offer a great selection of fresh juices and smoothies as well as letting people pick their own flavours.
 
-Print out and bring "this poster":http://www.stmgrts.org.uk/images//StreetsFlyer-SOCIAL.jpg and get a Free drink.
+Print out and bring "this poster":http://stmgrts.org.uk/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
 
 
 

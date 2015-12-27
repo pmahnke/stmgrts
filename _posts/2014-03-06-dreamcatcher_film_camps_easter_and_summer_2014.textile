@@ -7,11 +7,11 @@ category: around_town
 date: 2014-03-06 21:06:28
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="//stmgrts.org.uk/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
-    
+
     Make a 5 minute film in 5 Days and take a copy home on DVD!
-    
+
     Here at Dreamcatcher Media, the films made on our Summer Film Camps feature great heroes and anti-heroes, goodies and baddies, exciting chases and dramatic scenes - all scripted, filmed and directed by young people aged 8 - 18.
-    
+
 
 ---
 
@@ -38,7 +38,7 @@ Sponsored by the Alpha Plus Group, the Camp takes place at Falcons Boys Prep Sch
 h4. More Information
 
 * To Book, Call - 07828377939 or email "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
-* "Downlaod the flyer":http://www.stmgrts.org.uk/images//Dream-Catcher-Flyer-Easter-2014.jpg
+* "Downlaod the flyer":http://stmgrts.org.uk/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg
 
 
 {% include comments.html commentfile=page.commentfile%}

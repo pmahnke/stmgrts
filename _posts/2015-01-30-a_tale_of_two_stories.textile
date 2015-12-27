@@ -7,7 +7,7 @@ category: around_town
 date: 2015-01-30 21:16:03
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2015/2STORY_SouvenierFront-Cover.jpg" title="See larger version of - Souvenier Front Cover"><img src="//stmgrts.org.uk/assets/images/2015/2STORY_SouvenierFront-Cover_thumb.jpg" width="150" height="216" alt="Souvenier Front Cover" class="photo right" /></a>
-    
+
     Just over 60 years ago, in June 1953, the <em>'Daily Express'</em> newspaper produced a compilation of six daily editions, as a souvenir of  what they described as <em>'The Story of the Century'</em> - the Coronation of Queen Elizabeth 2<sup>nd</sup>... But between the cheery reports of pomp and parties, celebration and crowds, there appeared a darker, more tragic story...
 
 ---
@@ -24,7 +24,7 @@ Jockey Gordon Richards and cricketer Jack Hobbs are congratulated on being award
 
 h4{clear:both;}. Tuesday June 2<sup>nd</sup> 1953 - Coronation Day
 
-|<a href="//stmgrts.org.uk/assets/images/2015/2STORY_queen-coronation_-crowning.jpg" title="See larger version of - queen coronation  crowning"><img src="//stmgrts.org.uk/assets/images/2015/2STORY_queen-coronation_-crowning_thumb.jpg" width="250" height="156" alt="queen coronation  crowning" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//2STORY_2nd-girl-murder-hunt.jpg" title="See larger version of - 2nd girl murder hunt"><img src="http://www.stmgrts.org.uk/images//2STORY_2nd-girl-murder-hunt_thumb.jpg" width="250" height="217" alt="2nd girl murder hunt" class="photo" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2015/2STORY_queen-coronation_-crowning.jpg" title="See larger version of - queen coronation  crowning"><img src="//stmgrts.org.uk/assets/images/2015/2STORY_queen-coronation_-crowning_thumb.jpg" width="250" height="156" alt="queen coronation  crowning" class="photo" /></a>|<a href="http://stmgrts.org.uk/assets/images/2015/2STORY_2nd-girl-murder-hunt.jpg" title="See larger version of - 2nd girl murder hunt"><img src="http://stmgrts.org.uk/assets/images/2015/2STORY_2nd-girl-murder-hunt_thumb.jpg" width="250" height="217" alt="2nd girl murder hunt" class="photo" /></a>|
 
 Edmund Hilary and Sherpa <em>'Tiger'</em> Tensing conquer the world's highest peak. Under the banner <em>'Be Proud of Britain on this day'</em>, the headline announces - "All this - and Everest Too!" In between drawings of the Queen's <em>'dream dress'</em>, and a map showing the Coronation route, there is a report on Page 5 of a police investigation into  the murder yesterday of 16 year old Barbara Songhurst from Teddington whose body was found in the Thames by Eel Pie Island. Her 18 year old friend, Christine Reed with whom she had been out cycling, is missing.
 

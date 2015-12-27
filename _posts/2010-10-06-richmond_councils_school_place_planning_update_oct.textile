@@ -7,22 +7,22 @@ category: news
 date: 2010-10-06 18:20:03
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2010/stmarg_school_places_page_1.jpg" title="See larger version of - View page 1"><img src="//stmgrts.org.uk/assets/images/2010/stmarg_school_places_page_1_thumb.jpg" width="112" height="150" alt="View page 1" class="photo right" /></a>
-    
-    
-    The Richmond Council will send "this leaflet":http://www.stmgrts.org.uk/images//stmarg_school_places_post_sept_2010.pdf to all parents of school age parents with an update on issues around school places.  Key recommendations are:
-    
+
+
+    The Richmond Council will send "this leaflet"://stmgrts.org.uk/assets/images/2010/stmarg_school_places_post_sept_2010.pdf to all parents of school age parents with an update on issues around school places.  Key recommendations are:
+
     * *St Mary's* to be allowed to run three sites
     * *St Mary's* to be expanded from 2-3 form entry
     * *Orleans Infant* to be converted into a two-form entry community primary school
     * *St Stephen's* to be converted into a two-form entry voluntary-aided primary school
-    
+
 
 ---
 
 <a href="//stmgrts.org.uk/assets/images/2010/stmarg_school_places_page_1.jpg" title="See larger version of - View page 1"><img src="//stmgrts.org.uk/assets/images/2010/stmarg_school_places_page_1_thumb.jpg" width="112" height="150" alt="View page 1" class="photo right" /></a>
 
 
-The Richmond Council will send "this leaflet":http://www.stmgrts.org.uk/images//stmarg_school_places_post_sept_2010.pdf to all parents of school age parents with an update on issues around school places.  Key recommendations are:
+The Richmond Council will send "this leaflet":/assets/images/2010/stmarg_school_places_post_sept_2010.pdf to all parents of school age parents with an update on issues around school places.  Key recommendations are:
 
 * *St Mary's* to be allowed to run three sites
 * *St Mary's* to be expanded from 2-3 form entry
@@ -77,9 +77,9 @@ Director of Education, Children's and Cultural Services
 
 h4. Downloads and articles
 
-* "Download the full letter":http://www.stmgrts.org.uk/images//stmarg_school_places_post_sept_2010.pdf [pdf]
-* "View page 1 as an image":http://www.stmgrts.org.uk/images//stmarg_school_places_page_1.jpg
-* "View page 2 as an image":http://www.stmgrts.org.uk/images//stmarg_school_places_page_2.jpg
+* "Download the full letter":/assets/images/2010/stmarg_school_places_post_sept_2010.pdf [pdf]
+* "View page 1 as an image":/assets/images/2010/stmarg_school_places_page_1.jpg
+* "View page 2 as an image":/assets/images/2010/stmarg_school_places_page_2.jpg
 * "Richmond Council's School Place Planning Update - February 2010":http://www.stmgrts.org.uk/archives/2010/02/richmond_councils_school_place_planning_update.html
 * "Council Purchase of Site for New Primary School":http://www.stmgrts.org.uk/archives/2010/02/council_purchase_of_site_for_new_primary_school.html
 

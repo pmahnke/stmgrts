@@ -7,9 +7,9 @@ category: around_town
 date: 2011-05-05 16:46:24
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2011/headtohead01.pdf" title="See larger version of poster "><img src="//stmgrts.org.uk/assets/images/2011/headtohead01_thumb.gif" width="150" height="203" alt="poster" class="photo right" /></a>
-    
+
     A bar to bar analysis of Eddie Harvey and Dave Gelly's favourite Jazz recordings on Thursday, 19<sup>th</sup> May 2011 in the Studio Theatre Parkshot Richmond from 6.30 pm to 9.30 pm. Two Jazz legends choose, talk about and play their favourite Jazz recordings on their very own Jazz on a desert island - live in the Studio Theatre.
-    
+
 
 ---
 
@@ -31,7 +31,7 @@ Jazz musician and award winning writer and President of the National Jazz Archiv
 
 h4. Details
 
-* "Download the leaflet":http://www.stmgrts.org.uk/images//headtohead01.pdf [pdf]
+* "Download the leaflet":/assets/images/2011/headtohead01.pdf [pdf]
 * &pound;10 admission charge but proceeds from the event will go towards the student bursary fund at the college so it's in a very good cause
 * SIGN-UP ONLINE NOW! at "www.racc.ac.uk/course/C00407-101101":http://www.racc.ac.uk/course/C00407-101101
 * Or enrol in person at one of the college:

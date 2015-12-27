@@ -7,11 +7,11 @@ category: news
 date: 2014-07-17 22:48:46
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2014/SMF_Dog_Show._Disabled_dog_Patch_with_owner_Glyn_Roberts.jpg" title="See larger version of - Dog Show. Disabled dog Patch with owner Glyn Roberts"><img src="//stmgrts.org.uk/assets/images/2014/SMF_Dog_Show_thumb._Disabled_dog_Patch_with_owner_Glyn_Roberts" width="250" height="333" alt="Dog Show. Disabled dog Patch with owner Glyn Roberts" class="photo right" /></a>
-    
+
     _Soaring temperatures and sunshine meant the event enjoyed its biggest ever attendance._
-    
+
     Visitors were treated to a full day of attractions and activities including a local schools' 5-a-side football tournament, dance, a dog show (pictured), tennis taster lessons, a karate display and karting.
-    
+
 
 ---
 
@@ -23,7 +23,7 @@ Visitors were treated to a full day of attractions and activities including a lo
 
 The all-day live music programme included the St Margarets Elastic Band, the Richmond Music Trust Soul Band (pictured), Speakeazy, West London Brass, Twickenham Operatic Society, rock n' roll band Nark Drool & The Shudders and Americana 60s and 70s band The Deputies.
 
-|<a href="//stmgrts.org.uk/assets/images/2014/SMF_Indian_street_food_stall_in_aid_of_Impacts_indian_hospital_train.jpg" title="See larger version of - Indian street food stall in aid of Impacts indian hospital train"><img src="//stmgrts.org.uk/assets/images/2014/SMF_Indian_street_food_stall_in_aid_of_Impacts_indian_hospital_train_thumb.jpg" width="150" height="112" alt="Indian street food stall in aid of Impacts indian hospital train" class="photo" /></a><br />Indian street food stall in aid of Impact's Indian hospital train|<a href="http://www.stmgrts.org.uk/images//SMF_Richmond_Music_Trust_Soul_Band.jpg" title="See larger version of - Richmond Music Trust Soul Band"><img src="http://www.stmgrts.org.uk/images//SMF_Richmond_Music_Trust_Soul_Band_thumb.jpg" width="150" height="112" alt="Richmond Music Trust Soul Band" class="photo " /></a>Richmond Music Trust Soul Band|<a href="http://www.stmgrts.org.uk/images//SMF_The_Pimms_stall.jpg" title="See larger version of - The Pimms stall"><img src="http://www.stmgrts.org.uk/images//SMF_The_Pimms_stall_thumb.jpg" width="150" height="112" alt="The Pimms stall" class="photo " /></a>The Pimms stall|
+|<a href="//stmgrts.org.uk/assets/images/2014/SMF_Indian_street_food_stall_in_aid_of_Impacts_indian_hospital_train.jpg" title="See larger version of - Indian street food stall in aid of Impacts indian hospital train"><img src="//stmgrts.org.uk/assets/images/2014/SMF_Indian_street_food_stall_in_aid_of_Impacts_indian_hospital_train_thumb.jpg" width="150" height="112" alt="Indian street food stall in aid of Impacts indian hospital train" class="photo" /></a><br />Indian street food stall in aid of Impact's Indian hospital train|<a href="http://stmgrts.org.uk/assets/images/2014/SMF_Richmond_Music_Trust_Soul_Band.jpg" title="See larger version of - Richmond Music Trust Soul Band"><img src="http://stmgrts.org.uk/assets/images/2014/SMF_Richmond_Music_Trust_Soul_Band_thumb.jpg" width="150" height="112" alt="Richmond Music Trust Soul Band" class="photo " /></a>Richmond Music Trust Soul Band|<a href="http://stmgrts.org.uk/assets/images/2014/SMF_The_Pimms_stall.jpg" title="See larger version of - The Pimms stall"><img src="http://stmgrts.org.uk/assets/images/2014/SMF_The_Pimms_stall_thumb.jpg" width="150" height="112" alt="The Pimms stall" class="photo " /></a>The Pimms stall|
 
 Stalls were an eclectic mix of charity, craft, local community and fashion.
 

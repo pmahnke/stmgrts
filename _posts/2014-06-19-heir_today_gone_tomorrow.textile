@@ -7,12 +7,8 @@ category: around_town
 date: 2014-06-19 22:59:20
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2014/BUDD_Twickenham_Park.jpg" title="See larger version of - Twickenham Park"><img src="//stmgrts.org.uk/assets/images/2014/BUDD_Twickenham_Park_thumb.jpg" width="150" height="90" alt="Twickenham Park" class="photo right" /></a>
-    
-    Once upon a time there was a man living in these parts called Henry Budd and he was absolutely loaded. Not only did he own the riverside estate "Twickenham Park" in what was to become St Margarets but he also had properties on Marine Drive in Brighton and Russell Square in London as well as a rather prestigious family mausoleum at St. Matthews Church in Brixton.
-    
-    
-    
 
+    Once upon a time there was a man living in these parts called Henry Budd and he was absolutely loaded. Not only did he own the riverside estate "Twickenham Park" in what was to become St Margarets but he also had properties on Marine Drive in Brighton and Russell Square in London as well as a rather prestigious family mausoleum at St. Matthews Church in Brixton.
 ---
 
 <a href="//stmgrts.org.uk/assets/images/2014/BUDD_Twickenham_Park.jpg" title="See larger version of - Twickenham Park"><img src="//stmgrts.org.uk/assets/images/2014/BUDD_Twickenham_Park_thumb.jpg" width="150" height="90" alt="Twickenham Park" class="photo right" /></a>
@@ -55,7 +51,7 @@ It seems that there isn't a specific term to describe a moustache phobia - altho
 
 The public attitude to beards and moustaches changed when the Crimean War started in 1853. Because of the terrible weather our soldiers were permitted to grow beards and moustaches as protection from the cold. Taking up the trichogenous trend was Mr George Frederick Muntz, a Member of Parliament for Birmingham. He was a notable figure in the House of Commons, described by some as an 'egotistical aristocrat'. A large man with a handsome face, a huge black beard, and moustache it is said that he <em>"carried a thick malacca cane... to answer any insults he encountered on the streets because a beard stamped a gentleman 'as either a crank or an artist."</em> He died 30<sup>th</sup> July, 1857, and is regarded by some as the father of the Modern Moustache Movement.
 
-|<a href="//stmgrts.org.uk/assets/images/2014/BUDD_Sir_Richard_Burton.jpg" title="See larger version of - Sir Richard Burton"><img src="//stmgrts.org.uk/assets/images/2014/BUDD_Sir_Richard_Burton_thumb.jpg" width="150" height="193" alt="Sir Richard Burton" class="photo" /></a><br />Sir Richard Burton|<a href="http://www.stmgrts.org.uk/images//BUDD_General_Gordon.jpg" title="See larger version of - General Gordon"><img src="http://www.stmgrts.org.uk/images//BUDD_General_Gordon_thumb.jpg" width="150" height="208" alt="General Gordon" class="photo" /></a><br />General Gordon|<a href="http://www.stmgrts.org.uk/images//BUDD_charles-dickens.jpg" title="See larger version of - charles dickens"><img src="http://www.stmgrts.org.uk/images//BUDD_charles-dickens_thumb.jpg" width="150" height="219" alt="charles dickens" class="photo right" /></a><br />Charles Dickens|
+|<a href="//stmgrts.org.uk/assets/images/2014/BUDD_Sir_Richard_Burton.jpg" title="See larger version of - Sir Richard Burton"><img src="//stmgrts.org.uk/assets/images/2014/BUDD_Sir_Richard_Burton_thumb.jpg" width="150" height="193" alt="Sir Richard Burton" class="photo" /></a><br />Sir Richard Burton|<a href="http://stmgrts.org.uk/assets/images/2014/BUDD_General_Gordon.jpg" title="See larger version of - General Gordon"><img src="http://stmgrts.org.uk/assets/images/2014/BUDD_General_Gordon_thumb.jpg" width="150" height="208" alt="General Gordon" class="photo" /></a><br />General Gordon|<a href="http://stmgrts.org.uk/assets/images/2014/BUDD_charles-dickens.jpg" title="See larger version of - charles dickens"><img src="http://stmgrts.org.uk/assets/images/2014/BUDD_charles-dickens_thumb.jpg" width="150" height="219" alt="charles dickens" class="photo right" /></a><br />Charles Dickens|
 
 
 In the latter years of Victoria's reign beards and moustaches came to be regarded as a 'must-have' symbol of courage, determination and intelligence. They were proudly sported by such notables as Sir Richard Burton, the explorer, General Gordon, the 'hero of Khartoum' and writer Charles Dickens who favoured the wispy variety.

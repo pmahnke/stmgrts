@@ -7,7 +7,7 @@ category: around_town
 date: 2013-01-31 22:30:04
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a>
-    
+
     I remember that morning in February 1959. It was a typical winter day, grey and grim, and I was delivering newspapers. Plastered over the front page of the 'Daily Mirror' was the headline 'Top Rock Stars Die in Crash'. Above it, arms spread, was a photograph of J.P Richardson - the Big Bopper - and below, grinning from behind his horn rimmed glasses, was my hero, Buddy Holly. They were both dead, along with 17 year old Ritchie Valens...
 
 ---
@@ -22,7 +22,7 @@ Something touched me deep inside the day the music died
 ??AMERICAN PIE by Don McLean??
 
 
-|<a href="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a><br />Buddy Holly|<a href="http://www.stmgrts.org.uk/images//DTMD_Big-Bopper.jpg" title="See larger version of - Big Bopper"><img src="http://www.stmgrts.org.uk/images//DTMD_Big-Bopper_thumb.jpg" width="112" height="112" alt="Big Bopper" class="photo right" /></a><br />Jape<br />'Big Bopper'<br />Richardson|<a href="http://www.stmgrts.org.uk/images//DTMD_Ritchie_Valens.jpg" title="See larger version of - Ritchie Valens"><img src="http://www.stmgrts.org.uk/images//DTMD_Ritchie_Valens_thumb.jpg" height="112" alt="Ritchie Valens" class="photo" /></a><br />Ritchie Valens|
+|<a href="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="//stmgrts.org.uk/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a><br />Buddy Holly|<a href="http://stmgrts.org.uk/assets/images/2013/DTMD_Big-Bopper.jpg" title="See larger version of - Big Bopper"><img src="http://stmgrts.org.uk/assets/images/2013/DTMD_Big-Bopper_thumb.jpg" width="112" height="112" alt="Big Bopper" class="photo right" /></a><br />Jape<br />'Big Bopper'<br />Richardson|<a href="http://stmgrts.org.uk/assets/images/2013/DTMD_Ritchie_Valens.jpg" title="See larger version of - Ritchie Valens"><img src="http://stmgrts.org.uk/assets/images/2013/DTMD_Ritchie_Valens_thumb.jpg" height="112" alt="Ritchie Valens" class="photo" /></a><br />Ritchie Valens|
 
 I remember that morning in February 1959. It was a typical winter day, grey and grim, and I was delivering newspapers. Plastered over the front page of the 'Daily Mirror' was the headline 'Top Rock Stars Die in Crash'. Above it, arms spread, was a photograph of J.P Richardson - the Big Bopper - and below, grinning from behind his horn rimmed glasses, was my hero, Buddy Holly. They were both dead, along with 17 year old Ritchie Valens...
 

@@ -7,14 +7,14 @@ category: around_town
 date: 2011-10-27 22:35:02
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
-    
+
     The warning signs were in the local newspapers for all to see...
-    
+
     * "Kew Garden sustained greater damage by the recent frost and snowfall than had been experienced for 40 years"
     * "Owing to the strong steam it took three tugs to tow and push two coal lighters through the centre arch of Richmond Bridge on Tuesday."
     * "Twenty three degrees of frost were registered at Kew Observatory at 7.00am last Saturday -  a record low temperature for 1927."
     * "The thaw was accompanied during the night by the wind which at times rose to gale force. These heavy gusts, together with the thud of snow falling from the roofs, kept many Londoners awake."
-    
+
 
 ---
 
@@ -45,7 +45,7 @@ bq. "The Duck's walk was inundated and the water cut off Cambridge Road. Occupan
 
 Old Deer Park disappeared under about 3 feet of water as did Ranelagh Drive and the towpath through Richmond to Kew - and at Moor Mead Park...
 
-bq. "The rapid overflowing of the river Crane and the effects of the thaw quickly inundated the Mead... for the first time for many years the path leading from the bottom of Godstone Road to Cole Park Road was impassable. The water extended well onto Bandy Close and was even trickling through the gates into Moor Mead Road...  (it) encroached upon the gardens of houses in St Margarets Grove and reached the bottom of South Western Road through the passage. In some places it was nearly three feet deep...and the water was only a few inches from the top of the arches of the bridge near Hill View Road... Number 93 St Margarets Grove, occupied by Mr and Mrs Moore was surrounded by water...  When Mr Moore returned home from work he had to wade knee deep to get to the front door... In order to do some shopping Mrs Moore had to climb through the front windows of the house, walk along the sills where her husband carried her over the fence of the next garden to dry land... 
+bq. "The rapid overflowing of the river Crane and the effects of the thaw quickly inundated the Mead... for the first time for many years the path leading from the bottom of Godstone Road to Cole Park Road was impassable. The water extended well onto Bandy Close and was even trickling through the gates into Moor Mead Road...  (it) encroached upon the gardens of houses in St Margarets Grove and reached the bottom of South Western Road through the passage. In some places it was nearly three feet deep...and the water was only a few inches from the top of the arches of the bridge near Hill View Road... Number 93 St Margarets Grove, occupied by Mr and Mrs Moore was surrounded by water...  When Mr Moore returned home from work he had to wade knee deep to get to the front door... In order to do some shopping Mrs Moore had to climb through the front windows of the house, walk along the sills where her husband carried her over the fence of the next garden to dry land...
 
 <a href="//stmgrts.org.uk/assets/images/2011/FLOOD_children-tobogganing.jpg" title="See larger version of - Children Tobogganing"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_children-tobogganing_thumb.jpg" width="150" height="112" alt="Children Tobogganing" class="photo right" /></a>
 
@@ -63,7 +63,7 @@ bq. "I am exceedingly thankful to be able to report that the distress caused by 
 One week later, on the 14<sup>th</sup> January 1928 the Richmond Herald was pleased to announce that the Mayor's Relief Fund had already received over &pound;504 in donations.
 
 The "Richmond Herald" also had this report tucked away in a corner:-
-Lord Desborough, chairman of the Thames Conservancy Board, stated at a meeting on Monday:- 
+Lord Desborough, chairman of the Thames Conservancy Board, stated at a meeting on Monday:-
 
 bq. "What happened the other day was that a high tide, amounting almost to a bore, came up the North Sea. That is the cause, and not altogether the Thames water. Not even the Thames Conservancy, nor the Port of London Authority, can stop the water coming in from the North Sea. The only way I can see is the one that was suggested, and which I recommended 21 years ago. That is, to put a barrage from Tilbury to Gravesend, with locks in it."
 
@@ -71,7 +71,7 @@ bq. "What happened the other day was that a high tide, amounting almost to a bor
 
 <div class="box">
 
-|<a href="//stmgrts.org.uk/assets/images/2011/FLOOD_All-Saints-Isleworth.jpg" title="See larger version of - Martyn pointing to the level at All Saints in Isleworth"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_All-Saints-Isleworth_thumb.jpg" width="150" height="193" alt="Martyn pointing to the level at All Saints in Isleworth" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//FLOOD_Slug-and-Lettuce.jpg" title="See larger version of - Flood line in Richmond"><img src="http://www.stmgrts.org.uk/images//FLOOD_Slug-and-Lettuce_thumb.jpg" width="150" height="225" alt="Flood line in Richmond" class="photo right" /></a>|<a href="http://www.stmgrts.org.uk/images//FLOOD_Half-tide-lock.jpg" title="See larger version of - Half tide lock"><img src="http://www.stmgrts.org.uk/images//FLOOD_Half-tide-lock_thumb.jpg" width="150" height="171" alt="Half tide lock" class="photo" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2011/FLOOD_All-Saints-Isleworth.jpg" title="See larger version of - Martyn pointing to the level at All Saints in Isleworth"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_All-Saints-Isleworth_thumb.jpg" width="150" height="193" alt="Martyn pointing to the level at All Saints in Isleworth" class="photo" /></a>|<a href="//stmgrts.org.uk/assets/images/2011/FLOOD_Slug-and-Lettuce.jpg" title="See larger version of - Flood line in Richmond"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_Slug-and-Lettuce_thumb.jpg" width="150" height="225" alt="Flood line in Richmond" class="photo right" /></a>|<a href="//stmgrts.org.uk/assets/images/2011/FLOOD_Half-tide-lock.jpg" title="See larger version of - Half tide lock"><img src="//stmgrts.org.uk/assets/images/2011/FLOOD_Half-tide-lock_thumb.jpg" width="150" height="171" alt="Half tide lock" class="photo" /></a>|
 
 
 

@@ -7,10 +7,8 @@ category: around_town
 date: 2014-06-26 09:06:52
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2014/the_shadows.jpg" title="See larger version of - the shadows"><img src="//stmgrts.org.uk/assets/images/2014/the_shadows_thumb.jpg" width="150" height="140" alt="the shadows" class="photo right" /></a>
-    
+
     54 years ago, on 17<sup>th</sup> June 1960,  the Shadows recorded "Apache", an instrumental that introduced to the UK a new and exciting sound played on a new and stylish American guitar - the Fender Stratocaster. Like many other British musicians the Shadows were fed up with the lack of decent guitars in the UK - so they decided to import one for themselves. Whenbq. "Apache" was released in July 1960 it went straight to No. 1 and stayed there for 5 weeks.
-    
-    
 
 ---
 
@@ -52,7 +50,7 @@ bq. "Later the Quarrymen, John's first group, would practise in his mother Julia
 ??RAY COLEMAN - Author ofbq. "Lennon"??
 
 
-<a href="http://www.stmgrts.org.uk/images//brian_may_+_home_made_guitar.jpg" title="See larger version of - brian may + home made guitar"><img src="http://www.stmgrts.org.uk/images//brian_may_+_home_made_guitar_thumb.jpg" width="250" height="213" alt="brian may + home made guitar" class="photo right" /></a>
+<a href="http://stmgrts.org.uk/assets/images/2014/brian_may_+_home_made_guitar.jpg" title="See larger version of - brian may + home made guitar"><img src="http://stmgrts.org.uk/assets/images/2014/brian_may_+_home_made_guitar_thumb.jpg" width="250" height="213" alt="brian may + home made guitar" class="photo right" /></a>
 
 bq. "I drooled over Fender Stratocasters, Telecasters, Gibson Les Pauls and such like. Not being able to afford all this stuff was the impetus behind me and my Dad deciding to make a guitar. The neck was an old fireplace, the rest was blockboard and oak. It still hangs in there and looks like it will just about see me out."
 

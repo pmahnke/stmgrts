@@ -7,12 +7,12 @@ category: around_town
 date: 2010-01-21 13:22:30
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2010/baseline_1.png" title="See larger version of - TRIANGULATION IN THE 16th CENTURY"><img src="//stmgrts.org.uk/assets/images/2010/baseline_1_thumb.png" width="150" height="111" alt="TRIANGULATION IN THE 16th CENTURY" class="photo right" /></a>
-    
-    
+
+
     *Cartophile* --  _n._ One who greatly admires and enjoys maps.
-    
+
     The next time you find yourself lost on a lonely hillside with only a map and a compass between you and missing the next episode of 'Celebrity Big Brother' or standing in the rain checking your A-Z to find the nearest tube station consider this - virtually every map in this country owes its existence to 2 military engineers, 10 men from the 12<sup>th</sup> Regiment of Foot - and a straight line paced out on Hounslow Heath.
-    
+
     It all started with the Jacobite Rebellion of 1745 when the "Young Pretender", Charles Edward Stuart tried to kick George 2<sup>nd</sup> off the throne and replace him with "The Old Pretender" James Francis Edward Stuart. It ended in tears and defeat for the Jacobite cause in 1746 at Culloden in Scotland, the last battle fought on British soil.
 
 ---
@@ -50,7 +50,7 @@ Today the Hounslow baseline, upon which all subsequent Ordnance survey maps are 
 
 h4. THE END OF THE BASELINE
 
-|<a href="//stmgrts.org.uk/assets/images/2010/baseline_4.png" title="See larger version of - HAMPTON"><img src="//stmgrts.org.uk/assets/images/2010/baseline_4_thumb.png" width="106" height="150" alt="HAMPTON" class="photo" /></a>|<a href="http://www.stmgrts.org.uk/images//baseline_5.png" title="See larger version of - HEATHROW"><img src="http://www.stmgrts.org.uk/images//baseline_5_thumb.png" width="113" height="150" alt="HEATHROW" class="photo" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2010/baseline_4.png" title="See larger version of - HAMPTON"><img src="//stmgrts.org.uk/assets/images/2010/baseline_4_thumb.png" width="106" height="150" alt="HAMPTON" class="photo" /></a>|<a href="//stmgrts.org.uk/assets/images/2010/baseline_5.png" title="See larger version of - HEATHROW"><img src="//stmgrts.org.uk/assets/images/2010/baseline_5_thumb.png" width="113" height="150" alt="HEATHROW" class="photo" /></a>|
 |HAMPTON|HEATHROW|
 
 The Ordnance Survey says a lot about us as a nation. The detail, accuracy and availability of its maps suggest that we have nothing to hide, that this land is accessible to all. The careful plotting of footpaths, bridleways, rights-of-way and half forgotten tracks serves as an invitation to go out and explore. Look at the map and we can all see where we stand and how we fit into the wider scheme of things.  Most other countries - and even the most developed - do not have maps like this freely available and they are poorer for it, geographically and psychologically. Freedom comes in many guises and our freedom to know precisely where we are and where we might be going was born on a long straight track between TQ 077768 and TQ 138709  - on Hounslow Heath.

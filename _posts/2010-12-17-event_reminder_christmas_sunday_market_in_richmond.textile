@@ -17,7 +17,7 @@ bq. "The market will include local artists and crafters, live local musicians an
 
 h4. Details
 
-* "Download poster":http://www.stmgrts.org.uk/images//DuckPondMarketRichmondPoste.jpg
+* "Download poster":/assets/images/2010/DuckPondMarketRichmondPoste.jpg
 
 
 

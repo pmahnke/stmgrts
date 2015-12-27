@@ -7,9 +7,9 @@ category: around_town
 date: 2013-08-15 21:02:35
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-1.jpg" title="See larger version of - St Margarets Promo Leaflet Aug 2013 1"><img src="//stmgrts.org.uk/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-1_thumb.jpg" width="150" height="212" alt="St Margarets Promo Leaflet Aug 2013 1" class="photo right" /></a>
-    
+
     It's August, the sun is shining, the recent roadworks in Crown Road have now finished and your local traders have some great offers for you. Look out for these and other great offers from your local independent traders...
-    
+
 
 ---
 
@@ -19,8 +19,8 @@ It's August, the sun is shining, the recent roadworks in Crown Road have now fin
 
 h4. Details
 
-* "Page 1":http://www.stmgrts.org.uk/images//St-Margarets-Promo-Leaflet-Aug-2013-1.jpg
-* "Page 2":http://www.stmgrts.org.uk/images//St-Margarets-Promo-Leaflet-Aug-2013-2.jpg
+* "Page 1":http://stmgrts.org.uk/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-1.jpg
+* "Page 2":http://stmgrts.org.uk/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-2.jpg
 
 
 
