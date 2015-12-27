@@ -5,12 +5,12 @@ permalink: /archives/index.html
 ---
             <div id="twocolcenter" class="offset-by-one eleven columns clearfix">
                 <div class="content">
-                    
+
                     <h2>St Margarets Community Website Archives</h2>
 
-<!-- news -->                    
+<!-- news -->
                     <h3><a href="/archives/news">News archives</a></h3>
-                    
+
                     <ul>
 {% for post in site.categories.news limit: 10 %}
                         <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
@@ -21,7 +21,7 @@ permalink: /archives/index.html
 
 <!-- editorial -->
                     <h3><a href="/archives/editorial">Editorials archives</a></h3>
-                    
+
                     <ul>
 {% for post in site.categories.editorial limit: 10 %}
                         <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
@@ -32,43 +32,42 @@ permalink: /archives/index.html
 
 
 <!-- around_town -->
-                    <h3><a href="/archives/around_town">Around town archives</a></h3>
-                    
+                    <h3><a href="/archives/around-town">Around town archives</a></h3>
+
                     <ul>
 {% for post in site.categories.around_town limit: 10 %}
                         <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
                     </ul>
 
-                    <p><a href="/archives/around_town"><em>more around town articles &#8230;</em></a></p>
+                    <p><a href="/archives/around-town"><em>more around town articles &#8230;</em></a></p>
 
 
                 </div><!-- end div content -->
-                
+
             </div><!-- end div twocolcenter -->
-            
+
             <div id="right" class="four columns">
 
                 <div id="archives">
-                
+
                     <div class="sidebar">
-                
+
                     <h3>Monthly archives</h3>
-                    
+
                     <ul>
 {% for post in site.posts %}
   {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
   {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
   {% if currentyearmonth != lastyearmonth %}
                         <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-    {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %} 
+    {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}
   {% endif %}
 {% endfor %}
                     </ul>
-                    
+
                 </div><!-- end div sidebar -->
 
                </div><!-- end div archives -->
-            
+
             </div><!-- end div right -->
-            
