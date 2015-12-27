@@ -7,7 +7,7 @@ category: around_town
 date: 2015-11-26 19:11:33
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2015/PEACE_Paris_Peace_Sign.jpg" title="See larger version of - Paris Peace Sign"><img src="//stmgrts.org.uk/assets/images/2015/PEACE_Paris_Peace_Sign_thumb.jpg" width="150" height="139" alt="Paris Peace Sign" class="photo right" /></a>
-    
+
     In the immediate hours following the terrorist attack in Paris on Friday 13<sup>th</sup> November a new image began to appear on the streets of the city. It consisted of an outline of the Eiffel Tower laid over the familiar <em>'peace sign'</em> evoking a sense of unity in the nation, support for the victims and a wish for peace. Even before the details of the atrocity were fully known this simple cartoon was being shared by millions around the world.
 
 ---
@@ -48,7 +48,7 @@ Gerald Holtom later wrote to Hugh Brock, editor of <em>'Peace News'</em>, explai
 
 bq. "I was in despair. Deep despair. I drew myself: the representative of an individual in despair, with hands palm outstretched outwards and downwards in the manner of Goya's peasant before the firing squad. I formalised the drawing into a line and put a circle round it."
 
-|<a href="//stmgrts.org.uk/assets/images/2015/PEACE_Holtom_original_sketch.jpg" title="See larger version of - Holtom original sketch"><img src="//stmgrts.org.uk/assets/images/2015/PEACE_Holtom_original_sketch_thumb.jpg" width="400" height="251" alt="Holtom original sketch" class="photo center" /></a>|<a href="http://www.stmgrts.org.uk/images//PEACE_CND_Printed_symbol.jpg" title="See larger version of - CND Printed symbol"><img src="http://www.stmgrts.org.uk/images//PEACE_CND_Printed_symbol_thumb.jpg" width="189" height="251" alt="CND Printed symbol" class="photo right" /></a>|
+|<a href="//stmgrts.org.uk/assets/images/2015/PEACE_Holtom_original_sketch.jpg" title="See larger version of - Holtom original sketch"><img src="//stmgrts.org.uk/assets/images/2015/PEACE_Holtom_original_sketch_thumb.jpg" width="400" height="251" alt="Holtom original sketch" class="photo center" /></a>|<a href="//stmgrts.org.uk/assets/images/2015/PEACE_CND_Printed_symbol.jpg" title="See larger version of - CND Printed symbol"><img src="//stmgrts.org.uk/assets/images/2015/PEACE_CND_Printed_symbol_thumb.jpg" width="189" height="251" alt="CND Printed symbol" class="photo right" /></a>|
 
 Holtom's logo was first used over the Easter weekend of 1958 during the CND's anti-nuclear march from Aldermaston, the home of Britain's <em>'Atomic Weapons Research Establishment'</em> to London. This march was repeated in various forms until the mid 60's. The symbol also appeared on clay badges made by Eric Austen of Kensington CND. A note with each badge explained that in the event of a nuclear war these fired pottery items would be among the few human artefacts to survive the atomic inferno - a deadly life-long guarantee!
 
