@@ -6,7 +6,7 @@ commentfile: 2011-06-17-event_reminder_st_margarets_fair_16_july_2011
 category: around_town
 date: 2011-06-17 15:27:18
 excerpt: |
-    <img src="/images/directory/200507051436_St_Margarets_Fair.jpg"  alt="St_Margarets_Fair" width="150" class="right" />
+    <img src="/assets/images/directory/200507051436_St_Margarets_Fair.jpg"  alt="St_Margarets_Fair" width="150" class="right" />
     
     Come celebrate the 33rd annual St Margarets Fair on Moormead Park from "noon to 8pm on 16th July 2011":http://www.stmgrts.org.uk/event/fair/200705142755.
     
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<img src="/images/directory/200507051436_St_Margarets_Fair.jpg"  alt="St_Margarets_Fair" width="150" class="right" />
+<img src="/assets/images/directory/200507051436_St_Margarets_Fair.jpg"  alt="St_Margarets_Fair" width="150" class="right" />
 
 Come celebrate the 33rd annual St Margarets Fair on Moormead Park from "noon to 8pm on 16th July 2011":http://www.stmgrts.org.uk/event/fair/200705142755.
 

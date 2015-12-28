@@ -6,7 +6,7 @@ commentfile: 2009-09-04-kilmorey_mausoleum_website_now_online
 category: around_town
 date: 2009-09-04 20:31:33
 excerpt: |
-    !(photo right) http://www.stmgrts.org.uk/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
+    !(photo right) //stmgrts.org.uk/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
     
     A new website has been recently launched for the Kilmorey Mausoleum in Twickenham, produced by the volunteers.
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-!(photo right) http://www.stmgrts.org.uk/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
+!(photo right) //stmgrts.org.uk/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
 
 A new website has been recently launched for the Kilmorey Mausoleum in Twickenham, produced by the volunteers.
 

@@ -8,7 +8,7 @@ date: 2011-04-22 11:11:47
 
 ---
 
-<img src="http://www.stmgrts.org.uk/images/directory/200602240454_Crossbats_Cricket_Club.gif" width="128" height="159" class="right" />
+<img src="//stmgrts.org.uk/assets/images/directory/200602240454_Crossbats_Cricket_Club.gif" width="128" height="159" class="right" />
 
 "Crossbats Cricket Club":http://www.stmgrts.org.uk/directory/sports/200602240454 is looking for players - we play at Marble Hill and some away fixtures.
 

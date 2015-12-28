@@ -6,7 +6,7 @@ commentfile: 2008-11-06-new_business_crouching_tiger_karate
 category: around_town
 date: 2008-11-06 11:09:38
 excerpt: |
-    !(right) http://www.stmgrts.org.uk/images/directory/200811060457_Crouching_Tiger_Karate.gif (Crouching Tiger Karate logo)!
+    !(right) //stmgrts.org.uk/assets/images/directory/200811060457_Crouching_Tiger_Karate.gif (Crouching Tiger Karate logo)!
     
     There is a new childrens karate programme in St Margarets, "_Crouching Tiger Karate_":http://www.stmgrts.org.uk/directory/sports/200811060457.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-!(right) http://www.stmgrts.org.uk/images/directory/200811060457_Crouching_Tiger_Karate.gif (Crouching Tiger Karate logo)!
+!(right) //stmgrts.org.uk/assets/images/directory/200811060457_Crouching_Tiger_Karate.gif (Crouching Tiger Karate logo)!
 
 There is a new childrens karate programme in St Margarets, "_Crouching Tiger Karate_":http://www.stmgrts.org.uk/directory/sports/200811060457.
 
