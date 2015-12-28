@@ -5,10 +5,13 @@ permalink: /archives/2010/06/local_pubs_and_the_2010_world_cup.html
 commentfile: 2010-06-26-local_pubs_and_the_2010_world_cup
 category: around_town
 date: 2010-06-26 06:15:27
+excerpt: |
+    <a href="http://www.stmgrts.org.uk/assets/images/2010/st_margarets_pub.jpg" title="See larger version of - st margarets pub"><img src="http://www.stmgrts.org.uk/assets/images/2010/st_margarets_pub_thumb.jpg" width="150" height="150" alt="st margarets pub" class="photo right" /></a>
 
+    Some more photos from Ness Reddick.
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/4713874858/" title="St Margaret Pub by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2010/4713874858_540789fb42_m.jpg" width="240" height="160" alt="St Margaret Pub" class="center photo" /></a>
+<a href="http://www.stmgrts.org.uk/assets/images/2010/st_margarets_pub.jpg" title="See larger version of - st margarets pub"><img src="http://www.stmgrts.org.uk/assets/images/2010/st_margarets_pub_thumb.jpg" width="250" height="250" alt="st margarets pub" class="photo right" /></a>
 
 Some more photos from Ness Reddick.
 

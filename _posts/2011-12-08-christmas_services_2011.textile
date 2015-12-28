@@ -7,9 +7,6 @@ category: around_town
 date: 2011-12-08 22:02:47
 
 ---
-
-<img src="//stmgrts.org.uk/assets/images/2011/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
-
 Here is a list of church services for Christmas Eve and Christmas for some local churches.
 
 h3. "St Stephen's Church":http://www.stmgrts.org.uk/directory/church/200506080822

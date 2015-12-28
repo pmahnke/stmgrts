@@ -5,6 +5,10 @@ permalink: /archives/2012/11/this_christmas_at_pilates_plus.html
 commentfile: 2012-11-28-this_christmas_at_pilates_plus
 category: around_town
 date: 2012-11-28 21:38:54
+excerpt: |
+    <a href="//stmgrts.org.uk/assets/images/2012/Christmas_at_Pilates_Plus.png" title="See larger version of - Christmas at Pilates Plus"><img src="//stmgrts.org.uk/assets/images/2012/Christmas_at_Pilates_Plus_thumb.png" width="150" height="212" alt="Christmas at Pilates Plus" class="photo right" /></a>
+
+    Come and sample some of our classes and treatments and discover what we can offer you. Special offers on January bookings
 
 ---
 

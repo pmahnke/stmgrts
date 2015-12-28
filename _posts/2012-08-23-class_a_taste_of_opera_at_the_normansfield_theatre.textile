@@ -6,15 +6,10 @@ commentfile: 2012-08-23-class_a_taste_of_opera_at_the_normansfield_theatre
 category: around_town
 date: 2012-08-23 19:25:19
 excerpt: |
-    <img src="//stmgrts.org.uk/assets/images/2012/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
-    
     This 10 week course on Wednesday evenings 7pm to 9pm from 19 September, will be a  lighthearted, guided tour through the development of opera, illustrated with a variety of recent and historic audio and video recording.  You don't need to have an extensive knowledge of operas to enjoy this course, just an interest to learn more about them.
-    
+
 
 ---
-
-<img src="//stmgrts.org.uk/assets/images/2012/A%20Taste%20of%20Opera.jpg"  class="photo right" alt="promo image" width="150" />
-
 This 10 week course on Wednesday evenings 7pm to 9pm from 19 September, will be a  lighthearted, guided tour through the development of opera, illustrated with a variety of recent and historic audio and video recording.  You don't need to have an extensive knowledge of operas to enjoy this course, just an interest to learn more about them.
 
 We're also hoping to run this course every term, so if you are interested in the January course, please let Lesley know.

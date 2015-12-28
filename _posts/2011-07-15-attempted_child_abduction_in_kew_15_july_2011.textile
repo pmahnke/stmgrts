@@ -5,7 +5,10 @@ permalink: /archives/2011/07/attempted_child_abduction_in_kew_15_july_2011.html
 commentfile: 2011-07-15-attempted_child_abduction_in_kew_15_july_2011
 category: news
 date: 2011-07-15 17:32:06
+excerpt: |
+    There is "an update from the the MET Police":http://cms.met.police.uk/met/boroughs/richmond_upon_thames/04how_are_we_doing/news/latest_police_update_regarding_alleged_attempted_abduction_of_child restating that there has only been the one incident in Barnes.
 
+    _Updated 18 July 2011 - 6.14pm_
 ---
 
 <div class="box">

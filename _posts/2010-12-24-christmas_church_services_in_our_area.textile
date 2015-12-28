@@ -7,9 +7,6 @@ category: around_town
 date: 2010-12-24 05:54:44
 
 ---
-
-<img src="//stmgrts.org.uk/assets/images/2010/tease.jpg" width="92" height="200" class="right" alt="stained glass" />
-
 Here is a list of church services for Christmas Eve and Christmas for some local churches. 
 
 h3. "All Hallows, Twickenham":http://www.allhallowstwick.org.uk

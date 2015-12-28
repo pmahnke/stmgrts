@@ -6,25 +6,12 @@ commentfile: 2014-12-31-st_margarets_community_website_2014_review
 category: editorial
 date: 2014-12-31 09:06:05
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmgrts.org.uk/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="photo right" /></a>
-    
-    As 2014 comes to a close, we wanted to share some quick stats on the year that's gone by.
-    
-    h3. Articles and events
-    
-    |Category|Number|
-    |"around town":http://www.stmgrts.org.uk/archives/around_town/index.html| 180|
-    |"news":http://www.stmgrts.org.uk/archives/news/index.html| 67|
-    |"editorial":http://www.stmgrts.org.uk/archives/editorial/index.html| 3| 
-    |"events":http://www.stmgrts.org.uk/event| 1,065|
-    |_total| 1,315|
-    
-    Not to mention "42 newsletters":http://www.stmgrts.org.uk/cgi-bin/newsletter.cgi
-    
+    <a href="//stmgrts.org.uk/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmgrts.org.uk/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
 
+    As 2014 comes to a close, we wanted to share some quick stats on the year that's gone by.
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmgrts.org.uk/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmgrts.org.uk/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
 
 As 2014 comes to a close, we wanted to share some quick stats on the year that's gone by.
 
@@ -33,9 +20,9 @@ h3. Articles and events
 |Category|Number|
 |"around town":http://www.stmgrts.org.uk/archives/around_town/index.html| 180|
 |"news":http://www.stmgrts.org.uk/archives/news/index.html| 67|
-|"editorial":http://www.stmgrts.org.uk/archives/editorial/index.html| 3| 
+|"editorial":http://www.stmgrts.org.uk/archives/editorial/index.html| 3|
 |"events":http://www.stmgrts.org.uk/event| 1,065|
-|_total| 1,315|
+|*total*| 1,315|
 
 Not to mention "42 newsletters":http://www.stmgrts.org.uk/cgi-bin/newsletter.cgi
 

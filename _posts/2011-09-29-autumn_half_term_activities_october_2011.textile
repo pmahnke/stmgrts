@@ -6,18 +6,12 @@ commentfile: 2011-09-29-autumn_half_term_activities_october_2011
 category: around_town
 date: 2011-09-29 10:56:01
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
-    
-    Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk or add a comment.
-    
-    h4. Orleans House Gallery
-    
-    * "Events and activities for 6-9 and 9-14 year olds":http://www.richmond.gov.uk/home/leisure_and_culture/arts/orleans_house_gallery/education_at_orleans_house_gallery/activities_for_children_and_families_at_orleans_house_gallery/holiday_activities_at_orleans_house_gallery/autumn_half_term_activities.htm
-    * "Once upon a time Dance workshop for 8-12 year olds":http://www.stmgrts.org.uk/event/event/200705143050
+    <a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
 
+    Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk or add a comment.
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
+<a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
 
 Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk or add a comment.
 

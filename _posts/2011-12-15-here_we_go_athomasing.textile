@@ -6,24 +6,9 @@ commentfile: 2011-12-15-here_we_go_athomasing
 category: around_town
 date: 2011-12-15 23:31:08
 excerpt: |
-    "Here We Go a'Thomasing!"
-    
-    
-    h3. or a Guide to Safe and Sensible Carol Singing.
-    
-    <a href="//stmgrts.org.uk/assets/images/2011/CAROL_DSC_7109.jpg" title="See larger version of - CAROL DSC 7109"><img src="//stmgrts.org.uk/assets/images/2011/CAROL_DSC_7109_thumb.jpg" width="300" height="170" alt="CAROL DSC 7109" class="photo center" /></a>
-    
-    
-    And if you haven't started already then you need to get on with it now. According to centuries old tradition carol singing - or 'Thomasing' as it was once known - should kick off on St Thomas's Day, the 21<sup>st</sup> December . On this day people would go out into the streets, singing carols and collecting small gifts of money and, note this, drink!
-    
-    
-    <div class="box">
-    Some say that the word 'carol' comes from the Greek _'choros'_  which means 'dancing in a circle'. Others say the word is derived from the Latin 'choraula' which means 'a circle dance'. Whether it is Greek or Latin could this dancing in a circle be the result of too much Thomasing? Is this why Rudolph has such a red and shiny nose?
-    </div>
-    
-    
-    
+    _or a Guide to Safe and Sensible Carol Singing._
 
+    And if you haven't started already then you need to get on with it now. According to centuries old tradition carol singing - or 'Thomasing' as it was once known - should kick off on St Thomas's Day, the 21<sup>st</sup> December . On this day people would go out into the streets, singing carols and collecting small gifts of money and, note this, drink!
 ---
 
 h3. or a Guide to Safe and Sensible Carol Singing.

@@ -5,7 +5,8 @@ permalink: /archives/2014/01/letters_flood_insurance.html
 commentfile: 2014-01-31-letters_flood_insurance
 category: editorial
 date: 2014-01-31 15:04:48
-
+excerpt: |
+    Trying to sort out renewal of my home insurance I've had a quote higher than ever before - just over &pound;800 for this year.
 ---
 
 <div class="letter">

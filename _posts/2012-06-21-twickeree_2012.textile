@@ -5,6 +5,12 @@ permalink: /archives/2012/06/twickeree_2012.html
 commentfile: 2012-06-21-twickeree_2012
 category: around_town
 date: 2012-06-21 22:38:24
+excerpt: |
+    <a href="//stmgrts.org.uk/assets/images/2012/TWICKEREE_Marble_Hill_Park.jpg" title="See larger version of - Marble Hill Park"><img src="//stmgrts.org.uk/assets/images/2012/TWICKEREE_Marble_Hill_Park_thumb.jpg" width="150" height="99" alt="Marble Hill Park" class="photo right" /></a>
+
+    *Twick-en-ham* _place_
+
+    Town and suburb in the south west of London - 10m/16km SW Charing Cross - being the principal town by population of the Borough of Richmond upon Thames.
 
 ---
 
