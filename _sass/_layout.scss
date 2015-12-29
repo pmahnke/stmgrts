@@ -1144,9 +1144,6 @@ forum table {
     padding: 0.5em 0;
     display: block;
   }
-  #burger {
-    padding-top: 0;
-  }
   #logo img {
     width: 75%;
     height: 75%;
@@ -1167,9 +1164,6 @@ forum table {
     border-right: 1px solid #eee;
     border-right: none;
   }
-  #burger {
-    padding-top: 0;
-  }
   #sitename h1 {
     font-size: 2em;
   }
@@ -1179,7 +1173,13 @@ forum table {
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) {}
+@media only screen and (max-width: 479px) {
+
+  #logo img {
+    display: none;
+  }
+
+}
 
 /* #Font-Face
 ================================================== */
