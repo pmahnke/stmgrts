@@ -1,4 +1,4 @@
-<div style="clear: both;">&#160;</div>
+<div style="clear: both;" id="footnoteLinks">&#160;</div>
 
 <div id="footer" class="sixteen clearfix">
   <div id="footer_nav" class="offset-by-one five columns">
@@ -33,63 +33,29 @@
    </div><!-- end div footer_archives -->
 
   <div id="footer_search" class="five columns">
-     <h2>Search</h2>
 <!-- Search Google -->
+    <h2>Search</h2>
 
-<form id="searchbox_011552492105320257021:aklyesuuk5c" action="http://www.google.com/cse">
-     <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c"/>
-  <p><input name="q" type="text" size="20"/></p>
-  <p><input type="submit" name="sa" value="Search"/></p>
-     <input type="hidden" name="cof" value="FORID:0"/>
-</form>
-
+    <form id="searchbox_011552492105320257021:aklyesuuk5c" action="http://www.google.com/cse">
+      <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c"/>
+      <p><input name="q" type="text" size="20"/></p>
+      <p><input type="submit" name="sa" value="Search"/></p>
+      <input type="hidden" name="cof" value="FORID:0"/>
+    </form>
 <!-- Search Google -->
 
 
     <h2>Train Schedules</h2>
 
     <ul>
-        <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
-        <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
-        <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+      <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+      <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+      <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
     </ul>
 
-   </div><!-- end div footer_search -->
+  </div><!-- end div footer_search -->
 
 
-<p class="copyright">Copyright &copy; 2005-2015 St Margarets Community Website<br/>Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="http://www.stmgrts.org.uk/assets/images/cc_by_nd.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;" /></a></p>
-
+  <p class="copyright">Copyright &copy; 2005-2015 St Margarets Community Website<br/>Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="//stmgrts.org.uk/assets/images/cc_by_nd.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;" /></a></p>
 
 </div><!-- end div footer -->
-
-<!-- SCRIPTS -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script async src="/assets/js/footnotes.js"  type="text/javascript" ></script>
-
-<script>
-    $(document).ready(function(){
-
-	$('.menu-icon').click(function(){
-		$('#navigation').toggle('slow');
-  	});
-
-	$('.search-icon').click(function(){
-		$('#search').toggle('slow');
-  	});
-
-  	$("#search").hide();
-
-    $( window ).resize(function() {
-    	var screen=$(this)
-    	if (screen.width() < 767) {
-        	$("#navigation").hide();
-    	} else {
-        	$("#navigation").show();
-    	}
-
-    footnoteLinks('article','article');
-
-    });
-
-});
-</script>

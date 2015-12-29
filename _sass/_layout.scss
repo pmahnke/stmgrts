@@ -361,30 +361,9 @@ nav {
   float: left;
 }
 
-#burger {
-  color: #EEEEEE;
-  font-size: 2em;
-  padding-top: 2em;
-  padding-right: 0.5em;
-  float: right;
-  text-align: right;
-  font-family: 'Open Sans',sans-serif;
-  font-weight: 300;
-  img {
-    display: inline;
-  }
-}
-
 #search {
-  float: right;
-  width: 16em;
-  display: block;
-  background-color: #ccc;
-  padding: 0.5em;
-  position: absolute;
-  top: 10em;
-  right: 1px;
-  border: 1px solid #9393AA;
+  width: 15em;
+  margin-top: 5em;
   form {
     margin: 0;
     width: 98%;
