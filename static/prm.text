@@ -1,7 +1,43 @@
 <tm title=edit menu>
 
-h1. "stmgrts.org.uk":http://stmgrts.org.uk/
+h2. "stmgrts.org.uk":http://stmgrts.org.uk/
+
+<div class="five columns">
+
+h3. TEXT
 
 * "convertText":http://intl.transitionelement.com/rt/convertText.cgi
 * "edit pages":http://www.stmgrts.org.uk/static/editPages.cgi
-** "build _localinfo include_":http://www.stmgrts.org.uk/static/build.cgi?page=localinfo.text
+* "movabletype":http://www.mahnke.net/peter/MT/mt.cgi
+* "emailer":http://www.stmgrts.org.uk/cgi-bin/multiemail2.cgi
+
+h3. DIR
+
+* "new":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=new
+* "edit list":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=editlist
+* "venue list":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?action=venuelist
+
+h3. EVENTS
+
+* "new":http://stmgrts.org.uk/cgi-bin/events.cgi?action=new
+* "edit list":http://www.stmgrts.org.uk/cgi-bin/events.cgi?action=editlist
+* "upload images":http://www.stmgrts.org.uk/cgi-bin/imageUpload.cgi?action=new
+
+</div>
+<div class="five columns">
+
+h3. STATS
+
+* "awstats":http://www.transitionelement.com/cgi-bin/awstats/awstats.pl?config=stmgrts.org.uk
+* "log parser":http://www.stmgrts.org.uk/cgi-bin/log.cgi
+* "google rank":http://www.transitionelement.com/cgi-bin/googlerank.cgi?url=http%3A%2F%2Fwww.stmgrts.org.uk
+* "google analytics":http://analytics.google.com/
+
+h3. SOCIAL
+
+* "url shortner":http://stmgrts.org.uk/l/scripts/admin.cgi?a=link&amp;passwd=peter
+* "twitter":http://twitter.com/#!/stmgrts
+* "facebook":https://www.facebook.com/stmgrts
+* "github":https://github.com/pmahnke/stmgrts
+
+</div>

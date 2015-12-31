@@ -11,6 +11,7 @@
 #     17 Dec 2001  -  added urlInclude
 #     22 Mar 2004  -  added Template
 #     26 May 2005  -  added styleFile
+#     31 Dec 2015  - fixed for jekyll world
 #
 #  Template Interpreter
 #
@@ -106,7 +107,7 @@ require ("/home/mahnke/html/peter/MT/extlib/Text/Textile.pm");
 # VARIABLES & FILE LOCATIONS
 $defaultLocale    = "home";    # the default shortName for system
 $date             = time;
-$contentRoot      = "/home/stmargarets/html/";
+$contentRoot      = "/home/stmargarets/repos/stmgrts";
 #$getIP           = &getURLinclude('http://intl.gartner.com/cgi-bin/getip.cgi');
 #chop($getIP );
 $outputDir        = "";
@@ -131,13 +132,13 @@ chop($shortNameDate);
 
 if ($ENV{'HTTP_COOKIE'}) {
 
-    local @pairs = split(/\;/, $ENV{'HTTP_COOKIE'});
+    my @pairs = split(/\;/, $ENV{'HTTP_COOKIE'});
 
     foreach (@pairs) {
 
 	s/ //g;
 
-	local ($name, $value) = split (/\=/);
+	my ($name, $value) = split (/\=/);
 	$COOKIE{$name} = $value;
 
     }
@@ -161,7 +162,7 @@ if ($ENV{'HTTP_COOKIE'}) {
 if ($ENV{'CONTENT_LENGTH'}) {
 
     read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
-    local @pairs = split(/&/, $buffer);
+    my @pairs = split(/&/, $buffer);
     foreach $pair (@pairs) {
 
 
@@ -296,13 +297,16 @@ sub savePage {
 	my $page = $FORM{'page'};
 	$page =~ s/\.text/\.html/i;
 
-    local $pageName = "$staticRoot$FORM{'extraDir'}$dir{$FORM{'shortName'}}$page";
+    my $pageName = "$staticRoot$FORM{'extraDir'}$dir{$FORM{'shortName'}}$page";
+    my $copyName = "/home/stmargarets/html/static/$FORM{'extraDir'}$dir{$FORM{'shortName'}}$page";
 
     $msg =~ s/<tm/\&lt\;tm/gi;
 
     open (PAGE, ">$pageName") || die "Can't open page to save: $pageName\n";
     print PAGE $html;
     close (PAGE);
+
+    `cp $pageName $copyName`;
 
     print <<EndofHTML;
 Content-type: text/html
@@ -415,16 +419,16 @@ sub buildPage {
 	$textile->head_offset(0);
 	$content = $textile->process($content);
 	# $msg .= "textile: ".$content."<p>\n";
-	
-	
+
+
 	# smarty pants
 	$content  = &SmartyPants ($content, 1);
 	#   $msg .= "smarty: ".$content."<p>\n";
 	# layout page, based on Master Templates
-	
+
 	#spelling
 	# $spelling = &checkSpelling($content);
-	
+
     }
 
     eval $html;
@@ -451,7 +455,7 @@ sub getPage {
 
 	#chop(); # remove endline
 	s/\r\n/\n/g;
-	
+
 
     	if (/<tm/) {   # look for a <tm tag
 
@@ -559,7 +563,7 @@ sub parseInclude {
 
 	$msg .= "\n<br\>parse <tm got a characterSet $value  at $_\n";
 	$tmCharSet = $value;
-    
+
     } elsif ($name =~ /TextProcess/i) {
 
 	# Flag to use Textile and Smarty
@@ -679,7 +683,7 @@ sub readLocaleInfo {
 
 		# example EMEA|emea|en-uk|wcw|emea/
 
-		local @listing = split (/\|/);
+		my @listing = split (/\|/);
 
 		$longName{$listing[1]}   = "$listing[0]";
 		$shortName{$listing[1]}  = "$listing[1]";
@@ -696,7 +700,7 @@ sub readLocaleInfo {
 #######################################################################
 sub getURLinclude {
 
-    local $Output = "";
+    my $Output = "";
 
     # Create a user agent object
     use LWP::UserAgent;
@@ -729,8 +733,8 @@ sub clean_chars {
 
     $value =~ s/\302\240//g;
     $value =~ s/\302\243/{L-}/g;
-    
-    $value =~ s/\305™/&#x159;/g;
+
+    $value =~ s/\305ï¿½/&#x159;/g;
     $value =~ s/\303\240/{a'}/g;
 
     $value =~ s/\342\200[\230\231]/\'/g;

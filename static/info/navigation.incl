@@ -1,15 +1,13 @@
-                <div id="categories">
-                    <h2>Navigation</h2>
-                        <ul>
-                            <li><a href="/archives/news/index.html" class="nav">news</a></li>
-                            <li><a href="/archives/editorial/index.html" class="nav">editorial</a></li>
-                            <li><a href="/archives/around_town/index.html" class="nav">around town</a></li>
-                            <li><a href="/event" class="nav">events</a></li>
-                            <li><a href="/directory" class="nav">local info</a></li>
-                            <li><a href="/forum.cgi" class="nav">forums</a></li>
-                            <li><a href="/static/info/colophon.html" class="nav">about</a></li>
-                            <li><a href="/cgi-bin/newsletter.cgi" class="nav">newsletter</a></li>
-                        </ul>
-                </div><!-- end div categories -->
-
-
+<div id="categories">
+    <h2>Navigation</h2>
+        <ul>
+            <li><a href="/archives/news/" class="nav">news</a></li>
+            <li><a href="/archives/editorial/" class="nav">editorial</a></li>
+            <li><a href="/archives/around_town/" class="nav">around town</a></li>
+            <li><a href="/event" class="nav">events</a></li>
+            <li><a href="/directory" class="nav">local info</a></li>
+            <li><a href="/forum" class="nav">forums</a></li>
+            <li><a href="/colophon" class="nav">about</a></li>
+            <li><a href="/cgi-bin/newsletter.cgi" class="nav">newsletter</a></li>
+        </ul>
+</div><!-- end div categories -->
