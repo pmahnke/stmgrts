@@ -111,9 +111,9 @@ $contentRoot      = "/home/stmargarets/repos/stmgrts";
 #$getIP           = &getURLinclude('http://intl.gartner.com/cgi-bin/getip.cgi');
 #chop($getIP );
 $outputDir        = "";
-$inputDir         = "/static/";
+$inputDir         = "/static";
 $rootURI          = "http://stmgrts.org.uk/";
-$shortNameDB      = "$contentRoot"."static/properties.db";
+$shortNameDB      = "$contentRoot"."/static/properties.db";
 $staticRoot       = "$contentRoot";
 $shortNameDate    = `date -Ru`;
 $footerFile       = $contentRoot.$inputDir."/info/footer.incl";
@@ -135,12 +135,9 @@ if ($ENV{'HTTP_COOKIE'}) {
     my @pairs = split(/\;/, $ENV{'HTTP_COOKIE'});
 
     foreach (@pairs) {
-
-	s/ //g;
-
-	my ($name, $value) = split (/\=/);
-	$COOKIE{$name} = $value;
-
+      s/ //g;
+      my ($name, $value) = split (/\=/);
+      $COOKIE{$name} = $value;
     }
 
     $COOKIE{'visits'}    = $COOKIE{'visits'} + 1;    # INCREMENT VISIT
@@ -164,13 +161,9 @@ if ($ENV{'CONTENT_LENGTH'}) {
     read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
     my @pairs = split(/&/, $buffer);
     foreach $pair (@pairs) {
-
-
-	($name, $value) = split(/=/, $pair);
-	$value =~ s/%(..)/pack("c",hex($1))/ge; # clean special chars
-
-	$FORM{$name} = $value;
-
+      ($name, $value) = split(/=/, $pair);
+      $value =~ s/%(..)/pack("c",hex($1))/ge; # clean special chars
+      $FORM{$name} = $value;
     }
 }
 
@@ -180,12 +173,12 @@ $buffer = $ENV{'QUERY_STRING'};
 
 # Split the name - value pairs
 if ($buffer) {		  # assumes that form has been filled out
-    @pairs = split(/&/, $buffer);
-    foreach $pair (@pairs) {
-	($name, $value) = split(/=/, $pair);
-	$value =~ s/%(..)/pack("c",hex($1))/ge; # clean special chars
-	$FORM{$name} = $value;
-    }
+  @pairs = split(/&/, $buffer);
+  foreach $pair (@pairs) {
+    ($name, $value) = split(/=/, $pair);
+    $value =~ s/%(..)/pack("c",hex($1))/ge; # clean special chars
+    $FORM{$name} = $value;
+  }
 }
 
 

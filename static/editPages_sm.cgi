@@ -17,9 +17,9 @@
 
 $thisScript       = "editPages_sm.cgi";
 $buildPagesScript = "build.cgi";
-$rootDir          = "/home/stmargarets/repos/stmgrts/";
+$rootDir          = "/home/stmargarets/repos/stmgrts";
 $outputDir        = "";
-$inputDir         = "static/";
+$inputDir         = "/static";
 $longName         = "stmgrts.org.uk";
 $shortNameDB      = "$rootDir"."/static/properties.db";
 $localhost        = "stmgrts.org.uk";
@@ -79,7 +79,7 @@ if (!%FORM) {
 } elsif ($FORM{'page'} eq "review") {
 
   # the user wants to look at the proposed changes...
-  local $tempFileName = "$FORM{'file'}".".temp";
+  my $tempFileName = "$FORM{'file'}".".temp";
   &saveTempFile($tempFileName);
   $page = $FORM{'text'};
   $page =~ s/\r\n/\n/g;
@@ -757,7 +757,7 @@ sub readLocaleInfo {
 
     # example Local Business Directory|business|business/
 
-    local @listing = split (/\|/);
+    my @listing = split (/\|/);
 
     $longName{$listing[1]}   = "$listing[0]";
     $shortName{$listing[1]}  = "$listing[1]";
@@ -776,7 +776,7 @@ sub readLocaleInfo {
 ##################
 sub Connection {
 
-  local $Output = "";
+  my $Output = "";
 
   # Create a user agent object
   use LWP::UserAgent;
