@@ -1,0 +1,98 @@
+body { 
+        margin: 10px 50px; width: 500px; 
+        }
+
+p, td, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, td, tr, blockquote
+        {
+        font-size: small;
+        font-family:  verdana, arial, sans-serif;
+        }
+
+a {
+        text-decoration: none;
+        }
+
+a:link {
+        color: #003399;
+        }
+
+a:visited {
+        color: #3366CC;
+        }
+
+a:active {
+        color: #333399;
+        text-decoration: underline;
+        }
+
+a:hover {
+        color: #333399;
+        text-decoration: underline;
+        }
+
+h1, h2, h3, h4, h5 {
+        font-weight: normal;
+        font-family: Georgia, Times, Serif;
+        }
+h1
+        {  font-size:2em;  }     /* displayed at 24px */
+h2
+        {  font-size:1.5em;  }   /* displayed at 18px */
+h3
+        {  font-size:1.25em;  }  /* displayed at 15px */
+h4
+        {  font-size:1em;  }     /* displayed at 12px */
+
+ul     {  margin-left: 1em; padding-left: 3em;  }
+
+li
+        {font-size:12px; padding-bottom: 1em;  }
+li li
+        {font-size:1em; }
+
+
+li li, li p, td p, blockquote p
+        {font-size:1em; }
+
+
+blockquote
+        {
+        padding: 10px 30px;
+        margin-left: 10px;
+        width: 75%;
+        border-left: 1px dotted #669;
+        text-align: justify;
+        font-style: italic;
+        }
+.info 
+        { 
+        background: #eee; 
+        padding: 10px; 
+        margin: 0; 
+        }
+#special { 
+        background: #ccff99; 
+        margin: -10px;  
+        padding: 10px; 
+        }
+
+#signup {
+background: #ffb;
+margin: 10px;
+padding: 10px;
+border:1px dashed #333;
+}
+
+.box { margin: 5px; padding: 5px 10px; border: 1px solid #666;  }
+
+td { font-size: 0.85em; align: top; }
+
+pre.poem {
+	color:#333;
+	font-family:'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
+	font-size:14px;
+	line-height:16px;
+	margin:1em;
+	padding:1em;
+	font-weight:normal;
+	}

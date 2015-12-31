@@ -1,0 +1,25 @@
+<tm template=email_text.tpl>
+<tm textprocess=plain>
+:: ST MARGARETS COMMUNITY WEBSITE NEWSLETTER :: 
+
+10 December 2015
+
+Welcome to the St Margarets Community Website Newsletter. 
+Each Thursday we will send you the latest news and events from the website (http://www.stmgrts.org.uk). 
+
+
+LATEST NEWS
+===========================================================
+<tm src=news_story_text.incl>
+
+===========================================================
+<tm src=promo_text.incl>
+===========================================================
+
+<tm urlInclude=http://stmgrts.org.uk/cgi-bin/events.cgi?action=newsletter&count=16&format=text>
+<tm urlInclude=http://stmgrts.org.uk/cgi-bin/events.cgi?action=newsletter&count=16&format=text&type=play>
+
+
+If you have any local news, events or information that should go up on the site, please email us at: content@stmgrts.org.uk
+
+If you need to change your email options, please go here: http://stmgrts.org.uk/cgi-bin/newsletter.cgi

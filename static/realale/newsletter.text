@@ -1,0 +1,27 @@
+<tm template=email_realale.tpl>
+<tm styleInclude=style.incl>
+<tm title=realale.com :: Newsletter No. 6>
+
+<div id="content">
+
+<a href=http://www.realale.com/><img src=http://www.stmgrts.org.uk/images/realalelogo.gif alt=realale.com width=349 height=119 border=0 align=center/></a>
+
+
+<tm src=content.incl>
+
+
+
+<p>Regards from your friendly ale team,</p>
+
+
+<p><strong>Nick, Duff &amp; Chris</strong></p>
+
+<p align=justify><em>If you do not wish to receive further copies of this Newsletter kindly reply accordingly to this email.</em></p>
+
+<h5>Real Ale Ltd. 371&nbsp;Richmond&nbsp;Rd.&nbsp;Twickenham&nbsp;TW1&nbsp;2EF +44&nbsp;(0)20&nbsp;8892&nbsp;3710 <a href="mailto:info@realale.com">info@realale.com</a></h5>
+
+
+</div>
+
+</body>
+</html>

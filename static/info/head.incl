@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]--> 
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]--> 
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]--> 
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--> 
+<head> 
+
+<!-- styles -->
+    <link rel="stylesheet" href="http://www.transitionelement.com/css/normalize.css" type="text/css" media="screen"  />
+    <link rel="stylesheet" href="http://www.mahnke.net/css/gridinator.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/fonts/stylesheet.css" type="text/css" />
+    <link rel="stylesheet" href="http://www.stmgrts.org.uk/css/typography.css" type="text/css" />
+    <link rel="stylesheet" href="http://www.stmgrts.org.uk/css/scratch.css" type="text/css" />
+
+<!-- scripts -->
+        <script src="http://www.transitionelement.com/js/modernizr_2-0-6_custom.js"></script>
+	
+<!-- meta data -->
+	<meta name="author" content="Peter Mahnke" />

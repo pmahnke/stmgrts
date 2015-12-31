@@ -1,0 +1,42 @@
+<tm template=nothing.tpl>
+==
+
+<!-- div id="promo"><a href="mailto:content@stmgrts.org.uk"><img src="/images/ad_help.gif" alt="Tell us about local news and events" width="180" height="180" /></a></div -->
+
+<div id="weather" class="infobox">
+
+    <h3>Weather</h3>
+
+    <p><a href="http://www.metcheck.com/V40/UK/FREE/today.asp?zipcode=tw1"><img src="http://banners.wunderground.com/weathersticker/infoboxtr_both/language/www/global/stations/03772.gif" width="144" height="108" alt="local weather" /></a></p>
+
+
+    <ul>
+      <li><a href="http://www.metcheck.com/V40/UK/FREE/7days.asp?zipcode=tw1">7 day forecast</a></li>
+      <!-- li><a href="http://www.metcheck.com/V40/UK/FREE/bbq.asp?zipcode=tw1">BBQ forecast</a></li -->
+    </ul>
+
+</div><!-- end div weather -->
+
+<!-- start div upcoming events -->
+<tm urlInclude=http://www.stmgrts.org.uk/cgi-bin/events.cgi?action=include&count=8>
+<!-- end div upcoming events -->
+
+<!-- start div upcoming plays -->
+<tm urlInclude=http://www.stmgrts.org.uk/cgi-bin/events.cgi?action=include&count=5&type=play>
+<!-- end div upcoming plays -->
+
+<tm src=newsletter_signup.incl>
+
+<div id="traininfo" class="infobox">
+
+    <h3>Current Train Information</h3>
+
+    <ul>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+    </ul>
+
+</div><!-- end div traininfo -->
+
+==

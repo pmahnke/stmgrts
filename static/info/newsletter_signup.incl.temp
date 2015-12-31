@@ -1,0 +1,19 @@
+<div id="newsletter" class="infobox">
+
+    <form method="post" action="/cgi-bin/newsletter.cgi">
+
+
+    <h3>Newsletter Sign-Up</h3>
+
+    <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+    
+    <p><label for="newsletteremailinline">Your Email Address:</label></p>
+    <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
+    <p><input type="submit" name="topage" value="register" /></p>
+
+    <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
+
+    </form>
+
+</div>
+

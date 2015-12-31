@@ -1,0 +1,73 @@
+<tm template=nothing.tpl>
+==
+
+<div id="localinfo" class="infobox">
+
+    <h3>Local Websites</h3>
+
+    <dl>
+        <dt><a href="http://www.rfu.com/">Rugby Football Union</a></dt>
+            <dd>Twickenham is home to the RFU and they are big supporters of events in the local community.  The stadium hosts more than just Rugby, check out the <a href="http://www.rfu.com/TwickenhamStadium">Twickenham Stadium</a> site for more information.</dd>
+
+        <dt><a href="http://www.stmargaretsfair.org/">St Margarets Fair</a></dt>
+            <dd>For everything you need to know about the St Margarets Fair</dd>
+
+        <dt><a href="http://www.mystmargarets.com/">mystmargarets.com</a></dt> 
+            <dd>St Margarets Traders Association website, brimming with news and information from your local businesses.</dd>
+
+        <dt><a href="http://easttwickenham.org/">easttwickenham.org</a></dt>
+            <dd>East Twickenham Village website</dd>
+
+        <dt><a href="http://nsmra.wordpress.com/">NSMRA</a></dt>
+            <dd>North St Margarets Resident's Association</dd>
+
+
+        <dt><a href="http://www.smera.co.uk/">SMERA</a></dt>
+            <dd>St Margarets Estate Resident's Association</dd>
+<!--
+        <dt><a href="http://stmgrts.org.uk/static/info/smar.html">SMAR</a></dt>
+            <dd>St Margarets Association of Residents</dd>
+
+        <dt><a href="http://www.mogden.org.uk/">MRAG</a></dt>
+            <dd><em>Mogden Residents Action Group</em> works to make sure the Hounslow Council is doing all it can to minimise the effects of the Mogden sewage treatment works.</dd>
+-->
+
+        <dt><a href="http://www.twickenhampark.co.uk/">TPRA</a></dt>
+            <dd>Twickenham Park Residents Association</dd>
+
+        <dt><a href="http://www.richmond.gov.uk/">Richmond Council Website</a></dt>
+            <dd>Important news, events and planning/licensing information.</dd>
+
+        <dt><a href="http://twickerati.wordpress.com/" title="twickerati">twickerati</a></dt>
+            <dd>The premier hyperlocal website for Twickenham.</dd>
+<!--
+        <dt><a href="http://www.oncom.org.uk/">Online Communities</a></dt>
+            <dd>A community network for Richmond Borough, including these well known community portals:  <a href="http://www.twickenham-online.co.uk/">Twickenham Journal</a>, <a href="http://www.richmond-online.co.uk/">Richmond Journal</a></dd>
+-->
+        <dt><a href="http://www.visitrichmond.co.uk/">Visit Richmond</a></dt>
+            <dd>Richmond Council's Tourist Information Site</dd>
+
+        <dt><a href="http://www.swtrains.com">South West Trains</a></dt>
+            <dd>train information</dd>
+
+        <dt><a href="http://www.neighbourhood.statistics.gov.uk/dissemination/NeighbourhoodProfileSearch.do?areaId=276769">National Statistics Online</a></dt>
+            <dd>information about St Margarets from the UK Government</dd>
+
+
+        <dt><a href="http://www.ofsted.gov.uk/parents/">Ofsted School Reports</a></dt>
+            <dd>The Government's official reports on our local schools</dd>
+       
+        <dt>Maps</dt>
+            <dd>from <a href="http://maps.google.co.uk/maps?ll=51.456573,-0.323828&amp;spn=0.021515,0.031996&amp;hl=en">google</a> and <a href="http://streetmap.co.uk/newmap.srf?x=516413&amp;y=173717&amp;z=3&amp;sv=516413%2C173717&amp;st=4&amp;ar=N&amp;mapp=newmap.srf&amp;searchp=newsearch.srf&amp;dn=769">streetmap.co.uk</a>, great for helping people find St Margarets</dd>
+
+        <dt><a href="http://www.richmondandtwickenhamtimes.co.uk/">Richmond &amp; Twickenham Times</a></dt>
+            <dd>Our local newspaper</dd>
+
+        <dt>Travel information</dt>
+            <dd><a href="http://www.stmgrts.org.uk/cgi-bin/train_parser.cgi?station=SMG">Trains</a>, <a href="http://www.tfl.gov.uk/">tubes and buses.</a></dd>
+
+
+    </dl>
+</div><!-- end div localinfo -->
+
+==

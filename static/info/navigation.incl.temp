@@ -1,0 +1,16 @@
+                <div id="categories">
+                    <h2>Navigation</h2>
+                        <ul>
+                            <li><a href="/archives/news/index.html">news</a></li>
+                            <li><a href="/archives/editorial/index.html">editorial</a></li>
+                            <li><a href="/archives/around_town/index.html">around town</a></li>
+                            <li><a href="/event">events</a></li>
+                            <li><a href="/directory">local info</a></li>
+                            <li><a href="/forum.cgi">forums</a></li>
+                            <li><a href="/static/info/colophon.html">about</a></li>
+                            <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+                        </ul>
+                </div><!-- end div categories -->
+
+
+

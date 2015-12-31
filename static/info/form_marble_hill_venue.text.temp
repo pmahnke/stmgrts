@@ -1,0 +1,21 @@
+<form name="commentForm" method="post" action="http://www.ukplanning.com/richmond/createComment.do?action=SaveApplicationComment">
+
+<input type="hidden" name="appNumber" value="04/0979/FUL" />
+
+|Council|London Borough of Richmond upon Thames|
+|Application number|04/0979/FUL|
+|Your name *|<input type="text" name="name" size="30" value="" />|
+|Your address *|<textarea name="address" cols="30" rows="4"></textarea>|
+|Your Telephone number|<input type="text" name="telephone" value="" />|
+|Your email address|<input type="text" name="email" size="40" value="" />|
+|Do you want to|<input type="radio" name="commentType" value="1" />Support the proposal
+<input type="radio" name="commentType" value="2" checked="checked" />Object to the proposal
+<input type="radio" name="commentType" value="3" />Make a general observation|
+|Your comment *|<textarea name="comment" cols="50" rows="12"></textarea>|
+|<input type="submit" name="Submit" value="Submit" />|
+
+</form>
+
+<script language="JavaScript" type="text/JavaScript">
+    document.commentForm.name.focus();
+</script>

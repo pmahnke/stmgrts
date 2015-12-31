@@ -1,0 +1,7 @@
+<tm title=edit menu>
+
+h1. "stmgrts.org.uk":http://stmgrts.org.uk/
+
+* "convertText":http://intl.transitionelement.com/rt/convertText.cgi
+* "edit pages":http://www.stmgrts.org.uk/static/editPages.cgi
+** "build _localinfo include_":http://www.stmgrts.org.uk/static/build.cgi?page=localinfo.text

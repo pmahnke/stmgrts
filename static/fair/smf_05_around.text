@@ -1,0 +1,46 @@
+<tm template=onecol.tpl>
+<tm styleInclude=styles.incl>
+<tm title=St Margarets Fair :: Photos : Around>
+
+<table>
+
+  <tr>
+    <td><img src="/images/events/smf_poster_sm.gif" width="150" height="126" alt="St Margarets Fair"/></td>
+    <td><h1> 2005 St Margarets Fair</h1><h2> Around</h2></td>
+  </tr>
+
+  <tr>
+    <td><a href="/index.html">home</a> | <a href="smf_05_football.html">football</a> | <a href="smf_05_bands.html">bands</a></td>
+    <td><em>click on a picture for a larger one</em></td>
+  </tr>
+
+  <tr>
+   <td colspan="2" align="center"><img src="/images/fair/icecream_wide.jpg" width="600" height="200" alt="long ice cream queue"></td>
+  </tr>
+
+  <tr>
+    <td><a href="/images/fair/Cllr_Robin_Jowit.jpg"><img src="/images/fair/Cllr_Robin_Jowit_sm.jpg" width="300" height="225" alt="Cllr Robin Jowit, Mayor of Richmond"></a></td>
+    <td><a href="/images/fair/tea.jpg"><img src="/images/fair/tea_sm.jpg" width="300" height="225" alt="Tea Tent"></a></td>
+  </tr>
+
+
+  <tr>
+    <td><a href="/images/fair/hammer.jpg"><img src="/images/fair/hammer_sm.jpg" width="300" height="225" alt="playing with hammers"></a></td>
+    <td><a href="/images/fair/grill.jpg"><img src="/images/fair/grill_sm.jpg" width="300" height="225" alt="Orleans Infant BBQ Workers"></a></td>
+  </tr>
+
+
+  <tr>
+    <td><a href="/images/fair/swings.jpg"><img src="/images/fair/swings_sm.jpg" width="300" height="225" alt="the swings"></a></td>
+    <td><a href="/images/fair/bouncy_slide.jpg"><img src="/images/fair/bouncy_slide_sm.jpg" width="300" height="225" alt="Bouncy Slide"></a></td>
+  </tr>
+
+
+  <tr>
+    <td><a href="/images/fair/fair_dancing.jpg"><img src="/images/fair/fair_dancing.jpg" width="300" height="225" alt="people dancing at the fair"></a></td>
+    <td><a href="/images/fair/StMarysDance.jpg"><img src="/images/fair/StMarysDance_sm.jpg" width="300" height="225" alt="St Mary's Dance Group"></a></td>
+  </tr>
+
+
+</table>                                           
+

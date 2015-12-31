@@ -1,0 +1,10 @@
+<div id="footer" class="inline_menu">
+    <ul>
+        <li><a href="/index.html">home</a></li>
+        <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+        <li><a href="/cgi-bin/poll.cgi">polls</a></li>
+        <li><a href="/static/info/contact.html">contact</a></li>
+        <li><a href="/static/info/colophon.html">about</a></li>
+    </ul>
+</div>
+<p style="margin: 5px 20px; color: #333; text-align: right;">&copy; 2005-2014 St Margarets Community Website</p>

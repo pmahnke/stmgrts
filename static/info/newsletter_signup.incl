@@ -1,0 +1,30 @@
+<div id="newsletter" class="infobox">
+
+    <form method="post" action="/cgi-bin/newsletter.cgi">
+
+
+    <h3>Newsletter Sign-Up</h3>
+
+    <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+    
+    <p><label for="newsletteremailinline">Your Email Address:</label></p>
+    <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
+    <p><input type="submit" name="topage" value="register" /></p>
+
+    <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
+
+    </form>
+
+</div>
+
+<div id="traininfo" class="infobox">
+
+    <h3>Current Train Information</h3>
+
+    <ul>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+    </ul>
+
+</div><!-- end div traininfo -->

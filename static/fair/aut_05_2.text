@@ -1,0 +1,36 @@
+<tm template=onecol.tpl>
+<tm styleInclude=styles.incl>
+<tm title=St Margarets Autumn Community Event 2005 :: Photos2>
+
+<h1>St Margarets Autumn Community Event 2005</h1>
+
+
+<p><a href="/index.html">home</a> | <a href="aut_05.html">page 2</a></p>
+
+
+<p><em>Click on a picture for a larger one.</em></p>
+
+
+  <table cellspacing="2" cellpadding="2" width="100%">
+   <tr>
+    <td align="center" width="33%">
+     <a href="/images/autfair05/fair2/full/0.jpg"><img height="170" alt="stmfair6" width="240" src="/images/autfair05/fair2/thumb//0.jpg"></a>
+    </td>
+    <td align="center" width="33%">
+     <a href="/images/autfair05/fair2/full/1.jpg"><img height="170" alt="stmfair3" width="240" src="/images/autfair05/fair2/thumb//1.jpg"></a>
+    </td>
+    <td align="center" width="33%">
+     <a href="/images/autfair05/fair2/full/2.jpg"><img height="162" alt="stmfair4" width="240" src="/images/autfair05/fair2/thumb//2.jpg"></a>
+    </td>
+   </tr>
+   <tr>
+    <td align="center" width="33%">
+     <a href="/images/autfair05/fair2/full/3.jpg"><img height="164" alt="stmfair5" width="240" src="/images/autfair05/fair2/thumb//3.jpg"></a>
+    </td>
+    <td align="center" width="33%">
+     <a href="/images/autfair05/fair2/full/4.jpg"><img height="165" alt="stmfair2" width="240" src="/images/autfair05/fair2/thumb//4.jpg"></a>
+    </td>
+   </tr>
+  </table>
+
+<p>These pictures where taken by Stevan Bennett.  Thank you for letting us use them!</p>

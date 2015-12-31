@@ -1,0 +1,35 @@
+<tm template=onecol.tpl>
+<tm styleInclude=styles.incl>
+<tm title=St Margarets Fair :: Photos : Bands>
+
+<table>
+
+  <tr>
+    <td><img src="/images/events/smf_poster_sm.gif" width="150" height="126" alt="St Margarets Fair"/></td>
+    <td><h1> 2005 St Margarets Fair</h1><h2> Bands</h2></td>
+  </tr>
+
+  <tr>
+    <td><a href="/index.html">home</a> | <a href="smf_05_football.html">football</a> | <a href="smf_05_around.html">around</a></td>
+  </tr>
+
+  <tr>
+   <td colspan="2" align="center"><img src="/images/fair/band_listening_wide.jpg" width="600" height="200" alt="people listening to music"></td>
+  </tr>
+
+  <tr>
+    <td><a href="/images/fair/band_seb.jpg"><img src="/images/fair/band_seb_sm.jpg" width="300" height="225" alt="Sophie Ellis-Bextor"></a><br />Sophie Ellis-Bextor</td>
+    <td><a href="/images/fair/band_downbeats.jpg"><img src="/images/fair/band_downbeats_sm.jpg" width="300" height="225" alt="The Downbeats"></a><br />The Downbeats</td>
+  </tr>
+
+  <tr>
+    <td><a href="/images/fair/band_Richmond_Youth_Jazz_Ba.jpg"><img src="/images/fair/band_Richmond_Youth_Jazz_Ba_sm.jpg" width="300" height="225" alt="Richmond Youth Jazz Band"></a><br />Richmond Youth Jazz Band</td>
+    <td><a href="/images/fair/band_JohnnysintheBasement.jpg"><img src="/images/fair/band_JohnnysintheBasement_sm.jpg" width="300" height="225" alt="Johnny's in the Basement"></a><br />Johnny's in the Basement</td>
+  </tr>
+
+  <tr>
+    <td><a href="/images/fair/band_CraneRiverCajuns.jpg"><img src="/images/fair/band_CraneRiverCajuns_sm.jpg" width="300" height="225" alt="Crane River Cajuns"></a><br />Crane River Cajuns</td>
+    <td><a href="/images/fair/band_neophonics.jpg"><img src="/images/fair/band_neophonics.jpg" width="300" height="225" alt="The Neophonics"></a><br />The Neophonics</td>
+  </tr>
+
+</table>

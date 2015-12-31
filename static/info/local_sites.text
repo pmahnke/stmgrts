@@ -1,0 +1,54 @@
+<tm template=nothing.tpl>
+==
+
+<div id="localinfo" class="infobox">
+
+    <h3>Local Websites</h3>
+
+    <dl>
+        <dt><a href="http://www.rfu.com/">Rugby Football Union</a></dt>
+            <dd>Twickenham is home to the RFU and they are big supporters of events in the local community.</dd>
+
+        <dt><a href="http://www.stmargaretsfair.org/">St Margarets Fair</a></dt>
+            <dd>For everything you need to know about the St Margarets Fair</dd>
+
+        <dt><a href="http://www.mystmargarets.com/">mystmargarets.com</a></dt> 
+            <dd>St Margarets Traders Association website, brimming with news and information from your local businesses.</dd>
+
+        <dt><a href="http://easttwickenham.org/">easttwickenham.org</a></dt>
+            <dd>East Twickenham Village website</dd>
+
+        <dt><a href="http://nsmra.wordpress.com/">NSMRA</a></dt>
+            <dd>North St Margarets Resident's Association</dd>
+
+
+        <dt><a href="http://www.smera.co.uk/">SMERA</a></dt>
+            <dd>St Margarets Estate Resident's Association</dd>
+
+        <dt><a href="http://www.twickenhampark.co.uk/">TPRA</a></dt>
+            <dd>Twickenham Park Residents Association</dd>
+
+        <dt><a href="http://www.richmond.gov.uk/">Richmond Council Website</a></dt>
+            <dd>Important news, events and planning/licensing information.</dd>
+
+        <dt><a href="http://twickerati.wordpress.com/" title="twickerati">twickerati</a></dt>
+            <dd>The premier hyperlocal website for Twickenham.</dd>
+<!--
+        <dt><a href="http://www.oncom.org.uk/">Online Communities</a></dt>
+            <dd>A community network for Richmond Borough, including these well known community portals:  <a href="http://www.twickenham-online.co.uk/">Twickenham Journal</a>, <a href="http://www.richmond-online.co.uk/">Richmond Journal</a></dd>
+-->
+        <dt><a href="http://www.visitrichmond.co.uk/">Visit Richmond</a></dt>
+            <dd>Richmond Council's Tourist Information Site</dd>
+
+
+        <dt><a href="http://www.richmondandtwickenhamtimes.co.uk/">Richmond &amp; Twickenham Times</a></dt>
+            <dd>Our local newspaper</dd>
+
+        <dt>Travel information</dt>
+            <dd><a href="http://www.stmgrts.org.uk/cgi-bin/train_parser.cgi?station=SMG">Trains</a>, <a href="http://www.tfl.gov.uk/">tubes and buses.</a></dd>
+
+
+    </dl>
+</div><!-- end div localinfo -->
+
+==

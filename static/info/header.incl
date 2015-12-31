@@ -1,0 +1,16 @@
+<div id="header-wrapper">
+	<div class="wrapper"><div class="inner-wrapper">
+		<header class="sixteen-col last-col">
+			<h1 class="inline seven-col" ><a href="/index.shtml" title="St Margarets Community Website"><img src="http://www.stmgrts.org.uk/images/stmgrts_logo.png" width="394" height="60" alt="St Margarets Community Website"/></a></h1>
+
+			<nav id="mainnav" class="nine-col last-col">
+			<ul>
+				<li class="active"><a href="/archives/news/index.html">Articles & news</a></li>
+				<li id="nev"><a href="/event">What's on</a></li>
+				<li id="nli"><a href="/directory">Local Information</a></li>
+				<li id="ndi"><a href="/forum.cgi">Discussions</a></li>
+			</ul>
+			</nav>
+		</header>
+	</div></div>
+</div>

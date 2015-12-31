@@ -1,0 +1,28 @@
+<div id="newsletter" class="infobox">
+
+    <form method="post" action="/cgi-bin/newsletter.cgi">
+
+
+    <h3>Newsletter Sign-Up</h3>
+
+
+    <p><a href="/cgi-bin/newsletter.cgi"><img src="/images/pr0m0/newsletter_contest_promo.gif" width="170" height="151" alt="Newsletter Contest by RealAle" /></a></p>
+
+
+    <p>Sign-up for our newsletter and be automatically entered into our draw for <em>four bottles of real ale</em> from <a href="/directory/wine_aNd_spirits/200505231555">Real Ale</a>.</p>
+
+    <p>The draw will be on 15 May 2006.  See more details <a href="/cgi-bin/newsletter.cgi">here</a></p>
+
+    <!-- p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p -->
+
+    
+    <p><label for="newsletteremail">Your Email Address:</label></p>
+    <p><input type="text" id="newsletteremail" name="email" value="" size="25" /></p>
+    <p><input type="submit" name="topage" value="register" /></p>
+
+    <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is paramount to us.</p>
+
+    </form>
+
+</div>
+

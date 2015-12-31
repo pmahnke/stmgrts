@@ -1,0 +1,19 @@
+<tm template=email_text.tpl>
+
+<tm textprocess=plain>
+
+=====================================================================
+=====================================================================
+                              REAL ALE
+                           NEWSLETTER NO. 1
+                          11th November 2005
+=====================================================================
+=====================================================================
+
+<tm src=content_txt.incl>
+
+Nick Dolan
+and the team of: Chris, Doris, Duff and Tina.
+
+If you do not wish to receive further copies of this Newsletter 
+kindly reply accordingly to this email.

@@ -1,0 +1,26 @@
+<tm template=onecol.tpl>
+<tm styleInclude=styles.incl>
+<tm title=St Margarets Fair :: Photos : Football>
+
+<table>
+  <tr>
+    <td><img src="/images/events/smf_poster_sm.gif" width="150" height="126" alt="St Margarets Fair"/></td>
+    <td><h1> 2005 St Margarets Fair</h1><h2> Football</h2></td>
+  </tr>
+
+  <tr>
+    <td><a href="/index.html">home</a> | <a href="smf_05_around.html">around</a> | <a href="smf_05_bands.html">bands</a></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center"><img src="/images/fair/football_wide.jpg" width="675" height="225" alt="5 a side football"></td>
+  </tr>
+
+  <tr>
+    <td><a href="/images/fair/football_green_girls.jpg"><img src="/images/fair/football_green_girls_sm.jpg" width="225" height="300" alt="football"></a></td>
+    <td><a href="/images/fair/football_redboy.jpg"><img src="/images/fair/football_redboy_sm.jpg" width="225" height="300" alt="football"></a></td>
+    <td><a href="/images/fair/football_purple_boys.jpg"><img src="/images/fair/football_purple_boys_sm.jpg" width="225" height="300" alt="football"></a></td>
+  </tr>
+
+
+</table>

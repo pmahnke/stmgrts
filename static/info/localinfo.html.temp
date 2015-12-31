@@ -1,0 +1,39 @@
+<div id="traininfo" class="infobox">
+
+    <h3>Current Train Information</h3>
+
+    <ul>
+        <li> <a href="http://stmargarets.transitionelement.com/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li> <a href="http://stmargarets.transitionelement.com/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li> <a href="http://stmargarets.transitionelement.com/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+    </ul>
+
+</div><!-- end div traininfo -->
+
+
+<div id="localinfo" class="infobox">
+
+    <h3>Local Websites</h3>
+
+    <dl>
+        <dt><a href="http://www.swtrains.com">South West Trains</a></dt>
+            <dd>train information</dd>
+        <dt><a href="http://www.findaproperty.co.uk/area0020.html">Find a Property</a></dt>
+            <dd>consolidated property listings for St Margarets</dd>
+        <dt><a href="http://neighbourhood.statistics.gov.uk/areaprofileframes.asp?T=A&AID=176396&TID=1&AREA=St%20Margarets%20and%20North%20Twickenham">National Statistics Online</a></dt>
+            <dd>information about St Margarets from the UK Government</dd>
+        <dt><a href="http://www.richmond.gov.uk/">Richmond Counsil Website</a></dt>
+            <dd>Loads of good information for local residents</dd>
+        <dt><a href="http://www.visitrichmond.co.uk/">Visit Richmond</a></dt>
+            <dd>Richmond Council's Tourist Information Site</dd>
+        <dt><a href="http://www.ofsted.gov.uk/parents/">Ofsted School Reports</a></dt>
+            <dd>The UK Government's official reports on our local schools</dd>
+       <dt><a href="http://streetmap.co.uk/newmap.srf?x=516413&y=173717&z=3&sv=516413%2C173717&st=4&ar=N&mapp=newmap.srf&searchp=newsearch.srf&dn=769">Maps</a></dt>
+            <dd>from streetmap.co.uk, great for helping people find St Margarets</dd>
+        <dt><a href="http://www.richmondandtwickenhamtimes.co.uk/">Richmond & Twickenham Times</a></dt>
+            <dd>the closest thing we have to a local newspaper</dd>
+
+    </dl>
+
+
+</div><!-- end div localinfo -->

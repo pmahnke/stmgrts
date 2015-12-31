@@ -1,0 +1,75 @@
+<div id="footer-wrapper"><div class="wrapper"><div class="inner-wrapper">
+
+<footer id="footer" class="sixteen-col last-col clear">
+
+	<div id="footer_nav" class="sixteen-col last-col">
+     <ul>
+        <li><a href="/index.shtml">Homepage</a></li>
+		<li><a href="/archives.html">Articles &amp; news</a></li>
+        <li><a href="/event">What's on</a></li>
+        <li><a href="/directory">Local information</a></li>
+        <li><a href="/forum.cgi">Discussions</a></li>
+        <li><a href="/static/info/colophon.html">About</a></li>
+        <li><a href="/static/info/contact.html">Contact</a></li>
+     </ul>
+	<!-- /footer_nav --></div>
+	
+	<div id="footer_search" class="five-col">
+
+     <h2>Search</h2>
+
+	<p>What are you looking for?</p>
+	<!-- Search Google -->
+	<form id="searchbox_011552492105320257021:aklyesuuk5c" action="http://www.google.com/cse">
+     	<input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c" />
+  		<p><input name="q" type="text" size="20" /></p>
+  		<p><input type="submit" name="sa" value="Search" /></p>
+    	<input type="hidden" name="cof" value="FORID:0" />
+	</form>
+        
+	<!-- /footer_search --></div>	
+	
+	<div id="footer_trains" class="three-col">
+     
+    <h2>Train Schedules</h2>
+    <ul>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+    </ul>
+
+   <!-- /footer_trains --></div>	
+	
+	<div id="footer_newsletter" class="four-col">
+
+    <form method="post" action="/cgi-bin/newsletter.cgi">
+
+    <h2>Newsletter Sign-up</h2>
+
+    <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+
+    <p><label for="newsletteremail">Your Email Address:</label></p>
+    <p><input type="text" id="newsletteremail" name="email" value="" size="20" /></p>
+    <p><input type="submit" name="topage" value="register" /></p>
+
+    </form>
+
+	
+	<!-- /footer_newsletter --></div>
+	
+
+	<div id="footer_feeds" class="three-col last-col">
+     
+     <h2>News Feeds</h2>
+     <ul>
+        <li><a href="/atom.xml">atom</a></li>
+        <li><a href="/index.rdf">rss1</a></li>
+        <li><a href="/index.xml">rss2</a></li>
+     </ul>
+
+	<!-- /footer_feeds --></div>
+   
+<p class="clear sixteen-col last-col copyright">Copyright &copy; 2005-2011 St Margarets Community Website<br />Some rights reserved <a href="http://creativecommons.org/licenses/by-nd/2.0/"><img alt="Creative Commons License" src="/images/cc_by_nd.png" width="69" height="13" class="inline" style="padding: 0; margin: 0;"/></a></p>
+
+</footer></div>
+</div></div>

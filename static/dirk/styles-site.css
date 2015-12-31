@@ -1,0 +1,33 @@
+body { font-family: "MS Trebuchet", verdana, arial, sans-serif; background: #eee; }
+
+img { display:block; border: 0; }
+
+#container { width: 700px; margin: 0 auto; padding: 0; background: #fff; } 
+#banner { background: #6295b6; margin: 0; padding: 0;  }
+
+#navigation { background: #D1E3EE; width: 200px; margin: 0; margin: 10px;  margin-top: 0; padding: 0; float: left; height: auto; }
+#navigation ul { margin: 5px; padding: 10px; }
+#navigation li { list-style: none; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.075em;  }
+#navigation a:link  {  text-decoration: none; color: #333; }
+#navigation a:visited  {  text-decoration: none; color: #666; }
+#navigation a:hover {  text-decoration: underline; color: #333; text-transform: uppercase;  }
+
+#content { background: #fff; color: #333; font-size: 0.7em; ; padding: 0; margin: 0 20px; }
+
+#footer { clear: both;  text-align: right; font-size: 0.7em; color: #666;  }
+
+.img_right {  clear: both; float: right; margin: 50px 0 20px 20px; padding: 0;  }
+.img_left {  clear: both; float:left; margin: 0; padding: 0;  }
+
+h1 { font-family: georgia; times; serif; font-weight: normal; }
+
+h2 { font-family: georgia; times; serif; font-weight: normal; }
+
+
+
+
+
+
+
+
+
