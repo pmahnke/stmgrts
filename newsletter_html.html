@@ -5,11 +5,11 @@ layout: default
 <pre>
 {% for post in site.posts limit: 15 %}
 
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsleter">{{ post.title }}</a></h2>
-    
+    <h3><a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsleter">{{ post.title }}</a></h2>
+
     {{ post.excerpt | textilize }}
 
-    <p class="extended">&mdash; <a href="{{ post.url | prepend: site.baseurl }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsleter">read more</a></p>
+    <p class="extended">&mdash; <a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsleter">read more</a></p>
 
 {% endfor %}
 </pre>
