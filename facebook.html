@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<pre>
+
+The St Margarets Community Website weekly newsletter is out... This week there is:
+
+{% for post in site.posts limit: 8 %}
+* {{ post.title }}
+{% endfor %}
+
+and more... www.stmgrts.org.uk
+
+</pre>

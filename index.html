@@ -3,12 +3,12 @@ layout: default-empty
 ---
     <div id="center" class="eight columns clearfix">
 
-        <div id class="content" style="padding: 0 1em;">
+        <div id="homepage" class="content">
 
 <!-- eight main stories -->
 {% for post in site.posts limit: 8%}
             <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    
+
 {{ post.excerpt | remove:'<div class="letter">' | textilize }}
             <p class="extended"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
 
@@ -18,23 +18,23 @@ layout: default-empty
 <!-- /end eight main stories -->
 
             <div id="recent">
-            
+
                 <h2>Recent Entries</h2>
-                
+
                 <ul id="entry_list">
 {% for post in site.posts limit: 10 offset: 8 %}
                     <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
                 </ul>
-            
+
             </div><!-- end div recent -->
-        
+
         </div><!-- end div content -->
-        
+
     </div><!-- end div center -->
-        
+
         <div id="middle" class="four columns">
-            
+
 <!-- start div weather -->
 {% include homepage_weather.html %}
 <!-- end div weather -->
@@ -45,8 +45,8 @@ layout: default-empty
 
 <!-- start div upcoming plays -->
 {% include homepage_event_play.html %}
-<!-- end div upcoming plays -->         
-            
+<!-- end div upcoming plays -->
+
 <!-- start div forum -->
 {% include homepage_forum.html %}
 <!-- end div forum -->
@@ -54,52 +54,52 @@ layout: default-empty
         </div><!-- end div middle -->
 
         <div id="right" class="four columns">
-        
+
             <div class="sidebar">
-        
+
                 <div id="twitter" class="infobox">
 {% include homepage_twitter.html %}
                 </div><!-- /end div twitter -->
-            
+
                 <div id="newsletter" class="infobox">
-                
+
                     <form method="post" action="/cgi-bin/newsletter.cgi">
-                
+
                         <h3>Newsletter Sign-Up</h3>
-                    
+
                         <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
-                    
+
                         <p><label for="newsletteremailinline">Your Email Address:</label></p>
-                    
+
                         <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
-                    
+
                         <p><input type="submit" name="topage" value="register" /></p>
-                    
+
                         <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
-                
+
                     </form>
                 </div><!-- /end div newsletter -->
-            
+
                 <div id="traininfo" class="infobox">
-            
+
                     <h3>Current Train Information</h3>
-                
+
                     <ul>
-                    
+
                         <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
-                    
+
                         <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
-                    
+
                         <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
-                    
+
                     </ul>
-            
+
                 </div><!-- /end div traininfo -->
 
 {% include local_sites.html %}
 
                 <div id="archives"  class="infobox">
-            
+
                     <h2><a href="/archives/">Archives</a></h2>
 
                     <ul>
@@ -107,11 +107,9 @@ layout: default-empty
                         <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
         {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
                     </ul>
-            
+
                 </div><!-- end div archives -->
-            
+
             </div><!-- end div sidebar -->
-        
+
         </div><!-- end div right -->
-    
-    

@@ -384,6 +384,10 @@ nav {
   padding-bottom: 0.5em;
 }
 
+#homepage.content {
+  padding: 0 1em;
+}
+
 #remember, #forget {
   display: inline;
 }
@@ -404,9 +408,6 @@ nav {
   overflow: hidden;
 }
 
-#homepage .content {
-  padding: 0 1em;
-}
 
 /* FOOTER */
 
@@ -483,36 +484,6 @@ nav {
 
 .sidebar {
   overflow: hidden;
-}
-
-#calendar {
-  line-height: 140%;
-  color: #666666;
-  font-size: 0.85em;
-  padding: 2px;
-  text-align: center;
-  margin-bottom: 30px;
-  table {
-    padding: 2px;
-    border-collapse: collapse;
-    border: 0px;
-    width: 100%;
-  }
-  caption {
-    color: #666666;
-    font-family: Georgia, Times, Serif;
-    font-size: 1em;
-    text-align: left;
-    text-transform: uppercase;
-    letter-spacing: .3em;
-  }
-  th {
-    text-align: center;
-    font-weight: normal;
-  }
-  td {
-    text-align: center;
-  }
 }
 
 .sidebar {
