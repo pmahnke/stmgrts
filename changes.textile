@@ -8,6 +8,12 @@ h2. Site Changes
 
 p. Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
+|27 December 2015|Migrated the site to "Jeykll":https://jekyllrb.com with a new comment system|
+|3 February 2015|refactored the events and directory for speed improvements|
+|18&nbsp;September&nbsp;2014|Moved to sendgrid for email newsletter|
+|28 June 2014|Overhall of weather with new icons and moved to "forecast.io":http://forecast.io|
+|14 June 2014|Made the site responsive with "Skeleton":http://getskeleton.com|
+|31 July 2013|Updated the directory to use the latest Twitter api|
 |30 August 2011|Made the main events page far smaller with truncation and adding a 'more information' button|
 |14 August 2011|wrote autotweet.pl to tweet upcoming events|
 |29 July 2011|Added a twitter handle and widget to the directory pages|

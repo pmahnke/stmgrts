@@ -27,9 +27,7 @@
      <h2>News Feeds</h2>
 
      <ul>
-        <li><a href="/atom.xml">atom</a></li>
-        <li><a href="/index.rdf">rss1</a></li>
-        <li><a href="/index.xml">rss2</a></li>
+        <li><a href="/feed.xml">atom</a></li>
      </ul>
 
 
@@ -73,13 +71,13 @@ $(document).ready(function(){
 	$('.menu-icon').click(function(){
 		$('#navigation').toggle('slow');
   	});
-	
+
 	$('.search-icon').click(function(){
 		$('#search').toggle('slow');
   	});
 
   	$("#search").hide();
-  	
+
     $( window ).resize(function() {
     	var screen=$(this)
     	if (screen.width() < 767) {

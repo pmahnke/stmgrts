@@ -228,7 +228,7 @@ Content-type: text/html; charset=utf-8
 <?xml version="1.0" encoding="utf-8"?>
 <html>
   <head>
-                <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <title>Auto Build All</title>
     <link rel="stylesheet" href="/styles-site.css"		 type="text/css" />
   </head>
@@ -269,7 +269,7 @@ Content-type: text/html; charset=utf-8
 <?xml version="1.0" encoding="utf-8"?>
 <html>
   <head>
-                <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" href="/styles-site.css"		 type="text/css" />
     <title>Edit Page</title>
     <script language="JavaScript">
@@ -335,8 +335,7 @@ sub printEditPage {
     $review .= "<p\>This include file (<b\>$FORM{'file'}<\/b\>) affects the following pages:<p\>";
 
     foreach $file (sort @inclFiles) {
-    $review .= "<li\> <strong\>$file<\/strong\><br\>";
-    # for show $review .= "<li\> <a href\=\"\"\><strong\>$file<\/strong\><\/a\><br\>";
+      $review .= "<li\> <strong\>$file<\/strong\><br\>";
     }
 
     $review .= "<p\>You can not preview the page before you save it, so when you are sure of the changes, press the <b\>Save<\/b\> button and build these pages.<\/p\>";
