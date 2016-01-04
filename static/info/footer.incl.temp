@@ -72,13 +72,13 @@ $(document).ready(function(){
 	$('.menu-icon').click(function(){
 		$('#navigation').toggle('slow');
   	});
-	
+
 	$('.search-icon').click(function(){
 		$('#search').toggle('slow');
   	});
 
   	$("#search").hide();
-  	
+
     $( window ).resize(function() {
     	var screen=$(this)
     	if (screen.width() < 767) {
