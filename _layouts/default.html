@@ -1,36 +1,30 @@
 {% include head.html %}
 
-<body>
+  <body>
 
-{% include google-tag-manager.html %}
+  {% include google-tag-manager.html %}
 
-	<div class="container">
+    <div class="container">
 
-{% include header.html %}
+  {% include header.html %}
 
-            <div id="twocolcenter" class="offset-by-one eleven columns clearfix">
+      <div id="twocolcenter" class="row">
 
-                <div class="content">
+        <div id="article" class="content nine columns">
 
-                   <div id="article">
+  {{ content }}
 
-{{ content }}
 
-                    </div><!-- end div article -->
+        </div><!-- end div article -->
 
-                </div><!-- end div content -->
+      </div><!-- end div twocolcenter -->
 
-            </div><!-- end div twocolcenter -->
+      <div id="right" class="sidebar three columns">
 
-            <div id="right" class="four columns">
+      </div><!-- end div right -->
 
-                <div class="sidebar">
-                </div><!-- end div sidebar -->
+  {% include footer.html %}
 
-            </div><!-- end div right -->
-
-{% include footer.html %}
-
-        </div><!-- end div container -->
-    </body>
+    </div><!-- end div container -->
+  </body>
 </html>

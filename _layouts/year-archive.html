@@ -6,8 +6,8 @@ layout: default
 
 {% for post in page.posts limit: 10 %}
 
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
     {{ post.excerpt | remove:'<div class="letter">' | textilize }}
 
     <p class="posted">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
@@ -18,6 +18,6 @@ layout: default
 
     <ul>
 {% for post in page.posts offset: 10 %}
-        <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
 </ul>

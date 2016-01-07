@@ -38,7 +38,7 @@ input {
     text-transform: uppercase;
     text-decoration: none;
     white-space: nowrap;
-    background-color: transparent;
+    background-color: $lighter-color;
     border-radius: $global-radius;
     border: 1px solid $border-color;
     cursor: pointer;
@@ -84,7 +84,7 @@ input {
 button.button-primary {
   color: #fff;
   background-color: $primary-color;
-  border-color: $primary-color;
+  border-color: $border-color;
 }
 
 input {
@@ -93,7 +93,7 @@ input {
   &[type="button"].button-primary {
     color: #fff;
     background-color: $primary-color;
-    border-color: $primary-color;
+    border-color: $border-color;
   }
 }
 
