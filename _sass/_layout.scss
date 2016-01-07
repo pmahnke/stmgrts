@@ -378,8 +378,9 @@ nav {
   display: inline;
 }
 
-#center, #twocolcenter {
+#center, #twocolcenter, #right {
   overflow: hidden;
+  background-color: #fff;
 }
 #twocolcenter {
   padding-left: 2em;
