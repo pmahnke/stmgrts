@@ -376,9 +376,6 @@ nav {
   padding-bottom: 0.5em;
 }
 
-#homepage.content {
-  padding: 0 1em;
-}
 #homepage #newsletteremailinline {
   width: 100%;
 }
@@ -390,14 +387,6 @@ nav {
 #center, #twocolcenter, #right {
   overflow: hidden;
   background-color: #fff;
-}
-#twocolcenter {
-  padding-left: 2em;
-}
-
-#backnext {
-  padding-top: 2em;
-  font-size: 0.85em;
 }
 
 .content {
@@ -553,6 +542,12 @@ div.event {
   width: 150px;
   height: 130px;
   text-align: center;
+}
+
+.event-icon-image {
+  margin-bottom: 1em;
+  width: 33%;
+  float: left;
 }
 
 .event {
@@ -1099,22 +1094,21 @@ forum table {
     font-size: 2em;
   }
   #search {
-    top: 6em;
-  }
+      margin-top: 6em;
+    }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   nav > ul > li {
     background-color: #4C4C99;
-    border-right: 1px solid #eee;
     border-right: none;
   }
   #sitename h1 {
     font-size: 2em;
   }
   #search {
-    top: 6em;
+    margin-top: 1em;
   }
 }
 
@@ -1124,7 +1118,9 @@ forum table {
   #logo img {
     display: none;
   }
-
+  #search {
+    margin-top: 1em;
+  }
 }
 
 /* #Font-Face
