@@ -19,7 +19,7 @@
 
 body {
   margin: 0px 0px 20px 0px;
-  background: #EEEEEE;
+  background: #FFFFFF;
   text-align: left;
   font-size: 15px;
   color: #222;
@@ -274,6 +274,9 @@ img {
   width: 100%;
   margin: 0;
   background-color: #4C4C99;
+  .container {
+    background-color: #4C4C99;
+  }
 }
 
 nav {
@@ -294,6 +297,9 @@ nav {
       margin: 0;
       line-height: inherit;
     }
+    > li:last-child {
+      border-right: none;
+    }
   }
   ul > li:before {
     content: "";
@@ -306,6 +312,9 @@ nav {
 }
 
 #banner {
+  .container {
+    background-color: #9999CC;
+  }
   background-color: #9999CC;
   border-top: 2px solid #FFFFFF;
   margin: 0;
@@ -403,9 +412,12 @@ nav {
 
 #footer {
   border-top: 6px solid #eee;
-  background: #663366;
+  background-color: #663366;
   color: #fff;
   padding: 3em 0;
+  .container {
+    background-color: #663366;
+  }
   h2 {
     font-size: 1.2em;
     text-transform: uppercase;
