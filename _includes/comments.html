@@ -1,3 +1,4 @@
+<notextile>
 <div class="comments">
     <h3>Comments</h3>
     <ul>
@@ -14,17 +15,19 @@
 </div><!-- end comments -->
 
 <div id="commentform">
+    <h4>Add a comment</h4>
     <form method="get" action="//stmgrts.org.uk/cgi-bin/comments.cgi">
         <fieldset>
-            <h4>Add a comment</h4>
-            <p><label for="name">Name</label><br />
-                <input type="text" id="name" name="name" value="" /></p>
-            <p><label for="email">Email</label><br />
-                <input type="email" id="email" name="email" value="" /></p>
-            <p><label for="comment">Comment</label><br />
-                <textarea id="comment" name="comment"></textarea></p>
-            <p><input type="submit" name="a" value="comment" />
-                <input type="hidden" name="page-id" value="{{ include.commentfile }}" /></p>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" value="" />
+            <label for="email">Email</label>
+            <em>your email will not be displayed with the comment</em>
+            <input type="email" id="email" name="email" value="" />
+            <label for="comment-text">Comment</label>
+            <textarea id="comment-text" name="comment"></textarea><br />
+            <input type="submit" name="a" value="comment" class="button-primary" />
+            <input type="hidden" name="page-id" value="{{ include.commentfile }}" />
         </fieldset>
     </form>
 </div><!-- end commentform -->
+</notextile>

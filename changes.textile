@@ -8,6 +8,9 @@ h2. Site Changes
 
 p. Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
+|9 January 2016|Updated the train listings to be a bit easier to read|
+|9 January 2016|Removed the box and went full width|
+|7 January 2016|Updated from Skeleton 1 to "Skeleton 2":http://getskeleton.com|
 |27 December 2015|Migrated the site to "Jeykll":https://jekyllrb.com with a new comment system|
 |3 February 2015|refactored the events and directory for speed improvements|
 |18&nbsp;September&nbsp;2014|Moved to sendgrid for email newsletter|

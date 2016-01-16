@@ -19,7 +19,7 @@
 
 body {
   margin: 0px 0px 20px 0px;
-  background: #EEEEEE;
+  background: #FFFFFF;
   text-align: left;
   font-size: 15px;
   color: #222;
@@ -67,11 +67,8 @@ h5 {
   font-size: 1.1em;
 }
 
-input, select, textarea {
-  width: 75%;
-}
 
-input {
+textarea, input {
   &[type="text"], &[type="password"], &[type="email"] {
     width: 75%;
   }
@@ -82,11 +79,11 @@ select, th, td {
   font-size: 1em;
 }
 
-input {
+/*input {
   &[type="submit"], &[type="radio"], &[type="checkbox"] {
-    width: 33%;
+    width: 50%;
   }
-}
+}*/
 
 li {
   font-size: 0.95em;
@@ -157,10 +154,6 @@ td {
   font-family: verdana, sans-serif;
   padding: 0 3px;
   vertical-align: top;
-}
-
-.td_time {
-  text-align: center;
 }
 
 tfoot {
@@ -266,16 +259,6 @@ img {
   display: block;
 }
 
-/*  old tags */
-
-.img_left {
-  float: left;
-}
-
-.img_right {
-  float: right;
-}
-
 /* MAIN STYLES */
 
 .container {
@@ -291,6 +274,9 @@ img {
   width: 100%;
   margin: 0;
   background-color: #4C4C99;
+  .container {
+    background-color: #4C4C99;
+  }
 }
 
 nav {
@@ -311,6 +297,9 @@ nav {
       margin: 0;
       line-height: inherit;
     }
+    > li:last-child {
+      border-right: none;
+    }
   }
   ul > li:before {
     content: "";
@@ -323,6 +312,9 @@ nav {
 }
 
 #banner {
+  .container {
+    background-color: #9999CC;
+  }
   background-color: #9999CC;
   border-top: 2px solid #FFFFFF;
   margin: 0;
@@ -362,16 +354,16 @@ nav {
 }
 
 #search {
-  width: 15em;
   margin-top: 5em;
   form {
     margin: 0;
     width: 98%;
     color: #333;
     input {
-      margin: 0;
-      width: 98%;
+      margin-right: 1em;
+      width: 15em;
       color: #333;
+      float: right;
     }
   }
 }
@@ -384,21 +376,17 @@ nav {
   padding-bottom: 0.5em;
 }
 
-#homepage.content {
-  padding: 0 1em;
+#homepage #newsletteremailinline {
+  width: 100%;
 }
 
 #remember, #forget {
   display: inline;
 }
 
-#center, #twocolcenter {
+#center, #twocolcenter, #right {
   overflow: hidden;
-}
-
-#backnext {
-  padding-top: 2em;
-  font-size: 0.85em;
+  background-color: #fff;
 }
 
 .content {
@@ -413,9 +401,12 @@ nav {
 
 #footer {
   border-top: 6px solid #eee;
-  background: #663366;
+  background-color: #663366;
   color: #fff;
   padding: 3em 0;
+  .container {
+    background-color: #663366;
+  }
   h2 {
     font-size: 1.2em;
     text-transform: uppercase;
@@ -437,11 +428,7 @@ nav {
 .copyright {
   clear: both;
   text-align: right;
-  padding: 2em;
-}
-
-#archives h2 {
-  font-size: 1em;
+  padding: 1em 2em 0 0;
 }
 
 /* content */
@@ -510,46 +497,16 @@ nav {
   margin-bottom: 20px;
 }
 
-.link-note {
-  font-size: 0.85em;
-  line-height: 150%;
-  text-align: left;
-  padding: 2px;
-  margin-bottom: 15px;
-}
-
-#powered {
-  font-size: 0.85em;
-  line-height: 150%;
-  text-align: left;
-  color: #666666;
-  margin-top: 50px;
-}
-
-#comment-data {
-  float: left;
-  width: 180px;
-  padding-right: 15px;
-  margin-right: 15px;
-  text-align: left;
-  border-right: 1px dotted #BBB;
-}
-
 textarea[id="comment-text"] {
-  width: 80%;
-}
-
-.commenter-profile img {
-  vertical-align: middle;
-  border-width: 0;
+  height: 10em;
+  width: 75%;
 }
 
 /* infobox */
 
 .infobox {
   overflow: hidden;
-  padding: 10px;
-  margin: 10px 0;
+  padding: 1em;
   h3 {
     color: #333;
     margin: 1px;
@@ -585,6 +542,12 @@ div.event {
   width: 150px;
   height: 130px;
   text-align: center;
+}
+
+.event-icon-image {
+  margin-bottom: 1em;
+  width: 33%;
+  float: left;
 }
 
 .event {
@@ -857,6 +820,13 @@ p {
   color: #444;
 }
 
+.post-link {
+  display: none;
+}
+div.post-content > table {
+  width: 100%;
+  box-sizing: border-box;
+}
 /* for letters, a gold box and serif font */
 
 .letter {
@@ -1114,6 +1084,7 @@ forum table {
     float: left;
     padding: 0.5em 0;
     display: block;
+    border-right: none;
   }
   #logo img {
     width: 75%;
@@ -1124,22 +1095,20 @@ forum table {
     font-size: 2em;
   }
   #search {
-    top: 6em;
-  }
+      margin-top: 6em;
+    }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   nav > ul > li {
     background-color: #4C4C99;
-    border-right: 1px solid #eee;
-    border-right: none;
   }
   #sitename h1 {
     font-size: 2em;
   }
   #search {
-    top: 6em;
+    margin-top: 1em;
   }
 }
 
@@ -1149,7 +1118,9 @@ forum table {
   #logo img {
     display: none;
   }
-
+  #search {
+    margin-top: 1em;
+  }
 }
 
 /* #Font-Face
