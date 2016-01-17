@@ -536,11 +536,18 @@ p.footnote {
   margin: 2em auto;
 }
 
+#events {
+  img {
+    padding: 0;
+    margin: 1em 0;
+    border: 0;
+  }
+}
+
 div.event {
   margin: 20px 0;
   padding: 0;
   width: 200px;
-  height: 200px;
   text-align: center;
 }
 
