@@ -368,6 +368,29 @@ nav {
   }
 }
 
+/* social buttone */
+#social {
+  float:right;
+}
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  float: left;
+}
+
+ul.share-buttons li::before {
+  content: none;
+}
+
+ul.share-buttons img{
+  width: 32px;
+}
+
 /* #Page Styles
 ================================================== */
 

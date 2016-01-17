@@ -1,11 +1,20 @@
 ---
 layout: default
 ---
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div id="social">
+    <ul class="share-buttons">
+      <li><a id="share-facebook" title="Share on facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ site.url }}{{ page.url }}&amp;p[title]={{ page.title | cgi_escape }}" rel="nofollow"><img src="/assets/images/Facebook.svg"></a></li>
+      <li><a id="share=twitter"  title="Share on twitter"  href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title | cgi_escape }}&amp;hashtags=stmgrts&amp;via=stmgrts" rel="nofollow"><img src="/assets/images/Twitter.svg"></a></li>
+      <li><a id="share_email"    title="Share via Email"   href="mailto:?subject={{ page.title }}&amp;body=I've%20just%20read%20%27{{ page.title }}%27%20on%20the%20St%20Margarets%20Community%20Website%20and%20thought%20you%20would%20like%20it.%20Check%20it%20out:%20http://{{ site.url }}{{ page.url }}"><img src="/assets/images/Email.svg"></a></a></li>
+    </ul>
+  </div>
 
   <header class="post-header">
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta"><em><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</em></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
