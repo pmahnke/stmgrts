@@ -7,18 +7,8 @@ category: around_town
 date: 2011-07-21 14:44:36
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2011/SUMMER_SummerHolidayPic1.jpg" title="See larger version of - Summer Holiday"><img src="//stmgrts.org.uk/assets/images/2011/SUMMER_SummerHolidayPic1_thumb.jpg" width="150" height="129" alt="Summer Holiday" class="photo right" /></a>
-    
-    
-    bq.. "We're all going on a summer holiday
-    No more working for a week or two
-    Fun and laughter on our summer holiday
-    No more worries for me or you...
-    For a week or two."
-    
-    p. Someone once said that there are only three types of popular song - songs about love, songs about summer and songs about everything else.
-    
-    There have certainly been enough songs written about the pleasures of summer to make the point, from the 13<sup>th</sup> century ditty 'Sumer is icumen in', with its charming couplet -  '_Bullock starteth, buck farteth_' - to "Summerboy" by Lady Gaga...
 
+    Someone once said that there are only three types of popular song - songs about love, songs about summer and songs about everything else.
 ---
 
 <a href="//stmgrts.org.uk/assets/images/2011/SUMMER_SummerHolidayPic1.jpg" title="See larger version of - Summer Holiday"><img src="//stmgrts.org.uk/assets/images/2011/SUMMER_SummerHolidayPic1_thumb.jpg" width="150" height="129" alt="Summer Holiday" class="photo right" /></a>
