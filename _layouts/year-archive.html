@@ -10,7 +10,7 @@ layout: default
 
     {{ post.excerpt | remove:'<div class="letter">' | textilize }}
 
-    <p class="posted">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
 
 {% endfor %}
 
