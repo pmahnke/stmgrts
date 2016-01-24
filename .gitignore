@@ -5,3 +5,6 @@ _includes/homepage*
 assets/images/*
 *.yaml~
 *.*~
+taleo
+sitemap.xml.gz
+robots.txt
