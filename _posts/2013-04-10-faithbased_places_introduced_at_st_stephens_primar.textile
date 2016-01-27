@@ -28,7 +28,7 @@ A RISC spokesperson said: "We are disappointed that an opportunity is being miss
 
 h4. Note
 
-"Here is the approved policy from St Stephens":http://www.stmgrts.org.uk/images/st_stephens_2013-14_admissions_policy.pdf [pdf]
+"Here is the approved policy from St Stephens":http://www.stmgrts.org.uk/assets/images/2013/st_stephens_2013-14_admissions_policy.pdf [pdf]
 
 
 {% include comments.html commentfile=page.commentfile%}

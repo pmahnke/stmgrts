@@ -9,7 +9,7 @@ date: 2008-02-05 18:59:09
 ---
 
 bq.. "I thought you might be interested in my analysis of the Council's survey in Teddington.  The issues are very similar -- the worst parking problem occurs in the evening -- and yet the Council wishes to force through a CPZ on a small positive vote (completely ignoring those who didn't vote for whatever reason) of a relatively small section of the area (they asked half the households in Teddington for their views).
- 
+
 Parking in St Margarets is a pain and will remain a pain regardless of whether a CPZ is implemented.  A CPZ will cost everyone money, will bring traffic wardens into the area on a regular basis (perhaps their contract could extend to something socially useful, like litter picking) and will reduce the amount of parking since parking at junctions will be controlled.  Only those who haven't thought about the big picture could possibly favour any CPZ scheme."
 
 <cite>-- former Cllr Simon Lamb</cite>
@@ -37,7 +37,7 @@ This Wednesday is the last chance to state your views before the Liberal Democra
 
 </div>
 
-<a href="http://www.stmgrts.org.uk/TeddingtonCPZsurveyresults2007.xls">Download Excel spreadsheet with more data.</a>
+<a href="http://www.stmgrts.org.uk/assets/images/2008/TeddingtonCPZsurveyresults2007.xls">Download Excel spreadsheet with more data.</a>
 
 
 {% include comments.html commentfile=page.commentfile%}
