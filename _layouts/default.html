@@ -13,10 +13,26 @@
 {{ content }}
 
         </div><!-- end div article -->
+        <div id="right" class="sidebar three columns">
+{% if page.title %}
+          <div id="social">
+            <ul class="share-buttons">
+              <li><a id="share-facebook" title="Share on facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ site.url }}{{ page.url }}&amp;p[title]={{ page.title | cgi_escape }}" rel="nofollow"><img src="/assets/images/Facebook.svg"></a></li>
+              <li><a id="share-twitter"  title="Share on twitter"  href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title | cgi_escape }}&amp;hashtags=stmgrts&amp;via=stmgrts" rel="nofollow"><img src="/assets/images/Twitter.svg"></a></li>
+              <li><a id="share-email"    title="Share via Email"   href="mailto:?subject={{ page.title }}&amp;body=I've%20just%20read%20%27{{ page.title }}%27%20on%20the%20St%20Margarets%20Community%20Website%20and%20thought%20you%20would%20like%20it.%20Check%20it%20out:%20http://{{ site.url }}{{ page.url }}"><img src="/assets/images/Email.svg"></a></a></li>
+            </ul>
+          </div><!-- end social -->
+          <div class="pagenavigation u-cf">
+            {% if page.previous.url %}
+              <p class="prev"><a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
+              {% endif %}
+              {% if page.next.url %}
+              <p class="next"><a href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
+              {% endif %}
+            </div><!-- end pagenavigation -->
+{% endif %}
+          </div><!-- end div right -->
       </div><!-- end div twocolcenter -->
-      <div id="right" class="sidebar three columns">
-
-      </div><!-- end div right -->
     </div><!-- end div container -->
 
 {% include footer.html %}
