@@ -5,6 +5,8 @@ permalink: /archives/2015/11/christmas_shopping_at_turners_house_29_november_20.
 commentfile: 2015-11-19-christmas_shopping_at_turners_house_29_november_20
 category: around_town
 date: 2015-11-19 21:40:05
+excerpt: |
+    Join Turner's House Trustees for a glass of wine while picking up delightful and original Christmas gifts for friends and family - all to support the Trust's restoration appeal.
 
 ---
 

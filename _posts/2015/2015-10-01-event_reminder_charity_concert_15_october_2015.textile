@@ -7,8 +7,8 @@ category: around_town
 date: 2015-10-01 21:40:40
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2015/2015-ElasticBandConcert.jpg" title="See larger version of - 2015 ElasticBandConcert"><img src="//stmgrts.org.uk/assets/images/2015/2015-ElasticBandConcert_thumb.jpg" width="150" height="212" alt="2015 ElasticBandConcert" class="photo right" /></a>
-    
-    On "Thursday, 15 October 2015 from  7.30 to 10.30pm at Clarendon Hall, York House":http://www.stmgrts.org.uk/event/concert/200705145219, come to a fund raising concert for St Margarets' Fair charities.
+
+    On Thursday, 15 October 2015 from  7.30 to 10.30pm at Clarendon Hall, York House, come to a fund raising concert for St Margarets' Fair charities.
 
 ---
 

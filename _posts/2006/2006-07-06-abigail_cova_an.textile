@@ -7,13 +7,13 @@ category: around_town
 date: 2006-07-06 09:03:34
 excerpt: |
     Abigail has lived in St Margarets for six years, originally hailing from Scotland where she danced with Scottish Ballet, the country's national ballet company.
-    
+
     Last year she opened "Marble Hill Dance Studio":http://www.stmgrts.org.uk/directory/art/200607060232, which started with 20 students and now boasts 70, all through word of mouth. Abigail decided to open the school as she felt the area was lacking a local dance school. The school has 100% pass rate in all examinations taken including the Vocational Graded Royal Academy of Dance Syllabus. The school is based at her husband’s pub -- "The Crown":http://www.stmgrts.org.uk/directory/pub/200506090609 that is situated on Richmond Road. The function room has been specially equipped with mirrors and barres to accommodate dance lessons.
-    
+
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2006/abs_edited.JPG"><img src="http://www.stmgrts.org.uk/images/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
+<a href="//stmgrts.org.uk/assets/images/2006/abs_edited.JPG"><img src="http://www.stmgrts.org.uk/assets/images/2006/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
 
 Abigail has lived in St Margarets for six years, originally hailing from Scotland where she danced with Scottish Ballet, the country's national ballet company.
 
@@ -32,7 +32,7 @@ Monday 14th August - Saturday 19th August 2006
 
 Ages 5-9 -- 9.30am - 12.00pm - &pound;100.00
 
-Ages 10-14 -- 1.00pm - 4.30pm - &pound;150.00 
+Ages 10-14 -- 1.00pm - 4.30pm - &pound;150.00
 
 <a href="//stmgrts.org.uk/assets/images/2006/marblehilldancesummer.pdf">Download the flyer</a>
 
