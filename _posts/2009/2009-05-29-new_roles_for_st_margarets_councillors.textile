@@ -19,4 +19,4 @@ Geoff Acton has been appointed Cabinet Member for Environment, taking over from 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -17,4 +17,4 @@ We have received a report that there is currently a fire at Tesco.  Apparently t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

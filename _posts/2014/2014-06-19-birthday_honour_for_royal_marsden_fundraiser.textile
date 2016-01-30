@@ -27,4 +27,4 @@ I am enormously indebted to my late parents Irene and Bertie Joel who showed me 
 ??Mandie Adams McGuire MBE??
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -38,4 +38,4 @@ Here is this year's line up:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

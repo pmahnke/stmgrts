@@ -32,4 +32,4 @@ DON'T MISS OUT - SEE YOU THERE!!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

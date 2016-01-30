@@ -13,4 +13,4 @@ date: 2005-09-25 13:30:45
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

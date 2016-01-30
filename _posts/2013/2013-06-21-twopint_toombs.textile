@@ -63,4 +63,4 @@ Richmond was home to another hero of the Battle of Britain. With a 'bag' of 26 c
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

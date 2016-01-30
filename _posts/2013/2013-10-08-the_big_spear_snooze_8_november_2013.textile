@@ -20,4 +20,4 @@ There is supper and entertainment provided beforehand, and breakfast in the morn
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

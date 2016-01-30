@@ -13,4 +13,4 @@ Some updates on Sunshine & Ravioli, St Margarets Wines and the Post Office, chec
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

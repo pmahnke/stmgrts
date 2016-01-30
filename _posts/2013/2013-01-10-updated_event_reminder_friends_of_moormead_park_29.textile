@@ -32,4 +32,4 @@ h4. Adding Draft Documents
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

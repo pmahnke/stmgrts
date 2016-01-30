@@ -25,4 +25,4 @@ There is a lot more info at "crossing.jiglu.com":http://crossing.jiglu.com.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

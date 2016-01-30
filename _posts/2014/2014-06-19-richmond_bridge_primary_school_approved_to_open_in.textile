@@ -31,4 +31,4 @@ p. For more information about Richmond Bridge Primary School please visit the sc
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

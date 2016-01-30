@@ -47,4 +47,4 @@ Booking will open at the end of September and the full festival programme and br
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -27,4 +27,4 @@ The consultation showed that 47% of respondents said they were in favour, 39% we
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

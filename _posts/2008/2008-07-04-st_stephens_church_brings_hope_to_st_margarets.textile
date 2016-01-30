@@ -25,4 +25,4 @@ No strings, no nonsense, display of love to all!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

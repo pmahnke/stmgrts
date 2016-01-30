@@ -26,4 +26,4 @@ The festival programme is also packed with theatre, comedy, poetry, visual arts,
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

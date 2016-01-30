@@ -48,4 +48,4 @@ The confidence trick outlined above took place at the beginning of August and in
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

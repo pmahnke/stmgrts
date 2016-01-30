@@ -26,4 +26,4 @@ The public festival will be held on the sports pitches between the Sheen Gate an
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

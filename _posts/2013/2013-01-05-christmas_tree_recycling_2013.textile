@@ -33,4 +33,4 @@ Last year we collected around 20,000 Christmas trees for recycling which was fan
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

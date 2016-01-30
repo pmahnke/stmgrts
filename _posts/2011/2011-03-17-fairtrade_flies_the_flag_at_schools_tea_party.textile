@@ -26,4 +26,4 @@ Become a Fairtrade School and help meet the inclusion, participation, food and d
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -18,4 +18,4 @@ Breast Cancer Care is imploring supporters across London to take action by pulli
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

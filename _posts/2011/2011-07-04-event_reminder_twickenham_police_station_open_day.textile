@@ -33,4 +33,4 @@ h4. More details
 * Children must be accompanied by an adult.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

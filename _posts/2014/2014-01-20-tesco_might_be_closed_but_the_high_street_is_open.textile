@@ -20,4 +20,4 @@ With Tesco closed until 15 February 2014, it's the perfect time to find out what
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

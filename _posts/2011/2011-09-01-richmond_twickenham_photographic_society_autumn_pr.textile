@@ -18,4 +18,4 @@ If you are interested, here is the "Programme for September to December 2011":/a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

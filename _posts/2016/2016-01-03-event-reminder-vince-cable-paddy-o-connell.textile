@@ -33,4 +33,4 @@ h4. More Information
 * Signed copies of After the Storm will be available for purchase
 
 
-{% include comments.html commentfile=page.commentfile%}
+

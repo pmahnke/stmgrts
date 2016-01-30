@@ -24,4 +24,4 @@ For "more information about the event":http://www.richmond.gov.uk/home/leisure_a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

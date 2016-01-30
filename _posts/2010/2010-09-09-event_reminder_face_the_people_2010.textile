@@ -25,4 +25,4 @@ For more information about this event, please contact Juliette Taylor on 020 889
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

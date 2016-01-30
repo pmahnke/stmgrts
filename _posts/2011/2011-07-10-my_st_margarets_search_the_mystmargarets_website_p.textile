@@ -25,4 +25,4 @@ If you or somebody you know are interested in being included in the feature plea
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -13,4 +13,4 @@ If you found a purse in Moormead Park this week, please email "curlyhio@hotmail.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

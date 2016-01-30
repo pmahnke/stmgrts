@@ -40,4 +40,4 @@ We want to demonstrate very clearly to the Council the strength of local feeling
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

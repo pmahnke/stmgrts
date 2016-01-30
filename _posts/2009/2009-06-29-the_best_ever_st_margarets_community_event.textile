@@ -35,4 +35,4 @@ _Photos from Totally Media Ltd &copy; 2009_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -18,4 +18,4 @@ Many thanks to everyone for their help and support.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -35,4 +35,4 @@ To book your FREE place, please email "events@sunvil.co.uk":mailto:events@sunvil
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

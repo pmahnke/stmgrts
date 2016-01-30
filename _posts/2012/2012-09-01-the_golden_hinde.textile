@@ -92,4 +92,4 @@ _Credit: The portrait of Sir Francis Drake is by Jodocus Hondius_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

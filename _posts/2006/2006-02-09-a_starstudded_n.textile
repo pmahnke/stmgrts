@@ -32,4 +32,4 @@ The evening features five talented local bands:
 For more information you can call Toby on 0778619362 or visit his "fundraising website":http://www.justgiving.com/tobyhartwell/.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

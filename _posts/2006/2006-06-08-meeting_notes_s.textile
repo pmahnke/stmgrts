@@ -72,4 +72,4 @@ h3. Links
 * Original Article: "Building a Community -- Online & Off":http://www.stmgrts.org.uk/archives/2006/05/building_a_comm.html
 
 
-{% include comments.html commentfile=page.commentfile%}
+

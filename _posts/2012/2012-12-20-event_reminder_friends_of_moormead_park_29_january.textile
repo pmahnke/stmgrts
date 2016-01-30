@@ -30,4 +30,4 @@ For further information on the draft constitution and to put your name forward t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

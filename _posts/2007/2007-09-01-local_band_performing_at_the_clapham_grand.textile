@@ -15,4 +15,4 @@ Everyone welcome!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

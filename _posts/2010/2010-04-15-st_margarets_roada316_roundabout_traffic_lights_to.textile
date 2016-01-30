@@ -17,4 +17,4 @@ Note: not sure but this might be related to this older post "Cross about the Cro
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

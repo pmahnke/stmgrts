@@ -35,4 +35,4 @@ We're a charity which encourages people to regain or to maintain their lifelong 
 
 Our volunteers have all found regular exercise improves many aspects of life, and our team includes sport enthusiasts and health professionals. We are happy to take on new-comers from those just getting into exercise to lapsed athletes.
 
-{% include comments.html commentfile=page.commentfile%}
+

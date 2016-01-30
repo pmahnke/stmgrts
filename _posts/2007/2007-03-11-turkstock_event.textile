@@ -16,4 +16,4 @@ _Turkstock II_ raised £1,000 for St Stephen's School.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

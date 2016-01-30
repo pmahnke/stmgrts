@@ -19,4 +19,4 @@ Positive individuals are 6 times more likely to achieve their aspirations!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

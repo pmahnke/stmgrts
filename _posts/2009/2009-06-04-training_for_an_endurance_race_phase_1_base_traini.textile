@@ -30,4 +30,4 @@ If you want to get fit for summer, why not try early morning bootcamps? The next
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -23,4 +23,4 @@ From 1-5pm.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

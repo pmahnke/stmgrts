@@ -170,4 +170,4 @@ An update on the ongoing status of infant school places in the St Margarets area
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

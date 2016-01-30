@@ -20,4 +20,4 @@ The Fair, as always is about fun and getting the whole community together, as we
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

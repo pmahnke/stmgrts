@@ -32,4 +32,4 @@ John Stewart, chairman of the HACAN Clearskies campaign, said it was a major con
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

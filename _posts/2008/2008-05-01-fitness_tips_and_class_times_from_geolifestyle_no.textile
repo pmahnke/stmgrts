@@ -66,4 +66,4 @@ Thursdays at 2pm in Marble Hill Park, meet by the car park. Session includes spe
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

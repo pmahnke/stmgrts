@@ -19,4 +19,4 @@ Come along and grab a bargain!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

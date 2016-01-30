@@ -19,4 +19,4 @@ Rachel has an opening offer for the St Margarets treatment suite for St Margaret
 
 For further information visit www.rachelstaggs.co.uk.
 
-{% include comments.html commentfile=page.commentfile%}
+

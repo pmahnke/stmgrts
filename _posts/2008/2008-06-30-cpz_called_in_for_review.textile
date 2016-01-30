@@ -21,4 +21,4 @@ The Council website says: "The decision is currently being reconsidered":http://
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

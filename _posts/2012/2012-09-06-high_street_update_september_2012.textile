@@ -79,4 +79,4 @@ The Vet in St Margarets provides veterinary excellence to pets and their owners 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

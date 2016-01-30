@@ -35,4 +35,4 @@ p. The plans are part of the Council's borough-wide school expansion programme.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

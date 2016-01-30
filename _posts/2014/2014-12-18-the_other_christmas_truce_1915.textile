@@ -102,4 +102,4 @@ About the Christmas Truce of 1914 with music by Mike Harding.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

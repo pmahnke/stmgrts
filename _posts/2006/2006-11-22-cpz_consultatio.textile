@@ -31,4 +31,4 @@ Opinion in St Margarets is divided. The delay gives both sides of the argument a
 <em>-- from Chris Squire</em>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -23,4 +23,4 @@ Persons navigating through the weirs and upstream of Richmond Lock must do so wi
 <cite>-- from "Port Authority of London":http://www.pla.co.uk/display_fixedpage.cfm/id/2695/site/navigation</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

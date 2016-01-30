@@ -32,4 +32,4 @@ Sorry to write so much.  I got started and more and more words seem to have spru
 _These are emails from a recent ex-pat to St Margarets, Stephanie Grefsheim.  They are presented as they were originally sent to her friends and family in Rockville, Maryland, USA (except for the  occasional translation of some very American terms)._
 
 
-{% include comments.html commentfile=page.commentfile%}
+

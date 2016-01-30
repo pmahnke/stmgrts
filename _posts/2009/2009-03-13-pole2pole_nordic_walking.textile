@@ -31,4 +31,4 @@ Kay Speakman is a qualified Nordic Walking UK Instructor. She is properly qualif
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

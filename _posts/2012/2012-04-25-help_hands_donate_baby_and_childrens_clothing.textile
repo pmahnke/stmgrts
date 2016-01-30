@@ -18,4 +18,4 @@ All money raised will go towards running costs of the Help a Neighbour in Distre
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

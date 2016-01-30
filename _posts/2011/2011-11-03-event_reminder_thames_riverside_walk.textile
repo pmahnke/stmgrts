@@ -31,4 +31,4 @@ h4. More Information
 * Cheques made payable to Environment Trust for Richmond upon Thames and posted to Unit 3, Phoenix Wharf, Eel Pie Island, Twickenham, TW1 3DY. 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

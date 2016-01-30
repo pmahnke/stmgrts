@@ -27,4 +27,4 @@ We are all very trusting by nature and this crime is an invasion of that trust a
 <cite>-- from Inspector Hannah Wheeler - Richmond NPT, Licensing and ASB Lead</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

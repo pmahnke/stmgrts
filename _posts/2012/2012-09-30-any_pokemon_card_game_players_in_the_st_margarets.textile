@@ -25,4 +25,4 @@ If so, please email: "pokemon@stmgrts.org.uk":mailto:pokemon@stmgrts.org.uk
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -29,4 +29,4 @@ _Free admission_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

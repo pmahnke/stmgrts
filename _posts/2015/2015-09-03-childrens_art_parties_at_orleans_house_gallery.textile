@@ -31,4 +31,4 @@ Please contact "heather.whitt@richmond.gov.uk":mailto:heather.whitt@richmond.gov
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

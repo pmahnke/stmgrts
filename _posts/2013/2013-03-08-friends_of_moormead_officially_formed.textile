@@ -16,4 +16,4 @@ The meeting discussed a number of points, the Pavilion and the new tennis courts
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

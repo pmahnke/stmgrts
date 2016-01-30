@@ -37,4 +37,4 @@ For those who like to know these things GASS is organised by NSMRA - the North S
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

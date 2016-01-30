@@ -19,4 +19,4 @@ The St Margarets Community Survey deadline has been extended to Friday 14<sup>th
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

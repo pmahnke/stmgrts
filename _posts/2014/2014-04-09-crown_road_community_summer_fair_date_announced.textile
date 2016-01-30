@@ -25,4 +25,4 @@ Come along and bring your dancing shoes! More details to follow...
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

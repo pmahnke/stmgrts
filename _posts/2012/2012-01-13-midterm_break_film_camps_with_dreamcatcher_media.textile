@@ -26,4 +26,4 @@ The forthcoming  mid-term break Camp for 8 - 16 year olds will run at Cole Court
 Booking has started already, so if you'd like your child to have some exciting filming opportunities this mid-term break, please book now. You can book directly on our website "www.dreamcatchermedia.co.uk":http://www.dreamcatchermedia.co.uk or by calling us at Twickenham Film Studios on 0208 607 7273. E-mail: "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

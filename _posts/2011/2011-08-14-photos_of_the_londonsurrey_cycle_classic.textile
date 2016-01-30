@@ -33,4 +33,4 @@ If you have some photos and want to share, please email "content@stmgrts.org.uk"
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

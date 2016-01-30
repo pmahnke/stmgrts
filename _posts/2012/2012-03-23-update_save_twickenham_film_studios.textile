@@ -35,4 +35,4 @@ For more information, check out the website "www.savetwickenhamstudios.com":http
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

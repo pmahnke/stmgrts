@@ -30,4 +30,4 @@ The site of the new Jubilee Pond in Richmond Park can be found at the following 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -40,4 +40,4 @@ If you have any further enquiries, please email Jo at "babypicnic@gmail.com":mai
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

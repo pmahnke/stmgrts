@@ -31,4 +31,4 @@ Get in touch today
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

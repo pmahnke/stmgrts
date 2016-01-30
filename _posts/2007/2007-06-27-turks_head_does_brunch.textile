@@ -13,4 +13,4 @@ The "Turk's Head Pub":http://stmgrts.org.uk/directory/pub/200505231518 is starti
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

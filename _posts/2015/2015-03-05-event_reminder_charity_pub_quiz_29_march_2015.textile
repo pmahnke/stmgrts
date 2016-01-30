@@ -23,4 +23,4 @@ If you would like to take part in the quiz tickets can be "purchased from my web
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

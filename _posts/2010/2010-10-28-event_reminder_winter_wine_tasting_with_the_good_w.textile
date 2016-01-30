@@ -22,4 +22,4 @@ Guests will also be able to enjoy a range of carefully selected breads and chees
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

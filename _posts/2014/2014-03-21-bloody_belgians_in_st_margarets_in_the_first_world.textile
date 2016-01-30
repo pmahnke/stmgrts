@@ -63,4 +63,4 @@ East Twickenham Village are planning to commemorate the Belgian Community in 191
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

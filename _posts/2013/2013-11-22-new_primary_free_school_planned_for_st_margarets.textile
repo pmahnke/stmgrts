@@ -22,4 +22,4 @@ We're going to be out and about in Richmond over the next few weeks talking to p
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

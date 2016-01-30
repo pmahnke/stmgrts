@@ -50,4 +50,4 @@ p. The campaign to restore Moormead Park Pavilion is supported by:
 
 <cite>-- from a press release - 20 January 2016 </cite>
 
-{% include comments.html commentfile=page.commentfile%}
+

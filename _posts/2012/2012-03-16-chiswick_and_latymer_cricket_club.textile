@@ -35,4 +35,4 @@ Anyone who requires further information or who would like to join the club as pl
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

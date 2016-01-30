@@ -47,4 +47,4 @@ You can find the answers "here":http://www.stmgrts.org.uk/archives/2012/10/how_o
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

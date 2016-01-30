@@ -26,4 +26,4 @@ Details on how to get to us can be found on "www.redlees.org":http://www.redlees
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

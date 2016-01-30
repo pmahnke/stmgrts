@@ -24,4 +24,4 @@ The River Crane has responded to rain that has been falling overnight and this m
 Stay tuned to radio weather, news and travel bulletins on LBC 97.3 FM and Digital Radio.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

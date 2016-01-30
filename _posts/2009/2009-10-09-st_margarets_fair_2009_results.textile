@@ -25,4 +25,4 @@ As always thank you very much for your continuing support of our local community
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

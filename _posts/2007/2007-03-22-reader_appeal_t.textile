@@ -23,4 +23,4 @@ p. -- _from Mike Bowden_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

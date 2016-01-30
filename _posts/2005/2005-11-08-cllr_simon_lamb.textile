@@ -28,4 +28,4 @@ h4. Actions
 * Email Cllr Lamb at "cllr.slamb@richmond.gov.uk":mailto:cllr.slamb@richmond.gov.uk with your opinions on the proposed scheme.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -45,4 +45,4 @@ h3. How to contact the Safer Neighbourhood Team
 * To put forward a view or a suggestion in writing, email the team on: "stmargarets.northtwickenham.snt@met.police.uk":mailto:stmargarets.northtwickenham.snt@met.police.uk
 
 
-{% include comments.html commentfile=page.commentfile%}
+

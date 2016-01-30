@@ -28,4 +28,4 @@ It could be your road next!
 <cite>-- from Kim Thomas</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

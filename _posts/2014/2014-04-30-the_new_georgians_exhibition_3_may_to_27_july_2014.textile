@@ -26,4 +26,4 @@ Also on display are works created for the exhibition by the gallery's artist in 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

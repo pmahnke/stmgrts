@@ -23,4 +23,4 @@ If you would like to get involved and help fund raise for your chosen charity or
 If you have any comments or suggestions regarding the event please use the comments box below to let us know.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -21,4 +21,4 @@ The league tables of England's primary schools are out today and Richmond Boroug
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

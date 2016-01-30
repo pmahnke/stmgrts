@@ -57,4 +57,4 @@ _Come meet Nick and taste some Real Ale at the "St Margarets Autumn Event":cgi-b
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

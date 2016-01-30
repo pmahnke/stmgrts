@@ -22,4 +22,4 @@ Please come and find out more about how we can help your child.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

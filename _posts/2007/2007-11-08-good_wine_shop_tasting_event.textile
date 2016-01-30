@@ -28,4 +28,4 @@ Tickets can be purchased from The Good Wine Shop(020 8892 7756) in advance at a 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

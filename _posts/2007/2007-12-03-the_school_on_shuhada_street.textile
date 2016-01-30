@@ -76,4 +76,4 @@ e-mail are personal and do not necessarily reflect those of my employer
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

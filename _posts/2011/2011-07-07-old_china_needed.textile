@@ -25,4 +25,4 @@ Please either deliver to 133 Haliburton Road TW1 1PE (leave on doorstep or in fr
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

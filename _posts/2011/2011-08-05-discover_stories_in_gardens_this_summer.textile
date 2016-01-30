@@ -44,4 +44,4 @@ For images of last year's Stories in Gardens event please see "www.funsensetheat
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

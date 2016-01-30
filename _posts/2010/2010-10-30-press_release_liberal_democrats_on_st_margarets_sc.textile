@@ -27,4 +27,4 @@ bq.. "These delays could result in parents not being able to get their children 
 "This is irresponsible in the extreme. The record of all Governments in funding School places in Richmond has been poor - they have always underfunded. The extra places are going to have to be provided, so they may as well be done now, instead of inflicting worry and long traveling times onto parents and young children."
 
 
-{% include comments.html commentfile=page.commentfile%}
+

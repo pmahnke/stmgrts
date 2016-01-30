@@ -41,4 +41,4 @@ _Sammie Mason is a qualified British Wheel of Yoga Teacher and offers Beginners 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

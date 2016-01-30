@@ -85,4 +85,4 @@ Parties are adapted to suit age groups from babies to 12 years.
 
 * "More information about Children's Art Parties":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/art_parties.htm
 
-{% include comments.html commentfile=page.commentfile%}
+

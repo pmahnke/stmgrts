@@ -17,4 +17,4 @@ We hope you enjoy the films.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

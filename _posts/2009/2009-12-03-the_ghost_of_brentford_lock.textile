@@ -93,4 +93,4 @@ A few months later the serial killer/s struck again. On October 26, 1935 the cho
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

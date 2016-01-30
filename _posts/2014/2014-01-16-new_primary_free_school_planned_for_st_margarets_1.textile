@@ -24,4 +24,4 @@ Your support is much appreciated.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

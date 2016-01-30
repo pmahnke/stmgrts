@@ -34,4 +34,4 @@ Booking is essential to book or find out more:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

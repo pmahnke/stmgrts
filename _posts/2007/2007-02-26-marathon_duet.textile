@@ -27,4 +27,4 @@ So if you can, please go to the concert at 7.30pm, Sunday 18th March (suggested 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

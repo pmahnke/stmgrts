@@ -17,4 +17,4 @@ We play at the bottom corner close to the swings and below the Coach House cafe.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

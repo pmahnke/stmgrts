@@ -45,4 +45,4 @@ More details of the Turing House School proposal can be found on the group's web
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

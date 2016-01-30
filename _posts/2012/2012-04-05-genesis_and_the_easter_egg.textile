@@ -98,4 +98,4 @@ We have finally been freed to get back home.
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

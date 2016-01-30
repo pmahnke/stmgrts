@@ -34,4 +34,4 @@ We would also like to include some local stories, recommendations, pictures and 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

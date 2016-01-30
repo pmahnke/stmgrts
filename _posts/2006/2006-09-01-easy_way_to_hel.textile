@@ -30,4 +30,4 @@ Please add a link to your favourites and use it whenever you need to buy online.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

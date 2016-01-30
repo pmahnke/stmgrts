@@ -31,4 +31,4 @@ h4. Upcoming Shows
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

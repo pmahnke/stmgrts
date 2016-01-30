@@ -91,4 +91,4 @@ In August, Charles, Kate, the Snodgering Blee and Popem Jee all returned home to
 _Credits: The 1837 drawing of Charles Dickens is by Samuel Lawrence. The drawing of Sam Weller is by 'Kyd' (Joseph Clayton Clarke). The photograph of Ailsa Park Villas is from the Borough of Richmond upon Thames Local Studies Collection_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

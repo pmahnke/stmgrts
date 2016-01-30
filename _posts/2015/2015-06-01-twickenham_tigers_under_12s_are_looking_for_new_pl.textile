@@ -26,4 +26,4 @@ If you would like to know more, you've very welcome to call Bob Howard for an in
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

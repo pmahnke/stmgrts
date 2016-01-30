@@ -19,4 +19,4 @@ For stall information please contact Jamie Parker  at "jamietparker@hotmail.com"
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

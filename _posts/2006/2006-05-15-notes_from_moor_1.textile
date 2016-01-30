@@ -32,4 +32,4 @@ _Notes provided by Madeleine Menzies_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

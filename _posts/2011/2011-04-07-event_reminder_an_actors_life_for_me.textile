@@ -30,4 +30,4 @@ h4. Details
 * email "lesley.alabaf@downs-syndrome.org.uk":mailto:lesley.alabaf@downs-syndrome.org.uk.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

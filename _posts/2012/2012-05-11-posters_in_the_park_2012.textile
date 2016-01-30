@@ -32,4 +32,4 @@ For details and to enter, see: "www.frp.org.uk/friends/competitions":http://www.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

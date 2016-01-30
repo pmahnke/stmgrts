@@ -398,4 +398,4 @@ There is also a Christmas market serving mulled wine, roased chestnuts and hot c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

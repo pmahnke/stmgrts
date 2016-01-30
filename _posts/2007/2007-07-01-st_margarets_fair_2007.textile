@@ -33,4 +33,4 @@ The Fair Committee have always strived to ensure that it remains primarily a Com
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

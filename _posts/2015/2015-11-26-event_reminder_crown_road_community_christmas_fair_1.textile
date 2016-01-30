@@ -28,4 +28,4 @@ Santa Claus will be in his grotto with real-live reindeer... and there is even a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

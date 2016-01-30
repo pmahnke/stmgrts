@@ -23,4 +23,4 @@ For more information email "teddingtonswans@hotmail.com":mailto:teddingtonswans@
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

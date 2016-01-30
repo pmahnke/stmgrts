@@ -60,4 +60,4 @@ bq. "On this day the most part of this City are sworn to the king and his legiti
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

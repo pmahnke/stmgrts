@@ -23,4 +23,4 @@ _The event supports St Margarets Catholic Church's Building Fund._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

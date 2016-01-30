@@ -43,4 +43,4 @@ People should not paddle in the water and wash thoroughly after contact. We advi
 -- from Ed Randall
 
 
-{% include comments.html commentfile=page.commentfile%}
+

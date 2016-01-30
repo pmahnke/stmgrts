@@ -20,4 +20,4 @@ According to the _English Heritage_ the current owners had been losing money for
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

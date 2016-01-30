@@ -31,4 +31,4 @@ Ireland
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -18,4 +18,4 @@ For Emma Finney and Jon Tompkins the past year has been filled with awards, incr
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

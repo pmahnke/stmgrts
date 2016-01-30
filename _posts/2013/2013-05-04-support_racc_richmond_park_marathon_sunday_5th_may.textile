@@ -35,4 +35,4 @@ Please join us for a glass of cava at the finish line near Sheen Gate at approxi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -19,4 +19,4 @@ If you know of other schools or institutions, please comment below.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

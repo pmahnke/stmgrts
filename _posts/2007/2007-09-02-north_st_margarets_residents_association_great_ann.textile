@@ -21,4 +21,4 @@ Further information "martyn@days.demon.co.uk":mailto:martyn@days.demon.co.uk, 02
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

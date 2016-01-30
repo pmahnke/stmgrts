@@ -22,4 +22,4 @@ For more information or to register your interest for a 1-2-1 slot in the worksh
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

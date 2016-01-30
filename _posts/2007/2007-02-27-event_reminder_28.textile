@@ -20,4 +20,4 @@ We will be raising funds for the 'Joining Up' project in Bulgaria linking young 
 In Bulgaria 10,000 children are brought up in 'State Institutions' or 'orphanages', few of these children are 'orphans' and few are adopted, many of the children are from the Roma community, a large and very disadvantaged minority ethnic group; many remain in the institutions throughout their childhoods. Efforts are being made to prevent children entering the institutions, but those children who continue to live in these residential units, particularly those with special needs, are often isolated and have limited opportunities for mixing with their peers.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

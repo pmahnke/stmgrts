@@ -32,4 +32,4 @@ We are taking bookings for Christmas, please contact us through our new website.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

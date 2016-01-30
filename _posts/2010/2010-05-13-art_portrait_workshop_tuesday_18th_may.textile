@@ -22,4 +22,4 @@ Our website: "www.Stay-4-Awhile.co.uk":http://www.Stay-4-Awhile.co.uk
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

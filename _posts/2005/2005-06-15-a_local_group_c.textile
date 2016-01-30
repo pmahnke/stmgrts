@@ -67,4 +67,4 @@ p. To SMS the blog, all people have to do is text STM and a message to 079004353
 p. Remember, Tesco is fighting a game of attrition.  If they keep flouting the rules, they will get their own way.  Maybe the campaigners will give up.  They already have the Council doing their bidding, and will no doubt keep playing the "We're a popular local resource - We have to inconvenience some residents" card.  Bear in mind they installed the ATM (illegally), and used that argument to get retrospective planning permission ( _Note: the Post Office had been told previously an ATM would be out of character with the village, and that any application would be refused_ ).
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -23,4 +23,4 @@ The major improvements in King Street for both pedestrians and cyclists will pro
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

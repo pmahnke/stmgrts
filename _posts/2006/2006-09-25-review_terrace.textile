@@ -22,4 +22,4 @@ Further regular Art Picnics are planned, and we'll keep you posted here and on t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

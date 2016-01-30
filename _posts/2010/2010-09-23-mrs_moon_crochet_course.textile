@@ -20,4 +20,4 @@ bq. "Before I start, I must confess to being a complete crochet novice, having n
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

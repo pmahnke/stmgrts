@@ -17,4 +17,4 @@ Their telephone number is:  020 8755 4665, or you can email them at "furniture.s
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

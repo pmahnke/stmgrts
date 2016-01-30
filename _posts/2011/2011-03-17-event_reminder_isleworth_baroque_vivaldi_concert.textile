@@ -27,4 +27,4 @@ Tickets at &pound;10 are on sale online, visit  "www.isleworthbaroque.co.uk,":ht
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

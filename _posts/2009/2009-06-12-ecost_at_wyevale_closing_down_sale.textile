@@ -28,4 +28,4 @@ Great discounts include:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

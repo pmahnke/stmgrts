@@ -17,4 +17,4 @@ Local ward councillor Phillip Morgan spoke on behalf of the residents concerns a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

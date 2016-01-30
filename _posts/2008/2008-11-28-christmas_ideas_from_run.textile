@@ -20,4 +20,4 @@ Call Georgie Islip for more information on 07736 070612 or email "georgie@run.uk
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

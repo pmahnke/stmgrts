@@ -23,4 +23,4 @@ commercial kitchen, so food is limited. Popular music venue.'
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

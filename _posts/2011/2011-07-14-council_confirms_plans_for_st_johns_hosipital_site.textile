@@ -21,4 +21,4 @@ p. -- from the "Richmond Informer - 11 July 2011":http://www.richmondinformer.co
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

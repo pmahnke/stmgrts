@@ -20,4 +20,4 @@ Come and see what surprises we have in store.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -41,4 +41,4 @@ h4. To book
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

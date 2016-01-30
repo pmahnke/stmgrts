@@ -16,4 +16,4 @@ The decision has been met with uniform anger from local business to our local MP
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

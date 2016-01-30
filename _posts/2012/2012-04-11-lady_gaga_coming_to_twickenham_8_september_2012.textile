@@ -23,4 +23,4 @@ The 55,000-capacity show on September 8 will be her first in London since 2010, 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

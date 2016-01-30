@@ -37,4 +37,4 @@ Anyone with information relating to the incidents described should call Richmond
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

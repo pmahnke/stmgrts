@@ -26,4 +26,4 @@ If anyone would like further details or to offer their help, please contact Clai
 </div>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

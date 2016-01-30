@@ -21,4 +21,4 @@ p. <em>from Jonathan Blair, local resident</em>
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

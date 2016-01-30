@@ -25,4 +25,4 @@ Mr Wise said: 'The bay in question is over 15m long. It therefore can't be class
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

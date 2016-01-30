@@ -17,4 +17,4 @@ Residents, including children, are invited to a drinks evening at 6 pm on Sunday
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

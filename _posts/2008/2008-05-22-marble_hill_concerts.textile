@@ -19,4 +19,4 @@ To book tickets go to the "MA Concerts website":http://www.maconcerts.co.uk/marb
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

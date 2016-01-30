@@ -19,4 +19,4 @@ p. Most of the events are listed on "this site":http://www.stmgrts.org.uk/direct
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

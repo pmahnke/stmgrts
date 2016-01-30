@@ -28,4 +28,4 @@ h4. More Information
 * 020 8831 6000
 
 
-{% include comments.html commentfile=page.commentfile%}
+

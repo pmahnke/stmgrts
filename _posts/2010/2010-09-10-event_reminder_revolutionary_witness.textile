@@ -26,4 +26,4 @@ p. -- from Barry Evans
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

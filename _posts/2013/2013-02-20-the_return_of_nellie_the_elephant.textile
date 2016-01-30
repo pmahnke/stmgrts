@@ -97,4 +97,4 @@ CPR IS EASILY TO LEARN AND REALLY DOES SAVE LIVES. WHY DON'T YOU LEARN HOW TO DO
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

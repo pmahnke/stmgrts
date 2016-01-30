@@ -41,4 +41,4 @@ _Places are limited, so don't delay!_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

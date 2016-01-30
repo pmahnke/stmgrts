@@ -31,4 +31,4 @@ _There is plenty of FREE Parking in the surrounding residential roads, so you ca
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

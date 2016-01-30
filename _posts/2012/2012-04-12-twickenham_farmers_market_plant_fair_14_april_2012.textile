@@ -24,4 +24,4 @@ Enjoy the market and plant fair on Saturday,
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

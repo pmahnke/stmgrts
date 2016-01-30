@@ -40,4 +40,4 @@ h4. THE BREWERS & UNION BEERS TO TRY:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

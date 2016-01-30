@@ -42,4 +42,4 @@ Tickets are £5 and to get one contact Sherralyn on 87442301 or Yolande on 88915
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

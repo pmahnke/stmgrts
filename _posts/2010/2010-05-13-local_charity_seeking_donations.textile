@@ -25,4 +25,4 @@ We would be most grateful!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

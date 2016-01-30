@@ -25,4 +25,4 @@ The 2011 St Margarets Christmas Fair takes place on Sunday 4<sup>th</sup> Decemb
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

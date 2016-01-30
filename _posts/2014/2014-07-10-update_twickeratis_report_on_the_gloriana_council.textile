@@ -20,4 +20,4 @@ p. <cite>-- read more on the "Twickerati website":https://twickerati.wordpress.c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

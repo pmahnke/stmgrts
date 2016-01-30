@@ -43,4 +43,4 @@ Approximately 60 people went to the meeting about the community development plan
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

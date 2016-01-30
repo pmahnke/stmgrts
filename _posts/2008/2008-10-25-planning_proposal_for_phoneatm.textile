@@ -15,4 +15,4 @@ To learn more about or comment on the proposal, "look here":http://idoxwam.richm
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

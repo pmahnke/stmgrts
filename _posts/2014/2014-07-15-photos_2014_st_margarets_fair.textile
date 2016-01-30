@@ -23,4 +23,4 @@ With the best weather in years, thousands flocked to Moormead Park to enjoy the 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

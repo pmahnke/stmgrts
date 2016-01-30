@@ -17,4 +17,4 @@ For more details call Helen on 07710 245 904. Visit "www.thehelenastridsingingac
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

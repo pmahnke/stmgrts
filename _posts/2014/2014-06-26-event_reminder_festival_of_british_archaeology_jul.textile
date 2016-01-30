@@ -43,4 +43,4 @@ _£3 donation welcomed, booking required._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

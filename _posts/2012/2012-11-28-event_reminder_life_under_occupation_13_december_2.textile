@@ -23,4 +23,4 @@ _The organisers reserve the right to refuse admission_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -35,4 +35,4 @@ The action packed programme encompasses the whole of the Borough with events for
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

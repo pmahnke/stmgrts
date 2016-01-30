@@ -19,4 +19,4 @@ In 2016/17, the money we get from the Government to support our services will be
 
 _The consultation runs until the 8 January 2016._
 
-{% include comments.html commentfile=page.commentfile%}
+

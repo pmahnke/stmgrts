@@ -20,4 +20,4 @@ Some of the charity beneficiary representatives with St Margarets Fair committee
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -52,4 +52,4 @@ _All proceeds will support the Environment Trust for Richmond upon Thames._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

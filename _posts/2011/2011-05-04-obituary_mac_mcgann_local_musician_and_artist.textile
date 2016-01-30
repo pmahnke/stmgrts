@@ -19,4 +19,4 @@ p. -- from the "Independent, Friday, 8 April 2011":http://www.independent.co.uk/
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

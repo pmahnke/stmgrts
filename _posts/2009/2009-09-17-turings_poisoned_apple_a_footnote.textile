@@ -33,4 +33,4 @@ This belated apology will be welcomed by all those gay men and women who have su
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -26,4 +26,4 @@ If you want to find out more, please call them on 020 8891 3400 or visit their w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

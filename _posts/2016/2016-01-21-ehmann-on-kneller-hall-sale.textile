@@ -25,4 +25,4 @@ To this end, local Councillors have launched a petition against Kneller Hall's c
 
 * "Sign the petition":http://trlibdems.org.uk/save_kneller_hall
 
-{% include comments.html commentfile=page.commentfile%}
+

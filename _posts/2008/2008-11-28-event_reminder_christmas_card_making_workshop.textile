@@ -23,4 +23,4 @@ Tickets cost &pound;15 for individuals and &pound;30 for families (two or more p
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

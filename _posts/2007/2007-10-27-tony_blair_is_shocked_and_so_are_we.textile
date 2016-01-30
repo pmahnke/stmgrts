@@ -56,4 +56,4 @@ Many of the activists here are wary of using this kind of emotive language but i
 As for us, I felt the most shocking thing about the fact that Tony Blair was shocked, and we were shocked, by the real facts on the ground, was just that - that we were shocked. This has been going on for 40 years. We should have known.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

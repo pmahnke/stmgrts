@@ -27,4 +27,4 @@ If you would like to take advantage of this Mother's Day offer call Sherralyn on
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

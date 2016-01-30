@@ -34,4 +34,4 @@ p. Why not have your say?
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

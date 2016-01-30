@@ -20,4 +20,4 @@ bq. "Residents young and old have been putting in some hard graft to make sure S
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

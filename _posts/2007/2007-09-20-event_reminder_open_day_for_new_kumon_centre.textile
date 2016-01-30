@@ -22,4 +22,4 @@ For more info parents can go to "www.kumon.co.uk":http://www.kumon.co.uk/
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

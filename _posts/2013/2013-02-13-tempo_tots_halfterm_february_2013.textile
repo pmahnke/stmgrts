@@ -86,4 +86,4 @@ h4. For further information and booking enquiries please contact Charlotte:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

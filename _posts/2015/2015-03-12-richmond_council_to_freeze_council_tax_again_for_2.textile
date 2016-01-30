@@ -26,4 +26,4 @@ Whilst so many homes across the country have been squeezed by the recession, Ric
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

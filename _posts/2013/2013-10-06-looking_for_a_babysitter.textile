@@ -18,4 +18,4 @@ Thank you. Charlotte.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

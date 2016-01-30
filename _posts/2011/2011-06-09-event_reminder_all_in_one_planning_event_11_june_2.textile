@@ -27,4 +27,4 @@ If you go, please talk to the Council about the St Margarets Traders Association
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -19,4 +19,4 @@ _If you have another event at the Church Hall, you might want to check that it i
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

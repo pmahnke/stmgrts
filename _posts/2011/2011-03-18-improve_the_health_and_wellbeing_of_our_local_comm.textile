@@ -23,4 +23,4 @@ For more information please contact our PR & Marketing Department via email, "in
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

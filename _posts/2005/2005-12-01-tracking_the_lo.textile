@@ -26,4 +26,4 @@ NOTE: <em>if you have forgotten, the "Loading Bay's Rules are posted here":http:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

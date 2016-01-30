@@ -19,4 +19,4 @@ Summer Offer for July & August is &pound;9 per class or 4 classes for &pound;32.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

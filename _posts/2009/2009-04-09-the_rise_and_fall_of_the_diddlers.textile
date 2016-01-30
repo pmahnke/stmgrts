@@ -47,4 +47,4 @@ The last trolleybus to see service in London pulled out of Fulwell Depot on 8th 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

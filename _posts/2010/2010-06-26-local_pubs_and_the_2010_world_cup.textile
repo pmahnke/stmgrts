@@ -22,4 +22,4 @@ Please take a look at the "slideshow on flickr.com":http://www.flickr.com/photos
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

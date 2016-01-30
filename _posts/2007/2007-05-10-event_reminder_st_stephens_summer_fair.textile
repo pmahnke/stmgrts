@@ -38,4 +38,4 @@ If you would like to rent a stall at our fair, please call Sherralyn on 8744 230
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

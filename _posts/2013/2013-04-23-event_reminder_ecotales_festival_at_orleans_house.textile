@@ -30,4 +30,4 @@ Visit "www.ecotales.co.uk":http://www.ecotales.co.uk for further information and
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

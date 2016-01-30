@@ -27,4 +27,4 @@ Admission is free and all are welcome.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

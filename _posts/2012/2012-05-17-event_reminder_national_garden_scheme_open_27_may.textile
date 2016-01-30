@@ -23,4 +23,4 @@ Our garden at 7 St.George's Road, St Margarets is open for the National Garden S
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -80,4 +80,4 @@ If you wish to offer your help in responding to the current situation in a pract
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

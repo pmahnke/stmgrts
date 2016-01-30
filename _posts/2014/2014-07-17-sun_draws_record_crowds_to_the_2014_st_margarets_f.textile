@@ -38,4 +38,4 @@ As ever, proceeds from the Fair support local causes which this year include Ric
 <cite>-- from a Press Release - 16 July 2014</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

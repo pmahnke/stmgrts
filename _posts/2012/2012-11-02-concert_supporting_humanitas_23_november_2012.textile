@@ -52,4 +52,4 @@ _All the profit goes to the Humanitas charity_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

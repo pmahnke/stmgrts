@@ -17,4 +17,4 @@ p>. -- _John Brown, Planning Officer, Environment Directorate, Richmond_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

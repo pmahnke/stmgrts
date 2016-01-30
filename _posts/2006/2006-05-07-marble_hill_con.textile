@@ -67,4 +67,4 @@ h4. For further information please contact:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

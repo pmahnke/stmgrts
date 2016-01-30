@@ -25,4 +25,4 @@ Any more reports, please email "content@stmgrts.org.uk":mailto:content@stmgrts.o
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

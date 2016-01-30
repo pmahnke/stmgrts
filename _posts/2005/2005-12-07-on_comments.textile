@@ -26,4 +26,4 @@ Therefore, I recommend the following etiquette:
 Thank you.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

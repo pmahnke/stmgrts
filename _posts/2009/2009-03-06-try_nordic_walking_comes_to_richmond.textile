@@ -29,4 +29,4 @@ To book a taster session ( *ask for a special St Margaret's residence 15% off a 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

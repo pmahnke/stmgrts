@@ -13,4 +13,4 @@ To keep up with information after the bombings, we now recommend looking at "Lon
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

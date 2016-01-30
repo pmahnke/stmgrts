@@ -22,4 +22,4 @@ If you are interested in attending, you need to sign-up quickly.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

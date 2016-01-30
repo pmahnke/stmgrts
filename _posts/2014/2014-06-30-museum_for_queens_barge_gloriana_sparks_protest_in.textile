@@ -22,4 +22,4 @@ The idea is the brainchild of Lord True, the Conservative leader of Richmond cou
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

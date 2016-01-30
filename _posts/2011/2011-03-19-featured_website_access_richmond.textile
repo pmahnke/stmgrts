@@ -25,4 +25,4 @@ Just visit "www.accessrichmond.info":http://www.accessrichmond.info
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

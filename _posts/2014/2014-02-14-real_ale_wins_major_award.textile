@@ -27,4 +27,4 @@ Off Licence News - the voice of drinks retailing - has been serving the off-trad
 <cite>-- from a Press release - 5<sup>th</sup> February 2014</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

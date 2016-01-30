@@ -40,4 +40,4 @@ For further information, links, or if you're not sure what to write go to:
 <cite>-- from Maria Walker</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

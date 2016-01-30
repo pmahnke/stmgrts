@@ -15,4 +15,4 @@ This Sunday, 23 March 2008 from 12 - 3pm come and enjoy "Sunday Lunch at the Tur
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

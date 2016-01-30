@@ -34,4 +34,4 @@ Also featured are the 'army' of terracotta cats, created by gallery staff, volun
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

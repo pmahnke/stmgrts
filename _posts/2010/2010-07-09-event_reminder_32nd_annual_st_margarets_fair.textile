@@ -27,4 +27,4 @@ All profits from these stalls go direct to our charities - please support these 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

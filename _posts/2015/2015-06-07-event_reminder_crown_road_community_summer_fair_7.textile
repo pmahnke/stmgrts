@@ -24,4 +24,4 @@ Thank you to our sponsors for their generous support: Chase Buchanan, Fitz-Gibbo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

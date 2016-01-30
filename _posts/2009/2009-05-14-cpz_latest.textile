@@ -21,4 +21,4 @@ Geoff Acton, Ben Khosa and Philip Morgan promised residents a CPZ consultation w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

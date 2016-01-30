@@ -22,4 +22,4 @@ Please please do not encourage these companies by leaving bags out for them.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

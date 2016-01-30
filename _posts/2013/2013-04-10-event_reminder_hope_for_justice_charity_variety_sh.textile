@@ -20,4 +20,4 @@ Enquiries at "actforjusticerichmond@gmail.com":mailto:actforjusticerichmond@gmai
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

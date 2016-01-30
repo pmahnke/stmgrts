@@ -34,4 +34,4 @@ No matter how you look at it there are still several open issues:
 _Thank you to Simon Lamb for providing the Council's note and offering up many of these points for consideration._
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -52,4 +52,4 @@ h3. A montage of classic Hollywood monsters
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -18,4 +18,4 @@ Contact: "susannahbrady@gmail.com":mailto:susannahbrady@gmail.com
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

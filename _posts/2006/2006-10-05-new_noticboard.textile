@@ -20,4 +20,4 @@ Councillor Philip Morgan is in charge of content and will keep a set of keys, an
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

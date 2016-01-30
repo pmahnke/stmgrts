@@ -23,4 +23,4 @@ Delivery of the magazine commences this weekend. Look out for your copy.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

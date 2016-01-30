@@ -28,4 +28,4 @@ Doors open at 10.30am and close at 4pm, with admission &pound;4 (under 16s free)
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

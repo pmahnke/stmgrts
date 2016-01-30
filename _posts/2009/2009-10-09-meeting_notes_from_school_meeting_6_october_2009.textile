@@ -16,4 +16,4 @@ The architects are presenting a third revision of the plans on Monday to the sch
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

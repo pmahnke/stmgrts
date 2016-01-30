@@ -20,4 +20,4 @@ If you think that you can put the "Bomp" into the "Bomp, dee bomp dee bomp" or t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

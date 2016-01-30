@@ -31,4 +31,4 @@ The Stables Gallery will remain open until 8:30, and we are currently showcasing
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

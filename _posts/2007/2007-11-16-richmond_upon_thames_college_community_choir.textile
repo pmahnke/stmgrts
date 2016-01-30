@@ -37,4 +37,4 @@ For further details, contact Caroline Heslop/Rachel Smith 020 8607 8221 or email
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

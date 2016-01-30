@@ -27,4 +27,4 @@ _Light refreshments, raffle of artists' works, free entry and free parking_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

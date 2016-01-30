@@ -39,4 +39,4 @@ _Runs until 22 March 2015._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -17,4 +17,4 @@ To help, we have set up a "forum":http://stmgrts.org.uk/cgi-bin/yabb/YaBB.pl?boa
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

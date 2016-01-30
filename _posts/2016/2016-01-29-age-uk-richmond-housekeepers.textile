@@ -21,4 +21,4 @@ h4. More Information
 * All housekeepers are reference checked have a DBS clearance.
 * Call us on 020 8878 3569 for more information or email "housekeepingservice@ageukrichmond.org.uk":mailto:housekeepingservice@ageukrichmond.org.uk
 
-{% include comments.html commentfile=page.commentfile%}
+

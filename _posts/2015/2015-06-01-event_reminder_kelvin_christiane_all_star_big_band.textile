@@ -24,4 +24,4 @@ Rousing,exploratory, adventurous and at times touching the band plays music from
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

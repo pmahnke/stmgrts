@@ -22,4 +22,4 @@ Interviews will be held shortly after this date.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -26,4 +26,4 @@ We'll also be introducing The Literary Salon, supported by Arts Council England;
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

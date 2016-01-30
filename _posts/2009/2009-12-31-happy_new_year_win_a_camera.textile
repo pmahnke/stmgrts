@@ -18,4 +18,4 @@ We've teamed up with local estate agents Chase Buchanan to offer a state of the 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

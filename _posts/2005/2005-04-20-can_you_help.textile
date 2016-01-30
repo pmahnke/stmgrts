@@ -27,4 +27,4 @@ In order to be able to continue to put on these events, the Traders Association 
 These events are always well attended, enhance community spirit, and help to support local organizations. If you are able to help out in any way please contact Simon Chapman in Cutters located in Crown Road.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

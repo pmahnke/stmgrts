@@ -31,4 +31,4 @@ The school governing body was seen as very supportive.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

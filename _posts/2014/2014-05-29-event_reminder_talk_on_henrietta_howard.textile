@@ -18,4 +18,4 @@ Guests are welcome &pound;3.00 pay at the door.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

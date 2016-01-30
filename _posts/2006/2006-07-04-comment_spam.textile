@@ -17,4 +17,4 @@ Sorry for any inconvenience.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

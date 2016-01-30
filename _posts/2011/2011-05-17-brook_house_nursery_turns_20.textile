@@ -16,4 +16,4 @@ Any past pupils wishing to come, please call 020 8892 4853 to arrange an informa
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

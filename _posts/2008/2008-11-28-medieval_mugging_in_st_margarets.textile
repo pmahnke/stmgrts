@@ -57,4 +57,4 @@ To reserve your seat please ring Old Father Time on 020 8892 5211.</strong>
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

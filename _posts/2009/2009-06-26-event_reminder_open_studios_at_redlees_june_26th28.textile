@@ -21,4 +21,4 @@ _Free admission and free parking_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

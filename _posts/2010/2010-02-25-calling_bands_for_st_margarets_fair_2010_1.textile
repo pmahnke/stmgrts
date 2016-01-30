@@ -19,4 +19,4 @@ _All genres of music are welcome._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

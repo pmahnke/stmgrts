@@ -43,4 +43,4 @@ Together, we aim to tackle the problems that winter brings and make it easier fo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

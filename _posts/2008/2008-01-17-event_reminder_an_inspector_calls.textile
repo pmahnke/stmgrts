@@ -26,4 +26,4 @@ Shows are at 7.45pm on Jan 19th, 21st, 22nd and 24th -26th, matinees 4pm Sun 20t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

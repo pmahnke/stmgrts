@@ -47,4 +47,4 @@ _Venez, make La Boulangerie part of your journee_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

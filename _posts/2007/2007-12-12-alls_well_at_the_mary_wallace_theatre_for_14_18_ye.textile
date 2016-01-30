@@ -27,4 +27,4 @@ Twickenham
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

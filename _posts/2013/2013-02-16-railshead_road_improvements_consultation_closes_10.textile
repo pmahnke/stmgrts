@@ -17,4 +17,4 @@ Local residents can "complete the survey online.":http://www.richmond.gov.uk/hom
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

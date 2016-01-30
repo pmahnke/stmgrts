@@ -13,4 +13,4 @@ Richmond College Community Choir is up and running again after its successful de
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

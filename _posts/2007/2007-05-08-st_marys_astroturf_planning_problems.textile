@@ -50,4 +50,4 @@ Headteacher
 * "image of original letter from Stuart Campbell":http://www.stmgrts.org.uk/assets/images/2007/stmarys-astroturf.jpg
 
 
-{% include comments.html commentfile=page.commentfile%}
+

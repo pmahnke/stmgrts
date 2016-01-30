@@ -18,4 +18,4 @@ The site has been doing fairly well considering, we have been growing month over
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

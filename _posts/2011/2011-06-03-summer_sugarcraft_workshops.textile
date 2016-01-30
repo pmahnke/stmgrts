@@ -29,4 +29,4 @@ Both workshops will culminate in a party for Parents / Carers to come along for 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -17,4 +17,4 @@ Thank you. Ring/text on 07761 032927 or 8892 7797.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

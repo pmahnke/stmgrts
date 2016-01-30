@@ -23,4 +23,4 @@ The site has been doing fairly well considering we don't directly market the sit
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

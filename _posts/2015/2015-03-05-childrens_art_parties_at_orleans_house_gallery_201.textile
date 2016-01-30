@@ -34,4 +34,4 @@ h4. More Information
 * "6 - 12 years":http://www.richmond.gov.uk/home/services/arts/orleans_house_gallery/art_parties/parties_for_6_to_12_year_olds.htm
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -30,4 +30,4 @@ h4. Details
 * Information on "Council defers new parking charges until June":http://www.richmond.gov.uk/council_defers_new_parking_charges?utm_source=twitterfeed&utm_medium=twitter
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -28,4 +28,4 @@ He is gaining quite a following.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -62,4 +62,4 @@ Hmmm. Let us hope that the parish of St Margarets-on-Thames doesn't turn into St
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

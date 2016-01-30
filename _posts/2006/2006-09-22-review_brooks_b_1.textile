@@ -21,4 +21,4 @@ For &pound;7 its a good value and a fun night out -- highly recommended.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -15,4 +15,4 @@ _editorial note:_ I would like to say to the 'gentleman' who decided to knock my
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

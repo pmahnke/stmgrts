@@ -17,4 +17,4 @@ p. <cite>"Richmond & Twickenham Times - Saturday 16th January 2010":http://www.r
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

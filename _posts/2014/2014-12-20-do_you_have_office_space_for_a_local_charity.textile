@@ -26,4 +26,4 @@ If you can help please contact Mandie or Liz
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

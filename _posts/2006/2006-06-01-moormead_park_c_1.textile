@@ -28,4 +28,4 @@ _Everyone is welcome._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

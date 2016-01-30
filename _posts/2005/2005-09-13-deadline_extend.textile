@@ -17,4 +17,4 @@ You can read details of the hours and how to comment in our "previous article":/
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

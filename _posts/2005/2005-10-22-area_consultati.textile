@@ -21,4 +21,4 @@ The _St Margarets Community Website_ *strongly* urges residents to come out and 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -42,4 +42,4 @@ h4. So, who's in?
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

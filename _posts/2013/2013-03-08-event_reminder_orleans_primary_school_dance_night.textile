@@ -23,4 +23,4 @@ Tickets queries can be directed to the school office on 8892 1654.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

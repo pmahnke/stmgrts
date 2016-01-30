@@ -21,4 +21,4 @@ To find out more and to book your place, call the Environment Trust on
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

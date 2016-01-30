@@ -25,4 +25,4 @@ The Lion, The Witch and The Wardrobe runs 30 November 2014 to 4 January 2015.  V
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

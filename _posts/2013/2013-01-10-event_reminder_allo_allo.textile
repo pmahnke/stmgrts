@@ -41,4 +41,4 @@ h4. More Information
 _Written by Jeremy Lloyd and David Croft, directed by Angela Gibbins_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

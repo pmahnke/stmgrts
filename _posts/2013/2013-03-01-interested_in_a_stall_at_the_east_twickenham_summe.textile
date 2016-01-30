@@ -21,4 +21,4 @@ If you are interested in taking a stall at the Fair - and there's been an amazin
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

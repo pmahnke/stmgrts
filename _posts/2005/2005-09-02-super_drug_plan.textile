@@ -20,4 +20,4 @@ In fact renovations have started already and the store should be open in just a 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

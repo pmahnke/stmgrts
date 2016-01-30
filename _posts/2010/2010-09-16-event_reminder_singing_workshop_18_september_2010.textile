@@ -31,4 +31,4 @@ We look forward to seeing you on 18<sup>th</sup> September!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

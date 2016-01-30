@@ -25,4 +25,4 @@ If you would like to comment on the application, you can do so "here":http://www
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

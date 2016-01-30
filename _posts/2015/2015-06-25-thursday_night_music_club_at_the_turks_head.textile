@@ -26,4 +26,4 @@ The next event is on 9 July 2015.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

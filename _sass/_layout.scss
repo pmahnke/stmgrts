@@ -725,6 +725,9 @@ p {
 }
 
 /* Comment Colour */
+#comments, #comments > .container {
+  background-color: #eee;
+}
 
 .comment {
   background: #E7E7E5;

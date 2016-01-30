@@ -31,4 +31,4 @@ Can I encourage concerned local residents (one of whom came up and joined the co
 * "previous article":http://www.stmgrts.org.uk/archives/2007/06/crossing_of_st_margarets_road_and_a316.html
 
 
-{% include comments.html commentfile=page.commentfile%}
+

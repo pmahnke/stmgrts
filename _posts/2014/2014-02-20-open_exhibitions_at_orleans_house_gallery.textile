@@ -20,4 +20,4 @@ To download the submission forms,visit: "www.richmond.gov.uk/how_to_exhibit":htt
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -40,4 +40,4 @@ h4. "More Information":http://www.stmgrts.org.uk/event/fair/200705143873
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -24,4 +24,4 @@ For more information about the day call Bev Waller on 07871 193944
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

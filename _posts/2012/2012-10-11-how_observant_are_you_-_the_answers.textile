@@ -37,4 +37,4 @@ Answers to the "a quiz":http://www.stmgrts.org.uk/archives/2012/10/how_observant
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

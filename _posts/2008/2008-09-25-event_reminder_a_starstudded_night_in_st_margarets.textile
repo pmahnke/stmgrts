@@ -18,4 +18,4 @@ You just make a contribution at the door and all the money raised goes direct to
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

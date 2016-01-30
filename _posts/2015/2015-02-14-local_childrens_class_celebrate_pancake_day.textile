@@ -32,4 +32,4 @@ A free trial class can be booked by visiting "www.catch-a-balls.co.uk":http://ww
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -30,4 +30,4 @@ To book or for more information contact:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

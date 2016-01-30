@@ -17,4 +17,4 @@ Jocelyn Sheppy was the winner of last month's _St Margarets Community Website Ne
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

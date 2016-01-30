@@ -18,4 +18,4 @@ If you would like to come and see them and stay for  refreshments afterwards ple
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

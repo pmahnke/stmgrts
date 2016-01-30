@@ -29,4 +29,4 @@ People who would like to take part in Jeevika Trust's 'Walk for Water' can get m
 * calling 020 8973 3773 (Tuesday/Thursday or leave a message)
 
 
-{% include comments.html commentfile=page.commentfile%}
+

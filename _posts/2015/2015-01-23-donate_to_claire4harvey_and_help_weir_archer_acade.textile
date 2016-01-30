@@ -30,4 +30,4 @@ p. Each racing wheelchair costs thousands of pounds but the joy that they bring 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

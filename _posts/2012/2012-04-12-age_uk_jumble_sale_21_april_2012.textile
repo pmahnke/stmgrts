@@ -24,4 +24,4 @@ Tea coffee cakes ~ Clothes ~ Bric a Brac
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

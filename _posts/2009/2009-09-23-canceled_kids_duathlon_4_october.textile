@@ -15,4 +15,4 @@ If you have sent in forms please call 020 8744 0700 and these will be returned.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

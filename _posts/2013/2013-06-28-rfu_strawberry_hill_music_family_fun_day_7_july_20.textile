@@ -37,4 +37,4 @@ h4. Live stage order of appearance:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

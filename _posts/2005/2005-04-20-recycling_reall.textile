@@ -23,4 +23,4 @@ Do you think this is a good idea? "Vote on our poll.":http://stmgrts.org.uk/cgi-
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

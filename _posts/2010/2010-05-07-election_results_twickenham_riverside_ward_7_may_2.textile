@@ -43,4 +43,4 @@ h3. Full results
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

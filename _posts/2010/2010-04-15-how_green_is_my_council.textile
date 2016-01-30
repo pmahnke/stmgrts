@@ -25,4 +25,4 @@ I suppose if we're that desperate to shop at Waitrose in Twickenham many of us m
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

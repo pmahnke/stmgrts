@@ -21,4 +21,4 @@ For tickets to the event, priced at &pound;10 visit www.thebullshead.com or call
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

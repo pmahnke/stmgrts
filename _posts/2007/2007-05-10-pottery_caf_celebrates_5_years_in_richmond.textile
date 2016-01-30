@@ -19,4 +19,4 @@ In 2006 the Pottery Caf&eacute; opened 'The Little Toy Shop' in both its Richmon
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

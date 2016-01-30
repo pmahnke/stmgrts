@@ -19,4 +19,4 @@ Sign up "here":http://stmgrts.org.uk/cgi-bin/newsletter.cgi.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

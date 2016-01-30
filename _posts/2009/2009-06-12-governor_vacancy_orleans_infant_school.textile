@@ -15,4 +15,4 @@ A school governor does not need to have any background in education or to have c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

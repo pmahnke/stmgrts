@@ -28,4 +28,4 @@ Get in touch with Alistair 07956-22-22-24 to find out more.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

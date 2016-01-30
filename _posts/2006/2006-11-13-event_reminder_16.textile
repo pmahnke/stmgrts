@@ -27,4 +27,4 @@ Special pre-Christmas offers will be available at the event. Tickets can be purc
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

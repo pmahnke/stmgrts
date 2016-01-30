@@ -22,4 +22,4 @@ Want something more challenging? Try... Intermediate Tuesday from 2.00 to 3.00pm
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

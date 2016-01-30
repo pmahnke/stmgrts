@@ -34,4 +34,4 @@ _Please note that places are limited and are granted on a first come first serve
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -22,4 +22,4 @@ _Council wins £1.73 million reward_, *Richmond and Twickenham Times*, Retrieved
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

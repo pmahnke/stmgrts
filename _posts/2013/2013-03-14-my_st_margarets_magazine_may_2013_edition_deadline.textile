@@ -17,4 +17,4 @@ The "St Margarets Traders Association":http://www.mystmargarets.com/ are current
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

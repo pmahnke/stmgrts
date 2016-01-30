@@ -25,4 +25,4 @@ To reserve tables call Gillian Thorpe on 020 8940 0141 or email "gillian.thorpe@
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

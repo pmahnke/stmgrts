@@ -33,4 +33,4 @@ Please go to "www.concert-diary.com":http://www.concert-diary.com for further de
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

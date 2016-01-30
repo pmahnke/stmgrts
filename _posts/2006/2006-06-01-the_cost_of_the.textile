@@ -13,4 +13,4 @@ A recent article in the _Evening Standard_ (30 May 2006) stated what residents k
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

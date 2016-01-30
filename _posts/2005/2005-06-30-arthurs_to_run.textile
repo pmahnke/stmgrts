@@ -20,4 +20,4 @@ They plan to open sometime in July.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

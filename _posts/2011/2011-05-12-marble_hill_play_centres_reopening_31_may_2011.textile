@@ -15,4 +15,4 @@ Adventure Playground will be re-opening on Tuesday 31st May at 12 noon.   It is 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

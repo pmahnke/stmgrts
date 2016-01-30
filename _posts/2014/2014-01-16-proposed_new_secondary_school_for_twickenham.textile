@@ -28,4 +28,4 @@ The proposal is at a very early stage, and we are inviting people to find out mo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

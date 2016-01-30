@@ -28,4 +28,4 @@ Don't forget to "sign-up":http://stmgrts.org.uk/cgi-bin/newsletter.cgi for our _
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

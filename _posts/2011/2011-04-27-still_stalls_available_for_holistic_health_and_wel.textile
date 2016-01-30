@@ -35,4 +35,4 @@ For more information on the day,  contact us on:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

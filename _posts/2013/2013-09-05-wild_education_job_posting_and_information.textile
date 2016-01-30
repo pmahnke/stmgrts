@@ -48,4 +48,4 @@ If you want to get in touch about any of our activities or want to work with us 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

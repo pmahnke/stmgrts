@@ -22,4 +22,4 @@ Some of the concerns raised by local residents already have been:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -27,4 +27,4 @@ More details "here":http://www.stmgrts.org.uk/directory/childrens/200704291443
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -38,4 +38,4 @@ h4. More information
 * "Richmond Councils pages":http://www.richmond.gov.uk/home/leisure_and_culture/arts/literature_festival.htm
 
 
-{% include comments.html commentfile=page.commentfile%}
+

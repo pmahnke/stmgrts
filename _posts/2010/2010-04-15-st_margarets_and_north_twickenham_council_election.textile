@@ -26,4 +26,4 @@ In 2006 the shares of the total vote were: Liberal Democrat 53%; Conservative 34
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -28,4 +28,4 @@ _This summer I'll have a stall at Kew Fete on 21<sup>st</sup> June 2015, be open
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

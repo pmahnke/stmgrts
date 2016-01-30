@@ -20,4 +20,4 @@ For further information please phone the church office on 0208 891 6820 or email
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

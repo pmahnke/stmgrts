@@ -59,4 +59,4 @@ Our members and other local people have been asking how they can help and - as w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

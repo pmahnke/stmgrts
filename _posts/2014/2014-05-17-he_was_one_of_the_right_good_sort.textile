@@ -49,4 +49,4 @@ In our own way we will remember them.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

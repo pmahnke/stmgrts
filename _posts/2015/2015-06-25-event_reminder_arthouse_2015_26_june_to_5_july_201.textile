@@ -28,4 +28,4 @@ ARThouse 2015 will be the borough's 20<sup>th</sup> open studios festival, coord
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

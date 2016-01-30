@@ -30,4 +30,4 @@ You can keep up with all the new wines, special offers and wine-tasting events o
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

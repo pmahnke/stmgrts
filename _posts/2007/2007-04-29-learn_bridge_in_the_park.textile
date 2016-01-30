@@ -28,4 +28,4 @@ If you would like to join or know more about the course, ring Ned Paul on 020-88
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

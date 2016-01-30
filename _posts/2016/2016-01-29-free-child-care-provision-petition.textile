@@ -17,4 +17,4 @@ Please help support my petition which calls on the Council to properly fund nurs
 
 * "Sign the petition":http://cabnet.richmond.gov.uk/mgEPetitionDisplay.aspx?ID=500000005&RPID=500221458&HPID=500221458
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -19,4 +19,4 @@ Nigel can be contacted at "nigelcannings@gmail.com":mailto:nigelcannings@gmail.c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

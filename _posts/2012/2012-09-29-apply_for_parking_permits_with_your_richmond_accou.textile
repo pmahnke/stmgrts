@@ -20,4 +20,4 @@ By signing up to a "Richmond Account":https://www2.richmond.gov.uk/Account/Membe
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

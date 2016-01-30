@@ -20,4 +20,4 @@ If so, please e-mail "edd@sundogpictures.co.uk":mailto:edd@sundogpictures.co.uk
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

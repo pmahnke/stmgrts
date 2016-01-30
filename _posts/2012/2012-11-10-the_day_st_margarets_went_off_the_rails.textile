@@ -38,4 +38,4 @@ NOTE: The quality of the photographs is poor because they were copied directly o
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

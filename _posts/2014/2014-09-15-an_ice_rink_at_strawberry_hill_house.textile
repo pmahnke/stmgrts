@@ -22,4 +22,4 @@ We look forward to welcoming you on the ice this winter!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

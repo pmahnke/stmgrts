@@ -20,4 +20,4 @@ So forget about sitting in traffic waiting to get into Kingston's parking lots a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

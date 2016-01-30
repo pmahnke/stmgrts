@@ -17,4 +17,4 @@ A huge thanks to everyone who took part. Stage 1 of reclaiming the pavilion comp
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

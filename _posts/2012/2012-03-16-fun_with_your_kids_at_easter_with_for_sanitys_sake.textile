@@ -26,4 +26,4 @@ For further information please contact Rachel Mclean on tel. 07796 922 321 or em
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

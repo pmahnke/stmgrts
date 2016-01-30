@@ -28,4 +28,4 @@ For more info contact "www.vitalvoices.co.uk":http://www.vitalvoices.co.uk or ph
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

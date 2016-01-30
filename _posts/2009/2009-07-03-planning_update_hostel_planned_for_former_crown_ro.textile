@@ -98,4 +98,4 @@ If anyone else has discussed the hostel development with the Council, I would ve
 * "The Council's documentation on this application":http://idoxwam.richmond.gov.uk/WAM/showCaseFile.do?&appNumber=09/0703/COU
 
 
-{% include comments.html commentfile=page.commentfile%}
+

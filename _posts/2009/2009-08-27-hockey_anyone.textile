@@ -15,4 +15,4 @@ So if anyone fancies a run around, we are really keen to recruit new players for
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

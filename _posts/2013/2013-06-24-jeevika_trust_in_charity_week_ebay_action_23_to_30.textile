@@ -47,4 +47,4 @@ To support Jeevika Trust, go to "www.jeevika.org.uk":http://www.jeevika.org.uk
 -- from a press release - 24 June 2013
 
 
-{% include comments.html commentfile=page.commentfile%}
+

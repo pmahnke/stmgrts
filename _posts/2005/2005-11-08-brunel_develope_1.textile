@@ -28,4 +28,4 @@ The third application is:
 This is the second request for a gate in the historic wall around the site, probably for easier access to parking.  The previous request was rejected by the council.  The gate would provide access to a garden that already has access via another gate.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

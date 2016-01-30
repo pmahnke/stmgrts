@@ -92,4 +92,4 @@ It you would like to find out more about the "Smarter St. Stephen's Campaign" or
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

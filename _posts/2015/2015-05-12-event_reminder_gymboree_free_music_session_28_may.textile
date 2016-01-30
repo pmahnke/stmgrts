@@ -33,4 +33,4 @@ For more details and to book your place please contact
 us on 020 8607 9995 or e-mail us at "stmargarets@gymboree-uk.com":mailto:stmargarets@gymboree-uk.com
 
 
-{% include comments.html commentfile=page.commentfile%}
+

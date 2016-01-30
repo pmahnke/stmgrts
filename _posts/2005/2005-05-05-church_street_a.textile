@@ -19,4 +19,4 @@ For more information, look at their "website":http://www.twickenhamchurchstreet.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

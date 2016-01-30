@@ -37,4 +37,4 @@ Phone 07813 362477
 Email: "cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk
 
 
-{% include comments.html commentfile=page.commentfile%}
+

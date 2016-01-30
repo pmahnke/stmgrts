@@ -29,4 +29,4 @@ To sponsor the our team visit "www.justgiving.com/feet-for-frodo/":http://www.ju
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

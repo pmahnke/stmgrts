@@ -34,4 +34,4 @@ bq. "an illuminating morning, thoroughly enjoyed it"
 bq. "do let me know about your next one please!"
 
 
-{% include comments.html commentfile=page.commentfile%}
+

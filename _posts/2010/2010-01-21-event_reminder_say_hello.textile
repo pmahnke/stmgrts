@@ -21,4 +21,4 @@ Performances to include professional Chinese acrobats, community showcase featur
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

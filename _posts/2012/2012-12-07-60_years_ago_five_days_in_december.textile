@@ -23,4 +23,4 @@ On Friday December 5th, with visibility dropping below 1 metre, cars and public 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

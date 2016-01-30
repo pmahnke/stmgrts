@@ -30,4 +30,4 @@ _Tickets available on the door or from: ABC MUSIC, Station Approach, Kew_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

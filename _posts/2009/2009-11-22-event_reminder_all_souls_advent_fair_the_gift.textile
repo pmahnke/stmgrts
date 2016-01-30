@@ -15,4 +15,4 @@ Lots of stalls to help with Christmas shopping, activities for children, cafe, a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

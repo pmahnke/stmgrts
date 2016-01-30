@@ -28,4 +28,4 @@ p. If you want to make representations on this subject, then write to "licensing
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

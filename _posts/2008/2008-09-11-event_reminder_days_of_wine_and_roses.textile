@@ -36,4 +36,4 @@ As RSS is a Club Theatre, tickets may only be sold to members by post, phone or 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

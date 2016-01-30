@@ -15,4 +15,4 @@ Looks like the Liberal Democrats have won the St Margarets and North Twickenham 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

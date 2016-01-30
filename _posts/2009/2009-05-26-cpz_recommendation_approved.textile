@@ -19,4 +19,4 @@ The ward councillors will send a street letter to Godstone and Kenley to clarify
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

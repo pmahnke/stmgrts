@@ -37,4 +37,4 @@ The exhibition runs until 26 February 2011 and admission to the Riverside Galler
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

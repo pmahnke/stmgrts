@@ -26,4 +26,4 @@ h4. All briefings
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

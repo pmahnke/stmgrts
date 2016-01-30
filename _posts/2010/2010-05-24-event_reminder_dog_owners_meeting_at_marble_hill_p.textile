@@ -16,4 +16,4 @@ Meet at the "Park Office on 27th of May at 6pm":http://stmgrts.org.uk/event/meet
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

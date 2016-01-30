@@ -30,4 +30,4 @@ A three-course sit-down lunch will be served at 1:00 pm with wine, coffee, mints
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -54,4 +54,4 @@ _Sammie Mason is a qualified teacher with the British Wheel of Yoga_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

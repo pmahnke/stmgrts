@@ -19,4 +19,4 @@ If you are a hacker, I hope you understand the damage you doing to small website
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

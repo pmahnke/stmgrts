@@ -82,4 +82,4 @@ h4. A typically 1970's rendition of the Desiderata
 
 <cite>-- from Martyn Day</cite>
 
-{% include comments.html commentfile=page.commentfile%}
+

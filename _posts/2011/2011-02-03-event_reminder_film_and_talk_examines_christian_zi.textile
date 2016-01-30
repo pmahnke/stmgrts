@@ -32,4 +32,4 @@ Dr Sizer has spent many years studying the theology, politics and history of the
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

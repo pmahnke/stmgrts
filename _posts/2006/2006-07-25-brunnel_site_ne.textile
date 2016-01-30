@@ -21,4 +21,4 @@ Many local resident groups are opposing this application.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

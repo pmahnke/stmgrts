@@ -27,4 +27,4 @@ To pre order or arrange a delivery call Eddie 077 4786 2386
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

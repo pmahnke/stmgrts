@@ -19,4 +19,4 @@ Help support the _David Adams Leukaemia Appeal_ at our "annual 60's night":http:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

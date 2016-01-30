@@ -41,4 +41,4 @@ h3. Links
 * _also see the "homepage":/index.shtml for a links to all articles published on this site_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

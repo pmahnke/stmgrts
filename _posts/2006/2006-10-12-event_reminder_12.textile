@@ -13,4 +13,4 @@ After the very successful community clear out and paint day in the summer, now i
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -76,4 +76,4 @@ Martin Herdman
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

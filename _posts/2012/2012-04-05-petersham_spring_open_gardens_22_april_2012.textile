@@ -28,4 +28,4 @@ Advance tickets can be bought at a discounted rate by email from "jo_bradley@btc
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

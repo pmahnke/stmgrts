@@ -30,4 +30,4 @@ The furniture we collect is of a good quality.  You may find something special. 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

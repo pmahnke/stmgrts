@@ -27,4 +27,4 @@ If you "visit our website":http://www.stmargaretsfair.org/Gallery2009/index.html
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

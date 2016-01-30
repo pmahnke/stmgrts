@@ -93,4 +93,4 @@ h4. Isaac Asimov explaining the Three Laws of Robotics
 
 <cite>-- from Martyn Day</cite>
 
-{% include comments.html commentfile=page.commentfile%}
+

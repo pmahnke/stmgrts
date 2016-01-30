@@ -50,4 +50,4 @@ Email: betsy.lewisholmes@richmond.gov.uk
 Website: www.richmond.gov.uk/arts
 
 
-{% include comments.html commentfile=page.commentfile%}
+

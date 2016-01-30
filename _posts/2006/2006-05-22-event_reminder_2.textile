@@ -27,4 +27,4 @@ p=. *Also in attendance will be one of our newly elected councillors.*
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -55,4 +55,4 @@ Spring Heeled Jack is now largely forgotten, replaced in the darker corners of o
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

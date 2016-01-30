@@ -97,4 +97,4 @@ Keep throughout the ages London Pride.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -28,4 +28,4 @@ Tel 0208 721 2912
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -17,4 +17,4 @@ If you are looking for help getting home, the best reference we have found is th
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

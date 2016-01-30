@@ -43,4 +43,4 @@ For more information or to sign up for regular updates, go to:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

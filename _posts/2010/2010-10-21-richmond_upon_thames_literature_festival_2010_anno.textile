@@ -34,4 +34,4 @@ The festival, which is run by Richmond Council's Arts Services in partnership wi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

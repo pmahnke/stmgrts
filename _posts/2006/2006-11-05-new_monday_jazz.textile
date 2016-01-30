@@ -23,4 +23,4 @@ See the event list "here":http://www.stmgrts.org.uk/directory/music/200611051516
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

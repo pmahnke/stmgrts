@@ -17,4 +17,4 @@ Please call 020 8891 7155 for more information.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

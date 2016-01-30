@@ -23,4 +23,4 @@ Admission is free
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

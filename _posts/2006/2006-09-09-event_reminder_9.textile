@@ -25,4 +25,4 @@ Laurence Mann, Secretary of the North St. Margaret's Residents' Association said
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -13,4 +13,4 @@ After 19 years, "due to excessive work load" the Herdman Family Carpet Shop is m
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

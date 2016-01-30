@@ -26,4 +26,4 @@ If you have lost something you can call: 020 8241 1042 to see if they have it.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

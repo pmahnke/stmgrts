@@ -32,4 +32,4 @@ The book would make an excellent Christmas present for anyone interested in arch
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ To reserve tickets and for information call 020 8547 2695.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

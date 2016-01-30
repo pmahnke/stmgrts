@@ -28,4 +28,4 @@ Officers are advising Londoners and particularly those who may be elderly or vul
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ The exhibition will include a wide range of mediums and styles, producing figura
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

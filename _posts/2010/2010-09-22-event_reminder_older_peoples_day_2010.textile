@@ -20,4 +20,4 @@ For more information contact Abigail Cochrane on 020 8487 5049 or go to "www.ric
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

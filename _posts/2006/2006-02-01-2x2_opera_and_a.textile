@@ -44,4 +44,4 @@ Please contact Deborah if you or your company would like to be involved, or for 
 "deborah.meyer@meyermusic.co.uk":mailto:deborah.meyer@meyermusic.co.uk
 
 
-{% include comments.html commentfile=page.commentfile%}
+

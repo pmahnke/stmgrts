@@ -48,4 +48,4 @@ h4. More Information
 _Please wear clothes suitable for painting in!_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

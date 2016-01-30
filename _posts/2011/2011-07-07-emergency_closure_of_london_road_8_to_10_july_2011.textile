@@ -19,4 +19,4 @@ Traffic will be diverted via A316 Chertsey Road and B361 Whitton Road.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ _All Welcome._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

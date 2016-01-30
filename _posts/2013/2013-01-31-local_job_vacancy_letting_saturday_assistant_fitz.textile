@@ -23,4 +23,4 @@ NO AGENCIES PLEASE
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

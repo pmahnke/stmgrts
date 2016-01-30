@@ -23,4 +23,4 @@ Saturday, 12th September 2009 St Margarets, Winchester Hall from 10.30am to 12.3
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

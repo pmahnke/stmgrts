@@ -22,4 +22,4 @@ For more information please email Gill: "gill_timmis@talk21.com":mailto:gill_tim
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -27,4 +27,4 @@ Unlike local authority hearings there is no public disclosure of the documents t
 p. -- _Rob Mitchener, Head of Licensing - Richmond Council_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

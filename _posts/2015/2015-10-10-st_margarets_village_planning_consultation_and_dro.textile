@@ -36,4 +36,4 @@ For more information on the Village Plans, please go to: "www.richmond.gov.uk/vi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

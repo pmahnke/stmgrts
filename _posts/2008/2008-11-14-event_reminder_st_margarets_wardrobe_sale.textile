@@ -26,4 +26,4 @@ All funds raised for FRODO -- _helping children in Romania_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

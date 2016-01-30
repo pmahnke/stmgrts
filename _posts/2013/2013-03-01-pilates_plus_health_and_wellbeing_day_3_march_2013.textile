@@ -33,4 +33,4 @@ _Booking is essential either at reception or on-line_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

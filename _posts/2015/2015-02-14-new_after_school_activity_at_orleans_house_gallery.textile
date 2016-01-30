@@ -35,4 +35,4 @@ _Booking is essential._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

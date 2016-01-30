@@ -24,4 +24,4 @@ To book a class or for more information:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

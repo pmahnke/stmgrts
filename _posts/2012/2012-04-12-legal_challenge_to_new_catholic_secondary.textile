@@ -22,4 +22,4 @@ bq. "Despite widespread local opposition, the Council appears to have decided th
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

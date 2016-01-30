@@ -15,4 +15,4 @@ bq. "This is an opportunity for residents to speak to police and councillors abo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

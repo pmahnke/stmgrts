@@ -118,4 +118,4 @@ h3. "St John the Divine, Richmond":http://www.richmondteamministry.org/index.php
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

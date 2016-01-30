@@ -82,4 +82,4 @@ There are some, estate agents mainly, who insist upon describing St Margarets as
 _Credit: The photographs of the steam trains are by Les Bailey on Flickr_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

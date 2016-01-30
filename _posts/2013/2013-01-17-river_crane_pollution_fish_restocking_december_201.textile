@@ -41,4 +41,4 @@ For more information e-mail "info@force.org.uk":mailto:info@force.org.uk  visit 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

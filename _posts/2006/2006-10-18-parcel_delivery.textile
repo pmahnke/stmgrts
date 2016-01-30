@@ -22,4 +22,4 @@ This service is under investigation by ICSTIS. Please be aware of this scam and 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -32,4 +32,4 @@ Richmond Council is asking for feedback on this proposal with an online "questio
 * Richmond Council "questionnaire":http://forms.richmond.gov.uk/AF3/an/default.aspx/RenderForm/?F.Name=NAJupv7axm0
 
 
-{% include comments.html commentfile=page.commentfile%}
+

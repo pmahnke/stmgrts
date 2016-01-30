@@ -35,4 +35,4 @@ If you have any questions about the open day, please contact:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

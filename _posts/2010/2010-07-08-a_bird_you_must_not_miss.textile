@@ -52,4 +52,4 @@ bq. 8 for a wish, 9 for a kiss, 10 for a bird you must not ... Ma-a-a-a-ag-pie! 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

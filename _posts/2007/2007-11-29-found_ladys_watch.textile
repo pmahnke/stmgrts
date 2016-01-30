@@ -19,4 +19,4 @@ To claim, email: "austbarl@yahoo.com":mailto:austbarl@yahoo.com
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

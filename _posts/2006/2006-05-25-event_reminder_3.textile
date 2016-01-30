@@ -20,4 +20,4 @@ Friday, 2 June at the Queen Charlotte Hall, as part of the RACC series of Friday
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

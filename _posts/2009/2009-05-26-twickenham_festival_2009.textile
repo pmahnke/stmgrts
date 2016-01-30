@@ -45,4 +45,4 @@ All details are listed on "www.twickenhamtown.co.uk":http://www.twickenhamtown.c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

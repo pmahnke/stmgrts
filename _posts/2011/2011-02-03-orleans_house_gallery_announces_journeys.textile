@@ -32,4 +32,4 @@ The Mayor of London, Boris Johnson said: "Key to the success of 2012, in cultura
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

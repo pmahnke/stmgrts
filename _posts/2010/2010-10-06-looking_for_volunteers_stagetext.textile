@@ -30,4 +30,4 @@ h4. For more information, please contact Charlie Swinbourne
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

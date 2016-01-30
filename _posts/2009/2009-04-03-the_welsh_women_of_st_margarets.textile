@@ -36,4 +36,4 @@ A beaten up survivor of those days lives at the bottom of my own garden - an old
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

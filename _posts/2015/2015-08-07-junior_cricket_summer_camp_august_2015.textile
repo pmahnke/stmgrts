@@ -39,4 +39,4 @@ For more details email: "whittoncolts@chiswickandwhitton.org":mailto:whittoncolt
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

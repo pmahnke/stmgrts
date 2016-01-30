@@ -23,4 +23,4 @@ There will be and a number of stalls including:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -31,4 +31,4 @@ However, its wasn't because I didn't want write it, it was because I wanted to d
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

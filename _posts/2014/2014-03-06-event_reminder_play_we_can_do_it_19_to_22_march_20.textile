@@ -38,4 +38,4 @@ h4. Performance dates:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

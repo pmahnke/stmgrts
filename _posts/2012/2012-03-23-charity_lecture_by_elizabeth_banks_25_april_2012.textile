@@ -26,4 +26,4 @@ h4. About INS - Integrated Neurological Services
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

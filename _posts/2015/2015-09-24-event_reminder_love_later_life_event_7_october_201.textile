@@ -25,4 +25,4 @@ _We look forward to seeing you there!_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

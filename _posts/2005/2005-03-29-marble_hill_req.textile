@@ -49,4 +49,4 @@ Please fill in the following form to send a comment directly to the Richmond Cou
 </script>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

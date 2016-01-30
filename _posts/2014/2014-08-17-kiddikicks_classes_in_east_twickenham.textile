@@ -24,4 +24,4 @@ We will be running NEW classes in Twickenham every Sunday from 13th September 20
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

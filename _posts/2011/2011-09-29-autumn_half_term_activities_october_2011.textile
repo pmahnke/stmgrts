@@ -58,4 +58,4 @@ h4. RHS Garden Wisley
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -25,4 +25,4 @@ Weds 1-3pm at the Small Hall, All Souls Church from April 18<sup>th</sup>. Tea-t
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

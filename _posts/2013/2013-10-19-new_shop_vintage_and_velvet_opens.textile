@@ -23,4 +23,4 @@ St Margarets' newest shop, Vintage and Velvet of Crown Road, had an official vis
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -19,4 +19,4 @@ But those living down wind of the infamous 'pong' say they did not have a chance
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

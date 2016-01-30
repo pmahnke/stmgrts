@@ -34,4 +34,4 @@ The council has identified &pound;60K for the playground and has spent &pound;20
 It was agreed that the next meeting would be held after the Easter holidays in approximately six weeks time. 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

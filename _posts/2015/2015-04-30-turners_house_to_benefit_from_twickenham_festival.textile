@@ -21,4 +21,4 @@ Catherine Parry-Wingfield, Chair of Turner's House Trust welcomed the news. "Thi
 <cite>-- from a Turner's House press release - 30 April 2015</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

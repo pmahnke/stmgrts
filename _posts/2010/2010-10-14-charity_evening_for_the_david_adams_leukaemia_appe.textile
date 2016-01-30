@@ -26,4 +26,4 @@ TW1 1RF
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

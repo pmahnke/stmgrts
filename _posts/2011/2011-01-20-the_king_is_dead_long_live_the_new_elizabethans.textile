@@ -65,4 +65,4 @@ Kingship carries enormous responsibility but confers little real power. On the f
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

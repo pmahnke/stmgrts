@@ -31,4 +31,4 @@ Print out and bring "this poster":http://stmgrts.org.uk/assets/images/2012/Stree
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

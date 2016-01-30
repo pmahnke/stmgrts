@@ -55,4 +55,4 @@ Of course to be absolutely honest St Margarets was never a village despite what 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

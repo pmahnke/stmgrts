@@ -25,4 +25,4 @@ All past, present and future parents are invited to join us for a glass of wine 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

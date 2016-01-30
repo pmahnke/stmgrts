@@ -31,4 +31,4 @@ A limited number of special all-inclusive packages are available including the c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

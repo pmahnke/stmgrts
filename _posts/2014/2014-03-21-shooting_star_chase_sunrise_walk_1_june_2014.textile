@@ -35,4 +35,4 @@ We're looking for 400 walkers to take part. Are you up for the challenge?
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

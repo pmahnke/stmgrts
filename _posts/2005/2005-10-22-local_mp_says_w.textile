@@ -21,4 +21,4 @@ No doubt when this application comes to the Committee it will be considered very
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ If anyone has any donations please drop them off at the St Margarets Catholic Ch
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

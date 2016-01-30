@@ -20,4 +20,4 @@ Let us hope that Richmond Road will be allowed to become a rival to Kew Road as 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

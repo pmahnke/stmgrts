@@ -27,4 +27,4 @@ Regards,
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

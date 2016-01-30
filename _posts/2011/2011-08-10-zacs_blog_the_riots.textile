@@ -24,4 +24,4 @@ p. <cite>Continue reading on "Zac Goldsmith, MP for Richmond's blog ...":http://
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

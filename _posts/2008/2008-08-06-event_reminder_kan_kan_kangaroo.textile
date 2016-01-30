@@ -21,4 +21,4 @@ Baby Kan Kan has made a new friend in Spike the hedgehog, but she still needs to
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

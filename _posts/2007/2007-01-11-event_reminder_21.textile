@@ -19,4 +19,4 @@ Everyone is invited, you just have to get a ticket by contacting the Safer Neigh
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

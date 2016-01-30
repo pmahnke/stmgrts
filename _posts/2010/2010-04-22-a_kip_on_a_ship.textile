@@ -37,4 +37,4 @@ Expected to be disposed of as scrap, in 1967 efforts were initiated to preserve 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

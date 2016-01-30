@@ -69,4 +69,4 @@ Since Christmas we have also said goodbye to Lemmy of Motorhead, Natalie Cole an
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

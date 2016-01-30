@@ -47,4 +47,4 @@ For more information please contact "traders@mystmargarets.com":mailto:traders@m
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

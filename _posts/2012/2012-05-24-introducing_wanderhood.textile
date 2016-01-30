@@ -32,4 +32,4 @@ If you live or work locally or have a group or event you wish to add to the site
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

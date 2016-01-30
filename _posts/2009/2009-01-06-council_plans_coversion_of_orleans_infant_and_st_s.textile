@@ -19,4 +19,4 @@ _The closing date for comments is Monday, February 2._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

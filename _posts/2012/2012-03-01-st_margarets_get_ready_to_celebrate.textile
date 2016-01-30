@@ -34,4 +34,4 @@ The new St Margarets shopper is now available throughout St Margarets including:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

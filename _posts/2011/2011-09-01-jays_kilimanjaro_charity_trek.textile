@@ -27,4 +27,4 @@ The Mayor is "visiting St Margarets to promote her campaign to encourage volunte
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -35,4 +35,4 @@ All entries should be addressed to : I HAVE A DREAM, St John the Baptist C of E 
 "For rules of the competition and further information visit":http://www.st-john.richmond.sch.uk 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -31,4 +31,4 @@ In a salute to them and all those who have faced homophobia, discrimination and 
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

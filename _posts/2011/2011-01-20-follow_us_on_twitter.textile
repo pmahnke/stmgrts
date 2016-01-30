@@ -33,4 +33,4 @@ Twitter is a social networking service that allows you to post small (140 charac
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

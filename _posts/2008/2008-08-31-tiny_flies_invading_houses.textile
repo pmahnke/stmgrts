@@ -25,4 +25,4 @@ I would appreciate some comments!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

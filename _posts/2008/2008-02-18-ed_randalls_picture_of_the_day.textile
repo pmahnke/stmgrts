@@ -19,4 +19,4 @@ Be sure to see Ed's winning entry before it is archived off the site.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

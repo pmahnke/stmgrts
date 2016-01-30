@@ -15,4 +15,4 @@ Email me at "peter@stmgrts.org.uk":mailto:peter@stmgrts.org.uk and I will put yo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

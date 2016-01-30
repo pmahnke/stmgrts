@@ -19,4 +19,4 @@ Our normal opening hours are 10 00 to 1500 Monday to Thursdays.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

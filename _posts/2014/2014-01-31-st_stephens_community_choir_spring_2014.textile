@@ -22,4 +22,4 @@ If you would like more details, please contact Grainne O'Kelly at "grainne@f2s.c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

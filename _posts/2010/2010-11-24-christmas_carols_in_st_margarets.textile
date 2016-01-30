@@ -15,4 +15,4 @@ The St Margarets Traders Association have arranged the necessary police/council/
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

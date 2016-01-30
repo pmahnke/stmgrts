@@ -26,4 +26,4 @@ bq. "Turing House will be a school that develops all students as confident indiv
 <cite>-- from a press release - 6 September 2013</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

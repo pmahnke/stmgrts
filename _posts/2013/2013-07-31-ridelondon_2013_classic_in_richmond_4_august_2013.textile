@@ -29,4 +29,4 @@ On Sunday 4 August, however, the cycling routes run partly through the borough. 
 The "routes are detailed on a map":http://stmgrts.org.uk/assets/images/2013/ridelondon_visitrichmond_map_full_size.png, and there is further information on this site about how the two events will affect local residents. For more details of the events themselves, and how to watch them, visit the "Prudential RideLondon":http://www.prudentialridelondon.co.uk/ website or email helpdesk@ridelondon.co.uk.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

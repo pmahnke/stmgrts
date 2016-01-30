@@ -31,4 +31,4 @@ Also, do not forget that on Saturday, 24 June, there is the "Moormead Park Group
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

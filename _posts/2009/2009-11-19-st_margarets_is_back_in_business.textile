@@ -37,4 +37,4 @@ For more information about the shops and businesses please visit "www.mystmargar
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

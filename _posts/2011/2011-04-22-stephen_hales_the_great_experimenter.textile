@@ -74,4 +74,4 @@ _Credit: Photographs of Hales Memorial in Teddington by Amanda Day_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

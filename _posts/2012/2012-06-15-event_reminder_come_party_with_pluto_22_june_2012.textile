@@ -40,4 +40,4 @@ _John D Wood have kindly sponsored our marquee, so the party will go on come rai
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

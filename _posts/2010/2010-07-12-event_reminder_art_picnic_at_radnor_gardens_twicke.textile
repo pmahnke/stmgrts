@@ -17,4 +17,4 @@ Join tutor Jill Storey in "Radnor Gardens on Sunday 18th July 2010 11am to 4pm":
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

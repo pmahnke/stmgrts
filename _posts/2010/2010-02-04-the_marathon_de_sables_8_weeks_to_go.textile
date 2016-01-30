@@ -26,4 +26,4 @@ fn1. For more information on F.R.O.D.O please visit "www.frodokids.org":http://w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

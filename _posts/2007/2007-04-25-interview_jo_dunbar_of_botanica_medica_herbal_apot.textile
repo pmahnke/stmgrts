@@ -58,4 +58,4 @@ bq. I suppose there is still the odd old fashioned antagonistic attitude, but ac
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

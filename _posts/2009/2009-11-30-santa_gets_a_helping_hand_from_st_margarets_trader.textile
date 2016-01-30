@@ -47,4 +47,4 @@ The website also has more information on the St Margarets Christmas Fair and upd
 ??from a St Margarets Traders Associate press release??
 
 
-{% include comments.html commentfile=page.commentfile%}
+

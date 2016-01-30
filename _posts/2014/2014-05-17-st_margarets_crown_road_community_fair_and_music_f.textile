@@ -41,4 +41,4 @@ Please check our :website":http://www.mystmargarets.com, "Facebook page":http://
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

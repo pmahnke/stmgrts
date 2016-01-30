@@ -19,4 +19,4 @@ bq. "We are hoping to secure planning permission for the construction of a new b
 Planning permision will be required for the nursery building itself, but not the shop.  The plans for the nursery will be shared and discussed at the next "North St Margarets Residents Association (NSMRA)":http://www.nsmra.co.uk/ Committee meeting on Monday, 20<sup>th</sup> March if you are interested in learning more.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

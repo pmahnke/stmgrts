@@ -31,4 +31,4 @@ _12pm - 3pm_
 what you need and can make use of, leaving something for others
 
 
-{% include comments.html commentfile=page.commentfile%}
+

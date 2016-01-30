@@ -24,4 +24,4 @@ This year they are hoping to raise a record sum towards refurbishing the playgro
 NOTE: _They are also planning a "St Georges Day Celebration":/event/Fair/200604150407 at the Turk's Head on the 23<sup>rd</sup> April._
 
 
-{% include comments.html commentfile=page.commentfile%}
+

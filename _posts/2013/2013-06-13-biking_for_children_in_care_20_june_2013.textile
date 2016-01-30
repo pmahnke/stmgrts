@@ -40,4 +40,4 @@ To support their bid, visit "uk.virginmoneygiving.com/GillTimmis":http://uk.virg
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -23,4 +23,4 @@ Donations that included paintings and prints, porcelain, glass, furniture, jewel
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

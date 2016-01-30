@@ -25,4 +25,4 @@ For now any invoices outstanding have been put on hold."
 p. -- from Eve Risbridger, <em>Head of Parks and Open Spaces</em>, London Borough of Richmond upon Thames
 
 
-{% include comments.html commentfile=page.commentfile%}
+

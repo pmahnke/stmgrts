@@ -60,4 +60,4 @@ h4. See Paul Tutmarc and his band, the Wranglers
 </div>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

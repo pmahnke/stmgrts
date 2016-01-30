@@ -150,4 +150,4 @@ Lake Balaton in Hungary - I have been going there since 1995, when it was under 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

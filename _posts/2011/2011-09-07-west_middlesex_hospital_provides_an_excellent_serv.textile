@@ -24,4 +24,4 @@ Janet Marriott, one of the patient representatives present during the inspection
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

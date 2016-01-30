@@ -21,4 +21,4 @@ To reduce the upper capital limit for non-residential care services from &pound;
 
 _The consultation runs until the 18 January 2016._
 
-{% include comments.html commentfile=page.commentfile%}
+

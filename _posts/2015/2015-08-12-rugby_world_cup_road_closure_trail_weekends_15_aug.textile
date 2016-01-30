@@ -40,4 +40,4 @@ _There will be 10 events at Twickenham stadium in total during the tournament_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

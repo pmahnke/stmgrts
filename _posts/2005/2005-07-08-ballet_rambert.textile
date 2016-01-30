@@ -15,4 +15,4 @@ According to Councillor Hambidge, "this is great news for the local community" a
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

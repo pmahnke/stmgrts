@@ -27,4 +27,4 @@ We hope you understand and take this editorial's meaning in the right light.
 -- "St Margarets Community Website Editor":mailto:editor@stmgrts.org.uk
 
 
-{% include comments.html commentfile=page.commentfile%}
+

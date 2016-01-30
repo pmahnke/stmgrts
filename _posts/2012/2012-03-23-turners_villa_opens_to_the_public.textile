@@ -25,4 +25,4 @@ The house is close to public transport: St Margarets station, and buses H37, R68
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

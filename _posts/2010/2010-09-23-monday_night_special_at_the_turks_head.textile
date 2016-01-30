@@ -22,4 +22,4 @@ h4. Terms and conditions apply
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

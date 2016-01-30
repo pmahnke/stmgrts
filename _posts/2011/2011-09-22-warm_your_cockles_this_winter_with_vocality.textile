@@ -35,4 +35,4 @@ Vocality is offering a free taster session to try it out. Please see their new w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

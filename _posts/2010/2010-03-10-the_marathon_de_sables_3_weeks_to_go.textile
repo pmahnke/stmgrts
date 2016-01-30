@@ -28,4 +28,4 @@ I must say a big thank you to all those people who are supporting and encouragin
 <em>Georgie runs her own training business, providing 1:2:1 training, run together sessions or will happily help you with your training and fitness goals. Visit "www.run.uk.net":http://www.run.uk.net for more information or call Georgie on 07736 070612.</em>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

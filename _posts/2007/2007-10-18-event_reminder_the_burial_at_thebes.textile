@@ -25,4 +25,4 @@ Performances are at 7.45pm on Saturday Oct 20th, Monday 22nd, Tuesday 23rd, and 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

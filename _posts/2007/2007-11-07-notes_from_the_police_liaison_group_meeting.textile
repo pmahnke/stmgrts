@@ -60,4 +60,4 @@ Before the public meeting, Policing Priorities for the ward were: burglary, anti
 But after each attendee was asked what they would like to see prioritised, they were revised as follows: robbery, anti-social behaviour and theft of pedal cycles.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

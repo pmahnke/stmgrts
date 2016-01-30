@@ -161,4 +161,4 @@ Recorded at the University of Minnesota last month.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

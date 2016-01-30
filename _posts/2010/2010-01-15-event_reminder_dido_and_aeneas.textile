@@ -19,4 +19,4 @@ Tickets are available to purchase at &pound;5.00 (&pound;4.00 concs) from Rupert
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

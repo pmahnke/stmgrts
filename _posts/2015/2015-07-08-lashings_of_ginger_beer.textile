@@ -108,4 +108,4 @@ GINGER BEER, ANYONE?
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

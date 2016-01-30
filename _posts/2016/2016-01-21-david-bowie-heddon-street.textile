@@ -66,4 +66,4 @@ Ziggy Stardust has visited the pages of this newsletter before.  Well, he did "c
 
 <cite>-- from Martyn Day</cite>
 
-{% include comments.html commentfile=page.commentfile%}
+

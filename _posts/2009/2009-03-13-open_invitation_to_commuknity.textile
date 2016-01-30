@@ -15,4 +15,4 @@ Anybody is welcome, we'd love to see you there.  For more info, email "commuknit
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

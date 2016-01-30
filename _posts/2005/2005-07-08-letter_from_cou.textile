@@ -51,4 +51,4 @@ Let me "cllr.ahambidge@richmond.gov.uk":mailto:cllr.ahambidge@richmond.gov.uk  k
 This website will provide a marvellous opportunity to keep 'the heart of St Margaret's' beating.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

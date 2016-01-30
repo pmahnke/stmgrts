@@ -34,4 +34,4 @@ h4. More Information
 * Call 07595421750
 
 
-{% include comments.html commentfile=page.commentfile%}
+

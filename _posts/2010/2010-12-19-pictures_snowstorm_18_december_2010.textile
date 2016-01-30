@@ -22,4 +22,4 @@ If you have pictures you are willing to share, please send them to "content@stmg
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

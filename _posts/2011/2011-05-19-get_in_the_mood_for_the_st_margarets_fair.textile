@@ -18,4 +18,4 @@ Get ready for the "33<sup>rd</sup> Annual St Margarets Fair on 16 July 2011":htt
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

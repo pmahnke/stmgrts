@@ -25,4 +25,4 @@ The Stoop will be screening the match on a big screen in the stadium. The Stadiu
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

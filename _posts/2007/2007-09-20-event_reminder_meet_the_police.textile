@@ -26,4 +26,4 @@ Refreshments will be available.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

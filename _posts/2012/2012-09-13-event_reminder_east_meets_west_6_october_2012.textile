@@ -26,4 +26,4 @@ Tickets are very limited and available on "www.strawberryhillhouse.org.uk":http:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

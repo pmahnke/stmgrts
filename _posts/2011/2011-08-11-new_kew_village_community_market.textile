@@ -26,4 +26,4 @@ For more information, visit "www.kewvillagemarket.org":http://www.kewvillagemark
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

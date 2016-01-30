@@ -62,4 +62,4 @@ _Credits: Photograph of Dinuzulu statue by Kleinz on Flickr_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

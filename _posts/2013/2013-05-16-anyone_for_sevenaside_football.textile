@@ -22,4 +22,4 @@ There are also occasional beers afterwards from time to time!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

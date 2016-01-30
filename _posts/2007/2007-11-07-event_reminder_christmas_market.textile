@@ -27,4 +27,4 @@ and "much more...":http://stmgrts.org.uk/event/fair/200705141723
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -65,4 +65,4 @@ _Credit: The picture of Julia Martha Thomas is from Richmond Local Studies Colle
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ Interim Committee Manager
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

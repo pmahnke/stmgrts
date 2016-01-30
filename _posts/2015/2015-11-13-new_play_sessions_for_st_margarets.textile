@@ -27,4 +27,4 @@ For information on all sessions please visit "www.brilliantplay.co.uk":http://ww
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

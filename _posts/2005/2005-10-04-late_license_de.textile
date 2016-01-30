@@ -27,4 +27,4 @@ _30 minutes drinking up time for both._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -18,4 +18,4 @@ Please help look for Alice Gross, age 14, from Hanwell. She was last heard from 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

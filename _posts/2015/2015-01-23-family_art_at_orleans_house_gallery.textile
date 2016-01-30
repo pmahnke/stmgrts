@@ -30,4 +30,4 @@ _Children must be accompanied by an adult._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

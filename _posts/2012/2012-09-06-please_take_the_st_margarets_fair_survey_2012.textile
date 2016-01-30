@@ -32,4 +32,4 @@ _The St Margarets Fair committee_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

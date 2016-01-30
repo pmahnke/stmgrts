@@ -30,4 +30,4 @@ More information about Community Action Plans and Alliance can be found on the A
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -25,4 +25,4 @@ Additionally these consultants should ideally be appointed before the school sum
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

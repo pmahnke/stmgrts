@@ -36,4 +36,4 @@ St Margarets Traders Association Assistant
 
 </div>
 
-{% include comments.html commentfile=page.commentfile%}
+

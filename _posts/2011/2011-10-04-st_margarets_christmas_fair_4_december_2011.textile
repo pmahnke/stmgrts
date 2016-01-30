@@ -28,4 +28,4 @@ If you are interested in booking a stall please contact "events@mystmargarets.co
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

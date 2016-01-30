@@ -27,4 +27,4 @@ h4. Details
 * Online bookings: www.ttc-boxoffice.org.uk 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

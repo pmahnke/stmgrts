@@ -17,4 +17,4 @@ For more details please go to the "St Margarets Traders site www.mystmargarets.c
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -32,4 +32,4 @@ sincerely ............Annie Hambidge
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -33,4 +33,4 @@ Full details and entry forms are available from Kim Hare at Nigel Hare Joinery -
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

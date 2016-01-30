@@ -22,4 +22,4 @@ _Classes are suitable for girls and boys from about 18 months, up to school age.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

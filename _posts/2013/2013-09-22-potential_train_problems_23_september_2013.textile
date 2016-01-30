@@ -39,4 +39,4 @@ This message will be updated by 04:30hrs tomorrow morning.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -31,4 +31,4 @@ Don't forget that this Saturday, 16 July 2011, from 12 - 7.45pm, is the 33<sup>r
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

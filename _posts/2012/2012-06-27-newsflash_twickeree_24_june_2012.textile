@@ -26,4 +26,4 @@ Despite the appalling weather and their abysmal sporting record the 1<sup>st</su
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

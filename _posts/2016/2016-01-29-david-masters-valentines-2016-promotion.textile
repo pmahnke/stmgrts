@@ -21,4 +21,4 @@ Don't leave Valentine's Day to chance. Get it right this year with a David Maste
 
 _Also, we are having a Beauty Open Day on Thursday, 25 February 2016 where we are offering a range of tester treatments, you guessed it, free!_
 
-{% include comments.html commentfile=page.commentfile%}
+

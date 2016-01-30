@@ -23,4 +23,4 @@ Hooping has numerous benefits. It is a great cardio workout, it strengthens core
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

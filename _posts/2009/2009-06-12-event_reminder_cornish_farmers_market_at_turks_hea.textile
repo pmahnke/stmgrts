@@ -17,4 +17,4 @@ There is going to be a Cornish Farmers Market at The Turks Head. Organised by "M
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

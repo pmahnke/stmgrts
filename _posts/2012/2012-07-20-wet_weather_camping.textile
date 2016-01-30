@@ -136,4 +136,4 @@ bq. "When you can see the hills in the distance it is going to rain. When you ca
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

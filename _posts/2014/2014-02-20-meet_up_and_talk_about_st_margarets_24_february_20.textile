@@ -21,4 +21,4 @@ Details and the chance to register interest can be found here: http://meetu.ps/2
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

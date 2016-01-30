@@ -15,4 +15,4 @@ bq. From 8<sup>th</sup> September 2010, V Thomas & Son butchers will be opening 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

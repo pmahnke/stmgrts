@@ -24,4 +24,4 @@ Come down from 11am to 4pm! There'll be the usual diverse mix of stalls, food ve
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

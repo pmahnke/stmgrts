@@ -29,4 +29,4 @@ p. <cite>-- "read the full article":http://www.thisislondon.co.uk/news/article-2
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

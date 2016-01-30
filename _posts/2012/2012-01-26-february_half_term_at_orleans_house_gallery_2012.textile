@@ -61,4 +61,4 @@ Spin, spray and splatter paint with artist Imogen Luddy to learn about colour an
 _Booking essential: Please call 020 8831 6000 or book online_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

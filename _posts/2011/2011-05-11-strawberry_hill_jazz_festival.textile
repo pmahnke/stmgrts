@@ -64,4 +64,4 @@ h4. Details
 * "Download a brochure":http://www.stmgrts.org.uk/images/SHT035_jazz_2.pdf
 
 
-{% include comments.html commentfile=page.commentfile%}
+

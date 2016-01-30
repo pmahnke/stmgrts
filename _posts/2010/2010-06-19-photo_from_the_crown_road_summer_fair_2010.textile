@@ -14,4 +14,4 @@ This summer's Crown Road Fair was a big success. Great food, music, stalls, ride
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

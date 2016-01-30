@@ -19,4 +19,4 @@ If anyone is interested in playing Bridge on a social (not club) level, please g
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

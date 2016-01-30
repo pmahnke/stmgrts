@@ -33,4 +33,4 @@ Word has it that Santa will be arriving in his grotto at 11am and will be bringi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

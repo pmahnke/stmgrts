@@ -13,4 +13,4 @@ Sadly there will be no Christmas Fair in Crown Road this year.  The St Margarets
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

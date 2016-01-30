@@ -44,4 +44,4 @@ Or visit "www.yoga-fitness.co.uk":http://www.yoga-fitness.co.uk
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

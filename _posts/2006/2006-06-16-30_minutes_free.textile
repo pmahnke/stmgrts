@@ -22,4 +22,4 @@ The petition will now be passed to David Trigg, the Cabinet Member for Transport
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

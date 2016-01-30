@@ -16,4 +16,4 @@ bq. "St Margarets’ Brula restaurant has been voted runner up in the Observer F
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

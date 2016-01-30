@@ -35,4 +35,4 @@ Places are limited so advance booking and payment is essential.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

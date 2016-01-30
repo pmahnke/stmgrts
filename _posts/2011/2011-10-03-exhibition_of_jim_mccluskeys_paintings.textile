@@ -33,4 +33,4 @@ At weekends it will be open from 11.00 am till 7.00 pm.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

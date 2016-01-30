@@ -61,4 +61,4 @@ On the 7<sup>th</sup> January 2011 "The King's Speech" - a film about how George
 <cite> -- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

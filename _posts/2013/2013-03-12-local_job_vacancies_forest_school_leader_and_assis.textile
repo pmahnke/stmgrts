@@ -33,4 +33,4 @@ Ellie Wrigglesworth
 "wrigglers@talktalk.net":mailto:wrigglers@talktalk.net
 
 
-{% include comments.html commentfile=page.commentfile%}
+

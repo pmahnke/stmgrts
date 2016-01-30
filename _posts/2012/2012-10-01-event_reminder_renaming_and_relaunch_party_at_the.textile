@@ -24,4 +24,4 @@ See you there!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

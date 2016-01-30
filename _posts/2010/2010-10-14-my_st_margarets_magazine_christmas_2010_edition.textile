@@ -17,4 +17,4 @@ For more information, please visit "www.mystmargarets.com":http://www.mystmargar
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

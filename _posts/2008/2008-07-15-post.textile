@@ -27,4 +27,4 @@ Thanks for your continuing help and support for the largest annual St Margarets 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

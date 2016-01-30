@@ -32,4 +32,4 @@ Jane also paints in oils and her work draws inspiration from nature, in two them
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

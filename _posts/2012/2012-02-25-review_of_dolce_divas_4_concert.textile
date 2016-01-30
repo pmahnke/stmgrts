@@ -17,4 +17,4 @@ Admission was free but there was a collection in aid of St Stephens's school. Th
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

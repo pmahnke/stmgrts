@@ -25,4 +25,4 @@ After the huge success of last two year The Bearcat Running Club and Fullers are
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -32,4 +32,4 @@ Both Derbyshire born, John and Barry live in neighbouring communities, choosing 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

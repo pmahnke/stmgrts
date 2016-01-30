@@ -25,4 +25,4 @@ It's been weeks if not months since we covered the saga of the redevelopment of 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

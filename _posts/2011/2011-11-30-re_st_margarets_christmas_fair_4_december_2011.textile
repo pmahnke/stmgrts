@@ -15,4 +15,4 @@ Please join us for a "day of family fun and entertainment":http://www.stmgrts.or
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

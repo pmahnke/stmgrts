@@ -30,4 +30,4 @@ p. The consultation runs until 4 July 2014. "For more information and to fill ou
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

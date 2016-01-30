@@ -19,4 +19,4 @@ If you are interested in attending, call 0208 607 7283 or email "adams.appeal@vi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

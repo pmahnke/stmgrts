@@ -32,4 +32,4 @@ h3. Time Table of Events
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

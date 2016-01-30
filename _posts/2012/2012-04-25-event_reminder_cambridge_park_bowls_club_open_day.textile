@@ -22,4 +22,4 @@ _Refreshments available._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

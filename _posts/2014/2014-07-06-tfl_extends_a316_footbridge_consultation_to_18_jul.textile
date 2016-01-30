@@ -25,4 +25,4 @@ Consultees will have the opportunity to resubmit their response if they feel tha
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

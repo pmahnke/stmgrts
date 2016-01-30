@@ -26,4 +26,4 @@ Their website is "www.nealsyardgalleries.com":http://www.nealsyardgalleries.com 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

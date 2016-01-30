@@ -30,4 +30,4 @@ Please contact 07775860964 or 07775860964 if you have any information.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

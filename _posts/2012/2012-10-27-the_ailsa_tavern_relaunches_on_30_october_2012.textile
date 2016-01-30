@@ -45,4 +45,4 @@ We will also have two open mic nights a month, on the second and last weeks. The
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

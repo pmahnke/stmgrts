@@ -25,4 +25,4 @@ An unfortunate end to an unfortunate story.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

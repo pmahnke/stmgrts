@@ -45,4 +45,4 @@ The Richmond Printmakers group continues to thrive but sadly Ingrid Alan and Pet
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -17,4 +17,4 @@ p. The project is well under way with the demolition complete and the constructi
 p. You can learn more about it "here":http://www.rivercentre.co.uk/.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

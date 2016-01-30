@@ -19,4 +19,4 @@ To find out about this exciting project, read more on: "www.richmond.gov.uk":htt
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

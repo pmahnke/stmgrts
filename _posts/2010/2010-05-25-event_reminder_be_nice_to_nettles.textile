@@ -27,4 +27,4 @@ Contact the Ranger Team for any enquires:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

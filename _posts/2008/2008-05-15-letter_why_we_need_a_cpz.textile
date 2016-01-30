@@ -47,4 +47,4 @@ Peter, Rosie, Clare, David, Carol, Rob.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

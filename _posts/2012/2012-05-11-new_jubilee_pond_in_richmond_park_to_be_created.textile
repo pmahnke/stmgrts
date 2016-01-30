@@ -78,4 +78,4 @@ The ponds will be shallow (maximum 1.5m deep) and alder trees will be planted al
 The conservation charity, Healthy Planet, is providing the core funding for the Jubilee Pond and will match pound for pound everything raised through the public appeal.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

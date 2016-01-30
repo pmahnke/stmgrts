@@ -31,4 +31,4 @@ _The consultations run until 5 July 2015._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

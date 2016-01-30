@@ -40,4 +40,4 @@ TEL/FAX   020 8755 4665
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

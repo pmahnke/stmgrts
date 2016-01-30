@@ -24,4 +24,4 @@ Turns out they didn't have a website either, so we have hosted a page for them "
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

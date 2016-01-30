@@ -31,4 +31,4 @@ h4. Times
 * "More information":http://www.greatriverrace.co.uk/
 
 
-{% include comments.html commentfile=page.commentfile%}
+

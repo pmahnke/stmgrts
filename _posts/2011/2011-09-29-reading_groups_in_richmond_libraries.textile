@@ -25,4 +25,4 @@ Richmond libraries are keen to support and encourage local reading groups.  Read
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

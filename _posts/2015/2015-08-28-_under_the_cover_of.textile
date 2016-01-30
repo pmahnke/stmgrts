@@ -47,4 +47,4 @@ Winners will be drawn at random. Gook luck, and get hunting!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

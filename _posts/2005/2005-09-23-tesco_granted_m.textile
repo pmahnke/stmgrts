@@ -30,4 +30,4 @@ Additionally, the Council claims that they will attempt to enforce the revised r
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

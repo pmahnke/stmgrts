@@ -15,4 +15,4 @@ Mr Frisby will be sadly missed as our local butcher. As many residents will know
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

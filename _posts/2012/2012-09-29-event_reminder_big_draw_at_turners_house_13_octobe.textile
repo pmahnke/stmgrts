@@ -30,4 +30,4 @@ _Note: we are sorry the unrestored house is not suitable for under 4s or those w
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

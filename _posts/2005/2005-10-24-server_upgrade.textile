@@ -15,4 +15,4 @@ FIngers crossed, everything will be back to normal by this afternoon.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

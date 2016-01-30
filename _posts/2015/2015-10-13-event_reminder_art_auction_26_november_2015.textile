@@ -22,4 +22,4 @@ We have already received "a wonderful selection of pictures, please do have a lo
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

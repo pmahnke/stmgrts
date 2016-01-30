@@ -40,4 +40,4 @@ From 17:00, display at 19:00
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

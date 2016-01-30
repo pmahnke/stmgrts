@@ -15,4 +15,4 @@ Oh, and move your clocks forward, if you forgot.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

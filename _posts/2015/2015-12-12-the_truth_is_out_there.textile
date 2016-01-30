@@ -75,4 +75,4 @@ Distrustful of doctors, Charles Fort died on May 3<sup>rd</sup> 1932 in the Roya
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

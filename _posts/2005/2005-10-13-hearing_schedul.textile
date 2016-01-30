@@ -23,4 +23,4 @@ The agenda and full details of the St Margarets Tavern appliction are "here":htt
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

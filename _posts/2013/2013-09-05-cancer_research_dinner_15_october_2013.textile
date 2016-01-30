@@ -43,4 +43,4 @@ _We really look forward to welcoming you on the 15<sup>th</sup> October 2013_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

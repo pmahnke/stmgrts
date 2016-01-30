@@ -32,4 +32,4 @@ ARThouse 2014 will take place over the following two weekends:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

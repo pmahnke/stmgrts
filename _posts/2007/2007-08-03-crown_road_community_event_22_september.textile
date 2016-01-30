@@ -23,4 +23,4 @@ _More details to follow..._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

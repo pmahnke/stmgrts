@@ -28,4 +28,4 @@ _Please complete the survey by 31 December 2012._
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

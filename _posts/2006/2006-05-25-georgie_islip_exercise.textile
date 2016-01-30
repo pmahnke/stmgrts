@@ -40,4 +40,4 @@ I will discuss more about the benefits of exercise in the next article.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -54,4 +54,4 @@ h4. Timetable
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

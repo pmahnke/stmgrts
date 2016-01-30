@@ -17,4 +17,4 @@ Email me at "livemusic@blueyonder.co.uk":mailto:livemusic@blueyonder.co.uk with 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

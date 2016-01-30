@@ -45,4 +45,4 @@ h4. Additional links
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

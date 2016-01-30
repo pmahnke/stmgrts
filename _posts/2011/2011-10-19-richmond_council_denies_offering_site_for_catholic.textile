@@ -22,4 +22,4 @@ The Committee agreed to minute the fact that there was disagreement between its 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

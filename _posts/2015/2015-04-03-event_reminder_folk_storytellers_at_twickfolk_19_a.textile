@@ -40,4 +40,4 @@ The performance at Twickfolk, @ The Cabbage Patch Pub, 67 London Road, Twickenha
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -77,4 +77,4 @@ h3. Wrap Up
 The meeting was running well past 10pm, so a few general questions were allowed.  The most interesting was that the councillors were questioned if they _supported_ the decision for the expanded Tesco loading bay.  Annie Hambidge said, "no, absolutely not."  Simon Lamb was pressed to give an answer and eventually said that he supported the extension and made the note that "at least Tesco is paying for it."
 
 
-{% include comments.html commentfile=page.commentfile%}
+

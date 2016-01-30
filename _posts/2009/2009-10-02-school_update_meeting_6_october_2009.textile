@@ -50,4 +50,4 @@ So, come along on Tuesday, 6 October to hear the facts and have your say.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

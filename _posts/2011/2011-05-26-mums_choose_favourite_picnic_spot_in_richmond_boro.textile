@@ -52,4 +52,4 @@ bq. "We particularly love the Isabela Plantation for its amazing flowers, duck p
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

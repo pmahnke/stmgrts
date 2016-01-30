@@ -34,4 +34,4 @@ h4. More Information
 _ All the money raised will go to maintaining For Sanity's Sake, which is a not-for-profit, voluntary run Social Enterprise._
 
 
-{% include comments.html commentfile=page.commentfile%}
+

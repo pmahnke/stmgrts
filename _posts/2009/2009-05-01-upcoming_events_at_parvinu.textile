@@ -41,4 +41,4 @@ Please "check out our May line up for live jazz on Wednesday Nights":http://www.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

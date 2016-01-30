@@ -17,4 +17,4 @@ The "first meeting":http://stmgrts.org.uk/event/Meeting/200702020413 is at 6.30p
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

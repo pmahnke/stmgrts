@@ -30,4 +30,4 @@ For further information or to put your name forward to become an Officer of the 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

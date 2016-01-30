@@ -33,4 +33,4 @@ _Credit: All the photographs come from "Fields of Deception" by Colin Dobinson, 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

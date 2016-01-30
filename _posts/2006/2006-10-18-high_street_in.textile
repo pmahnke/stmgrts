@@ -63,4 +63,4 @@ Emma Callaway and another local resident have bought the Yummy Mummy shop and ar
 This site was part of the sprawling basement showroom of the Phelps Antiques shop.  It will become an upscale wine bar with an entrance through a renovated Streets green grocers.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

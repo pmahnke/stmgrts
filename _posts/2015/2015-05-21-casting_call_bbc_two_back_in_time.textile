@@ -26,4 +26,4 @@ The family should have thoroughly modern leisure habits - turn to modern technol
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

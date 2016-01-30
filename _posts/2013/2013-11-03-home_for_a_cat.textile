@@ -21,4 +21,4 @@ Based in St Margarets
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

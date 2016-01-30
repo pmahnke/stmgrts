@@ -15,4 +15,4 @@ p>. _-- from Cllr Hambidge_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -24,4 +24,4 @@ Hazelle Jackson
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

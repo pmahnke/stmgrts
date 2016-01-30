@@ -30,4 +30,4 @@ Gail Rooke
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

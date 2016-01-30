@@ -62,4 +62,4 @@ _N.B: A "version of this article":http://www.stmgrts.org.uk/archives/2010/11/nig
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

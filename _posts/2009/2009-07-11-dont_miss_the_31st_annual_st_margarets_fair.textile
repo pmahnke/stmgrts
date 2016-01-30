@@ -37,4 +37,4 @@ Every year volunteers organise and staff the following:
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

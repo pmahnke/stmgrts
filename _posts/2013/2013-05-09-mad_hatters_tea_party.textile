@@ -26,4 +26,4 @@ Please pass information onto friends and family members; anyone who you think mi
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

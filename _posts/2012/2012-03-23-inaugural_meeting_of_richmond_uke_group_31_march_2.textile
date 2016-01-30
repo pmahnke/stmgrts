@@ -17,4 +17,4 @@ All levels welcome, please contact me on 07770 993289 or email "surya@blueyonder
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

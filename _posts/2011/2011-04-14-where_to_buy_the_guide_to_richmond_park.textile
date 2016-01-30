@@ -22,4 +22,4 @@ bq. "The new "Guide to Richmond Park":http://www.stmgrts.org.uk/archives/2011/03
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

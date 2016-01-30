@@ -34,4 +34,4 @@ date: 2010-11-11 20:57:55
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

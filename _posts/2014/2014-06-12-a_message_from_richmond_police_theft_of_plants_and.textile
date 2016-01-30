@@ -20,4 +20,4 @@ Please can you be extra vigilant and also wherever possible property mark your p
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -21,4 +21,4 @@ Coming soon through your letter box, _My St Margarets, The Magazine_, published 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

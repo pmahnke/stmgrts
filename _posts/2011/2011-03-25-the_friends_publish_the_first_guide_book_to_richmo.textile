@@ -66,4 +66,4 @@ h4. The Guide to Richmond Park
 </div>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

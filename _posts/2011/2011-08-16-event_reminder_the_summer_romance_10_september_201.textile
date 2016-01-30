@@ -34,4 +34,4 @@ Chris Huntley is a versatile, talented musician and graduate of Trinity College 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

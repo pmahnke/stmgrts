@@ -29,4 +29,4 @@ Tickets are &pound;8.00 and &pound;6.00 concessions. The Box Office 0208 8766 55
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

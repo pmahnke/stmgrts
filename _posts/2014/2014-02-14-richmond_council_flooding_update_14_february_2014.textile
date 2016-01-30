@@ -38,4 +38,4 @@ For further information about the local impact of flooding, including regular up
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

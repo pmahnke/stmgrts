@@ -33,4 +33,4 @@ As for me, I'll be creosoting the shed.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

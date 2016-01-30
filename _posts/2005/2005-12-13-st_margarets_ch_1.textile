@@ -40,4 +40,4 @@ _If we have forgotten anyone, please email us (content@stmgrts.org.uk) to fix/up
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

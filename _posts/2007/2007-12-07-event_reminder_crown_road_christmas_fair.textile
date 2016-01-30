@@ -19,4 +19,4 @@ Come out for an afternoon of fun at the community fair on Crown Road.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

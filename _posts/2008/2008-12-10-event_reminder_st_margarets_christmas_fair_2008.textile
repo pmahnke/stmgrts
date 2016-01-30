@@ -30,4 +30,4 @@ The Fair team is still looking for volunteers to help set up on the day of the e
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

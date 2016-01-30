@@ -35,4 +35,4 @@ h4. No school at St Stephens CoE Junior School or either St Mary's school sites.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

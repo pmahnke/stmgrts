@@ -36,4 +36,4 @@ If this is all a bit boring and you are beginning to drop off, please be advised
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

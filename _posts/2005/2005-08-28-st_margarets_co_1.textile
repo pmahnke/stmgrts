@@ -40,4 +40,4 @@ They are also looking for 'family oriented' bands, so if you are in a band, or k
 If you are interested in participating in the craft stalls, please contact Simon Chapman at Cutters (<a href="mailto:simonchapman@stm.demon.co.uk">simonchapman@stm.demon.co.uk</a>).
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -28,4 +28,4 @@ p. In our "poll":http://stmgrts.org.uk/cgi-bin/poll.cgi?pollname=recycle&action=
 p. We recommend that you email one of our local councillors, Anne Hambidge at <a href="mailto:cllr.ahambidge@richmond.gov.uk?Subject=St Margarets' Barron's Road Recycling Site Adoption">cllr.ahambidge@richmond.gov.uk</a>, who is empathetic on this issue, to complain.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

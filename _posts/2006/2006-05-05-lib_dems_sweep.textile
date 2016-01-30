@@ -45,4 +45,4 @@ h4. Twickenham Riverside
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

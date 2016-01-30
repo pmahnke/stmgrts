@@ -34,4 +34,4 @@ New members are very welcome at any rehearsal, do come along without obligation,
 _Join Richmond Community Choir in St Margarets_
 
 
-{% include comments.html commentfile=page.commentfile%}
+

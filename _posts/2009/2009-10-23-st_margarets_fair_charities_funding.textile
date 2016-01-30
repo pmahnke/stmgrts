@@ -16,4 +16,4 @@ Sorry if you've tried to contact us and we haven't responded since our last post
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

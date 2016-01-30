@@ -21,4 +21,4 @@ The Sunshine Café has been extended to include a new patio seating area next to
 <cite>-- from Richmond Council press release - "8 June 2012":http://www.richmond.gov.uk/twickenham_riverside_to_be_opened_by_royal_approval</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

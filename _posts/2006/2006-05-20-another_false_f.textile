@@ -38,4 +38,4 @@ So the security-vigilant were unfortunately defeated this time.  But I'd really 
 </div>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

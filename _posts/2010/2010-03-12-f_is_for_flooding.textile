@@ -69,4 +69,4 @@ The Thames Barrier is one of London's most striking and famous landmarks. With i
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

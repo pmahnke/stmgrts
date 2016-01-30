@@ -27,4 +27,4 @@ This edition will be followed by the Christmas edition which is due for publicat
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

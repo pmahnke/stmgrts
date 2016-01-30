@@ -17,4 +17,4 @@ Last week two bikes where reported stolen in St Margarets, right outside people'
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

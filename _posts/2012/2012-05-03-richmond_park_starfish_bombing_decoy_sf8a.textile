@@ -81,4 +81,4 @@ bq. "...An attempt was rumoured to have taken place, designed to dupe the German
 <cite>-- from Martyn Day</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

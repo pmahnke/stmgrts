@@ -27,4 +27,4 @@ We do hope you will be able to join us and look forward to seeing you. Please RS
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

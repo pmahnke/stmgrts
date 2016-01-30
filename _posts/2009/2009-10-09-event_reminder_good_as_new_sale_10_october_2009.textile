@@ -17,4 +17,4 @@ If you have items to donate these can be brought to the "St Stephens C.E. Junior
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

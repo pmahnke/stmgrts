@@ -29,11 +29,20 @@
               {% if page.next.url %}
               <p class="next"><a href="{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
               {% endif %}
-            </div><!-- end pagenavigation -->
+          </div><!-- end pagenavigation -->
 {% endif %}
-          </div><!-- end div right -->
+        </div><!-- end div right -->
       </div><!-- end div twocolcenter -->
     </div><!-- end div container -->
+    <div id="comments">
+      <div class="container">
+        <div class="row">
+          <div class="nine columns">
+{% include comments.html commentfile=page.commentfile%}
+          </div><!-- end nine cols -->
+        </div><!-- end div row -->
+      </div><!-- end div container -->
+    </div><!-- end div comments row -->
 
 {% include footer.html %}
 

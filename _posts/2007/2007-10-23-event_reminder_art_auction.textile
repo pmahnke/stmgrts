@@ -25,4 +25,4 @@ You can have a preview of the pictures available by going to the Trust's website
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

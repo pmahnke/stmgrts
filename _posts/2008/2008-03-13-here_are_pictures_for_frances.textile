@@ -23,4 +23,4 @@ Check them out and if you have more, either email us at "content@stmgrts.org.uk"
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

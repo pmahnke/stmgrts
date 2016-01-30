@@ -19,4 +19,4 @@ The _St Margarets Community Website_ has been told that by residents of Sidney R
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

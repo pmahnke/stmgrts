@@ -17,4 +17,4 @@ Please come along if you are interested.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

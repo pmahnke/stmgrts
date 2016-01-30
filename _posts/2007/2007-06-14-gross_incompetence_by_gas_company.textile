@@ -19,4 +19,4 @@ Vincent Cable has written to the company's Chief Executive to protest and to dem
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

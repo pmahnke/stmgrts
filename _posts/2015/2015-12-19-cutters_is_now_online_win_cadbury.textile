@@ -30,4 +30,4 @@ Good luck everyone!
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

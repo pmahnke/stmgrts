@@ -18,4 +18,4 @@ If so send a short piece about yourself and some photos of your work to Jeannine
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

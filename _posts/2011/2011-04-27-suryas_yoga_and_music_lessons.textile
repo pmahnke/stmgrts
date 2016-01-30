@@ -26,4 +26,4 @@ Contact me on 07770 993289 or "info@soundmindsoundbody.co.uk":mailto:info@soundm
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

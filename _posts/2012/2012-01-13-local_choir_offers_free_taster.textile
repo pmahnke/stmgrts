@@ -22,4 +22,4 @@ Rehearsals are on Tuesdays 8.00-10.00pm at St Mary's School on Richmond Road. A 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

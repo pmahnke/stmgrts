@@ -48,4 +48,4 @@ For further information on this project call 0800 096 5678.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

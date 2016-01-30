@@ -25,4 +25,4 @@ Since the survey, the Central Group (of volunteers) has been investigating the b
 * The process is likely to take approximately 6 months. Lease extensions are likely to cost between 15 and 20 thousand pounds, excluding costs.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

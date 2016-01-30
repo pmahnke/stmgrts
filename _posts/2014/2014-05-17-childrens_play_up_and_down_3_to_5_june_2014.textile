@@ -21,4 +21,4 @@ This highly innovative production integrates live theatre (two actors) with magi
 * "For more about the show and tickets":http://www.gagatheatre.co.uk/book-tickets/
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -15,4 +15,4 @@ There willl be a 25th Birthday Party for the _East Twickenham Neighbourhood Asso
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -20,4 +20,4 @@ Could mindfulness be your path to less stress and greater wellbeing?
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

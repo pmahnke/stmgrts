@@ -70,4 +70,4 @@ _Credits: Photographs by Amanda Day_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

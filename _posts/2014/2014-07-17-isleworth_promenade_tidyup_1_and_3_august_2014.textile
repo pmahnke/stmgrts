@@ -25,4 +25,4 @@ They would like a few volunteers to help on the days, and to ask if there is any
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -23,4 +23,4 @@ _In aid of St Margarets Lenten Project_
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

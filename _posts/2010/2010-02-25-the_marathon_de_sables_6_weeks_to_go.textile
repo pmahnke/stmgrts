@@ -24,4 +24,4 @@ I am raising money for F.R.O.D.O. which is a charity transforming the quality of
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

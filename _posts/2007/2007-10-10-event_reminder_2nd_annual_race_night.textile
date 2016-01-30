@@ -26,4 +26,4 @@ You can purchase tickets and horses by calling Zeph King on 07977 298045. Altern
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

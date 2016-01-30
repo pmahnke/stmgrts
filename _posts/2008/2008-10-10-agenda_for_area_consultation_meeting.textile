@@ -28,4 +28,4 @@ The Council's Cabinet agreed in September 2008 that at the Autumn 2008 round of 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

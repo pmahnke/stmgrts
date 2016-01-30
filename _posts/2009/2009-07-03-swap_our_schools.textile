@@ -36,4 +36,4 @@ I acknowledge there is a pupil placement crisis (not new, but a crisis nonethele
 <cite>-- from Nigel Cannings</cite> 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

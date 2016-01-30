@@ -36,4 +36,4 @@ Additionally, the Council's website has more information "here":http://www.richm
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

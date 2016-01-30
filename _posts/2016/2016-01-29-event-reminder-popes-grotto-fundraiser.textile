@@ -26,4 +26,4 @@ h4. More Information
 * For tickets please contact "popesgrotto@radnorhouse.org":mailto:popesgrotto@radnorhouse.org
 * "www.popesgrotto.org.uk/news.html":http://www.popesgrotto.org.uk/news.html
 
-{% include comments.html commentfile=page.commentfile%}
+

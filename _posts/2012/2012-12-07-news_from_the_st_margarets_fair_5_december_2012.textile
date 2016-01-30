@@ -24,4 +24,4 @@ This year the meal also enjoyed traditional songs from the St Stephens Community
 |<a href="//stmgrts.org.uk/assets/images/2012/stm_xmas_2012_2.jpg" title="See larger version of - stm xmas 2012 2"><img src="//stmgrts.org.uk/assets/images/2012/stm_xmas_2012_2_thumb.jpg" width="150" height="114" alt="stm xmas 2012 2" class="photo " /></a>|<a href="http://stmgrts.org.uk/assets/images/2012/stm_xmas_2012_3.jpg" title="See larger version of - stm xmas 2012 3"><img src="http://stmgrts.org.uk/assets/images/2012/stm_xmas_2012_3_thumb.jpg" width="150" height="116" alt="stm xmas 2012 3" class="photo " /></a>|
 
 
-{% include comments.html commentfile=page.commentfile%}
+

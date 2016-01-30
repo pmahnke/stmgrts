@@ -48,4 +48,4 @@ Due to the shortage of property to meet demand we are offering;
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

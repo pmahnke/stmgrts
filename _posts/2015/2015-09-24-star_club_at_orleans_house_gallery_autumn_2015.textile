@@ -21,4 +21,4 @@ h4. More Information
 * Book here: "www2.richmond.gov.uk/richmondbookings/default.aspx":http://www2.richmond.gov.uk/richmondbookings/default.aspx
 
 
-{% include comments.html commentfile=page.commentfile%}
+

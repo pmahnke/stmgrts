@@ -27,4 +27,4 @@ If you can, please try and use the shops in our community when you can and keep 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

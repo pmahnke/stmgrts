@@ -31,4 +31,4 @@ If you are interested in taking part in the talent contest, now open for applica
 <cite>-- from Elaine Samuels</cite>
 
 
-{% include comments.html commentfile=page.commentfile%}
+

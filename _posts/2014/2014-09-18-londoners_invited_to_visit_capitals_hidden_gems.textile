@@ -58,4 +58,4 @@ London co-ordinator Fiona Morgan says that although the places of interest are r
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

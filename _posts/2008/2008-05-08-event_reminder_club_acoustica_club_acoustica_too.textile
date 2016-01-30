@@ -39,4 +39,4 @@ Just turn up on the night, first come, first served. Most acts get a 2-song slot
 * For more information, or to book a slot, please email "caz@starturn.biz":mailto:caz@starturn.biz.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

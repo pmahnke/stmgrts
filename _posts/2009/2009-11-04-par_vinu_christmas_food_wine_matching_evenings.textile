@@ -48,4 +48,4 @@ Each evening is limited to 24 people so please be sure to reserve your place ear
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

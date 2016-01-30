@@ -28,4 +28,4 @@ Full story in The Jubilee Edition of the My St Margarets Magazine - out next wee
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

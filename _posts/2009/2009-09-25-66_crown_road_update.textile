@@ -25,4 +25,4 @@ Today a number of local residents have informed the Council's Planning departmen
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

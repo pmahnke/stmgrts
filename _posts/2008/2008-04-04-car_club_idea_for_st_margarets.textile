@@ -34,4 +34,4 @@ Streetcar has been twice as successful as the London Congestion Charge at cuttin
 The average cost per annum of owning a car which is used for 2 representative trips per week is &pound;2,749 (AA figures), whereas it is only &pound;707 if using Streetcar for exactly the same trips. Source : The AA, Streetcar's own figures.
 
 
-{% include comments.html commentfile=page.commentfile%}
+

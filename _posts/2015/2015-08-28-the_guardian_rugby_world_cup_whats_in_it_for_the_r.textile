@@ -34,4 +34,4 @@ It is every resident's nightmare: inebriated sports fans vomiting or urinating o
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

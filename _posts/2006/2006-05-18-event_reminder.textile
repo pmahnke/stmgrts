@@ -14,4 +14,4 @@ This Saturday, from 12 - 3pm is "St Stephens Annual Summer Fair":/event/Fair/200
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

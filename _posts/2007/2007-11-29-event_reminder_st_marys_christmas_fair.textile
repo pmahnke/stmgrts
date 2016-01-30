@@ -30,4 +30,4 @@ All organised by Friends of St.Mary's in aid of the school.
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

@@ -27,4 +27,4 @@ Funded by the Leader of the Council, Lord True's annual allowance, the Tea Dance
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

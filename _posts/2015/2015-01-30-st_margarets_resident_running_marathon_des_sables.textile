@@ -22,4 +22,4 @@ The Medecins Sans Frontieres was officially created on 22<sup>nd</sup> December 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

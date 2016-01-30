@@ -45,4 +45,4 @@ Put your local and architectural knowledge into action!   Join us for a fun day 
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+

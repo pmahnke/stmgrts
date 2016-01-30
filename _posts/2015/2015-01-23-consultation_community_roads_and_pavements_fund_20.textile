@@ -29,4 +29,4 @@ on the Richmond Council website":https://consultation.richmond.gov.uk/environmen
 
 
 
-{% include comments.html commentfile=page.commentfile%}
+
