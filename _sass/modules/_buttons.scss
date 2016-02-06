@@ -83,7 +83,7 @@ input {
 .button.button-primary,
 button.button-primary {
   color: #fff;
-  background-color: $primary-color;
+  background-color: $dark-color;
   border-color: $border-color;
 }
 
@@ -92,7 +92,7 @@ input {
   &[type="reset"].button-primary,
   &[type="button"].button-primary {
     color: #fff;
-    background-color: $primary-color;
+    background-color: $dark-color;
     border-color: $border-color;
   }
 }
