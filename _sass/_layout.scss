@@ -278,9 +278,9 @@ img {
 #navigation {
   width: 100%;
   margin: 0;
-  background-color: #4C4C99;
+  background-color: $menu-color;
   .container {
-    background-color: #4C4C99;
+    background-color: $menu-color; /*#4C4C99*/
   }
 }
 
@@ -318,9 +318,9 @@ nav {
 
 #banner {
   .container {
-    background-color: #9999CC;
+    background-color: $primary-color;
   }
-  background-color: #9999CC;
+  background-color: $primary-color;
   border-top: 2px solid #FFFFFF;
   margin: 0;
   padding: 0.5em 0;
@@ -435,11 +435,11 @@ ul.share-buttons img{
 
 #footer {
   border-top: 6px solid #eee;
-  background-color: #663366;
+  background-color: $dark-color;
   color: #fff;
   padding: 3em 0;
   .container {
-    background-color: #663366;
+    background-color: $dark-color;
   }
   h2 {
     font-size: 1.2em;
