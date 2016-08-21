@@ -7,14 +7,14 @@ category: around_town
 date: 2015-11-13 20:24:01
 excerpt: |
     <a href="//stmgrts.org.uk/assets/images/2015/FADO_Fado_in_Lisbon.jpg" title="See larger version of - Fado in Lisbon"><img src="//stmgrts.org.uk/assets/images/2015/FADO_Fado_in_Lisbon_thumb.jpg" width="150" height="84" alt="Fado in Lisbon" class="photo right" /></a>
-    
+
     Perhaps the most widely loved thing to come out of Portugal is probably the least well known. Its name is Fado, a traditional folk genre described by its thousands of <em>'aficionados'</em> as the 'Soul of Portugal'. It is a sombre, soulful and melancholic retelling of old themes - of broken hearts, of social hardship, of poverty and of the sea. It is best contained in the Portuguese word 'saudade', which means longing or a sense of permanent and irreparable loss. Its history is uncertain...
 
 ---
 
 <div class="box">
 
-Portuguese pronunciation: [ˈfa&#xF0;u]; "destiny, fate"
+Portuguese pronunciation: [ˈfa&#240;u]; "destiny, fate"
 
 </div>
 
@@ -93,10 +93,3 @@ h4. Ana Moura singing 'Fado Loucura'
 
 
 <cite>-- from Martyn Day</cite>
-
-
-
-
-
-
-
