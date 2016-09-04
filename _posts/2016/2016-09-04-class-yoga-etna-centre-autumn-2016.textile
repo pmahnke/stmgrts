@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sunday Eventing Yoga Classes at the ETNA Centre"
+title: "Sunday Evening Yoga Classes at the ETNA Centre"
 permalink: /archives/2016/09/<name>.html
 commentfile: 2016-09-04-class-yoga-etna-centre-autumn-2016
 category: around_town
