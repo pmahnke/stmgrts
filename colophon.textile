@@ -6,7 +6,7 @@ permalink: /colophon/
 
 h2. About this Site
 
-p. This site was created by a group of local residents of St Margarets, Middlesex.  Our mission is simple -- help foster a stronger community identity.  There is no hidden agenda, no political affiliations and to date, all the work is volunteer.
+p. This site was created by a group of local residents of St Margarets, Middlesex.  Our mission is simple -- help foster a stronger community identity.  There are no hidden agendas, no political affiliations and to date, all the work is volunteer.
 
 h3. Who is Involved
 
@@ -14,16 +14,16 @@ p. The site was created by <a href="mailto:peter@stmgrts.org.uk">Peter Mahnke</a
 
 h3. How can you help?
 
-p. Well, as you might have guessed, this site is no one's day job.  So if anyone has leads, ideas, additional events or wants to help contribute in other ways, please <a href="mailto:volunteer@stmgrts.org.uk">email us</a>.
+p. Well, as you might have guessed, this site is no one's day job.  So if anyone has leads, ideas, events or wants to help contribute in other ways, please <a href="mailto:volunteer@stmgrts.org.uk">email us</a>.
 
 h3. How was this site built?
 
-p. It was built using mostly free, or very inexpensive tools:
+p. It has been created using mostly free, or very inexpensive tools:
 
 * the core of the site is based on a "jekyll":http://jekyllrb.com/
-** for the first ten years, it was based on "Movable Type":http://www.movabletype.org
-* forums are done with the customs software
-* the train timetables, events, polls, local information/directory, newsletter sign-up are based on custom Perl scripts
+** for the first ten years, it ran on "Movable Type":http://www.movabletype.org
+* forums and comments run on custom software
+* the train timetables, events, polls, directory, newsletter sign-up are based on custom Perl scripts
 
 p. If you are interested, we are maintaining a "change log":/changes.
 
@@ -33,8 +33,8 @@ p. The site is built with and validated against established web standards.  Your
 
 h3. How is the content licensed?
 
-p. Currently we are using the "Creative Commons Attribution-NoDerivs 2.0 License":http://creativecommons.org/licenses/by-nd/2.0/ which basically means, you can copy, distribute, display, and perform the work and make commercial use of the work; however, this is under the following conditions, you must give us proper attribution and you can not create derivatives.  But read the license for more details or <a href="mailto:content@stmgrts.org.uk">contact us</a> if you have specific questions.
+p. Currently we are using the "Creative Commons Attribution-NoDerivs 2.0 License":http://creativecommons.org/licenses/by-nd/2.0/ which  means, you can copy, distribute, display, and perform the work and make commercial use of the work; however, this is under the following conditions, you must give us proper attribution and you can not create derivatives.  But read the license for more details or <a href="mailto:content@stmgrts.org.uk">contact us</a> if you have specific questions.
 
 h3. Who is paying for the site?
 
-p. Currently the site is being supported by Peter Mahnke, but over time, I hope that donations and advertising help offset some of the costs.  If you are interested in donating time or money or interested in advertising, please <a href="mailto:support@stmgrts.org.uk">contact us</a>.
+p. Currently the site is being supported by Peter Mahnke, but over time, I hope that donations may offset some of the costs.  If you are interested in donating time or money, please <a href="mailto:support@stmgrts.org.uk">contact us</a>.
