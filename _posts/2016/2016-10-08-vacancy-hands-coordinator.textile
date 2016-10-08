@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Local Job Vacancy: Part-time Co-ordinator - Hands"
-permalink: /archives/2016/10/vacancy-hands-coordinator.html
+permalink: /archives/2016/10/2016-10-08-vacancy-hands-coordinator.html
 commentfile: 2016-10-08-vacancy-hands-coordinator
 category: around_town
 date: 2016-10-08 10:01:25
