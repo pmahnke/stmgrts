@@ -9,8 +9,11 @@
 #   written by Peter Mahnke 1 Nov 2001
 #
 #   last modified by Peter Mahnke on 17 Dec 2001
+#   15 October 2016 - added htaccess
 #
 #######################################################################
+
+require ("/home/stmargarets/cgi-bin/auth.pl");
 
 #######################################################################
 #Variables
@@ -43,11 +46,12 @@ $FORM{'text'} = &clean($FORM{'text'}) if ($FORM{'text'});
 &readLocaleInfo;
 $siteDir = $dir{$FORM{'category'}};
 
-if (!%FORM) {
+if (!&check_auth()) {
 
+    print STDERR qq |confused and quitting|;
     exit;
 
-} elsif (!$FORM{'page'} && $FORM{'passwd'} eq "sm") {
+} elsif (!$FORM{'page'}) {
 
   # nothing was submitted.... print the list of locales
   &printCategoryMenu;
@@ -106,8 +110,6 @@ if (!%FORM) {
 
   &saveTempFile($FORM{'file'});
   &printSavePage;
-
-} elsif ($FORM{'page'} eq "") {
 
 } else {
 
@@ -293,8 +295,6 @@ Content-type: text/html; charset=utf-8
 
       <form method=post action=$thisScript>
 
-      <input type="hidden" name="passwd" value="$FORM{'passwd'}" />
-
       <h1>$longName ~ $longName{$FORM{'category'}}</h1>
 
       <h2>Click to publish</h2>
@@ -424,7 +424,6 @@ Content-type: text/html; charset=utf-8
 
         <p><input type="hidden" name="category" value="$FORM{'category'}" />
         <input type="hidden" name="file" value="$FORM{'file'}" />
-        <input type="hidden" name="passwd" value="$FORM{'passwd'}" />
         <input type="submit" name="page" value="review" />
         <input type="submit" name="page" value="save" /></p>
 
@@ -492,8 +491,6 @@ Content-type: text/html; charset=utf-8
   <body>
     <div class="content">
       <form method="post" action="$thisScript">
-
-        <input type="hidden" name="passwd" value="$FORM{'passwd'}" />
 
         <h1>$longName</h1>
 
