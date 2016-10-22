@@ -4,7 +4,7 @@ title: "Richmond Cycling Strategy Consultation"
 permalink: /archives/2016/10/consultation-cycling-strategy.html
 commentfile: 2016-10-22-consultation-cycling-strategy
 category: news
-date: 2016-10-22 13:34:19
+date: 2016-10-22 12:34:19
 excerpt: |
     The London Borough of Richmond upon Thames has one of the highest proportions of people cycling in London (7% of journeys). However, there is still more that can be done to inspire people to cycle and make it safer for all. Whether you cycle or not we would like to hear your views on how we can improve cycling in Richmond borough. Your comments will help us understand what we need to do to get more people cycling.
 ---
