@@ -3,7 +3,6 @@ _site
 .sass-cache
 .jekyll-metadata
 _includes/homepage*
-assets/images/*
 *.yaml~
 *.*~
 taleo
