@@ -49,31 +49,31 @@ $siteDir = $dir{$FORM{'category'}};
 if (!$FORM{'page'}) {
 
   # nothing was submitted.... print the list of locales
-  &printCategoryMenu if (&check_auth());
+  &printCategoryMenu;
 
 } elsif ($FORM{'page'} eq "category") {
 
   # the locale was selected and now get the pages to edit
-  &printFirstPage if (&check_auth());
+  &printFirstPage;
 
 } elsif ($FORM{'page'} eq "build all") {
 
-  &printBuildAllPage if (&check_auth());
+  &printBuildAllPage;
 
 } elsif ($FORM{'page'} eq "auto build all") {
 
-  &autoBuildAll if (&check_auth());
+  &autoBuildAll;
 
 } elsif ($FORM{'page'} eq "new page") {
 
-  &printEditPage if (&check_auth());
+  &printEditPage;
 
 } elsif ($FORM{'page'} eq "edit") {
 
   # a file was passed to be edited
   `$CMDcp $rootDir$inputDir$siteDir$FORM{'file'} $rootDir$inputDir$siteDir$FORM{'file'}.temp`;
   $page = &readPage($FORM{'file'});
-  &printEditPage if (&check_auth());
+  &printEditPage;
 
 } elsif ($FORM{'page'} eq "review") {
 
@@ -103,12 +103,12 @@ if (!$FORM{'page'}) {
 
   $FORM{'file'} = $FORM{'newfile'} if ($FORM{'newfile'});
 
-  &saveTempFile($FORM{'file'}) if (&check_auth());
+  &saveTempFile($FORM{'file'});
   &printSavePage;
 
 } else {
 
-  &printCategoryMenu if (&check_auth());
+  &printCategoryMenu;
 }
 exit;
 
