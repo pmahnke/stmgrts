@@ -23,7 +23,7 @@ $buildPagesScript = "build.cgi";
 $rootDir          = "/home/stmargarets/repos/stmgrts";
 $outputDir        = "";
 $inputDir         = "/static/";
-$longName         = "stmgrts.org.uk";
+$longName         = "www.stmgrts.org.uk";
 $shortNameDB      = "$rootDir"."/static/properties.db";
 $localhost        = "stmgrts.org.uk";
 $CMDcp            = "/bin/cp";
@@ -46,39 +46,34 @@ $FORM{'text'} = &clean($FORM{'text'}) if ($FORM{'text'});
 &readLocaleInfo;
 $siteDir = $dir{$FORM{'category'}};
 
-if (!&check_auth()) {
-
-    print STDERR qq |confused and quitting|;
-    exit;
-
-} elsif (!$FORM{'page'}) {
+if (!$FORM{'page'}) {
 
   # nothing was submitted.... print the list of locales
-  &printCategoryMenu;
+  &printCategoryMenu if (&check_auth());
 
 } elsif ($FORM{'page'} eq "category") {
 
   # the locale was selected and now get the pages to edit
-  &printFirstPage;
+  &printFirstPage if (&check_auth());
 
 } elsif ($FORM{'page'} eq "build all") {
 
-  &printBuildAllPage;
+  &printBuildAllPage if (&check_auth());
 
 } elsif ($FORM{'page'} eq "auto build all") {
 
-  &autoBuildAll;
+  &autoBuildAll if (&check_auth());
 
 } elsif ($FORM{'page'} eq "new page") {
 
-  &printEditPage;
+  &printEditPage if (&check_auth());
 
 } elsif ($FORM{'page'} eq "edit") {
 
   # a file was passed to be edited
   `$CMDcp $rootDir$inputDir$siteDir$FORM{'file'} $rootDir$inputDir$siteDir$FORM{'file'}.temp`;
   $page = &readPage($FORM{'file'});
-  &printEditPage;
+  &printEditPage if (&check_auth());
 
 } elsif ($FORM{'page'} eq "review") {
 
@@ -108,12 +103,12 @@ if (!&check_auth()) {
 
   $FORM{'file'} = $FORM{'newfile'} if ($FORM{'newfile'});
 
-  &saveTempFile($FORM{'file'});
+  &saveTempFile($FORM{'file'}) if (&check_auth());
   &printSavePage;
 
 } else {
 
-  &printCategoryMenu;
+  &printCategoryMenu if (&check_auth());
 }
 exit;
 
