@@ -1,0 +1,30 @@
+FILM|1|Remove recycling?|Should the Council remove the recycling from Barrons Road?|Yes&No&Don't care|radio|Remove recycling The Barrons?
+SCHOOLS|0|Get school place?|Did your child get into your first choice school this year 2011?|Yes, older sibling&Yes&No&NA|radio|First choice?
+SCHOOLS|0|Getting a school places in 2012|Are you worried about your child getting into school next year?|Yes&No, proximity&No, older sibling&NA|radio|Next year?
+TERROR|0|Mosque Trip|Should they have cancelled the trip?|Definately&Not sure&No&Don't care|radio|Cancel the Mosque Trip?
+CAR|0|Car Clubs|What do you think of Car Clubs?|Already joined one&Thinking about it&No thanks|radio|Car Clubs
+CPZ3|0|St Margarets CPZ|Should there be a CPZ for the whole of St Margarets?|Yes&No&Undecided&Just include my road|radio|CPZ for St Margarets?
+CPZ2|0|CPZ on Your Road?|Would you like your road to be included in the CPZ?|Yes&No&Undecided|radio|CPZ for St Margarets?
+CPZ2|0|Adjacent Roads|If the adjacent roads have a CPZ introduced would you want your road included?|Yes&No&Undecided|radio|CPZ for St Margarets?
+CPZ2|0|Writing Council|Have you written the Council to comment?|Yes&No&Planning to|radio|CPZ for St Margarets?
+CPZ|0|St Margarets CPZ|Should there be a CPZ for the whole of St Margarets?|Yes&No&Undecided&Just include my road|radio|CPZ for St Margarets?
+ststephens|0|Moormead Fees|Should St Stephens School pay Richmond Council 1,600 pounds per term to use Moormead Park?|Yes&No&Depends on Council's reason|radio|Moormead Fees
+police|0|Dedicated Force|Should St Margarets have its own dedicated police officers?|yes&no|radio|Police Survey
+police|0|Key Functions|What are the most important things the Police can do?|Walk around the streets.&Walk around the streets but stop and talk to people.&Be visible during morning.&Be visible during afternoon.&Be visible during early evening.&Be visible during late evening.&Be visible at different times during the week.&Be in particular location at specific times.|checkbox|Police Survey
+softplay|0|Soft Play Space|Do you support the current proposal for a Soft Play Space in St Magarets Business Centre?|yes&no&yes, but not at this location|radio
+newfooter|0|New Footer|What do you think of the new Footer?|Love it&Too Purple&Too Big&Don't Care&Hate it|checkbox
+marblehilllicense|0|Marble Hill's License|What do you think of English Heritage's license application for Marble Hill?|it is acceptable&NOT for large events&fine - only for 16 events&limit the hours more&NOT accetable|radio
+tescobaypost|0|Tesco's Loading Bay|Since 31 October, how have the changes in the Loading Bay effected conditions on St Margarets Road?|far worse&worse&same&better&much better|radio
+tescobay|0|Tesco's Parking Issues|How will the changes in the Loading Bay effect conditions on St Margarets Road?|worse&same&better|radio
+parvinu|0|Wine Bar|Do you support the current proposal for a Wine Bar below Streets?|yes&no&yes, but not this plan|radio
+farmmkt|0|Sunday Market|What would you like to see at the farmers market?|bakery&fish mongers&organic vegtables&butcher&crafts&flowers&jams&ethnic food|checkbox
+recycle|0|Community Recycling|Do you think the Barron's Road site should be adopted?|yes&no|radio
+cashlessparking|0|Cashless Parking|Do you think a 'cashless parking system' is a good idea?|yes&no&don't care|checkbox
+
+
+
+
+
+
+
+
