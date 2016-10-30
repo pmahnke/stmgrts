@@ -8,10 +8,10 @@ date: 2012-05-19 10:20:20
 excerpt: |
     <a href="http://www.stmgrts.org.uk/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="http://www.stmgrts.org.uk/assets/images/2012/pornlady_thumb.jpg" width="150" height="84" alt="pornlady" class="photo right" /></a>
 
-    Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":http://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
+    Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":https://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
 ---
 
-Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":http://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
+Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":https://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
 
 <a href="http://www.stmgrts.org.uk/assets/images/2012/bad_publicity.png" title="See larger version of - bad publicity"><img src="http://www.stmgrts.org.uk/assets/images/2012/bad_publicity_thumb.png" width="400" height="224" alt="bad publicity" class="photo center" /></a>
 Immediately we checked and the report says, we are in-fact blocked by Orange and T-Mobile.  We then attempted to get on IRC with the Open Rights Group, tried to call, but ended up emailing them - no response yet.  Well it turns out that a lot of other news groups picked up the story and ran very similar versions of it to the original report; however, pulling out this site as an example of the ridiculousness of the blocking mechanism.

@@ -30,7 +30,7 @@ The transport network will be busier than usual through Twickenham, Richmond, Ho
 
 h4. More Information
 
-* For more details and to plan your journey, please visit "tfl.gov.uk/rugby-travel":http://tfl.gov.uk/rugby-travel
+* For more details and to plan your journey, please visit "tfl.gov.uk/rugby-travel":https://tfl.gov.uk/rugby-travel
 * "Richmond Council information on the road closures":http://www.richmond.gov.uk/home/rugby_world_cup/rwc2015_community_impact/rwc2015_transport/rwc2015_roads.htm
 
 
