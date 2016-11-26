@@ -9,10 +9,10 @@
 
 /* Table of Content
 ==================================================
-	#Site Styles
-	#Page Styles
-	#Media Queries
-	#Font-Face */
+  #Site Styles
+  #Page Styles
+  #Media Queries
+  #Font-Face */
 
 /* #Site Styles
 ================================================== */
@@ -204,26 +204,26 @@ IMAGE STYLES
 
     USAGE
 
-	<img src="location of image" alt="description"
-	     width="in pixels" height="in pixels"
-	     class="inline OR image photo OR right OR left OR right photo OR left photo" />
+  <img src="location of image" alt="description"
+       width="in pixels" height="in pixels"
+       class="inline OR image photo OR right OR left OR right photo OR left photo" />
 
     DESCRIPTION
 
-	inline - makes the picture act like a word,
-	 just sitting wherever it was placed
+  inline - makes the picture act like a word,
+   just sitting wherever it was placed
 
-	photo  - adds a 1 pixel solid grey border
-	 around the photo that is 5 pixels from
-	 the photo and addes some space around
-	 the border, so the text isn't right up
-	 against it
+  photo  - adds a 1 pixel solid grey border
+   around the photo that is 5 pixels from
+   the photo and addes some space around
+   the border, so the text isn't right up
+   against it
 
-	right  - pushes the photo to the right of the text
+  right  - pushes the photo to the right of the text
 
-	left   - pushes the photo to the left of the text
+  left   - pushes the photo to the left of the text
 
-	center - centers the image, text will not wrap around
+  center - centers the image, text will not wrap around
 
 */
 
@@ -1165,20 +1165,63 @@ forum table {
   }
 }
 
+// cross fade two photos, used on st pauls piece
+@keyframes crossfade__FadeInOut {
+  0% {
+    opacity: 1;
+  }
+
+  45% {
+    opacity: 1;
+  }
+
+  55% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.crossfade {
+  height: 600px;
+  margin: 40px auto;
+  position: relative;
+  width: 600px;
+
+  &__image {
+    left: 0;
+    position: absolute;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+
+    &--top {
+      animation-name: crossfade__FadeInOut;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: infinite;
+      animation-duration: 5s;
+      animation-direction: alternate;
+    }
+  }
+}
+
 /* #Font-Face
 ================================================== */
 /* 	This is the proper syntax for an @font-face file
-		Just create a "fonts" folder at the root,
-		copy your FontName into code below and remove
-		comment brackets */
+    Just create a "fonts" folder at the root,
+    copy your FontName into code below and remove
+    comment brackets */
 
 /*	@font-face {
-	    font-family: 'FontName';
-	    src: url('../fonts/FontName.eot');
-	    src: url('../fonts/FontName.eot?iefix') format('eot'),
-	         url('../fonts/FontName.woff') format('woff'),
-	         url('../fonts/FontName.ttf') format('truetype'),
-	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
-	    font-weight: normal;
-	    font-style: normal; }
+      font-family: 'FontName';
+      src: url('../fonts/FontName.eot');
+      src: url('../fonts/FontName.eot?iefix') format('eot'),
+           url('../fonts/FontName.woff') format('woff'),
+           url('../fonts/FontName.ttf') format('truetype'),
+           url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+      font-weight: normal;
+      font-style: normal; }
 */
