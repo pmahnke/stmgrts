@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow:
+Disallow: /cgi-bin/train_parser.cgi
+Disallow: /l
+Disallow: /static/editPages.cgi
+Disallow: /static/elections06
+Disallow: /static/directory
+Disallow: /static/dirk
+Disallow: /static/info/
+Disallow: /static/realale
+Disallow: /taleo
+Sitemap: http://stmargarets.london/sitemap.xml.gz
