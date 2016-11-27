@@ -6,7 +6,7 @@ commentfile: 2012-11-30-ladies_want_to_be_a_rock_n_roll_star
 category: around_town
 date: 2012-11-30 12:38:21
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/Nark_mic.jpg" title="See larger version of - Nark's mic"><img src="//stmgrts.org.uk/assets/images/2012/Nark_mic_thumb.jpg" width="150" height="208" alt="Nark's mic" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/Nark_mic.jpg" title="See larger version of - Nark's mic"><img src="//stmargarets.london/assets/images/2012/Nark_mic_thumb.jpg" width="150" height="208" alt="Nark's mic" class="photo right" /></a>
     
     Can you sing like Brenda Lee? Can you "dooby-doo" like the Ronettes? Do you look hot in a 'frou-frou' dress? Are you into the popular music of the late 1950's?
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/Nark_mic.jpg" title="See larger version of - Nark's mic"><img src="//stmgrts.org.uk/assets/images/2012/Nark_mic_thumb.jpg" width="150" height="208" alt="Nark's mic" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/Nark_mic.jpg" title="See larger version of - Nark's mic"><img src="//stmargarets.london/assets/images/2012/Nark_mic_thumb.jpg" width="150" height="208" alt="Nark's mic" class="photo right" /></a>
 
 Can you sing like Brenda Lee? Can you "dooby-doo" like the Ronettes? Do you look hot in a 'frou-frou' dress? Are you into the popular music of the late 1950's?
 

@@ -6,7 +6,7 @@ commentfile: 2008-11-06-around_the_world_unveils_a_new_look_store
 category: news
 date: 2008-11-06 14:12:09
 excerpt: |
-    !(right) http://www.stmgrts.org.uk/images/logo_Denham_Finney.gif 150x54!
+    !(right) http://stmargarets.london/images/logo_Denham_Finney.gif 150x54!
     
     This weekend St Margarets based gift and homewares store, _Around the World_, is unveiling it's 'new look' under a new name -- _Denham & Finney_. Under the same management, Jon Denham Tompkins and partner, Emma Finney are expanding their existing successful gift and homewares shop to offer local residents an even greater variety of choice:
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-!(right) http://www.stmgrts.org.uk/images/logo_Denham_Finney.gif 150x54!
+!(right) http://stmargarets.london/images/logo_Denham_Finney.gif 150x54!
 
 This weekend St Margarets based gift and homewares store, _Around the World_, is unveiling it's 'new look' under a new name -- _Denham & Finney_. Under the same management, Jon Denham Tompkins and partner, Emma Finney are expanding their existing successful gift and homewares shop to offer local residents an even greater variety of choice:
 

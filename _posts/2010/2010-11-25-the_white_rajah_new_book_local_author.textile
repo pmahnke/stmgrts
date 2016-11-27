@@ -6,14 +6,14 @@ commentfile: 2010-11-25-the_white_rajah_new_book_local_author
 category: around_town
 date: 2010-11-25 18:05:46
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/book_the_white_rajah.jpg" title="See larger version of - Book Cover: The White Rajah"><img src="//stmgrts.org.uk/assets/images/2010/book_the_white_rajah_thumb.jpg" width="150" height="225" alt="Book Cover: The White Rajah" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/book_the_white_rajah.jpg" title="See larger version of - Book Cover: The White Rajah"><img src="//stmargarets.london/assets/images/2010/book_the_white_rajah_thumb.jpg" width="150" height="225" alt="Book Cover: The White Rajah" class="photo right" /></a>
     
     bq.. "My novel, 'The White Rajah' is published at the end of November by JMS Books in the USA. It's a story based on the life of James Brooke a Victorian adventurer who ran his own country in Borneo. If you want to know what it's all about "check out my blog":http://thewhiterajah.blogspot.com/2010/11/whats-your-book-all-about-then.html 
     
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/book_the_white_rajah.jpg" title="See larger version of - Book Cover: The White Rajah"><img src="//stmgrts.org.uk/assets/images/2010/book_the_white_rajah_thumb.jpg" width="150" height="225" alt="Book Cover: The White Rajah" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/book_the_white_rajah.jpg" title="See larger version of - Book Cover: The White Rajah"><img src="//stmargarets.london/assets/images/2010/book_the_white_rajah_thumb.jpg" width="150" height="225" alt="Book Cover: The White Rajah" class="photo right" /></a>
 
 bq.. "My novel, 'The White Rajah' is published at the end of November by JMS Books in the USA. It's a story based on the life of James Brooke a Victorian adventurer who ran his own country in Borneo. If you want to know what it's all about "check out my blog":http://thewhiterajah.blogspot.com/2010/11/whats-your-book-all-about-then.html 
 

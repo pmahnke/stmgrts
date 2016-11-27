@@ -6,7 +6,7 @@ commentfile: 2009-08-05-their_royal_highnesses_request_the_pleasure
 category: around_town
 date: 2009-08-05 22:16:08
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/scouts_palace.jpg"><img src="//stmgrts.org.uk/assets/images/2009/scouts_palace-thumb.jpg" width="150" height="100" alt="1st St Margarets at Buckingham Palace" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/scouts_palace.jpg"><img src="//stmargarets.london/assets/images/2009/scouts_palace-thumb.jpg" width="150" height="100" alt="1st St Margarets at Buckingham Palace" class="photo right" /></a>
     
     
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/scouts_palace.jpg"><img src="//stmgrts.org.uk/assets/images/2009/scouts_palace-thumb.jpg" width="150" height="100" alt="1st St Margarets at Buckingham Palace" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/scouts_palace.jpg"><img src="//stmargarets.london/assets/images/2009/scouts_palace-thumb.jpg" width="150" height="100" alt="1st St Margarets at Buckingham Palace" class="photo right" /></a>
 
 
 
@@ -66,7 +66,7 @@ bq. Bow with a court bow, an inclination of the head from the neck, (no bending 
 
 Got that? When the St. Margarets Cubs met Camilla (That's HRH D of C) and shook hands with her all these well-intentioned instructions were completely forgotten - but nobody seem to notice or mind. At least they didn't call her "Miss".
 
-<object width="320" height="265"><param name="movie" value="//stmgrts.org.uk/assets/images/2009/gKiOcdM6Gbk&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gKiOcdM6Gbk&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+<object width="320" height="265"><param name="movie" value="//stmargarets.london/assets/images/2009/gKiOcdM6Gbk&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gKiOcdM6Gbk&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
 
 _B.P. Garden Parties - the Official Video_
 
@@ -82,7 +82,7 @@ h4. 9. GOING HOME
 
 At 6.00pm precisely the band played "The National Anthem", TRH disappeared up the garden steps and the day was over. Like many of us living in the terraces of St Margarets B.P. seems to have no side entrance - so to get from the garden back to the real world you have to pass through the Palace via the 'Grand Entrance' as it is known. As we did liveried staff watched to make sure that we didn't nick the family silver. Last year over 4000 of the spoons used at the garden parties went on walkabout never to be seen again so we could understand their concern. Not that we would do such a thing, us being Cubs (by Royal Appointment) and all!
 
-<div class="img_caption right"><a href="//stmgrts.org.uk/assets/images/2009/wolf_clubs_1953.jpg"><img src="//stmgrts.org.uk/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="THE CUB WOT WROTE IT!" class="photo" />
+<div class="img_caption right"><a href="//stmargarets.london/assets/images/2009/wolf_clubs_1953.jpg"><img src="//stmargarets.london/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="THE CUB WOT WROTE IT!" class="photo" />
 </a><span>THE CUB WOT WROTE IT!</span></div>
 
 

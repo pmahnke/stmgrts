@@ -6,7 +6,7 @@ commentfile: 2009-04-23-recipe_7_minute_peanutlime_noodles
 category: food
 date: 2009-04-23 14:06:26
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/peanut-lime-noodles.jpg"><img src="//stmgrts.org.uk/assets/images/2009/peanut-lime-noodles-thumb.jpg" width="107" height="150" alt="7 Minute Peanut-Lime Noodles" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/peanut-lime-noodles.jpg"><img src="//stmargarets.london/assets/images/2009/peanut-lime-noodles-thumb.jpg" width="107" height="150" alt="7 Minute Peanut-Lime Noodles" class="photo right" /></a>
     
     
     "This fabulously quick meal can be cooked in minutes, eaten hot or cold and can be made as a vegetarian or meat based meal.  It is so quick to cook that the most time consuming part is bringing water to boil and cooking the noodles. Another fantastic thing about this recipe is that it is pretty much "no measure." As long as the ingredients are in roughly the right quantities the recipe will work well. The shear simplicity of these noodles make them a new favourite!"
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/peanut-lime-noodles.jpg"><img src="//stmgrts.org.uk/assets/images/2009/peanut-lime-noodles-thumb.jpg" width="107" height="150" alt="7 Minute Peanut-Lime Noodles" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/peanut-lime-noodles.jpg"><img src="//stmargarets.london/assets/images/2009/peanut-lime-noodles-thumb.jpg" width="107" height="150" alt="7 Minute Peanut-Lime Noodles" class="photo right" /></a>
 
 
 "This fabulously quick meal can be cooked in minutes, eaten hot or cold and can be made as a vegetarian or meat based meal.  It is so quick to cook that the most time consuming part is bringing water to boil and cooking the noodles. Another fantastic thing about this recipe is that it is pretty much "no measure." As long as the ingredients are in roughly the right quantities the recipe will work well. The shear simplicity of these noodles make them a new favourite!"

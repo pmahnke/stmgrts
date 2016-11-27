@@ -8,7 +8,7 @@ date: 2012-06-14 21:46:34
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/Carnival1.jpg" title="See larger version of - Carnival"><img src="//stmgrts.org.uk/assets/images/2012/Carnival1_thumb.jpg" width="150" height="99" alt="Carnival" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/Carnival1.jpg" title="See larger version of - Carnival"><img src="//stmargarets.london/assets/images/2012/Carnival1_thumb.jpg" width="150" height="99" alt="Carnival" class="photo right" /></a>
 
 _A free summer party for all the family!_
 
@@ -16,7 +16,7 @@ As the culmination of a two-week Twickenham Riverside festival, Carnival will op
 
 From 1-5pm.
 
-* "More information":http://www.stmgrts.org.uk/event/fair/200705143403
+* "More information":http://stmargarets.london/event/fair/200705143403
 
 
 

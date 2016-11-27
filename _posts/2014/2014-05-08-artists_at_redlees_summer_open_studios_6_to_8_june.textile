@@ -8,7 +8,7 @@ date: 2014-05-08 22:18:57
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="//stmgrts.org.uk/assets/images/2014/Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="//stmargarets.london/assets/images/2014/Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
 
 _Join us in a celebration of original art and the hand-crafted ceramics, glass, fine art, sculpture, jewellery, metalwork, photography, fashion and more_
 
@@ -17,7 +17,7 @@ Located in west London, in a historic building converted from Victorian stables,
 
 h4. More Information
 
-* Open Studios: "June 6 to 8, 2014":http://www.stmgrts.org.uk/event/exhibition/200705144424
+* Open Studios: "June 6 to 8, 2014":http://stmargarets.london/event/exhibition/200705144424
 * Friday: preview with music and bar 6pm-9pm
 * Saturday and Sunday: 11am-6pm - refreshments available
 * Raffle of artists' work

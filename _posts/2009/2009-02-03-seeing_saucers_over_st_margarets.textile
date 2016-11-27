@@ -6,7 +6,7 @@ commentfile: 2009-02-03-seeing_saucers_over_st_margarets
 category: around_town
 date: 2009-02-03 10:51:29
 excerpt: |
-    <img alt="flying saucer- not real!" src="//stmgrts.org.uk/assets/images/2009/flyingsaucer-thumb.jpg" width="150" height="115" class="photo right" />
+    <img alt="flying saucer- not real!" src="//stmargarets.london/assets/images/2009/flyingsaucer-thumb.jpg" width="150" height="115" class="photo right" />
     
     People have been seeing UFOs for centuries. Even the Old Testament prophet Ezekiel who lived some 2600 years ago claimed to have seen one.  
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<img alt="flying saucer- not real!" src="//stmgrts.org.uk/assets/images/2009/flyingsaucer-thumb.jpg" width="150" height="115" class="photo right" />
+<img alt="flying saucer- not real!" src="//stmargarets.london/assets/images/2009/flyingsaucer-thumb.jpg" width="150" height="115" class="photo right" />
 
 bq. "What does all this stuff about flying saucers amount to? What can it mean? What is the truth?"
 

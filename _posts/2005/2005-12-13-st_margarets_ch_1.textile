@@ -8,7 +8,7 @@ date: 2005-12-13 11:32:09
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2005/snowflakeman.jpg"><img src="//stmgrts.org.uk/assets/images/2005/snowflakeman-thumb.jpg" width="150" height="112" alt="Snow Flake" class="ignore photo right"/></a>
+<a href="//stmargarets.london/assets/images/2005/snowflakeman.jpg"><img src="//stmargarets.london/assets/images/2005/snowflakeman-thumb.jpg" width="150" height="112" alt="Snow Flake" class="ignore photo right"/></a>
 
 The _St Margarets Christmas Fair_ attracted over 2,000, according to the Mayor of the London Borough of Richmond upon Thames, Councillor Robin Jowit, who toured the fair and was suitably impressed.
 
@@ -36,7 +36,7 @@ children
 * "Saint Stephens Church":/cgi-bin/directory.cgi?key=200506080822&action=getlisting for hosting the puppet show and for reminding us all of the meaning of Christmas
 * and the _St Margarets Traders Association_ and Simon Chapman for planning and organising everything
 
-_If we have forgotten anyone, please email us (content@stmgrts.org.uk) to fix/update the list._
+_If we have forgotten anyone, please email us (content@stmargarets.london) to fix/update the list._
 
 
 

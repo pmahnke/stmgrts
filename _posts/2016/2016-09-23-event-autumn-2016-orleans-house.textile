@@ -6,7 +6,7 @@ commentfile: 2016-09-23-event-autumn-2016-orleans-house
 category: around_town
 date: 2016-09-23 20:51:58
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/art_club_autumn_2016.jpg" title="See larger version of - art club autumn 2016"><img src="http://www.stmgrts.org.uk/assets/images/2016/art_club_autumn_2016_thumb.jpg" width="150" height="212" alt="art club autumn 2016" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/art_club_autumn_2016.jpg" title="See larger version of - art club autumn 2016"><img src="http://stmargarets.london/assets/images/2016/art_club_autumn_2016_thumb.jpg" width="150" height="212" alt="art club autumn 2016" class="photo right" /></a>
 
     Learn about the exciting new clubs and classes at Orleans house Gallery for children and families.  This term they have art clubs, family 'draw and explore' walks and drop-in Sunday art.
 
@@ -17,7 +17,7 @@ Learn about the exciting new clubs and classes at Orleans house Gallery for chil
 
 h3. Art Clubs
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/art_club_autumn_2016.jpg" title="See larger version of - art club autumn 2016"><img src="http://www.stmgrts.org.uk/assets/images/2016/art_club_autumn_2016_thumb.jpg" width="250" height="353" alt="art club autumn 2016" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/art_club_autumn_2016.jpg" title="See larger version of - art club autumn 2016"><img src="http://stmargarets.london/assets/images/2016/art_club_autumn_2016_thumb.jpg" width="250" height="353" alt="art club autumn 2016" class="photo right" /></a>
 
 Exciting weekly workshops offer budding young artists the opportunity to explore a broad range of artistic media and practice with our experienced gallery artists. Each term brings a varied selection of projects which are explored in group sizes of no more than sixteen, allowing participants to try more messy and adventurous media than may be possible at school.
 
@@ -33,7 +33,7 @@ h4. More Information
 
 h3. FREE Draw and Explore Family Art Walks:
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/Draw_and_Explore_autumn2016.jpg" title="See larger version of - Draw and Explore autumn2016"><img src="http://www.stmgrts.org.uk/assets/images/2016/Draw_and_Explore_autumn2016_thumb.jpg" width="250" height="360" alt="Draw and Explore autumn2016" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/Draw_and_Explore_autumn2016.jpg" title="See larger version of - Draw and Explore autumn2016"><img src="http://stmargarets.london/assets/images/2016/Draw_and_Explore_autumn2016_thumb.jpg" width="250" height="360" alt="Draw and Explore autumn2016" class="photo right" /></a>
 
 This exciting new series of free family art walks will set off from Orleans House Gallery and adventure to a different local area each week.
 

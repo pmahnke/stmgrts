@@ -6,7 +6,7 @@ commentfile: 2011-02-03-churchills_offering_1_sales_commission_in_february
 category: around_town
 date: 2011-02-03 19:25:44
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/churchill_rr_sign.png"><img alt="churchill_rr_sign.png" src="//stmgrts.org.uk/assets/images/2011/churchill_rr_sign-thumb.png" width="150" height="48" class="photo right"/></a>
+    <a href="//stmargarets.london/assets/images/2011/churchill_rr_sign.png"><img alt="churchill_rr_sign.png" src="//stmargarets.london/assets/images/2011/churchill_rr_sign-thumb.png" width="150" height="48" class="photo right"/></a>
     
     _Good news for homeowners in St Margarets_
     
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/churchill_rr_sign.png"><img alt="churchill_rr_sign.png" src="//stmgrts.org.uk/assets/images/2011/churchill_rr_sign-thumb.png" width="150" height="48" class="photo right"/></a>
+<a href="//stmargarets.london/assets/images/2011/churchill_rr_sign.png"><img alt="churchill_rr_sign.png" src="//stmargarets.london/assets/images/2011/churchill_rr_sign-thumb.png" width="150" height="48" class="photo right"/></a>
 
 _Good news for homeowners in St Margarets_
 
@@ -44,7 +44,7 @@ Due to the shortage of property to meet demand we are offering;
 
 *1% Sales Commission on all houses until 28<sup>th</sup> February 2011*
 
--- from "Churchills Estate Agents":http://www.stmgrts.org.uk/directory/estate_agent/201012150731
+-- from "Churchills Estate Agents":http://stmargarets.london/directory/estate_agent/201012150731
 
 
 

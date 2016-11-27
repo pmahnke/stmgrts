@@ -6,7 +6,7 @@ commentfile: 2005-12-10-council_refuses
 category: news
 date: 2005-12-10 13:54:17
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2005/tescoATM.gif"><img src="//stmgrts.org.uk/assets/images/2005/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
+    <a href="//stmargarets.london/assets/images/2005/tescoATM.gif"><img src="//stmargarets.london/assets/images/2005/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
     
     On the 6<sup>th</sup> of December, _Richmond Council Planning Committee_ refused Tesco's "request for a second ATM":/archives/2005/11/tesco_seeks_per.html at their store on St Margarets Road.  The "decision states the reason for refusal":http://www.ukplanning.com/richmond/doc/Decision-2475265;jsessionid=2756203A3713E59A0A970CB5BFA51EB7?extension=.pdf&wmTransparency=0&wmLocation=0&id=2475265&location=VOLUME1&contentType=application%2Fpdf&wmName=&pageCount=2 was:
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2005/tescoATM.gif"><img src="//stmgrts.org.uk/assets/images/2005/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
+<a href="//stmargarets.london/assets/images/2005/tescoATM.gif"><img src="//stmargarets.london/assets/images/2005/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
 
 On the 6<sup>th</sup> of December, _Richmond Council Planning Committee_ refused Tesco's "request for a second ATM":/archives/2005/11/tesco_seeks_per.html at their store on St Margarets Road.  The "decision states the reason for refusal":http://www.ukplanning.com/richmond/doc/Decision-2475265;jsessionid=2756203A3713E59A0A970CB5BFA51EB7?extension=.pdf&wmTransparency=0&wmLocation=0&id=2475265&location=VOLUME1&contentType=application%2Fpdf&wmName=&pageCount=2 was:
 

@@ -6,7 +6,7 @@ commentfile: 2009-11-17-st_margarets_community_action_plan_stage_2_survey
 category: news
 date: 2009-11-17 10:55:43
 excerpt: |
-    "Take the Stage 2 Survey now.":http://www.stmgrts.org.uk/sma_survey/index.cgi
+    "Take the Stage 2 Survey now.":http://stmargarets.london/sma_survey/index.cgi
 
 ---
 
@@ -18,7 +18,7 @@ LBRUT is currently offering assistance with seeking the views of under-represent
 
 If you would like to be kept informed of future developments please contact "allianceupdate@btinternet.com":mailto:allianceupdate@btinternet.com
 
-"Take the Stage 2 Survey now.":http://www.stmgrts.org.uk/sma_survey/index.cgi
+"Take the Stage 2 Survey now.":http://stmargarets.london/sma_survey/index.cgi
 
 
 

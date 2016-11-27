@@ -6,7 +6,7 @@ commentfile: 2014-04-03-age_uk_richmond_gardening_service
 category: news
 date: 2014-04-03 18:27:05
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/HPS-Gardening-A5-JAN13v2.jpg" title="See larger version of - HPS Gardening flyer"><img src="//stmgrts.org.uk/assets/images/2014/HPS-Gardening-A5-JAN13v2_thumb.jpg" width="150" height="209" alt="HPS Gardening flyer" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/HPS-Gardening-A5-JAN13v2.jpg" title="See larger version of - HPS Gardening flyer"><img src="//stmargarets.london/assets/images/2014/HPS-Gardening-A5-JAN13v2_thumb.jpg" width="150" height="209" alt="HPS Gardening flyer" class="photo right" /></a>
     
     Do you need help with keeping your garden tidy?
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/HPS-Gardening-A5-JAN13v2.jpg" title="See larger version of - HPS Gardening flyer"><img src="//stmgrts.org.uk/assets/images/2014/HPS-Gardening-A5-JAN13v2_thumb.jpg" width="150" height="209" alt="HPS Gardening flyer" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/HPS-Gardening-A5-JAN13v2.jpg" title="See larger version of - HPS Gardening flyer"><img src="//stmargarets.london/assets/images/2014/HPS-Gardening-A5-JAN13v2_thumb.jpg" width="150" height="209" alt="HPS Gardening flyer" class="photo right" /></a>
 
 Do you need help with keeping your garden tidy?
 

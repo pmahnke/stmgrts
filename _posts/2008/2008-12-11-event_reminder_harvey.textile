@@ -6,7 +6,7 @@ commentfile: 2008-12-11-event_reminder_harvey
 category: around_town
 date: 2008-12-11 09:35:09
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2008/rss_harvey.jpg" title="See larger version of - Harvey"><img src="//stmgrts.org.uk/assets/images/2008/rss_harvey_thumb.jpg" width="150" height="112" alt="Harvey" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2008/rss_harvey.jpg" title="See larger version of - Harvey"><img src="//stmargarets.london/assets/images/2008/rss_harvey_thumb.jpg" width="150" height="112" alt="Harvey" class="photo right" /></a>
     
     Veta Louise and her daughter Myrtle Mae have arranged an afternoon party -- hoping to find an an ideal husband for Myrtle. But things go horribly wrong when Uncle Elwood P Dowd drops in with his best friend Harvey -- a 6' 1" white rabbit invisible to everyone else.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2008/rss_harvey.jpg" title="See larger version of - Harvey"><img src="//stmgrts.org.uk/assets/images/2008/rss_harvey_thumb.jpg" width="150" height="112" alt="Harvey" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2008/rss_harvey.jpg" title="See larger version of - Harvey"><img src="//stmargarets.london/assets/images/2008/rss_harvey_thumb.jpg" width="150" height="112" alt="Harvey" class="photo right" /></a>
 
 Veta Louise and her daughter Myrtle Mae have arranged an afternoon party -- hoping to find an an ideal husband for Myrtle. But things go horribly wrong when Uncle Elwood P Dowd drops in with his best friend Harvey -- a 6' 1" white rabbit invisible to everyone else.
 
@@ -30,7 +30,7 @@ Director John Gilbert says: "The play works best in the period in which it's wri
 
 bq. "In 1950 Harvey became a memorable film starring James Stewart. As Elwood shares his ... well, idiosyncratic outlook, its Pulitzer Prize credentials still sparkle through just as superbly. We expect it to become this year's top pre-Christmas present, and given its likely popularity, we'll be performing 10 shows rather than our usual eight."
 
-"Harvey runs from December 12th":http://www.stmgrts.org.uk/event/play/200705142016 to 20th at 7.45pm (Sun 14th 4pm, matinees Sats 13th & 20th 3pm, no show Weds 17th). Box office 020 8744 0547 for bookings, membership and more details.
+"Harvey runs from December 12th":http://stmargarets.london/event/play/200705142016 to 20th at 7.45pm (Sun 14th 4pm, matinees Sats 13th & 20th 3pm, no show Weds 17th). Box office 020 8744 0547 for bookings, membership and more details.
 
 
 

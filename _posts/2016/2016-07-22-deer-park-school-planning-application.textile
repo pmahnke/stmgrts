@@ -6,14 +6,14 @@ commentfile: 2016-07-22-deer-park-school-planning-application
 category: news
 date: 2016-07-22 07:47:45
 excerpt: |
-    <img itemprop="image" src="http://www.stmgrts.org.uk/assets/images/directory/201607220942_Deer_Park_School.png" alt="Deer_Park_School"  class="
+    <img itemprop="image" src="http://stmargarets.london/assets/images/directory/201607220942_Deer_Park_School.png" alt="Deer_Park_School"  class="
     right" >
 
     We are delighted to announce that a planning application for Deer Park School's permanent facilities has been submitted to the Borough of Richmond. As part of a wider development lead by family supermarket Lidl UK at Ryde House, the government have committed investment into the future pupils at Deer Park School with this exciting mixed use development. It will provide a wonderful facility for pupils to learn with the best teachers, enjoy their school days and succeed in an environment that enables a love for learning.
 
 ---
 
-<img itemprop="image" src="http://www.stmgrts.org.uk/assets/images/directory/201607220942_Deer_Park_School.png" alt="Deer_Park_School"  class="right" >
+<img itemprop="image" src="http://stmargarets.london/assets/images/directory/201607220942_Deer_Park_School.png" alt="Deer_Park_School"  class="right" >
 
 We are delighted to announce that a planning application for Deer Park School's permanent facilities has been submitted to the Borough of Richmond. As part of a wider development lead by family supermarket Lidl UK at Ryde House, the government have committed investment into the future pupils at Deer Park School with this exciting mixed use development. It will provide a wonderful facility for pupils to learn with the best teachers, enjoy their school days and succeed in an environment that enables a love for learning.
 

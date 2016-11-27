@@ -6,7 +6,7 @@ commentfile: 2012-10-25-train_lines_closed_in_st_margarets_area_27_to_28_o
 category: around_town
 date: 2012-10-25 12:21:30
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/South_West_Trains_logo.png" title="See larger version of - South West Trains logo"><img src="//stmgrts.org.uk/assets/images/2012/South_West_Trains_logo_thumb.png" width="150" height="21" alt="South West Trains logo" class=" right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/South_West_Trains_logo.png" title="See larger version of - South West Trains logo"><img src="//stmargarets.london/assets/images/2012/South_West_Trains_logo_thumb.png" width="150" height="21" alt="South West Trains logo" class=" right" /></a>
     
     _Planned engineering work is taking place across the South West Trains network on Saturday 26 and Sunday 27 January 2013._
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/South_West_Trains_logo.png" title="See larger version of - South West Trains logo"><img src="//stmgrts.org.uk/assets/images/2012/South_West_Trains_logo_thumb.png" width="150" height="21" alt="South West Trains logo" class=" right" /></a>
+<a href="//stmargarets.london/assets/images/2012/South_West_Trains_logo.png" title="See larger version of - South West Trains logo"><img src="//stmargarets.london/assets/images/2012/South_West_Trains_logo_thumb.png" width="150" height="21" alt="South West Trains logo" class=" right" /></a>
 
 _Planned engineering work is taking place across the South West Trains network on Saturday 26 and Sunday 27 January 2013._
 

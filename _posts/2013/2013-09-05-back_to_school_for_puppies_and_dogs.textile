@@ -6,7 +6,7 @@ commentfile: 2013-09-05-back_to_school_for_puppies_and_dogs
 category: around_town
 date: 2013-09-05 22:23:16
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/Puppy_Lifeskills.jpg" title="See larger version of - Puppy Lifeskills"><img src="//stmgrts.org.uk/assets/images/2013/Puppy_Lifeskills_thumb.jpg" width="150" height="154" alt="Puppy Lifeskills" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/Puppy_Lifeskills.jpg" title="See larger version of - Puppy Lifeskills"><img src="//stmargarets.london/assets/images/2013/Puppy_Lifeskills_thumb.jpg" width="150" height="154" alt="Puppy Lifeskills" class="photo right" /></a>
     
     Term time is starting again, and it's no different for Fetch! puppy and dog training classes.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/Puppy_Lifeskills.jpg" title="See larger version of - Puppy Lifeskills"><img src="//stmgrts.org.uk/assets/images/2013/Puppy_Lifeskills_thumb.jpg" width="150" height="154" alt="Puppy Lifeskills" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/Puppy_Lifeskills.jpg" title="See larger version of - Puppy Lifeskills"><img src="//stmargarets.london/assets/images/2013/Puppy_Lifeskills_thumb.jpg" width="150" height="154" alt="Puppy Lifeskills" class="photo right" /></a>
 
 _Term time is starting again, and it's no different for Fetch! puppy and dog training classes._
 

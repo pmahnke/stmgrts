@@ -19,7 +19,7 @@ Being the end of the year, we thought, let's publish a 'top ten' list of the mos
 
 
 
-h3. 1. "Beware Bogus 'Charities' and Third World Appeals":http://www.stmgrts.org.uk/archives/2006/11/beware_bogus_ch.html
+h3. 1. "Beware Bogus 'Charities' and Third World Appeals":http://stmargarets.london/archives/2006/11/beware_bogus_ch.html
 
 <em>Residents regularly receive leaflets asking for items of clothing and household goods to be left for collection...</em>
 
@@ -29,17 +29,17 @@ Published in 2006, written by Maddie Menzies, this is still the number one artic
 
 
 
-h3. 2. "Ches's Trattoria Pasta & Pizza Opens":http://www.stmgrts.org.uk/archives/2007/12/chess_trattoria_pasta_pizza_opens.html
+h3. 2. "Ches's Trattoria Pasta & Pizza Opens":http://stmargarets.london/archives/2007/12/chess_trattoria_pasta_pizza_opens.html
 
 <em>Ches's Cafe is to become Ches's Trattoria Pasta & Pizza...</em>
 
-Published in 2007, we can only assume people are finding this article via Google, probably looking for a phone number or address of Ches's, which is in the "local info":http://www.stmgrts.org.uk/directory/restaurant/200506220009 section.
+Published in 2007, we can only assume people are finding this article via Google, probably looking for a phone number or address of Ches's, which is in the "local info":http://stmargarets.london/directory/restaurant/200506220009 section.
 
 
 
 
 
-h3. 3. "The Ghost on Richmond Green":http://www.stmgrts.org.uk/archives/2010/09/the_ghost_on_richmond_green.html
+h3. 3. "The Ghost on Richmond Green":http://stmargarets.london/archives/2010/09/the_ghost_on_richmond_green.html
 
 <em>During the last few evenings considerable excitement has existed in the neighbourhood of Richmond Green, inconsequence of a statement that a ghost was to be seen...</em>
 
@@ -51,7 +51,7 @@ The first of the 2010 articles and the first on the list by Martyn Day.  This is
 
 
 
-h3. 4. "St Margarets and North Twickenham Council Election Candidates":http://www.stmgrts.org.uk/archives/2010/04/st_margarets_and_north_twickenham_council_election.html
+h3. 4. "St Margarets and North Twickenham Council Election Candidates":http://stmargarets.london/archives/2010/04/st_margarets_and_north_twickenham_council_election.html
 
 <em>There are 14 candidates for the three seats in the ward...</em>
 
@@ -62,7 +62,7 @@ From Christopher Squire, this was a quick round-up of the 14 candidates running 
 
 
 
-h3. 5. "Kid's Summer Activities":http://www.stmgrts.org.uk/archives/2005/07/kids_summer_act.html
+h3. 5. "Kid's Summer Activities":http://stmargarets.london/archives/2005/07/kids_summer_act.html
 
 <em>Are you looking for things to do with the kids this summer?</em>
 
@@ -71,7 +71,7 @@ Depressingly for anyone finding this article, they would have found it came from
 
 
 
-h3. 6. "The Brentford Griffin and Other Mysteries":http://www.stmgrts.org.uk/archives/2009/05/the_brentford_griffin_and_other_mysteries.html
+h3. 6. "The Brentford Griffin and Other Mysteries":http://stmargarets.london/archives/2009/05/the_brentford_griffin_and_other_mysteries.html
 
 <em>Brentford is two miles of misery...</em>
 
@@ -81,7 +81,7 @@ Another story from Martyn Day asking if "Brentford is a portal to the underworld
 
 
 
-h3. 7. "The Three Chord Trick Explained":http://www.stmgrts.org.uk/archives/2009/03/the_three_chord_trick_explained.html
+h3. 7. "The Three Chord Trick Explained":http://stmargarets.london/archives/2009/03/the_three_chord_trick_explained.html
 
 <em>If you play more than two chords, you're showing off...</em>
 
@@ -93,7 +93,7 @@ How to be a rock star, by Martyn Day.
 
 
 
-h3. 8. "Parvinu at Phelps is open":http://www.stmgrts.org.uk/archives/2008/09/parvinu_at_phelps_is_open.html
+h3. 8. "Parvinu at Phelps is open":http://stmargarets.london/archives/2008/09/parvinu_at_phelps_is_open.html
 
 <em>Parvinu at Phelps has now opened providing St Margarets with a new wine bar with food...</em>
 
@@ -104,7 +104,7 @@ Er, actually, no.  This 2008 story came alive when the doors were quietly shut a
 
 
 
-h3. 9. "Volunteer at Strawberry Hill House":http://www.stmgrts.org.uk/archives/2010/05/volunteer_at_strawberry_hill_house.html
+h3. 9. "Volunteer at Strawberry Hill House":http://stmargarets.london/archives/2010/05/volunteer_at_strawberry_hill_house.html
 
 <em>Come and join the team that's bringing Walpole's little Gothic castle back to life...</em>
 
@@ -114,7 +114,7 @@ A request for help for the reopening of the newly restored Gothic castle.
 
 
 
-h3. 10. "Oyster Off-Peak Fare Tip":http://www.stmgrts.org.uk/archives/2010/02/oyster_offpeak_fare_tip.html
+h3. 10. "Oyster Off-Peak Fare Tip":http://stmargarets.london/archives/2010/02/oyster_offpeak_fare_tip.html
 
 <em>The only way to get an Off-Peak Oyster fare at St Margarets seems to be to wait up the top of the stairs until the reader says 9:30, then touch and run!</em>
 
@@ -123,7 +123,7 @@ From Ed Randall, this one clearly has caught out many people.
 
 
 
-h3. 11. "Drawing The Line at Hounslow":http://www.stmgrts.org.uk/archives/2010/01/drawing_the_line_at_hounslow.html
+h3. 11. "Drawing The Line at Hounslow":http://stmargarets.london/archives/2010/01/drawing_the_line_at_hounslow.html
 
 <em>The place where General Roy decided to lay his initial base line was Hounslow Heath...</em>
 
@@ -131,7 +131,7 @@ This piece about the Ordnance Survey from Martyn Day brought out the Cartophiles
 
 
 
-h3. 12. "The Disgraceful Affair at Hounslow":http://www.stmgrts.org.uk/archives/2010/01/the_disgraceful_affair_at_hounslow.html
+h3. 12. "The Disgraceful Affair at Hounslow":http://stmargarets.london/archives/2010/01/the_disgraceful_affair_at_hounslow.html
 
 <em>In the early summer of 1846 John White, a 27 year old private in the 7th Queens Own Hussars based at Hounslow Barracks was found guilty of striking his sergeant with a metal bar in a drunken fight...</em>
 
@@ -139,7 +139,7 @@ The final piece by Martyn Day in this top 15, about the end of flogging in the A
 
 
 
-h3. 13. "Night Flights Allowed for Snow Backlog at Heathrow - 20 Dec 2010":http://www.stmgrts.org.uk/archives/2010/12/night_flights_allowed_for_snow_backlog_at_heathrow.html
+h3. 13. "Night Flights Allowed for Snow Backlog at Heathrow - 20 Dec 2010":http://stmargarets.london/archives/2010/12/night_flights_allowed_for_snow_backlog_at_heathrow.html
 
 <em>... a relaxation of restrictions on night flights for the next four days...</em>
 
@@ -148,7 +148,7 @@ A news flash on weather related Christmas backlog of flights from Christopher  S
 
 
 
-h3. 14. "Information: Lyme Disease":http://www.stmgrts.org.uk/archives/2010/05/information_lyme_disease.html
+h3. 14. "Information: Lyme Disease":http://stmargarets.london/archives/2010/05/information_lyme_disease.html
 
 <em>There are some basic precautions people can take to reduce the risk of being bitten by ticks...</em>
 
@@ -157,7 +157,7 @@ An informational article from _Lyme Disease Action_ that has been found by a lot
 
 
 
-h3. 15. "Richmond Council's School Place Planning Update - February 2010":http://www.stmgrts.org.uk/archives/2010/02/richmond_councils_school_place_planning_update.html
+h3. 15. "Richmond Council's School Place Planning Update - February 2010":http://stmargarets.london/archives/2010/02/richmond_councils_school_place_planning_update.html
 
 <em>... current state of the issues around school places and the two options they are currently considering ...</em>
 

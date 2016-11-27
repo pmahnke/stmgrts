@@ -6,7 +6,7 @@ commentfile: 2010-05-13-twickenham_carnival_is_fast_approaching
 category: around_town
 date: 2010-05-13 17:44:58
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/call-for-performers.jpg" title="See larger version of - Twickenham Carnival"><img src="//stmgrts.org.uk/assets/images/2010/call-for-performers_thumb.jpg" width="150" height="99" alt="Twickenham Carnival" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/call-for-performers.jpg" title="See larger version of - Twickenham Carnival"><img src="//stmargarets.london/assets/images/2010/call-for-performers_thumb.jpg" width="150" height="99" alt="Twickenham Carnival" class="photo right" /></a>
     
     If you would like to be part of the parade or are part of an act who would like to perform on the main stage then get in touch!
     
@@ -14,13 +14,13 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/call-for-performers.jpg" title="See larger version of - Twickenham Carnival"><img src="//stmgrts.org.uk/assets/images/2010/call-for-performers_thumb.jpg" width="150" height="99" alt="Twickenham Carnival" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/call-for-performers.jpg" title="See larger version of - Twickenham Carnival"><img src="//stmargarets.london/assets/images/2010/call-for-performers_thumb.jpg" width="150" height="99" alt="Twickenham Carnival" class="photo right" /></a>
 
 If you would like to be part of the parade or are part of an act who would like to perform on the main stage then get in touch!
 
 We are looking for dancers, singers, musicians and anything else that would be suitable for our carnival.
 
-"Carnival is on Sunday 13<sup>th</sup> June":http://stmgrts.org.uk/event/party/200705142445 and takes place in the grounds of Orleans House Gallery.
+"Carnival is on Sunday 13<sup>th</sup> June":http://stmargarets.london/event/party/200705142445 and takes place in the grounds of Orleans House Gallery.
 
 Please email "Anna.Ramsay@richmond.gov.uk":mailto:Anna.Ramsay@richmond.gov.uk to register your interest.
 

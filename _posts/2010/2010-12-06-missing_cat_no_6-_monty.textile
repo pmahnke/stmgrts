@@ -8,7 +8,7 @@ date: 2010-12-06 16:34:18
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/cat_monty.gif" title="See larger version of - Monty"><img src="//stmgrts.org.uk/assets/images/2010/cat_monty_thumb.gif" width="150" height="112" alt="Monty" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/cat_monty.gif" title="See larger version of - Monty"><img src="//stmargarets.london/assets/images/2010/cat_monty_thumb.gif" width="150" height="112" alt="Monty" class="photo right" /></a>
 
 <div class="infobox">
 

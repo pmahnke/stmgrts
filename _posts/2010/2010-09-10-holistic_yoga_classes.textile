@@ -6,7 +6,7 @@ commentfile: 2010-09-10-holistic_yoga_classes
 category: around_town
 date: 2010-09-10 08:25:06
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmgrts.org.uk/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmargarets.london/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
     
     Your children have gone back to school and you are thinking about their activities, what about yours?
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmgrts.org.uk/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
+<a href="//stmargarets.london/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="//stmargarets.london/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
 
 Your children have gone back to school and you are thinking about their activities, what about yours?
 
@@ -32,7 +32,7 @@ She is currently exploring how she can also help people with disabilities to ben
 * Introduction to Meditation and Yoga Philosophy
 * Diet and Nutrition
 
-"Download flyer":http://stmgrts.org.uk/images//poster_yoga6.pdf
+"Download flyer":http://stmargarets.london/images//poster_yoga6.pdf
 
 Contact Surya on:
 

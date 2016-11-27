@@ -6,7 +6,7 @@ commentfile: 2010-02-03-the_batty_dr_battie
 category: around_town
 date: 2010-02-03 21:30:42
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/batty_1.png" title="See larger version of - DR WILLIAM BATTIE"><img src="//stmgrts.org.uk/assets/images/2010/batty_1_thumb.png" width="120" height="150" alt="DR WILLIAM BATTIE" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/batty_1.png" title="See larger version of - DR WILLIAM BATTIE"><img src="//stmargarets.london/assets/images/2010/batty_1_thumb.png" width="120" height="150" alt="DR WILLIAM BATTIE" class="photo right" /></a>
     
     Twickenham has been home to many eccentric people over the years but none so strange as Dr William Battie who lived there from 1740 to 1759.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/batty_1.png" title="See larger version of - DR WILLIAM BATTIE"><img src="//stmgrts.org.uk/assets/images/2010/batty_1_thumb.png" width="120" height="150" alt="DR WILLIAM BATTIE" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/batty_1.png" title="See larger version of - DR WILLIAM BATTIE"><img src="//stmargarets.london/assets/images/2010/batty_1_thumb.png" width="120" height="150" alt="DR WILLIAM BATTIE" class="photo right" /></a>
 
 Twickenham has been home to many eccentric people over the years but none so strange as Dr William Battie who lived there from 1740 to 1759.
 
@@ -25,7 +25,7 @@ Battie took an enlightened view on mental health. In 1758 he published "Treatise
 
 
 
-<a href="//stmgrts.org.uk/assets/images/2010/batty_2.png" title="See larger version of - DR BATTIE'S HOUSE IN TWICKENHAM"><img src="//stmgrts.org.uk/assets/images/2010/batty_2_thumb.png" width="146" height="150" alt="DR BATTIE'S HOUSE IN TWICKENHAM" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/batty_2.png" title="See larger version of - DR BATTIE'S HOUSE IN TWICKENHAM"><img src="//stmargarets.london/assets/images/2010/batty_2_thumb.png" width="146" height="150" alt="DR BATTIE'S HOUSE IN TWICKENHAM" class="photo right" /></a>
 
 
 bq. "Madness is frequently taken for one species of disorder, nevertheless, when thoroughly examined, it discovers as much variety with respect to its causes and circumstances as any distemper whatever: Madness, therefore, like most other morbid cases, rejects all general methods, e.g. bleeding, blisters, caustics, rough cathartics, the gumms and foetid anti-hysterics, opium, mineral waters, cold bathing and vomits."

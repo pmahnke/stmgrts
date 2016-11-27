@@ -6,7 +6,7 @@ commentfile: 2013-09-05-event_reminder_great_annual_street_sale_14_septemb
 category: around_town
 date: 2013-09-05 22:57:22
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/GASS_2012.jpg" title="See larger version of - GASS 2012"><img src="//stmgrts.org.uk/assets/images/2013/GASS_2012_thumb.jpg" width="150" height="103" alt="GASS 2012" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/GASS_2012.jpg" title="See larger version of - GASS 2012"><img src="//stmargarets.london/assets/images/2013/GASS_2012_thumb.jpg" width="150" height="103" alt="GASS 2012" class="photo right" /></a>
     
     _It's a Guaranteed GASS!_
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/GASS_2012.jpg" title="See larger version of - GASS 2012"><img src="//stmgrts.org.uk/assets/images/2013/GASS_2012_thumb.jpg" width="150" height="103" alt="GASS 2012" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/GASS_2012.jpg" title="See larger version of - GASS 2012"><img src="//stmargarets.london/assets/images/2013/GASS_2012_thumb.jpg" width="150" height="103" alt="GASS 2012" class="photo right" /></a>
 
 _It's a Guaranteed GASS!_
 

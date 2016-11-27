@@ -8,7 +8,7 @@ date: 2005-09-26 20:07:12
 
 ---
 
-<img alt="Brula" src="//stmgrts.org.uk/assets/images/2005/brula_news-thumb.jpg" width="150" height="112" class="right photo ignore" />
+<img alt="Brula" src="//stmargarets.london/assets/images/2005/brula_news-thumb.jpg" width="150" height="112" class="right photo ignore" />
 
 Local restuarant, "Brula":/cgi-bin/directory.cgi?key=200507150434&action=getlisting was given an excellent review in this Saturday's _The Guardian_.
 

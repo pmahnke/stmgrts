@@ -6,7 +6,7 @@ commentfile: 2014-03-21-event_reminder_charity_easter_childrens_concert_4
 category: around_town
 date: 2014-03-21 22:37:40
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/Easter_Momentum_Poster.jpg" title="See larger version of - Easter Momentum Poster"><img src="//stmgrts.org.uk/assets/images/2014/Easter_Momentum_Poster_thumb.jpg" width="150" height="206" alt="Easter Momentum Poster" class="right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/Easter_Momentum_Poster.jpg" title="See larger version of - Easter Momentum Poster"><img src="//stmargarets.london/assets/images/2014/Easter_Momentum_Poster_thumb.jpg" width="150" height="206" alt="Easter Momentum Poster" class="right" /></a>
     
     _help raise funds for Momentum and the Tempo Tots Music Therapy Project_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/Easter_Momentum_Poster.jpg" title="See larger version of - Easter Momentum Poster"><img src="//stmgrts.org.uk/assets/images/2014/Easter_Momentum_Poster_thumb.jpg" width="150" height="206" alt="Easter Momentum Poster" class="right" /></a>
+<a href="//stmargarets.london/assets/images/2014/Easter_Momentum_Poster.jpg" title="See larger version of - Easter Momentum Poster"><img src="//stmargarets.london/assets/images/2014/Easter_Momentum_Poster_thumb.jpg" width="150" height="206" alt="Easter Momentum Poster" class="right" /></a>
 
 _help raise funds for Momentum and the Tempo Tots Music Therapy Project_
 
@@ -24,7 +24,7 @@ h4. More Information
 
 * Just &pound;10 plus booking fee per child, adults go free
 * TO BOOK TICKETS PLEASE VISIT: "www.eventbrite.co.uk/o/tempo-tots-2620258308":http://www.eventbrite.co.uk/o/tempo-tots-2620258308
-* "Friday 4<sup>th</sup> April 2014, 10.00-10.45am (18 months +) 11.00-11.45am (3-18 months)":http://www.stmgrts.org.uk/event/concert/200705144388
+* "Friday 4<sup>th</sup> April 2014, 10.00-10.45am (18 months +) 11.00-11.45am (3-18 months)":http://stmargarets.london/event/concert/200705144388
 * Clarendon Hall, York House, Richmond Road, Twickenham, TW1 3AA
 * To find out more about the project please go to "www.moment-um.org/tempo-tots-music-therapy-project":http://www.moment-um.org/tempo-tots-music-therapy-project.
 

@@ -6,7 +6,7 @@ commentfile: 2013-06-26-now_open
 category: news
 date: 2013-06-26 21:50:22
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/RFU_0139_Susan_Roster.jpg" title="See larger version of - Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road."><img src="//stmgrts.org.uk/assets/images/2013/RFU_0139_Susan_Roster_thumb.jpg" width="150" height="102" alt="Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road." class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/RFU_0139_Susan_Roster.jpg" title="See larger version of - Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road."><img src="//stmargarets.london/assets/images/2013/RFU_0139_Susan_Roster_thumb.jpg" width="150" height="102" alt="Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road." class="photo right" /></a>
     
     We welcome Susan Roster and her clothing business - The Secret Wardrobe, a designer dress agency  to St Margarets which is now open at 22 Crown Road.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/RFU_0139_Susan_Roster.jpg" title="See larger version of - Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road."><img src="//stmgrts.org.uk/assets/images/2013/RFU_0139_Susan_Roster_thumb.jpg" width="150" height="102" alt="Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road." class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/RFU_0139_Susan_Roster.jpg" title="See larger version of - Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road."><img src="//stmargarets.london/assets/images/2013/RFU_0139_Susan_Roster_thumb.jpg" width="150" height="102" alt="Her worship the Mayor and St Margarets ward councillors Ben Khosa and Geoff Acton welcome Susan Roster to the St Margarets at the recent fair in Crown Road." class="photo right" /></a>
 
 We welcome Susan Roster and her clothing business - The Secret Wardrobe, a designer dress agency  to St Margarets which is now open at 22 Crown Road.
 

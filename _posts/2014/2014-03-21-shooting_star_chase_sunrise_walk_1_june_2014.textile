@@ -6,14 +6,14 @@ commentfile: 2014-03-21-shooting_star_chase_sunrise_walk_1_june_2014
 category: around_town
 date: 2014-03-21 22:03:08
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/SHOOTIGN_sunrise-walk.jpg" title="See larger version of - sunrise walk"><img src="//stmgrts.org.uk/assets/images/2014/SHOOTIGN_sunrise-walk_thumb.jpg" width="150" height="150" alt="sunrise walk" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/SHOOTIGN_sunrise-walk.jpg" title="See larger version of - sunrise walk"><img src="//stmargarets.london/assets/images/2014/SHOOTIGN_sunrise-walk_thumb.jpg" width="150" height="150" alt="sunrise walk" class="photo right" /></a>
     
     Shooting Star Chase is a leading children's hospice charity caring for babies, children and young people with life-limiting conditions, and their families.
     Whether lives are measured in days, weeks, months or years, we are here to make every moment count. We support families from diagnosis to end of life and throughout bereavement with a range of nursing, practical, emotional and medical care.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/SHOOTIGN_sunrise-walk.jpg" title="See larger version of - sunrise walk"><img src="//stmgrts.org.uk/assets/images/2014/SHOOTIGN_sunrise-walk_thumb.jpg" width="150" height="150" alt="sunrise walk" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/SHOOTIGN_sunrise-walk.jpg" title="See larger version of - sunrise walk"><img src="//stmargarets.london/assets/images/2014/SHOOTIGN_sunrise-walk_thumb.jpg" width="150" height="150" alt="sunrise walk" class="photo right" /></a>
 
 Shooting Star Chase is a leading children's hospice charity caring for babies, children and young people with life-limiting conditions, and their families.
 Whether lives are measured in days, weeks, months or years, we are here to make every moment count. We support families from diagnosis to end of life and throughout bereavement with a range of nursing, practical, emotional and medical care.

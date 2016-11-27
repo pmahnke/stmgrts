@@ -6,7 +6,7 @@ commentfile: 2011-09-15-local_woman_climbing_kilimanjaro_for_hope_for_hero
 category: around_town
 date: 2011-09-15 09:53:48
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/2_of_3_blondes.jpg" title="See larger version of - 2 of the 3 Blondes"><img src="//stmgrts.org.uk/assets/images/2011/2_of_3_blondes_thumb.jpg" width="150" height="112" alt="2 of the 3 Blondes" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/2_of_3_blondes.jpg" title="See larger version of - 2 of the 3 Blondes"><img src="//stmargarets.london/assets/images/2011/2_of_3_blondes_thumb.jpg" width="150" height="112" alt="2 of the 3 Blondes" class="photo right" /></a>
     
     Phoebe Armstrong, a true St Margarets girl, who went to Orleans Infants, St Stephens and Orleans Park School is climbing Mount Kilimanjaro with two girlfriends on 20<sup>th</sup> October 2011 to help raise funds for the charity _Help for Heroes_ and she needs our help.  As their leaving date gets nearer, they need a final push to get to their target of &pound;12,000.  So far they have raised an impressive &pound;9,934.94 by standing on the A316 with their Hope for Heros buckets on major rugby days and by having donation pots in the Turks Head Pub.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/2_of_3_blondes.jpg" title="See larger version of - 2 of the 3 Blondes"><img src="//stmgrts.org.uk/assets/images/2011/2_of_3_blondes_thumb.jpg" width="150" height="112" alt="2 of the 3 Blondes" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/2_of_3_blondes.jpg" title="See larger version of - 2 of the 3 Blondes"><img src="//stmargarets.london/assets/images/2011/2_of_3_blondes_thumb.jpg" width="150" height="112" alt="2 of the 3 Blondes" class="photo right" /></a>
 
 Phoebe Armstrong, a true St Margarets girl, who went to Orleans Infants, St Stephens and Orleans Park School is climbing Mount Kilimanjaro with two girlfriends on 20<sup>th</sup> October 2011 to help raise funds for the charity _Help for Heroes_ and she needs our help.  As their leaving date gets nearer, they need a final push to get to their target of &pound;12,000.  So far they have raised an impressive &pound;9,934.94 by standing on the A316 with their Hope for Heros buckets on major rugby days and by having donation pots in the Turks Head Pub.
 

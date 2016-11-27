@@ -6,7 +6,7 @@ commentfile: 2014-04-24-le_duck_dorleans_est_de_retour
 category: around_town
 date: 2014-04-24 21:53:04
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/duck_orleans.jpg" title="See larger version of - duck orleans"><img src="//stmgrts.org.uk/assets/images/2014/duck_orleans_thumb.jpg" width="150" height="150" alt="duck orleans" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/duck_orleans.jpg" title="See larger version of - duck orleans"><img src="//stmargarets.london/assets/images/2014/duck_orleans_thumb.jpg" width="150" height="150" alt="duck orleans" class="photo right" /></a>
     
     Visitors to Orleans House Gallery in Twickenham will recognise this familiar feathered friend.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/duck_orleans.jpg" title="See larger version of - duck orleans"><img src="//stmgrts.org.uk/assets/images/2014/duck_orleans_thumb.jpg" width="150" height="150" alt="duck orleans" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/duck_orleans.jpg" title="See larger version of - duck orleans"><img src="//stmargarets.london/assets/images/2014/duck_orleans_thumb.jpg" width="150" height="150" alt="duck orleans" class="photo right" /></a>
 
 Visitors to Orleans House Gallery in Twickenham will recognise this familiar feathered friend.
 

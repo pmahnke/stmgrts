@@ -6,7 +6,7 @@ commentfile: 2008-12-05-the_twice_told_tale_of_the_titanic
 category: around_town
 date: 2008-12-05 10:33:32
 excerpt: |
-    <div class="img_caption right"><a href="//stmgrts.org.uk/assets/images/2008/charles_lightoller.jpg"><img src="//stmgrts.org.uk/assets/images/2008/charles_lightoller-thumb.jpg" width="102" height="150" alt="CHARLES LIGHTOLLER" class="photo"/></a>
+    <div class="img_caption right"><a href="//stmargarets.london/assets/images/2008/charles_lightoller.jpg"><img src="//stmargarets.london/assets/images/2008/charles_lightoller-thumb.jpg" width="102" height="150" alt="CHARLES LIGHTOLLER" class="photo"/></a>
     <span>CHARLES LIGHTOLLER</span></div>
     
     Anyone who has wandered down Ducks Walk in recent times will have seen the blue plaque commemorating the life of Charles Herbert Lightoller who once lived there. Lightoller was born in 1874 and went to sea when he was only 13. In 1912, after many adventures at sea, he was appointed Second Officer aboard the 'Titanic', the White Star Line's new and 'virtually unsinkable' ship on its ill-fated maiden voyage from Southampton to New York.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<div class="img_caption right"><a href="//stmgrts.org.uk/assets/images/2008/charles_lightoller.jpg"><img src="//stmgrts.org.uk/assets/images/2008/charles_lightoller-thumb.jpg" width="102" height="150" alt="CHARLES LIGHTOLLER" class="photo"/></a>
+<div class="img_caption right"><a href="//stmargarets.london/assets/images/2008/charles_lightoller.jpg"><img src="//stmargarets.london/assets/images/2008/charles_lightoller-thumb.jpg" width="102" height="150" alt="CHARLES LIGHTOLLER" class="photo"/></a>
 <span>CHARLES LIGHTOLLER</span></div>
 
 
@@ -29,7 +29,7 @@ Lightoller's heroism on the night of 14 April 1912, when the 'Titanic' ran into 
 What is less well known is this familiar story of a huge 'unsinkable' ship hitting an iceberg in mid Atlantic and sinking had been told 14 years earlier in almost identical detail in a popular novella. This time the ship was not the 'Titanic' but the 'Titan'!  How's that for similarity?
 
 
-<div class="img_caption right"><a href="//stmgrts.org.uk/assets/images/2008/Titanic.gif"><img src="//stmgrts.org.uk/assets/images/2008/Titanic-thumb.gif" width="150" height="105" alt="THE TITANIC" class="photo" /></a>
+<div class="img_caption right"><a href="//stmargarets.london/assets/images/2008/Titanic.gif"><img src="//stmargarets.london/assets/images/2008/Titanic-thumb.gif" width="150" height="105" alt="THE TITANIC" class="photo" /></a>
 <span>THE TITANIC</span></div>
 
 American writer Morgan Robertson's book "The Wreck of the Titan, or Futility" was published in 1898. It follows the exploits of John Rowland, a disgraced Royal Navy lieutenant, cashiered because of his drinking. He manages to find work as a deck hand on the mighty 'Titan'. This is how Robertson describes the ship in his book...
@@ -58,7 +58,7 @@ Some argue that concurrences like the Titanic - Titan coincidence are manifestat
 Let's get back to the pages of "The Wreck of the Titan or Futility." John Rowland, our disgraced hero saves a young woman, Myra, from the sinking ship by jumping onto an iceberg with her, and fighting off a polar bear. (He was lucky. Leonardo DiCaprio had to jump onto a bed and fight off Kate Winslet!) John and Myra are both rescued and Rowland eventually wins a lucrative Government job restoring his fortune and his position in society. In the closing lines of the book he receives a message from Myra's mother pleading for him to visit Myra as she is asking for him...!
 
 
-<div class="img_caption right"><a href="//stmgrts.org.uk/assets/images/2008/sundowner.jpg"><img src="//stmgrts.org.uk/assets/images/2008/sundowner-thumb.jpg" width="150" height="88" alt="THE 'SUNDOWNER' OFF DUNKIRK" class="photo" /></a>
+<div class="img_caption right"><a href="//stmargarets.london/assets/images/2008/sundowner.jpg"><img src="//stmargarets.london/assets/images/2008/sundowner-thumb.jpg" width="150" height="88" alt="THE 'SUNDOWNER' OFF DUNKIRK" class="photo" /></a>
 <span>THE 'SUNDOWNER' OFF DUNKIRK</span></div>
 
 
@@ -67,7 +67,7 @@ Charles Herbert Lightoller's enthusiasm for the sea remained undampened by his e
 
 h4. A FINAL THOUGHT
 
-<a href="//stmgrts.org.uk/assets/images/2008/DSC_forklogo.jpg"><img src="//stmgrts.org.uk/assets/images/2008/DSC_forklogo-thumb.jpg" width="150" height="99" alt="White Star fork" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2008/DSC_forklogo.jpg"><img src="//stmargarets.london/assets/images/2008/DSC_forklogo-thumb.jpg" width="150" height="99" alt="White Star fork" class="photo right" /></a>
 
 
 Recently, poking around the back of the sink in my kitchen, I found an old silver plated fork. On its reverse side it had an engraving of a swallow tailed flag with a five pointed star - the emblem of the White Star Line, the company that owned the 'Titanic'. Is this a coincidence - or just a fork?

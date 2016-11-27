@@ -6,7 +6,7 @@ commentfile: 2016-06-10-orleans-gallery-summer-programme-2016
 category: around_town
 date: 2016-06-10 14:29:09
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Painting_Class.jpg" title="See larger version of -  Painting Class"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg" width="150" height="131" alt=" Painting Class" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Painting_Class.jpg" title="See larger version of -  Painting Class"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg" width="150" height="131" alt=" Painting Class" class="photo right" /></a>
 
     Orleans House Gallery is offering adult audiences an exciting and fun range of lectures, talks and workshops this June and July. From one day sessions to longer courses, you can develop practical skills and extend your art knowledge throughout the year.
 ---
@@ -14,7 +14,7 @@ Orleans House Gallery is offering adult audiences an exciting and fun range of l
 
 h3. Art History Lecture Series: Women in Art
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Art_History_Lectures.jpg" title="See larger version of - Art History Lectures"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Art_History_Lectures_thumb.jpg" width="250" height="331" alt="Art History Lectures" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Art_History_Lectures.jpg" title="See larger version of - Art History Lectures"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Art_History_Lectures_thumb.jpg" width="250" height="331" alt="Art History Lectures" class="photo right" /></a>
 
 Women have always been involved with making art, despite the fact that they are grossly underrepresented in museums and galleries worldwide. This course will introduce women artists from the Middle Ages to the present, discuss some of the misconceptions about their art, and explore if women in art can be a platform for discussing women's issues.
 
@@ -37,7 +37,7 @@ Improve upon your artistic skills and techniques whilst socialising with fellow 
 
 h3. Life Drawing
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Life_Drawing.jpg" title="See larger version of - Life Drawing"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Life_Drawing_thumb.jpg" width="250" height="158" alt="Life Drawing" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Life_Drawing.jpg" title="See larger version of - Life Drawing"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Life_Drawing_thumb.jpg" width="250" height="158" alt="Life Drawing" class="photo right" /></a>
 
 Draw from a life model under the guidance of an artist and learn simple effective techniques to develop and enhance your drawings. All abilities welcome.
 
@@ -50,7 +50,7 @@ h4. More Information
 
 h3. Painting Class: Stunning Seascapes
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Painting_Class.jpg" title="See larger version of -  Painting Class"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg" width="250" height="218" alt=" Painting Class" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Painting_Class.jpg" title="See larger version of -  Painting Class"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg" width="250" height="218" alt=" Painting Class" class="photo right" /></a>
 
 Relish the joy of painting expressive seascapes and harness effective methods to convey them. Work through guided stages to build up a painting over three sessions, exploring ways to apply, blend, define and enjoy acrylic paint.
 
@@ -73,7 +73,7 @@ h4. More Information
 
 h3. Coffee Morning Poetry
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Poetry_Coffee_Morning.jpg" title="See larger version of - Poetry Coffee Morning"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-2016_Poetry_Coffee_Morning_thumb.jpg" width="250" height="265" alt="Poetry Coffee Morning" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Poetry_Coffee_Morning.jpg" title="See larger version of - Poetry Coffee Morning"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-2016_Poetry_Coffee_Morning_thumb.jpg" width="250" height="265" alt="Poetry Coffee Morning" class="photo right" /></a>
 
 Join us for a coffee and take part in a lively discussion, lead by creative writer Agnieszka Studzinska, on Ekphrastic writing.
 

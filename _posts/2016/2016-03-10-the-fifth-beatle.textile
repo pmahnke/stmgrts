@@ -7,12 +7,12 @@ category: news
 date: 2016-03-10 20:12:22
 author: "Martyn Day"
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/5BEATLE_george_martin.jpg" title="See larger version of - george martin"><img src="http://www.stmgrts.org.uk/assets/images/2016/5BEATLE_george_martin_thumb.jpg" width="150" height="93" alt="george martin" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/5BEATLE_george_martin.jpg" title="See larger version of - george martin"><img src="http://stmargarets.london/assets/images/2016/5BEATLE_george_martin_thumb.jpg" width="150" height="93" alt="george martin" class="photo right" /></a>
 
     Much has been written about George Martin and I am sure that there is much more to come so there is no need for me to add to it save...
 ---
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/5BEATLE_george_martin.jpg" title="See larger version of - george martin"><img src="http://www.stmgrts.org.uk/assets/images/2016/5BEATLE_george_martin_thumb.jpg" width="500" height="312" alt="george martin" class="photo center" /></a>
+<a href="http://stmargarets.london/assets/images/2016/5BEATLE_george_martin.jpg" title="See larger version of - george martin"><img src="http://stmargarets.london/assets/images/2016/5BEATLE_george_martin_thumb.jpg" width="500" height="312" alt="george martin" class="photo center" /></a>
 
 h4. GEORGE MARTIN  3<sup>rd</sup> January 1926 &mdash; 8<sup>th</sup> March 2016
 

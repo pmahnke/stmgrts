@@ -6,19 +6,19 @@ commentfile: 2007-02-02-event_reminder_22
 category: around_town
 date: 2007-02-02 10:15:01
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2007/everyman.jpg" title="See larger version of - Everyman"><img src="//stmgrts.org.uk/assets/images/2007/everyman_thumb.jpg" width="128" height="184" alt="Everyman" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2007/everyman.jpg" title="See larger version of - Everyman"><img src="//stmargarets.london/assets/images/2007/everyman_thumb.jpg" width="128" height="184" alt="Everyman" class="photo right" /></a>
     
     God sends Death to call Everyman to account. Can he invite his friends and family to his Judgement Day?? Where exactly did he leave his good deeds, long, long ago?
     
-    "Everyman":http://www.stmgrts.org.uk/event/Play/200702020348 is an imaginative mediaeval morality play which straddles the centuries, and tells of the trials and tribulations facing anyone trying to make sense of life.
+    "Everyman":http://stmargarets.london/event/Play/200702020348 is an imaginative mediaeval morality play which straddles the centuries, and tells of the trials and tribulations facing anyone trying to make sense of life.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2007/everyman.jpg" title="See larger version of - Everyman"><img src="//stmgrts.org.uk/assets/images/2007/everyman_thumb.jpg" width="128" height="184" alt="Everyman" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2007/everyman.jpg" title="See larger version of - Everyman"><img src="//stmargarets.london/assets/images/2007/everyman_thumb.jpg" width="128" height="184" alt="Everyman" class="photo right" /></a>
 
 God sends Death to call Everyman to account. Can he invite his friends and family to his Judgement Day? Where exactly did he leave his good deeds, long, long ago?
 
-"Everyman":http://www.stmgrts.org.uk/event/Play/200702020348 is an imaginative mediaeval morality play which straddles the centuries, and tells of the trials and tribulations facing anyone trying to make sense of life.
+"Everyman":http://stmargarets.london/event/Play/200702020348 is an imaginative mediaeval morality play which straddles the centuries, and tells of the trials and tribulations facing anyone trying to make sense of life.
 
 Director Gerald Baker says: 
 

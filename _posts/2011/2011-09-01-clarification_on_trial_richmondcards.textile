@@ -10,7 +10,7 @@ excerpt: |
     
     *Registered RichmondCards have the swirl design (as pictured below)*
     
-    <img src="//stmgrts.org.uk/assets/images/2011/richmondcard_image" width="150" class="center" alt="parking card" />
+    <img src="//stmargarets.london/assets/images/2011/richmondcard_image" width="150" class="center" alt="parking card" />
     
     *Trial cards are white with black print only (no design)*
 
@@ -20,7 +20,7 @@ There was some confusion as to which cards were trial cards and why would someon
 
 *Registered RichmondCards have the swirl design (as pictured below)*
 
-<img src="//stmgrts.org.uk/assets/images/2011/richmondcard_image" width="150" class="center" alt="parking card" />
+<img src="//stmargarets.london/assets/images/2011/richmondcard_image" width="150" class="center" alt="parking card" />
 
 *Trial cards are white with black print only (no design)*
 

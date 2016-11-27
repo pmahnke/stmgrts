@@ -6,7 +6,7 @@ commentfile: 2009-07-24-july_27th_remember_the_flower_remember_the_city
 category: news
 date: 2009-07-24 13:00:19
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/keep_calm.jpg"><img src="//stmgrts.org.uk/assets/images/2009/keep_calm-thumb.jpg" width="106" height="150" alt="A WARTIME POSTER" class="photo right"/></a>
+    <a href="//stmargarets.london/assets/images/2009/keep_calm.jpg"><img src="//stmargarets.london/assets/images/2009/keep_calm-thumb.jpg" width="106" height="150" alt="A WARTIME POSTER" class="photo right"/></a>
     
     
     
@@ -23,7 +23,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/keep_calm.jpg"><img src="//stmgrts.org.uk/assets/images/2009/keep_calm-thumb.jpg" width="106" height="150" alt="A WARTIME POSTER" class="photo right"/></a>
+<a href="//stmargarets.london/assets/images/2009/keep_calm.jpg"><img src="//stmargarets.london/assets/images/2009/keep_calm-thumb.jpg" width="106" height="150" alt="A WARTIME POSTER" class="photo right"/></a>
 
 
 
@@ -39,11 +39,11 @@ p. In the late spring of 1941, at the height of the wartime Blitz, Noel Coward w
 
 On that grim springtime morning, confronted by this quiet scene of dignified courage Noel Coward was, in his own words, "overwhelmed by a wave of sentimental pride". Out of this grew one of the most popular songs of the wartime years.
 
-<object width="320" height="265"><param name="movie" value="//stmgrts.org.uk/assets/images/2009/aTsIMVIWjlQ&hl=en&fs=1&rel=0&color1=0x402061&color2=0x9461ca"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aTsIMVIWjlQ&hl=en&fs=1&rel=0&color1=0x402061&color2=0x9461ca" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+<object width="320" height="265"><param name="movie" value="//stmargarets.london/assets/images/2009/aTsIMVIWjlQ&hl=en&fs=1&rel=0&color1=0x402061&color2=0x9461ca"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aTsIMVIWjlQ&hl=en&fs=1&rel=0&color1=0x402061&color2=0x9461ca" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
 
 'London Pride' compares the courage and resilience of those wartime Londoners to the perennial garden flower Saxifraga x urbium. Although it is also known as 'St Patrick's Cabbage', 'Whimsey', 'Prattling Parnell' and 'Look Up And Kiss Me', to most Londoners who would have seen it growing out of cracked pavements and in deserted back alleys it was simply "London Pride". Gently invasive, it favoured dry, neglected urban areas with poor soil. The bombsites of London were to be a perfect environment for this hardy flower. No matter what might be thrown at it, nothing could stop its cheerful survival. In the spring of 1941, as Noel Coward sat on the platform of that bomb damaged railway station, London's bombsites would have been carpeted by their small, pale rosetted flowers.
 
-<a href="//stmgrts.org.uk/assets/images/2009/londonprideflower.jpg"><img src="//stmgrts.org.uk/assets/images/2009/londonprideflower-thumb.jpg" width="150" height="137" alt="LONDON PRIDE - THE FLOWER THAT'S FREE"  class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/londonprideflower.jpg"><img src="//stmargarets.london/assets/images/2009/londonprideflower-thumb.jpg" width="150" height="137" alt="LONDON PRIDE - THE FLOWER THAT'S FREE"  class="photo right" /></a>
 
 
 
@@ -82,7 +82,7 @@ bq. The whole composition adds up to being "a genuinely moving sentimental song 
 
 To today's ears the song may sound overblown and mawkish but for all that it is still one of Noel Coward's most popular songs. In the Victorian "Language of Flowers "London Pride" stood for 'Frivolity' - but for Londoners who lived through those grim wartime years it means so much more - and that is why it has its own special day - July 27<sup>th</sup>. Perhaps on that day, next Monday, we should take a moment to think of that remarkable generation who stood up to fascism all those years ago and to remember their battered city. Whatever may happen it still holds us all to its ancient heart.
 
-<a href="//stmgrts.org.uk/assets/images/2009/milkman_blitz.png"><img src="//stmgrts.org.uk/assets/images/2009/milkman_blitz-thumb.png" width="122" height="150" alt="KEEP CALM - CARRY ON." class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/milkman_blitz.png"><img src="//stmargarets.london/assets/images/2009/milkman_blitz-thumb.png" width="122" height="150" alt="KEEP CALM - CARRY ON." class="photo right" /></a>
 
 
 

@@ -6,14 +6,14 @@ commentfile: 2014-11-23-get_charity_christmas_cards_at_grounded
 category: around_town
 date: 2014-11-23 06:58:04
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/grounded_2014_xmas_card.jpg" title="See larger version of - grounded 2014 xmas card"><img src="//stmgrts.org.uk/assets/images/2014/grounded_2014_xmas_card_thumb.jpg" width="150" height="112" alt="grounded 2014 xmas card" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/grounded_2014_xmas_card.jpg" title="See larger version of - grounded 2014 xmas card"><img src="//stmargarets.london/assets/images/2014/grounded_2014_xmas_card_thumb.jpg" width="150" height="112" alt="grounded 2014 xmas card" class="photo right" /></a>
     
     Grounded are supporting The Children's Hospital Trust Fund by selling their charity Christmas cards. The cards have been sponsored by Rayne Estates which means that every penny from the sale of the packs goes directly to the charity, which helps babies and children at Chelsea and Westminster Hospital.
     
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/grounded_2014_xmas_card.jpg" title="See larger version of - grounded 2014 xmas card"><img src="//stmgrts.org.uk/assets/images/2014/grounded_2014_xmas_card_thumb.jpg" width="250" height="187" alt="grounded 2014 xmas card" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/grounded_2014_xmas_card.jpg" title="See larger version of - grounded 2014 xmas card"><img src="//stmargarets.london/assets/images/2014/grounded_2014_xmas_card_thumb.jpg" width="250" height="187" alt="grounded 2014 xmas card" class="photo right" /></a>
 
 _Buy your Christmas cards at Grounded and support babies and children ‎at Chelsea and Westminster Hospital_
 
@@ -21,7 +21,7 @@ Grounded are supporting The Children's Hospital Trust Fund by selling their char
 
 
 
-Amanda, owner of "Grounded":http://www.stmgrts.org.uk/directory/restaurant/201411230151, said:
+Amanda, owner of "Grounded":http://stmargarets.london/directory/restaurant/201411230151, said:
 
 bq. "We fell in love with the image, which is an original black and white photograph taken in hospital at Christmas ‎1939 of children decorating a tree with nurses. We're thrilled to be helping The Children's Hospital Trust Fund with their vital work at this wonderful hospital."
 

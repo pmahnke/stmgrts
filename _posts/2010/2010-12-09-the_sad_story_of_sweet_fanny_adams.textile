@@ -6,7 +6,7 @@ commentfile: 2010-12-09-the_sad_story_of_sweet_fanny_adams
 category: around_town
 date: 2010-12-09 19:49:20
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fanny-Adams.jpg" title="See larger version of - Fanny Adams"><img src="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg" width="150" height="239" alt="Fanny Adams" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/sweet_fa-Fanny-Adams.jpg" title="See larger version of - Fanny Adams"><img src="//stmargarets.london/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg" width="150" height="239" alt="Fanny Adams" class="photo right" /></a>
     
     
     <div class="warning">
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fanny-Adams.jpg" title="See larger version of - Fanny Adams"><img src="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg" width="150" height="239" alt="Fanny Adams" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/sweet_fa-Fanny-Adams.jpg" title="See larger version of - Fanny Adams"><img src="//stmargarets.london/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg" width="150" height="239" alt="Fanny Adams" class="photo right" /></a>
 
 
 <div class="warning">
@@ -54,13 +54,13 @@ The prime suspect was 29 year old Frederick Baker, Clerk to the solicitor Willia
 </div>
 
 
-<a href="//stmgrts.org.uk/assets/images/2010/sweet_fa-execution.jpg" title="See larger version of - Bill of Execution"><img src="//stmgrts.org.uk/assets/images/2010/sweet_fa-execution_thumb.jpg" width="150" height="152" alt="Bill of Execution" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/sweet_fa-execution.jpg" title="See larger version of - Bill of Execution"><img src="//stmargarets.london/assets/images/2010/sweet_fa-execution_thumb.jpg" width="150" height="152" alt="Bill of Execution" class="photo right" /></a>
 
 Frederick Baker was brought to court and tried for "the wilful murder - killing and slaying Fanny Adams". His defence rested largely upon his mental state. His father had "shown an inclination to assault, even to kill, his children"; a cousin had been in asylum 4 times; his sister had died from "brain fever" and Baker himself had attempted suicide after a failed love affair. The judge Mr Justice Mellor suggested to the jury that they might consider the prisoner irresponsible for his actions through insanity, The jury were not impressed.  After only 15 minutes deliberation they returned a simple guilty verdict.
 
 Frederick Baker was hanged in front of Winchester's County Prison at 8am on Christmas Eve, 1867 before a crowd of 5000, a large proportion of them women. His execution was one of the last held in public. Afterwards it was revealed that Baker had written to Fanny's parents before his execution to express regret and forgiveness for the crime that he had committed "in an unguarded hour and not with malice aforethought". He admitted that he was "enraged at her crying, but it was done without any pain or struggle". The prisoner denied most emphatically that he had violated the child, or had attempted to do so.
 
-<a href="//stmgrts.org.uk/assets/images/2010/sweet_fa-Lizzie-Minnie-Mem.jpg" title="See larger version of - Lizze and Minnie at Fanny's memorial"><img src="//stmgrts.org.uk/assets/images/2010/sweet_fa-Lizzie-Minnie-Mem_thumb.jpg" width="150" height="229" alt="Lizze and Minnie at Fanny's memorial" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/sweet_fa-Lizzie-Minnie-Mem.jpg" title="See larger version of - Lizze and Minnie at Fanny's memorial"><img src="//stmargarets.london/assets/images/2010/sweet_fa-Lizzie-Minnie-Mem_thumb.jpg" width="150" height="229" alt="Lizze and Minnie at Fanny's memorial" class="photo right" /></a>
 
 Baker's fate was remembered in a folk song...
 
@@ -79,7 +79,7 @@ bq.. Sacred to the memory of Fanny Adams aged 8 years and 4 months who was cruel
 
 Fear not them which kill the body but are not able to kill the soul but rather fear Him which is able to destroy both body and soul in hell. Matthew 10 v 28.
 
-<a href="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fannys-memorial.jpg" title="See larger version of - Fanny's memorial"><img src="//stmgrts.org.uk/assets/images/2010/sweet_fa-Fannys-memorial_thumb.jpg" width="150" height="200" alt="Fanny's memorial" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/sweet_fa-Fannys-memorial.jpg" title="See larger version of - Fanny's memorial"><img src="//stmargarets.london/assets/images/2010/sweet_fa-Fannys-memorial_thumb.jpg" width="150" height="200" alt="Fanny's memorial" class="photo right" /></a>
 
 
 p. As horrible and as widely publicised as the murder was, Baker's execution and the raising of the memorial should have brought the tragic story of Sweet Fanny Adams to an end were it not for the sailors of the Royal Navy and their tins of mutton. Because of their macabre sense of humour the murder of Fanny Adams is one of the few cases where the victim rather than the murderer has achieved immortality.

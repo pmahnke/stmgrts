@@ -33,7 +33,7 @@ The Richmond Council sponsors a series of plays for kids in parks across the bor
 <br></li>
 </ul>
 
-Look "here":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200507270645&action=getlisting for a complete list.
+Look "here":http://stmargarets.london/cgi-bin/directory.cgi?key=200507270645&action=getlisting for a complete list.
 
 *Details*
 
@@ -48,7 +48,7 @@ h3. Football Coaching
 
 Structured classes to teach football and athletic skills run by Karl Budd (FA Qualified) (BSc Sport Science)
 
-Venue : "Marble Hill Park":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200505180441&action=getlisting
+Venue : "Marble Hill Park":http://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting
 
 Only one week remaining!!  :  29th August - 2nd September (4 days)
 Each day from 10 am to 3 pm (with lunch break)
@@ -107,7 +107,7 @@ h4. Old Deer Park, Pools on the Park, Twickenham Road, Richmond:
 * Tennis, Swimming and Softball  -  Mon 22 Aug - Fri 26th Aug
 
 
-h4. "Moormead Recreation Ground":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200507050402&action=getlisting, Moormead Road,  St Margarets
+h4. "Moormead Recreation Ground":http://stmargarets.london/cgi-bin/directory.cgi?key=200507050402&action=getlisting, Moormead Road,  St Margarets
 
 * Tennis, Football and Athletics  -  Mon 8th Aug - Fri 12th Aug
 * Tennis, Tag Rugby and Cricket  -  Mon 22 Aug - Fri 26 Aug
@@ -154,7 +154,7 @@ h4. York House Gardens, Sion Road, Twickenham
 * Mon 8th Aug - Fri 12th Aug
 * Mon 22nd Aug - Fri 26th Aug
 
-h4. "Moormead Recreation Ground":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200507050402&action=getlisting, Moormead Road, St Margarets
+h4. "Moormead Recreation Ground":http://stmargarets.london/cgi-bin/directory.cgi?key=200507050402&action=getlisting, Moormead Road, St Margarets
 
 * Mon 1st Aug - Fri 5th Aug
 * Mon 15th Aug - Fri 19th Aug
@@ -197,7 +197,7 @@ Bikes, painting, baby corner, sand pits, play houses, slides, table top toys, sh
 
 * Mon - Fri  1pm - 4pm
 * &pound;2.50 per family
-* Venue:  "Marble Hill Park":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200505180441&action=getlisting
+* Venue:  "Marble Hill Park":http://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting
 * Tel: 020 8891 0641   /   020 8891 4930
 
 h4. Adventure Playground -  5-15 years
@@ -208,7 +208,7 @@ Friendship bracelets, football, rope swings, quiz nights, table tennis, games, a
 
 * Mon - Fri   11am - 6pm
 * &pound;2.00 per child
-* Venue:  "Marble Hill Park":http://www.stmgrts.org.uk/cgi-bin/directory.cgi?key=200505180441&action=getlisting
+* Venue:  "Marble Hill Park":http://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting
 * Tel: 020 8891 0641   /   020 8891 4930
 
 

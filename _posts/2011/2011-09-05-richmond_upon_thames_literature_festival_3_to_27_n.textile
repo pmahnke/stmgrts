@@ -8,7 +8,7 @@ date: 2011-09-05 14:12:46
 excerpt: |
     <img src="/assets/images/directory/200610191449_Richmond_upon_Thames_Literature_Festival.gif"  alt="Richmond_upon_Thames_Literature_Festival" width="150"  class="photo right" />
     
-    The "Richmond upon Thames Literature Festival":http://www.stmgrts.org.uk/directory/art/200610191449, formerly _Book Now_, is back and celebrating their 20<sup>th</sup> anniversary.
+    The "Richmond upon Thames Literature Festival":http://stmargarets.london/directory/art/200610191449, formerly _Book Now_, is back and celebrating their 20<sup>th</sup> anniversary.
     
     bq.. "To mark this occasion we have curated a superb line-up of authors, artists, thinkers and speakers.
     
@@ -21,7 +21,7 @@ excerpt: |
 
 <img src="/assets/images/directory/200610191449_Richmond_upon_Thames_Literature_Festival.gif"  alt="Richmond_upon_Thames_Literature_Festival" width="150"  class="photo right" />
 
-The "Richmond upon Thames Literature Festival":http://www.stmgrts.org.uk/directory/art/200610191449, formerly _Book Now_, is back and celebrating their 20<sup>th</sup> anniversary.
+The "Richmond upon Thames Literature Festival":http://stmargarets.london/directory/art/200610191449, formerly _Book Now_, is back and celebrating their 20<sup>th</sup> anniversary.
 
 bq.. "To mark this occasion we have curated a superb line-up of authors, artists, thinkers and speakers.
 
@@ -33,7 +33,7 @@ Of course no birthday would be complete without a party and ours is no exception
 
 h4. More information
 
-* "Event listings":http://www.stmgrts.org.uk/directory/art/200610191449
+* "Event listings":http://stmargarets.london/directory/art/200610191449
 * "Download the brochure":http://www.richmondliterature.com/wp-content/uploads/2010/10/Final-Brochure.pdf [pdf]
 * "Richmond Councils pages":http://www.richmond.gov.uk/home/leisure_and_culture/arts/literature_festival.htm
 

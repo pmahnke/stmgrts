@@ -6,16 +6,16 @@ commentfile: 2015-01-23-family_art_at_orleans_house_gallery
 category: around_town
 date: 2015-01-23 23:42:50
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/sunday-art-flyer-jan-2015.png" title="See larger version of - sunday art flyer jan 2015"><img src="//stmgrts.org.uk/assets/images/2015/sunday-art-flyer-jan-2015_thumb.png" width="150" height="212" alt="sunday art flyer jan 2015" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/sunday-art-flyer-jan-2015.png" title="See larger version of - sunday art flyer jan 2015"><img src="//stmargarets.london/assets/images/2015/sunday-art-flyer-jan-2015_thumb.png" width="150" height="212" alt="sunday art flyer jan 2015" class="photo right" /></a>
     
-    Sunday Afternoon Art family activities are running at "Orleans House Gallery":http://www.stmgrts.org.uk/directory/gallery/200506150208. They are on the first Sunday of every month from 2pm to3.30pm.  No booking is necessary, you can just drop in any time.
+    Sunday Afternoon Art family activities are running at "Orleans House Gallery":http://stmargarets.london/directory/gallery/200506150208. They are on the first Sunday of every month from 2pm to3.30pm.  No booking is necessary, you can just drop in any time.
     
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/sunday-art-flyer-jan-2015.png" title="See larger version of - sunday art flyer jan 2015"><img src="//stmgrts.org.uk/assets/images/2015/sunday-art-flyer-jan-2015_thumb.png" width="250" height="353" alt="sunday art flyer jan 2015" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/sunday-art-flyer-jan-2015.png" title="See larger version of - sunday art flyer jan 2015"><img src="//stmargarets.london/assets/images/2015/sunday-art-flyer-jan-2015_thumb.png" width="250" height="353" alt="sunday art flyer jan 2015" class="photo right" /></a>
 
-Sunday Afternoon Art family activities are running at "Orleans House Gallery":http://www.stmgrts.org.uk/directory/gallery/200506150208. They are on the first Sunday of every month from 2pm to3.30pm.  No booking is necessary, you can just drop in any time.
+Sunday Afternoon Art family activities are running at "Orleans House Gallery":http://stmargarets.london/directory/gallery/200506150208. They are on the first Sunday of every month from 2pm to3.30pm.  No booking is necessary, you can just drop in any time.
 
 
 

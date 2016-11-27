@@ -6,28 +6,28 @@ commentfile: 2007-07-15-photos_from_2007_st_margarets_fair
 category: around_town
 date: 2007-07-15 14:59:03
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2007/fair_wide.jpg"><img src="//stmgrts.org.uk/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
+    <a href="//stmargarets.london/assets/images/2007/fair_wide.jpg"><img src="//stmargarets.london/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
     
     
     We only managed to capture a few photos from this year's fair.
     
-    If you have any, please forward them to us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk  
+    If you have any, please forward them to us at "content@stmargarets.london":mailto:content@stmargarets.london  
     
     
-    "Here they are...":http://www.stmgrts.org.uk/static/fair/2007/index.html
+    "Here they are...":http://stmargarets.london/static/fair/2007/index.html
     
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2007/fair_wide.jpg"><img src="//stmgrts.org.uk/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
+<a href="//stmargarets.london/assets/images/2007/fair_wide.jpg"><img src="//stmargarets.london/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
 
 
 We only managed to capture a few photos from this year's fair.
 
-If you have any, please forward them to us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk  
+If you have any, please forward them to us at "content@stmargarets.london":mailto:content@stmargarets.london  
 
 
-"Here they are...":http://www.stmgrts.org.uk/static/fair/2007/index.html
+"Here they are...":http://stmargarets.london/static/fair/2007/index.html
 
 
 

@@ -6,7 +6,7 @@ commentfile: 2014-11-14-normansfield_theatre_listed_as_top_100_places_to_v
 category: news
 date: 2014-11-14 08:34:00
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/normansfield_theatre.jpg" title="See larger version of - normansfield theatre Copyright Mark Percy"><img src="//stmgrts.org.uk/assets/images/2014/normansfield_theatre_thumb.jpg" width="150" height="150" alt="normansfield theatre Copyright Mark Percy" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/normansfield_theatre.jpg" title="See larger version of - normansfield theatre Copyright Mark Percy"><img src="//stmargarets.london/assets/images/2014/normansfield_theatre_thumb.jpg" width="150" height="150" alt="normansfield theatre Copyright Mark Percy" class="photo right" /></a>
     
     LastMinute.com have listed Normansfield Theatre as one of their top 100 places to visit in London.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/normansfield_theatre.jpg" title="See larger version of - normansfield theatre Copyright Mark Percy"><img src="//stmgrts.org.uk/assets/images/2014/normansfield_theatre_thumb.jpg" width="250" height="250" alt="normansfield theatre Copyright Mark Percy" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/normansfield_theatre.jpg" title="See larger version of - normansfield theatre Copyright Mark Percy"><img src="//stmargarets.london/assets/images/2014/normansfield_theatre_thumb.jpg" width="250" height="250" alt="normansfield theatre Copyright Mark Percy" class="photo right" /></a>
 
 LastMinute.com have listed Normansfield Theatre as one of their top 100 places to visit in London.
 

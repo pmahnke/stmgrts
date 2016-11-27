@@ -6,7 +6,7 @@ commentfile: 2011-11-11-event_reminder_a_scottish_evening_24_november_2011
 category: around_town
 date: 2011-11-11 09:17:46
 excerpt: |
-    Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on "Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House":http://www.stmgrts.org.uk/event/party/200705143125 present:
+    Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on "Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House":http://stmargarets.london/event/party/200705143125 present:
     
     h4=. A Scottish Evening
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on "Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House":http://www.stmgrts.org.uk/event/party/200705143125 present:
+Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on "Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House":http://stmargarets.london/event/party/200705143125 present:
 
 h4=. A Scottish Evening
 

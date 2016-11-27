@@ -8,7 +8,7 @@ date: 2010-05-06 06:25:34
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2010/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right" />
+<img src="//stmargarets.london/assets/images/2010/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right" />
 
 Combined General Parliamentary and Local Council Elections are today, Thursday 6 May 2010.
 

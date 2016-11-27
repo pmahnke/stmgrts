@@ -6,12 +6,12 @@ commentfile: 2008-11-28-event_reminder_eel_pie_open_studios
 category: around_town
 date: 2008-11-28 13:10:00
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmargarets.london/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
     
     
     
     
-    Find something special for Christmas at "Eel Pie Island's Open Studios":http://www.stmgrts.org.uk/event/exhibition/200705142011.
+    Find something special for Christmas at "Eel Pie Island's Open Studios":http://stmargarets.london/event/exhibition/200705142011.
     
     There will be; mosaics, pottery, jewellery, glass, prints, ceramics, sculpture, paintings, costumes, cards, cartoons and more.
     
@@ -20,12 +20,12 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmgrts.org.uk/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2008/EelPieXmas08card.jpg"><img src="//stmargarets.london/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
 
 
 
 
-Find something special for Christmas at "Eel Pie Island's Open Studios":http://www.stmgrts.org.uk/event/exhibition/200705142011.
+Find something special for Christmas at "Eel Pie Island's Open Studios":http://stmargarets.london/event/exhibition/200705142011.
 
 There will be; mosaics, pottery, jewellery, glass, prints, ceramics, sculpture, paintings, costumes, cards, cartoons and more.
 

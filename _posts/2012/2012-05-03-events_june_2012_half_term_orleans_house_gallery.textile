@@ -7,7 +7,7 @@ category: around_town
 date: 2012-05-03 17:24:09
 excerpt: |
     
-    <a href="//stmgrts.org.uk/assets/images/2012/6-9s_c_medium.jpg" title="See larger version of - child with art"><img src="//stmgrts.org.uk/assets/images/2012/6-9s_c_medium_thumb.jpg" width="150" height="200" alt="child with art" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/6-9s_c_medium.jpg" title="See larger version of - child with art"><img src="//stmargarets.london/assets/images/2012/6-9s_c_medium_thumb.jpg" width="150" height="200" alt="child with art" class="photo right" /></a>
     
     
     _Activities for Children and Young People_
@@ -17,14 +17,14 @@ excerpt: |
 ---
 
 
-<a href="//stmgrts.org.uk/assets/images/2012/6-9s_c_medium.jpg" title="See larger version of - child with art"><img src="//stmgrts.org.uk/assets/images/2012/6-9s_c_medium_thumb.jpg" width="150" height="200" alt="child with art" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/6-9s_c_medium.jpg" title="See larger version of - child with art"><img src="//stmargarets.london/assets/images/2012/6-9s_c_medium_thumb.jpg" width="150" height="200" alt="child with art" class="photo right" /></a>
 
 
 _Activities for Children and Young People_
 
 Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating. Visit our website to find out more about what is happening each day.
 
-<a href="//stmgrts.org.uk/assets/images/2012/6-9s_a_medium.jpg" title="See larger version of - child drawing"><img src="//stmgrts.org.uk/assets/images/2012/6-9s_a_medium_thumb.jpg" width="150" height="200" alt="child drawing" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/6-9s_a_medium.jpg" title="See larger version of - child drawing"><img src="//stmargarets.london/assets/images/2012/6-9s_a_medium_thumb.jpg" width="150" height="200" alt="child drawing" class="photo right" /></a>
 
 h3. Holiday Activities
 

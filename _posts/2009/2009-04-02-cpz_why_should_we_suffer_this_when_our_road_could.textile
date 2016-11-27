@@ -6,7 +6,7 @@ commentfile: 2009-04-02-cpz_why_should_we_suffer_this_when_our_road_could
 category: around_town
 date: 2009-04-02 14:00:12
 excerpt: |
-    |<a href="//stmgrts.org.uk/assets/images/2009/winchester.jpg"><img src="//stmgrts.org.uk/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
+    |<a href="//stmargarets.london/assets/images/2009/winchester.jpg"><img src="//stmargarets.london/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
     <br />Winchester Road|
     
     These two photos were taken at the same time of the day (9 am); the one of Godstone Road is full of parked commuter traffic, while Winchester Road remains almost empty.  This is how effective restricted parking is at pushing more cars onto de-restricted roads like Godstone.  The only way to ensure this does not get even worse is to ensure Godstone Road is included in the CPZ.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-|<a href="//stmgrts.org.uk/assets/images/2009/winchester.jpg"><img src="//stmgrts.org.uk/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
+|<a href="//stmargarets.london/assets/images/2009/winchester.jpg"><img src="//stmargarets.london/assets/images/2009/winchester-thumb.jpg" width="150" height="112" alt="Winchester Road" class="photo" /></a>
 <br />Winchester Road|
 
 These two photos were taken at the same time of the day (9 am); the one of Godstone Road is full of parked commuter traffic, while Winchester Road remains almost empty.  This is how effective restricted parking is at pushing more cars onto de-restricted roads like Godstone.  The only way to ensure this does not get even worse is to ensure Godstone Road is included in the CPZ.

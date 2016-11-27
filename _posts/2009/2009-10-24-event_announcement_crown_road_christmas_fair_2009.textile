@@ -6,13 +6,13 @@ commentfile: 2009-10-24-event_announcement_crown_road_christmas_fair_2009
 category: news
 date: 2009-10-24 08:22:37
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmargarets.london/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
     
     The St Margarets Traders Association
     
     Present...
     
-    "*The St Margarets' Christmas Fair*":http://stmgrts.org.uk/event/fair/200705142248
+    "*The St Margarets' Christmas Fair*":http://stmargarets.london/event/fair/200705142248
     
     _Sunday 6<sup>th</sup> December_
     
@@ -22,13 +22,13 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmgrts.org.uk/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/stm_xmas_fair_2009.png" title="See larger version of - Xmas Fair Poster"><img src="//stmargarets.london/assets/images/2009/stm_xmas_fair_2009_thumb.png" width="105" height="150" alt="Xmas Fair Poster" class="photo right" /></a>
 
 The St Margarets Traders Association
 
 Present...
 
-"*The St Margarets' Christmas Fair*":http://stmgrts.org.uk/event/fair/200705142248
+"*The St Margarets' Christmas Fair*":http://stmargarets.london/event/fair/200705142248
 
 _Sunday 6<sup>th</sup> December_
 
@@ -48,7 +48,7 @@ Please join us for a day of family fun and entertainment:
 
 Please see "mystmargarets.com":http://mystmargarets.com/ for more information.
 
-To book a stall or for more information please contact "events@stmgrts.org.uk":mailto:events@stmgrts.org.uk
+To book a stall or for more information please contact "events@stmargarets.london":mailto:events@stmargarets.london
 
 _Sponsored by Richmond Council and the RFU_
 

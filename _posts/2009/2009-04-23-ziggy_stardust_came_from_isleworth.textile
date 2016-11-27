@@ -6,7 +6,7 @@ commentfile: 2009-04-23-ziggy_stardust_came_from_isleworth
 category: around_town
 date: 2009-04-23 14:38:51
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/vince_taylor.jpg"><img src="//stmgrts.org.uk/assets/images/2009/vince_taylor-thumb.jpg" width="118" height="150" alt="MAURICE BRIAN HOLDEN a.k.a VINCE TAYLOR" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/vince_taylor.jpg"><img src="//stmargarets.london/assets/images/2009/vince_taylor-thumb.jpg" width="118" height="150" alt="MAURICE BRIAN HOLDEN a.k.a VINCE TAYLOR" class="photo right" /></a>
     
     
     _Ziggy Stardust was a rock and roll fantasy created by David Bowie._
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/vince_taylor.jpg"><img src="//stmgrts.org.uk/assets/images/2009/vince_taylor-thumb.jpg" width="118" height="150" alt="MAURICE BRIAN HOLDEN a.k.a VINCE TAYLOR" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/vince_taylor.jpg"><img src="//stmargarets.london/assets/images/2009/vince_taylor-thumb.jpg" width="118" height="150" alt="MAURICE BRIAN HOLDEN a.k.a VINCE TAYLOR" class="photo right" /></a>
 
 
 _Ziggy Stardust was a rock and roll fantasy created by David Bowie._
@@ -32,7 +32,7 @@ In 1958 when Brian was 18 years old his sister Sheila moved to Los Angeles and t
 
 Like most teenagers of the time Brian was a confirmed rock 'n' roll fan and had ambitions to become a rock star himself. He realised that his best chance of making it was back in Britain where the competition was less hot.  One story goes that he heard a record by Tommy Steele, the UK's biggest rock star at the time, and said
 
-<a href="//stmgrts.org.uk/assets/images/2009/2_is.jpg"><img src="//stmgrts.org.uk/assets/images/2009/2_is-thumb.jpg" width="150" height="124" alt="THE 2 I’s COFFEE BAR" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/2_is.jpg"><img src="//stmargarets.london/assets/images/2009/2_is-thumb.jpg" width="150" height="124" alt="THE 2 I’s COFFEE BAR" class="photo right" /></a>
 
 
 
@@ -40,7 +40,7 @@ bq. "If that passes as rock 'n' roll I can't miss!"
 
 Bankrolled by his sister's new found wealth and his own greasy good looks Maurice Brian Holden set off back to London and the "2 I's" coffee bar on Old Compton Street in Soho where most of Britain's emerging rock 'n' roll singers and musicians hung out. There he formed a band called _The Playboys_. All Maurice needed now was a new name. For all his good looks and gen-u-ine American accent 'Maurice' did sound a bit too... well, Isleworth! Looking at a packet of Pall Mall cigarettes he noticed the company's motto, "In hoc Vinces"  and inspired by this decided to call himself Vince Taylor -- borrowing the 'Taylor' bit from his favourite film star Robert Taylor.  He was all set. He had the band, he had the name, he had the good looks -- all that was missing was a hit song.
 
-<div><object width="480" height="414"><param name="movie" value="//stmgrts.org.uk/assets/images/2009/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation&related=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation&related=0" type="application/x-shockwave-flash" width="480" height="414" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation">Vince Taylor - Brand new Cadillac (live)</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/fredozydeco">fredozydeco</a></i></div>
+<div><object width="480" height="414"><param name="movie" value="//stmargarets.london/assets/images/2009/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation&related=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation&related=0" type="application/x-shockwave-flash" width="480" height="414" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x1jgtj_vince-taylor-brand-new-cadillac-liv_creation">Vince Taylor - Brand new Cadillac (live)</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/fredozydeco">fredozydeco</a></i></div>
 
 His first record on Parlophone, "Right Behind you Baby" in 1958 went nowhere -- and to be honest the newly named Vince may have had everything else he needed but he was sorely lacking in the voice department. His second record,  "Brand New Cadillac" released in 1959 was different. Offered a new and exciting rock sound it is a seminal British rock 'n' roll classic. Like "Move It" released by Cliff Richard in the same year it demonstrated that British rockers had finally found a voice and a style of their own. Written by Vince and featuring a eerie guitar riff from guitarist Joe Moretti, "Brand New Cadillac" was mean, magnificent and moody and ideally suited Vince Taylor's dark good looks and authentic All-American teeth.  Vince was so convinced that he was on the way to rock stardom that when they got to the guitar solo in the record he shouted out "Hang it on, Scottie"  the name of Elvis's guitarist -- even though his own guitar player was called Joe! Unfortunately "Brand New Cadillac" died in the charts -- and now it is only remembered for the wishy-washy 1979 cover version by the Clash.
 
@@ -48,7 +48,7 @@ Disappointed by his lack of success in Britain and already displaying the unpred
 
 Decked out in black leathers, chains, kohl eye make-up and his hair greased up into a high pompadour he was immediately signed to the French Barclay label, who put him to work recording covers of Eddie Cochran, Little Richard and Elvis classics. In 1962 he headlined a bizarre show called Twist Appeal -- L'Erotisme Au Xxe Siecle (Eroticism In The 20th Century) in which he performed between displays of erotic dance. Sadly this bizarre spectacle represented the pinnacle of his career as a rock 'n' roll icon. Fuelled by alcohol and drugs Vince's behaviour became increasingly erratic. In April 1965 he opened for the Rolling Stones at Paris' Olympia, and then returned to London where at a party with Bob Dylan he tried LSD for the first time. In his current state of mind it was absolutely the very last thing that he needed. When he returned to Paris he was filthy, unshaven and out of his head. Clutching a bottle of Mateus wine he insisted his name was Mateus, the son of God. Persuading his audience to follow him, Vince paraded across Paris preaching all the way. That was the beginning of the end for Maurice from Isleworth. There were comeback attempts in '67, '72, '74 and '75, but they all failed. In between he run around with Brigitte Bardot and meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
 
-<a href="//stmgrts.org.uk/assets/images/2009/ziggy_s.jpg"><img src="//stmgrts.org.uk/assets/images/2009/ziggy_s-thumb.jpg" width="103" height="150" alt="ZIGGY STARDUST a.k.a DAVID BOWIE" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/ziggy_s.jpg"><img src="//stmargarets.london/assets/images/2009/ziggy_s-thumb.jpg" width="103" height="150" alt="ZIGGY STARDUST a.k.a DAVID BOWIE" class="photo right" /></a>
 
 
 bq. "Vince Taylor was the inspiration for Ziggy. Vince Taylor was a rock n roll star from the Sixties who was slowly going crazy... He always stayed in my mind as an example of what can happen in rock 'n' roll... it seemed very appealing: Oh, I'd love to end up like that, totally nuts."

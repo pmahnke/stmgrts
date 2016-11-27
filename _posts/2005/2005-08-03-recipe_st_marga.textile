@@ -10,7 +10,7 @@ date: 2005-08-03 12:04:58
 
 With this listing we are introducing a new section to the St Margarets Community Website, _local recipes from local residents_.  We hope you will enjoy some of these cooking ideas.  
 
-If you would like to contribute a recipe, please email us at "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk.
+If you would like to contribute a recipe, please email us at "content@stmargarets.london":mailto:content@stmargarets.london.
 
 <div class="recipe">
 

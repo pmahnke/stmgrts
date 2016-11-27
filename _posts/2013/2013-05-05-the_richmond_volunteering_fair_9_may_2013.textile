@@ -8,7 +8,7 @@ date: 2013-05-05 10:15:16
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/Richmond_fair_2013_volunteer.jpg" title="See larger version of - Richmond fair 2013 volunteer"><img src="//stmgrts.org.uk/assets/images/2013/Richmond_fair_2013_volunteer_thumb.jpg" width="150" height="182" alt="Richmond fair 2013 volunteer" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/Richmond_fair_2013_volunteer.jpg" title="See larger version of - Richmond fair 2013 volunteer"><img src="//stmargarets.london/assets/images/2013/Richmond_fair_2013_volunteer_thumb.jpg" width="150" height="182" alt="Richmond fair 2013 volunteer" class="photo right" /></a>
 
 Want to make a real difference to your local community?
 
@@ -23,7 +23,7 @@ Visit the Richmond Volunteering Fair
 
 h4. More information
 
-* "9 May 2013 from 1:00-7:00pm":http://www.stmgrts.org.uk/event/fair/200705143876
+* "9 May 2013 from 1:00-7:00pm":http://stmargarets.london/event/fair/200705143876
 * Clarendon Hall, York House, Richmond Road Twickenham, TW1 3AA
 * "www.volunteeringrichmond.org.uk/vfair.html":http://www.volunteeringrichmond.org.uk/vfair.html
 * 0300 365 9940

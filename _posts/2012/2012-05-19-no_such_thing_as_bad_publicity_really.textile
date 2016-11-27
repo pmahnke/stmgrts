@@ -6,14 +6,14 @@ commentfile: 2012-05-19-no_such_thing_as_bad_publicity_really
 category: editorial
 date: 2012-05-19 10:20:20
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="http://www.stmgrts.org.uk/assets/images/2012/pornlady_thumb.jpg" width="150" height="84" alt="pornlady" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="http://stmargarets.london/assets/images/2012/pornlady_thumb.jpg" width="150" height="84" alt="pornlady" class="photo right" /></a>
 
     Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":https://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
 ---
 
 Well, this week we received some tweets from "@MustardSeedUK":http://www.twitter.com/MustardSeedUK about a new report from the "Open Rights Group":https://www.openrightsgroup.org/blog/2012/mobile-internet-censorship about mobile operators blocking sites incorrectly as 'p0rn' sites.
 
-<a href="http://www.stmgrts.org.uk/assets/images/2012/bad_publicity.png" title="See larger version of - bad publicity"><img src="http://www.stmgrts.org.uk/assets/images/2012/bad_publicity_thumb.png" width="400" height="224" alt="bad publicity" class="photo center" /></a>
+<a href="http://stmargarets.london/assets/images/2012/bad_publicity.png" title="See larger version of - bad publicity"><img src="http://stmargarets.london/assets/images/2012/bad_publicity_thumb.png" width="400" height="224" alt="bad publicity" class="photo center" /></a>
 Immediately we checked and the report says, we are in-fact blocked by Orange and T-Mobile.  We then attempted to get on IRC with the Open Rights Group, tried to call, but ended up emailing them - no response yet.  Well it turns out that a lot of other news groups picked up the story and ran very similar versions of it to the original report; however, pulling out this site as an example of the ridiculousness of the blocking mechanism.
 
 At this point we don't know what is going to happen, but read on if you are interested and comment if you have some ideas.
@@ -21,7 +21,7 @@ At this point we don't know what is going to happen, but read on if you are inte
 
 h4. ISPs Blocking Porn Sites Is a Total Kick In the Nuts | Gizmodo UK
 
-<a href="http://www.stmgrts.org.uk/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="http://www.stmgrts.org.uk/assets/images/2012/pornlady_thumb.jpg" width="250" height="140" alt="pornlady" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="http://stmargarets.london/assets/images/2012/pornlady_thumb.jpg" width="250" height="140" alt="pornlady" class="photo right" /></a>
 
 bq.. "Worryingly, some of the sites that are erroneously blocked are political in nature, or concern free speech and privacy. Some of these sites may have been submitted maliciously by opponents, others...well, who would want to block the village green goings-on at this site? (Answer: Orange and T-Mobile)
 
@@ -57,7 +57,7 @@ p. <cite>"blogs.wsj.com":http://blogs.wsj.com/tech-europe/2012/05/15/u-k-cellpho
 
 h4. Mobile internet blocking is rife - The Inquirer
 
-bq. "For example, the seemingly innocuous St Margarets Community web site ("www.stmgrts.org.uk":http://www.stmgrts.org.uk), described in the report as "a community information site created by a group of local residents of St Margarets, Middlesex," was "Blocked on Orange and T-Mobile on 8<sup>th</sup> March"."
+bq. "For example, the seemingly innocuous St Margarets Community web site ("www.stmargarets.london":http://www.stmargarets.london), described in the report as "a community information site created by a group of local residents of St Margarets, Middlesex," was "Blocked on Orange and T-Mobile on 8<sup>th</sup> March"."
 
 p. <cite>"www.theinquirer.net":http://www.theinquirer.net/inquirer/news/2174504/mobile-internet-blocking-rife</cite>
 

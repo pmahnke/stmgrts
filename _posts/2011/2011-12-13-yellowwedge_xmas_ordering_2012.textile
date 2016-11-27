@@ -10,7 +10,7 @@ date: 2011-12-13 09:53:26
 
 <div class="letter">
 
-<a href="//stmgrts.org.uk/assets/images/2011/cheese_xmas_tree.png" title="See larger version of - cheese xmas tree"><img src="//stmgrts.org.uk/assets/images/2011/cheese_xmas_tree_thumb.png" width="150" height="131" alt="cheese xmas tree" class="right" /></a>
+<a href="//stmargarets.london/assets/images/2011/cheese_xmas_tree.png" title="See larger version of - cheese xmas tree"><img src="//stmargarets.london/assets/images/2011/cheese_xmas_tree_thumb.png" width="150" height="131" alt="cheese xmas tree" class="right" /></a>
 
 Dear Cheese Lover,
 

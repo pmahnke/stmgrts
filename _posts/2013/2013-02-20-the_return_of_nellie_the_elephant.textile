@@ -6,14 +6,14 @@ commentfile: 2013-02-20-the_return_of_nellie_the_elephant
 category: around_town
 date: 2013-02-20 22:15:20
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/NELLIE_elephant_cartoon.jpg" title="See larger version of - elephant cartoon"><img src="//stmgrts.org.uk/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg" width="150" height="120" alt="elephant cartoon" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/NELLIE_elephant_cartoon.jpg" title="See larger version of - elephant cartoon"><img src="//stmargarets.london/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg" width="150" height="120" alt="elephant cartoon" class="photo right" /></a>
     
     Every three years I cycle up to a Scout Hut in Whitton to take a First Aid refresher course. It lasts all day and covers most aspects of basic first aid, from minor cuts, bruises and nose bleeds through to life threatening situations like cardiac arrest, choking and anaphylactic shock.
     
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/NELLIE_elephant_cartoon.jpg" title="See larger version of - elephant cartoon"><img src="//stmgrts.org.uk/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg" width="150" height="120" alt="elephant cartoon" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/NELLIE_elephant_cartoon.jpg" title="See larger version of - elephant cartoon"><img src="//stmargarets.london/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg" width="150" height="120" alt="elephant cartoon" class="photo right" /></a>
 
 
 bq.. "To Bombay,
@@ -31,7 +31,7 @@ p. <cite>"Nellie the Elephant" written by Ralph Butler and Peter Hart (1957)</ci
 Every three years I cycle up to a Scout Hut in Whitton to take a First Aid refresher course. It lasts all day and covers most aspects of basic first aid, from minor cuts, bruises and nose bleeds through to life threatening situations like cardiac arrest, choking and anaphylactic shock.
 
 
-<a href="//stmgrts.org.uk/assets/images/2013/NELLIE_CPR.jpg" title="See larger version of - CPR"><img src="//stmgrts.org.uk/assets/images/2013/NELLIE_CPR_thumb.jpg" width="150" height="150" alt="CPR" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/NELLIE_CPR.jpg" title="See larger version of - CPR"><img src="//stmargarets.london/assets/images/2013/NELLIE_CPR_thumb.jpg" width="150" height="150" alt="CPR" class="photo right" /></a>
 
 
 Part of the time is spent practising CPR, Cardiopulmonary Resuscitation, an emergency procedure used to restore and maintain respiration, brain function and blood circulation in unresponsive patients who are not breathing.  After catastrophic events like cardiac arrest, electrocution or anaphylactic shock CPR is a life saver.

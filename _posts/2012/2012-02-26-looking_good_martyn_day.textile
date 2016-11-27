@@ -7,7 +7,7 @@ category: editorial
 date: 2012-02-26 14:39:58
 excerpt: |
     <div class="img_caption right">
-    	<a href="//stmgrts.org.uk/assets/images/2012/Weekender-Martyn-Day-001.jpg" title="See larger version of - Weekender: Martyn Day"><img src="//stmgrts.org.uk/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg" width="150" height="210" alt="Weekender: Martyn Day" class="photo" /></a>
+    	<a href="//stmargarets.london/assets/images/2012/Weekender-Martyn-Day-001.jpg" title="See larger version of - Weekender: Martyn Day"><img src="//stmargarets.london/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg" width="150" height="210" alt="Weekender: Martyn Day" class="photo" /></a>
     	<span>Photograph: Emily Stein for the Guardian</span>
     </div>
     
@@ -21,7 +21,7 @@ excerpt: |
 ---
 
 <div class="img_caption right">
-	<a href="//stmgrts.org.uk/assets/images/2012/Weekender-Martyn-Day-001.jpg" title="See larger version of - Weekender: Martyn Day"><img src="//stmgrts.org.uk/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg" width="150" height="210" alt="Weekender: Martyn Day" class="photo" /></a>
+	<a href="//stmargarets.london/assets/images/2012/Weekender-Martyn-Day-001.jpg" title="See larger version of - Weekender: Martyn Day"><img src="//stmargarets.london/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg" width="150" height="210" alt="Weekender: Martyn Day" class="photo" /></a>
 	<span>Photograph: Emily Stein for the Guardian</span>
 </div>
 

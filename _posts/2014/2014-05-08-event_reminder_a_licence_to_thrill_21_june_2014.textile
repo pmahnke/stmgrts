@@ -10,7 +10,7 @@ date: 2014-05-08 22:29:15
 
 
 
-<a href="//stmgrts.org.uk/assets/images/2014/React-Logo.jpg" title="See larger version of - React Logo"><img src="//stmgrts.org.uk/assets/images/2014/React-Logo_thumb.jpg" width="150" height="68" alt="React Logo" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/React-Logo.jpg" title="See larger version of - React Logo"><img src="//stmargarets.london/assets/images/2014/React-Logo_thumb.jpg" width="150" height="68" alt="React Logo" class="photo right" /></a>
 
 On Saturday 21 June 2014, the Baron and Baroness van Dedem will be hosting 'A Licence to Thrill' in the grounds of their home, Trumpeter's House (formerly Richmond Palace).
 

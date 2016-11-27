@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update on stmgrts.org.uk"
+title: "Update on stmargarets.london"
 permalink: /archives/2005/07/update_on_stmgr.html
 commentfile: 2005-07-30-update_on_stmgr
 category: editorial
@@ -19,27 +19,27 @@ p. We can't stress how critical it is to the health of the site that it is actua
 
 h3. What is Going On?
 
-p. Which leads me to my next point, we need more groups and people to tell us about local news and events.  While active in the community, the current group of volunteers for the site only tracks so many events.  It would be wonderful if more people could contact us ("content@stmgrts.org.uk":mailto:content@stmgrts.org.uk) with information to put on the site.
+p. Which leads me to my next point, we need more groups and people to tell us about local news and events.  While active in the community, the current group of volunteers for the site only tracks so many events.  It would be wonderful if more people could contact us ("content@stmargarets.london":mailto:content@stmargarets.london) with information to put on the site.
 
 h3. Help Required
 
-p. Maintaining a site like this requires a lot of time and effort.  Events need to be added, updated and rotated off the home pages.  News needs to be collected and written.  Photos need to be taken.  Listings need to be added to the directory of local information.  If you have the interest and the time, please let us know what you can do to help.  Email us at "volunteer@stmgrts.org.uk":mailto:volunteer@stmgrts.org.uk.
+p. Maintaining a site like this requires a lot of time and effort.  Events need to be added, updated and rotated off the home pages.  News needs to be collected and written.  Photos need to be taken.  Listings need to be added to the directory of local information.  If you have the interest and the time, please let us know what you can do to help.  Email us at "volunteer@stmargarets.london":mailto:volunteer@stmargarets.london.
 
 h3. Site Improvements & Feedback
 
 p. If you have been on the site frequently enough, you probably have noticed that a lot of little things keep changing on the site (for example, we moved *Upcoming Plays* into its own section because it dominated the *Upcoming Events* section.)  However, that is only the tip of the iceberg in term of the types of editorial and functional changes that we constantly need to address... and we need your help to prioritise that list.  Please let us know what is working for you and what isn't.
 
-p. We want to have a site that is balanced between letting everyone know all the wonderful things that are happening in St Margarets _and_ trying to fix the things that aren't so wonderful.  But we need help to understand exactly where that balance is, with this and all our issues.  Please give us your feedback via email ("editor@stmgrts.org.uk":mailto:editor@stmgrts.org.uk) or the site's comments and forums.
+p. We want to have a site that is balanced between letting everyone know all the wonderful things that are happening in St Margarets _and_ trying to fix the things that aren't so wonderful.  But we need help to understand exactly where that balance is, with this and all our issues.  Please give us your feedback via email ("editor@stmargarets.london":mailto:editor@stmargarets.london) or the site's comments and forums.
 
 h3. Building a Community
 
-p. As stated in our original "Welcome Letter":http://stmgrts.org.uk/archives/2005/06/welcome_to_stmg.html we are trying to build an even greater sense of community in St Margarets.  But a community isn't five people having coffee once a week.  We need your help to take this site to the next level.  Please help by _using_ and _adding_ to the site.  Please let us know what we can do to make it more relevant and more useful.
+p. As stated in our original "Welcome Letter":http://stmargarets.london/archives/2005/06/welcome_to_stmg.html we are trying to build an even greater sense of community in St Margarets.  But a community isn't five people having coffee once a week.  We need your help to take this site to the next level.  Please help by _using_ and _adding_ to the site.  Please let us know what we can do to make it more relevant and more useful.
 
 Thank you,
 
 _The Web Team_
 
-p.s. Don't forget to sign-up for the "newsletter":http://stmgrts.org.uk/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
+p.s. Don't forget to sign-up for the "newsletter":http://stmargarets.london/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
                         
 
 

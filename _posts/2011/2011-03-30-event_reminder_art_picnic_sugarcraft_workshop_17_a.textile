@@ -6,11 +6,11 @@ commentfile: 2011-03-30-event_reminder_art_picnic_sugarcraft_workshop_17_a
 category: around_town
 date: 2011-03-30 21:00:47
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmargarets.london/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
     
     With Sugar crafter Danielle Armstrong
     
-    "Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmgrts.org.uk/event/event/200705142765
+    "Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmargarets.london/event/event/200705142765
     
     During the workshop you will learn how to make miniature roses, spring flowers and Easter themed decorations such as bunnies and decorative hearts.  Cupcakes will be provided for you to decorate during the day.
     
@@ -20,11 +20,11 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmgrts.org.uk/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="//stmargarets.london/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
 
 With Sugar crafter Danielle Armstrong
 
-"Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmgrts.org.uk/event/event/200705142765
+"Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmargarets.london/event/event/200705142765
 
 During the workshop you will learn how to make miniature roses, spring flowers and Easter themed decorations such as bunnies and decorative hearts.  Cupcakes will be provided for you to decorate during the day.
 
@@ -33,7 +33,7 @@ Please bring an apron and rolling pin. All other materials will be provided for 
 *ADVANCE BOOKING ESSENTIAL*
 
 
-<a href="//stmgrts.org.uk/assets/images/2011/Sugarworkshop_poster.gif" title="See larger version of - Poster"><img src="//stmgrts.org.uk/assets/images/2011/Sugarworkshop_poster_thumb.gif" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/Sugarworkshop_poster.gif" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/Sugarworkshop_poster_thumb.gif" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 h4. Details
 

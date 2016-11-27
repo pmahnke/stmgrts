@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img alt="ParVinu Logo" src="//stmgrts.org.uk/assets/images/2006/ParVinu-logo-thumb.gif" width="150" height="69" class="photo right" />
+<img alt="ParVinu Logo" src="//stmargarets.london/assets/images/2006/ParVinu-logo-thumb.gif" width="150" height="69" class="photo right" />
 
 On 2<sup>nd</sup> March 2006, the  Richmond Council Planning Committee Meeting gave ‘conditional permission’ for the proposed wine bar in the basement formerly occupied by Phelps.  
 

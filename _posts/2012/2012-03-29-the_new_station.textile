@@ -6,7 +6,7 @@ commentfile: 2012-03-29-the_new_station
 category: around_town
 date: 2012-03-29 22:01:43
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train2.jpg" title="See larger version of - Steam Train"><img src="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train2_thumb.jpg" width="150" height="98" alt="Steam Train" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/AB_Steam_Train2.jpg" title="See larger version of - Steam Train"><img src="//stmargarets.london/assets/images/2012/AB_Steam_Train2_thumb.jpg" width="150" height="98" alt="Steam Train" class="photo right" /></a>
     
     <em>... or how we nearly came to be living in Ailsa Bridge.</em>
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train2.jpg" title="See larger version of - Steam Train"><img src="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train2_thumb.jpg" width="150" height="98" alt="Steam Train" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/AB_Steam_Train2.jpg" title="See larger version of - Steam Train"><img src="//stmargarets.london/assets/images/2012/AB_Steam_Train2_thumb.jpg" width="150" height="98" alt="Steam Train" class="photo right" /></a>
 
 <em>... or how we nearly came to be living in Ailsa Bridge.</em>
 
@@ -24,7 +24,7 @@ bq. "To the City merchant a station at his door will mean a saving of time; or i
 
 ??RICHMOND AND TWICKENHAM TIMES Saturday January 8<sup>th</sup> 1876??
 
-<a href="//stmgrts.org.uk/assets/images/2012/AB_Ailsa_Bridge.jpg" title="See larger version of - Ailsa Bridge"><img src="//stmgrts.org.uk/assets/images/2012/AB_Ailsa_Bridge_thumb.jpg" width="150" height="112" alt="Ailsa Bridge" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/AB_Ailsa_Bridge.jpg" title="See larger version of - Ailsa Bridge"><img src="//stmargarets.london/assets/images/2012/AB_Ailsa_Bridge_thumb.jpg" width="150" height="112" alt="Ailsa Bridge" class="photo right" /></a>
 
 Such was the anxiety to get a station that local residents started a fund to buy one for themselves. They even had a name for it... Ailsa Bridge after the bridge that took the main road from Isleworth to Richmond over the railway line
 
@@ -38,7 +38,7 @@ bq. "The Conservative Land Society regard the station project as one that must b
 
 The fund raising continued throughout 1876 and on October 7<sup>th</sup> of that year the 'Middlesex Chronicle' was pleased to announce...
 
-<a href="//stmgrts.org.uk/assets/images/2012/AB_St_Margarets_Station.jpg" title="See larger version of - St Margarets Station"><img src="//stmgrts.org.uk/assets/images/2012/AB_St_Margarets_Station_thumb.jpg" width="150" height="112" alt="St Margarets Station" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/AB_St_Margarets_Station.jpg" title="See larger version of - St Margarets Station"><img src="//stmargarets.london/assets/images/2012/AB_St_Margarets_Station_thumb.jpg" width="150" height="112" alt="St Margarets Station" class="photo right" /></a>
 
 
 bq. "The new St Margarets Station was opened on Monday last. The structure is very commodious and well arranged, and will undoubtedly prove a great boon to residents of the St Margarets district who are in the habit of travelling by train."
@@ -51,7 +51,7 @@ It is worth noting how close we came to living in 'Ailsa Bridge' because it was 
 
 For all the praise heaped upon the new station within one week of the opening "Determined Grumbler" of East Twickenham was urging residents to voice their dissatisfaction with the service offered by London and South-Western Railway...
 
-<a href="//stmgrts.org.uk/assets/images/2012/AB_St_Margarets_platforms.jpg" title="See larger version of - St Margarets platforms"><img src="//stmgrts.org.uk/assets/images/2012/AB_St_Margarets_platforms_thumb.jpg" width="150" height="112" alt="St Margarets platforms" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/AB_St_Margarets_platforms.jpg" title="See larger version of - St Margarets platforms"><img src="//stmargarets.london/assets/images/2012/AB_St_Margarets_platforms_thumb.jpg" width="150" height="112" alt="St Margarets platforms" class="photo right" /></a>
 
 
 bq. "One thousand pounds was a large sum of money given as a present to railway shareholders, and all we have in return is a neat railway station and no good trains calling at it in the day. Nearly an hour's interval without a train in regular business hours; no late train at night, the very train required by all persons coming up from the country, to say nothing of concert goers, etc etc"
@@ -70,7 +70,7 @@ h4. WATERLOO TO ST. MARGARETS Weekdays
 
 </div>
 
-<a href="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train_in_St_Margarets.jpg" title="See larger version of - Steam Train in St Margarets"><img src="//stmgrts.org.uk/assets/images/2012/AB_Steam_Train_in_St_Margarets_thumb.jpg" width="150" height="111" alt="Steam Train in St Margarets" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/AB_Steam_Train_in_St_Margarets.jpg" title="See larger version of - Steam Train in St Margarets"><img src="//stmargarets.london/assets/images/2012/AB_Steam_Train_in_St_Margarets_thumb.jpg" width="150" height="111" alt="Steam Train in St Margarets" class="photo right" /></a>
 
 
 The London and South-Western Railway Company did listen to the complaints and the service did improve as did the economy of St Margarets.  By the turn of the century St Margarets had turned from an isolated riverside community described barely 50 years earlier by William Cobbett as "showy, tea-garden-like boxes, and shabby dwellings of labouring people who, in this part of the country, look to be dirty and have every appearance of drinking gin"... into an expanding London 'dormitory' with new streets and thousands of small neat villas housing a new breed of 'labouring people' - the daily commuters. They are still with us today.

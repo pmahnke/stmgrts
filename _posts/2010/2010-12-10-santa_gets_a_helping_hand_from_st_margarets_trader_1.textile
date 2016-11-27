@@ -6,22 +6,22 @@ commentfile: 2010-12-10-santa_gets_a_helping_hand_from_st_margarets_trader_1
 category: news
 date: 2010-12-10 08:58:57
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox"><img src="//stmgrts.org.uk/assets/images/2010/smta_santa_small_thumb.jpg" width="150" height="230" alt="Santa's Postbox" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox"><img src="//stmargarets.london/assets/images/2010/smta_santa_small_thumb.jpg" width="150" height="230" alt="Santa's Postbox" class="photo right" /></a>
      
     Following a letter received from Santa earlier this month, the St Margarets Traders Association have again agreed to help Santa and his trusty elves with the huge amount of post he receives from the boys and girls in the St Margarets area. Look-in Video in Crown Road, St Margarets, have one of Santa's special North Pole post boxes so the boys and girls can post their letters to him, once posted the letters are wizzed to Santa (via Elf Airlines) who will reply to each letter. Look-In Video has appointed Mr. Jag as Santa's Chief St Margarets Christmas Postmaster. Mr Jag's job is to sort all of the replies from Santa and have them ready for the boys and girls to collect.
     
-    * <a href="//stmgrts.org.uk/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox">See more details</a>
+    * <a href="//stmargarets.london/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox">See more details</a>
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox"><img src="//stmgrts.org.uk/assets/images/2010/smta_santa_small_thumb.jpg" width="150" height="230" alt="Santa's Postbox" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox"><img src="//stmargarets.london/assets/images/2010/smta_santa_small_thumb.jpg" width="150" height="230" alt="Santa's Postbox" class="photo right" /></a>
  
 Following a letter received from Santa earlier this month, the St Margarets Traders Association have again agreed to help Santa and his trusty elves with the huge amount of post he receives from the boys and girls in the St Margarets area. Look-in Video in Crown Road, St Margarets, have one of Santa's special North Pole post boxes so the boys and girls can post their letters to him, once posted the letters are wizzed to Santa (via Elf Airlines) who will reply to each letter. Look-In Video has appointed Mr. Jag as Santa's Chief St Margarets Christmas Postmaster. Mr Jag's job is to sort all of the replies from Santa and have them ready for the boys and girls to collect.
  
-* <a href="//stmgrts.org.uk/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox">See more details</a>
+* <a href="//stmargarets.london/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox">See more details</a>
 
 <div class="infobox">
-"Look-In Video":http://www.stmgrts.org.uk/directory/video/200506220008
+"Look-In Video":http://stmargarets.london/directory/video/200506220008
 40 Crown Road
 St Margarets
 

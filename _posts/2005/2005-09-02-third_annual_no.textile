@@ -8,7 +8,7 @@ date: 2005-09-02 09:34:45
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2005/nsmra_funday.jpg" width="150" heigh="100" alt="Fun Day" class="right" />
+<img src="//stmargarets.london/assets/images/2005/nsmra_funday.jpg" width="150" heigh="100" alt="Fun Day" class="right" />
 
 All of St Margarets is invited to attend the "Third Annual North St Margarets Fun Day":/cgi-bin/events.cgi?key=200506300544&action=getevent on Saturday, 10 September.
 

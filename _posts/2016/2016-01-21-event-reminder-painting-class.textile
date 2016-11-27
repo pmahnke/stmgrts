@@ -6,13 +6,13 @@ commentfile: 2016-01-21-event-reminder-painting-class
 category: around_town
 date: 2016-01-21 20:45:49
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/Painting_Class_Spring_201601.jpg" title="See larger version of - Painting Class Spring 201601"><img src="http://www.stmgrts.org.uk/assets/images/2016/Painting_Class_Spring_201601_thumb.jpg" width="150" height="212" alt="Painting Class Spring 2016" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/Painting_Class_Spring_201601.jpg" title="See larger version of - Painting Class Spring 201601"><img src="http://stmargarets.london/assets/images/2016/Painting_Class_Spring_201601_thumb.jpg" width="150" height="212" alt="Painting Class Spring 2016" class="photo right" /></a>
 
     The Painting Class explores the joys of painting in all its forms, exploring different themes in each block of five sessions. Discover a range of painting techniques and create your own masterpieces.
 
 ---
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/Painting_Class_Spring_201601.jpg" title="See larger version of - Painting Class Spring 201601"><img src="http://www.stmgrts.org.uk/assets/images/2016/Painting_Class_Spring_201601_thumb.jpg" width="250" height="353" alt="Painting Class Spring 2016" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/Painting_Class_Spring_201601.jpg" title="See larger version of - Painting Class Spring 201601"><img src="http://stmargarets.london/assets/images/2016/Painting_Class_Spring_201601_thumb.jpg" width="250" height="353" alt="Painting Class Spring 2016" class="photo right" /></a>
 The Painting Class explores the joys of painting in all its forms, exploring different themes in each block of five sessions. Discover a range of painting techniques and create your own masterpieces.
 
 The group is aimed at beginners with no experience of painting but is open to all abilities.
