@@ -6,7 +6,7 @@ commentfile: 2014-09-15-hill_view_road_and_pavement_improvements
 category: news
 date: 2014-09-15 18:40:40
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/hillviewroad.jpg" title="See larger version of - hillview road plan"><img src="//stmgrts.org.uk/assets/images/2014/hillviewroad_thumb.jpg" width="150" height="102" alt="hillview road plan" class=" right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/hillviewroad.jpg" title="See larger version of - hillview road plan"><img src="//stmargarets.london/assets/images/2014/hillviewroad_thumb.jpg" width="150" height="102" alt="hillview road plan" class=" right" /></a>
     
     As a part of our Borough wide programme to improve roads and pavements we will be carrying out footway maintenance works in Hill View Road, Twickenham. The works will generally consist of re-laying defective kerbs and footway surface repairs. 
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/hillviewroad.jpg" title="See larger version of - hillview road plan"><img src="//stmgrts.org.uk/assets/images/2014/hillviewroad_thumb.jpg" width="250" height="170" alt="hillview road plan" class=" right" /></a>
+<a href="//stmargarets.london/assets/images/2014/hillviewroad.jpg" title="See larger version of - hillview road plan"><img src="//stmargarets.london/assets/images/2014/hillviewroad_thumb.jpg" width="250" height="170" alt="hillview road plan" class=" right" /></a>
 
 As a part of our Borough wide programme to improve roads and pavements we will be carrying out footway maintenance works in Hill View Road, Twickenham. The works will generally consist of re-laying defective kerbs and footway surface repairs. 
 

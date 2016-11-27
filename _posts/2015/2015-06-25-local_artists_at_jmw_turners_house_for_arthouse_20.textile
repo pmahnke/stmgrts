@@ -6,13 +6,13 @@ commentfile: 2015-06-25-local_artists_at_jmw_turners_house_for_arthouse_20
 category: around_town
 date: 2015-06-25 19:28:28
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmgrts.org.uk/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmargarets.london/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
     
     Celebrating ARThouse 2015 Turner's House is delighted to host an exhibition by two local professional artists, both inspired by our great British landscape painter.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmgrts.org.uk/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmargarets.london/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
 
 Celebrating ARThouse 2015 Turner's House is delighted to host an exhibition by two local professional artists, both inspired by our great British landscape painter.
 

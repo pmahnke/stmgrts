@@ -6,15 +6,15 @@ commentfile: 2013-05-09-event_reminder_summer_serenade_16_may_2013
 category: around_town
 date: 2013-05-09 22:35:56
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/Summer-Serenade-16-May-2013.jpg" title="See larger version of - Summer Serenade 16 May 2013"><img src="//stmgrts.org.uk/assets/images/2013/Summer-Serenade-16-May-2013_thumb.jpg" width="150" height="205" alt="Summer Serenade 16 May 2013" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/Summer-Serenade-16-May-2013.jpg" title="See larger version of - Summer Serenade 16 May 2013"><img src="//stmargarets.london/assets/images/2013/Summer-Serenade-16-May-2013_thumb.jpg" width="150" height="205" alt="Summer Serenade 16 May 2013" class="photo right" /></a>
     
-    Richmond Community Choir, under the direction of Chris Mitchell, is performing with local vocalist Hattie Whitehead and guitarist Tom Varrall at a concert on "Thursday 16 May 2013 at Orleans Primary School Hall, Hartington Road, St Margarets":http://www.stmgrts.org.uk/event/show/200705143886.  The programme, which starts at 7.30pm, and is entitled "Summer Serenade" includes show songs, classical pieces and compositions by Hattie and Tom.
+    Richmond Community Choir, under the direction of Chris Mitchell, is performing with local vocalist Hattie Whitehead and guitarist Tom Varrall at a concert on "Thursday 16 May 2013 at Orleans Primary School Hall, Hartington Road, St Margarets":http://stmargarets.london/event/show/200705143886.  The programme, which starts at 7.30pm, and is entitled "Summer Serenade" includes show songs, classical pieces and compositions by Hattie and Tom.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/Summer-Serenade-16-May-2013.jpg" title="See larger version of - Summer Serenade 16 May 2013"><img src="//stmgrts.org.uk/assets/images/2013/Summer-Serenade-16-May-2013_thumb.jpg" width="150" height="205" alt="Summer Serenade 16 May 2013" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/Summer-Serenade-16-May-2013.jpg" title="See larger version of - Summer Serenade 16 May 2013"><img src="//stmargarets.london/assets/images/2013/Summer-Serenade-16-May-2013_thumb.jpg" width="150" height="205" alt="Summer Serenade 16 May 2013" class="photo right" /></a>
 
-Richmond Community Choir, under the direction of Chris Mitchell, is performing with local vocalist Hattie Whitehead and guitarist Tom Varrall at a concert on "Thursday 16 May 2013 at Orleans Primary School Hall, Hartington Road, St Margarets":http://www.stmgrts.org.uk/event/show/200705143886.  The programme, which starts at 7.30pm, and is entitled "Summer Serenade" includes show songs, classical pieces and compositions by Hattie and Tom.
+Richmond Community Choir, under the direction of Chris Mitchell, is performing with local vocalist Hattie Whitehead and guitarist Tom Varrall at a concert on "Thursday 16 May 2013 at Orleans Primary School Hall, Hartington Road, St Margarets":http://stmargarets.london/event/show/200705143886.  The programme, which starts at 7.30pm, and is entitled "Summer Serenade" includes show songs, classical pieces and compositions by Hattie and Tom.
 
 
 

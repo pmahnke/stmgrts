@@ -8,7 +8,7 @@ date: 2013-05-23 21:37:33
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/glass_painting_museum_richmond.jpg" title="See larger version of - glass painting museum richmond"><img src="//stmgrts.org.uk/assets/images/2013/glass_painting_museum_richmond_thumb.jpg" width="150" height="113" alt="glass painting museum richmond" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/glass_painting_museum_richmond.jpg" title="See larger version of - glass painting museum richmond"><img src="//stmargarets.london/assets/images/2013/glass_painting_museum_richmond_thumb.jpg" width="150" height="113" alt="glass painting museum richmond" class="photo right" /></a>
 
 h4. Glass Painting Workshops
 

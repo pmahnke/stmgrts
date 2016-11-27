@@ -6,7 +6,7 @@ commentfile: 2012-05-17-sir_david_attenborough_digs_new_jubilee_pond
 category: news
 date: 2012-05-17 08:37:26
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/D_Attenborough_with_spade.jpg" title="See larger version of - D Attenborough with spade"><img src="//stmgrts.org.uk/assets/images/2012/D_Attenborough_with_spade_thumb.jpg" width="150" height="224" alt="D Attenborough with spade" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/D_Attenborough_with_spade.jpg" title="See larger version of - D Attenborough with spade"><img src="//stmargarets.london/assets/images/2012/D_Attenborough_with_spade_thumb.jpg" width="150" height="224" alt="D Attenborough with spade" class="photo right" /></a>
     
     During the Queen's visit to Richmond Park on Tuesday, 15 May, Sir David Attenborough dug the first spade of earth for the new Jubilee Pond to commemorate her Diamond Jubilee.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/D_Attenborough_with_spade.jpg" title="See larger version of - D Attenborough with spade"><img src="//stmgrts.org.uk/assets/images/2012/D_Attenborough_with_spade_thumb.jpg" width="150" height="224" alt="D Attenborough with spade" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/D_Attenborough_with_spade.jpg" title="See larger version of - D Attenborough with spade"><img src="//stmargarets.london/assets/images/2012/D_Attenborough_with_spade_thumb.jpg" width="150" height="224" alt="D Attenborough with spade" class="photo right" /></a>
 
 During the Queen's visit to Richmond Park on Tuesday, 15 May, Sir David Attenborough dug the first spade of earth for the new Jubilee Pond to commemorate her Diamond Jubilee.
 

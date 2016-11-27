@@ -8,7 +8,7 @@ date: 2005-12-24 15:00:03
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2005/XMAS.jpg"><img src="//stmgrts.org.uk/assets/images/2005/XMAS-thumb.jpg" width="300" height="225" alt="angel" class="photo center" /></a>
+<a href="//stmargarets.london/assets/images/2005/XMAS.jpg"><img src="//stmargarets.london/assets/images/2005/XMAS-thumb.jpg" width="300" height="225" alt="angel" class="photo center" /></a>
 
 <p style="font-family: georgia, times, serif; font-style: italic; color: red; font-size: 3em; line-height: 0.75em; text-align: center;">Happy Holidays<br />&amp;<br />Best Wishes for 2006</p>
 

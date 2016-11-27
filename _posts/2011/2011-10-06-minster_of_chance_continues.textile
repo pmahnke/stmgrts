@@ -6,7 +6,7 @@ commentfile: 2011-10-06-minster_of_chance_continues
 category: news
 date: 2011-10-06 09:42:18
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmargarets.london/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
     
     Good news, locally produced _Minister of Chance_, a modern, pay-as-you-go radio-play is going to continue with Episode three.
     
@@ -19,9 +19,9 @@ Good news, locally produced _Minister of Chance_, a modern, pay-as-you-go radio-
 <div class="letter">
 Dear friends,
 
-<a href="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmgrts.org.uk/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="//stmargarets.london/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
 
-Thank you so much for making the "Minister of Chance":http://www.stmgrts.org.uk/archives/2011/05/update_the_minister_of_chance.html such a phenomenal success! 
+Thank you so much for making the "Minister of Chance":http://stmargarets.london/archives/2011/05/update_the_minister_of_chance.html such a phenomenal success! 
 
 We're thrilled to say the series will continue & we are now planning to record Episode 3 this autumn. Meanwhile, please do keep spreading the word... it's perfect for airport delays & sun-loungers!
 

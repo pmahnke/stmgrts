@@ -6,7 +6,7 @@ commentfile: 2011-09-12-st_margarets_oliver_golding_wins_us_open_boys_cham
 category: news
 date: 2011-09-12 21:56:47
 excerpt: |
-    <img src="//stmgrts.org.uk/assets/images/2011/Oliver-Golding415.jpg" width="150" class="photo right" alt="photo from http://www.thisislondon.co.uk/standard-sport/wimbledon/article-23851268-british-youngster-stuns-world-no1.do" />
+    <img src="//stmargarets.london/assets/images/2011/Oliver-Golding415.jpg" width="150" class="photo right" alt="photo from http://www.thisislondon.co.uk/standard-sport/wimbledon/article-23851268-british-youngster-stuns-world-no1.do" />
     
     bq. "Golding came from a set down to triumph against the top seed Jiri Vesely, from the Czech Republic, in the final - the first time a British player has lifted a boys' Grand Slam title since Andy Murray won at Flushing Meadows in 2004."
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2011/Oliver-Golding415.jpg" width="150" class="photo right" alt="photo from http://www.thisislondon.co.uk/standard-sport/wimbledon/article-23851268-british-youngster-stuns-world-no1.do" />
+<img src="//stmargarets.london/assets/images/2011/Oliver-Golding415.jpg" width="150" class="photo right" alt="photo from http://www.thisislondon.co.uk/standard-sport/wimbledon/article-23851268-british-youngster-stuns-world-no1.do" />
 
 bq. "Golding came from a set down to triumph against the top seed Jiri Vesely, from the Czech Republic, in the final - the first time a British player has lifted a boys' Grand Slam title since Andy Murray won at Flushing Meadows in 2004."
 

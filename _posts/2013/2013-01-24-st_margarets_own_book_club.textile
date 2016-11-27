@@ -14,7 +14,7 @@ Maggies Book Club was created in March 2012 and since then has maintained a core
 
 The books we have read so far are:
 
-<img src="//stmgrts.org.uk/assets/images/2013/153px-Dubliners_title_page.jpg" width="153" alt="title page of the first edition of the Dubliners"  class="photo right"  />
+<img src="//stmargarets.london/assets/images/2013/153px-Dubliners_title_page.jpg" width="153" alt="title page of the first edition of the Dubliners"  class="photo right"  />
 
 * March 2012: Julian Barnes - 'Sense of an ending',
 * April 2012: Ralph Ellison - 'The Invisible Man',

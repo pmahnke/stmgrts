@@ -6,7 +6,7 @@ commentfile: 2012-03-23-music_at_the_st_margarets_jubilee_fair
 category: news
 date: 2012-03-23 13:21:47
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/6468402751/" title="P1000766 by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2012/6468402751_75e3e264a5_q.jpg" width="150" height="150" alt="P1000766" class="photo right"></a>
+    <a href="http://www.flickr.com/photos/mahnke/6468402751/" title="P1000766 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2012/6468402751_75e3e264a5_q.jpg" width="150" height="150" alt="P1000766" class="photo right"></a>
     
     _What to play at the Jubilee Fair?_
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/6468402751/" title="P1000766 by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2012/6468402751_75e3e264a5_q.jpg" width="150" height="150" alt="P1000766" class="photo right"></a>
+<a href="http://www.flickr.com/photos/mahnke/6468402751/" title="P1000766 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2012/6468402751_75e3e264a5_q.jpg" width="150" height="150" alt="P1000766" class="photo right"></a>
 
 _What to play at the Jubilee Fair?_
 

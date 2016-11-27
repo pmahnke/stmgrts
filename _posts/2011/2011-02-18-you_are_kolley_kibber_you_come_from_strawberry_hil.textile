@@ -6,7 +6,7 @@ commentfile: 2011-02-18-you_are_kolley_kibber_you_come_from_strawberry_hil
 category: around_town
 date: 2011-02-18 17:43:32
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/KIBBER_Brighton-Rock.jpg" title="See larger version of - Brighton Rock poster"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg" width="150" height="219" alt="Brighton Rock poster" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/KIBBER_Brighton-Rock.jpg" title="See larger version of - Brighton Rock poster"><img src="//stmargarets.london/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg" width="150" height="219" alt="Brighton Rock poster" class="photo right" /></a>
     
     <em>"... and I Claim The 'Community Newsletter' Prize!"</em>
     
@@ -21,7 +21,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/KIBBER_Brighton-Rock.jpg" title="See larger version of - Brighton Rock poster"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg" width="150" height="219" alt="Brighton Rock poster" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/KIBBER_Brighton-Rock.jpg" title="See larger version of - Brighton Rock poster"><img src="//stmargarets.london/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg" width="150" height="219" alt="Brighton Rock poster" class="photo right" /></a>
 
 <em>"... and I Claim The 'Community Newsletter' Prize!"</em>
 
@@ -37,21 +37,21 @@ p. <cite>-- BRIGHTON ROCK Graham Greene</cite>
 Graham Greene based his "Kolley Kibber" upon a real life character called 'Lobby Lud' invented in August 1927 by the 'Westminster Gazette'. Noticing that people on holiday didn't buy newspapers the 'Gazette' devised a clever merchandising scheme to persuade holiday makers to go out and buy theirs. A photograph of the mysterious 'Lobby Lud', (a.k.a William Chinn) - complete with fedora and pipe, was printed in the paper with a schedule listing the popular seaside resorts and times when he might be seen.  Any 'Gazette' reader with a copy of that day's paper who recognised him and challenged him with the precise words "You are Mr Lobby Lud - I claim the 'Westminster Gazette' prize", would win &pound;50 which is worth about &pound;1,670 today.
 
 
-<a href="//stmgrts.org.uk/assets/images/2011/KIBBER_lobbyludprofile.jpg" title="See larger version of - Lobby Lud"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_lobbyludprofile_thumb.jpg" width="150" height="225" alt="Lobby Lud" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/KIBBER_lobbyludprofile.jpg" title="See larger version of - Lobby Lud"><img src="//stmargarets.london/assets/images/2011/KIBBER_lobbyludprofile_thumb.jpg" width="150" height="225" alt="Lobby Lud" class="photo right" /></a>
 
 
 The 'Lobby Lud' promotion continued even after the 'Westminster Gazette' was absorbed in 1928 by the 'Daily News' and in 1930 by the 'News Chronicle'. In 1960 the "Lobby Lud" campaign was picked up by the "Daily Mail" when the "News Chronicle" folded.  A version of Lobby called "Chalky White" appeared intermittently in the 'Daily Mirror' from the 1950s to the 1980s.
 
 Lobby Lud and Kolley Kibber are memorable names that stick in the mind probably because of their alliteration - Lobby Lud, Kolley Kibber. But whereas Lobby Lud is a fictional name based upon the telegraphic address of the 'Westminster Gazette' ("Lobby. Ludgate") it was a real Kolley Kibber from Strawberry Hill who inspired Graham Green.
 
-<a href="//stmgrts.org.uk/assets/images/2011/KIBBER_cibber.jpg" title="See larger version of - Cibber"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_cibber_thumb.jpg" width="150" height="197" alt="Cibber" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/KIBBER_cibber.jpg" title="See larger version of - Cibber"><img src="//stmargarets.london/assets/images/2011/KIBBER_cibber_thumb.jpg" width="150" height="197" alt="Cibber" class="photo right" /></a>
 
 
 Colley Cibber (6 November 1671 - 11 December 1757) was an English actor-manager, playwright and Poet Laureate - which is surprising considering that most of his contemporaries thought his poetry was terrible. In 1715, Colley Cibber followed the smart set of the time and got himself a place on the river at Twickenham. He rented a small cottage at Strawberry Hill Shot, on the road to Teddington. The cottage was built in 1698 by the Earl of Bradford's coachman and soon acquired the name "Chopped Straw Hall" because it was rumoured that the coachman had raised the money to build the place by feeding the Earl's horses with cheap chopped straw rather than hay. Colley Cibber was one of the very first tenants, living there while working as an actor at Hampton Court.
 
 In 1721, during his stay at 'Chopped Straw Hall' he wrote a comedy called <em>"The Refusal or The Lady's Philosophy"</em> based upon Moliere's play <em>'Les Femmes Savantes'</em>. It ran for just 6 performances at the Theatre Royal Drury Lane. The critics didn't like it much either...
 
-<a href="//stmgrts.org.uk/assets/images/2011/KIBBER_Cibber-CU.jpg" title="See larger version of - Cibber CI"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_Cibber-CU_thumb.jpg" width="150" height="154" alt="Cibber CU" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/KIBBER_Cibber-CU.jpg" title="See larger version of - Cibber CI"><img src="//stmargarets.london/assets/images/2011/KIBBER_Cibber-CU_thumb.jpg" width="150" height="154" alt="Cibber CU" class="photo right" /></a>
 
 
 bq. "The directness and simplicity of Moliere's play, the unity of tone and plot, give way in Cibber to complication of plot and character, in which the whole piece loses the delightful quality of the humor of the original - A miserable mutilation of crucified Moliere!"
@@ -68,7 +68,7 @@ The Dictionary of National Biography sums up the pros and cons of his character 
 
 bq. "Cibber had a special sharpness of intellect and aptitude for verse writing which gained him consideration from his masters, and a conceit which rendered him unpopular with his fellows".
 
-<a href="//stmgrts.org.uk/assets/images/2011/KIBBER_chalkeywhite.jpg" title="See larger version of - Chalkey White"><img src="//stmgrts.org.uk/assets/images/2011/KIBBER_chalkeywhite_thumb.jpg" width="150" height="105" alt="Chalkey White" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/KIBBER_chalkeywhite.jpg" title="See larger version of - Chalkey White"><img src="//stmargarets.london/assets/images/2011/KIBBER_chalkeywhite_thumb.jpg" width="150" height="105" alt="Chalkey White" class="photo right" /></a>
 
 Colley Cibber's alliterative associates - Lobby Lud or the various Lobby Lud clones like Percy Pickles, Guineas Man, and the Daily Mirror's Chalky White - were still visiting seaside resorts in the 1980s. A 'Lobby Lud'  type seaside stooge also appears in Agatha Christie's 1924 short story 'The Jewel Robbery at the Grand Metropolitan'  when Hercule Poirot is mistaken for  newspaper tout, "Lucky Len".
 
@@ -78,7 +78,7 @@ As for Kolley Kibber, Graham Greene's "Brighton Rock"  interpretation of Lobby L
 
 "Kolley Kibber" fans will be disappointed to learn that their hero does not appear in the latest film version of the book which stars Sam Riley, Andrea Riseborough, Helen Mirren, John Hurt and Andy Serkis  To cheer them up here is George Hinchliffe singing "Lobby Lud, the Mystery Man", a ukulele hit from 1927.
 
-<p><embed src="//stmgrts.org.uk/assets/images/2011/3523697345-audio-player.swf" flashvars="audioUrl=http://stmgrts.org.uk/images/Hinchliffe_Lobby_Lud-The_Mystery_Man.mp3" width="400" height="27" quality="best" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></p>
+<p><embed src="//stmargarets.london/assets/images/2011/3523697345-audio-player.swf" flashvars="audioUrl=http://stmargarets.london/images/Hinchliffe_Lobby_Lud-The_Mystery_Man.mp3" width="400" height="27" quality="best" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></p>
 
 
 </div>

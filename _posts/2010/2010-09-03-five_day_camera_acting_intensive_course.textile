@@ -8,7 +8,7 @@ date: 2010-09-03 11:28:46
 
 ---
 
-<img alt="FVLLogobutton.gif" src="//stmgrts.org.uk/assets/images/2010/FVLLogobutton-thumb.gif" width="112" height="95" class="right"/>
+<img alt="FVLLogobutton.gif" src="//stmargarets.london/assets/images/2010/FVLLogobutton-thumb.gif" width="112" height="95" class="right"/>
 
 
 From 25<sup>th</sup> October - 29<sup>th</sup> October 2010 in Twickenham.

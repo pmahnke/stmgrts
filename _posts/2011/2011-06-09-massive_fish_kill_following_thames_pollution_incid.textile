@@ -6,7 +6,7 @@ commentfile: 2011-06-09-massive_fish_kill_following_thames_pollution_incid
 category: news
 date: 2011-06-09 08:57:43
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/riverkill.jpg" title="See larger version of - Dead fish"><img src="//stmgrts.org.uk/assets/images/2011/riverkill_thumb.jpg" width="150" height="112" alt="Dead fish" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/riverkill.jpg" title="See larger version of - Dead fish"><img src="//stmargarets.london/assets/images/2011/riverkill_thumb.jpg" width="150" height="112" alt="Dead fish" class="photo right" /></a>
     
     Reports have come into the Thames Anglers Conservancy of a major Tidal Thames Pollution incident on Tuesday.
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/riverkill.jpg" title="See larger version of - Dead fish"><img src="//stmgrts.org.uk/assets/images/2011/riverkill_thumb.jpg" width="150" height="112" alt="Dead fish" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/riverkill.jpg" title="See larger version of - Dead fish"><img src="//stmargarets.london/assets/images/2011/riverkill_thumb.jpg" width="150" height="112" alt="Dead fish" class="photo right" /></a>
 
 Reports have come into the Thames Anglers Conservancy of a major Tidal Thames Pollution incident on Tuesday.
 

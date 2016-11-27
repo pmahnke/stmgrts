@@ -6,7 +6,7 @@ commentfile: 2009-05-21-turings_poisoned_apple
 category: around_town
 date: 2009-05-21 21:41:04
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/appl-logo.png" title="See larger version of - Apple Logo"><img src="//stmgrts.org.uk/assets/images/2009/appl-logo_thumb.png" width="134" height="150" alt="Apple Logo" class=" right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/appl-logo.png" title="See larger version of - Apple Logo"><img src="//stmargarets.london/assets/images/2009/appl-logo_thumb.png" width="134" height="150" alt="Apple Logo" class=" right" /></a>
     
     
     The corporate logo of Apple computers is a rainbow-striped apple with a single bite missing from it. For most people it is no more than the bright emblem of a successful modern company. For others with longer memories it is a poignant tribute to a remarkable man who lived for a short period of his life in Hampton.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/appl-logo.png" title="See larger version of - Apple Logo"><img src="//stmgrts.org.uk/assets/images/2009/appl-logo_thumb.png" width="134" height="150" alt="Apple Logo" class=" right" /></a>
+<a href="//stmargarets.london/assets/images/2009/appl-logo.png" title="See larger version of - Apple Logo"><img src="//stmargarets.london/assets/images/2009/appl-logo_thumb.png" width="134" height="150" alt="Apple Logo" class=" right" /></a>
 
 
 bq. "We can see only a short distance ahead but we can see plenty there that needs to be done."
@@ -27,7 +27,7 @@ The corporate logo of Apple computers is a rainbow-striped apple with a single b
 Alan Turing was the second son of Julius Mathison Turing and his wife Sara. He was born at 2 Warrington Crescent in Maida Vale on 23 June 1912. Because his father worked as a civil servant in India, Alan and his older brother John were brought up by family friends and relatives in England.
 
 
-<a href="//stmgrts.org.uk/assets/images/2009/alan_turing.png" title="See larger version of - ALAN TURING"><img src="//stmgrts.org.uk/assets/images/2009/alan_turing_thumb.png" width="119" height="150" alt="ALAN TURING" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/alan_turing.png" title="See larger version of - ALAN TURING"><img src="//stmargarets.london/assets/images/2009/alan_turing_thumb.png" width="119" height="150" alt="ALAN TURING" class="photo right" /></a>
 
 
 
@@ -38,7 +38,7 @@ After a short period at Princeton University in America in 1938 Turing returned 
 
 
 
-<a href="//stmgrts.org.uk/assets/images/2009/turing_bombe.png" title="See larger version of - A Turing "Bombe" decryption machine used at Bletchley"><img src="//stmgrts.org.uk/assets/images/2009/turing_bombe_thumb.png" width="150" height="129" alt="A Turing "Bombe" decryption machine used at Bletchley" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/turing_bombe.png" title="See larger version of - A Turing "Bombe" decryption machine used at Bletchley"><img src="//stmargarets.london/assets/images/2009/turing_bombe_thumb.png" width="150" height="129" alt="A Turing "Bombe" decryption machine used at Bletchley" class="photo right" /></a>
 
 
 bq. .. perhaps the happiest of his life, with full scope for his inventiveness, a mild routine to shape the day, and a congenial set of fellow-workers.
@@ -50,7 +50,7 @@ Between 1945 and 1947 Turing worked at the National Physical Laboratory in Teddi
 During this time Turing lived at Ivy House on Hampton High Street and became a keen member of Walton Athletic Club. Mr Harding, a club member recalled the moment he was invited to join...
 
 
-<a href="//stmgrts.org.uk/assets/images/2009/turing_running.png" title="See larger version of - ALAN TURING RUNNING IN 1946"><img src="//stmgrts.org.uk/assets/images/2009/turing_running_thumb.png" width="72" height="150" alt="ALAN TURING RUNNING IN 1946" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/turing_running.png" title="See larger version of - ALAN TURING RUNNING IN 1946"><img src="//stmargarets.london/assets/images/2009/turing_running_thumb.png" width="72" height="150" alt="ALAN TURING RUNNING IN 1946" class="photo right" /></a>
 
 
 bq. "He was... spotted running by himself. We heard him rather than saw him. He made a terrible grunting noise when he was running, but before we could say anything to him, he was past us like a shot out of a gun. A couple of nights later we caught up with him long enough for me to ask who he ran for. When he said nobody, we invited him to join Walton. He did, and immediately became our best runner."
@@ -61,7 +61,7 @@ In August 1947 he took part in the Amateur Athletic Association championships at
 In 1949 he went to Manchester University where he directed the computing laboratory and started work on the development of artificial intelligence. In 1951 he was elected a Fellow of the Royal Society. In 1952, an acquaintance, Arnold Murray, helped an accomplice to break into Turing's house. Following a police investigation Turing acknowledged a sexual relationship with 19 year old Murray and was charged with gross indecency under Section 11 of the Criminal Law Amendment Act of 1885. Although this was a time when homosexual acts were illegal in Britain and homosexuality was regarded as a mental illness Turing was unrepentant and was convicted. In order to avoid going to jail, he accepted "chemical castration" - the injection of the oestrogen hormone to neutralise his libido. The conviction also led to a removal of his security clearance, meaning he could no longer work for GCHQ, the post-war successor to Bletchley Park.
 On the morning of 8 June 1954, Alan Turing was found dead at his home in Wilmslow, Cheshire, a half eaten apple beside his bed, apparently laced with cyanide. Because there was no suicide note there has been endless speculation about his death. Most believe that his death was suicide - a bizarre re-enactment of 'Snow White', his favourite fairy tale. His mother, Sara, strenuously argued that the poisoning was accidental due to careless storage of laboratory chemicals. Darker elements have suggested that because his homosexuality was seen as a serious security risk he was assassinated. Alan Turing was cremated at Woking crematorium on 12 June 1954.
 
-<a href="//stmgrts.org.uk/assets/images/2009/ivy_house.png" title="See larger version of - IVY HOUSE in Hampton"><img src="//stmgrts.org.uk/assets/images/2009/ivy_house_thumb.png" width="112" height="150" alt="IVY HOUSE in Hampton" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/ivy_house.png" title="See larger version of - IVY HOUSE in Hampton"><img src="//stmargarets.london/assets/images/2009/ivy_house_thumb.png" width="112" height="150" alt="IVY HOUSE in Hampton" class="photo right" /></a>
 
 
 There has also been endless speculation about Apple Computers and their multi coloured 'apple logo' with a bite missing. Is it a poignant homage to Alan Turing and his apple, the colours representing the 'Gay Pride' rainbow flag?

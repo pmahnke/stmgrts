@@ -6,7 +6,7 @@ commentfile: 2014-07-17-the_creatures_of_an_hour
 category: around_town
 date: 2014-07-17 22:45:14
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_school-holidays.jpg" title="See larger version of - school holidays"><img src="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg" width="150" height="95" alt="school holidays" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/ENDOFTERM_school-holidays.jpg" title="See larger version of - school holidays"><img src="//stmargarets.london/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg" width="150" height="95" alt="school holidays" class="photo right" /></a>
     
     <pre class="poem">
     Our song is done, we must be gone,
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_school-holidays.jpg" title="See larger version of - school holidays"><img src="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg" width="250" height="159" alt="school holidays" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/ENDOFTERM_school-holidays.jpg" title="See larger version of - school holidays"><img src="//stmargarets.london/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg" width="250" height="159" alt="school holidays" class="photo right" /></a>
 
 bq.. Our song is done, we must be gone,
 No longer can we stay.
@@ -29,7 +29,7 @@ And we wish you a happy day.
 p. There was a time in living memory when most children knew and could repeat by heart a collection of schoolyard verses and doggerel. Some of the poems were pure nonsense as in...
 
 
-<a href="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_Kids_on_slide.jpg" title="See larger version of - Kids on slide"><img src="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_Kids_on_slide_thumb.jpg" width="250" height="341" alt="Kids on slide" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/ENDOFTERM_Kids_on_slide.jpg" title="See larger version of - Kids on slide"><img src="//stmargarets.london/assets/images/2014/ENDOFTERM_Kids_on_slide_thumb.jpg" width="250" height="341" alt="Kids on slide" class="photo right" /></a>
 
 <pre class="poem">
 I went to the pictures tomorrow
@@ -62,7 +62,7 @@ Here it comes!
 
 There were insults...
 
-<a href="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_1953-school-holidays.jpg" title="See larger version of - 1953 school holidays"><img src="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_1953-school-holidays_thumb.jpg" width="250" height="157" alt="1953 school holidays" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/ENDOFTERM_1953-school-holidays.jpg" title="See larger version of - 1953 school holidays"><img src="//stmargarets.london/assets/images/2014/ENDOFTERM_1953-school-holidays_thumb.jpg" width="250" height="157" alt="1953 school holidays" class="photo right" /></a>
 
 <pre class="poem">
 Billy Smith is no good,
@@ -83,7 +83,7 @@ You are the one To - Be - It!
 
 But the most popular, the most universal of these rhymes, concerned the end of the school term and the beginning of the holidays. There will be people reading this today who can still remember...
 
-<a href="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_holidays.jpg" title="See larger version of - holidays"><img src="//stmgrts.org.uk/assets/images/2014/ENDOFTERM_holidays_thumb.jpg" width="250" height="178" alt="holidays" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/ENDOFTERM_holidays.jpg" title="See larger version of - holidays"><img src="//stmargarets.london/assets/images/2014/ENDOFTERM_holidays_thumb.jpg" width="250" height="178" alt="holidays" class="photo right" /></a>
 
 <pre class="poem">
 One more day of woe,

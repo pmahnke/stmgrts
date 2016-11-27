@@ -6,11 +6,11 @@ commentfile: 2009-05-13-event_reminder_the_good_wine_shops_summer_tasting
 category: around_town
 date: 2009-05-13 15:56:20
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="//stmgrts.org.uk/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="//stmargarets.london/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
     
     
     
-    We are pleased to announce that the "Summer Tasting 2009":http://www.stmgrts.org.uk/event/meeting/200705142107 will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
+    We are pleased to announce that the "Summer Tasting 2009":http://stmargarets.london/event/meeting/200705142107 will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
     
     Tickets are on sale NOW!
     
@@ -19,11 +19,11 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="//stmgrts.org.uk/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="//stmargarets.london/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
 
 
 
-We are pleased to announce that the "Summer Tasting 2009":http://www.stmgrts.org.uk/event/meeting/200705142107 will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
+We are pleased to announce that the "Summer Tasting 2009":http://stmargarets.london/event/meeting/200705142107 will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
 
 Tickets are on sale NOW!
 

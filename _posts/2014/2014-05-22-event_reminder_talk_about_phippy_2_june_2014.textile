@@ -6,13 +6,13 @@ commentfile: 2014-05-22-event_reminder_talk_about_phippy_2_june_2014
 category: around_town
 date: 2014-05-22 23:03:56
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmgrts.org.uk/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmargarets.london/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
     
     The Museum of Richmond's collection contains many items and information on the Georgian period. In order to join the celebrations marking the beginning of this important era, the museum is organising the following talk...
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmgrts.org.uk/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="//stmargarets.london/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
 
 The Museum of Richmond's collection contains many items and information on the Georgian period. In order to join the celebrations marking the beginning of this important era, the museum is organising the following talk:
 

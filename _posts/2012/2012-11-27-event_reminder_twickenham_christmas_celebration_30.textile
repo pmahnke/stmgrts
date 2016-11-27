@@ -6,15 +6,15 @@ commentfile: 2012-11-27-event_reminder_twickenham_christmas_celebration_30
 category: around_town
 date: 2012-11-27 12:05:02
 excerpt: |
-    <img src="//stmgrts.org.uk/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="150" />
+    <img src="//stmargarets.london/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="150" />
 
-    You are invited to the *Twickenham Christmas Celebration* on "30 November 2012 in the the Diamond Jubilee Gardens":http://www.stmgrts.org.uk/event/fair/200705143696 from 2 to 8.30pm.  There will be loads of children's activities, food, music and more...
+    You are invited to the *Twickenham Christmas Celebration* on "30 November 2012 in the the Diamond Jubilee Gardens":http://stmargarets.london/event/fair/200705143696 from 2 to 8.30pm.  There will be loads of children's activities, food, music and more...
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="150" />
+<img src="//stmargarets.london/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="150" />
 
-You are invited to the *Twickenham Christmas Celebration* on "30 November 2012 in the the Diamond Jubilee Gardens":http://www.stmgrts.org.uk/event/fair/200705143696 from 2 to 8.30pm.  There will be loads of children's activities, food, music and more...
+You are invited to the *Twickenham Christmas Celebration* on "30 November 2012 in the the Diamond Jubilee Gardens":http://stmargarets.london/event/fair/200705143696 from 2 to 8.30pm.  There will be loads of children's activities, food, music and more...
 
 h4. Kids Disco
 

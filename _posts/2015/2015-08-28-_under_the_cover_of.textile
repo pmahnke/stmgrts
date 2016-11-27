@@ -6,7 +6,7 @@ commentfile: 2015-08-28-_under_the_cover_of
 category: around_town
 date: 2015-08-28 19:21:06
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/Treasure_Chest_poster.jpg" title="See larger version of - Treasure Chest poster"><img src="//stmgrts.org.uk/assets/images/2015/Treasure_Chest_poster_thumb.jpg" width="150" height="212" alt="Treasure Chest poster" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/Treasure_Chest_poster.jpg" title="See larger version of - Treasure Chest poster"><img src="//stmargarets.london/assets/images/2015/Treasure_Chest_poster_thumb.jpg" width="150" height="212" alt="Treasure Chest poster" class="photo right" /></a>
     
     Under the cover of darkness pirates invaded St Margarets last night!
     
@@ -18,7 +18,7 @@ excerpt: |
 
 <div class="letter">
 
-<a href="//stmgrts.org.uk/assets/images/2015/Treasure_Chest_poster.jpg" title="See larger version of - Treasure Chest poster"><img src="//stmgrts.org.uk/assets/images/2015/Treasure_Chest_poster_thumb.jpg" width="250" height="353" alt="Treasure Chest poster" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/Treasure_Chest_poster.jpg" title="See larger version of - Treasure Chest poster"><img src="//stmargarets.london/assets/images/2015/Treasure_Chest_poster_thumb.jpg" width="250" height="353" alt="Treasure Chest poster" class="photo right" /></a>
 
 
 Under the cover of darkness pirates invaded St Margarets last night!

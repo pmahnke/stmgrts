@@ -10,7 +10,7 @@ date: 2005-11-24 17:14:51
 
 Friday, the 9<sup>th</sup> of December from 4:30pm, Crown Road will be closed to traffic for this year's "St Margarets Christmas Fair":/cgi-bin/events.cgi?key=200511180803&action=getevent.  Events and attractions planned for the evening event include:
 
-<img alt="snowflake" src="//stmgrts.org.uk/assets/images/2005/snowflake-thumb.jpg" width="161" height="156"  class="right"/>
+<img alt="snowflake" src="//stmargarets.london/assets/images/2005/snowflake-thumb.jpg" width="161" height="156"  class="right"/>
 
 * live music
 * a mini fun-fair

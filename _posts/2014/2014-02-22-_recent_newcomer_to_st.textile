@@ -6,7 +6,7 @@ commentfile: 2014-02-22-_recent_newcomer_to_st
 category: around_town
 date: 2014-02-22 11:01:00
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/alexandertechniquestmargarets-logo.jpg" title="See larger version of - alexandertechniquestmargarets logo"><img src="//stmgrts.org.uk/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg" width="150" height="107" alt="alexandertechniquestmargarets logo" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/alexandertechniquestmargarets-logo.jpg" title="See larger version of - alexandertechniquestmargarets logo"><img src="//stmargarets.london/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg" width="150" height="107" alt="alexandertechniquestmargarets logo" class="photo right" /></a>
     
     Recent newcomer to St Margarets, Alexander Technique teacher Bronwyn Baud is now resident and available all week in St Margarets.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/alexandertechniquestmargarets-logo.jpg" title="See larger version of - alexandertechniquestmargarets logo"><img src="//stmgrts.org.uk/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg" width="150" height="107" alt="alexandertechniquestmargarets logo" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2014/alexandertechniquestmargarets-logo.jpg" title="See larger version of - alexandertechniquestmargarets logo"><img src="//stmargarets.london/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg" width="150" height="107" alt="alexandertechniquestmargarets logo" class="photo right" /></a>
 
 Recent newcomer to St Margarets, Alexander Technique teacher Bronwyn Baud is now resident and available all week in St Margarets.
 

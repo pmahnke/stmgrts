@@ -6,13 +6,13 @@ commentfile: 2014-06-25-a316_st_margarets_bridge_consultation_a_bridge_too
 category: news
 date: 2014-06-25 06:40:11
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2014/saveourfootbridge.jpg" title="See larger version of - save our footbridge"><img src="//stmgrts.org.uk/assets/images/2014/saveourfootbridge_thumb.jpg" width="150" height="112" alt="save our footbridge" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2014/saveourfootbridge.jpg" title="See larger version of - save our footbridge"><img src="//stmargarets.london/assets/images/2014/saveourfootbridge_thumb.jpg" width="150" height="112" alt="save our footbridge" class="photo right" /></a>
     
     Local Liberal Democrat Councillors, Alexander Ehmann, Ben Khosa and Geoff Acton (Councillors for St Margarets and North Twickenham Ward) have put their weight behind local residents and  concerned parents, who have expressed dismay over TfL's recent proposal to dismantle the  current footbridge crossing of the A316 at St Margarets roundabout and replace it with Toucan  crossings.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2014/saveourfootbridge.jpg" title="See larger version of - save our footbridge"><img src="//stmgrts.org.uk/assets/images/2014/saveourfootbridge_thumb.jpg" width="500" height="375" alt="save our footbridge" class="photo center" /></a>
+<a href="//stmargarets.london/assets/images/2014/saveourfootbridge.jpg" title="See larger version of - save our footbridge"><img src="//stmargarets.london/assets/images/2014/saveourfootbridge_thumb.jpg" width="500" height="375" alt="save our footbridge" class="photo center" /></a>
 
 On Wednesday 25 June at 3:30pm, local councillors will be joined by parents and residents at a street  assembly against Transport for London's (TfL's) plans to decommission an existing footbridge over  the A316 in St Margarets, Twickenham.
 
@@ -33,7 +33,7 @@ h4. More Information
 
 * There is a "Facebook page":http://www.facebook.com/saveourfootbridge that is updated regularly
 * The "change.org petition":http://www.change.org/en-GB/petitions/transport-for-london-withdraw-the-consultation-calling-for-the-removal-of-the-existing-st-margaret-s-footbridge-over-the-a316-and-its-replacement-with-toucan-crossings asking for the consultation to be withdrawn
-* Read the original article - "TFL Consultation on A316 St Margarets Crossing":http://www.stmgrts.org.uk/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
+* Read the original article - "TFL Consultation on A316 St Margarets Crossing":http://stmargarets.london/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
 
 
 

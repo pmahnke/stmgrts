@@ -6,13 +6,13 @@ commentfile: 2011-02-03-orleans_house_gallery_announces_journeys
 category: around_town
 date: 2011-02-03 20:03:52
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/journeyslowres.jpg" title="See larger version of - Journeys"><img src="//stmgrts.org.uk/assets/images/2011/journeyslowres_thumb.jpg" width="150" height="99" alt="Journeys" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/journeyslowres.jpg" title="See larger version of - Journeys"><img src="//stmargarets.london/assets/images/2011/journeyslowres_thumb.jpg" width="150" height="99" alt="Journeys" class="photo right" /></a>
     
     Orleans House Gallery launches Journeys, which has involved more than 80 local young people from the London Borough of Richmond upon Thames and is part of the Cultural Olympiad project, Stories of the World: London.  This project is transforming 23 London museums across 17 boroughs by drawing on the skills, energy and enthusiasm of young Londoners to help them tell the story of London as a world city.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/journeyslowres.jpg" title="See larger version of - Journeys"><img src="//stmgrts.org.uk/assets/images/2011/journeyslowres_thumb.jpg" width="150" height="99" alt="Journeys" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/journeyslowres.jpg" title="See larger version of - Journeys"><img src="//stmargarets.london/assets/images/2011/journeyslowres_thumb.jpg" width="150" height="99" alt="Journeys" class="photo right" /></a>
 
 _Stories of the World: London to transform London's museums through its biggest ever youth engagement project_
 
@@ -20,7 +20,7 @@ Orleans House Gallery launches Journeys, which has involved more than 80 local y
 
 Journeys: Stories of the World will see the gallery hosting an exhibition to celebrate the culmination of this year-long project. Taking the personal effects of explorer Sir Richard Burton as inspiration, the exhibition investigates the theme of journeys through contemporary art interventions created by local young people and artists from around the world.
 
-The exhibition will include inspiring artwork created by local young people in response to Burton's travels, and work by internationally-renowned contemporary artists including Piyali Ghosh, Maha Malluh and Gerard Quenum. "Free to the public from 29 January - 22 May 2011":http://stmgrts.org.uk/event/show/200705142701, visitors to the exhibition will be able to enjoy paintings, photograms, film, animation, and sculpture as well as intriguing artefacts from Burton's expeditions.
+The exhibition will include inspiring artwork created by local young people in response to Burton's travels, and work by internationally-renowned contemporary artists including Piyali Ghosh, Maha Malluh and Gerard Quenum. "Free to the public from 29 January - 22 May 2011":http://stmargarets.london/event/show/200705142701, visitors to the exhibition will be able to enjoy paintings, photograms, film, animation, and sculpture as well as intriguing artefacts from Burton's expeditions.
 
 
 

@@ -8,9 +8,9 @@ date: 2009-09-11 09:11:46
 
 ---
 
-"!(photo right) http://www.stmgrts.org.uk/images/events/ageofstupid_allsouls_thumb.jpg 106x150 (Film poster) !":http://www.stmgrts.org.uk/images/events/ageofstupid_allsouls.jpg
+"!(photo right) http://stmargarets.london/images/events/ageofstupid_allsouls_thumb.jpg 106x150 (Film poster) !":http://stmargarets.london/images/events/ageofstupid_allsouls.jpg
 
-All Souls Church is "screening the challenging film 'Age of Stupid' (rating 15) on Thursday 24<sup>th</sup> September":http://stmgrts.org.uk/event/show/200705142214.
+All Souls Church is "screening the challenging film 'Age of Stupid' (rating 15) on Thursday 24<sup>th</sup> September":http://stmargarets.london/event/show/200705142214.
 
 The event is free (but donations towards cost welcome!).
 

@@ -6,7 +6,7 @@ commentfile: 2015-04-03-meet_henry_viiis_great_horses_at_hampton_court_pal
 category: around_town
 date: 2015-04-03 10:59:22
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/hampton-court-shire-horses.jpg" title="See larger version of - hampton court shire horses"><img src="//stmgrts.org.uk/assets/images/2015/hampton-court-shire-horses_thumb.jpg" width="150" height="166" alt="hampton court shire horses" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/hampton-court-shire-horses.jpg" title="See larger version of - hampton court shire horses"><img src="//stmargarets.london/assets/images/2015/hampton-court-shire-horses_thumb.jpg" width="150" height="166" alt="hampton court shire horses" class="photo right" /></a>
     
     Did you know Shire horses are rarer than the Giant Panda? Or that our horses are part of the last working herd of Shire horses in London?
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/hampton-court-shire-horses.jpg" title="See larger version of - hampton court shire horses"><img src="//stmgrts.org.uk/assets/images/2015/hampton-court-shire-horses_thumb.jpg" width="250" height="277" alt="hampton court shire horses" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/hampton-court-shire-horses.jpg" title="See larger version of - hampton court shire horses"><img src="//stmargarets.london/assets/images/2015/hampton-court-shire-horses_thumb.jpg" width="250" height="277" alt="hampton court shire horses" class="photo right" /></a>
 
  
 Did you know Shire horses are rarer than the Giant Panda? Or that our horses are part of the last working herd of Shire horses in London?

@@ -6,7 +6,7 @@ commentfile: 2009-07-09-st_stephens_church_hope_09_social_action_sunday
 category: news
 date: 2009-07-09 08:44:10
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/hope_group.jpg"><img src="//stmgrts.org.uk/assets/images/2009/hope_group-thumb.jpg" width="150" height="100" alt="Project team at ETNA" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/hope_group.jpg"><img src="//stmargarets.london/assets/images/2009/hope_group-thumb.jpg" width="150" height="100" alt="Project team at ETNA" class="photo right" /></a>
     
     
     
@@ -15,14 +15,14 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/hope_group.jpg"><img src="//stmgrts.org.uk/assets/images/2009/hope_group-thumb.jpg" width="150" height="100" alt="Project team at ETNA" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/hope_group.jpg"><img src="//stmargarets.london/assets/images/2009/hope_group-thumb.jpg" width="150" height="100" alt="Project team at ETNA" class="photo right" /></a>
 
 
 
 On Sunday, 5<sup>th</sup> July 2009, around 300 members of St Stephen's Church East Twickenham spent the day volunteering as part of an initiative called HOPE 09.  The initiative, which first began in July 2008, aims to bring "hope" to the local community by undertaking practical projects for individuals in need, organisations and local charities as well as carrying out random acts of kindness.
 
 
-<a href="//stmgrts.org.uk/assets/images/2009/hope_cable.jpg"><img src="//stmgrts.org.uk/assets/images/2009/hope_cable-thumb.jpg" width="112" height="150" alt="Left to right: Event organiser - Vicki Smith, Councillor Denise Carr, Vince Cable, Event Organiser - Helen Pett, Associate Vicar Rev. Andy Sachs, Councillor David Trigg.  In front: Councillor Michael Wilson" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/hope_cable.jpg"><img src="//stmargarets.london/assets/images/2009/hope_cable-thumb.jpg" width="112" height="150" alt="Left to right: Event organiser - Vicki Smith, Councillor Denise Carr, Vince Cable, Event Organiser - Helen Pett, Associate Vicar Rev. Andy Sachs, Councillor David Trigg.  In front: Councillor Michael Wilson" class="photo right" /></a>
 
 
 Projects which volunteers took part in included the following:

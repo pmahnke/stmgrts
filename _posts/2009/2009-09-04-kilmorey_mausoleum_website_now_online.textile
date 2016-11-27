@@ -6,7 +6,7 @@ commentfile: 2009-09-04-kilmorey_mausoleum_website_now_online
 category: around_town
 date: 2009-09-04 20:31:33
 excerpt: |
-    !(photo right) //stmgrts.org.uk/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
+    !(photo right) //stmargarets.london/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
     
     A new website has been recently launched for the Kilmorey Mausoleum in Twickenham, produced by the volunteers.
     
@@ -14,12 +14,12 @@ excerpt: |
     
     Visit the site at "sites.google.com/site/kilmoreymausoleum":http://sites.google.com/site/kilmoreymausoleum/
     
-    Also, the mausoleum will be "open on Saturday 19<sup>th</sup> September":http://www.stmgrts.org.uk/event/exhibition/200705142204 -- free admission.
+    Also, the mausoleum will be "open on Saturday 19<sup>th</sup> September":http://stmargarets.london/event/exhibition/200705142204 -- free admission.
     
 
 ---
 
-!(photo right) //stmgrts.org.uk/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
+!(photo right) //stmargarets.london/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg!
 
 A new website has been recently launched for the Kilmorey Mausoleum in Twickenham, produced by the volunteers.
 
@@ -27,7 +27,7 @@ It contains all sorts of information regarding the building and the grounds, ope
 
 Visit the site at "sites.google.com/site/kilmoreymausoleum":http://sites.google.com/site/kilmoreymausoleum/
 
-Also, the mausoleum will be "open on Saturday 19<sup>th</sup> September":http://www.stmgrts.org.uk/event/exhibition/200705142204 -- free admission.
+Also, the mausoleum will be "open on Saturday 19<sup>th</sup> September":http://stmargarets.london/event/exhibition/200705142204 -- free admission.
 
 
 

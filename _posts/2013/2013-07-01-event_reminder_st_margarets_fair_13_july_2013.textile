@@ -6,17 +6,17 @@ commentfile: 2013-07-01-event_reminder_st_margarets_fair_13_july_2013
 category: around_town
 date: 2013-07-01 10:45:38
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+    <a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
     
     
-    Don't forget that this "Saturday, 13 July 2013, from 11.30am to 7.30pm":http://www.stmgrts.org.uk/event/fair/200705144026, is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
+    Don't forget that this "Saturday, 13 July 2013, from 11.30am to 7.30pm":http://stmargarets.london/event/fair/200705144026, is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 
-Don't forget that this "Saturday, 13 July 2013, from 11.30am to 7.30pm":http://www.stmgrts.org.uk/event/fair/200705144026, is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
+Don't forget that this "Saturday, 13 July 2013, from 11.30am to 7.30pm":http://stmargarets.london/event/fair/200705144026, is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
 
 <ul>
 <li>a full <a href="http://www.stmargaretsfair.org/schedule.html">programme</a> of entertainment throughout the day,</li>

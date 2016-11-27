@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2006/200602010748_A_Very_Magical_Flute.gif" alt="A_Very_Magical_Flute" class="right ignore"/>
+<img src="//stmargarets.london/assets/images/2006/200602010748_A_Very_Magical_Flute.gif" alt="A_Very_Magical_Flute" class="right ignore"/>
 
 Don't miss "this weekend's performances":/event/Concert/200602010748 of the 2x2 Opera's 'A Very Magical Flute' at All Soul's Church.
 

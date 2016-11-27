@@ -6,12 +6,12 @@ commentfile: 2016-02-02-residents-reject-twickenham-riverside-plans
 category: news
 date: 2016-02-02 22:22:33
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/view_from_king_street.jpg" title="See larger version of - view from king street"><img src="http://www.stmgrts.org.uk/assets/images/2016/view_from_king_street_thumb.jpg" width="150" height="66" alt="view from king street" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/view_from_king_street.jpg" title="See larger version of - view from king street"><img src="http://stmargarets.london/assets/images/2016/view_from_king_street_thumb.jpg" width="150" height="66" alt="view from king street" class="photo right" /></a>
 
     Well, the residents had their say regarding the Council's plans for regenerating the Twickenham riverside, and it wasn't very pretty.  In fact, every single question's response was overwhelmingly negative -- 92% of surveys were against the proposal.
 ---
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/view_from_king_street.jpg" title="See larger version of - view from king street"><img src="http://www.stmgrts.org.uk/assets/images/2016/view_from_king_street_thumb.jpg" width="250" height="111" alt="view from king street" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/view_from_king_street.jpg" title="See larger version of - view from king street"><img src="http://stmargarets.london/assets/images/2016/view_from_king_street_thumb.jpg" width="250" height="111" alt="view from king street" class="photo right" /></a>
 
 bq. "This meets virtually none of the public's wishes for the area. It does not provide the promised
 town square on King Street, nor a square by the river. It does not open up the town to the

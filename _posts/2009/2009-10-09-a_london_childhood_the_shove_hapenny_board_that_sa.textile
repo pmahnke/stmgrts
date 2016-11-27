@@ -6,7 +6,7 @@ commentfile: 2009-10-09-a_london_childhood_the_shove_hapenny_board_that_sa
 category: around_town
 date: 2009-10-09 14:20:35
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2009/baby_martyn.jpg"><img src="//stmgrts.org.uk/assets/images/2009/baby_martyn-thumb.jpg" width="150" height="147" alt="Martyn looking at that board" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2009/baby_martyn.jpg"><img src="//stmargarets.london/assets/images/2009/baby_martyn-thumb.jpg" width="150" height="147" alt="Martyn looking at that board" class="photo right" /></a>
     
     
     I was born in the Royal Northern Hospital, Holloway at 3.20 in the morning on the 28th December 1944. Being a Thursday that made me a child with 'far to go'. How true. 11 days later, just after noon on 8th January 1945, I was blown up by a V2 rocket - a Vergeltungswaffen  as the Nazi High Command liked to call them.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2009/baby_martyn.jpg"><img src="//stmgrts.org.uk/assets/images/2009/baby_martyn-thumb.jpg" width="150" height="147" alt="Martyn looking at that board" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/baby_martyn.jpg"><img src="//stmargarets.london/assets/images/2009/baby_martyn-thumb.jpg" width="150" height="147" alt="Martyn looking at that board" class="photo right" /></a>
 
 
 I was born in the Royal Northern Hospital, Holloway at 3.20 in the morning on the 28th December 1944. Being a Thursday that made me a child with 'far to go'. How true. 11 days later, just after noon on 8th January 1945, I was blown up by a V2 rocket - a Vergeltungswaffen  as the Nazi High Command liked to call them.
@@ -26,7 +26,7 @@ Of course, I shouldn't have been London at all. The local Air Raid Precautions o
 
 <div class="box">
 
-<a href="//stmgrts.org.uk/assets/images/2009/ha-penny.jpg"><img src="//stmgrts.org.uk/assets/images/2009/ha-penny-thumb.jpg" width="150" height="150" alt="HA'PENNY BOARD" class="left" /></a>
+<a href="//stmargarets.london/assets/images/2009/ha-penny.jpg"><img src="//stmargarets.london/assets/images/2009/ha-penny-thumb.jpg" width="150" height="150" alt="HA'PENNY BOARD" class="left" /></a>
 
 
 h4. A SHOVE HA'PENNY BOARD
@@ -36,7 +36,7 @@ Shove Ha'penny is a simple game of skill played on a stout wooden board about  4
 </div>
 
 
-<a href="//stmgrts.org.uk/assets/images/2009/v2_rocket.jpg"><img src="//stmgrts.org.uk/assets/images/2009/v2_rocket-thumb.jpg" width="112" height="150" alt="A V2 ROCKET ON ITS LAUNCHING PAD" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2009/v2_rocket.jpg"><img src="//stmargarets.london/assets/images/2009/v2_rocket-thumb.jpg" width="112" height="150" alt="A V2 ROCKET ON ITS LAUNCHING PAD" class="photo right" /></a>
 
 
 The V2 landed at the top of Sydney Road, about 200 yards from where I was fast asleep, in my cot, under my shove ha'penny  board. The blast from 1 ton of Amatol high explosive blew down a row of houses and smartly removed our front door and most of the windows. It also brought the ceiling of my bedroom crashing down on top of me and my shove ha'penny board.
@@ -47,7 +47,7 @@ bq. "It looks like they're going for the gas works again! Hampden Road has been 
 
 My grandmother said afterwards that she couldn't decide what was worse. Enemy action or my grandfather carrying on about it...
 
-<a href="//stmgrts.org.uk/assets/images/2009/Sydney_Road_bombed.jpg"><img alt="Sydney Road bombed" src="//stmgrts.org.uk/assets/images/2009/Sydney_Road_bombed-thumb.jpg" width="400" height="243" class="photo center" /></a>
+<a href="//stmargarets.london/assets/images/2009/Sydney_Road_bombed.jpg"><img alt="Sydney Road bombed" src="//stmargarets.london/assets/images/2009/Sydney_Road_bombed-thumb.jpg" width="400" height="243" class="photo center" /></a>
 
 
 The V2 rocket that fell onto Sydney Road just after midday on the 8th December 1945 took a number of lives. It was the end of the school Christmas holidays, it was freezing cold and most people were indoors. They were killed. A decorator who had been working on one of the houses in Sydney Road counted himself lucky. He normally went home for his lunch at 1.00 o'clock. On that day he decided to leave at 12.00. He was walking up the street when the rocket hit and he survived... and so did I, underneath half a ton of plaster and lath and my shove ha'penny board.

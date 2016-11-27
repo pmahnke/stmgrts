@@ -6,14 +6,14 @@ commentfile: 2016-09-11-orleans-adult-programme-autumn-2016
 category: around_town
 date: 2016-09-11 07:33:26
 excerpt: |
-    <a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Painting_Classes.jpg" title="See larger version of - ORLEANS ADULT Painting Classes"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg" width="150" height="99" alt="ORLEANS ADULT Painting Classes" class="photo right" /></a>
+    <a href="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Painting_Classes.jpg" title="See larger version of - ORLEANS ADULT Painting Classes"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg" width="150" height="99" alt="ORLEANS ADULT Painting Classes" class="photo right" /></a>
 
     Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, cyanotypes workshop and art history lectures.
 ---
 
 h3. Art History Lectures: Weekly Masterpiece
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Art_History.jpg" title="See larger version of - ORLEANS ADULT Art History"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Art_History_thumb.jpg" width="250" height="360" alt="ORLEANS ADULT Art History" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Art_History.jpg" title="See larger version of - ORLEANS ADULT Art History"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Art_History_thumb.jpg" width="250" height="360" alt="ORLEANS ADULT Art History" class="photo right" /></a>
 
 In this 10 week programme we explore the history of European arts great masterpieces, starting from the Ancient Greeks through to the second half of 20<sup>th</sup> Century.
 
@@ -53,7 +53,7 @@ To book visit our website "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/
 
 h3. The Painting Class:&nbsp;Portraits, Oil
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Painting_Classes.jpg" title="See larger version of - ORLEANS ADULT Painting Classes"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg" width="250" height="166" alt="ORLEANS ADULT Painting Classes" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Painting_Classes.jpg" title="See larger version of - ORLEANS ADULT Painting Classes"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg" width="250" height="166" alt="ORLEANS ADULT Painting Classes" class="photo right" /></a>
 
 Responding to our Reinventing the Selfie exhibition, on display from 6 October to 4 December. These sessions will explore the art of portraiture, considering the structure of the head, paint flesh tones and how to obtain a likeness. The course is aimed at both beginners and those with experience of portrait or other painting.
 
@@ -78,7 +78,7 @@ To book visit our website "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/
 
 h3. Scissors Paper Cloth: Paper Cuts
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Scissors_Paper_Cloth.jpg" title="See larger version of - ORLEANS ADULT Scissors Paper Cloth"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Scissors_Paper_Cloth_thumb.jpg" width="250" height="346" alt="ORLEANS ADULT Scissors Paper Cloth" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Scissors_Paper_Cloth.jpg" title="See larger version of - ORLEANS ADULT Scissors Paper Cloth"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Scissors_Paper_Cloth_thumb.jpg" width="250" height="346" alt="ORLEANS ADULT Scissors Paper Cloth" class="photo right" /></a>
 
 This autumn join us for the return of Scissors Paper Cloth - an exciting programme of evening workshops designed to get you making and socialising!
 
@@ -104,7 +104,7 @@ To book visit our website "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/
 
 h3. Cyanotypes Workshop
 
-<a href="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Grave_Goods_Workshops.jpg" title="See larger version of - ORLEANS ADULT Grave Goods Workshops"><img src="http://www.stmgrts.org.uk/assets/images/2016/ORLEANS-ADULT_Grave_Goods_Workshops_thumb.jpg" width="250" height="389" alt="ORLEANS ADULT Grave Goods Workshops" class="photo right" /></a>
+<a href="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Grave_Goods_Workshops.jpg" title="See larger version of - ORLEANS ADULT Grave Goods Workshops"><img src="http://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Grave_Goods_Workshops_thumb.jpg" width="250" height="389" alt="ORLEANS ADULT Grave Goods Workshops" class="photo right" /></a>
 
 We are running a series of workshops exploring photographic techniques that complement the photographic nature of our autumn exhibition, _Grave Goods_.
 

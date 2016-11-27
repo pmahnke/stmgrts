@@ -8,7 +8,7 @@ date: 2009-12-31 10:38:21
 
 ---
 
-<a href="http://www.mystmargarets.com" title="Enter today!"><img src="//stmgrts.org.uk/assets/images/2009/camera_comp_thumb.jpg" width="206" height="110" alt="Enter today!" class="photo center" /></a>
+<a href="http://www.mystmargarets.com" title="Enter today!"><img src="//stmargarets.london/assets/images/2009/camera_comp_thumb.jpg" width="206" height="110" alt="Enter today!" class="photo center" /></a>
 
 To celebrate the New Year, the _St Margarets Traders Association_ are offering you the chance to win a fantastic camera worth over &pound;700...
 

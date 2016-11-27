@@ -6,7 +6,7 @@ commentfile: 2011-08-16-kew_village_market_invitation_for_stall_applicatio
 category: news
 date: 2011-08-16 08:03:48
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmgrts.org.uk/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmargarets.london/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
     
     Starting Sunday 2<sup>nd</sup> October,  Kew Village Market will run for a 3 month trial period on the Sundays: 2<sup>nd</sup> October, 6<sup>th</sup> November and 4<sup>th</sup> December 2011. We hope to have between 15 and 25 stalls for each of these dates. We will be actively promoting the market via our website, social media, e-mails, posters, articles in local media and a leaflet drop.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmgrts.org.uk/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
+<a href="//stmargarets.london/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmargarets.london/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
 
 Starting Sunday 2<sup>nd</sup> October,  Kew Village Market will run for a 3 month trial period on the Sundays: 2<sup>nd</sup> October, 6<sup>th</sup> November and 4<sup>th</sup> December 2011. We hope to have between 15 and 25 stalls for each of these dates. We will be actively promoting the market via our website, social media, e-mails, posters, articles in local media and a leaflet drop.
 

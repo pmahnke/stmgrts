@@ -6,19 +6,19 @@ commentfile: 2015-03-27-event_reminder_redlees_unrooted_4_to_5_april_2015
 category: around_town
 date: 2015-03-27 22:39:52
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/uprooted.jpg" title="See larger version of - uprooted"><img src="//stmgrts.org.uk/assets/images/2015/uprooted_thumb.jpg" width="150" height="199" alt="uprooted" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/uprooted.jpg" title="See larger version of - uprooted"><img src="//stmargarets.london/assets/images/2015/uprooted_thumb.jpg" width="150" height="199" alt="uprooted" class="photo right" /></a>
     
     
-    "Opening Saturday 4 April, 6.30 - 9.00pm and Sunday 5 April, 11am - 4pm":http://www.stmgrts.org.uk/event/exhibition/200705144931
+    "Opening Saturday 4 April, 6.30 - 9.00pm and Sunday 5 April, 11am - 4pm":http://stmargarets.london/event/exhibition/200705144931
     
     UNROOTED brings together the work of four visual artists who explore, in different ways, the various intersections of physical nature, technology and simulation. Using images that conjure up undefined representations of both past and future, the artists ask us to question our relationship with our landscape, whether virtual, imagined or real. ­
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/uprooted.jpg" title="See larger version of - uprooted"><img src="//stmgrts.org.uk/assets/images/2015/uprooted_thumb.jpg" width="250" height="333" alt="uprooted" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/uprooted.jpg" title="See larger version of - uprooted"><img src="//stmargarets.london/assets/images/2015/uprooted_thumb.jpg" width="250" height="333" alt="uprooted" class="photo right" /></a>
 
 
-"Opening Saturday 4 April, 6.30 - 9.00pm and Sunday 5 April, 11am - 4pm":http://www.stmgrts.org.uk/event/exhibition/200705144931
+"Opening Saturday 4 April, 6.30 - 9.00pm and Sunday 5 April, 11am - 4pm":http://stmargarets.london/event/exhibition/200705144931
 
 UNROOTED brings together the work of four visual artists who explore, in different ways, the various intersections of physical nature, technology and simulation. Using images that conjure up undefined representations of both past and future, the artists ask us to question our relationship with our landscape, whether virtual, imagined or real. ­
 

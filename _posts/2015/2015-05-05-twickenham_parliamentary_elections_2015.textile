@@ -8,10 +8,10 @@ date: 2015-05-05 21:07:48
 excerpt: |
     The elections are nearly here.  We have sent questionnaires to all the candidates for the Twickenham seat and have had posted the _four_ that were returned.  They are:
     
-    * Liberal Democrats' "Vince Cable":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
-    * UKIP's "Barry Edwards":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html.
-    * Green's "Tanya Williams":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html
-    * Labour's "Nick Grant":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html
+    * Liberal Democrats' "Vince Cable":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
+    * UKIP's "Barry Edwards":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html.
+    * Green's "Tanya Williams":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html
+    * Labour's "Nick Grant":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html
     
     
 
@@ -19,10 +19,10 @@ excerpt: |
 
 The elections are nearly here.  We have sent questionnaires to all the candidates for the Twickenham seat and have had posted the _four_ that were returned.  They are:
 
-* Liberal Democrats' "Vince Cable":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
-* UKIP's "Barry Edwards":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html.
-* Green's "Tanya Williams":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html
-* Labour's "Nick Grant":http://www.stmgrts.org.uk/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html
+* Liberal Democrats' "Vince Cable":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
+* UKIP's "Barry Edwards":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html.
+* Green's "Tanya Williams":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html
+* Labour's "Nick Grant":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html
 
 The other candidates have not responded, so we suggest you read some excellent coverage from some other local groups.
 

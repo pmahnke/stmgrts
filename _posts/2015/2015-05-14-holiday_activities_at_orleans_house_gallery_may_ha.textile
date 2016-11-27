@@ -6,7 +6,7 @@ commentfile: 2015-05-14-holiday_activities_at_orleans_house_gallery_may_ha
 category: around_town
 date: 2015-05-14 21:25:19
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/orleans-house-may-2015.jpg" title="See larger version of - orleans house may 2015"><img src="//stmgrts.org.uk/assets/images/2015/orleans-house-may-2015_thumb.jpg" width="150" height="200" alt="orleans house may 2015" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/orleans-house-may-2015.jpg" title="See larger version of - orleans house may 2015"><img src="//stmargarets.london/assets/images/2015/orleans-house-may-2015_thumb.jpg" width="150" height="200" alt="orleans house may 2015" class="photo right" /></a>
     
     The next holiday activities take place from Tuesday 26 May to Saturday 30 May 2015.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/orleans-house-may-2015.jpg" title="See larger version of - orleans house may 2015"><img src="//stmgrts.org.uk/assets/images/2015/orleans-house-may-2015_thumb.jpg" width="250" height="333" alt="orleans house may 2015" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2015/orleans-house-may-2015.jpg" title="See larger version of - orleans house may 2015"><img src="//stmargarets.london/assets/images/2015/orleans-house-may-2015_thumb.jpg" width="250" height="333" alt="orleans house may 2015" class="photo right" /></a>
 
 The next holiday activities take place from Tuesday 26 May to Saturday 30 May 2015.
 

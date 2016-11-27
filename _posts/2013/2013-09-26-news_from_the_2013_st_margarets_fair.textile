@@ -6,7 +6,7 @@ commentfile: 2013-09-26-news_from_the_2013_st_margarets_fair
 category: news
 date: 2013-09-26 21:01:24
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+    <a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
     
     All the bills are paid and all the money has now been counted.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="//stmgrts.org.uk/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 All the bills are paid and all the money has now been counted.
 

@@ -8,10 +8,10 @@ date: 2007-02-08 10:50:19
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2007/andrea-in-apron.jpg"><img src="//stmgrts.org.uk/assets/images/2007/andrea-in-apron-thumb.jpg" width="112" height="150" alt="Andrea Hosfeld" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2007/andrea-in-apron.jpg"><img src="//stmargarets.london/assets/images/2007/andrea-in-apron-thumb.jpg" width="112" height="150" alt="Andrea Hosfeld" class="photo right" /></a>
 
 
-_Andrea Hosfeld runs a small cooking school from her home in St Margarets.  Her company is called, "Talk of the Table":http://www.stmgrts.org.uk/directory/other/200611051608 and runs approximately two classes a month, but also will create special classes for groups and kids._
+_Andrea Hosfeld runs a small cooking school from her home in St Margarets.  Her company is called, "Talk of the Table":http://stmargarets.london/directory/other/200611051608 and runs approximately two classes a month, but also will create special classes for groups and kids._
 
 *Where did you get the idea for Talk of the Table?*
 

@@ -6,14 +6,14 @@ commentfile: 2009-05-05-idea_of_the_week_go_to_isabella_plantation
 category: around_town
 date: 2009-05-05 14:11:26
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/3453200297/" title="Flowers - rhododendrons with a bee by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2009/3453200297_e601963445.jpg" width="150" height="112" class="photo right" alt="Flowers - rhododendrons with a bee" /></a>
+    <a href="http://www.flickr.com/photos/mahnke/3453200297/" title="Flowers - rhododendrons with a bee by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2009/3453200297_e601963445.jpg" width="150" height="112" class="photo right" alt="Flowers - rhododendrons with a bee" /></a>
 
     We just went to Isabella Plantation this weekend and the azaleas are perfect, really just starting. It will probably only last a couple of weeks, so be sure to get there soon if you are interested.
 
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/3453200297/" title="Flowers - rhododendrons with a bee by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2009/3453200297_e601963445.jpg" width="150" height="112" class="photo right" alt="Flowers - rhododendrons with a bee" /></a>
+<a href="http://www.flickr.com/photos/mahnke/3453200297/" title="Flowers - rhododendrons with a bee by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2009/3453200297_e601963445.jpg" width="150" height="112" class="photo right" alt="Flowers - rhododendrons with a bee" /></a>
 
 We just went to "Isabella Plantation":http://www.royalparks.org.uk/parks/richmond_park/isabella_plantation.cfm this weekend and the azaleas are perfect, really just starting. It will probably only last a couple of weeks, so be sure to get there soon if you are interested.
 

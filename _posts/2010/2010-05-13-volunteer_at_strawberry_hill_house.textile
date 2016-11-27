@@ -6,7 +6,7 @@ commentfile: 2010-05-13-volunteer_at_strawberry_hill_house
 category: news
 date: 2010-05-13 14:21:45
 excerpt: |
-    <img class="photo right" src="//stmgrts.org.uk/assets/images/directory/200608190514_Strawberry_Hill_House.jpg" width="150" alt="photo of Strawberry Hill House" />
+    <img class="photo right" src="//stmargarets.london/assets/images/directory/200608190514_Strawberry_Hill_House.jpg" width="150" alt="photo of Strawberry Hill House" />
     
     _Come and join the team that's bringing Walpole's little gothic castle back to life._
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<img class="photo right" src="//stmgrts.org.uk/assets/images/directory/200608190514_Strawberry_Hill_House.jpg" width="150" alt="photo of Strawberry Hill House" />
+<img class="photo right" src="//stmargarets.london/assets/images/directory/200608190514_Strawberry_Hill_House.jpg" width="150" alt="photo of Strawberry Hill House" />
 
 _Come and join the team that's bringing Walpole's little gothic castle back to life._
 

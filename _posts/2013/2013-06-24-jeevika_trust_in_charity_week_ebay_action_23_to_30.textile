@@ -6,7 +6,7 @@ commentfile: 2013-06-24-jeevika_trust_in_charity_week_ebay_action_23_to_30
 category: news
 date: 2013-06-24 22:05:39
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2013/CHARITY_deepika-padukone.jpg" title="See larger version of - deepika padukone"><img src="//stmgrts.org.uk/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg" width="150" height="224" alt="deepika padukone" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/CHARITY_deepika-padukone.jpg" title="See larger version of - deepika padukone"><img src="//stmargarets.london/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg" width="150" height="224" alt="deepika padukone" class="photo right" /></a>
     
     _Local charity Jeevika Trust takes part in national auction with Bollywood gifts_
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/CHARITY_deepika-padukone.jpg" title="See larger version of - deepika padukone"><img src="//stmgrts.org.uk/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg" width="150" height="224" alt="deepika padukone" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/CHARITY_deepika-padukone.jpg" title="See larger version of - deepika padukone"><img src="//stmargarets.london/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg" width="150" height="224" alt="deepika padukone" class="photo right" /></a>
 
 _Local charity Jeevika Trust takes part in national auction with Bollywood gifts_
 
@@ -29,7 +29,7 @@ A leading Bollywood production company, Eros International - which distributes B
 
 
 
-<a href="//stmgrts.org.uk/assets/images/2013/CHARITY_Mutant_Roots_-_Cleve_West.jpg" title="See larger version of - Mutant Roots   Cleve West"><img src="//stmgrts.org.uk/assets/images/2013/CHARITY_Mutant_Roots_-_Cleve_West_thumb.jpg" width="150" height="225" alt="Mutant Roots   Cleve West" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/CHARITY_Mutant_Roots_-_Cleve_West.jpg" title="See larger version of - Mutant Roots   Cleve West"><img src="//stmargarets.london/assets/images/2013/CHARITY_Mutant_Roots_-_Cleve_West_thumb.jpg" width="150" height="225" alt="Mutant Roots   Cleve West" class="photo right" /></a>
 
 
 Leading UK gardener Cleve West, winner of seven medals at the RHS Chelsea Flower Show and a long term Jeevika Trust supporter, has also made a donation. Auction participants can bid for a hardback signed copy of his bestselling book Our Plot, which also features Cleve's beautiful illustrations. A limited edition pen and ink glicee print of one of his 'Mutant Roots' - Cleve's beautiful fantasy illustrations of strange and magical vegetables - is also up for grabs.

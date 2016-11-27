@@ -6,7 +6,7 @@ commentfile: 2008-10-02-event_reminder_richmond_united_group_borough_meeti
 category: around_town
 date: 2008-10-02 21:35:14
 excerpt: |
-    <img src="//stmgrts.org.uk/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
+    <img src="//stmargarets.london/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
     
     Tuesday 14 October 8.00 pm
     
@@ -14,7 +14,7 @@ excerpt: |
     
     What do YOU think about the consultation process?
     
-    Participate in a "Borough Meeting with the Richmond United Group":http://stmgrts.org.uk/event/meeting/200705141986.
+    Participate in a "Borough Meeting with the Richmond United Group":http://stmargarets.london/event/meeting/200705141986.
     
     The Sustainable Communities Act is launched on 14 October, the day of the Borough Meeting.  One of the group that campaigned for this Act of Parliament will speak at the meeting.
     
@@ -22,7 +22,7 @@ excerpt: |
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
+<img src="//stmargarets.london/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
 
 Tuesday 14 October 8.00 pm
 
@@ -30,7 +30,7 @@ Have you taken part in any Council consultation?
 
 What do YOU think about the consultation process?
 
-Participate in a "Borough Meeting with the Richmond United Group":http://stmgrts.org.uk/event/meeting/200705141986.
+Participate in a "Borough Meeting with the Richmond United Group":http://stmargarets.london/event/meeting/200705141986.
 
 The Sustainable Communities Act is launched on 14 October, the day of the Borough Meeting.  One of the group that campaigned for this Act of Parliament will speak at the meeting.
 

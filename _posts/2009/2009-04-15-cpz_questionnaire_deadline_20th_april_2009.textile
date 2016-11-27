@@ -8,7 +8,7 @@ date: 2009-04-15 15:12:44
 
 ---
 
-"!(right) http://www.stmgrts.org.uk/cgi-bin/poll.cgi?pollname=CPZ3&action=image 150x150 (poll results)!":http://www.stmgrts.org.uk/poll/CPZ3/results
+"!(right) http://stmargarets.london/cgi-bin/poll.cgi?pollname=CPZ3&action=image 150x150 (poll results)!":http://stmargarets.london/poll/CPZ3/results
 
 *The deadline for return of completed questionnaire and comments is Monday 20 April 2009.*
 
@@ -20,8 +20,8 @@ Should you wish to discuss any aspects of this consultation, please contact Andr
 
 Additionally, if you could take a few moments, could you vote in our poll to see how sentiment is sitting?
 
-* "vote in the poll":http://www.stmgrts.org.uk/poll/CPZ3
-* "see the results":http://www.stmgrts.org.uk/poll/CPZ3/results
+* "vote in the poll":http://stmargarets.london/poll/CPZ3
+* "see the results":http://stmargarets.london/poll/CPZ3/results
 
 
 

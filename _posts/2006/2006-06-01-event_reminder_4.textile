@@ -6,11 +6,11 @@ commentfile: 2006-06-01-event_reminder_4
 category: around_town
 date: 2006-06-01 21:47:38
 excerpt: |
-    An initial meeting has been arranged for "Tuesday 6th June, 7.30 pm":http://www.stmgrts.org.uk/event/Meeting/200605081437 at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
+    An initial meeting has been arranged for "Tuesday 6th June, 7.30 pm":http://stmargarets.london/event/Meeting/200605081437 at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
 
 ---
 
-<img src="//stmgrts.org.uk/assets/images/2006/stmgrts_plan.gif" width="100" height="75" alt="St Margarets Development Plan" class="photo right"/>
+<img src="//stmargarets.london/assets/images/2006/stmgrts_plan.gif" width="100" height="75" alt="St Margarets Development Plan" class="photo right"/>
 
 St Margarets is a special commmunity. We are fortunate with our local schools, shops, friendly streets and local environment. But the pressures of urban living and modern economics could endanger the St Margarets we all value.
 
@@ -28,7 +28,7 @@ Following an idea started during the recent local elections it was agreed we nee
 
 The final outcome will feed into the council's Local Development Framework (LDF), and provide our new councillors with guidelines from us, on how we want to be represented.
 
-An initial meeting has been arranged for "Tuesday 6th June, 7.30 pm":http://www.stmgrts.org.uk/event/Meeting/200605081437 at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
+An initial meeting has been arranged for "Tuesday 6th June, 7.30 pm":http://stmargarets.london/event/Meeting/200605081437 at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
 
 Contact Judy Maciejowska "judymaciejowska@blueyonder.co.uk":mailto:judymaciejowska@blueyonder.co.uk for further information.
 

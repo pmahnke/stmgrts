@@ -6,7 +6,7 @@ commentfile: 2011-10-07-orleans_house_gallery_autumn_halfterm_activities_o
 category: around_town
 date: 2011-10-07 08:00:47
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/4-5s-a-medium.jpg" title="See larger version of - Orleans House Gallery class for kids"><img src="//stmgrts.org.uk/assets/images/2011/4-5s-a-medium_thumb.jpg" width="150" height="112" alt="Orleans House Gallery class for kids" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/4-5s-a-medium.jpg" title="See larger version of - Orleans House Gallery class for kids"><img src="//stmargarets.london/assets/images/2011/4-5s-a-medium_thumb.jpg" width="150" height="112" alt="Orleans House Gallery class for kids" class="photo right" /></a>
     
     Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/4-5s-a-medium.jpg" title="See larger version of - Orleans House Gallery class for kids"><img src="//stmgrts.org.uk/assets/images/2011/4-5s-a-medium_thumb.jpg" width="150" height="112" alt="Orleans House Gallery class for kids" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/4-5s-a-medium.jpg" title="See larger version of - Orleans House Gallery class for kids"><img src="//stmargarets.london/assets/images/2011/4-5s-a-medium_thumb.jpg" width="150" height="112" alt="Orleans House Gallery class for kids" class="photo right" /></a>
 
 Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
 

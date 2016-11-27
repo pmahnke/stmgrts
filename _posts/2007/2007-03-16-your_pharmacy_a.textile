@@ -8,7 +8,7 @@ date: 2007-03-16 14:10:59
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2007/pharmacy_atm.jpg"><img src="//stmgrts.org.uk/assets/images/2007/pharmacy_atm-thumb.jpg" width="150" height="85" alt="drawing of ATM" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2007/pharmacy_atm.jpg"><img src="//stmargarets.london/assets/images/2007/pharmacy_atm-thumb.jpg" width="150" height="85" alt="drawing of ATM" class="photo right" /></a>
 
 
 The _Your Pharmacy_ at 38 Crown Road has applied for planning permission for a street facing, 24 hour accessible ATM with two protective bollards on the pavement to prevent someone ramming it with a car.

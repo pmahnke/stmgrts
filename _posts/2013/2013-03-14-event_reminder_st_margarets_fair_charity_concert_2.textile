@@ -7,13 +7,13 @@ category: around_town
 date: 2013-03-14 21:37:00
 excerpt: |
     
-    <a href="//stmgrts.org.uk/assets/images/2013/fair_fundraiser_032013_flyer.jpg" title="See larger version of - fair fundraiser flyer"><img src="//stmgrts.org.uk/assets/images/2013/fair_fundraiser_032013_flyer_thumb.jpg" width="150" height="220" alt="fair fundraiser flyer" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2013/fair_fundraiser_032013_flyer.jpg" title="See larger version of - fair fundraiser flyer"><img src="//stmargarets.london/assets/images/2013/fair_fundraiser_032013_flyer_thumb.jpg" width="150" height="220" alt="fair fundraiser flyer" class="photo right" /></a>
     
     The St Margarets Elastic Band and St Stephens Community Choir are doing an Easter Fund Raiser for the St Margarets Fair. Funds go to the four local schools, three local charities and the Christmas pensioners party in the Turks.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2013/fair_fundraiser_032013_flyer.jpg" title="See larger version of - fair fundraiser flyer"><img src="//stmgrts.org.uk/assets/images/2013/fair_fundraiser_032013_flyer_thumb.jpg" width="150" height="220" alt="fair fundraiser flyer" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2013/fair_fundraiser_032013_flyer.jpg" title="See larger version of - fair fundraiser flyer"><img src="//stmargarets.london/assets/images/2013/fair_fundraiser_032013_flyer_thumb.jpg" width="150" height="220" alt="fair fundraiser flyer" class="photo right" /></a>
 
 The St Margarets Elastic Band and St Stephens Community Choir are doing an Easter Fund Raiser for the St Margarets Fair. Funds go to the four local schools, three local charities and the Christmas pensioners party in the Turks.
 
@@ -21,7 +21,7 @@ The St Margarets Elastic Band and St Stephens Community Choir are doing an Easte
 
 h4. More Information
 
-* "Tuesday 26<sup>th</sup> March  from  7.30 till 10.00":http://www.stmgrts.org.uk/event/show/200705143834
+* "Tuesday 26<sup>th</sup> March  from  7.30 till 10.00":http://stmargarets.london/event/show/200705143834
 * St Stephen's School Hall (entrance on Chertsey Road)
 * Tickets &pound;5
 * to reserve a table, email: "liz@lizvarrall.com":mailto:liz@lizvarrall.com or call 020 8892 6433

@@ -6,13 +6,13 @@ commentfile: 2015-07-06-new_local_business_st_margarets_property_partnersh
 category: around_town
 date: 2015-07-06 20:54:01
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB.jpg" title="See larger version of - 2672 StMarg PP Logo LH RGB"><img src="//stmgrts.org.uk/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg" width="150" height="58" alt="2672 StMarg PP Logo LH RGB" class="right" /></a>
+    <a href="//stmargarets.london/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB.jpg" title="See larger version of - 2672 StMarg PP Logo LH RGB"><img src="//stmargarets.london/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg" width="150" height="58" alt="2672 StMarg PP Logo LH RGB" class="right" /></a>
     
     Introducing St Margarets Property Partnership, a uniquely personalised and community-driven estate agency, dedicated to offering the highest quality Sales and Lettings service to the residents of St Margarets.
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB.jpg" title="See larger version of - 2672 StMarg PP Logo LH RGB"><img src="//stmgrts.org.uk/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg" width="250" height="97" alt="2672 StMarg PP Logo LH RGB" class="right" /></a>
+<a href="//stmargarets.london/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB.jpg" title="See larger version of - 2672 StMarg PP Logo LH RGB"><img src="//stmargarets.london/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg" width="250" height="97" alt="2672 StMarg PP Logo LH RGB" class="right" /></a>
 
 Introducing St Margarets Property Partnership, a uniquely personalised and community-driven estate agency, dedicated to offering the highest quality Sales and Lettings service to the residents of St Margarets.
 

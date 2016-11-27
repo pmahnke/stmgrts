@@ -8,7 +8,7 @@ date: 2010-11-01 16:43:10
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2010/fireworks.jpg"><img src="//stmgrts.org.uk/assets/images/2010/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2010/fireworks.jpg"><img src="//stmargarets.london/assets/images/2010/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
 
 
 Here are a few things to help you celebrate Guy Fawkes Night.

@@ -6,7 +6,7 @@ commentfile: 2012-10-27-the_ailsa_tavern_relaunches_on_30_october_2012
 category: news
 date: 2012-10-27 20:38:27
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_II.jpg" title="See larger version of - Ailsa Relaunch - Food"><img src="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg" width="150" height="210" alt="Ailsa Relaunch - Food" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_II.jpg" title="See larger version of - Ailsa Relaunch - Food"><img src="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg" width="150" height="210" alt="Ailsa Relaunch - Food" class="photo right" /></a>
     
     
     The Ailsa Tavern has changed managers and is going to relaunch on Tuesday, 30 October 2012 with all new food and updated nights for music and quizzes.  Changes include the addition of an Irish and Scottish music night on Thursdays and &pound;5 lunchtime food specials.
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_II.jpg" title="See larger version of - Ailsa Relaunch - Food"><img src="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg" width="150" height="210" alt="Ailsa Relaunch - Food" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_II.jpg" title="See larger version of - Ailsa Relaunch - Food"><img src="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg" width="150" height="210" alt="Ailsa Relaunch - Food" class="photo right" /></a>
 
 
 The Ailsa Tavern has changed managers and is going to relaunch on Tuesday, 30 October 2012 with all new food and updated nights for music and quizzes.  Changes include the addition of an Irish and Scottish music night on Thursdays and &pound;5 lunchtime food specials.
@@ -32,7 +32,7 @@ We're offering a range of meals for &pound;5 at lunchtimes, as well as offers on
 
 h4. Music
 
-<a href="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_I.jpg" title="See larger version of - Ailsa Relaunch Music"><img src="//stmgrts.org.uk/assets/images/2012/Ailsa_Relaunch_I_thumb.jpg" width="150" height="211" alt="Ailsa Relaunch Music" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_I.jpg" title="See larger version of - Ailsa Relaunch Music"><img src="//stmargarets.london/assets/images/2012/Ailsa_Relaunch_I_thumb.jpg" width="150" height="211" alt="Ailsa Relaunch Music" class="photo right" /></a>
 
 
 We already have a band in the pub every Saturday from 9pm and the live music crowd is steadily growing. In addition to this, we're adding a few new weekly events.

@@ -29,7 +29,7 @@ p. If you are interested, we are maintaining a "change log":/changes.
 
 h3. The site doesn't look good in my Browser
 
-p. The site is built with and validated against established web standards.  Your problem might be that your browser is older and doesn't render web standards well.  We can recommend switching to "Firefox":http://www.mozilla.org/firefox/ or "Google Chrome": https://www.google.com/intl/en/chrome/browser/
+p. The site is built with and validated against established web standards.  Your problem might be that your browser is older and doesn't render web standards well.  We can recommend switching to "Firefox":http://www.mozilla.org/firefox/ or "Google Chrome":https://www.google.com/intl/en/chrome/browser/
 
 h3. How is the content licensed?
 

@@ -6,7 +6,7 @@ commentfile: 2011-02-03-event_reminder_film_and_talk_examines_christian_zi
 category: around_town
 date: 2011-02-03 19:54:45
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/RevDrStephenSizer.jpg" title="See larger version of - The Rev Dr Stephen Sizer"><img src="//stmgrts.org.uk/assets/images/2011/RevDrStephenSizer_thumb.jpg" width="150" height="216" alt="The Rev Dr Stephen Sizer" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/RevDrStephenSizer.jpg" title="See larger version of - The Rev Dr Stephen Sizer"><img src="//stmargarets.london/assets/images/2011/RevDrStephenSizer_thumb.jpg" width="150" height="216" alt="The Rev Dr Stephen Sizer" class="photo right" /></a>
     
     A film which examines the fascinating but rarely acknowledged role that Christian Zionism plays in the story of Israel and Palestine will be shown in Richmond next week.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2011/RevDrStephenSizer.jpg" title="See larger version of - The Rev Dr Stephen Sizer"><img src="//stmgrts.org.uk/assets/images/2011/RevDrStephenSizer_thumb.jpg" width="150" height="216" alt="The Rev Dr Stephen Sizer" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/RevDrStephenSizer.jpg" title="See larger version of - The Rev Dr Stephen Sizer"><img src="//stmargarets.london/assets/images/2011/RevDrStephenSizer_thumb.jpg" width="150" height="216" alt="The Rev Dr Stephen Sizer" class="photo right" /></a>
 
 A film which examines the fascinating but rarely acknowledged role that Christian Zionism plays in the story of Israel and Palestine will be shown in Richmond next week.
 

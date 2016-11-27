@@ -6,7 +6,7 @@ commentfile: 2012-03-25-richmond_twickenham_photographic_society_annual_ex
 category: around_town
 date: 2012-03-25 10:13:05
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2012/The-Queen-with-corgi.jpg" title="See larger version of - The Queen with her corgi"><img src="//stmgrts.org.uk/assets/images/2012/The-Queen-with-corgi_thumb.jpg" width="150" height="187" alt="The Queen with her corgi" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2012/The-Queen-with-corgi.jpg" title="See larger version of - The Queen with her corgi"><img src="//stmargarets.london/assets/images/2012/The-Queen-with-corgi_thumb.jpg" width="150" height="187" alt="The Queen with her corgi" class="photo right" /></a>
     
     
     _featuring a Diamond Jubilee presentation of informal photographs of H.M The Queen_
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmgrts.org.uk/assets/images/2012/The-Queen-with-corgi.jpg" title="See larger version of - The Queen with her corgi"><img src="//stmgrts.org.uk/assets/images/2012/The-Queen-with-corgi_thumb.jpg" width="150" height="187" alt="The Queen with her corgi" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2012/The-Queen-with-corgi.jpg" title="See larger version of - The Queen with her corgi"><img src="//stmargarets.london/assets/images/2012/The-Queen-with-corgi_thumb.jpg" width="150" height="187" alt="The Queen with her corgi" class="photo right" /></a>
 
 
 _featuring a Diamond Jubilee presentation of informal photographs of H.M The Queen_
@@ -31,7 +31,7 @@ This year's annual exhibition will include fine art prints and projected digital
 h4. More Information
 
 * Landmark Arts Centre, Ferry Road, Teddington, TW11 9NN
-* "Wednesday April 4<sup>th</sup> to Sunday April 15<sup>th</sup>, 2012":http://www.stmgrts.org.uk/event/show/200705143230
+* "Wednesday April 4<sup>th</sup> to Sunday April 15<sup>th</sup>, 2012":http://stmargarets.london/event/show/200705143230
 * Opening hours:
 ** Weekdays; 12noon - 6.30pm.
 ** Weekends, Good Friday & Easter Monday: 10am - 6.30pm.

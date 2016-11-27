@@ -6,13 +6,13 @@ commentfile: 2011-07-19-photos_from_the_2011_st_margarets_fair
 category: around_town
 date: 2011-07-19 08:29:30
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/5952419676/" title="Sun? by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/5952419676_4cb2ccaa64.jpg" width="150" alt="Sun?" class="photo right"></a>
+    <a href="http://www.flickr.com/photos/mahnke/5952419676/" title="Sun? by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5952419676_4cb2ccaa64.jpg" width="150" alt="Sun?" class="photo right"></a>
     
     It was a wet and windy day, but that didn't stop thousands of people coming out and supporting the 33<sup>rd</sup> Annual St Margarets Fair.  While the weather caused a few displays to be cancelled, nearly everything else went to plan, including the always popular dog show and music stage.
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5952419676/" title="Sun? by Peter M, on Flickr"><img src="//stmgrts.org.uk/assets/images/2011/5952419676_4cb2ccaa64.jpg" width="300" alt="Sun?" class="photo center"></a>
+<a href="http://www.flickr.com/photos/mahnke/5952419676/" title="Sun? by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5952419676_4cb2ccaa64.jpg" width="300" alt="Sun?" class="photo center"></a>
 
 It was a wet and windy day, but that didn't stop thousands of people coming out and supporting the 33<sup>rd</sup> Annual St Margarets Fair.  While the weather caused a few displays to be cancelled, nearly everything else went to plan, including the always popular dog show and music stage.
 
@@ -20,7 +20,7 @@ Thank you to all those who volunteered their time, specially the St Margarets Fa
 
 "Watch a slideshow on flickr":http://www.flickr.com//photos/mahnke/sets/72157627105669303/show/
 
-<em>If you have photos you are willing to share, please email "content@stmgrts.org.uk":mailto:content@stmgrts.org.uk</em>
+<em>If you have photos you are willing to share, please email "content@stmargarets.london":mailto:content@stmargarets.london</em>
 
 
 

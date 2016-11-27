@@ -6,7 +6,7 @@ commentfile: 2011-03-03-the_phantom_in_richmond_park
 category: around_town
 date: 2011-03-03 22:59:55
 excerpt: |
-    <a href="//stmgrts.org.uk/assets/images/2011/Phantom_badge.jpg" title="See larger version of - Phantom badge"><img src="//stmgrts.org.uk/assets/images/2011/Phantom_badge_thumb.jpg" width="150" height="148" alt="Phantom badge" class="photo right" /></a>
+    <a href="//stmargarets.london/assets/images/2011/Phantom_badge.jpg" title="See larger version of - Phantom badge"><img src="//stmargarets.london/assets/images/2011/Phantom_badge_thumb.jpg" width="150" height="148" alt="Phantom badge" class="photo right" /></a>
     
     In November 1939, at the very beginning of the 2<sup>nd</sup> World War, Air Marshal Barratt, the Commander of the British Air Forces in France, set up a special semi-secret unit, the 3<sup>rd</sup> British Air Mission, to gather as much information as possible about the disposition of the enemy and the terrain that they were rapidly occupying. The code name for this unit was "Phantom."
 
@@ -18,7 +18,7 @@ bq. "Conformation of the ground is of the greatest assistance in battle. Therefo
 
 <div class="box">
 
-<a href="//stmgrts.org.uk/assets/images/2011/Phantom_badge.jpg" title="See larger version of - Phantom badge"><img src="//stmgrts.org.uk/assets/images/2011/Phantom_badge_thumb.jpg" width="150" height="148" alt="Phantom badge" class="photo left" /></a>
+<a href="//stmargarets.london/assets/images/2011/Phantom_badge.jpg" title="See larger version of - Phantom badge"><img src="//stmargarets.london/assets/images/2011/Phantom_badge_thumb.jpg" width="150" height="148" alt="Phantom badge" class="photo left" /></a>
 
 
 Perhaps I was raised on too much "Battler Britton", "Rockfist Rogan" and "Dick Barton, Special Agent" as a child, but like them, I believe that secret organisations engaged in mysterious, shadowy work should always have mysterious, shadowy names.
@@ -31,7 +31,7 @@ In November 1939, at the very beginning of the 2<sup>nd</sup> World War, Air Mar
 
 
 <div class="img_caption right">
-	<a href="//stmgrts.org.uk/assets/images/2011/PHANTOM_neerlanden.png" title="See larger version of - Neerlanden"><img src="//stmgrts.org.uk/assets/images/2011/PHANTOM_neerlanden_thumb.png" width="150" height="106" alt="Neerlanden" class="photo" /></a>
+	<a href="//stmargarets.london/assets/images/2011/PHANTOM_neerlanden.png" title="See larger version of - Neerlanden"><img src="//stmargarets.london/assets/images/2011/PHANTOM_neerlanden_thumb.png" width="150" height="106" alt="Neerlanden" class="photo" /></a>
 	<span>Phantom unit Neerlanden 1940 (HQ). Lieutenant-Colonel “Hoppy” Hopkinson is 4<sup>th</sup> from left, smoking a pipe.</span>
 </div>
 
@@ -42,14 +42,14 @@ Together "Fairy" and "Hoppy" put together a mixed company of 15 officers and 110
 
 An official definition of "Phantom's" job was <em>'to transmit vital information from the battle front, ignoring the usual channels, to the Commander able to dispose of the vital reserves.'</em> In practice this meant putting vehicles with trained observers as close to the fighting as possible. The information gathered would be coded and sent back either by radio or motorcycle dispatch rider. One officer at the time commented <em>"The information coming out of France wasn't good - but at least it was accurate!"</em> After the war "Phantom" was popularly described as <em>'the eyes and ears of the Commander in Chief.'</em>
 
-<a href="//stmgrts.org.uk/assets/images/2011/pembroke_lodge_today.jpg" title="See larger version of - Pembroke Lodge"><img src="//stmgrts.org.uk/assets/images/2011/pembroke_lodge_today_thumb.jpg" width="150" height="79" alt="Pembroke Lodge" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/pembroke_lodge_today.jpg" title="See larger version of - Pembroke Lodge"><img src="//stmargarets.london/assets/images/2011/pembroke_lodge_today_thumb.jpg" width="150" height="79" alt="Pembroke Lodge" class="photo right" /></a>
 
 
 On 28<sup>th</sup> May 1940, during the evacuation from France, Wing Commander J.M Fairweather and many of his "Phantom" staff were lost when their ship, the "S.S Aboukir", was torpedoed by an E-Boat about 8 miles off Ostend. Undeterred "Hoppy" Hopkinson, realising the vital importance of the work, quickly set up the "GHQ Liaison Regiment" (Phantom) and a training unit at Pembroke Lodge in Richmond Park.  At the same time "Phantom" units were set up around the English coast to report back on the expected enemy invasion.
 
 In many ways Richmond Park and Pembroke Lodge were ideal locations for rapidly expanding "Phantom." They were close enough to London to be in touch with the War Office and yet far enough away to be reasonably secure and discreet. The Park was also large enough to accommodate all the men training there and their vehicles. Amongst them was the actor, Major David Niven, who commanded 'A' Squadron. He wrote of his time at Pembroke Lodge. <em>"These were wonderful days which I would not have missed for anything."</em>
 
-<a href="//stmgrts.org.uk/assets/images/2011/Phantom_on_Parade.jpg" title="See larger version of - Phantom on parade"><img src="//stmgrts.org.uk/assets/images/2011/Phantom_on_Parade_thumb.jpg" width="150" height="99" alt="Phantom on parade" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2011/Phantom_on_Parade.jpg" title="See larger version of - Phantom on parade"><img src="//stmargarets.london/assets/images/2011/Phantom_on_Parade_thumb.jpg" width="150" height="99" alt="Phantom on parade" class="photo right" /></a>
 
 
 During the war there were "Phantom" patrols operating in Europe, North Africa and Italy, each patrol consisting of an officer, an NCO and up to 9 other ranks. They were typically equipped with Norton motorcycles, Jeeps, Morris 15cwt trucks and Scout cars.  Other patrols undertook parachute drops with the SAS to provide intelligence for SAS Brigade HQ. Before long "Phantom" was also supplying intelligence to the 12<sup>th</sup> US Army Group. "Phantom"  landed in Normandy on 6<sup>th</sup> June 1944, D-Day. Its job was to locate and constantly update the ever changing positions of all British, Canadian and American units and report them back to H.Q.
@@ -57,7 +57,7 @@ During the war there were "Phantom" patrols operating in Europe, North Africa an
 In September 1944 during 'Operation Market Garden', a "Phantom" patrol provided the only communication between the surrounded airborne troops at Arnhem and headquarters. This included the desperate message from General Urquhart that <em>"Unless physical contact is made with us early 25 Sept, consider it unlikely we can hold out."</em> Two "Phantom" officers were subsequently awarded the Military Cross for maintaining these vital communications during the operation.
 
 <div class="img_caption right">
-	<a href="//stmgrts.org.uk/assets/images/2011/PHANTOM_duke_kent.png" title="See larger version of - Duke of Kent"><img src="//stmgrts.org.uk/assets/images/2011/PHANTOM_duke_kent_thumb.png" width="150" height="97" alt="Duke of Kent" class="photo" /></a>
+	<a href="//stmargarets.london/assets/images/2011/PHANTOM_duke_kent.png" title="See larger version of - Duke of Kent"><img src="//stmargarets.london/assets/images/2011/PHANTOM_duke_kent_thumb.png" width="150" height="97" alt="Duke of Kent" class="photo" /></a>
 	<span>The Duke of Kent inspects "Phantom" A Squadron in Richmond Park,  escorted by a helmeted Major David Niven with "Hoppy" Hopkinson on extreme left.</span>
 </div>
 
@@ -68,7 +68,7 @@ Although Field Marshal Montgomery described the work of "Phantom" as 'indispensa
 h4. A WORD FROM ROGER SPEAR 'G4BXM' TO ALL RADIO HAMS WHO MIGHT BE INTERESTED IN THIS KIND OF THING
 
 <div class="img_caption left">
-	<a href="//stmgrts.org.uk/assets/images/2011/PHANTOM_signals.png" title="See larger version of - Royal Signals"><img src="//stmgrts.org.uk/assets/images/2011/PHANTOM_signals_thumb.png" width="150" height="149" alt="Royal Signals" class="photo" /></a>
+	<a href="//stmargarets.london/assets/images/2011/PHANTOM_signals.png" title="See larger version of - Royal Signals"><img src="//stmargarets.london/assets/images/2011/PHANTOM_signals_thumb.png" width="150" height="149" alt="Royal Signals" class="photo" /></a>
 	<span>Royal Signals operator carefully adjusting the BFO of his R107!  He is wearing on his right shoulder the white P against a black background - the only distinguishing mark of the "secret" Phantom unit.</span>
 </div>
 

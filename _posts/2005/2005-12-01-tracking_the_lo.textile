@@ -15,11 +15,11 @@ To that end the _St Margarets Community Website_ has set-up a page where residen
 Here is how it works:
 
 # If you see something that should be reported, note the time, license plates and if you can, take a picture!
-# Go to our "Observation Form":http://www.stmgrts.org.uk/forms/tescobay.php and enter in the details.  _This form will automatically email key people on the Council, so no abuse please._
+# Go to our "Observation Form":http://stmargarets.london/forms/tescobay.php and enter in the details.  _This form will automatically email key people on the Council, so no abuse please._
 # Once you submit the form, you will be asked if you have any photo's to upload, if you don't, no problem.
-# Then go to the "Online Log":http://www.stmgrts.org.uk/forms/tesco_board.php to see a record of all the submitted observations.
+# Then go to the "Online Log":http://stmargarets.london/forms/tesco_board.php to see a record of all the submitted observations.
 
-NOTE: <em>if you have forgotten, the "Loading Bay's Rules are posted here":http://www.stmgrts.org.uk/archives/2005/10/council_legitim.html.</em>
+NOTE: <em>if you have forgotten, the "Loading Bay's Rules are posted here":http://stmargarets.london/archives/2005/10/council_legitim.html.</em>
 
 
 
