@@ -1,0 +1,19 @@
+#!/bin/sh
+
+/usr/bin/wget -q -O /home/stmargarets/src/stmgrts/taleo/taleo_all.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_design-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_755=610"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_technical-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_755=617"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_marketing-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_755=11588%2C6158%2C616"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_operations-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_755=615%2C613%2C614"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_professional-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&keywords=professional"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_go-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_1123=1372"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/taleo_cloud-job-feed.xml "https://ch.tbe.taleo.net/CH03/ats/servlet/Rss?org=CANONICAL&cws=1&WebPage=SRCHR&WebVersion=0&_rss_version=2&CUSTOM_1123=1371"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/insights_main.xml "http://insights.ubuntu.com/feed"
+/usr/bin/wget -q  -O /home/stmargarets/src/stmgrts/taleo/phone_twitter.xml "http://ubuntu-phone.eu/tagged/Twitter/rss"
+#/usr/bin/wget -q -O /home/stmgargarets/reports/stmgrts/taleo/
+#sed -i.bak 's/via Twitter.[^<]*//g' /home/stmargarets/src/stmgrts/taleo/phone_twitter.xml
+#sed -i.bak 's/&lt;script.[^<]*//g' /home/stmargarets/src/stmgrts/taleo/phone_twitter.xml
+#sed -i.bak 's/ (January|February|March|April|March|May|June|July|August|September|October|November|December).+(?=<\/de)//g' /home/stmargarets/src/stmgrts/taleo/phone_twitter.xml
+#sed -i.bak 's/&lt;script async="" src="\/\/platform.twitter.com\/widgets.js" charset="utf-8"&gt;&lt;\/script&gt;//g' /home/stmargarets/src/stmgrts/taleo/phone_twitter.xml
+# /usr/local/bin/perl /home/stmargarets/parse_phone_twitter.pl
+/usr/bin/perl /home/stmargarets/get_insight_events.pl > /home/stmargarets/src/stmgrts/taleo/events_overview.html
