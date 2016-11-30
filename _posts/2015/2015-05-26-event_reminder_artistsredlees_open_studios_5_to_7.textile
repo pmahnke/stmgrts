@@ -8,13 +8,13 @@ date: 2015-05-26 21:49:39
 excerpt: |
     <a href="//stmargarets.london/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1.jpg" title="See larger version of - REDLEES INVITE BACK 2015 FINAL 1"><img src="//stmargarets.london/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1_thumb.jpg" width="150" height="105" alt="REDLEES INVITE BACK 2015 FINAL 1" class="photo right" /></a>
     
-    This "5 to 7 June":http://stmargarets.london/event/show/200705145010 brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
+    This "5 to 7 June":https://stmargarets.london/event/show/200705145010 brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
 
 ---
 
 <a href="//stmargarets.london/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1.jpg" title="See larger version of - REDLEES INVITE BACK 2015 FINAL 1"><img src="//stmargarets.london/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1_thumb.jpg" width="250" height="176" alt="REDLEES INVITE BACK 2015 FINAL 1" class="photo right" /></a>
 
-This "5 to 7 June":http://stmargarets.london/event/show/200705145010 brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
+This "5 to 7 June":https://stmargarets.london/event/show/200705145010 brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
 
 
 
@@ -22,7 +22,7 @@ During the week-end of June 5-7 we open our individual studios and welcome the p
 
 h4. More Information
 
-* "Friday 5 June, 6-9pm, Saturday and Sunday 6-7 June, 11-6pm.":http://stmargarets.london/event/show/200705145010
+* "Friday 5 June, 6-9pm, Saturday and Sunday 6-7 June, 11-6pm.":https://stmargarets.london/event/show/200705145010
 * Wheelchair access
 * refreshments available
 * raffle of artists' work

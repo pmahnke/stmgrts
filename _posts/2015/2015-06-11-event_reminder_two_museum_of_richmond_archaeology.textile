@@ -20,7 +20,7 @@ h4. Archaeology of the Thames
 
 <a href="//stmargarets.london/assets/images/2015/MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="//stmargarets.london/assets/images/2015/MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
 
-"Thursday July 23<sup>rd</sup> 12pm to 3pm":http://stmargarets.london/event/event/200705145027
+"Thursday July 23<sup>rd</sup> 12pm to 3pm":https://stmargarets.london/event/event/200705145027
 
 Archaeologists from the Thames Discovery Programme (an organisation which monitors archaeology on the Thames Foreshore) showing off their amazing artefacts. The dates of the artefacts range from half a million years ago to some objects from the present day. The archaeologists will demonstrate how to identify time periods through objects such as clay pipes and they will even bring a human skeleton illustration to help identify bones!
 
@@ -30,7 +30,7 @@ h4. Roman Day
 
 <a href="//stmargarets.london/assets/images/2015/MUS_RICH_ARCH_Roman-Tony.jpg" title="See larger version of - Roman Tony"><img src="//stmargarets.london/assets/images/2015/MUS_RICH_ARCH_Roman-Tony_thumb.jpg" width="150" height="150" alt="Roman Tony" class="photo right" /></a>
 
-"Saturday 25<sup>th</sup> July 12pm to 3pm":http://stmargarets.london/event/event/200705145028
+"Saturday 25<sup>th</sup> July 12pm to 3pm":https://stmargarets.london/event/event/200705145028
 
 Local historian Dr Pamela Greenwood will be inviting visitors to learn about the fascinating life of Romans. There will be Roman artefacts to explore, costumes to try on, activity sheets and even mystery objects to identify.
 

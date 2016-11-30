@@ -6,16 +6,16 @@ commentfile: 2016-01-03-event-reminder-vince-cable-paddy-o-connell
 category: around_town
 date: 2016-01-03 21:14:04
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/events/Vince-Cable-poster.jpg" title="See larger version of - Vince Cable poster"><img src="http://stmargarets.london/assets/images/events/Vince-Cable-poster_thumb.jpg" width="150" height="215" alt="Vince Cable poster" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/events/Vince-Cable-poster.jpg" title="See larger version of - Vince Cable poster"><img src="https://stmargarets.london/assets/images/events/Vince-Cable-poster_thumb.jpg" width="150" height="215" alt="Vince Cable poster" class="photo right" /></a>
 
-    Come hear Vince Cable speaking with Paddy O'Connell about the economic future of Britain at Queen Charlotte Hall, RACC Parkshot on "Tuesday, 9 February 2016 from 7.30pm to 9.00pm":http://stmargarets.london/event/event/200705145366
+    Come hear Vince Cable speaking with Paddy O'Connell about the economic future of Britain at Queen Charlotte Hall, RACC Parkshot on "Tuesday, 9 February 2016 from 7.30pm to 9.00pm":https://stmargarets.london/event/event/200705145366
 
 ---
 
-<a href="http://stmargarets.london/assets/images/events/Vince-Cable-poster.jpg" title="See larger version of - Vince Cable poster"><img src="http://stmargarets.london/assets/images/events/Vince-Cable-poster_thumb.jpg" width="250" height="358" alt="Vince Cable poster" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/events/Vince-Cable-poster.jpg" title="See larger version of - Vince Cable poster"><img src="https://stmargarets.london/assets/images/events/Vince-Cable-poster_thumb.jpg" width="250" height="358" alt="Vince Cable poster" class="photo right" /></a>
 
 
-Come hear Vince Cable speaking with Paddy O'Connell about the economic future of Britain at Queen Charlotte Hall, RACC Parkshot on "Tuesday, 9 February 2016 from 7.30pm to 9.00pm":http://stmargarets.london/event/event/200705145366
+Come hear Vince Cable speaking with Paddy O'Connell about the economic future of Britain at Queen Charlotte Hall, RACC Parkshot on "Tuesday, 9 February 2016 from 7.30pm to 9.00pm":https://stmargarets.london/event/event/200705145366
 
 Vince Cable was Business Secretary in the 2010-2015 coalition government and MP for Twickenham for 18 years.
 

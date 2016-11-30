@@ -8,7 +8,7 @@ date: 2011-10-04 18:35:52
 excerpt: |
     <a href="http://www.flickr.com/photos/mahnke/5261139833/" title="Looking up Crown Road at the 2010 Christmas Fair by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5261139833_5fdc79856a_m.jpg" width="150" alt="Looking up Crown Road at the 2010 Christmas Fair"  class="photo right" ></a>
     
-    The "St Margarets Traders Association":http://www.mystmargarets.com is delighted to announce that this year's St Margarets Christmas Fair will be held in "Crown Road St Margarets on Sunday 4<sup>th</sup> December from 11am-5pm":http://stmargarets.london/event/fair/200705143078.
+    The "St Margarets Traders Association":http://www.mystmargarets.com is delighted to announce that this year's St Margarets Christmas Fair will be held in "Crown Road St Margarets on Sunday 4<sup>th</sup> December from 11am-5pm":https://stmargarets.london/event/fair/200705143078.
     
     Please join us for a day of family fun and entertainment including:  live music, mini fun fair, children's entertainers, Santa in his Grotto, Side stalls, games and competitions, mulled wine, mince pies and traditional fayre and lot's lot's more.
 
@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="http://www.flickr.com/photos/mahnke/5261139833/" title="Looking up Crown Road at the 2010 Christmas Fair by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5261139833_5fdc79856a_m.jpg" width="150" alt="Looking up Crown Road at the 2010 Christmas Fair"  class="photo right" ></a>
 
-The "St Margarets Traders Association":http://www.mystmargarets.com is delighted to announce that this year's St Margarets Christmas Fair will be held in "Crown Road St Margarets on Sunday 4<sup>th</sup> December from 11am-5pm":http://stmargarets.london/event/fair/200705143078.
+The "St Margarets Traders Association":http://www.mystmargarets.com is delighted to announce that this year's St Margarets Christmas Fair will be held in "Crown Road St Margarets on Sunday 4<sup>th</sup> December from 11am-5pm":https://stmargarets.london/event/fair/200705143078.
 
 Please join us for a day of family fun and entertainment including:  live music, mini fun fair, children's entertainers, Santa in his Grotto, Side stalls, games and competitions, mulled wine, mince pies and traditional fayre and lot's lot's more.
 

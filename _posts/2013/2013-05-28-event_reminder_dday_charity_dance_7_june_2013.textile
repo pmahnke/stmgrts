@@ -9,7 +9,7 @@ excerpt: |
     <a href="//stmargarets.london/assets/images/2013/D-Day-Flyer-A5-single.jpg" title="See larger version of - D Day Flyer A5 single"><img src="//stmargarets.london/assets/images/2013/D-Day-Flyer-A5-single_thumb.jpg" width="150" height="105" alt="D Day Flyer A5 single" class="photo right" /></a>
     
     
-    "Friday, 7<sup>th</sup> June 2013, 7.00 - 11.30 pm":http://stmargarets.london/event/event/200705143998
+    "Friday, 7<sup>th</sup> June 2013, 7.00 - 11.30 pm":https://stmargarets.london/event/event/200705143998
     
     Raising funds for a Memorial on Twickenham Embankment to those who died in 1944 when a doodlebug caused the deaths of 11 people.
 
@@ -18,7 +18,7 @@ excerpt: |
 <a href="//stmargarets.london/assets/images/2013/D-Day-Flyer-A5-single.jpg" title="See larger version of - D Day Flyer A5 single"><img src="//stmargarets.london/assets/images/2013/D-Day-Flyer-A5-single_thumb.jpg" width="150" height="105" alt="D Day Flyer A5 single" class="photo right" /></a>
 
 
-"Friday, 7<sup>th</sup> June 2013, 7.00 - 11.30 pm":http://stmargarets.london/event/event/200705143998
+"Friday, 7<sup>th</sup> June 2013, 7.00 - 11.30 pm":https://stmargarets.london/event/event/200705143998
 
 Raising funds for a Memorial on Twickenham Embankment to those who died in 1944 when a doodlebug caused the deaths of 11 people.
 

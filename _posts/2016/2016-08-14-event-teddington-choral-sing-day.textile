@@ -6,11 +6,11 @@ commentfile: 2016-08-14-event-teddington-choral-sing-day
 category: around_town
 date: 2016-08-14 07:52:52
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/September_Sing_Day.png" title="See larger version of - September Sing Day"><img src="http://stmargarets.london/assets/images/2016/September_Sing_Day_thumb.png" width="150" height="155" alt="September Sing Day" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/September_Sing_Day.png" title="See larger version of - September Sing Day"><img src="https://stmargarets.london/assets/images/2016/September_Sing_Day_thumb.png" width="150" height="155" alt="September Sing Day" class="photo right" /></a>
 
     Why not start September with a Singing Day with Teddington Choral's Vocal Workshop with choruses from Mendelssohn's Elijah.
 ---
-<a href="http://stmargarets.london/assets/images/2016/September_Sing_Day.png" title="See larger version of - September Sing Day"><img src="http://stmargarets.london/assets/images/2016/September_Sing_Day_thumb.png" width="250" height="259" alt="September Sing Day" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/September_Sing_Day.png" title="See larger version of - September Sing Day"><img src="https://stmargarets.london/assets/images/2016/September_Sing_Day_thumb.png" width="250" height="259" alt="September Sing Day" class="photo right" /></a>
 
 Why not start September with a Singing Day with Teddington Choral's Vocal Workshop with choruses from Mendelssohn's Elijah.
 

@@ -6,13 +6,13 @@ commentfile: 2016-05-05-consultation-pavement-repair
 category: news
 date: 2016-05-05 10:27:19
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/pavement_fund.jpg" title="See larger version of - pavement fund"><img src="http://stmargarets.london/assets/images/2016/pavement_fund_thumb.jpg" width="150" height="107" alt="pavement fund" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/pavement_fund.jpg" title="See larger version of - pavement fund"><img src="https://stmargarets.london/assets/images/2016/pavement_fund_thumb.jpg" width="150" height="107" alt="pavement fund" class="photo right" /></a>
 
     Residents concerned about the state of pavements in their local area can now nominate them for repair until 17 June 2016.
 
 ---
 
-<a href="http://stmargarets.london/assets/images/2016/pavement_fund.jpg" title="See larger version of - pavement fund"><img src="http://stmargarets.london/assets/images/2016/pavement_fund_thumb.jpg" width="250" height="179" alt="pavement fund" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/pavement_fund.jpg" title="See larger version of - pavement fund"><img src="https://stmargarets.london/assets/images/2016/pavement_fund_thumb.jpg" width="250" height="179" alt="pavement fund" class="photo right" /></a>
 
 Residents concerned about the state of pavements in their local area can now nominate them for repair until 17 June 2016.
 
@@ -20,4 +20,4 @@ In our local Residents Survey, people highlighted that the condition of pavement
 
 Funding will be directed to pavements that receive the most nominations and fulfil the greatest community need.
 
-For more information and to nominate please go to the "Community Pavements webpage":http://stmargarets.london/l/qenCw
+For more information and to nominate please go to the "Community Pavements webpage":https://stmargarets.london/l/qenCw

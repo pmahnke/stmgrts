@@ -21,11 +21,11 @@ excerpt: |
 The Nomad and The Royal Parks invite you to an unprecedented season of outdoor cinema, screening classics and cult favourites in beautiful surroundings, under the stars, with special guests, live music and theatre and a few more surprises along the way...
 
 <ul>
-<li><a href="http://stmargarets.london/event/show/200705142861">Raiders of the Lost Ark</a><br />Wednesday, 31 August 6:30pm
+<li><a href="https://stmargarets.london/event/show/200705142861">Raiders of the Lost Ark</a><br />Wednesday, 31 August 6:30pm
 </li>
-<li><a href="http://stmargarets.london/event/show/200705142862">E.T. - The Extra-Terrestrial</a><br />Thursday, 1 September 6:30pm
+<li><a href="https://stmargarets.london/event/show/200705142862">E.T. - The Extra-Terrestrial</a><br />Thursday, 1 September 6:30pm
 </li>
-<li><a href="http://stmargarets.london/event/show/200705142863">The African Queen</a><br />Friday, 2 September 6:30pm
+<li><a href="https://stmargarets.london/event/show/200705142863">The African Queen</a><br />Friday, 2 September 6:30pm
 </li>
 </ul>
 

@@ -8,7 +8,7 @@ date: 2012-11-08 11:04:55
 excerpt: |
     <a href="//stmargarets.london/assets/images/2012/EsterConcert1stDecember.jpg" title="See larger version of - Concert poster"><img src="//stmargarets.london/assets/images/2012/EsterConcert1stDecember_thumb.jpg" width="150" height="212" alt="Concert poster" class="photo right" /></a>
     
-    St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for "an evening with classical music and poetry":http://stmargarets.london/event/concert/200705143681 on 1 December 2012.
+    St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for "an evening with classical music and poetry":https://stmargarets.london/event/concert/200705143681 on 1 December 2012.
     
     Come and enjoy with us pieces by Handel, Bach, Mozart, Gounod, Enesco, Saint-Sa&#235;ns, Caplet and more...
     
@@ -19,7 +19,7 @@ excerpt: |
 
 "The David Adams Leukaemia Appeal Fund":http://www.davidadamsleukemiaappeal.org is a small charity based in St Margarets, Twickenham, which raises &pound;150,000 - &pound;200,000 every year for The Royal Marsden Cancer Hospital.
 
-St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for "an evening with classical music and poetry":http://stmargarets.london/event/concert/200705143681 on 1 December 2012.
+St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for "an evening with classical music and poetry":https://stmargarets.london/event/concert/200705143681 on 1 December 2012.
 
 Come and enjoy with us pieces by Handel, Bach, Mozart, Gounod, Enesco, Saint-Sa&#235;ns, Caplet and more...
 

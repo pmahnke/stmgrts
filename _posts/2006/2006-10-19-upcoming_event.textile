@@ -10,7 +10,7 @@ date: 2006-10-19 23:11:55
 
 <a href="//stmargarets.london/assets/images/2006/booknow2006.jpg"><img src="//stmargarets.london/assets/images/2006/booknow2006-thumb.jpg" width="141" height="300" alt="Book Now logo" class="photo right" /></a>
 
-In its fifteenth year, the "Book Now Literature Festival":http://stmargarets.london/directory/art/200610191449 returns to the London Borough of Richmond upon Thames from 4-28 November.  
+In its fifteenth year, the "Book Now Literature Festival":https://stmargarets.london/directory/art/200610191449 returns to the London Borough of Richmond upon Thames from 4-28 November.  
 
 The festival will host a range of talents in both established and exciting new venues: 
 

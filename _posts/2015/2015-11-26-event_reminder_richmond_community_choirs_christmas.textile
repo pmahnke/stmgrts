@@ -8,7 +8,7 @@ date: 2015-11-26 07:58:43
 excerpt: |
     <a href="//stmargarets.london/assets/images/2015/Christmas2015_Richmond_Comm_Choir.jpg" title="See larger version of - Christmas2015 Richmond Comm Choir"><img src="//stmargarets.london/assets/images/2015/Christmas2015_Richmond_Comm_Choir_thumb.jpg" width="150" height="213" alt="Christmas2015 Richmond Community Choir" class="photo right" /></a>
     
-    Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, "at 7.30pm on 10 December 2015":http://stmargarets.london/event/concert/200705145279 at the Church of St John the Divine, Kew Road, Richmond.
+    Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, "at 7.30pm on 10 December 2015":https://stmargarets.london/event/concert/200705145279 at the Church of St John the Divine, Kew Road, Richmond.
 
 ---
 
@@ -16,7 +16,7 @@ excerpt: |
 
 _with the Martineau Brass Quintet_
 
-Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, "at 7.30pm on 10 December 2015":http://stmargarets.london/event/concert/200705145279 at the Church of St John the Divine, Kew Road, Richmond.
+Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, "at 7.30pm on 10 December 2015":https://stmargarets.london/event/concert/200705145279 at the Church of St John the Divine, Kew Road, Richmond.
 
 h4. More Information
 

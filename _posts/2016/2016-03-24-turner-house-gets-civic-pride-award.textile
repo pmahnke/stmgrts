@@ -6,11 +6,11 @@ commentfile: 2016-03-24-turner-house-gets-civic-pride-award
 category: news
 date: 2016-03-24 21:30:32
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="http://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="150" height="86" alt="Turners Sandycombe Lodge" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="https://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="150" height="86" alt="Turners Sandycombe Lodge" class="photo right" /></a>
 
     The London Borough of Richmond upon Thames has bestowed a Civic Pride Award of &pound;5,000 to enable Turner's House Trust to have its collection of prints, drawings, watercolours and oils professionally catalogued.
 ---
-<a href="http://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="http://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="250" height="143" alt="Turners Sandycombe Lodge" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="https://stmargarets.london/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="250" height="143" alt="Turners Sandycombe Lodge" class="photo right" /></a>
 
 The London Borough of Richmond upon Thames has bestowed a Civic Pride Award of &pound;5,000 to enable Turner's House Trust to have its collection of prints, drawings, watercolours and oils professionally catalogued.
 

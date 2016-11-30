@@ -8,13 +8,13 @@ date: 2011-10-13 08:58:57
 excerpt: |
     <img src="//stmargarets.london/assets/images/2011/shapeimage_1.png" width="150" alt="Illustration from Wind in the WIllows"  class="photo right"  />
     
-    Q2 Players will present _The Wind in the Willows_ by Alan Bennett, based on the book by Kenneth Graham on "1<sup>st</sup> and 2<sup>nd</sup> December at 8pm as well as 2.30 and 7pm on Saturday 3<sup>rd</sup> December":http://stmargarets.london/event/play/200705143101 (note earlier, family-friendly evening performance on Saturday) in the Alexandra Room, St. Luke's in the Avenue, The Avenue, Kew.
+    Q2 Players will present _The Wind in the Willows_ by Alan Bennett, based on the book by Kenneth Graham on "1<sup>st</sup> and 2<sup>nd</sup> December at 8pm as well as 2.30 and 7pm on Saturday 3<sup>rd</sup> December":https://stmargarets.london/event/play/200705143101 (note earlier, family-friendly evening performance on Saturday) in the Alexandra Room, St. Luke's in the Avenue, The Avenue, Kew.
 
 ---
 
 <img src="//stmargarets.london/assets/images/2011/shapeimage_1.png" width="150" alt="Illustration from Wind in the WIllows"  class="photo right"  />
 
-"Q2 Players":http://www.q2players.org.uk/Q2_Players/40th_Anniversary.html will present _The Wind in the Willows_ by Alan Bennett, based on the book by Kenneth Graham on "1<sup>st</sup> and 2<sup>nd</sup> December at 8pm as well as 2.30 and 7pm on Saturday 3<sup>rd</sup> December":http://stmargarets.london/event/play/200705143101 (note earlier, family-friendly evening performance on Saturday) in the Alexandra Room, St. Luke's in the Avenue, The Avenue, Kew.
+"Q2 Players":http://www.q2players.org.uk/Q2_Players/40th_Anniversary.html will present _The Wind in the Willows_ by Alan Bennett, based on the book by Kenneth Graham on "1<sup>st</sup> and 2<sup>nd</sup> December at 8pm as well as 2.30 and 7pm on Saturday 3<sup>rd</sup> December":https://stmargarets.london/event/play/200705143101 (note earlier, family-friendly evening performance on Saturday) in the Alexandra Room, St. Luke's in the Avenue, The Avenue, Kew.
 
 Helen Smith directs this exciting play by Alan Bennett. Full of wit and humour, this show will appeal to theatre lovers of all ages.
 

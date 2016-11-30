@@ -12,7 +12,7 @@ excerpt: |
     
     Present...
     
-    "*The St Margarets' Christmas Fair*":http://stmargarets.london/event/fair/200705142248
+    "*The St Margarets' Christmas Fair*":https://stmargarets.london/event/fair/200705142248
     
     _Sunday 6<sup>th</sup> December_
     
@@ -28,7 +28,7 @@ The St Margarets Traders Association
 
 Present...
 
-"*The St Margarets' Christmas Fair*":http://stmargarets.london/event/fair/200705142248
+"*The St Margarets' Christmas Fair*":https://stmargarets.london/event/fair/200705142248
 
 _Sunday 6<sup>th</sup> December_
 

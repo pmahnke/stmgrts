@@ -9,7 +9,7 @@ excerpt: |
     <a href="//stmargarets.london/assets/images/2009/trynordic.jpg"><img src="//stmargarets.london/assets/images/2009/trynordic-thumb.jpg" width="150" height="112" alt="Try Nordic Walking comes to Richmond" class="photo right" /></a>
     
     
-    "Nordic Walking":http://stmargarets.london/directory/sports/200903060340 evolved in the 1930's by cross-country skiers who wanted to retain their fitness during the summer months.
+    "Nordic Walking":https://stmargarets.london/directory/sports/200903060340 evolved in the 1930's by cross-country skiers who wanted to retain their fitness during the summer months.
     
     Suitable for all abilities, this is an excellent activity and a great way to get fit. Supporting all the joints and burning 46% more calories than normal walking, toning the upper and lower body as you learn the technique. Each session lasts 90 minutes and all equipment supplied.
     
@@ -19,7 +19,7 @@ excerpt: |
 <a href="//stmargarets.london/assets/images/2009/trynordic.jpg"><img src="//stmargarets.london/assets/images/2009/trynordic-thumb.jpg" width="150" height="112" alt="Try Nordic Walking comes to Richmond" class="photo right" /></a>
 
 
-"Nordic Walking":http://stmargarets.london/directory/sports/200903060340 evolved in the 1930's by cross-country skiers who wanted to retain their fitness during the summer months.
+"Nordic Walking":https://stmargarets.london/directory/sports/200903060340 evolved in the 1930's by cross-country skiers who wanted to retain their fitness during the summer months.
 
 Suitable for all abilities, this is an excellent activity and a great way to get fit. Supporting all the joints and burning 46% more calories than normal walking, toning the upper and lower body as you learn the technique. Each session lasts 90 minutes and all equipment supplied.
 

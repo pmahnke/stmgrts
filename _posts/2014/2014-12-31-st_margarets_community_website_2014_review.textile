@@ -18,13 +18,13 @@ As 2014 comes to a close, we wanted to share some quick stats on the year that's
 h3. Articles and events
 
 |Category|Number|
-|"around town":http://stmargarets.london/archives/around_town/index.html| 180|
-|"news":http://stmargarets.london/archives/news/index.html| 67|
-|"editorial":http://stmargarets.london/archives/editorial/index.html| 3|
-|"events":http://stmargarets.london/event| 1,065|
+|"around town":https://stmargarets.london/archives/around_town/index.html| 180|
+|"news":https://stmargarets.london/archives/news/index.html| 67|
+|"editorial":https://stmargarets.london/archives/editorial/index.html| 3|
+|"events":https://stmargarets.london/event| 1,065|
 |*total*| 1,315|
 
-Not to mention "42 newsletters":http://stmargarets.london/cgi-bin/newsletter.cgi
+Not to mention "42 newsletters":https://stmargarets.london/cgi-bin/newsletter.cgi
 
 
 
@@ -32,26 +32,26 @@ h4. Top 20 Articles
 
 Here are the top 20 articles read in 2014.  Many of them were written before 2014, but because of search engines, have a long life (tail).
 
-# "The Brentford Griffin and Other Mysteries":http://stmargarets.london/archives/2009/05/the_brentford_griffin_and_other_mysteries.html - 7,424
-# "Richmond Council Flooding Update - 14 February 2014":http://stmargarets.london/archives/2014/02/richmond_council_flooding_update_14_february_2014.html - 2,214
-# "The Three Chord Trick Explained":http://stmargarets.london/archives/2009/03/the_three_chord_trick_explained.html - 2,194
-# "The Sad Story of Sweet Fanny Adams":http://stmargarets.london/archives/2010/12/the_sad_story_of_sweet_fanny_adams.html - 1,838
-# "The Ghost on Richmond Green":http://stmargarets.london/archives/2010/09/the_ghost_on_richmond_green.html - 1,819
-# "Planning: Lidl Supermarket and Travelodge in East Twickenham":http://stmargarets.london/archives/2012/05/planning_lidl_supermarket_and_travelodge_in_east_t.html - 1,702
-# "The Urban Fox":http://stmargarets.london/archives/2014/09/the_urban_fox.html - 1,676
-# "The Temporary Rules of Golf":http://stmargarets.london/archives/2012/02/the_temporary_rules_of_golf.html - 1,594
-# "7 January 1928 - The Day That St Margarets Flooded":http://stmargarets.london/archives/2011/10/7_january_1928_the_day_that_st_margarets_flooded.html - 1,556
-# "Bogus Charity Collecting on Thursday 13 May":http://stmargarets.london/archives/2010/05/bogus_charity_collecting_on_thursday_13_may.html - 1,361
-# "'Bloody Belgians' in St Margarets in the First World War":http://stmargarets.london/archives/2014/03/bloody_belgians_in_st_margarets_in_the_first_world.html - 1,331
-# "Lidl in East Twickenham":http://stmargarets.london/archives/2014/11/lidl_in_east_twickenham.html - 1,299
-# "My Adventures in Time and Space":http://stmargarets.london/archives/2013/11/my_adventures_in_time_and_space.html - 1,293
-# "3 February 1959 - The Day The Music Died":http://stmargarets.london/archives/2013/01/3_february_1959_the_day_the_music_died.html - 1,288
-# "Queen Elizabeth's Ghost":http://stmargarets.london/archives/2011/03/queen_elizabeths_ghost.html - 1,261
-# "TFL Consultation on A316 St Margarets Crossing":http://stmargarets.london/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html - 1,243
-# "The Crane Park Shot Tower":http://stmargarets.london/archives/2009/11/the_crane_park_shot_tower.html - 1,182
-# "The Disgraceful Affair at Hounslow":http://stmargarets.london/archives/2010/01/the_disgraceful_affair_at_hounslow.html - 1,154
-# "Christmas Day in the Workhouse":http://stmargarets.london/archives/2012/12/christmas_day_in_the_workhouse.html - 1,153
-# "The Turning of the Tide - Richmond Lock":http://stmargarets.london/archives/2011/05/the_turning_of_the_tide_richmond_lock.html - 1,002
+# "The Brentford Griffin and Other Mysteries":https://stmargarets.london/archives/2009/05/the_brentford_griffin_and_other_mysteries.html - 7,424
+# "Richmond Council Flooding Update - 14 February 2014":https://stmargarets.london/archives/2014/02/richmond_council_flooding_update_14_february_2014.html - 2,214
+# "The Three Chord Trick Explained":https://stmargarets.london/archives/2009/03/the_three_chord_trick_explained.html - 2,194
+# "The Sad Story of Sweet Fanny Adams":https://stmargarets.london/archives/2010/12/the_sad_story_of_sweet_fanny_adams.html - 1,838
+# "The Ghost on Richmond Green":https://stmargarets.london/archives/2010/09/the_ghost_on_richmond_green.html - 1,819
+# "Planning: Lidl Supermarket and Travelodge in East Twickenham":https://stmargarets.london/archives/2012/05/planning_lidl_supermarket_and_travelodge_in_east_t.html - 1,702
+# "The Urban Fox":https://stmargarets.london/archives/2014/09/the_urban_fox.html - 1,676
+# "The Temporary Rules of Golf":https://stmargarets.london/archives/2012/02/the_temporary_rules_of_golf.html - 1,594
+# "7 January 1928 - The Day That St Margarets Flooded":https://stmargarets.london/archives/2011/10/7_january_1928_the_day_that_st_margarets_flooded.html - 1,556
+# "Bogus Charity Collecting on Thursday 13 May":https://stmargarets.london/archives/2010/05/bogus_charity_collecting_on_thursday_13_may.html - 1,361
+# "'Bloody Belgians' in St Margarets in the First World War":https://stmargarets.london/archives/2014/03/bloody_belgians_in_st_margarets_in_the_first_world.html - 1,331
+# "Lidl in East Twickenham":https://stmargarets.london/archives/2014/11/lidl_in_east_twickenham.html - 1,299
+# "My Adventures in Time and Space":https://stmargarets.london/archives/2013/11/my_adventures_in_time_and_space.html - 1,293
+# "3 February 1959 - The Day The Music Died":https://stmargarets.london/archives/2013/01/3_february_1959_the_day_the_music_died.html - 1,288
+# "Queen Elizabeth's Ghost":https://stmargarets.london/archives/2011/03/queen_elizabeths_ghost.html - 1,261
+# "TFL Consultation on A316 St Margarets Crossing":https://stmargarets.london/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html - 1,243
+# "The Crane Park Shot Tower":https://stmargarets.london/archives/2009/11/the_crane_park_shot_tower.html - 1,182
+# "The Disgraceful Affair at Hounslow":https://stmargarets.london/archives/2010/01/the_disgraceful_affair_at_hounslow.html - 1,154
+# "Christmas Day in the Workhouse":https://stmargarets.london/archives/2012/12/christmas_day_in_the_workhouse.html - 1,153
+# "The Turning of the Tide - Richmond Lock":https://stmargarets.london/archives/2011/05/the_turning_of_the_tide_richmond_lock.html - 1,002
 
 h4. Twitter
 
@@ -80,7 +80,7 @@ One trend we have been watching is how many people are now using the site on pho
 |desktop|59.63%|-10.83%|
 
 
-Well, hope you have a great 2015 and if you want to write an article or promote that local event, please "get in touch":http://stmargarets.london/contact
+Well, hope you have a great 2015 and if you want to write an article or promote that local event, please "get in touch":https://stmargarets.london/contact
 
 
 

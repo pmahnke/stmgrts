@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="//stmargarets.london/assets/images/2015/St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="//stmargarets.london/assets/images/2015/St_Mags_Fair_thumb.jpg" width="250" height="214" alt="St Mags Fair" class="photo right" /></a>
 
-"Saturday, 11 July 2015 from 12 to 7.30pm in Moormead Park.":http://stmargarets.london/event/fair/200705144924
+"Saturday, 11 July 2015 from 12 to 7.30pm in Moormead Park.":https://stmargarets.london/event/fair/200705144924
 
 On a spring evening in the late 70's after the Queen's Jubilee, over a drink at the Turks Head pub, a group of friends had the idea of creating an event on the nearby Moormead recreation ground which would provide a grand party for the local community, and at the same time raise money for various charities.
 

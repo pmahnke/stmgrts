@@ -7,11 +7,11 @@ category: around_town
 author: Martyn Day
 date: 2016-03-24 21:21:52
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen.jpg" title="See larger version of - Anne frank memorial bergen belsen"><img src="http://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg" width="150" height="95" alt="Anne frank memorial bergen belsen" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen.jpg" title="See larger version of - Anne frank memorial bergen belsen"><img src="https://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg" width="150" height="95" alt="Anne frank memorial bergen belsen" class="photo right" /></a>
 
     Here is a little more about the soldier who drove the bulldozer at Bergen-Belsen concentration camp at the time of its liberation - April 15<sup>th</sup> 1945.
 ---
-<a href="http://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen.jpg" title="See larger version of - Anne frank memorial bergen belsen"><img src="http://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg" width="250" height="158" alt="Anne frank memorial bergen belsen" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen.jpg" title="See larger version of - Anne frank memorial bergen belsen"><img src="https://stmargarets.london/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg" width="250" height="158" alt="Anne frank memorial bergen belsen" class="photo right" /></a>
 
 Here is a little more about the soldier who drove the bulldozer at Bergen-Belsen concentration camp at the time of its liberation - April 15<sup>th</sup> 1945.  His name was Frank Chapman 14322433.  He was 21 years old and a Sapper in the Royal Engineers, 619 Field Park Company.
 

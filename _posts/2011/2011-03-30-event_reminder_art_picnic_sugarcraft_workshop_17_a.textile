@@ -10,7 +10,7 @@ excerpt: |
     
     With Sugar crafter Danielle Armstrong
     
-    "Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmargarets.london/event/event/200705142765
+    "Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":https://stmargarets.london/event/event/200705142765
     
     During the workshop you will learn how to make miniature roses, spring flowers and Easter themed decorations such as bunnies and decorative hearts.  Cupcakes will be provided for you to decorate during the day.
     
@@ -24,7 +24,7 @@ excerpt: |
 
 With Sugar crafter Danielle Armstrong
 
-"Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":http://stmargarets.london/event/event/200705142765
+"Learn how to make Spring flowers from Sugar and decorate Easter cupcakes":https://stmargarets.london/event/event/200705142765
 
 During the workshop you will learn how to make miniature roses, spring flowers and Easter themed decorations such as bunnies and decorative hearts.  Cupcakes will be provided for you to decorate during the day.
 

@@ -8,7 +8,7 @@ date: 2015-02-25 06:41:09
 excerpt: |
     <a href="//stmargarets.london/assets/images/2015/zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="//stmargarets.london/assets/images/2015/zoffany_poster_thumb.jpg" width="150" height="203" alt="zoffany poster" class="photo right" /></a>
     
-    A talk by art historian David Wilson. "Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.":http://stmargarets.london/event/event/200705144893 Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
+    A talk by art historian David Wilson. "Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.":https://stmargarets.london/event/event/200705144893 Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
 
 ---
 
@@ -18,7 +18,7 @@ _Johan Zoffany RA painting brings eighteenth century Richmond to life._
 
 This is a story of artistic supremacy and commercial success, family dynasty, topographical and architectural splendour, and royal connection, involving two British kings.
 
-A talk by art historian David Wilson. "Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.":http://stmargarets.london/event/event/200705144893 Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
+A talk by art historian David Wilson. "Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.":https://stmargarets.london/event/event/200705144893 Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
 
 "It will be fascinating to learn more about this eighteenth century artist's connection to Richmond." says The Museum of Richmond Curator Natascha Wintersinger.
 
