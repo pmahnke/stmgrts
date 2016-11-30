@@ -8,7 +8,7 @@ date: 2014-07-10 23:03:44
 excerpt: |
     <a href="//stmargarets.london/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="//stmargarets.london/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="150" height="214" alt="St Margarets Fair coming soon 2014" class="photo right" /></a>
     
-    Don't miss the "highlight of the summer":http://stmargarets.london/event/fair/200705144148.
+    Don't miss the "highlight of the summer":https://stmargarets.london/event/fair/200705144148.
     
     <ul>
     <li>a full <a href="http://www.stmargaretsfair.org/schedule.html">programme</a> of entertainment throughout the day,</li>
@@ -23,7 +23,7 @@ excerpt: |
 
 <a href="//stmargarets.london/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="//stmargarets.london/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="250" height="356" alt="St Margarets Fair comingsoon 2014" class="photo right" /></a>
 
-Don't miss the "highlight of the summer":http://stmargarets.london/event/fair/200705144148.
+Don't miss the "highlight of the summer":https://stmargarets.london/event/fair/200705144148.
 
 <ul>
 <li>a full <a href="http://www.stmargaretsfair.org/schedule.html">programme</a> of entertainment throughout the day,</li>

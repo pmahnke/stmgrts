@@ -1,7 +1,0 @@
-#!/bin/sh
-
-/usr/bin/wget -q "http://stmargarets.london/cgi-bin/events.cgi?action=include&count=5&type=play&ModPagespeed=off" -O /home/stmargarets/html/includes/homepage_event_play.incl
-/usr/bin/wget -q "http://stmargarets.london/cgi-bin/weather_current.cgi?station=EGLL&bst=1&ModPagespeed=off" -O /home/stmargarets/html/includes/homepage_weather.incl
-/usr/bin/wget -q "http://stmargarets.london/cgi-bin/events.cgi?action=include&count=8&ModPagespeed=off" -O /home/stmargarets/html/includes/homepage_events.incl
-/usr/bin/wget -q "http://stmargarets.london/forum.cgi?a=homepage&ModPagespeed=off" -O /home/stmargarets/html/includes/homepage_forum.incl
-/usr/bin/wget -q "http://stmargarets.london/cgi-bin/stmgrts_twitter.cgi?twitter=stmgrts&count=3&ModPagespeed=off" -O /home/stmargarets/html/includes/homepage_twitter.incl

@@ -12,7 +12,7 @@ date: 2012-04-01 10:40:04
 
 _Let Your Heart Sing!_
 
-"Sunday 13<sup>th</sup> May from 11 am to 4 pm":http://stmargarets.london/event/event/200705143210
+"Sunday 13<sup>th</sup> May from 11 am to 4 pm":https://stmargarets.london/event/event/200705143210
 
 Come and sing with us in the beautiful Victorian Normansfield Theatre
 ("www.langdondowncentre.org.uk":http://www.langdondowncentre.org.uk off Kingston Rd, Teddington, TW11 9PS)

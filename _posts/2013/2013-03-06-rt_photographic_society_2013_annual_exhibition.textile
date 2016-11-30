@@ -8,13 +8,13 @@ date: 2013-03-06 17:07:20
 excerpt: |
     <a href="//stmargarets.london/assets/images/2013/RTPS-Exhibition-Poster-2013.jpg" title="See larger version of - RTPS Exhibition Poster 2013"><img src="//stmargarets.london/assets/images/2013/RTPS-Exhibition-Poster-2013_thumb.jpg" width="150" height="213" alt="RTPS Exhibition Poster 2013" class="photo right" /></a>
     
-    The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 20 March to 1 April":http://stmargarets.london/event/show/200705143808.
+    The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 20 March to 1 April":https://stmargarets.london/event/show/200705143808.
 
 ---
 
 <a href="//stmargarets.london/assets/images/2013/RTPS-Exhibition-Poster-2013.jpg" title="See larger version of - RTPS Exhibition Poster 2013"><img src="//stmargarets.london/assets/images/2013/RTPS-Exhibition-Poster-2013_thumb.jpg" width="150" height="213" alt="RTPS Exhibition Poster 2013" class="photo right" /></a>
 
-The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 20 March to 1 April":http://stmargarets.london/event/show/200705143808.
+The Richmond & Twickenham Photographic Society are holding their annual exhibition at "The Landmark Arts Centre in Teddington, from 20 March to 1 April":https://stmargarets.london/event/show/200705143808.
 
 The exhibition will include fine art photographs and projected digital images produced by members of the Society.  Also on display will be the Royal Photographic Society's Visual Art Group 2013 Print Exhibition and a selection of images by GCSE pupils from St Catherine's School for Girls, in Twickenham.
 

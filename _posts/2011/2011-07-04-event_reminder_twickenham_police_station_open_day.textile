@@ -10,7 +10,7 @@ date: 2011-07-04 19:18:29
 
 _Public invited to Open Day at Twickenham Police Station by Borough Commander_
 
-People of all ages are invited to an Open Day being held at Twickenham Police Station from "10am to 4pm on Sunday 10 July 2011":http://stmargarets.london/event/event/200705142857.   Officers from eight police units are scheduled to attend the event (subject to operational demands), to talk to visitors and give demonstrations. These are:
+People of all ages are invited to an Open Day being held at Twickenham Police Station from "10am to 4pm on Sunday 10 July 2011":https://stmargarets.london/event/event/200705142857.   Officers from eight police units are scheduled to attend the event (subject to operational demands), to talk to visitors and give demonstrations. These are:
 
 * Mounted Branch
 * The Dog Support Unit
@@ -27,7 +27,7 @@ The Youth Offending Team will be taking young visitors' photos and fingerprints 
 
 h4. More details
 
-* "website":http://stmargarets.london/l/QSPeU
+* "website":https://stmargarets.london/l/QSPeU
 * Entry is free.
 * Last visitors will be admitted at 3.30pm.
 * Children must be accompanied by an adult.

@@ -8,7 +8,7 @@ date: 2013-06-06 22:10:17
 excerpt: |
     <a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
     
-    The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":http://stmargarets.london/event/fair/200705143841
+    The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":https://stmargarets.london/event/fair/200705143841
     
     Crown Road is being turned into My St Margarets Farm for the day, and there will be real-life farmyard animals for children of all ages to meet.
 
@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
 
-The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":http://stmargarets.london/event/fair/200705143841
+The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":https://stmargarets.london/event/fair/200705143841
 
 Crown Road is being turned into My St Margarets Farm for the day, and there will be real-life farmyard animals for children of all ages to meet.
 

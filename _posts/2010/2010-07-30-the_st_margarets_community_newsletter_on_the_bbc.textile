@@ -11,7 +11,7 @@ excerpt: |
     
     h3. Ziggy Stardust Came From Isleworth
     
-    On the 23<sup>rd</sup> April 2009 the _St Margarets Community Website_ carried "an article about Vince Taylor":http://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html, a 1960's rock 'n' roll singer born in Isleworth.  After enjoying some moderate success in France Vince fell victim to the powerful psychedelic drug LSD. During his struggle to hold his mind and his failing career together Vince meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
+    On the 23<sup>rd</sup> April 2009 the _St Margarets Community Website_ carried "an article about Vince Taylor":https://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html, a 1960's rock 'n' roll singer born in Isleworth.  After enjoying some moderate success in France Vince fell victim to the powerful psychedelic drug LSD. During his struggle to hold his mind and his failing career together Vince meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
 
 ---
 
@@ -20,7 +20,7 @@ excerpt: |
 
 h3. Ziggy Stardust Came From Isleworth
 
-On the 23<sup>rd</sup> April 2009 the _St Margarets Community Website_ carried "an article about Vince Taylor":http://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html, a 1960's rock 'n' roll singer born in Isleworth.  After enjoying some moderate success in France Vince fell victim to the powerful psychedelic drug LSD. During his struggle to hold his mind and his failing career together Vince meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
+On the 23<sup>rd</sup> April 2009 the _St Margarets Community Website_ carried "an article about Vince Taylor":https://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html, a 1960's rock 'n' roll singer born in Isleworth.  After enjoying some moderate success in France Vince fell victim to the powerful psychedelic drug LSD. During his struggle to hold his mind and his failing career together Vince meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
 
 bq. "Vince Taylor was the inspiration for Ziggy. Vince Taylor was a rock n roll star from the Sixties who was slowly going crazy... He always stayed in my mind as an example of what can happen in rock n roll... it seemed very appealing: Oh, I'd love to end up like that, totally nuts."
 

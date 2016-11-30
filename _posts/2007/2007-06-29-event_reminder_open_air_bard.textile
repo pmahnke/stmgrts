@@ -11,7 +11,7 @@ date: 2007-06-29 11:39:05
 <a href="//stmargarets.london/assets/images/2007/comedyoferrors.jpg"><img src="//stmargarets.london/assets/images/2007/comedyoferrors-thumb.jpg" width="150" height="99" alt="Jo Meredith and Raif Watts in Time, the show's opening sequence." class="photo right" /></a>
 
 
-See Shakespeare's madcap "Comedy of Errors":http://stmargarets.london/event/play/200705141659 on the sunken lawn at Twickenham's "York House":http://stmargarets.london/directory/historic%20house/200508171541 in the latest production from the Richmond Shakespeare Society, a perfect way to enjoy the fun and frolic of Shakespeare's shortest comedy on a balmy summer's evening.
+See Shakespeare's madcap "Comedy of Errors":https://stmargarets.london/event/play/200705141659 on the sunken lawn at Twickenham's "York House":https://stmargarets.london/directory/historic%20house/200508171541 in the latest production from the Richmond Shakespeare Society, a perfect way to enjoy the fun and frolic of Shakespeare's shortest comedy on a balmy summer's evening.
 
 The play, the Bard's shortest, and one of his most farcical, tells of two sets of twins separated as babies by a shipwreck. One pair ended up in Syracuse, the other in Ephesus where the play is set.
 

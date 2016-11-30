@@ -24,7 +24,7 @@ h4. More Information
 
 * To see the full festival line-up please visit "www.richmondliterature.com":http://www.richmondliterature.com
 * Book tickets, or call 020 8831 6494
-* "St Margarets Community Website event listings":http://stmargarets.london/directory/art/200610191449
+* "St Margarets Community Website event listings":https://stmargarets.london/directory/art/200610191449
 
 
 

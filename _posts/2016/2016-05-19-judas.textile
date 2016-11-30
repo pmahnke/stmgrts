@@ -7,12 +7,12 @@ category: around_town
 author: "Martyn Day"
 date: 2016-05-19 19:08:24
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/Dylan_Poster.jpg" title="See larger version of - Dylan Poster"><img src="http://stmargarets.london/assets/images/2016/Dylan_Poster_thumb.jpg" width="150" height="210" alt="Dylan Poster" class="photo right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/Dylan_Poster.jpg" title="See larger version of - Dylan Poster"><img src="https://stmargarets.london/assets/images/2016/Dylan_Poster_thumb.jpg" width="150" height="210" alt="Dylan Poster" class="photo right" /></a>
 
     We mark our lives with memories of events. They are like milestones fixed with dates and locations - each one a significant part of the calendar of our own existence.
 ---
 
-<a href="http://stmargarets.london/assets/images/2016/Dylan_Poster.jpg" title="See larger version of - Dylan Poster"><img src="http://stmargarets.london/assets/images/2016/Dylan_Poster_thumb.jpg" width="250" height="350" alt="Dylan Poster" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Dylan_Poster.jpg" title="See larger version of - Dylan Poster"><img src="https://stmargarets.london/assets/images/2016/Dylan_Poster_thumb.jpg" width="250" height="350" alt="Dylan Poster" class="photo right" /></a>
 
 <pre class="poem">
 Sexual intercourse began
@@ -27,21 +27,21 @@ And the Beatles' first LP.
 We mark our lives with memories of events. They are like milestones fixed with dates and locations - each one a significant part of the calendar of our own existence.
 
 
-<a href="http://stmargarets.london/assets/images/2016/free_trade_hall_ticket.jpg" title="See larger version of - free trade hall ticket"><img src="http://stmargarets.london/assets/images/2016/free_trade_hall_ticket_thumb.jpg" width="250" height="190" alt="free trade hall ticket" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/free_trade_hall_ticket.jpg" title="See larger version of - free trade hall ticket"><img src="https://stmargarets.london/assets/images/2016/free_trade_hall_ticket_thumb.jpg" width="250" height="190" alt="free trade hall ticket" class="photo right" /></a>
 
 One such event passed us this week, the 50<sup>th</sup> anniversary of when a man stood up in the audience at Manchester's Free Trade Hall on Tuesday 17<sup>th</sup> May 1966 and shouted out <em>"Judas!"</em>
 
 When Bob Dylan (a.k.a Robert Allen Zimmerman born Duluth Minnesota 24<sup>th</sup> May 1941) first started playing he was into rock and roll music and particularly the pounding riffs of Little Richard. At Hibbing High School he played with the <em>'Golden Chords'</em> group and once at the school talent show performing <em>"Rock and Roll is here to stay"</em> by Danny and the Juniors the head teacher unplugged them because he thought they were too loud. In September 1959 our Bob enrolled at the University of Minnesota and began to take an interest in American folk music...
 
 
-<a href="http://stmargarets.london/assets/images/2016/Dylan_at_Free_Trade_Hall.jpg" title="See larger version of - Dylan at Free Trade Hall"><img src="http://stmargarets.london/assets/images/2016/Dylan_at_Free_Trade_Hall_thumb.jpg" width="250" height="211" alt="Dylan at Free Trade Hall" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Dylan_at_Free_Trade_Hall.jpg" title="See larger version of - Dylan at Free Trade Hall"><img src="https://stmargarets.london/assets/images/2016/Dylan_at_Free_Trade_Hall_thumb.jpg" width="250" height="211" alt="Dylan at Free Trade Hall" class="photo right" /></a>
 
 
 ...The thing about rock'n'roll is that for me anyway it wasn't enough... There were great catch-phrases and driving pulse rhythms... but the songs weren't serious or didn't reflect life in a realistic way. I knew that when I got into folk music, it was more of a serious type of thing. The songs are filled with more despair, more sadness, more triumph, more faith in the supernatural, much deeper feelings."
 
 Inspired by artists like Woody Guthrie, Hank Williams and Robert Johnson, Dylan began to write and record his own material. Songs like <em>'Blowin'</em> in the Wind', <em>'Masters of War'</em> and <em>'The Times They are A'</em>Changing' became anthems for the American civil rights and anti-war movements...
 
-<a href="http://stmargarets.london/assets/images/2016/setlist_Manchester.png" title="See larger version of - setlist Manchester"><img src="http://stmargarets.london/assets/images/2016/setlist_Manchester_thumb.png" width="250" height="253" alt="setlist Manchester" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/setlist_Manchester.png" title="See larger version of - setlist Manchester"><img src="https://stmargarets.london/assets/images/2016/setlist_Manchester_thumb.png" width="250" height="253" alt="setlist Manchester" class="photo right" /></a>
 
 bq. "These were the songs that established [Dylan] as the voice of his generation--someone who implicitly understood how concerned young Americans felt about nuclear disarmament and the growing movement for civil rights: his mixture of moral authority and nonconformity was perhaps the most timely of his attributes."
 
@@ -57,7 +57,7 @@ Dylan played his first <em>'electric set'</em> at the 1965 Newport Folk Festival
 
 There were similar adverse reactions through his 1965/1966 tour of America, Canada, Australia, Scandinavia and the United Kingdom - with audiences feeling confused and betrayed by Dylan's challenging reinterpretation of his music and the broody presence of The Hawks - the rock band that accompanied him...
 
-<a href="http://stmargarets.london/assets/images/2016/Dylan_and_Robbie_Robertson.jpg" title="See larger version of - Dylan and Robbie Robertson"><img src="http://stmargarets.london/assets/images/2016/Dylan_and_Robbie_Robertson_thumb.jpg" width="250" height="178" alt="Dylan and Robbie Robertson" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Dylan_and_Robbie_Robertson.jpg" title="See larger version of - Dylan and Robbie Robertson"><img src="https://stmargarets.london/assets/images/2016/Dylan_and_Robbie_Robertson_thumb.jpg" width="250" height="178" alt="Dylan and Robbie Robertson" class="photo right" /></a>
 
 bq. "We travelled all over the world and people booed us everywhere we went. What a strange concept of entertainment. We'd go on to the next town and they'd boo us again and we'd pack up our equipment and go on to the next place and they'd boo us again."
 
@@ -77,7 +77,7 @@ bq. "Dylan was sacrificing lyric and melody to the God of big beat."
 
 Dylan must have been aware of what some of his audience was expecting because he opened his Manchester gig in traditional style with a set of songs played on an acoustic guitar. It was during the second set when Dylan came on stage with the Hawks that the trouble started. In the pause between <em>"Ballad of a Thin Man"</em> and <em>"Like a Rolling Stone"</em> a member of the audience shouted out... 'Judas!' Dylan answered back, and told the man <em>"I don't believe you ... you're a liar!"</em>, before he shouted to the members of the band to <em>"Play it f---ing' loud!"</em> before they finished off the set with <em>"Like a Rolling Stone"</em>...
 
-<a href="http://stmargarets.london/assets/images/2016/Bob_Dylan.jpg" title="See larger version of - Bob Dylan"><img src="http://stmargarets.london/assets/images/2016/Bob_Dylan_thumb.jpg" width="250" height="203" alt="Bob Dylan" class="photo right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/Bob_Dylan.jpg" title="See larger version of - Bob Dylan"><img src="https://stmargarets.london/assets/images/2016/Bob_Dylan_thumb.jpg" width="250" height="203" alt="Bob Dylan" class="photo right" /></a>
 
 <em>"When Dylan came to the chorus and the line 'How does it feel, to be on your own?' he sang it as if his entire artistic existence hung on the answer."</em>
 

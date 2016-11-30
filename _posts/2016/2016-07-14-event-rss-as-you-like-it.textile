@@ -6,9 +6,9 @@ commentfile: 2016-07-14-event-rss-as-you-like-it
 category: around_town
 date: 2016-07-14 08:55:01
 excerpt: |
-    Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging As You Like It  by William Shakespeare  "from Monday 18<sup>th</sup> to Saturday 23<sup>rd</sup> July":http://stmargarets.london/event/play/200705145687 at the Fountain Gardens, Twickenham Riverside.
+    Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging As You Like It  by William Shakespeare  "from Monday 18<sup>th</sup> to Saturday 23<sup>rd</sup> July":https://stmargarets.london/event/play/200705145687 at the Fountain Gardens, Twickenham Riverside.
 ---
-Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging As You Like It  by William Shakespeare  "from Monday 18<sup>th</sup> to Saturday 23<sup>rd</sup> July":http://stmargarets.london/event/play/200705145687 at the Fountain Gardens, Twickenham Riverside.
+Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging As You Like It  by William Shakespeare  "from Monday 18<sup>th</sup> to Saturday 23<sup>rd</sup> July":https://stmargarets.london/event/play/200705145687 at the Fountain Gardens, Twickenham Riverside.
 
 Witty, bawdy and romantic, As You Like It is the Bard's great comedy of love. In peril of her life, Rosalind flees the court where she was brought up, to seek her banished father in the Forest of Arden, accompanied by her down-to-earth cousin Celia. Freed from conventions, she discovers her true self and again meets Orlando, the man of her dreams. There's just one problem - Rosalind is disguised as a boy.  Bring a picnic to Twickenham's idyllic Fountain Gardens and prepare to be wooed by a host of memorable characters transported to the chic and stylish, Charleston-tapping twenties. Whoop the wrestling, ponder the seven ages of man and look out for those goats!
 

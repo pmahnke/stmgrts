@@ -9,7 +9,7 @@ excerpt: |
     <a href="//stmargarets.london/assets/images/2009/kumon.jpg"><img src="//stmargarets.london/assets/images/2009/kumon-thumb.jpg" width="150" height="112" alt="students with their awards" class="photo right" /></a>
     
     
-    On 25<sup>th</sup> of June 2009 at the St Margarets Catholic Church local students from the "Kumon St Margarets Centre":http://stmargarets.london/directory/school/200709280322 gained recognition for their success and continued development studying on the Kumon maths and/or English programmes.  The committed students were presented with awards at a ceremony to celebrate their achievement of mastering maths and English beyond their current school level.
+    On 25<sup>th</sup> of June 2009 at the St Margarets Catholic Church local students from the "Kumon St Margarets Centre":https://stmargarets.london/directory/school/200709280322 gained recognition for their success and continued development studying on the Kumon maths and/or English programmes.  The committed students were presented with awards at a ceremony to celebrate their achievement of mastering maths and English beyond their current school level.
     
 
 ---
@@ -17,7 +17,7 @@ excerpt: |
 <a href="//stmargarets.london/assets/images/2009/kumon.jpg"><img src="//stmargarets.london/assets/images/2009/kumon-thumb.jpg" width="150" height="112" alt="students with their awards" class="photo right" /></a>
 
 
-On 25<sup>th</sup> of June 2009 at the St Margarets Catholic Church local students from the "Kumon St Margarets Centre":http://stmargarets.london/directory/school/200709280322 gained recognition for their success and continued development studying on the Kumon maths and/or English programmes.  The committed students were presented with awards at a ceremony to celebrate their achievement of mastering maths and English beyond their current school level.
+On 25<sup>th</sup> of June 2009 at the St Margarets Catholic Church local students from the "Kumon St Margarets Centre":https://stmargarets.london/directory/school/200709280322 gained recognition for their success and continued development studying on the Kumon maths and/or English programmes.  The committed students were presented with awards at a ceremony to celebrate their achievement of mastering maths and English beyond their current school level.
 
 
 Kumon is one of the leading after-school education providers in the UK and Ireland, offering both maths and English programmes for children of all ages and abilities. Kumon exists to provide as many children as possible with the opportunity to learn and aims to give them the best chance in life by offering a unique and individualised study programme that is tailored to the needs of each child.

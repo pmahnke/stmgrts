@@ -8,7 +8,7 @@ date: 2005-08-19 09:43:29
 
 ---
 
-The Mayor of the London Borough of Richmond, Councillor Robin Jowit, invites you to join him at Clarendon Hall, York House, for an evening of fun for charity. The event is on "9 September at 7:30pm at York House":http://stmargarets.london/cgi-bin/events.cgi?key=200508171643&action=getevent.
+The Mayor of the London Borough of Richmond, Councillor Robin Jowit, invites you to join him at Clarendon Hall, York House, for an evening of fun for charity. The event is on "9 September at 7:30pm at York House":https://stmargarets.london/cgi-bin/events.cgi?key=200508171643&action=getevent.
 
 All proceeds are in aid of the Mayor's Charities: Integrated Neurological Services and ChildLine.
 

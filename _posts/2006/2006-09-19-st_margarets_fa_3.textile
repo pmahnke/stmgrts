@@ -12,7 +12,7 @@ excerpt: |
 
 ---
 
-<a href="http://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="//stmargarets.london/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
+<a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="//stmargarets.london/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
 
 This year's July Fair raised a record &pound;18,000, and here's where the money is going.
 

@@ -6,11 +6,11 @@ commentfile: 2016-09-17-event-richmond-heritage-festival
 category: around_town
 date: 2016-09-17 17:14:46
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2016/know-your-place_logo_2016.png" title="See larger version of - know your place logo 2016"><img src="http://stmargarets.london/assets/images/2016/know-your-place_logo_2016_thumb.png" width="150" height="73" alt="know your place logo 2016" class=" right" /></a>
+    <a href="https://stmargarets.london/assets/images/2016/know-your-place_logo_2016.png" title="See larger version of - know your place logo 2016"><img src="https://stmargarets.london/assets/images/2016/know-your-place_logo_2016_thumb.png" width="150" height="73" alt="know your place logo 2016" class=" right" /></a>
 
     Organised by Richmond Council's Library Service, the 'Know Your Place' festival is the annual programme of activities that celebrate the history of the borough throughout September.
 ---
-<a href="http://stmargarets.london/assets/images/2016/know-your-place_logo_2016.png" title="See larger version of - know your place logo 2016"><img src="http://stmargarets.london/assets/images/2016/know-your-place_logo_2016_thumb.png" width="250" height="121" alt="know your place logo 2016" class=" right" /></a>
+<a href="https://stmargarets.london/assets/images/2016/know-your-place_logo_2016.png" title="See larger version of - know your place logo 2016"><img src="https://stmargarets.london/assets/images/2016/know-your-place_logo_2016_thumb.png" width="250" height="121" alt="know your place logo 2016" class=" right" /></a>
 
 Tickets are still available for the annual 'Know Your Place' Heritage Festival which celebrates Richmond's rich and vibrant history.
 

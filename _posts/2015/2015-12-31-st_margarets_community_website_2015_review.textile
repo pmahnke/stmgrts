@@ -6,25 +6,25 @@ commentfile: 2015-12-31-st_margarets_community_website_2015_review
 category: editorial
 date: 2015-12-31 10:06:05
 excerpt: |
-    <a href="http://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="http://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="150" height="117" alt="how access 2015" class=" right" /></a>
+    <a href="https://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="https://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="150" height="117" alt="how access 2015" class=" right" /></a>
 
     As 2015 comes to a close, we wanted to share some quick stats on the year that's gone by.
 ---
 
-<a href="http://stmargarets.london/assets/images/2015/users_by_week_2015.png" title="See larger version of - users by week 2015"><img src="http://stmargarets.london/assets/images/2015/users_by_week_2015_thumb.png" width="500" height="189" alt="users by week 2015" class=" center" /></a>
+<a href="https://stmargarets.london/assets/images/2015/users_by_week_2015.png" title="See larger version of - users by week 2015"><img src="https://stmargarets.london/assets/images/2015/users_by_week_2015_thumb.png" width="500" height="189" alt="users by week 2015" class=" center" /></a>
 
 As 2015 comes to a close, we wanted to share some quick stats on the year that's gone by.
 
 h3. Articles and events
 
 |Category|Number|
-|"around town":http://stmargarets.london/archives/around_town/|201|
-|"news":http://stmargarets.london/archives/news/|55|
-|"editorial":http://stmargarets.london/archives/editorial/|3|
-|"events":http://stmargarets.london/event|512|
+|"around town":https://stmargarets.london/archives/around_town/|201|
+|"news":https://stmargarets.london/archives/news/|55|
+|"editorial":https://stmargarets.london/archives/editorial/|3|
+|"events":https://stmargarets.london/event|512|
 |*total*|771|
 
-Not to mention "44 newsletters":http://stmargarets.london/cgi-bin/newsletter.cgi
+Not to mention "44 newsletters":https://stmargarets.london/cgi-bin/newsletter.cgi
 
 
 
@@ -32,19 +32,19 @@ h4. Top 20 Articles
 
 Here are the top 20 articles published and read in 2015.
 
-# "Me No See RWC Legacy":http://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html - 1,457
-# "Election Results 2015 - Tania Mathias Wins":http://stmargarets.london/archives/2015/05/election_results_2015_tania_mathias_wins.html - 1,206
-# "Photographs of St Margaret Shops by Randall Webb - 1976":http://stmargarets.london/archives/2015/04/photographs_of_st_margaret_shops_by_randall_webb_1.html - 1,034
-# "Rugby World Cup Road Closure Trial Weekends - 15 August and 2 September 2015":http://stmargarets.london/archives/2015/08/rugby_world_cup_road_closure_trail_weekends_15_aug.html - 968
-# "St Margarets Parking Review - Second Stage":http://stmargarets.london/archives/2015/06/st_margarets_parking_review_second_stage.html - 956
-# "Is There a Stag Beetle at the Bottom of Your Garden?":http://stmargarets.london/archives/2015/07/is_there_a_stag_beetle_at_the_bottom_of_your_garde.html - 853
-# "Hounslow Council Plans to Close Church Street in Isleworth":http://stmargarets.london/archives/2015/10/hounslow_council_plans_to_close_church_street_in_i.html - 787
-# "Event Reminder: St Margarets Fair 2015":http://stmargarets.london/archives/2015/07/event_reminder_st_margarets_fair_2015.html - 781
-# "St Margarets Station Bum Groper Gets Community Service":http://stmargarets.london/archives/2015/01/st_margarets_station_bum_groper_gets_community_ser.html - 735
-# "TFL Decides Keeps A316 Footbridge":http://stmargarets.london/archives/2015/01/tfl_decides_keeps_a316_footbridge.html - 728
-# "Twickenham Votes for a Lido on Twickenham Riverside":http://stmargarets.london/archives/2015/07/twickenham_votes_for_a_lido_on_twickenham_riversid.html - 703
-# "Twickenham Candidate Profile 2015: Barry Edwards":http://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html - 691
-# "No Blame":http://stmargarets.london/archives/2015/04/no_blame.html - 686
+# "Me No See RWC Legacy":https://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html - 1,457
+# "Election Results 2015 - Tania Mathias Wins":https://stmargarets.london/archives/2015/05/election_results_2015_tania_mathias_wins.html - 1,206
+# "Photographs of St Margaret Shops by Randall Webb - 1976":https://stmargarets.london/archives/2015/04/photographs_of_st_margaret_shops_by_randall_webb_1.html - 1,034
+# "Rugby World Cup Road Closure Trial Weekends - 15 August and 2 September 2015":https://stmargarets.london/archives/2015/08/rugby_world_cup_road_closure_trail_weekends_15_aug.html - 968
+# "St Margarets Parking Review - Second Stage":https://stmargarets.london/archives/2015/06/st_margarets_parking_review_second_stage.html - 956
+# "Is There a Stag Beetle at the Bottom of Your Garden?":https://stmargarets.london/archives/2015/07/is_there_a_stag_beetle_at_the_bottom_of_your_garde.html - 853
+# "Hounslow Council Plans to Close Church Street in Isleworth":https://stmargarets.london/archives/2015/10/hounslow_council_plans_to_close_church_street_in_i.html - 787
+# "Event Reminder: St Margarets Fair 2015":https://stmargarets.london/archives/2015/07/event_reminder_st_margarets_fair_2015.html - 781
+# "St Margarets Station Bum Groper Gets Community Service":https://stmargarets.london/archives/2015/01/st_margarets_station_bum_groper_gets_community_ser.html - 735
+# "TFL Decides Keeps A316 Footbridge":https://stmargarets.london/archives/2015/01/tfl_decides_keeps_a316_footbridge.html - 728
+# "Twickenham Votes for a Lido on Twickenham Riverside":https://stmargarets.london/archives/2015/07/twickenham_votes_for_a_lido_on_twickenham_riversid.html - 703
+# "Twickenham Candidate Profile 2015: Barry Edwards":https://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html - 691
+# "No Blame":https://stmargarets.london/archives/2015/04/no_blame.html - 686
 
 h4. Twitter
 
@@ -65,7 +65,7 @@ No big changes here:
 
 h3. How people accessed the site
 
-<a href="http://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="http://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="250" height="195" alt="how access 2015" class=" right" /></a>
+<a href="https://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="https://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="250" height="195" alt="how access 2015" class=" right" /></a>
 
 One trend we have been watching is how many people are now using the site on phones and tablets.  This is why we continue making the site work better on smaller screens.
 
@@ -75,7 +75,7 @@ One trend we have been watching is how many people are now using the site on pho
 |Tablet|16.7%|-6.35%|
 
 
-Well, hope you have a great 2016 and if you want to write an article or promote that local event, please "get in touch":http://stmargarets.london/contact/
+Well, hope you have a great 2016 and if you want to write an article or promote that local event, please "get in touch":https://stmargarets.london/contact/
 
 
 

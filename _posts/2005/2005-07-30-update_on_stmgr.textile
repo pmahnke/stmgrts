@@ -33,13 +33,13 @@ p. We want to have a site that is balanced between letting everyone know all the
 
 h3. Building a Community
 
-p. As stated in our original "Welcome Letter":http://stmargarets.london/archives/2005/06/welcome_to_stmg.html we are trying to build an even greater sense of community in St Margarets.  But a community isn't five people having coffee once a week.  We need your help to take this site to the next level.  Please help by _using_ and _adding_ to the site.  Please let us know what we can do to make it more relevant and more useful.
+p. As stated in our original "Welcome Letter":https://stmargarets.london/archives/2005/06/welcome_to_stmg.html we are trying to build an even greater sense of community in St Margarets.  But a community isn't five people having coffee once a week.  We need your help to take this site to the next level.  Please help by _using_ and _adding_ to the site.  Please let us know what we can do to make it more relevant and more useful.
 
 Thank you,
 
 _The Web Team_
 
-p.s. Don't forget to sign-up for the "newsletter":http://stmargarets.london/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
+p.s. Don't forget to sign-up for the "newsletter":https://stmargarets.london/cgi-bin/newsletter.cgi it is the easiest way for us to keep in touch.                          
                         
 
 

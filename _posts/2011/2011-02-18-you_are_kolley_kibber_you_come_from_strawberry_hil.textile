@@ -78,7 +78,7 @@ As for Kolley Kibber, Graham Greene's "Brighton Rock"  interpretation of Lobby L
 
 "Kolley Kibber" fans will be disappointed to learn that their hero does not appear in the latest film version of the book which stars Sam Riley, Andrea Riseborough, Helen Mirren, John Hurt and Andy Serkis  To cheer them up here is George Hinchliffe singing "Lobby Lud, the Mystery Man", a ukulele hit from 1927.
 
-<p><embed src="//stmargarets.london/assets/images/2011/3523697345-audio-player.swf" flashvars="audioUrl=http://stmargarets.london/images/Hinchliffe_Lobby_Lud-The_Mystery_Man.mp3" width="400" height="27" quality="best" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></p>
+<p><embed src="//stmargarets.london/assets/images/2011/3523697345-audio-player.swf" flashvars="audioUrl=https://stmargarets.london/images/Hinchliffe_Lobby_Lud-The_Mystery_Man.mp3" width="400" height="27" quality="best" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></p>
 
 
 </div>

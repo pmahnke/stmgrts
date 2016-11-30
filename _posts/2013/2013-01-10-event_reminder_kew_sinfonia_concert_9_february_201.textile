@@ -10,7 +10,7 @@ date: 2013-01-10 21:55:10
 
 <a href="//stmargarets.london/assets/images/2013/Kew-Sinfonia--poster-february-2013b.jpg" title="See larger version of - Kew Sinfonia  poster february 2013b"><img src="//stmargarets.london/assets/images/2013/Kew-Sinfonia--poster-february-2013b_thumb.jpg" width="150" height="212" alt="Kew Sinfonia  poster february 2013b" class="photo right" /></a>
 
-Come to a classical music concert on "Saturday, 9th February 2013 at 8pm in St Anne's Church on Kew Green":http://stmargarets.london/event/concert/200705143583.  The programme for the evening will be:
+Come to a classical music concert on "Saturday, 9th February 2013 at 8pm in St Anne's Church on Kew Green":https://stmargarets.london/event/concert/200705143583.  The programme for the evening will be:
 
 * Ligeti - Concert Românesc
 * Mozart - Sinfonia Concertante

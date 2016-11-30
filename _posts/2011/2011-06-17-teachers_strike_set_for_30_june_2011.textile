@@ -16,8 +16,8 @@ The ballot in favour of a strike by the National Union of Teachers (NUT) and the
 
 Currently we know the following have announced they are closing, or part-closing on the 30 June.
 
-* "St Stephens CE Junior School":http://stmargarets.london/directory/school/200507170243 - closed
-* "Orleans Infant School ":http://stmargarets.london/directory/school/200506280125 - closed
+* "St Stephens CE Junior School":https://stmargarets.london/directory/school/200507170243 - closed
+* "Orleans Infant School ":https://stmargarets.london/directory/school/200506280125 - closed
 * Grey Court School - closed
 * "Archdeacon Cambridge's CE Primary School":http://www.archdeaconcambridges.richmond.sch.uk/ - closed
 * Richmond College - closed

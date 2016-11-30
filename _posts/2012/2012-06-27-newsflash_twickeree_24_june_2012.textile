@@ -11,7 +11,7 @@ excerpt: |
 
     h4. St Margarets Win The Derby!
 
-    Despite the appalling weather and their abysmal sporting record the 1<sup>st</sup> St Margarets Cub Pack won the _Tri-Annual Soap Box Derby_ at the "Twickeree Camp":http://stmargarets.london/archives/2012/06/twickeree_2012.html this weekend in Marble Hill Park. Competing against 14 other Packs the 23 strong squad of boys and girls pushed, panted and propelled their home-made cart through heats, quarter and semi finals and eventually the final itself to victory. The only thing to decide now is who gets to look after the trophy first!
+    Despite the appalling weather and their abysmal sporting record the 1<sup>st</sup> St Margarets Cub Pack won the _Tri-Annual Soap Box Derby_ at the "Twickeree Camp":https://stmargarets.london/archives/2012/06/twickeree_2012.html this weekend in Marble Hill Park. Competing against 14 other Packs the 23 strong squad of boys and girls pushed, panted and propelled their home-made cart through heats, quarter and semi finals and eventually the final itself to victory. The only thing to decide now is who gets to look after the trophy first!
 
 ---
 
@@ -19,9 +19,9 @@ excerpt: |
 
 h4. St Margarets Win The Derby!
 
-Despite the appalling weather and their abysmal sporting record the 1<sup>st</sup> St Margarets Cub Pack won the _Tri-Annual Soap Box Derby_ at the "Twickeree Camp":http://stmargarets.london/archives/2012/06/twickeree_2012.html this weekend in Marble Hill Park. Competing against 14 other Packs the 23 strong squad of boys and girls pushed, panted and propelled their home-made cart through heats, quarter and semi finals and eventually the final itself to victory. The only thing to decide now is who gets to look after the trophy first!
+Despite the appalling weather and their abysmal sporting record the 1<sup>st</sup> St Margarets Cub Pack won the _Tri-Annual Soap Box Derby_ at the "Twickeree Camp":https://stmargarets.london/archives/2012/06/twickeree_2012.html this weekend in Marble Hill Park. Competing against 14 other Packs the 23 strong squad of boys and girls pushed, panted and propelled their home-made cart through heats, quarter and semi finals and eventually the final itself to victory. The only thing to decide now is who gets to look after the trophy first!
 
-|<a href="//stmargarets.london/assets/images/2012/TWICKDERBY_P1010564.jpg" title="See larger version of - Winning 1st St Margerets"><img src="//stmargarets.london/assets/images/2012/TWICKDERBY_P1010564_thumb.jpg" width="150" height="112" alt="Winning 1st St Margerets" class="photo right" /></a>|<a href="http://stmargarets.london/assets/images/2012/TWICKDERBY_Trophy.jpg" title="See larger version of - Tri-Annual Soap Box Derby Trophy"><img src="http://stmargarets.london/assets/images/2012/TWICKDERBY_Trophy_thumb.jpg" width="150" height="112" alt="Tri-Annual Soap Box Derby Trophy" class="photo right" /></a>|
+|<a href="//stmargarets.london/assets/images/2012/TWICKDERBY_P1010564.jpg" title="See larger version of - Winning 1st St Margerets"><img src="//stmargarets.london/assets/images/2012/TWICKDERBY_P1010564_thumb.jpg" width="150" height="112" alt="Winning 1st St Margerets" class="photo right" /></a>|<a href="https://stmargarets.london/assets/images/2012/TWICKDERBY_Trophy.jpg" title="See larger version of - Tri-Annual Soap Box Derby Trophy"><img src="https://stmargarets.london/assets/images/2012/TWICKDERBY_Trophy_thumb.jpg" width="150" height="112" alt="Tri-Annual Soap Box Derby Trophy" class="photo right" /></a>|
 
 
 

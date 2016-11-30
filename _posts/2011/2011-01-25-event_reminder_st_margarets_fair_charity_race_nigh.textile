@@ -8,7 +8,7 @@ date: 2011-01-25 23:15:30
 excerpt: |
     <a href="//stmargarets.london/assets/images/2011/RaceNightflyer2011.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2011/RaceNightflyer2011_thumb.jpg" width="150" height="111" alt="poster" class="photo right" /></a>
     
-    The St Margarets Fair Committee invites you to an evening of "Virtual Horse Racing at St Stephen's School on 29 January 2011 from 7:30pm":http://stmargarets.london/event/event/200705142700.
+    The St Margarets Fair Committee invites you to an evening of "Virtual Horse Racing at St Stephen's School on 29 January 2011 from 7:30pm":https://stmargarets.london/event/event/200705142700.
     
     Tickets are &pound;12 with supper included plus a reasonably priced bar.
     
@@ -24,7 +24,7 @@ Sorry, this event has been postponed.
 
 </div>
 
-The St Margarets Fair Committee invites you to an evening of "Virtual Horse Racing at St Stephen's School on 29 January 2011 from 7:30pm":http://stmargarets.london/event/event/200705142700.
+The St Margarets Fair Committee invites you to an evening of "Virtual Horse Racing at St Stephen's School on 29 January 2011 from 7:30pm":https://stmargarets.london/event/event/200705142700.
 
 Tickets are &pound;12 with supper included plus a reasonably priced bar.
 
@@ -34,7 +34,7 @@ h4. Details
 
 * Buy tickets in advance or secure your place for this must attend event by
 contacting Will on 07967 552140 or "omnitodd@googlemail.com":mailto:omnitodd@googlemail.com
-* "Read flyer":http://stmargarets.london/images/events/RaceNightflyer2011.jpg
+* "Read flyer":https://stmargarets.london/images/events/RaceNightflyer2011.jpg
 
 
 

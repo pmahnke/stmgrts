@@ -9,7 +9,7 @@ excerpt: |
     
     <div class="box">
     
-    Martyn Day's article "Me No See RWC Legacy":http://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html was picked up by The Guardian on 17 August 2015.
+    Martyn Day's article "Me No See RWC Legacy":https://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html was picked up by The Guardian on 17 August 2015.
     
     </div>
     
@@ -20,7 +20,7 @@ excerpt: |
 
 <div class="box">
 
-Martyn Day's article "Me No See RWC Legacy":http://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html was picked up by The Guardian on 17 August 2015.
+Martyn Day's article "Me No See RWC Legacy":https://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html was picked up by The Guardian on 17 August 2015.
 
 </div>
 

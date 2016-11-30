@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="//stmargarets.london/assets/images/2015/Linda_Dooley.jpg" title="See larger version of - Linda Dooley"><img src="//stmargarets.london/assets/images/2015/Linda_Dooley_thumb.jpg" width="250" height="333" alt="Linda Dooley" class="photo right" /></a>
 
-"At the Landmark Arts Centre from 6 to 8 March 2015.":http://stmargarets.london/event/fair/200705144892
+"At the Landmark Arts Centre from 6 to 8 March 2015.":https://stmargarets.london/event/fair/200705144892
 
 The Contemporary Textiles Fair at the Landmark Arts Centre, the Teddington based arts charity, brings together more than 76 individual designer makers offering a dazzling range of contemporary textiles and, to celebrate our 20<sup>th</sup> anniversary, this year a chance to meet and work with renowned textile artist, Sophie Long.
 

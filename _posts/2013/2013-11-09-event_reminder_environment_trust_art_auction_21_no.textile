@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="//stmargarets.london/assets/images/2013/ET-Auction-2013.jpg" title="See larger version of - ET Auction poster 2013"><img src="//stmargarets.london/assets/images/2013/ET-Auction-2013_thumb.jpg" width="150" height="208" alt="ET Auction poster 2013" class="photo right" /></a>
 
-_On "Thursday, 21<sup>st</sup> November 2013":http://stmargarets.london/event/event/200705144202 at York House._
+_On "Thursday, 21<sup>st</sup> November 2013":https://stmargarets.london/event/event/200705144202 at York House._
 
 Viewing from 6.30pm: auction at 8pm.  The auction includes pictures commissioned to reflect this year's theme, Then and Now. View the pictures as they come in at "www.environmenttrust.co.uk/art-auction/art-auction-2013.html":http://www.environmenttrust.co.uk/art-auction/art-auction-2013.html
 

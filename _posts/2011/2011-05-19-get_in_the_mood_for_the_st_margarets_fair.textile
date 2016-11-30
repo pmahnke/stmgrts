@@ -14,7 +14,7 @@ This year we have a beautiful little comedy movie produced and donated by local 
 
 <object width="480" height="390"><param name="movie" value="http://www.youtube-nocookie.com/v/sja25a-K5Us?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/sja25a-K5Us?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-Get ready for the "33<sup>rd</sup> Annual St Margarets Fair on 16 July 2011":http://stmargarets.london/event/fair/200705142755
+Get ready for the "33<sup>rd</sup> Annual St Margarets Fair on 16 July 2011":https://stmargarets.london/event/fair/200705142755
 
 
 

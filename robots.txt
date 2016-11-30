@@ -9,4 +9,4 @@ Disallow: /static/dirk
 Disallow: /static/info/
 Disallow: /static/realale
 Disallow: /taleo
-Sitemap: http://stmargarets.london/sitemap.xml.gz
+Sitemap: https://stmargarets.london/sitemap.xml.gz

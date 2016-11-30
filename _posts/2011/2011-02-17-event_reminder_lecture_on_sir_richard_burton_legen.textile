@@ -10,7 +10,7 @@ excerpt: |
 
     _an illustrated talk by Neil McNeil_
 
-    In 2010 the Environment Trust worked with the Friends of Burton to restore Burton's Mausoleum in Mortlake. "Join us on February 28<sup>th</sup> at 7:30pm in the  Orleans House Gallery":http://stmargarets.london/event/event/200705142698, to learn about the restoration project and about the celebrated and colourful life of this fascinating man.
+    In 2010 the Environment Trust worked with the Friends of Burton to restore Burton's Mausoleum in Mortlake. "Join us on February 28<sup>th</sup> at 7:30pm in the  Orleans House Gallery":https://stmargarets.london/event/event/200705142698, to learn about the restoration project and about the celebrated and colourful life of this fascinating man.
 
     Our Speaker Neil McNeil has worked in radio and television for the BBC, LBC and Sky.
 
@@ -21,7 +21,7 @@ excerpt: |
 
 _an illustrated talk by Neil McNeil_
 
-In 2010 the Environment Trust worked with the Friends of Burton to restore Burton's Mausoleum in Mortlake. "Join us on February 28<sup>th</sup> at 7:30pm in the  Orleans House Gallery":http://stmargarets.london/event/event/200705142698, to learn about the restoration project and about the celebrated and colourful life of this fascinating man.
+In 2010 the Environment Trust worked with the Friends of Burton to restore Burton's Mausoleum in Mortlake. "Join us on February 28<sup>th</sup> at 7:30pm in the  Orleans House Gallery":https://stmargarets.london/event/event/200705142698, to learn about the restoration project and about the celebrated and colourful life of this fascinating man.
 
 Our Speaker Neil Mc Neil has worked in radio and television for the BBC, LBC and Sky.
 

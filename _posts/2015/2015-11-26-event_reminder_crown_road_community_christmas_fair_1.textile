@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="//stmargarets.london/assets/images/2015/crown_road_xmas_fair_2015_poster.png" title="See larger version of - crown road xmas fair 2015 poster"><img src="//stmargarets.london/assets/images/2015/crown_road_xmas_fair_2015_poster_thumb.png" width="250" height="344" alt="crown road xmas fair 2015 poster" class="photo right" /></a>
 
-Please join us on Crown Road from "11am to 5pm on 6 December 2015":http://stmargarets.london/event/fair/200705145281 for frozen fun for all the family.
+Please join us on Crown Road from "11am to 5pm on 6 December 2015":https://stmargarets.london/event/fair/200705145281 for frozen fun for all the family.
 
 * fairground rides
 * fantastic food

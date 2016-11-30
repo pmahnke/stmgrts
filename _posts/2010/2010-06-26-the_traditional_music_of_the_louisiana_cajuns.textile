@@ -9,7 +9,7 @@ excerpt: |
     <a href="//stmargarets.london/assets/images/2010/LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="//stmargarets.london/assets/images/2010/LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
     
     
-    The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out "last week's article":http://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.)
+    The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out "last week's article":https://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.)
     
     Over the centuries the performance of traditional Cajun music has evolved from solo singers, to singers with triangles, to singers with fiddles up to its current form with fiddlers, guitar players, triangle players and accordionists.
 
@@ -22,7 +22,7 @@ bq. "The music bites, burns and blisters the heart with its cruel loneliness of 
 ??Pierre Varnon Daigle??
 
 
-The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out "last week's article":http://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.)
+The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out "last week's article":https://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.)
 
 Over the centuries the performance of traditional Cajun music has evolved from solo singers, to singers with triangles, to singers with fiddles up to its current form with fiddlers, guitar players, triangle players and accordionists.
 

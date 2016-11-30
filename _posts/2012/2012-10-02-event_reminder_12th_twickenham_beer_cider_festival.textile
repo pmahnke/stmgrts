@@ -10,7 +10,7 @@ date: 2012-10-02 21:59:40
 
 <img src="//stmargarets.london/assets/images/2012/TBF12logo350.gif" alt="rugby beer guys"  width="150" class="photo right" />
 
-"18<sup>th</sup> - 20<sup>th</sup> October 2012":http://stmargarets.london/event/fair/200705143621
+"18<sup>th</sup> - 20<sup>th</sup> October 2012":https://stmargarets.london/event/fair/200705143621
 
 The Festival will be held again in the Clarendon Hall/Hyde Room at YORK HOUSE Richmond Road, Twickenham, TW1 3AA. 6min from Twickenham Station - buses 33, 490, H22, R68, R70 pass the gate, + 110, 267, 281, 290 stop nearby in King Street.
 
