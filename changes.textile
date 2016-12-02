@@ -8,6 +8,7 @@ h2. Site Changes
 
 p. Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
+|30 November 2016|Moved to https|
 |27 November 2016|Moved domain from stmgrts.org.uk to stmargarets.london|
 |30 January 2016|Added previous and next article links back|
 |17 January 2016|Added social links to articles and events|

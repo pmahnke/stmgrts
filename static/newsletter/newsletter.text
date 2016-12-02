@@ -1,11 +1,11 @@
 <tm template=email.tpl>
 <tm styleInclude=news_style.incl>
 
-<a href="http://www.stmgrts.org.uk"><img src="http://www.stmgrts.org.uk/images/stmgrts_newsletter_logo.gif" width="470" height="157" border="0" alt="St Margarets Community Website Newsletter" /></a>
+<a href="https://stmargarets.london"><img src="https://stmargarets.london/images/stmgrts_newsletter_logo.gif" width="470" height="157" border="0" alt="St Margarets Community Website Newsletter" /></a>
 
 p. _24 November 2016_
 
-p. Welcome to the St Margarets Community Website Newsletter ("www.stmgrts.org.uk":http://www.stmgrts.org.uk). Occasional Thursdays we will send you the latest news and events from the website.
+p. Welcome to the St Margarets Community Website Newsletter ("www.stmgrts.org.uk":https://stmargarets.london). Occasional Thursdays we will send you the latest news and events from the website.
 
 h2. Latest News
 
@@ -13,10 +13,10 @@ h2. Latest News
 
 <tm src=promo.incl>
 
-<tm urlInclude=http://stmgrts.org.uk/cgi-bin/events.cgi?action=newsletter&count=16&format=html>
+<tm urlInclude=https://stmargarets.london/cgi-bin/events.cgi?action=newsletter&count=16&format=html>
 
-<tm urlInclude=http://stmgrts.org.uk/cgi-bin/events.cgi?action=newsletter&count=16&format=html&type=play>
+<tm urlInclude=https://stmargarets.london/cgi-bin/events.cgi?action=newsletter&count=16&format=html&type=play>
 
 p(info). If you have any local news, events or information that should go up on the site, please email us at: <a href="mailto:content@stmgrts.org.uk">content@stmgrts.org.uk</a>.
 
-p(info). _If you need to change your email options, please go here: "http://stmgrts.org.uk/cgi-bin/newsletter.cgi":http://stmgrts.org.uk/cgi-bin/newsletter.cgi ._
+p(info). _If you need to change your email options, please go here: "https://stmargarets.london/cgi-bin/newsletter.cgi":https://stmargarets.london/cgi-bin/newsletter.cgi ._
