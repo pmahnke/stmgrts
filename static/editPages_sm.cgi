@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
 
 #######################################################################
 #
@@ -20,12 +20,12 @@ require ("/home/stmargarets/cgi-bin/auth.pl");
 
 $thisScript       = "editPages_sm.cgi";
 $buildPagesScript = "build.cgi";
-$rootDir          = "/home/stmargarets/repos/stmgrts";
+$rootDir          = "/home/stmargarets/src/stmgrts";
 $outputDir        = "";
 $inputDir         = "/static/";
-$longName         = "www.stmgrts.org.uk";
+$longName         = "stmargarets.london";
 $shortNameDB      = "$rootDir"."/static/properties.db";
-$localhost        = "stmgrts.org.uk";
+$localhost        = "stmargarets.london";
 $CMDcp            = "/bin/cp";
 $CMDgrep          = "/bin/grep";
 $CMDls            = "/bin/ls";
