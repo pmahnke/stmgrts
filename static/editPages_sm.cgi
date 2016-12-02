@@ -13,6 +13,7 @@
 #
 #######################################################################
 
+use Text::Textile;
 require ("/home/stmargarets/cgi-bin/auth.pl");
 
 #######################################################################
@@ -83,8 +84,8 @@ if (!$FORM{'page'}) {
   $page = $FORM{'text'};
   $page =~ s/\r\n/\n/g;
 
-  require ("/home/transitionelement/html/cms/common_spelling.pl");
-  require ("/home/mahnke/html/peter/MT/extlib/Text/Textile.pm");
+  #require ("/home/transitionelement/html/cms/common_spelling.pl");
+  #require ("/home/mahnke/html/peter/MT/extlib/Text/Textile.pm");
 
   # textile
   $textile = new Text::Textile;
