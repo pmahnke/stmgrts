@@ -7,7 +7,7 @@ category: around_town
 date: 2017-01-04 19:29:26
 author: "Martyn Day"
 excerpt: |
-    <a href="/assets/images/2017/FORGOTTEN_Holy-Innocents.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg" width="150" class="photo right" alt="Image - Holy-Innocents" /></a>
+    <a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_Holy-Innocents.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg" width="150" class="photo right" alt="Image - Holy-Innocents" /></a>
 
     Well, that's it for another year. The presents have been given, the turkey has been eaten and the decorations look like they might fall down at any moment. New Year's Eve is out of the way, old acquaintances have already being forgotten, the kids are back at school and ahead lies nothing but peace, perfect peace.
 ---
@@ -21,13 +21,13 @@ In ecclesiastical terms this festival for St John is a bit of a 'Johnny-Come-Lat
 h3. Wednesday December 28<sup>th</sup> - The Day of Holy Innocents a.k.a Childermass
 
 
-<a href="/assets/images/2017/FORGOTTEN_Holy-Innocents.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg" width="250" class="photo right" alt="Image - Holy-Innocents" /></a>
+<a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_Holy-Innocents.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg" width="250" class="photo right" alt="Image - Holy-Innocents" /></a>
 
 
 This marks the day when King Herod, appointed by the Romans as 'King of the Jews' ordered the execution of all young male babies so as to avoid the loss of his throne to the newborn King of the Jews announced by the Magi. It was not a very auspicious day. It was considered unlucky to cut your nails, put on new clothes or start any new work. Worse than that the bad luck extended to all following days with the date 28. According to one source the coronation of Edward IV, provisionally arranged for Sunday 28<sup>th</sup> June 1461, was deferred because of the threat of bad luck.
 
 
-<a href="/assets/images/2017/FORGOTTEN_King-Herod.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_King-Herod-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_King-Herod" /></a>
+<a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_King-Herod.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_King-Herod-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_King-Herod" /></a>
 
 
 In France it was customary on Holy Innocents Day to whip children to make them remember the cruelty of King Herod, accompanying the beating with songs and poems wishing good luck and a long life for the person beaten. In Germany boys and girls beat their own parents with fir branches and servants their masters with rosemary twigs. In the UK there were happier interpretations of the day. In Godstow in Oxfordshire in the 13<sup>th</sup> century public prayers were said by children. In Westminster Abbey specially adapted carols were sung in procession by children. In West Somerset and Herefordshire muffled peals of bells were rung on the day, a practise that continued well into the 20<sup>th</sup> century.
@@ -35,7 +35,7 @@ In France it was customary on Holy Innocents Day to whip children to make them r
 h3. Thursday 29<sup>th</sup> December - The commemoration of the St Thomas of Canterbury
 
 
-<a href="/assets/images/2017/FORGOTTEN_murder_of_becket.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_murder_of_becket-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_murder_of_becket" /></a>
+<a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_murder_of_becket.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_murder_of_becket-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_murder_of_becket" /></a>
 
 
 
@@ -54,7 +54,7 @@ In the ecclesiastical calendar this day was reserved for the commemoration of ha
 h3. Saturday 31<sup>st</sup> December - Dedicated to St Sylvester
 
 
-<a href="/assets/images/2017/FORGOTTEN_St--Sylvester.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_St--Sylvester-thumb.jpg" width="250" class="photo right"  alt="Image - St-Sylvester" /></a>
+<a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_St--Sylvester.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_St--Sylvester-thumb.jpg" width="250" class="photo right"  alt="Image - St-Sylvester" /></a>
 
 
 St Sylvester was the bishop of Rome from 31 January, 314 to his death on the 31<sup>st</sup> December 335. As well as being an all round good egg Sylvester is also reputed to have slain a dragon and cured the Emperor Constantine of leprosy by baptising him with holy water.
@@ -65,7 +65,7 @@ Reassuring words from a former local resident...
 
 <div class="box">
 
-<a href="/assets/images/2017/FORGOTTEN_Tennyson.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_Tennyson-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_Tennyson" /></a>
+<a href="https://stmargarets.london/assets/images/2017/FORGOTTEN_Tennyson.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/FORGOTTEN_Tennyson-thumb.jpg" width="250" class="photo right" alt="Image - FORGOTTEN_Tennyson" /></a>
 
 
 bq. "Hope smiles from the threshold of the year to come, Whispering 'it will be happier'..."
