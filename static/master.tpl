@@ -12,7 +12,7 @@ $html = <<EndofHTML;
   $METAlang
 
   <meta name="author" content="Peter Mahnke"/>
-  <meta name="copyright" content="&copy; Copyright 2004-2015 by Peter Mahnke. All rights reserved."/>
+  <meta name="copyright" content="&copy; Copyright 2004-2017 by Peter Mahnke. All rights reserved."/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
   <!-- Mobile Specific Metas
@@ -28,7 +28,7 @@ $html = <<EndofHTML;
   <![endif]-->
 
   <!-- Fonts -->
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext">
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="Atom" href="/feed.xml"/>
@@ -52,7 +52,7 @@ $html = <<EndofHTML;
   <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 
   <!-- Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
   $METAstyle
 
