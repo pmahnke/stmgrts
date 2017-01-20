@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "
-Print all In new window
-Spring 2017 Programme - Orleans House Gallery"
+title: "Spring 2017 Programme - Orleans House Gallery"
 permalink: /archives/2017/01/orleans-house-gallery-spring-programme.html
 commentfile: 2017-01-07-orleans-house-gallery-spring-programme
 category: around_town
