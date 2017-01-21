@@ -18,7 +18,7 @@ h4. Friday
 
 h4. Saturday
 
-* "All in One Planning Event":https://stmargarets.london/archives/2011/06/event_reminder_all_in_one_planning_event_11_june_2.html -- Civic Centre foyer from 10am to 4pm _don't forget to bring "A Plan for St Margarets":https://stmargarets.london/archives/2011/06/a_plan_for_st_margarets.html
+* "All in One Planning Event":https://stmargarets.london/archives/2011/06/event_reminder_all_in_one_planning_event_11_june_2.html -- Civic Centre foyer from 10am to 4pm _don't forget to bring <a href="https://stmargarets.london/archives/2011/06/a_plan_for_st_margarets.html">A Plan for St Margarets</a>
 * "Jane Brocke's book signing at Mrs Moon":https://stmargarets.london/archives/2011/06/book_signing_at_mrs_moon_11_june_2011.html -- from 1 to 3 pm
 * "Ham Fair":http://www.hamamenitiesgroup.org.uk/hamfair.html -- on Ham Green from 11:00am and 4:30pm
 * "Wildlife Gardening Workshop":https://stmargarets.london/event/tour/200705142772 -- from 2 to 5pm in the Kilmorey garden
@@ -34,9 +34,3 @@ h4. Sunday
 
 
 _Updated: 10 June with correct day for Mrs Moon and added the Twickenham Festival start_
-
-
-
-
-
-
