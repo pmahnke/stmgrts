@@ -88,8 +88,8 @@ bq. "Many things have been said about Billy Cotton. He was popular, he was brave
 
 <div class="box">
 
-h3. 1964 Billy Cotton Band Show starring Russ Conway
-<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/i-mgZm-E8wo?rel=0" frameborder="0" allowfullscreen></iframe>
+h3. 1964 Billy Cotton Band Show
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/--8kgsXob18?t=1m2s&rel=0" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
