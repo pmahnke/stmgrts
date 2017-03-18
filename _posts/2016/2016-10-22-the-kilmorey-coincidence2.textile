@@ -7,12 +7,12 @@ category: around_town
 date: 2016-10-22 18:02:20
 author: "Martyn Day"
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair.jpg" title="See larger version of - Francis Charles Needham Vanity Fair"><img src="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg" width="150" height="249" alt="Francis Charles Needham Vanity Fair" class="photo right" /></a>
+    <a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair.jpg" title="See larger version of - Francis Charles Needham Vanity Fair"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg" width="150" height="249" alt="Francis Charles Needham Vanity Fair" class="photo right" /></a>
 
     Most times coincidences feel like an unexpected serendipity that has been wafted along by a gentle breeze. Sometimes they feel like a cudgel beating you over the head. Once is interesting, twice is uncanny, three times are unsettling. When it comes to four times -- watch out for that cudgel!
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair.jpg" title="See larger version of - Francis Charles Needham Vanity Fair"><img src="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg" width="250" height="415" alt="Francis Charles Needham Vanity Fair" class="photo right" /></a>
+<a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair.jpg" title="See larger version of - Francis Charles Needham Vanity Fair"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg" width="250" height="415" alt="Francis Charles Needham Vanity Fair" class="photo right" /></a>
 
 bq. "A certain man once lost a diamond cuff-link in the wide blue sea, and twenty years later, on the exact day, a Friday apparently, he was eating a large fish - but there was no diamond inside. That's what I like about coincidence." 
 
@@ -55,13 +55,13 @@ We used to come from a cattle and sheep property in outback Queensland and becau
 
 h3. DO YOU KNOW THIS MAN?
 
-<a href="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Family_portrait.jpg" title="See larger version of - Family portrait"><img src="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Family_portrait_thumb.jpg" width="250" height="333" alt="Family portrait" class="photo right" /></a>
+<a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Family_portrait.jpg" title="See larger version of - Family portrait"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Family_portrait_thumb.jpg" width="250" height="333" alt="Family portrait" class="photo right" /></a>
 
 Our Australian <em>'Black Jack'</em>, Richard Francis Needham Bell has a family portrait of the 3<sup>rd</sup> Earl of Kilmorey, Black Jack's grandson Francis Charles  Needham. (1842-1915). However Richard is now beginning to wonder if the picture is of <em>'Black Jack'</em>s' eldest son Francis H Needham who died at an early age and was unable to succeed his father. Unable to access photographs or any further information Richard wonders if anyone living in <em>'Black Jack'</em>s old demesne might be able to help. Do you know this man?
 
 <div class="box">
 
-<a href="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Frances_Jack_Needham.png" title="See larger version of - Frances Jack Needham"><img src="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Frances_Jack_Needham_thumb.png" width="250" height="310" alt="Frances Jack Needham" class=" left" /></a>
+<a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Frances_Jack_Needham.png" title="See larger version of - Frances Jack Needham"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Frances_Jack_Needham_thumb.png" width="250" height="310" alt="Frances Jack Needham" class=" left" /></a>
 
 h4. NOTES
 
@@ -71,7 +71,7 @@ I was able to find some information on one Francis H Needham. He was born around
 
 </div>
 
-<a href="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Kilmorey_Mausoleum.jpg" title="See larger version of - Kilmorey Mausoleum"><img src="https://stmargarets.london/assets/images/2016/KILMOREYCOINCIDENCE2_Kilmorey_Mausoleum_thumb.jpg" width="250" height="183" alt="Kilmorey Mausoleum" class="photo right" /></a>
+<a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Kilmorey_Mausoleum.jpg" title="See larger version of - Kilmorey Mausoleum"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Kilmorey_Mausoleum_thumb.jpg" width="250" height="183" alt="Kilmorey Mausoleum" class="photo right" /></a>
 
 *The Kilmorey Mausoleum will be open to the public again on Sunday 11<sup>th</sup> December between 12.00 and 3.00pm.  Admission is free.*
 

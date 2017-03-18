@@ -18,7 +18,7 @@ To provide administrative, clerical support within the school; on occasions, thi
 
 h4. More Information
 
-* "job description":https://stmargarets.london/assets/images/2013/st-stephens-vacancy-comms_officer_201309.pdf
+* "job description":/assets/images/2013/st-stephens-vacancy-comms_officer_201309.pdf
 * salary: &pounds;11.15 per hour
 * hours: 20 hours per week [afternoons], 39 weeks a year, term time only
 * annual leave: annual leave is not to be taken in term time

@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/abs_edited.JPG"><img src="https://stmargarets.london/assets/images/2006/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
+<a href="//stmargarets.london/assets/images/2006/abs_edited.JPG"><img src="/assets/images/2006/abs_edited.JPG" width="150" height="211" alt="Abi" class="photo right" /></a>
 
 Abigail has lived in St Margarets for six years, originally hailing from Scotland where she danced with Scottish Ballet, the country's national ballet company.
 

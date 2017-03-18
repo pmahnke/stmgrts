@@ -19,8 +19,8 @@ It's August, the sun is shining, the recent roadworks in Crown Road have now fin
 
 h4. Details
 
-* "Page 1":https://stmargarets.london/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-1.jpg
-* "Page 2":https://stmargarets.london/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-2.jpg
+* "Page 1":/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-1.jpg
+* "Page 2":/assets/images/2013/St-Margarets-Promo-Leaflet-Aug-2013-2.jpg
 
 
 

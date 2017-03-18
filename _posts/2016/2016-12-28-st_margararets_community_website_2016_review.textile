@@ -6,12 +6,12 @@ commentfile: 2016-12-28-st_margarets_community_website_2016_review
 category: editorial
 date: 2016-12-28 02:06:05
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/stmgrts-stats-how_access_2016.png" title="See larger version of - stmgrts stats how access 2016"><img src="https://stmargarets.london/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png" width="150" height="77" alt="stmgrts stats how access 2016" class=" right" /></a>
+    <a href="/assets/images/2016/stmgrts-stats-how_access_2016.png" title="See larger version of - stmgrts stats how access 2016"><img src="/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png" width="150" height="77" alt="stmgrts stats how access 2016" class=" right" /></a>
 
     As 2016 comes to a close, we wanted to share some quick stats on the year that's gone by, as we have in 2015 and 2014.
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/stmgrts-stats-how_access_2016.png" title="See larger version of - stmgrts stats how access 2016"><img src="https://stmargarets.london/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png" width="500" height="259" alt="stmgrts stats how access 2016" class=" center" /></a>
+<a href="/assets/images/2016/stmgrts-stats-how_access_2016.png" title="See larger version of - stmgrts stats how access 2016"><img src="/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png" width="500" height="259" alt="stmgrts stats how access 2016" class=" center" /></a>
 
 As 2016 comes to a close, we wanted to share some quick stats on the year that has gone by, as we have in "2015":/archives/2015/12/st_margarets_community_website_2015_review.html  and "2014":/archives/2014/12/st_margarets_community_website_2014_review.html.  The site has gone through many big changes this year, but not many people will notice, including:
 
@@ -80,7 +80,7 @@ Perhaps less newsletter means a slight decline in usage over 2015:
 
 h3. How people accessed the site
 
-<a href="https://stmargarets.london/assets/images/2016/stmgrts-stats-devices_2016.png" title="See larger version of - stmgrts stats devices 2016"><img src="https://stmargarets.london/assets/images/2016/stmgrts-stats-devices_2016_thumb.png" width="250" height="189" alt="stmgrts stats devices 2016" class=" right" /></a>
+<a href="/assets/images/2016/stmgrts-stats-devices_2016.png" title="See larger version of - stmgrts stats devices 2016"><img src="/assets/images/2016/stmgrts-stats-devices_2016_thumb.png" width="250" height="189" alt="stmgrts stats devices 2016" class=" right" /></a>
 
 One trend we have been watching is how many people are now using the site on phones and tablets.  This is why we continue making the site work better on smaller screens.
 

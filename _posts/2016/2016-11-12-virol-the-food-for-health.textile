@@ -7,28 +7,28 @@ category: around_town
 date: 2016-11-12 11:04:39
 author: "Martyn Day"
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="150" height="78" alt="Virol Lady" class="photo right" /></a>
+    <a href="/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="150" height="78" alt="Virol Lady" class="photo right" /></a>
 
     When I was child living in Tufnell Park in the late 1940s a regular feature of my Primary School week was the arrival of the Virol Lady. She would turn up every Monday morning and dole out to anyone with a penny in their pocket a spoonful of Virol, a brown, sweet and incredibly sticky Malt Extract. She came equipped for the job with a jumbo sized jar of the miracle cure along with a massive key ring strung with hundreds of battered spoons.
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="https://stmargarets.london/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="250" height="131" alt="Virol Lady" class="photo right" /></a>
+<a href="/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="250" height="131" alt="Virol Lady" class="photo right" /></a>
 
 When I was child living in Tufnell Park in the late 1940s a regular feature of my Primary School week was the arrival of the Virol Lady. She would turn up every Monday morning and dole out to anyone with a penny in their pocket a spoonful of Virol, a brown, sweet and incredibly sticky Malt Extract. She came equipped for the job with a jumbo sized jar of the miracle cure along with a massive key ring strung with hundreds of battered spoons. You paid your money, then Virol Lady took the next clean spoon on her giant ring, scooped out a dollop of the brown goo from the jar and gave it to you. I cannot remember if the woman took the spoon off the ring or whether you had to slurp up the Virol with the jangling keyring swinging in front of your nose. I can remember that the next customer always got the next clean spoon.
 
-<a href="https://stmargarets.london/assets/images/2016/VIROL_Martyn_1953.jpg" title="See larger version of - Martyn 1953"><img src="https://stmargarets.london/assets/images/2016/VIROL_Martyn_1953_thumb.jpg" width="250" height="411" alt="Martyn 1953" class="photo right" /></a>
+<a href="/assets/images/2016/VIROL_Martyn_1953.jpg" title="See larger version of - Martyn 1953"><img src="/assets/images/2016/VIROL_Martyn_1953_thumb.jpg" width="250" height="411" alt="Martyn 1953" class="photo right" /></a>
 
 My first introduction to philosophy came as I wondered if the Virol Lady actually washed all the spoons once they had been used or did she simply recycle them in their <em>'sucked and sticky'</em> state. Did we know? Did we care? Discuss.
 
 Although we were all probably healthier in the late 1940s and early 1950s than we are now, what with wartime rationing on virtually everything we ate and loads of exercise, (few families had cars in those days), there was the lingering fear that we were undernourished. The new formed Welfare State kept us topped up with free orange juice, cod liver oil and dried milk but for over anxious parents there were additional supplements they could buy like Roboleine, Radio Malt, Haliborange, Metatone Liquid Tonic and probably the most popular as far as children were concerned - Virol. Tasty!
 
-<a href="https://stmargarets.london/assets/images/2016/VIROL_Kanga_and_Roo.jpg" title="See larger version of - Kanga and Roo"><img src="https://stmargarets.london/assets/images/2016/VIROL_Kanga_and_Roo_thumb.jpg" width="250" height="184" alt="Kanga and Roo" class="photo right" /></a>
+<a href="/assets/images/2016/VIROL_Kanga_and_Roo.jpg" title="See larger version of - Kanga and Roo"><img src="/assets/images/2016/VIROL_Kanga_and_Roo_thumb.jpg" width="250" height="184" alt="Kanga and Roo" class="photo right" /></a>
 
 Virol was a by-product of the brewing industry, packed full of nutrients, including vitamins A, B and D, riboflavin, malt, sugar, egg, orange juice and refined fats. Small wonder that in <em>'The House at Pooh Corner'</em>, Kanga gives baby Roo malt extract as a <em>"strengthening medicine"</em>.
 
 <div class="box">
 
-<a href="https://stmargarets.london/assets/images/2016/VIROL_Virol_Enamel_Sign.png" title="See larger version of - Virol Enamel Sign"><img src="https://stmargarets.london/assets/images/2016/VIROL_Virol_Enamel_Sign_thumb.png" width="500" height="196" alt="Virol Enamel Sign" class="photo center" /></a>
+<a href="/assets/images/2016/VIROL_Virol_Enamel_Sign.png" title="See larger version of - Virol Enamel Sign"><img src="/assets/images/2016/VIROL_Virol_Enamel_Sign_thumb.png" width="500" height="196" alt="Virol Enamel Sign" class="photo center" /></a>
 
 <div class="left clear" style="width: 100%; font-size: 2em; padding: 1em 0; clear: both;">Virol.  Anaemic Girls Need It!</div>
 
@@ -48,7 +48,7 @@ bq. Come, Hygiene, goddess of the growing boy, I here salute thee in Sanatogen
 
 h3. A SPOONFUL OF VIROL
 
-<a href="https://stmargarets.london/assets/images/2016/VIROL_virol_display.jpg" title="See larger version of - virol display"><img src="https://stmargarets.london/assets/images/2016/VIROL_virol_display_thumb.jpg" width="250" height="375" alt="virol display" class="photo right" /></a>
+<a href="/assets/images/2016/VIROL_virol_display.jpg" title="See larger version of - virol display"><img src="/assets/images/2016/VIROL_virol_display_thumb.jpg" width="250" height="375" alt="virol display" class="photo right" /></a>
 
 * 1899 *Virol* was produced experimentally by Bovril, in their Old Street factory in London.
 * 1900 The company was registered on 20 January, to take over the business of manufacturing and selling the food known as *Virol*.

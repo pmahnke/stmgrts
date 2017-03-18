@@ -6,7 +6,7 @@ commentfile: 2016-07-08-event-st-margarets-fair-2016
 category: around_town
 date: 2016-07-08 14:18:30
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/St-Margarets-Fair-Programme-2016.jpg" title="This year's Fair artwork  by local illustrator Ali Pye"><img src="https://stmargarets.london/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg" width="150" height="208" alt="This year's Fair artwork  by local illustrator Ali Pye" class="photo right" /></a>
+    <a href="/assets/images/2016/St-Margarets-Fair-Programme-2016.jpg" title="This year's Fair artwork  by local illustrator Ali Pye"><img src="/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg" width="150" height="208" alt="This year's Fair artwork  by local illustrator Ali Pye" class="photo right" /></a>
 
     The St Margarets Fair is on Moormead on Saturday 9 July - a great day of family fun guaranteed.
 
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/St-Margarets-Fair-Programme-2016.jpg" title="This year's Fair artwork  by local illustrator Ali Pye"><img src="https://stmargarets.london/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg" width="250" height="347" alt="This year's Fair artwork  by local illustrator Ali Pye" class="photo right" /></a>
+<a href="/assets/images/2016/St-Margarets-Fair-Programme-2016.jpg" title="This year's Fair artwork  by local illustrator Ali Pye"><img src="/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg" width="250" height="347" alt="This year's Fair artwork  by local illustrator Ali Pye" class="photo right" /></a>
 
 The St Margarets Fair is back on Moormead on Saturday 9 July - a great day of family fun guaranteed.
 

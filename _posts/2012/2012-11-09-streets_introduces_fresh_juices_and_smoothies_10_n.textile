@@ -12,7 +12,7 @@ excerpt: |
 
     Streets Florist and Greengrocers offer a great selection of fresh juices and smoothies as well as letting people pick their own flavours.
 
-    Print out and bring "this poster":https://stmargarets.london/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
+    Print out and bring "this poster":/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
 
 
 
@@ -24,7 +24,7 @@ _Grand opening on 10 November 2012_
 
 Streets Florist and Greengrocers offer a great selection of fresh juices and smoothies as well as letting people pick their own flavours.
 
-Print out and bring "this poster":https://stmargarets.london/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
+Print out and bring "this poster":/assets/images/2012/StreetsFlyer-SOCIAL.jpg and get a Free drink.
 
 
 

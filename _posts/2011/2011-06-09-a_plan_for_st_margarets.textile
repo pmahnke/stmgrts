@@ -26,7 +26,7 @@ bq. "We love St Margarets and care that it retains its village atmosphere and un
 
 Ideas include getting a fishmonger and a bakery and adding more retail space on St Margarets and Crown Roads.
 
-You can "download and read the leaflet":https://stmargarets.london/assets/images/2011/St_Margarets_plan.pdf [pdf]
+You can "download and read the leaflet":/assets/images/2011/St_Margarets_plan.pdf [pdf]
 
 _What do you think?_
 

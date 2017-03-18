@@ -22,7 +22,7 @@ h4. More Information
 
 * See "www.campaignfordrawing.org/bigdraw":http://www.campaignfordrawing.org/bigdraw
 * email  "turnerintwickenham@gmail.com":mailto:turnerintwickenham@gmail.com.
-* "View the poster":https://stmargarets.london/assets/images/2012/BIG_Draw_at_Turners_House.jpg
+* "View the poster":/assets/images/2012/BIG_Draw_at_Turners_House.jpg
 
 _Note: we are sorry the unrestored house is not suitable for under 4s or those with mobility difficulties._
 

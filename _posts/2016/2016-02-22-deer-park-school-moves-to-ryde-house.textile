@@ -6,12 +6,12 @@ commentfile: 2016-02-22-deer-park-school-moves-to-ryde-house
 category: news
 date: 2016-02-22 18:07:53
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/deer-park-school.jpg" title="See larger version of - deer park school"><img src="https://stmargarets.london/assets/images/2016/deer-park-school_thumb.jpg" width="150" height="91" alt="deer park school" class="photo right" /></a>
+    <a href="/assets/images/2016/deer-park-school.jpg" title="See larger version of - deer park school"><img src="/assets/images/2016/deer-park-school_thumb.jpg" width="150" height="91" alt="deer park school" class="photo right" /></a>
 
     Deer Park School, the two-form entry primary school which opened in September 2015 on a temporary site at Richmond Adult Community College, will have a permanent site as part of a re-development of the Ryde House site in East Twickenham.
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/deer-park-school.jpg" title="See larger version of - deer park school"><img src="https://stmargarets.london/assets/images/2016/deer-park-school_thumb.jpg" width="250" height="153" alt="deer park school" class="photo right" /></a>
+<a href="/assets/images/2016/deer-park-school.jpg" title="See larger version of - deer park school"><img src="/assets/images/2016/deer-park-school_thumb.jpg" width="250" height="153" alt="deer park school" class="photo right" /></a>
 
 Deer Park School, the two-form entry primary school which opened in September 2015 on a temporary site at Richmond Adult Community College, will have a permanent site as part of a re-development of the Ryde House site in East Twickenham.
 

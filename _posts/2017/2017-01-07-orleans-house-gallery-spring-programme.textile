@@ -6,7 +6,7 @@ commentfile: 2017-01-07-orleans-house-gallery-spring-programme
 category: around_town
 date: 2017-01-07 15:26:03
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg" width="150" alt="Image - springprogrammeorleanshousegallery-Art--History--Lectures" class="photo right"  /></a>
+    <a href="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg" width="150" alt="Image - springprogrammeorleanshousegallery-Art--History--Lectures" class="photo right"  /></a>
 
     Check out our brand new spring programme for adults. We are also offering a 10% discount to Richmond Card holders across all the programmes listed.
 ---
@@ -17,7 +17,7 @@ Check out our brand new spring programme for adults. We are also offering a 10% 
 h3. Talks & Lectures
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Art--History--Lectures" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Art--History--Lectures" class="photo right"  /></a>
 
 
 
@@ -53,7 +53,7 @@ h3. Workshops
 h4. Painting Class: Botanical Illustrations
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Botanical--Illustration.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Botanical--Illustration-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Botanical--Illustration" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Botanical--Illustration.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Botanical--Illustration-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Botanical--Illustration" class="photo right"  /></a>
 
 
 
@@ -71,7 +71,7 @@ Responding to our Botanical Beauty exhibition, these sessions will explore the a
 h4. Life Drawing
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Life--Drawing.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Life--Drawing-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Life--Drawing" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Life--Drawing.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Life--Drawing-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Life--Drawing" class="photo right"  /></a>
 
 
 
@@ -88,7 +88,7 @@ Draw from a life model under the guidance of an artist and learn simple and effe
 h4. Creative Writing: Painting to Paper
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Creative--Writing--.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Creative--Writing---thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Creative--Writing--" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Creative--Writing--.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Creative--Writing---thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Creative--Writing--" class="photo right"  /></a>
 
 
 
@@ -116,7 +116,7 @@ Explore the current exhibition Lose Your Mind through music and drawing. All age
 _Visit the free exhibition_
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Lose--Your--Mind.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Lose--Your--Mind-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Lose--Your--Mind" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Lose--Your--Mind.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Lose--Your--Mind-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Lose--Your--Mind" class="photo right"  /></a>
 
 h4. Lose Your Mind
 
@@ -128,7 +128,7 @@ h3. Community
 h4. English as an Additional Language (EAL)
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-EAL--Art--Group.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-EAL--Art--Group-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-EAL--Art--Group" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-EAL--Art--Group.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-EAL--Art--Group-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-EAL--Art--Group" class="photo right"  /></a>
 
 
 
@@ -150,7 +150,7 @@ Please contact please contact Charlotte Cranidge at "artseducation@richmond.gov.
 h4. Talk & Draw - Dementia Friendly
 
 
-<a href="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Talk--and--Draw.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/springprogrammeorleanshousegallery-Talk--and--Draw-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Talk--and--Draw" class="photo right"  /></a>
+<a href="/assets/images/2017/springprogrammeorleanshousegallery-Talk--and--Draw.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Talk--and--Draw-thumb.jpg" width="250" alt="Image - springprogrammeorleanshousegallery-Talk--and--Draw" class="photo right"  /></a>
 
 
 

@@ -31,7 +31,7 @@ Entertainment on the night includes:
 * Cash Bar
 * Food available
 
-"View the flyer":https://stmargarets.london/assets/images/2012/A5_Courtfield_Gardens_flyer._pdf.jpg
+"View the flyer":/assets/images/2012/A5_Courtfield_Gardens_flyer._pdf.jpg
 
 
 _John D Wood have kindly sponsored our marquee, so the party will go on come rain or shine!_

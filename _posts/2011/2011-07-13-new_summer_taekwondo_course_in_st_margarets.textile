@@ -36,7 +36,7 @@ Our *Adult class* will give you the chance to get fit in a fun environment. As w
 
 h4. Details
 
-* "Download the flyer":https://stmargarets.london/assets/images/2011/Twickenham-TKD-Flyer.jpg
+* "Download the flyer":/assets/images/2011/Twickenham-TKD-Flyer.jpg
 * Every Monday from 25<sup>th</sup> July to 15<sup>th</sup> August
 * Classes held in Winchester Hall, The Turks Head, TW1 1LF
 * Contact information

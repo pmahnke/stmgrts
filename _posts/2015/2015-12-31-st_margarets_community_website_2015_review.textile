@@ -6,12 +6,12 @@ commentfile: 2015-12-31-st_margarets_community_website_2015_review
 category: editorial
 date: 2015-12-31 10:06:05
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="https://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="150" height="117" alt="how access 2015" class=" right" /></a>
+    <a href="/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="/assets/images/2015/how_access_2015_thumb.png" width="150" height="117" alt="how access 2015" class=" right" /></a>
 
     As 2015 comes to a close, we wanted to share some quick stats on the year that's gone by.
 ---
 
-<a href="https://stmargarets.london/assets/images/2015/users_by_week_2015.png" title="See larger version of - users by week 2015"><img src="https://stmargarets.london/assets/images/2015/users_by_week_2015_thumb.png" width="500" height="189" alt="users by week 2015" class=" center" /></a>
+<a href="/assets/images/2015/users_by_week_2015.png" title="See larger version of - users by week 2015"><img src="/assets/images/2015/users_by_week_2015_thumb.png" width="500" height="189" alt="users by week 2015" class=" center" /></a>
 
 As 2015 comes to a close, we wanted to share some quick stats on the year that's gone by.
 
@@ -65,7 +65,7 @@ No big changes here:
 
 h3. How people accessed the site
 
-<a href="https://stmargarets.london/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="https://stmargarets.london/assets/images/2015/how_access_2015_thumb.png" width="250" height="195" alt="how access 2015" class=" right" /></a>
+<a href="/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="/assets/images/2015/how_access_2015_thumb.png" width="250" height="195" alt="how access 2015" class=" right" /></a>
 
 One trend we have been watching is how many people are now using the site on phones and tablets.  This is why we continue making the site work better on smaller screens.
 

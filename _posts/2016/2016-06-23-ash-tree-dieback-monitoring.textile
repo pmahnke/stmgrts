@@ -6,11 +6,11 @@ commentfile: 2016-06-23-ash-tree-dieback-monitoring
 category: around_town
 date: 2016-06-23 18:42:40
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/ash-tree.jpg" title="See larger version of - ash tree"><img src="https://stmargarets.london/assets/images/2016/ash-tree_thumb.jpg" width="150" height="200" alt="ash tree" class="photo right" /></a>
+    <a href="/assets/images/2016/ash-tree.jpg" title="See larger version of - ash tree"><img src="/assets/images/2016/ash-tree_thumb.jpg" width="150" height="200" alt="ash tree" class="photo right" /></a>
 
     A call for involvement and help from residents to help monitor ash die back across Richmond Borough.
 ---
-<a href="https://stmargarets.london/assets/images/2016/ash-tree.jpg" title="See larger version of - ash tree"><img src="https://stmargarets.london/assets/images/2016/ash-tree_thumb.jpg" width="250" height="333" alt="ash tree" class="photo right" /></a>
+<a href="/assets/images/2016/ash-tree.jpg" title="See larger version of - ash tree"><img src="/assets/images/2016/ash-tree_thumb.jpg" width="250" height="333" alt="ash tree" class="photo right" /></a>
 
 
 _A call for involvement and help from residents to help monitor ash die back across Richmond Borough_

@@ -7,13 +7,13 @@ category: around_town
 date: 2016-02-03 20:36:53
 author: Martyn Day
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/FITZ_sword_fight.jpg" title="See larger version of - sword fight"><img src="https://stmargarets.london/assets/images/2016/FITZ_sword_fight_thumb.jpg" width="150" height="94" alt="sword fight" class="photo right" /></a>
+    <a href="/assets/images/2016/FITZ_sword_fight.jpg" title="See larger version of - sword fight"><img src="/assets/images/2016/FITZ_sword_fight_thumb.jpg" width="150" height="94" alt="sword fight" class="photo right" /></a>
 
     In 1575, in the days before John Fitz was born his father, a keen astrologer, studied the stars to see what future awaited the child. Unfortunately Dad was not reassured by the astrological indications...
 
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/FITZ_sword_fight.jpg" title="See larger version of - sword fight"><img src="https://stmargarets.london/assets/images/2016/FITZ_sword_fight_thumb.jpg" width="250" height="157" alt="sword fight" class="photo right" /></a>
+<a href="/assets/images/2016/FITZ_sword_fight.jpg" title="See larger version of - sword fight"><img src="/assets/images/2016/FITZ_sword_fight_thumb.jpg" width="250" height="157" alt="sword fight" class="photo right" /></a>
 
 <em>...or a Tragical End in Twickenham</em>
 
@@ -25,7 +25,7 @@ And Dad was right.  Although John Fitz was born with a <em>"comelinese of person
 
 One night in June 1599 he was dining with friends in Tavistock, near his family seat at Fitzford. Being extremely drunk he began to brag about his possessions and how every inch of the land he owned was freehold. His friend Nicholas Slanning interrupted him. <em>"That is not so,"</em> he said. <em>"You hold of me a parcel of land that is copyhold, and though of courtesy it has been intermitted, yet of due, you owe me so much a year for that land."</em>
 
-<a href="https://stmargarets.london/assets/images/2016/FITZ_dagger_attack.jpg" title="See larger version of - dagger attack"><img src="https://stmargarets.london/assets/images/2016/FITZ_dagger_attack_thumb.jpg" width="250" height="281" alt="dagger attack" class="right" /></a>
+<a href="/assets/images/2016/FITZ_dagger_attack.jpg" title="See larger version of - dagger attack"><img src="/assets/images/2016/FITZ_dagger_attack_thumb.jpg" width="250" height="281" alt="dagger attack" class="right" /></a>
 
 Infuriated and full of drink, John Fitz rose to his feet, pulled out his dagger and tried to stab Nicholas Slanning. Fortunately friends managed to pull the two men apart and calm the situation down. Nicholas Slanning and his footman immediately left for home.
 
@@ -36,7 +36,7 @@ Fearing arrest John Fitz fled to France. Just six months later, in December 1599
 
 bq. "The Towne of Tavistocke, though otherwise orderly governed with sobriety, and likewise of grave magistrates, was thereby infected with the beastly corruption of his drunkenesse."
 
-<a href="https://stmargarets.london/assets/images/2016/FITZ_Fitzford_House.jpg" title="See larger version of - Fitzford House"><img src="https://stmargarets.london/assets/images/2016/FITZ_Fitzford_House_thumb.jpg" width="250" height="187" alt="Fitzford House" class="photo right" /></a>
+<a href="/assets/images/2016/FITZ_Fitzford_House.jpg" title="See larger version of - Fitzford House"><img src="/assets/images/2016/FITZ_Fitzford_House_thumb.jpg" width="250" height="187" alt="Fitzford House" class="photo right" /></a>
 
 Despite his wayward behaviour in 1603, at the Coronation of James 1<sup>st</sup>, John Fitz was knighted, not for any services done to the Crown or State, but because he was of good family, well connected, and with property. On his return to Devon the newly dubbed <em>'Sir John Fitz'</em> celebrated his social advancement by kicking his wife and young child out of the family home at Fitzford because they were cramping his lifestyle.
 
@@ -44,7 +44,7 @@ By now Sir John Fitz was 28 years old and beginning to develop a powerful persec
 
 He arrived at the <em>'Anchor'</em> inn at 2.00am in the morning and banged on the door demanding entry. The landlord, Daniel Alley, told him that the inn was small and had no room for a gentleman of quality. Such was Sir John's insistence that Alley turned his own wife Agnes out of the family bed and told her to sleep with the children. He then offered the bed to Sir John... but Sir John did not sleep. His own demons had caught up with him.  Throughout that night Daniel and Agnes heard the deranged nobleman crying out against enemies who pursued him and wished him dead. Unable to sleep himself, Daniel Alley got up at dawn and left the house with Agnes crying after him not leave her alone with this mad aristocrat. Hearing the conversation Sir John Fitz, convinced that the Slannings were outside and waiting to kill him,  picked up his sword and rushed out in his nightgown. In the early morning light he stabbed poor Daniel Alley to death and wounded Agnes in the arm. Realising what he had done Sir John Fitz placed his sword against a wall and fell upon it, suffering two grievous wounds. The neighbours, roused by the shouting, seized the wounded Fitz and returned him to the landlord's bed where, refusing medical treatment, he died two days later.
 
-<a href="https://stmargarets.london/assets/images/2016/FITZ_Tragical_end_of_Sir_John_Fitz.jpg" title="See larger version of - Tragical end of Sir John Fitz"><img src="https://stmargarets.london/assets/images/2016/FITZ_Tragical_end_of_Sir_John_Fitz_thumb.jpg" width="250" height="288" alt="Tragical end of Sir John Fitz" class="photo right" /></a>
+<a href="/assets/images/2016/FITZ_Tragical_end_of_Sir_John_Fitz.jpg" title="See larger version of - Tragical end of Sir John Fitz"><img src="/assets/images/2016/FITZ_Tragical_end_of_Sir_John_Fitz_thumb.jpg" width="250" height="288" alt="Tragical end of Sir John Fitz" class="photo right" /></a>
 
 Before he died Sir John Fitz was visited at the <em>'Anchor'</em> by the chaplain of the Earl of Northumberland in an attempt ... <em>"To put him in mind what he had done how grievously hee had offended his maker in committing so detestable murders, as also in laying violent handes upon himselfe, and withal persuading him to repent"</em>.
 
