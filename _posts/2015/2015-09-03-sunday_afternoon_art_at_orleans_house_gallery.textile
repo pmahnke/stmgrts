@@ -6,14 +6,14 @@ commentfile: 2015-09-03-sunday_afternoon_art_at_orleans_house_gallery
 category: around_town
 date: 2015-09-03 22:24:35
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/sunday_art_flyer_20150903.jpg" title="See larger version of - sunday art flyer 20150903"><img src="//stmargarets.london/assets/images/2015/sunday_art_flyer_20150903_thumb.jpg" width="150" height="212" alt="sunday art flyer 20150903" class="photo right" /></a>
+    <a href="/assets/images/2015/sunday_art_flyer_20150903.jpg" title="See larger version of - sunday art flyer 20150903"><img src="/assets/images/2015/sunday_art_flyer_20150903_thumb.jpg" width="150" height="212" alt="sunday art flyer 20150903" class="photo right" /></a>
     
     Join us at Orleans House Gallery for drop-in, relaxed and creative sessions for all the family on the first Sunday afternoon of each month. Suitable for children aged 4 and above.
     
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/sunday_art_flyer_20150903.jpg" title="See larger version of - sunday art flyer 20150903"><img src="//stmargarets.london/assets/images/2015/sunday_art_flyer_20150903_thumb.jpg" width="250" height="353" alt="sunday art flyer 20150903" class="photo right" /></a>
+<a href="/assets/images/2015/sunday_art_flyer_20150903.jpg" title="See larger version of - sunday art flyer 20150903"><img src="/assets/images/2015/sunday_art_flyer_20150903_thumb.jpg" width="250" height="353" alt="sunday art flyer 20150903" class="photo right" /></a>
 
 Join us at Orleans House Gallery for drop-in, relaxed and creative sessions for all the family on the first Sunday afternoon of each month. Suitable for children aged 4 and above.
 

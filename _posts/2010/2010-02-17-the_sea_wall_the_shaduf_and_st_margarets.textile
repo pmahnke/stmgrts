@@ -6,13 +6,13 @@ commentfile: 2010-02-17-the_sea_wall_the_shaduf_and_st_margarets
 category: around_town
 date: 2010-02-17 11:56:07
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="//stmargarets.london/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
+    <a href="/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
     
     There was a time when the St Margarets that we know didn't exist. No station. No shops. No pub. No cafes, No streets crammed with cars...nothing. The Thames flowed quietly towards the sea through an open parkland of grand houses, smallholdings and market gardens. Boatmen might stop at Richmond to drop off a passenger or pull into Isleworth to collect a cargo but between the two there was little catch their interest.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="//stmargarets.london/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
+<a href="/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
 
 There was a time when the St Margarets that we know didn't exist. No station. No shops. No pub. No cafes, No streets crammed with cars...nothing. The Thames flowed quietly towards the sea through an open parkland of grand houses, smallholdings and market gardens. Boatmen might stop at Richmond to drop off a passenger or pull into Isleworth to collect a cargo but between the two there was little catch their interest.
 
@@ -30,7 +30,7 @@ bq. "The time or period when these walls were constructed is one of those events
 
 Over the last two hundred years the course of the river has been modified. Embankments were built and the tidal flow controlled by lock gates up stream and from 1894 the Richmond Half Tide lock.  As more and more houses were built in the area the land upon which they stood was raised and drained to avoid flooding. In the course of all this work the old sea walls disappeared.
 
-<a href="//stmargarets.london/assets/images/2010/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="//stmargarets.london/assets/images/2010/sea_wall_1_thumb.png" width="150" height="99" alt="DUCKS WALK" class="photo right" /></a>
+<a href="/assets/images/2010/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="/assets/images/2010/sea_wall_1_thumb.png" width="150" height="99" alt="DUCKS WALK" class="photo right" /></a>
 
 
 The last remaining sea wall in the area ran alongside 'Ducks Walk' following the course of the river from Twickenham Bridge to East Twickenham. It finally disappeared when the path was widened and the land raised to allow houses to be built. 'Ducks Walk' was well named. Prior to the builders arriving 'Ducks Walk' was much lower than it is now and often flooded at high tide. It is hard to imagine that where the houses now stand was once marshland.

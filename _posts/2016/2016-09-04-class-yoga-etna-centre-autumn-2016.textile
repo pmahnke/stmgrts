@@ -6,11 +6,11 @@ commentfile: 2016-09-04-class-yoga-etna-centre-autumn-2016
 category: around_town
 date: 2016-09-04 14:34:56
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="https://stmargarets.london/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="150" height="150" alt="GROUNDED YOGA" class="photo right" /></a>
+    <a href="/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="150" height="150" alt="GROUNDED YOGA" class="photo right" /></a>
 
     Amy Faulkner of Grounded Yoga will be teaching two classes at the ETNA Community Centre every Sunday during term time.
 ---
-<a href="https://stmargarets.london/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="https://stmargarets.london/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="250" height="250" alt="GROUNDED YOGA" class="photo right" /></a>
+<a href="/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="250" height="250" alt="GROUNDED YOGA" class="photo right" /></a>
 
 I'm Amy Faulkner of "Grounded Yoga":https://stmargarets.london/directory/health_aNd_beauty/201609041530 and I have been practising yoga for over 15 years - I love how it makes me feel both physically and emotionally and try to convey that through my teaching.  Sunday evening is a great time to try a class, to both relax the body and mind but also get your energy levels ready for the week ahead!
 

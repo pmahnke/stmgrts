@@ -6,7 +6,7 @@ commentfile: 2016-10-22-orleans-adult-programme-autumn-2016
 category: around_town
 date: 2016-10-22 14:11:08
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Talk_and_Draw.jpg" title="See larger version of - Talk and Draw"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg" width="150" alt="Talk and Draw" class="photo right" /></a>
+    <a href="/assets/images/2016/ORLEANS2016_Talk_and_Draw.jpg" title="See larger version of - Talk and Draw"><img src="/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg" width="150" alt="Talk and Draw" class="photo right" /></a>
 
     Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
 ---
@@ -15,7 +15,7 @@ Orleans House Gallery has an exciting new programme for adults this autumn - fro
 
 h3. Art History Lectures
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Art_History.jpg" title="See larger version of - ORLEANS ADULT Art History"><img src="https://stmargarets.london/assets/images/2016/ORLEANS-ADULT_Art_History_thumb.jpg" width="250" height="360" alt="ORLEANS ADULT Art History" class="photo right"></a>
+<a href="/assets/images/2016/ORLEANS-ADULT_Art_History.jpg" title="See larger version of - ORLEANS ADULT Art History"><img src="/assets/images/2016/ORLEANS-ADULT_Art_History_thumb.jpg" width="250" height="360" alt="ORLEANS ADULT Art History" class="photo right"></a>
 
 _Weekly Masterpiece_
 
@@ -39,7 +39,7 @@ h4. More Information
 
 h3. Talk & Draw - Dementia Friendly
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Talk_and_Draw.jpg" title="See larger version of - Talk and Draw"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg" width="250" height="166" alt="Talk and Draw" class="photo right" /></a>
+<a href="/assets/images/2016/ORLEANS2016_Talk_and_Draw.jpg" title="See larger version of - Talk and Draw"><img src="/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg" width="250" height="166" alt="Talk and Draw" class="photo right" /></a>
 
 Join this conversational session which focuses on an art piece in our gallery. The group will be engaged in a light arts and craft activity based around the collection or current exhibition. Hosted on the first Thursday of the month.
 
@@ -51,7 +51,7 @@ h4. More Information
 
 h3. The Painting Class
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Painting_Class.jpg" title="See larger version of - Painting Class"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Painting_Class_thumb.jpg" width="250" height="187" alt="Painting Class" class="photo right" /></a>
+<a href="/assets/images/2016/ORLEANS2016_Painting_Class.jpg" title="See larger version of - Painting Class"><img src="/assets/images/2016/ORLEANS2016_Painting_Class_thumb.jpg" width="250" height="187" alt="Painting Class" class="photo right" /></a>
 
 _Portraits, Oil_
 
@@ -71,7 +71,7 @@ h4. More Information
 
 h3. Creative Writing
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Creative_Writing.jpg" title="See larger version of - Creative Writing"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Creative_Writing_thumb.jpg" width="250" height="142" alt="Creative Writing" class="photo right" /></a>
+<a href="/assets/images/2016/ORLEANS2016_Creative_Writing.jpg" title="See larger version of - Creative Writing"><img src="/assets/images/2016/ORLEANS2016_Creative_Writing_thumb.jpg" width="250" height="142" alt="Creative Writing" class="photo right" /></a>
 
 _Master Class in Creative Writing_
 
@@ -88,7 +88,7 @@ h4. More Information
 
 h3. Scissors Paper Cloth
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Scissors_Paper_Cloth.jpg" title="See larger version of - Scissors Paper Cloth"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Scissors_Paper_Cloth_thumb.jpg" width="250" height="250" alt="Scissors Paper Cloth" class="photo right" /></a>
+<a href="/assets/images/2016/ORLEANS2016_Scissors_Paper_Cloth.jpg" title="See larger version of - Scissors Paper Cloth"><img src="/assets/images/2016/ORLEANS2016_Scissors_Paper_Cloth_thumb.jpg" width="250" height="250" alt="Scissors Paper Cloth" class="photo right" /></a>
 
 _Crafty Makers: Upcycled Jewellery_
 
@@ -108,7 +108,7 @@ h4. More Information
 
 h3. Meet the Artist
 
-<a href="https://stmargarets.london/assets/images/2016/ORLEANS2016_Meet_the_Artist.jpg" title="See larger version of - Meet the Artist"><img src="https://stmargarets.london/assets/images/2016/ORLEANS2016_Meet_the_Artist_thumb.jpg" width="250" height="250" alt="Meet the Artist" class="photo right" /></a>
+<a href="/assets/images/2016/ORLEANS2016_Meet_the_Artist.jpg" title="See larger version of - Meet the Artist"><img src="/assets/images/2016/ORLEANS2016_Meet_the_Artist_thumb.jpg" width="250" height="250" alt="Meet the Artist" class="photo right" /></a>
 
 Series of workshops delivered by the KAOS artists in response to their exhibition:
 

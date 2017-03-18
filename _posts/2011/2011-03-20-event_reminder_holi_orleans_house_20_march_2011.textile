@@ -8,7 +8,7 @@ date: 2011-03-20 12:32:25
 
 ---
 
-<img src="//stmargarets.london/assets/images/2011/holi_images_2009-3.jpg" alt="Holi fun" class="photo right" width="150" />
+<img src="/assets/images/2011/holi_images_2009-3.jpg" alt="Holi fun" class="photo right" width="150" />
 
 _Come join the crowds throwing brightly coloured pigment to celebrate the end of Winter!_
 

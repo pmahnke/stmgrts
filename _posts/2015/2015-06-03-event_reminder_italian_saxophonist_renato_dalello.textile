@@ -6,7 +6,7 @@ commentfile: 2015-06-03-event_reminder_italian_saxophonist_renato_dalello
 category: around_town
 date: 2015-06-03 22:07:10
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/renato_portrait.jpg" title="See larger version of - renato portrait"><img src="//stmargarets.london/assets/images/2015/renato_portrait_thumb.jpg" width="150"  alt="renato portrait" class="photo right" /></a>
+    <a href="/assets/images/2015/renato_portrait.jpg" title="See larger version of - renato portrait"><img src="/assets/images/2015/renato_portrait_thumb.jpg" width="150"  alt="renato portrait" class="photo right" /></a>
     
     _featuring Dave Warren_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/renato_portrait.jpg" title="See larger version of - renato portrait"><img src="//stmargarets.london/assets/images/2015/renato_portrait_thumb.jpg" width="250" height="339" alt="renato portrait" class="photo right" /></a>
+<a href="/assets/images/2015/renato_portrait.jpg" title="See larger version of - renato portrait"><img src="/assets/images/2015/renato_portrait_thumb.jpg" width="250" height="339" alt="renato portrait" class="photo right" /></a>
 
 _featuring Dave Warren_
 

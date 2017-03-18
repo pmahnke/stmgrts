@@ -6,7 +6,7 @@ commentfile: 2011-10-27-7_january_1928_the_day_that_st_margarets_flooded
 category: around_town
 date: 2011-10-27 22:35:02
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="//stmargarets.london/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
+    <a href="/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
 
     The warning signs were in the local newspapers for all to see...
 
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="//stmargarets.london/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
+<a href="/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
 
 The warning signs were in the local newspapers for all to see...
 
@@ -34,7 +34,7 @@ bq. "I heard no bells when New Year 1928 came in, except the striking of the clo
 
 Heavy snow had fallen over the Christmas holiday followed by a sudden thaw on New Year's Eve and then unusually heavy rain. The amount of water coming down the Thames doubled, coinciding with a high spring tide and a storm surge coming up the river. Water levels in the Thames Estuary rose to 4 feet above normal. Further up stream as the river narrowed water levels rose even more. At 1.30am on the morning of 7<sup>th</sup> January 1928 the river reached 18'3" above the datum line - the highest water level ever recorded. At Teddington Lock water was pouring over the weir at 9,000 million gallons every 24 hours. From Greenwich to Twickenham and up the tidal reaches of the River Crane the embankments holding the torrent began to fail. Around 2.00am on the morning of Saturday 7<sup>th</sup> January 1928 flood water poured into St Margarets, Richmond and East Twickenham. Later that same day "The Richmond and Twickenham Times" reported the story...
 
-<a href="//stmargarets.london/assets/images/2011/FLOOD_Defore-Avenue.jpg" title="See larger version of - Defore Avenue"><img src="//stmargarets.london/assets/images/2011/FLOOD_Defore-Avenue_thumb.jpg" width="150" height="85" alt="Defore Avenue" class="photo right" /></a>
+<a href="/assets/images/2011/FLOOD_Defore-Avenue.jpg" title="See larger version of - Defore Avenue"><img src="/assets/images/2011/FLOOD_Defore-Avenue_thumb.jpg" width="150" height="85" alt="Defore Avenue" class="photo right" /></a>
 
 
 bq. "Residents roused at 2.00am! The highest tide in living memory came up into the roadway, invaded the shops on the Twickenham side of Richmond Bridge and held up car traffic and pedestrians. From midnight until four o'clock the roadway was under water to a depth of over a foot... All the ground floors of the flats were flooded and for over 200 yards along the Richmond Road water was level with the shops ground floors."
@@ -47,7 +47,7 @@ Old Deer Park disappeared under about 3 feet of water as did Ranelagh Drive and 
 
 bq. "The rapid overflowing of the river Crane and the effects of the thaw quickly inundated the Mead... for the first time for many years the path leading from the bottom of Godstone Road to Cole Park Road was impassable. The water extended well onto Bandy Close and was even trickling through the gates into Moor Mead Road...  (it) encroached upon the gardens of houses in St Margarets Grove and reached the bottom of South Western Road through the passage. In some places it was nearly three feet deep...and the water was only a few inches from the top of the arches of the bridge near Hill View Road... Number 93 St Margarets Grove, occupied by Mr and Mrs Moore was surrounded by water...  When Mr Moore returned home from work he had to wade knee deep to get to the front door... In order to do some shopping Mrs Moore had to climb through the front windows of the house, walk along the sills where her husband carried her over the fence of the next garden to dry land...
 
-<a href="//stmargarets.london/assets/images/2011/FLOOD_children-tobogganing.jpg" title="See larger version of - Children Tobogganing"><img src="//stmargarets.london/assets/images/2011/FLOOD_children-tobogganing_thumb.jpg" width="150" height="112" alt="Children Tobogganing" class="photo right" /></a>
+<a href="/assets/images/2011/FLOOD_children-tobogganing.jpg" title="See larger version of - Children Tobogganing"><img src="/assets/images/2011/FLOOD_children-tobogganing_thumb.jpg" width="150" height="112" alt="Children Tobogganing" class="photo right" /></a>
 
 
 Blame for the widespread flooding of Moor Mead was attributed to 'mischievous' children who during the snowy weather over Christmas had used the embankment holding back the river Crane for tobogganing...
@@ -71,7 +71,7 @@ bq. "What happened the other day was that a high tide, amounting almost to a bor
 
 <div class="box">
 
-|<a href="//stmargarets.london/assets/images/2011/FLOOD_All-Saints-Isleworth.jpg" title="See larger version of - Martyn pointing to the level at All Saints in Isleworth"><img src="//stmargarets.london/assets/images/2011/FLOOD_All-Saints-Isleworth_thumb.jpg" width="150" height="193" alt="Martyn pointing to the level at All Saints in Isleworth" class="photo" /></a>|<a href="//stmargarets.london/assets/images/2011/FLOOD_Slug-and-Lettuce.jpg" title="See larger version of - Flood line in Richmond"><img src="//stmargarets.london/assets/images/2011/FLOOD_Slug-and-Lettuce_thumb.jpg" width="150" height="225" alt="Flood line in Richmond" class="photo right" /></a>|<a href="//stmargarets.london/assets/images/2011/FLOOD_Half-tide-lock.jpg" title="See larger version of - Half tide lock"><img src="//stmargarets.london/assets/images/2011/FLOOD_Half-tide-lock_thumb.jpg" width="150" height="171" alt="Half tide lock" class="photo" /></a>|
+|<a href="/assets/images/2011/FLOOD_All-Saints-Isleworth.jpg" title="See larger version of - Martyn pointing to the level at All Saints in Isleworth"><img src="/assets/images/2011/FLOOD_All-Saints-Isleworth_thumb.jpg" width="150" height="193" alt="Martyn pointing to the level at All Saints in Isleworth" class="photo" /></a>|<a href="/assets/images/2011/FLOOD_Slug-and-Lettuce.jpg" title="See larger version of - Flood line in Richmond"><img src="/assets/images/2011/FLOOD_Slug-and-Lettuce_thumb.jpg" width="150" height="225" alt="Flood line in Richmond" class="photo right" /></a>|<a href="/assets/images/2011/FLOOD_Half-tide-lock.jpg" title="See larger version of - Half tide lock"><img src="/assets/images/2011/FLOOD_Half-tide-lock_thumb.jpg" width="150" height="171" alt="Half tide lock" class="photo" /></a>|
 
 
 

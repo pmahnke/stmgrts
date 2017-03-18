@@ -12,7 +12,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="//stmargarets.london/assets/images/2006/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
+<a href="/assets/images/2006/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="/assets/images/2006/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
 
 "The Good Wine Shop":https://stmargarets.london/directory/wine_aNd_spirits/200511281416 in Isleworth is hosting a special pre-Christmas "wine tasting event":https://stmargarets.london/event/Exhibition/200611131514.
 

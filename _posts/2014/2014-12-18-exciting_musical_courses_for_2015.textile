@@ -12,7 +12,7 @@ Here are a few singing, ukulele and songwriting courses from Suyra and Elaine fo
 
 h4. Songwriting workshop
 
-<a href="//stmargarets.london/assets/images/2014/SongwritingPosterMaster2_2015.jpg" title="See larger version of - SongwritingPosterMaster2 2015"><img src="//stmargarets.london/assets/images/2014/SongwritingPosterMaster2_2015_thumb.jpg" width="250" height="353" alt="SongwritingPosterMaster2 2015" class="photo right" /></a>
+<a href="/assets/images/2014/SongwritingPosterMaster2_2015.jpg" title="See larger version of - SongwritingPosterMaster2 2015"><img src="/assets/images/2014/SongwritingPosterMaster2_2015_thumb.jpg" width="250" height="353" alt="SongwritingPosterMaster2 2015" class="photo right" /></a>
 
 _Saturday 10<sup>th</sup> January from 10am to 3.30pm at Twickenham Library_
 
@@ -27,7 +27,7 @@ h4. More Information
 
 h3. Ukulele Courses
 
-<a href="//stmargarets.london/assets/images/2014/Ukulele-Beginners-Course-Spring-2015.jpg" title="See larger version of - Ukulele Beginners Course Spring 2015"><img src="//stmargarets.london/assets/images/2014/Ukulele-Beginners-Course-Spring-2015_thumb.jpg" width="250" height="355" alt="Ukulele Beginners Course Spring 2015" class="photo right" /></a>
+<a href="/assets/images/2014/Ukulele-Beginners-Course-Spring-2015.jpg" title="See larger version of - Ukulele Beginners Course Spring 2015"><img src="/assets/images/2014/Ukulele-Beginners-Course-Spring-2015_thumb.jpg" width="250" height="355" alt="Ukulele Beginners Course Spring 2015" class="photo right" /></a>
 
 The next Ukulele Beginners Course is on 15<sup>th</sup>, 22<sup>nd</sup> and 29<sup>th</sup> January 7.30pm to 9.00pm at ETNA, Rosslyn Road, Twickenham. Learn basic chords, strumming patterns and a range of songs both classic and modern. Complete beginners welcome. Price is &pound;65.00, early bird price &pound;50.00 if booked by 5<sup>th</sup> January. The next improvers course will be in March - more details to follow soon.
 
@@ -38,7 +38,7 @@ h4. More Information
 
 h4. Vital Voices Singing Group
 
-<a href="//stmargarets.london/assets/images/2014/Voices_Generic_A3.jpg" title="See larger version of - Voices "><img src="//stmargarets.london/assets/images/2014/Voices_Generic_A3_thumb.jpg" width="250" height="353" alt="Voices " class="photo right" /></a>
+<a href="/assets/images/2014/Voices_Generic_A3.jpg" title="See larger version of - Voices "><img src="/assets/images/2014/Voices_Generic_A3_thumb.jpg" width="250" height="353" alt="Voices " class="photo right" /></a>
 
 For anyone who'd like to develop their singing and percussion skills we'd love to see you on Thursday mornings from 10am to 12noon at a private house in St Margarets. All abilities welcome, you don't have to be able to read music or be an experienced singer! We not only sing part songs but work on developing range and tone, learn to improvise and harmonise by ear, plus exploring, pushing the boundaries, playing with and learning how to care for our voice as well as some fabulous breathing techniques.
 

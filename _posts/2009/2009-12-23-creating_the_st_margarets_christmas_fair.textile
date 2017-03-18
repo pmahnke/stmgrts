@@ -6,7 +6,7 @@ commentfile: 2009-12-23-creating_the_st_margarets_christmas_fair
 category: around_town
 date: 2009-12-23 11:31:31
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/xmasfair09_uglysisters.jpg" title="See larger version of - Ugly Sisters"><img src="//stmargarets.london/assets/images/2009/xmasfair09_uglysisters_thumb.jpg" width="150" height="112" alt="Ugly Sisters" class="photo right" /></a>
+    <a href="/assets/images/2009/xmasfair09_uglysisters.jpg" title="See larger version of - Ugly Sisters"><img src="/assets/images/2009/xmasfair09_uglysisters_thumb.jpg" width="150" height="112" alt="Ugly Sisters" class="photo right" /></a>
     
     
     I have lived in St Margarets for many years now and my family and I really enjoy the events that are held in our community, we loved the recent Christmas Fair in Crown road.
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/xmasfair09_uglysisters.jpg" title="See larger version of - Ugly Sisters"><img src="//stmargarets.london/assets/images/2009/xmasfair09_uglysisters_thumb.jpg" width="150" height="112" alt="Ugly Sisters" class="photo right" /></a>
+<a href="/assets/images/2009/xmasfair09_uglysisters.jpg" title="See larger version of - Ugly Sisters"><img src="/assets/images/2009/xmasfair09_uglysisters_thumb.jpg" width="150" height="112" alt="Ugly Sisters" class="photo right" /></a>
 
 
 I have lived in St Margarets for many years now and my family and I really enjoy the events that are held in our community, we loved the recent Christmas Fair in Crown road.
@@ -32,7 +32,7 @@ This year the Fair had the addition of the St Margarets show written by local wr
 
 
 
-<a href="//stmargarets.london/assets/images/2009/xmasfair09_dancers.jpg" title="See larger version of - Dancers"><img src="//stmargarets.london/assets/images/2009/xmasfair09_dancers_thumb.jpg" width="150" height="112" alt="Dancers" class="photo right" /></a>
+<a href="/assets/images/2009/xmasfair09_dancers.jpg" title="See larger version of - Dancers"><img src="/assets/images/2009/xmasfair09_dancers_thumb.jpg" width="150" height="112" alt="Dancers" class="photo right" /></a>
 
 Abigail and Liz had the first meeting in October on the 09.45 from St Margarets to Clapham Junction when they both happened to be in the same carriage. In a mad cap 15 minutes much to the interest of the rest of the commuters the show was conceived and responsibilities divided up. The next time all the participants met was on the day! Fortunately everybody had done what they said and the show could go on with the support of our local actors Jemma Churchill known for Waterloo Road, Holby City, Midsommer Murders, Paul Bown, Watching, Mersey Beat, and to be seen in the Christmas Special of My Family, Leslie Grantham, Dirty Den in Eastenders and appearing in Panto in Hastings this Christmas, and Lynn Faulds Wood, Watchdog, GMTV and numerous other TV current affairs programmes.   
 

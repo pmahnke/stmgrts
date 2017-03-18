@@ -6,7 +6,7 @@ commentfile: 2010-02-04-mad_hatters_fairtrade_art_competition
 category: around_town
 date: 2010-02-04 08:58:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/madhatter.jpg" title="See larger version of - Mad Hatter"><img src="//stmargarets.london/assets/images/2010/madhatter_thumb.jpg" width="150" height="134" alt="Mad Hatter" class="photo right" /></a>
+    <a href="/assets/images/2010/madhatter.jpg" title="See larger version of - Mad Hatter"><img src="/assets/images/2010/madhatter_thumb.jpg" width="150" height="134" alt="Mad Hatter" class="photo right" /></a>
     
     _Exclusively for schools in Richmond!_
     
@@ -22,7 +22,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/madhatter.jpg" title="See larger version of - Mad Hatter"><img src="//stmargarets.london/assets/images/2010/madhatter_thumb.jpg" width="150" height="134" alt="Mad Hatter" class="photo right" /></a>
+<a href="/assets/images/2010/madhatter.jpg" title="See larger version of - Mad Hatter"><img src="/assets/images/2010/madhatter_thumb.jpg" width="150" height="134" alt="Mad Hatter" class="photo right" /></a>
 
 _Exclusively for schools in Richmond!_
 

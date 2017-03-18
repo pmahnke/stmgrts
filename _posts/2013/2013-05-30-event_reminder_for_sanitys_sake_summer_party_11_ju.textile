@@ -6,7 +6,7 @@ commentfile: 2013-05-30-event_reminder_for_sanitys_sake_summer_party_11_ju
 category: around_town
 date: 2013-05-30 22:44:12
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="//stmargarets.london/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
+    <a href="/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
     
     _It's the end of term and it's party time!! Let us entertain you..._
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="//stmargarets.london/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
+<a href="/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
 
 _It's the end of term and it's party time!! Let us entertain you..._
 

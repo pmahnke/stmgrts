@@ -6,14 +6,14 @@ commentfile: 2014-05-16-the_fit_mum_formula_spaces_now_available
 category: around_town
 date: 2014-05-16 18:17:00
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/FIT_MUM_-_NO_EXCUSES.JPG" title="See larger version of - FIT MUM   NO EXCUSES"><img src="//stmargarets.london/assets/images/2014/FIT_MUM_-_NO_EXCUSES_thumb.JPG" width="150" height="78" alt="FIT MUM   NO EXCUSES" class="photo right" /></a>
+    <a href="/assets/images/2014/FIT_MUM_-_NO_EXCUSES.JPG" title="See larger version of - FIT MUM   NO EXCUSES"><img src="/assets/images/2014/FIT_MUM_-_NO_EXCUSES_thumb.JPG" width="150" height="78" alt="FIT MUM   NO EXCUSES" class="photo right" /></a>
     
     Based in the newly re-branded 'The Training Works' in St Margarets, (previously Movement3), The Fit Mum Formula is a small group personal training and nutritional coaching program, specifically designed for women 30 + who are...
     
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/FIT_MUM_-_NO_EXCUSES.JPG" title="See larger version of - FIT MUM   NO EXCUSES"><img src="//stmargarets.london/assets/images/2014/FIT_MUM_-_NO_EXCUSES_thumb.JPG" width="150" height="78" alt="FIT MUM   NO EXCUSES" class="photo right" /></a>
+<a href="/assets/images/2014/FIT_MUM_-_NO_EXCUSES.JPG" title="See larger version of - FIT MUM   NO EXCUSES"><img src="/assets/images/2014/FIT_MUM_-_NO_EXCUSES_thumb.JPG" width="150" height="78" alt="FIT MUM   NO EXCUSES" class="photo right" /></a>
 
 Based in the newly re-branded 'The Training Works' in St Margarets, (previously Movement3), The Fit Mum Formula is a small group personal training and nutritional coaching program, specifically designed for women 30 + who are...
 

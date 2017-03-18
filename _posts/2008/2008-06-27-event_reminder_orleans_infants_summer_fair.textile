@@ -8,7 +8,7 @@ date: 2008-06-27 08:49:04
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/coconut_shy.jpg"><img src="//stmargarets.london/assets/images/2008/coconut_shy-thumb.jpg" width="150" height="112" alt="fair" class="photo right" /></a>
+<a href="/assets/images/2008/coconut_shy.jpg"><img src="/assets/images/2008/coconut_shy-thumb.jpg" width="150" height="112" alt="fair" class="photo right" /></a>
 
 
 Friends and family are invited to the "Orleans Infant Summer Fair":https://stmargarets.london/event/fair/200705141888 for food, games and music.  Come out and support the school.

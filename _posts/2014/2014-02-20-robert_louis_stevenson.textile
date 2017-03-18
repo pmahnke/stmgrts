@@ -6,14 +6,14 @@ commentfile: 2014-02-20-robert_louis_stevenson
 category: around_town
 date: 2014-02-20 21:53:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_as_teenager.jpg" title="See larger version of - as a teenager"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg" width="150" height="190" alt="as a teenager" class="photo right" /></a>
+    <a href="/assets/images/2014/RLSTEVENSON_as_teenager.jpg" title="See larger version of - as a teenager"><img src="/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg" width="150" height="190" alt="as a teenager" class="photo right" /></a>
     
     He was in every respect a true Scot, born in Scotland of Scottish parents, with an education in one of Scotland's finest schools, Edinburgh Academy and a family lineage stretching back to the Balfour chiefs of Inchrye in Fife... but in 1863 13 year old Robert Louis Balfour Stevenson, who was later to write <em>"Treasure Island"</em>, <em>"Kidnapped"</em> and <em>"Strange Case of Dr Jeykyll and Mr Hyde"</em> came to live briefly in Isleworth.
     
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_as_teenager.jpg" title="See larger version of - as a teenager"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg" width="150" height="190" alt="as a teenager" class="photo right" /></a>
+<a href="/assets/images/2014/RLSTEVENSON_as_teenager.jpg" title="See larger version of - as a teenager"><img src="/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg" width="150" height="190" alt="as a teenager" class="photo right" /></a>
 
 bq. "I have done something! I have made a grand step! I have appeared before the public as an author, but..."
 
@@ -22,7 +22,7 @@ bq. "I have done something! I have made a grand step! I have appeared before the
 He was in every respect a true Scot, born in Scotland of Scottish parents, with an education in one of Scotland's finest schools, Edinburgh Academy and a family lineage stretching back to the Balfour chiefs of Inchrye in Fife... but in 1863 13 year old Robert Louis Balfour Stevenson, who was later to write <em>"Treasure Island"</em>, <em>"Kidnapped"</em> and <em>"Strange Case of Dr Jeykyll and Mr Hyde"</em> came to live briefly in Isleworth.
 
 
-<a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_jane-whyte-balfour.jpg" title="See larger version of - jane whyte balfour"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_jane-whyte-balfour_thumb.jpg" width="150" height="225" alt="jane whyte balfour" class="photo right" /></a>
+<a href="/assets/images/2014/RLSTEVENSON_jane-whyte-balfour.jpg" title="See larger version of - jane whyte balfour"><img src="/assets/images/2014/RLSTEVENSON_jane-whyte-balfour_thumb.jpg" width="150" height="225" alt="jane whyte balfour" class="photo right" /></a>
 
 His mother, Margaret Isabella Balfour, was not in good health, and early in 1863 his father, Thomas Stevenson, a lighthouse engineer, was advised to take her to Mentone in the south of France to spend the winter. In their absence their son, 13 year old Robert, known in the family as <em>'Laurie'</em>, was sent to Burlington Lodge Academy, in Spring Grove, Isleworth. His aunt, Jane Balfour, lived in the area and his cousins were already attending the school so it was a sensible arrangement. Laurie was also very fond of his aunt who he described as <em>"the most amiable of women, and the family maid of all works."</em>
 
@@ -39,7 +39,7 @@ During his time at Burlington Lodge Academy he wrote regularly to his parents in
 
 bq. "My dearest Papa and Mama, I am getting on very well. I hope Papa's cold is better and Mama is keeping well. Yesterday I was playing at football. I have never played at Cricket so Papa may comfort himself with that"
 
-<a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_treasure_island.jpg" title="See larger version of - treasure island"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_treasure_island_thumb.jpg" width="150" height="150" alt="treasure island" class="photo right" /></a>
+<a href="/assets/images/2014/RLSTEVENSON_treasure_island.jpg" title="See larger version of - treasure island"><img src="/assets/images/2014/RLSTEVENSON_treasure_island_thumb.jpg" width="150" height="150" alt="treasure island" class="photo right" /></a>
 
 He also produced a ten page rag called <em>"The Schoolboy'</em>s Magazine" made up of the first parts of three serial stories, <em>"The Adventures of Jan Van Steen"</em>, <em>"The Ghost Story"</em> and <em>"The Wreckers"</em>. Unlike his later work which was written and then rewritten many times over until he was totally satisfied, the <em>"Schoolboy'</em>s Magazine" was full of erasures, suggesting that the stories were not initially drafted. Despite this young Laurie was confident enough to write to his parents...
 
@@ -49,7 +49,7 @@ For all his apparent enthusiasms Robert Louis Balfour Stevenson was not a comple
 
 Like any schoolboy, far from home and even further from his parents, Robert was homesick. Further letters to his parents asked about their life in Mentone and expressed his desire to be with them. In December 1863 he wrote that Burlington Lodge was closing on Friday the 18<sup>th</sup> and hoped that his father would come soon to collect him. <em>"I am wearying very much you may be sure for the time when I am to come to Mentone."</em>
 
-<a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_jekyll-and-hyde.jpg" title="See larger version of - jekyll and hyde"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_jekyll-and-hyde_thumb.jpg" width="150" height="200" alt="jekyll and hyde" class="photo right" /></a>
+<a href="/assets/images/2014/RLSTEVENSON_jekyll-and-hyde.jpg" title="See larger version of - jekyll and hyde"><img src="/assets/images/2014/RLSTEVENSON_jekyll-and-hyde_thumb.jpg" width="150" height="200" alt="jekyll and hyde" class="photo right" /></a>
 
 What he didn't know was his father, Thomas, the lighthouse engineer, was already on his way to Isleworth to collect him and take him back to Mentone. He stayed in the south of France with his parents until May 1864 and never returned to Burlington Lodge Academy, although he did come back to visit that <em>'most amiable of women'</em>, his Aunt Jane.
 
@@ -64,7 +64,7 @@ And when it comes to finding your feet, Robert put it rather nicely himself...
 <em>"It's a pleasant thing to be young"</em>, he wrote, <em>"and have ten toes!"</em>
 
 <div class="box">
-<a href="//stmargarets.london/assets/images/2014/RLSTEVENSON_robert_louis_stevenson.jpg" title="See larger version of - robert louis stevenson"><img src="//stmargarets.london/assets/images/2014/RLSTEVENSON_robert_louis_stevenson_thumb.jpg" width="150" height="98" alt="robert louis stevenson" class="photo left" /></a>
+<a href="/assets/images/2014/RLSTEVENSON_robert_louis_stevenson.jpg" title="See larger version of - robert louis stevenson"><img src="/assets/images/2014/RLSTEVENSON_robert_louis_stevenson_thumb.jpg" width="150" height="98" alt="robert louis stevenson" class="photo left" /></a>
 
 h4. ROBERT LOUIS STEVENSON ON SCHOOLBOYS, ENGLISH AND SCOTTISH
 

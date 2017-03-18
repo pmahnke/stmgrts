@@ -7,7 +7,7 @@ category: around_town
 date: 2015-05-08 20:33:45
 excerpt: |
     
-    <a href="//stmargarets.london/assets/images/2015/logo-HasA-web.png" title="See larger version of - logo HasA web"><img src="//stmargarets.london/assets/images/2015/logo-HasA-web_thumb.png" width="150" height="49" alt="logo HasA web" class=" right" /></a>
+    <a href="/assets/images/2015/logo-HasA-web.png" title="See larger version of - logo HasA web"><img src="/assets/images/2015/logo-HasA-web_thumb.png" width="150" height="49" alt="logo HasA web" class=" right" /></a>
     
     Sopranos and altos required for a female ensemble. Reading ability is not essential though helpful.  Five rehearsals from end May-June with a performance on Saturday afternoon, July 11<sup>th</sup> at Diamond Jubilee Gardens, Twickenham TW1.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 
 
-<a href="//stmargarets.london/assets/images/2015/logo-HasA-web.png" title="See larger version of - logo HasA web"><img src="//stmargarets.london/assets/images/2015/logo-HasA-web_thumb.png" width="250" height="82" alt="logo HasA web" class=" right" /></a>
+<a href="/assets/images/2015/logo-HasA-web.png" title="See larger version of - logo HasA web"><img src="/assets/images/2015/logo-HasA-web_thumb.png" width="250" height="82" alt="logo HasA web" class=" right" /></a>
 
 Sopranos and altos required for a female ensemble. Reading ability is not essential though helpful.  Five rehearsals from end May-June with a performance on Saturday afternoon, July 11<sup>th</sup> at Diamond Jubilee Gardens, Twickenham TW1.
 

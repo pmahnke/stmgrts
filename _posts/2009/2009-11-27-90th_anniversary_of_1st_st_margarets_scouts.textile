@@ -8,7 +8,7 @@ date: 2009-11-27 11:54:55
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/1st_stmgrts.jpg"><img src="//stmargarets.london/assets/images/2009/1st_stmgrts-thumb.jpg" width="150" height="84" alt="1st ST MARGARETS SCOUT TROOP 1954 (OSSIE STANLEY IS FRONT ROW – EXTREME RIGHT)" class="photo right" /></a>
+<a href="/assets/images/2009/1st_stmgrts.jpg"><img src="/assets/images/2009/1st_stmgrts-thumb.jpg" width="150" height="84" alt="1st ST MARGARETS SCOUT TROOP 1954 (OSSIE STANLEY IS FRONT ROW – EXTREME RIGHT)" class="photo right" /></a>
 
 
 This week was the actual anniversary of 1<sup>st</sup> St Margarets.

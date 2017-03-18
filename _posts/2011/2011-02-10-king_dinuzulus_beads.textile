@@ -6,7 +6,7 @@ commentfile: 2011-02-10-king_dinuzulus_beads
 category: around_town
 date: 2011-02-10 22:24:25
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/DINUZULU_Wood_Badge_Woggle.jpg" title="See larger version of - Wood badge and woggle"><img src="//stmargarets.london/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg" width="150" height="200" alt="Wood badge and woggle" class="photo right" /></a>
+    <a href="/assets/images/2011/DINUZULU_Wood_Badge_Woggle.jpg" title="See larger version of - Wood badge and woggle"><img src="/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg" width="150" height="200" alt="Wood badge and woggle" class="photo right" /></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 Last month two sets of beads, modelled on those once worn by the great Zulu chief King Dinuzulu kaCetshwayo, came to St Margarets.
 </div>
 
-<a href="//stmargarets.london/assets/images/2011/DINUZULU_Wood_Badge_Woggle.jpg" title="See larger version of - Wood badge and woggle"><img src="//stmargarets.london/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg" width="150" height="200" alt="Wood badge and woggle" class="photo right" /></a>
+<a href="/assets/images/2011/DINUZULU_Wood_Badge_Woggle.jpg" title="See larger version of - Wood badge and woggle"><img src="/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg" width="150" height="200" alt="Wood badge and woggle" class="photo right" /></a>
 
 Dinuzulu, the son of the mighty warrior Cetshwayo, was King of the Zulu nation from 1884 until his death in 1913.  As a sign of his royalty and courage in battle he wore around his neck a 4 metre long 'iziQu' - a necklace made of thousands of small wooden acacia beads strung on a leather thong. The necklace, passed down from generation to generation, was considered sacred and kept in a cave on a high mountain and guarded day and night. The explorer Charles Rawden Maclean who was shipwrecked off the coast of Zululand in 1825 wrote...
 
@@ -27,7 +27,7 @@ bq. "The most curious part of these decorations consisted of several rows of sma
 
 
 
-<a href="//stmargarets.london/assets/images/2011/DINUZULU_baden_powell.jpg" title="See larger version of - Baden Powell"><img src="//stmargarets.london/assets/images/2011/DINUZULU_baden_powell_thumb.jpg" width="150" height="111" alt="Baden Powell" class="photo right" /></a>
+<a href="/assets/images/2011/DINUZULU_baden_powell.jpg" title="See larger version of - Baden Powell"><img src="/assets/images/2011/DINUZULU_baden_powell_thumb.jpg" width="150" height="111" alt="Baden Powell" class="photo right" /></a>
 
 
 In June 1888 Dinuzulu lead an attack against the Mandlakazi, who in 1883 had burnt down his father's kraal at Ulundi, and defeated them at Nongoma. The British sent a force to capture Dinuzula lead by Robert Baden Powell, who in later years was to found the Boy Scouts movement. Although Baden Powell was unable to catch up with Dinuzulu he did manage to acquire his 'iziQu' - his long necklace of wooden beads. Writing about the campaign Baden Powell said..
@@ -38,7 +38,7 @@ In 1919, 12 years after he founded the Scout Movement, Baden Powell remembered D
 
 In his 1989 biography of Baden Powell Tim Jeal questions the authenticity and origins of the wooden beads...
 
-<a href="//stmargarets.london/assets/images/2011/DINUZULU_in_beads.jpg" title="See larger version of - Dinuzulu in his beads"><img src="//stmargarets.london/assets/images/2011/DINUZULU_in_beads_thumb.jpg" width="150" height="195" alt="Dinuzulu in his beads" class="photo right" /></a>
+<a href="/assets/images/2011/DINUZULU_in_beads.jpg" title="See larger version of - Dinuzulu in his beads"><img src="/assets/images/2011/DINUZULU_in_beads_thumb.jpg" width="150" height="195" alt="Dinuzulu in his beads" class="photo right" /></a>
 
 
 bq. "The first badges were formed from beads belonging to an African necklace, which Baden Powell suggested he had found in Dinuzulu's hut in the Ceza, There is, however, no record of this find in his diary or in letters written at the time, though he does mention appropriating the necklace of a dead African girl. Nevertheless a photograph exists of the young Dinuzulu wearing a wooden necklace. So it is likely that Baden Powell acquired this necklace, or one like it, in 1888 or on a later visit to South Africa. After the Second World War the origins of the 'Wood Badge' started to cause embarrassment. To have stolen a Zulu ruler's property was thought underhand and unpleasant as was the idea of the founder of a worldwide multiracial brotherhood fighting against Africans. So it became policy within the movement to claim that Baden Powell had been given the necklace by Dinuzulu. 'This change,' wrote the Deputy Chief Scout in 1959, 'was made first in The Gilwell Book and gradually in all our literature.'"
@@ -47,7 +47,7 @@ Whether the beads on the original Wood Badges actually belonged to Dinuzulu or a
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2011/DINUZULU_statue.jpg" title="See larger version of - Dinuzulu's status"><img src="//stmargarets.london/assets/images/2011/DINUZULU_statue_thumb.jpg" width="150" height="256" alt="Dinuzulu's status" class="photo left" /></a>
+<a href="/assets/images/2011/DINUZULU_statue.jpg" title="See larger version of - Dinuzulu's status"><img src="/assets/images/2011/DINUZULU_statue_thumb.jpg" width="150" height="256" alt="Dinuzulu's status" class="photo left" /></a>
 
 
 bq. "King Dinuzulu will always be remembered by our people as one of the kings who never sold their own people for his personal comforts. He stood against colonialism and imperialism to the end, and paid many sacrifices for the liberation of his people. He will thus be remembered as one of the most courageous and principled kings to have ruled in our land, who fought injustice and was truly loved by his people, and his name ranks high as a heroic leader and unifier of our nation. His sacrifices and suffering contributed to the birth of a new democratic, non-racial, non-sexist and democratic South Africa that we have today."

@@ -6,7 +6,7 @@ commentfile: 2012-05-31-summer_activities_for_children_and_young_people_20
 category: around_town
 date: 2012-05-31 22:14:20
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/6-9s.JPG" title="See larger version of - 6 9s"><img src="//stmargarets.london/assets/images/2012/6-9s_thumb.JPG" width="150" height="167" alt="6 9s" class="photo right" /></a>
+    <a href="/assets/images/2012/6-9s.JPG" title="See larger version of - 6 9s"><img src="/assets/images/2012/6-9s_thumb.JPG" width="150" height="167" alt="6 9s" class="photo right" /></a>
     
     
     Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/6-9s.JPG" title="See larger version of - 6 9s"><img src="//stmargarets.london/assets/images/2012/6-9s_thumb.JPG" width="150" height="167" alt="6 9s" class="photo right" /></a>
+<a href="/assets/images/2012/6-9s.JPG" title="See larger version of - 6 9s"><img src="/assets/images/2012/6-9s_thumb.JPG" width="150" height="167" alt="6 9s" class="photo right" /></a>
 
 
 Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
@@ -66,7 +66,7 @@ Work with Ursula Kelly using bubble wrap and coloured card to create your own fu
 
 h3. CH2 for 9 - 14 Year Olds
 
-<a href="//stmargarets.london/assets/images/2012/9-14s.JPG" title="See larger version of - 9 14s"><img src="//stmargarets.london/assets/images/2012/9-14s_thumb.JPG" width="150" height="136" alt="9 14s" class="photo right" /></a>
+<a href="/assets/images/2012/9-14s.JPG" title="See larger version of - 9 14s"><img src="/assets/images/2012/9-14s_thumb.JPG" width="150" height="136" alt="9 14s" class="photo right" /></a>
 
 
 _10am - 3pm.  &pound;25 per day.  Please bring a packed lunch._
@@ -109,7 +109,7 @@ Design and make your own pop art canvas bag with artist Dawn Smithers.
 
 
 
-<a href="//stmargarets.london/assets/images/2012/4-5s.JPG" title="See larger version of - 4 5s"><img src="//stmargarets.london/assets/images/2012/4-5s_thumb.JPG" width="150" height="108" alt="4 5s" class="photo right" /></a>
+<a href="/assets/images/2012/4-5s.JPG" title="See larger version of - 4 5s"><img src="/assets/images/2012/4-5s_thumb.JPG" width="150" height="108" alt="4 5s" class="photo right" /></a>
 
 
 h3. Short Workshops
@@ -134,7 +134,7 @@ Inspired by Matisse, Screen-print your favourite shapes onto a canvas bag with D
 
 h2. Drawing and Painting Summer School
 
-<a href="//stmargarets.london/assets/images/2012/Drawing_Summer_School.jpg" title="See larger version of - Drawing Summer School"><img src="//stmargarets.london/assets/images/2012/Drawing_Summer_School_thumb.jpg" width="150" height="113" alt="Drawing Summer School" class="photo right" /></a>
+<a href="/assets/images/2012/Drawing_Summer_School.jpg" title="See larger version of - Drawing Summer School"><img src="/assets/images/2012/Drawing_Summer_School_thumb.jpg" width="150" height="113" alt="Drawing Summer School" class="photo right" /></a>
 
 
 _10am - 3pm each day. &pound;45 for two days.  Please bring a packed lunch._

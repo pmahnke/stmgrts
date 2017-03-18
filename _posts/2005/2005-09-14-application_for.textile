@@ -8,7 +8,7 @@ date: 2005-09-14 21:42:18
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/ParVinu_Streets.jpg"><img src="//stmargarets.london/assets/images/2005/ParVinu_Streets-thumb.jpg" width="150" height="112" alt="Front of ParVinu and Streets" class="right"/></a>
+<a href="/assets/images/2005/ParVinu_Streets.jpg"><img src="/assets/images/2005/ParVinu_Streets-thumb.jpg" width="150" height="112" alt="Front of ParVinu and Streets" class="right"/></a>
 
 A group of local businessmen (<em>Grapespot Ltd</em> of Kingston) have resubmitted their "application":http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=05%2F2442%2FCOU to open a wine bar in the basement formerly occupied by Phelps.  This application requires a _change of use_ (A4) to the property.  Grapespot plan to call the wine bar "ParVinu at Phelps":http://www.parvinu.co.uk/ and offer retail wine sales, wine tastings  and seating and a bar for drinking and dining on site.
 

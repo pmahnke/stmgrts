@@ -7,13 +7,13 @@ category: around_town
 date: 2016-02-25 21:56:30
 author: Martyn Day
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/CATHJA_boat-near-isleworth.jpg" title="See larger version of - The boat near isleworth"><img src="https://stmargarets.london/assets/images/2016/CATHJA_boat-near-isleworth_thumb.jpg" width="150" height="100" alt="The boat near isleworth" class="photo right" /></a>
+    <a href="/assets/images/2016/CATHJA_boat-near-isleworth.jpg" title="See larger version of - The boat near isleworth"><img src="/assets/images/2016/CATHJA_boat-near-isleworth_thumb.jpg" width="150" height="100" alt="The boat near isleworth" class="photo right" /></a>
 
     80 years ago you could have seen the 38 metre river barge <em>'Cathja'</em> working on the canals and inland waterways of Belgium and Holland. Today she rests in a quiet inlet of the Thames in Isleworth, in the shadow of a long redundant loading crane. Cathja's days of cargo lighterage are over. In the cargo hold that once carried scrap iron, coffee beans, grain and fertiliser you'll now find woodworking benches, tools and all the machinery that you might expect in a well equipped carpentry shop. On the steel walls and bulkheads where once hung loading ropes and cables now there are paintings, canvases, artwork and brushes. Today the <em>'Cathja'</em> has a new purpose. Today the <em>'Cathja'</em> has a new crew.
 
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_boat-near-isleworth.jpg" title="See larger version of - The boat near isleworth"><img src="https://stmargarets.london/assets/images/2016/CATHJA_boat-near-isleworth_thumb.jpg" width="250" height="166" alt="The boat near isleworth" class="photo right" /></a>
+<a href="/assets/images/2016/CATHJA_boat-near-isleworth.jpg" title="See larger version of - The boat near isleworth"><img src="/assets/images/2016/CATHJA_boat-near-isleworth_thumb.jpg" width="250" height="166" alt="The boat near isleworth" class="photo right" /></a>
 
 
 bq. "You need to create in order to exist ...Making something makes you feel worthwhile. You have something to give..."
@@ -22,11 +22,11 @@ bq. "You need to create in order to exist ...Making something makes you feel wor
 
 80 years ago you could have seen the 38 metre river barge <em>'Cathja'</em> working on the canals and inland waterways of Belgium and Holland. Today she rests in a quiet inlet of the Thames in Isleworth, in the shadow of a long redundant loading crane. Cathja's days of cargo lighterage are over. In the cargo hold that once carried scrap iron, coffee beans, grain and fertiliser you'll now find woodworking benches, tools and all the machinery that you might expect in a well equipped carpentry shop. On the steel walls and bulkheads where once hung loading ropes and cables now there are paintings, canvases, artwork and brushes. Today the <em>'Cathja'</em> has a new purpose. Today the <em>'Cathja'</em> has a new crew.
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_boat-bow.jpg" title="See larger version of - boat bow"><img src="https://stmargarets.london/assets/images/2016/CATHJA_boat-bow_thumb.jpg" width="250" height="374" alt="boat bow" class="photo right" /></a>
+<a href="/assets/images/2016/CATHJA_boat-bow.jpg" title="See larger version of - boat bow"><img src="/assets/images/2016/CATHJA_boat-bow_thumb.jpg" width="250" height="374" alt="boat bow" class="photo right" /></a>
 
 Ten years ago the <em>'Cathja'</em>, then in a derelict state, was bought and renovated by the Friends of Cathja charity, to provide a space, both physically and emotionally, for people a.k.a <em>'the crew'</em> who had experienced severe and enduring metal health problems.  No expectations were placed on them, no <em>'targets'</em> were set or results anticipated. In simple terms the <em>'crew'</em> did their own thing - and the thing that they did and still do is the creation of objects both artistic and utilitarian through carpentry, sculpture and art. Supported by technicians and artists the <em>'crew'</em> organise their own work patterns, what they make and when and how they make it. There is no pressure of any kind. There is no critical analysis or assessment unless requested. The entire project is based on the principal of <em>'User Lead Service'</em> which means that the activity and use of the facility is entirely determined by the individuals in the <em>'crew'</em> - and this includes the option not to engage in the <em>'work'</em>.
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_workshop.jpg" title="See larger version of - workshop"><img src="https://stmargarets.london/assets/images/2016/CATHJA_workshop_thumb.jpg" width="700" height="467" alt="workshop" class="photo center" /></a>
+<a href="/assets/images/2016/CATHJA_workshop.jpg" title="See larger version of - workshop"><img src="/assets/images/2016/CATHJA_workshop_thumb.jpg" width="700" height="467" alt="workshop" class="photo center" /></a>
 
 
 bq. "You go to another place - your hands are going and that part of your brain is occupied while another part is set free."
@@ -35,7 +35,7 @@ bq. "You go to another place - your hands are going and that part of your brain 
 
 At the present moment there are about 35 people in the <em>'crew'</em> who attend (or maybe not attend!) in daily groups of about 7-10 people supported by about 5 full time staff who add a unique  ambience of their own. Essentially the staff are not trained medical practitioners and show no desire to be so. There are no white coats or progress charts. As the Project Director Carl Kirby-Turner, a sailor and a boat builder, puts it... <em>"We are experts at not being expert! We relate to the 'crew' as people with potential - not patients with problems."</em>
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_rocking-horses.jpg" title="See larger version of - rocking horses"><img src="https://stmargarets.london/assets/images/2016/CATHJA_rocking-horses_thumb.jpg" width="250" height="166" alt="rocking horses" class="photo right" /></a>
+<a href="/assets/images/2016/CATHJA_rocking-horses.jpg" title="See larger version of - rocking horses"><img src="/assets/images/2016/CATHJA_rocking-horses_thumb.jpg" width="250" height="166" alt="rocking horses" class="photo right" /></a>
 
 Another thing going for the <em>'Cathja'</em> is its location on the Thames in Isleworth, tucked away between Lion Wharf - in the not so distant past a bustling river port shipping beer and baskets, gunpowder and grain - and the deserted, swampy reach of Isleworth Ait, one of the largest islands on the Thames. Despite the planes hauling directly overheard and the honking and squawking of the local wildlife <em>'Cathja'</em> is in a place of absolute peace - the light reflecting off the water, the wind ssshing through the trees, the pace of the day set by the rhythm of the rising and falling tides.
 
@@ -44,7 +44,7 @@ bq. "You need calm and peace to create a place where one can heal oneself."
 
 ??CARL KIRBY-TURNER Project Director??
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_canal.jpg" title="See larger version of -  CATHJA on a canal"><img src="https://stmargarets.london/assets/images/2016/CATHJA_canal_thumb.jpg" width="250" height="296" alt=" CATHJA on a canal" class="photo right" /></a>
+<a href="/assets/images/2016/CATHJA_canal.jpg" title="See larger version of -  CATHJA on a canal"><img src="/assets/images/2016/CATHJA_canal_thumb.jpg" width="250" height="296" alt=" CATHJA on a canal" class="photo right" /></a>
 
 The project also benefits from the barge itself. <em>'Cathja'</em> is still a working and seaworthy vessel. She is fully engined and regularly maintained to ensure her sea-going viability. This she has demonstrated with excursions to Belgium and France and trips along the Thames promoting the <em>'User Lead Service'</em> she now offers. In the freedom of her gentle motion - up and down, here and there - 'Cathja' is a place of reassurance and security...
 
@@ -55,7 +55,7 @@ bq. "People really have a type of ownership over this place because it is not pe
 
 <div class="box">
 
-<a href="https://stmargarets.london/assets/images/2016/CATHJA_husky-carving.jpg" title="See larger version of - husky carving"><img src="https://stmargarets.london/assets/images/2016/CATHJA_husky-carving_thumb.jpg" width="250" height="250" alt="husky carving" class="photo left" /></a>
+<a href="/assets/images/2016/CATHJA_husky-carving.jpg" title="See larger version of - husky carving"><img src="/assets/images/2016/CATHJA_husky-carving_thumb.jpg" width="250" height="250" alt="husky carving" class="photo left" /></a>
 
 The Friends of Cathja, the charity supporting the barge are partly financed by three charity shops - one in Shepperton, another in Walton and the third, <em>'Cathja'</em>s Kitchen Table', which opened last week at 129 High Street in Brentford. As well as selling donated books, clothes, bric-a-brac, furniture and the like the <em>'Kitchen Table'</em> also acts as a gallery for local artists and a hub for local community groups to meet, share experiences or just hang out with a cup of coffee.
 

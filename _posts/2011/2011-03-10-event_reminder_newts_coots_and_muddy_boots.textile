@@ -6,13 +6,13 @@ commentfile: 2011-03-10-event_reminder_newts_coots_and_muddy_boots
 category: around_town
 date: 2011-03-10 16:17:46
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/atenborough.jpg" title="See larger version of - Sir David Attenborough and the Great Crested Newt"><img src="//stmargarets.london/assets/images/2011/atenborough_thumb.jpg" width="150" height="228" alt="Sir David Attenborough and the Great Crested Newt" class=" right" /></a>
+    <a href="/assets/images/2011/atenborough.jpg" title="See larger version of - Sir David Attenborough and the Great Crested Newt"><img src="/assets/images/2011/atenborough_thumb.jpg" width="150" height="228" alt="Sir David Attenborough and the Great Crested Newt" class=" right" /></a>
 
     A special lecture event for children Saturday, 14 May 2011 at 2.30pm Duke St Baptist Church, Richmond...
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/atenborough.jpg" title="See larger version of - Sir David Attenborough and the Great Crested Newt"><img src="//stmargarets.london/assets/images/2011/atenborough_thumb.jpg" width="150" height="228" alt="Sir David Attenborough and the Great Crested Newt" class=" right" /></a>
+<a href="/assets/images/2011/atenborough.jpg" title="See larger version of - Sir David Attenborough and the Great Crested Newt"><img src="/assets/images/2011/atenborough_thumb.jpg" width="150" height="228" alt="Sir David Attenborough and the Great Crested Newt" class=" right" /></a>
 
 _A "special lecture event for children Saturday 14<sup>th</sup> May 2011":https://stmargarets.london/event/event/200705142723 at 2.30pm Duke St Baptist Church, Richmond..._
 

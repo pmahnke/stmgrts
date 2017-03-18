@@ -6,14 +6,14 @@ commentfile: 2011-03-31-kate_and_will_cheese_plate_contest_from_yellowwedg
 category: around_town
 date: 2011-03-31 20:00:08
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+    <a href="/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
     <em>Excited about the Royal Wedding?
     Looking for a fun activity for the
     Easter Holidays?</em>
 ---
 
-<a href="//stmargarets.london/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 <em>Excited about the Royal Wedding?
 Looking for a fun activity for the
@@ -27,7 +27,7 @@ Judging will be on Royal Wedding Day - plus all entries will be displayed in the
 
 Get your 'S'*KATES* on - closing deadline for entries is 27<sup>th</sup> April. *WILL* you be the winner?
 
-"View the poster":https://stmargarets.london/assets/images/2011/YWC_william_kate_competitio.jpg
+"View the poster":/assets/images/2011/YWC_william_kate_competitio.jpg
 
 
 

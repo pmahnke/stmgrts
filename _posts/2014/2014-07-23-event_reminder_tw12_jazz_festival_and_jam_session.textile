@@ -6,7 +6,7 @@ commentfile: 2014-07-23-event_reminder_tw12_jazz_festival_and_jam_session
 category: around_town
 date: 2014-07-23 21:50:40
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/Jam-Flyer.jpg" title="See larger version of - Jam Flyer"><img src="//stmargarets.london/assets/images/2014/Jam-Flyer_thumb.jpg" width="150" height="214" alt="Jam Flyer" class="photo right" /></a>
+    <a href="/assets/images/2014/Jam-Flyer.jpg" title="See larger version of - Jam Flyer"><img src="/assets/images/2014/Jam-Flyer_thumb.jpg" width="150" height="214" alt="Jam Flyer" class="photo right" /></a>
     
     h4. TW12 Pre-Jazz Festival Jazz Jam Session - 2 August 2014
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/Jam-Flyer.jpg" title="See larger version of - Jam Flyer"><img src="//stmargarets.london/assets/images/2014/Jam-Flyer_thumb.jpg" width="250" height="357" alt="Jam Flyer" class="photo right" /></a>
+<a href="/assets/images/2014/Jam-Flyer.jpg" title="See larger version of - Jam Flyer"><img src="/assets/images/2014/Jam-Flyer_thumb.jpg" width="250" height="357" alt="Jam Flyer" class="photo right" /></a>
 
 h4. TW12 Pre-Jazz Festival Jazz Jam Session - 2 August 2014
 
@@ -27,7 +27,7 @@ h4. More Information
 
 * "Full details":http://www.tw12jazzfestival.co.uk/jam_session
 
-<a href="//stmargarets.london/assets/images/2014/tw12_jazz_festival_2014.jpg" title="See larger version of - tw12 jazz festival 2014"><img src="//stmargarets.london/assets/images/2014/tw12_jazz_festival_2014_thumb.jpg" width="250" height="353" alt="tw12 jazz festival 2014" class="photo right" /></a>
+<a href="/assets/images/2014/tw12_jazz_festival_2014.jpg" title="See larger version of - tw12 jazz festival 2014"><img src="/assets/images/2014/tw12_jazz_festival_2014_thumb.jpg" width="250" height="353" alt="tw12 jazz festival 2014" class="photo right" /></a>
 
 h4. TW12 Jazz Festival at Hampton Hill Playhouse - 3 August 2014
 

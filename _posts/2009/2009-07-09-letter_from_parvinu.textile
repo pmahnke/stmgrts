@@ -12,7 +12,7 @@ excerpt: |
     
     As we are approaching our first anniversary we wanted to share some of our achievements and plans for the future with you. We have used your feedback to create a great line up of special events and offers throughout the summer...
     
-    <a href="//stmargarets.london/assets/images/2009/parvinu_newsletter.pdf">Download the letter (pdf)</a>
+    <a href="/assets/images/2009/parvinu_newsletter.pdf">Download the letter (pdf)</a>
     
 
 ---
@@ -23,7 +23,7 @@ bq.. Dear Neighbour,
 
 As we are approaching our first anniversary we wanted to share some of our achievements and plans for the future with you. We have used your feedback to create a great line up of special events and offers throughout the summer...
 
-<a href="//stmargarets.london/assets/images/2009/parvinu_newsletter.pdf">Download the letter (pdf)</a>
+<a href="/assets/images/2009/parvinu_newsletter.pdf">Download the letter (pdf)</a>
 
 
 

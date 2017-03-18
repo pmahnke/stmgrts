@@ -6,7 +6,7 @@ commentfile: 2010-10-18-twitter
 category: editorial
 date: 2010-10-18 12:40:14
 excerpt: |
-    <img alt="https://stmargarets.london/images/twitter_logo.jpg" src="//stmargarets.london/assets/images/2010/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
+    <img alt="https://stmargarets.london/images/twitter_logo.jpg" src="/assets/images/2010/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
     
     Starting today, we are starting a _St Margarets Community Website_ twitter account at "@stmgrts":http://twitter.com/#!/stmgrts.  We will be attempting to publish a tweet or two most days, nothing too onerous, about news and events in St Margarets.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<img alt="https://stmargarets.london/images/twitter_logo.jpg" src="//stmargarets.london/assets/images/2010/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
+<img alt="https://stmargarets.london/images/twitter_logo.jpg" src="/assets/images/2010/twitter_logo-thumb.jpg" width="150" height="89" class="right" />
 
 Starting today, we are starting a _St Margarets Community Website_ twitter account at "@stmgrts":http://twitter.com/#!/stmgrts.  We will be attempting to publish a tweet or two most days, nothing too onerous, about news and events in St Margarets.
 

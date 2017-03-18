@@ -7,21 +7,21 @@ category: around_town
 date: 2016-04-28 19:58:39
 author: "Martyn Day"
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/JOINCUBS_Wolf_cubs.jpg" title="See larger version of - Wolf cubs"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg" width="150" height="112" alt="Wolf cubs" class="photo right" /></a>
+    <a href="/assets/images/2016/JOINCUBS_Wolf_cubs.jpg" title="See larger version of - Wolf cubs"><img src="/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg" width="150" height="112" alt="Wolf cubs" class="photo right" /></a>
 
     It is a year of significant anniversaries. So far we have seen the 400<sup>th</sup> anniversary of the death of both William Shakespeare and Cervantes, the 90<sup>th</sup> birthday of the Queen, the 950<sup>th</sup> anniversary of the Battle of Hastings, the 350<sup>th</sup> of the Great Fire of London and the 100<sup>th</sup> of the Battle of the Somme. Want some more? It is the 60<sup>th</sup> anniversary of the UK release of "<em>Heartbreak Hotel</em>", the 40<sup>th</sup> of British Punk music and the100<sup>th</sup> anniversary of the founding of the Wolf Cubs, a.k.a The Cub Scouts.
 
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/JOINCUBS_Wolf_cubs.jpg" title="See larger version of - Wolf cubs"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg" width="250" height="187" alt="Wolf cubs" class="photo right" /></a>
+<a href="/assets/images/2016/JOINCUBS_Wolf_cubs.jpg" title="See larger version of - Wolf cubs"><img src="/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg" width="250" height="187" alt="Wolf cubs" class="photo right" /></a>
 
 It is a year of significant anniversaries. So far we have seen the 400<sup>th</sup> anniversary of the death of both William Shakespeare and Cervantes, the 90<sup>th</sup> birthday of the Queen, the 950<sup>th</sup> anniversary of the Battle of Hastings, the 350<sup>th</sup> of the Great Fire of London and the 100<sup>th</sup> of the Battle of the Somme. Want some more? It is the 60<sup>th</sup> anniversary of the UK release of "<em>Heartbreak Hotel</em>", the 40<sup>th</sup> of British Punk music and the100<sup>th</sup> anniversary of the founding of the Wolf Cubs, a.k.a The Cub Scouts.
 
-<a href="https://stmargarets.london/assets/images/2016/JOINCUBS_Scouting_for_Boys.JPG" title="See larger version of - Scouting for Boys"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_Scouting_for_Boys_thumb.JPG" width="250" height="342" alt="Scouting for Boys" class="photo right" /></a>
+<a href="/assets/images/2016/JOINCUBS_Scouting_for_Boys.JPG" title="See larger version of - Scouting for Boys"><img src="/assets/images/2016/JOINCUBS_Scouting_for_Boys_thumb.JPG" width="250" height="342" alt="Scouting for Boys" class="photo right" /></a>
 
 Robert Baden-Powell founded the Boy Scouts as an organization for 11-16 year olds in 1908, a few months after his first trial scout camp on Brownsea Island in Poole Harbour. Encouraged by his book '<em>Scouting for Boys</em>' the movement grew rapidly. By 1914 thousands of younger boys were clamoring to join and many Scout Troops began to take them on as '</em>Juniors<em>'.  Because of the age difference Baden-Powell realised that this was not a satisfactory solution and set out to create a new younger section with an identity of its own. Building his idea around the moral principles and characters of Rudyard Kipling's popular <em>'Jungle Book'</em> Baden-Powell created the Wolf Cubs for 8 to 10 year olds. '<em>The Wolf Cub Handbook</em>' with it many references to the '<em>Jungle Book</em>' was already in proof when Baden-Powell sent it to Kipling on 28<sup>th</sup> July 1916 for his approval. Kipling accepted it without a single editorial suggestion. The concept of the '<em>Wolf Pack</em>' under the leadership of the Old Wolf  '<em>Akela</em>' supported by '<em>Baloo</em>' and '<em>Bagheera</em>' and its unusual rituals like "<em>The Grand Howl</em>" and the "<em>Council Rock</em>" was set...
 
-<a href="https://stmargarets.london/assets/images/2016/JOINCUBS_Baden-powell.jpg" title="See larger version of - Baden powell"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_Baden-powell_thumb.jpg" width="250" height="333" alt="Baden powell" class="photo right" /></a>
+<a href="/assets/images/2016/JOINCUBS_Baden-powell.jpg" title="See larger version of - Baden powell"><img src="/assets/images/2016/JOINCUBS_Baden-powell_thumb.jpg" width="250" height="333" alt="Baden powell" class="photo right" /></a>
 
 bq. "If God made the boy a creature of extreme and restless energy, with an inquisitive and eager mind, a sensitive little heart and a romantic imagination, it is up to you to make full use of these instead of crushing them."
 
@@ -29,7 +29,7 @@ bq. "If God made the boy a creature of extreme and restless energy, with an inqu
 
 In the 100 years since its foundation Cubbing has changed. Now the young members are called Cub Scouts rather than Wolf Cubs - and they include girls in their number. Some of the old rituals have gone - its goodbye to '<em>Dyb, Dyb, Dob, Dob>/em>' but the Grand Howl still remains with its iconic chant - '<em>Akela, we will do our best!</em>', even though in many Packs Akela  and his chums, Baloo and Bagheera have been replaced by Tom, Dick and Harriet. Baden-Powell wanted the Cubs less formal than the Boy Scouts and more responsive to the needs of its young members - and he has got it... in the shape of over 150,000 Cubs in the UK alone.
 
-<a href="https://stmargarets.london/assets/images/2016/JOINCUBS_Leaders.JPG" title="See larger version of - Leaders"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_Leaders_thumb.JPG" width="250" height="284" alt="Leaders" class="photo right" /></a>
+<a href="/assets/images/2016/JOINCUBS_Leaders.JPG" title="See larger version of - Leaders"><img src="/assets/images/2016/JOINCUBS_Leaders_thumb.JPG" width="250" height="284" alt="Leaders" class="photo right" /></a>
 
 But there is one overwhelming challenge from 1916 that remains just as testing today - the search for leaders. Baden-Powell knew that if Cubbing was to be more than just a pleasant pastime for the children it had to set role models and principles for the citizens of the future...
 
@@ -39,7 +39,7 @@ There isn't a Scout Group in the country that doesn't face the problem of findin
 
 bq. "It is not recruits who are wanted so much as officers and scoutmasters. Here is an opportunity for men (and women) who lack an aim in life or wish to use their time to the best advantage. Let them help to create citizens..."
 
-<a href="https://stmargarets.london/assets/images/2016/JOINCUBS_The_New_Crew.JPG" title="See larger version of - The New Crew"><img src="https://stmargarets.london/assets/images/2016/JOINCUBS_The_New_Crew_thumb.JPG" width="250" height="166" alt="The New Crew" class="photo right" /></a>
+<a href="/assets/images/2016/JOINCUBS_The_New_Crew.JPG" title="See larger version of - The New Crew"><img src="/assets/images/2016/JOINCUBS_The_New_Crew_thumb.JPG" width="250" height="166" alt="The New Crew" class="photo right" /></a>
 
 So there it is. The 1<sup>st</sup> St Margarets Group, growing in every way,  is looking for new leaders and in all sections - Beavers (6-8 year olds), Cubs (8-10 years old) and the Scouts (10 plus). There are many reasons for not volunteering - and modern life doesn't make it any easier. An uneven work-life balance, lack of time, lack of incentive... but the rewards of leadership are inestimable and unexpected. As well as the simple reward of seeing young people moving on through their lives and hopefully taking something of you with them there are other smaller pleasures - things that you thought you had abandoned years ago - sleeping under canvas and cooking over an open fire, overnights in places like London Zoo or aboard H.M.S Belfast,  Zip-wires and night hikes, sing songs and pantomimes... the list and the adventure goes on.
 

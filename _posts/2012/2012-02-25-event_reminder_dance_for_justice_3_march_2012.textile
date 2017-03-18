@@ -8,7 +8,7 @@ date: 2012-02-25 11:05:36
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/dance_for_justice.jpg" title="See larger version of - dance for justice"><img src="//stmargarets.london/assets/images/2012/dance_for_justice_thumb.jpg" width="150" height="106" alt="dance for justice" class="photo right" /></a>
+<a href="/assets/images/2012/dance_for_justice.jpg" title="See larger version of - dance for justice"><img src="/assets/images/2012/dance_for_justice_thumb.jpg" width="150" height="106" alt="dance for justice" class="photo right" /></a>
 
 "3 March 2012 at 7.30pm, St Stephen's Church":https://stmargarets.london/event/event/200705143231
  

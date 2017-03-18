@@ -8,7 +8,7 @@ date: 2006-01-06 16:58:35
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/sitestats.gif"><img src="//stmargarets.london/assets/images/2006/sitestats-thumb.gif" width="150" height="112" alt="site stats" class="photo right ignore" /></a>
+<a href="/assets/images/2006/sitestats.gif"><img src="/assets/images/2006/sitestats-thumb.gif" width="150" height="112" alt="site stats" class="photo right ignore" /></a>
 
 Well, it isn't exactly our year anniversary, but its the end of the calendar year, so we thought we should run our first ever "Reader Poll":/static/info/readerpoll2006.html to see how we are doing.  It would be great if you could spare us ten minutes of your time to help us know what is working and what isn't.
 

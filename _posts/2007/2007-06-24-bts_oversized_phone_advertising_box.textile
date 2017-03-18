@@ -8,7 +8,7 @@ date: 2007-06-24 17:33:13
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/bt_phone.jpg"><img alt="bt_phone.jpg" src="//stmargarets.london/assets/images/2007/bt_phone-thumb.jpg" width="150" height="112" alt="BT's Big Phone" class="photo right" /></a>
+<a href="/assets/images/2007/bt_phone.jpg"><img alt="bt_phone.jpg" src="/assets/images/2007/bt_phone-thumb.jpg" width="150" height="112" alt="BT's Big Phone" class="photo right" /></a>
 
 bq. "[How has this] this godforsaken excrescence made its appearance.  How in hell did BT get permission (do they need it?) to take over the pavement. The previous box (hardly less obscene -- oh for the return of the classic K6) was set further back, took up less space..."
 

@@ -6,7 +6,7 @@ commentfile: 2009-05-01-upcoming_events_at_parvinu
 category: around_town
 date: 2009-05-01 15:39:54
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/glass-dish.jpg"><img src="//stmargarets.london/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
+    <a href="/assets/images/2009/glass-dish.jpg"><img src="/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
     
     
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/glass-dish.jpg"><img src="//stmargarets.london/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
+<a href="/assets/images/2009/glass-dish.jpg"><img src="/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
 
 
 

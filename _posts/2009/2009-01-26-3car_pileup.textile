@@ -6,7 +6,7 @@ commentfile: 2009-01-26-3car_pileup
 category: around_town
 date: 2009-01-26 17:43:18
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/richmond-car-crash.jpg"><img src="//stmargarets.london/assets/images/2009/richmond-car-crash-thumb.jpg" width="150" height="80" alt="mini car crash" class="photo right" /></a>
+    <a href="/assets/images/2009/richmond-car-crash.jpg"><img src="/assets/images/2009/richmond-car-crash-thumb.jpg" width="150" height="80" alt="mini car crash" class="photo right" /></a>
     
     
     bq. "Londoners are known for their tight parking skills but this little nudge in Richmond might be going a little too far..."
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/richmond-car-crash.jpg"><img src="//stmargarets.london/assets/images/2009/richmond-car-crash-thumb.jpg" width="150" height="80" alt="mini car crash" class="photo right" /></a>
+<a href="/assets/images/2009/richmond-car-crash.jpg"><img src="/assets/images/2009/richmond-car-crash-thumb.jpg" width="150" height="80" alt="mini car crash" class="photo right" /></a>
 
 
 bq. "Londoners are known for their tight parking skills but this little nudge in Richmond might be going a little too far..."

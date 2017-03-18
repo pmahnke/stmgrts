@@ -6,13 +6,13 @@ commentfile: 2011-06-30-summer_activities_at_orleans_house
 category: around_town
 date: 2011-06-30 07:03:01
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/orleans_chc_1.jpg" title="See larger version of - Coach House Club 1"><img src="//stmargarets.london/assets/images/2011/orleans_chc_1_thumb.jpg" width="150" height="112" alt="Coach House Club 1" class="photo right" /></a>
+    <a href="/assets/images/2011/orleans_chc_1.jpg" title="See larger version of - Coach House Club 1"><img src="/assets/images/2011/orleans_chc_1_thumb.jpg" width="150" height="112" alt="Coach House Club 1" class="photo right" /></a>
     
     There is a busy and exciting summer at Orleans House.  August will see an extravaganza of materials and techniques with workshops for everybody, from a Textile Tastic workshop for 4-5 year olds and frenzied days of activities for 6-9 and 9-14 year olds, to our Photography Summer School for 12-14 and 15-17 year olds.  Read on to find details of these and other activities.  Booking essential: Please call 020 8831 6000 or visit our website where you can book online at: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/orleans_chc_1.jpg" title="See larger version of - Coach House Club 1"><img src="//stmargarets.london/assets/images/2011/orleans_chc_1_thumb.jpg" width="150" height="112" alt="Coach House Club 1" class="photo right" /></a>
+<a href="/assets/images/2011/orleans_chc_1.jpg" title="See larger version of - Coach House Club 1"><img src="/assets/images/2011/orleans_chc_1_thumb.jpg" width="150" height="112" alt="Coach House Club 1" class="photo right" /></a>
 
 There is a busy and exciting summer at Orleans House.  August will see an extravaganza of materials and techniques with workshops for everybody, from a Textile Tastic workshop for 4-5 year olds and frenzied days of activities for 6-9 and 9-14 year olds, to our Photography Summer School for 12-14 and 15-17 year olds.  Read on to find details of these and other activities.  Booking essential: Please call 020 8831 6000 or visit our website where you can book online at: "www.richmond.gov.uk/arts":http://www.richmond.gov.uk/arts
 
@@ -56,7 +56,7 @@ h5. Thursday 18 August - Every Picture Tells a Story
 
 Work with Caroline Jones to tell your own story in pictures on a scroll, using a range of washes and mark making techniques.
 
-<a href="//stmargarets.london/assets/images/2011/orleans_chc_2.jpg" title="See larger version of - Coach House Club 2"><img src="//stmargarets.london/assets/images/2011/orleans_chc_2_thumb.jpg" width="150" height="112" alt="Coach House Club 2" class="photo right" /></a>
+<a href="/assets/images/2011/orleans_chc_2.jpg" title="See larger version of - Coach House Club 2"><img src="/assets/images/2011/orleans_chc_2_thumb.jpg" width="150" height="112" alt="Coach House Club 2" class="photo right" /></a>
 
 
 h3. CH2 for 9 - 14 Year Olds
@@ -125,7 +125,7 @@ h4. Textile Tastic Workshop for 4-5 Year Olds
 Friday 12 August, 10am - 12pm OR 2pm - 4pm, &pound;10
 Discover a wealth of different ways to build a picture on fabric.  Use collage, heat transfer paints, and fabric pens and crayons to create a textile picture of your favourite things.
 
-<a href="//stmargarets.london/assets/images/2011/orleans_photo.jpg" title="See larger version of - Coach House Photography"><img src="//stmargarets.london/assets/images/2011/orleans_photo_thumb.jpg" width="150" height="112" alt="Coach House Photography" class="photo right" /></a>
+<a href="/assets/images/2011/orleans_photo.jpg" title="See larger version of - Coach House Photography"><img src="/assets/images/2011/orleans_photo_thumb.jpg" width="150" height="112" alt="Coach House Photography" class="photo right" /></a>
 
 
 h3. Photography Summer School

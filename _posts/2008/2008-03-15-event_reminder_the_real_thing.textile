@@ -6,7 +6,7 @@ commentfile: 2008-03-15-event_reminder_the_real_thing
 category: around_town
 date: 2008-03-15 19:15:32
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/rss_simonprints.jpg" title="See larger version of - The Real Thing"><img src="//stmargarets.london/assets/images/2008/rss_simonprints_thumb.jpg" width="98" height="150" alt="The Real Thing" class="photo right" /></a>
+    <a href="/assets/images/2008/rss_simonprints.jpg" title="See larger version of - The Real Thing"><img src="/assets/images/2008/rss_simonprints_thumb.jpg" width="98" height="150" alt="The Real Thing" class="photo right" /></a>
     
     Next show from the Richmond Shakespeare Society is Sir Tom Stoppard's theatrically pyrotechnical "The Real Thing":https://stmargarets.london/event/play/200705141794, an extraordinary semi-autobiographical play by turns hilarious and touching, and uncannily blurring stage illusion with real life.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/rss_simonprints.jpg" title="See larger version of - The Real Thing"><img src="//stmargarets.london/assets/images/2008/rss_simonprints_thumb.jpg" width="98" height="150" alt="The Real Thing" class="photo right" /></a>
+<a href="/assets/images/2008/rss_simonprints.jpg" title="See larger version of - The Real Thing"><img src="/assets/images/2008/rss_simonprints_thumb.jpg" width="98" height="150" alt="The Real Thing" class="photo right" /></a>
 
 Next show from the Richmond Shakespeare Society is Sir Tom Stoppard's theatrically pyrotechnical "The Real Thing":https://stmargarets.london/event/play/200705141794, an extraordinary semi-autobiographical play by turns hilarious and touching, and uncannily blurring stage illusion with real life.
 

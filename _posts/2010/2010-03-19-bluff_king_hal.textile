@@ -6,7 +6,7 @@ commentfile: 2010-03-19-bluff_king_hal
 category: around_town
 date: 2010-03-19 12:08:17
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/syon_1.jpg"><img src="//stmargarets.london/assets/images/2010/syon_1-thumb.jpg" width="125" height="150" alt="Bluff King Hal" class="photo right" /></a>
+    <a href="/assets/images/2010/syon_1.jpg"><img src="/assets/images/2010/syon_1-thumb.jpg" width="125" height="150" alt="Bluff King Hal" class="photo right" /></a>
     
     
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/syon_1.jpg"><img src="//stmargarets.london/assets/images/2010/syon_1-thumb.jpg" width="125" height="150" alt="Bluff King Hal" class="photo right" /></a>
+<a href="/assets/images/2010/syon_1.jpg"><img src="/assets/images/2010/syon_1-thumb.jpg" width="125" height="150" alt="Bluff King Hal" class="photo right" /></a>
 
 
 
@@ -36,7 +36,7 @@ King Henry VIII was only 55 when he died on January 28<sup>th</sup> 1547 but he 
 He died in Whitehall but it was decided to bury him at Windsor. He was dressed in his robes of state and placed in a lead coffin. The hearse was pulled by 8 black horses each carrying a child holding a king's banner. Banners appeared to be a theme of the cort&#232;ge.  So many were carried by the vast retinue that trees along the funeral route were cut back to prevent them catching. Sandford gives the following account.
 
 
-<a href="//stmargarets.london/assets/images/2010/syon_2.jpg"><img src="//stmargarets.london/assets/images/2010/syon_2-thumb.jpg" width="150" height="112" alt="THE ROAD INTO SYON PARK" class="photo right" /></a>
+<a href="/assets/images/2010/syon_2.jpg"><img src="/assets/images/2010/syon_2-thumb.jpg" width="150" height="112" alt="THE ROAD INTO SYON PARK" class="photo right" /></a>
 
 
 

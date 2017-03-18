@@ -6,7 +6,7 @@ commentfile: 2011-06-09-arthouse_open_studios_festival_10_to_19_june_2011
 category: around_town
 date: 2011-06-09 10:38:29
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
+    <a href="/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
     
     It is time for "ARThouse 2011, Richmond's annual Open Studios Festival":http://www.richmond.gov.uk/arthouse_open_studios.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
 
 It is time for "ARThouse 2011, Richmond's annual Open Studios Festival":http://www.richmond.gov.uk/arthouse_open_studios.
 
@@ -29,7 +29,7 @@ _Admission to all open studio venues is free._
 
 h4. Stepping On Out
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_20.jpg" title="See larger version of - arthouse_20"><img src="//stmargarets.london/assets/images/2011/arthouse_20_thumb.jpg" width="98" height="106" alt="arthouse_20" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_20.jpg" title="See larger version of - arthouse_20"><img src="/assets/images/2011/arthouse_20_thumb.jpg" width="98" height="106" alt="arthouse_20" class=" right" /></a>
 
 * 35 Hampton Road, Twickenham, TW2 5QE
 * 020 8744 8440
@@ -46,7 +46,7 @@ Artists exhibiting: Anita Crofts, Caroline Ellis, Julia Essam, John Harrison, Jo
 
 h4. Whetton & Grosch Studios
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_21.jpg" title="See larger version of - arthouse_21"><img src="//stmargarets.london/assets/images/2011/arthouse_21_thumb.jpg" width="98" height="103" alt="arthouse_21" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_21.jpg" title="See larger version of - arthouse_21"><img src="/assets/images/2011/arthouse_21_thumb.jpg" width="98" height="103" alt="arthouse_21" class=" right" /></a>
 
 * 100 Colne Road, Twickenham, TW2 6QE
 * 020 8893 3660
@@ -61,7 +61,7 @@ Artists exhibiting: Karen Grosch, David Whetton, Richard Eastwood, David James, 
 
 h4. Stephen King
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_22.jpg" title="See larger version of - arthouse_22"><img src="//stmargarets.london/assets/images/2011/arthouse_22_thumb.jpg" width="97" height="105" alt="arthouse_22" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_22.jpg" title="See larger version of - arthouse_22"><img src="/assets/images/2011/arthouse_22_thumb.jpg" width="97" height="105" alt="arthouse_22" class=" right" /></a>
 
 * 39 Warwick Road, Twickenham, TW2 6SW
 * 020 8894 3893
@@ -74,7 +74,7 @@ Through the medium of paint the very small and very big are unified, thus the qu
 
 h4. Henck R&#246;ling
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_23.jpg" title="See larger version of - arthouse_23"><img src="//stmargarets.london/assets/images/2011/arthouse_23_thumb.jpg" width="98" height="107" alt="arthouse_23" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_23.jpg" title="See larger version of - arthouse_23"><img src="/assets/images/2011/arthouse_23_thumb.jpg" width="98" height="107" alt="arthouse_23" class=" right" /></a>
 
 * Studio in the Close, 28 Strawberry Hill Close, Twickenham, TW1 4PX
 * 07825 917172
@@ -86,7 +86,7 @@ Paintings in acrylic on canvas. Subjects floral and life model, watercolours, li
 
 h4.  Ian Sidaway RI
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_24.jpg" title="See larger version of - arthouse_24"><img src="//stmargarets.london/assets/images/2011/arthouse_24_thumb.jpg" width="99" height="107" alt="arthouse_24" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_24.jpg" title="See larger version of - arthouse_24"><img src="/assets/images/2011/arthouse_24_thumb.jpg" width="99" height="107" alt="arthouse_24" class=" right" /></a>
 
 * Pembridge Cottage, 10 Strawberry Hill Road, Twickenham, TW1 4PT
 * 020 8287 8993
@@ -99,7 +99,7 @@ Watercolour and oils dealing with landscape.
 
 h4. David Dalley
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_25.jpg" title="See larger version of - arthouse_25"><img src="//stmargarets.london/assets/images/2011/arthouse_25_thumb.jpg" width="98" height="105" alt="arthouse_25" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_25.jpg" title="See larger version of - arthouse_25"><img src="/assets/images/2011/arthouse_25_thumb.jpg" width="98" height="105" alt="arthouse_25" class=" right" /></a>
 
 * Saville Studio, 26 Saville Road, Twickenham, TW1 4BQ
 * 07813 970008
@@ -112,7 +112,7 @@ Watercolour paintings of coastal erosion from Covehithe to Pakefield, Suffolk an
 
 h4. Julie Simpson
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_26.jpg" title="See larger version of - arthouse_26"><img src="//stmargarets.london/assets/images/2011/arthouse_26_thumb.jpg" width="99" height="104" alt="arthouse_26" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_26.jpg" title="See larger version of - arthouse_26"><img src="/assets/images/2011/arthouse_26_thumb.jpg" width="99" height="104" alt="arthouse_26" class=" right" /></a>
 
 * 53 Cross Deep Gardens, Twickenham, TW1 4QZ
 * 020 8241 8388
@@ -124,7 +124,7 @@ Studies of the human form, both sculpted using several different clays and finis
 
 h4. Heatham House
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_27.jpg" title="See larger version of - arthouse_27"><img src="//stmargarets.london/assets/images/2011/arthouse_27_thumb.jpg" width="99" height="105" alt="arthouse_27" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_27.jpg" title="See larger version of - arthouse_27"><img src="/assets/images/2011/arthouse_27_thumb.jpg" width="99" height="105" alt="arthouse_27" class=" right" /></a>
 
 * Heatham House Youth Centre, Whitton Road, Twickenham, TW1 1BH
 * 020 8288 0950
@@ -136,7 +136,7 @@ Many media and live aerosol art. Claire Rye, SkyHigh, Tom Webb, Simon Taylor, Te
 
 h4. Eel Pie Artists
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_28.jpg" title="See larger version of - arthouse_28"><img src="//stmargarets.london/assets/images/2011/arthouse_28_thumb.jpg" width="96" height="95" alt="arthouse_28" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_28.jpg" title="See larger version of - arthouse_28"><img src="/assets/images/2011/arthouse_28_thumb.jpg" width="96" height="95" alt="arthouse_28" class=" right" /></a>
 
 * Eel Pie Boatyard, Eel Pie Island, Twickenham, TW1 3DY
 * 07932 453990
@@ -151,7 +151,7 @@ Artists exhibiting: Gina Elsworthy, Judith Rowe, Malindi O'Rorke, Delyth Jones, 
 
 h4.  Patricia Burbidge
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_29a.jpg" title="See larger version of - arthouse_29a"><img src="//stmargarets.london/assets/images/2011/arthouse_29a_thumb.jpg" width="98" height="105" alt="arthouse_29a" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_29a.jpg" title="See larger version of - arthouse_29a"><img src="/assets/images/2011/arthouse_29a_thumb.jpg" width="98" height="105" alt="arthouse_29a" class=" right" /></a>
 
 * 6 Marble Hill Gardens, Twickenham, TW1 3AX
 * 020 8891 5115
@@ -164,7 +164,7 @@ Impressionistic oil and watercolour paintings that capture light and mood.
 
 h4. Sue Rawley
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_29b.jpg" title="See larger version of - arthouse_29b"><img src="//stmargarets.london/assets/images/2011/arthouse_29b_thumb.jpg" width="99" height="88" alt="arthouse_29b" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_29b.jpg" title="See larger version of - arthouse_29b"><img src="/assets/images/2011/arthouse_29b_thumb.jpg" width="99" height="88" alt="arthouse_29b" class=" right" /></a>
 
 * 6 Marble Hill Gardens, Twickenham, TW1 3AX
 * 07956578671
@@ -179,7 +179,7 @@ Commissions taken.
 
 h4.  Sally Stiff
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_30.jpg" title="See larger version of - arthouse_30"><img src="//stmargarets.london/assets/images/2011/arthouse_30_thumb.jpg" width="99" height="103" alt="arthouse_30" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_30.jpg" title="See larger version of - arthouse_30"><img src="/assets/images/2011/arthouse_30_thumb.jpg" width="99" height="103" alt="arthouse_30" class=" right" /></a>
 
 * 163 Richmond Road, Twickenham, TW1 3AT
 * 07771 825586
@@ -191,7 +191,7 @@ Water colours of landscapes and cities from travels in Europe and the Middle Eas
 
 h4.  Kate Holliday
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_31.jpg" title="See larger version of - arthouse_31"><img src="//stmargarets.london/assets/images/2011/arthouse_31_thumb.jpg" width="96" height="100" alt="arthouse_31" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_31.jpg" title="See larger version of - arthouse_31"><img src="/assets/images/2011/arthouse_31_thumb.jpg" width="96" height="100" alt="arthouse_31" class=" right" /></a>
 
 * 30 Ailsa Road, Twickenham, TW1 1QW (_Part access_)
 * 020 8892 5240
@@ -203,7 +203,7 @@ Functional and decorative ceramics.
 
 h4. Shirley Cooper Jackson
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_32.jpg" title="See larger version of - arthouse_32"><img src="//stmargarets.london/assets/images/2011/arthouse_32_thumb.jpg" width="99" height="105" alt="arthouse_32" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_32.jpg" title="See larger version of - arthouse_32"><img src="/assets/images/2011/arthouse_32_thumb.jpg" width="99" height="105" alt="arthouse_32" class=" right" /></a>
 
 * 5 Heathcote Road, St Margarets, TW1 1RX
 * 07973 865438
@@ -217,7 +217,7 @@ Commissions.
 
 h4.  Christine Byron
 
-<a href="//stmargarets.london/assets/images/2011/arthouse_33.jpg" title="See larger version of - arthouse_33"><img src="//stmargarets.london/assets/images/2011/arthouse_33_thumb.jpg" width="99" height="103" alt="arthouse_33" class=" right" /></a>
+<a href="/assets/images/2011/arthouse_33.jpg" title="See larger version of - arthouse_33"><img src="/assets/images/2011/arthouse_33_thumb.jpg" width="99" height="103" alt="arthouse_33" class=" right" /></a>
 
 * Just Good Frames, 368 Richmond Road, East Twickenham, TW1 2DX
 * 020 8892 1530/07780 194008
@@ -232,7 +232,7 @@ Paintings, drawings, prints and cards.
 
 h4. Silvina Soria
 
-<a href="//stmargarets.london/assets/images/2011/arthosue_soria.jpg" title="See larger version of - arthosue_soria"><img src="//stmargarets.london/assets/images/2011/arthosue_soria_thumb.jpg" width="150" height="111" alt="arthosue_soria" class=" right" /></a>
+<a href="/assets/images/2011/arthosue_soria.jpg" title="See larger version of - arthosue_soria"><img src="/assets/images/2011/arthosue_soria_thumb.jpg" width="150" height="111" alt="arthosue_soria" class=" right" /></a>
 
 * Silvina Soria Jewels and Sculptures, 64 Finucane Court, Lower Mortlake Road, TW9 2HW
 * 07901 965603

@@ -6,7 +6,7 @@ commentfile: 2009-05-26-do_you_have_talent
 category: around_town
 date: 2009-05-26 13:28:02
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/TwickenhamFestivalFamilyFunDay.gif"><img src="//stmargarets.london/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif" width="105" height="150" alt="Family Fun Day poster" class="photo right" /></a>
+    <a href="/assets/images/2009/TwickenhamFestivalFamilyFunDay.gif"><img src="/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif" width="105" height="150" alt="Family Fun Day poster" class="photo right" /></a>
     
     
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/TwickenhamFestivalFamilyFunDay.gif"><img src="//stmargarets.london/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif" width="105" height="150" alt="Family Fun Day poster" class="photo right" /></a>
+<a href="/assets/images/2009/TwickenhamFestivalFamilyFunDay.gif"><img src="/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif" width="105" height="150" alt="Family Fun Day poster" class="photo right" /></a>
 
 
 

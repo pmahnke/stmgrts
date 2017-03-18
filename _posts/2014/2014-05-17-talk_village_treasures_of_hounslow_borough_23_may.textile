@@ -7,7 +7,7 @@ category: around_town
 date: 2014-05-17 14:27:09
 ---
 
- <a href="//stmargarets.london/assets/images/2014/Isleworth_Riverside_postcard.JPG" title="See larger version of - Isleworth Riverside postcard"><img src="//stmargarets.london/assets/images/2014/Isleworth_Riverside_postcard_thumb.JPG" width="150" height="101" alt="Isleworth Riverside postcard" class="photo right" /></a>
+ <a href="/assets/images/2014/Isleworth_Riverside_postcard.JPG" title="See larger version of - Isleworth Riverside postcard"><img src="/assets/images/2014/Isleworth_Riverside_postcard_thumb.JPG" width="150" height="101" alt="Isleworth Riverside postcard" class="photo right" /></a>
 
 Village Treasures of Hounslow Borough: a talk by Christine Diwell, one of the founder members of the Hounslow Heritage Guides who have been leading heritage tours for 20 years.
 

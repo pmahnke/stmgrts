@@ -6,11 +6,11 @@ commentfile: 2016-10-08-event-environment-trust-art-action
 category: around_town
 date: 2016-10-08 10:07:50
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/Environment_Trust_Auction_Poster_2016.jpg" title="See larger version of - Environment Trust Auction Poster 2016"><img src="https://stmargarets.london/assets/images/2016/Environment_Trust_Auction_Poster_2016_thumb.jpg" width="150" height="212" alt="Environment Trust Auction Poster 2016" class="photo right" /></a>
+    <a href="/assets/images/2016/Environment_Trust_Auction_Poster_2016.jpg" title="See larger version of - Environment Trust Auction Poster 2016"><img src="/assets/images/2016/Environment_Trust_Auction_Poster_2016_thumb.jpg" width="150" height="212" alt="Environment Trust Auction Poster 2016" class="photo right" /></a>
 
     The Environment Trust has been running an annual Art Auction for many years. It is a very popular local event and a major fund-raiser, helping to support the work we do. The theme for the 2016 auction will be _Working Lives, Working Places_ to complement one of the Trust's new projects which the proceeds of the auction will support.
 ---
-<a href="https://stmargarets.london/assets/images/2016/Environment_Trust_Auction_Poster_2016.jpg" title="See larger version of - Environment Trust Auction Poster 2016"><img src="https://stmargarets.london/assets/images/2016/Environment_Trust_Auction_Poster_2016_thumb.jpg" width="250" height="353" alt="Environment Trust Auction Poster 2016" class="photo right" /></a>
+<a href="/assets/images/2016/Environment_Trust_Auction_Poster_2016.jpg" title="See larger version of - Environment Trust Auction Poster 2016"><img src="/assets/images/2016/Environment_Trust_Auction_Poster_2016_thumb.jpg" width="250" height="353" alt="Environment Trust Auction Poster 2016" class="photo right" /></a>
 
 The Environment Trust has been running an annual Art Auction for many years. It is a very popular local event and a major fund-raiser, helping to support the work we do. The theme for the 2016 auction will be _Working Lives, Working Places_ to complement one of the Trust's new projects which the proceeds of the auction will support.
 

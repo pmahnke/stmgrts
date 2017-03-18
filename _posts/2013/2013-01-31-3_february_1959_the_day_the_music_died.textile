@@ -6,7 +6,7 @@ commentfile: 2013-01-31-3_february_1959_the_day_the_music_died
 category: around_town
 date: 2013-01-31 22:30:04
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="//stmargarets.london/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a>
+    <a href="/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a>
 
     I remember that morning in February 1959. It was a typical winter day, grey and grim, and I was delivering newspapers. Plastered over the front page of the 'Daily Mirror' was the headline 'Top Rock Stars Die in Crash'. Above it, arms spread, was a photograph of J.P Richardson - the Big Bopper - and below, grinning from behind his horn rimmed glasses, was my hero, Buddy Holly. They were both dead, along with 17 year old Ritchie Valens...
 
@@ -22,7 +22,7 @@ Something touched me deep inside the day the music died
 ??AMERICAN PIE by Don McLean??
 
 
-|<a href="//stmargarets.london/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="//stmargarets.london/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a><br />Buddy Holly|<a href="https://stmargarets.london/assets/images/2013/DTMD_Big-Bopper.jpg" title="See larger version of - Big Bopper"><img src="https://stmargarets.london/assets/images/2013/DTMD_Big-Bopper_thumb.jpg" width="112" height="112" alt="Big Bopper" class="photo right" /></a><br />Jape<br />'Big Bopper'<br />Richardson|<a href="https://stmargarets.london/assets/images/2013/DTMD_Ritchie_Valens.jpg" title="See larger version of - Ritchie Valens"><img src="https://stmargarets.london/assets/images/2013/DTMD_Ritchie_Valens_thumb.jpg" height="112" alt="Ritchie Valens" class="photo" /></a><br />Ritchie Valens|
+|<a href="/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a><br />Buddy Holly|<a href="/assets/images/2013/DTMD_Big-Bopper.jpg" title="See larger version of - Big Bopper"><img src="/assets/images/2013/DTMD_Big-Bopper_thumb.jpg" width="112" height="112" alt="Big Bopper" class="photo right" /></a><br />Jape<br />'Big Bopper'<br />Richardson|<a href="/assets/images/2013/DTMD_Ritchie_Valens.jpg" title="See larger version of - Ritchie Valens"><img src="/assets/images/2013/DTMD_Ritchie_Valens_thumb.jpg" height="112" alt="Ritchie Valens" class="photo" /></a><br />Ritchie Valens|
 
 I remember that morning in February 1959. It was a typical winter day, grey and grim, and I was delivering newspapers. Plastered over the front page of the 'Daily Mirror' was the headline 'Top Rock Stars Die in Crash'. Above it, arms spread, was a photograph of J.P Richardson - the Big Bopper - and below, grinning from behind his horn rimmed glasses, was my hero, Buddy Holly. They were both dead, along with 17 year old Ritchie Valens...
 
@@ -30,7 +30,7 @@ I remember that morning in February 1959. It was a typical winter day, grey and 
 
 From BARRY HARDING 	New York, Tuesday
 
-<a href="//stmargarets.london/assets/images/2013/DTMD_daily_mirror_headline.jpg" title="See larger version of - daily mirror headline"><img src="//stmargarets.london/assets/images/2013/DTMD_daily_mirror_headline_thumb.jpg" width="150" height="189" alt="daily mirror headline" class="photo right" /></a>
+<a href="/assets/images/2013/DTMD_daily_mirror_headline.jpg" title="See larger version of - daily mirror headline"><img src="/assets/images/2013/DTMD_daily_mirror_headline_thumb.jpg" width="150" height="189" alt="daily mirror headline" class="photo right" /></a>
 
 
 Three of America's top rock 'n' roll stars were killed in a plane crash today, a few hours after delighting teenagers at a "big beat" concert.
@@ -45,12 +45,12 @@ Hours later the pilot of a search plane spotted wreckage on a farm about ten mil
 </div>
 
 
-<a href="//stmargarets.london/assets/images/2013/DTMD_Surf_Ballroom_1959.jpg" title="See larger version of - Surf Ballroom 1959"><img src="//stmargarets.london/assets/images/2013/DTMD_Surf_Ballroom_1959_thumb.jpg" width="150" height="82" alt="Surf Ballroom 1959" class="photo right" /></a>
+<a href="/assets/images/2013/DTMD_Surf_Ballroom_1959.jpg" title="See larger version of - Surf Ballroom 1959"><img src="/assets/images/2013/DTMD_Surf_Ballroom_1959_thumb.jpg" width="150" height="82" alt="Surf Ballroom 1959" class="photo right" /></a>
 
 
 Buddy Holly, the Big Bopper and Ritchie Valens were three of the stars on a "Winter Dance Party" tour around 24 cities in America's mid-western states of Wisconsin, Minnesota and Iowa. From the moment the tour left Milwaukee on January 23<sup>rd</sup> 1959 it was clear that it was going to be a nightmare. The distances between the venues were enormous, the weather was appalling with heavy snow and the poorly heated tour bus was clearly inadequate for the task. On February 1<sup>st</sup> Buddy's drummer, Carl Bunch left the tour with frostbitten feet. By the time the tour reached the Surf Ballroom in Clear Lake, Iowa on 2<sup>nd</sup> February after eleven days on the road everyone was in a dirty mood - and dirtier laundry.
 
-<a href="//stmargarets.london/assets/images/2013/DTMD_plane_crash.jpg" title="See larger version of - plane crash"><img src="//stmargarets.london/assets/images/2013/DTMD_plane_crash_thumb.jpg" width="150" height="97" alt="plane crash" class="photo right" /></a>
+<a href="/assets/images/2013/DTMD_plane_crash.jpg" title="See larger version of - plane crash"><img src="/assets/images/2013/DTMD_plane_crash_thumb.jpg" width="150" height="97" alt="plane crash" class="photo right" /></a>
 
 Fed up with conditions aboard the tour bus Buddy decided that night to charter a plane to fly up to their next gig in Moorhead, Minnesota. His plan was to get a decent night's sleep in a proper bed and his laundry done. After some negotiation - helped by the toss of a coin  - fellow performers J.P Richardson and Ritchie Valens travelled with him. The plane, a Beechcraft Bonanza, took off from Mason City Airport around 1:00 AM in driving snow and crashed only minutes later in a corn field, killing all three rock stars and the pilot. Because the plane didn't catch on fire when it crashed, the wreckage wasn't found until 9.00am that morning.
 
@@ -79,7 +79,7 @@ Time goes by, I'll still remember you."
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2013/DTMD_Des_O_Connor.jpg" title="See larger version of - Des O' Connor"><img src="//stmargarets.london/assets/images/2013/DTMD_Des_O_Connor_thumb.jpg" width="150" height="159" alt="Des O' Connor" class="photo left" /></a>
+<a href="/assets/images/2013/DTMD_Des_O_Connor.jpg" title="See larger version of - Des O' Connor"><img src="/assets/images/2013/DTMD_Des_O_Connor_thumb.jpg" width="150" height="159" alt="Des O' Connor" class="photo left" /></a>
 
 In March 1958 Buddy Holly and The Crickets visited Britain on a 25 venue tour that took them from Liverpool and Blackburn in the north to Cardiff and London in the south. Although they enjoyed being in the UK they weren't very taken with the tour comic...
 

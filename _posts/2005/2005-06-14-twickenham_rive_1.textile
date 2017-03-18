@@ -8,7 +8,7 @@ date: 2005-06-14 16:59:27
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/playground 085a-lores.jpg"><img src="//stmargarets.london/assets/images/2005/playground 085a-lores-thumb.jpg" width="150" height="100" alt="Twickenham Riverside Playground" class="right" /></a>
+<a href="/assets/images/2005/playground 085a-lores.jpg"><img src="/assets/images/2005/playground 085a-lores-thumb.jpg" width="150" height="100" alt="Twickenham Riverside Playground" class="right" /></a>
 
 
 The regeneration of the Twickenham Riverside is well under way with _Stage 1_ offically completed on 1 June with the opening of the Jubilee Gardens and a playground.  Soon a Café will be opened as well.

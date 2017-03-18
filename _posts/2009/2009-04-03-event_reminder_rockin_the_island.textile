@@ -6,7 +6,7 @@ commentfile: 2009-04-03-event_reminder_rockin_the_island
 category: around_town
 date: 2009-04-03 08:43:45
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/rockdancers.jpg"><img src="//stmargarets.london/assets/images/2009/rockdancers-thumb.jpg" width="150" height="98" alt="Bunny Hoppers" class="photo right" /></a>
+    <a href="/assets/images/2009/rockdancers.jpg"><img src="/assets/images/2009/rockdancers-thumb.jpg" width="150" height="98" alt="Bunny Hoppers" class="photo right" /></a>
     
     
     "On Saturday 25th April, drape suited, crepe booted rock 'n' roll returns to Eel Pie Island with an Easter Bunny Hop at Richmond Yacht Club":https://stmargarets.london/event/show/200705142092. As well as gen-u-ine 50's and 60's rock and pop music from everyone's local favourites 'Nark Drool and the Shudders' there will be a licensed bar, hot food and a free dance lesson! Jumping Jivers, Batman!
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/rockdancers.jpg"><img src="//stmargarets.london/assets/images/2009/rockdancers-thumb.jpg" width="150" height="98" alt="Bunny Hoppers" class="photo right" /></a>
+<a href="/assets/images/2009/rockdancers.jpg"><img src="/assets/images/2009/rockdancers-thumb.jpg" width="150" height="98" alt="Bunny Hoppers" class="photo right" /></a>
 
 
 bq. "Have you heard the news? There's good rocking tonight!"

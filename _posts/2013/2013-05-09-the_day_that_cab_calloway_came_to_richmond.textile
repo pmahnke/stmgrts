@@ -6,7 +6,7 @@ commentfile: 2013-05-09-the_day_that_cab_calloway_came_to_richmond
 category: around_town
 date: 2013-05-09 22:54:25
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway.png" title="See larger version of -  Cab Calloway"><img src="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png" width="150" height="157" alt=" Cab Calloway" class="photo right" /></a>
+    <a href="/assets/images/2013/CALLOWAY_Cab_Calloway.png" title="See larger version of -  Cab Calloway"><img src="/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png" width="150" height="157" alt=" Cab Calloway" class="photo right" /></a>
     
     
     The argument about who created rock 'n' roll music and who first recorded it has been rattling on since Trixie Smith released _"My Man Rocks Me (With One Steady Roll)"_ in 1922. Whether it was the Boswell Sisters with _"Rock and Roll"_ in 1934, "Rockin' and Rollin'" by Charlie Gracie in 1952 or Bill Haley and _"Rock Around the Clock"_ in 1955, there have been many shoulders pushing at the boogie woogie wheel - and on December 2<sup>nd</sup> 1952 one of the greatest early rock pioneers came to Richmond. His name was Cab Calloway - and he was opening a clothes shop.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway.png" title="See larger version of -  Cab Calloway"><img src="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png" width="150" height="157" alt=" Cab Calloway" class="photo right" /></a>
+<a href="/assets/images/2013/CALLOWAY_Cab_Calloway.png" title="See larger version of -  Cab Calloway"><img src="/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png" width="150" height="157" alt=" Cab Calloway" class="photo right" /></a>
 
 
 The argument about who created rock 'n' roll music and who first recorded it has been rattling on since Trixie Smith released _"My Man Rocks Me (With One Steady Roll)"_ in 1922. Whether it was the Boswell Sisters with _"Rock and Roll"_ in 1934, "Rockin' and Rollin'" by Charlie Gracie in 1952 or Bill Haley and _"Rock Around the Clock"_ in 1955, there have been many shoulders pushing at the boogie woogie wheel - and on December 2<sup>nd</sup> 1952 one of the greatest early rock pioneers came to Richmond. His name was Cab Calloway - and he was opening a clothes shop.
@@ -40,13 +40,13 @@ h4. HOW TO SIGNIFY WITH THE JIVE TALK
 </div>
 
 
-<a href="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_as_Sporting_Life.jpg" title="See larger version of -  Cab as Sporting Life"><img src="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_as_Sporting_Life_thumb.jpg" width="150" height="182" alt=" Cab as Sporting Life" class="photo right" /></a>
+<a href="/assets/images/2013/CALLOWAY_Cab_as_Sporting_Life.jpg" title="See larger version of -  Cab as Sporting Life"><img src="/assets/images/2013/CALLOWAY_Cab_as_Sporting_Life_thumb.jpg" width="150" height="182" alt=" Cab as Sporting Life" class="photo right" /></a>
 
 Cab's band was hot and he was hotter. He was the star and main attraction at the Cotton Club in Harlem and in December 1952 he was in London at the Stoll Theatre playing 'Sportin' Life' in "Porgie and Bess", a part specially created for him by the composer George Gershwin. Yep. This guy was so hot he was ultra cool..... You dig? Yet and surprisingly none of the local papers, the 'Richmond and Twickenham Times' or the 'Richmond Herald' bothered to cover his visit, even though Ralph Taylor had placed a large advertisement the week before publicising the shop opening. Now, surely that ain't copasetic?
 
 I am certain that a large crowd of local hepcats and chicks came to see Cab and welcome him to Richmond and I am sure that he was happy when he left around lunchtime but it is strange that the local newspapers should choose to ignore him. Maybe the minutes of the local parish council or the news of a wave of bicycle thefts were more important.
 
-<a href="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway_Ad.JPG" title="See larger version of -  Cab Calloway Ad"><img src="//stmargarets.london/assets/images/2013/CALLOWAY_Cab_Calloway_Ad_thumb.JPG" width="150" height="145" alt=" Cab Calloway Ad" class="photo right" /></a>
+<a href="/assets/images/2013/CALLOWAY_Cab_Calloway_Ad.JPG" title="See larger version of -  Cab Calloway Ad"><img src="/assets/images/2013/CALLOWAY_Cab_Calloway_Ad_thumb.JPG" width="150" height="145" alt=" Cab Calloway Ad" class="photo right" /></a>
 
 That Tuesday evening, December 2<sup>nd</sup> 1952, Cab was taking a break from "Porgy and Bess" to appear in "Harry Dawson's Big Rhythm Show of 1952" at the Royal Albert Hall, alongside other jazz and be-bop greats like Mary Lou Williams and the Deep River Boys. Despite the thick fog outside the show was a huge hit and Cab was the star. The music critic with the "Chicago Defender" was very complimentary...
 
@@ -57,7 +57,7 @@ That thick fog was the first appearance of the deadly 'smog' that over the comin
 
 There is a study called 'Psychogeography' which suggests a casual link between places or environments and the events that take place there, as with historical 'sacred' sites or places where certain businesses or activities have always been held...and maybe this is the case with the site opposite Richmond Station
 
-<a href="//stmargarets.london/assets/images/2013/CALLOWAY_rolling_stones_railway_hotel.jpg" title="See larger version of - rolling stones railway hotel"><img src="//stmargarets.london/assets/images/2013/CALLOWAY_rolling_stones_railway_hotel_thumb.jpg" width="150" height="112" alt="rolling stones railway hotel" class="photo right" /></a>
+<a href="/assets/images/2013/CALLOWAY_rolling_stones_railway_hotel.jpg" title="See larger version of - rolling stones railway hotel"><img src="/assets/images/2013/CALLOWAY_rolling_stones_railway_hotel_thumb.jpg" width="150" height="112" alt="rolling stones railway hotel" class="photo right" /></a>
 
 
 About 10 years later, on Sunday 14<sup>th</sup> April 1963, in the Station Hotel which like Ralph Taylor's menswear shop was opposite Richmond Station another group of pop pioneers with their shoulders to the rock 'n' roll wheel came to visit. On that evening the rising stars of the time, the Beatles, dropped in to see a new group that were beginning to make a mark, They were called the Rolling Stones. Cab Calloway would have loved them.

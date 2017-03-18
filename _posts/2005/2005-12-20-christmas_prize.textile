@@ -47,7 +47,7 @@ _Prize donated by The St Margarets' Traders Association._
 </div>
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2005/toranXmaswinner05.jpg"><img src="//stmargarets.london/assets/images/2005/toranXmaswinner05-thumb.jpg" width="150" height="80" alt="Toran's Winning Picture" class="photo right" /></a>
+<a href="/assets/images/2005/toranXmaswinner05.jpg"><img src="/assets/images/2005/toranXmaswinner05-thumb.jpg" width="150" height="80" alt="Toran's Winning Picture" class="photo right" /></a>
 
 h4. The Christmas Poster Competition
 

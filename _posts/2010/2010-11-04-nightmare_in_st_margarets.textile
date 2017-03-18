@@ -6,7 +6,7 @@ commentfile: 2010-11-04-nightmare_in_st_margarets
 category: around_town
 date: 2010-11-04 19:12:43
 excerpt: |
-    <div class="img_caption right"><a href="http://www.flickr.com/photos/mahnke/sets/72157625312274650/show/"><img src="//stmargarets.london/assets/images/2010/5146527156_9b0b61ebbc_m.jpg" width="150" class="photo" alt="Halloween1" /></a>
+    <div class="img_caption right"><a href="http://www.flickr.com/photos/mahnke/sets/72157625312274650/show/"><img src="/assets/images/2010/5146527156_9b0b61ebbc_m.jpg" width="150" class="photo" alt="Halloween1" /></a>
     <span>See more on flickr...</span></div>
     
     Last Sunday, Hallowe'en, the graves opened up in St Margarets and the 'undead' - or the _"alternatively alive"_ as they prefer to be called these days - walked our streets.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<div class="img_caption right"><a href="http://www.flickr.com/photos/mahnke/sets/72157625312274650/show/"><img src="//stmargarets.london/assets/images/2010/5146527156_9b0b61ebbc_m.jpg" width="150" class="photo" alt="Halloween1" /></a>
+<div class="img_caption right"><a href="http://www.flickr.com/photos/mahnke/sets/72157625312274650/show/"><img src="/assets/images/2010/5146527156_9b0b61ebbc_m.jpg" width="150" class="photo" alt="Halloween1" /></a>
 <span>More Halloween photos on flickr...</span></div>
 
 
@@ -29,7 +29,7 @@ Last Sunday, Hallowe'en, the graves opened up in St Margarets and the 'undead' -
 Now I've got nothing against monsters - some of my best friends turn in to zombies on Saturday nights - but that is on a one-to-one basis. It is another matter entirely when you have the full set walking up your path and banging on the front door. Vampires, Frankenstein's monster, Zombies, Mummies, Ghouls, Ghosts, Werewolves and Witches -they were all there on Sunday night accompanied by their shadowy outriders - the Parents. _Oh, the horror, the horror!_
 
 
-<a href="http://www.flickr.com/photos/mahnke/5146527710/" title="Halloween5 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2010/5146527710_617beb46ef_m.jpg" width="150" alt="Halloween5" class="photo right"/></a>
+<a href="http://www.flickr.com/photos/mahnke/5146527710/" title="Halloween5 by Peter M, on Flickr"><img src="/assets/images/2010/5146527710_617beb46ef_m.jpg" width="150" alt="Halloween5" class="photo right"/></a>
 
 I doubt in any of this sepulchral squad  knew or cared about the long tradition of Hallowe'en in this country, about how 31<sup>st</sup> October was marked as the last day of the year in the Celtic calendar when witches and warlocks walked abroad. The arrival of Christianity in the 3<sup>rd</sup> century put a bit of a damper on proceedings. Hallowe'en was renamed  'All Saints Day' (November 1<sup>st</sup>)  - the word "hallows" being Old English for _'halig'_ - a Holy Man or Saint. In 610 Pope Boniface dedicated the day to all Christian martyrs and over the centuries the festival has grown into a time for remembering all the dead. In spite of this, the festival's pre-christian connections with magic and mystery remain. It is said that it is possible on Halloween to divine who you will marry. It is also thought that those born on the day have the gift of the second sight.
 

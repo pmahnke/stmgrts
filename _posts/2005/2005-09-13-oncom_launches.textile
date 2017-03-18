@@ -8,7 +8,7 @@ date: 2005-09-13 09:48:06
 
 ---
 
-<img alt="stmgargarets journal" src="//stmargarets.london/assets/images/2005/SMOBtn01-thumb.gif" width="88" height="39" class="right"/>
+<img alt="stmgargarets journal" src="/assets/images/2005/SMOBtn01-thumb.gif" width="88" height="39" class="right"/>
 
 Some of you may know of the _Online Communities_ website _St Margarets Online_ which includes "The St Margarets Journal":http://www.stmargarets-online.co.uk/. Hopefully you will find both sites useful and we can both provide something different for the community.
 

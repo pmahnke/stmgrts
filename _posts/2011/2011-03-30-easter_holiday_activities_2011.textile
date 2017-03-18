@@ -93,7 +93,7 @@ Explore the magical effects of light in making photograms with Rachel Craddock. 
 
 h3. Deja vu Entertainment - Easter Dance School
 
-<a href="//stmargarets.london/assets/images/2011/teddington_dance.gif" title="See larger version of - Dance poster"><img src="//stmargarets.london/assets/images/2011/teddington_dance_thumb.gif" width="150" height="212" alt="Dance poster" class="photo right" /></a>
+<a href="/assets/images/2011/teddington_dance.gif" title="See larger version of - Dance poster"><img src="/assets/images/2011/teddington_dance_thumb.gif" width="150" height="212" alt="Dance poster" class="photo right" /></a>
 
 _Spaces are limited so book quickly!_
 

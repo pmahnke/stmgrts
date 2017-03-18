@@ -6,7 +6,7 @@ commentfile: 2014-01-07-missing_dog_black_labrador_retriever
 category: around_town
 date: 2014-01-07 08:45:57
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/missing_dog_lily.jpg" title="See larger version of - missing dog lily"><img src="//stmargarets.london/assets/images/2014/missing_dog_lily_thumb.jpg" width="150" height="204" alt="missing dog lily" class="photo right" /></a>
+    <a href="/assets/images/2014/missing_dog_lily.jpg" title="See larger version of - missing dog lily"><img src="/assets/images/2014/missing_dog_lily_thumb.jpg" width="150" height="204" alt="missing dog lily" class="photo right" /></a>
     
     _Black Labrador Retriever, Lily, went missing from Crane Park / Kneller Gardens area on Christmas Eve._
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/missing_dog_lily.jpg" title="See larger version of - missing dog lily"><img src="//stmargarets.london/assets/images/2014/missing_dog_lily_thumb.jpg" width="150" height="204" alt="missing dog lily" class="photo right" /></a>
+<a href="/assets/images/2014/missing_dog_lily.jpg" title="See larger version of - missing dog lily"><img src="/assets/images/2014/missing_dog_lily_thumb.jpg" width="150" height="204" alt="missing dog lily" class="photo right" /></a>
 
 _Black Labrador Retriever, Lily, went missing from Crane Park / Kneller Gardens area on Christmas Eve._
 

@@ -6,7 +6,7 @@ commentfile: 2015-01-07-north_st_margarets_cpz_consultations
 category: news
 date: 2015-01-07 20:04:05
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014.jpg" title="See larger version of - St Margarets Parking Diagram Dec2014"><img src="//stmargarets.london/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014_thumb.jpg" width="150" height="103" alt="St Margarets Parking Diagram Dec2014" class="photo right" /></a>
+    <a href="/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014.jpg" title="See larger version of - St Margarets Parking Diagram Dec2014"><img src="/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014_thumb.jpg" width="150" height="103" alt="St Margarets Parking Diagram Dec2014" class="photo right" /></a>
     
     The Council is undertaking a review in St Margarets to improve parking for residents and businesses in the area and includes:
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014.jpg" title="See larger version of - St Margarets Parking Diagram Dec2014"><img src="//stmargarets.london/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014_thumb.jpg" width="250" height="172" alt="St Margarets Parking Diagram Dec2014" class="photo right" /></a>
+<a href="/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014.jpg" title="See larger version of - St Margarets Parking Diagram Dec2014"><img src="/assets/images/2015/St-Margarets-Parking-Diagram-Dec2014_thumb.jpg" width="250" height="172" alt="St Margarets Parking Diagram Dec2014" class="photo right" /></a>
 
 The Council is undertaking a review in St Margarets to improve parking for residents and businesses in the area and includes:
 

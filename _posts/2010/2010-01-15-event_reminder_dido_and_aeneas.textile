@@ -8,7 +8,7 @@ date: 2010-01-15 08:57:14
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/DIDOAENEAS.jpg" title="See larger version of - Flyer"><img src="//stmargarets.london/assets/images/2010/DIDOAENEAS_thumb.jpg" width="106" height="150" alt="Flyer" class="photo right" /></a>
+<a href="/assets/images/2010/DIDOAENEAS.jpg" title="See larger version of - Flyer"><img src="/assets/images/2010/DIDOAENEAS_thumb.jpg" width="106" height="150" alt="Flyer" class="photo right" /></a>
 
 
 Come and hear "Dido and Aeneas":https://stmargarets.london/event/concert/200705142359 on either 20 or 21 January at 7.30pm in the Edmund Kean Theatre at Richmond upon Thames College.

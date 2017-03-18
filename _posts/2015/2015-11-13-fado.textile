@@ -6,7 +6,7 @@ commentfile: 2015-11-13-fado
 category: around_town
 date: 2015-11-13 20:24:01
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/FADO_Fado_in_Lisbon.jpg" title="See larger version of - Fado in Lisbon"><img src="//stmargarets.london/assets/images/2015/FADO_Fado_in_Lisbon_thumb.jpg" width="150" height="84" alt="Fado in Lisbon" class="photo right" /></a>
+    <a href="/assets/images/2015/FADO_Fado_in_Lisbon.jpg" title="See larger version of - Fado in Lisbon"><img src="/assets/images/2015/FADO_Fado_in_Lisbon_thumb.jpg" width="150" height="84" alt="Fado in Lisbon" class="photo right" /></a>
 
     Perhaps the most widely loved thing to come out of Portugal is probably the least well known. Its name is Fado, a traditional folk genre described by its thousands of <em>'aficionados'</em> as the 'Soul of Portugal'. It is a sombre, soulful and melancholic retelling of old themes - of broken hearts, of social hardship, of poverty and of the sea. It is best contained in the Portuguese word 'saudade', which means longing or a sense of permanent and irreparable loss. Its history is uncertain...
 
@@ -18,7 +18,7 @@ Portuguese pronunciation: [ˈfa&#240;u]; "destiny, fate"
 
 </div>
 
-<a href="//stmargarets.london/assets/images/2015/FADO_Fado_in_Lisbon.jpg" title="See larger version of - Fado in Lisbon"><img src="//stmargarets.london/assets/images/2015/FADO_Fado_in_Lisbon_thumb.jpg" width="250" height="140" alt="Fado in Lisbon" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_Fado_in_Lisbon.jpg" title="See larger version of - Fado in Lisbon"><img src="/assets/images/2015/FADO_Fado_in_Lisbon_thumb.jpg" width="250" height="140" alt="Fado in Lisbon" class="photo right" /></a>
 
 Portugal may be an often over-looked corner of Europe but in its time it has given us some wonderful things. Ask anybody and they will tell you...
 
@@ -33,7 +33,7 @@ Er... ... ... Explorers like Vasco Da Gama and whatisname... you know... Christo
 
 O.K... now let me see... . (and finally and inevitably)... Jos&#233; Mourinho!  He is Portuguese, isn't he? (Yes he is.)
 
-<a href="//stmargarets.london/assets/images/2015/FADO_Fado_painting.jpg" title="See larger version of - Fado painting"><img src="//stmargarets.london/assets/images/2015/FADO_Fado_painting_thumb.jpg" width="250" height="227" alt="Fado painting" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_Fado_painting.jpg" title="See larger version of - Fado painting"><img src="/assets/images/2015/FADO_Fado_painting_thumb.jpg" width="250" height="227" alt="Fado painting" class="photo right" /></a>
 
 p. But perhaps the most widely loved thing to come out of Portugal is probably the least well known. Its name is Fado, a traditional folk genre described by its thousands of <em>'aficionados'</em> as the 'Soul of Portugal'. It is a sombre, soulful and melancholic retelling of old themes - of broken hearts, of social hardship, of poverty and of the sea. It is best contained in the Portuguese word 'saudade', which means longing or a sense of permanent and irreparable loss. Its history is uncertain...
 
@@ -42,19 +42,19 @@ bq. "The only reliable information on the history of Fado was orally transmitted
 
 ??RUI VIEIRA NERY - Fado historian and scholar??
 
-<a href="//stmargarets.london/assets/images/2015/FADO_Jose_malhoa_fado.jpg" title="See larger version of - Jose malhoa fado"><img src="//stmargarets.london/assets/images/2015/FADO_Jose_malhoa_fado_thumb.jpg" width="600" height="496" alt="Jose malhoa fado" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_Jose_malhoa_fado.jpg" title="See larger version of - Jose malhoa fado"><img src="/assets/images/2015/FADO_Jose_malhoa_fado_thumb.jpg" width="600" height="496" alt="Jose malhoa fado" class="photo right" /></a>
 
 Fado first appeared in Lisbon's slums and port areas in the early 1820's. In those days it was closely associated with the criminal underclass - street riff-raff, pickpockets, prostitutes, burglars and the like. Portuguese intellectuals rejected it completely. The famous painting 'Fado' by Jos&#233; Malhoa completed in 1910 showing a prostitute admiring a Fado singer strumming his 'guitarra' depicts that underworld environment.
 
-<a href="//stmargarets.london/assets/images/2015/FADO_Groupo_Artisticos_de_Fados.jpg" title="See larger version of - Groupo Artisticos de Fados"><img src="//stmargarets.london/assets/images/2015/FADO_Groupo_Artisticos_de_Fados_thumb.jpg" width="250" height="186" alt="Groupo Artisticos de Fados" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_Groupo_Artisticos_de_Fados.jpg" title="See larger version of - Groupo Artisticos de Fados"><img src="/assets/images/2015/FADO_Groupo_Artisticos_de_Fados_thumb.jpg" width="250" height="186" alt="Groupo Artisticos de Fados" class="photo right" /></a>
 
 In the first decades of the 20<sup>th</sup> century, in tandem with the development of recording, there came a growing interest in what only could be described as 'people's music'. In America it was Jazz, Blues and Olde Timey. In Britain it was rural songs collected by musicologists like Cecil Sharp and A.L. Lloyd and soo it was in Portugal with Fado. Research into the history of the genre appeared in popular magazines. New Fado venues were opened and new Fado groups and companies appeared like  "Grupo Art&#237;stico de Fados", with Berta Cardoso (1911-1997), and "Troupe Guitarra de Portugal", with Erc&#237;lia Costa (1902-1985).  The improvement in record quality following the invention of the electric microphone in 1925 and the arrival of cheaper gramophones spread the popularity of Fado particularly amongst the middle classes. The first Portuguese sound film, <em>'A Severa'</em>, which appeared in 1931 was based around a traditional Fado theme - of a mythical Fado singing prostitute, A Severa, and her bohemian, aristocratic lover.
 
-<a href="//stmargarets.london/assets/images/2015/FADO_Mariza.jpg" title="See larger version of - Mariza"><img src="//stmargarets.london/assets/images/2015/FADO_Mariza_thumb.jpg" width="250" height="166" alt="Mariza" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_Mariza.jpg" title="See larger version of - Mariza"><img src="/assets/images/2015/FADO_Mariza_thumb.jpg" width="250" height="166" alt="Mariza" class="photo right" /></a>
 
 Today a new audience has joined the <em>'aficionados'</em> - young people, bo-ho nostalgics and particularly the tourists who flood the many Fado clubs and restaurants in Portugal's cities. Fado singers like Mariza and Ricardo Ribeiro have become international stars and on 27 November 2011, Fado was inscribed in the UNESCO Intangible Cultural Heritage Lists.
 
-<a href="//stmargarets.london/assets/images/2015/FADO_guitarra_portuguesa_tdg.jpg" title="See larger version of - guitarra portuguesa tdg"><img src="//stmargarets.london/assets/images/2015/FADO_guitarra_portuguesa_tdg_thumb.jpg" width="250" height="124" alt="guitarra portuguesa tdg" class="photo right" /></a>
+<a href="/assets/images/2015/FADO_guitarra_portuguesa_tdg.jpg" title="See larger version of - guitarra portuguesa tdg"><img src="/assets/images/2015/FADO_guitarra_portuguesa_tdg_thumb.jpg" width="250" height="124" alt="guitarra portuguesa tdg" class="photo right" /></a>
 
 So what is its appeal? Not speaking Portuguese and perhaps of greater importance, not being Portuguese, it is difficult for me to say but it does catch my heart. First there are the instruments. In a typical Fao trio there will be an acoustic 6 string guitar pushing out a relentless <em>'dub-cha dub-cha'</em>, with simple chords linked with tumbling runs. Underneath this is an acoustic bass guitar providing a dominating beat. Its moments of unexpected silence can catch your breath. Over this rhythm section rides the star of the show - the <em>Guitarra Portuguesa</em> or Portuguese guitar. It looks like a lute, it has 12 strings tuned in pairs and it sounds like...  there is a word in the dictionary 'Plangent' and its definition reads:  <em>'Having an expressive and especially plaintive quality'</em>. Well the Guitarra Portuguesa sounds plangent - mixing the tremolo of the mandolin with the cut of the zither. But it is the solo voice, the soulful cry of the <em>'fadista'</em> out front that catches the ear, so powerful and defiant - in pain and despair, a soul reaching out for...  redemption?
 

@@ -8,7 +8,7 @@ date: 2006-11-09 10:10:10
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/casale-cover.jpg"><img src="//stmargarets.london/assets/images/2006/casale-cover-thumb.jpg" width="150" height="220" alt="First Stone Cover" class="photo right" /></a>
+<a href="/assets/images/2006/casale-cover.jpg"><img src="/assets/images/2006/casale-cover-thumb.jpg" width="150" height="220" alt="First Stone Cover" class="photo right" /></a>
 
 _The First Stone_ is the first novel by a local man, Guido Casale.  Guido has lived on the border of Old Isleworth and St Margarets since 1983 and both of his daughters have passed through the St Margarets schools, Orleans Infants and St Stephens.  Even though the names have been changed, the book takes place entirely in and around St Margarets.  All of the locations are clearly recognisable.  
 
@@ -20,7 +20,7 @@ I highly recommend getting a copy.
 
 You can purchase the book at the new agents next to the St Margarets Train Station.
 
-<a href="//stmargarets.london/assets/images/2006/first_stone_synopsis.pdf">PDF synopsis</a>
+<a href="/assets/images/2006/first_stone_synopsis.pdf">PDF synopsis</a>
 
 
 *Note:*

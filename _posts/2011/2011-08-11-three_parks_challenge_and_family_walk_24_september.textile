@@ -6,7 +6,7 @@ commentfile: 2011-08-11-three_parks_challenge_and_family_walk_24_september
 category: around_town
 date: 2011-08-11 14:01:06
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="//stmargarets.london/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
+    <a href="/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
     
     Ramble through three beautiful Royal Parks - Richmond Park, Hampton Court Park and Bushy Park and make a real difference to Shooting Star CHASE.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="//stmargarets.london/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
+<a href="/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
 
 Ramble through three beautiful Royal Parks - Richmond Park, Hampton Court Park and Bushy Park and make a real difference to Shooting Star CHASE.
 

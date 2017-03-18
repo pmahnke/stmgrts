@@ -6,13 +6,13 @@ commentfile: 2011-09-24-duck_pond_market_comes_to_richmond
 category: news
 date: 2011-09-24 18:26:35
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/duckpond.jpg" title="See larger version of - Duck Pond Photos"><img src="//stmargarets.london/assets/images/2011/duckpond_thumb.jpg" width="150" height="228" alt="Duck Pond Photos" class=" right" /></a>
+    <a href="/assets/images/2011/duckpond.jpg" title="See larger version of - Duck Pond Photos"><img src="/assets/images/2011/duckpond_thumb.jpg" width="150" height="228" alt="Duck Pond Photos" class=" right" /></a>
     
     Duck Pond Market is launching in Richmond on October 23<sup>rd</sup>, and will be a weekly Sunday market, taking place in the beautiful setting of Heron Square, just off Richmond (Bridge) Road, George Street and the riverside. Entrance is free, and the market will be open 10.30am - 3.30pm every Sunday. We'd love to see you there!
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/duckpond.jpg" title="See larger version of - Duck Pond Photos"><img src="//stmargarets.london/assets/images/2011/duckpond_thumb.jpg" width="150" height="228" alt="Duck Pond Photos" class=" right" /></a>
+<a href="/assets/images/2011/duckpond.jpg" title="See larger version of - Duck Pond Photos"><img src="/assets/images/2011/duckpond_thumb.jpg" width="150" height="228" alt="Duck Pond Photos" class=" right" /></a>
 
 <em>Duck Pond Market is launching in Richmond on October 23<sup>rd</sup>, and will be a weekly Sunday market, taking place in the beautiful setting of Heron Square, just off Richmond (Bridge) Road, George Street and the riverside. Entrance is free, and the market will be open 10.30am - 3.30pm every Sunday. We'd love to see you there!</em>
 

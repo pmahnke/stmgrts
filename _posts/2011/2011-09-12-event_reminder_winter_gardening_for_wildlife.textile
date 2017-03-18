@@ -6,7 +6,7 @@ commentfile: 2011-09-12-event_reminder_winter_gardening_for_wildlife
 category: around_town
 date: 2011-09-12 13:48:22
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="//stmargarets.london/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
+    <a href="/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
 
     "_2pm Sunday, 9 October at Kew Gardens_":https://stmargarets.london/event/event/200705142931
 
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="//stmargarets.london/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
+<a href="/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
 
 "_2pm Sunday, 9 October at Kew Gardens_":https://stmargarets.london/event/event/200705142931
 
@@ -29,7 +29,7 @@ This afternoon of short talks and question sessions at Kew will offer practical 
 
 h4. Details
 
-* "View the poster":https://stmargarets.london/assets/images/2011/Winter-Gardening-for-Wildli.jpg
+* "View the poster":/assets/images/2011/Winter-Gardening-for-Wildli.jpg
 * Admission &pound;5.
 * Booking essential - please call the Environment Trust for Richmond on 020 8891 5455.
 * Accompanied children 11 years and over are welcome, this event is not suitable for younger children.

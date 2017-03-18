@@ -8,7 +8,7 @@ date: 2007-06-07 21:25:56
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/art_house_logo.gif" title="See larger version of - ART HOUSE"><img src="//stmargarets.london/assets/images/2007/art_house_logo_thumb.gif" width="200" height="122" alt="ART HOUSE" class="right" /></a>
+<a href="/assets/images/2007/art_house_logo.gif" title="See larger version of - ART HOUSE"><img src="/assets/images/2007/art_house_logo_thumb.gif" width="200" height="122" alt="ART HOUSE" class="right" /></a>
 
 The Arts Service at the Richmond Council's "ARThouse 2007":https://stmargarets.london/event/exhibition/200705141625 starts tomorrow.
 

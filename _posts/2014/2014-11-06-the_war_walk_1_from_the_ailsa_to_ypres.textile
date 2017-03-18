@@ -6,7 +6,7 @@ commentfile: 2014-11-06-the_war_walk_1_from_the_ailsa_to_ypres
 category: around_town
 date: 2014-11-06 22:18:06
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/WARWALK-Troops_sheltering_by_road.jpg" title="See larger version of - Troops sheltering by road"><img src="//stmargarets.london/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg" width="150" height="121" alt="Troops sheltering by road" class="photo right" /></a>
+    <a href="/assets/images/2014/WARWALK-Troops_sheltering_by_road.jpg" title="See larger version of - Troops sheltering by road"><img src="/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg" width="150" height="121" alt="Troops sheltering by road" class="photo right" /></a>
     
     Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, in Haliburton Road.  With the information gathered, on Saturday October 25<sup>th</sup> NSMRA was able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Here are some of those WW1 stories from our own streets...
 
@@ -14,7 +14,7 @@ excerpt: |
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK-Troops_sheltering_by_road.jpg" title="See larger version of - Troops sheltering by road"><img src="//stmargarets.london/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg" width="250" height="201" alt="Troops sheltering by road" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK-Troops_sheltering_by_road.jpg" title="See larger version of - Troops sheltering by road"><img src="/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg" width="250" height="201" alt="Troops sheltering by road" class="photo right" /></a>
 
 Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, in Haliburton Road.  With the information gathered, on Saturday October 25<sup>th</sup> NSMRA was able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Here are some of those WW1 stories from our own streets...
 
@@ -22,7 +22,7 @@ Five years ago the North St Margarets Residents Association, NSMRA, began resear
 
 h4. CORPORAL PERCY DAVIES
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK-Percy_Davies_-_soldier.jpg" title="See larger version of - Percy Davies   soldier"><img src="//stmargarets.london/assets/images/2014/WARWALK-Percy_Davies_-_soldier_thumb.jpg" width="250" height="562" alt="Percy Davies   soldier" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK-Percy_Davies_-_soldier.jpg" title="See larger version of - Percy Davies   soldier"><img src="/assets/images/2014/WARWALK-Percy_Davies_-_soldier_thumb.jpg" width="250" height="562" alt="Percy Davies   soldier" class="photo right" /></a>
 
 _the publican's son, lived in the Ailsa Tavern_
 
@@ -36,7 +36,7 @@ bq. "He died as he lived amongst us, trying to do something to help others in a 
 
 h4. HENRY COPE
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK-The_Somme.jpg" title="See larger version of - The Somme"><img src="//stmargarets.london/assets/images/2014/WARWALK-The_Somme_thumb.jpg" width="250" height="166" alt="The Somme" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK-The_Somme.jpg" title="See larger version of - The Somme"><img src="/assets/images/2014/WARWALK-The_Somme_thumb.jpg" width="250" height="166" alt="The Somme" class="photo right" /></a>
 
 One of two brothers killed in the Great War. He died on the Somme in October 1916 <em>'trying to relieve the mounting pressure on the French Army at Verdun.'</em> Eventually, after months of continuous conflict,  the British General staff concluded that as the Germans had suffered 650,000 casualties and we only had suffered 615,000 logically we had won.
 
@@ -52,7 +52,7 @@ Another victim of clerical error. He was a Lance Corporal in the 2<sup>nd</sup> 
 
 h4. GEORGE ARTHUR ARNOLD
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK-ss_powhatan.jpg" title="See larger version of - ss powhatan"><img src="//stmargarets.london/assets/images/2014/WARWALK-ss_powhatan_thumb.jpg" width="250" height="143" alt="ss powhatan" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK-ss_powhatan.jpg" title="See larger version of - ss powhatan"><img src="/assets/images/2014/WARWALK-ss_powhatan_thumb.jpg" width="250" height="143" alt="ss powhatan" class="photo right" /></a>
 
 Was Wireless Operator on the armed oil tanker <em>"S.S Powhatan"</em>. He died on 6<sup>th</sup> April 1917 when the ship was sunk by the German submarine U-66 under the command of Kptlt. Thorwald von Bothmer. Only the ship's master survived the attack. George Arnold's name is recorded on the Tower Hill Memorial in London which commemorates men and women of the Merchant Navy and Fishing Fleets who died in both World Wars without a known grave. In civilian life George was an Assurance Collector.
 
@@ -60,7 +60,7 @@ Was Wireless Operator on the armed oil tanker <em>"S.S Powhatan"</em>. He died o
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK-World_War_1_Poster_C.jpg" title="See larger version of - World War 1 Poster C"><img src="//stmargarets.london/assets/images/2014/WARWALK-World_War_1_Poster_C_thumb.jpg" width="250" height="382" alt="World War 1 Poster C" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK-World_War_1_Poster_C.jpg" title="See larger version of - World War 1 Poster C"><img src="/assets/images/2014/WARWALK-World_War_1_Poster_C_thumb.jpg" width="250" height="382" alt="World War 1 Poster C" class="photo right" /></a>
 
 * At 11.00am on Sunday 9<sup>th</sup> November, 390 children, each representing a local fallen hero, will mark the armistice by marching past Isleworth War Memorial.
 * At 11.00am on Tuesday 11<sup>th</sup> November there will be a simple and reflective <em>'Act of Remembrance'</em> at the Roll of Honour in All Souls Church.

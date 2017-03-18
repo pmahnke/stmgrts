@@ -6,7 +6,7 @@ commentfile: 2011-10-13-bamboo_sticks_exercise_16_october_2011
 category: around_town
 date: 2011-10-13 08:41:23
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/daphne_bamboo_sticks2.jpg" title="See larger version of - Daphne completing a half marathon"><img src="//stmargarets.london/assets/images/2011/daphne_bamboo_sticks2_thumb.jpg" width="150" height="212" alt="Daphne completing a half marathon" class="photo right" /></a>
+    <a href="/assets/images/2011/daphne_bamboo_sticks2.jpg" title="See larger version of - Daphne completing a half marathon"><img src="/assets/images/2011/daphne_bamboo_sticks2_thumb.jpg" width="150" height="212" alt="Daphne completing a half marathon" class="photo right" /></a>
     
     _Sunday, 16<sup>th</sup> October 2011 at 9am in Marble Hill Park near the car park_
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/daphne_bamboo_sticks2.jpg" title="See larger version of - Daphne completing a half marathon"><img src="//stmargarets.london/assets/images/2011/daphne_bamboo_sticks2_thumb.jpg" width="150" height="212" alt="Daphne completing a half marathon" class="photo right" /></a>
+<a href="/assets/images/2011/daphne_bamboo_sticks2.jpg" title="See larger version of - Daphne completing a half marathon"><img src="/assets/images/2011/daphne_bamboo_sticks2_thumb.jpg" width="150" height="212" alt="Daphne completing a half marathon" class="photo right" /></a>
 
 _Sunday, 16<sup>th</sup> October 2011 at 9am in Marble Hill Park near the car park_
 

@@ -6,11 +6,11 @@ commentfile: 2017-01-19-event-marble-hill-consultation
 category: around_town
 date: 2017-01-19 19:06:10
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2017/Marble--Hill--Public--Meeting.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg" width="150" alt="Image - Marble--Hill--Public--Meeting"  class="photo right"/></a>
+    <a href="/assets/images/2017/Marble--Hill--Public--Meeting.jpg" title="Click for a larger image"><img src="/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg" width="150" alt="Image - Marble--Hill--Public--Meeting"  class="photo right"/></a>
 
     Over the next two years English Heritage – supported by the Heritage Lottery Fund and Big Lottery Fund – plans to restore the lost gardens that Henrietta created. We will also tell the story of her house, and show how the house and landscape were intrinsically linked. On the 24 and 25 of January, there are consultations with the public so you can have your say.
 ---
-<a href="https://stmargarets.london/assets/images/2017/Marble--Hill--Public--Meeting.jpg" title="Click for a larger image"><img src="https://stmargarets.london/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg" width="250" alt="Image - Marble--Hill--Public--Meeting"  class="photo right"/></a>
+<a href="/assets/images/2017/Marble--Hill--Public--Meeting.jpg" title="Click for a larger image"><img src="/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg" width="250" alt="Image - Marble--Hill--Public--Meeting"  class="photo right"/></a>
 
 The house and landscape at Marble Hill have a little-known story to tell about the life and times of a remarkable woman. Henrietta Howard, mistress of George II and later Countess of Suffolk, was an extraordinary figure in Georgian society, who created Marble Hill House in the 1720s as a retreat from court life and as a place to entertain her dazzling circle of friends.
 

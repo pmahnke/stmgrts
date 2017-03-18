@@ -6,13 +6,13 @@ commentfile: 2013-11-26-event_reminder_fss_christmas_party_11_december_201
 category: around_town
 date: 2013-11-26 23:29:10
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/FSS-and-TLG-Party-xmas2013.jpg" title="See larger version of - FSS and TLG Party xmas2013"><img src="//stmargarets.london/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg" width="150" height="240" alt="FSS and TLG Party xmas2013" class="photo right" /></a>
+    <a href="/assets/images/2013/FSS-and-TLG-Party-xmas2013.jpg" title="See larger version of - FSS and TLG Party xmas2013"><img src="/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg" width="150" height="240" alt="FSS and TLG Party xmas2013" class="photo right" /></a>
     
     "For Sanity's Sake":http://www.forsanityssake.com - the local activity website for kids, are organising a Christmas Party on "Wednesday, 11<sup>th</sup> December 2013":https://stmargarets.london/event/party/200705144201 for children 4 months - under 4 years with The Little Gym and The Imagination Den. Dressing up as Santas, elves, reindeers or fairies optional.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/FSS-and-TLG-Party-xmas2013.jpg" title="See larger version of - FSS and TLG Party xmas2013"><img src="//stmargarets.london/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg" width="150" height="240" alt="FSS and TLG Party xmas2013" class="photo right" /></a>
+<a href="/assets/images/2013/FSS-and-TLG-Party-xmas2013.jpg" title="See larger version of - FSS and TLG Party xmas2013"><img src="/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg" width="150" height="240" alt="FSS and TLG Party xmas2013" class="photo right" /></a>
 
 "For Sanity's Sake":http://www.forsanityssake.com - the local activity website for kids, are organising a Christmas Party on "Wednesday, 11<sup>th</sup> December 2013":https://stmargarets.london/event/party/200705144201 for children 4 months - under 4 years with The Little Gym and The Imagination Den. Dressing up as Santas, elves, reindeers or fairies optional.
 

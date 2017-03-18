@@ -6,7 +6,7 @@ commentfile: 2008-06-04-event_reminder_summer_wine_tasting
 category: around_town
 date: 2008-06-04 22:00:01
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/SummerTastingFlyer08.jpg" title="See larger version of - Click for larger flier"><img src="//stmargarets.london/assets/images/2008/SummerTastingFlyer08_thumb.jpg" width="200" height="286" alt="Click for larger flier" class="photo right" /></a>
+    <a href="/assets/images/2008/SummerTastingFlyer08.jpg" title="See larger version of - Click for larger flier"><img src="/assets/images/2008/SummerTastingFlyer08_thumb.jpg" width="200" height="286" alt="Click for larger flier" class="photo right" /></a>
     
     Gather together a group of friends and come along for some informal wine tasting while you nibble on some bread and cheeses provided by your new local cheese shop, yellowedge!
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/SummerTastingFlyer08.jpg" title="See larger version of - Click for larger flier"><img src="//stmargarets.london/assets/images/2008/SummerTastingFlyer08_thumb.jpg" width="200" height="286" alt="Click for larger flier" class="photo right" /></a>
+<a href="/assets/images/2008/SummerTastingFlyer08.jpg" title="See larger version of - Click for larger flier"><img src="/assets/images/2008/SummerTastingFlyer08_thumb.jpg" width="200" height="286" alt="Click for larger flier" class="photo right" /></a>
 
 Gather together a group of friends and come along for some informal wine tasting while you nibble on some bread and cheeses provided by your new local cheese shop, yellowedge!
 

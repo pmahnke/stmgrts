@@ -6,7 +6,7 @@ commentfile: 2010-01-21-drawing_the_line_at_hounslow
 category: around_town
 date: 2010-01-21 13:22:30
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/baseline_1.png" title="See larger version of - TRIANGULATION IN THE 16th CENTURY"><img src="//stmargarets.london/assets/images/2010/baseline_1_thumb.png" width="150" height="111" alt="TRIANGULATION IN THE 16th CENTURY" class="photo right" /></a>
+    <a href="/assets/images/2010/baseline_1.png" title="See larger version of - TRIANGULATION IN THE 16th CENTURY"><img src="/assets/images/2010/baseline_1_thumb.png" width="150" height="111" alt="TRIANGULATION IN THE 16th CENTURY" class="photo right" /></a>
 
 
     *Cartophile* --  _n._ One who greatly admires and enjoys maps.
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/baseline_1.png" title="See larger version of - TRIANGULATION IN THE 16th CENTURY"><img src="//stmargarets.london/assets/images/2010/baseline_1_thumb.png" width="150" height="111" alt="TRIANGULATION IN THE 16th CENTURY" class="photo right" /></a>
+<a href="/assets/images/2010/baseline_1.png" title="See larger version of - TRIANGULATION IN THE 16th CENTURY"><img src="/assets/images/2010/baseline_1_thumb.png" width="150" height="111" alt="TRIANGULATION IN THE 16th CENTURY" class="photo right" /></a>
 
 *Cartophile* --  _n._ One who greatly admires and enjoys maps.
 
@@ -33,7 +33,7 @@ In 1783 a memoir by the French astronomer M Cassini was sent to the Secretary of
 
 To achieve the degree of accuracy that the astronomers required General Roy used a technique called triangulation. This starts with an absolutely straight and precisely measured base line - the longer the better - laid across flat ground.  The surveyors then move to either end of the base line where they take bearings on a distant object -a church steeple, for example. Using trigonometry and the angles between the object and the base line they are then able to calculate the exact length of the other sides of the triangle formed. This initial triangle then forms base lines for other triangles until the whole country is plotted. The concrete "trig points" that you sometimes see on high ground mark the corners of these survey triangles. There is one in Richmond Park.
 
-<a href="//stmargarets.london/assets/images/2010/baseline_2.png" title="See larger version of - TRIG POINT IN RICHMOND PARK"><img src="//stmargarets.london/assets/images/2010/baseline_2_thumb.png" width="112" height="150" alt="TRIG POINT IN RICHMOND PARK" class="photo right" /></a>
+<a href="/assets/images/2010/baseline_2.png" title="See larger version of - TRIG POINT IN RICHMOND PARK"><img src="/assets/images/2010/baseline_2_thumb.png" width="112" height="150" alt="TRIG POINT IN RICHMOND PARK" class="photo right" /></a>
 
 
 The place where General Roy decided to lay his initial base line was Hounslow Heath "because of its vicinity to the capital and the Royal Observatory at Greenwich, its great extent, and the extraordinary levelness of its surface, without local obstruction whatever to render measurements difficult."
@@ -42,7 +42,7 @@ On 16th April 1784 General Roy and Sir Joseph Banks conducted a preliminary exam
 
 To measure the length of his baseline General Roy first used a steel chain but finding that it expanded and contracted according to the prevailing temperature he tried wooden rods made of New England pine cut from a ship's mast. These too were not accurate enough and so he finished up using glass tubes laid on wooden cradles. Eight years later when the baseline was measured again it was found to be just 2&frac34; inches out (7 cms) over a distance of 5 miles (8 kms)
 
-<a href="//stmargarets.london/assets/images/2010/baseline_3.png" title="See larger version of - HOUNSLOW HEATH "><img src="//stmargarets.london/assets/images/2010/baseline_3_thumb.png" width="150" height="112" alt="HOUNSLOW HEATH " class="photo right" /></a>
+<a href="/assets/images/2010/baseline_3.png" title="See larger version of - HOUNSLOW HEATH "><img src="/assets/images/2010/baseline_3_thumb.png" width="150" height="112" alt="HOUNSLOW HEATH " class="photo right" /></a>
 
 By 1787 General Roy had extended his triangles to the Kentish coast, and in October of that year the triangular connection with the French surveying stations was completed. After Roy's death in 1790 the Board of Ordnance (a precursor of the Ministry of Defence) established the Ordnance Survey with a commission to extend Roy's triangulation outward from the south-east of England. By 1823 they had plotted much of the country. The modern Ordnance Survey still includes in its logo the arrowhead mark of the 1790's Board of Ordnance.
 
@@ -50,7 +50,7 @@ Today the Hounslow baseline, upon which all subsequent Ordnance survey maps are 
 
 h4. THE END OF THE BASELINE
 
-|<a href="//stmargarets.london/assets/images/2010/baseline_4.png" title="See larger version of - HAMPTON"><img src="//stmargarets.london/assets/images/2010/baseline_4_thumb.png" width="106" height="150" alt="HAMPTON" class="photo" /></a>|<a href="//stmargarets.london/assets/images/2010/baseline_5.png" title="See larger version of - HEATHROW"><img src="//stmargarets.london/assets/images/2010/baseline_5_thumb.png" width="113" height="150" alt="HEATHROW" class="photo" /></a>|
+|<a href="/assets/images/2010/baseline_4.png" title="See larger version of - HAMPTON"><img src="/assets/images/2010/baseline_4_thumb.png" width="106" height="150" alt="HAMPTON" class="photo" /></a>|<a href="/assets/images/2010/baseline_5.png" title="See larger version of - HEATHROW"><img src="/assets/images/2010/baseline_5_thumb.png" width="113" height="150" alt="HEATHROW" class="photo" /></a>|
 |HAMPTON|HEATHROW|
 
 The Ordnance Survey says a lot about us as a nation. The detail, accuracy and availability of its maps suggest that we have nothing to hide, that this land is accessible to all. The careful plotting of footpaths, bridleways, rights-of-way and half forgotten tracks serves as an invitation to go out and explore. Look at the map and we can all see where we stand and how we fit into the wider scheme of things.  Most other countries - and even the most developed - do not have maps like this freely available and they are poorer for it, geographically and psychologically. Freedom comes in many guises and our freedom to know precisely where we are and where we might be going was born on a long straight track between TQ 077768 and TQ 138709  - on Hounslow Heath.

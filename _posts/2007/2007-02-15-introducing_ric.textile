@@ -10,7 +10,7 @@ date: 2007-02-15 08:34:49
 
 Nigel Cannings, a local resident,  has started a local website for people to share unused items.  He says, "I've got involved with freesharing.org and agreed to put together a web template for people to start their own FreeSharing groups.  As a result of which, I am pleased to announce that I have started Richmond's first FreeSharing group."
 
-<img src="//stmargarets.london/assets/images/2007/FreeSharing.gif" width="360" height="58" class="photo center" alt="FreeSharing Logo" />
+<img src="/assets/images/2007/FreeSharing.gif" width="360" height="58" class="photo center" alt="FreeSharing Logo" />
 
 
 What is FreeSharing?  It is like FreeCycle in the sense that it encourages people to donate unwanted items to other local people, rather than throw them away.

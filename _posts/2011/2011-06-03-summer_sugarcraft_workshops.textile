@@ -8,7 +8,7 @@ date: 2011-06-03 17:28:00
 
 ---
 
-<img src="//stmargarets.london/assets/images/directory/200811060642_For_Goodness_Cake.gif" alt="for goodness cake logo" width="154" height="103" class="right" />
+<img src="/assets/images/directory/200811060642_For_Goodness_Cake.gif" alt="for goodness cake logo" width="154" height="103" class="right" />
 
 For Goodness Cake! are pleased to offer two, week long, workshops during the Summer holidays for children aged between 7 & 15.
 

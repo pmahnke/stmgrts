@@ -8,7 +8,7 @@ date: 2012-10-04 22:19:48
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/deeroftherealmflat.jpg" title="See larger version of - deer of the realm"><img src="//stmargarets.london/assets/images/2012/deeroftherealmflat_thumb.jpg" width="150" height="97" alt="deer of the realm" class="photo right" /></a>
+<a href="/assets/images/2012/deeroftherealmflat.jpg" title="See larger version of - deer of the realm"><img src="/assets/images/2012/deeroftherealmflat_thumb.jpg" width="150" height="97" alt="deer of the realm" class="photo right" /></a>
 
 There's a little over 3 weeks to get your entries in to the Posters in the Park competition.
 

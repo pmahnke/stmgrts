@@ -6,11 +6,11 @@ commentfile: 2016-06-19-st-stephens-athletic-success
 category: news
 date: 2016-06-19 14:12:42
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/st-stephens-borough-team-2016.jpg" title="See larger version of - st stephens borough team 2016"><img src="https://stmargarets.london/assets/images/2016/st-stephens-borough-team-2016_thumb.jpg" width="150" height="100" alt="st stephens borough team 2016" class="photo right" /></a>
+    <a href="/assets/images/2016/st-stephens-borough-team-2016.jpg" title="See larger version of - st stephens borough team 2016"><img src="/assets/images/2016/st-stephens-borough-team-2016_thumb.jpg" width="150" height="100" alt="st stephens borough team 2016" class="photo right" /></a>
 
     Young athletes from St Stephen's Primary on Winchester Road have been celebrating their recent successes in the Richmond Borough Sports competition.  Joining 35 other local schools the children took part in an fantastic day of sporting challenges at St Mary's University.
 ---
-<a href="https://stmargarets.london/assets/images/2016/st-stephens-borough-team-2016.jpg" title="See larger version of - st stephens borough team 2016"><img src="https://stmargarets.london/assets/images/2016/st-stephens-borough-team-2016_thumb.jpg" width="250" height="166" alt="st stephens borough team 2016" class="photo right" /></a>
+<a href="/assets/images/2016/st-stephens-borough-team-2016.jpg" title="See larger version of - st stephens borough team 2016"><img src="/assets/images/2016/st-stephens-borough-team-2016_thumb.jpg" width="250" height="166" alt="st stephens borough team 2016" class="photo right" /></a>
 
 Young athletes from St Stephen's Primary on Winchester Road have been celebrating their recent successes in the Richmond Borough Sports competition.  Joining 35 other local schools the children took part in an fantastic day of sporting challenges at St Mary's University.
 

@@ -6,7 +6,7 @@ commentfile: 2011-08-26-new_alpha_course_at_st_stephens_church
 category: around_town
 date: 2011-08-26 12:08:40
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/alpha_st_stephens_2011.jpg" title="See larger version of - Alpha Course graphic"><img src="//stmargarets.london/assets/images/2011/alpha_st_stephens_2011_thumb.jpg" width="150" height="227" alt="Alpha Course - Life is worth exploring!" class=" right" /></a>
+    <a href="/assets/images/2011/alpha_st_stephens_2011.jpg" title="See larger version of - Alpha Course graphic"><img src="/assets/images/2011/alpha_st_stephens_2011_thumb.jpg" width="150" height="227" alt="Alpha Course - Life is worth exploring!" class=" right" /></a>
     
     _Alpha Course - Life is worth exploring!_
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/alpha_st_stephens_2011.jpg" title="See larger version of - Alpha Course graphic"><img src="//stmargarets.london/assets/images/2011/alpha_st_stephens_2011_thumb.jpg" width="150" height="227" alt="Alpha Course - Life is worth exploring!" class=" right" /></a>
+<a href="/assets/images/2011/alpha_st_stephens_2011.jpg" title="See larger version of - Alpha Course graphic"><img src="/assets/images/2011/alpha_st_stephens_2011_thumb.jpg" width="150" height="227" alt="Alpha Course - Life is worth exploring!" class=" right" /></a>
 
 _Alpha Course - Life is worth exploring!_
 

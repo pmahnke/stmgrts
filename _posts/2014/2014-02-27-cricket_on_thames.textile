@@ -6,7 +6,7 @@ commentfile: 2014-02-27-cricket_on_thames
 category: around_town
 date: 2014-02-27 22:22:44
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/CRICKET_richmond_half_tide_lock.jpg" title="See larger version of - Richmond half tide lock"><img src="//stmargarets.london/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg" width="150" height="104" alt="Richmond half tide lock" class="photo right" /></a>
+    <a href="/assets/images/2014/CRICKET_richmond_half_tide_lock.jpg" title="See larger version of - Richmond half tide lock"><img src="/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg" width="150" height="104" alt="Richmond half tide lock" class="photo right" /></a>
     
     When the old London Bridge was demolished in 1832, with its 19 cramped piers and protective palisades, it resulted in the tides on the Thames rising and falling far more rapidly than they had done before. With the old bridge no longer holding the river back water levels at Teddington dropped by 30 inches. The river flowing through Twickenham and Richmond became a stream running between mud banks. For much of the time the upper river was unnavigable by anything but the smallest craft.
 
@@ -14,7 +14,7 @@ excerpt: |
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/CRICKET_richmond_half_tide_lock.jpg" title="See larger version of - Richmond half tide lock"><img src="//stmargarets.london/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg" width="150" height="104" alt="Richmond half tide lock" class="photo right" /></a>
+<a href="/assets/images/2014/CRICKET_richmond_half_tide_lock.jpg" title="See larger version of - Richmond half tide lock"><img src="/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg" width="150" height="104" alt="Richmond half tide lock" class="photo right" /></a>
 
 When the old London Bridge was demolished in 1832, with its 19 cramped piers and protective palisades, it resulted in the tides on the Thames rising and falling far more rapidly than they had done before. With the old bridge no longer holding the river back water levels at Teddington dropped by 30 inches. The river flowing through Twickenham and Richmond became a stream running between mud banks. For much of the time the upper river was unnavigable by anything but the smallest craft.
 
@@ -55,7 +55,7 @@ bq. "It is interesting to know that people have dined and played cricket matches
 
 On Saturday 25<sup>th</sup> June 1884 the prestigious magazine 'The Illustrated London News' was so excited by the novelty of 'river bed cricket' that carried an etching showing the scene in Twickenham on its front page ...
 
-<a href="//stmargarets.london/assets/images/2014/CRICKET_Cricket_on_river_bed.jpg" title="See larger version of - Cricket on river bed"><img src="//stmargarets.london/assets/images/2014/CRICKET_Cricket_on_river_bed_thumb.jpg" width="500" height="350" alt="Cricket on river bed" class="photo center" /></a>
+<a href="/assets/images/2014/CRICKET_Cricket_on_river_bed.jpg" title="See larger version of - Cricket on river bed"><img src="/assets/images/2014/CRICKET_Cricket_on_river_bed_thumb.jpg" width="500" height="350" alt="Cricket on river bed" class="photo center" /></a>
 
 Although locals were cracking jokes along the lines of <em>"Take your holiday up the Thames on a bicycle"</em> or <em>"For health and vigour a dusty tramp up the river bed is recommended"</em> there was growing anxiety not only about the lack of trade on the river but also about general health and hygiene. With the river providing an important sluice for sewage and waste water the stench from the dried-out bed was overpowering. House prices along the river were tumbling and boating people were moving their craft further up stream where they could be guaranteed a decent head of water. Action needed to be taken. Twickenham Local Board urged the Thames Conservancy to provide <em>"a lock or some other means for keeping the water from running away as it now did"</em> and a 'Lock and Weir Committee' was established to pursue the subject, commenting that...
 

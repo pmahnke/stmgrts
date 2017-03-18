@@ -6,12 +6,12 @@ commentfile: 2015-05-10-event_reminder_play_in_may_26_may_2015
 category: around_town
 date: 2015-05-10 21:06:48
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="//stmargarets.london/assets/images/2015/Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
+    <a href="/assets/images/2015/Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="/assets/images/2015/Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
 
     Come and join Gymboree St Margarets as we continue our Cherish Childhood events! This time we are celebrating Play in May with some May Day activities! Think Morris dancers, f&#234;tes and some good old musical classics!
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="//stmargarets.london/assets/images/2015/Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
+<a href="/assets/images/2015/Gymboree_cherish_childhood_2015.png" title="See larger version of - Gymboree cherish childhood 2015"><img src="/assets/images/2015/Gymboree_cherish_childhood_2015_thumb.png" width="250" height="108" alt="Gymboree cherish childhood 2015" class=" right" /></a>
 
 _Free Sessions in support of the NSPCC_
 

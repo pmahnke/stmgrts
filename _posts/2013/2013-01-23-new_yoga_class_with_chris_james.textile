@@ -6,13 +6,13 @@ commentfile: 2013-01-23-new_yoga_class_with_chris_james
 category: around_town
 date: 2013-01-23 20:26:40
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="//stmargarets.london/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
+    <a href="/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
     
     The Crossway is our gorgeous new venue in Richmond Upon Thames. Come and join us in the light and airy Oak Room on Monday evenings, and be stretched, relaxed and inspired for your week ahead...
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="//stmargarets.london/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
+<a href="/assets/images/2013/chris_James_yoga.gif" title="See larger version of - chris James yoga"><img src="/assets/images/2013/chris_James_yoga_thumb.gif" width="116" height="75" alt="chris James yoga" class="photo right" /></a>
 
 The Crossway is our gorgeous new venue in Richmond Upon Thames. Come and join us in the light and airy Oak Room on Monday evenings, and be stretched, relaxed and inspired for your week ahead...
 

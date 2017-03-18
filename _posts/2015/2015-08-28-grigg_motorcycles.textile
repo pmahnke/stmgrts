@@ -6,7 +6,7 @@ commentfile: 2015-08-28-grigg_motorcycles
 category: around_town
 date: 2015-08-28 23:26:07
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_logo.JPG" title="See larger version of - MOTORCYCLES Grigg logo"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG" width="150" height="108" alt="MOTORCYCLES Grigg logo" class=" right" /></a>
+    <a href="/assets/images/2015/MOTORCYCLES_Grigg_logo.JPG" title="See larger version of - MOTORCYCLES Grigg logo"><img src="/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG" width="150" height="108" alt="MOTORCYCLES Grigg logo" class=" right" /></a>
     
     bq. "GRIGG - THE HALLMARK OF EXCELLENCE IN ENGINEERING!"
     
@@ -15,20 +15,20 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_logo.JPG" title="See larger version of - MOTORCYCLES Grigg logo"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG" width="150" height="108" alt="MOTORCYCLES Grigg logo" class=" right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_Grigg_logo.JPG" title="See larger version of - MOTORCYCLES Grigg logo"><img src="/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG" width="150" height="108" alt="MOTORCYCLES Grigg logo" class=" right" /></a>
 
 bq. "GRIGG - THE HALLMARK OF EXCELLENCE IN ENGINEERING!"
 
 British motorcyclists are a sentimental bunch. They can get just as excited by a list of British motorcycle 'marques' as doing the ton up the Kingston by-pass on the back of a 1959 650cc Bonneville Twin and who can blame them? It is an illustrious catalogue - B.S.A, Triumph, Arial, Norton, Vincent, Matchless, Royal Enfield and so on.  But there is one name missing from that roll of honour...
 
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_Scooter_1921.jpg" title="See larger version of - MOTORCYCLES Grigg Scooter 1921"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_Scooter_1921_thumb.jpg" width="150" height="112" alt="MOTORCYCLES Grigg Scooter 1921" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_Grigg_Scooter_1921.jpg" title="See larger version of - MOTORCYCLES Grigg Scooter 1921"><img src="/assets/images/2015/MOTORCYCLES_Grigg_Scooter_1921_thumb.jpg" width="150" height="112" alt="MOTORCYCLES Grigg Scooter 1921" class="photo right" /></a>
 
 bq. "...a little remembered South London marque which blossomed and withered in 5 short years."
 
 ??DAVID EARNSHAW -  "Old Bike" magazine, Autumn 1995??
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_CU_Grigg_Scooter_1921.jpg" title="See larger version of - MOTORCYCLES CU Grigg Scooter 1921"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_CU_Grigg_Scooter_1921_thumb.jpg" width="150" height="112" alt="MOTORCYCLES CU Grigg Scooter 1921" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_CU_Grigg_Scooter_1921.jpg" title="See larger version of - MOTORCYCLES CU Grigg Scooter 1921"><img src="/assets/images/2015/MOTORCYCLES_CU_Grigg_Scooter_1921_thumb.jpg" width="150" height="112" alt="MOTORCYCLES CU Grigg Scooter 1921" class="photo right" /></a>
 
 
 That marque was Grigg Motorcycles based at 'Winchester Works', in Winchester Road, St Margarets, squashed in between 'Avenue Pharmacy' at No. 2 and 'Poupart and Sons', Cowkeepers and Dairymen at No 4. It was set up in 1920 by Harry Grigg to produce "miniatures", small motor scooters with tiny 1&#190; hp 2 stroke engines <em>"as docile as any power propelled vehicle is possible to be. It is undoubtedly the type which should be used by the girl, lady, or elderly gentleman who is nervous to make a start with a power-propelled vehicle".</em>
@@ -37,7 +37,7 @@ That marque was Grigg Motorcycles based at 'Winchester Works', in Winchester Roa
 
 h4. MOTORCYCLE TRIVIA
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_Advert.JPG" title="See larger version of - MOTORCYCLES Grigg Advert"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_Grigg_Advert_thumb.JPG" width="150" height="247" alt="MOTORCYCLES Grigg Advert" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_Grigg_Advert.JPG" title="See larger version of - MOTORCYCLES Grigg Advert"><img src="/assets/images/2015/MOTORCYCLES_Grigg_Advert_thumb.JPG" width="150" height="247" alt="MOTORCYCLES Grigg Advert" class="photo right" /></a>
 
 One Exeter rider declared that he beat the snow by rubbing the juice of raw potatoes on his goggles. Although this is ineffective in rain he confirmed that it kept his goggles quite clear of snow.
 
@@ -55,7 +55,7 @@ There were 3 single cylinder models, the 'Ajax', the 'Zeus' and the 'Mars' with 
 
 <div class="letter">
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_1923-Grigg_Motorcycle.jpg" title="See larger version of - MOTORCYCLES 1923 Grigg Motorcycle"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_1923-Grigg_Motorcycle_thumb.jpg" width="150" height="112" alt="MOTORCYCLES 1923 Grigg Motorcycle" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_1923-Grigg_Motorcycle.jpg" title="See larger version of - MOTORCYCLES 1923 Grigg Motorcycle"><img src="/assets/images/2015/MOTORCYCLES_1923-Grigg_Motorcycle_thumb.jpg" width="150" height="112" alt="MOTORCYCLES 1923 Grigg Motorcycle" class="photo right" /></a>
 
 bq. The Grigg Factory is London is one of the most modern Motor Cycle Factories in the world. By the scientific selection and preparation of materials... and the installation of the most efficient plant the Grigg productions maintain their well known reputation for soundness and reliability.
 
@@ -69,7 +69,7 @@ During 1923 Grigg Motorcycles had also extended their product range offering lar
 
 h4. MOTORCYCLE TRIVIA
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_1923_Grigg_Advert.jpg" title="See larger version of - MOTORCYCLES 1923 Grigg Advert"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_1923_Grigg_Advert_thumb.jpg" width="150" height="191" alt="MOTORCYCLES 1923 Grigg Advert" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_1923_Grigg_Advert.jpg" title="See larger version of - MOTORCYCLES 1923 Grigg Advert"><img src="/assets/images/2015/MOTORCYCLES_1923_Grigg_Advert_thumb.jpg" width="150" height="191" alt="MOTORCYCLES 1923 Grigg Advert" class="photo right" /></a>
 
 
 Several riders who relied upon leather coats for weather protection learned to their cost that leather will not stand prolonged soaking. On the other hand one rider who was wearing a new 40/- trench coat kept perfectly dry.
@@ -87,7 +87,7 @@ are thought to survive:-
 # A 1000cc V Twin model from 1923 with a Bacher and Hellon Engine.
 
 
-<a href="//stmargarets.london/assets/images/2015/MOTORCYCLES_Winchester_Works_plans.JPG" title="See larger version of - MOTORCYCLES Winchester Works plans"><img src="//stmargarets.london/assets/images/2015/MOTORCYCLES_Winchester_Works_plans_thumb.JPG" width="150" height="105" alt="MOTORCYCLES Winchester Works plans" class="photo right" /></a>
+<a href="/assets/images/2015/MOTORCYCLES_Winchester_Works_plans.JPG" title="See larger version of - MOTORCYCLES Winchester Works plans"><img src="/assets/images/2015/MOTORCYCLES_Winchester_Works_plans_thumb.JPG" width="150" height="105" alt="MOTORCYCLES Winchester Works plans" class="photo right" /></a>
 
 
 There is some confusion as to the exact location of 'Winchester Works'. All house numbers in Winchester Road below 28 (The Turk's Head) disappeared around 1930 when buildings were demolished to make way for the new A316 arterial road. It has been suggested that the Globe Building on the Chertsey Road, currently being redeveloped for housing, was once 'Winchester Works' - and it is true that motorcycles were sold on the site as recently as 2009 when Dexters the estate agent took over - but this seems unlikely as the art deco building wasn't built until after the construction of the A316. I suspect that 'Winchester Works' was one of the many buildings demolished in the road clearance. Now all that remains of St Margarets' fleeting motorcycle industry is the scream of modern day bikers burning their way up the Chertsey Road to who knows where...

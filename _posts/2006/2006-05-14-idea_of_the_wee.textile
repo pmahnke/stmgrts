@@ -6,7 +6,7 @@ commentfile: 2006-05-14-idea_of_the_wee
 category: around_town
 date: 2006-05-14 14:17:13
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2006/gotoisabellaplantation.jpg"><img src="//stmargarets.london/assets/images/2006/gotoisabellaplantation-thumb.jpg" width="150" height="112" alt="Go to Isabella Plantation" class="photo right" /></a>
+    <a href="/assets/images/2006/gotoisabellaplantation.jpg"><img src="/assets/images/2006/gotoisabellaplantation-thumb.jpg" width="150" height="112" alt="Go to Isabella Plantation" class="photo right" /></a>
     
     We just went to "Isabella Plantation":http://www.royalparks.gov.uk/parks/richmond_park/ this morning and the azaleas are perfect.  It will probably only last a week, so be sure to get there soon if you are interested.
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/gotoisabellaplantation.jpg"><img src="//stmargarets.london/assets/images/2006/gotoisabellaplantation-thumb.jpg" width="150" height="112" alt="Go to Isabella Plantation" class="photo right" /></a>
+<a href="/assets/images/2006/gotoisabellaplantation.jpg"><img src="/assets/images/2006/gotoisabellaplantation-thumb.jpg" width="150" height="112" alt="Go to Isabella Plantation" class="photo right" /></a>
 
 We just went to "Isabella Plantation":http://www.royalparks.gov.uk/parks/richmond_park/ this morning and the azaleas are perfect.  It will probably only last a week, so be sure to get there soon if you are interested.
 

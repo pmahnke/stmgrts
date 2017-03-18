@@ -6,7 +6,7 @@ commentfile: 2014-09-06-event_reminder_friendship_matinee_at_the_royal_alb
 category: around_town
 date: 2014-09-06 08:14:36
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/friendship-matinee-2014.jpg" title="See larger version of - friendship matinee 2014"><img src="//stmargarets.london/assets/images/2014/friendship-matinee-2014_thumb.jpg" width="150" height="99" alt="friendship matinee 2014" class="photo right" /></a>
+    <a href="/assets/images/2014/friendship-matinee-2014.jpg" title="See larger version of - friendship matinee 2014"><img src="/assets/images/2014/friendship-matinee-2014_thumb.jpg" width="150" height="99" alt="friendship matinee 2014" class="photo right" /></a>
     
     Friendship Matinee provides people who are part of a charity, community or voluntary organisation the opportunity to come to the Royal Albert Hall to see world-class shows for only &pound;5.00 per ticket.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/friendship-matinee-2014.jpg" title="See larger version of - friendship matinee 2014"><img src="//stmargarets.london/assets/images/2014/friendship-matinee-2014_thumb.jpg" width="250" height="166" alt="friendship matinee 2014" class="photo right" /></a>
+<a href="/assets/images/2014/friendship-matinee-2014.jpg" title="See larger version of - friendship matinee 2014"><img src="/assets/images/2014/friendship-matinee-2014_thumb.jpg" width="250" height="166" alt="friendship matinee 2014" class="photo right" /></a>
 
 Friendship Matinee provides people who are part of a charity, community or voluntary organisation the opportunity to come to the Royal Albert Hall to see world-class shows for only &pound;5.00 per ticket.
 

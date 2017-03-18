@@ -6,14 +6,14 @@ commentfile: 2016-01-29-silverfit-weekly-classes
 category: around_town
 date: 2016-01-29 21:02:08
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/silverfit_201601_flyer.jpg" title="See larger version of - silverfit 2016 flyer"><img src="https://stmargarets.london/assets/images/2016/silverfit_201601_flyer_thumb.jpg" width="150" height="212" alt="silverfit 2016 flyer" class="photo right" /></a>
+    <a href="/assets/images/2016/silverfit_201601_flyer.jpg" title="See larger version of - silverfit 2016 flyer"><img src="/assets/images/2016/silverfit_201601_flyer_thumb.jpg" width="150" height="212" alt="silverfit 2016 flyer" class="photo right" /></a>
 
     _Age 45 and over? Keep Fit in 2016_
 
     Whether you have never exercised before or are a seasoned pro. Meet new friends and get healthy doing it!  We meet every Wednesday at the Whitton Community Centre from 1.30 to 3.30pm.
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/silverfit_201601_flyer.jpg" title="See larger version of - silverfit 2016 flyer"><img src="https://stmargarets.london/assets/images/2016/silverfit_201601_flyer_thumb.jpg" width="250" height="353" alt="silverfit 2016 flyer" class="photo right" /></a>
+<a href="/assets/images/2016/silverfit_201601_flyer.jpg" title="See larger version of - silverfit 2016 flyer"><img src="/assets/images/2016/silverfit_201601_flyer_thumb.jpg" width="250" height="353" alt="silverfit 2016 flyer" class="photo right" /></a>
 
 _Age 45 and over? Keep Fit in 2016_
 

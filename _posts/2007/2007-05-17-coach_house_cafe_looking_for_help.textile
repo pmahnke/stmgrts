@@ -8,7 +8,7 @@ date: 2007-05-17 14:00:50
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/snipshot_e4nx7wev20e.jpg"><img src="//stmargarets.london/assets/images/2007/snipshot_e4nx7wev20e-thumb.jpg" width="150" height="112" alt="Coach House Cafe" class="photo right" /></a>
+<a href="/assets/images/2007/snipshot_e4nx7wev20e.jpg"><img src="/assets/images/2007/snipshot_e4nx7wev20e-thumb.jpg" width="150" height="112" alt="Coach House Cafe" class="photo right" /></a>
 
 
 bq.. "Since reopening the "Coach House Caf&eacute;":https://stmargarets.london/directory/restaurant/200705170747 in April we continue to be overwhelmed by the local support we've received and everyone we talk to is genuinely delighted that the caf&eacute; is open again and they seem very keen on what we have to offer.

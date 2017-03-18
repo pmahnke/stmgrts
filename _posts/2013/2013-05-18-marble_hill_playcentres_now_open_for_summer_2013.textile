@@ -6,7 +6,7 @@ commentfile: 2013-05-18-marble_hill_playcentres_now_open_for_summer_2013
 category: around_town
 date: 2013-05-18 08:15:28
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/temporary_leaflet_2013.jpg" title="See larger version of - Marble Hill Playcentres summer  leaflet 2013"><img src="//stmargarets.london/assets/images/2013/temporary_leaflet_2013_thumb.jpg" width="150" height="106" alt="Marble Hill Playcentres summer  leaflet 2013" class="photo right" /></a>
+    <a href="/assets/images/2013/temporary_leaflet_2013.jpg" title="See larger version of - Marble Hill Playcentres summer  leaflet 2013"><img src="/assets/images/2013/temporary_leaflet_2013_thumb.jpg" width="150" height="106" alt="Marble Hill Playcentres summer  leaflet 2013" class="photo right" /></a>
     
     _Adventure Playground for children and young people aged 5-15 years_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/temporary_leaflet_2013.jpg" title="See larger version of - Marble Hill Playcentres summer  leaflet 2013"><img src="//stmargarets.london/assets/images/2013/temporary_leaflet_2013_thumb.jpg" width="150" height="106" alt="Marble Hill Playcentres summer  leaflet 2013" class="photo right" /></a>
+<a href="/assets/images/2013/temporary_leaflet_2013.jpg" title="See larger version of - Marble Hill Playcentres summer  leaflet 2013"><img src="/assets/images/2013/temporary_leaflet_2013_thumb.jpg" width="150" height="106" alt="Marble Hill Playcentres summer  leaflet 2013" class="photo right" /></a>
 
 _Adventure Playground for children and young people aged 5-15 years_
 

@@ -6,7 +6,7 @@ commentfile: 2011-08-11-event_reminder_the_good_wine_shop_free_beer_tastin
 category: around_town
 date: 2011-08-11 14:46:00
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/goodwineshop_beer.jpg" title="See larger version of - mmm beer"><img src="//stmargarets.london/assets/images/2011/goodwineshop_beer_thumb.jpg" width="150" height="147" alt="mmm beer" class=" right" /></a>
+    <a href="/assets/images/2011/goodwineshop_beer.jpg" title="See larger version of - mmm beer"><img src="/assets/images/2011/goodwineshop_beer_thumb.jpg" width="150" height="147" alt="mmm beer" class=" right" /></a>
     
     "Saturday 13<sup>th</sup> August from 2pm":https://stmargarets.london/event/event/200705142933 at our St Margarets shop we are hosting a FREE beer tasting of Brewers & Union beers from the Sao Gabriel Collective.
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/goodwineshop_beer.jpg" title="See larger version of - mmm beer"><img src="//stmargarets.london/assets/images/2011/goodwineshop_beer_thumb.jpg" width="150" height="147" alt="mmm beer" class=" right" /></a>
+<a href="/assets/images/2011/goodwineshop_beer.jpg" title="See larger version of - mmm beer"><img src="/assets/images/2011/goodwineshop_beer_thumb.jpg" width="150" height="147" alt="mmm beer" class=" right" /></a>
 
 "Saturday 13<sup>th</sup> August from 2pm":https://stmargarets.london/event/event/200705142933 at our St Margarets shop we are hosting a FREE beer tasting of Brewers & Union beers from the Sao Gabriel Collective.
 

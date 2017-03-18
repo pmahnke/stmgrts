@@ -8,7 +8,7 @@ date: 2012-10-02 21:59:40
 
 ---
 
-<img src="//stmargarets.london/assets/images/2012/TBF12logo350.gif" alt="rugby beer guys"  width="150" class="photo right" />
+<img src="/assets/images/2012/TBF12logo350.gif" alt="rugby beer guys"  width="150" class="photo right" />
 
 "18<sup>th</sup> - 20<sup>th</sup> October 2012":https://stmargarets.london/event/fair/200705143621
 

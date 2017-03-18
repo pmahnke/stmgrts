@@ -6,7 +6,7 @@ commentfile: 2007-07-11-cpz_results_published
 category: news
 date: 2007-07-11 13:12:19
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="//stmargarets.london/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
+    <a href="/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
     
     The "report on the CPZ consultation has been published":http://tinyurl.com/2f4ww.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="//stmargarets.london/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
+<a href="/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
 
 The "report on the CPZ consultation has been published":http://tinyurl.com/2f4ww5.
 
@@ -34,7 +34,7 @@ The following roads have clearly voted 'YES':
 |St Peters Road|70%|
 |Cumberland Close|55%| 
 
-<a href="//stmargarets.london/assets/images/2007/stmargarets_cpz_results_map.jpg"><img src="//stmargarets.london/assets/images/2007/stmargarets_cpz_results_map-thumb.jpg" width="121" height="150" alt="google map" class="photo right" /></a>
+<a href="/assets/images/2007/stmargarets_cpz_results_map.jpg"><img src="/assets/images/2007/stmargarets_cpz_results_map-thumb.jpg" width="121" height="150" alt="google map" class="photo right" /></a>
 
 
 The following roads have clearly voted 'NO': 
@@ -61,7 +61,7 @@ The following roads have clearly voted 'NO':
 |St Margarets Road|74%|
 |Talbot Road|100%|
 
-<a href="//stmargarets.london/assets/images/2007/all_streets_cpz_bar.jpg"><img src="//stmargarets.london/assets/images/2007/all_streets_cpz_bar-thumb.jpg" width="113" height="150" alt="street by street detail" class="photo right"  /></a>
+<a href="/assets/images/2007/all_streets_cpz_bar.jpg"><img src="/assets/images/2007/all_streets_cpz_bar-thumb.jpg" width="113" height="150" alt="street by street detail" class="photo right"  /></a>
 
 
 

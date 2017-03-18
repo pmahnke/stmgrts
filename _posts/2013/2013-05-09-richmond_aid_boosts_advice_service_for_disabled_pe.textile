@@ -6,7 +6,7 @@ commentfile: 2013-05-09-richmond_aid_boosts_advice_service_for_disabled_pe
 category: news
 date: 2013-05-09 21:31:37
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="//stmargarets.london/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
+    <a href="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
     
     <em>"Richmond AID":https://stmargarets.london/directory/charity/201305091626 boosts advice service to help more local people deal with changes affecting disabled people</em>
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="//stmargarets.london/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
+<a href="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
 
 <em>"Richmond AID":https://stmargarets.london/directory/charity/201305091626 boosts advice service to help more local people deal with changes affecting disabled people</em>
 

@@ -6,7 +6,7 @@ commentfile: 2009-09-17-turings_poisoned_apple_a_footnote
 category: around_town
 date: 2009-09-17 22:42:01
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/turing_chair.png"><img src="//stmargarets.london/assets/images/2009/turing_chair-thumb.png" width="140" height="150" alt="Alan Turing in a chair" class="photo right" /></a>
+    <a href="/assets/images/2009/turing_chair.png"><img src="/assets/images/2009/turing_chair-thumb.png" width="140" height="150" alt="Alan Turing in a chair" class="photo right" /></a>
     
     
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/turing_chair.png"><img src="//stmargarets.london/assets/images/2009/turing_chair-thumb.png" width="140" height="150" alt="Alan Turing in a chair" class="photo right" /></a>
+<a href="/assets/images/2009/turing_chair.png"><img src="/assets/images/2009/turing_chair-thumb.png" width="140" height="150" alt="Alan Turing in a chair" class="photo right" /></a>
 
 
 

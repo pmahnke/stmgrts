@@ -6,14 +6,14 @@ commentfile: 2015-04-03-no_blame
 category: around_town
 date: 2015-04-03 12:28:40
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/CYNTHIA_Cynthia_Lennon.jpg" title="See larger version of - Cynthia Lennon"><img src="//stmargarets.london/assets/images/2015/CYNTHIA_Cynthia_Lennon_thumb.jpg" width="150" height="172" alt="Cynthia Lennon" class="photo right" /></a>
+    <a href="/assets/images/2015/CYNTHIA_Cynthia_Lennon.jpg" title="See larger version of - Cynthia Lennon"><img src="/assets/images/2015/CYNTHIA_Cynthia_Lennon_thumb.jpg" width="150" height="172" alt="Cynthia Lennon" class="photo right" /></a>
 
     Cynthia Lennon died today, April 1<sup>st</sup> 2015, following a <em>"short but brave battle with cancer"</em>. She was 75 years old and John Lennon's first wife.
 
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/CYNTHIA_John-and-Cynthia.jpg" title="See larger version of - John and Cynthia"><img src="//stmargarets.london/assets/images/2015/CYNTHIA_John-and-Cynthia_thumb.jpg" width="250" height="202" alt="John and Cynthia" class="photo right" /></a>
+<a href="/assets/images/2015/CYNTHIA_John-and-Cynthia.jpg" title="See larger version of - John and Cynthia"><img src="/assets/images/2015/CYNTHIA_John-and-Cynthia_thumb.jpg" width="250" height="202" alt="John and Cynthia" class="photo right" /></a>
 
 bq. "I have come to realise that I will always be known as John's first wife."
 
@@ -23,14 +23,14 @@ Cynthia Lennon died today, April 1<sup>st</sup> 2015, following a <em>"short but
 
 
 
-<a href="//stmargarets.london/assets/images/2015/CYNTHIA_JOHN_AND_CYNTHIA_AT_ART_COLLEGE.jpg" title="See larger version of - JOHN AND CYNTHIA AT ART COLLEGE"><img src="//stmargarets.london/assets/images/2015/CYNTHIA_JOHN_AND_CYNTHIA_AT_ART_COLLEGE_thumb.jpg" width="250" height="334" alt="JOHN AND CYNTHIA AT ART COLLEGE" class="photo right" /></a>
+<a href="/assets/images/2015/CYNTHIA_JOHN_AND_CYNTHIA_AT_ART_COLLEGE.jpg" title="See larger version of - JOHN AND CYNTHIA AT ART COLLEGE"><img src="/assets/images/2015/CYNTHIA_JOHN_AND_CYNTHIA_AT_ART_COLLEGE_thumb.jpg" width="250" height="334" alt="JOHN AND CYNTHIA AT ART COLLEGE" class="photo right" /></a>
 
 In the frenzy of Beatlemania few fans knew that John Lennon had a wife. In the early 60's being married was considered a real <em>'no-no'</em> if you wanted to be a pop star and having a child even more so; and Cynthia and John had both - a marriage and a son Julian. From those early days Cynthia and Julian lived their quiet lives in John's shadow.
 
 
 Cynthia and John first met in 1957 in a calligraphy class at Liverpool College of Art. Lennon was immediately taken with her. She was cool, she was smart, she looked like Brigitte Bardot, especially when she dyed her hair blonde and she was prepared to put up with his waywardness.
 
-|<a href="//stmargarets.london/assets/images/2015/CYNTHIA_Beatles_in_Cavern.JPG" title="See larger version of - Beatles in Cavern"><img src="//stmargarets.london/assets/images/2015/CYNTHIA_Beatles_in_Cavern_thumb.JPG" width="250" height="171" alt="Beatles in Cavern" class="photo" /></a>|<a href="https://stmargarets.london/assets/images/2015/CYNTHIA_John_and_Cynthias_Wedding.JPG" title="See larger version of - John and Cynthias Wedding"><img src="https://stmargarets.london/assets/images/2015/CYNTHIA_John_and_Cynthias_Wedding_thumb.JPG" width="250" height="175" alt="John and Cynthias Wedding" class="photo " /></a>|
+|<a href="/assets/images/2015/CYNTHIA_Beatles_in_Cavern.JPG" title="See larger version of - Beatles in Cavern"><img src="/assets/images/2015/CYNTHIA_Beatles_in_Cavern_thumb.JPG" width="250" height="171" alt="Beatles in Cavern" class="photo" /></a>|<a href="/assets/images/2015/CYNTHIA_John_and_Cynthias_Wedding.JPG" title="See larger version of - John and Cynthias Wedding"><img src="/assets/images/2015/CYNTHIA_John_and_Cynthias_Wedding_thumb.JPG" width="250" height="175" alt="John and Cynthias Wedding" class="photo " /></a>|
 
 This tolerance continued throughout their 11 years together, his viciousness - and for all his later talk of <em>'peace and love'</em> John Lennon was capable of great cruelty and violence - his promiscuity, his drug taking and his later and lasting affair with Yoko Ono. People may wonder why she put up with all this - but I think the answer is simple. She loved him and in his own way, he loved her too. In her autobiography <em>"A Twist of Lennon"</em>, published in 1978, she tells in some detail the story of their time together from squalid &pound;5 flats in Liverpool to a luxury mansion in Weybridge - but there is not one word of recrimination or bitterness, no sense of deception or betrayal. She simply accepted the man as he was and understood that for all his fame and talent he needed something that she was unable to provide. Of her first meeting with Yoko she wrote...
 
@@ -45,7 +45,7 @@ I am still very proud of the Beatles and their accomplishments. My life during t
 
 </div>
 
-<a href="//stmargarets.london/assets/images/2015/CYNTHIA_Cynthias_autograph.JPG" title="See larger version of - Cynthias autograph"><img src="//stmargarets.london/assets/images/2015/CYNTHIA_Cynthias_autograph_thumb.JPG" width="150" height="108" alt="Cynthias autograph" class="photo right" /></a>
+<a href="/assets/images/2015/CYNTHIA_Cynthias_autograph.JPG" title="See larger version of - Cynthias autograph"><img src="/assets/images/2015/CYNTHIA_Cynthias_autograph_thumb.JPG" width="150" height="108" alt="Cynthias autograph" class="photo right" /></a>
 
 I once interviewed Cynthia Lennon - and it was clear why John had fallen for her. She was attractive and classy and funny and forbearing - enough to put up with me rabbiting on about her former husband and a man that I believed she still loved.
 
