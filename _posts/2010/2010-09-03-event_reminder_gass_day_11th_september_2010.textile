@@ -6,7 +6,7 @@ commentfile: 2010-09-03-event_reminder_gass_day_11th_september_2010
 category: around_town
 date: 2010-09-03 12:15:23
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/gass2008.jpg" title="See larger version of - GASS Fun"><img src="//stmargarets.london/assets/images/2010/gass2008_thumb.jpg" width="300" height="66" alt="GASS Fun" class="photo center" /></a>
+    <a href="/assets/images/2010/gass2008.jpg" title="See larger version of - GASS Fun"><img src="/assets/images/2010/gass2008_thumb.jpg" width="300" height="66" alt="GASS Fun" class="photo center" /></a>
     
     GASS Day is on Saturday 11<sup>th</sup> September and starts at 1.00pm. The streets involved are Haliburton, Heron, Newry, Northcote and Talbot. To find them cross the A316, walk up St. Margarets Road towards Isleworth, turn left past the Ailsa Tavern and walk down Northcote Road. Voila!
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/gass2008.jpg" title="See larger version of - GASS Fun"><img src="//stmargarets.london/assets/images/2010/gass2008_thumb.jpg" width="300" height="66" alt="GASS Fun" class="photo center" /></a>
+<a href="/assets/images/2010/gass2008.jpg" title="See larger version of - GASS Fun"><img src="/assets/images/2010/gass2008_thumb.jpg" width="300" height="66" alt="GASS Fun" class="photo center" /></a>
 
 In 2004 the "North St Margarets Residents Association (NSMRA)":http://www.nsmra.co.uk/ organised a 'one-off' event that became an annual occurrence and now in its 7<sup>th</sup> year is turning into a tradition - The Grand Annual Street Sale a.k.a GASS Day.
 

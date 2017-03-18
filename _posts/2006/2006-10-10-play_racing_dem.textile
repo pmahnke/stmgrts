@@ -8,7 +8,7 @@ date: 2006-10-10 09:29:01
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/play_racing_demon.jpg"><img src="//stmargarets.london/assets/images/2006/play_racing_demon-thumb.jpg" width="150" height="103" alt="Racing Demon" class="photo right" /></a>
+<a href="/assets/images/2006/play_racing_demon.jpg"><img src="/assets/images/2006/play_racing_demon-thumb.jpg" width="150" height="103" alt="Racing Demon" class="photo right" /></a>
 
 "I wouldn't even say the church was a joke. In our area it's an irrelevance,” says the spiritually exhausted Rev. Lionel Espy to his Bishop early in "Racing Demon":https://stmargarets.london/event/Play/200609290404. 
 

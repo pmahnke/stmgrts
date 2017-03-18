@@ -6,14 +6,14 @@ commentfile: 2015-08-13-me_no_see_rwc_legacy
 category: editorial
 date: 2015-08-13 18:43:23
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/Rugby-World-Cup-2015.jpg" title="See larger version of - Rugby World Cup 2015"><img src="//stmargarets.london/assets/images/2015/Rugby-World-Cup-2015_thumb.jpg" width="150" height="83" alt="Rugby World Cup 2015" class="photo right" /></a>
+    <a href="/assets/images/2015/Rugby-World-Cup-2015.jpg" title="See larger version of - Rugby World Cup 2015"><img src="/assets/images/2015/Rugby-World-Cup-2015_thumb.jpg" width="150" height="83" alt="Rugby World Cup 2015" class="photo right" /></a>
     
     I've heard most of the arguments about the Rugby World Cup being good for the local economy - and I suppose, like most people, I am ready and prepared to put up with the inconvenience - the traffic diversions, the closed streets, the hoards of fans, the 'porta-potty' toilets, the crowded trains, the litter and the noise into the early hours of the morning. This the price of living next door to Twickenham Stadium at the time of the Rugby World Cup. I accept this. What I cannot accept is the apparent lack of any recognition, recompense or legacy for the thousands of people who will have to put up with it.
     
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Rugby-World-Cup-2015.jpg" title="See larger version of - Rugby World Cup 2015"><img src="//stmargarets.london/assets/images/2015/Rugby-World-Cup-2015_thumb.jpg" width="250" height="139" alt="Rugby World Cup 2015" class="photo right" /></a>
+<a href="/assets/images/2015/Rugby-World-Cup-2015.jpg" title="See larger version of - Rugby World Cup 2015"><img src="/assets/images/2015/Rugby-World-Cup-2015_thumb.jpg" width="250" height="139" alt="Rugby World Cup 2015" class="photo right" /></a>
 
 I've heard most of the arguments about the Rugby World Cup being good for the local economy - and I suppose, like most people, I am ready and prepared to put up with the inconvenience - the traffic diversions, the closed streets, the hoards of fans, the 'porta-potty' toilets, the crowded trains, the litter and the noise into the early hours of the morning. This the price of living next door to Twickenham Stadium at the time of the Rugby World Cup. I accept this. What I cannot accept is the apparent lack of any recognition, recompense or legacy for the thousands of people who will have to put up with it.
 

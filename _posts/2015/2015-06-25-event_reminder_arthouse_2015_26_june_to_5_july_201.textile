@@ -6,7 +6,7 @@ commentfile: 2015-06-25-event_reminder_arthouse_2015_26_june_to_5_july_201
 category: around_town
 date: 2015-06-25 22:57:45
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmargarets.london/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
+    <a href="/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
     
     "Runs over the weekends of 26 to 28 June and 3 to 5 July 2015 all over Richmond Borough,":https://stmargarets.london/directory/art/201006031129
     
@@ -15,7 +15,7 @@ excerpt: |
 ---
 
 
-<a href="//stmargarets.london/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="//stmargarets.london/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
+<a href="/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
 
 "Runs over the weekends of 26 to 28 June and 3 to 5 July 2015 all over Richmond Borough,":https://stmargarets.london/directory/art/201006031129
 

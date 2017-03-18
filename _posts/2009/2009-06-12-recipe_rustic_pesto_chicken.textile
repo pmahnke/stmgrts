@@ -6,7 +6,7 @@ commentfile: 2009-06-12-recipe_rustic_pesto_chicken
 category: food
 date: 2009-06-12 10:31:09
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/pesto_chicken.jpg"><img src="//stmargarets.london/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
+    <a href="/assets/images/2009/pesto_chicken.jpg"><img src="/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
     
     
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/pesto_chicken.jpg"><img src="//stmargarets.london/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
+<a href="/assets/images/2009/pesto_chicken.jpg"><img src="/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
 
 
 This is such an incredibly easy main course that takes only minutes to prepare and uses very few ingredients. It has a wonderful taste of summer and makes great leftovers (if there are any!) This recipe can easily be doubled and other vegetables such as courgettes, mushrooms or peas could be added to the tomatoes in the dish.

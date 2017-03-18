@@ -6,7 +6,7 @@ commentfile: 2014-03-06-dreamcatcher_film_camps_easter_and_summer_2014
 category: around_town
 date: 2014-03-06 21:06:28
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="//stmargarets.london/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
+    <a href="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
 
     Make a 5 minute film in 5 Days and take a copy home on DVD!
 
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="//stmargarets.london/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
+<a href="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
 
 _Easter one week only starting March 31st_
 
@@ -38,7 +38,7 @@ Sponsored by the Alpha Plus Group, the Camp takes place at Falcons Boys Prep Sch
 h4. More Information
 
 * To Book, Call - 07828377939 or email "info@dreamcatchermedia.co.uk":mailto:info@dreamcatchermedia.co.uk.
-* "Downlaod the flyer":https://stmargarets.london/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg
+* "Downlaod the flyer":/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg
 
 
 

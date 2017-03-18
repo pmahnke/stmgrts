@@ -8,7 +8,7 @@ date: 2010-06-10 09:51:33
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/punch_judy.jpg" title="See larger version of - Punch and Judy"><img src="//stmargarets.london/assets/images/2010/punch_judy_thumb.jpg" width="113" height="150" alt="Punch and Judy" class="photo right" /></a>
+<a href="/assets/images/2010/punch_judy.jpg" title="See larger version of - Punch and Judy"><img src="/assets/images/2010/punch_judy_thumb.jpg" width="113" height="150" alt="Punch and Judy" class="photo right" /></a>
 
 _Punch and Judy will be visiting St Margarets this weekend!_
 

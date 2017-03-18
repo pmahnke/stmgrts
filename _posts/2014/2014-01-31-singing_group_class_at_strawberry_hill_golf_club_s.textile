@@ -6,7 +6,7 @@ commentfile: 2014-01-31-singing_group_class_at_strawberry_hill_golf_club_s
 category: around_town
 date: 2014-01-31 08:35:06
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/helen_astrid.jpg" title="See larger version of - helen astrid"><img src="//stmargarets.london/assets/images/2014/helen_astrid_thumb.jpg" width="150" height="226" alt="helen astrid" class="photo right" /></a>
+    <a href="/assets/images/2014/helen_astrid.jpg" title="See larger version of - helen astrid"><img src="/assets/images/2014/helen_astrid_thumb.jpg" width="150" height="226" alt="helen astrid" class="photo right" /></a>
     
     _Would you like to improve your singing abilities and confidence? And have some fun? Develop an inner strength that goes well beyond the limits of natural talent and skill._
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/helen_astrid.jpg" title="See larger version of - helen astrid"><img src="//stmargarets.london/assets/images/2014/helen_astrid_thumb.jpg" width="150" height="226" alt="helen astrid" class="photo right" /></a>
+<a href="/assets/images/2014/helen_astrid.jpg" title="See larger version of - helen astrid"><img src="/assets/images/2014/helen_astrid_thumb.jpg" width="150" height="226" alt="helen astrid" class="photo right" /></a>
 
 _Would you like to improve your singing abilities and confidence? And have some fun? Develop an inner strength that goes well beyond the limits of natural talent and skill._
 

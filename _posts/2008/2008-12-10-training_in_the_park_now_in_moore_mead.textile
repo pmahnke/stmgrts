@@ -8,7 +8,7 @@ date: 2008-12-10 16:54:41
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/one_element.jpg"><img src="//stmargarets.london/assets/images/2008/one_element-thumb.jpg" width="150" height="100" alt="one element training" class="photo right"/></a>
+<a href="/assets/images/2008/one_element.jpg"><img src="/assets/images/2008/one_element-thumb.jpg" width="150" height="100" alt="one element training" class="photo right"/></a>
 
 
 We have been running an outdoor fitness company in southwest London for the past 2 years, and we have got two very good trainers to help us develop Moormead Park.

@@ -6,7 +6,7 @@ commentfile: 2013-02-14-stop_press_isleworth_mona_lisa_declared_authentic
 category: news
 date: 2013-02-14 21:26:06
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa.jpg" title="See larger version of - CU Isleworth Mona Lisa"><img src="//stmargarets.london/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg" width="150" height="116" alt="CU Isleworth Mona Lisa" class="photo right"/></a>
+    <a href="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa.jpg" title="See larger version of - CU Isleworth Mona Lisa"><img src="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg" width="150" height="116" alt="CU Isleworth Mona Lisa" class="photo right"/></a>
     
     After exhaustive tests experts have just declared the so-called 'Isleworth Mona Lisa' as Leonardo Da Vinci's original version of the famous 'Mona Lisa' now in the Louvre in Paris.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa.jpg" title="See larger version of - CU Isleworth Mona Lisa"><img src="//stmargarets.london/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg" width="150" height="116" alt="CU Isleworth Mona Lisa" class="photo right"/></a>
+<a href="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa.jpg" title="See larger version of - CU Isleworth Mona Lisa"><img src="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg" width="150" height="116" alt="CU Isleworth Mona Lisa" class="photo right"/></a>
 
 After exhaustive tests experts have just declared the so-called 'Isleworth Mona Lisa' as Leonardo Da Vinci's original version of the famous 'Mona Lisa' now in the Louvre in Paris.
 
@@ -24,7 +24,7 @@ Much of this new evidence was provided by Italian geometrist Alfonso Rubino. He 
 
 Carbon dating tests on the painting by the Federal Institute of Technology in Switzerland also confirmed that its canvas was almost certainly manufactured between 1410 and 1455, refuting claims that the painting was a late 16<sup>th</sup> century copy.
 
-<a href="//stmargarets.london/assets/images/2013/MONA_ISLEWORTH-MONA-LISA.jpg" title="See larger version of - MONA ISLEWORTH MONA LISA"><img src="//stmargarets.london/assets/images/2013/MONA_ISLEWORTH-MONA-LISA_thumb.jpg" width="500" height="347" alt="MONA ISLEWORTH MONA LISA" class="photo center"/></a>
+<a href="/assets/images/2013/MONA_ISLEWORTH-MONA-LISA.jpg" title="See larger version of - MONA ISLEWORTH MONA LISA"><img src="/assets/images/2013/MONA_ISLEWORTH-MONA-LISA_thumb.jpg" width="500" height="347" alt="MONA ISLEWORTH MONA LISA" class="photo center"/></a>
 
 
 The 'Isleworth Mona Lisa' is so called because it was kept in Isleworth by art connoisseur Hugh Blaker who found it in a country house in Somerset in 1913.

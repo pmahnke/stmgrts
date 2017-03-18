@@ -8,7 +8,7 @@ date: 2012-01-04 12:53:20
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/pluto_appeal_zorans.jpg" title="See larger version of - Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin "><img src="//stmargarets.london/assets/images/2012/pluto_appeal_zorans_thumb.jpg" width="150" height="112" alt="Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin " class="photo right" /></a>
+<a href="/assets/images/2012/pluto_appeal_zorans.jpg" title="See larger version of - Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin "><img src="/assets/images/2012/pluto_appeal_zorans_thumb.jpg" width="150" height="112" alt="Jason Bradbury, Katie Pinnock (GSK) and Rebecca McLoughlin " class="photo right" /></a>
 
 "THE PLUTO APPEAL":http://www.theplutoappeal.com smashes through fundraising halfway mark, thanks to a corporate donation of &pound;500,000 from GlaxoSmithKline (GSK).
 

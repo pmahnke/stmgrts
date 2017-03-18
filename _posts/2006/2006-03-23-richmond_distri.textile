@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/UNDERGROUND.jpg"><img src="//stmargarets.london/assets/images/2006/UNDERGROUND-thumb.jpg" width="150" height="121" alt="underground" class="right ignore" /></a>
+<a href="/assets/images/2006/UNDERGROUND.jpg"><img src="/assets/images/2006/UNDERGROUND-thumb.jpg" width="150" height="121" alt="underground" class="right ignore" /></a>
 
 The Richmond branch of the District Line will be closed for the nine days from the 1<sup>st</sup> to the 10<sup>th</sup> of April from Richmond to Turnham Green.  Underground tickets will be accepted on South West Trains to Waterloo and there will be two replacement bus services.  Additional works are planned for the Sunday mornings of 16, 23, 30 April and 28 May 2006.
 

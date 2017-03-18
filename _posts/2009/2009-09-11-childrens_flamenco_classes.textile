@@ -6,7 +6,7 @@ commentfile: 2009-09-11-childrens_flamenco_classes
 category: around_town
 date: 2009-09-11 10:08:28
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/flemflyerpic.jpg"><img src="//stmargarets.london/assets/images/2009/flemflyerpic-thumb.jpg" width="103" height="150" alt="poster" class="photo right" /></a>
+    <a href="/assets/images/2009/flemflyerpic.jpg"><img src="/assets/images/2009/flemflyerpic-thumb.jpg" width="103" height="150" alt="poster" class="photo right" /></a>
     
     
     
@@ -25,7 +25,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/flemflyerpic.jpg"><img src="//stmargarets.london/assets/images/2009/flemflyerpic-thumb.jpg" width="103" height="150" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2009/flemflyerpic.jpg"><img src="/assets/images/2009/flemflyerpic-thumb.jpg" width="103" height="150" alt="poster" class="photo right" /></a>
 
 
 

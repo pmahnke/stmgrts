@@ -8,7 +8,7 @@ date: 2011-06-07 08:06:05
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/crf_summer-2011.jpg" title="See larger version of - crown road summer fair "><img src="//stmargarets.london/assets/images/2011/crf_summer-2011_thumb.jpg" width="150" height="300" alt="crown road summer fair " class=" right" /></a>
+<a href="/assets/images/2011/crf_summer-2011.jpg" title="See larger version of - crown road summer fair "><img src="/assets/images/2011/crf_summer-2011_thumb.jpg" width="150" height="300" alt="crown road summer fair " class=" right" /></a>
 
 
 h4. CROWN ROAD ST MARGARETS COMMUNITY FAIR

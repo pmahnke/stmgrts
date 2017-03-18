@@ -6,14 +6,14 @@ commentfile: 2011-04-14-dickens_in_st_margarets
 category: around_town
 date: 2011-04-14 20:43:14
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/CD_Young_Charles_Dickens.jpg" title="See larger version of - Young Charles Dickens"><img src="//stmargarets.london/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg" width="150" height="212" alt="Young Charles Dickens" class="photo right" /></a>
+    <a href="/assets/images/2011/CD_Young_Charles_Dickens.jpg" title="See larger version of - Young Charles Dickens"><img src="/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg" width="150" height="212" alt="Young Charles Dickens" class="photo right" /></a>
     
     
     In the spring of 1838 Charles Dickens was a young man on a roll. His first novel, "The Pickwick Papers", published two years earlier in serial form, was a smash hit. When he introduced the astute and witty cockney servant Sam Weller in Chapter 10 sales were boosted from 500 to 40,000 a month. It was, as one commentator noted, "a publishing phenomenon."
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/CD_Sam-weller.jpg" title="See larger version of - Dickens' Sam Weller"><img src="//stmargarets.london/assets/images/2011/CD_Sam-weller_thumb.jpg" width="150" height="201" alt="Dickens' Sam Weller" class="photo right" /></a>
+<a href="/assets/images/2011/CD_Sam-weller.jpg" title="See larger version of - Dickens' Sam Weller"><img src="/assets/images/2011/CD_Sam-weller_thumb.jpg" width="150" height="201" alt="Dickens' Sam Weller" class="photo right" /></a>
 
 
 In the spring of 1838 Charles Dickens was a young man on a roll. His first novel, "The Pickwick Papers", published two years earlier in serial form, was a smash hit. When he introduced the astute and witty cockney servant Sam Weller in Chapter 10 sales were boosted from 500 to 40,000 a month. It was, as one commentator noted, "a publishing phenomenon."
@@ -34,7 +34,7 @@ With summer approaching and publication deadlines pressing Dickens and his wife 
 
 bq. "Kate is going in a fly to Twickenham to look at the cottage and we are to join her there."
 
-<a href="//stmargarets.london/assets/images/2011/CD_Ailsa-Villas.jpg" title="See larger version of - Ailsa Villa"><img src="//stmargarets.london/assets/images/2011/CD_Ailsa-Villas_thumb.jpg" width="150" height="104" alt="Ailsa Villa" class="photo right" /></a>
+<a href="/assets/images/2011/CD_Ailsa-Villas.jpg" title="See larger version of - Ailsa Villa"><img src="/assets/images/2011/CD_Ailsa-Villas_thumb.jpg" width="150" height="104" alt="Ailsa Villa" class="photo right" /></a>
 
 
 In June 1838, Mr and Mrs Dickens and their two young children, Charley and Mary, moved into 4 Ailsa Park Villas close to where St Margarets Station now stands. (The house still stands but is now renumbered as 2 Ailsa Park Villas.) With so much to do the cottage was not the peaceful summer retreat that Dickens had imagined. It wasn't just Kate and the children that accompanied him on his riverside walks.
@@ -48,7 +48,7 @@ p. ??The Story of Charles Dickens - Eleanor Graham??
 
 As Dickens was soon to discover one of the problems of publishing his work in serial form was his readers formed strong opinions about his characters and their possible fate before he had the chance to fix them in his own mind - and they weren't afraid to tell him!
 
-<a href="//stmargarets.london/assets/images/2011/CD_Young_Charles_Dickens.jpg" title="See larger version of - Young Charles Dickens"><img src="//stmargarets.london/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg" width="150" height="212" alt="Young Charles Dickens" class="photo right" /></a>
+<a href="/assets/images/2011/CD_Young_Charles_Dickens.jpg" title="See larger version of - Young Charles Dickens"><img src="/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg" width="150" height="212" alt="Young Charles Dickens" class="photo right" /></a>
 
 
 "Eminent public men wrote begging him to deal kindly with Fagin's boys, or with Smike; later to "spare" little Nell or Paul Dombey. Sergeant Talfourd, one evening in Forster's rooms, pleaded for Charley Bates and the Artful Dodger as eloquently as ever counsel for the defense pleaded at the bar for a client's life.
@@ -69,7 +69,7 @@ John Forster clearly failed on the balloon supply side because on June 23rd  183
 
 <div class="letter">
 
-<a href="//stmargarets.london/assets/images/2011/CD_john-forster.jpg" title="See larger version of - Dickens' John Forster"><img src="//stmargarets.london/assets/images/2011/CD_john-forster_thumb.jpg" width="150" height="185" alt="John Forster" class="photo right" /></a>
+<a href="/assets/images/2011/CD_john-forster.jpg" title="See larger version of - Dickens' John Forster"><img src="/assets/images/2011/CD_john-forster_thumb.jpg" width="150" height="185" alt="John Forster" class="photo right" /></a>
 
 "I am requested to inform you that at a numerous meeting of the Gammon Aeronautical Association for the encouragement of Science and the Consumption of Spirits (of Wine) -- Thomas Beard, Esquire, Mrs. Charles Dickens, Charles Dickens, Esquire, the Snodgering Blee, Popem Jee, and other distinguished characters being present and assenting, the vote of censure of which I enclose a copy, was unanimously passed upon you for gross negligence in the discharge of your duty, and most unjustifiable disregard of the best interests of the Society.
 
@@ -79,7 +79,7 @@ Charles Dickens, Honorary Secretary. To John Forster, Esquire.'
 </div>
 
 
-<a href="//stmargarets.london/assets/images/2011/CD_Kate-Dickens.jpg" title="See larger version of - Kate Dickens"><img src="//stmargarets.london/assets/images/2011/CD_Kate-Dickens_thumb.jpg" width="150" height="158" alt="Kate Dickens" class="photo right" /></a>
+<a href="/assets/images/2011/CD_Kate-Dickens.jpg" title="See larger version of - Kate Dickens"><img src="/assets/images/2011/CD_Kate-Dickens_thumb.jpg" width="150" height="158" alt="Kate Dickens" class="photo right" /></a>
 
 
 In August, Charles, Kate, the Snodgering Blee and Popem Jee all returned home to Doughty Street where Dickens finally finished off "Oliver Twist". It may have been the end of the book but it certainly wasn't the end of Dickens's affection for Twickenham. Many of his later novels included scenes set in the area and Charles and Kate came back every year to celebrate their wedding anniversary at the Star and Garter Hotel on Richmond Hill...

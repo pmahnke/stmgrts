@@ -6,7 +6,7 @@ commentfile: 2015-05-20-dreamcatcher_summer_film_camps_july_and_august_201
 category: around_town
 date: 2015-05-20 22:01:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="//stmargarets.london/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="150" height="212" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
+    <a href="/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="150" height="212" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
     
     _Make a short film in 5 Days and take a copy home on DVD!_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="//stmargarets.london/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="250" height="354" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
+<a href="/assets/images/2015/Dreamcatcher-May-2015-Flyer.jpg" title="See larger version of - Dreamcatcher May 2015 Flyer"><img src="/assets/images/2015/Dreamcatcher-May-2015-Flyer_thumb.jpg" width="250" height="354" alt="Dreamcatcher May 2015 Flyer" class="photo right" /></a>
 
 _Make a short film in 5 Days and take a copy home on DVD!_
 

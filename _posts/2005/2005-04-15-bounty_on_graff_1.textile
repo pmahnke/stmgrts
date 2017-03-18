@@ -8,7 +8,7 @@ date: 2005-04-15 09:59:05
 
 ---
 
-<img src="//stmargarets.london/assets/images/2005/graffiti-thumb.gif" width="169" height="89" class="right" alt="Stop Graffiti" />
+<img src="/assets/images/2005/graffiti-thumb.gif" width="169" height="89" class="right" alt="Stop Graffiti" />
 
 Graffiti (and vandalism) has been a growing problem in St Margarets and the surrounding area for the last few years -- just look at the state of the train station!.  To that end, the Richmond Council has announced a reward for information that leads to the _conviction_ of a graffiti vandal of up to £1,000.
 

@@ -6,7 +6,7 @@ commentfile: 2010-09-16-a_superhero_for_our_time
 category: around_town
 date: 2010-09-16 21:01:02
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="//stmargarets.london/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
+    <a href="/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
     
     _The Return of Wilson_
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/sharon_lamb.jpg" title="See larger version of - Sharon Lamb"><img src="//stmargarets.london/assets/images/2010/sharon_lamb_thumb.jpg" width="150" height="150" alt="Sharon Lamb" class="photo right" /></a>
+<a href="/assets/images/2010/sharon_lamb.jpg" title="See larger version of - Sharon Lamb"><img src="/assets/images/2010/sharon_lamb_thumb.jpg" width="150" height="150" alt="Sharon Lamb" class="photo right" /></a>
 
 _The Return of Wilson_
 
@@ -34,7 +34,7 @@ Faced with the prospect of superheroic 'bling', 'bullying' and 'misogyny' having
 
 He first appeared in a story in the 1029<sup>th</sup> issue of the 'Wizard' comic on the 24<sup>th</sup> July 1943. It was a gripping yarn apparently written by sports writer W.S.K. Webb of the "London Daily Clarion". It told of a mysterious runner who appeared at the British Summer Championship at Stamford Bridge...
 
-<a href="//stmargarets.london/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="//stmargarets.london/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
+<a href="/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
 
 
 bq. "I turned round and was just in time to see a man drop over the barrier onto the track a short distance behind the runners. In that first glimpse I saw to my amazement that he seemed to be dressed for running. He had on an old black running costume with half-length sleeves, the legs of which came below the knee. He strode nearer and I suddenly realised that his feet were bare..."

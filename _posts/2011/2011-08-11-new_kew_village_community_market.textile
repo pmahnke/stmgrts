@@ -6,7 +6,7 @@ commentfile: 2011-08-11-new_kew_village_community_market
 category: news
 date: 2011-08-11 14:13:48
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmargarets.london/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
+    <a href="/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
     
     "_Kew Village Community Market_":http://www.kewvillagemarket.org/ is a local market that is run by the community for the benefit of the community.  The current plans for the market are that (when it starts) it will be held on the first Sunday of every month in Station Parade from 10.00am - 2.00pm.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="//stmargarets.london/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
+<a href="/assets/images/2011/kewvillagemarket.jpg" title="See larger version of - Kew Village Market"><img src="/assets/images/2011/kewvillagemarket_thumb.jpg" width="150" height="31" alt="Kew Village Market" class=" right" /></a>
 
 "_Kew Village Community Market_":http://www.kewvillagemarket.org/ is a local market that is run by the community for the benefit of the community.  The current plans for the market are that (when it starts) it will be held on the first Sunday of every month in Station Parade from 10.00am - 2.00pm.
 

@@ -8,7 +8,7 @@ date: 2010-09-22 15:50:24
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/older_peoples_day_poster.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2010/older_peoples_day_poster_thumb.jpg" width="106" height="150" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2010/older_peoples_day_poster.jpg" title="See larger version of - poster"><img src="/assets/images/2010/older_peoples_day_poster_thumb.jpg" width="106" height="150" alt="poster" class="photo right" /></a>
 
 Come and join in the celebration of later life taking place on "Tuesday, 5 October at the Harlequins Rugby Club":https://stmargarets.london/event/auction/200705142565, (Twickenham Stoop, Langhorn Drive, TW2 7SX) from 10am-3pm. 
 

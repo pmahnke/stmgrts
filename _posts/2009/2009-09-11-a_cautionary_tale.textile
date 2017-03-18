@@ -20,7 +20,7 @@ Well here's a lesson for us all. A friend of mine who has nous and street sense 
 
 
 
-<a href="//stmargarets.london/assets/images/2009/money.png"><img src="//stmargarets.london/assets/images/2009/money-thumb.png" width="150" height="90" alt="photo of money" class="photo right" /></a>
+<a href="/assets/images/2009/money.png"><img src="/assets/images/2009/money-thumb.png" width="150" height="90" alt="photo of money" class="photo right" /></a>
 
 
 

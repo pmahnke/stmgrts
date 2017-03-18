@@ -6,13 +6,13 @@ commentfile: 2015-08-07-arts_award_summer_school_printmaking_week_for_1117
 category: around_town
 date: 2015-08-07 13:04:24
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/OH_YOUNG_PERSON_POSTER.jpg" title="See larger version of - OH YOUNG PERSON POSTER"><img src="//stmargarets.london/assets/images/2015/OH_YOUNG_PERSON_POSTER_thumb.jpg" width="150" height="212" alt="OH YOUNG PERSON POSTER" class="photo right" /></a>
+    <a href="/assets/images/2015/OH_YOUNG_PERSON_POSTER.jpg" title="See larger version of - OH YOUNG PERSON POSTER"><img src="/assets/images/2015/OH_YOUNG_PERSON_POSTER_thumb.jpg" width="150" height="212" alt="OH YOUNG PERSON POSTER" class="photo right" /></a>
     
     PAINT, PRODUCE, PRESS, and PRINT! Learn and develop professional and fun printmaking skills whilst gaining your Bronze Arts Award (accredited learning qualification) in this week long creative project at Orleans House Gallery. Create punchy artwork, deliver workshops and curate an exhibition to be held by the group at the end of the week.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/OH_YOUNG_PERSON_POSTER.jpg" title="See larger version of - OH YOUNG PERSON POSTER"><img src="//stmargarets.london/assets/images/2015/OH_YOUNG_PERSON_POSTER_thumb.jpg" width="250" height="354" alt="OH YOUNG PERSON POSTER" class="photo right" /></a>
+<a href="/assets/images/2015/OH_YOUNG_PERSON_POSTER.jpg" title="See larger version of - OH YOUNG PERSON POSTER"><img src="/assets/images/2015/OH_YOUNG_PERSON_POSTER_thumb.jpg" width="250" height="354" alt="OH YOUNG PERSON POSTER" class="photo right" /></a>
 
 PAINT, PRODUCE, PRESS, and PRINT! Learn and develop professional and fun printmaking skills whilst gaining your Bronze Arts Award (accredited learning qualification) in this week long creative project at Orleans House Gallery. Create punchy artwork, deliver workshops and curate an exhibition to be held by the group at the end of the week.
 

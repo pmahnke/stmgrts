@@ -7,7 +7,7 @@ category: around_town
 date: 2008-10-16 14:52:07
 excerpt: |
     
-    <a href="//stmargarets.london/assets/images/2008/jamboree_poster.jpg"><img src="//stmargarets.london/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
+    <a href="/assets/images/2008/jamboree_poster.jpg"><img src="/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
     
     
     A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
@@ -20,7 +20,7 @@ excerpt: |
 ---
 
 
-<a href="//stmargarets.london/assets/images/2008/jamboree_poster.jpg"><img src="//stmargarets.london/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2008/jamboree_poster.jpg"><img src="/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
 
 
 A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
@@ -36,7 +36,7 @@ However just as every dog has its day, I believe that every park should have its
 
 
 
-<a href="//stmargarets.london/assets/images/2008/scouts_deerpark.jpg"><img src="//stmargarets.london/assets/images/2008/scouts_deerpark-thumb.jpg" width="150" height="83" alt="Scouts in Old Deer Park" class="photo right" /></a>
+<a href="/assets/images/2008/scouts_deerpark.jpg"><img src="/assets/images/2008/scouts_deerpark-thumb.jpg" width="150" height="83" alt="Scouts in Old Deer Park" class="photo right" /></a>
 
 
 

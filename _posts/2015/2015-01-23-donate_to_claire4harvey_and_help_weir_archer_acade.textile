@@ -6,13 +6,13 @@ commentfile: 2015-01-23-donate_to_claire4harvey_and_help_weir_archer_acade
 category: around_town
 date: 2015-01-23 23:24:14
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="//stmargarets.london/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
+    <a href="/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
     
     Claire Wood is my son Harvey's former support teacher. She has played a pivotal role in helping him access mainstream education and making school such an enjoyable experience for him. She is running the London Marathon for the Weir Archer Academy. They provide Harvey with access to sports, a racing wheelchair and expert coaching to help him fulfil his dreams.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="//stmargarets.london/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
+<a href="/assets/images/2015/clare4harvey.png" title="See larger version of - clare4harvey"><img src="/assets/images/2015/clare4harvey_thumb.png" width="150" height="200" alt="clare4harvey" class="photo right" /></a>
 
 Claire Wood is my son Harvey's former support teacher. She has played a pivotal role in helping him access mainstream education and making school such an enjoyable experience for him. She is running the London Marathon for the Weir Archer Academy. They provide Harvey with access to sports, a racing wheelchair and expert coaching to help him fulfil his dreams.
 

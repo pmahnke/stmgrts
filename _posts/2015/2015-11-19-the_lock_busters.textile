@@ -6,7 +6,7 @@ commentfile: 2015-11-19-the_lock_busters
 category: around_town
 date: 2015-11-19 22:03:09
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/LOCKBUSTERS_German_bombers.jpg" title="See larger version of - German bombers"><img src="//stmargarets.london/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg" width="150" height="93" alt="German bombers" class="photo right" /></a>
+    <a href="/assets/images/2015/LOCKBUSTERS_German_bombers.jpg" title="See larger version of - German bombers"><img src="/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg" width="150" height="93" alt="German bombers" class="photo right" /></a>
     
     This is the time of the annual River Thames 'Draw-Off'. You may have noticed. The weirs at Richmond Lock have been raised and the river allowed to settle down to its natural depth and flow. For long periods of the day, from Richmond Lock to Teddington, the river is now un-navigable for larger vessels. Local boat people know that and on 19<sup>th</sup> February 1944 so did the German Luftwaffe.
     
@@ -14,7 +14,7 @@ excerpt: |
 ---
 
 
-<a href="//stmargarets.london/assets/images/2015/LOCKBUSTERS_German_bombers.jpg" title="See larger version of - German bombers"><img src="//stmargarets.london/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg" width="250" height="156" alt="German bombers" class="photo right" /></a>
+<a href="/assets/images/2015/LOCKBUSTERS_German_bombers.jpg" title="See larger version of - German bombers"><img src="/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg" width="250" height="156" alt="German bombers" class="photo right" /></a>
 
 This is the time of the annual River Thames 'Draw-Off'. You may have noticed. The weirs at Richmond Lock have been raised and the river allowed to settle down to its natural depth and flow. For long periods of the day, from Richmond Lock to Teddington, the river is now un-navigable for larger vessels. Local boat people know that and on 19<sup>th</sup> February 1944 so did the German Luftwaffe.
 
@@ -39,7 +39,7 @@ During the war fuel pipelines were all across Britain, supplying industry and ai
 
 </div>
 
-<a href="//stmargarets.london/assets/images/2015/LOCKBUSTERS_Goering.gif" title="See larger version of - Hermann Goering"><img src="//stmargarets.london/assets/images/2015/LOCKBUSTERS_Goering_thumb.gif" width="250" height="353" alt="Goering" class="photo right" /></a>
+<a href="/assets/images/2015/LOCKBUSTERS_Goering.gif" title="See larger version of - Hermann Goering"><img src="/assets/images/2015/LOCKBUSTERS_Goering_thumb.gif" width="250" height="353" alt="Goering" class="photo right" /></a>
 
 Unlike our own 617 Squadron who on the night of 16<sup>th</sup>/17<sup>th</sup> May1943 managed to breach the M&#246;hne and Edersee Dams in the Ruhr Valley using Barnes Wallis's ingenious 'bouncing bomb' the Luftwaffe relied upon an old favourite - the 1000 kilogram SC 1000 Sprengbombe Cylindrisch high explosive demolition bomb, known to the crews that used it as Hermann in reference to their portly commander, Hermann G&#246;ring. On 19<sup>th</sup> February 1944 they acted...
 
@@ -49,7 +49,7 @@ bq. "It was not until 19<sup>th</sup> February 1944 that the guns barked out fie
 ??RICHMOND HERALD 29TH Dec 1945??
 
 
-<a href="//stmargarets.london/assets/images/2015/LOCKBUSTERS_1000kg_Herman_Bomb.jpg" title="See larger version of - 1000kg Herman Bomb"><img src="//stmargarets.london/assets/images/2015/LOCKBUSTERS_1000kg_Herman_Bomb_thumb.jpg" width="250" height="169" alt="1000kg Herman Bomb" class="photo right" /></a>
+<a href="/assets/images/2015/LOCKBUSTERS_1000kg_Herman_Bomb.jpg" title="See larger version of - 1000kg Herman Bomb"><img src="/assets/images/2015/LOCKBUSTERS_1000kg_Herman_Bomb_thumb.jpg" width="250" height="169" alt="1000kg Herman Bomb" class="photo right" /></a>
 
 
 There was little weight placed upon this particular raid and its full significance wasn't revealed to the public for some months when one local paper dismissed it with ...."It was something in the nature of a 'dam-busting' operation which did not succeed in its effort to disrupt London's supply of petrol."
@@ -69,7 +69,7 @@ The lock gate was damaged  - the result was to slow down the flow of the petrol 
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2015/LOCKBUSTERS_Draw_Off_at_Twickenham.jpg" title="See larger version of - Draw Off at Twickenham"><img src="//stmargarets.london/assets/images/2015/LOCKBUSTERS_Draw_Off_at_Twickenham_thumb.jpg" width="250" height="166" alt="Draw Off at Twickenham" class="photo left" /></a>
+<a href="/assets/images/2015/LOCKBUSTERS_Draw_Off_at_Twickenham.jpg" title="See larger version of - Draw Off at Twickenham"><img src="/assets/images/2015/LOCKBUSTERS_Draw_Off_at_Twickenham_thumb.jpg" width="250" height="166" alt="Draw Off at Twickenham" class="photo left" /></a>
 
 The Thames 'Draw Off' takes place every year in November. The weirs at Richmond Lock, which are usually raised and lowered twice daily to maintain the river at a constant navigable state, are permanently raised for a few weeks to allow the river to settle back to its natural 'low and slow' depth. Engineers use the opportunity to examine the general state of the waterway and boat owners and the like to check the underside of docks, grounded boats and moorings. The weirs at Richmond Lock will return to their usual operating cycle on November 27<sup>th</sup> - and so will the Thames!
 

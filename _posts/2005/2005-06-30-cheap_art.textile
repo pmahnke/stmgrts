@@ -8,7 +8,7 @@ date: 2005-06-30 10:22:37
 
 ---
 
-<img src="//stmargarets.london/assets/images/2005/artlogo-thumb.gif" width="150" height="100" class="right" alt="Play: ART" />
+<img src="/assets/images/2005/artlogo-thumb.gif" width="150" height="100" class="right" alt="Play: ART" />
 
 Get a special &pound;10 ticket for the "Richmond Theatre's":https://stmargarets.london/cgi-bin/events.cgi?action=getevent&key=200506150402 upcoming production of "Art":http://www.theambassadors.com/richmond/sp_p1951_vso.html -- just call Box Office on 0870 060 6651 and quote 'Website Offer'.
 

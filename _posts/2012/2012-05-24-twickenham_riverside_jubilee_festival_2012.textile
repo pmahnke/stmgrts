@@ -6,7 +6,7 @@ commentfile: 2012-05-24-twickenham_riverside_jubilee_festival_2012
 category: around_town
 date: 2012-05-24 23:02:09
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/twfest_2012.jpg" title="See larger version of - twfest 2012"><img src="//stmargarets.london/assets/images/2012/twfest_2012_thumb.jpg" width="150" height="89" alt="twfest 2012" class=" right" /></a>
+    <a href="/assets/images/2012/twfest_2012.jpg" title="See larger version of - twfest 2012"><img src="/assets/images/2012/twfest_2012_thumb.jpg" width="150" height="89" alt="twfest 2012" class=" right" /></a>
     
     "Friday 1<sup>st</sup> to Sunday 17<sup>th</sup> June 2012":http://www.twickenhamalive.com/index.php?cID=1
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/twfest_2012.jpg" title="See larger version of - twfest 2012"><img src="//stmargarets.london/assets/images/2012/twfest_2012_thumb.jpg" width="150" height="89" alt="twfest 2012" class=" right" /></a>
+<a href="/assets/images/2012/twfest_2012.jpg" title="See larger version of - twfest 2012"><img src="/assets/images/2012/twfest_2012_thumb.jpg" width="150" height="89" alt="twfest 2012" class=" right" /></a>
 
 "Friday 1<sup>st</sup> to Sunday 17<sup>th</sup> June 2012":http://www.twickenhamalive.com/index.php?cID=1
 

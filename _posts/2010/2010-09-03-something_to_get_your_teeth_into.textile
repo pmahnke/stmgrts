@@ -6,13 +6,13 @@ commentfile: 2010-09-03-something_to_get_your_teeth_into
 category: around_town
 date: 2010-09-03 12:08:21
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/teeth_hufeland.jpg" title="See larger version of - Christophe Wilhelm Hufeland"><img src="//stmargarets.london/assets/images/2010/teeth_hufeland_thumb.jpg" width="114" height="150" alt="Christophe Wilhelm Hufeland" class="photo right" /></a>
+    <a href="/assets/images/2010/teeth_hufeland.jpg" title="See larger version of - Christophe Wilhelm Hufeland"><img src="/assets/images/2010/teeth_hufeland_thumb.jpg" width="114" height="150" alt="Christophe Wilhelm Hufeland" class="photo right" /></a>
     
     In 1826 '_The Family Oracle of Health_' reported on the rapid spread of tooth decay throughout the nation over the previous 25 years.  A number of reasons for this were put forward. One was the increased consumption of sugar from the West Indies - although this was disputed by some who argued that the West Indians who worked on the plantations and ate considerable quantities of sugar themselves, seemed to be remarkably untroubled by bad teeth. Another explanation, advanced by the German physician Christophe Wilhelm Hufeland, was that consuming hot and cold foods or drinks immediately after each other caused invisible cracks in the tooth enamel to open up and allow decay to enter. Surprisingly that argument still had its supporters into the late 1930's.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/teeth_hufeland.jpg" title="See larger version of - Christophe Wilhelm Hufeland"><img src="//stmargarets.london/assets/images/2010/teeth_hufeland_thumb.jpg" width="114" height="150" alt="Christophe Wilhelm Hufeland" class="photo right" /></a>
+<a href="/assets/images/2010/teeth_hufeland.jpg" title="See larger version of - Christophe Wilhelm Hufeland"><img src="/assets/images/2010/teeth_hufeland_thumb.jpg" width="114" height="150" alt="Christophe Wilhelm Hufeland" class="photo right" /></a>
 
 In 1826 '_The Family Oracle of Health_' reported on the rapid spread of tooth decay throughout the nation over the previous 25 years.  A number of reasons for this were put forward. One was the increased consumption of sugar from the West Indies - although this was disputed by some who argued that the West Indians who worked on the plantations and ate considerable quantities of sugar themselves, seemed to be remarkably untroubled by bad teeth. Another explanation, advanced by the German physician Christophe Wilhelm Hufeland, was that consuming hot and cold foods or drinks immediately after each other caused invisible cracks in the tooth enamel to open up and allow decay to enter. Surprisingly that argument still had its supporters into the late 1930's.
 
@@ -22,7 +22,7 @@ A more enlightened group at the time suggested that one reason for dental decay 
 
 bq. The TEETH should be cleaned after every meal with a 'TOOTH PRESERVER', (i.e a very soft brush) and then rinsed with tepid water - never neglect this at night; nothing destroys the Teeth so fast as suffering food to stick between them - those who observe this rule will seldom have any occasion for Dentifrices - Essences of Ivory - Indurating Liquid Enamels, etc. But it is the rage just now with some Dentists, to recommend Brushes so hard, that they fetch Blood like a Lancet wherever they touch; - instead of 'Teeth Preservers' these should rather be termed 'Gum Bleeders.'
 
-<a href="//stmargarets.london/assets/images/2010/teeth_marshmallow.jpg" title="See larger version of - Marshmallow plant"><img src="//stmargarets.london/assets/images/2010/teeth_marshmallow_thumb.jpg" width="150" height="189" alt="Marshmallow plant" class="photo right" /></a>
+<a href="/assets/images/2010/teeth_marshmallow.jpg" title="See larger version of - Marshmallow plant"><img src="/assets/images/2010/teeth_marshmallow_thumb.jpg" width="150" height="189" alt="Marshmallow plant" class="photo right" /></a>
 
 The 'Family Oracle of Health' was against all this. In 1824 it scornfully dismissed brushing as a waste of time. "Many savage tribes", it argued, "have perfect teeth but do not know any form of brush!" It suggested that any souls determined to brush their teeth should use the old-fashioned 'Lady Morgan's Toothbrush', made by pounding the root of the marsh-mallow plant (Althaea officinalis) until it became a bunch of soft fibres. It failed to mention that the marsh mallow also has  "_a powerful laxative effect for the easing of colonic blockages and the increase of urinary flow_" - which is probably not what you want to be thinking about as you brush your teeth.
 
@@ -34,7 +34,7 @@ bq. 'Thousands of sickly parents are begetting sickly children with sickly teeth
 
 By the end of the 19<sup>th</sup> century the state of the nation's teeth was appalling. Over 40% of the recruits presenting themselves in 1899 for military service in the South African War had to be rejected because of bad teeth. Simply put they were not able to chew the army food.
 
-<a href="//stmargarets.london/assets/images/2010/teeth_false-teeth.jpg" title="See larger version of - false teeth"><img src="//stmargarets.london/assets/images/2010/teeth_false-teeth_thumb.jpg" width="150" height="61" alt="false teeth" class=" right" /></a>
+<a href="/assets/images/2010/teeth_false-teeth.jpg" title="See larger version of - false teeth"><img src="/assets/images/2010/teeth_false-teeth_thumb.jpg" width="150" height="61" alt="false teeth" class=" right" /></a>
 
 
 One group did benefit from this 'gap' in the market - the manufacturers of false teeth, or "Patent Masticators" as they were called. One company, Messrs Palmer and Cutler of St. James Street in London guaranteed customers that with their false teeth they would be able to 'Masticate, Denticate, Chump, Grind and Swallow with the Best.'

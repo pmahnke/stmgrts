@@ -8,7 +8,7 @@ date: 2005-10-24 18:27:51
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/tescobayOct.jpg"><img src="//stmargarets.london/assets/images/2005/tescobayOct-thumb.jpg" width="150" height="112" alt="Tesco in Bus Stop and Traffic Nightmare" class="right ignore photo" /></a>
+<a href="/assets/images/2005/tescobayOct.jpg"><img src="/assets/images/2005/tescobayOct-thumb.jpg" width="150" height="112" alt="Tesco in Bus Stop and Traffic Nightmare" class="right ignore photo" /></a>
 
 Last month the "Richmond Council granted Tesco's request":/archives/2005/09/tesco_granted_m.html for a larger loading bay on St Margarets Road.  Over the past few days details have emerged regarding the specifics of the implementation of the new loading bay.  The actual implementation appears to be far more lenient towards Tesco than previously suggested in the "Council's Cabinet Report":http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=9206.
 

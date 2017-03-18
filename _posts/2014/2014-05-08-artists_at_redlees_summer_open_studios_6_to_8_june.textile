@@ -8,7 +8,7 @@ date: 2014-05-08 22:18:57
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="//stmargarets.london/assets/images/2014/Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
+<a href="/assets/images/2014/Redlees_Open-Gallery-2-1000.jpg" title="See larger version of - Redlees Open Gallery"><img src="/assets/images/2014/Redlees_Open-Gallery-2-1000_thumb.jpg" width="150" height="112" alt="Redlees Open Gallery" class="photo right" /></a>
 
 _Join us in a celebration of original art and the hand-crafted ceramics, glass, fine art, sculpture, jewellery, metalwork, photography, fashion and more_
 

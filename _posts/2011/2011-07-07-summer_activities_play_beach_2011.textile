@@ -8,7 +8,7 @@ date: 2011-07-07 09:31:26
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/2172-play-beach-poster-2.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/2172-play-beach-poster-2_thumb.jpg" width="150" height="210" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2011/2172-play-beach-poster-2.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/2172-play-beach-poster-2_thumb.jpg" width="150" height="210" alt="Poster" class="photo right" /></a>
 
 From 27th July to 7th August 2011 at Champions Wharf on Twickenham Riverside (near St Mary's Church)
 

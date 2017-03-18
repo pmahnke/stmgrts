@@ -6,7 +6,7 @@ commentfile: 2013-09-26-local_job_vacancy_viewing_assistants_wanted_dexter
 category: around_town
 date: 2013-09-26 20:32:05
 excerpt: |
-    <img src="//stmargarets.london/assets/images/directory/201009030914_Dexters_mystm.png" class="right" alt="Dexters logo" />
+    <img src="/assets/images/directory/201009030914_Dexters_mystm.png" class="right" alt="Dexters logo" />
     
     We are currently looking for energetic and motivated people to join our company.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<img src="//stmargarets.london/assets/images/directory/201009030914_Dexters_mystm.png" class="right" alt="Dexters logo" />
+<img src="/assets/images/directory/201009030914_Dexters_mystm.png" class="right" alt="Dexters logo" />
 
 We are currently looking for energetic and motivated people to join our company.
 

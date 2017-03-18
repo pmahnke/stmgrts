@@ -6,7 +6,7 @@ commentfile: 2011-05-19-the_turning_of_the_tide_richmond_lock
 category: around_town
 date: 2011-05-19 16:12:21
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/LOCK_footbridge.jpg" title="See larger version of - Richmond Lock footbridge"><img src="//stmargarets.london/assets/images/2011/LOCK_footbridge_thumb.jpg" width="150" height="112" alt="Richmond Lock footbridge" class="photo right" /></a>
+    <a href="/assets/images/2011/LOCK_footbridge.jpg" title="See larger version of - Richmond Lock footbridge"><img src="/assets/images/2011/LOCK_footbridge_thumb.jpg" width="150" height="112" alt="Richmond Lock footbridge" class="photo right" /></a>
     
     When Richmond Lock and Weir and its footbridge were opened in 1894 by the Duke and Duchess of York there were cheers and celebrations in St Margarets. Now they had a short cut to Richmond on their doorstep. (_Twickenham Bridge would not be built for another 39 years._)
     
@@ -17,7 +17,7 @@ excerpt: |
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2011/LOCK_footbridge.jpg" title="See larger version of - Richmond Lock footbridge"><img src="//stmargarets.london/assets/images/2011/LOCK_footbridge_thumb.jpg" width="150" height="112" alt="Richmond Lock footbridge" class="photo right" /></a>
+<a href="/assets/images/2011/LOCK_footbridge.jpg" title="See larger version of - Richmond Lock footbridge"><img src="/assets/images/2011/LOCK_footbridge_thumb.jpg" width="150" height="112" alt="Richmond Lock footbridge" class="photo right" /></a>
 
 When Richmond Lock and Weir and its footbridge were opened in 1894 by the Duke and Duchess of York there were cheers and celebrations in St Margarets. Now they had a short cut to Richmond on their doorstep. <em>(Twickenham Bridge would not be built for another 39 years.)</em>
 
@@ -27,7 +27,7 @@ There were celebrations in Isleworth as well. They were cheering because they di
 
 When the old London Bridge was demolished in 1832, with its 19 cramped piers and protective palisades, it resulted in the tides on the Thames rising and falling far more rapidly than they had done before. With the bridge no longer holding the river back water levels at Teddington dropped by 30 inches. The river flowing through Twickenham and Richmond became a stream running between mud banks. For much of the time the upper river was unnavigable by anything but the smallest craft.
 
-<a href="//stmargarets.london/assets/images/2011/LOCK_old_isleworth.jpg" title="See larger version of - Old Isleworth"><img src="//stmargarets.london/assets/images/2011/LOCK_old_isleworth_thumb.jpg" width="150" height="100" alt="Old Isleworth" class="photo right" /></a>
+<a href="/assets/images/2011/LOCK_old_isleworth.jpg" title="See larger version of - Old Isleworth"><img src="/assets/images/2011/LOCK_old_isleworth_thumb.jpg" width="150" height="100" alt="Old Isleworth" class="photo right" /></a>
 
 To restore the river to its former state the Thames Conservators petitioned Parliament for permission to construct a barrage, a tidal lock and weir, across the river at Isleworth. The good people of Isleworth were not impressed by this idea at all.  Although they recognised that it would help navigation through Richmond and Twickenham they also could see that a tidal lock and weir across the river at Isleworth wouldn't be of any use to them whatsoever. Their objections were simple and direct...
 
@@ -41,7 +41,7 @@ bq. "Why should the inhabitants of Isleworth be victimised for the sake of the b
 
 In 1890, after common sense and intelligent engineering had come up with a satisfactory solution to the problem, permission was granted to build a half tide lock and weir across the river at St. Margarets, half a mile upstream of Isleworth and clear of its Mill, barge quays and boat yards. Honour was satisfied.
 
-<a href="//stmargarets.london/assets/images/2011/LOCK_Richmond-Lock.jpg" title="See larger version of - Richmond Lock"><img src="//stmargarets.london/assets/images/2011/LOCK_Richmond-Lock_thumb.jpg" width="150" height="112" alt="Richmond Lock" class="photo right" /></a>
+<a href="/assets/images/2011/LOCK_Richmond-Lock.jpg" title="See larger version of - Richmond Lock"><img src="/assets/images/2011/LOCK_Richmond-Lock_thumb.jpg" width="150" height="112" alt="Richmond Lock" class="photo right" /></a>
 
 The working principal of the Richmond Half Tide Lock is relatively simple. As the tide comes in from the sea the water is allowed to flow past the lock up to Teddington. With the sluice gates (weirs) raised there is no impediment to river craft. At a certain point after the tide has turned and begins flowing back to the sea again the weirs are lowered. This holds the water between the lock and Teddington at the level of a half tide, a minimum depth of 1.72 metres. This allows boats to navigate safely up river to Teddington. Any large boat wishing to pass down river below the lock can use the large conventional barge lock. Owners of smaller boats can pull their boats over the weir on a series of rollers.
 
@@ -59,7 +59,7 @@ The water level above Richmond lock is maintained at, at least 1.72 m above ODN 
 
 </div>
 
-<a href="//stmargarets.london/assets/images/2011/TOLL_Booth.jpg" title="See larger version of - Richmond Lock toll booth"><img src="//stmargarets.london/assets/images/2011/TOLL_Booth_thumb.jpg" width="150" height="89" alt="Richmond Lock toll booth" class="photo right" /></a>
+<a href="/assets/images/2011/TOLL_Booth.jpg" title="See larger version of - Richmond Lock toll booth"><img src="/assets/images/2011/TOLL_Booth_thumb.jpg" width="150" height="89" alt="Richmond Lock toll booth" class="photo right" /></a>
 
 
 Originally there was a penny toll to use the footbridge. The toll booth with its "_Silent Reversible Patented 1887_" turnstile is still in position on the Surrey side of the footbridge.

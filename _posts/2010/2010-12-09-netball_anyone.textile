@@ -8,7 +8,7 @@ date: 2010-12-09 18:49:55
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/swanslogo.jpg.w300h225.jpg"><img src="//stmargarets.london/assets/images/2010/swanslogo.jpg.w300h225-thumb.jpg" width="150" height="112" alt="Swan's logo" class="photo right" /></a>
+<a href="/assets/images/2010/swanslogo.jpg.w300h225.jpg"><img src="/assets/images/2010/swanslogo.jpg.w300h225-thumb.jpg" width="150" height="112" alt="Swan's logo" class="photo right" /></a>
 
 
 Teddington Swans Netball Club is looking to recruit new players to join the club.

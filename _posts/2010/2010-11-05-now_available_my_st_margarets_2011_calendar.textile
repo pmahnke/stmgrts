@@ -8,7 +8,7 @@ date: 2010-11-05 21:38:28
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/ST_M_CALENDAR_2011.jpg" title="See larger version of - Calendar Cover"><img src="//stmargarets.london/assets/images/2010/ST_M_CALENDAR_2011_thumb.jpg" width="150" height="219" alt="Calendar Cover" class="photo right" /></a>
+<a href="/assets/images/2010/ST_M_CALENDAR_2011.jpg" title="See larger version of - Calendar Cover"><img src="/assets/images/2010/ST_M_CALENDAR_2011_thumb.jpg" width="150" height="219" alt="Calendar Cover" class="photo right" /></a>
 
 
 The limited edition _My St Margarets and Around the Borough_ calendar is out now. Copies are available from "Mrs Moon": and "Gift": in Crown Road and "Denham & Finney": in St Margarets Road.

@@ -6,7 +6,7 @@ commentfile: 2013-01-20-winter_travel_alert_sw_trains_plans_for_21_january
 category: news
 date: 2013-01-20 13:15:04
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="//stmargarets.london/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
+    <a href="/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
     
     
     _Changes to train times Monday 21st January 2013._
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="//stmargarets.london/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
+<a href="/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
 
 
 _Changes to train times Monday 21st January 2013._

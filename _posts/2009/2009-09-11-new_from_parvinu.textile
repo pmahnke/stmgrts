@@ -10,7 +10,7 @@ date: 2009-09-11 08:40:25
 
 Here are a few things from Parvinu:
 
-<a href="//stmargarets.london/assets/images/2009/parvinu_sunday.png"><img src="//stmargarets.london/assets/images/2009/parvinu_sunday-thumb.png" width="106" height="150" alt="sunday flier" class="photo right" /></a>
+<a href="/assets/images/2009/parvinu_sunday.png"><img src="/assets/images/2009/parvinu_sunday-thumb.png" width="106" height="150" alt="sunday flier" class="photo right" /></a>
 
 
 * Parvinu are holding a "'One Year On' Dinner & Dance":https://stmargarets.london/event/show/200705142215 on Thursday 17<sup>th</sup> September to celebrate the first year and look forward to their second.

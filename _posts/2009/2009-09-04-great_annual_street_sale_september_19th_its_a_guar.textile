@@ -8,7 +8,7 @@ date: 2009-09-04 20:51:45
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/gass_09.png"><img src="//stmargarets.london/assets/images/2009/gass_09-thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
+<a href="/assets/images/2009/gass_09.png"><img src="/assets/images/2009/gass_09-thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
 
 
 There are times when the stuff that we accumulate around ourselves threatens to take over our lives. Bookshelves groan under the weight of unread books and CD racks creak with unplayed records. Cupboards are stuffed with things that we don't even know we had and wardrobes are hung with clothes that went out of fashion when David Bowie abandoned the 3 inch stack heel for lounge suits. What can we do? There are 3 possible solutions:

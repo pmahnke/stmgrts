@@ -6,13 +6,13 @@ commentfile: 2015-02-14-on_the_twickenham_ferry_with_betjeman_pooter_and_m
 category: around_town
 date: 2015-02-14 09:55:53
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="150" height="187" alt="Betjeman at the BBC" class="photo right" /></a>
+    <a href="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="150" height="187" alt="Betjeman at the BBC" class="photo right" /></a>
 
     In a radio programme broadcast on Christmas Eve 1950, the poet John Betjeman invited listeners to join him at a Victorian musical evening...
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="250" height="312" alt="Betjeman at the BBC" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="250" height="312" alt="Betjeman at the BBC" class="photo right" /></a>
 
 In a radio programme broadcast on Christmas Eve 1950, the poet John Betjeman invited listeners to join him at a Victorian musical evening...
 
@@ -20,7 +20,7 @@ In a radio programme broadcast on Christmas Eve 1950, the poet John Betjeman inv
 bq. "A large coal fire is leaping in the grate; fans and watercolours are hung upon the walls... In another room is a piano and beside it a silk screen, Louis Seize style. The folding doors of the sitting room have been thrown open into the dining room to make the place bigger. We are warm, well fed and ready to be entertained. It is a suburban evening in the 1890s and some friends have come in with their music."
 
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Victorian_Musical_Evening.jpg" title="See larger version of - Victorian Musical Evening"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Victorian_Musical_Evening_thumb.jpg" width="250" height="164" alt="Victorian Musical Evening" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Victorian_Musical_Evening.jpg" title="See larger version of - Victorian Musical Evening"><img src="/assets/images/2015/TWICKFERRY_Victorian_Musical_Evening_thumb.jpg" width="250" height="164" alt="Victorian Musical Evening" class="photo right" /></a>
 
 And amongst the friends at this imaginary gathering is Charles Pooter, from George and Weedon Grossmith's comic novel <em>"The Diary of a Nobody"</em> ...and it is Mr Pooter who is invited to open the evening...
 
@@ -29,7 +29,7 @@ bq. "We shall have <em>'Twickenham Ferry'</em> - Mr Pooter, will you sing that? 
 
 And so, being something of a Victorian party animal and <em>"Twickenham Ferry"</em> such a recent hit, Mr Pooter duly obliged...
 
-  |<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="https://stmargarets.london/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing."><img src="https://stmargarets.london/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing_thumb." width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
+  |<a href="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing."><img src="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing_thumb." width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
 
 <pre class="poem">
 
@@ -61,17 +61,17 @@ And, with Love like a rose in the stern of the wherry,
 There's danger in crossing to Twickenham Town.
 </pre>
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Marzials.png" title="See larger version of - Marzials"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Marzials_thumb.png" width="250" height="397" alt="Marzials" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Marzials.png" title="See larger version of - Marzials"><img src="/assets/images/2015/TWICKFERRY_Marzials_thumb.png" width="250" height="397" alt="Marzials" class="photo right" /></a>
 
 Oh, the danger of crossing to Twickenham Town!  What else might that <em>'little pink flower'</em> lose on the Twickenham Ferry - apart from her heart?  As John Betjeman acknowledged, this roguishness was down to the song's eccentric composer and lyricist Th&#233;o Marzials, (1850-1920). In his Christmas Eve broadcast Betjeman described him as <em>"a picturesque figure, with flowing moustaches, long hair and a silk tie that fell in folds over the lapels of his coat."</em> So offbeat was Marzials that one day in the silence of the Reading Room at the British Museum, while Karl Marx was quietly working below on his masterwork <em>"Das Kapital"</em>, Marzials leant over the gallery and shouted, <em>"Am I or am I not the darling of the Reading Room!?"</em>
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Colyton.jpg" title="See larger version of - Colyton"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Colyton_thumb.jpg" width="250" height="154" alt="Colyton" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Colyton.jpg" title="See larger version of - Colyton"><img src="/assets/images/2015/TWICKFERRY_Colyton_thumb.jpg" width="250" height="154" alt="Colyton" class="photo right" /></a>
 
 At the end of a bohemian life Marzials retired to Colyton in Devon where he became quite a figure in the local community. He attended all the local concerts and musical soire&#233;s where, to the consternation of all, he would often criticise, sometimes quite rudely, the efforts of the performers, even standing up and showing them how it should be done!
 
 Of the few visitors he had in Colyton, one, a Mr F.G Skinner wrote...
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Twickenham-Ferry-Music.jpg" title="See larger version of - Twickenham Ferry Music"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Twickenham-Ferry-Music_thumb.jpg" width="250" height="322" alt="Twickenham Ferry Music" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Twickenham-Ferry-Music.jpg" title="See larger version of - Twickenham Ferry Music"><img src="/assets/images/2015/TWICKFERRY_Twickenham-Ferry-Music_thumb.jpg" width="250" height="322" alt="Twickenham Ferry Music" class="photo right" /></a>
 
 bq. "Theo had one fair sized room with a single bed, occupying it day and night. By his bedside was a small table on which there always seemed to be a saucer containing sliced beetroot in vinegar so that the room always smelt of this, together with the odour of chlorodyne (a draught containing opium, cannabis and chloroform!) which he took to induce sleep...There was also a huge stockpot on a stove into which he threw all sorts of odds and ends so that he had a kind of perpetual stew. He was sometimes seen and heard walking bare-footed in the garden in the small hours. He would sing in a very soft, low voice and now and then take a flower between his fingers, bend down and kiss it, and murmur, <em>"Oh My Pretty!"</em>
 
@@ -81,7 +81,7 @@ Meanwhile, back with Mr Pooter at John Betjeman's musical evening, thoughts were
 
 bq. "The refreshments are over and only one more song is to be sung. Let it be that most famous of all of Th&#233;o Marzial's songs and lyrics, <em>"The River of Years"</em>..."
 
-<a href="//stmargarets.london/assets/images/2015/TWICKFERRY_Twickenham_Ferry.gif" title="See larger version of - Twickenham ferry"><img src="//stmargarets.london/assets/images/2015/TWICKFERRY_Twickenham_Ferry_thumb.gif" width="250" height="157" alt="Twickenham ferry" class="photo right" /></a>
+<a href="/assets/images/2015/TWICKFERRY_Twickenham_Ferry.gif" title="See larger version of - Twickenham ferry"><img src="/assets/images/2015/TWICKFERRY_Twickenham_Ferry_thumb.gif" width="250" height="157" alt="Twickenham ferry" class="photo right" /></a>
 
 <pre class="poem">
 Stay, steerman, Oh! stay thy bark,

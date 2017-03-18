@@ -8,7 +8,7 @@ date: 2008-05-08 09:21:56
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/st_margs_cpz.gif"><img src="//stmargarets.london/assets/images/2008/st_margs_cpz-thumb.gif" width="150" height="174" alt="Map of the proposed CPZ" class="right" /></a>
+<a href="/assets/images/2008/st_margs_cpz.gif"><img src="/assets/images/2008/st_margs_cpz-thumb.gif" width="150" height="174" alt="Map of the proposed CPZ" class="right" /></a>
 
 
 By now, village residents and businesses should have recieved their "formal questionnaires from the Council":http://richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_consultations/st_margarets_cpz_consultation.htm.

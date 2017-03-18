@@ -8,7 +8,7 @@ date: 2012-05-05 13:38:00
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/St-Margarets-Diamond-part-2.jpg" title="See larger version of - St Margarets Diamond part 2"><img src="//stmargarets.london/assets/images/2012/St-Margarets-Diamond-part-2_thumb.jpg" width="150" height="212" alt="St Margarets Diamond part 2" class="photo right" /></a>
+<a href="/assets/images/2012/St-Margarets-Diamond-part-2.jpg" title="See larger version of - St Margarets Diamond part 2"><img src="/assets/images/2012/St-Margarets-Diamond-part-2_thumb.jpg" width="150" height="212" alt="St Margarets Diamond part 2" class="photo right" /></a>
 
 *It is with great regret we announce that the famous St Margarets Diamond has gone missing!*
 

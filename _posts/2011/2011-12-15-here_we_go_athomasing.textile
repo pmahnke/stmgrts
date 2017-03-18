@@ -13,7 +13,7 @@ excerpt: |
 
 h3. or a Guide to Safe and Sensible Carol Singing.
 
-<a href="//stmargarets.london/assets/images/2011/CAROL_DSC_7109.jpg" title="See larger version of - CAROL DSC 7109"><img src="//stmargarets.london/assets/images/2011/CAROL_DSC_7109_thumb.jpg" width="300" height="170" alt="CAROL DSC 7109" class="photo center" /></a>
+<a href="/assets/images/2011/CAROL_DSC_7109.jpg" title="See larger version of - CAROL DSC 7109"><img src="/assets/images/2011/CAROL_DSC_7109_thumb.jpg" width="300" height="170" alt="CAROL DSC 7109" class="photo center" /></a>
 
 
 And if you haven't started already then you need to get on with it now. According to centuries old tradition carol singing - or 'Thomasing' as it was once known - should kick off on St Thomas's Day, the 21<sup>st</sup> December . On this day people would go out into the streets, singing carols and collecting small gifts of money and, note this, drink!
@@ -26,14 +26,14 @@ Some say that the word 'carol' comes from the Greek _'choros'_  which means 'dan
 
 
 
-<a href="//stmargarets.london/assets/images/2011/CAROL_DSC_7112.jpg" title="See larger version of - CAROL DSC 7112"><img src="//stmargarets.london/assets/images/2011/CAROL_DSC_7112_thumb.jpg" width="300" height="148" alt="CAROL DSC 7112" class="photo center" /></a>
+<a href="/assets/images/2011/CAROL_DSC_7112.jpg" title="See larger version of - CAROL DSC 7112"><img src="/assets/images/2011/CAROL_DSC_7112_thumb.jpg" width="300" height="148" alt="CAROL DSC 7112" class="photo center" /></a>
 
 
 Little of this affected the residents of north St Margarets and the congregation of All Souls Church when they went out carolling last Sunday. Not only had they happily started 10 days too early but to make matters worse they completely ignored the Ten Point "Carol Singing Guide" produced by the Ecclesiastical Insurance Company.
 
 Published in 2009 this was a project to promote carol singing, to make it safe for the singers and to encourage the listeners at home to be generous rather than  turn off all the lights and pretend to be out.  (Hands up all those who haven't actually done this!) Manager John Coates explained...
 
-<a href="//stmargarets.london/assets/images/2011/CAROL_DSC_7133.jpg" title="See larger version of - CAROL DSC 7133"><img src="//stmargarets.london/assets/images/2011/CAROL_DSC_7133_thumb.jpg" width="150" height="255" alt="CAROL DSC 7133" class="photo right" /></a>
+<a href="/assets/images/2011/CAROL_DSC_7133.jpg" title="See larger version of - CAROL DSC 7133"><img src="/assets/images/2011/CAROL_DSC_7133_thumb.jpg" width="150" height="255" alt="CAROL DSC 7133" class="photo right" /></a>
 
 
 bq. "We want to encourage people to go carol singing this year and for householders to give them a warm reception when they knock on people's doors.....There are so many people who have got out of going carol singing that we felt we should start from the ground up. And with health and safety around the corner there was nothing we could leave out."
@@ -44,7 +44,7 @@ The guide consisted of a check list of things for carol singers to do and avoid-
 
 h4. Top Ten Tips for Carol Singers included...
 
-<a href="//stmargarets.london/assets/images/2011/CAROL_Carol-Singing-Poster.jpg" title="See larger version of - CAROL Carol Singing Poster"><img src="//stmargarets.london/assets/images/2011/CAROL_Carol-Singing-Poster_thumb.jpg" width="150" height="187" alt="CAROL Carol Singing Poster" class="photo right" /></a>
+<a href="/assets/images/2011/CAROL_Carol-Singing-Poster.jpg" title="See larger version of - CAROL Carol Singing Poster"><img src="/assets/images/2011/CAROL_Carol-Singing-Poster_thumb.jpg" width="150" height="187" alt="CAROL Carol Singing Poster" class="photo right" /></a>
 
 
 # Sing in a small group rather than alone or in twos; this will be safer.
@@ -62,7 +62,7 @@ h4. Top Ten Tips for Carol Singers included...
 In the introduction to the Guide entitled "How to ensure you're safe and welcome this Christmas" - Michael Tripp, the chief executive of Ecclesiastical Insurance, explained: "This guide gives you some handy hints and tips which will help you hit the streets in full voice with confidence."
 
 
-<a href="//stmargarets.london/assets/images/2011/CAROL_DSC_7125.jpg" title="See larger version of - CAROL DSC 7125"><img src="//stmargarets.london/assets/images/2011/CAROL_DSC_7125_thumb.jpg" width="150" height="225" alt="CAROL DSC 7125" class="photo right" /></a>
+<a href="/assets/images/2011/CAROL_DSC_7125.jpg" title="See larger version of - CAROL DSC 7125"><img src="/assets/images/2011/CAROL_DSC_7125_thumb.jpg" width="150" height="225" alt="CAROL DSC 7125" class="photo right" /></a>
 
 The Guide was produced in response to a survey carried out in 2009 that suggested that 74% of the British public believed carol singers were not as welcome as they have been in the past. The survey revealed that 29% of the public did not want singers knocking on their door and 19% wouldn't open the door to them. Rather sadly  the Carol Singing Guide summed it up as, _"People just aren't as keen to open their doors these days."_
 

@@ -6,7 +6,7 @@ commentfile: 2009-02-20-dyb_dyb_dyb_dob_dob_dob
 category: around_town
 date: 2009-02-20 11:41:00
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/4scouts.jpg"><img src="//stmargarets.london/assets/images/2009/4scouts-thumb.jpg" width="150" height="110" alt="OSSIE STANLEY (2nd from R) WITH BEAVER PATROL – 1954" class="photo right" /></a>
+    <a href="/assets/images/2009/4scouts.jpg"><img src="/assets/images/2009/4scouts-thumb.jpg" width="150" height="110" alt="OSSIE STANLEY (2nd from R) WITH BEAVER PATROL – 1954" class="photo right" /></a>
     
     
     In the summer of 1919 a local man, Mr Laurence, came to the conclusion that the only thing St Margarets needed to turn it into an earthly paradise- all the other necessary attributes being in place - was a Scout Troop, so on November 24th he started one. He cunningly called it the "1<sup>st</sup> St Margarets" and himself, being the leader,  "Skipper". The story has it that the first meetings were held under a gaslight on a street corner. True or not the fledgling troop soon found themselves settled in a room over Shipman's Garage behind St Margarets Hotel.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/1st_stmgrts.jpg"><img src="//stmargarets.london/assets/images/2009/1st_stmgrts-thumb.jpg" width="150" height="84" alt="1st ST MARGARETS SCOUT TROOP 1954 (OSSIE STANLEY IS FRONT ROW – EXTREME RIGHT)" class="photo right" /></a>
+<a href="/assets/images/2009/1st_stmgrts.jpg"><img src="/assets/images/2009/1st_stmgrts-thumb.jpg" width="150" height="84" alt="1st ST MARGARETS SCOUT TROOP 1954 (OSSIE STANLEY IS FRONT ROW – EXTREME RIGHT)" class="photo right" /></a>
 
 
 In the summer of 1919 a local man, Mr Laurence, came to the conclusion that the only thing St Margarets needed to turn it into an earthly paradise- all the other necessary attributes being in place - was a Scout Troop, so on November 24th he started one. He cunningly called it the "1<sup>st</sup> St Margarets" and himself, being the leader,  "Skipper". The story has it that the first meetings were held under a gaslight on a street corner. True or not the fledgling troop soon found themselves settled in a room over Shipman's Garage behind St Margarets Hotel.
@@ -26,7 +26,7 @@ bq. "A great camp - a remarkable demonstration of what is possible in the way of
 The paper even carried an advertisement for "Scoutees" boots - designed for scouting and schoolwear. Like the Scouts themselves they were 'solid, serviceable and all-weather'.
 
 
-<a href="//stmargarets.london/assets/images/2009/wolf_clubs_1953.jpg"><img src="//stmargarets.london/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="WHAT WOLF CUBS LOOKED LIKE IN 1953" class="photo right" /></a>
+<a href="/assets/images/2009/wolf_clubs_1953.jpg"><img src="/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="WHAT WOLF CUBS LOOKED LIKE IN 1953" class="photo right" /></a>
 
 
 
@@ -38,7 +38,7 @@ During the war the Scouts held their meetings in Twickenham Film Studios. By the
 
 After the war the 1<sup>st</sup> St Margarets met up in a number of different locations. In 1957/58 the Senior Scout Section met in the White House in Marble Hill Park. The fact that their leader, Ken Freeman, was the son of Bill Freeman, the head keeper at Marble Hill may have had something to do with that nice arrangement.  Other sections of the group made do with the garden of the Rising Sun pub in East Twickenham, the Orleans Secondary Modern School and more recently in the old Mission Hall at St Stephens School where the group is based today.
 
-<a href="//stmargarets.london/assets/images/2009/4scouts.jpg"><img src="//stmargarets.london/assets/images/2009/4scouts-thumb.jpg" width="150" height="110" alt="OSSIE STANLEY (2nd from R) WITH BEAVER PATROL – 1954" class="photo right" /></a>
+<a href="/assets/images/2009/4scouts.jpg"><img src="/assets/images/2009/4scouts-thumb.jpg" width="150" height="110" alt="OSSIE STANLEY (2nd from R) WITH BEAVER PATROL – 1954" class="photo right" /></a>
 
 
 Lifestyles have changed radically since Baden Powell started the Scout movement in 1907. Most young people are better off, better educated, healthier and with more leisure time than they ever had 100 years ago but for all this the Scout Movement's main purpose - to promote self discipline, respect for others and a love of the outdoors - and have fun doing it - still retains its irresistible appeal. With every passing year the 1<sup>st</sup> St Margarets Group, which now includes girls as well as boys, grows in number and the waiting list to join grows too. The only thing holding them back is the same problem that Baden Powell faced 100 years ago and the same problem that "Skipper" Laurence faced in St Margarets 90 years ago - not a shortage of gaslights or street corners, but a shortage of leaders. It was something the 1920 "Richmond and Twickenham Times", was aware off...

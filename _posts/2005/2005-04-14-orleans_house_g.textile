@@ -8,7 +8,7 @@ date: 2005-04-14 09:12:40
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/orleans_gallery.jpg"><img src="//stmargarets.london/assets/images/2005/orleans_gallery-thumb.jpg" width="100" height="75" alt="Orleans House Gallery" class="right"/></a>
+<a href="/assets/images/2005/orleans_gallery.jpg"><img src="/assets/images/2005/orleans_gallery-thumb.jpg" width="100" height="75" alt="Orleans House Gallery" class="right"/></a>
 
 The "Orleans House Gallery":http://www.richmond.gov.uk/depts/opps/eal/leisure/arts/orleanshouse/default.htm has received nearly £1 million from the Heritage Lottery Fund to create a new education facility in the currently unused coach house and stables.  Construction work has already begun and should be completed by December this year.
 

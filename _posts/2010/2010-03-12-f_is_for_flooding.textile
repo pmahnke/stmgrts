@@ -6,7 +6,7 @@ commentfile: 2010-03-12-f_is_for_flooding
 category: around_town
 date: 2010-03-12 08:44:27
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/RiverCrane1.jpg" title="See larger version of - River Crane"><img src="//stmargarets.london/assets/images/2010/RiverCrane1_thumb.jpg" width="150" height="99" alt="boats on the River Crane" class="photo right" /></a>
+    <a href="/assets/images/2010/RiverCrane1.jpg" title="See larger version of - River Crane"><img src="/assets/images/2010/RiverCrane1_thumb.jpg" width="150" height="99" alt="boats on the River Crane" class="photo right" /></a>
     
     
     Those of us who live along the banks of the tidal River Crane in north St Margarets love our river. We build decking and jetties alongside it, our children paddle in it, we delight in the wildlife that lives along its banks. We keep small boats on it and every year in the summer we gather as a community to clean it out. We enjoy our river, and yet...
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/RiverCrane1.jpg" title="See larger version of - River Crane"><img src="//stmargarets.london/assets/images/2010/RiverCrane1_thumb.jpg" width="150" height="99" alt="boats on the River Crane" class="photo right" /></a>
+<a href="/assets/images/2010/RiverCrane1.jpg" title="See larger version of - River Crane"><img src="/assets/images/2010/RiverCrane1_thumb.jpg" width="150" height="99" alt="boats on the River Crane" class="photo right" /></a>
 
 
 Those of us who live along the banks of the tidal River Crane in north St Margarets love our river. We build decking and jetties alongside it, our children paddle in it, we delight in the wildlife that lives along its banks. We keep small boats on it and every year in the summer we gather as a community to clean it out. We enjoy our river, and yet...
@@ -24,7 +24,7 @@ Those of us who live along the banks of the tidal River Crane in north St Margar
 
 h3. FRIDAY 26TH FEBRUARY 2010
 
-<a href="//stmargarets.london/assets/images/2010/RiverCrane2.jpg" title="See larger version of - Boats on the River Crane"><img src="//stmargarets.london/assets/images/2010/RiverCrane2_thumb.jpg" width="150" height="99" alt="Boats on the River Crane" class="photo right" /></a>
+<a href="/assets/images/2010/RiverCrane2.jpg" title="See larger version of - Boats on the River Crane"><img src="/assets/images/2010/RiverCrane2_thumb.jpg" width="150" height="99" alt="Boats on the River Crane" class="photo right" /></a>
 
 
 On Friday, at the end of the BBC 10.00 o'clock News the London weather forecaster gloomily warns 'exceptionally heavy rain - up to 50mm - and a very high spring tide might cause some local flooding'.  The national weather forecaster who follows says the same. 'The exceptionally heavy rain in the South East combined with high spring tides might result in flooding.' Up and down the tidal Crane and out along the Thames and its many tidal tributaries, people put down their cocoa and look at each other. 'Exceptionally heavy rain AND an unusually high tide? Mmmmm.'
@@ -56,7 +56,7 @@ p. ??A QUOTE FROM A NORTH ST. MARGARETS RESIDENT??
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2010/RiverCrane3.png" title="See larger version of - THE THAMES BARRIER"><img src="//stmargarets.london/assets/images/2010/RiverCrane3_thumb.png" width="150" height="96" alt="THE THAMES BARRIER" class="photo left" /></a>
+<a href="/assets/images/2010/RiverCrane3.png" title="See larger version of - THE THAMES BARRIER"><img src="/assets/images/2010/RiverCrane3_thumb.png" width="150" height="96" alt="THE THAMES BARRIER" class="photo left" /></a>
 
 
 The Thames Barrier is one of the largest movable flood barriers in the world. It protects 125 square kilometres of central London from tidal surges. That's 1.25 million people, historic buildings, offices, power supplies, tube lines, hospitals and more. The Environment Agency runs and maintains the Thames Barrier as well as the capital's other flood defences. These defences include floodgates like the Barking Barrier and raised riverbanks.

@@ -6,7 +6,7 @@ commentfile: 2016-01-21-spring-art-classes-orleans-house
 category: around_town
 date: 2016-01-21 21:15:36
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-see-saw.jpg" title="See larger version of - orleans feb 2016 see saw"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg" width="150" height="212" alt="orleans feb 2016 see saw" class="photo right" /></a>
+    <a href="/assets/images/2016/orleans-feb-2016-see-saw.jpg" title="See larger version of - orleans feb 2016 see saw"><img src="/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg" width="150" height="212" alt="orleans feb 2016 see saw" class="photo right" /></a>
 
     Why not join in the fun at Orleans House Gallery and try an art class for you and your children!
 
@@ -16,7 +16,7 @@ excerpt: |
 
 h4. Dad Day
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-dads-day.jpeg" title="See larger version of - orleans feb 2016 dads day"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-dads-day_thumb.jpeg" width="250" height="354" alt="orleans feb 2016 dads day" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-dads-day.jpeg" title="See larger version of - orleans feb 2016 dads day"><img src="/assets/images/2016/orleans-feb-2016-dads-day_thumb.jpeg" width="250" height="354" alt="orleans feb 2016 dads day" class="photo right" /></a>
 
 We'll be 'Exploring Drawing' by constructing drawing tools using drilling and glue guns.
 
@@ -28,7 +28,7 @@ Join us every second Saturday of the month 10am to 12noon at Richmond Town Hall
 
 h4. See Saw
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-see-saw.jpg" title="See larger version of - orleans feb 2016 see saw"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg" width="250" height="353" alt="orleans feb 2016 see saw" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-see-saw.jpg" title="See larger version of - orleans feb 2016 see saw"><img src="/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg" width="250" height="353" alt="orleans feb 2016 see saw" class="photo right" /></a>
 
 See Saw sessions take place every Friday (term time and school holidays) from 10.30am to 12.30pm at Orleans House Gallery
 
@@ -40,7 +40,7 @@ See Saw allows children to learn, play and explore in our multi-sensory sessions
 
 h4. After School Art Clubs!
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-afterschool.jpg" title="See larger version of - orleans feb 2016 afterschool"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-afterschool_thumb.jpg" width="250" height="353" alt="orleans feb 2016 afterschool" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-afterschool.jpg" title="See larger version of - orleans feb 2016 afterschool"><img src="/assets/images/2016/orleans-feb-2016-afterschool_thumb.jpg" width="250" height="353" alt="orleans feb 2016 afterschool" class="photo right" /></a>
 
 Spaces are now open to book on to spring term art clubs at Orleans House Gallery!
 
@@ -52,7 +52,7 @@ Exciting weekly workshops offer budding young artists the opportunity to explore
 
 h4. Family Explorers
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-family-explorers.jpg" title="See larger version of - orleans feb 2016 family explorers"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-family-explorers_thumb.jpg" width="250" height="353" alt="orleans feb 2016 family explorers" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-family-explorers.jpg" title="See larger version of - orleans feb 2016 family explorers"><img src="/assets/images/2016/orleans-feb-2016-family-explorers_thumb.jpg" width="250" height="353" alt="orleans feb 2016 family explorers" class="photo right" /></a>
 
 Starting on Thursday 28th Jan 2016 for 'In the Garden' Thursdays 10am to 12 noon "@ OSO":http://www.twitter.com/ OSO Arts Centre, Barnes
 
@@ -64,7 +64,7 @@ Learn, play, and explore together in these exciting sessions which encourage cre
 
 h4. Sunday Afternoon Art
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-sat-art.jpg" title="See larger version of - orleans feb 2016 Sunday art"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-sat-art_thumb.jpg" width="250" height="348" alt="orleans feb 2016 Sunday art" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-sat-art.jpg" title="See larger version of - orleans feb 2016 Sunday art"><img src="/assets/images/2016/orleans-feb-2016-sat-art_thumb.jpg" width="250" height="348" alt="orleans feb 2016 Sunday art" class="photo right" /></a>
 
 Our next Sunday Afternoon Art is on Sunday 7th Feb 2016. Drop in for 'Outsider Art' Sessions take place on the first Sunday of each month from 2pm to 3.30pm "@ Orleans":http://www.twitter.com/ Orleans House Gallery
 
@@ -75,7 +75,7 @@ Creative art sessions for all the family on Sunday afternoons. The sessions enco
 
 h4. Children's Art Parties at Orleans House Gallery
 
-<a href="https://stmargarets.london/assets/images/2016/orleans-feb-2016-art-parties.jpg" title="See larger version of - orleans feb 2016 art parties"><img src="https://stmargarets.london/assets/images/2016/orleans-feb-2016-art-parties_thumb.jpg" width="250" height="353" alt="orleans feb 2016 art parties" class="photo right" /></a>
+<a href="/assets/images/2016/orleans-feb-2016-art-parties.jpg" title="See larger version of - orleans feb 2016 art parties"><img src="/assets/images/2016/orleans-feb-2016-art-parties_thumb.jpg" width="250" height="353" alt="orleans feb 2016 art parties" class="photo right" /></a>
 
 Enjoy your child's special celebration in a unique location surrounded by creativity!
 

@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img src="//stmargarets.london/assets/images/2006/humptyD-thumb.jpg" width="118" height="166" alt="Humpty D" class="right" />
+<img src="/assets/images/2006/humptyD-thumb.jpg" width="118" height="166" alt="Humpty D" class="right" />
 
 *THE EGG MAN COMETH*
 

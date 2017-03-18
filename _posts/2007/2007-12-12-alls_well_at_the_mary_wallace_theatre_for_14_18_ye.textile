@@ -8,7 +8,7 @@ date: 2007-12-12 13:16:37
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/AllsWellJump.jpg"><img src="//stmargarets.london/assets/images/2007/AllsWellJump-thumb.jpg" width="99" height="150" alt="All's Well Jump!" class="photo right" /></a>
+<a href="/assets/images/2007/AllsWellJump.jpg"><img src="/assets/images/2007/AllsWellJump-thumb.jpg" width="99" height="150" alt="All's Well Jump!" class="photo right" /></a>
 
 
 In 1991 the Richmond Shakespeare Society opened its doors to a younger generation and started its first Youth Theatre group. 16 years later one of the original members is back to return the favour! Karin Abbott followed in the footsteps of her father, Francis, by treading the boards at the Mary Wallace Theatre from an early age. Having watched her step-mother Katie and younger brother George continue on the tradition of the RSS Youth Theatre she felt it was time to give something back.

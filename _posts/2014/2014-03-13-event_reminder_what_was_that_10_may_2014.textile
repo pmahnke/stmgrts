@@ -8,7 +8,7 @@ date: 2014-03-13 22:17:46
 excerpt: |
     _Communication in the Natural World with Sir David Attenborough_
     
-    <a href="//stmargarets.london/assets/images/2014/ET-SirDavidPoster-Mrch2014v2.jpg" title="See larger version of - ET SirDavidPoster Mrch2014v2"><img src="//stmargarets.london/assets/images/2014/ET-SirDavidPoster-Mrch2014v2_thumb.jpg" width="150" height="208" alt="ET SirDavidPoster Mrch2014v2" class="photo right" /></a>
+    <a href="/assets/images/2014/ET-SirDavidPoster-Mrch2014v2.jpg" title="See larger version of - ET SirDavidPoster Mrch2014v2"><img src="/assets/images/2014/ET-SirDavidPoster-Mrch2014v2_thumb.jpg" width="150" height="208" alt="ET SirDavidPoster Mrch2014v2" class="photo right" /></a>
     
     Sir David Attenborough will be 'speaking' to Patagonian woodpeckers and revealing the treacherous communication of fireflies. All around us animals sing, croak, buzz, flash colours, leave scents and even dance - sending messages to each other in a dazzling variety of ways. What they are saying and is it always the truth?
     
@@ -17,7 +17,7 @@ excerpt: |
 
 _Communication in the Natural World with Sir David Attenborough_
 
-<a href="//stmargarets.london/assets/images/2014/ET-SirDavidPoster-Mrch2014v2.jpg" title="See larger version of - ET SirDavidPoster Mrch2014v2"><img src="//stmargarets.london/assets/images/2014/ET-SirDavidPoster-Mrch2014v2_thumb.jpg" width="150" height="208" alt="ET SirDavidPoster Mrch2014v2" class="photo right" /></a>
+<a href="/assets/images/2014/ET-SirDavidPoster-Mrch2014v2.jpg" title="See larger version of - ET SirDavidPoster Mrch2014v2"><img src="/assets/images/2014/ET-SirDavidPoster-Mrch2014v2_thumb.jpg" width="150" height="208" alt="ET SirDavidPoster Mrch2014v2" class="photo right" /></a>
 
 Sir David Attenborough will be 'speaking' to Patagonian woodpeckers and revealing the treacherous communication of fireflies. All around us animals sing, croak, buzz, flash colours, leave scents and even dance - sending messages to each other in a dazzling variety of ways. What they are saying and is it always the truth?
 

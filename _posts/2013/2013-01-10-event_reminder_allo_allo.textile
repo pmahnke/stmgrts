@@ -6,7 +6,7 @@ commentfile: 2013-01-10-event_reminder_allo_allo
 category: around_town
 date: 2013-01-10 21:22:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="//stmargarets.london/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
+    <a href="/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
     
     bq. "Listen very carefully, I shall say zis only once..."
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="//stmargarets.london/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
+<a href="/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
 
 bq. "Listen very carefully, I shall say zis only once..."
 

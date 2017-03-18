@@ -8,7 +8,7 @@ date: 2011-02-10 22:03:26
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/sandycombe_smth.jpg" title="See larger version of - Turners home"><img src="//stmargarets.london/assets/images/2011/sandycombe_smth_thumb.jpg" width="150" height="125" alt="Turners home" class="photo right" /></a>
+<a href="/assets/images/2011/sandycombe_smth.jpg" title="See larger version of - Turners home"><img src="/assets/images/2011/sandycombe_smth_thumb.jpg" width="150" height="125" alt="Turners home" class="photo right" /></a>
 
 Come to an Environment Trust Art Picnic at the house of J M W Turner on "Sunday 20th February 2011 from 11am to 4pm.":https://stmargarets.london/event/event/200705142703
 

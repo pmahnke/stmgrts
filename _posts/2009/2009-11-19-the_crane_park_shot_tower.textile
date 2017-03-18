@@ -6,7 +6,7 @@ commentfile: 2009-11-19-the_crane_park_shot_tower
 category: around_town
 date: 2009-11-19 17:39:41
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/shot_tower_2.png" title="See larger version of - cartoon"><img src="//stmargarets.london/assets/images/2009/shot_tower_2_thumb.png" width="150" height="116" alt="cartoon" class=" right" /></a>
+    <a href="/assets/images/2009/shot_tower_2.png" title="See larger version of - cartoon"><img src="/assets/images/2009/shot_tower_2_thumb.png" width="150" height="116" alt="cartoon" class=" right" /></a>
     
     _How to make Musket Balls for your army_
     
@@ -24,7 +24,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/shot_tower_2.png" title="See larger version of - cartoon"><img src="//stmargarets.london/assets/images/2009/shot_tower_2_thumb.png" width="150" height="116" alt="cartoon" class=" right" /></a>
+<a href="/assets/images/2009/shot_tower_2.png" title="See larger version of - cartoon"><img src="/assets/images/2009/shot_tower_2_thumb.png" width="150" height="116" alt="cartoon" class=" right" /></a>
 
 _How to make Musket Balls for your army_
 
@@ -45,7 +45,7 @@ Encouraged by his success Watts experimented further, adding a three-story tower
 
 
 
-<a href="//stmargarets.london/assets/images/2009/shot_tower.png" title="See larger version of - Crane Shot Tower"><img src="//stmargarets.london/assets/images/2009/shot_tower_thumb.png" width="99" height="150" alt="CRANE PARK SHOT TOWER" class="photo right" /></a>
+<a href="/assets/images/2009/shot_tower.png" title="See larger version of - Crane Shot Tower"><img src="/assets/images/2009/shot_tower_thumb.png" width="99" height="150" alt="CRANE PARK SHOT TOWER" class="photo right" /></a>
 
 h3. How It Works
 
@@ -60,7 +60,7 @@ There was a famous Shot Tower on the South Bank in London. It was constructed in
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2009/hank_bunker.png" title="See larger version of - HANK BUNKER - THE MAN WHO FELL FROM A SHOT TOWER"><img src="//stmargarets.london/assets/images/2009/hank_bunker_thumb.png" width="105" height="150" alt="HANK BUNKER - THE MAN WHO FELL FROM A SHOT TOWER" class="photo right" /></a>
+<a href="/assets/images/2009/hank_bunker.png" title="See larger version of - HANK BUNKER - THE MAN WHO FELL FROM A SHOT TOWER"><img src="/assets/images/2009/hank_bunker_thumb.png" width="105" height="150" alt="HANK BUNKER - THE MAN WHO FELL FROM A SHOT TOWER" class="photo right" /></a>
 
 
 h3. THE SHOT TOWER IN LITERATURE

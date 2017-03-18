@@ -8,7 +8,7 @@ date: 2008-05-08 10:01:20
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/st_margs_cpz.gif"><img src="//stmargarets.london/assets/images/2008/st_margs_cpz-thumb.gif" width="150" height="174" alt="Map of the proposed CPZ" class="right" /></a>
+<a href="/assets/images/2008/st_margs_cpz.gif"><img src="/assets/images/2008/st_margs_cpz-thumb.gif" width="150" height="174" alt="Map of the proposed CPZ" class="right" /></a>
 
 
 This week, all residents and businesses in proposed CPZ Zone S extension area for St Margarets should have received their questionnaires from Richmond Council. The closing date for the return of questionnaires and any representations is Friday the 23<sup>rd</sup> May 2008.

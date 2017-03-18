@@ -6,7 +6,7 @@ commentfile: 2011-05-26-kidsdance_dance_cource_at_rambert_2529_july_2011
 category: around_town
 date: 2011-05-26 22:03:45
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/Kidsdance-Stormalong-flyer.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+    <a href="/assets/images/2011/Kidsdance-Stormalong-flyer.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
     
     _Kidsdance Multi Arts Summer Course at the Rambert School in St Margarets_
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/Kidsdance-Stormalong-flyer.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2011/Kidsdance-Stormalong-flyer.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 _Kidsdance Multi Arts Summer Course at the Rambert School in St Margarets_
 

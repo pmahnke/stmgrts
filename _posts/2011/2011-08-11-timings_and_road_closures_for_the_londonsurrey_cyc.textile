@@ -6,13 +6,13 @@ commentfile: 2011-08-11-timings_and_road_closures_for_the_londonsurrey_cyc
 category: news
 date: 2011-08-11 15:02:32
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="//stmargarets.london/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
+    <a href="/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
     
     The London-Surrey Cycle Classic is a dress rehearsal for the London 2012 Cycling Road Race, and is one of the most important pre-Olympic test events taking place. The race will take place along a 140km route from central London to Surrey and back. Starting and finishing at the Mall in central London, world-class cyclists will race through the boroughs of Westminster, Kensington and Chelsea, Hammersmith and Fulham, Wandsworth, Richmond and Kingston.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="//stmargarets.london/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
+<a href="/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
 
 The London-Surrey Cycle Classic is a dress rehearsal for the London 2012 Cycling Road Race, and is one of the most important pre-Olympic test events taking place. The race will take place along a 140km route from central London to Surrey and back. Starting and finishing at the Mall in central London, world-class cyclists will race through the boroughs of Westminster, Kensington and Chelsea, Hammersmith and Fulham, Wandsworth, Richmond and Kingston.
 

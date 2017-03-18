@@ -8,7 +8,7 @@ date: 2012-04-01 10:40:04
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/nickpraterflyer.jpg" title="See larger version of - nick prater"><img src="//stmargarets.london/assets/images/2012/nickpraterflyer_thumb.jpg" width="150" height="113" alt="nick prater" class="photo right" /></a>
+<a href="/assets/images/2012/nickpraterflyer.jpg" title="See larger version of - nick prater"><img src="/assets/images/2012/nickpraterflyer_thumb.jpg" width="150" height="113" alt="nick prater" class="photo right" /></a>
 
 _Let Your Heart Sing!_
 

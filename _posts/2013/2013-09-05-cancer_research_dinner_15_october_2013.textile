@@ -6,7 +6,7 @@ commentfile: 2013-09-05-cancer_research_dinner_15_october_2013
 category: around_town
 date: 2013-09-05 22:19:27
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="//stmargarets.london/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
+    <a href="/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
     
     
     _Dine with us and support Cancer Research UK MyProjects William's Group is Supporting Research into Childhood Cancers_
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="//stmargarets.london/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
+<a href="/assets/images/2013/cancer-research-logo.jpg" title="See larger version of - cancer research logo"><img src="/assets/images/2013/cancer-research-logo_thumb.jpg" width="150" height="58" alt="cancer research logo" class="right" /></a>
 
 
 _Dine with us and support Cancer Research UK MyProjects William's Group is Supporting Research into Childhood Cancers_

@@ -6,7 +6,7 @@ commentfile: 2009-07-12-take_the_st_margarets_alliance_survey
 category: news
 date: 2009-07-12 13:15:13
 excerpt: |
-    <a href="https://stmargarets.london/sma_survey/"><img src="//stmargarets.london/assets/images/2009/logo1.jpg" alt="St Margarets Alliance" width="169" height="188" class="right" /></a>
+    <a href="https://stmargarets.london/sma_survey/"><img src="/assets/images/2009/logo1.jpg" alt="St Margarets Alliance" width="169" height="188" class="right" /></a>
     
     The St Margarets Alliance is "asking all residents to complete a survey":https://stmargarets.london/sma_survey as the first stage towards creating a Community Action Plan.  The Survey asks residents to consider which aspects of their local environment, economy, or social well-being are most important to them and to prioritise the most important and urgent.
     
@@ -34,7 +34,7 @@ The St Margarets Alliance have extended the deadline for completion of their Com
 
 <div class="box">
 
-<a href="https://stmargarets.london/sma_survey/"><img src="//stmargarets.london/assets/images/2009/logo1.jpg" alt="St Margarets Alliance" width="169" height="188" class="right" /></a>
+<a href="https://stmargarets.london/sma_survey/"><img src="/assets/images/2009/logo1.jpg" alt="St Margarets Alliance" width="169" height="188" class="right" /></a>
 
 The St Margarets Alliance is "asking all residents to complete a survey":https://stmargarets.london/sma_survey as the first stage towards creating a Community Action Plan.  The Survey asks residents to consider which aspects of their local environment, economy, or social well-being are most important to them and to prioritise the most important and urgent.
 

@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/Skaband.jpg" title="See larger version of - Ska Band"><img src="//stmargarets.london/assets/images/2006/Skaband_thumb.jpg" width="150" height="98" alt="Ska Band" class="photo right" /></a>
+<a href="/assets/images/2006/Skaband.jpg" title="See larger version of - Ska Band"><img src="/assets/images/2006/Skaband_thumb.jpg" width="150" height="98" alt="Ska Band" class="photo right" /></a>
 
 December will be ushered in with a special "Shooting Start Winter Party":https://stmargarets.london/event/Show/200611021616 at the Turks Head on Friday 1st December in aid of The Shooting Star Children's Hospice. This will definitely put everyone in the mood for a festive Christmas period before getting bogged down with all that Christmas shopping.
 

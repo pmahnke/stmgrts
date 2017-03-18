@@ -8,7 +8,7 @@ date: 2007-10-18 20:58:06
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/burial_at_thebes.jpg" title="See larger version of - Burial at Thebes"><img src="//stmargarets.london/assets/images/2007/burial_at_thebes_thumb.jpg" width="150" height="112" alt="Burial at Thebes - Sue Baxter as Antigone and Michael Daly as Creon" class="photo right" /></a>
+<a href="/assets/images/2007/burial_at_thebes.jpg" title="See larger version of - Burial at Thebes"><img src="/assets/images/2007/burial_at_thebes_thumb.jpg" width="150" height="112" alt="Burial at Thebes - Sue Baxter as Antigone and Michael Daly as Creon" class="photo right" /></a>
 
 *The State vs The Individual* -- _the eternal conflict_
 

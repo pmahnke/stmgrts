@@ -6,7 +6,7 @@ commentfile: 2009-11-30-santa_gets_a_helping_hand_from_st_margarets_trader
 category: news
 date: 2009-11-30 10:14:28
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/gI_0_santapostbox.jpg"><img alt="Santa's North Pole Postbox - stationed in St Margarets" src="//stmargarets.london/assets/images/2009/gI_0_santapostbox-thumb.jpg" width="150" height="150" class="photo right" /></a>
+    <a href="/assets/images/2009/gI_0_santapostbox.jpg"><img alt="Santa's North Pole Postbox - stationed in St Margarets" src="/assets/images/2009/gI_0_santapostbox-thumb.jpg" width="150" height="150" class="photo right" /></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/gI_0_santapostbox.jpg"><img alt="Santa's North Pole Postbox - stationed in St Margarets" src="//stmargarets.london/assets/images/2009/gI_0_santapostbox-thumb.jpg" width="150" height="150" class="photo right" /></a>
+<a href="/assets/images/2009/gI_0_santapostbox.jpg"><img alt="Santa's North Pole Postbox - stationed in St Margarets" src="/assets/images/2009/gI_0_santapostbox-thumb.jpg" width="150" height="150" class="photo right" /></a>
 
 Following a request for help from Santa Claus himself, the St Margarets Traders Association is delighted to announce that it has agreed to assist Santa this year by collecting children's letters written to him and forwarding them on to his Lapland address. Children will then be able to collect their personalised reply letters from Santa within a couple of days.
 

@@ -8,7 +8,7 @@ date: 2006-12-11 19:39:59
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/race_route.jpg"><img src="//stmargarets.london/assets/images/2006/race_route-thumb.jpg" width="120" height="228" alt="map of potential route" class="photo right" /></a>
+<a href="/assets/images/2006/race_route.jpg"><img src="/assets/images/2006/race_route-thumb.jpg" width="120" height="228" alt="map of potential route" class="photo right" /></a>
 
 
 

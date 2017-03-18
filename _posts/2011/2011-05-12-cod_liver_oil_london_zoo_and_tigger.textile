@@ -6,7 +6,7 @@ commentfile: 2011-05-12-cod_liver_oil_london_zoo_and_tigger
 category: around_town
 date: 2011-05-12 11:21:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/COD_Tigger.jpg" title="See larger version of - Tigger"><img src="//stmargarets.london/assets/images/2011/COD_Tigger_thumb.jpg" width="300" height="107" alt="Tigger" class=" center" /></a>
+    <a href="/assets/images/2011/COD_Tigger.jpg" title="See larger version of - Tigger"><img src="/assets/images/2011/COD_Tigger_thumb.jpg" width="300" height="107" alt="Tigger" class=" center" /></a>
     
     
     Why is it that when people talk about the Welfare State - or 'state welfare' as I prefer to call it - they always mention the major provisions of this wonderful institution like education, health care, pensions and so on but rarely touch upon the little things that older people remember so well? Where is Double Concentrated Orange Juice in the conversation? Why leave out Extract of Malt? What is it about Cod Liver Oil that leaves a nasty taste in the mouth?
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/COD_Tigger.jpg" title="See larger version of - Tigger"><img src="//stmargarets.london/assets/images/2011/COD_Tigger_thumb.jpg" width="300" height="107" alt="Tigger" class=" center" /></a>
+<a href="/assets/images/2011/COD_Tigger.jpg" title="See larger version of - Tigger"><img src="/assets/images/2011/COD_Tigger_thumb.jpg" width="300" height="107" alt="Tigger" class=" center" /></a>
 
 <pre class="poem">
 On the bleak shore of Norway, 
@@ -39,7 +39,7 @@ bq. "Having taken them (fish) thye plucke out the bones, and lay up their bowels
 
 ??Life and Manner of the Icelanders (1563). Samuel Purchas??
 
-<a href="//stmargarets.london/assets/images/2011/COD_Children-cod-liverl.jpg" title="See larger version of - Children getting their cod liver oil"><img src="//stmargarets.london/assets/images/2011/COD_Children-cod-liverl_thumb.jpg" width="150" height="112" alt="Children getting their cod liver oil" class="photo right" /></a>
+<a href="/assets/images/2011/COD_Children-cod-liverl.jpg" title="See larger version of - Children getting their cod liver oil"><img src="/assets/images/2011/COD_Children-cod-liverl_thumb.jpg" width="150" height="112" alt="Children getting their cod liver oil" class="photo right" /></a>
 
 
 In 1797 Encyclopaedia Britannica reported the use of Fish Liver Oil by fishermen in the Western Isles of Scotland as a valued treatment for rickets and bone affections. The Encyclopaedia noted that fish liver oil was "_considered superior to any other for this purpose_".
@@ -52,7 +52,7 @@ Dr. Kay and Dr. Darbey were so impressed by the results they immediately began p
 
 The reason why Cod Liver Oil in the 1780's smelled and tasted so ghastly was because it was made by allowing fish livers to putrefy until soft.  The oil was then skimmed off as it rose to the surface. Yummy! So nauseating was the process that the Royal Society of Arts offered a prize for the 'edulcoration' of the oil (i.e. sweetening or removing the acid or other impurities.) Heat treatment was one idea put forward but it was thought that it would "_add an empyreumatic smell to the putrid foeter, which was very little diminished._"  Things didn't improve until 1848 when George Fox of Scarborough invented a process in which fresh cod livers were steamed in a sealed vessel. This produced a virtually colourless oil with only a slight fishy taste and smell - the cod liver oil that we all know and love today.
 
-<a href="//stmargarets.london/assets/images/2011/COD_De-Jonghs-Liver-Oil.jpg" title="See larger version of - De Jongh Poster"><img src="//stmargarets.london/assets/images/2011/COD_De-Jonghs-Liver-Oil_thumb.jpg" width="150" height="249" alt="De Jongh Poster" class="photo right" /></a>
+<a href="/assets/images/2011/COD_De-Jonghs-Liver-Oil.jpg" title="See larger version of - De Jongh Poster"><img src="/assets/images/2011/COD_De-Jonghs-Liver-Oil_thumb.jpg" width="150" height="249" alt="De Jongh Poster" class="photo right" /></a>
 
 
 In 1849 an English translation of "Three Kinds of Cod Liver Oil", written by the Dutch physician De Jongh, was published which proclaimed that "a new therapeutic agent of extraordinary value had been discovered."  De Jongh was so impressed by cod liver oil that he recommended it as a sure fire treatment for rickets, rheumatism, arthritis, joint affections, anaemia and a host of other ailments.

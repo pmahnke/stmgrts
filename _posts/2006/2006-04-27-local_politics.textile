@@ -20,19 +20,19 @@ This is democracy in action folks. The politicians complain that they can't spea
 
 
 
-|<a href="/static/elections06/geoffacton.html" class="photo" title="Geoffrey Acton"><img src="//stmargarets.london/assets/images/2006/geoffacton_100v.jpg" width="75" height="100" alt="Geoffrey Acton" /></a>|"Geoffrey Acton":/static/elections06/geoffacton.html|Liberal Democrat|
-|<a href="/static/elections06/willdevine.html" class="photo" title="William Devine"><img src="//stmargarets.london/assets/images/2006/willdevine_100v.jpg" width="75" height="100" alt="William Devine" /></a>
+|<a href="/static/elections06/geoffacton.html" class="photo" title="Geoffrey Acton"><img src="/assets/images/2006/geoffacton_100v.jpg" width="75" height="100" alt="Geoffrey Acton" /></a>|"Geoffrey Acton":/static/elections06/geoffacton.html|Liberal Democrat|
+|<a href="/static/elections06/willdevine.html" class="photo" title="William Devine"><img src="/assets/images/2006/willdevine_100v.jpg" width="75" height="100" alt="William Devine" /></a>
 |"William Devine":/static/elections06/willdevine.html|Labour|
-|<img src="//stmargarets.london/assets/images/2006/peterdul_100v.jpg" width="75" height="100" alt="Peter Dul" />|Peter Dul|UK Independence Party|_we still have not made contact...|
-|<a href="/static/elections06/barryedwards.html" class="photo" title="Barry Edwards"><img src="//stmargarets.london/assets/images/2006/barryedwards_100v.jpg" width="75" height="100" alt="Barry Edwards" /></a>|"Barry Edwards":/static/elections06/barryedwards.html|Independent|
-|<a href="/static/elections06/anniehambidge.html" class="photo" title="Annie Hambidge"><img src="//stmargarets.london/assets/images/2006/anniehambidge_100v.jpg" width="75" height="100" alt="Annie Hambidge" /></a>|"Annie Hambidge":/static/elections06/anniehambidge.html|Conservative|
-|<a href="/static/elections06/benkhosa.html" class="photo" title="Ben Khosa"><img src="//stmargarets.london/assets/images/2006/benkhosa_100v.jpg" width="75" height="100" alt="Ben Khosa" /></a>|"Ben Khosa":/static/elections06/benkhosa.html|Liberal Democrat|
-|<a href="/static/elections06/simonlamb.html" class="photo" title="Simon Lamb"><img src="//stmargarets.london/assets/images/2006/simonlamb_100v.jpg" width="75" height="100" alt="Simon Lamb" /></a>
+|<img src="/assets/images/2006/peterdul_100v.jpg" width="75" height="100" alt="Peter Dul" />|Peter Dul|UK Independence Party|_we still have not made contact...|
+|<a href="/static/elections06/barryedwards.html" class="photo" title="Barry Edwards"><img src="/assets/images/2006/barryedwards_100v.jpg" width="75" height="100" alt="Barry Edwards" /></a>|"Barry Edwards":/static/elections06/barryedwards.html|Independent|
+|<a href="/static/elections06/anniehambidge.html" class="photo" title="Annie Hambidge"><img src="/assets/images/2006/anniehambidge_100v.jpg" width="75" height="100" alt="Annie Hambidge" /></a>|"Annie Hambidge":/static/elections06/anniehambidge.html|Conservative|
+|<a href="/static/elections06/benkhosa.html" class="photo" title="Ben Khosa"><img src="/assets/images/2006/benkhosa_100v.jpg" width="75" height="100" alt="Ben Khosa" /></a>|"Ben Khosa":/static/elections06/benkhosa.html|Liberal Democrat|
+|<a href="/static/elections06/simonlamb.html" class="photo" title="Simon Lamb"><img src="/assets/images/2006/simonlamb_100v.jpg" width="75" height="100" alt="Simon Lamb" /></a>
 |"Simon Lamb":/static/elections06/simonlamb.html|Conservative|
-|<a href="/static/elections06/judymaciejowska.html" class="photo" title="Judy Maciejowska"><img src="//stmargarets.london/assets/images/2006/judymaciejowska_100v.jpg" width="75" height="100" alt="Judy Maciejowska" /></a>|"Judy Maciejowska":/static/elections06/judymaciejowska.html|Green Party|
-|<a href="/static/elections06/philipmorgan.html" class="photo" title="Philip Morgan"><img src="//stmargarets.london/assets/images/2006/philipmorgan_100v.jpg" width="75" height="100" alt="Philip Morgan" /></a>
+|<a href="/static/elections06/judymaciejowska.html" class="photo" title="Judy Maciejowska"><img src="/assets/images/2006/judymaciejowska_100v.jpg" width="75" height="100" alt="Judy Maciejowska" /></a>|"Judy Maciejowska":/static/elections06/judymaciejowska.html|Green Party|
+|<a href="/static/elections06/philipmorgan.html" class="photo" title="Philip Morgan"><img src="/assets/images/2006/philipmorgan_100v.jpg" width="75" height="100" alt="Philip Morgan" /></a>
 |"Philip Morgan":/static/elections06/philipmorgan.html|Liberal Democrat|
-|<a href="/static/elections06/catherinesearle.html" class="photo" title="Catherine Searle"><img src="//stmargarets.london/assets/images/2006/catherinesearle_100v.jpg" width="75" height="100" alt="Catherine Searle" /></a>|"Catherine Searle":/static/elections06/catherinesearle.html|Conservative|
+|<a href="/static/elections06/catherinesearle.html" class="photo" title="Catherine Searle"><img src="/assets/images/2006/catherinesearle_100v.jpg" width="75" height="100" alt="Catherine Searle" /></a>|"Catherine Searle":/static/elections06/catherinesearle.html|Conservative|
 
 
 

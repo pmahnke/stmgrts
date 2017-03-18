@@ -6,12 +6,12 @@ commentfile: 2016-05-27-event-tw12-jazz-festival-2016
 category: around_town
 date: 2016-05-26 07:56:45
 excerpt: |
-    <a href="https://stmargarets.london/assets/images/2016/JazzFestivalFlyer2016.jpg" title="See larger version of - Jazz Festival Flyer 2016"><img src="https://stmargarets.london/assets/images/2016/JazzFestivalFlyer2016_thumb.jpg" width="150" height="212" alt="Jazz Festival Flyer 2016" class="photo right" /></a>
+    <a href="/assets/images/2016/JazzFestivalFlyer2016.jpg" title="See larger version of - Jazz Festival Flyer 2016"><img src="/assets/images/2016/JazzFestivalFlyer2016_thumb.jpg" width="150" height="212" alt="Jazz Festival Flyer 2016" class="photo right" /></a>
 
     The TW12 Jazz Festival is back for the fourth year in July, this year spread over four days in four different venues, featuring internationally acclaimed jazz artists alongside local performers and Richmond Music Trust students.
 ---
 
-<a href="https://stmargarets.london/assets/images/2016/JazzFestivalFlyer2016.jpg" title="See larger version of - Jazz Festival Flyer 2016"><img src="https://stmargarets.london/assets/images/2016/JazzFestivalFlyer2016_thumb.jpg" width="250" height="353" alt="Jazz Festival Flyer 2016" class="photo right" /></a>
+<a href="/assets/images/2016/JazzFestivalFlyer2016.jpg" title="See larger version of - Jazz Festival Flyer 2016"><img src="/assets/images/2016/JazzFestivalFlyer2016_thumb.jpg" width="250" height="353" alt="Jazz Festival Flyer 2016" class="photo right" /></a>
 
 The TW12 Jazz Festival is back for the fourth year in July, this year spread over four days in four different venues, featuring internationally acclaimed jazz artists alongside local performers and Richmond Music Trust students.
 

@@ -8,7 +8,7 @@ date: 2010-05-21 17:29:41
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/grassrootsgrantslogo.png" title="See larger version of - Grassroots Grants logo"><img src="//stmargarets.london/assets/images/2010/grassrootsgrantslogo_thumb.png" width="163" height="100" alt="Grassroots Grants logo" class=" right" /></a>
+<a href="/assets/images/2010/grassrootsgrantslogo.png" title="See larger version of - Grassroots Grants logo"><img src="/assets/images/2010/grassrootsgrantslogo_thumb.png" width="163" height="100" alt="Grassroots Grants logo" class=" right" /></a>
 
 Grassroots Grants is a funding programme targeted at small, local voluntary groups with a income of less than &pound;30,000 per annum. Groups need to have been active for the last twelve months. Grants of up to &pound;5,000 are available  which can support a number of activities including running costs, event costs, training, building repair costs and more.
 

@@ -8,7 +8,7 @@ date: 2007-03-13 12:40:45
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/alistair2.jpg"><img src="//stmargarets.london/assets/images/2007/alistair2-thumb.jpg" width="150" height="99" alt="Alistair" class="photo right" /></a>
+<a href="/assets/images/2007/alistair2.jpg"><img src="/assets/images/2007/alistair2-thumb.jpg" width="150" height="99" alt="Alistair" class="photo right" /></a>
 
 
 Alistair has worked in radio for over 20 years  and has now found his spiritual home at Radio Jackie presenting his show Monday through Friday from 2 until 4pm.

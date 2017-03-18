@@ -9,7 +9,7 @@ excerpt: |
     
     h3. Sporting Heroes Workshops
      
-    <a href="//stmargarets.london/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
+    <a href="/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
       
     Celebrate the Summer of Sport at the Museum of Richmond!
     
@@ -21,7 +21,7 @@ excerpt: |
 
 h3. Sporting Heroes Workshops
  
-<a href="//stmargarets.london/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
   
 Celebrate the Summer of Sport at the Museum of Richmond!
 

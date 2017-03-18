@@ -6,7 +6,7 @@ commentfile: 2011-11-03-major_pollution_damage_to_the_river_crane
 category: news
 date: 2011-11-03 21:14:36
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
+    <a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
     
     FORCE trustees and members have been very saddened to see the effects of a major pollution incident in the River Crane over the last few days. This has been caused by raw sewage flowing into the river by the A4 Bath Road between Saturday night and early Monday morning due to a defective valve on the two metre diameter sewer that services the Heathrow area.
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
+<a href="http://www.flickr.com/photos/mahnke/5739482014/" title="River Crane from Moormead Bridge by Peter M, on Flickr"><img src="/assets/images/2011/5739482014_b3f7cd0310_m.jpg" width="150"  alt="River Crane from Moormead Bridge" class="photo right"></a>
 
 FORCE trustees and members have been very saddened to see the effects of a major pollution incident in the River Crane over the last few days. This has been caused by raw sewage flowing into the river by the A4 Bath Road between Saturday night and early Monday morning due to a defective valve on the two metre diameter sewer that services the Heathrow area.
 

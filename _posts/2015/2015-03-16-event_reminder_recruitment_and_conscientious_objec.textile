@@ -6,7 +6,7 @@ commentfile: 2015-03-16-event_reminder_recruitment_and_conscientious_objec
 category: around_town
 date: 2015-03-16 22:35:19
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="//stmargarets.london/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="150" height="107" alt="recruitment in richmond park" class="photo right" /></a>
+    <a href="/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="150" height="107" alt="recruitment in richmond park" class="photo right" /></a>
     
     _A talk by WWI Historian Dr Chris Kempshall_
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="//stmargarets.london/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="250" height="178" alt="recruitment in richmond park" class="photo right" /></a>
+<a href="/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="250" height="178" alt="recruitment in richmond park" class="photo right" /></a>
 
 _A talk by WWI Historian Dr Chris Kempshall_
 

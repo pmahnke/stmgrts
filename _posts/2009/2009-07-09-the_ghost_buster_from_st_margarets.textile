@@ -6,7 +6,7 @@ commentfile: 2009-07-09-the_ghost_buster_from_st_margarets
 category: around_town
 date: 2009-07-09 21:12:57
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/mask_cook_poster.jpg"><img src="//stmargarets.london/assets/images/2009/mask_cook_poster-thumb.jpg" width="106" height="150" alt="MASKELYNE AND COOKE' THEATRE POSTER" class="photo right" /></a>
+    <a href="/assets/images/2009/mask_cook_poster.jpg"><img src="/assets/images/2009/mask_cook_poster-thumb.jpg" width="106" height="150" alt="MASKELYNE AND COOKE' THEATRE POSTER" class="photo right" /></a>
     
     
     In 1864 a 25 year old Cheltenham watchmaker called John Nevil Maskelyne was visited by an American gentleman with a piece of 'apparatus' that needed attention. Its only apparent purpose was to make rapping noises on the underside of tables. The stranger paid well for the work and when he left he said to Maskelyne...
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/mask_cook_poster.jpg"><img src="//stmargarets.london/assets/images/2009/mask_cook_poster-thumb.jpg" width="106" height="150" alt="MASKELYNE AND COOKE' THEATRE POSTER" class="photo right" /></a>
+<a href="/assets/images/2009/mask_cook_poster.jpg"><img src="/assets/images/2009/mask_cook_poster-thumb.jpg" width="106" height="150" alt="MASKELYNE AND COOKE' THEATRE POSTER" class="photo right" /></a>
 
 
 In 1864 a 25 year old Cheltenham watchmaker called John Nevil Maskelyne was visited by an American gentleman with a piece of 'apparatus' that needed attention. Its only apparent purpose was to make rapping noises on the underside of tables. The stranger paid well for the work and when he left he said to Maskelyne...
@@ -31,7 +31,7 @@ A few days after the American's visit to Maskelyne's workshop, posters appeared 
 Ira and his brother William had started performing in America in 1854 with a show that included table tipping, musical instruments that floated in the air and a 'spiritual séance' with ghosts. In 1864, when the American Civil War put a stop to their activities they came to Britain for a sell out tour.
 Prompted by the posters, in March 1865, Maskelyne went to see the Davenport's show. It started with an announcement from the sepulchral voiced Rev. J. B Ferguson who assured the audience that the Davenports had been...
 
-<a href="//stmargarets.london/assets/images/2009/Davenport_brothers.jpg"><img src="//stmargarets.london/assets/images/2009/Davenport_brothers-thumb.jpg" width="150" height="116" alt="DAVENPORT BROTHERS IN THEIR SPIRIT CABINET" class="photo right" /></a>
+<a href="/assets/images/2009/Davenport_brothers.jpg"><img src="/assets/images/2009/Davenport_brothers-thumb.jpg" width="150" height="116" alt="DAVENPORT BROTHERS IN THEIR SPIRIT CABINET" class="photo right" /></a>
 
 
 
@@ -42,7 +42,7 @@ The climax of their act was the Spirit Cabinet - seen by many as a true manifest
 bq. "The instant the lights were extinguished the musical instruments appeared to be carried about the room... The bells were loudly rung; the trumpets made knocks upon the floor, and the tambourine appeared running around the room, jingling with all its might."
 
 
-<a href="//stmargarets.london/assets/images/2009/John_Nevil_Maskelyne.jpg"><img src="//stmargarets.london/assets/images/2009/John_Nevil_Maskelyne-thumb.jpg" width="98" height="150" alt="MASKELYNE" class="photo right" /></a>
+<a href="/assets/images/2009/John_Nevil_Maskelyne.jpg"><img src="/assets/images/2009/John_Nevil_Maskelyne-thumb.jpg" width="98" height="150" alt="MASKELYNE" class="photo right" /></a>
 
 
 Ever sceptical Maskelyne was not so sure.
@@ -51,7 +51,7 @@ The following day the Davenports gave another performance at Cheltenham Town Hal
 
 To make good his promise Maskelyne turned to his colleague George Alfred Cooke. Although Cooke was 14 years older than Maskelyne they were the very best of friends. They had both grown up in the poorest part of Cheltenham - Cooke was 'as poor a lad as any in the town' - they were both members of the Cotswold Volunteer Rifles and they shared an interest in music, conjuring and illusions. While Maskelyne was inventive and imaginative, Cooke was dexterous and agile. Together they made a formidable conjuring team. As a friend said...
 
-<a href="//stmargarets.london/assets/images/2009/george_cooke.jpg"><img src="//stmargarets.london/assets/images/2009/george_cooke-thumb.jpg" width="126" height="150" alt="GEORGE ALFRED COOKE" class="photo right" /></a>
+<a href="/assets/images/2009/george_cooke.jpg"><img src="/assets/images/2009/george_cooke-thumb.jpg" width="126" height="150" alt="GEORGE ALFRED COOKE" class="photo right" /></a>
 
 
 bq. "they were young fellows who knew a thing or two and might well be relied upon to detect any trickery that was going."

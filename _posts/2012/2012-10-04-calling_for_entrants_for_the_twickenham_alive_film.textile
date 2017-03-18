@@ -8,7 +8,7 @@ date: 2012-10-04 22:00:51
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/Film-Festival-Poster-LBRT.png" title="See larger version of - Film Festival Poster LBRT"><img src="//stmargarets.london/assets/images/2012/Film-Festival-Poster-LBRT_thumb.png" width="150" height="212" alt="Film Festival Poster LBRT" class="photo right" /></a>
+<a href="/assets/images/2012/Film-Festival-Poster-LBRT.png" title="See larger version of - Film Festival Poster LBRT"><img src="/assets/images/2012/Film-Festival-Poster-LBRT_thumb.png" width="150" height="212" alt="Film Festival Poster LBRT" class="photo right" /></a>
 
 _Submissions of short films up to 10 minutes are now being invited for entry in the Festival_
 

@@ -30,7 +30,7 @@ If you have been bitten by a tick and notice any adverse symptoms seek medical h
 
 h2. Lyme disease: know the facts  
 
-<a href="//stmargarets.london/assets/images/2010/2010_tick_poster.pdf">Download an informational poster [PDF 98k]</a>
+<a href="/assets/images/2010/2010_tick_poster.pdf">Download an informational poster [PDF 98k]</a>
 
 Lyme Disease Action (LDA) is a UK-registered charity striving for the prevention and treatment of Lyme disease and associated tick borne diseases. Ticks are tiny parasitic, blood-sucking arthropods related to spiders, mites and scorpions. There are many different species of tick in the UK, each preferring to feed on the blood of different animal hosts – though they will feed on human blood too if given the chance. 
 

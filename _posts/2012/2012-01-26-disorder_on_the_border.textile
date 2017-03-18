@@ -6,7 +6,7 @@ commentfile: 2012-01-26-disorder_on_the_border
 category: around_town
 date: 2012-01-26 22:33:39
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/BORDER_St_Theodore.jpg" title="See larger version of -  St Theodore"><img src="//stmargarets.london/assets/images/2012/BORDER_St_Theodore_thumb.jpg" width="150" height="208" alt=" St Theodore" class="photo right" /></a>
+    <a href="/assets/images/2012/BORDER_St_Theodore.jpg" title="See larger version of -  St Theodore"><img src="/assets/images/2012/BORDER_St_Theodore_thumb.jpg" width="150" height="208" alt=" St Theodore" class="photo right" /></a>
     
     
     bq. "A good fence helpeth to keepe peace between neighbours; but let vs take heed that we make not a high stone wall, to keepe vs from meeting."
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/BORDER_St_Theodore.jpg" title="See larger version of -  St Theodore"><img src="//stmargarets.london/assets/images/2012/BORDER_St_Theodore_thumb.jpg" width="150" height="208" alt=" St Theodore" class="photo right" /></a>
+<a href="/assets/images/2012/BORDER_St_Theodore.jpg" title="See larger version of -  St Theodore"><img src="/assets/images/2012/BORDER_St_Theodore_thumb.jpg" width="150" height="208" alt=" St Theodore" class="photo right" /></a>
 
 
 bq. "A good fence helpeth to keepe peace between neighbours; but let vs take heed that we make not a high stone wall, to keepe vs from meeting."
@@ -43,7 +43,7 @@ The tithe was an annual payment of an agreed proportion (originally one-tenth) o
 </div>
 
 
-<a href="//stmargarets.london/assets/images/2012/BORDER_border_sign.jpg" title="See larger version of - Isleworth - Twickenham border sign"><img src="//stmargarets.london/assets/images/2012/BORDER_border_sign_thumb.jpg" width="150" height="91" alt="Isleworth - Twickenham border sign" class="photo right" /></a>
+<a href="/assets/images/2012/BORDER_border_sign.jpg" title="See larger version of - Isleworth - Twickenham border sign"><img src="/assets/images/2012/BORDER_border_sign_thumb.jpg" width="150" height="91" alt="Isleworth - Twickenham border sign" class="photo right" /></a>
 
 
 
@@ -58,7 +58,7 @@ According to a contemporary account the Isleworth parishioners, complete with ba
 
 Gossip and accusations about the parish punch-up lasted for weeks. Heston said 	that the parishioners from Isleworth, anticipating a fight, were carrying staves and billhooks. Isleworth admitted this but said that the staves and billhooks were only used to jump over ditches and cut back bushes in their way. In a counter claim Isleworth said that the Heston parishioners had planned the attack and that John Bygg, had _"said in a certain place in Hounslow that he would stop the Isleworth procession and not allow them on the king's highway."_
 
-<a href="//stmargarets.london/assets/images/2012/BORDER_Boundry_house.jpg" title="See larger version of - Boundry House"><img src="//stmargarets.london/assets/images/2012/BORDER_Boundry_house_thumb.jpg" width="150" height="99" alt="Boundry House" class="photo right" /></a>
+<a href="/assets/images/2012/BORDER_Boundry_house.jpg" title="See larger version of - Boundry House"><img src="/assets/images/2012/BORDER_Boundry_house_thumb.jpg" width="150" height="99" alt="Boundry House" class="photo right" /></a>
 
 
 The Heston/Isleworth disagreement continued until the matter was eventually brought before _"The good Mr John Gates, Esquire, to be ordered"_.  How good John Gates "ordered" the matter we no longer know. That old parish boundary, originally marked by stones and stakes, running from Ivy Bridge down to the Thames at Twickenham Bridge still exists as the southern edge of the parish of St Margarets-on-Thames. A stone marker on Ivy Bridge and the presence of Boundary House on the north end of St Margarets Road indicate this boundary.
