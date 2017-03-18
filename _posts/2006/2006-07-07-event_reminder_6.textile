@@ -6,13 +6,13 @@ commentfile: 2006-07-07-event_reminder_6
 category: around_town
 date: 2006-07-07 11:49:30
 excerpt: |
-    <a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="//stmargarets.london/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
+    <a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
     
     This year's "St Margarets Fair":https://stmargarets.london/directory/charity/200507051436 will be "held on Saturday, 15<sup>th</sup> July":https://stmargarets.london/event/Fair/200602210457 from 11am to 7:30pm.  It is the 28<sup>th</sup> time the Fair has been held and is the centrepiece of local calendar.
 
 ---
 
-<a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="//stmargarets.london/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
+<a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
 
 This year's "St Margarets Fair":https://stmargarets.london/directory/charity/200507051436 will be "held on Saturday, 15<sup>th</sup> July":https://stmargarets.london/event/Fair/200602210457 from 11am to 7:30pm.  It is the 28<sup>th</sup> time the Fair has been held and is the centrepiece of the local calendar.
 

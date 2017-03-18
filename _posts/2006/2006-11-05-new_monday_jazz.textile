@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/samleak.jpg"><img src="//stmargarets.london/assets/images/2006/samleak-thumb.jpg" width="150" height="112" alt="Sam Leak" class="photo right" /></a>
+<a href="/assets/images/2006/samleak.jpg"><img src="/assets/images/2006/samleak-thumb.jpg" width="150" height="112" alt="Sam Leak" class="photo right" /></a>
 
 There is a new weekly jazz fixture on Monday nights at "The Rising Sun":https://stmargarets.london/directory/pub/200611051507 hosted by the Sam Leak Trio.  Sam says
 

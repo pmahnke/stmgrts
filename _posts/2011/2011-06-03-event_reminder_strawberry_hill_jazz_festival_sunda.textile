@@ -8,7 +8,7 @@ date: 2011-06-03 17:53:59
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2011/SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2011/SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
 On "Sunday, 5<sup>th</sup> June 2011 from  2 to 9.30 pm":https://stmargarets.london/event/fair/200705142775 (gates open 1pm).
 

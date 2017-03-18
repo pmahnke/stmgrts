@@ -10,7 +10,7 @@ excerpt: |
     *kn&#301;tt'&#301;ng*, n. _In vbl senses, esp. work in process of knitting. Derived from knot, thought to originate from the Dutch verb knutten, which is similar to cnyttan, O.E to knot._
     </div>
     
-    <a href="//stmargarets.london/assets/images/2009/knitted_swimming.png"><img src="//stmargarets.london/assets/images/2009/knitted_swimming-thumb.png" width="95" height="150" alt="A KNITTED SWIMMING COSTUME" class="photo right" /></a>
+    <a href="/assets/images/2009/knitted_swimming.png"><img src="/assets/images/2009/knitted_swimming-thumb.png" width="95" height="150" alt="A KNITTED SWIMMING COSTUME" class="photo right" /></a>
     
     
     
@@ -23,14 +23,14 @@ excerpt: |
 *kn&#301;tt'&#301;ng*, n. _In vbl senses, esp. work in process of knitting. Derived from knot, thought to originate from the Dutch verb knutten, which is similar to cnyttan, O.E to knot._
 </div>
 
-<a href="//stmargarets.london/assets/images/2009/knitted_swimming.png"><img src="//stmargarets.london/assets/images/2009/knitted_swimming-thumb.png" width="95" height="150" alt="A KNITTED SWIMMING COSTUME" class="photo right" /></a>
+<a href="/assets/images/2009/knitted_swimming.png"><img src="/assets/images/2009/knitted_swimming-thumb.png" width="95" height="150" alt="A KNITTED SWIMMING COSTUME" class="photo right" /></a>
 
 
 
 There was a time not so long ago when most people knew how to knit and do basic needlework. Having learned the craft from their mothers or during military training they could darn socks, turn collars, sew on buttons, hem blankets, patch trousers and tack on badges and name tabs...and when they weren't mending they were busily making - tatted rugs, crocheted doilies and runners, patchwork quilts, embroidered table clothes. Then, if they had a few moments to spare, they were knitting - blankets, sweaters, scarves, socks, pullovers, bobble hats, gloves, cardigans and, almost unbelievably, swimming costumes! (Those of us who had to endure knitted 'cossies' when we were children have probably been permanently damaged.)
 
 
-<a href="//stmargarets.london/assets/images/2009/knitting_soldiers.png"><img src="//stmargarets.london/assets/images/2009/knitting_soldiers-thumb.png" width="150" height="87" alt="women knitting for the war"  class="photo right" /></a>
+<a href="/assets/images/2009/knitting_soldiers.png"><img src="/assets/images/2009/knitting_soldiers-thumb.png" width="150" height="87" alt="women knitting for the war"  class="photo right" /></a>
 
 
 During both World Wars this home based enterprise provided "Comforts for the Troops" - vast numbers of hand knitted items that made the lives of our armed forces a little more bearable.
@@ -43,7 +43,7 @@ For troops serving at the front, sailors facing the hardships of the Atlantic, b
 
 bq. "Sir - may I obtain the courtesy of your columns to return thanks, on behalf of our commanding officer, Lt Colonel the Earl of Cawdor, for the generous supply of comforts which has been forwarded to us of the 4th Batt  Q.O. Cameron Highlanders. In all we received 950 knitted articles, together with 2000 cigarettes and 150 packets of sweets and chocolates, and all these gifts have been appreciated by the men."
 
-<a href="//stmargarets.london/assets/images/2009/knitting_women.png"><img src="//stmargarets.london/assets/images/2009/knitting_women-thumb.png" width="150" height="86" alt="women knitting together" class="photo right" /></a>
+<a href="/assets/images/2009/knitting_women.png"><img src="/assets/images/2009/knitting_women-thumb.png" width="150" height="86" alt="women knitting together" class="photo right" /></a>
 
 
 
@@ -61,7 +61,7 @@ Now as we all know St Margarets has always been at the cutting edge of anything 
 h4. The Commuknity Blanket
 
 
-<a href="//stmargarets.london/assets/images/2009/community_blanket.png"><img src="//stmargarets.london/assets/images/2009/community_blanket-thumb.png" width="300" height="200" alt="The Commuknity Blanket" class="photo center" /></a>
+<a href="/assets/images/2009/community_blanket.png"><img src="/assets/images/2009/community_blanket-thumb.png" width="300" height="200" alt="The Commuknity Blanket" class="photo center" /></a>
 
 
 bq. "Everybody tells me that they would love to knit, but they don't have time.  I look at people's lives and I can see opportunity and time for knitting all over the place.  The time spent riding the bus each day?  That's a pair of socks over a month.  Waiting in line?  Mittens.  Watching TV?  Buckets of wasted time that could be an exquisite lace shawl."

@@ -6,7 +6,7 @@ commentfile: 2011-01-09-orleans_infant_school_help_us_remember
 category: news
 date: 2011-01-09 13:53:43
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/orleans_school_100_students.jpg" title="See larger version of - Students at Orleans acting like Victorians"><img src="//stmargarets.london/assets/images/2011/orleans_school_100_students_thumb.jpg" width="150" height="112" alt="Students at Orleans on 1910 day" class="photo right" /></a>
+    <a href="/assets/images/2011/orleans_school_100_students.jpg" title="See larger version of - Students at Orleans acting like Victorians"><img src="/assets/images/2011/orleans_school_100_students_thumb.jpg" width="150" height="112" alt="Students at Orleans on 1910 day" class="photo right" /></a>
     
     Orleans Infant School will be 100 years old in 2011!  To get us in the mood, we held a _1910 School Day_ on December 3, 2010. Several children noticed how much nicer the teachers are now than 100 years ago!
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/orleans_school_100_students.jpg" title="See larger version of - Students at Orleans acting like Victorians"><img src="//stmargarets.london/assets/images/2011/orleans_school_100_students_thumb.jpg" width="150" height="112" alt="Students at Orleans on 1910 day" class="photo right" /></a>
+<a href="/assets/images/2011/orleans_school_100_students.jpg" title="See larger version of - Students at Orleans acting like Victorians"><img src="/assets/images/2011/orleans_school_100_students_thumb.jpg" width="150" height="112" alt="Students at Orleans on 1910 day" class="photo right" /></a>
 
 Orleans Infant School will be 100 years old in 2011!  To get us in the mood, we held a _1910 School Day_ on December 3, 2010. Several children noticed how much nicer the teachers are now than 100 years ago!
 

@@ -6,7 +6,7 @@ commentfile: 2010-05-21-the_robber_robbed
 category: around_town
 date: 2010-05-21 17:40:48
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2010/hounslow_heath.jpg" title="See larger version of - HOUNSLOW HEATH "><img src="//stmargarets.london/assets/images/2010/hounslow_heath_thumb.jpg" width="150" height="83" alt="HOUNSLOW HEATH " class="photo left" /></a>
+    <a href="/assets/images/2010/hounslow_heath.jpg" title="See larger version of - HOUNSLOW HEATH "><img src="/assets/images/2010/hounslow_heath_thumb.jpg" width="150" height="83" alt="HOUNSLOW HEATH " class="photo left" /></a>
     
     One night a tailor was travelling by foot across Hounslow Heath when he was stopped by "a knight of the road" who pulled out a brace of pistols and ordered the man to give up his purse. The tailor did so but asked for a favour in return.
     
@@ -20,7 +20,7 @@ _... and other stories of the Highwaymen of Hounslow Heath._
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2010/hounslow_heath.jpg" title="See larger version of - HOUNSLOW HEATH "><img src="//stmargarets.london/assets/images/2010/hounslow_heath_thumb.jpg" width="150" height="83" alt="HOUNSLOW HEATH " class="photo left" /></a>
+<a href="/assets/images/2010/hounslow_heath.jpg" title="See larger version of - HOUNSLOW HEATH "><img src="/assets/images/2010/hounslow_heath_thumb.jpg" width="150" height="83" alt="HOUNSLOW HEATH " class="photo left" /></a>
 
 One night a tailor was travelling by foot across Hounslow Heath when he was stopped by "a knight of the road" who pulled out a brace of pistols and ordered the man to give up his purse. The tailor did so but asked for a favour in return.
 
@@ -35,7 +35,7 @@ The politician, Grantley Berkeley, described it thus...
 
 bq. "Hounslow Heath was as celebrated for highwaymen as for plovers' eggs. Its lonely commons, thick furse bushes, thorns and wide extent...made pursuit of a malefactor on a fast horse very difficult, the latter of course well acquainted with all the furse bushes, while his pursers, if there were any mounted, would be riding at random, and in the dark blundering over every impediment."
 
-<a href="//stmargarets.london/assets/images/2010/moll_cutpurse.gif" title="See larger version of - Moll Cutpurse"><img src="//stmargarets.london/assets/images/2010/moll_cutpurse_thumb.gif" width="123" height="150" alt="Moll Cutpurse" class="photo right" /></a>
+<a href="/assets/images/2010/moll_cutpurse.gif" title="See larger version of - Moll Cutpurse"><img src="/assets/images/2010/moll_cutpurse_thumb.gif" width="123" height="150" alt="Moll Cutpurse" class="photo right" /></a>
 
 In their time the highwaymen became regarded as the aristocrats of crime, well mounted, daring, bold and possessing all the qualities of a true gentleman. One of the first however was a woman, Mary Frith, known to victims and admirers as Moll Cutpurse a.k.a "The Roaring Girl". As well as being a pickpocket, a pimp...girls for lonely gentlemen and respectable male lovers for lonely housewives ...Moll was also a highway...er, woman, as her history in the Newgate Calendar relates...
 
@@ -43,7 +43,7 @@ A long time had Moll Cutpurse robbed on the road; but at last, robbing General F
 
 According to popular myth one of the most famous highwaymen to have operated upon the Heath was Dick Turpin. In 1739 a song appeared telling of Turpin's adventures...
 
-<a href="//stmargarets.london/assets/images/2010/Dick_Turpin_Highway_Robber.jpg" title="See larger version of - Dick Turpin"><img src="//stmargarets.london/assets/images/2010/Dick_Turpin_Highway_Robber_thumb.jpg" width="150" height="116" alt="Dick Turpin" class="photo right" /></a>
+<a href="/assets/images/2010/Dick_Turpin_Highway_Robber.jpg" title="See larger version of - Dick Turpin"><img src="/assets/images/2010/Dick_Turpin_Highway_Robber_thumb.jpg" width="150" height="116" alt="Dick Turpin" class="photo right" /></a>
 
 
 bq.. "On Hounslow Heath as I rode o'er,

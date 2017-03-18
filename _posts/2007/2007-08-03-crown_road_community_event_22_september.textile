@@ -8,7 +8,7 @@ date: 2007-08-03 07:51:24
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/autfair05_street.jpg"><img src="//stmargarets.london/assets/images/2007/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
+<a href="/assets/images/2007/autfair05_street.jpg"><img src="/assets/images/2007/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
 
 Remember the old "St Margarets Crown Road events?":https://stmargarets.london/archives/2005/09/st_margarets_au_1.html
 

@@ -8,7 +8,7 @@ date: 2006-11-02 20:21:30
 
 ---
 
-<a href="//stmargarets.london/assets/images/2006/pp2006.jpg"><img src="//stmargarets.london/assets/images/2006/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
+<a href="/assets/images/2006/pp2006.jpg"><img src="/assets/images/2006/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
 
 Pilates Plus has been open in St Margarets for 5 years!
 

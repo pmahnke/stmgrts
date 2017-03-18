@@ -8,7 +8,7 @@ date: 2008-09-04 09:27:34
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/GasDay200622.jpg"><img src="//stmargarets.london/assets/images/2008/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
+<a href="/assets/images/2008/GasDay200622.jpg"><img src="/assets/images/2008/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
 
 
 Don't miss the "Great Annual Street Sale":https://stmargarets.london/archives/2008/08/great_annual_street_sale_september_6th_its_a_guara.html this Saturday from 2.00pm.

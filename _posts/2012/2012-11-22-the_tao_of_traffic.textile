@@ -6,14 +6,14 @@ commentfile: 2012-11-22-the_tao_of_traffic
 category: around_town
 date: 2012-11-22 11:02:22
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/TAO_lao-tzu.jpg" title="See larger version of - lao tzu"><img src="//stmargarets.london/assets/images/2012/TAO_lao-tzu_thumb.jpg" width="150" height="150" alt="lao tzu" class="photo right" /></a>
+    <a href="/assets/images/2012/TAO_lao-tzu.jpg" title="See larger version of - lao tzu"><img src="/assets/images/2012/TAO_lao-tzu_thumb.jpg" width="150" height="150" alt="lao tzu" class="photo right" /></a>
 
     According to a recent survey there are 6,451,909 people living in Hanoi, the capital of Vietnam and every one of them has a motor scooter - or so it would seem. It is their pleasure between 5 and 9 in the morning and 5 and 9 at night to ride their scooters around the city in a solid, unbroken, constantly moving stream of traffic without benefit of traffic lights, traffic cops, road signs or rules. At junctions, of which there are many, they do not slow down, stop or give way. The streams of traffic simple merge into each other. No matter what direction they are coming from, north, south, east or west, the rivers of traffic pass through each other and continue on their way. It is a motorised version of the ancient philosophy of Taoism - "the Way" - originally proposed around 600BC by the Chinese sage Lao Tzu. Taoism promotes 'wu-wei' (action from non-action) through simplicity, spontaneity and detachment. It teaches that by allowing things to happen, by yielding to the will of the universe, goals can be achieved without effort.
 
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/TAO_Hanoi_Scooters-2.jpg" title="See larger version of - Hanoi Scooters 2"><img src="//stmargarets.london/assets/images/2012/TAO_Hanoi_Scooters-2_thumb.jpg" width="150" height="99" alt="Hanoi Scooters 2" class="photo right" /></a>
+<a href="/assets/images/2012/TAO_Hanoi_Scooters-2.jpg" title="See larger version of - Hanoi Scooters 2"><img src="/assets/images/2012/TAO_Hanoi_Scooters-2_thumb.jpg" width="150" height="99" alt="Hanoi Scooters 2" class="photo right" /></a>
 
 
 bq. "Life is a series of natural and spontaneous changes. Do not resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like."
@@ -21,7 +21,7 @@ bq. "Life is a series of natural and spontaneous changes. Do not resist them - t
 ??Lao Tzu??
 
 
-<a href="//stmargarets.london/assets/images/2012/TAO_lao-tzu.jpg" title="See larger version of - lao tzu"><img src="//stmargarets.london/assets/images/2012/TAO_lao-tzu_thumb.jpg" width="150" height="150" alt="lao tzu" class="photo right" /></a>
+<a href="/assets/images/2012/TAO_lao-tzu.jpg" title="See larger version of - lao tzu"><img src="/assets/images/2012/TAO_lao-tzu_thumb.jpg" width="150" height="150" alt="lao tzu" class="photo right" /></a>
 
 According to a recent survey there are 6,451,909 people living in Hanoi, the capital of Vietnam and every one of them has a motor scooter - or so it would seem. It is their pleasure between 5 and 9 in the morning and 5 and 9 at night to ride their scooters around the city in a solid, unbroken, constantly moving stream of traffic without benefit of traffic lights, traffic cops, road signs or rules. At junctions, of which there are many, they do not slow down, stop or give way. The streams of traffic simple merge into each other. No matter what direction they are coming from, north, south, east or west, the rivers of traffic pass through each other and continue on their way. It is a motorised version of the ancient philosophy of Taoism - "the Way" - originally proposed around 600BC by the Chinese sage Lao Tzu. Taoism promotes 'wu-wei' (action from non-action) through simplicity, spontaneity and detachment. It teaches that by allowing things to happen, by yielding to the will of the universe, goals can be achieved without effort.
 
@@ -39,7 +39,7 @@ bq. "If you do not change direction, you may end up where you are heading."
 ??Lao Tzu??
 
 
-<a href="//stmargarets.london/assets/images/2012/TAO_Hanoi-Scooters-1.jpg" title="See larger version of - Hanoi Scooters 1"><img src="//stmargarets.london/assets/images/2012/TAO_Hanoi-Scooters-1_thumb.jpg" width="150" height="99" alt="Hanoi Scooters 1" class="photo right" /></a>
+<a href="/assets/images/2012/TAO_Hanoi-Scooters-1.jpg" title="See larger version of - Hanoi Scooters 1"><img src="/assets/images/2012/TAO_Hanoi-Scooters-1_thumb.jpg" width="150" height="99" alt="Hanoi Scooters 1" class="photo right" /></a>
 
 The whole principle can be distilled down into an instruction that we Brits know well:- 'Keep Calm and Carry On'. Although there may be hundreds of scooters, plus cars, rickshaws, lorries and buses for texture heading towards you, by adopting these simple principles a path will miraculously appear and before you know it you are safely on the distant shore.
 
@@ -94,7 +94,7 @@ h4. YouTube: Traffic in Hanoi - Street Level
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2012/TAO_Prof-Stradling.jpg" title="See larger version of - Prof Stradling"><img src="//stmargarets.london/assets/images/2012/TAO_Prof-Stradling_thumb.jpg" width="150" height="112" alt="Prof Stradling" class="photo left" /></a>
+<a href="/assets/images/2012/TAO_Prof-Stradling.jpg" title="See larger version of - Prof Stradling"><img src="/assets/images/2012/TAO_Prof-Stradling_thumb.jpg" width="150" height="112" alt="Prof Stradling" class="photo left" /></a>
 
 
 During his many years of research into the psychology of traffic Professor Stradling has come up with some surprising insights. Here are a couple to think about when you decide to leave the car at home and take the train instead..

@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<img src="//stmargarets.london/assets/images/2006/stmgrts_plan.gif" width="100" height="75" alt="St Margarets Development Plan" class="photo right"/>
+<img src="/assets/images/2006/stmgrts_plan.gif" width="100" height="75" alt="St Margarets Development Plan" class="photo right"/>
 
 St Margarets is a special commmunity. We are fortunate with our local schools, shops, friendly streets and local environment. But the pressures of urban living and modern economics could endanger the St Margarets we all value.
 

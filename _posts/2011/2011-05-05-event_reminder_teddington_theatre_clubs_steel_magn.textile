@@ -6,14 +6,14 @@ commentfile: 2011-05-05-event_reminder_teddington_theatre_clubs_steel_magn
 category: around_town
 date: 2011-05-05 15:19:14
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/steel-magnolias-landscape.jpg" title="See larger version of - Steel Magnolias"><img src="//stmargarets.london/assets/images/2011/steel-magnolias-landscape_thumb.jpg" width="150" height="120" alt="Steel Magnolias" class="photo right" /></a>
+    <a href="/assets/images/2011/steel-magnolias-landscape.jpg" title="See larger version of - Steel Magnolias"><img src="/assets/images/2011/steel-magnolias-landscape_thumb.jpg" width="150" height="120" alt="Steel Magnolias" class="photo right" /></a>
     
     
     In the world of Truvy's local-homegrown beauty salon, six very different women come together to gossip, counsel, criticise and comfort one another. Helped by her eager new assistant Annelle, the outspoken, wise-cracking Truvy dispenses shampoos and free advice to Ouiser, the town's rich curmudgeon, Miss Clairee, an eccentric millionaire, M'Lynn, the local social leader, and M'Lynn's daughter Shelby, who's about to marry a "good ole boy". From weddings to divorces, babies to funerals, new beginnings to happy endings, they share each moment in their lives with grace, determination, and perfectly coiffed hair. When tragedy strikes, it is in the familiar comfort of Truvy's salon where they seek the solace and support that carries them through.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/steel-magnolias-landscape.jpg" title="See larger version of - Steel Magnolias"><img src="//stmargarets.london/assets/images/2011/steel-magnolias-landscape_thumb.jpg" width="150" height="120" alt="Steel Magnolias" class="photo right" /></a>
+<a href="/assets/images/2011/steel-magnolias-landscape.jpg" title="See larger version of - Steel Magnolias"><img src="/assets/images/2011/steel-magnolias-landscape_thumb.jpg" width="150" height="120" alt="Steel Magnolias" class="photo right" /></a>
 
 _Directed by Sally Halsey_
 

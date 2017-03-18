@@ -6,7 +6,7 @@ commentfile: 2011-02-01-event_reminder_valentines_baby_toddler_disco
 category: around_town
 date: 2011-02-01 22:16:47
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/jolly-julie.jpg" title="See larger version of - Jolly Julie"><img src="//stmargarets.london/assets/images/2011/jolly-julie_thumb.jpg" width="150" height="167" alt="Jolly Julie" class="photo right" /></a>
+    <a href="/assets/images/2011/jolly-julie.jpg" title="See larger version of - Jolly Julie"><img src="/assets/images/2011/jolly-julie_thumb.jpg" width="150" height="167" alt="Jolly Julie" class="photo right" /></a>
     
     On "Friday 11<sup>th</sup> February, For Sanity's Sake are hosting a Valentine's Baby & Toddler Disco":https://stmargarets.london/event/party/200705142658. Professional kids entertainer and owner of Krafty Kidz, Jolly Julie, is putting on the show with dancing, light shows, bubbles, lazers and, for the toddlers, animal balloons.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/jolly-julie.jpg" title="See larger version of - Jolly Julie"><img src="//stmargarets.london/assets/images/2011/jolly-julie_thumb.jpg" width="150" height="167" alt="Jolly Julie" class="photo right" /></a>
+<a href="/assets/images/2011/jolly-julie.jpg" title="See larger version of - Jolly Julie"><img src="/assets/images/2011/jolly-julie_thumb.jpg" width="150" height="167" alt="Jolly Julie" class="photo right" /></a>
 
 On "Friday 11<sup>th</sup> February, For Sanity's Sake are hosting a Valentine's Baby & Toddler Disco":https://stmargarets.london/event/party/200705142658. Professional kids entertainer and owner of Krafty Kidz, Jolly Julie, is putting on the show with dancing, light shows, bubbles, lazers and, for the toddlers, animal balloons.
 

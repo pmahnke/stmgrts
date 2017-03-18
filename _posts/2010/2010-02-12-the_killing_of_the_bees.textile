@@ -8,7 +8,7 @@ date: 2010-02-12 10:20:22
 excerpt: |
     About 200 years ago an agricultural expert working in Middlesex was surprised to discover how few people kept bees.
     
-    <a href="//stmargarets.london/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="//stmargarets.london/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
+    <a href="/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
     
     bq. "There are no bees of any consequence kept in the county. We rarely see a hive at a farm house, and perhaps not ten cottages in the county have any. It is lamentable that these most valuable insects should be so much neglected. Cottagers might pay their rent from the produce of their bees, which require little attendance and less provision. Their whole increase, wax and honey, is very nearly net profit; and they are also supposed to be very serviceable in promoting the increase of beans, peas etc."
 
@@ -16,14 +16,14 @@ excerpt: |
 
 About 200 years ago an agricultural expert working in Middlesex was surprised to discover how few people kept bees.
 
-<a href="//stmargarets.london/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="//stmargarets.london/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
+<a href="/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
 
 bq. "There are no bees of any consequence kept in the county. We rarely see a hive at a farm house, and perhaps not ten cottages in the county have any. It is lamentable that these most valuable insects should be so much neglected. Cottagers might pay their rent from the produce of their bees, which require little attendance and less provision. Their whole increase, wax and honey, is very nearly net profit; and they are also supposed to be very serviceable in promoting the increase of beans, peas etc."
 
 Although at the time scientists were beginning to appreciate the important role played by bees in the pollination of plants this report clearly shows that it was not common knowledge. Another account collected by local historian G.E Bate suggests that very little was known about scientific beekeeping either. In his book  "And So Make a City Here", he relates an elderly woman's description of the way in which bees were kept in the mid 1800's and in particular a process called "Killing the Bees".
 
 
-<a href="//stmargarets.london/assets/images/2010/bees_2.jpg" title="See larger version of - A SKEP"><img src="//stmargarets.london/assets/images/2010/bees_2_thumb.jpg" width="150" height="103" alt="A SKEP" class=" right" /></a>
+<a href="/assets/images/2010/bees_2.jpg" title="See larger version of - A SKEP"><img src="/assets/images/2010/bees_2_thumb.jpg" width="150" height="103" alt="A SKEP" class=" right" /></a>
 
 <div class="box">
 
@@ -41,7 +41,7 @@ bq. "As they smouldered they (the feathers) gave off dense sulphur fumes. The hi
 
 Some of the skeps were left untouched so that the bees might swarm the following year. This was the only way that the cottagers had to replenish their stock.
 
-<a href="//stmargarets.london/assets/images/2010/bees_3.jpg" title="See larger version of - TELLING THE BEES"><img src="//stmargarets.london/assets/images/2010/bees_3_thumb.jpg" width="147" height="150" alt="TELLING THE BEES" class=" photo right" /></a>
+<a href="/assets/images/2010/bees_3.jpg" title="See larger version of - TELLING THE BEES"><img src="/assets/images/2010/bees_3_thumb.jpg" width="147" height="150" alt="TELLING THE BEES" class=" photo right" /></a>
 
 The lady also told Mr Bate of a very firmly rooted superstition in the district. If a death occurred in the family the bees had to be told or they would all die during the coming year. When her father died one of the servants went out and stood in front of each of the hives in turn and solemnly announced to the bees that the master had died but that they must continue their work. She also mentioned how associations were being formed at the time to educate beekeepers in more modern methods of bee-keeping, raising the bees rather than killing them.
 

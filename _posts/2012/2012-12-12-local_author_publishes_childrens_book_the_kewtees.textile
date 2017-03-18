@@ -6,7 +6,7 @@ commentfile: 2012-12-12-local_author_publishes_childrens_book_the_kewtees
 category: around_town
 date: 2012-12-12 20:35:40
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="//stmargarets.london/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
+    <a href="/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
     
     _the first kids book to be set in Kew Gardens_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="//stmargarets.london/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
+<a href="/assets/images/2012/kewtees_cover.jpg" title="See larger version of - kewtees cover"><img src="/assets/images/2012/kewtees_cover_thumb.jpg" width="150" height="104" alt="kewtees cover" class="photo right" /></a>
 
 _the first kids book to be set in Kew Gardens_
 

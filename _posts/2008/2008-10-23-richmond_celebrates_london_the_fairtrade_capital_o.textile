@@ -6,7 +6,7 @@ commentfile: 2008-10-23-richmond_celebrates_london_the_fairtrade_capital_o
 category: news
 date: 2008-10-23 20:57:01
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/fairtrade_richmond.jpg"><img src="//stmargarets.london/assets/images/2008/fairtrade_richmond-thumb.jpg" width="150" height="112" alt="Richmond upon Thames Fairtrade Steering Group Chair Maria Longley, Leader of the Richmond upon Thames Council  Cllr Serge Lourie, Ann Peterken and Jenny Atton, both members of the Fairtrade Steering Group" class="photo right" /></a>
+    <a href="/assets/images/2008/fairtrade_richmond.jpg"><img src="/assets/images/2008/fairtrade_richmond-thumb.jpg" width="150" height="112" alt="Richmond upon Thames Fairtrade Steering Group Chair Maria Longley, Leader of the Richmond upon Thames Council  Cllr Serge Lourie, Ann Peterken and Jenny Atton, both members of the Fairtrade Steering Group" class="photo right" /></a>
     
     
     From Thursday 23 October 2008, Londoners will have more choice than ever before when it comes to selecting Fairtrade in the nation's capital, as London becomes the world's largest Fairtrade City. Hundreds of businesses have signed up to the campaign, meaning that Londoners will never again have to go very far to buy the Fairtrade products they want.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/fairtrade_richmond.jpg"><img src="//stmargarets.london/assets/images/2008/fairtrade_richmond-thumb.jpg" width="150" height="112" alt="Richmond upon Thames Fairtrade Steering Group Chair Maria Longley, Leader of the Richmond upon Thames Council  Cllr Serge Lourie, Ann Peterken and Jenny Atton, both members of the Fairtrade Steering Group" class="photo right" /></a>
+<a href="/assets/images/2008/fairtrade_richmond.jpg"><img src="/assets/images/2008/fairtrade_richmond-thumb.jpg" width="150" height="112" alt="Richmond upon Thames Fairtrade Steering Group Chair Maria Longley, Leader of the Richmond upon Thames Council  Cllr Serge Lourie, Ann Peterken and Jenny Atton, both members of the Fairtrade Steering Group" class="photo right" /></a>
 
 
 From Thursday 23 October 2008, Londoners will have more choice than ever before when it comes to selecting Fairtrade in the nation's capital, as London becomes the world's largest Fairtrade City. Hundreds of businesses have signed up to the campaign, meaning that Londoners will never again have to go very far to buy the Fairtrade products they want.

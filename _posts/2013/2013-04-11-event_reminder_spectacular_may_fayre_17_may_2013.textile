@@ -6,7 +6,7 @@ commentfile: 2013-04-11-event_reminder_spectacular_may_fayre_17_may_2013
 category: around_town
 date: 2013-04-11 20:53:10
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/May_Fayre_Poster_FINAL.jpg" title="See larger version of - May Fayre Poster"><img src="//stmargarets.london/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg" width="150" height="213" alt="May Fayre Poster" class="photo right" /></a>
+    <a href="/assets/images/2013/May_Fayre_Poster_FINAL.jpg" title="See larger version of - May Fayre Poster"><img src="/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg" width="150" height="213" alt="May Fayre Poster" class="photo right" /></a>
     
     Join NappyValleyNet, your favourite local website, Tempo Tots and Gilbert Giggles for a spectacular May Fayre for children 4 months - under 5 years.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/May_Fayre_Poster_FINAL.jpg" title="See larger version of - May Fayre Poster"><img src="//stmargarets.london/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg" width="150" height="213" alt="May Fayre Poster" class="photo right" /></a>
+<a href="/assets/images/2013/May_Fayre_Poster_FINAL.jpg" title="See larger version of - May Fayre Poster"><img src="/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg" width="150" height="213" alt="May Fayre Poster" class="photo right" /></a>
 
 Join NappyValleyNet, your favourite local website, Tempo Tots and Gilbert Giggles for a spectacular May Fayre for children 4 months - under 5 years.
 

@@ -24,7 +24,7 @@ excerpt: |
 
 James Harbor was born in the same year that Napoleon crowned himself Emperor of France, Richard Trevithick's "Penydarren" steam locomotive became the first 'engine' to run on rails and future Prime Minister Benjamin Disraeli was born.
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_Queen_Adelaide.jpg" title="See larger version of - Queen Adelaide"><img src="//stmargarets.london/assets/images/2012/OLDESR1_Queen_Adelaide_thumb.jpg" width="150" height="245" alt="Queen Adelaide" class="photo right" /></a>
+<a href="/assets/images/2012/OLDESR1_Queen_Adelaide.jpg" title="See larger version of - Queen Adelaide"><img src="/assets/images/2012/OLDESR1_Queen_Adelaide_thumb.jpg" width="150" height="245" alt="Queen Adelaide" class="photo right" /></a>
 
 The 'Herald' reporter noted that Jim's memory of his early life remained clear...
 
@@ -33,17 +33,17 @@ bq. "The old gentleman can still recall with remarkable vividness some of the ev
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_George_III.jpg" title="See larger version of - King George III"><img src="//stmargarets.london/assets/images/2012/OLDESR1_George_III_thumb.jpg" width="150" height="192" alt="King George III" class="photo left" /></a>
+<a href="/assets/images/2012/OLDESR1_George_III.jpg" title="See larger version of - King George III"><img src="/assets/images/2012/OLDESR1_George_III_thumb.jpg" width="150" height="192" alt="King George III" class="photo left" /></a>
 
 
 *George III* was King of Great Britain and King of Ireland from 25 October 1760 until the union of these two countries on 1 January 1801. He then became King of the United Kingdom of Great Britain and Ireland until his death in 1820. He was succeeded by his two sons, first George IV (1820-30) and then William IV (1830-1837). King William married Adelaide of Saxe-Meiningen who was much admired by the public for her modesty, charity and piety. In later life, after the death of her husband, she became a valued counsellor to the young Queen Victoria.
 </div>
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_Twickenham_Ferry.jpg" title="See larger version of - Twickenham Ferry"><img src="//stmargarets.london/assets/images/2012/OLDESR1_Twickenham_Ferry_thumb.jpg" width="150" height="88" alt="Twickenham Ferry" class="photo right" /></a>
+<a href="/assets/images/2012/OLDESR1_Twickenham_Ferry.jpg" title="See larger version of - Twickenham Ferry"><img src="/assets/images/2012/OLDESR1_Twickenham_Ferry_thumb.jpg" width="150" height="88" alt="Twickenham Ferry" class="photo right" /></a>
 
 The Twickenham that Jim Harbor remembered was very different from the busy suburb that it is today. Then it was a small isolated community without a railway - that didn't come until 1848 - or major roads. Because of its attractive location close to the river and its relative proximity to London the town was already becoming a rural retreat for the rich and famous.
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_Church_Street_1900.jpg" title="See larger version of - Church Street 1900"><img src="//stmargarets.london/assets/images/2012/OLDESR1_Church_Street_1900_thumb.jpg" width="150" height="145" alt="Church Street 1900" class="photo right" /></a>
+<a href="/assets/images/2012/OLDESR1_Church_Street_1900.jpg" title="See larger version of - Church Street 1900"><img src="/assets/images/2012/OLDESR1_Church_Street_1900_thumb.jpg" width="150" height="145" alt="Church Street 1900" class="photo right" /></a>
 
 
 bq. "All was open country, except the centre of town, which consisted of a few straggling houses. There was a 'Common Gate' going across the road where the Red Lion now stands, and a little one-roomed cottage where the keeper of the gate lived. That was a time when colts and geese were wild on the Common. Where the few shops now stand by the railway bridge there were some very fine elm trees, and nothing but grass fields all along there... There were very few people in Twickenham sixty years ago but there were several very fine large houses. There was no regular roadway between Richmond and Twickenham and down London Road, where the railway now stands, was all open country."
@@ -51,13 +51,13 @@ bq. "All was open country, except the centre of town, which consisted of a few s
 Like many of his time Jim was a firm monarchist...
 
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_William_IV.jpg" title="See larger version of - King William IV"><img src="//stmargarets.london/assets/images/2012/OLDESR1_William_IV_thumb.jpg" width="150" height="150" alt="King William IV" class="photo right" /></a>
+<a href="/assets/images/2012/OLDESR1_William_IV.jpg" title="See larger version of - King William IV"><img src="/assets/images/2012/OLDESR1_William_IV_thumb.jpg" width="150" height="150" alt="King William IV" class="photo right" /></a>
 
 bq. "I well recollect King William living at Bushey House, and remember one occasion of his going to a grand ball at some place on the road to Teddington when I was standing by and came forward to open his carriage door."
 
 The reporter from "The Richmond Herald" noticed that Jim became very excited when he related an account of when he and his brother saw King William and Queen Adelaide walking in Bushey Park. The Queen dropped her handkerchief and Jim's brother ran forward to pick it up and return it to her. He was rewarded with a gracious "Thank you, my man." "Our present Queen", continued Mr Harbor, referring to Victoria, "is just like King George III." which might leave the modern reader slightly confused!
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_Bushey_House_1825.jpg" title="See larger version of - Bushey House 1825"><img src="//stmargarets.london/assets/images/2012/OLDESR1_Bushey_House_1825_thumb.jpg" width="150" height="106" alt="Bushey House 1825" class="photo right" /></a>
+<a href="/assets/images/2012/OLDESR1_Bushey_House_1825.jpg" title="See larger version of - Bushey House 1825"><img src="/assets/images/2012/OLDESR1_Bushey_House_1825_thumb.jpg" width="150" height="106" alt="Bushey House 1825" class="photo right" /></a>
 
 The Herald journalist asked Jim if he could remember anything of Queen Victoria's coronation in 1838 but he replied, "I do not remember anything particular of that event." He did have memories of other events in Twickenham that would have been difficult to forget...
 
@@ -65,7 +65,7 @@ bq. "On the Green there stood an old round house where people were locked up and
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2012/OLDESR1_Bull_Baiting.jpg" title="See larger version of - Bull Baiting"><img src="//stmargarets.london/assets/images/2012/OLDESR1_Bull_Baiting_thumb.jpg" width="150" height="91" alt="Bull Baiting" class="photo left" /></a>
+<a href="/assets/images/2012/OLDESR1_Bull_Baiting.jpg" title="See larger version of - Bull Baiting"><img src="/assets/images/2012/OLDESR1_Bull_Baiting_thumb.jpg" width="150" height="91" alt="Bull Baiting" class="photo left" /></a>
 
 *A Bill was introduced in 1802* to ban bull baiting and the like but it was defeated by 13 votes. The 'sport' was finally outlawed in 1835 under the Cruelty to Animals Act which forbade the keeping of any house, pit, or other place for baiting or fighting any bull, bear, dog, or other animal. James Harbor would have been 31 years old at the time.
 </div>

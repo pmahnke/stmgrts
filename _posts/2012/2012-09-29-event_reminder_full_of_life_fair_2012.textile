@@ -6,7 +6,7 @@ commentfile: 2012-09-29-event_reminder_full_of_life_fair_2012
 category: around_town
 date: 2012-09-29 10:07:38
 excerpt: |
-    <img src="//stmargarets.london/assets/images/2012/full_of_life_title_and_date_-_small_v2.jpg" width="150" alt="Full of Life Fair 2012"  class="photo right"  />
+    <img src="/assets/images/2012/full_of_life_title_and_date_-_small_v2.jpg" width="150" alt="Full of Life Fair 2012"  class="photo right"  />
     
     <em>A celebration event for Richmond's senior residents "10am - 4pm on 2 October 2012":https://stmargarets.london/event/fair/200705143613</em>
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<img src="//stmargarets.london/assets/images/2012/full_of_life_title_and_date_-_small_v2.jpg" width="150" alt="Full of Life Fair 2012"  class="photo right"  />
+<img src="/assets/images/2012/full_of_life_title_and_date_-_small_v2.jpg" width="150" alt="Full of Life Fair 2012"  class="photo right"  />
 
 <em>A celebration event for Richmond's senior residents "10am - 4pm on 2 October 2012":https://stmargarets.london/event/fair/200705143613</em>
 

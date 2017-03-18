@@ -6,7 +6,7 @@ commentfile: 2015-06-11-event_reminder_midsummers_eve_with_the_petersham_c
 category: around_town
 date: 2015-06-11 18:54:54
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/St-Peters---21-June-2015-Poster.jpg" title="See larger version of - St Peters   21 June 2015 Poster"><img src="//stmargarets.london/assets/images/2015/St-Peters---21-June-2015-Poster_thumb.jpg" width="150" height="212" alt="St Peters   21 June 2015 Poster" class="photo right" /></a>
+    <a href="/assets/images/2015/St-Peters---21-June-2015-Poster.jpg" title="See larger version of - St Peters   21 June 2015 Poster"><img src="/assets/images/2015/St-Peters---21-June-2015-Poster_thumb.jpg" width="150" height="212" alt="St Peters   21 June 2015 Poster" class="photo right" /></a>
     
     
     "At the St Peter's Church Petersham, Sunday 21 June at 6 pm":https://stmargarets.london/event/concert/200705145030
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/St-Peters---21-June-2015-Poster.jpg" title="See larger version of - St Peters   21 June 2015 Poster"><img src="//stmargarets.london/assets/images/2015/St-Peters---21-June-2015-Poster_thumb.jpg" width="250" height="353" alt="St Peters   21 June 2015 Poster" class="photo right" /></a>
+<a href="/assets/images/2015/St-Peters---21-June-2015-Poster.jpg" title="See larger version of - St Peters   21 June 2015 Poster"><img src="/assets/images/2015/St-Peters---21-June-2015-Poster_thumb.jpg" width="250" height="353" alt="St Peters   21 June 2015 Poster" class="photo right" /></a>
 
 
 "At the St Peter's Church Petersham, Sunday 21 June at 6 pm":https://stmargarets.london/event/concert/200705145030

@@ -6,7 +6,7 @@ commentfile: 2012-05-24-introducing_wanderhood
 category: news
 date: 2012-05-24 22:10:32
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/wanderhood_ICONS_05.png" title="See larger version of - wanderhood ICONS 05"><img src="//stmargarets.london/assets/images/2012/wanderhood_ICONS_05_thumb.png" width="150" height="150" alt="wanderhood ICONS 05" class=" right" /></a>
+    <a href="/assets/images/2012/wanderhood_ICONS_05.png" title="See larger version of - wanderhood ICONS 05"><img src="/assets/images/2012/wanderhood_ICONS_05_thumb.png" width="150" height="150" alt="wanderhood ICONS 05" class=" right" /></a>
     
     The world loves social networks, but there is a gap, according to local resident Scott Gregory. He has designed "Wanderhood":http://www.wanderhood.com, an online network for a very important community in our lives, our neighbourhood.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/wanderhood_LOGO_sml.jpg" title="See larger version of - wanderhood logo"><img src="//stmargarets.london/assets/images/2012/wanderhood_LOGO_sml_thumb.jpg" width="300" height="82" alt="wanderhood logo" class=" center" /></a>
+<a href="/assets/images/2012/wanderhood_LOGO_sml.jpg" title="See larger version of - wanderhood logo"><img src="/assets/images/2012/wanderhood_LOGO_sml_thumb.jpg" width="300" height="82" alt="wanderhood logo" class=" center" /></a>
 
 The world loves social networks, but there is a gap, according to local resident Scott Gregory. He has designed "Wanderhood":http://www.wanderhood.com, an online network for a very important community in our lives, our neighbourhood.
 

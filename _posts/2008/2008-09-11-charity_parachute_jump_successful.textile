@@ -6,7 +6,7 @@ commentfile: 2008-09-11-charity_parachute_jump_successful
 category: news
 date: 2008-09-11 15:30:06
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/michael-parachute-jump-023.jpg"><img src="//stmargarets.london/assets/images/2008/michael-parachute-jump-023-thumb.jpg" width="145" height="150" alt="Michael jumping" class="photo right" /></a>
+    <a href="/assets/images/2008/michael-parachute-jump-023.jpg"><img src="/assets/images/2008/michael-parachute-jump-023-thumb.jpg" width="145" height="150" alt="Michael jumping" class="photo right" /></a>
     
      
     "Michael Hanrahan":https://stmargarets.london/archives/2008/07/disabled_mans_charity_parachute_jump.html did his charity parachute jump on 12 August.
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/michael-parachute-jump-023.jpg"><img src="//stmargarets.london/assets/images/2008/michael-parachute-jump-023-thumb.jpg" width="145" height="150" alt="Michael jumping" class="photo right" /></a>
+<a href="/assets/images/2008/michael-parachute-jump-023.jpg"><img src="/assets/images/2008/michael-parachute-jump-023-thumb.jpg" width="145" height="150" alt="Michael jumping" class="photo right" /></a>
 
  
 "Michael Hanrahan":https://stmargarets.london/archives/2008/07/disabled_mans_charity_parachute_jump.html did his charity parachute jump on 12 August.

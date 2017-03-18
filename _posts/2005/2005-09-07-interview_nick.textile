@@ -8,7 +8,7 @@ date: 2005-09-07 21:39:54
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/realAleNick.jpg"><img src="//stmargarets.london/assets/images/2005/realAleNick-thumb.jpg" width="112" height="150" alt="Nick Dolan of RealAle" class="right"/></a>
+<a href="/assets/images/2005/realAleNick.jpg"><img src="/assets/images/2005/realAleNick-thumb.jpg" width="112" height="150" alt="Nick Dolan of RealAle" class="right"/></a>
 
 _In May of this year, Nick Dolan opened a new local business, "Real Ale":/cgi-bin/directory.cgi?key=200505231555&action=getlisting on the high street in East Twickenham.  As you might have guessed from the name, Real Ale offers a wide selection of the finest real ales and ciders that are produced by British micro-breweries.  Previously, you could only get these by visiting the breweries or a few local outlets._
 

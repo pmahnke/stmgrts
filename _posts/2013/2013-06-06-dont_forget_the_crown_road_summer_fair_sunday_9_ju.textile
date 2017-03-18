@@ -6,7 +6,7 @@ commentfile: 2013-06-06-dont_forget_the_crown_road_summer_fair_sunday_9_ju
 category: around_town
 date: 2013-06-06 22:10:17
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
+    <a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
     
     The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":https://stmargarets.london/event/fair/200705143841
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="//stmargarets.london/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
+<a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
 
 The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the "Crown Road Summer Fair from 11am - 4pm.":https://stmargarets.london/event/fair/200705143841
 

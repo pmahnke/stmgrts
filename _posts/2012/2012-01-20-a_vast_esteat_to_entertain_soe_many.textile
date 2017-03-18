@@ -7,7 +7,7 @@ category: around_town
 date: 2012-01-20 22:52:45
 excerpt: |
     
-    <a href="//stmargarets.london/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="//stmargarets.london/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
+    <a href="/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
     
     bq. "Here let us trace the matchless vales of Thames,
     Far winding up top where the muses haunt,
@@ -20,7 +20,7 @@ excerpt: |
 ---
 
 
-<a href="//stmargarets.london/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="//stmargarets.london/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
+<a href="/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
 
 bq. "Here let us trace the matchless vales of Thames,
 Far winding up top where the muses haunt,
@@ -37,7 +37,7 @@ bq. "a vast deal of company dayly, hear is hardly a day that he has not a coach 
 
 ??Lady Wentworth??
 
-<a href="//stmargarets.london/assets/images/2012/ORLEANS_Orleans-House.jpg" title="See larger version of -  Orleans House"><img src="//stmargarets.london/assets/images/2012/ORLEANS_Orleans-House_thumb.jpg" width="150" height="104" alt=" Orleans House" class="photo right" /></a>
+<a href="/assets/images/2012/ORLEANS_Orleans-House.jpg" title="See larger version of -  Orleans House"><img src="/assets/images/2012/ORLEANS_Orleans-House_thumb.jpg" width="150" height="104" alt=" Orleans House" class="photo right" /></a>
 
 
 On Johnston's retirement in 1702 he acquired a lease on "Queen's Farm", a Crown Estate on the river by Marble Hill, and commissioned architect John James to design and build a new house on the site _"after the model of country seats in Lombardy."_  This project took 35 years to complete. The gardens surrounding the house were extensive and included two canals, an icehouse, a kitchen garden, a pleasure garden, a wilderness, a grotto and a fruit garden...
@@ -60,7 +60,7 @@ And Twickenham such, which fairer scenes enrich,
 Grots, statues, urns, and Johnston's dog and bitch.
 </pre>
 
-<a href="//stmargarets.london/assets/images/2012/ORLEANS_pope-alexander.jpg" title="See larger version of - Alexander Pope"><img src="//stmargarets.london/assets/images/2012/ORLEANS_pope-alexander_thumb.jpg" width="150" height="194" alt="Alexander Pope" class="photo right" /></a>
+<a href="/assets/images/2012/ORLEANS_pope-alexander.jpg" title="See larger version of - Alexander Pope"><img src="/assets/images/2012/ORLEANS_pope-alexander_thumb.jpg" width="150" height="194" alt="Alexander Pope" class="photo right" /></a>
 
 Pope had other reasons for disliking Johnston. As a former Secretary of State Johnston enjoyed a handsome government pension which gave him some importance and worth... both irresistible targets for Pope's pen...
 
@@ -69,14 +69,14 @@ Strike off his pension, by the setting sun,
 And Britain, if not Europe, is undone.
 </pre>
 
-<a href="//stmargarets.london/assets/images/2012/ORLEANS_OrleansHouse.jpg" title="See larger version of - Orleans House"><img src="//stmargarets.london/assets/images/2012/ORLEANS_OrleansHouse_thumb.jpg" width="150" height="107" alt="Orleans House" class="photo right" /></a>
+<a href="/assets/images/2012/ORLEANS_OrleansHouse.jpg" title="See larger version of - Orleans House"><img src="/assets/images/2012/ORLEANS_OrleansHouse_thumb.jpg" width="150" height="107" alt="Orleans House" class="photo right" /></a>
 
 
 In later years another resident of Johnston's house was former King of France, Louis-Phillippe, Duc D'Orleans. He lived there in exile between 1813 and 1815 and the place was later named Orleans House after him. Louis-Philippe was very fond of Twickenham which he often referred to as "Old Twick" or "Dear quiet Twick"...
 
 bq. "I can say with truth that I am attached to England not only by gratitude but by taste and inclination. In sincerity of my heart I do pray that I may never leave this hospitable soil."
 
-<a href="//stmargarets.london/assets/images/2012/ORLEANS_The-Octagon.jpg" title="See larger version of -  The Octagon"><img src="//stmargarets.london/assets/images/2012/ORLEANS_The-Octagon_thumb.jpg" width="150" height="112" alt=" The Octagon" class="photo right" /></a>
+<a href="/assets/images/2012/ORLEANS_The-Octagon.jpg" title="See larger version of -  The Octagon"><img src="/assets/images/2012/ORLEANS_The-Octagon_thumb.jpg" width="150" height="112" alt=" The Octagon" class="photo right" /></a>
 
 
 In 1926 a firm of ballast and gravel merchants bought Orleans House and demolished it but their attempts to extract gravel from the site were not successful. To save the Octagon and the adjoining stable block from demolition they were purchased by the Hon Mrs Levy, later the Hon Mrs Nellie Ionides. On her death in 1962 she left the property and her picture collection to the Borough. In 1972 the Octagon was converted into an art gallery.

@@ -6,7 +6,7 @@ commentfile: 2012-04-25-summer_weather
 category: around_town
 date: 2012-04-25 20:32:51
 excerpt: |
-    |<a href="//stmargarets.london/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="//stmargarets.london/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="/assets/images/2012/WEATHER_rain.jpg" title="See larger version of - rain"><img src="/assets/images/2012/WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
+    |<a href="/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="/assets/images/2012/WEATHER_rain.jpg" title="See larger version of - rain"><img src="/assets/images/2012/WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
 
     <pre class="poem">
     "Whether the weather is cold.
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-|<a href="//stmargarets.london/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="//stmargarets.london/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="/assets/images/2012/WEATHER_rain.jpg" title="See larger version of - rain"><img src="/assets/images/2012/WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
+|<a href="/assets/images/2012/WEATHER_Grenadines_yacht.jpg" title="See larger version of - Grenadines yacht"><img src="/assets/images/2012/WEATHER_Grenadines_yacht_thumb.jpg" width="150" height="118" alt="Grenadines yacht" class="photo " /></a>|<a href="/assets/images/2012/WEATHER_rain.jpg" title="See larger version of - rain"><img src="/assets/images/2012/WEATHER_rain_thumb.jpg" width="150" height="100" alt="rain" class="photo" /></a>|
 
 <pre class="poem">
 "Whether the weather is cold.

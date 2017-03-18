@@ -6,14 +6,14 @@ commentfile: 2012-05-17-new_cooking_classes_for_families
 category: around_town
 date: 2012-05-17 20:48:42
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/curry-thumbnail.jpg" title="See larger version of - curry "><img src="//stmargarets.london/assets/images/2012/curry-thumbnail_thumb.jpg" width="150" height="224" alt="curry " class="photo right" /></a>
+    <a href="/assets/images/2012/curry-thumbnail.jpg" title="See larger version of - curry "><img src="/assets/images/2012/curry-thumbnail_thumb.jpg" width="150" height="224" alt="curry " class="photo right" /></a>
     
     
     "Tuck for Tots":https://stmargarets.london/directory/home_and_garden/201205171545 is passionate about tasty home cooked food, healthy eating and families enjoying meal time together around the kitchen table.  Run by local Mum, Elaine Baxter, Tuck for Tots knows that all parents want what's best for their family but not all children are enthusiastic about food! The aim is to give Mums and Dads the know-how to create simple delicious meals that will be loved by all the family.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/curry-thumbnail.jpg" title="See larger version of - curry "><img src="//stmargarets.london/assets/images/2012/curry-thumbnail_thumb.jpg" width="150" height="224" alt="curry " class="photo right" /></a>
+<a href="/assets/images/2012/curry-thumbnail.jpg" title="See larger version of - curry "><img src="/assets/images/2012/curry-thumbnail_thumb.jpg" width="150" height="224" alt="curry " class="photo right" /></a>
 
 
 "Tuck for Tots":https://stmargarets.london/directory/home_and_garden/201205171545 is passionate about tasty home cooked food, healthy eating and families enjoying meal time together around the kitchen table.  Run by local Mum, Elaine Baxter, Tuck for Tots knows that all parents want what's best for their family but not all children are enthusiastic about food! The aim is to give Mums and Dads the know-how to create simple delicious meals that will be loved by all the family.
@@ -22,7 +22,7 @@ Perhaps you didn't cook much before you had children and need some classes to bu
 
 
 
-<a href="//stmargarets.london/assets/images/2012/tuck_for_tots_logo.jpg" title="See larger version of - tuck for tots logo"><img src="//stmargarets.london/assets/images/2012/tuck_for_tots_logo_thumb.jpg" width="150" height="36" alt="tuck for tots logo" class=" right" /></a>
+<a href="/assets/images/2012/tuck_for_tots_logo.jpg" title="See larger version of - tuck for tots logo"><img src="/assets/images/2012/tuck_for_tots_logo_thumb.jpg" width="150" height="36" alt="tuck for tots logo" class=" right" /></a>
 
 Tuck for Tots are running free introductory classes this summer.  Classes will be tailored to meet individual and / or group needs and will address questions like:
 

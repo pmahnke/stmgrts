@@ -6,7 +6,7 @@ commentfile: 2009-08-27-the_dog_days_of_summer
 category: around_town
 date: 2009-08-27 21:43:55
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="//stmargarets.london/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>
+    <a href="/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>
     
     
     bq. "In the mydle of the monthe Iulius the Canicular dayes begyn."
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="//stmargarets.london/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>
+<a href="/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>
 
 
 bq. "In the mydle of the monthe Iulius the Canicular dayes begyn."
@@ -35,7 +35,7 @@ bq. "...when the seas boil, wine turns sour, dogs grow mad, and all creatures be
 The villain at the centre of this calamity is Sirius - the Dog Star, the second brightest object in the night sky. In ancient times it was noticed that the hottest period of the year, from July to late August, coincided with the star's rising. Believing that Sirius contributed to the overall heat, the Romans called this period Caniculares Dies - the 'Days of the Dog'. The Greeks, always a smart bunch, observed that during the Dog Days animals grazed towards the star as it rose in the east and made strange crying and sneezing noises. Men would be struck down by fevers and women would be overcome by - wait for it - carnal desire! People who succumbed to the heat were described as "star struck" (astrobóletus.) Even Hippocrates, the father of modern medicine and in all other respects a man of remarkable good sense, warned of the effects of Sirius. The inhabitants of the island of Ceos in the Aegean were with Hippocrates. They were so concerned about it all they would sacrifice a brown dog to moderate the star's power.
 
 
-<a href="//stmargarets.london/assets/images/2009/dog_day.png"><img src="//stmargarets.london/assets/images/2009/dog_day-thumb.png" width="110" height="150" alt="dog resting by a fan"  class="photo right"/></a>
+<a href="/assets/images/2009/dog_day.png"><img src="/assets/images/2009/dog_day-thumb.png" width="110" height="150" alt="dog resting by a fan"  class="photo right"/></a>
 
 
 Even in more northerly latitudes where Sirius remains invisible most of the year the Dog Days were still marked for their baleful influence. In Sweden the period July 23<sup>rd</sup> to August 23<sup>rd</sup> is known as "Rötmånad" and in Finland "Mätäkuu"  both literally meaning "rotting-month", due to the risk of foodstuff spoiling in the high temperatures.
@@ -60,7 +60,7 @@ In the U.K the term "dog days" suggests lounging around in dappled sunshine, sip
 
 
 
-<a href="//stmargarets.london/assets/images/2009/locating_sirius.png"><img src="//stmargarets.london/assets/images/2009/locating_sirius-thumb.png" width="150" height="100" alt="locating Sirius"   class="photo right" /></a>
+<a href="/assets/images/2009/locating_sirius.png"><img src="/assets/images/2009/locating_sirius-thumb.png" width="150" height="100" alt="locating Sirius"   class="photo right" /></a>
 
 
 bq. "Dog Days bright and clear / indicate a happy year. / But when accompanied by rain, / for better times our hopes are vain."

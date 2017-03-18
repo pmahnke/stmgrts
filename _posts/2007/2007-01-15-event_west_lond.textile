@@ -8,7 +8,7 @@ date: 2007-01-15 09:11:05
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/businessclinics.jpg" title="See larger version of - Business Consultations"><img src="//stmargarets.london/assets/images/2007/businessclinics_thumb.jpg" width="150" height="112" alt="Business Consultations" class="photo right" /></a>
+<a href="/assets/images/2007/businessclinics.jpg" title="See larger version of - Business Consultations"><img src="/assets/images/2007/businessclinics_thumb.jpg" width="150" height="112" alt="Business Consultations" class="photo right" /></a>
 
 Infiniti Resources, a local Twickenham based business, have been commissioned by the London Development Agency to assist small businesses, including startup companies, to find funding.  They are running a series of free clinics over the next few weeks.
  

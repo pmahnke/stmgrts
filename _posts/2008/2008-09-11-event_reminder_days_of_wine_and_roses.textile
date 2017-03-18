@@ -6,7 +6,7 @@ commentfile: 2008-09-11-event_reminder_days_of_wine_and_roses
 category: around_town
 date: 2008-09-11 15:26:57
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/Wine-n-Roses.jpg" title="See larger version of - Nikki Squire (Mona) with Kevin Boland (Donal)"><img src="//stmargarets.london/assets/images/2008/Wine-n-Roses_thumb.jpg" width="99" height="150" alt="Nikki Squire as Mona with Kevin Boland as Donal" class="photo right" /></a>
+    <a href="/assets/images/2008/Wine-n-Roses.jpg" title="See larger version of - Nikki Squire (Mona) with Kevin Boland (Donal)"><img src="/assets/images/2008/Wine-n-Roses_thumb.jpg" width="99" height="150" alt="Nikki Squire as Mona with Kevin Boland as Donal" class="photo right" /></a>
     
     Next up from the Richmond Shakespeare Society is Owen McCafferty's poignant love story "Days of Wine and Roses":https://stmargarets.london/event/play/200705141906, on stage at Twickenham's Mary Wallace Theatre from September 13 to 20.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/Wine-n-Roses.jpg" title="See larger version of - Nikki Squire (Mona) with Kevin Boland (Donal)"><img src="//stmargarets.london/assets/images/2008/Wine-n-Roses_thumb.jpg" width="99" height="150" alt="Nikki Squire as Mona with Kevin Boland as Donal" class="photo right" /></a>
+<a href="/assets/images/2008/Wine-n-Roses.jpg" title="See larger version of - Nikki Squire (Mona) with Kevin Boland (Donal)"><img src="/assets/images/2008/Wine-n-Roses_thumb.jpg" width="99" height="150" alt="Nikki Squire as Mona with Kevin Boland as Donal" class="photo right" /></a>
 
 Next up from the Richmond Shakespeare Society is Owen McCafferty's poignant love story "Days of Wine and Roses":https://stmargarets.london/event/play/200705141906, on stage at Twickenham's Mary Wallace Theatre from September 13 to 20.
 

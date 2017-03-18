@@ -6,7 +6,7 @@ commentfile: 2015-05-08-election_results_2015_tania_mathias_wins
 category: news
 date: 2015-05-08 21:07:48
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/Tania_Mathias_and_Boris_Johnson.jpg" title="See larger version of - Tania Mathias and Boris Johnson"><img src="//stmargarets.london/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg" width="150" height="92" alt="Tania Mathias and Boris Johnson" class="photo right" /></a>
+    <a href="/assets/images/2015/Tania_Mathias_and_Boris_Johnson.jpg" title="See larger version of - Tania Mathias and Boris Johnson"><img src="/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg" width="150" height="92" alt="Tania Mathias and Boris Johnson" class="photo right" /></a>
     
     We have a new MP.  Conservative Tania Mathias has pushed out Vince Cable.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Tania_Mathias_and_Boris_Johnson.jpg" title="See larger version of - Tania Mathias and Boris Johnson"><img src="//stmargarets.london/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg" width="250" height="153" alt="Tania Mathias and Boris Johnson" class="photo right" /></a>
+<a href="/assets/images/2015/Tania_Mathias_and_Boris_Johnson.jpg" title="See larger version of - Tania Mathias and Boris Johnson"><img src="/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg" width="250" height="153" alt="Tania Mathias and Boris Johnson" class="photo right" /></a>
 
 We have a new MP.  Conservative Tania Mathias has pushed out Vince Cable.
 
@@ -32,10 +32,10 @@ What do you think?
 |Magna&nbsp;Carta&nbsp;Party|David&nbsp;Wedgwood|26|0.0%|0.0%|
 
 
-<a href="//stmargarets.london/assets/images/2015/election-2015-change.png" title="See larger version of - election 2015 change"><img src="//stmargarets.london/assets/images/2015/election-2015-change_thumb.png" width="500" height="315" alt="election 2015 change" class="photo center" /></a>
+<a href="/assets/images/2015/election-2015-change.png" title="See larger version of - election 2015 change"><img src="/assets/images/2015/election-2015-change_thumb.png" width="500" height="315" alt="election 2015 change" class="photo center" /></a>
 
 
-<a href="//stmargarets.london/assets/images/2015/election_2015_pct.png" title="See larger version of - election 2015 pct"><img src="//stmargarets.london/assets/images/2015/election_2015_pct_thumb.png" width="500" height="327" alt="election 2015 pct" class="photo center" /></a>
+<a href="/assets/images/2015/election_2015_pct.png" title="See larger version of - election 2015 pct"><img src="/assets/images/2015/election_2015_pct_thumb.png" width="500" height="327" alt="election 2015 pct" class="photo center" /></a>
 
 Full data and details from the "BBC.":http://www.bbc.co.uk/news/politics/constituencies/E14001005
 

@@ -6,7 +6,7 @@ commentfile: 2015-12-19-cutters_is_now_online_win_cadbury
 category: around_town
 date: 2015-12-19 13:08:59
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/kate_cadbury_hamper.jpg" title="See larger version of - kate cadbury hamper"><img src="//stmargarets.london/assets/images/2015/kate_cadbury_hamper_thumb.jpg" width="150" height="200" alt="kate cadbury hamper" class="photo right" /></a>
+    <a href="/assets/images/2015/kate_cadbury_hamper.jpg" title="See larger version of - kate cadbury hamper"><img src="/assets/images/2015/kate_cadbury_hamper_thumb.jpg" width="150" height="200" alt="kate cadbury hamper" class="photo right" /></a>
     
     To celebrate their new Facebook and Twitter feeds, Cutters of 28 Crown Rd giving-away this gorgeous and delicious Cadbury Hamper!
     
@@ -15,7 +15,7 @@ excerpt: |
 
 
 
-<a href="//stmargarets.london/assets/images/2015/kate_cadbury_hamper.jpg" title="See larger version of - kate cadbury hamper"><img src="//stmargarets.london/assets/images/2015/kate_cadbury_hamper_thumb.jpg" width="250" height="333" alt="kate cadbury hamper" class="photo right" /></a>
+<a href="/assets/images/2015/kate_cadbury_hamper.jpg" title="See larger version of - kate cadbury hamper"><img src="/assets/images/2015/kate_cadbury_hamper_thumb.jpg" width="250" height="333" alt="kate cadbury hamper" class="photo right" /></a>
 
 To celebrate their new Facebook and Twitter feeds, Cutters of 28 Crown Rd giving-away this gorgeous and delicious Cadbury Hamper!
 

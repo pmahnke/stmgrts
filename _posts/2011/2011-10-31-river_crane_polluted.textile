@@ -6,14 +6,14 @@ commentfile: 2011-10-31-river_crane_polluted
 category: news
 date: 2011-10-31 13:49:08
 excerpt: |
-    <img src="//stmargarets.london/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
+    <img src="/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
 
     A two-metre valve (penstock) in a major sewer serving Heathrow Airport jammed shut on Saturday afternoon at Cranford Bridge on the A4 Bath Road while engineers carried out routine maintenance.
 ---
 
 <div class="letter">
 
-<img src="//stmargarets.london/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
+<img src="/assets/images/2011/pa310217.jpg" width="150" alt="Crane fish kill" class="photo right" />
 
 A two-metre valve (penstock) in a major sewer serving Heathrow Airport jammed shut on Saturday afternoon at Cranford Bridge on the A4 Bath Road while engineers carried out routine maintenance.
 
@@ -31,7 +31,7 @@ Once normal flows resume, probably later this morning, some stronger than normal
 
 </div>
 
-|<img src="//stmargarets.london/assets/images/2011/pa310213.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310214.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310221.jpg" width="150" alt="Crane fish kill" class="photo" />|
+|<img src="/assets/images/2011/pa310213.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310214.jpg" width="150" alt="Crane fish kill" class="photo" />|<img src="http://i44.servimg.com/u/f44/15/04/20/28/pa310221.jpg" width="150" alt="Crane fish kill" class="photo" />|
 
 And the result - _major fish-kill on the River Crane._
 

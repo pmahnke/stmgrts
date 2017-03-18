@@ -6,14 +6,14 @@ commentfile: 2014-05-17-st_margarets_limited_edition_multiprint_on_sale_no
 category: around_town
 date: 2014-05-17 12:44:25
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/St_Margs_multi-ap_black_parks.jpg" title="See larger version of - St Margs multi ap black parks"><img src="//stmargarets.london/assets/images/2014/St_Margs_multi-ap_black_parks_thumb.jpg" width="150" height="198" alt="St Margs multi ap black parks" class="photo right" /></a>
+    <a href="/assets/images/2014/St_Margs_multi-ap_black_parks.jpg" title="See larger version of - St Margs multi ap black parks"><img src="/assets/images/2014/St_Margs_multi-ap_black_parks_thumb.jpg" width="150" height="198" alt="St Margs multi ap black parks" class="photo right" /></a>
     
     Local photographer Helen Booker has produced this unique portrait of St Margarets. A wonderful gift for Dad on Father's Day (Sunday 15th June) - perfect for any St Margarets home. Its images reflect the diversity of the beautiful area in which we live and some of our favourite St Margarets haunts.
 
 ---
 
 
-<a href="//stmargarets.london/assets/images/2014/St_Margs_multi-ap_black_parks.jpg" title="See larger version of - St Margs multi ap black parks"><img src="//stmargarets.london/assets/images/2014/St_Margs_multi-ap_black_parks_thumb.jpg" width="150" height="198" alt="St Margs multi ap black parks" class="photo right" /></a>
+<a href="/assets/images/2014/St_Margs_multi-ap_black_parks.jpg" title="See larger version of - St Margs multi ap black parks"><img src="/assets/images/2014/St_Margs_multi-ap_black_parks_thumb.jpg" width="150" height="198" alt="St Margs multi ap black parks" class="photo right" /></a>
 
 Local photographer Helen Booker has produced this unique portrait of St Margarets. A wonderful gift for Dad on Father's Day (Sunday 15th June) - perfect for any St Margarets home. Its images reflect the diversity of the beautiful area in which we live and some of our favourite St Margarets haunts.
 

@@ -6,7 +6,7 @@ commentfile: 2015-05-08-chiswick_and_whitton_cricket_club_summer_2015
 category: around_town
 date: 2015-05-08 19:29:41
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U15.jpg" title="See larger version of - cricket poster summer 2015   U15"><img src="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg" width="150" height="106" alt="cricket poster summer 2015   U15" class="photo right" /></a>
+    <a href="/assets/images/2015/cricket-poster-summer-2015---U15.jpg" title="See larger version of - cricket poster summer 2015   U15"><img src="/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg" width="150" height="106" alt="cricket poster summer 2015   U15" class="photo right" /></a>
     
     Our summer training programme has just started and we are keen for local children to come along and have fun playing cricket.
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U9-13.jpg" title="See larger version of - cricket poster summer 2015   U9 13"><img src="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U9-13_thumb.jpg" width="250" height="176" alt="cricket poster summer 2015   U9 13" class="photo right" /></a>
+<a href="/assets/images/2015/cricket-poster-summer-2015---U9-13.jpg" title="See larger version of - cricket poster summer 2015   U9 13"><img src="/assets/images/2015/cricket-poster-summer-2015---U9-13_thumb.jpg" width="250" height="176" alt="cricket poster summer 2015   U9 13" class="photo right" /></a>
 
 Our summer training programme has just started and we are keen for local children to come along and have fun playing cricket.
 
@@ -24,7 +24,7 @@ Please see the attached poster for full details. School children aged 14 upwards
 
 
 
-<a href="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U15.jpg" title="See larger version of - cricket poster summer 2015   U15"><img src="//stmargarets.london/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg" width="250" height="176" alt="cricket poster summer 2015   U15" class="photo right" /></a>
+<a href="/assets/images/2015/cricket-poster-summer-2015---U15.jpg" title="See larger version of - cricket poster summer 2015   U15"><img src="/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg" width="250" height="176" alt="cricket poster summer 2015   U15" class="photo right" /></a>
 
 Also, we have been provided with a charitable donation to cover the annual subscription for children that are entitled to free school meals and who would otherwise not consider playing cricket due to financial hardship.
 

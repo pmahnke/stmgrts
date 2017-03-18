@@ -6,7 +6,7 @@ commentfile: 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term
 category: news
 date: 2014-02-14 09:12:31
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="//stmargarets.london/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
+    <a href="/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
     
     St Margarets Mum Ellie Wrigglesworth has always enjoyed mud and invites you and your children to come and share her passion!
     
@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="//stmargarets.london/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
+<a href="/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
 
 St Margarets Mum Ellie Wrigglesworth has always enjoyed mud and invites you and your children to come and share her passion!
 

@@ -8,7 +8,7 @@ date: 2005-09-13 21:42:18
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/autumnfairlayout.gif"><img src="//stmargarets.london/assets/images/2005/autumnfairlayout-thumb.gif" width="150" height="123" alt="Event Layout" class="right"/></a>
+<a href="/assets/images/2005/autumnfairlayout.gif"><img src="/assets/images/2005/autumnfairlayout-thumb.gif" width="150" height="123" alt="Event Layout" class="right"/></a>
 
 This Saturday, the 17<sup>th</sup> of September is the "St Margarets Autumn Event":/cgi-bin/events.cgi?key=200507211432&action=getevent in Crown Road.  There will be plenty of food, drink, music, entertainment and stalls to spend a couple of hours.  Even the weather is "looking good":http://www.metcheck.com/V40/UK/FREE/7days.asp?zipcode=tw1 (<em>fingers crossed</em>).  
 

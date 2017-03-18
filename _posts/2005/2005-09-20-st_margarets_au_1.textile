@@ -8,7 +8,7 @@ date: 2005-09-20 19:50:31
 
 ---
 
-<a href="//stmargarets.london/assets/images/2005/autfair05_street.jpg"><img src="//stmargarets.london/assets/images/2005/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
+<a href="/assets/images/2005/autfair05_street.jpg"><img src="/assets/images/2005/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
 
 The _St Margarets Autumn Fair_, held in Crown Road on Saturday, 17<sup>th</sup> September, was a big success.  Hundreds, perhaps a thousand, people came out to enjoy a day of live music, food, drink, clowns, art, a fun fair and more.
 

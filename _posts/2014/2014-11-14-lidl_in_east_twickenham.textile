@@ -6,13 +6,13 @@ commentfile: 2014-11-14-lidl_in_east_twickenham
 category: news
 date: 2014-11-14 08:46:55
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="//stmargarets.london/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="150" height="93" alt="LIDL Richmond Road drawing" class="photo right" /></a>
+    <a href="/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="150" height="93" alt="LIDL Richmond Road drawing" class="photo right" /></a>
     
     Lidl are developing a planning application and they are holding a Public Consultation evening on Friday, 14 November 2014 from 4 to 8pm at the Crossway Centre, part of St Stephen's Church.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="//stmargarets.london/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="250" height="155" alt="LIDL Richmond Road drawing" class="photo right" /></a>
+<a href="/assets/images/2014/LIDL-Richmond-Road.jpg" title="See larger version of - LIDL Richmond Road drawing"><img src="/assets/images/2014/LIDL-Richmond-Road_thumb.jpg" width="250" height="155" alt="LIDL Richmond Road drawing" class="photo right" /></a>
 
 Lidl are developing a planning application and they are holding a Public Consultation evening on Friday, 14 November 2014 from 4 to 8pm at the Crossway Centre, part of St Stephen's Church.
 

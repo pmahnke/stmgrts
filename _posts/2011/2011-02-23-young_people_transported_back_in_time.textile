@@ -8,7 +8,7 @@ date: 2011-02-23 11:12:15
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/nowistheseason_TFLMuseum.jpg"><img src="//stmargarets.london/assets/images/2011/nowistheseason_TFLMuseum-thumb.jpg" width="150" height="104" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2011/nowistheseason_TFLMuseum.jpg"><img src="/assets/images/2011/nowistheseason_TFLMuseum-thumb.jpg" width="150" height="104" alt="poster" class="photo right" /></a>
 
 
 Young people from Grey Court School are demonstrating their creative skills next month at an exhibition celebrating historical transport posters of the borough.

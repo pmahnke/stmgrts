@@ -6,7 +6,7 @@ commentfile: 2014-08-21-in_their_footsteps_richmonds_first_world_war_orlea
 category: around_town
 date: 2014-08-21 21:48:11
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/orleans_ww1_rsz_scanned_photo.jpg" title="See larger version of - Denis Conran, Private Collection"><img src="//stmargarets.london/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg" width="150" height="208" alt="Denis Conran, Private Collection" class="photo right" /></a>
+    <a href="/assets/images/2014/orleans_ww1_rsz_scanned_photo.jpg" title="See larger version of - Denis Conran, Private Collection"><img src="/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg" width="150" height="208" alt="Denis Conran, Private Collection" class="photo right" /></a>
     
     _This exhibition, created by young people, launches the borough's four-year commemoration of the First World War Centenary._
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/orleans_ww1_rsz_scanned_photo.jpg" title="See larger version of - Denis Conran, Private Collection"><img src="//stmargarets.london/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg" width="250" height="347" alt="Denis Conran, Private Collection" class="photo right" /></a>
+<a href="/assets/images/2014/orleans_ww1_rsz_scanned_photo.jpg" title="See larger version of - Denis Conran, Private Collection"><img src="/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg" width="250" height="347" alt="Denis Conran, Private Collection" class="photo right" /></a>
 
 _This exhibition, created by young people, launches the borough's four-year commemoration of the First World War Centenary._
 

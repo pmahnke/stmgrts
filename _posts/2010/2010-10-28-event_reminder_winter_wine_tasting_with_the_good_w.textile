@@ -8,7 +8,7 @@ date: 2010-10-28 22:18:56
 
 ---
 
-<img src="//stmargarets.london/assets/images/2010/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" />
+<img src="/assets/images/2010/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" />
 
 "Sunday 14<sup>th</sup> November - 12.30pm-3.30pm":https://stmargarets.london/event/exhibition/200705142622
 

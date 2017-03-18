@@ -6,7 +6,7 @@ commentfile: 2014-05-29-twickenham_bus_stops_move_from_2_june_2014
 category: news
 date: 2014-05-29 21:44:44
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/twickbusstop.png" title="See larger version of - twickenham bus stop"><img src="//stmargarets.london/assets/images/2014/twickbusstop_thumb.png" width="150" height="99" alt="twickenham bus stop" class="photo right" /></a>
+    <a href="/assets/images/2014/twickbusstop.png" title="See larger version of - twickenham bus stop"><img src="/assets/images/2014/twickbusstop_thumb.png" width="150" height="99" alt="twickenham bus stop" class="photo right" /></a>
     
     _The central Twickenham bus stops will be relocated from King Street to Heath Road, Cross Deep and York Street on Monday 2 June._
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/twickbusstop.png" title="See larger version of - twickenham bus stop"><img src="//stmargarets.london/assets/images/2014/twickbusstop_thumb.png" width="150" height="99" alt="twickenham bus stop" class="photo right" /></a>
+<a href="/assets/images/2014/twickbusstop.png" title="See larger version of - twickenham bus stop"><img src="/assets/images/2014/twickbusstop_thumb.png" width="150" height="99" alt="twickenham bus stop" class="photo right" /></a>
 
 _The central Twickenham bus stops will be relocated from King Street to Heath Road, Cross Deep and York Street on Monday 2 June._
 

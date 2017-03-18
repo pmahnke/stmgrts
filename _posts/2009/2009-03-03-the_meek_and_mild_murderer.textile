@@ -6,7 +6,7 @@ commentfile: 2009-03-03-the_meek_and_mild_murderer
 category: around_town
 date: 2009-03-03 21:38:32
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/nother_murder.jpg"><img src="//stmargarets.london/assets/images/2009/nother_murder-thumb.jpg" width="150" height="113" alt="bloodthirsty crowd of spectators"  class="photo right" /></a>
+    <a href="/assets/images/2009/nother_murder.jpg"><img src="/assets/images/2009/nother_murder-thumb.jpg" width="150" height="113" alt="bloodthirsty crowd of spectators"  class="photo right" /></a>
     
     
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/avershaw.jpg"><img src="//stmargarets.london/assets/images/2009/avershaw-thumb.jpg" width="99" height="150" alt="Jerry Avershaw" class="photo right" /></a>
+<a href="/assets/images/2009/avershaw.jpg"><img src="/assets/images/2009/avershaw-thumb.jpg" width="99" height="150" alt="Jerry Avershaw" class="photo right" /></a>
 
 
 
@@ -25,7 +25,7 @@ The 3<sup>rd</sup> August 1795 wasn't a good day for meek and mild John Little f
 John Little worked as a curator in the laboratory at Kew Observatory in the Old Deer Park at Richmond. This quiet and religious man had become a favourite of King George 3<sup>rd</sup> who he often attended on walks through the Observatory gardens. There was however another darker side to this apparently decent fellow. He had borrowed money from a friend, an elderly gentleman named McEvoy, who lived on the lane between Kew and Richmond. When Mr McEvoy suggested that it might be a good idea if the money was paid back John Little climbed into his house one night and beat him to death with a large stone. While he was there he also murdered McEvoy's elderly housekeeper Sarah King in similar fashion. The cries of distress roused the neighbours who called the constable.  Instead of making an escape while he had the chance, John Little hid himself in a chimney of the house where he was soon found and brought to justice. It was later suggested that John Little might have been involved in the murder of a man called Stroud whose body was found under an iron vice in the Octagon Room at Kew Observatory, proving that you never can tell with people!
 
 
-<a href="//stmargarets.london/assets/images/2009/nother_murder.jpg"><img src="//stmargarets.london/assets/images/2009/nother_murder-thumb.jpg" width="150" height="113" alt="bloodthirsty crowd of spectators"  class="photo right" /></a>
+<a href="/assets/images/2009/nother_murder.jpg"><img src="/assets/images/2009/nother_murder-thumb.jpg" width="150" height="113" alt="bloodthirsty crowd of spectators"  class="photo right" /></a>
 
 
 John Little was found guilty and sentenced to hang on Kennington Common. Joining him on the gallows was Sarah King who had murdered her illegitimate baby son. A newspaper of the day would not fail to remark on the curious coincidence that Sarah King was also the name of Little's second victim, the housekeeper.

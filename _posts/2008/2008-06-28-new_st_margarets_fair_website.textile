@@ -8,7 +8,7 @@ date: 2008-06-28 08:26:58
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/tshirt.jpg"><img src="//stmargarets.london/assets/images/2008/tshirt-thumb.jpg" width="142" height="150" alt="t-shirt" class="right" /></a>
+<a href="/assets/images/2008/tshirt.jpg"><img src="/assets/images/2008/tshirt-thumb.jpg" width="142" height="150" alt="t-shirt" class="right" /></a>
 
 
 From this week and throughout the year you can now find the St Margarets Fair at "www.stmargaretsfair.org":http://www.stmargaretsfair.org/.  On Saturday the 12<sup>th</sup> of July at 12pm the 30<sup>th</sup> Fair opens on its usual Moormead site.  It still continues to be the largest community and charity event in the area with over &pound;15000 shared between local schools and the charities last year.
@@ -17,7 +17,7 @@ To celebrate 30 years on Moormead, and in response to the feedback we had via la
 
 We've always been very proud of the way we cope with litter during and after the event.  Over the past 3 years in conjunction with the LBRUT we've made extra special efforts to make the event as recycle friendly as possible.  This year we're putting even more effort in that direction, and as always we really do appreciate your on the day contribution to make the Fair as green an event as possible.
 
-<a href="//stmargarets.london/assets/images/2008/talk_twosinglequotes.jpg"><img src="//stmargarets.london/assets/images/2008/talk_twosinglequotes-thumb.jpg" width="150" height="133" alt="New Fair Website" class="photo right" /></a>
+<a href="/assets/images/2008/talk_twosinglequotes.jpg"><img src="/assets/images/2008/talk_twosinglequotes-thumb.jpg" width="150" height="133" alt="New Fair Website" class="photo right" /></a>
 
 
 An added attraction this year comes from Twickenham Rowing Club with their dry land rowing machines and expertise.  You'll be able to try out your own rowing ability and then watch the finals of their local competition.

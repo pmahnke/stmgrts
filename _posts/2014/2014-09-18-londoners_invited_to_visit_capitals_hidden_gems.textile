@@ -6,7 +6,7 @@ commentfile: 2014-09-18-londoners_invited_to_visit_capitals_hidden_gems
 category: around_town
 date: 2014-09-18 19:42:21
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="//stmargarets.london/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="150" height="215" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
+    <a href="/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="150" height="215" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
     
     _Get on your bikes or put your best foot forward to raise much needed funds for London's places of worship!_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="//stmargarets.london/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="250" height="359" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
+<a href="/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="250" height="359" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
 
 _Get on your bikes or put your best foot forward to raise much needed funds for London's places of worship!_
 

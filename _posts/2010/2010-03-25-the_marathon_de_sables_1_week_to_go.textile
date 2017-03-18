@@ -6,14 +6,14 @@ commentfile: 2010-03-25-the_marathon_de_sables_1_week_to_go
 category: around_town
 date: 2010-03-25 19:21:57
 excerpt: |
-    <p><a href="//stmargarets.london/assets/images/2010/georgie.jpg"><img src="//stmargarets.london/assets/images/2010/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a></p>
+    <p><a href="/assets/images/2010/georgie.jpg"><img src="/assets/images/2010/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a></p>
     
     For 15 years I have wanted to do this incredible race and now it is imminent, less than a week away. I can't quite believe it. All my training and work has been done and I'm just doing the odd run to keep myself confident and in shape. I now need to pack and build myself up mentally.
     
 
 ---
 
-<p><a href="//stmargarets.london/assets/images/2010/georgie.jpg"><img src="//stmargarets.london/assets/images/2010/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a></p>
+<p><a href="/assets/images/2010/georgie.jpg"><img src="/assets/images/2010/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a></p>
 
 I'd firstly like to say a big thank you to all those who have kindly sponsored me to do this mad race, please if you would like to help me raise money for "F.R.O.D.O.":http://www.frodokids.org/ then please visit my just giving site at "justgiving.com/georgie-islip":http://justgiving.com/georgie-islip Thank you for all your support as it will keep me going through the tough stages of the race.
 

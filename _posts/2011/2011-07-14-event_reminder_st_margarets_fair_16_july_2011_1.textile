@@ -8,7 +8,7 @@ date: 2011-07-14 15:08:42
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2011/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2011/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 Don't forget that this Saturday, 16 July 2011, from 12 - 7.45pm, is the 33<sup>rd</sup> Annual St Margarets Fair in Moormead Park.
 

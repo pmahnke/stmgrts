@@ -6,7 +6,7 @@ commentfile: 2015-10-10-st_margarets_village_planning_consultation_and_dro
 category: news
 date: 2015-10-10 11:28:22
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="//stmargarets.london/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="150" height="208" alt="allinone stmgrts 20151009" class="photo right" /></a>
+    <a href="/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="150" height="208" alt="allinone stmgrts 20151009" class="photo right" /></a>
     
     "Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015":https://stmargarets.london/event/event/200705145247
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="//stmargarets.london/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="250" height="348" alt="allinone stmgrts 20151009" class="photo right" /></a>
+<a href="/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="250" height="348" alt="allinone stmgrts 20151009" class="photo right" /></a>
 
 "Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015":https://stmargarets.london/event/event/200705145247
 

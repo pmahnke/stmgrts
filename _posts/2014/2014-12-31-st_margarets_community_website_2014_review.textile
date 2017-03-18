@@ -6,12 +6,12 @@ commentfile: 2014-12-31-st_margarets_community_website_2014_review
 category: editorial
 date: 2014-12-31 09:06:05
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmargarets.london/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
+    <a href="/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
 
     As 2014 comes to a close, we wanted to share some quick stats on the year that's gone by.
 ---
 
-<a href="//stmargarets.london/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmargarets.london/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
+<a href="/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="/assets/images/2014/chart1-2_thumb.png" width="150" height="142" alt="how people access" class="right" /></a>
 
 As 2014 comes to a close, we wanted to share some quick stats on the year that's gone by.
 
@@ -70,7 +70,7 @@ No big growth in users, but where we are is fine by us.
 
 h3. How people accessed the site
 
-<a href="//stmargarets.london/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="//stmargarets.london/assets/images/2014/chart1-2_thumb.png" width="250" height="237" alt="how people access" class="photo right" /></a>
+<a href="/assets/images/2014/chart1-2.png" title="See larger version of - how people access"><img src="/assets/images/2014/chart1-2_thumb.png" width="250" height="237" alt="how people access" class="photo right" /></a>
 
 One trend we have been watching is how many people are now using the site on phones and tablets.  This is why we made the site responsive in June, to work better on smaller screens.
 

@@ -6,7 +6,7 @@ commentfile: 2008-10-10-event_reminder_big_band_blitz_2008
 category: around_town
 date: 2008-10-10 22:14:36
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/BigBandBlitz.jpg"><img src="//stmargarets.london/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
+    <a href="/assets/images/2008/BigBandBlitz.jpg"><img src="/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
     
     
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/BigBandBlitz.jpg"><img src="//stmargarets.london/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
+<a href="/assets/images/2008/BigBandBlitz.jpg"><img src="/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
 
 
 Step back in time, return to the 1940s and dance the night away at "Big Band Blitz":https://stmargarets.london/event/show/200705141991.  This popular and highly successful annual 1940s event will this year celebrate the 20th Anniversary of the opening of The Museum of Richmond by Her Majesty Queen Elizabeth II.

@@ -6,17 +6,17 @@ commentfile: 2015-05-21-watermans_arts_centre_childrens_activities
 category: around_town
 date: 2015-05-21 19:03:27
 excerpt: |
-    <img src="//stmargarets.london/assets/images/directory/201505081402_Watermans.jpg" width="150" class="right" alt="logo" />
+    <img src="/assets/images/directory/201505081402_Watermans.jpg" width="150" class="right" alt="logo" />
     
     Watermans is an arts centre on the banks of the Thames in Brentford, near Kew Bridge station. It's great for families with lots of regular activities from babies to teens including theatre, cinema, workshops and holiday activities, plus a large cafe/restaurant and on-site car park. "See our website for up to date listings.":http://www.watermans.org.uk/
 
 ---
 
-<img src="//stmargarets.london/assets/images/directory/201505081402_Watermans.jpg" width="250" class="right" alt="logo" />
+<img src="/assets/images/directory/201505081402_Watermans.jpg" width="250" class="right" alt="logo" />
 
 Watermans is an arts centre on the banks of the Thames in Brentford, near Kew Bridge station. It's great for families with lots of regular activities from babies to teens including theatre, cinema, workshops and holiday activities, plus a large cafe/restaurant and on-site car park. "See our website for up to date listings.":http://www.watermans.org.uk/
 
-<a href="//stmargarets.london/assets/images/2015/Dino_print_illustration.jpg" title="See larger version of - Dino print illustration"><img src="//stmargarets.london/assets/images/2015/Dino_print_illustration_thumb.jpg" width="250" height="306" alt="Dino print illustration" class="right" /></a>
+<a href="/assets/images/2015/Dino_print_illustration.jpg" title="See larger version of - Dino print illustration"><img src="/assets/images/2015/Dino_print_illustration_thumb.jpg" width="250" height="306" alt="Dino print illustration" class="right" /></a>
 
 h3. Babies & Toddlers
 

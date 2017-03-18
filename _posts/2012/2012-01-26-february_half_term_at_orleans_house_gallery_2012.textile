@@ -8,7 +8,7 @@ date: 2012-01-26 21:54:09
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/orleans_half_term.jpg" title="See larger version of - orleans half term"><img src="//stmargarets.london/assets/images/2012/orleans_half_term_thumb.jpg" width="150" height="210" alt="orleans half term" class="photo right" /></a>
+<a href="/assets/images/2012/orleans_half_term.jpg" title="See larger version of - orleans half term"><img src="/assets/images/2012/orleans_half_term_thumb.jpg" width="150" height="210" alt="orleans half term" class="photo right" /></a>
 
 
 Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating. "Visit our website":http://www.richmond.gov.uk/arts

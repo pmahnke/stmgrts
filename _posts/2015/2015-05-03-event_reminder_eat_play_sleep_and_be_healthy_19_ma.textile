@@ -6,13 +6,13 @@ commentfile: 2015-05-03-event_reminder_eat_play_sleep_and_be_healthy_19_ma
 category: around_town
 date: 2015-05-03 07:41:38
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="//stmargarets.london/assets/images/2015/fss_baby_thumb.jpg" width="150" height="99" alt="fss baby" class="photo right" /></a>
+    <a href="/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="/assets/images/2015/fss_baby_thumb.jpg" width="150" height="99" alt="fss baby" class="photo right" /></a>
     
     "For Sanity's Sake":https://stmargarets.london/directory/childrens/201012151646 has lots to offer parents at its next event -  _Eat, Play, Sleep & Be Healthy_ at Movers & Shapers in St Margarets on Tuesday, 19 May 2015!
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="//stmargarets.london/assets/images/2015/fss_baby_thumb.jpg" width="250" height="166" alt="fss baby" class="photo right" /></a>
+<a href="/assets/images/2015/fss_baby.jpg" title="See larger version of - fss baby"><img src="/assets/images/2015/fss_baby_thumb.jpg" width="250" height="166" alt="fss baby" class="photo right" /></a>
 
 _If You Have a Child Age 2 or Under, Don't Miss the For Sanity's Sake "Eat, Play, Sleep & Be Healthy" Parenting Event!_
 

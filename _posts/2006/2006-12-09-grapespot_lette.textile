@@ -19,9 +19,9 @@ Grapespot Limited
 
 p. The letters.
 
-|<a href="//stmargarets.london/assets/images/2006/Letter_to_H_Jacobs.gif"><img src="//stmargarets.london/assets/images/2006/Letter_to_H_Jacobs-thumb.gif" width="108" height="150" alt="Letter to Harry Jacobs from Grapespot's lawyers - page 1" class="photo"/></a>
+|<a href="/assets/images/2006/Letter_to_H_Jacobs.gif"><img src="/assets/images/2006/Letter_to_H_Jacobs-thumb.gif" width="108" height="150" alt="Letter to Harry Jacobs from Grapespot's lawyers - page 1" class="photo"/></a>
 <br />Letter to Harry Jacobs from Grapespot's lawyers (page 1)
-|<a href="//stmargarets.london/assets/images/2006/H_Jacobs_appeal_withdrawn.gif"><img src="//stmargarets.london/assets/images/2006/H_Jacobs_appeal_withdrawn-thumb.gif" width="108" height="150" alt="Letter stating the appeal has been withdrawn." class="photo" /></a>
+|<a href="/assets/images/2006/H_Jacobs_appeal_withdrawn.gif"><img src="/assets/images/2006/H_Jacobs_appeal_withdrawn-thumb.gif" width="108" height="150" alt="Letter stating the appeal has been withdrawn." class="photo" /></a>
 <br />Letter stating the appeal has been withdrawn.|
 
 

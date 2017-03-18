@@ -6,7 +6,7 @@ commentfile: 2012-01-13-event_reminder_sixties_night_3_february_2012
 category: around_town
 date: 2012-01-13 17:48:26
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/60sNight-info.jpg" title="See larger version of - 60sNight info"><img src="//stmargarets.london/assets/images/2012/60sNight-info_thumb.jpg" width="150" height="105" alt="60sNight info" class="photo right" /></a>
+    <a href="/assets/images/2012/60sNight-info.jpg" title="See larger version of - 60sNight info"><img src="/assets/images/2012/60sNight-info_thumb.jpg" width="150" height="105" alt="60sNight info" class="photo right" /></a>
     
     _3<sup>rd</sup> February 7.30pm til midnight in Winchester Hall, Turks Head Pub_
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/60sNight-info.jpg" title="See larger version of - 60sNight info"><img src="//stmargarets.london/assets/images/2012/60sNight-info_thumb.jpg" width="150" height="105" alt="60sNight info" class="photo right" /></a>
+<a href="/assets/images/2012/60sNight-info.jpg" title="See larger version of - 60sNight info"><img src="/assets/images/2012/60sNight-info_thumb.jpg" width="150" height="105" alt="60sNight info" class="photo right" /></a>
 
 _3<sup>rd</sup> February 7.30pm til midnight in Winchester Hall, Turks Head Pub_
 

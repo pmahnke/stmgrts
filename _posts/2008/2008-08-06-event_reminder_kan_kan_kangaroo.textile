@@ -8,7 +8,7 @@ date: 2008-08-06 15:49:51
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/larks_kan_kan.jpg" title="See larger version of - Kan Kan"><img src="//stmargarets.london/assets/images/2008/larks_kan_kan_thumb.jpg" width="150" height="98" alt="Kan Kan" class="photo right" /></a>
+<a href="/assets/images/2008/larks_kan_kan.jpg" title="See larger version of - Kan Kan"><img src="/assets/images/2008/larks_kan_kan_thumb.jpg" width="150" height="98" alt="Kan Kan" class="photo right" /></a>
 
 Jactito Theatre presents "Kan Kan Kangaroo":https://stmargarets.london/event/play/200705141893 this Thursday, 7 August in Moormead Park, 2pm for children aged 2 to 5.
 

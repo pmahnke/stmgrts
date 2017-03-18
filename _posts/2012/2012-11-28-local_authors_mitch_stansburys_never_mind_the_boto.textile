@@ -6,13 +6,13 @@ commentfile: 2012-11-28-local_authors_mitch_stansburys_never_mind_the_boto
 category: around_town
 date: 2012-11-28 20:55:12
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/Never-mind-botox-cover.png" title="See larger version of - Never mind botox cover"><img src="//stmargarets.london/assets/images/2012/Never-mind-botox-cover_thumb.png" width="150" height="212" alt="Never mind botox cover" class="photo right" /></a>
+    <a href="/assets/images/2012/Never-mind-botox-cover.png" title="See larger version of - Never mind botox cover"><img src="/assets/images/2012/Never-mind-botox-cover_thumb.png" width="150" height="212" alt="Never mind botox cover" class="photo right" /></a>
 
     St Margarets writer Mitch Stansbury has just released his second book, describing it as a middle-aged, mid-life crisis rock'n'roll diary.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/Never-mind-botox-cover.png" title="See larger version of - Never mind botox cover"><img src="//stmargarets.london/assets/images/2012/Never-mind-botox-cover_thumb.png" width="150" height="212" alt="Never mind botox cover" class="photo right" /></a>
+<a href="/assets/images/2012/Never-mind-botox-cover.png" title="See larger version of - Never mind botox cover"><img src="/assets/images/2012/Never-mind-botox-cover_thumb.png" width="150" height="212" alt="Never mind botox cover" class="photo right" /></a>
 
 St Margarets writer Mitch Stansbury has just released his second book, describing it as a middle-aged, mid-life crisis rock'n'roll diary.
 

@@ -6,13 +6,13 @@ commentfile: 2012-05-11-event_reminder_queens_diamond_jubilee_richmond_par
 category: around_town
 date: 2012-05-11 09:09:17
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/qdj_logo.gif" title="See larger version of - queen's diamond jubilee logo"><img src="//stmargarets.london/assets/images/2012/qdj_logo_thumb.gif" width="150" height="212" alt="queen's diamond jubilee logo" class=" right" /></a>
+    <a href="/assets/images/2012/qdj_logo.gif" title="See larger version of - queen's diamond jubilee logo"><img src="/assets/images/2012/qdj_logo_thumb.gif" width="150" height="212" alt="queen's diamond jubilee logo" class=" right" /></a>
     
     In Her Majesty's first official visit to the borough in 23 years, The Queen will attend the specially commissioned community festival 'Wild London' in Richmond Park on 15 May 2012.  Richmond Council and The Royal Parks have teamed up to host this special event which will pay tribute to The Queen's six decades on the throne and celebrate both London's natural environment and the important role that the borough's parks and gardens play in bringing people closer to nature.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/qdj_logo.gif" title="See larger version of - queen's diamond jubilee logo"><img src="//stmargarets.london/assets/images/2012/qdj_logo_thumb.gif" width="150" height="212" alt="queen's diamond jubilee logo" class=" right" /></a>
+<a href="/assets/images/2012/qdj_logo.gif" title="See larger version of - queen's diamond jubilee logo"><img src="/assets/images/2012/qdj_logo_thumb.gif" width="150" height="212" alt="queen's diamond jubilee logo" class=" right" /></a>
 
 In Her Majesty's first official visit to the borough in 23 years, The Queen will attend the specially commissioned community festival 'Wild London' in Richmond Park on 15 May 2012.  Richmond Council and The Royal Parks have teamed up to host this special event which will pay tribute to The Queen's six decades on the throne and celebrate both London's natural environment and the important role that the borough's parks and gardens play in bringing people closer to nature.
 

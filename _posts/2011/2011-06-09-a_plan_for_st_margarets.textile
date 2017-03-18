@@ -6,7 +6,7 @@ commentfile: 2011-06-09-a_plan_for_st_margarets
 category: news
 date: 2011-06-09 12:33:24
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="//stmargarets.london/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
+    <a href="/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
 
     The "St Margarets Traders Association":http://www.mystmargarets.com has published a leaflet that will soon be distributed to local residents.  It highlights the Traders ideas for improving the high street without cost to the Council.
 
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="//stmargarets.london/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
+<a href="/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
 
 The "St Margarets Traders Association":http://www.mystmargarets.com has published a leaflet that will soon be distributed to local residents.  It highlights the Traders ideas for improving the high street without cost to the Council.
 

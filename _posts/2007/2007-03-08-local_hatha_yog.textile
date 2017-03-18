@@ -8,7 +8,7 @@ date: 2007-03-08 22:09:29
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/yoga.jpg"><img src="//stmargarets.london/assets/images/2007/yoga-thumb.jpg" width="150" height="152" alt="downward dog yoga logo" class="right" /></a>
+<a href="/assets/images/2007/yoga.jpg"><img src="/assets/images/2007/yoga-thumb.jpg" width="150" height="152" alt="downward dog yoga logo" class="right" /></a>
 
 
 Hatha yoga is 5,000 years old. It is non-competitive and it teaches us self-discipline and self-awareness.

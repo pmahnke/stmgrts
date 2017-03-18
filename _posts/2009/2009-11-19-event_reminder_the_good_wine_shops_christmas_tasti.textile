@@ -6,7 +6,7 @@ commentfile: 2009-11-19-event_reminder_the_good_wine_shops_christmas_tasti
 category: around_town
 date: 2009-11-19 15:08:52
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/good_wine_tasting.jpg" title="See larger version of - Good Wine tasting"><img src="//stmargarets.london/assets/images/2009/good_wine_tasting_thumb.jpg" width="150" height="113" alt="Good Wine tasting" class="photo right" /></a>
+    <a href="/assets/images/2009/good_wine_tasting.jpg" title="See larger version of - Good Wine tasting"><img src="/assets/images/2009/good_wine_tasting_thumb.jpg" width="150" height="113" alt="Good Wine tasting" class="photo right" /></a>
     
     The Good Wine Shop is holding it's "annual Christmas tasting this Fri 20th November 2009":https://stmargarets.london/event/event/200705142317 and you’re invited!
     
@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/good_wine_tasting.jpg" title="See larger version of - Good Wine tasting"><img src="//stmargarets.london/assets/images/2009/good_wine_tasting_thumb.jpg" width="150" height="113" alt="Good Wine tasting" class="photo right" /></a>
+<a href="/assets/images/2009/good_wine_tasting.jpg" title="See larger version of - Good Wine tasting"><img src="/assets/images/2009/good_wine_tasting_thumb.jpg" width="150" height="113" alt="Good Wine tasting" class="photo right" /></a>
 
 The Good Wine Shop is holding it's "annual Christmas tasting this Fri 20th November 2009":https://stmargarets.london/event/event/200705142317 and you’re invited!
 

@@ -8,7 +8,7 @@ date: 2008-04-24 10:35:09
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/petersham_meadows.jpg" title="See larger version of - Petersham Meadows"><img src="//stmargarets.london/assets/images/2008/petersham_meadows_thumb.jpg" width="300" height="78" alt="Petersham Meadows" class="photo right" /></a>
+<a href="/assets/images/2008/petersham_meadows.jpg" title="See larger version of - Petersham Meadows"><img src="/assets/images/2008/petersham_meadows_thumb.jpg" width="300" height="78" alt="Petersham Meadows" class="photo right" /></a>
 
 This May bank holiday the villagers of Petersham will be "throwing open their gardens to the public to help raise money for the Petersham Trust":https://stmargarets.london/event/tour/200705141810. Ten gardens will be included in the ticket price of &pound;10 per adult or &pound; 20 per family - under 16s are free.
 

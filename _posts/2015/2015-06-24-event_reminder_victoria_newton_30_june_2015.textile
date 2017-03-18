@@ -6,7 +6,7 @@ commentfile: 2015-06-24-event_reminder_victoria_newton_30_june_2015
 category: around_town
 date: 2015-06-24 22:10:13
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/Victoria_newton.jpg" title="See larger version of - Victoria newton"><img src="//stmargarets.london/assets/images/2015/Victoria_newton_thumb.jpg" width="150"  alt="Victoria newton" class="photo right" /></a>
+    <a href="/assets/images/2015/Victoria_newton.jpg" title="See larger version of - Victoria newton"><img src="/assets/images/2015/Victoria_newton_thumb.jpg" width="150"  alt="Victoria newton" class="photo right" /></a>
     
     _Stunning Jazz vocalist with Tim Lapthorn on piano_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Victoria_newton.jpg" title="See larger version of - Victoria newton"><img src="//stmargarets.london/assets/images/2015/Victoria_newton_thumb.jpg" width="250" height="361" alt="Victoria newton" class="photo right" /></a>
+<a href="/assets/images/2015/Victoria_newton.jpg" title="See larger version of - Victoria newton"><img src="/assets/images/2015/Victoria_newton_thumb.jpg" width="250" height="361" alt="Victoria newton" class="photo right" /></a>
 
 _Stunning Jazz vocalist with Tim Lapthorn on piano_
 

@@ -6,7 +6,7 @@ commentfile: 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford
 category: around_town
 date: 2009-03-26 22:58:07
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/pocahontas.jpg"><img src="//stmargarets.london/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
+    <a href="/assets/images/2009/pocahontas.jpg"><img src="/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
     
     
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/pocahontas.jpg"><img src="//stmargarets.london/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
+<a href="/assets/images/2009/pocahontas.jpg"><img src="/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
 
 
 
@@ -28,7 +28,7 @@ The first English colonists arrived in Virginia in May 1607 when Pocahontas was 
 bq. "Pocahontas, the Kings dearest daughter, when no entreaty could prevaile, got his head in her armes, and laid her owne upon his to save him from death".
 
 
-<a href="//stmargarets.london/assets/images/2009/Pocahontasandson.jpg"><img src="//stmargarets.london/assets/images/2009/Pocahontasandson-thumb.jpg" width="110" height="150" alt="Pocahontas and son" class="photo right" /></a>
+<a href="/assets/images/2009/Pocahontasandson.jpg"><img src="/assets/images/2009/Pocahontasandson-thumb.jpg" width="110" height="150" alt="Pocahontas and son" class="photo right" /></a>
 
 
 

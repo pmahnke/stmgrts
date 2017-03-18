@@ -6,7 +6,7 @@ commentfile: 2015-01-15-voice_works_voice_and_singing_workshops
 category: around_town
 date: 2015-01-15 22:03:44
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2015/voice-works-flyer.png" title="See larger version of - voice works flyer"><img src="//stmargarets.london/assets/images/2015/voice-works-flyer_thumb.png" width="150" height="191" alt="voice works flyer" class="photo right" /></a>
+    <a href="/assets/images/2015/voice-works-flyer.png" title="See larger version of - voice works flyer"><img src="/assets/images/2015/voice-works-flyer_thumb.png" width="150" height="191" alt="voice works flyer" class="photo right" /></a>
     
     
     _Where you can find your voice!_
@@ -16,7 +16,7 @@ excerpt: |
 ---
 
 
-<a href="//stmargarets.london/assets/images/2015/voice-works-flyer.png" title="See larger version of - voice works flyer"><img src="//stmargarets.london/assets/images/2015/voice-works-flyer_thumb.png" width="250" height="318" alt="voice works flyer" class="photo right" /></a>
+<a href="/assets/images/2015/voice-works-flyer.png" title="See larger version of - voice works flyer"><img src="/assets/images/2015/voice-works-flyer_thumb.png" width="250" height="318" alt="voice works flyer" class="photo right" /></a>
 
 _Where you can find your voice!_
 

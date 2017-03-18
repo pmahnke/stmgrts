@@ -7,7 +7,7 @@ category: news
 date: 2014-08-31 08:17:45
 excerpt: |
     
-    <a href="//stmargarets.london/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="//stmargarets.london/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="150" height="99" alt="Wadih Hanna Chourey" class="photo right" /></a>
+    <a href="/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="150" height="99" alt="Wadih Hanna Chourey" class="photo right" /></a>
     
     _Down's syndrome boy faces being deported from Britain after 17 years - because his parents died_
     
@@ -18,7 +18,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="//stmargarets.london/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="250" height="166" alt="Wadih Hanna Chourey" class="photo right" /></a>
+<a href="/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="250" height="166" alt="Wadih Hanna Chourey" class="photo right" /></a>
 
 _Down's syndrome boy faces being deported from Britain after 17 years - because his parents died_
 

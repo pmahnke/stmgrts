@@ -6,24 +6,24 @@ commentfile: 2012-02-03-_bq_a_meal_is
 category: around_town
 date: 2012-02-03 13:11:48
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2012/CALVES_Calves-Head.jpg" title="See larger version of - Calves Head Club"><img src="//stmargarets.london/assets/images/2012/CALVES_Calves-Head_thumb.jpg" width="150" height="243" alt="Calves Head Club" class="photo right" /></a>
+    <a href="/assets/images/2012/CALVES_Calves-Head.jpg" title="See larger version of - Calves Head Club"><img src="/assets/images/2012/CALVES_Calves-Head_thumb.jpg" width="150" height="243" alt="Calves Head Club" class="photo right" /></a>
 
     When despots fall and regimes crumble it often results in unease amongst the populace. There will be some - Group A, who are happy to welcome the new system with the optimistic hope that it will lead to better times. There will be others - Group B, who will mourn the passing of the old arrangement but do it rather quietly fearing an adverse reaction from Group A. There will be Group C whose lives, brief and brutish, will remain unchanged - and there will be group D who will celebrate the change in circumstances loudly with a slap up meal.
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/CALVES_Calves-Head.jpg" title="See larger version of - Calves Head Club"><img src="//stmargarets.london/assets/images/2012/CALVES_Calves-Head_thumb.jpg" width="150" height="243" alt="Calves Head Club" class="photo right" /></a>
+<a href="/assets/images/2012/CALVES_Calves-Head.jpg" title="See larger version of - Calves Head Club"><img src="/assets/images/2012/CALVES_Calves-Head_thumb.jpg" width="150" height="243" alt="Calves Head Club" class="photo right" /></a>
 
 
 bq. "A meal is made by the company you keep - so be careful who you dine with!"
 
 When despots fall and regimes crumble it often results in unease amongst the populace. There will be some - Group A, who are happy to welcome the new system with the optimistic hope that it will lead to better times. There will be others - Group B, who will mourn the passing of the old arrangement but do it rather quietly fearing an adverse reaction from Group A. There will be Group C whose lives, brief and brutish, will remain unchanged - and there will be group D who will celebrate the change in circumstances loudly with a slap up meal.
 
-<a href="//stmargarets.london/assets/images/2012/CALVES_execution-charles.jpg" title="See larger version of - Charles I's execution"><img src="//stmargarets.london/assets/images/2012/CALVES_execution-charles_thumb.jpg" width="150" height="81" alt="Charles I's execution" class="photo right" /></a>
+<a href="/assets/images/2012/CALVES_execution-charles.jpg" title="See larger version of - Charles I's execution"><img src="/assets/images/2012/CALVES_execution-charles_thumb.jpg" width="150" height="81" alt="Charles I's execution" class="photo right" /></a>
 
 When King Charles 1<sup>st</sup> was executed on 30<sup>th</sup> January 1649 there were some - Anabaptists, republicans and supporters of Oliver Cromwell - who thought that it wasn't enough just to chop off his head. They believed that after a murderous civil war for which the king was found _"guilty of all the treasons, murders, rapines, burnings, spoils, desolations, damages and mischiefs to this nation, acted and committed in the said wars, or occasioned thereby,"_ the removal of his head should be marked in a more celebratory way, so they formed the Calves Head Club. It met in various houses around the country on the 30<sup>th</sup> January, the anniversary of the king's execution, to share an unusual meal:-  a cod's head, representing the king's family, the Stuarts, a pike representing tyranny, a boar's head representing the king sponging off his subjects and a calves head to represent the king and his supporters. The table decoration was an axe. After the meal the 'Eikon Basilike', an autobiography attributed to the king, was burnt on the table and a toast drunk to _"To those worthy patriots who killed the tyrant."_ Then the celebrants sang specially written anthems...
 
-<a href="//stmargarets.london/assets/images/2012/CALVES_charles-I.jpg" title="See larger version of - Charles I"><img src="//stmargarets.london/assets/images/2012/CALVES_charles-I_thumb.jpg" width="150" height="213" alt="Charles I" class="photo right" /></a>
+<a href="/assets/images/2012/CALVES_charles-I.jpg" title="See larger version of - Charles I"><img src="/assets/images/2012/CALVES_charles-I_thumb.jpg" width="150" height="213" alt="Charles I" class="photo right" /></a>
 
 
 bq.. Now let us sing, carouse and roar
@@ -57,7 +57,7 @@ bq. 'Some young noblemen and gentlemen met at a tavern in Suffolk Street [Charin
 
 ??Gentleman's Magazine for 1735, vol. v., p. 105, January 30<sup>th</sup>??
 
-<a href="//stmargarets.london/assets/images/2012/CALVES_riot-at-calves-head-club.jpg" title="See larger version of - riot at calves head club"><img src="//stmargarets.london/assets/images/2012/CALVES_riot-at-calves-head-club_thumb.jpg" width="150" height="199" alt="riot at calves head club" class="photo right" /></a>
+<a href="/assets/images/2012/CALVES_riot-at-calves-head-club.jpg" title="See larger version of - riot at calves head club"><img src="/assets/images/2012/CALVES_riot-at-calves-head-club_thumb.jpg" width="150" height="199" alt="riot at calves head club" class="photo right" /></a>
 
 
 The _Weekly Chronicle_, stated that the damage was estimated at _'some hundred pounds,'_ and that _'the guards were posted all night in the street, for the security of the neighbourhood'_ ... and that apparently was the end of the Calves Head Club. After a final night of riot and rampage in Suffolk Street nothing more was heard of them again.

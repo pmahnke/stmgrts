@@ -6,7 +6,7 @@ commentfile: 2014-11-14-the_war_walk_2_from_ypres_to_isleworth
 category: around_town
 date: 2014-11-14 12:52:19
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2014/WARWALK2_battle_of_ypres.jpg" title="See larger version of -  battle of ypres"><img src="//stmargarets.london/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg" width="150" height="97" alt=" battle of ypres" class="photo right" /></a>
+    <a href="/assets/images/2014/WARWALK2_battle_of_ypres.jpg" title="See larger version of -  battle of ypres"><img src="/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg" width="150" height="97" alt=" battle of ypres" class="photo right" /></a>
     
     Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, Haliburton Road. With the information gathered, on Saturday October 25<sup>th</sup> we were able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Nearly 100 people took part. Here are some more WW1 stories from our own St Margarets streets:-
 
@@ -14,7 +14,7 @@ excerpt: |
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK2_battle_of_ypres.jpg" title="See larger version of -  battle of ypres"><img src="//stmargarets.london/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg" width="250" height="162" alt=" battle of ypres" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK2_battle_of_ypres.jpg" title="See larger version of -  battle of ypres"><img src="/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg" width="250" height="162" alt=" battle of ypres" class="photo right" /></a>
 
 Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, Haliburton Road. With the information gathered, on Saturday October 25<sup>th</sup> we were able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Nearly 100 people took part. Here are some more WW1 stories from our own St Margarets streets:-
 
@@ -31,7 +31,7 @@ A leading seaman aboard the cruiser <em>'HMS Hampshire'</em>, the ship carrying 
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK2_HMS_Hampshire.jpg" title="See larger version of - HMS Hampshire"><img src="//stmargarets.london/assets/images/2014/WARWALK2_HMS_Hampshire_thumb.jpg" width="250" height="202" alt="HMS Hampshire" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK2_HMS_Hampshire.jpg" title="See larger version of - HMS Hampshire"><img src="/assets/images/2014/WARWALK2_HMS_Hampshire_thumb.jpg" width="250" height="202" alt="HMS Hampshire" class="photo right" /></a>
 
 There are all kinds of rumours surrounding the sinking of the <em>'Hampshire'</em> and the death of Kitchener. Was there some dark plan to get rid of this celebrated but generally inefficient and sexually suspect man? C. P. Scott, editor of <em>'The Manchester Guardian'</em>, is said to have remarked that <em>"as for the old man, he could not have done better than to have gone down, as he was a great impediment lately."</em>
 
@@ -42,7 +42,7 @@ Why, it is asked, did the <em>'Hampshire'</em> leave port in such a hurry, when 
 h4. ALBERTUS DEGENS
 
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK2_Degens_Barber_Shop.jpg" title="See larger version of - Degens Barber Shop"><img src="//stmargarets.london/assets/images/2014/WARWALK2_Degens_Barber_Shop_thumb.jpg" width="250" height="325" alt="Degens Barber Shop" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK2_Degens_Barber_Shop.jpg" title="See larger version of - Degens Barber Shop"><img src="/assets/images/2014/WARWALK2_Degens_Barber_Shop_thumb.jpg" width="250" height="325" alt="Degens Barber Shop" class="photo right" /></a>
 
 
 Born in Nijmegen in Holland in 1883. In 1900 he opened a barber shop in Talbot Road where he lived with his wife Helen and 4 daughters. He was killed on the 16<sup>th</sup> April 1917 in the closing stages of the assault on Vimy Ridge.
@@ -54,7 +54,7 @@ Formerly a brewery vatman and fitter, was a Private with the 34<sup>th</sup> Lon
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK2_Field_Punishment_No1.jpg" title="See larger version of - Field Punishment No1"><img src="//stmargarets.london/assets/images/2014/WARWALK2_Field_Punishment_No1_thumb.jpg" width="250" height="304" alt="Field Punishment No1" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK2_Field_Punishment_No1.jpg" title="See larger version of - Field Punishment No1"><img src="/assets/images/2014/WARWALK2_Field_Punishment_No1_thumb.jpg" width="250" height="304" alt="Field Punishment No1" class="photo right" /></a>
 
 Field Punishment 1 for minor crimes like drunkenness, stealing etc usually consisted of the soldier been tied <em>'at attention'</em> to a fixed object like a gun wheel or post for up to 2 hours a day. It was very uncomfortable with soldiers being unable to move or scratch lice. Sometimes the soldiers were placed within sight of the enemy - but apparently out of range. During World War I Field Punishment Number One was issued by the British Army on 60210 occasions.
 
@@ -66,7 +66,7 @@ A Dock Errand boy on Lion Wharf in Isleworth and married to Hetty who came from 
 
 <div class="box">
 
-<a href="//stmargarets.london/assets/images/2014/WARWALK2_the_blockhouses_at_Tyne_Cot.jpg" title="See larger version of - the blockhouses at Tyne Cot"><img src="//stmargarets.london/assets/images/2014/WARWALK2_the_blockhouses_at_Tyne_Cot_thumb.jpg" width="250" height="175" alt="the blockhouses at Tyne Cot" class="photo right" /></a>
+<a href="/assets/images/2014/WARWALK2_the_blockhouses_at_Tyne_Cot.jpg" title="See larger version of - the blockhouses at Tyne Cot"><img src="/assets/images/2014/WARWALK2_the_blockhouses_at_Tyne_Cot_thumb.jpg" width="250" height="175" alt="the blockhouses at Tyne Cot" class="photo right" /></a>
 
 Tyne Cot is a burial ground for those who fell on the Ypres Salient. Supposedly Tyne Cot was given its name by the Northumberland Fusiliers who noted a resemblance between the German concrete blockhouses - which still stand in the middle of the cemetery - and the cottages of Tyneside workers.
 

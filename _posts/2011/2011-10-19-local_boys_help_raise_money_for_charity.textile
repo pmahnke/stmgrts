@@ -8,7 +8,7 @@ date: 2011-10-19 21:15:34
 excerpt: |
     
     
-    <a href="//stmargarets.london/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="//stmargarets.london/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
+    <a href="/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
     
     Hampton Wick based charity, Jeevika Trust's youngest ever walker, along with his brother and 30 other walkers have helped the charity to raise over &pound;2000 for water projects in rural India.
     
@@ -18,7 +18,7 @@ excerpt: |
 
 
 
-<a href="//stmargarets.london/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="//stmargarets.london/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
+<a href="/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
 
 Hampton Wick based charity, Jeevika Trust's youngest ever walker, along with his brother and 30 other walkers have helped the charity to raise over &pound;2000 for water projects in rural India.
 

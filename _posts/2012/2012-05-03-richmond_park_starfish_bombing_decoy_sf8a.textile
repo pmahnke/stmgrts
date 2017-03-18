@@ -8,7 +8,7 @@ date: 2012-05-03 18:17:00
 
 ---
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_john_turner.jpg" title="See larger version of - John Turner"><img src="//stmargarets.london/assets/images/2012/STARFISH_john_turner_thumb.jpg" width="150" height="234" alt="John Turner" class="photo right" /></a>
+<a href="/assets/images/2012/STARFISH_john_turner.jpg" title="See larger version of - John Turner"><img src="/assets/images/2012/STARFISH_john_turner_thumb.jpg" width="150" height="234" alt="John Turner" class="photo right" /></a>
 
 bq. "I think it is well also for the man in the street to realise that there is no power on earth that can protect him from being bombed. Whatever people may tell him, the bomber will always get through."
 
@@ -18,7 +18,7 @@ In the 1930's there was a general and well founded fear of aerial attack by enem
 
 It was against this alarming vision of German bombs tumbling nonstop from the sky that in 1939, at the very beginning of WW 2, the Air Ministry set up a special unit to build decoy cities, towns and airfields as a way of drawing the bombs of the Luftwaffe. In charge of the project was civil engineer and pilot Colonel John Turner, (later Sir John Turner). Recognising the need for people with experience of creating fake buildings and streets Colonel Turner established his headquarters at Sound City Film Studios in Shepperton where realistic film sets were the order of the day. The motto of 'Col. Turner's Department' as the unit was known was "Day and Night, Defend by Confusion."
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_dummy-aircraft.jpg" title="See larger version of -  dummy aircraft"><img src="//stmargarets.london/assets/images/2012/STARFISH_dummy-aircraft_thumb.jpg" width="300" height="54" alt=" dummy aircraft" class="photo center" /></a>
+<a href="/assets/images/2012/STARFISH_dummy-aircraft.jpg" title="See larger version of -  dummy aircraft"><img src="/assets/images/2012/STARFISH_dummy-aircraft_thumb.jpg" width="300" height="54" alt=" dummy aircraft" class="photo center" /></a>
 
 
 This was their plan of construction:-
@@ -31,15 +31,15 @@ This was their plan of construction:-
 In January 1941 a ' Starfish' site to deflect enemy bombing from London was set up in Richmond Park. Its code name was SF8A - the S. F standing for "Special Fire". The SF8A site also included a heavy anti-aircraft battery and ditches dug to prevent enemy aircraft landing. Similar SF sites were established at Farleigh near Croydon, Rainham Marsh near Dagenham, Lambourne End in Essex and Lullingstone in Kent.
 
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_fire_basket.gif" title="See larger version of -  fire basket"><img src="//stmargarets.london/assets/images/2012/STARFISH_fire_basket_thumb.gif" width="150" height="185" alt=" fire basket" class="photo right" /></a>
+<a href="/assets/images/2012/STARFISH_fire_basket.gif" title="See larger version of -  fire basket"><img src="/assets/images/2012/STARFISH_fire_basket_thumb.gif" width="150" height="185" alt=" fire basket" class="photo right" /></a>
 
 By day the SF sites resembled nothing more than chicken sheds, but they were equipped with specially designed boilers and fire baskets which, when ignited at night, resembled exploding bombs, burning incendiaries and buildings on fire. These dramatic effects could be made to last a number of hours. Trevor Denniff who trained with Colonel Turner at Shepperton later wrote...
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_boiler.jpg" title="See larger version of - boiler"><img src="//stmargarets.london/assets/images/2012/STARFISH_boiler_thumb.jpg" width="150" height="83" alt="boiler" class="photo right" /></a>
+<a href="/assets/images/2012/STARFISH_boiler.jpg" title="See larger version of - boiler"><img src="/assets/images/2012/STARFISH_boiler_thumb.jpg" width="150" height="83" alt="boiler" class="photo right" /></a>
 
 bq. "Pairs of one thousand gallon galvanised tanks were positioned on top of 20 foot high towers, one filled with water and the other with diesel or paraffin. Under each tank a simple control system like a WC flush released the liquids down pipes into 15 foot heavy cast iron troughs filled with coal or coke over a bed of fire lighter materials. Electrically wired flash bang detonators assured ignition by a switch in the dugout. The idea was that the coal would be lit when enemy bombers were in the area at night and after the cast iron trough was good and hot the diesel was released. This boiled and the vapours ignited. The water was then released onto the burning oil causing a virtual explosion of fire and steam. It was all very impressive."
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_dummy_airplane2.jpg" title="See larger version of - dummy airplane2"><img src="//stmargarets.london/assets/images/2012/STARFISH_dummy_airplane2_thumb.jpg" width="150" height="74" alt="dummy airplane" class="photo right" /></a>
+<a href="/assets/images/2012/STARFISH_dummy_airplane2.jpg" title="See larger version of - dummy airplane2"><img src="/assets/images/2012/STARFISH_dummy_airplane2_thumb.jpg" width="150" height="74" alt="dummy airplane" class="photo right" /></a>
 
 
 By the end of the war there were approximately 630 Decoy Sites in the U.K consisting of 230 decoy airfields and 400 decoy towns which included railway marshalling yards, steelworks, foundry and factory complexes. Of these, the dummy airfields were bombed 443 times, and the decoy towns about 100 times, drawing some 5% of the bombs intended for real towns and cities. Official figures calculated that the sites saved an estimated 2,500 lives and prevented 3,000 injuries. By inviting the Luftwaffe to bomb the decoys the crews who manned these sites and the civilians living in the locality were putting their own lives at considerable risk. Happily, records show that only four civilians were killed during raids on decoy sites.
@@ -49,7 +49,7 @@ As for Starfish Bombing Decoy SF8A/Richmond Park on or around August 1944, with 
 <div class="box">
 
 
-<a href="//stmargarets.london/assets/images/2012/STARFISH_Richmond_Park.jpg" title="See larger version of - Richmond Park"><img src="//stmargarets.london/assets/images/2012/STARFISH_Richmond_Park_thumb.jpg" width="150" height="99" alt="Richmond Park" class="photo right" /></a>
+<a href="/assets/images/2012/STARFISH_Richmond_Park.jpg" title="See larger version of - Richmond Park"><img src="/assets/images/2012/STARFISH_Richmond_Park_thumb.jpg" width="150" height="99" alt="Richmond Park" class="photo right" /></a>
 
 h4. LD0469/44	+Instructions on abandonment of sites+
 

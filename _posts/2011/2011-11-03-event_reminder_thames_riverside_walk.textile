@@ -6,7 +6,7 @@ commentfile: 2011-11-03-event_reminder_thames_riverside_walk
 category: around_town
 date: 2011-11-03 19:08:37
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2011/richmond_lock_top.jpg" title="See larger version of - richmond lock from the top"><img src="//stmargarets.london/assets/images/2011/richmond_lock_top_thumb.jpg" width="150" height="111" alt="richmond lock from the top" class="photo right" /></a>
+    <a href="/assets/images/2011/richmond_lock_top.jpg" title="See larger version of - richmond lock from the top"><img src="/assets/images/2011/richmond_lock_top_thumb.jpg" width="150" height="111" alt="richmond lock from the top" class="photo right" /></a>
     
     _Saturday 26th November - 10.00 am - 12 noon approx._
     
@@ -16,7 +16,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/richmond_lock_top.jpg" title="See larger version of - richmond lock from the top"><img src="//stmargarets.london/assets/images/2011/richmond_lock_top_thumb.jpg" width="150" height="111" alt="richmond lock from the top" class="photo right" /></a>
+<a href="/assets/images/2011/richmond_lock_top.jpg" title="See larger version of - richmond lock from the top"><img src="/assets/images/2011/richmond_lock_top_thumb.jpg" width="150" height="111" alt="richmond lock from the top" class="photo right" /></a>
 
 _Saturday 26th November - 10.00 am - 12 noon approx._
 

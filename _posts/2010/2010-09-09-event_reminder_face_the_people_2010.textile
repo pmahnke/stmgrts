@@ -8,7 +8,7 @@ date: 2010-09-09 19:41:31
 
 ---
 
-<a href="//stmargarets.london/assets/images/2010/facethepeople_flyer_001.pdf" title="See larger version of - Poster"><img src="//stmargarets.london/assets/images/2010/facethepeople_flyer_001-1_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
+<a href="/assets/images/2010/facethepeople_flyer_001.pdf" title="See larger version of - Poster"><img src="/assets/images/2010/facethepeople_flyer_001-1_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
 
 _YOUR COMMUNITY - YOUR SAFETY - YOUR SAY_
 

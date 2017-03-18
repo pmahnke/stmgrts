@@ -6,7 +6,7 @@ commentfile: 2009-11-12-event_reminder_opera_evolution
 category: around_town
 date: 2009-11-12 12:32:39
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="//stmargarets.london/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
+    <a href="/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
     
     Local St Margarets resident and Royal College of Art trained conceptual artist Ingrid Macody Lund Fraser, has recently been awarded support from the Arts Council to stage her production "*Opera Evolution* at York House, Twickenham on Sunday 15<sup>th</sup> November 7pm":https://stmargarets.london/event/fair/200705142249.
     
@@ -20,7 +20,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="//stmargarets.london/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
+<a href="/assets/images/2009/2a3opevposter.jpg" title="See larger version of - poster of opera evolution"><img src="/assets/images/2009/2a3opevposter_thumb.jpg" width="300" height="212" alt="poster of opera evolution" class="photo center" /></a>
 
 Local St Margarets resident and Royal College of Art trained conceptual artist Ingrid Macody Lund Fraser, has recently been awarded support from the Arts Council to stage her production "*Opera Evolution* at York House, Twickenham on Sunday 15<sup>th</sup> November 7pm":https://stmargarets.london/event/fair/200705142249.
 

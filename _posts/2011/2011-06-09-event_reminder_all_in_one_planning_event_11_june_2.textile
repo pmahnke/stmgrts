@@ -8,7 +8,7 @@ date: 2011-06-09 12:31:53
 
 ---
 
-<a href="//stmargarets.london/assets/images/2011/all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="//stmargarets.london/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
+<a href="/assets/images/2011/all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
 
 Last year, over 13,500 local people took the opportunity to have their say about their local areas through the survey run by Richmond Council. That represents 17% of households spread evenly across the borough.
 

@@ -8,7 +8,7 @@ date: 2008-09-11 16:56:29
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/parvinu.jpg"><img src="//stmargarets.london/assets/images/2008/parvinu-thumb.jpg" width="150" height="109" alt="parvinu interior" class="photo right" /></a>
+<a href="/assets/images/2008/parvinu.jpg"><img src="/assets/images/2008/parvinu-thumb.jpg" width="150" height="109" alt="parvinu interior" class="photo right" /></a>
 
 
 "Parvinu at Phelps":https://stmargarets.london/directory/restaurant/200809111151 has now opened providing St Margarets with a new wine bar with food.

@@ -6,7 +6,7 @@ commentfile: 2013-09-12-event_reminder_schuber_die_schne_mullerin_3_octobe
 category: around_town
 date: 2013-09-12 21:32:15
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/schone-mullerin-front-flier.jpg" title="See larger version of - schone mullerin front flier"><img src="//stmargarets.london/assets/images/2013/schone-mullerin-front-flier_thumb.jpg" width="150" height="200" alt="schone mullerin front flier" class="photo right" /></a>
+    <a href="/assets/images/2013/schone-mullerin-front-flier.jpg" title="See larger version of - schone mullerin front flier"><img src="/assets/images/2013/schone-mullerin-front-flier_thumb.jpg" width="150" height="200" alt="schone mullerin front flier" class="photo right" /></a>
     
     _Will Morgan, tenor and John Paul Ekins, piano_
     
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/schone-mullerin-front-flier.jpg" title="See larger version of - schone mullerin front flier"><img src="//stmargarets.london/assets/images/2013/schone-mullerin-front-flier_thumb.jpg" width="150" height="200" alt="schone mullerin front flier" class="photo right" /></a>
+<a href="/assets/images/2013/schone-mullerin-front-flier.jpg" title="See larger version of - schone mullerin front flier"><img src="/assets/images/2013/schone-mullerin-front-flier_thumb.jpg" width="150" height="200" alt="schone mullerin front flier" class="photo right" /></a>
 
 _Will Morgan, tenor and John Paul Ekins, piano_
 

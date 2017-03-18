@@ -6,7 +6,7 @@ commentfile: 2008-11-20-the_night_st_margarets_caught_fire
 category: news
 date: 2008-11-20 10:29:15
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2008/beufort_works.jpg"><img src="//stmargarets.london/assets/images/2008/beufort_works-thumb.jpg" width="150" height="109" alt="BEAUFORT WORKS - BEAUFORT ROAD, ST MARGARETS 29/11/40 - from LBRUT Local Studies collection" class="photo right" /></a>
+    <a href="/assets/images/2008/beufort_works.jpg"><img src="/assets/images/2008/beufort_works-thumb.jpg" width="150" height="109" alt="BEAUFORT WORKS - BEAUFORT ROAD, ST MARGARETS 29/11/40 - from LBRUT Local Studies collection" class="photo right" /></a>
     
     
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2008/beufort_works.jpg"><img src="//stmargarets.london/assets/images/2008/beufort_works-thumb.jpg" width="150" height="109" alt="BEAUFORT WORKS - BEAUFORT ROAD, ST MARGARETS 29/11/40 - from LBRUT Local Studies collection" class="photo right" /></a>
+<a href="/assets/images/2008/beufort_works.jpg"><img src="/assets/images/2008/beufort_works-thumb.jpg" width="150" height="109" alt="BEAUFORT WORKS - BEAUFORT ROAD, ST MARGARETS 29/11/40 - from LBRUT Local Studies collection" class="photo right" /></a>
 
 
 
@@ -31,7 +31,7 @@ Because of their own self-imposed censorship the local newspapers reported the r
 
 
 
-<a href="//stmargarets.london/assets/images/2008/bomb_hampton.jpg"><img src="//stmargarets.london/assets/images/2008/bomb_hampton-thumb.jpg" width="150" height="112" alt="BOMB DAMAGE IN HAMPTON - from LBRUT Local Studies collection" class="photo right" /></a>
+<a href="/assets/images/2008/bomb_hampton.jpg"><img src="/assets/images/2008/bomb_hampton-thumb.jpg" width="150" height="112" alt="BOMB DAMAGE IN HAMPTON - from LBRUT Local Studies collection" class="photo right" /></a>
 
 
 There were many hundreds of fires. One fire station reported over 164 alone. The most spectacular was Beaumont Furniture Works in Beaumont Road, St Margarets. It was packed with soft furnishings and furniture and it went up like a firework. Mr Maugham, the manager, managed to rescue 3 horses and some domestic rabbits from the blazing stables. Then with the help of the fire services and local neighbours he was able to get the fire under control. When Mr. Maugham eventually got home he found his own bedroom on fire. One local woman found an incendiary blazing away merrily on top of her hallstand. She extinguished the fire by emptying an ancient aspidistra on top of it -- the same plant that she had only agreed to keep after her husband pleaded for its life a few days earlier.

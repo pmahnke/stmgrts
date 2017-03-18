@@ -6,7 +6,7 @@ commentfile: 2013-03-07-15_off_labour_at_crown_classic_cars_through_july_2
 category: around_town
 date: 2013-03-07 19:28:25
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2013/ccc_postcard.jpg" title="See larger version of - postcard"><img src="//stmargarets.london/assets/images/2013/ccc_postcard_thumb.jpg" width="150" height="107" alt="postcard" class="photo right" /></a>
+    <a href="/assets/images/2013/ccc_postcard.jpg" title="See larger version of - postcard"><img src="/assets/images/2013/ccc_postcard_thumb.jpg" width="150" height="107" alt="postcard" class="photo right" /></a>
     
     As a small local business we rely on the support of local people and as a long standing family business, based in St Margarets, Crown Classic Cars are offering you a 15% discount on all labour costs[1] for all your motoring needs (quote STMAG15 when booking).
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2013/ccc_postcard.jpg" title="See larger version of - postcard"><img src="//stmargarets.london/assets/images/2013/ccc_postcard_thumb.jpg" width="150" height="107" alt="postcard" class="photo right" /></a>
+<a href="/assets/images/2013/ccc_postcard.jpg" title="See larger version of - postcard"><img src="/assets/images/2013/ccc_postcard_thumb.jpg" width="150" height="107" alt="postcard" class="photo right" /></a>
 
 As a small local business we rely on the support of local people and as a long standing family business, based in St Margarets, Crown Classic Cars are offering you a 15% discount on all labour costs[1] for all your motoring needs (quote STMAG15 when booking).
 

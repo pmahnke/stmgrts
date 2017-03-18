@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2015/Love_Later_Life_Poster.jpg" title="See larger version of - Love Later Life Poster"><img src="//stmargarets.london/assets/images/2015/Love_Later_Life_Poster_thumb.jpg" width="250" height="353" alt="Love Later Life Poster" class="photo right" /></a>
+<a href="/assets/images/2015/Love_Later_Life_Poster.jpg" title="See larger version of - Love Later Life Poster"><img src="/assets/images/2015/Love_Later_Life_Poster_thumb.jpg" width="250" height="353" alt="Love Later Life Poster" class="photo right" /></a>
 
 Join us  to celebrate National Older Peoples Week and enjoy a day of free activities, information and advice, goodies and much more!  You will get the opportunity to hear about our services, speak to our teams about how we can help and see live demonstrations of our cookery classes, exercise groups and using computers to skype, to name a few. You may just want to come along to meet new people or find out about local activities to build companionship, learn new skills or simply socialise. Don't miss out on how we can help you love later life!
 

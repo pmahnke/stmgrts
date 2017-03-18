@@ -8,7 +8,7 @@ date: 2014-05-08 21:39:01
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/sunflower.jpg" title="See larger version of - sunflower"><img src="//stmargarets.london/assets/images/2014/sunflower_thumb.jpg" width="150" height="99" alt="sunflower" class="photo right" /></a>
+<a href="/assets/images/2014/sunflower.jpg" title="See larger version of - sunflower"><img src="/assets/images/2014/sunflower_thumb.jpg" width="150" height="99" alt="sunflower" class="photo right" /></a>
 
 Broomfield House School has taken over the well established and much loved Sunflower Montessori Nursery in St Margarets this week.
 

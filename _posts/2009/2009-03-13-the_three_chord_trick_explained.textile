@@ -6,7 +6,7 @@ commentfile: 2009-03-13-the_three_chord_trick_explained
 category: around_town
 date: 2009-03-13 12:20:46
 excerpt: |
-    <a href="//stmargarets.london/assets/images/2009/bert_weedon.jpg"><img src="//stmargarets.london/assets/images/2009/bert_weedon-thumb.jpg" width="106" height="150" alt="Bert Weedon" class="photo right" /></a>
+    <a href="/assets/images/2009/bert_weedon.jpg"><img src="/assets/images/2009/bert_weedon-thumb.jpg" width="106" height="150" alt="Bert Weedon" class="photo right" /></a>
     
     
     Back in the good old days when TV was black and white, records were mono and you could buy a Mars Bar, a Kit Kat and the latest Dickie Valentine single and still get change from a  'ten bob note' young men with a sense of destiny were teaching themselves to play the guitar. Everyone was doing it. Those who knew about these things said the guitar was an iconic symbol of the rise of the teenager.
@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-<a href="//stmargarets.london/assets/images/2009/bert_weedon.jpg"><img src="//stmargarets.london/assets/images/2009/bert_weedon-thumb.jpg" width="106" height="150" alt="Bert Weedon" class="photo right" /></a>
+<a href="/assets/images/2009/bert_weedon.jpg"><img src="/assets/images/2009/bert_weedon-thumb.jpg" width="106" height="150" alt="Bert Weedon" class="photo right" /></a>
 
 
 
@@ -30,7 +30,7 @@ By 1956 the days of tuxedoed band leaders, crisply coiffured crooners and lady s
 The secret behind all this instant fame was the "Three Chord Trick". All you needed to learn was just 3 chords - and you did that by copying the chord diagrams in Bert Weedon's teach yourself tutor.[1]  With these you could strum alone with most folk, country, rock 'n' roll and blues songs, 97% of the skiffle repertoire and virtually everything recorded by Chuck Berry, Buddy Holly, Gene Vincent, Eddie Cochran or any other teen idol whose name ended with a 'Y' - as in 'Billy', 'Tommy', 'Ricky' or Ray. Throw in a 4th chord - a minor - and you could add doo-wop and most teen ballads to the list. After just 24 hours of finger busting persistence the entire teen music scene was yours to play.
 
 
-<a href="//stmargarets.london/assets/images/2009/three_chords.jpg"><img src="//stmargarets.london/assets/images/2009/three_chords-thumb.jpg" width="300" height="135" alt="three chords and the truth" class="photo center" /></a>
+<a href="/assets/images/2009/three_chords.jpg"><img src="/assets/images/2009/three_chords-thumb.jpg" width="300" height="135" alt="three chords and the truth" class="photo center" /></a>
 
 
 

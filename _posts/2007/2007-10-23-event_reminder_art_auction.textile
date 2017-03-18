@@ -8,7 +8,7 @@ date: 2007-10-23 20:17:47
 
 ---
 
-<a href="//stmargarets.london/assets/images/2007/art_auction.jpg" title="See larger version of - 'Girl and Moon' by Mary Fedden RA is one of this year's pictures."><img src="//stmargarets.london/assets/images/2007/art_auction_thumb.jpg" width="150" height="98" alt="'Girl and Moon' by Mary Fedden RA is one of this year's pictures." class="photo right" /></a>
+<a href="/assets/images/2007/art_auction.jpg" title="See larger version of - 'Girl and Moon' by Mary Fedden RA is one of this year's pictures."><img src="/assets/images/2007/art_auction_thumb.jpg" width="150" height="98" alt="'Girl and Moon' by Mary Fedden RA is one of this year's pictures." class="photo right" /></a>
 
 It's November, so it must be the "Art Auction":https://stmargarets.london/event/auction/200705141716
 

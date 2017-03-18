@@ -8,7 +8,7 @@ date: 2014-11-11 20:50:30
 
 ---
 
-<a href="//stmargarets.london/assets/images/2014/beyond-chemistry-logo.png" title="See larger version of - beyond chemistry logo"><img src="//stmargarets.london/assets/images/2014/beyond-chemistry-logo_thumb.png" width="250" height="43" alt="beyond chemistry logo" class=" right" /></a>
+<a href="/assets/images/2014/beyond-chemistry-logo.png" title="See larger version of - beyond chemistry logo"><img src="/assets/images/2014/beyond-chemistry-logo_thumb.png" width="250" height="43" alt="beyond chemistry logo" class=" right" /></a>
 
 Single? Looking to meet new people? We know how hard it is to meet someone special in London, so why leave it to fate?
 

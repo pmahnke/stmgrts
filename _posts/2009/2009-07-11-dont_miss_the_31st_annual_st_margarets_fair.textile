@@ -8,11 +8,11 @@ date: 2009-07-11 23:41:45
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="//stmargarets.london/assets/images/2009/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2009/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
 _This year the Fair will be on Saturday 11<sup>th</sup> July starting at 12.00_
 
-<a href="//stmargarets.london/assets/images/2009/smf_map09.pdf">Here is a map of the fairground (pdf).</a>
+<a href="/assets/images/2009/smf_map09.pdf">Here is a map of the fairground (pdf).</a>
 
 <p>There will be a <a href="http://www.stmargaretsfair.org/pages/schedule.html">full programme</a> of  entertainment throughout the day, starting with a popular children's  '5-a-side' <a href="http://www.stmargaretsfair.org/pages/football.html">football</a> tournament in the  morning on Moormead.
 
@@ -24,7 +24,7 @@ There will be announcements, interviews and music throughout the  day from <a hr
 
 The fair organisers run the Tea Tent,  Beer Tent, Pimms  Stall, Greek Food, the BBQ,  the Bric-a-brac stall, a Plant  stall, the Silent Auction, and the  Coconut Shy.
 
-All profits from these stalls go direct to our charities - please  support these stalls. Look on our plan of the <a href="//stmargarets.london/assets/images/2009/smf_map09.pdf" target="_blank">fair  ground</a> to find where they are. See how we spend the <a href="http://www.stmargaretsfair.org/pages/charities.html">money</a>.
+All profits from these stalls go direct to our charities - please  support these stalls. Look on our plan of the <a href="/assets/images/2009/smf_map09.pdf" target="_blank">fair  ground</a> to find where they are. See how we spend the <a href="http://www.stmargaretsfair.org/pages/charities.html">money</a>.
 
 
 
