@@ -952,15 +952,16 @@ div {
 }
 
 pre {
-  &.poem {
-    color: #333;
-    font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
-    font-size: 16px;
-    line-height: 18px;
-    margin: 1em;
-    padding: 1em;
-    font-weight: normal;
-  }
+  color: #333;
+  font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 1em;
+  padding: 1em;
+  font-weight: normal;
+}
+
+.poem {
   color: #333;
   font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
   font-size: 16px;
