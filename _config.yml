@@ -15,6 +15,7 @@ url: "https://stmargarets.london" # the base hostname & protocol for your site
 twitter_username: stmgrts
 github_username:  pmahnke
 incremental: true
+timezone: Etc/GMT
 
 exclude:
     - node_modules
