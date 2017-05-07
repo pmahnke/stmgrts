@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event: Mariannes'Footsteps 10k - 18 June 2017"
+title: "Event: Mariannes' Footsteps 10k - 18 June 2017"
 permalink: /archives/2017/05/event-mariannes-footsteps-10k-2017.html
 commentfile: 2017-05-06-event-mariannes-footsteps-10k-2017
 category: around_town
