@@ -19,6 +19,6 @@ print "cp newsletter.html archive/current.html\n";
 print "cp newsletter.html archive/$newHTML\n";
 print "cp newsletter_text.html archive/$newTEXT\n";
 
-print "\nNewsletter - http://www.stmgrts.org.uk/static/newsletter/archive/$newHTML\n\n";
+print "\nNewsletter - https://stmargarets.london/static/newsletter/archive/$newHTML\n\n";
 
 print "\nDone.\n\n";
