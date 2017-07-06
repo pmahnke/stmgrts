@@ -6,7 +6,7 @@ commentfile: 2017-07-05-orleans-house-summer-2017
 category: around_town
 date: 2017-07-05 19:23:56
 excerpt: |
-    <a href="/assets/images/2017/orleans-house-summer-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-house-summer-2017-thumb.jpg" width="250" alt="Image - orleans-house-summer-2017"  class="photo right"/></a>
+    <a href="/assets/images/2017/orleans-house-summer-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-house-summer-2017-thumb.jpg" width="150" alt="Image - orleans-house-summer-2017"  class="photo right"/></a>
 
     Join us for a month of workshops inspired by our new Stables Gallery exhibition Picture Play. Explore themes of Animation, Toys and Games and the exciting stories and characters of Orleans House.
 
