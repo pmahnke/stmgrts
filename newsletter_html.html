@@ -5,7 +5,7 @@ layout: default-static
 <pre>
 {% for post in site.posts limit: 15 %}
 
-    <h3><a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsletter">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsletter">{{ post.title }}</a></h3>
 
     {{ post.excerpt | textilize }}
 
