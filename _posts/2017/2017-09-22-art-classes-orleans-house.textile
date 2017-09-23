@@ -6,8 +6,6 @@ commentfile: 2017-09-22-art-classes-orleans-house
 category: around_town
 date: 2017-09-22 17:26:03
 excerpt: |
-    <a href="/assets/images/2017/ORLEANS-SeeSaw-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANS-SeeSaw-2017-thumb.jpg" width="150" alt="Image - ORLEANS-SeeSaw-2017"  class="photo right"/></a>
-
     Why not join in the fun at Orleans House Gallery and try an art class for you and your children!
 ---
 
