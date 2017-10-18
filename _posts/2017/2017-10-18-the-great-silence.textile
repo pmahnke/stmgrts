@@ -7,7 +7,7 @@ category: around_town
 author: "Martyn Day"
 date: 2017-10-18 16:58:12
 excerpt: |
-    <a href="/assets/images/2017/GREATSILENCE_Armistice-Day.jpg" title="Click for a larger image"><img src="/assets/images/2017/GREATSILENCE_Armistice-Day-thumb.jpg" width="250" alt="Image - GREATSILENCE_Armistice-Day"  class="photo right"/></a>
+    <a href="/assets/images/2017/GREATSILENCE_Armistice-Day.jpg" title="Click for a larger image"><img src="/assets/images/2017/GREATSILENCE_Armistice-Day-thumb.jpg" width="150" alt="Image - GREATSILENCE_Armistice-Day"  class="photo right"/></a>
 
     This time next year the North St Margarets Residents Association - the NSMRA, and their local church, All Souls on Northcote Road, will be completing preparations for two events they are planning to mark the end of the 1<sup>st</sup> World War and the silence of the guns on the 11<sup>th</sup> hour, of the 11<sup>th</sup> day, of the 11<sup>th</sup> month in 1918. The day of the Armistice.
 ---
