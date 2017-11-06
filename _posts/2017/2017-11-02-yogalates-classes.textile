@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yogalates classes at the ETNA Centre""
+title: "Yogalates classes at the ETNA Centre"
 permalink: /archives/2017/11/yogalates-classes.html
 commentfile: 2017-11-02-yogalates-classes
 category: around_town
