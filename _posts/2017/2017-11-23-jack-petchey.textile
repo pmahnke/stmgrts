@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you think you can – you can!"
+title: "If you think you can - you can!"
 permalink: /archives/2017/11/jack-petchey.html
 commentfile: 2017-11-23-jack-petchey
 category: around_town
