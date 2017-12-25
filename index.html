@@ -6,11 +6,11 @@ layout: default-empty
       <div id="homepage" class="content">
 
 <!-- eight main stories -->
-{% for post in site.posts limit: 8%}
+{% for post in site.posts limit: 6%}
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
         {{ post.excerpt | remove:'<div class="letter">' | textilize }}
-          
+
         <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
 
         <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
@@ -23,7 +23,7 @@ layout: default-empty
           <h2>Recent Entries</h2>
 
           <ul id="entry_list">
-{% for post in site.posts limit: 10 offset: 8 %}
+{% for post in site.posts limit: 10 offset: 6 %}
             <li><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
           </ul>
