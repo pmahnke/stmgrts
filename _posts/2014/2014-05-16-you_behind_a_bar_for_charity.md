@@ -1,0 +1,20 @@
+---
+layout: post
+title: "You Behind a Bar? For Charity?"
+permalink: /archives/2014/05/you_behind_a_bar_for_charity.html
+commentfile: 2014-05-16-you_behind_a_bar_for_charity
+category: around_town
+date: 2014-05-16 18:04:23
+excerpt: |
+    <a href="https://www.flickr.com/photos/mahnke/5952318494" title="Empty beer tent - it was early! by Peter Mahnke, on Flickr"><img src="/assets/images/2014/5952318494_a976059ac4_q.jpg" width="150" height="150" alt="Empty beer tent - it was early!"  class="photo right" ></a>
+    
+    All of the money raised at the <a href="https://stmargarets.london/event/fair/200705144148">St Margarets Fair</a> goes directly back to the Fair and its associated charities and local schools. The bar is no exception. This year it will be run by Real Ale, but they are looking for volunteers to help.
+    
+
+---
+
+<a href="https://www.flickr.com/photos/mahnke/5952318494" title="Empty beer tent - it was early! by Peter Mahnke, on Flickr"><img src="/assets/images/2014/5952318494_a976059ac4_q.jpg" width="150" height="150" alt="Empty beer tent - it was early!"  class="photo right" ></a>
+
+All of the money raised at the [St Margarets Fair](https://stmargarets.london/event/fair/200705144148) goes directly back to the Fair and its associated charities and local schools. The bar is no exception. This year it will be run by Real Ale, but they are looking for volunteers to help.
+
+If you can spare and hour or two on 12 July 2014, please email Zeph King at zeph@realale.com and pull pints for a good cause.

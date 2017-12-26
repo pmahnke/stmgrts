@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Crown Road Summer Fair 2011 Photos"
+permalink: /archives/2011/06/crown_road_summer_fair_2011_photos.html
+commentfile: 2011-06-13-crown_road_summer_fair_2011_photos
+category: news
+date: 2011-06-13 13:55:35
+excerpt: |
+    <a href="http://www.flickr.com/photos/mahnke/5827893219/" title="Crown Road Summer Fair 2011-2 by Peter M, on Flickr"><img src="/assets/images/2011/5827893219_27fb28faf5_m.jpg" width="150" class="photo right" alt="Crown Road Summer Fair 2011-2"></a>
+
+    It was a wet and wild day, but hundreds of people turned out for the Crown Road Summer Fair and the Orleans Infants Centenary celebration.  While we hoped for better weather, it didn't stop people from enjoying some food, a drink, some games, shopping at stalls and listening to some great music.
+
+
+---
+
+<a href="http://www.flickr.com/photos/mahnke/5827893219/" title="Crown Road Summer Fair 2011-2 by Peter M, on Flickr"><img src="/assets/images/2011/5827893219_27fb28faf5_m.jpg" width="150" class="photo right" alt="Crown Road Summer Fair 2011-2"></a>
+
+It was a wet and wild day, but hundreds of people turned out for the Crown Road Summer Fair and the Orleans Infants Centenary celebration. While we hoped for better weather, it didn't stop people from enjoying some food, a drink, some games, shopping at stalls and listening to some great music.
+
+Thanks to all who helped make it a great day!
+
+[See some photos on flickr](http://www.flickr.com//photos/mahnke/sets/72157626951247128/show/)
+
+<em>If you have some photos to share, email them to [content@stmargarets.london](mailto:content@stmargarets.london.</em>)

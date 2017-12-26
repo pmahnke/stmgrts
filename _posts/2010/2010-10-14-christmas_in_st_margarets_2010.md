@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Christmas in St Margarets 2010"
+permalink: /archives/2010/10/christmas_in_st_margarets_2010.html
+commentfile: 2010-10-14-christmas_in_st_margarets_2010
+category: around_town
+date: 2010-10-14 22:37:43
+
+---
+
+<a href="http://www.flickr.com/photos/mahnke/3108197723/" title="Crown Road Christmas Fair by Peter M, on Flickr"><img src="/assets/images/2010/3108197723_235b0ab452_m.jpg" alt="Crown Road Christmas Fair" class="photo right" width="150"/></a>
+
+The 2010 St Margarets Christmas Fair will be held on [Sunday, 5<sup>th</sup> December](https://stmargarets.london/event/fair/200705142573) in Crown Road.
+
+Organised by the St Margarets Traders Association, the event starts at 11.00am and closes at 4.00pm.
+
+Please join us for a day of family fun and entertainment:
+
+-   Santa's Parade
+-   Puppet show
+-   Live music
+-   Street entertainers
+-   Fun fair rides
+-   Games & Competitions
+-   Side Stalls
+-   Delicious Food
+-   Mince Pies & Mulled Wine
+
+For more information, please visit [www.mystmargarets.com](http://www.mystmargarets.com/2010/10/christmas_in_st_margarets_2010.html)
