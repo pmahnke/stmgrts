@@ -8,20 +8,8 @@ date: 2013-12-09 08:58:51
 
 ---
 
-<p>
-<a href="http://www.flickr.com/photos/mahnke/11272108243/" title="crown rd by Peter M, on Flickr"><img src="http://farm
-4.staticflickr.com/3782/11272108243_486a171a3d_n.jpg" width="320" height="213" alt="crown rd" class="photo center" /></a>
+<a href="/assets/images/2017/2013-crown-road-xmas-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2013-crown-road-xmas-fair-thumb.jpg" width="250" alt="Image - 2013-crown-road-xmas-fair"  class="photo right"/></a>
 
-</p>
-<p>
-Thanks to the hard work of Simon Chapman, the St Margarets’ Traders Association, the <span class="caps">RFU </span>and countless
-volunteers from the schools and churches, the Crown Road Christmas Fair was a great success. Thank you for all who came and thank you to
-all who helped!
+Thanks to the hard work of Simon Chapman, the St Margarets’ Traders Association, the RFU and countless volunteers from the schools and churches, the Crown Road Christmas Fair was a great success. Thank you for all who came and thank you to all who helped!
 
-</p>
-<ul>
-<li>
-<a href="http://www.flickr.com/photos/mahnke/sets/72157638477226753/">Here are some photos on flickr</a>
-
-</li>
-</ul>
+- <a href="http://www.flickr.com/photos/mahnke/sets/72157638477226753/">Here are some photos on flickr</a>

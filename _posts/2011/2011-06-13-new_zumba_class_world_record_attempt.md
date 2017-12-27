@@ -8,7 +8,7 @@ date: 2011-06-13 13:44:58
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5828520374/" title="Zumbathon by Peter M, on Flickr"><img src="/assets/images/2011/5828520374_2ba62fd231_m.jpg" width="150" class="photo right" alt="Zumbathon"></a>
+<a href="/assets/images/2017/2011-world-record-zumba-marble-hill.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011-world-record-zumba-marble-hill-thumb.jpg" width="250" alt="Image - 2011-world-record-zumba-marble-hill"  class="photo right"/></a>
 
 We are still awaiting *official* confirmation; however, according to a photo on [the official Facebook page](http://www.facebook.com/home.php?sk=group_109292832430088) and from an attendee, it looks like they succeeded in being the *worlds largest outdoor Zumba class*.
 

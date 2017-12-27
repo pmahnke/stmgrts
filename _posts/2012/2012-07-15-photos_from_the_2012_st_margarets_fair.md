@@ -6,12 +6,12 @@ commentfile: 2012-07-15-photos_from_the_2012_st_margarets_fair
 category: news
 date: 2012-07-15 20:01:43
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/7573401606/" title="Tea cups by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/7573401606_c72f2e7f8f_n.jpg" width="320" height="240" alt="Tea cups"  class="photo center" ></a>
+    <a href="/assets/images/2017/2012-fair-tea-cups.jpg" title="Click for a larger image"><img src="/assets/images/2017/2012-fair-tea-cups-thumb.jpg" width="150" alt="Image - 2012-fair-tea-cups"  class="photo right"/></a>
 
     It was wet, but there was a pretty good turnout for the mostly dry afternoon.  Well done to all the fair organizers, school volunteers, stall holders and people who visited.
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/7573401606/" title="Tea cups by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/7573401606_c72f2e7f8f_n.jpg" width="320" height="240" alt="Tea cups"  class="photo center" ></a>
+<a href="/assets/images/2017/2012-fair-tea-cups.jpg" title="Click for a larger image"><img src="/assets/images/2017/2012-fair-tea-cups-thumb.jpg" width="250" alt="Image - 2012-fair-tea-cups"  class="photo right"/></a>
 
 It was wet, but there was a pretty good turnout for the mostly dry afternoon. Well done to all the fair organizers, school volunteers, stall holders and people who visited.
 

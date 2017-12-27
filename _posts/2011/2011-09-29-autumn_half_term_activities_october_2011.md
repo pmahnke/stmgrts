@@ -6,12 +6,12 @@ commentfile: 2011-09-29-autumn_half_term_activities_october_2011
 category: around_town
 date: 2011-09-29 10:56:01
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
+    <a href="/assets/images/2017/autumn_leaves.jpg" title="Click for a larger image"><img src="/assets/images/2017/autumn_leaves-thumb.jpg" width="150" alt="Image - autumn_leaves"  class="photo right"/></a>
 
     Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at <a href="mailto:content@stmargarets.london">content@stmargarets.london</a> or add a comment.
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/6059011905/" title="inLeaves by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/6059011905_e012d12f06_m.jpg" width="150" alt="inLeaves" class="photo right"></a>
+<a href="/assets/images/2017/autumn_leaves.jpg" title="Click for a larger image"><img src="/assets/images/2017/autumn_leaves-thumb.jpg" width="250" alt="Image - autumn_leaves"  class="photo right"/></a>
 
 Here are a few things to do this October Half-term with the kids. If you know of any more events, either email them to us at <content@stmargarets.london> or add a comment.
 

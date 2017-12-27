@@ -6,13 +6,14 @@ commentfile: 2011-05-03-st_margarets_royal_wedding_street_parties
 category: news
 date: 2011-05-03 09:47:05
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/5675826130/" title="Broadway Street Party Table by Peter M, on Flickr"><img src="/assets/images/2011/5675826130_84294ba651_m.jpg" width="150"  alt="Broadway Street Party Table" class="photo right"></a>
+
+    <a href="/assets/images/2017/broadway-ave-street-party.jpg" title="Click for a larger image"><img src="/assets/images/2017/broadway-ave-street-party-thumb.jpg" width="150" alt="Image - broadway-ave-street-party"  class="photo right"/></a>
 
     St Margarets had at least five street parties to celebrate the Royal wedding.  It was lovely to see neighbours coming together to share and meal and toast the newly weds.  We saw lots of games for children and adults, bands and long tables full of food.
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5675826130/" title="Broadway Street Party Table by Peter M, on Flickr"><img src="/assets/images/2011/5675826130_84294ba651_m.jpg" width="150"  alt="Broadway Street Party Table" class="photo right"></a>
+<a href="/assets/images/2017/broadway-ave-street-party.jpg" title="Click for a larger image"><img src="/assets/images/2017/broadway-ave-street-party-thumb.jpg" width="250" alt="Image - broadway-ave-street-party"  class="photo right"/></a>
 
 St Margarets had at least five street parties to celebrate the Royal wedding. It was lovely to see neighbours coming together to share and meal and toast the newly weds. We saw lots of games for children and adults, bands and long tables full of food.
 

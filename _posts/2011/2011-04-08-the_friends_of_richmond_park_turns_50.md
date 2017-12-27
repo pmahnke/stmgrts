@@ -7,10 +7,8 @@ category: news
 date: 2011-04-08 08:28:41
 excerpt: |
     <a href="/assets/images/2011/RP_Deer-deaths-newspaper.gif" title="See larger version of - Deer deaths newspaper article"><img src="/assets/images/2011/RP_Deer-deaths-newspaper_thumb.gif" width="150" height="183" alt="Deer deaths newspaper article" class="photo right" /></a>
-    
+
     Richmond Park is a unique space.  Today it is recognised as a National Nature Reserve and a Site of Special Scientific Interest, but it has always been an oasis of peace for visitors.  However, in 1961 it came under threat when Lord John Hope, Minister of Transport, raised the speed limit on Park roads from 20mph to 30mph, and opened the gates to traffic after dark.  Accidents increased, with injuries to deer and people.
-    
-    Two friends, Wendy Macauley and Mary Gueritz, decided to form a campaign group to fight the change, concerned that the move was a first step towards a gradual urbanisation of the Park.  On March 27 1961 the inaugural meeting of The Friends of Richmond Park took place, with Mary's husband Col John Gueritz as Chairman.  Within a year there were 500 members.
 
 ---
 
@@ -51,7 +49,8 @@ And the Friends' mission for the future? It remains the same as it ever was:
 > "To protect and conserve our unique Park for future generations".
 
 <div markdown="1" class="box">
-<a href="http://www.flickr.com/photos/mahnke/4657669066/" title="Isabella_2010_peterstree by Peter M, on Flickr"><img src="/assets/images/2011/4657669066_cb2e27504e_m.jpg" width="180" height="240" alt="Isabella_2010_peterstree" class="photo left" width="150"></a>
+
+<a href="/assets/images/2017/Isabella_2010_peterstree.jpg" title="Click for a larger image"><img src="/assets/images/2017/Isabella_2010_peterstree-thumb.jpg" width="250" alt="Image - Isabella_2010_peterstree"  class="photo left"/></a>
 
 The Friends of Richmond Park now has nearly 2,000 members and If you would like to join them, you can find full details at [www.frp.org.uk/friends/get-involved](http://www.frp.org.uk/friends/get-involved) Membership prices are £6 per for an individual or £10 for a household and benefits includes free walks, talks and courses, discounts on books, three newsletters per year, monthly electronic or print bulletins, education and courses for children and young people, special news and publications and the opportunity to help and volunteer. Most importantly, you'll be helping London's most special Park and a unique environment.
 

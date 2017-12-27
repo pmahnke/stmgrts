@@ -8,7 +8,7 @@ date: 2010-10-14 22:37:43
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/3108197723/" title="Crown Road Christmas Fair by Peter M, on Flickr"><img src="/assets/images/2010/3108197723_235b0ab452_m.jpg" alt="Crown Road Christmas Fair" class="photo right" width="150"/></a>
+<a href="/assets/images/2017/2008_xmas_fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2008_xmas_fair-thumb.jpg" width="250" alt="Image - 2008_xmas_fair"  class="photo right"/></a>
 
 The 2010 St Margarets Christmas Fair will be held on [Sunday, 5<sup>th</sup> December](/event/fair/200705142573) in Crown Road.
 
@@ -25,5 +25,3 @@ Please join us for a day of family fun and entertainment:
 -   Side Stalls
 -   Delicious Food
 -   Mince Pies & Mulled Wine
-
-For more information, please visit [www.mystmargarets.com](http://www.mystmargarets.com/2010/10/christmas_in_st_margarets_2010.html)

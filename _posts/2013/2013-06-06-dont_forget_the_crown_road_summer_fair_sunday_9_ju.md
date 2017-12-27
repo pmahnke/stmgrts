@@ -6,15 +6,15 @@ commentfile: 2013-06-06-dont_forget_the_crown_road_summer_fair_sunday_9_ju
 category: around_town
 date: 2013-06-06 22:10:17
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
-    
+    <a href="/assets/images/2017/2011-crown-road-xmas-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011-crown-road-xmas-fair-thumb.jpg" width="150" alt="Image - 2011-crown-road-xmas-fair"  class="photo right"/></a>
+
     The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the <a href="https://stmargarets.london/event/fair/200705143841">Crown Road Summer Fair from 11am - 4pm.</a>
-    
+
     Crown Road is being turned into My St Margarets Farm for the day, and there will be real-life farmyard animals for children of all ages to meet.
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/6468759025/" title="P1000809 by Peter M, on Flickr"><img src="/assets/images/2013/6468759025_2acc6543f8_q.jpg" width="150" height="150" alt="P1000809"  class="photo right" ></a>
+<a href="/assets/images/2017/2011-crown-road-xmas-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011-crown-road-xmas-fair-thumb.jpg" width="250" alt="Image - 2011-crown-road-xmas-fair"  class="photo right"/></a>
 
 The weather forecast for Sunday is beautiful sunshine, so remember to pop-along to the [Crown Road Summer Fair from 11am - 4pm.](/event/fair/200705143841)
 
@@ -27,7 +27,7 @@ That's not all:
 -   charity stalls
 -   hoopla
 -   food vendors including Sausalicious' German wurst and Happy Little Baker's cakes
--   aromatherapy from Earthflower Tharapies
+-   aromatherapy from Earthflower Therapies
 -   delicious refreshments from the Turk's Head
 -   a Punch and Judy show sponsored by Gymboree
 -   massages from Time for You

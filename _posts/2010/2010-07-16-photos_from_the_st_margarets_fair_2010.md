@@ -8,7 +8,7 @@ date: 2010-07-16 11:21:09
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/4799320175/" title="P1080539 by Peter M, on Flickr"><img src="/assets/images/2010/4799320175_dec2c6014f_m.jpg" width="240" height="180" alt="P1080539"  class="center photo" /></a>
+<a href="/assets/images/2017/2010_stm_fair-band.jpg" title="Click for a larger image"><img src="/assets/images/2017/2010_stm_fair-band-thumb.jpg" width="250" alt="Image - 2010_stm_fair-band"  class="photo right"/></a>
 
 The 2010 St Margarets Fair was a huge success. As usually there was wonderful food, great music, terrific stalls, fun rides, fun dog show and weather a bit hot, but not too much. Thank you to the Fair Committee and all the volunteers who work so hard to make the day special.
 

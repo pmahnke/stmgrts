@@ -6,13 +6,13 @@ commentfile: 2011-04-28-the_queen_the_king_the_cubs_and_the_constitution
 category: around_town
 date: 2011-04-28 10:22:14
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/3733139598/" title="In Buckingham Palace garden by Peter M, on Flickr"><img src="/assets/images/2011/3733139598_701fa06892_m.jpg" width="150" class="photo right" alt="In Buckingham Palace garden"></a>
-    
+    <a href="/assets/images/2017/cubs_buckingham_palace.jpg" title="Click for a larger image"><img src="/assets/images/2017/cubs_buckingham_palace-thumb.jpg" width="250" alt="Image - In Buckingham Palace garden"  class="photo right"/></a>
+
     Of all the people watching the Royal Wedding today, the fervent monarchists with their flags and souvenir teaspoons, the republicans grumbling about the cost of the nonsense, the _fashionistas_ going on about 'that' dress, it is young people who will be most affected by it. With their lives stretching way ahead of them it is our children who will subjects in a country 'ruled' by King William and his Queen, Catherine.
 
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/3733139598/" title="In Buckingham Palace garden by Peter M, on Flickr"><img src="/assets/images/2011/3733139598_701fa06892_m.jpg" width="150" class="photo right" alt="In Buckingham Palace garden"></a>
+<a href="/assets/images/2017/cubs_buckingham_palace.jpg" title="Click for a larger image"><img src="/assets/images/2017/cubs_buckingham_palace-thumb.jpg" width="250" alt="Image - In Buckingham Palace garden"  class="photo right"/></a>
 
 Of all the people watching the Royal Wedding today, the fervent monarchists with their flags and souvenir teaspoons, the republicans grumbling about the cost of the nonsense, the *fashionistas* going on about 'that' dress, it is young people who will be most affected by it. With their lives stretching way ahead of them it is our children who will subjects in a country 'ruled' by King William and his Queen, Catherine.
 

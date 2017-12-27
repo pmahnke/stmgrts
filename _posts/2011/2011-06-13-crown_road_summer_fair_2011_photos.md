@@ -6,14 +6,13 @@ commentfile: 2011-06-13-crown_road_summer_fair_2011_photos
 category: news
 date: 2011-06-13 13:55:35
 excerpt: |
-    <a href="http://www.flickr.com/photos/mahnke/5827893219/" title="Crown Road Summer Fair 2011-2 by Peter M, on Flickr"><img src="/assets/images/2011/5827893219_27fb28faf5_m.jpg" width="150" class="photo right" alt="Crown Road Summer Fair 2011-2"></a>
+    <a href="/assets/images/2017/2011-crowd-rd-street-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011-crowd-rd-street-fair-thumb.jpg" width="250" alt="Image - 2011-crowd-rd-street-fair"  class="photo right"/></a>
 
     It was a wet and wild day, but hundreds of people turned out for the Crown Road Summer Fair and the Orleans Infants Centenary celebration.  While we hoped for better weather, it didn't stop people from enjoying some food, a drink, some games, shopping at stalls and listening to some great music.
-
-
 ---
 
-<a href="http://www.flickr.com/photos/mahnke/5827893219/" title="Crown Road Summer Fair 2011-2 by Peter M, on Flickr"><img src="/assets/images/2011/5827893219_27fb28faf5_m.jpg" width="150" class="photo right" alt="Crown Road Summer Fair 2011-2"></a>
+
+<a href="/assets/images/2017/2011-crowd-rd-street-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011-crowd-rd-street-fair-thumb.jpg" width="250" alt="Image - 2011-crowd-rd-street-fair"  class="photo right"/></a>
 
 It was a wet and wild day, but hundreds of people turned out for the Crown Road Summer Fair and the Orleans Infants Centenary celebration. While we hoped for better weather, it didn't stop people from enjoying some food, a drink, some games, shopping at stalls and listening to some great music.
 
