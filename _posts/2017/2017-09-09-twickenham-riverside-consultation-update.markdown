@@ -39,6 +39,6 @@ Cllr Pamela Fleming, Richmond Council Cabinet Member for Environment, Business a
 
 For more information or to see the consultation results, go to:
 
-[www.richmond.gov.uk/twickenham_rediscovered]([www.richmond.gov.uk/twickenham_rediscovered](http://www.richmond.gov.uk/twickenham_rediscovered))
+[www.richmond.gov.uk/twickenham_rediscovered](http://www.richmond.gov.uk/twickenham_rediscovered)
 
 <cite>&mdash; from a Richmond Council press release - 5 September 2017</cite>

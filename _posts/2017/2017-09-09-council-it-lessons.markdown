@@ -22,7 +22,7 @@ These free sessions are designed to help residents discover a little of the huge
 
 It's just one part of our commitment to being a truly digital borough.
 
-Booking is essential for all except the Tablets Made Easy drop-in session: [www.richmond.gov.uk/events_in_libraries]([www.richmond.gov.uk/events_in_libraries](http://www.richmond.gov.uk/events_in_libraries))
+Booking is essential for all except the Tablets Made Easy drop-in session: [www.richmond.gov.uk/events_in_libraries](http://www.richmond.gov.uk/events_in_libraries)
 
 They will be held:
 

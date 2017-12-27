@@ -24,4 +24,4 @@ You will take your place in the six-seater Park Brake carriage, embarking on a 6
 
 The details: Every Thursday, Friday and Saturday throughout June. At 5.00pm and 6.00pm Only &pound;125 per pair or &pound;375 per carriage (Max 6 individuals)
 
-For more info and to book please visit [www.supporttheroyalparks.org/events/]([www.supporttheroyalparks.org/events/](http://www.supporttheroyalparks.org/events/ ))horse_carriage_rides Or call 020 7036 8040
+For more info and to book please visit [www.supporttheroyalparks.org/events/](http://www.supporttheroyalparks.org/events/) horse_carriage_rides Or call 020 7036 8040
