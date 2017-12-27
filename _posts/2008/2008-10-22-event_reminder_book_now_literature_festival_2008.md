@@ -14,4 +14,4 @@ The [Book Now Literature Festival](http://www.richmond.gov.uk/home/leisure_and_c
 > 
 >  There is a focus on extraordinary lives: whether it's the writers' own lives or their subjects', the true-life stories that are revealed are remarkable and inspirational; and two anniversaries will be celebrated: the 30th birthday of Virago Books and the 400th anniversary of Milton's birth.
 > 
- Most of the events are listed on [this site](https://stmargarets.london/directory/art/200610191449), but check the [official site](http://www.richmond.gov.uk/literature) for any late changes and tickets.
+ Most of the events are listed on [this site](/directory/art/200610191449), but check the [official site](http://www.richmond.gov.uk/literature) for any late changes and tickets.

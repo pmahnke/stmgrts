@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-Barely a week after we last reported [a false front on the Tesco Cash Point](https://stmargarets.london/archives/2006/05/potential_fraud.html) it has happened again. If you used the Cash Point at the Tesco at St Margarets Road until approximately 2:30pm today, please change your PIN number and check with your bank.
+Barely a week after we last reported [a false front on the Tesco Cash Point](/archives/2006/05/potential_fraud.html) it has happened again. If you used the Cash Point at the Tesco at St Margarets Road until approximately 2:30pm today, please change your PIN number and check with your bank.
 
 A safer alternative is to withdraw cash over the counter at the Post Office just down the road.
 

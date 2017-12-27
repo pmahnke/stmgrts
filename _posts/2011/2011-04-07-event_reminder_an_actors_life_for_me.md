@@ -10,7 +10,7 @@ date: 2011-04-07 22:19:29
 
 <a href="/assets/images/2011/actorslifeforme.jpg" title="See larger version of - Honor Blackman and Nickolas Grace"><img src="/assets/images/2011/actorslifeforme_thumb.jpg" width="114" height="282" alt="Honor Blackman and Nickolas Grace" class="photo right" /></a>
 
-On [Saturday, 21<sup>st</sup> May 2011](https://stmargarets.london/event/play/200705142768), The English Chamber Theatre presents "An Actor's Life for Me!" starring Honor Blackman and Nickolas Grace. Devised and Directed by Jane McCulloch.
+On [Saturday, 21<sup>st</sup> May 2011](/event/play/200705142768), The English Chamber Theatre presents "An Actor's Life for Me!" starring Honor Blackman and Nickolas Grace. Devised and Directed by Jane McCulloch.
 
 This hilarious and poignant show gives an entertaining glimpse of the life of an actor, from the early years of child star, through drama school and repertory theatre, to the mature years and final performances of the aged thespian.
 

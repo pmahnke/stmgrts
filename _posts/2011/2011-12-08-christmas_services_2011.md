@@ -10,7 +10,7 @@ date: 2011-12-08 22:02:47
 
 Here is a list of church services for Christmas Eve and Christmas for some local churches.
 
-### [St Stephen's Church](https://stmargarets.london/directory/church/200506080822)
+### [St Stephen's Church](/directory/church/200506080822)
 
 #### Sunday 11 December
 
@@ -37,7 +37,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 -   9.15 & 11am - Christmas Day Celebration
 
-### [All Hallows Church](https://stmargarets.london/directory/church/200506080815)
+### [All Hallows Church](/directory/church/200506080815)
 
 #### Saturday 10 December
 
@@ -69,7 +69,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 -   10.00am - Holy Communion
 
-### [St Stephen's Church](https://stmargarets.london/directory/church/200506080822)
+### [St Stephen's Church](/directory/church/200506080822)
 
 #### Sunday 11 December
 
@@ -96,7 +96,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 -   9.15 & 11am - Christmas Day Celebration
 
-### [All Hallows Church](https://stmargarets.london/directory/church/200506080815)
+### [All Hallows Church](/directory/church/200506080815)
 
 #### Saturday 10 December
 
@@ -128,7 +128,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 -   10.00am - Holy Communion
 
-### [All Souls Church](https://stmargarets.london/directory/church/200506080805)
+### [All Souls Church](/directory/church/200506080805)
 
 #### Saturday 18 December
 
@@ -144,7 +144,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 -   10.30am - all age celebration
 
-### [St Margarets Church](https://stmargarets.london/directory/church/200505180349)
+### [St Margarets Church](/directory/church/200505180349)
 
 #### Saturday 24 December
 
@@ -165,7 +165,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 
 *There is no evening mass*
 
-### [St Mary's Church](https://stmargarets.london/directory/church/200505180329)
+### [St Mary's Church](/directory/church/200505180329)
 
 #### Sunday 11 December
 

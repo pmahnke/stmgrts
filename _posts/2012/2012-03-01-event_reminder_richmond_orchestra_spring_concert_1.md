@@ -10,7 +10,7 @@ date: 2012-03-01 19:42:44
 
 <a href="/assets/images/2012/RO-poster-march12.jpg" title="See larger version of - RO poster march12"><img src="/assets/images/2012/RO-poster-march12_thumb.jpg" width="150" height="212" alt="RO poster march12" class="photo right" /></a>
 
-Please come along to the Richmond Orchestra's Spring Concert on [Saturday 17<sup>th</sup> March 2012 at 7.30pm](https://stmargarets.london/event/concert/200705143237) in All Saints Church, East Sheen, SW14 8AX.
+Please come along to the Richmond Orchestra's Spring Concert on [Saturday 17<sup>th</sup> March 2012 at 7.30pm](/event/concert/200705143237) in All Saints Church, East Sheen, SW14 8AX.
 
 ### Programme
 

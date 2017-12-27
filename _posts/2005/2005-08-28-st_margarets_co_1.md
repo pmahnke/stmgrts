@@ -8,7 +8,7 @@ date: 2005-08-28 17:14:46
 
 ---
 
-The [St Margarets Autumn Event](https://stmargarets.london/cgi-bin/events.cgi?key=200507211432&action=getevent) will be held in Crown Road on Saturday, 17 September 2005. The event is organised by a combined group of residents and traders and sponsored by the [RFU](http://www.englandrugby.com/). It promises to be a great community event with live music, food stalls, fun fair rides and more.
+The [St Margarets Autumn Event](/cgi-bin/events.cgi?key=200507211432&action=getevent) will be held in Crown Road on Saturday, 17 September 2005. The event is organised by a combined group of residents and traders and sponsored by the [RFU](http://www.englandrugby.com/). It promises to be a great community event with live music, food stalls, fun fair rides and more.
 
 ### Get Involved, Now!
 

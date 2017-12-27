@@ -73,5 +73,5 @@ Director of Education, Children's and Cultural Services
 -   [Download the full letter](/assets/images/2010/stmarg_school_places_post_sept_2010.pdf) \[pdf\]
 -   [View page 1 as an image](/assets/images/2010/stmarg_school_places_page_1.jpg)
 -   [View page 2 as an image](/assets/images/2010/stmarg_school_places_page_2.jpg)
--   [Richmond Council's School Place Planning Update - February 2010](https://stmargarets.london/archives/2010/02/richmond_councils_school_place_planning_update.html)
--   [Council Purchase of Site for New Primary School](https://stmargarets.london/archives/2010/02/council_purchase_of_site_for_new_primary_school.html)
+-   [Richmond Council's School Place Planning Update - February 2010](/archives/2010/02/richmond_councils_school_place_planning_update.html)
+-   [Council Purchase of Site for New Primary School](/archives/2010/02/council_purchase_of_site_for_new_primary_school.html)

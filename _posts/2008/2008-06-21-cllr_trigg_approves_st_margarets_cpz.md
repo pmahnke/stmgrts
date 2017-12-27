@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-On 20<sup>th</sup> June 2008, Councillor David Trigg, the Cabinet Member for Traffic, Transport and Parking, has approved the Manager for Transport and Highways, [recommendation for extending a St Margarets South CPZ](https://stmargarets.london/archives/2008/06/st_margarets_cpz_recommendations.html), effective 30<sup>th</sup> June 2008.
+On 20<sup>th</sup> June 2008, Councillor David Trigg, the Cabinet Member for Traffic, Transport and Parking, has approved the Manager for Transport and Highways, [recommendation for extending a St Margarets South CPZ](/archives/2008/06/st_margarets_cpz_recommendations.html), effective 30<sup>th</sup> June 2008.
 
 <div markdown="1" class="box">
 #### Decision:

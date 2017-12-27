@@ -7,7 +7,7 @@ category: editorial
 date: 2006-03-17 08:03:31
 excerpt: |
     Following up from the <a href="/archives/2006/02/councillors_cpz.html">Councillors CPZ Questionnaire</a> piece we wrote back in February we have two things to share.  The first is that Councellor Annie Hambidge is calling <a href="/cgi-bin/events.cgi?key=200603170207&action=getevent">a meeting</a> for any interested residents to come to the Turk's Head and discuss ideas with her and the Council's Transport Officers.  The second are some data and comments from the questionnaires given to the Councillors and shared anonymously with us.
-    
+
 
 ---
 
@@ -50,4 +50,3 @@ The following are a selection of representative comments from the questionnaire.
 
 -   [Original Story](/archives/2006/02/councillors_cpz.html)
 -   [Meeting Details](/cgi-bin/events.cgi?key=200603170207&action=getevent)
--   [CPZ Questionnaire](/forms/cpz_form.php)

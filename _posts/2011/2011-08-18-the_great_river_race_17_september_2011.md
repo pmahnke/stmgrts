@@ -15,7 +15,7 @@ excerpt: |
 
 #### The UK Traditional Boat Championship
 
-*21 Miles from London Docklands to Ham in Surrey ~ [Saturday 17<sup>th</sup> September 2011](https://stmargarets.london/event/event/200705142952) ~ Starting Cannon - 1:40pm*
+*21 Miles from London Docklands to Ham in Surrey ~ [Saturday 17<sup>th</sup> September 2011](/event/event/200705142952) ~ Starting Cannon - 1:40pm*
 
 The Great River Race, London's River Marathon, is a spectacular boat race up the River Thames that attracts over 300 crews from all over the globe and appeals to every level of competitor from those who enjoy fun, fancy dress and charity stunts, to serious sportsmen and women who like to win. A great fun day out for competitors and spectators alike.
 

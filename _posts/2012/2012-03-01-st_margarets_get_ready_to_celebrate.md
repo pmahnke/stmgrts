@@ -20,7 +20,7 @@ We're planning a special edition of the magazine and are looking for your storie
 
 ### Jubilee Fair
 
-On Sunday 3<sup>rd</sup> June we're hosing a Jubilee Fair in [Crown Road St Margarets from 11am - 4pm](https://stmargarets.london/event/fair/200705143245). The fair will be just like our usual summer fair with lots of family fun and games planned but will also include a traditional street party to celebrate the Jubilee. If you are not having a street party of your own - then come along to ours! We shall be hosting a tea party for the children who will be able to tuck into a jubilee tea whilst being entertained by a magician, Punch and Judy and some surprise guests. The children will also receive a special Jubilee gift to treasure. More details about the fair and how you can book a tea party ticket will be posted here soon.
+On Sunday 3<sup>rd</sup> June we're hosing a Jubilee Fair in [Crown Road St Margarets from 11am - 4pm](/event/fair/200705143245). The fair will be just like our usual summer fair with lots of family fun and games planned but will also include a traditional street party to celebrate the Jubilee. If you are not having a street party of your own - then come along to ours! We shall be hosting a tea party for the children who will be able to tuck into a jubilee tea whilst being entertained by a magician, Punch and Judy and some surprise guests. The children will also receive a special Jubilee gift to treasure. More details about the fair and how you can book a tea party ticket will be posted here soon.
 
 The fair will also be supporting local schools and charities including [Jonny's Journey](http://jonnysjourney2012.com/)
 

@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2012/group-pic.jpg" title="See larger version of - Anna de Polnay art class"><img src="/assets/images/2012/group-pic_thumb.jpg" width="150" height="138" alt="Anna de Polnay art class" class="photo right" /></a>
 
-Monthly [art workshops](https://stmargarets.london/directory/art/201210271457) with local artist Anna De Polnay. Each workshop has a different theme: Halloween, Christmas and fairy tales to name a few. A fantastic opportunity for mums, dads, grandparents and kids to create individual or collaborative art in a fun and informal atmosphere.
+Monthly [art workshops](/directory/art/201210271457) with local artist Anna De Polnay. Each workshop has a different theme: Halloween, Christmas and fairy tales to name a few. A fantastic opportunity for mums, dads, grandparents and kids to create individual or collaborative art in a fun and informal atmosphere.
 
 Anna de Polnay has been creating art in St Margarets for many years. With her assistant Emma Charlton she helps parents and kids create, learn, experiment and have fun together. Why let the kids have all the fun? Come and discover your arty side!
 

@@ -18,7 +18,7 @@ excerpt: |
 
 I have been practicing yoga for over 6 years and am currently training as a student teacher with the British Wheel of Yoga (UK Governing Body for Yoga in the UK).
 
-After the birth of my two sons (have two sons under the age of three), I realised that I needed a career that could work around my children (my previous career was Account Director within a busy marketing agency, so long hours and lots of stress) and I have been lucky enough to turn a passion into that career, hence the birth of [Yoga Fitness](https://stmargarets.london/directory/sports/201205171438) and my new Yoga class in St Margarets, Twickenham.
+After the birth of my two sons (have two sons under the age of three), I realised that I needed a career that could work around my children (my previous career was Account Director within a busy marketing agency, so long hours and lots of stress) and I have been lucky enough to turn a passion into that career, hence the birth of [Yoga Fitness](/directory/sports/201205171438) and my new Yoga class in St Margarets, Twickenham.
 
 I have been a local resident in St Margarets for 3 years now.
 

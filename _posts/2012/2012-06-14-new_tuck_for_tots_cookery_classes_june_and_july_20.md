@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2012/tuck4tots_bw.jpg" title="See larger version of - tuck4tots "><img src="/assets/images/2012/tuck4tots_bw_thumb.jpg" width="150" height="200" alt="tuck4tots " class=" right" /></a>
 
-After an overwhelming response to our free classes offer in May and June, [Tuck for Tots](https://stmargarets.london/directory/home_and_garden/201205171545) is running more cookery classes for parents in June and July.
+After an overwhelming response to our free classes offer in May and June, [Tuck for Tots](/directory/home_and_garden/201205171545) is running more cookery classes for parents in June and July.
 
 #### Upcoming class dates:
 

@@ -11,21 +11,21 @@ date: 2010-12-02 07:16:32
 Latest updated on school closures we are aware of. Please email us at <content@stmargarets.london> or tweet us [@stmgrts](http://twitter.com/stmgrts) if you know of more.
 
 -   Richmond College CLOSED
-    [closed 2 Dec 2010](https://stmargarets.london/l/VnQBn)
+    [closed 2 Dec 2010](/l/VnQBn)
 -   St Marys Schools OPEN
-    [open 2 Dec 2010](https://stmargarets.london/l/okEox)
+    [open 2 Dec 2010](/l/okEox)
 -   Kingston Grammar School CLOSED
-    [closed on 2 Dec 2010](https://stmargarets.london/l/JBhKI)
+    [closed on 2 Dec 2010](/l/JBhKI)
 -   Orleans Park School - OPEN
-    [School is open as normal, 2 Dec 2010](https://stmargarets.london/l/NOR03)
+    [School is open as normal, 2 Dec 2010](/l/NOR03)
 -   Trains delayed approx. 20 minutes
-    [many cancellations as well](https://stmargarets.london/l/fpxom)
+    [many cancellations as well](/l/fpxom)
 -   Tubes updates
-    [please check TFL, many problems](https://stmargarets.london/l/6NcR3)
+    [please check TFL, many problems](/l/6NcR3)
 -   St Stephen School OPEN
-    [School open as usual](https://stmargarets.london/l/imYke)
+    [School open as usual](/l/imYke)
 -   Orleans Infants OPEN
-    [School open as normal](https://stmargarets.london/l/Pi0Rt)
+    [School open as normal](/l/Pi0Rt)
 
 ### Richmond Council Update
 

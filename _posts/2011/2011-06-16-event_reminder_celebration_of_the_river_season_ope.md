@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2011/celebr10.jpg" title="See larger version of - poster"><img src="/assets/images/2011/celebr10_thumb.jpg" width="150" height="211" alt="poster" class="photo right" /></a>
 
-The Thames Anglers Conservancy running a [free event on Sunday, 19 June 2011](https://stmargarets.london/event/event/200705142801), near Walton Bridge to help get people learn about fishing on the Thames.
+The Thames Anglers Conservancy running a [free event on Sunday, 19 June 2011](/event/event/200705142801), near Walton Bridge to help get people learn about fishing on the Thames.
 
 -   Try fishing for the first time.
 -   Qualified coaches will supply tackle and discount vouchers for local tackle shops.

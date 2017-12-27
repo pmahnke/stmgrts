@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2014/Poster-Tracy-Borman.jpg" title="See larger version of - Poster Tracy Borman"><img src="/assets/images/2014/Poster-Tracy-Borman_thumb.jpg" width="250" height="359" alt="Poster Tracy Borman" class="photo right" /></a>
 
-*A talk on [20 October 2014 at 7pm](https://stmargarets.london/event/event/200705144662) is followed by a sparkling wine reception*
+*A talk on [20 October 2014 at 7pm](/event/event/200705144662) is followed by a sparkling wine reception*
 
 Born in Putney a lowly tavern keeper's son, and having lived for a time in Mortlake, Cromwell rose swiftly through the ranks to become the king's right-hand man and one of the most powerful figures in Tudor history.
 

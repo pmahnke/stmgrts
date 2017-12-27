@@ -25,4 +25,4 @@ We only managed to capture a few photos from this year's fair.
 
 If you have any, please forward them to us at <content@stmargarets.london>
 
-[Here they are...](https://stmargarets.london/static/fair/2007/index.html)
+[Here they are...](/static/fair/2007/index.html)

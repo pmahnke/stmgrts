@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<em>[See the amazing Harp and a Monkey on 19 April at The Cabbage Patch](https://stmargarets.london/event/show/200705144933</em>)
+<em>[See the amazing Harp and a Monkey on 19 April at The Cabbage Patch](/event/show/200705144933)</em>
 
 <a href="/assets/images/2015/HarpandaMonkey3.jpg" title="See larger version of - Harp and a Monkey "><img src="/assets/images/2015/HarpandaMonkey3_thumb.jpg" width="250" height="194" alt="Harp and a Monkey " class="photo right" /></a>
 

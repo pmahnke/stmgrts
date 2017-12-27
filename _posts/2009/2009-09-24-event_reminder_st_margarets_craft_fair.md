@@ -18,6 +18,6 @@ excerpt: |
 
 Local Craft including fused and cast glass, hand blown glass, sand blasted glass, jewellery, bunting and fabric accessories.
 
-Come to ParVinu this [Saturday, 26 September 2009 from 10:30am-4:10pm](https://stmargarets.london/event/exhibition/200705142235) and see their second local Craft Fair.
+Come to ParVinu this [Saturday, 26 September 2009 from 10:30am-4:10pm](/event/exhibition/200705142235) and see their second local Craft Fair.
 
 Brunch and lunch being served.

@@ -10,4 +10,4 @@ date: 2011-11-30 21:59:14
 
 We have just received confirmation that our star guest for this weekends St Margarets Christmas Fair will be 00.7 himself Jason Bond aka Sean Canary. Sean will be arriving in his vintage Aston Martin Car and will be suitably dressed for the occasion.
 
-Please join us for a [day of family fun and entertainment](https://stmargarets.london/event/fair/200705143078).
+Please join us for a [day of family fun and entertainment](/event/fair/200705143078).

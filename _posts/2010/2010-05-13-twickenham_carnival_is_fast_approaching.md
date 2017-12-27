@@ -20,6 +20,6 @@ If you would like to be part of the parade or are part of an act who would like 
 
 We are looking for dancers, singers, musicians and anything else that would be suitable for our carnival.
 
-[Carnival is on Sunday 13<sup>th</sup> June](https://stmargarets.london/event/party/200705142445) and takes place in the grounds of Orleans House Gallery.
+[Carnival is on Sunday 13<sup>th</sup> June](/event/party/200705142445) and takes place in the grounds of Orleans House Gallery.
 
 Please email <Anna.Ramsay@richmond.gov.uk> to register your interest.

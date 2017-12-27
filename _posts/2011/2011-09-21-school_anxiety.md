@@ -23,7 +23,7 @@ At the gates of your average nursery or pre-school in and around St Margarets' t
 
 In addition to this, the Council has recently shelved 50% of the development plans to build additional forms which has put the issue even more into the limelight.
 
-So, what are people doing about this? Where did you end up schooling your 4 or 5 year old this September and how far from your home do you have to travel so that your child can attend this school? We'd love to hear people's stories, so please leave a comment here (and a street if you can) and [vote in our poll](https://stmargarets.london/poll/SCHOOLS)
+So, what are people doing about this? Where did you end up schooling your 4 or 5 year old this September and how far from your home do you have to travel so that your child can attend this school? We'd love to hear people's stories, so please leave a comment here (and a street if you can) and [vote in our poll](/poll/SCHOOLS)
 
 <cite>-- from Glen Collins</cite>
 

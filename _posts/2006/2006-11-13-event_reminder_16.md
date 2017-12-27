@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2006/mark_good_wine.jpg" title="See larger version of - Mark of The Good Wine Shop"><img src="/assets/images/2006/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" /></a>
 
-[The Good Wine Shop](https://stmargarets.london/directory/wine_aNd_spirits/200511281416) in Isleworth is hosting a special pre-Christmas [wine tasting event](https://stmargarets.london/event/Exhibition/200611131514).
+[The Good Wine Shop](/directory/wine_aNd_spirits/200511281416) in Isleworth is hosting a special pre-Christmas [wine tasting event](/event/Exhibition/200611131514).
 
 A selection of more than 50 quality wines will be on offer for guests to sample during the evening event which takes place at Winchester Hall on Wednesday 22nd November, 6.00pm to 9.00pm.
 

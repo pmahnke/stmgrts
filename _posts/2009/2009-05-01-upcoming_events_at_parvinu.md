@@ -23,7 +23,7 @@ excerpt: |
 
 #### Craft Fair - A Collection of Works from Local Artistes
 
-We are pleased to able to announce that we will be hosting a [Craft Fair on Saturday 9<sup>th</sup> May between 11.00am and 4.00pm.](https://stmargarets.london/event/exhibition/200705142130)
+We are pleased to able to announce that we will be hosting a [Craft Fair on Saturday 9<sup>th</sup> May between 11.00am and 4.00pm.](/event/exhibition/200705142130)
 
 The fair will feature work from a number of local practicing artistes and will include works in Glass; fused, caste and blown, Fine Ceramics and Fabric Accessories. All the artistes work in the area including some who are based at [Redlees Studios](http://www.redlees.org), a local cooperative studio in Isleworth.
 
@@ -33,4 +33,4 @@ Parvinu will also be open as usual, serving the best coffee, light breakfast pas
 
 #### Wednesday Night Jazz
 
-Please [check out our May line up for live jazz on Wednesday Nights](https://stmargarets.london/directory/restaurant/200809111151). We have quickly established ourselves as one of the best local spots to offer live jazz, specializing in bluesy, soul, bossa and lounge sounds which perfectly compliment the laid back surroundings at Parvinu. We make sure that we feature locally based performers and given the huge amount of talent living and working in the area we are never short of acts!
+Please [check out our May line up for live jazz on Wednesday Nights](/directory/restaurant/200809111151). We have quickly established ourselves as one of the best local spots to offer live jazz, specializing in bluesy, soul, bossa and lounge sounds which perfectly compliment the laid back surroundings at Parvinu. We make sure that we feature locally based performers and given the huge amount of talent living and working in the area we are never short of acts!

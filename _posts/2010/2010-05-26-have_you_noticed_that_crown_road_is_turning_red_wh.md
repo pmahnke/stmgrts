@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2010/crown_rd_2010_summer_fair_poster.jpg"><img alt="crown_rd_2010_summer_fair_poster.jpg" src="/assets/images/2010/crown_rd_2010_summer_fair_poster-thumb.jpg" width="111" height="150" class="photo right" /></a>
 
-The [St Margarets Traders Association](http://www.mystmargarets.com/) invite you to **get spotted** at our [Family Fun Day on Sunday June 13<sup>th</sup>](https://stmargarets.london/event/fair/200705142440) from 11.00am till late.
+The [St Margarets Traders Association](http://www.mystmargarets.com/) invite you to **get spotted** at our [Family Fun Day on Sunday June 13<sup>th</sup>](/event/fair/200705142440) from 11.00am till late.
 
 Please come along and join in the fun!
 

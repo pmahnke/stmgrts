@@ -23,7 +23,7 @@ The Museum of Richmond is delighted to be taking part in the Festival of British
 
 #### Roman Discovery Day for the Festival of Archaeology
 
-[Saturday 19th July 11 a.m. - 3 p.m.](https://stmargarets.london/event/event/200705144509)
+[Saturday 19th July 11 a.m. - 3 p.m.](/event/event/200705144509)
 
 Explore Roman archaeology with Dr Pamela Greenwood during this fascinating and free drop in day. Fun for all ages with Roman artefacts, replica costumes and games.
 
@@ -31,7 +31,7 @@ Explore Roman archaeology with Dr Pamela Greenwood during this fascinating and f
 
 #### Movies at the Museum: Time Team: A Richmond Palace Special.
 
-[Wednesday 23rd July 6 p.m. - 8 p.m.](https://stmargarets.london/event/event/200705144510)
+[Wednesday 23rd July 6 p.m. - 8 p.m.](/event/event/200705144510)
 
 Delve into the archaeological foundations of Richmond Palace for the Festival of Archaeology.
 

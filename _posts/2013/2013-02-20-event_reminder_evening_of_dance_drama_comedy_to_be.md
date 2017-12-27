@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2013/Mulberry-flyer-front.png" title="See larger version of - Mulberry flyer"><img src="/assets/images/2013/Mulberry-flyer-front_thumb.png" width="150" height="211" alt="Mulberry flyer" class="photo right" /></a>
 
-Chiswick-based breast cancer survivor Yvette Cowles, herself a client of The Mulberry Centre, has joined forces with Sushma Mehta to put together an exciting double bill on [15<sup>th</sup> March 2013 at 7.45pm](https://stmargarets.london/event/event/200705143811) to benefit this local cancer centre. 10% of the profits of the event will go to the charity.
+Chiswick-based breast cancer survivor Yvette Cowles, herself a client of The Mulberry Centre, has joined forces with Sushma Mehta to put together an exciting double bill on [15<sup>th</sup> March 2013 at 7.45pm](/event/event/200705143811) to benefit this local cancer centre. 10% of the profits of the event will go to the charity.
 
 ### SEQUINS ON MY BALCONY: Breasts, Belly Dance & Beating the Odds
 

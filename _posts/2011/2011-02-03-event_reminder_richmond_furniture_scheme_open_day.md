@@ -8,7 +8,7 @@ date: 2011-02-03 20:11:15
 
 ---
 
-[Richmond Furniture Scheme](https://stmargarets.london/directory/charity/200703111434) will be open on Saturday 5<sup>th</sup> February 2011 from 10 to 12 noon.
+[Richmond Furniture Scheme](/directory/charity/200703111434) will be open on Saturday 5<sup>th</sup> February 2011 from 10 to 12 noon.
 
 This is to enable people who are at work during the week days to come and visit the scheme. Our usual opening hours are 1000 to 1500 Mondays to Thursdays.
 

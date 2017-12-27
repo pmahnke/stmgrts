@@ -45,7 +45,7 @@ Is half so fine a sight."
 \# Easter-ale. It was once the custom to brew beer and sell it over the Easter festival to raise money for the church. The church authorities tried unsuccessfully to ban this practise in 1603 - but it did come to an end at the time of Oliver Cromwell.
 
 </div>
-<em>For more information about Dr Ebenezer Cobham Brewer and his amazing book please check out [this article in our archives](https://stmargarets.london/archives/2008/12/you_always_need_a_brewer_at_christmas.html)
+<em>For more information about Dr Ebenezer Cobham Brewer and his amazing book please check out [this article in our archives](/archives/2008/12/you_always_need_a_brewer_at_christmas.html)
 </em>
 
 <cite>-- from Martyn Day</cite>

@@ -12,7 +12,7 @@ date: 2011-07-14 07:59:37
 
 *New Venue - For The First Time - Island Barn Sailing Club*
 
-On [Sunday 24<sup>th</sup> July 2011 from 11am to 4pm](https://stmargarets.london/event/show/200705142860) join artists Emily Burton and Sasa Marinkov at Island Barn Sailing Club for an Art Picnic.
+On [Sunday 24<sup>th</sup> July 2011 from 11am to 4pm](/event/show/200705142860) join artists Emily Burton and Sasa Marinkov at Island Barn Sailing Club for an Art Picnic.
 
 Materials for sketching (paper, pencils, and charcoal) and drawing boards will be provided, but you are welcome to bring your own equipment if you prefer.
 

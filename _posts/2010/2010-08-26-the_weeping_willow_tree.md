@@ -21,7 +21,7 @@ excerpt: |
 
 <a href="/assets/images/2010/willow_Weeping-Willow.jpg" title="See larger version of - Weeping Willow"><img src="/assets/images/2010/willow_Weeping-Willow_thumb.jpg" width="150" height="125" alt="Weeping Willow" class="photo right" /></a>
 
-Some sources say that the most common of the cultivated Weeping Willow species (<em>salix x sepulcralis</em>) was first introduced into this country from a German nursery in 1908... which does seem a little late in the day considering the hundreds of thousands of the trees that are now to be found across the length and breadth of Britain.
+Some sources say that the most common of the cultivated Weeping Willow species (<em>salix x sepulcralis)</em> was first introduced into this country from a German nursery in 1908... which does seem a little late in the day considering the hundreds of thousands of the trees that are now to be found across the length and breadth of Britain.
 
 <a href="/assets/images/2010/willow_AlexanderPope.jpg" title="See larger version of - Alexander Pope"><img src="/assets/images/2010/willow_AlexanderPope_thumb.jpg" width="142" height="150" alt="Alexander Pope" class="photo right" /></a>
 

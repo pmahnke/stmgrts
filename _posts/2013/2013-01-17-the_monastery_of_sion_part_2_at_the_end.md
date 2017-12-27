@@ -52,6 +52,6 @@ Sion Monastery became part of the Crown Estate. From November 1541 to February 1
 
 Shortly afterwards the monastery and its Abbey came into the possession of Edward Seymour, the 1<sup>st</sup> Duke of Somerset, who immediately pulled it down and built Syon House, a grand residence in Italian Renaissance style on the site. In 1595 Syon House was acquired by Henry Percy, 9<sup>th</sup> Earl of Northumberland, and has remained in his family ever since.
 
--   Be sure to read [The Monastery of Sion - Part 1 - In the Beginning](https://stmargarets.london/archives/2013/01/the_monastery_of_sion_part_1_in_the_beginning.html)
+-   Be sure to read [The Monastery of Sion - Part 1 - In the Beginning](/archives/2013/01/the_monastery_of_sion_part_1_in_the_beginning.html)
 
 <cite>-- from Martyn Day</cite>

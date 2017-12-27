@@ -10,7 +10,7 @@ date: 2006-10-02 09:43:31
 
 <a href="/assets/images/2006/Race-night-poster.jpg" title="See larger version of - race night"><img src="/assets/images/2006/Race-night-poster_thumb.jpg" width="150" height="147" alt="race night" class="photo right" /></a>
 
-The St Margarets Fair Committee invites you to an evening of [Virtual Horse Racing](https://stmargarets.london/event/Race/200610020342), light hearted better and cheese! With live video images and compere!
+The St Margarets Fair Committee invites you to an evening of [Virtual Horse Racing](/event/Race/200610020342), light hearted better and cheese! With live video images and compere!
 
 Friday, 6 Octover from 7:30pm until 11.00pm at St Margarets RC Church Hall.
 

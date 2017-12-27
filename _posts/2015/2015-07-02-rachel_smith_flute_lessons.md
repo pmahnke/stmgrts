@@ -14,4 +14,4 @@ I have around 15 years of extensive teaching experience of all ages from 8 to 80
 
 I also teach theory of music and incorporate aural and sight-reading skills into my lessons to prepare students for graded exams.
 
-[More details](https://stmargarets.london/directory/music/201507021742)
+[More details](/directory/music/201507021742)

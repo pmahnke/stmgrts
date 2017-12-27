@@ -10,7 +10,7 @@ date: 2007-02-27 08:53:57
 
 <strong>UPDATE: Change of plan... the bike ride will start from Sunningdale at 9.15 on Saturday 3rd March as the train track between Staines and Windsor is being repaired. If you do plan on coming there is a train leaving Twickeham at 8.40am which arrives in time for the 9.15 departure. Please let Gill Timmis ([gill\_timmis@talk21.com](mailto:gill_timmis@talk21.com)) know if you intend coming.</strong>
 
-A sponsored [Bike Ride for Bulgarian Children](https://stmargarets.london/event/Tour/200702270252) is scheduled for Saturday 3<sup>rd</sup>  March 2007 from Windsor to Waterloo. Meet at Windsor and Eton Station at 9.00 am, with a lunch stop at Twickenham Yacht Club, Riverside.
+A sponsored [Bike Ride for Bulgarian Children](/event/Tour/200702270252) is scheduled for Saturday 3<sup>rd</sup>  March 2007 from Windsor to Waterloo. Meet at Windsor and Eton Station at 9.00 am, with a lunch stop at Twickenham Yacht Club, Riverside.
 
 The ride starts at 9.00 at Windsor and Eton Riverside Station with a lunch stop (12.30 to 1.30 ish) at Twickenham Yacht Club, Riverside, Twickenham. (Supporters and 'half way' joiners/leavers welcome). It is expected that we will arrive at Waterloo Station by 5.00 approximately (if not earlier). You are asked to raise sponsorship or make a donation of £50 (or more) to support the Bulgarian 'Joining up' project.
 

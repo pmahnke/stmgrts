@@ -22,4 +22,4 @@ Colin Hines was taken to Kew as a child and in turn he and his wife Ann took the
 
 [The Kewtees](http://www.kewtees.co.uk) costs just £7.99. It has 40 pages with 20 beautifully detailed colour illustrations by John Hilder.
 
-<em>Colin Hines is also author of [Art Deco London](https://stmargarets.london/archives/2006/11/art_deco_london.html</em>)
+<em>Colin Hines is also author of [Art Deco London](/archives/2006/11/art_deco_london.html)</em>

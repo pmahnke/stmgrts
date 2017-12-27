@@ -8,7 +8,7 @@ date: 2007-09-02 20:09:20
 
 ---
 
-Saturday, 8th September from 2 to 5pm, North St Margaret's Residents' Association (NSMRA) is holding its 5th fabulous [Great Annual Street Sale](https://stmargarets.london/event/fair/200705141679) next Saturday, 8th September from 2-5pm.
+Saturday, 8th September from 2 to 5pm, North St Margaret's Residents' Association (NSMRA) is holding its 5th fabulous [Great Annual Street Sale](/event/fair/200705141679) next Saturday, 8th September from 2-5pm.
 
 Residents are turning out their attics, bookshelves, toy chests and CD/DVD collections, baking cakes, making jams and chutneys and next Saturday afternoon they'll be putting them in their front gardens and selling them!
 

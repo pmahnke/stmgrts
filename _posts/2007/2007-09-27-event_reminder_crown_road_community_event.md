@@ -8,9 +8,9 @@ date: 2007-09-27 13:06:44
 
 ---
 
-The [Crown Road Community Event](https://stmargarets.london/event/fair/200705141669) is nearly here! Fingers crossed for good weather!
+The [Crown Road Community Event](/event/fair/200705141669) is nearly here! Fingers crossed for good weather!
 
-<strong>PROPOSED ITINERY (<em>subject to weather</em>)</strong>
+<strong>PROPOSED ITINERY (<em>subject to weather)</em></strong>
 
 |         |                                                     |
 |---------|-----------------------------------------------------|

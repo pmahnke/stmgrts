@@ -8,7 +8,7 @@ date: 2012-04-19 19:26:46
 
 ---
 
-<img src="/assets/images/2012/Age%20UK%20Richmond%20upon%20Thames%20Logo%20RGB.png" width="160" height="80" alt="age logo"  class="right" />
+<img src="/assets/images/2012/Age_UK_Richmond_upon_Thames_Logo_RGB.png" width="160" height="80" alt="age logo"  class="right" />
 
 *Part-time 15 hours a week*
 *6 month fixed term contract*

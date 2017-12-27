@@ -16,7 +16,7 @@ excerpt: |
 
 *If You Have a Child Age 2 or Under, Don't Miss the For Sanity's Sake "Eat, Play, Sleep & Be Healthy" Parenting Event!*
 
-[For Sanity's Sake](https://stmargarets.london/directory/childrens/201012151646) has lots to offer parents at its next event - *Eat, Play, Sleep & Be Healthy* at Movers & Shapers in St Margarets on Tuesday, 19 May 2015!
+[For Sanity's Sake](/directory/childrens/201012151646) has lots to offer parents at its next event - *Eat, Play, Sleep & Be Healthy* at Movers & Shapers in St Margarets on Tuesday, 19 May 2015!
 
 The event will help parents of children ages 2 and under get expert advice on the sleeping habits of their baby/toddler, receive help with feeding their little ones and try play and developmental taster classes for babies and young toddlers with the best local providers, including Gymboree. There will also be the opportunity to meet and chat with local childcare and health providers and enjoy fitness taster classes, if they wish.
 
@@ -24,12 +24,12 @@ Tickets allow access to the event for 3 hours. The price includes access to smal
 
 Sponsored by Dreamfeeds, feeding workshops will be presented by its International Board Certified lactation consultants, Lyndsey Hookway and Judith Brenner. Sleep workshops will be presented by Lyndsey's company Little Sleepers. All workshops will focus on the questions and issues with which you are struggling and you will have the opportunity, when booking your ticket, to let us know what these are. Workshop places will be available on a "first come, first served" basis, and can be booked when you book your tickets, so it's worth booking early!
 
-[Movers & Shapers](https://stmargarets.london/directory/health_aNd_beauty/201504101519) is a bright, spacious group personal training facility which is new to St Margarets. It will be offering 'no sweat' fitness taster sessions throughout the day which you can enjoy with your little one in a carry cot or similar - you don't even need to get changed!
+[Movers & Shapers](/directory/health_aNd_beauty/201504101519) is a bright, spacious group personal training facility which is new to St Margarets. It will be offering 'no sweat' fitness taster sessions throughout the day which you can enjoy with your little one in a carry cot or similar - you don't even need to get changed!
 
 #### More Information
 
 -   Tickets cost £9.95 for a parent accompanied by a child.
 -   [more details](http://www.forsanityssake.com/profiles/blogs/if-you-have-a-child-under-2-don-t-miss-the-fss-eat-play-sleep-be-)
 -   [book online](https://www.eventbrite.co.uk/e/eat-play-sleep-be-healthy-tickets-16630336785)
--   The event is being held at [Movers & Shapers](https://stmargarets.london/directory/health_aNd_beauty/201504101519), which is conveniently located within yards of the St Margarets train station and H37 bus stops and the walk from Richmond and Twickenham is approximately 15 minutes.
+-   The event is being held at [Movers & Shapers](/directory/health_aNd_beauty/201504101519), which is conveniently located within yards of the St Margarets train station and H37 bus stops and the walk from Richmond and Twickenham is approximately 15 minutes.
 -   If you have questions about the event, please email <olivia@forsanityssake.com>

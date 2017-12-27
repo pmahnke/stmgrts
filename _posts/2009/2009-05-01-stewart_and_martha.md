@@ -20,7 +20,7 @@ excerpt: |
 
 <a href="/assets/images/2009/allsouls_inside.jpg"><img src="/assets/images/2009/allsouls_inside-thumb.jpg" width="150" height="98" alt="THE INTERIOR OF ALL SOULS" class="photo right"/></a>
 
-One of the more interesting and perhaps alarming aspects of local history is just when you think the story is done and tucked away into the archives it suddenly jumps out again and surprises you. This is the case with Stewart Headlam whose anarchic story was [recorded in this newsletter two weeks ago](https://stmargarets.london/archives/2009/04/the_turbulent_priest_from_st_peters_road.html).
+One of the more interesting and perhaps alarming aspects of local history is just when you think the story is done and tucked away into the archives it suddenly jumps out again and surprises you. This is the case with Stewart Headlam whose anarchic story was [recorded in this newsletter two weeks ago](/archives/2009/04/the_turbulent_priest_from_st_peters_road.html).
 
 Readers of the article will remember that local minister Stewart Headlam (1847-1924) was a renegade Christian Socialist who preached that the church's role was to help the poor and oppressed. The Bishop of London eventually banned
 Headlam from preaching when he claimed that Jesus Christ was a revolutionary.

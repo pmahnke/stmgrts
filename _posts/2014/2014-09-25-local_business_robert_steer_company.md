@@ -9,13 +9,13 @@ excerpt: |
     <a href="/assets/images/2014/outside_workshop.jpg" title="See larger version of - outside workshop"><img src="/assets/images/2014/outside_workshop_thumb.jpg" width="150" height="112" alt="outside workshop" class="photo right" /></a>
 
 
-    [Robert Steer & Company](https://stmargarets.london/directory/home_and_garden/201409250512) design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
+    [Robert Steer & Company](/directory/home_and_garden/201409250512) design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
 
 ---
 
 <a href="/assets/images/2014/outside_workshop.jpg" title="See larger version of - outside workshop"><img src="/assets/images/2014/outside_workshop_thumb.jpg" width="250" height="187" alt="outside workshop" class="photo right" /></a>
 
-[Robert Steer & Company](https://stmargarets.london/directory/home_and_garden/201409250512) design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
+[Robert Steer & Company](/directory/home_and_garden/201409250512) design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
 
 Owner Robert Steer, who trained in architecture and joinery, runs the business from new premises situated at Lots Ait, a recently refurbished boat yard opposite Kew Palace. Prior to quoting on a new project, Robert visits new clients homes to assess their requirements and to make suggestions on the design. Within 48 hours a detailed quotation is provided and materials samples are then shown to the client. If the client wishes to proceed, then fabrication drawings are prepared for sign off and the item is made. Robert is personally involved in each project and keeps his clients informed as the works progress. Clients can also visit his workshop to see their piece being made.
 

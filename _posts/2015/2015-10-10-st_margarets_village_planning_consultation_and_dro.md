@@ -17,7 +17,7 @@ excerpt: |
 
 <a href="/assets/images/2015/allinone-stmgrts-20151009.png" title="See larger version of - allinone stmgrts 20151009"><img src="/assets/images/2015/allinone-stmgrts-20151009_thumb.png" width="250" height="348" alt="allinone stmgrts 20151009" class="photo right" /></a>
 
-[Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015](https://stmargarets.london/event/event/200705145247)
+[Drop in session at Twickenham Film Studios - 10am to 4pm on 11 October 2015](/event/event/200705145247)
 
 Following three Question Time events, in the January 2015, a series of drop-ins and walkabout sessions were held in these three villages, to collate information from residents about their local area, particularly key areas of interest, particular features and what residents would like to see improved.
 

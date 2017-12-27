@@ -12,6 +12,6 @@ The St. Margaret's Traders Association and the St. Margaret's Tavern have submit
 
 Stay tuned for more information.
 
-In order to make the market a success, let us know what kind of vendors you are most interested in seeing by [taking part in our poll](https://stmargarets.london/cgi-bin/poll.cgi?pollname=farmmkt).
+In order to make the market a success, let us know what kind of vendors you are most interested in seeing by [taking part in our poll](/cgi-bin/poll.cgi?pollname=farmmkt).
 
-Here are the [results so far.](https://stmargarets.london/cgi-bin/poll.cgi?pollname=farmmkt&amp;action=results)
+Here are the [results so far.](/cgi-bin/poll.cgi?pollname=farmmkt&amp;action=results)

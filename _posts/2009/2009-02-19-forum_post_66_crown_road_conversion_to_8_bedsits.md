@@ -14,7 +14,7 @@ date: 2009-02-19 19:57:22
 > 
 >  If, like me, you have concerns regarding this development please email <planningenforcement@richmond.gov.uk> quoting the case number above.
 > 
->  -- [from jayc](https://stmargarets.london/forum.cgi?action=jump&topic=Local%20News%20&%20Events&topic_id=2&name=&user_id=)
+>  -- [from jayc](/forum.cgi?action=jump&topic=Local%20News%20&%20Events&topic_id=2&name=&user_id=)
 > 
 > 
 > 

@@ -50,7 +50,7 @@ Dying for your country doesn't make you a hero and as war poet Wilfred Owen obse
 > 
 > <cite>AE Housman</cite>
 
-If you would like to see the two wooden crosses and the Roll of Honour All Souls Church will be open on Armistice Day, Tuesday 11<sup>th</sup> November, from 10.30am. At 11.00am Richard Frank, the minister at All Souls will conduct a short [Act of Remembrance](https://stmargarets.london/event/meeting/200705141998).
+If you would like to see the two wooden crosses and the Roll of Honour All Souls Church will be open on Armistice Day, Tuesday 11<sup>th</sup> November, from 10.30am. At 11.00am Richard Frank, the minister at All Souls will conduct a short [Act of Remembrance](/event/meeting/200705141998).
 
 Records of the 1st World War are often inconsistent and contradictory but if you would like to know more about the 86 men whose names are on the All Souls Roll of Honour and their full addresses Laurence Mann has [prepared a list of all the names with what information there is to be found in the 1901 census, the Commonwealth War Graves Commission databank, The Great War Forum and the Index of Birth Marriage and Death](/assets/images/2008/AllSoulsRoll_of_Honour.pdf).
 

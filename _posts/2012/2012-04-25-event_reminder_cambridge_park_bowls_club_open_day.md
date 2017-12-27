@@ -10,7 +10,7 @@ date: 2012-04-25 20:45:17
 
 <a href="/assets/images/2012/cambridgeparkbowls.jpg" title="See larger version of - cambridge park bowls"><img src="/assets/images/2012/cambridgeparkbowls_thumb.jpg" width="300" height="97" alt="cambridge park bowls" class="photo center" /></a>
 
-<em>[Saturday May 5<sup>th</sup>, from 11am to 4pm](https://stmargarets.london/event/event/200705143340</em>)
+<em>[Saturday May 5<sup>th</sup>, from 11am to 4pm](/event/event/200705143340)</em>
 
 Enjoy a gentle introduction to the game with the help of our friendly coaches and teachers. No experience needed - all ages welcome.
 

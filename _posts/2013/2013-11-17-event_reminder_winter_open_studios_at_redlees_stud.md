@@ -8,7 +8,7 @@ date: 2013-11-17 20:48:55
 
 ---
 
-[6<sup>th</sup> to 8<sup>th</sup> December 2013](https://stmargarets.london/event/exhibition/200705144199)
+[6<sup>th</sup> to 8<sup>th</sup> December 2013](/event/exhibition/200705144199)
 
 Join us in a celebration of original art and the handcrafted!
 

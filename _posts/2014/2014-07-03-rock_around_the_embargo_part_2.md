@@ -58,4 +58,4 @@ In the few years that separated the end of skiffle in 1958 and the launch of the
 
 <em>Note: For more information about this exciting period in British Pop Music read "British Rock Guitar - the first 50 years" by Mo Foster published by Northumbria Press. Twangtastic!</em>
 
-<em>Read part 1 of [Rock Around The Embargo](https://stmargarets.london/archives/2014/06/rock_around_the_embargo_part_1.html</em>)
+<em>Read part 1 of [Rock Around The Embargo](/archives/2014/06/rock_around_the_embargo_part_1.html)</em>

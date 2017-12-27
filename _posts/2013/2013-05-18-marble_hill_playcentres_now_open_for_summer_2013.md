@@ -47,4 +47,4 @@ Come and play in our beautiful outdoor playspace and explore our exciting new fe
 
 <!-- -->
 
--   [Details and contact information](https://stmargarets.london/directory/childrens/200704291443)
+-   [Details and contact information](/directory/childrens/200704291443)

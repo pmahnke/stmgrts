@@ -14,7 +14,7 @@ The regeneration of the Twickenham Riverside is well under way with *Stage 1* of
 
 The project has been broken into three phases by the Richmond Council.
 
--   **Stage 1** -- *site clean up and temporary facilities* included the removal of the old pool building, building of gardens, a temporary café with toilets and a playground. (Previously reported [here](https://stmargarets.london/archives/2005/03/twickenham_rive.html.))
+-   **Stage 1** -- *site clean up and temporary facilities* included the removal of the old pool building, building of gardens, a temporary café with toilets and a playground. (Previously reported [here](/archives/2005/03/twickenham_rive.html.))
 -   **Stage 2** -- *The Twickenham Challenge* where the Council works with local and national groups to develop proposals for self-sustaining facilities at the site, representing 15-20% of the total space of the site. The goal is for the Council to review and approve plans by this summer.
 -   **Stage 3** -- *Build the Site* based on which proposals are approved as well as a commercial element, namely housing, cafés and restaurants, and possibly some retail uses. The site will seek planning permission in 2007 and hope to be complete by 2009.
 

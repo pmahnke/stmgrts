@@ -16,14 +16,14 @@ date: 2011-06-17 13:40:20
 > 
 >  Currently we know the following have announced they are closing, or part-closing on the 30 June.
 > 
->  \* [St Stephens CE Junior School](https://stmargarets.london/directory/school/200507170243) - closed
->  \* [Orleans Infant School](https://stmargarets.london/directory/school/200506280125) - closed
+>  \* [St Stephens CE Junior School](/directory/school/200507170243) - closed
+>  \* [Orleans Infant School](/directory/school/200506280125) - closed
 >  \* Grey Court School - closed
 >  \* [Archdeacon Cambridge's CE Primary School](http://www.archdeaconcambridges.richmond.sch.uk/) - closed
 >  \* Richmond College - closed
 >  \* Stanley Primary School - only some classes open
 > 
->  <em>If you know of other local schools, please email [content@stmargarets.london](mailto:content@stmargarets.london</em>)
+>  <em>If you know of other local schools, please email [content@stmargarets.london](mailto:content@stmargarets.london)</em>
 > 
 > 
 >  *Note: We have also heard that: Orleans Park, Kingston Grammar School are open.*

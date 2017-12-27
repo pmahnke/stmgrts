@@ -8,7 +8,7 @@ date: 2010-04-15 21:06:56
 
 ---
 
-On Thursday 22 April 2010, from 7.30pm until 9pm, at Realale.com come to a [free lager tasting](https://stmargarets.london/event/event/200705142392).
+On Thursday 22 April 2010, from 7.30pm until 9pm, at Realale.com come to a [free lager tasting](/event/event/200705142392).
 
 We have teamed up with LOBI (Lagers of British Isles), the campaigning organisation which aims to promote awareness of lager that is produced within the British Isles by independent breweries.
 

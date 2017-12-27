@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2006/I_JInvitationCardVF2.jpg" title="See larger version of - examples of paintings"><img src="/assets/images/2006/I_JInvitationCardVF2_thumb.jpg" width="200" height="141" alt="examples of paintings" class="photo right" /></a>
 
-Currently running, there is a new [joint exhibition](https://stmargarets.london/event/Exhibition/200611220219) featuring recent paintings by local artists, Idun Eustace and Jane Butcher.
+Currently running, there is a new [joint exhibition](/event/Exhibition/200611220219) featuring recent paintings by local artists, Idun Eustace and Jane Butcher.
 
 Curator of Orleans House Gallery Mark De Novellis said: "This is a very accomplished exhibition of work by local talent."
 

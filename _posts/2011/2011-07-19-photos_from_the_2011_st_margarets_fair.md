@@ -20,4 +20,4 @@ Thank you to all those who volunteered their time, specially the St Margarets Fa
 
 [Watch a slideshow on flickr](http://www.flickr.com//photos/mahnke/sets/72157627105669303/show/)
 
-<em>If you have photos you are willing to share, please email [content@stmargarets.london](mailto:content@stmargarets.london</em>)
+<em>If you have photos you are willing to share, please email [content@stmargarets.london](mailto:content@stmargarets.london)</em>

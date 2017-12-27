@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2012/art_auction.png" title="See larger version of - art auction"><img src="/assets/images/2012/art_auction_thumb.png" width="150" height="96" alt="art auction" class="photo right" /></a>
 
-Teddington Lock and Sandys the fishmongers in Twickenham will be two of the many images depicting working life in modern Richmond upon Thames featured in the [Environment Trust's annual Art Auction on November 8<sup>th</sup>.](https://stmargarets.london/event/auction/200705143677)
+Teddington Lock and Sandys the fishmongers in Twickenham will be two of the many images depicting working life in modern Richmond upon Thames featured in the [Environment Trust's annual Art Auction on November 8<sup>th</sup>.](/event/auction/200705143677)
 
 Other unusual images of the borough in a variety of media, including watercolour, oil, acrylic, linocuts and etchings are expected to be the big sellers at the Auction.
 

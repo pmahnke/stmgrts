@@ -10,7 +10,7 @@ date: 2007-10-23 20:17:47
 
 <a href="/assets/images/2007/art_auction.jpg" title="See larger version of - 'Girl and Moon' by Mary Fedden RA is one of this year's pictures."><img src="/assets/images/2007/art_auction_thumb.jpg" width="150" height="98" alt="'Girl and Moon' by Mary Fedden RA is one of this year's pictures." class="photo right" /></a>
 
-It's November, so it must be the [Art Auction](https://stmargarets.london/event/auction/200705141716)
+It's November, so it must be the [Art Auction](/event/auction/200705141716)
 
 Once again the Environment Trust for Richmond upon Thames has the borough's art lovers in its sights, hoping to boost its charitable coffers at the very popular annual Art Auction. Once again many big-name artists have generously responded to the call for contributions -- and it's the big names that attract the big spenders. Royal Academicians Mary Fedden, Chris Orr and Bernard Dunstan have all given pictures. But often connoisseurs find a local artist to invest in too, and the auction will have plenty of pictures from borough-based professionals and amateurs with a strong local following.
 

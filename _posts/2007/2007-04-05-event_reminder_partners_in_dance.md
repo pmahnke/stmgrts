@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2007/6-Week-Dance-Courses-flyer.jpg"><img src="/assets/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
 
-Richmond Council's [Partners in Dance](https://stmargarets.london/directory/theatre/200704050651) festival is offering three exciting 6 week long dance classes over April and May.
+Richmond Council's [Partners in Dance](/directory/theatre/200704050651) festival is offering three exciting 6 week long dance classes over April and May.
 
 <ul>
 <li>
@@ -34,4 +34,4 @@ Richmond Council's [Partners in Dance](https://stmargarets.london/directory/thea
 
 </li>
 </ul>
-[Read their flyer](https://stmargarets.london/images/6-Week-Dance-Courses-flyer.jpg)
+[Read their flyer](/images/6-Week-Dance-Courses-flyer.jpg)

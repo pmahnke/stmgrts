@@ -14,6 +14,6 @@ The toilets have been totally transformed (huge sighs of relief all round!) and 
 
 The major job, however, has been fitting out a new kitchen. Out with the banks of microwaves and deep fat fryers, and in with a equipment capable of producing freshly made, seasonal dishes. The menu will be predominantly British, but with some interesting twists and influences.
 
--   [Pub details](https://stmargarets.london/directory/pub/200505231529)
+-   [Pub details](/directory/pub/200505231529)
 
 <cite>-- from St Margarets Pub</cite>

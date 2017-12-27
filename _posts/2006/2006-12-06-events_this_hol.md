@@ -136,7 +136,7 @@ With carol singers, street entertainers and a concoction of musicians this event
 
 ### Church Services
 
-#### [All Hallows Church](https://stmargarets.london/directory/church/200506080815)
+#### [All Hallows Church](/directory/church/200506080815)
 
 -   **Nine lessons and carols**
     *Friday 22 December - 7.30 pm*
@@ -151,7 +151,7 @@ With carol singers, street entertainers and a concoction of musicians this event
     *Tuesday 26 December, 10 am*
     Eucharist in the Chapel
 
-#### [All Souls Church](https://stmargarets.london/directory/church/200506080805)
+#### [All Souls Church](/directory/church/200506080805)
 
 -   **Carols by Candlelight Service**
     *Sunday 10th December 8pm*
@@ -173,7 +173,7 @@ With carol singers, street entertainers and a concoction of musicians this event
     *10.30am - All-age Celebration*
     Lasting around 45 minutes.
 
-#### [St Margaret of Scotland Catholic Church](https://stmargarets.london/directory/church/200505180349)
+#### [St Margaret of Scotland Catholic Church](/directory/church/200505180349)
 
 -   **Saturday, December 23rd**
     -   10.00am Mass
@@ -197,7 +197,7 @@ With carol singers, street entertainers and a concoction of musicians this event
     -   *St Stephen*
         -   10.00am Mass
 
-#### [St Mary Church, Twickenham](https://stmargarets.london/directory/church/200505180329)
+#### [St Mary Church, Twickenham](/directory/church/200505180329)
 
 -   **Christingle Service**
     *Sunday 10 December, 4.00pm*
@@ -215,7 +215,7 @@ With carol singers, street entertainers and a concoction of musicians this event
     *Monday 25 December, 10.00am*
     Festival Eucharist with Carols
 
-#### [St Stephen's Church](https://stmargarets.london/directory/church/200506080822)
+#### [St Stephen's Church](/directory/church/200506080822)
 
 -   **Simply Divine**
     *Sunday, 10th December, 6pm & 8pm*
@@ -223,7 +223,7 @@ With carol singers, street entertainers and a concoction of musicians this event
 -   **Don't Be Afraid**
     *Sunday, 17th December, 6pm & 8pm*
     A traditional carol service.
--   \*Carol Concert at the [Rising Sun](https://stmargarets.london/directory/pub/200611051507*)
+-   \*Carol Concert at the [Rising Sun](/directory/pub/200611051507*)
     *Thursday, 21st December*
 -   **The Innkeeper**
     *Friday, 22nd December, 3.30pm & 5pm*

@@ -12,4 +12,4 @@ excerpt: |
 
 Jocelyn Sheppy was the winner of last month's *St Margarets Community Website Newsletter Contest*. She won two tickets to the [Bearcat Comedy Club](/cgi-bin/directory.cgi?key=200509210632&action=getlisting).
 
-<em>We thought it was time to mention a few winners and remind you to [Sign Up to the Newsletter Today!](/cgi-bin/newsletter.cgi</em>)
+<em>We thought it was time to mention a few winners and remind you to [Sign Up to the Newsletter Today!](/cgi-bin/newsletter.cgi)</em>

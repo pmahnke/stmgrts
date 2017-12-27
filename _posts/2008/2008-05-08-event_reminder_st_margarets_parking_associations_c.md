@@ -18,4 +18,4 @@ We hope to provide more detailed information and address the wider implications 
 
 All are welcome.
 
-[Meeting is on the 14th May at 7pm in Winchester Hall](https://stmargarets.london/event/meeting/200705141851)
+[Meeting is on the 14th May at 7pm in Winchester Hall](/event/meeting/200705141851)

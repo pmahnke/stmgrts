@@ -12,7 +12,7 @@ HANDS - *Help a Neighbour in Distress* - is a neighbourhood care scheme covering
 
 Our volunteers give practical help and support in many ways to people of any age group in need, especially elderly, frail, disabled, sick and lonely people in our community.
 
-We organise the [Charities Fair on Twickenham Green on the spring bank holiday Monday 31<sup>st</sup> May](https://stmargarets.london/event/fair/200705142442).
+We organise the [Charities Fair on Twickenham Green on the spring bank holiday Monday 31<sup>st</sup> May](/event/fair/200705142442).
 
 84 charities and voluntary organisations are taking part.
 

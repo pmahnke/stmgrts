@@ -19,7 +19,7 @@ RichDance is the London Borough of Richmond Upon Thames' annual dance showcase, 
 
 #### More Information
 
--   The festival takes place on [29-30 March 2013 at the 450 Hall, Hampton School, Hanworth Road, Hampton, TW12 3HD and performances begin at 2.30pm](https://stmargarets.london/event/event/200705144384).
+-   The festival takes place on [29-30 March 2013 at the 450 Hall, Hampton School, Hanworth Road, Hampton, TW12 3HD and performances begin at 2.30pm](/event/event/200705144384).
 -   Ticket price £8.50, concessions £4.50 (4 - 16yrs, students and over 60yrs. Under 4yrs free.)
 -   0208 831 6000
 -   [www.richmond.gov.uk/richdance](http://www.richmond.gov.uk/richdance)

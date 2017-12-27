@@ -10,7 +10,7 @@ date: 2012-02-25 11:05:36
 
 <a href="/assets/images/2012/dance_for_justice.jpg" title="See larger version of - dance for justice"><img src="/assets/images/2012/dance_for_justice_thumb.jpg" width="150" height="106" alt="dance for justice" class="photo right" /></a>
 
-[3 March 2012 at 7.30pm, St Stephen's Church](https://stmargarets.london/event/event/200705143231)
+[3 March 2012 at 7.30pm, St Stephen's Church](/event/event/200705143231)
 
 A dramatic evening of dance, music and fundraising for Hope for Justice, performed by students from the Rambert School of Ballet and Contemporary Dance and Richmond Upon Thames College.Your support will raise much needed funds for the Hope for Justice rescue units and help to free more people from Human Trafficking.
 

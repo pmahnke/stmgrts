@@ -23,4 +23,4 @@ Over 76 designer makers exhibiting and selling a diverse range of distinctive an
 
 -   Admission:£4 / £3 seniors and students
 -   for further details: 020 8977 7558 or visit [www.landmarkartscentre.org](http://www.landmarkartscentre.org)
--   [Friday 6-8.30pm and Saturday & Sunday 10am-5pm](https://stmargarets.london/event/fair/200705144359)
+-   [Friday 6-8.30pm and Saturday & Sunday 10am-5pm](/event/fair/200705144359)

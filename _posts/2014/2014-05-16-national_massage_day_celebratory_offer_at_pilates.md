@@ -23,4 +23,4 @@ This massage has its origins in the ancient traditions of Ayurveda and has been 
 #### More Information
 
 -   massages by Jules Round - BA Hons, ITEC Dip, LCIC
--   book now at [Pilates Plus](https://stmargarets.london/directory/health_aNd_beauty/200506220001) or call Jules on 07712 009 503
+-   book now at [Pilates Plus](/directory/health_aNd_beauty/200506220001) or call Jules on 07712 009 503

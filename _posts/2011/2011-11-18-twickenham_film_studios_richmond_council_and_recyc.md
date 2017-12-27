@@ -16,5 +16,5 @@ excerpt: |
 
 Twickenham Film Studios have asked the council to consider removing the recycling bins from the council property adjacent to The Barons. The studios have decided that the bins are not suitable for outside their main reception area and request that they be moved as soon as possible. But where to? Do you have any suggestions as to where else in St Margarets that would make a good place for the recycling bins?
 
--   [Vote in our poll](https://stmargarets.london/poll/FILM/)
--   [View the results](https://stmargarets.london/poll/FILM/results)
+-   [Vote in our poll](/poll/FILM/)
+-   [View the results](/poll/FILM/results)

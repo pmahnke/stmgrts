@@ -12,4 +12,4 @@ date: 2007-05-08 08:52:37
 
 -- *from Madeleine Menzies*
 
-To help, we have set up a [forum](https://stmargarets.london/cgi-bin/yabb/YaBB.pl?board=lease) where residents can discuss this issue.
+To help, we have set up a [forum](/cgi-bin/yabb/YaBB.pl?board=lease) where residents can discuss this issue.

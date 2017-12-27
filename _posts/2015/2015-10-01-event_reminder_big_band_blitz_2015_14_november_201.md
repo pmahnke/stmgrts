@@ -25,7 +25,7 @@ This charity event will help benefit The Mayor's Charity Appeal (registered char
 
 #### More Information
 
--   [Saturday, 14<sup>th</sup> November 2015](https://stmargarets.london/event/concert/200705145218)
+-   [Saturday, 14<sup>th</sup> November 2015](/event/concert/200705145218)
 -   Doors: 6:30pm, Starts 7:30pm.
 -   Tickets: £22.00 Concessions: £19.00 (60 or over)
 -   Credit Card Bookings: SeeTickets, tel: 0843 515 9400

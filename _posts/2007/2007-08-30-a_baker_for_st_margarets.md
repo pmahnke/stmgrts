@@ -8,7 +8,7 @@ date: 2007-08-30 22:01:38
 
 ---
 
-On the heels of [Council's rejection](https://stmargarets.london/archives/2007/07/planning_permission_refused_for_chase_buchanan.html) of Chase Buchannan's application to convert the old Kobler's Bakery, anyone who objected received a letter (<em>see the [comments here](https://stmargarets.london/archives/2007/07/planning_permission_refused_for_chase_buchanan.html) </em>) from Nick Jones, acting for Park Hill Investments to solicit support for [converting part of the basement into a flat](http://www.ukplanning.com/richmond/showCaseFile.do;jsessionid=4A2AB995A404D570DD58286BCE883315.wam1?action=show&appType=planning%20folder&appNumber=07/2588/FUL). The carrot was that "we have taken your comments on board and are now trying to source a retail tenant that will be more in keeping with the St. Margaret's area such as a bakery".
+On the heels of [Council's rejection](/archives/2007/07/planning_permission_refused_for_chase_buchanan.html) of Chase Buchannan's application to convert the old Kobler's Bakery, anyone who objected received a letter (<em>see the [comments here](/archives/2007/07/planning_permission_refused_for_chase_buchanan.html) )</em> from Nick Jones, acting for Park Hill Investments to solicit support for [converting part of the basement into a flat](http://www.ukplanning.com/richmond/showCaseFile.do;jsessionid=4A2AB995A404D570DD58286BCE883315.wam1?action=show&appType=planning%20folder&appNumber=07/2588/FUL). The carrot was that "we have taken your comments on board and are now trying to source a retail tenant that will be more in keeping with the St. Margaret's area such as a bakery".
 
 Well it appears they are good to their word and have found a tenant:
 

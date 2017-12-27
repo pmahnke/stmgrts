@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2014/rich_twick_photo_annual_2014.png" title="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society"><img src="/assets/images/2014/rich_twick_photo_annual_2014_thumb.png" width="150" height="97" alt="See larger version of - rich twick photo annual 2014 by Fred Schwab, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
 
-The Richmond & Twickenham Photographic Society are holding their annual exhibition at [The Landmark Arts Centre in Teddington, from 9th to 21st April 2014.](https://stmargarets.london/event/event/200705144361)
+The Richmond & Twickenham Photographic Society are holding their annual exhibition at [The Landmark Arts Centre in Teddington, from 9th to 21st April 2014.](/event/event/200705144361)
 
 The exhibition will include fine art photographs and projected digital images produced by members of the Society. Also on display will be the Royal Photographic Society's Visual Art Group 2014 Print Exhibition and a selection of images by GCSE pupils from St Catherine's School for Girls, in Twickenham.
 

@@ -66,7 +66,7 @@ The explosions continued throughout the 19<sup>th</sup> century. One in August 1
 In Stanwell village, 5 miles from the blast, was an old man, long stone deaf, who was working in his garden at the time of the explosion, and when the double "Boom" rang out he stood up with a pleased smile and remarked to his grandson, "Bless my soul! Why, that's the first time I've heard the cuckoo in thirty years!"
 
 </div>
-There is an article about the [Crane Park Shot Tower](https://stmargarets.london/archives/2009/11/the_crane_park_shot_tower.html) published on 19<sup>th</sup> November 2009.
+There is an article about the [Crane Park Shot Tower](/archives/2009/11/the_crane_park_shot_tower.html) published on 19<sup>th</sup> November 2009.
 
 <cite>-- from Martyn Day</cite>
 

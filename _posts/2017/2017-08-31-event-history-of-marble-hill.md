@@ -18,7 +18,7 @@ excerpt: |
 
 Come along to the launch of a month long exhibition celebrating 115 years of Marble Hill as a Public Park.
 
-It will take place at the Arthur Burrell Room, Twickenham Library, Garfield Road, Twickenham TW1 3JT on [Saturday 9<sup>th</sup> September](https://stmargarets.london/event/event/200705146267).
+It will take place at the Arthur Burrell Room, Twickenham Library, Garfield Road, Twickenham TW1 3JT on [Saturday 9<sup>th</sup> September](/event/event/200705146267).
 
 Join us for refreshments at 11am, or just pop in to see snapshots of Marble Hill through the ages up until 2pm.
 

@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2015/St-Peters---21-June-2015-Poster.jpg" title="See larger version of - St Peters   21 June 2015 Poster"><img src="/assets/images/2015/St-Peters---21-June-2015-Poster_thumb.jpg" width="250" height="353" alt="St Peters   21 June 2015 Poster" class="photo right" /></a>
 
-[At the St Peter's Church Petersham, Sunday 21 June at 6 pm](https://stmargarets.london/event/concert/200705145030)
+[At the St Peter's Church Petersham, Sunday 21 June at 6 pm](/event/concert/200705145030)
 
 Come and share a glorious midsummer's evening at St Peter's in the beautiful setting of Petersham's ancient church.
 

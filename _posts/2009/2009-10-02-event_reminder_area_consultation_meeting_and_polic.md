@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2009/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="/assets/images/2009/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
 
-On Tuesday, 6 October, you are welcome to attend the [Joint Area Consultation Meeting (ACM) and Police Liaison Group (PLG) meeting](https://stmargarets.london/event/meeting/200705142236) for St Margarets & North Twickenham. The ACM starts at 7.30pm and the PLG follows at 8.30 pm. The meetings are held in York House, Richmond Road, Twickenham.
+On Tuesday, 6 October, you are welcome to attend the [Joint Area Consultation Meeting (ACM) and Police Liaison Group (PLG) meeting](/event/meeting/200705142236) for St Margarets & North Twickenham. The ACM starts at 7.30pm and the PLG follows at 8.30 pm. The meetings are held in York House, Richmond Road, Twickenham.
 
 This is an opportunity to meet your ward councillors; Geoff Acton, Ben Khosa and Philip Morgan as well as the neighbourhood police team led by Sgt Steve Davis. Have your say on issues of local concern and in how local police priorities are set.
 

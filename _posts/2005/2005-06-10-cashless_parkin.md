@@ -20,4 +20,4 @@ Councillor Mark Krelling, the cabinet member for Traffic, Transport and Parking 
 > 
 >  "We are watching closely the experience of other boroughs and will consider carefully the tenders we receive in order to get the best value and most convenient system for our residents and visitors."
 > 
- What do you think? [Let us know in our poll](https://stmargarets.london/cgi-bin/poll.cgi?pollname=cashlessparking)
+ What do you think? [Let us know in our poll](/cgi-bin/poll.cgi?pollname=cashlessparking)

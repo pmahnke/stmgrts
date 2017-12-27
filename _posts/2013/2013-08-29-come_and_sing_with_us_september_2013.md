@@ -14,7 +14,7 @@ excerpt: |
 
 <img src="/assets/images/directory/201205311730_Richmond_Community_Choir.jpg" width="150" class="right" />
 
-[Richmond Community Choir's](https://stmargarets.london/directory/music/201205311730) new term starts on Thursday 12 September at Orleans Primary School at 6.30pm. We are a not for profit and very friendly Choir open to all who would like to sing. Our focus this term will be on our Christmas Concert in mid-December, and we rehearse every Thursday.
+[Richmond Community Choir's](/directory/music/201205311730) new term starts on Thursday 12 September at Orleans Primary School at 6.30pm. We are a not for profit and very friendly Choir open to all who would like to sing. Our focus this term will be on our Christmas Concert in mid-December, and we rehearse every Thursday.
 
 Choir contributions are a very reasonable £45 a term, and by all means come along for a taster session.
 

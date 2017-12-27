@@ -10,7 +10,7 @@ date: 2009-03-19 14:05:03
 
 <a href="/assets/images/2009/stmag_lent_fundraiser.jpg" title="See larger version of - Makumbi Mission Children's Home"><img src="/assets/images/2009/stmag_lent_fundraiser_thumb.jpg" width="150" height="74" alt="Makumbi Mission Children's Home" class="photo right" /></a>
 
-Come for a [fun day at the St Margarets Church](https://stmargarets.london/event/fair/200705142090) with:
+Come for a [fun day at the St Margarets Church](/event/fair/200705142090) with:
 
 -   Bouncy Castle
 -   Fun Games

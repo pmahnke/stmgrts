@@ -15,4 +15,4 @@ Maximum 20 people - so book early!
 
 Everyone welcome - Beginners too!
 
-[More details](https://stmargarets.london/event/meeting/200705142064)
+[More details](/event/meeting/200705142064)

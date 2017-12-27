@@ -17,7 +17,7 @@ excerpt: |
 
 <a href="/assets/images/2013/Strawberry-Hill-2013-A4.jpg" title="See larger version of - Strawberry Hill 2013 Flyer"><img src="/assets/images/2013/Strawberry-Hill-2013-A4_thumb.jpg" width="150" height="220" alt="Strawberry Hill 2013 Flyer" class="photo right" /></a>
 
-<em>[Sunday, 7 July 12 noon - 7.30pm at Strawberry Hill House](https://stmargarets.london/event/fair/200705144028</em>)
+<em>[Sunday, 7 July 12 noon - 7.30pm at Strawberry Hill House](/event/fair/200705144028)</em>
 
 The Rugby Football Union supporting Strawberry Hill House Please enjoy the attractions in the grounds and spend a little cash - it's all for good causes Live Music, Crafts, Charity Stalls, Children's Rides and Entertainment, Food Stalls, Ice Cream, Pimms and Beer Tent
 

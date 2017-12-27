@@ -12,6 +12,6 @@ date: 2010-09-16 17:34:46
 
 Real Ale have teamed up with BrewDog to give you the opportunity to try a number of their beers - whether it's Tokyo, brewed with Jasmine and Cranberries; dry-hopped then aged on oak chips, or Paradox Smokehead, aged for 6 months in a Scotch malt whisky casks! BrewDog have an ever increasing and exciting range of beers which you'll get a taste of throughout the evening.
 
-This is a [completely free event to attend at our shop in Twickenham](https://stmargarets.london/event/exhibition/200705142557).
+This is a [completely free event to attend at our shop in Twickenham](/event/exhibition/200705142557).
 
 To book a place at the tasting please call Zeph King on 020 8894 1114 or e-mail <zeph@realale.com>.

@@ -18,4 +18,4 @@ excerpt: |
 
 Once again, the [St Margarets Traders Association](http://www.mystmargarets.com/) put on a great Christmas Fair this year. Thank you for all the hard work of the traders, schools, churches, police, Council and volunteers.
 
-[Here are some photos](https://stmargarets.london/l/kRM7y)
+[Here are some photos](/l/kRM7y)

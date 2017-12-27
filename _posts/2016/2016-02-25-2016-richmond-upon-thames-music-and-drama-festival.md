@@ -17,4 +17,4 @@ The Richmond upon Thames Music and Drama Festival returns for 3 weeks of music, 
 
 The 2016 Music and Drama Festival will take place 1 March to 20 March 2016 with another programme of exciting and varied music, dance and drama events across the borough including a special programme of events for children, families and young people.
 
-You can find a very long list of events at [the bottom of this page](https://stmargarets.london/directory/art/201602091714) and in our [events section](https://stmargarets.london/event)
+You can find a very long list of events at [the bottom of this page](/directory/art/201602091714) and in our [events section](/event)

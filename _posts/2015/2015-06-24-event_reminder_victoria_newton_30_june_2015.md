@@ -20,4 +20,4 @@ excerpt: |
 
 All the way from Australia, Victoria presents an irresistible mix of sensual Jazz standards, beguiling bossa nova's and healthy get down on it groove pieces she has supported greats such as Ray Charles and Dionne Warwick and her bubbly effervescent personality has made her a very popular vocalists since she came to London.
 
--   [More information](https://stmargarets.london/event/show/200705145022)
+-   [More information](/event/show/200705145022)

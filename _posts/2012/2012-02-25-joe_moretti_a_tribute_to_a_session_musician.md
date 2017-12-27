@@ -62,4 +62,4 @@ Joe's 1960's masterpiece "Shaking All Over" by Johnny Kidd and the Pirates on Yo
 </div>
 <cite>-- from Martyn Day</cite>
 
-[1] For more information about Vince Taylor and "Brand New Cadillac" please check out [Ziggy Stardust came from Isleworth](https://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html) published on the St Margarets Community Newsletter on the 23<sup>rd</sup> April 2009.
+[1] For more information about Vince Taylor and "Brand New Cadillac" please check out [Ziggy Stardust came from Isleworth](/archives/2009/04/ziggy_stardust_came_from_isleworth.html) published on the St Margarets Community Newsletter on the 23<sup>rd</sup> April 2009.

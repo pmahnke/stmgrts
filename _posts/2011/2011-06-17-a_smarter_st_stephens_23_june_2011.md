@@ -19,4 +19,4 @@ excerpt: |
 
 Plans are underway to transform our school. We'd like to share these plans and listen to your feedback.
 
-All past, present and future parents are invited to join us for a glass of wine at [8.30pm Thursday 23<sup>rd</sup> June in the St Stephen's School Hall](https://stmargarets.london/event/meeting/200705142811).
+All past, present and future parents are invited to join us for a glass of wine at [8.30pm Thursday 23<sup>rd</sup> June in the St Stephen's School Hall](/event/meeting/200705142811).

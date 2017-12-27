@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2014/LS-04.jpg" title="See larger version of - LS 04 - Lion"><img src="/assets/images/2014/LS-04_thumb.jpg" width="250" height="250" alt="LS 04 - Lion" class="photo right" /></a>
 
-<em>A brand new silent film about the culture and diversity of London, is set to launch [a crowdfunding campaign on 16 September 2014](http://www.Londonsymphfilm.com/</em>)
+<em>A brand new silent film about the culture and diversity of London, is set to launch [a crowdfunding campaign on 16 September 2014](http://www.Londonsymphfilm.com/)</em>
 
 LONDON SYMPHONY is a poetic journey through the city of London, including St Margarets, exploring its vast diversity of culture, religion and design via its various modes of transportation. It is both a cultural snapshot and a creative record of London as it stands today. The point is not only to immortalise the city, but also to celebrate its community and diversity.
 

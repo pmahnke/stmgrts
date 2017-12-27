@@ -18,7 +18,7 @@ excerpt: |
 
 On Sunday 3rd December, local residents planted eight trees to mark the inauguration of the new Northcote Nature Reserve in Isleworth.
 
-The Nature Reserve is the northernmost point of the recently announced [Lower Crane Restoration Project](https://stmargarets.london/archives/2017/11/river-crane-vision-document.html), which aims to restore 3km of riverside paths and create a more natural river along the adjacent river Crane.
+The Nature Reserve is the northernmost point of the recently announced [Lower Crane Restoration Project](/archives/2017/11/river-crane-vision-document.html), which aims to restore 3km of riverside paths and create a more natural river along the adjacent river Crane.
 
 The trees, planted during [National Tree Week](http://www.treecouncil.org.uk/Take-Part/National-Tree-Week), have been chosen to be bee and bird friendly and were donated by The Conservation Foundation through the [Trees for Sacred Spaces](https://www.conservationfoundation.co.uk/trees/) project, which is supported by the Mayor of London. The donation was arranged via local All Souls Church, which supports the new nature reserve project.
 

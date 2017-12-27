@@ -18,7 +18,7 @@ excerpt: |
 
 *Holi, the Spring Festival of Colour*
 
-Orleans House Gallery will once again be alive with colour and festivity to celebrate HOLI, the Spring festival of colour, on [Saturday 23<sup>rd</sup> March 2013!](https://stmargarets.london/event/fair/200705143807)
+Orleans House Gallery will once again be alive with colour and festivity to celebrate HOLI, the Spring festival of colour, on [Saturday 23<sup>rd</sup> March 2013!](/event/fair/200705143807)
 
 From 1pm vibrant coloured pigment will be thrown into the air in celebration of the end of winter and the welcoming of spring. This will be accompanied by an exciting programme of lively performances including a community dance showcase featuring local schools and youth groups; Bhangra and Bollywood dancers; live dhol drummers; children's activities and workshops and delicious food stalls selling customary delicacies.
 

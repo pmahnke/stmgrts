@@ -8,7 +8,7 @@ date: 2009-03-03 22:18:52
 
 ---
 
-<em>more details following on a [previous article](https://stmargarets.london/archives/2009/02/forum_post_66_crown_road_conversion_to_8_bedsits.html</em>)
+<em>more details following on a [previous article](/archives/2009/02/forum_post_66_crown_road_conversion_to_8_bedsits.html)</em>
 
 Mr Richard Carter of Richmond Council Enforcement Team has been aware of the building work at 66 Crown Road without planning permission since January 09. He has visited the site and spoken to the landlord who has told him it is being changed into 8 separate bed sits without planning permission.
 

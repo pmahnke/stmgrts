@@ -23,7 +23,7 @@ Francesco, a former colleague of Richard's, sadly passed away after an outrageou
 
 The Three Peaks Challenge, climbing Ben Nevis (Scotland), Snowdon (Wales) and Scafell Pike (England) in 24 hours, will be attempted the first weekend in September 2011, in honour and memory of Francesco.
 
-There are numerous charity-raising events coming-up over the coming weeks, including [a special (hijacked) quiz at the St Margarets Tavern on 16 August 2011](https://stmargarets.london/event/event/200705142953). The evening's fun will include a coconut shy, and special coconut recipe ideas from [@whatsforteadear](http://www.twitter.com/whatsforteadear) (plus lots lots more!). There is also a special charity/society lottery/raffle that will be launched as part of the night (plus, again lots, lots more...)
+There are numerous charity-raising events coming-up over the coming weeks, including [a special (hijacked) quiz at the St Margarets Tavern on 16 August 2011](/event/event/200705142953). The evening's fun will include a coconut shy, and special coconut recipe ideas from [@whatsforteadear](http://www.twitter.com/whatsforteadear) (plus lots lots more!). There is also a special charity/society lottery/raffle that will be launched as part of the night (plus, again lots, lots more...)
 
 [Please see the associated flyer](/assets/images/2011/FLYER-QUIZ-ST-MARGARETS-16-AUG-FA3PC-iiii.jpg). Richard has been tweeting updates on how his training has been going. Follow Richard on Twitter [`kiwinuk":http://www.twitter.com/kiwinuk and also "`FA3PC](http://www.twitter.com/FA3PC) for Three Peak Challenge updates.
 

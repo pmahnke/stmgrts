@@ -10,7 +10,7 @@ date: 2008-11-20 11:03:29
 
 <a href="/assets/images/2008/Eel-Pie-AllStars.jpg"><img src="/assets/images/2008/Eel-Pie-AllStars-thumb.jpg" width="150" height="84" alt="Eel Pie All Stars" class="photo right" /></a>
 
-> "It's worth joining the Eel Pie Club just so you can come along to the [Christmas Party](https://stmargarets.london/event/show/200705142008) and bring your friends."
+> "It's worth joining the Eel Pie Club just so you can come along to the [Christmas Party](/event/show/200705142008) and bring your friends."
 
 This is the only gig of the year that is for Eel Pie Club Members and their guests. One member can bring in any number of guests if tickets are available.
 

@@ -38,7 +38,7 @@ Purchased by an investor, Alison Gallagher and rented to a patisserie. Renovatio
 
 Apparently several butchers have looked at the site. The issue is the cost of refurbishment. If another butcher opens it will be spring 2007.
 
-See [article](https://stmargarets.london/archives/2006/10/mr_frisby_local.html)
+See [article](/archives/2006/10/mr_frisby_local.html)
 
 **No. 6 Crown Road -- Yummy Tots &gt; rug shop?**
 

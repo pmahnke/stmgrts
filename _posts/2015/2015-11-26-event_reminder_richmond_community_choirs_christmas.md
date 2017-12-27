@@ -16,7 +16,7 @@ excerpt: |
 
 *with the Martineau Brass Quintet*
 
-Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, [at 7.30pm on 10 December 2015](https://stmargarets.london/event/concert/200705145279) at the Church of St John the Divine, Kew Road, Richmond.
+Come and see a Christmas Concert with old and new pieces, carols for all, and mince-pies, [at 7.30pm on 10 December 2015](/event/concert/200705145279) at the Church of St John the Divine, Kew Road, Richmond.
 
 #### More Information
 

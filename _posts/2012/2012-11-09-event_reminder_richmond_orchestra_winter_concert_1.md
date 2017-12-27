@@ -21,7 +21,7 @@ excerpt: |
 
 <a href="/assets/images/2012/Richmond-poster-Dec-2012.jpg" title="See larger version of - Richmond poster Dec 2012"><img src="/assets/images/2012/Richmond-poster-Dec-2012_thumb.jpg" width="150" height="211" alt="Richmond poster Dec 2012" class="photo right" /></a>
 
-Come here the Richmond Orchestra's [Winter Concert on 1<sup>st</sup> December 2012](https://stmargarets.london/event/concert/200705143686) at All Saints Church in East Sheen. They will be performing:
+Come here the Richmond Orchestra's [Winter Concert on 1<sup>st</sup> December 2012](/event/concert/200705143686) at All Saints Church in East Sheen. They will be performing:
 
 -   Borodin - Overture - Prince Igor
 -   Rachmaninov - Piano Concerto No.3

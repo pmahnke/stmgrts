@@ -8,7 +8,7 @@ date: 2009-01-06 21:17:41
 
 ---
 
-[Flamenco classes](https://stmargarets.london/directory/music/200901061611) are coming to St Margarets, and to get you in the Spanish spirit we would like to invite you to our [Fiesta on Wednesday 14<sup>th</sup> January, 7.30pm - 9.00pm](https://stmargarets.london/event/exhibition/200705142022), at The Winchester Hall, Winchester Rd.
+[Flamenco classes](/directory/music/200901061611) are coming to St Margarets, and to get you in the Spanish spirit we would like to invite you to our [Fiesta on Wednesday 14<sup>th</sup> January, 7.30pm - 9.00pm](/event/exhibition/200705142022), at The Winchester Hall, Winchester Rd.
 
 Plenty of dancing, the bar will be open, and St Margarets very own Tango band, *The Armadillo Orchestra* will be playing.
 

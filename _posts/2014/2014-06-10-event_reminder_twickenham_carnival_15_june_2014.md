@@ -18,7 +18,7 @@ excerpt: |
 
 *Twickenham will once again come to life with the sights and sounds of Carnival!*
 
-Starting at [York House at 12 noon on 15 June 2014](https://stmargarets.london/event/event/200705144426), the riverside parade will lead crowds to the Carnival village in the grounds of Orleans House Gallery in an explosion of music, dance and spectacular costume. Celebrations will continue throughout the afternoon with a variety of live performance, games, arts activities, food from around the globe and workshops suitable for the whole family. This year Carnival will be celebrating the Hanoverian Tercentenary so join us for an afternoon of Georgian themed Carnival revelry!
+Starting at [York House at 12 noon on 15 June 2014](/event/event/200705144426), the riverside parade will lead crowds to the Carnival village in the grounds of Orleans House Gallery in an explosion of music, dance and spectacular costume. Celebrations will continue throughout the afternoon with a variety of live performance, games, arts activities, food from around the globe and workshops suitable for the whole family. This year Carnival will be celebrating the Hanoverian Tercentenary so join us for an afternoon of Georgian themed Carnival revelry!
 
 Twickenham Carnival is an annual event, and a fantastic free summer celebration for the whole family.
 

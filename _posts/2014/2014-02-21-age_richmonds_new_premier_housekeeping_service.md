@@ -28,10 +28,10 @@ The Premier Housekeeping Service will offer:
 
 <!-- -->
 
--   [Download a brochure](/images/AGERICHMOND_Premier_Housekeeping_Service_JUL13v7.pdf) \[pdf\]
+-   [Download a brochure](/assets/images/2015/AGERICHMOND_Premier_Housekeeping_Service_JUL13v7.pdf) \[pdf\]
 
 #### We need reliable Housekeeping staff
 
 To help us to fulfil our vision of this much needed service we require reliable, trustworthy, hard working and exceptional Housekeepers. Recruiting the right person for this role is key to the success of the new service. We will only consider applicants who address all the points in the person specification.
 
--   [Download more detailed job description](/images/AGERICHMOND_HOUSEKEEPERS_JD_AND_PS.pdf) \[pdf\]
+-   [Download more detailed job description](/assets/images/2015/AGERICHMOND_HOUSEKEEPERS_JD_AND_PS.pdf) \[pdf\]

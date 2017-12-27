@@ -81,4 +81,4 @@ If ever a sound captured the sombre, reflective mood of Remembrance Day it is th
 </div>
 <cite>-- from Martyn Day</cite>
 
-<em>Read the first instalment, [The War Walk \#1 - from the Ailsa to Ypres](https://stmargarets.london/archives/2014/11/the_war_walk_1_from_the_ailsa_to_ypres.html</em>)
+<em>Read the first instalment, [The War Walk \#1 - from the Ailsa to Ypres](/archives/2014/11/the_war_walk_1_from_the_ailsa_to_ypres.html)</em>

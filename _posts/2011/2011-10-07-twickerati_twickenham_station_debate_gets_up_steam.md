@@ -19,4 +19,4 @@ excerpt: |
 
 It's been weeks if not months since we covered the saga of the redevelopment of Twickenham station on here. In short, we've let you have your summer without irritating you with endless station shenanigans. Well, time's up. Summer's over and the autumn campaigning season is underway. All the players are still there so let's ave a quick recap on who's who...
 
--   [Read more on twickerati](https://stmargarets.london/l/IpOlq)
+-   [Read more on twickerati](/l/IpOlq)

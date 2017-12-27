@@ -18,4 +18,4 @@ date: 2007-06-11 13:56:31
 > 
 >  We urge the Council to erect prominent signs along that stretch of road so that people are aware that CCTV is and has been used to issue parking tickets, to deter people before they get a ticket, not after."
 > 
- -- <em>from Nigel Cannings of [SPASM](http://spasm.jiglu.com/</em>)
+ -- <em>from Nigel Cannings of [SPASM](http://spasm.jiglu.com/)</em>

@@ -39,6 +39,6 @@ So, how observant are you? How well do you know the area in which we live? Do yo
 12. Between Twickenham Bridge and the railway bridge, on both sides of the river, are two brick turrets sitting on top of mounds. What do you think that they are there for?
 13. About 100 yards from Twickenham Bridge is a brass marker set in the pavement on Ranelagh Drive. What is it pointing at?
 
-You can find the answers [here](https://stmargarets.london/archives/2012/10/how_observant_are_you_-_the_answers.html)!
+You can find the answers [here](/archives/2012/10/how_observant_are_you_-_the_answers.html)!
 
 <cite>-- from Martyn Day</cite>

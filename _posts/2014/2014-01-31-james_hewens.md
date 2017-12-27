@@ -49,7 +49,7 @@ Like many heroes he would have passed into history unrecognised were it not for 
 <div markdown="1" class="box">
 <a href="/assets/images/2014/HEWENS_Postman_Park.jpg" title="See larger version of - Postman Park"><img src="/assets/images/2014/HEWENS_Postman_Park_thumb.jpg" width="150" height="99" alt="Postman Park" class="photo left" /></a>
 
-Another local resident, Alice Ayres, is also remembered in Postman's Park. You can [read her story on this website at](https://stmargarets.london/archives/2013/03/alice_ayres_a_secular_saint.html)
+Another local resident, Alice Ayres, is also remembered in Postman's Park. You can [read her story on this website at](/archives/2013/03/alice_ayres_a_secular_saint.html)
 
 </div>
 <cite>-- from Martyn Day</cite>

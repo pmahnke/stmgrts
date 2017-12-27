@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2011/popes_grotto.jpg" title="See larger version of - popes grotto"><img src="/assets/images/2011/popes_grotto_thumb.jpg" width="150" height="157" alt="popes grotto" class="photo right" /></a>
 
-A fundraising evening for the Environment Trust for Richmond upon Thames at Orleans House Coach House on [Thursday, 8<sup>th</sup> December 2011 from 7 to 9:30pm.](https://stmargarets.london/event/event/200705143124)
+A fundraising evening for the Environment Trust for Richmond upon Thames at Orleans House Coach House on [Thursday, 8<sup>th</sup> December 2011 from 7 to 9:30pm.](/event/event/200705143124)
 
 #### Alexander Pope's Grotto
 

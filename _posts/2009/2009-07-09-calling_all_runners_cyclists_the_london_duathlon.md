@@ -19,7 +19,7 @@ excerpt: |
 
 <a href="/assets/images/2009/LondonDuathlonposter3.jpg"><img src="/assets/images/2009/LondonDuathlonposter3-thumb.jpg" width="105" height="150" alt="poster" class="photo right" /></a>
 
-<em>Help FRODO and enter the [London Duathlon this 13<sup>th</sup> September in Richmond Park.](http://www.thelondonduathlon.com/</em>)
+<em>Help FRODO and enter the [London Duathlon this 13<sup>th</sup> September in Richmond Park.](http://www.thelondonduathlon.com/)</em>
 
 Thank you to all those who have supported the St Margarets for [FRODO](http://www.frodokids.org) campaign, from buying the cakes and the clothes to taking part in the London Duathlon. We are well on the way to raising the £25,000 to send a team of doctors from Gt Ormond St to Romania to treat 50 plus disabled and orphaned children. Last year a team from St Margarets took part in the London Duathlon, raising over £5,000.
 

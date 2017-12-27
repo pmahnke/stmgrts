@@ -57,7 +57,7 @@ The remainder of the meeting was devoted to discussing a vision for St Margarets
 
 It was agreed that, although there is a lot about the area that we still appreciate, we are a community under threat. If we are to prevent any further deterioration in the quality of our lives in St Margarets we must act now to make clear what sort of community we want, and to demonstrate the strength of our opinion to the authorities.
 
-The [debate will continue online](https://stmargarets.london/cgi-bin/yabb/YaBB.pl?board=LDF) in the first instance, with working parties forming on specific topics to consider more detailed strategies that will form a Community Plan for St Margarets.
+The [debate will continue online](/cgi-bin/yabb/YaBB.pl?board=LDF) in the first instance, with working parties forming on specific topics to consider more detailed strategies that will form a Community Plan for St Margarets.
 
 There will be another meeting later in the year.
 
@@ -66,5 +66,5 @@ Judy Maciejowska
 
 ### Links
 
--   [Forum on the St Margarets Development Plan](https://stmargarets.london/cgi-bin/yabb/YaBB.pl?board=LDF)
--   Original Article: [Building a Community -- Online & Off](https://stmargarets.london/archives/2006/05/building_a_comm.html)
+-   [Forum on the St Margarets Development Plan](/cgi-bin/yabb/YaBB.pl?board=LDF)
+-   Original Article: [Building a Community -- Online & Off](/archives/2006/05/building_a_comm.html)

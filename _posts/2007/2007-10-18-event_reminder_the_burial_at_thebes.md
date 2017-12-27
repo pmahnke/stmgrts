@@ -12,7 +12,7 @@ date: 2007-10-18 20:58:06
 
 **The State vs The Individual** -- *the eternal conflict*
 
-Next production from the Richmond Shakespeare Society is [The Burial at Thebes](https://stmargarets.london/event/auction/200705141718), Seamus Heaney's 21st century translation of Sophocles' Antigone. His beautifully poetic translation transforms this 5th century BC classic into a modern delight which flows effortlessly into the mind.
+Next production from the Richmond Shakespeare Society is [The Burial at Thebes](/event/auction/200705141718), Seamus Heaney's 21st century translation of Sophocles' Antigone. His beautifully poetic translation transforms this 5th century BC classic into a modern delight which flows effortlessly into the mind.
 
 The name Antigone means "one with the opposite view," and her conflict with her uncle King Creon over her unburied brother is the pivot round which this timeless tragedy remorselessly develops.
 

@@ -17,7 +17,7 @@ excerpt: |
 
 Francis Bacon held the tenancy of Twickenham Park 1595 to 1608. Lucy Harrington, Countess of Bedford, took over the tenancy in 1609. Around this time Robert Smythson drew the plan of the garden. The LPGT Study Day will examine the history of Twickenham Park, the house, garden and the site from medieval times to the present.
 
-#### [Programme](https://stmargarets.london/event/event/200705144909)
+#### [Programme](/event/event/200705144909)
 
 -   10:00 - Arrival
 -   10:30 - Opening remarks

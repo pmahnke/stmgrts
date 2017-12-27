@@ -62,6 +62,6 @@ Ten years later, in 1894, after some dispute whether it should be at Isleworth o
 
 <cite>THE SPORTSMAN</cite>
 
-You can read a fuller account of the building of [Richmond Lock in the St Margarets Community Website here](https://stmargarets.london/archives/2011/05/the_turning_of_the_tide_richmond_lock.html)
+You can read a fuller account of the building of [Richmond Lock in the St Margarets Community Website here](/archives/2011/05/the_turning_of_the_tide_richmond_lock.html)
 
 <cite>-- from Martyn Day</cite>

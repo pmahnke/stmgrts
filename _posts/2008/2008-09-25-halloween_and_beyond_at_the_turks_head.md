@@ -18,4 +18,4 @@ We've also got Elvis back for the evening of Friday November 7<sup>th</sup>, onc
 
 Also coming soon, although we haven't finalised details and dates yet is a regular (every 2 weeks) free entry night on a weeknight,in the Winchester Hall to Showcase a range of bands. I imagine it will be alot of new or young bands but all sorts will be welcome (apart from heavy metal).
 
-<cite>-- from [The Turks' Head](https://stmargarets.london/directory/pub/200505231518</cite>)
+<cite>-- from [The Turks' Head](/directory/pub/200505231518</cite>)

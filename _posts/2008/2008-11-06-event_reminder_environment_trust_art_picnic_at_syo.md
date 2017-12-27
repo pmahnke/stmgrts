@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2008/syonhouse.jpg"><img src="/assets/images/2008/syonhouse-thumb.jpg" width="150" height="118" alt="Syon House Conservatory" class="photo right" /></a>
 
-On Sunday, 16 November 2008 from 11am to 4pm at Syon Park there is an [Environment Trust Art Picnic](https://stmargarets.london/event/meeting/200705141803)
+On Sunday, 16 November 2008 from 11am to 4pm at Syon Park there is an [Environment Trust Art Picnic](/event/meeting/200705141803)
 
 Everyone welcome! Beginners too as we will have a dedicated beginners group. Tuition will be provided by Emily Burton
 

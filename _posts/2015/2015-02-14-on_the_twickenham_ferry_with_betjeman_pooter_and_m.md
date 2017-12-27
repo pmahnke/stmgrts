@@ -99,7 +99,7 @@ I think it would have reassured the <em>'little pink flower'</em> on the Twicken
 <iframe width="610" height="458" src="https://www.youtube-nocookie.com/embed/D0jJ2XO8YSo?rel=0" frameborder="0" allowfullscreen>
 </iframe>
 <div markdown="1" class="box">
-If you haven't already read <em>[The Diary of a Nobody](http://www.gutenberg.org/ebooks/1026</em>) by George and Weedon Grossmith then you really should. Although it was indifferently reviewed when first published in 1892 it has since revealed itself to be one of the funniest and most amiable books in the English language tackling issues that are still relevant today like suburban life, D.I.Y, sucking up to the boss and worrisome children.
+If you haven't already read <em>[The Diary of a Nobody](http://www.gutenberg.org/ebooks/1026)</em> by George and Weedon Grossmith then you really should. Although it was indifferently reviewed when first published in 1892 it has since revealed itself to be one of the funniest and most amiable books in the English language tackling issues that are still relevant today like suburban life, D.I.Y, sucking up to the boss and worrisome children.
 
 </div>
 <cite>-- from Martyn Day</cite>

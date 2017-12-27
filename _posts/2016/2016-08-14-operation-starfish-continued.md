@@ -19,8 +19,8 @@ In July 1945, less than 2 months after V.E Day, a general election was held in G
 <div markdown="1" class="box">
 For more about the Decoy Sites of WW2 and the role of Richmond Park in the grand deception please read St Margarets Newsletters 3<sup>rd</sup> and 9<sup>th</sup> May 2012
 
--   [Richmond Park - Starfish Bombing Decoy SF8A](https://stmargarets.london/archives/2012/05/richmond_park_starfish_bombing_decoy_sf8a.html)
--   [Richmond Park - Starfish Decoy Sf8A - The Fires Burn On!](https://stmargarets.london/archives/2012/05/richmond_park_starfish_decoy_sf8a_the_fires_burn_o.html)
+-   [Richmond Park - Starfish Bombing Decoy SF8A](/archives/2012/05/richmond_park_starfish_bombing_decoy_sf8a.html)
+-   [Richmond Park - Starfish Decoy Sf8A - The Fires Burn On!](/archives/2012/05/richmond_park_starfish_decoy_sf8a_the_fires_burn_o.html)
 
 </div>
 70 years ago, in 1946, Sq/Leader Howard was able to talk about his work to the <em>'Richmond Herald'</em>...

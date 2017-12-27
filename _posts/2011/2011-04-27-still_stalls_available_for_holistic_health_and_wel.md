@@ -26,7 +26,7 @@ This is all on behalf of The Shooting Star Hospice and a percentage of proceeds 
 
 #### Details
 
--   [Learn more about the event](https://stmargarets.london/archives/2011/03/improve_the_health_and_wellbeing_of_our_local_comm.html)
+-   [Learn more about the event](/archives/2011/03/improve_the_health_and_wellbeing_of_our_local_comm.html)
 
 For more information on the day, contact us on:
 

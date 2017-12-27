@@ -20,4 +20,4 @@ In brief -- we were advised by Counsel that although she felt there was a very h
 
 **Link**
 
--   Original Artical: [Licensing Sub-Committee Procedure Questioned](https://stmargarets.london/archives/2006/11/licensing_subco.html)
+-   Original Artical: [Licensing Sub-Committee Procedure Questioned](/archives/2006/11/licensing_subco.html)

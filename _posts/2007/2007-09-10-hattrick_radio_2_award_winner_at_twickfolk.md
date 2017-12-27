@@ -10,7 +10,7 @@ date: 2007-09-10 20:44:34
 
 <a href="/assets/images/2007/Tams-Coope-067.jpg"><img src="/assets/images/2007/Tams-Coope-067-thumb.jpg" width="99" height="150" alt="Tams and Coope" class="photo right" /></a>
 
-Making the short trip from the South Bank's National Theatre to Twickenham on [Sunday September 23rd](https://stmargarets.london/event/show/200705141673), multi-award winner John Tams returns to Twickfolk at the Cabbage Patch, alongside Barry Coope.
+Making the short trip from the South Bank's National Theatre to Twickenham on [Sunday September 23rd](/event/show/200705141673), multi-award winner John Tams returns to Twickfolk at the Cabbage Patch, alongside Barry Coope.
 
 Following a busy summer of major festivals and concerts, John is currently Songmaker for *War Horse*, an adaptation of former Children's Laureate Michael Morpurgo's epic *Great War* story, playing in the Oliver Theatre from October to March.
 

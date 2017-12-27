@@ -20,7 +20,7 @@ excerpt: |
 
 <cite>from a [Richmond Council press release - 1 April 2011](http://www.richmond.gov.uk/home/council_government_and_democracy/council/civic-offices/departments/communications/press_office/press_releases/april_2011_press_releases/car_club_membership_rocketing_in_richmond_upon_thames.htm</cite>)
 
-What do you think? [Vote in our poll](https://stmargarets.london/poll/CAR) or [see the results](https://stmargarets.london/poll/CAR/results)
+What do you think? [Vote in our poll](/poll/CAR) or [see the results](/poll/CAR/results)
 
 #### More information
 

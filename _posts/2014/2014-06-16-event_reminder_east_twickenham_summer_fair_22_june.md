@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2014/140515--East-Twickenham-Summer-Fair-2014-poster.jpg" title="See larger version of - East Twickenham Summer Fair 2014 poster"><img src="/assets/images/2014/140515--East-Twickenham-Summer-Fair-2014-poster_thumb.jpg" width="150" height="210" alt="East Twickenham Summer Fair 2014 poster" class="photo right" /></a>
 
-Come along to the [East Twickenham Summer Fair on 22 June 2014 from 12 to 5pm in Cambridge Gardens](https://stmargarets.london/event/fair/200705144435) for a fun filled day with:
+Come along to the [East Twickenham Summer Fair on 22 June 2014 from 12 to 5pm in Cambridge Gardens](/event/fair/200705144435) for a fun filled day with:
 
 -   Carousel
 -   Bouncy Castle

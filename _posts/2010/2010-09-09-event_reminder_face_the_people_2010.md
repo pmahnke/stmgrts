@@ -12,7 +12,7 @@ date: 2010-09-09 19:41:31
 
 *YOUR COMMUNITY - YOUR SAFETY - YOUR SAY*
 
-The Community and Police Partnership Group invite you to attend the annual 'FACE THE PEOPLE' open forum event held in the [Clarendon Hall, York House, Twickenham on Tuesday, 28 September 2010 from 7pm](https://stmargarets.london/event/meeting/200705142558).
+The Community and Police Partnership Group invite you to attend the annual 'FACE THE PEOPLE' open forum event held in the [Clarendon Hall, York House, Twickenham on Tuesday, 28 September 2010 from 7pm](/event/meeting/200705142558).
 
 Meet the Chief Executive of the Council, Gillian Norton, the new Borough Commander, Chief Superintendant Clive Chalk and professionals from the Probation and Substance Misuse Service.
 
@@ -20,4 +20,4 @@ This is an opportunity to hear about what has been done in the last year and for
 
 For more information about this event, please contact Juliette Taylor on 020 8891 7155 or email <j.taylor@richmond.gov.uk>
 
-[Download the flyer](https://stmargarets.london/images/facethepeople_flyer_001.pdf) \[PDF\]
+[Download the flyer](/images/facethepeople_flyer_001.pdf) \[PDF\]

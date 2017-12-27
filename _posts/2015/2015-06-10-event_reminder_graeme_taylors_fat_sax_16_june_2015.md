@@ -10,4 +10,4 @@ date: 2015-06-10 22:08:07
 
 Back by popular demand to Twickenham Jazz club 'Fat Sax' is a brilliant tribute to the iconic be bop saxophonist Charlie Parker consisting of harmonised arrangements played by five saxophones and full rhythm section..a great full Jazz sound.
 
--   [More information](https://stmargarets.london/event/show/200705145020)
+-   [More information](/event/show/200705145020)

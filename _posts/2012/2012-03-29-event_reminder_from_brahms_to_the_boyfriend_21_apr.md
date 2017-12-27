@@ -19,6 +19,6 @@ Enjoy an eclectic evening of music and verse all in aid of The Royal Marsden Can
 
 #### More Information
 
--   [Saturday 21 April, St Mary's Twickenham TW1 3NJ 7.30pm](https://stmargarets.london/event/concert/200705143333)
+-   [Saturday 21 April, St Mary's Twickenham TW1 3NJ 7.30pm](/event/concert/200705143333)
 -   Tickets just £10.
 -   Refreshments will be available in the interval.

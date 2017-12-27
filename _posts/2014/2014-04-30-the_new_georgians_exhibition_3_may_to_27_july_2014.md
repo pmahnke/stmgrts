@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2014/ORLEANS_Mademoiselle-Cucko.jpg" title="See larger version of - Mademoiselle Cucko"><img src="/assets/images/2014/ORLEANS_Mademoiselle-Cucko_thumb.jpg" width="150" height="188" alt="Mademoiselle Cucko" class="photo right" /></a>
 
-[The New Georgians](https://stmargarets.london/event/exhibition/200705144423) celebrates the tercentenary of the Hanoverian accession. This exhibition, part of the Richmond upon Thames Georgian Festival, commemorates this historical event through a display exploring the life and local links of Queen Caroline of Ansbach (1683-1737), wife of King George II. Caroline lavishly dined in the Octagon Room on a visit here in 1729. Her husband's mistress, Henrietta Howard, lived at the nearby Marble Hill House.
+[The New Georgians](/event/exhibition/200705144423) celebrates the tercentenary of the Hanoverian accession. This exhibition, part of the Richmond upon Thames Georgian Festival, commemorates this historical event through a display exploring the life and local links of Queen Caroline of Ansbach (1683-1737), wife of King George II. Caroline lavishly dined in the Octagon Room on a visit here in 1729. Her husband's mistress, Henrietta Howard, lived at the nearby Marble Hill House.
 
 The main focus of the exhibition is contemporary artwork from across the UK submitted via open submission. Artists explore the impact and relevance of 18<sup>th</sup> century history, society, ideas, culture and styles in the 21<sup>st</sup> century. Alongside reverent homages and playful pastiches are genres and media revolutionised and popularised in the 18<sup>th</sup> century, including botanical art, landscapes, portraits, prints and ceramics.
 

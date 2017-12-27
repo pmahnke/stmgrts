@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2012/Sheesh_email-invite_25-Oct.jpg" title="See larger version of - Sheesh email invite 25 Oct"><img src="/assets/images/2012/Sheesh_email-invite_25-Oct_thumb.jpg" width="150" height="105" alt="Sheesh email invite 25 Oct" class="photo right" /></a>
 
-Come along for a [delicious evening](https://stmargarets.london/event/event/200705143625) of fabulous food and fundraising for The Royal Marsden Cancer Hospital. Hosted by The David Adams Leukaemia Appeal, a local charity based in St Margarets. Two course dinner, poppadoms tea/coffee. £22.50, includes a £15 donation to The Royal Marsden Hospital.
+Come along for a [delicious evening](/event/event/200705143625) of fabulous food and fundraising for The Royal Marsden Cancer Hospital. Hosted by The David Adams Leukaemia Appeal, a local charity based in St Margarets. Two course dinner, poppadoms tea/coffee. £22.50, includes a £15 donation to The Royal Marsden Hospital.
 
 #### More Information
 

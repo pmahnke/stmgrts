@@ -34,7 +34,7 @@ Heats will be two abreast using 'ER' boats, followed by a demonstration race usi
 |10:00 - 18:00|Children's Fairground - Orleans Gardens|
 |13:00 - 13:30|Regatta Prize giving - Finish Line|
 |13:30 - 18:30|Music stage - Champions Wharf|
-|18:45 - 22:45|[Rhythm Force 2011](https://stmargarets.london/event/show/200705142980) - Orleans Gardens
+|18:45 - 22:45|[Rhythm Force 2011](/event/show/200705142980) - Orleans Gardens
 
 #### Sunday 18<sup>th</sup> September
 
@@ -44,7 +44,7 @@ Heats will be two abreast using 'ER' boats, followed by a demonstration race usi
 |13:00 - 18:30|Music stage - Champions Wharf|
 |16:00 - 16:30|Paddleboarding Prize giving - Finish Line|
 |17:00 - 17:30|Raffle Draw - Champions Wharf|
-|18:45 - 22:45|[Rhythm Force 2011](https://stmargarets.london/event/show/200705142980) - Orleans Gardens
+|18:45 - 22:45|[Rhythm Force 2011](/event/show/200705142980) - Orleans Gardens
 
 -   More information on: [www.twickenhamalive.com](http://www.twickenhamalive.com)
 

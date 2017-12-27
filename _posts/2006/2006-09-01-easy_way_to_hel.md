@@ -6,13 +6,13 @@ commentfile: 2006-09-01-easy_way_to_hel
 category: around_town
 date: 2006-09-01 09:55:53
 excerpt: |
-    Both[Orleans Infants":https://stmargarets.london/directory/school/200506280125 and "St Stephens](https://stmargarets.london/directory/school/200507170243) now have webshops where parents can buy online and give money to the schools at the same time.
+    Both[Orleans Infants":https://stmargarets.london/directory/school/200506280125 and "St Stephens](/directory/school/200507170243) now have webshops where parents can buy online and give money to the schools at the same time.
 
     It is a simple and really effective way of helping the schools which will cost the users nothing at all in terms of time or money.  When you use the above links, the retailers give money directly to the schools.
 
 ---
 
-Both [Orleans Infants](https://stmargarets.london/directory/school/200506280125) and [St Stephens](https://stmargarets.london/directory/school/200507170243) now have webshops where parents can buy online and give money to the schools at the same time.
+Both [Orleans Infants](/directory/school/200506280125) and [St Stephens](/directory/school/200507170243) now have webshops where parents can buy online and give money to the schools at the same time.
 
 It is a simple and really effective way of helping the schools which will cost the users nothing at all in terms of time or money. When you use the above links, the retailers give money directly to the schools.
 

@@ -14,4 +14,4 @@ No details are available at present.
 
 **Link**
 
--   [original article](https://stmargarets.london/archives/2007/06/martin_herdman_speaks_out_on_parking_isuses_for_tr.html)
+-   [original article](/archives/2007/06/martin_herdman_speaks_out_on_parking_isuses_for_tr.html)

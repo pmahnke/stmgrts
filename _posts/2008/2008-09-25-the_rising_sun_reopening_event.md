@@ -12,4 +12,4 @@ We have just finished an extensive refurbishment and we have invited Vincent Cab
 
 Friday afternoon will be by invitation only -- [download an invitation](http://www.risingsuntwickenham.co.uk/launch_invite.pdf). Please print it out and bring it along.
 
-<cite>-- from [The Rising Sun](https://stmargarets.london/directory/pub/200611051507</cite>)
+<cite>-- from [The Rising Sun](/directory/pub/200611051507</cite>)

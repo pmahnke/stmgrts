@@ -22,4 +22,4 @@ We will have artists, crafters, photographers, jewellery makers, Streets Fruit a
 
 Along with St Stephens School we will be raising money for Richmond Borough Mind so proceeds will go to this charity.
 
-<em>[From 7pm to 9pm](https://stmargarets.london/event/event/200705146265</em>)
+<em>[From 7pm to 9pm](/event/event/200705146265)</em>

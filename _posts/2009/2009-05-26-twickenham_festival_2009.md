@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2009/Festival_09_logo.jpg"><img src="/assets/images/2009/Festival_09_logo-thumb.jpg" width="150" height="106" class="right" alt="logo" /></a>
 
-[Twickenham's annual Festival](https://stmargarets.london/event/fair/200705142158) is this year filled with music, fun and action-packed events. From 12<sup>th</sup> - 21<sup>st</sup> June a huge variety of community activities will take place. The first weekend kicks off with:
+[Twickenham's annual Festival](/event/fair/200705142158) is this year filled with music, fun and action-packed events. From 12<sup>th</sup> - 21<sup>st</sup> June a huge variety of community activities will take place. The first weekend kicks off with:
 
 Friday 12<sup>th</sup> June, the now traditional Twickenham Festival Tug of War, starting at 6pm on Church Street. Don't miss the teams showing their strength - come and cheer them on! Alfresco Dining is available for those who have built up an appetite; finish your meal off with a little culture at either the Mary Wallace Theatre, it has a Shakespeare performance to enjoy or at the Bearcat Comedy Club night, special guest still top secret!
 

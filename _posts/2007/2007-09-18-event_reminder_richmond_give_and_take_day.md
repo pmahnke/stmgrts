@@ -8,7 +8,7 @@ date: 2007-09-18 20:52:07
 
 ---
 
-A furniture swap shop allowing residents to donate unwanted home and garden goods and pick up others absolutely free will take place at [Twickenham Stadium on Sunday, 23 September](https://stmargarets.london/event/meeting/200705141686). Local people are invited to give away unwanted furniture, appliances and other items from the home and garden, and take their pick from the free goods on display. You do not have to donate items to take others away.
+A furniture swap shop allowing residents to donate unwanted home and garden goods and pick up others absolutely free will take place at [Twickenham Stadium on Sunday, 23 September](/event/meeting/200705141686). Local people are invited to give away unwanted furniture, appliances and other items from the home and garden, and take their pick from the free goods on display. You do not have to donate items to take others away.
 
 People are asked to bring unwanted items between 10am and 11.30am on the day. The goods will then go on display and are available on a first-come, first-served basis from 12.30pm to 3.30pm.
 

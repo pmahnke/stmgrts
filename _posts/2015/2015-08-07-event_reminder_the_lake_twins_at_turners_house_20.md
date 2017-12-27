@@ -24,4 +24,4 @@ Phoebe and Lydia are identical twins who work collaboratively; Phoebe is left-ha
 
 Catherine Parry-Wingfield, chair of Turner's House Trust said: "We are delighted to host this exhibition reflecting exciting young talent, which I hope will introduce Turner in Twickenham to a new audience, and this fresh perspective will intrigue and delight our traditional supporters."
 
-[The exhibition runs from 20<sup>th</sup> to 24<sup>th</sup> August, from 12-6pm each day. Entry is free.](https://stmargarets.london/event/exhibition/200705145140)
+[The exhibition runs from 20<sup>th</sup> to 24<sup>th</sup> August, from 12-6pm each day. Entry is free.](/event/exhibition/200705145140)

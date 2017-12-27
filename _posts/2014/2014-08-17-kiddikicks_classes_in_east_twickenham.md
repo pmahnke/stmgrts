@@ -8,7 +8,7 @@ date: 2014-08-17 22:39:06
 
 ---
 
-[Kiddikicks](https://stmargarets.london/directory/childrens/201407171738) wholeheartedly aims to keep children playing sport long into adulthood by giving them a positive introduction to sport using the Kiddikicks syllabus of super-fun football developing real football skills and life skills in a safe, creative environment. The Kiddikicks syllabus is constantly evolving to keep up with the latest thinking and children's bodies and minds.
+[Kiddikicks](/directory/childrens/201407171738) wholeheartedly aims to keep children playing sport long into adulthood by giving them a positive introduction to sport using the Kiddikicks syllabus of super-fun football developing real football skills and life skills in a safe, creative environment. The Kiddikicks syllabus is constantly evolving to keep up with the latest thinking and children's bodies and minds.
 
 BOOK NOW FOR YOUR FREE TRAIL
 

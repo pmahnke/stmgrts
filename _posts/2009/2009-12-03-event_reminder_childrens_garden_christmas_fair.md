@@ -10,7 +10,7 @@ date: 2009-12-03 17:16:53
 
 <a href="/assets/images/2009/xmass_5dec_childrens.jpg" title="See larger version of - Poster"><img src="/assets/images/2009/xmass_5dec_childrens_thumb.jpg" width="106" height="150" alt="Poster" class="photo right" /></a>
 
-Come to our [Christmas Fair](https://stmargarets.london/event/event/200705142318) and enjoy:
+Come to our [Christmas Fair](/event/event/200705142318) and enjoy:
 
 -   Natural wooden toys
 -   Hand-made crafts

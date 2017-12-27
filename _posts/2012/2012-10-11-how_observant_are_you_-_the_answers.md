@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-Answers to the [a quiz](https://stmargarets.london/archives/2012/10/how_observant_are_you.html).
+Answers to the [a quiz](/archives/2012/10/how_observant_are_you.html).
 
 1.  Start without warning
 2.  1908

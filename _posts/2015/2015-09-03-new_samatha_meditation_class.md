@@ -15,5 +15,5 @@ There is no charge for teaching, but we welcome donations to cover the cost of t
 #### More Information
 
 -   Classes will meet at 7.30pm on every Wednesday night from 23 September 2015.
--   Meet at the Lower Meeting Rooms, [St Margaret of Scotland Catholic Church](https://stmargarets.london/directory/church/200505180349)
+-   Meet at the Lower Meeting Rooms, [St Margaret of Scotland Catholic Church](/directory/church/200505180349)
 -   If you have any questions about the Samatha Twickenham class, please contact James by email: <richmond_samatha@yahoo.co.uk>

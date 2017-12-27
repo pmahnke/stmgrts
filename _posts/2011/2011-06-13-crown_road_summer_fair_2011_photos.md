@@ -21,4 +21,4 @@ Thanks to all who helped make it a great day!
 
 [See some photos on flickr](http://www.flickr.com//photos/mahnke/sets/72157626951247128/show/)
 
-<em>If you have some photos to share, email them to [content@stmargarets.london](mailto:content@stmargarets.london.</em>)
+<em>If you have some photos to share, email them to [content@stmargarets.london](mailto:content@stmargarets.london).</em>

@@ -81,6 +81,6 @@ Not a single mention of corporate logos, or sponsors, or 'Olympic Families' or d
 The 1948 Olympics made a final profit of just under £30,000 of which the taxman received £9000. Will British taxpayers be making a profit on this year's Olympics? I give you three guesses.
 
 </div>
-Some of the material in this article first appeared in the [St Margarets Community Website Community on 29 October 2010](https://stmargarets.london/archives/2010/10/the_austerity_games_july_29_to_august_14_1948.html).
+Some of the material in this article first appeared in the [St Margarets Community Website Community on 29 October 2010](/archives/2010/10/the_austerity_games_july_29_to_august_14_1948.html).
 
 <cite>-- from Martyn Day</cite>

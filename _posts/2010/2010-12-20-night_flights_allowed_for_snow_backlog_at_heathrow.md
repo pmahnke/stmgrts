@@ -14,4 +14,4 @@ Transport secretary Philip Hammond has issued this statement on allowing night f
 
 -- from Christopher J Squire
 
--   [More from the Richmond & Twickenham Times](https://stmargarets.london/l/OvJCQ)
+-   [More from the Richmond & Twickenham Times](/l/OvJCQ)

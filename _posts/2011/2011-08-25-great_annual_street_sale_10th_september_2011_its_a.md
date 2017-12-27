@@ -36,4 +36,4 @@ For those unhappy souls who rarely venture north to the other side of the A316, 
 
 Here is a link to a map... [maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15](http://maps.google.co.uk/maps?ie=UTF8&ll=51.460344,-0.323024&spn=0.013075,0.027466&z=15)
 
-Put a note into your diary... [GREAT ANNUAL STREET SALE - SEPTEMBER 10<sup>th</sup> from 12.00 midday](https://stmargarets.london/event/event/200705142990)
+Put a note into your diary... [GREAT ANNUAL STREET SALE - SEPTEMBER 10<sup>th</sup> from 12.00 midday](/event/event/200705142990)

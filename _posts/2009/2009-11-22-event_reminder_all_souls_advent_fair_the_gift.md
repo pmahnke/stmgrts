@@ -8,6 +8,6 @@ date: 2009-11-22 16:02:52
 
 ---
 
-All Souls Church is having an [Advent Fair - 'The Gift'](https://stmargarets.london/event/fair/200705142319) taking place at All Souls Church, Northcote Road from 1-5pm on Saturday 28th November.
+All Souls Church is having an [Advent Fair - 'The Gift'](/event/fair/200705142319) taking place at All Souls Church, Northcote Road from 1-5pm on Saturday 28th November.
 
 Lots of stalls to help with Christmas shopping, activities for children, cafe, a great way to start the Advent season!

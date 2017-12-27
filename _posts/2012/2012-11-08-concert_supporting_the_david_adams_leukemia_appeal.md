@@ -19,7 +19,7 @@ excerpt: |
 
 [The David Adams Leukaemia Appeal Fund](http://www.davidadamsleukemiaappeal.org) is a small charity based in St Margarets, Twickenham, which raises £150,000 - £200,000 every year for The Royal Marsden Cancer Hospital.
 
-St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for [an evening with classical music and poetry](https://stmargarets.london/event/concert/200705143681) on 1 December 2012.
+St Margarets based artists, Lilly Dufter-Wimmer, Moir Leslie, Ester Kosar and Roy Stratford would love to enchant you for [an evening with classical music and poetry](/event/concert/200705143681) on 1 December 2012.
 
 Come and enjoy with us pieces by Handel, Bach, Mozart, Gounod, Enesco, Saint-Saëns, Caplet and more...
 

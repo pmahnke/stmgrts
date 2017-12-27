@@ -18,7 +18,7 @@ excerpt: |
 
 Twist and Shout the night away with original band members from The Kinks, Foundations and George Harrison Band.
 
-The David Adams Leukaemia Appeal Fund is hosting a fabulous evening 60s Night with The 60s All Stars on [Friday, 21 March 2014 at 7.30pm in Winchester Hall, Turk's Head.](https://stmargarets.london/event/party/200705144381)
+The David Adams Leukaemia Appeal Fund is hosting a fabulous evening 60s Night with The 60s All Stars on [Friday, 21 March 2014 at 7.30pm in Winchester Hall, Turk's Head.](/event/party/200705144381)
 
 *The night is often a sell-out so please book your tickets now!*
 

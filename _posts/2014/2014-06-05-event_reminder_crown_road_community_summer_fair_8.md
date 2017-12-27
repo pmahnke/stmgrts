@@ -16,6 +16,6 @@ excerpt: |
 
 <a href="/assets/images/2014/201406_crown_rd_fair_poster.jpg" title="See larger version of - 201406 crown rd fair poster"><img src="/assets/images/2014/201406_crown_rd_fair_poster_thumb.jpg" width="150" height="212" alt="201406 crown rd fair poster" class="photo right" /></a>
 
-<em>Don't forget the fair this [Sunday, 9 June 2014 from 11am - 4pm](https://stmargarets.london/event/fair/200705144416</em>)
+<em>Don't forget the fair this [Sunday, 9 June 2014 from 11am - 4pm](/event/fair/200705144416)</em>
 
 St Margarets will be alive with the sound of music as we're having a stage in the St Margaret Tavern's car park, with live acts playing throughout the day and into the night. There will also be great craft stalls, food, children's rides, games, contests and entertainment.

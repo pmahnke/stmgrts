@@ -23,7 +23,7 @@ Sir David Attenborough will be 'speaking' to Patagonian woodpeckers and revealin
 
 #### More Information
 
--   [Saturday 10<sup>th</sup> May 2014, 2.30pm-4pm](https://stmargarets.london/event/event/200705144385)
+-   [Saturday 10<sup>th</sup> May 2014, 2.30pm-4pm](/event/event/200705144385)
 -   Venue: Duke Street Church, Duke Street, Richmond.
 -   Tickets cost £20 for adults and £7 for children (8-16 years, sorry but no younger than 8)
 -   Tickets on sale from next Monday 17<sup>th</sup> March

@@ -19,6 +19,6 @@ excerpt: |
 
 Grounded are supporting The Children's Hospital Trust Fund by selling their charity Christmas cards. The cards have been sponsored by Rayne Estates which means that every penny from the sale of the packs goes directly to the charity, which helps babies and children at Chelsea and Westminster Hospital.
 
-Amanda, owner of [Grounded](https://stmargarets.london/directory/restaurant/201411230151), said:
+Amanda, owner of [Grounded](/directory/restaurant/201411230151), said:
 
 > "We fell in love with the image, which is an original black and white photograph taken in hospital at Christmas ‎1939 of children decorating a tree with nurses. We're thrilled to be helping The Children's Hospital Trust Fund with their vital work at this wonderful hospital."

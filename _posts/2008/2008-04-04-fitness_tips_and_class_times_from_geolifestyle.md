@@ -16,7 +16,7 @@ excerpt: |
 
 I have been running my personal training and fitness business for the last five years. I currently run group running sessions during the week. These workouts are varied and focus on improving fitness levels. You do not need to be an experienced runner to manage one of these sessions, but just keen to improve your fitness.
 
-<cite> -- from Georgie Islip at [GeoLifestyle](https://stmargarets.london/directory/sports/200601310538)</cite>
+<cite> -- from Georgie Islip at [GeoLifestyle](/directory/sports/200601310538)</cite>
 
 #### Top fitness tips
 

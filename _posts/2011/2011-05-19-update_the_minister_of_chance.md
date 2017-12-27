@@ -8,7 +8,7 @@ date: 2011-05-19 12:22:17
 
 ---
 
-For background information, read [Have you heard THE MINISTER OF CHANCE yet?](https://stmargarets.london/archives/2011/03/have_you_heard_the_minister_of_chance_yet.html)
+For background information, read [Have you heard THE MINISTER OF CHANCE yet?](/archives/2011/03/have_you_heard_the_minister_of_chance_yet.html)
 
 <div markdown="1" class="letter">
 <a href="/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>

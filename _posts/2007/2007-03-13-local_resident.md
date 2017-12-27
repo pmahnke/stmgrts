@@ -16,4 +16,4 @@ Alistair takes an active part in the *St Margarets Fair* each year introducing t
 
 The highlight of his broadcasting career to date was presenting a show from the back of a motorised four-poster bed. Away from the station, Alistair plays cricket, his second passion in life, for his local team *Crossbats Cricket Club* in St Margarets.
 
-Tune in and listen to Alistair on [Radio Jackie](https://stmargarets.london/directory/other/200703140618) (107.8 FM [www.radiojackie.com](http://www.radiojackie.com/) ).
+Tune in and listen to Alistair on [Radio Jackie](/directory/other/200703140618) (107.8 FM [www.radiojackie.com](http://www.radiojackie.com/) ).

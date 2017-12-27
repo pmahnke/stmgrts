@@ -8,7 +8,7 @@ date: 2009-11-18 15:57:11
 
 ---
 
-An exciting new flower delivery service, [Forgetmenot Flowers](https://stmargarets.london/directory/gifts/200911191056), has just been launched in St Maragrets. Sign up for one of Forgetmenot Flowers' bespoke packages and there will be no excuse to forget a birthday or anniversary ever again.
+An exciting new flower delivery service, [Forgetmenot Flowers](/directory/gifts/200911191056), has just been launched in St Maragrets. Sign up for one of Forgetmenot Flowers' bespoke packages and there will be no excuse to forget a birthday or anniversary ever again.
 
 Each package will be tailored to your individual requirements so that beautifully hand crafted flowers will be personally delivered to your loved ones on selected days throughout the year. Whether it is a birthday, wedding anniversary, Mother's Day or Valentine's Day, allow Forgetmenot Flowers' creative team to set your mind at rest and make every special day truly memorable. Twelve months' peace of mind costs from £295 per year for twelve beautiful bouquets.
 

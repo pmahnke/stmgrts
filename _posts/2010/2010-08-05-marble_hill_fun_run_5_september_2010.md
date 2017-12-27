@@ -10,7 +10,7 @@ date: 2010-08-05 20:34:12
 
 <a href="/assets/images/2010/cancer_marble_hill_run.jpg" title="See larger version of - Cancer Run Poster"><img src="/assets/images/2010/cancer_marble_hill_run_thumb.jpg" width="105" height="150" alt="Cancer Run Poster" class="photo right" /></a>
 
-*Join us for a [scenic fun run](https://stmargarets.london/event/event/200705142491) set in the beautiful historic grounds of Marble Hill Park in aid of Cancer Research UK's life-saving work.*
+*Join us for a [scenic fun run](/event/event/200705142491) set in the beautiful historic grounds of Marble Hill Park in aid of Cancer Research UK's life-saving work.*
 
 This will be a fun filled charity day with something for all the family. There will be live music and entertainment until 6pm, local food and drink stalls, face painting for children, a raffle with fantastic prizes and perhaps a celebrity or two along the way!
 

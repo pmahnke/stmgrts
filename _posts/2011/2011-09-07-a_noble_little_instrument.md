@@ -47,7 +47,7 @@ Although the uke has a reputation for cheerful wicki wacki woo singalongs, in 20
 <cite>BOB BROZMAN - Ethnomusicologist</cite>
 
 <div markdown="1" class="box">
-If you would like to take up the ukulele Surya Cooper and Clive Harvey are holding [workshops for Beginners and Improvers on Guitar and Ukulele on Saturday 24<sup>th</sup> September 2011 at Twickenham Library, Garfield Road, Twickenham, TW1 3LT](https://stmargarets.london/event/event/200705142987). Ukuleles are on sale on the day starting at £20.00. People are welcome to bring their own instruments and may be able to borrow one. The courses are open to strummers of all ages and abilities. The Uke workshops will be led by Clive Harvey
+If you would like to take up the ukulele Surya Cooper and Clive Harvey are holding [workshops for Beginners and Improvers on Guitar and Ukulele on Saturday 24<sup>th</sup> September 2011 at Twickenham Library, Garfield Road, Twickenham, TW1 3LT](/event/event/200705142987). Ukuleles are on sale on the day starting at £20.00. People are welcome to bring their own instruments and may be able to borrow one. The courses are open to strummers of all ages and abilities. The Uke workshops will be led by Clive Harvey
 
 #### PROGRAMME:
 

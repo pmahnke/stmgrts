@@ -8,6 +8,6 @@ date: 2011-09-01 10:18:37
 
 ---
 
-There is an interesting post in our [forum](https://stmargarets.london/forum.cgi?action=single&message_id=1719&topic_id=2&page=1) we wanted to draw your attention to, asking local residents "How will St Margarets community make the most of the Olympics coming to London?"
+There is an interesting post in our [forum](/forum.cgi?action=single&message_id=1719&topic_id=2&page=1) we wanted to draw your attention to, asking local residents "How will St Margarets community make the most of the Olympics coming to London?"
 
 The post asks about some charity challenges, but what do you think about the larger question as well? How will the Olympics affect St Margarets? Good, bad, indifferent?

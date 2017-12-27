@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="http://www.flickr.com/photos/mahnke/4213534305/" title="xmasfair09_uglysisters by Peter M, on Flickr"><img src="http://www.flickr.com/photos/mahnke/4213534305_794e1fcc98_m.jpg" width="150" class="photo right" alt="xmasfair09_uglysisters" /></a>
 
-There's a warm welcome waiting for you at this weekends [St Margarets Christmas Fair](https://stmargarets.london/event/fair/200705142573), the weather may be a little cold but a glass of Mulled Wine or a Hot Toddy should help to keep you warm. The fair takes place on Sunday 5<sup>th</sup> December in Crown Road from 11 am the full programme of events and attractions is as follows:
+There's a warm welcome waiting for you at this weekends [St Margarets Christmas Fair](/event/fair/200705142573), the weather may be a little cold but a glass of Mulled Wine or a Hot Toddy should help to keep you warm. The fair takes place on Sunday 5<sup>th</sup> December in Crown Road from 11 am the full programme of events and attractions is as follows:
 
 -   Around 50 stalls
 -   Santa's Grotto (39 Crown Road) - *Sponsored by Dexter's*

@@ -18,7 +18,7 @@ excerpt: |
 
 *Richmond Riverside springs to life with the global sounds of world music and dance.*
 
-On The Edge is a free two-day festival, [17-18 August 2013 from 1 to 8pm](https://stmargarets.london/event/fair/200705144053), of live performances that will transport you to the far flung regions of the globe, bringing you traditional beats and exotic summer sounds. On The Edge is a great weekend out for the whole family. This year will also see performances take place in Richmond Town Centre.
+On The Edge is a free two-day festival, [17-18 August 2013 from 1 to 8pm](/event/fair/200705144053), of live performances that will transport you to the far flung regions of the globe, bringing you traditional beats and exotic summer sounds. On The Edge is a great weekend out for the whole family. This year will also see performances take place in Richmond Town Centre.
 
 #### More Information
 

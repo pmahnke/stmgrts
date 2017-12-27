@@ -14,7 +14,7 @@ excerpt: |
 
 ---
 
-Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on [Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House](https://stmargarets.london/event/party/200705143125) present:
+Integrated Neurological Services, a local charity supporting people who have Parkinson's Disease, Multiple Sclerosis or Stroke on [Thursday, 24<sup>th</sup> November at 7.30pm in Clarendon Hall, York House](/event/party/200705143125) present:
 
 #### A Scottish Evening
 

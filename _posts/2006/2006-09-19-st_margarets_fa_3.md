@@ -6,13 +6,15 @@ commentfile: 2006-09-19-st_margarets_fa_3
 category: news
 date: 2006-09-19 08:21:45
 excerpt: |
+    <a href="http://www.stmargaretsfair.org/"><img alt="SMFLogo180.jpg" src="/assets/images/2008/SMFLogo180-thumb.jpg" width="150" height="150" class="right" /></a>
+
     This year's July Fair raised a record &pound;18,000, and here's where the money is going.
-    
+
     &pound;1,500 pays for Christmas presents and a meal in the Turks Head for many of St Margarets older residents. There’s a £500 donation to Marble Hill Play Centres. As always the four local schools receive around 50% of the profits, distributed on a points system awarded for the tasks they undertook for the Fair.
 
 ---
 
-<a href="https://stmargarets.london/event/Fair/200602210457" title="St Margarets Fair details"><img src="/assets/images/2006/200602210457_2006_Fair.gif" width="150" height="212" alt="St Margarets Fair" class="photo right" /></a>
+<a href="http://www.stmargaretsfair.org/"><img alt="SMFLogo180.jpg" src="/assets/images/2008/SMFLogo180-thumb.jpg" width="150" height="150" class="right" /></a>
 
 This year's July Fair raised a record £18,000, and here's where the money is going.
 

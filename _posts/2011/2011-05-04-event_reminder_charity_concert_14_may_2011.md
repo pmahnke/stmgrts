@@ -12,7 +12,7 @@ date: 2011-05-04 08:13:16
 performs
 Chopin, Debussy, Gershwin & Liszt
 
-. [*Saturday, 14<sup>th</sup> May 2011 at 7:30pm*](https://stmargarets.london/event/concert/200705142788)
+. [*Saturday, 14<sup>th</sup> May 2011 at 7:30pm*](/event/concert/200705142788)
 
 . Tickets £10
 at

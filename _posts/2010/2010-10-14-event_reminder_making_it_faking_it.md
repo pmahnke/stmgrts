@@ -21,7 +21,7 @@ excerpt: |
 
 <a href="/assets/images/2010/lexthomasmrandmrsandrews.jpg" title="See larger version of - lex thomas mr and mrs andrews"><img src="/assets/images/2010/lexthomasmrandmrsandrews_thumb.jpg" width="147" height="150" alt="lex thomas mr and mrs andrews" class=" right" /></a>
 
-[Orleans House Gallery from 2 October 2010- 23 January 2011](https://stmargarets.london/event/exhibition/200705142575)
+[Orleans House Gallery from 2 October 2010- 23 January 2011](/event/exhibition/200705142575)
 
 This open exhibition explores how and why contemporary artists approach famous artworks - the perceived 'masterpieces' of art history.
 

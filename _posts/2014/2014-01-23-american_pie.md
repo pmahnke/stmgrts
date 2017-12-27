@@ -25,7 +25,7 @@ excerpt: |
 
 > "Long, long time ago, I can still remember how that music used to make me smile."
 
-The story begins with a boy delivering newspapers on a cold February morning. He reads about the death of someone important to him and senses that the music he loved had died as well. Anyone who grew up in the 1950's knew that this was a reference to the death of Buddy Holly who was killed in a plane crash on 3<sup>rd</sup> February 1959 along with J.P Richardson (a.k.a <em>"The Big Bopper"</em>) and Ritchie Valens who had just sold a million copies of his latest record "Donna".
+The story begins with a boy delivering newspapers on a cold February morning. He reads about the death of someone important to him and senses that the music he loved had died as well. Anyone who grew up in the 1950's knew that this was a reference to the death of Buddy Holly who was killed in a plane crash on 3<sup>rd</sup> February 1959 along with J.P Richardson (a.k.a <em>"The Big Bopper")</em> and Ritchie Valens who had just sold a million copies of his latest record "Donna".
 
 Although Don McLean has consistently denied that there was any particular symbolism or significance to his enigmatic lyrics, claiming - <em>"They're beyond analysis - they're poetry."</em> - many have tried to unpick them for clues and references. Here are some of the interpretations...
 

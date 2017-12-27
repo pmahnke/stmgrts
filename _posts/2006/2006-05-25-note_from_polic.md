@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-*The following comment was received following Wednesday's [Police Surgery](https://stmargarets.london/archives/2006/05/event_reminder_2.html). Thank you Ann.*
+*The following comment was received following Wednesday's [Police Surgery](/archives/2006/05/event_reminder_2.html). Thank you Ann.*
 
 > "I am just back from Zorans and can report that I spoke to PC Richens and a community Support officer. PS Malik called in to say that 'the police team are complely behind this community involvement and their interest and enthusiasm will continue at the same level because they are committed to this area.'
 

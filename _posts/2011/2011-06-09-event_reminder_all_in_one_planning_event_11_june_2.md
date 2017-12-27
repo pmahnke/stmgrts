@@ -16,9 +16,9 @@ First results from the survey, show that 92 per cent of local people have said t
 
 We have now fully analysed all the results and are beginning to understand what people want for their local area and villages. To help with the next stage, the Council has organised a series of local area planning events across the borough over the next few months where people will be able to get together to decide what they want for their local area.
 
-If you would like to have your say about the area where you live, please come along to your nearest event, which is on the 11<sup>th</sup> June for Twickenham, St Margarets, East Twickenham and Strawberry Hill Villages in the [Civic Centre foyer from 10am to 4pm](https://stmargarets.london/event/meeting/200705142790).
+If you would like to have your say about the area where you live, please come along to your nearest event, which is on the 11<sup>th</sup> June for Twickenham, St Margarets, East Twickenham and Strawberry Hill Villages in the [Civic Centre foyer from 10am to 4pm](/event/meeting/200705142790).
 
 <div markdown="1" class="box">
-If you go, please talk to the Council about the St Margarets Traders Association's [A plan for St Margarets...](https://stmargarets.london/images/St_Margarets_plan.pdf) \[pdf\]
+If you go, please talk to the Council about the St Margarets Traders Association's [A plan for St Margarets...](/images/St_Margarets_plan.pdf) \[pdf\]
 
 </div>

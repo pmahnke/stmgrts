@@ -12,7 +12,7 @@ date: 2010-06-10 09:51:33
 
 *Punch and Judy will be visiting St Margarets this weekend!*
 
-Mr Punch Entertainment Ltd is delighted to confirm that Punch and Judy have agreed to entertain children of all ages at this [Sunday's Family Fun Day](https://stmargarets.london/event/fair/200705142440).
+Mr Punch Entertainment Ltd is delighted to confirm that Punch and Judy have agreed to entertain children of all ages at this [Sunday's Family Fun Day](/event/fair/200705142440).
 
 The St Margarets Family Fun Day takes place in Crown Road St Margarets this Sunday from 11.00am.
 

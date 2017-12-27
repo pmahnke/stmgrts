@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2017/SMEB-2017-Flyer.jpg" title="Click for a larger image"><img src="/assets/images/2017/SMEB-2017-Flyer-thumb.jpg" width="250" alt="Image - SMEB-2017-Flyer"  class="photo right"/></a>
 
-On 3 June, the St Margarets Elastic Band, will be joined by **Union Musicale de Fontainebleau** and <em>Richmond Youth Jazz Band</em> for a [GRAND CONCERT](https://stmargarets.london/event/show/200705146166) to celebrate 40 years of friendship between Richmond and our twin town Fontainebleau.
+On 3 June, the St Margarets Elastic Band, will be joined by **Union Musicale de Fontainebleau** and <em>Richmond Youth Jazz Band</em> for a [GRAND CONCERT](/event/show/200705146166) to celebrate 40 years of friendship between Richmond and our twin town Fontainebleau.
 
 #### More Information
 

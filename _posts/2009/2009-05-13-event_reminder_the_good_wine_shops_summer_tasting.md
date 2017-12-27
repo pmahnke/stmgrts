@@ -21,7 +21,7 @@ excerpt: |
 
 <a href="/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
 
-We are pleased to announce that the [Summer Tasting 2009](https://stmargarets.london/event/meeting/200705142107) will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
+We are pleased to announce that the [Summer Tasting 2009](/event/meeting/200705142107) will be held at The Turks Head, Winchester Hall, St Margarets, on the afternoon of Sun 1<sup>7th</sup> May from 12 noon until 3 pm.
 
 Tickets are on sale NOW!
 

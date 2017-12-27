@@ -19,7 +19,7 @@ excerpt: |
 
 <a href="/assets/images/2007/stmgrts_fair_2007.jpg"><img src="/assets/images/2007/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
 
-The [29<sup>th</sup> St Margarets Fair](https://stmargarets.london/event/fair/200609190226) comes to Moormead on Saturday the 14th of July, between 11.30 and 7.30pm.
+The [29<sup>th</sup> St Margarets Fair](/event/fair/200609190226) comes to Moormead on Saturday the 14th of July, between 11.30 and 7.30pm.
 
 Our support this year is for the Alzheimer's Society, Heatham House and the Richmond Thames Boat project, in addition to our continuing help to Radio West Middlesex, Marble Hill play centres and our local schools. There's live music on the stage from 11.30 onwards, and the usual established favourite activities, including last year's new popular attraction - the dog show. If you haven't had one already, you should shortly receive the full programme through your letter box.
 

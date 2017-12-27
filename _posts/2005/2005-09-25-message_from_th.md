@@ -8,7 +8,7 @@ date: 2005-09-25 11:12:46
 
 ---
 
-In light of the significant interest generated over the [wine bar application](https://stmargarets.london/archives/2005/09/application_for.html), we wanted to make a few comments.
+In light of the significant interest generated over the [wine bar application](/archives/2005/09/application_for.html), we wanted to make a few comments.
 
 First, this website is trying to be a forum to pass along news and information about the community and to provide a means for discussion. We endeavour not to take sides on any issue, except those the *whole* community would support (i.e. Tesco lorries blocking the pedestrian crossing) and we are aware this is a delicate balance. We also welcome 'open' comments regarding any and all views on a particular subject, as long they are not derogatory or libellous. Please enter polls, leave comments, let others know what you think so the views of our community can be heard. We always welcome people to submit news and articles as well.
 

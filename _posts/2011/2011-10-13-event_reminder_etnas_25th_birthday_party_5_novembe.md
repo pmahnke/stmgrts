@@ -10,4 +10,4 @@ excerpt: |
 
 ---
 
-There willl be a 25th Birthday Party for the *East Twickenham Neighbourhood Association* on [Saturday, 5th November from 1.30pm](https://stmargarets.london/event/party/200705143102), at the ETNA Community Centre, 13 Rosslyn Road, TW1 2AR. Find out what goes on at the centre. Enjoy displays, performances and activities. Grab a bite to eat from the barbecue and a drink from the bar. And buy some raffle tickets for a chance to win prizes donated by local traders. Come and find out what you've been missing!
+There willl be a 25th Birthday Party for the *East Twickenham Neighbourhood Association* on [Saturday, 5th November from 1.30pm](/event/party/200705143102), at the ETNA Community Centre, 13 Rosslyn Road, TW1 2AR. Find out what goes on at the centre. Enjoy displays, performances and activities. Grab a bite to eat from the barbecue and a drink from the bar. And buy some raffle tickets for a chance to win prizes donated by local traders. Come and find out what you've been missing!

@@ -20,7 +20,7 @@ excerpt: |
 
 Ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, accessories and more...
 
-Our popular [Open Studios weekend, 5 to 7 December 2014](https://stmargarets.london/event/exhibition/200705144753), is where you can find original craft for yourself, your family and friends and affordable art to collect. Support your local art community by buying direct from over 30 artist, designer-makers that work in these restored Victorian stables.
+Our popular [Open Studios weekend, 5 to 7 December 2014](/event/exhibition/200705144753), is where you can find original craft for yourself, your family and friends and affordable art to collect. Support your local art community by buying direct from over 30 artist, designer-makers that work in these restored Victorian stables.
 
 Visit the Gallery and the individual studios, meet new artists and feel welcomed in the vibrant atmosphere of this small and creative community.
 

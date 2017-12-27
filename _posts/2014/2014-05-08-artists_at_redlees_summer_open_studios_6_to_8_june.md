@@ -16,7 +16,7 @@ Located in west London, in a historic building converted from Victorian stables,
 
 #### More Information
 
--   Open Studios: [June 6 to 8, 2014](https://stmargarets.london/event/exhibition/200705144424)
+-   Open Studios: [June 6 to 8, 2014](/event/exhibition/200705144424)
 -   Friday: preview with music and bar 6pm-9pm
 -   Saturday and Sunday: 11am-6pm - refreshments available
 -   Raffle of artists' work

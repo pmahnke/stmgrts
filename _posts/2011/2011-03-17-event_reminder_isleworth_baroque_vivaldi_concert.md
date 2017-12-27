@@ -17,8 +17,8 @@ excerpt: |
 
 <a href="/assets/images/2011/Vivaldi-flyer.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Vivaldi-flyer_thumb.jpg" width="150" height="194" alt="poster" class="photo right" /></a>
 
-[A Concert of Music by Vivaldi at St Margarets Roman Catholic Church on Thursday 31<sup>st</sup> March at 7.30pm.](https://stmargarets.london/event/concert/200705142732)
+[A Concert of Music by Vivaldi at St Margarets Roman Catholic Church on Thursday 31<sup>st</sup> March at 7.30pm.](/event/concert/200705142732)
 
 Our programme will include some well-know choral pieces (Gloria, Magnificat, Beatus Vir), some beautiful instrumental pieces (Concerto Grosso, Concerto for two trumpets), some delightful solo arias and - new for 2011 - our 'Young Isleworth Baroque' group of younger voices.
 
-Tickets at £10 are on sale online, visit [www.isleworthbaroque.co.uk,](http://www.isleworthbaroque.co.uk), or to personal callers only at [yellowwedge cheese](https://stmargarets.london/directory/grocery/200711270904). For more details call 020 8943 5261.
+Tickets at £10 are on sale online, visit [www.isleworthbaroque.co.uk,](http://www.isleworthbaroque.co.uk), or to personal callers only at [yellowwedge cheese](/directory/grocery/200711270904). For more details call 020 8943 5261.

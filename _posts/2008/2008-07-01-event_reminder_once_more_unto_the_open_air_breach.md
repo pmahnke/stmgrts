@@ -10,7 +10,7 @@ date: 2008-07-01 22:55:44
 
 <a href="/assets/images/2008/HV3sq.jpg"><img src="/assets/images/2008/HV3sq-thumb.jpg" width="144" height="150" alt="Henry V" class="photo right" /></a>
 
-Next production from Richmond Shakespeare Society is the traditional outdoor summer show, with this year's offering of Shakespeare's [Henry V running at York House Gardens on 6 - 12 July](https://stmargarets.london/event/play/200705141889).
+Next production from Richmond Shakespeare Society is the traditional outdoor summer show, with this year's offering of Shakespeare's [Henry V running at York House Gardens on 6 - 12 July](/event/play/200705141889).
 
 It's being staged in association with site-specific theatre company Bard Unbound and directed by Lara Muth, founder of Bard Unbound, in her first RSS directing role. Lara specialises in site-specific Shakespeare projects in heritage and museum settings.
 

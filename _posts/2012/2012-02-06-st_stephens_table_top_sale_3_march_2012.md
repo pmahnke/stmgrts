@@ -15,7 +15,7 @@ Tea, coffee, cold drinks and snacks will be on sale. Money raised from the sale 
 
 #### More Information
 
--   Date: [Saturday 3 March 2012](https://stmargarets.london/event/event/200705143209)
+-   Date: [Saturday 3 March 2012](/event/event/200705143209)
 -   Time: 10am - 2pm
 -   Venue: St Stephen's School, Winchester Road, St Margarets ­ playground weather permitting or school hall if wet.
 -   To book a space, please contact Shelagh Coutts in the school office

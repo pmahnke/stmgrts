@@ -12,10 +12,10 @@ excerpt: |
 
 The elections are nearly here. We have sent questionnaires to all the candidates for the Twickenham seat and have had posted the *four* that were returned. They are:
 
--   Liberal Democrats' [Vince Cable](https://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html)
--   UKIP's [Barry Edwards](https://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html).
--   Green's [Tanya Williams](https://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html)
--   Labour's [Nick Grant](https://stmargarets.london/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html)
+-   Liberal Democrats' [Vince Cable](/archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html)
+-   UKIP's [Barry Edwards](/archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.html).
+-   Green's [Tanya Williams](/archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.html)
+-   Labour's [Nick Grant](/archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html)
 
 The other candidates have not responded, so we suggest you read some excellent coverage from some other local groups.
 

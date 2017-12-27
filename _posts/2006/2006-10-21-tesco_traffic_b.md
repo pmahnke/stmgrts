@@ -18,4 +18,4 @@ An ambulance was trying to get up St Margarets Road, towards Richmond - Because 
 
 In the end, an H37 drove up onto the pavement at the foot of the railway bridge to make enough room for the ambulance to get past - But by that time vital minutes had passed.
 
-<em>-- from our friends at [SPASM](http://www.mailspaces.com/spaces/spasm/</em>)
+<em>-- from our friends at [SPASM](http://www.mailspaces.com/spaces/spasm/)</em>

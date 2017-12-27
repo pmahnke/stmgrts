@@ -42,5 +42,5 @@ Please note that the Committee members nominated and elected at the inaugural me
 #### [More Information](http://www.friendsofmoormead.org.uk/index.shtml)
 
 -   The AGM will be held in The Winchester Hall, Turk's Head, Winchester Road, St Margarets
--   [Monday 14th April 2014 at TIME: 1800 for 1830](https://stmargarets.london/event/meeting/200705144392)
+-   [Monday 14th April 2014 at TIME: 1800 for 1830](/event/meeting/200705144392)
 -   If any of the current committee wishes to resign or anyone wishes to nominate themselves, please let us know before the meeting

@@ -21,7 +21,7 @@ Following a letter received from Santa earlier this month, the St Margarets Trad
 -   <a href="/assets/images/2010/smta_santa_big.jpg" title="See larger version of - Santa's Postbox">See more details</a>
 
 <div markdown="1" class="infobox">
-[Look-In Video](https://stmargarets.london/directory/video/200506220008)
+[Look-In Video](/directory/video/200506220008)
 40 Crown Road
 St Margarets
 

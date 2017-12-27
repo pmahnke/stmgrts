@@ -26,4 +26,4 @@ Ishbel Murray, Richmond Council Assistant Director for Contracts and Leisure, sa
 > "Many families will be looking for activities to entertain their children over the half term. These workshops are fun and educational. They aim to inspire children of all ages to explore art, using different techniques and materials. In many of the workshops, children will leave with their own creations to display at home."
 
 
-- For more information, or to book, go to: [www.richmond.gov.uk/holiday_activities]([www.richmond.gov.uk/holiday_activities](http://www.richmond.gov.uk/holiday_activities))
+- For more information, or to book, go to: [www.richmond.gov.uk/holiday_activities](http://www.richmond.gov.uk/holiday_activities)

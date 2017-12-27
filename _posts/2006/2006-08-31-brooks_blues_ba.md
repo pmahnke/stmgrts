@@ -11,6 +11,6 @@ excerpt: |
 
 ---
 
-After three years at the *The Brook Green Hotel* in Hammersmith, [Brooks Blues Bar](http://www.brooksbluesbar.co.uk/) has now spread out to three sites across London including the [Turk's Head](https://stmargarets.london/directory/pub/200505231518) on Thursday nights. Brook's books bands that play authentic acoustic country blues of the 20's, 30's, 40's as well as some Chicago blues and early rhythm 'n blues bands'.
+After three years at the *The Brook Green Hotel* in Hammersmith, [Brooks Blues Bar](http://www.brooksbluesbar.co.uk/) has now spread out to three sites across London including the [Turk's Head](/directory/pub/200505231518) on Thursday nights. Brook's books bands that play authentic acoustic country blues of the 20's, 30's, 40's as well as some Chicago blues and early rhythm 'n blues bands'.
 
-First up are [Gordon Smith and Rob Mason](https://stmargarets.london/event/Concert/200608250852) on 7 September at 8pm. Gordon's guitar play was described by the late great John Peel as "one of the foremost white blues guitarists in the world" while Rob is considered one of the finest harmonica players in the UK, if not the world. Tickets are £7.
+First up are [Gordon Smith and Rob Mason](/event/Concert/200608250852) on 7 September at 8pm. Gordon's guitar play was described by the late great John Peel as "one of the foremost white blues guitarists in the world" while Rob is considered one of the finest harmonica players in the UK, if not the world. Tickets are £7.

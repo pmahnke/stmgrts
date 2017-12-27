@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2012/crown-cycles-green-on-white.png" title="See larger version of - crown cycles logo"><img src="/assets/images/2012/crown-cycles-green-on-white_thumb.png" width="150" height="107" alt="crown cycles logo" class="right" /></a>
 
-One of Europe's leading bike companies, BH Bikes, will be in attendance at Crown Cycles on Sunday 9<sup>th</sup> December 2012 during the [Crown Road Christmas Fair](https://stmargarets.london/event/fair/200705143678).
+One of Europe's leading bike companies, BH Bikes, will be in attendance at Crown Cycles on Sunday 9<sup>th</sup> December 2012 during the [Crown Road Christmas Fair](/event/fair/200705143678).
 
 A fantastic selection of their exclusive 2013 Road and Triathalon range bikes will be on display.
 

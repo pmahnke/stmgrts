@@ -12,7 +12,7 @@ excerpt: |
     
     So, to summarise where we are in the great Roman Catholic secondary school debate, coz that's what we're talking about...
     
-    ??Twickerati - 13 September 2011??
+    <cite>-- Twickerati - 13 September 2011</cite>
     
     <a href="https://stmargarets.london/l/VaG7l">Continue reading on twickerati.wordpress.com</a>
 
@@ -26,4 +26,4 @@ So, to summarise where we are in the great Roman Catholic secondary school debat
 
 Twickerati - 13 September 2011
 
-[Continue reading on twickerati.wordpress.com](https://stmargarets.london/l/VaG7l)
+[Continue reading on twickerati.wordpress.com](/l/VaG7l)

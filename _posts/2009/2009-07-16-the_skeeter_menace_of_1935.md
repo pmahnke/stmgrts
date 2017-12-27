@@ -7,16 +7,8 @@ category: around_town
 date: 2009-07-16 10:51:52
 excerpt: |
     <a href="/assets/images/2009/skeeter.png"><img src="/assets/images/2009/skeeter-thumb.png" width="150" height="111" alt="skeeter" class="right" /></a>
-    
-    
-    bq. "They rise like columns of smoke from the woods over there, and sometimes stretch above the trees. We have to close the windows and draw the curtains to have a chance of keeping them out. There are swarms of the pests about and it is time something was done about it."
-    
+
     In early June 1935 St Margarets, Twickenham, Whitton and parts of Richmond and Hounslow were under attack from an insect invasion that was filling doctors' waiting rooms with scratching victims and driving local ratepayers to distraction. The enemy was from the family Culicidae - the Mosquito.
-    
-    Local Health Committees, aware of the nuisance, were taking the infestation seriously - but as their spokesman  Dr. G.H Dupont commented, "The mosquitoes are more of an annoyance than a serious menace to health". A reporter from the Richmond and Twickenham Times disagreed.
-    
-    bq. "Let me say at once that there have been no exaggerations in the reports that have filtered through from the battle front. The mosquitoes are winning all along the line and people living in the areas under fire have their backs to the wall."
-    
 
 ---
 

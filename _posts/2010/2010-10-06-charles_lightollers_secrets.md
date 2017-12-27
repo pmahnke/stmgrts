@@ -10,7 +10,7 @@ date: 2010-10-06 21:07:46
 
 <a href="/assets/images/2010/Titanic_steaming.jpg" title="See larger version of - The Titanic Steaming"><img src="/assets/images/2010/Titanic_steaming_thumb.jpg" width="150" height="124" alt="The Titanic Steaming" class="photo right" /></a>
 
-In November 2008 the *St Margarets Community Website* carried an article about one of East Twickenham's most distinguished residents, [Charles Lightoller, the hero of the Titanic](https://stmargarets.london/archives/2008/12/the_twice_told_tale_of_the_titanic.html). Here is an extract...
+In November 2008 the *St Margarets Community Website* carried an article about one of East Twickenham's most distinguished residents, [Charles Lightoller, the hero of the Titanic](/archives/2008/12/the_twice_told_tale_of_the_titanic.html). Here is an extract...
 
 > Anyone who has wandered down Ducks Walk in recent times will have seen the blue plaque commemorating the life of Charles Herbert Lightoller who once lived there. Lightoller was born in 1874 and went to sea when he was only 13. In 1912, after many maritime adventures, he was appointed Second Officer aboard the 'Titanic', the White Star Line's new and 'virtually unsinkable' ship on its ill-fated maiden voyage from Southampton to New York.
 > 

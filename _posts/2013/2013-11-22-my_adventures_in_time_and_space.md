@@ -9,7 +9,7 @@ excerpt: |
     <a href="/assets/images/2013/DRWHO_jon_pertwee.jpg" title="See larger version of - Jon Pertwee"><img src="/assets/images/2013/DRWHO_jon_pertwee_thumb.jpg" width="150" height="181" alt="Jon Pertwee" class="photo right" /></a>
     
     
-    This being the 50<sup>th</sup> anniversary of the first incarnation of 'Dr. Who' and me not having been inside the Tardis for over 40 years I think that I can now safely reveal some secrets ... although I should add that for the sake of Universal Copyright (<em>"in this world, all known worlds and all worlds yet to be discovered"</em>) this article was written under the terms of the Protocol of Perpetual Silence determined by the Council of Gallifrey on the Doctor's first incarnation in ED1963.
+    This being the 50<sup>th</sup> anniversary of the first incarnation of 'Dr. Who' and me not having been inside the Tardis for over 40 years I think that I can now safely reveal some secrets ... although I should add that for the sake of Universal Copyright (<em>"in this world, all known worlds and all worlds yet to be discovered")</em> this article was written under the terms of the Protocol of Perpetual Silence determined by the Council of Gallifrey on the Doctor's first incarnation in ED1963.
 
 ---
 
@@ -19,7 +19,7 @@ excerpt: |
 The TARDIS (/ˈtɑːdɪs/ (Time and Relative Dimension in Space) is a time machine and spacecraft in the British science fiction television programme *Doctor Who* and its associated spin-offs.
 
 </div>
-This being the 50<sup>th</sup> anniversary of the first incarnation of 'Dr. Who' and me not having been inside the Tardis for over 40 years I think that I can now safely reveal some secrets ... although I should add that for the sake of Universal Copyright (<em>"in this world, all known worlds and all worlds yet to be discovered"</em>) this article was written under the terms of the Protocol of Perpetual Silence determined by the Council of Gallifrey on the Doctor's first incarnation in ED1963.
+This being the 50<sup>th</sup> anniversary of the first incarnation of 'Dr. Who' and me not having been inside the Tardis for over 40 years I think that I can now safely reveal some secrets ... although I should add that for the sake of Universal Copyright (<em>"in this world, all known worlds and all worlds yet to be discovered")</em> this article was written under the terms of the Protocol of Perpetual Silence determined by the Council of Gallifrey on the Doctor's first incarnation in ED1963.
 
 <a href="/assets/images/2013/DRWHO_jon_pertwee.jpg" title="See larger version of - Jon Pertwee"><img src="/assets/images/2013/DRWHO_jon_pertwee_thumb.jpg" width="150" height="181" alt="Jon Pertwee" class="photo right" /></a>
 
@@ -35,7 +35,7 @@ Because they spend their time sticking lengths of film together - a 'close-up' o
 2.  Set up a general wide shot of the area and 'lock-off' the camera so that it won't move.
 3.  Film about 30 seconds of this alien planet...and then stop the camera.
 4.  Move the Tardis into the shot - and put the characters inside.
-5.  Start the camera again and then 'cue' the actors to do their thing. (Usually they step out of the Tardis and say something like <em>"Where are we, Doctor?"</em>)
+5.  Start the camera again and then 'cue' the actors to do their thing. (Usually they step out of the Tardis and say something like <em>"Where are we, Doctor?")</em>
 6.  Now you have two identical shots of the 'alien planet' - one without the Tardis and one with.
 7.  At the film laboratory (or electronically if shooting on video) dissolve one shot into the other and the Tardis slowly appears as if by magic. Reverse the process and the Tardis will disappear.
 8.  Add some Tardis sound effects created by Brian Hodgson at the BBC Radiophonics Workshop - and you're done. (The Tardis sound FX were made by running a door key along the bass strings of an old piano and then electronically 'cooking' the resulting noise.)

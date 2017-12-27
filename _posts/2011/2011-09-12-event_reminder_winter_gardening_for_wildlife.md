@@ -17,7 +17,7 @@ excerpt: |
 
 <a href="/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
 
-[*2pm Sunday, 9 October at Kew Gardens*](https://stmargarets.london/event/event/200705142931)
+[*2pm Sunday, 9 October at Kew Gardens*](/event/event/200705142931)
 
 October/November is the perfect time to prepare your garden so that you can help wildlife to get through the winter and thrive in spring.
 

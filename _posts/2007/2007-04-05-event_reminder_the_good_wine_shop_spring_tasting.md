@@ -10,7 +10,7 @@ date: 2007-04-05 12:40:00
 
 <img src="/assets/images/2007/mark_good_wine_thumb.jpg" width="150" height="112" alt="Mark of The Good Wine Shop" class="photo right" />
 
-Corks will be popping at one of South London's fastest growing independent wine merchants when [The Good Wine Shop](https://stmargarets.london/directory/wine_aNd_spirits/200511281416) in St Margarets hosts a special [Spring wine tasting event](https://stmargarets.london/event/Exhibition/200704050632).
+Corks will be popping at one of South London's fastest growing independent wine merchants when [The Good Wine Shop](/directory/wine_aNd_spirits/200511281416) in St Margarets hosts a special [Spring wine tasting event](/event/Exhibition/200704050632).
 
 A selection of up to 50 Spring and Summer wines will be on offer for guests to sample during the event which takes place at Winchester Hall in St Margarets on Saturday 28th April, 12.00pm to 4.00pm.
 

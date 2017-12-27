@@ -10,7 +10,7 @@ date: 2010-09-16 18:11:01
 
 <img alt="2x2 opera" src="/assets/images/2010/2x2operalogo-thumb.gif" width="150" height="107" class="right" />
 
-[2x2 Opera](https://stmargarets.london/directory/music/200602010743) - St Margarets' based opera company for young people - is producing a new version of Rossini's comic opera Cinderella in November this year and we are recruiting singers - girls and particularly boys - to make up the chorus. There are also some solo singing roles. We are holding a singing workshop on Saturday, 18<sup>th</sup> September from 4 to 5.30pm at St Stephens School, Chertsey Road, St Margarets.
+[2x2 Opera](/directory/music/200602010743) - St Margarets' based opera company for young people - is producing a new version of Rossini's comic opera Cinderella in November this year and we are recruiting singers - girls and particularly boys - to make up the chorus. There are also some solo singing roles. We are holding a singing workshop on Saturday, 18<sup>th</sup> September from 4 to 5.30pm at St Stephens School, Chertsey Road, St Margarets.
 
 This will be a great opportunity to have a lot of fun, find out more about us and decide whether you would like to take part. You do not need to commit to the production in order to take part in the workshop - but we hope you will want to sign up at the end!
 

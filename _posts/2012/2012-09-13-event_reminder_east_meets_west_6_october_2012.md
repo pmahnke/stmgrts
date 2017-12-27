@@ -8,7 +8,7 @@ date: 2012-09-13 20:50:20
 
 ---
 
-[The Gallery, Strawberry Hill House - 7.15pm - 9.45pm](https://stmargarets.london/event/concert/200705143581)
+[The Gallery, Strawberry Hill House - 7.15pm - 9.45pm](/event/concert/200705143581)
 
 In keeping with Walpole's ethos of artistic and original entertainment this exquisite acoustic concert presents a programme of Western and Indian classical music with subtle Jazz undertones.
 

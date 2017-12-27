@@ -14,13 +14,13 @@ excerpt: |
 
 <a href="/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1.jpg" title="See larger version of - REDLEES INVITE BACK 2015 FINAL 1"><img src="/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1_thumb.jpg" width="250" height="176" alt="REDLEES INVITE BACK 2015 FINAL 1" class="photo right" /></a>
 
-This [5 to 7 June](https://stmargarets.london/event/show/200705145010) brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
+This [5 to 7 June](/event/show/200705145010) brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
 
 During the week-end of June 5-7 we open our individual studios and welcome the public to visit us in our working spaces, where you have the opportunity to buy or commission artwork direct from the makers. After browsing the formal display of artworks in the Gallery, meet the new and regular artists and enjoy the vibrant and creative atmosphere of this thriving community, in relaxing surrounding of these converted Victorian Stables.
 
 #### More Information
 
--   [Friday 5 June, 6-9pm, Saturday and Sunday 6-7 June, 11-6pm.](https://stmargarets.london/event/show/200705145010)
+-   [Friday 5 June, 6-9pm, Saturday and Sunday 6-7 June, 11-6pm.](/event/show/200705145010)
 -   Wheelchair access
 -   refreshments available
 -   raffle of artists' work

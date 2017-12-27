@@ -34,7 +34,7 @@ Aware that the East Surreys would be leading the attack in his sector <em>'Billy
 <div markdown="1" class="box">
 <a href="/assets/images/2016/BILLIESBALL_Tennyson-House.jpg" title="See larger version of - Tennyson House"><img src="/assets/images/2016/BILLIESBALL_Tennyson-House_thumb.jpg" width="250" height="333" alt="Tennyson House" class="photo right" /></a>
 
-Captain Wilfred Percy Nevill (known as <em>'Billie'</em>) was born on 14 July 1894, the son of Thomas George Nevill, a coal merchant and later Managing Director of Kelly's Directories and Elizabeth Ann Nevill. At the time of the War the family was living in <em>'Tennyson's House'</em>, 15 Montpelier Row in St Margarets.
+Captain Wilfred Percy Nevill (known as <em>'Billie')</em> was born on 14 July 1894, the son of Thomas George Nevill, a coal merchant and later Managing Director of Kelly's Directories and Elizabeth Ann Nevill. At the time of the War the family was living in <em>'Tennyson's House'</em>, 15 Montpelier Row in St Margarets.
 
 </div>
 Zero hour was 7.30am on the 1<sup>st</sup> July. As the whistles sounded along the Front and terrified soldiers climbed out of the trenches to face an undiminished enemy one survivor, Pte. L.S Price, 8<sup>th</sup> Royal Sussex reported...

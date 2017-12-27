@@ -14,7 +14,7 @@ About a year ago a local bunch of gently decaying rock 'n' roll musicians realis
 
 So...
 
-They placed a [smoothly worded small ad](https://stmargarets.london/archives/2007/05/rock_n_roll_vocalists_needed.html) in the prestigious pages of the St Margarets Community Website Newsletter stating quite bluntly that age and experience were totally immaterial... Rock Chicks Needed!
+They placed a [smoothly worded small ad](/archives/2007/05/rock_n_roll_vocalists_needed.html) in the prestigious pages of the St Margarets Community Website Newsletter stating quite bluntly that age and experience were totally immaterial... Rock Chicks Needed!
 
 Soon...
 

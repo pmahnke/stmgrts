@@ -8,7 +8,7 @@ date: 2008-11-14 10:53:32
 
 ---
 
-[!(photo right) https://stmargarets.london/images/frodo\_wear\_thumb-thumb.jpg 105x150 (St Margarets' Wardrobe Swap and Sale) !](https://stmargarets.london/event/show/200705141989)
+[!(photo right) https://stmargarets.london/images/frodo\_wear\_thumb-thumb.jpg 105x150 (St Margarets' Wardrobe Swap and Sale) !](/event/show/200705141989)
 
 Fabulous designer auction items, and extensive range of quality clothes, accessories, shoes, jewellery.
 

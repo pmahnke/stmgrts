@@ -16,7 +16,7 @@ As a special gift for May Day I'd like to offer you the following:
 
 If you introduce someone to the Yoga, or Music lessons to me and you both book and pay for a block of 6 you will get either an extra hour one-to-one session free with me for EITHER Yoga and/or Massage, or a Music Lesson of your choice; Beginners Piano, Harmonica, or Beginners/Intermediate Singing, Ukelele, Guitar.
 
-This offer also applies if you find a therapist to book a stall onto the [Holistic Health and Wellbeing Day](https://stmargarets.london/archives/2011/04/still_stalls_available_for_holistic_health_and_wel.html)
+This offer also applies if you find a therapist to book a stall onto the [Holistic Health and Wellbeing Day](/archives/2011/04/still_stalls_available_for_holistic_health_and_wel.html)
 
 I am donating money earned this term to the Shooting Star (amount tbc but probably 10% or 20%, depending on my costs)
 

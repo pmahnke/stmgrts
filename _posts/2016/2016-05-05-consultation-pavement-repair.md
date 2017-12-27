@@ -20,4 +20,4 @@ In our local Residents Survey, people highlighted that the condition of pavement
 
 Funding will be directed to pavements that receive the most nominations and fulfil the greatest community need.
 
-For more information and to nominate please go to the [Community Pavements webpage](https://stmargarets.london/l/qenCw)
+For more information and to nominate please go to the [Community Pavements webpage](/l/qenCw)

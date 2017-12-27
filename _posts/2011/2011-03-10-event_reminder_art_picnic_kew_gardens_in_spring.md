@@ -16,7 +16,7 @@ excerpt: |
 
 *FOR THE FIRST TIME WITH THE ENVIRONMENT TRUST!*
 
-On, [Sunday 27<sup>th</sup> March 2011: 11am - 4pm](https://stmargarets.london/event/event/200705142725), with artist Jill Storey and an study the sweep of historic landscape, magical trees in blossom, and banks of spring flowers Glasshouses historic and modern, lakes and ponds.
+On, [Sunday 27<sup>th</sup> March 2011: 11am - 4pm](/event/event/200705142725), with artist Jill Storey and an study the sweep of historic landscape, magical trees in blossom, and banks of spring flowers Glasshouses historic and modern, lakes and ponds.
 
 Materials for sketching (paper, pencils, and charcoal) and drawing boards will be provided, but you are welcome to bring your own equipment if you prefer.
 

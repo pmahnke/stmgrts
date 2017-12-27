@@ -18,7 +18,7 @@ The show judges Mr B.Arking and Ms R.Uff had a number of difficult choices to ma
 
 All winners received a memorable rosette and all contestants received a bag of dog biscuits. Simon of Cutters has asked us to remind you that these are for consumption by dogs only and not humans.
 
-There was a mystery contestant who hasn't been seen for a few days. Patch was called by the judges to come forward in the cleverest dog category but failed to show. An in depth investigation by the website has found Patch resting at a secret location. Patch says, " I'm sorry I couldn't make it I was at home checking [www.stmargarets.london](https://stmargarets.london/) and I just lost track of the time."
+There was a mystery contestant who hasn't been seen for a few days. Patch was called by the judges to come forward in the cleverest dog category but failed to show. An in depth investigation by the website has found Patch resting at a secret location. Patch says, " I'm sorry I couldn't make it I was at home checking [www.stmargarets.london](/) and I just lost track of the time."
 
 <a href="/assets/images/2005/patch.jpg"><img src="/assets/images/2005/patch-thumb.jpg" width="150" height="112" alt="Good ol' Patch" class="photo right" /></a>
 

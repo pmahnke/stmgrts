@@ -17,7 +17,7 @@ excerpt: |
 
 Come and join artist Michelle Reader to make some transport inspired artwork and find out about our upcoming exhibition 'Beep Beep! Trains, Planes and Automobiles'.
 
-This session is free and takes place on [Sunday 17 May 2015, from 2 to 4pm at the Coach House, Orleans House Gallery.](https://stmargarets.london/event/event/200705145011)
+This session is free and takes place on [Sunday 17 May 2015, from 2 to 4pm at the Coach House, Orleans House Gallery.](/event/event/200705145011)
 
 #### More Information
 

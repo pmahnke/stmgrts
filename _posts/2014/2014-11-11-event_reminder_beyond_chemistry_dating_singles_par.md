@@ -12,9 +12,9 @@ date: 2014-11-11 20:50:30
 
 Single? Looking to meet new people? We know how hard it is to meet someone special in London, so why leave it to fate?
 
-[Beyond Chemistry Dating](https://stmargarets.london/directory/other/201411111545) hosts events for fabulous single people. We don't ask for any monthly membership fees and there's no awkward speed dating. We simply host drinks events for singles in London to increase your opportunity to meet someone special.
+[Beyond Chemistry Dating](/directory/other/201411111545) hosts events for fabulous single people. We don't ask for any monthly membership fees and there's no awkward speed dating. We simply host drinks events for singles in London to increase your opportunity to meet someone special.
 
-Our forthcoming singles party will be held at [Bar Rincon Espanol, Paradise Road Richmond on Tuesday 2 December at 19.30.](https://stmargarets.london/event/party/200705144735)
+Our forthcoming singles party will be held at [Bar Rincon Espanol, Paradise Road Richmond on Tuesday 2 December at 19.30.](/event/party/200705144735)
 
 Everyone present will be single and looking to meet new people. We will be on hand to help you mingle with the other guests, so there's no need to be shy. Bring a friend too! So come and join us and let's make love happen.
 

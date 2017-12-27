@@ -10,7 +10,7 @@ date: 2012-03-01 20:06:12
 
 <a href="/assets/images/2012/holi_smaller2.jpg" title="See larger version of - holi paints"><img src="/assets/images/2012/holi_smaller2_thumb.jpg" width="150" height="85" alt="holi paints" class="photo right" /></a>
 
-[Saturday, 10th March 11.30am to 4pm](https://stmargarets.london/event/event/200705143244)
+[Saturday, 10th March 11.30am to 4pm](/event/event/200705143244)
 
 Orleans House Gallery bursts with colour to celebrate the begininning of Spring with live dance and music and traditional throwing of colour.
 

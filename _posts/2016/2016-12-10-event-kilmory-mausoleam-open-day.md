@@ -19,4 +19,4 @@ excerpt: |
 
 Sunday, 11 December 2016, Kilmorey Mausoleum¸ the last resting place of Francis 'Black Jack' Needham and his young mistress Priscilla will be welcoming visitors ...and offering mulled wine and minced pies to all those curious enough to hear a story of Victorian scandal, Egyptian magic and Time Travel.
 
-Kilmorey Mausoleum, opposite the Ailsa Tavern on St Margarets Road will be [open from 12 midday to 3pm](https://stmargarets.london/event/event/200705145954). Admission is free.
+Kilmorey Mausoleum, opposite the Ailsa Tavern on St Margarets Road will be [open from 12 midday to 3pm](/event/event/200705145954). Admission is free.

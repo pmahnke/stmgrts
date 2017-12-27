@@ -8,7 +8,7 @@ date: 2011-07-14 07:46:05
 
 ---
 
-[Saturday 23<sup>rd</sup> July 2011, 7.30pm](https://stmargarets.london/event/show/200705142859)
+[Saturday 23<sup>rd</sup> July 2011, 7.30pm](/event/show/200705142859)
 
 The magnificent Michael Flanders and Donald Swann are no longer with us - but you can catch a whole evening of their wonderful comic songs at the Normansfield Theatre, Langdon Down Centre, Teddington, at 7.30pm.
 

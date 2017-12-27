@@ -19,7 +19,7 @@ excerpt: |
 
 ---
 
-<em>[On Saturday, 19<sup>th</sup> March 2011 in The Live Room at Twickenham Stadium](https://stmargarets.london/event/show/200705142726</em>)
+<em>[On Saturday, 19<sup>th</sup> March 2011 in The Live Room at Twickenham Stadium](/event/show/200705142726)</em>
 
 After virtually creating the British folk rock form in the late 1960s, Fairport Convention proceeded to establish itself as an institution in the genre. Formed in 1967 by guitarist Simon Nicol, they are still going strong today. Their music is a fusion of rock, folk and traditionally-influenced songwriting delivered with wit and charm.
 

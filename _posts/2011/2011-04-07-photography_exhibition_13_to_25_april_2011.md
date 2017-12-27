@@ -10,7 +10,7 @@ date: 2011-04-07 22:28:14
 
 <a href="/assets/images/2011/RTPS_2011_annual_photoexhib.jpg" title="See larger version of - poster"><img src="/assets/images/2011/RTPS_2011_annual_photoexhib_thumb.jpg" width="150" height="202" alt="poster" class="photo right" /></a>
 
-The Richmond & Twickenham Photographic Society (RTPS) is holding its Annual Exhibition at the Landmark Arts Centre in Teddington from [Wednesday 13 April to Monday 25 April](https://stmargarets.london/event/show/200705142769).
+The Richmond & Twickenham Photographic Society (RTPS) is holding its Annual Exhibition at the Landmark Arts Centre in Teddington from [Wednesday 13 April to Monday 25 April](/event/show/200705142769).
 
 More than 50 local photographers will be showing their work and you can vote for your favourite. An exhibition by members of The Royal Photographic Society's Visual Art Group will also be on display, as well as Photography GSCE and A Level exam work by students from St Catherine's School for Girls, in Twickenham.
 

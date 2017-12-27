@@ -12,7 +12,7 @@ excerpt: |
 
 Dear Readers,
 
-In March 2005 a group of friends, neighbours and some of the traders started the St Margarets Community Web Site ([www.stmargarets.london](https://stmargarets.london/)). Since then we have continued to grow and grow. Every week increasing the number of readers and hits on the site. Since May 1st we have had over 1000 unique visitors to the site. The election coverage and the wine bar proposals have shown that the commnuity is interested and does want to come together to discuss our local issues online. We felt that the website was able to facilitate these discussions and to provide access to a lot of information so that individuals could make their own informed decisions.
+In March 2005 a group of friends, neighbours and some of the traders started the St Margarets Community Web Site ([www.stmargarets.london](/)). Since then we have continued to grow and grow. Every week increasing the number of readers and hits on the site. Since May 1st we have had over 1000 unique visitors to the site. The election coverage and the wine bar proposals have shown that the commnuity is interested and does want to come together to discuss our local issues online. We felt that the website was able to facilitate these discussions and to provide access to a lot of information so that individuals could make their own informed decisions.
 
 In the new year the feedback from our online survey was that people liked the website and liked the way it was set out. There was no real criticism (thanks!) but the single most comon comment was that you, the readers, would like more people to comment. We were not sure what to do about that!
 
@@ -32,4 +32,4 @@ We hope that you will join us. How do you feel this could be done? What sort of 
 
 Now we are waiting to hear from you onilne and hopefully see you at Winchester Hall!
 
-<em>If you haven't already, Don’t forget to sign-up for our [Weekly Newsletter](/cgi-bin/newsletter.cgi.</em>)
+<em>If you haven't already, Don’t forget to sign-up for our [Weekly Newsletter](/cgi-bin/newsletter.cgi).</em>

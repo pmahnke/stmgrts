@@ -18,7 +18,7 @@ excerpt: |
 
 This is a story of artistic supremacy and commercial success, family dynasty, topographical and architectural splendour, and royal connection, involving two British kings.
 
-A talk by art historian David Wilson. [Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.](https://stmargarets.london/event/event/200705144893) Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
+A talk by art historian David Wilson. [Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.](/event/event/200705144893) Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
 
 "It will be fascinating to learn more about this eighteenth century artist's connection to Richmond." says The Museum of Richmond Curator Natascha Wintersinger.
 

@@ -14,7 +14,7 @@ excerpt: |
 
 **What is Magnet?**
 
-[Magnet](https://stmargarets.london/directory/group/200610120518) is a forum that allows the informal coming together of people (mainly women at the moment) who live in our community and share an interest in their work arrangements/choices/needs. Though not exclusively, this is largely driven by the need to address the balance of parenting and work demands. There are, however, people who just want to contribute to a community effort.
+[Magnet](/directory/group/200610120518) is a forum that allows the informal coming together of people (mainly women at the moment) who live in our community and share an interest in their work arrangements/choices/needs. Though not exclusively, this is largely driven by the need to address the balance of parenting and work demands. There are, however, people who just want to contribute to a community effort.
 
 Magnet’s agenda seeks to address the work related needs of members either through formal sessions (presentations at our meetings) or through the Magnet network (either at the meetings or on the Magnet grapevine which is flourishing!
 
@@ -28,7 +28,7 @@ Many connections have been made through Magnet leading to recommendations for fr
 
 **Magnet meetings**
 
-Magnet meets twice a term at the Winchester Hall next to the Turks Head. The next two meetings are [Thursday, October 12th](https://stmargarets.london/event/Meeting/200610120522) and [Thursday, December 7th](https://stmargarets.london/event/Meeting/200610120523) . Meetings start at 8.30pm and finish at 10.30. The format is one hour formal meeting followed by one hour networking in the pub!
+Magnet meets twice a term at the Winchester Hall next to the Turks Head. The next two meetings are [Thursday, October 12th](/event/Meeting/200610120522) and [Thursday, December 7th](/event/Meeting/200610120523) . Meetings start at 8.30pm and finish at 10.30. The format is one hour formal meeting followed by one hour networking in the pub!
 
 **How will Magnet evolve?**
 

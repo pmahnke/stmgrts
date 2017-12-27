@@ -21,7 +21,7 @@ excerpt: |
  Well the good news is that some of the world's premier lingerie and swimwear brands are coming to you. SL Privée is delighted to invite your to its Spring Fashion Show at:
 
 [Parvinu at Phelps, St Margarets
-On Tuesday 16<sup>th</sup> March 2010 at 19.00](https://stmargarets.london/event/show/200705142375)
+On Tuesday 16<sup>th</sup> March 2010 at 19.00](/event/show/200705142375)
 
 During the evening you will be able to sample some great food and wine whilst enjoying a spot of shopping, or being fitted by Philippa or Susana in our Ladies' Private Boudoir!
 

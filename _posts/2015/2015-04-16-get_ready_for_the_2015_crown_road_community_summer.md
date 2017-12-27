@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2015/crown_road_summer_fair_2015.jpg" title="See larger version of - crown road summer fair 2015"><img src="/assets/images/2015/crown_road_summer_fair_2015_thumb.jpg" width="150" height="225" alt="crown road summer fair 2015" class="photo right" /></a>
 
-[Sunday the 7<sup>th</sup> June on Crown Road, 11am - 5pm!](https://stmargarets.london/event/fair/200705144971)
+[Sunday the 7<sup>th</sup> June on Crown Road, 11am - 5pm!](/event/fair/200705144971)
 
 After the success of last year's musical fair, Crown Road will again be closed to traffic so the St Margarets Traders Association can bring you a day of family entertainment!
 

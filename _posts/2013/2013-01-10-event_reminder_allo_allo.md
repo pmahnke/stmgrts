@@ -27,7 +27,7 @@ Zut alors! It's enough to make a man talk in a funny accent.
 
 #### More Information
 
--   Playing dates - [Sunday 27<sup>th</sup> January - Saturday 2<sup>nd</sup> February](https://stmargarets.london/event/play/200705143744)
+-   Playing dates - [Sunday 27<sup>th</sup> January - Saturday 2<sup>nd</sup> February](/event/play/200705143744)
 -   Performance times:
     -   Sunday 4pm
     -   Weekdays 7.45pm

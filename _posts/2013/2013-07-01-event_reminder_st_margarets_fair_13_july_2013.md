@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right"/></a>
 
-Don't forget that this [Saturday, 13 July 2013, from 11.30am to 7.30pm](https://stmargarets.london/event/fair/200705144026), is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
+Don't forget that this [Saturday, 13 July 2013, from 11.30am to 7.30pm](/event/fair/200705144026), is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
 
 <ul>
 <li>

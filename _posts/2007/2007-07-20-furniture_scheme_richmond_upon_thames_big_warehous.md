@@ -14,4 +14,4 @@ date: 2007-07-20 09:46:58
 
 We are overwhelmed with furniture and very little space in our warehouse. We have therefore decided to have a sale on next week starting 23-26 July from 10am to 3pm each day.
 
-[See details here](https://stmargarets.london/event/exhibition/200705141667)
+[See details here](/event/exhibition/200705141667)

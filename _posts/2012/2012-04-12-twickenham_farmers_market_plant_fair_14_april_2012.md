@@ -18,4 +18,4 @@ We have no doubt Twickenham will be looking a much brighter, more vibrant place 
 
 Enjoy the market and plant fair on Saturday,
 
-<em>Twickenham Farmers' Market - every Saturday 9am to 1pm in [Holly Road car park](http://g.co/maps/wg4wq</em>)
+<em>Twickenham Farmers' Market - every Saturday 9am to 1pm in [Holly Road car park](http://g.co/maps/wg4wq)</em>

@@ -19,7 +19,7 @@ excerpt: |
 
 *A talk by WWI Historian Dr Chris Kempshall*
 
-As part of a series of events to coincide with our WWI exhibition, Dr Kempshall will be discussing recruitment and conscientious objection with an audience [at the Museum of Richmond on April 1<sup>st</sup> 2015 at 2pm.](https://stmargarets.london/event/event/200705144908)
+As part of a series of events to coincide with our WWI exhibition, Dr Kempshall will be discussing recruitment and conscientious objection with an audience [at the Museum of Richmond on April 1<sup>st</sup> 2015 at 2pm.](/event/event/200705144908)
 
 #### Recruitment
 

@@ -8,6 +8,6 @@ date: 2007-04-26 11:51:38
 
 ---
 
-On 20 April 2007, Richmond Council has [refused planning permission](http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=07/0599/FUL) for *Your Parmacy's* [application](https://stmargarets.london/archives/2007/03/your_pharmacy_a.html) for an external ATM.
+On 20 April 2007, Richmond Council has [refused planning permission](http://www.ukplanning.com/richmond/showCaseFile.do?councilName=London+Borough+of+Richmond+upon+Thames&appNumber=07/0599/FUL) for *Your Parmacy's* [application](/archives/2007/03/your_pharmacy_a.html) for an external ATM.
 
 Reason for the refusal was that the plans would "visually clutter" the shop frontage, the street scene and the entire St Margarets' conservation area.

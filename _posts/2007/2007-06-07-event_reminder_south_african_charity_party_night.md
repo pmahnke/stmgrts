@@ -10,7 +10,7 @@ date: 2007-06-07 20:57:06
 
 <a href="/assets/images/2007/RedLionPosterPage.jpg"><img src="/assets/images/2007/RedLionPosterPage-thumb.jpg" width="105" height="150" alt="flyer" class="photo right" /></a>
 
-[The African Pulse](http://www.theafricanpulse.com) charity (UK registered No: 1104994) are holding a [music fundraising event](https://stmargarets.london/event/concert/200705141624) on Friday 22nd June, 7.30pm at "Filthy's" at the Red Lion Pub in Twickenham. Suggested donation on the door £5.
+[The African Pulse](http://www.theafricanpulse.com) charity (UK registered No: 1104994) are holding a [music fundraising event](/event/concert/200705141624) on Friday 22nd June, 7.30pm at "Filthy's" at the Red Lion Pub in Twickenham. Suggested donation on the door £5.
 
 [Click here for the flyer](/images/events/RedLionPosterPage.pdf)
 

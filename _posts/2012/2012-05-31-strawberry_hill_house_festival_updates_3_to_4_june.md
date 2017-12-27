@@ -8,7 +8,7 @@ date: 2012-05-31 22:56:03
 
 ---
 
-*Don't forget the [Jubilee Jazz Festival](https://stmargarets.london/event/concert/200705143211) on 3 and 4 June 2012!*
+*Don't forget the [Jubilee Jazz Festival](/event/concert/200705143211) on 3 and 4 June 2012!*
 
 The long range weather forecast is looking horrible... but don't worry, the performances all take place in a large chandelier lit marquee which has plenty of seating.
 

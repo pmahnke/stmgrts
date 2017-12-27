@@ -8,7 +8,7 @@ date: 2012-11-28 20:48:09
 
 ---
 
-Come and meet a Palestinian Gandhi [at the Richmond Unitarian Church at 7.30pm on 13 December 2012](https://stmargarets.london/event/event/200705143699). Mousa abu Maria, one of the leaders of the growing Palestinian grassroots, non-violent activism campaign of resistance to the Israeli military occupation. He is from Beit Ummar in the West Bank where an Israeli settlement has taken 65% of his community's land. He is married to a Jewish Israeli woman and works closely with many Jewish Israeli peace activists.
+Come and meet a Palestinian Gandhi [at the Richmond Unitarian Church at 7.30pm on 13 December 2012](/event/event/200705143699). Mousa abu Maria, one of the leaders of the growing Palestinian grassroots, non-violent activism campaign of resistance to the Israeli military occupation. He is from Beit Ummar in the West Bank where an Israeli settlement has taken 65% of his community's land. He is married to a Jewish Israeli woman and works closely with many Jewish Israeli peace activists.
 
 #### More Information
 

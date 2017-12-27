@@ -54,7 +54,7 @@ On the outside wall of the Ailsa is a plaque suggesting that the pub got its nam
 </div>
 The Kilmorey Mausoleum will be open to the public again on Sunday 11<sup>th</sup> December between 12.00 and 3.00pm Admission is free.
 
-Check out the story of <em>'Black Jack'</em> and his mistress Priscilla and their Egyptian Time Machine on [stmargarets.london/archives/2016/07/kilmorey-time-machine.html](https://stmargarets.london/archives/2016/07/kilmorey-time-machine.html)
+Check out the story of <em>'Black Jack'</em> and his mistress Priscilla and their Egyptian Time Machine on [stmargarets.london/archives/2016/07/kilmorey-time-machine.html](/archives/2016/07/kilmorey-time-machine.html)
 
 You can watch a short documentary about the Mausoleum made in 2015 before extensive restoration work was completed - [youtu.be/MmQDVlxmu6Q](https://youtu.be/MmQDVlxmu6Q)
 

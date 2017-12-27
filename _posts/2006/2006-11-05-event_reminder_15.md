@@ -10,7 +10,7 @@ date: 2006-11-05 22:03:06
 
 <a href="/assets/images/2006/BigBandBlitz.jpg" title="See larger version of - Big Band"><img src="/assets/images/2006/BigBandBlitz_thumb.jpg" width="150" height="100" alt="Big Band" class="photo right" /></a>
 
-The Museum of Richmond will be the benefiting charity for the popular annual [1940's Big Band Blitz](https://stmargarets.london/event/Show/200611051559) at Clarendon Hall, York House, Twickenham on Saturday 18 November. This year the event will be part of the Queen's 80th Birthday celebration.
+The Museum of Richmond will be the benefiting charity for the popular annual [1940's Big Band Blitz](/event/Show/200611051559) at Clarendon Hall, York House, Twickenham on Saturday 18 November. This year the event will be part of the Queen's 80th Birthday celebration.
 
 The Mayor of Richmond and his guests will be stepping back in time to the 1940s.
 

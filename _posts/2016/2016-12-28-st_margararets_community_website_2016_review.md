@@ -27,13 +27,13 @@ This year we wrote fewer articles, but published more events than in previous ye
 
 | Category                                                        | Number |
 |:----------------------------------------------------------------|-------:|
-|[around town](https://stmargarets.london/archives/around\_town/) | 126    |
-|[news](https://stmargarets.london/archives/news/)                | 39     |
-|[editorial](https://stmargarets.london/archives/editorial/)      | 3      |
-|[events](https://stmargarets.london/event)                       | 650    |
+|[around town](/archives/around\_town/) | 126    |
+|[news](/archives/news/)                | 39     |
+|[editorial](/archives/editorial/)      | 3      |
+|[events](/event)                       | 650    |
 | **total**                                                       | 818    |
 
-Not to mention, we sent out around [40 newsletters](https://stmargarets.london/cgi-bin/newsletter.cgi)
+Not to mention, we sent out around [40 newsletters](/cgi-bin/newsletter.cgi)
 
 #### Top 20 Articles
 
@@ -93,4 +93,4 @@ One trend we have been watching is how many people are now using the site on pho
 | Mobile  | 33.42%   | +5.52%                     |
 | Tablet  | 14.80%   | -1.90%                     |
 
-Well, hope you have a great 2017 and if you want to write an article or promote that local event, please [get in touch](https://stmargarets.london/contact/)
+Well, hope you have a great 2017 and if you want to write an article or promote that local event, please [get in touch](/contact/)

@@ -54,4 +54,4 @@ For more information or to book your FREE Trial Session, contact Matt on:
 -   07912 605 517
 -   <matt@leanfit.co.uk>
 
-<em>Matt is a fully qualified personal trainer with over 7 years' experience, getting all manner of clients back in shape and good health. He currently work closely with popular women's magazine Cosmopolitan. For more information on Matt visit his blog [www.mattroots.com](http://www.mattroots.com</em>)
+<em>Matt is a fully qualified personal trainer with over 7 years' experience, getting all manner of clients back in shape and good health. He currently work closely with popular women's magazine Cosmopolitan. For more information on Matt visit his blog [www.mattroots.com](http://www.mattroots.com)</em>

@@ -24,7 +24,7 @@ Come along to the launch of your Village Plan and Village Planning Guidance.
 
 #### More Information
 
--   [Monday 4<sup>th</sup> July 6:30 pm at the Turks Head, 28 Winchester Rd, St Margarets, TW1 1LF](https://stmargarets.london/event/event/200705145675)
+-   [Monday 4<sup>th</sup> July 6:30 pm at the Turks Head, 28 Winchester Rd, St Margarets, TW1 1LF](/event/event/200705145675)
 -   For more information or if you would like to attend, email: <allinone@richmond.gov.uk>
 -   To view your Village Plan go to: [www.richmond.gov.uk/village\_plans](http://www.richmond.gov.uk/village_plans)
 -   Remember to follow the Council on Twitter for regular updates: [@LBRUT](http://www.twitter.com/LBRUT) and [www.facebook.com/groups/StMargaretsandEastTwickenham](http://www.facebook.com/groups/StMargaretsandEastTwickenham/)

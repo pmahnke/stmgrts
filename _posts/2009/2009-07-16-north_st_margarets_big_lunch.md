@@ -12,9 +12,9 @@ excerpt: |
 
 ---
 
-On Sunday 19<sup>th</sup> July residents of North St Margarets, the bit past the Ailsa Tavern, will be linking up with All Souls Church and sitting down to a [Big Lunch](https://stmargarets.london/event/fair/200705142185) together.
+On Sunday 19<sup>th</sup> July residents of North St Margarets, the bit past the Ailsa Tavern, will be linking up with All Souls Church and sitting down to a [Big Lunch](/event/fair/200705142185) together.
 
-The Big Lunch is a national event organised by the Eden Project to encourage neighbours and communities to share lunch on one day of the year. So [North St Margarets Residents' Association](https://stmargarets.london/directory/group/200506300538) together will [All Souls Church](https://stmargarets.london/directory/church/200506080805) thought it would be a great opportunity for a *Street Party*. One end of Northcote Road will be closed off and residents are being asked simply to bring some food and drink to share and turn up. There will be a marquee, live music, a bouncy castle, street chalk pictures and face painting and lots more - in fact, all the fun of a party!
+The Big Lunch is a national event organised by the Eden Project to encourage neighbours and communities to share lunch on one day of the year. So [North St Margarets Residents' Association](/directory/group/200506300538) together will [All Souls Church](/directory/church/200506080805) thought it would be a great opportunity for a *Street Party*. One end of Northcote Road will be closed off and residents are being asked simply to bring some food and drink to share and turn up. There will be a marquee, live music, a bouncy castle, street chalk pictures and face painting and lots more - in fact, all the fun of a party!
 
 Residents' Association committee member Judy Maciejowska said:
 

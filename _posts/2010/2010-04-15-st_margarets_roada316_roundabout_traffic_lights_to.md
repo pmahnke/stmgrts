@@ -12,4 +12,4 @@ Cllr Philip Morgan has been pressing the Highway Department to do this for many 
 
 from Christopher Squire
 
-Note: not sure but this might be related to this older post [Cross about the Crossing - an update](https://stmargarets.london/archives/2008/01/cross_about_the_crossing_an_update.html)
+Note: not sure but this might be related to this older post [Cross about the Crossing - an update](/archives/2008/01/cross_about_the_crossing_an_update.html)

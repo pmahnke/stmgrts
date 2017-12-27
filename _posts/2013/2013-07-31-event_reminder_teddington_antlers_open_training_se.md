@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2013/teddington_antlers.jpg" title="See larger version of - teddington antlers"><img src="/assets/images/2013/teddington_antlers_thumb.jpg" width="150" height="150" alt="teddington antlers" class="photo right" /></a>
 
-Teddington Antlers invite you to come and give rugby a try at Bushy Park, Teddington on [Sunday August 11<sup>th</sup> from 11am!](https://stmargarets.london/event/event/200705144042)
+Teddington Antlers invite you to come and give rugby a try at Bushy Park, Teddington on [Sunday August 11<sup>th</sup> from 11am!](/event/event/200705144042)
 
 This is an open training session for the U13, U15 and U18 girls' teams as well as the Senior Ladies team at Teddington RFC, a wonderfully inclusive Club set in the idyllic setting of Bushy Park.
 

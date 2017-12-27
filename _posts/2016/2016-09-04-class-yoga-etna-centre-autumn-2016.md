@@ -13,9 +13,9 @@ excerpt: |
 
 <a href="/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="250" height="250" alt="GROUNDED YOGA" class="photo right" /></a>
 
-I'm Amy Faulkner of [Grounded Yoga](https://stmargarets.london/directory/health_aNd_beauty/201609041530) and I have been practising yoga for over 15 years - I love how it makes me feel both physically and emotionally and try to convey that through my teaching. Sunday evening is a great time to try a class, to both relax the body and mind but also get your energy levels ready for the week ahead!
+I'm Amy Faulkner of [Grounded Yoga](/directory/health_aNd_beauty/201609041530) and I have been practising yoga for over 15 years - I love how it makes me feel both physically and emotionally and try to convey that through my teaching. Sunday evening is a great time to try a class, to both relax the body and mind but also get your energy levels ready for the week ahead!
 
-I'll be teaching two classes at the beautiful [ETNA Community Centre](https://stmargarets.london/directory/other/201110040733) every Sunday during term time:
+I'll be teaching two classes at the beautiful [ETNA Community Centre](/directory/other/201110040733) every Sunday during term time:
 
 -   **6.30 - 7.45pm - beginners/ intermediate Hatha yoga**
     No need to book, just come along! £10 per lesson and every 10<sup>th</sup> lesson is free of charge

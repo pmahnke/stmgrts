@@ -22,4 +22,4 @@ Well done to all who participated!
 
 [Watch the slideshow on flickr](http://www.flickr.com//photos/mahnke/sets/72157626879298597/show/)
 
-<em>If you have photos you are willing to share, you might notice a lop sided number of them for a certain Year 5 team, please email them to [content@stmargarets.london](mailto:content@stmargarets.london</em>)
+<em>If you have photos you are willing to share, you might notice a lop sided number of them for a certain Year 5 team, please email them to [content@stmargarets.london](mailto:content@stmargarets.london)</em>

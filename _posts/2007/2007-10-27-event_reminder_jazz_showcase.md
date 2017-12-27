@@ -10,6 +10,6 @@ date: 2007-10-27 13:12:09
 
 <a href="/assets/images/2007/JAZZ-showcase.gif"><img src="/assets/images/2007/JAZZ-showcase-thumb.gif" width="105" height="150" alt="flyer" class="photo right" /></a>
 
-Annoucing a new night of jazz featuring local musicians playing different styles of Jazz in the informal atmosphere of [The Rising Sun](https://stmargarets.london/directory/pub/200611051507). Contemporary to Funk and Trad to Fusion. Every Tuesday from 9pm, all styles from new up and coming groups to professional musicians. Admission is free.
+Annoucing a new night of jazz featuring local musicians playing different styles of Jazz in the informal atmosphere of [The Rising Sun](/directory/pub/200611051507). Contemporary to Funk and Trad to Fusion. Every Tuesday from 9pm, all styles from new up and coming groups to professional musicians. Admission is free.
 
 Any musicians and singers who would like to take part, please email Tom Varrall, <tom@rttonline.com> or phone 020 8892 6433

@@ -71,6 +71,6 @@ James Harbor lived a happy and fulfilled life. He married Esther, a dressmaker a
 <em>Credit: The print of Bushey House is by H.B Zieglar and is dated 1825. The etching of Twickenham is by Arthur Evershed and is dated 1876. The photograph of Twickenham Ferry is from Twickenham Museum</em>
 
 <div markdown="1" class="box">
-Next week we will be following on the Diamond Jubilee tradition established by the "Richmond Herald" by [publishing an interview](https://stmargarets.london/archives/2012/05/the_oldest_inhabitant_now.html) with one of the oldest inhabitants living in the community today, a gentleman who is 102 years old.
+Next week we will be following on the Diamond Jubilee tradition established by the "Richmond Herald" by [publishing an interview](/archives/2012/05/the_oldest_inhabitant_now.html) with one of the oldest inhabitants living in the community today, a gentleman who is 102 years old.
 
 </div>

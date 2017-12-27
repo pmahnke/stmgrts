@@ -16,7 +16,7 @@ excerpt: |
 <div markdown="1" class="box">
 <a href="/assets/images/2013/BEATLEMANIA_palace.jpg" title="See larger version of - BEATLEMANIA at the Palace"><img src="/assets/images/2013/BEATLEMANIA_palace_thumb.jpg" width="150" height="129" alt="BEATLEMANIA at the Palace" class="photo right" /></a>
 
-**Beatlemania** (<em>noun</em>)
+**Beatlemania** (<em>noun)</em>
 
 A high level of interest in the rock 'n' roll band, the Beatles, which came to popularity in the 1960's
 

@@ -16,5 +16,5 @@ Another wild romp through Discworld! Corporal Carrot, a young dwarf, is newly in
 
 #### More Information
 
--   Men at Arms is at [St. Luke's in The Avenue, Kew, at 8pm from Thursday, April 3<sup>rd</sup> to Saturday, April 5<sup>th</sup>, with a Saturday matinee at 2.30pm.](https://stmargarets.london/event/play/200705144391)
+-   Men at Arms is at [St. Luke's in The Avenue, Kew, at 8pm from Thursday, April 3<sup>rd</sup> to Saturday, April 5<sup>th</sup>, with a Saturday matinee at 2.30pm.](/event/play/200705144391)
 -   Tickets are available by emailing <q2players@gmail.com> or phoning 020 8878 2173 between 6.30-8.30pm.

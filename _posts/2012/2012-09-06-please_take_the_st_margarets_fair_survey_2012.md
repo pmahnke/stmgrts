@@ -20,4 +20,4 @@ Once again, thanks for all your support.
 
 *The St Margarets Fair committee*
 
--   [Take the survey now](https://stmargarets.london/l/efVe2)
+-   [Take the survey now](/l/efVe2)

@@ -10,7 +10,7 @@ date: 2012-09-06 21:19:35
 
 <a href="/assets/images/2012/Model-walking-on-catwalk.png" title="See larger version of - Model walking on catwalk"><img src="/assets/images/2012/Model-walking-on-catwalk_thumb.png" width="150" height="112" alt="Model walking on catwalk" class="photo right" /></a>
 
-The Landmark Autumn Wedding Fair on [Sunday 23 September 2012](https://stmargarets.london/event/fair/200705143578) will be celebrating ten years of wedding fairs at the Landmark Arts Centre in Teddington, Middlesex.
+The Landmark Autumn Wedding Fair on [Sunday 23 September 2012](/event/fair/200705143578) will be celebrating ten years of wedding fairs at the Landmark Arts Centre in Teddington, Middlesex.
 
 It was a decade ago that the Landmark Arts Centre held the first wedding fair and the event has grown in popularity. To mark the milestone occasion, a special celebratory cake made by the Daisy Chain Cake Company will be cut at the popular event. The unique fair showcases the very best of local and national wedding businesses, from bridal gowns to grooms' wear, cakes, vintage china, venues and catering.
 

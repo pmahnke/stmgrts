@@ -28,7 +28,7 @@ After learning about our Borough's fascinating sporting history, design your own
 
 #### More Information
 
--   Workshop repeated every day between: [Tuesday 7th - Saturday 11th August 2012 from 10.00 to 12.00](https://stmargarets.london/event/exhibition/200705143446)
+-   Workshop repeated every day between: [Tuesday 7th - Saturday 11th August 2012 from 10.00 to 12.00](/event/exhibition/200705143446)
 -   All suitable for children aged 4 +
 -   £2.50 donation welcomed to cover the cost of materials
 -   Pre-booking necessary. Please call 020 8332 1141.

@@ -18,4 +18,4 @@ We have enjoyed meeting many members of the local community over the past few we
 
 Your support is much appreciated.
 
-<em>[Richmond Bridge Primary Team](http://www.richmondbridgeprimary.co.uk</em>)
+<em>[Richmond Bridge Primary Team](http://www.richmondbridgeprimary.co.uk)</em>

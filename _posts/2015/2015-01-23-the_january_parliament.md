@@ -17,7 +17,7 @@ excerpt: |
 <div markdown="1" class="letter">
 <a href="/assets/images/2015/Simon_de_Montfort.jpg" title="See larger version of - Simon de Montfort"><img src="/assets/images/2015/Simon_de_Montfort_thumb.jpg" width="250" height="140" alt="Simon de Montfort" class="photo right" /></a>
 
-Exactly 750 years ago to this week, on the 20<sup>th</sup> January 1265, elected representatives from all over the country gathered together for the first time to speak on behalf of their communities and some of the people living within them. It was an early demonstration of how democracy can rise over the absolute power of the monarchy and it laid the foundations of what is now called Parliament. One of the leaders of this popular movement was Simon de Montfort who took the first faltering steps towards freedom in a field by the Thames in a place now known as St Margarets. [His story appeared in these pages in August 2012...](https://stmargarets.london/archives/2012/08/barney_in_the_barons.html)
+Exactly 750 years ago to this week, on the 20<sup>th</sup> January 1265, elected representatives from all over the country gathered together for the first time to speak on behalf of their communities and some of the people living within them. It was an early demonstration of how democracy can rise over the absolute power of the monarchy and it laid the foundations of what is now called Parliament. One of the leaders of this popular movement was Simon de Montfort who took the first faltering steps towards freedom in a field by the Thames in a place now known as St Margarets. [His story appeared in these pages in August 2012...](/archives/2012/08/barney_in_the_barons.html)
 
 <cite>Martyn Day</cite>
 

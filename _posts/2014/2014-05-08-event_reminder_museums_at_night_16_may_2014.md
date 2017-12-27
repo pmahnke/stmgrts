@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2014/Museums_at_Night_online_image.jpg" title="See larger version of - Museums at Night"><img src="/assets/images/2014/Museums_at_Night_online_image_thumb.jpg" width="150" height="83" alt="Museums at Night" class="photo right" /></a>
 
-Join us for a special late night opening of Orleans House Gallery on [Friday 16 May 2014](https://stmargarets.london/event/event/200705144425) as part of Museums at Night. Both gallery spaces will be open until 9pm featuring the New Georgians exhibition and Art and Soul: Expressions.
+Join us for a special late night opening of Orleans House Gallery on [Friday 16 May 2014](/event/event/200705144425) as part of Museums at Night. Both gallery spaces will be open until 9pm featuring the New Georgians exhibition and Art and Soul: Expressions.
 
 There will also be performances throughout the evening of a dance piece specially created for the Octagon Room choreographed by Rosie Whitney-Fish, featuring students from Grey Court School. Our on-site licensed café will also be open late serving supper and beverages.
 

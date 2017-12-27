@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2007/ststephens_fair_poster.jpg"><img src="/assets/images/2007/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
 
-With May upon us the Summer Fair season swings into action! Don't miss the [St Stephen's School Summer Fair](https://stmargarets.london/event/Fair/200705100703) -- Saturday May 19<sup>th</sup>, 12-3pm, St Stephen's School, Winchester Road, Twickenham.
+With May upon us the Summer Fair season swings into action! Don't miss the [St Stephen's School Summer Fair](/event/Fair/200705100703) -- Saturday May 19<sup>th</sup>, 12-3pm, St Stephen's School, Winchester Road, Twickenham.
 
 Our Summer Fair is a chance for us to raise funds for our school and have some fun. This year's line up includes live music from the stupendous *St Margarets' Elastic Band*, the glorious *Orleans Park Soul Band*, our talented school orchestra and our tuneful parents' choir.
 

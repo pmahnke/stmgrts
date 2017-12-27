@@ -22,7 +22,7 @@ Following on from our popular series 'Introduction to Oils', we will be running 
 
 Whether it's your first time using this medium or you're revisiting it, this oil course will teach you more about techniques, mixing and mediums. Suitable for all levels, beginners welcome.
 
-<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54406</em>)
+<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54406)</em>
 
 #### More Information
 
@@ -34,7 +34,7 @@ Whether it's your first time using this medium or you're revisiting it, this oil
 
 Inspired by our 'Water Water Everywhere' exhibition in the Stables Gallery from 25 January to 8 April, this course will teach you about colour, mark and gesture. Suitable for all levels, beginners welcome.
 
-<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54409</em>)
+<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54409)</em>
 
 #### More Information
 
@@ -46,7 +46,7 @@ Inspired by our 'Water Water Everywhere' exhibition in the Stables Gallery from 
 
 Drawing inspiration from the borough art collection, this block of sessions will get you creating beautiful landscapes in watercolours - inspired by the views that surround the gallery.
 
-<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/</em>)
+<em>Capacity 15 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/)</em>
 
 #### More Information
 

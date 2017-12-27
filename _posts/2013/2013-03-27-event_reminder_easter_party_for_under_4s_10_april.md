@@ -8,7 +8,7 @@ date: 2013-03-27 21:05:39
 
 ---
 
-[For Sanity's Sake](http://www.forsanityssake.com) - the local activity website for kids, are organising a Easter Party on [Wednesday, 10<sup>th</sup> April 2013](https://stmargarets.london/event/event/200705143815) for children 4 months - under 4 years with The Little Gym and Happy Potter.
+[For Sanity's Sake](http://www.forsanityssake.com) - the local activity website for kids, are organising a Easter Party on [Wednesday, 10<sup>th</sup> April 2013](/event/event/200705143815) for children 4 months - under 4 years with The Little Gym and Happy Potter.
 
 You and your little one can enjoy a 40 minute class of gymnastics and 30 minutes of professional arts/crafts with Happy Potter providing a ceramic egg to paint, included in the ticket price - you can put hand/finger prints on the egg shape depending on the age of the child. There will be the option of painting an egg cup too.  It will be held at The Little Gym Hampton Hill first class facilities. It's a new, bright, big building with an enormous gym room, play area and back room/kitchen.
 

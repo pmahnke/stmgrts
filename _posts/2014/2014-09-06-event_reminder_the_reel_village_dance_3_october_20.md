@@ -17,7 +17,7 @@ excerpt: |
 
 <a href="/assets/images/2014/Reel-Dance-PDF.png" title="See larger version of - Reel Dance Poster"><img src="/assets/images/2014/Reel-Dance-PDF_thumb.png" width="250" height="354" alt="Reel Dance Poster" class="photo right" /></a>
 
-This month we're excited to announce St Margarets first community dance, The 'Reel' Village Dance, which will take place in [Winchester Hall on Friday 3 October at 8pm](https://stmargarets.london/event/party/200705144640).
+This month we're excited to announce St Margarets first community dance, The 'Reel' Village Dance, which will take place in [Winchester Hall on Friday 3 October at 8pm](/event/party/200705144640).
 
 A fun and relaxed village dance, everyone is welcome, no dancing experience or dance partner is required - just come along and have a go and make new friends in the process!
 

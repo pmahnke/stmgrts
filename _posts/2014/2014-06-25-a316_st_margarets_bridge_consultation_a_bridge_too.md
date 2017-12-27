@@ -32,4 +32,4 @@ Commenting on the proposals, Cllr Ehmann said...
 
 -   There is a [Facebook page](http://www.facebook.com/saveourfootbridge) that is updated regularly
 -   The [change.org petition](http://www.change.org/en-GB/petitions/transport-for-london-withdraw-the-consultation-calling-for-the-removal-of-the-existing-st-margaret-s-footbridge-over-the-a316-and-its-replacement-with-toucan-crossings) asking for the consultation to be withdrawn
--   Read the original article - [TFL Consultation on A316 St Margarets Crossing](https://stmargarets.london/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html)
+-   Read the original article - [TFL Consultation on A316 St Margarets Crossing](/archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html)

@@ -21,8 +21,8 @@ excerpt: |
 
 For families, children and young people, particularly suitable for those with additional needs.
 
--   [Sunday 19 September 2 - 4pm](https://stmargarets.london/event/event/200705142563)
--   [Sunday 26 September 2 - 4pm](https://stmargarets.london/event/event/200705142564)
+-   [Sunday 19 September 2 - 4pm](/event/event/200705142563)
+-   [Sunday 26 September 2 - 4pm](/event/event/200705142564)
 
 Come and work with renowned mosaic artist Martin Cheek to create funky animals from fused glass. These will be used to decorate planters for the Croft Centre garden and will be on permanent display.
 

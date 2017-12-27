@@ -25,6 +25,6 @@ There is no membership fee. Costs £12 per session (pay as you go) or book a cou
 -   <jo@mojo-fitness.com>
 -   [www.mojo-fitness.com](http://www.mojo-fitness.com)
 
-[Mojo Fitness](https://stmargarets.london/directory/health_aNd_beauty/201511051428), run by local mum Jo Collins, offers 1-2-1, pairs or small buddy group training in both Marble Hill Park or in a training studio. Lose weight, tone up, get fitter and stronger, feel energised!
+[Mojo Fitness](/directory/health_aNd_beauty/201511051428), run by local mum Jo Collins, offers 1-2-1, pairs or small buddy group training in both Marble Hill Park or in a training studio. Lose weight, tone up, get fitter and stronger, feel energised!
 
 *Health and fitness coaching with a personal touch.*

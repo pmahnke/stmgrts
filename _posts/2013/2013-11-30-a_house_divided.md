@@ -70,4 +70,4 @@ The Bible suggests that any house divided against itself shall not stand - and s
 </div>
 Nervous residents will be pleased to hear that the parish boundary in North St Margarets was recently moved southwards to the middle of the A316 - so if a bunch of 'bound-beating' clerics with a ladder start tapping on your bedroom window in the early hours of the morning you can safely tell them to cleric elsewhere.
 
-[1] For a fuller description of St Margaret and her many miracles please look at this previous article [The Miracles of Saint Margarets](https://stmargarets.london/archives/2010/12/the_miracles_of_saint_margarets.html)
+[1] For a fuller description of St Margaret and her many miracles please look at this previous article [The Miracles of Saint Margarets](/archives/2010/12/the_miracles_of_saint_margarets.html)

@@ -18,5 +18,5 @@ To mark the launch of the second phase of Village Planning, local 'question-time
 
 #### More Information
 
--   [10 February 2015 - 6.30 to 8pm at the Turks Head Pub](https://stmargarets.london/event/meeting/200705144860)
+-   [10 February 2015 - 6.30 to 8pm at the Turks Head Pub](/event/meeting/200705144860)
 -   To learn about the Village Plans please go to: [www.richmond.gov.uk/village\_plans](http://www.richmond.gov.uk/village_plans)

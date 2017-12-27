@@ -23,6 +23,6 @@ This is a completely free event to attend at our shop in Twickenham.
 </div>
 #### Details
 
--   [Thursday 12 May 2011 - 7.30pm until 9.30pm](https://stmargarets.london/event/event/200705142752)
+-   [Thursday 12 May 2011 - 7.30pm until 9.30pm](/event/event/200705142752)
 -   BOOK EARLY AS PLACES ARE EXTREMELY LIMITED AND FILL UP VERY FAST!!
 -   To book a place at the tasting please e-mail <zeph@realale.com>.

@@ -8,6 +8,6 @@ date: 2008-12-10 08:14:53
 
 ---
 
-You are all invited to the [Sugar T & The Swells Christmas Party](https://stmargarets.london/event/show/200705142015) at the Turks Head on Thursday, 18<sup>th</sup> December.
+You are all invited to the [Sugar T & The Swells Christmas Party](/event/show/200705142015) at the Turks Head on Thursday, 18<sup>th</sup> December.
 
 It will be in the main bar, it's *free* and the music will be from around 8.30 till late.

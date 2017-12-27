@@ -10,4 +10,4 @@ date: 2009-06-24 08:42:22
 
 Discuss Richmond Council plans to change the school to a two form entry school with classes from Reception to Year 6.
 
-[Meeting starts at 7pm on 25 June.](https://stmargarets.london/event/meeting/200705142160)
+[Meeting starts at 7pm on 25 June.](/event/meeting/200705142160)

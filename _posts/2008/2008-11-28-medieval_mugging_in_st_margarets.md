@@ -49,6 +49,6 @@ The North St Margarets Mummers Play breaks the tradition by using men, women and
 > 
  Although in the past the Mummers Plays would be performed all around a district from the finest country house to the humblest pub, the North St. Margarets Mummers Play is playing only once. However, next year ... ?
 
-<strong>You are invited to join us to welcome in Christmas in medieval style. The play starts at [4.15pm on Saturday December 6th in the Church Hall, Northcote Road](https://stmargarets.london/event/play/200705142010). Admission is free... although the ragamuffins would appreciate a few shiny coins -- and the play is entirely suitable for children and adults of all ages. It lasts for approximately 25 minutes. Refreshments of a suitably seasonable kind will be available.
+<strong>You are invited to join us to welcome in Christmas in medieval style. The play starts at [4.15pm on Saturday December 6th in the Church Hall, Northcote Road](/event/play/200705142010). Admission is free... although the ragamuffins would appreciate a few shiny coins -- and the play is entirely suitable for children and adults of all ages. It lasts for approximately 25 minutes. Refreshments of a suitably seasonable kind will be available.
 
 To reserve your seat please ring Old Father Time on 020 8892 5211.</strong>

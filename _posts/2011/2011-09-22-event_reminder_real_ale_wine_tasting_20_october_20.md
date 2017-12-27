@@ -18,7 +18,7 @@ All of our wines cannot be found in supermarkets, are sourced for their uniquene
 
 We also hope to have a local food producer, subject to their availability.
 
-This is a completely free event to attend at our shop in Twickenham on [Thursday 20 October 2011 from 7.30pm until 9.30pm.](https://stmargarets.london/event/event/200705143062)
+This is a completely free event to attend at our shop in Twickenham on [Thursday 20 October 2011 from 7.30pm until 9.30pm.](/event/event/200705143062)
 
 PLEASE NOTE THAT OUR TASTINGS BOOK UP VERY QUICKLY. YOU ARE ADVISED TO BOOK TODAY!
 

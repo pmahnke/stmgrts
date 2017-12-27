@@ -10,7 +10,7 @@ date: 2008-12-10 18:44:15
 
 <img src="/assets/images/2005/snowflake-thumb.jpg"  class="right" width="250" alt="snowflake"/>
 
-Don't miss the amazing, wonderful [Christmas Fair](https://stmargarets.london/event/fair/200705142013) in Crown Road Friday, 12<sup>th</sup> December 4:30pm – 9:30pm.
+Don't miss the amazing, wonderful [Christmas Fair](/event/fair/200705142013) in Crown Road Friday, 12<sup>th</sup> December 4:30pm – 9:30pm.
 
 There is a great program with:
 

@@ -12,7 +12,7 @@ date: 2011-06-07 08:06:05
 
 #### CROWN ROAD ST MARGARETS COMMUNITY FAIR
 
-[Sunday 12 June - from 11 am.](https://stmargarets.london/event/fair/200705142754)
+[Sunday 12 June - from 11 am.](/event/fair/200705142754)
 
 *A day for family fun and entertainment*
 

@@ -21,7 +21,7 @@ excerpt: |
 
 *World music festival on Richmond Riverside, Terrace just North of Richmond Bridge*
 
-Richmond Riverside comes alive [from 1 to 8pm, Saturday, 20 August 2011](https://stmargarets.london/event/concert/200705142986) to the sights and sounds of live music and dance from across the globe. Now in its sixteenth year, this much-loved festival offers the borough's residents and world music enthusiasts eight hours of fantastic free entertainment.
+Richmond Riverside comes alive [from 1 to 8pm, Saturday, 20 August 2011](/event/concert/200705142986) to the sights and sounds of live music and dance from across the globe. Now in its sixteenth year, this much-loved festival offers the borough's residents and world music enthusiasts eight hours of fantastic free entertainment.
 
 Grab your picnic basket and dancing shoes and head down to On the Edge.
 

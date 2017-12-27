@@ -16,7 +16,7 @@ A Treatment & Training programme where senior consultants from Great Ormond Stre
 
 Our ambition is to set up a St Margaret's community initiative to sponsor one of FRODO's Treatment & Training programmes. It costs £25,000 to directly help 25 children to a new life and to support a further 75.
 
-#### [FRODO Kids - Presentation; Winchester Hall: Thursday 5 June, 7.30-8.30pm](https://stmargarets.london/event/auction/200705141854)
+#### [FRODO Kids - Presentation; Winchester Hall: Thursday 5 June, 7.30-8.30pm](/event/auction/200705141854)
 
 On Thursday 5 June we will be running a short presentation on the charity with the aim of inspiring others to join in the endeavour. There are a number of things people have already committed to doing, as starters;
 

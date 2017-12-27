@@ -16,4 +16,4 @@ As the culmination of a two-week Twickenham Riverside festival, Carnival will op
 
 From 1-5pm.
 
--   [More information](https://stmargarets.london/event/fair/200705143403)
+-   [More information](/event/fair/200705143403)

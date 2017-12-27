@@ -18,7 +18,7 @@ excerpt: |
 ---
 
 <div markdown="1" class="box">
-Martyn Day's article [Me No See RWC Legacy](https://stmargarets.london/archives/2015/08/me_no_see_rwc_legacy.html) was picked up by The Guardian on 17 August 2015.
+Martyn Day's article [Me No See RWC Legacy](/archives/2015/08/me_no_see_rwc_legacy.html) was picked up by The Guardian on 17 August 2015.
 
 </div>
 Drunken fans, traffic chaos, rubbish everywhere - Richmond council wants pubs to close early, but some locals think there should be more of a legacy in return.

@@ -23,7 +23,7 @@ Visit the Richmond Volunteering Fair
 
 #### More information
 
--   [9 May 2013 from 1:00-7:00pm](https://stmargarets.london/event/fair/200705143876)
+-   [9 May 2013 from 1:00-7:00pm](/event/fair/200705143876)
 -   Clarendon Hall, York House, Richmond Road Twickenham, TW1 3AA
 -   [www.volunteeringrichmond.org.uk/vfair.html](http://www.volunteeringrichmond.org.uk/vfair.html)
 -   0300 365 9940

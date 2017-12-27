@@ -33,7 +33,7 @@ excerpt: |
 
 <a href="/assets/images/2011/SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
 
-On [Sunday, 5<sup>th</sup> June 2011 from 2 to 9.30 pm](https://stmargarets.london/event/fair/200705142775) (gates open 1pm).
+On [Sunday, 5<sup>th</sup> June 2011 from 2 to 9.30 pm](/event/fair/200705142775) (gates open 1pm).
 
 > "a careless song, with a little nonsense in it now and then, does not Misbecome a monarch"
 
@@ -58,6 +58,6 @@ Proceeds form the event are towards the continued renovation and maintenance of 
 #### Details
 
 -   Tickets £25 children under 5 free
--   Purchase online at: [www.strawberryhillhouse.org.uk](http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=26) or [Richmond and Twickenham Jazz Club](https://stmargarets.london/directory/music/200802050810)
+-   Purchase online at: [www.strawberryhillhouse.org.uk](http://www.strawberryhillhouse.org.uk/event-tickets.php?eid=26) or [Richmond and Twickenham Jazz Club](/directory/music/200802050810)
 -   Enquiries 0208 286 3242
--   [Download a brochure](https://stmargarets.london/images/SHT035_jazz_2.pdf)
+-   [Download a brochure](/images/SHT035_jazz_2.pdf)

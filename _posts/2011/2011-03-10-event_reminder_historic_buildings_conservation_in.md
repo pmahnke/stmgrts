@@ -17,7 +17,7 @@ excerpt: |
 
 Across the country our legacy of old buildings is under threat. What can be done to save it? What skills do we need?
 
-Join us for a [special evening on Wednesday 23 March 2011](https://stmargarets.london/event/event/200705142724) to hear from national experts about the dramas and triumphs of building conservation. And find out how you can get involved!
+Join us for a [special evening on Wednesday 23 March 2011](/event/event/200705142724) to hear from national experts about the dramas and triumphs of building conservation. And find out how you can get involved!
 
 The event will be chaired by **Sir Donald Insall**, renowned architect and Patron of the Environment Trust.
 

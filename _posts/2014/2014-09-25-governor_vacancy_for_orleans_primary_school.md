@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-[Orleans Primary School](https://stmargarets.london/directory/school/200506280125) has a vacancy for a Local Authority Governor. Governors are vital to the running of the school and it is exciting being involved in new developments, helping the school improve and meet its targets. Having recently retained our outstanding rating by Ofsted, the school is striving to maintain these high standards and continue to improve while ensuring the successful transition to a 2 form entry primary school. Governors need to have the time to commit to full governors meetings, committee meetings and other tasks, at least some of which take place during school hours. We are looking for individuals who have particular skills or interest in finance and in health and safety, but most of all we need someone who is passionate about school improvement.
+[Orleans Primary School](/directory/school/200506280125) has a vacancy for a Local Authority Governor. Governors are vital to the running of the school and it is exciting being involved in new developments, helping the school improve and meet its targets. Having recently retained our outstanding rating by Ofsted, the school is striving to maintain these high standards and continue to improve while ensuring the successful transition to a 2 form entry primary school. Governors need to have the time to commit to full governors meetings, committee meetings and other tasks, at least some of which take place during school hours. We are looking for individuals who have particular skills or interest in finance and in health and safety, but most of all we need someone who is passionate about school improvement.
 
 *Please note that Local Authority governors should not be parents or staff of the school.*
 

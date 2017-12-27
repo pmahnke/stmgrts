@@ -19,7 +19,7 @@ The St Margarets Elastic Band and St Stephens Community Choir are doing an Easte
 
 #### More Information
 
--   [Tuesday 26<sup>th</sup> March from 7.30 till 10.00](https://stmargarets.london/event/show/200705143834)
+-   [Tuesday 26<sup>th</sup> March from 7.30 till 10.00](/event/show/200705143834)
 -   St Stephen's School Hall (entrance on Chertsey Road)
 -   Tickets £5
 -   to reserve a table, email: <liz@lizvarrall.com> or call 020 8892 6433

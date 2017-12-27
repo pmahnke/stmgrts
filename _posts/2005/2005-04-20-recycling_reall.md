@@ -14,8 +14,8 @@ The *St Margarets' Traders Association* has applied to the Richmond Council for 
 
 -   Help raise awareness about the importance of recycling
 -   Keep the site clean and tidy
--   Use the money to maintain the hanging baskets for 2006 (see our article, [Hanging Baskets Coming Soon](https://stmargarets.london/archives/2005/04/hanging_baskets.html))
+-   Use the money to maintain the hanging baskets for 2006 (see our article, [Hanging Baskets Coming Soon](/archives/2005/04/hanging_baskets.html))
 
-Do you think this is a good idea? [Vote on our poll.](https://stmargarets.london/cgi-bin/poll.cgi?pollname=recycle)
+Do you think this is a good idea? [Vote on our poll.](/cgi-bin/poll.cgi?pollname=recycle)
 
-[View results.](https://stmargarets.london/cgi-bin/poll.cgi?pollname=recycle&amp;action=results)
+[View results.](/cgi-bin/poll.cgi?pollname=recycle&amp;action=results)

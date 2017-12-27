@@ -7,8 +7,8 @@ category: around_town
 date: 2014-06-12 23:21:58
 excerpt: |
     <a href="/assets/images/2014/DDDOGERS_Anzio_landings.jpg" title="See larger version of - Anzio landings"><img src="/assets/images/2014/DDDOGERS_Anzio_landings_thumb.jpg" width="150" height="145" alt="Anzio landings" class="photo right" /></a>
-    
-    
+
+
     On the 6<sup>th</sup> June 1944, as units of the British 2<sup>nd</sup> Army and their allies stormed ashore on the beaches of Normandy, men of the British 8<sup>th</sup> Army, the Desert Rats, and their U.S allies were liberating Rome. One campaign is remembered and honoured to this day. The other is forgotten.
 
 ---
@@ -18,10 +18,10 @@ excerpt: |
 >  Eighth Army scroungers and their tanks,
 >  We live in Rome, among the Yanks.
 >  We are the D-Day Dodgers, way out in Italy."
-> 
+>
 >  <a href="/assets/images/2014/DDDOGERS_Anzio_landings.jpg" title="See larger version of - Anzio landings"><img src="/assets/images/2014/DDDOGERS_Anzio_landings_thumb.jpg" width="150" height="145" alt="Anzio landings" class="photo right" /></a>
-> 
-> 
+>
+>
  On the 6<sup>th</sup> June 1944, as units of the British 2<sup>nd</sup> Army and their allies stormed ashore on the beaches of Normandy, men of the British 8<sup>th</sup> Army, the Desert Rats, and their U.S allies were liberating Rome. One campaign is remembered and honoured to this day. The other is forgotten.
 
 <a href="/assets/images/2014/DDDOGERS_spike_milligan.jpg" title="See larger version of - spike milligan"><img src="/assets/images/2014/DDDOGERS_spike_milligan_thumb.jpg" width="150" height="84" alt="spike milligan" class="photo right" /></a>
@@ -39,14 +39,16 @@ The sense of umbrage amongst the troops was compounded by a rumour that Lady Ast
 >  Showed us the sights and gave us tea,.
 >  We all sang songs, the beer was free.
 >  We are the D-Day Dodgers, way out in Italy
-> 
+>
  It was set to the tune of 'Lili Marlene', well known to the Desert Rats from their time in the western desert, and was written by Lance-Sergeant Harry Pynn who was with the 79<sup>th</sup> Division serving south of Bologna.
 
 <div markdown="1" class="box">
+
 The lyrics of the song are sometimes credited to Major Hamish Henderson of the 51<sup>st</sup> Highland Division although some researchers say that he only collected the various versions that were circulating around the Italian front at the time.
 
 </div>
-<a href="/assets/images/2014/DDDOGERS_dodgers_take_cover..jpg" title="See larger version of - dodgers take cover."><img src="/assets/images/2014/DDDOGERS_dodgers_take_cover_thumb." width="150" height="112" alt="dodgers take cover." class="photo left" /></a>
+
+<a href="/assets/images/2014/DDDOGERS_dodgers_take_cover.jpg" title="See larger version of - dodgers take cover."><img src="/assets/images/2014/DDDOGERS_dodgers_take_cover_thumb.jpg" width="150" height="112" alt="dodgers take cover." class="photo left" /></a>
 
 The song became very popular not only amongst the troops in Italy but also by folk singers who took it up after the war. It has since been covered by Ian Campbell, the Clancy Brothers with Tommy Makem, Hamish Imlach, Ian Robb, Pete Seeger and countless others.
 

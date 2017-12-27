@@ -18,4 +18,4 @@ LBRUT is currently offering assistance with seeking the views of under-represent
 
 If you would like to be kept informed of future developments please contact <allianceupdate@btinternet.com>
 
-[Take the Stage 2 Survey now.](https://stmargarets.london/sma_survey/index.cgi)
+[Take the Stage 2 Survey now.](/sma_survey/index.cgi)

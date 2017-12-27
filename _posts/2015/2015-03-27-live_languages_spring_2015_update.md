@@ -19,6 +19,6 @@ There are a couple of new spaces available on weekday mornings from Easter so co
 -   Places strictly limited
 -   <infolivelanguages@gmail.com>
 -   07855 528 483
--   [directory listing](https://stmargarets.london/directory/school/201304231650)
+-   [directory listing](/directory/school/201304231650)
 
 *I also do bespoke private languages tutoring in Spanish, German, French and English as a foreign language from primary through to degree level. Adults, children, individuals and groups are all warmly welcomed, and I am available to travel to offices or schools if there is enough interest.*

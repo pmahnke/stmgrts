@@ -6,17 +6,18 @@ commentfile: 2011-04-14-changes_to_the_richmondcard_parking_scheme
 category: news
 date: 2011-04-14 14:36:17
 excerpt: |
-    <img src="/assets/images/2011/richmondcard_image" width="150" class="right" alt="parking card" />
-    
+
+    <a href="/assets/images/2017/richmond_card.png" title="Click for a larger image"><img src="/assets/images/2017/richmond_card-thumb.png" width="150" alt="Image - richmond_card"  class="photo right"/></a>
+
     New simpler parking charges are being introduced during April/May; the changes remove the CO2 tax linkage on parking tariffs and introduces for residents the opportunity to have 30 minutes free parking or a discount on the general tariffs applicable for the car park/on street location. By using a Richmond Card residents will receive 10% discount and for those residents over 75 years old the discount will increase to 20%.
-    
+
     All new Richmond Cards will be issued based on these changes.
-    
-    
+
+
 
 ---
 
-<img src="/assets/images/2011/richmondcard_image" width="150" class="right" alt="parking card" />
+<a href="/assets/images/2017/richmond_card.png" title="Click for a larger image"><img src="/assets/images/2017/richmond_card-thumb.png" width="250" alt="Image - richmond_card"  class="photo right"/></a>
 
 New simpler parking charges are being introduced during April/May; the changes remove the CO2 tax linkage on parking tariffs and introduces for residents the opportunity to have 30 minutes free parking or a discount on the general tariffs applicable for the car park/on street location. By using a Richmond Card residents will receive 10% discount and for those residents over 75 years old the discount will increase to 20%.
 

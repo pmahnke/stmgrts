@@ -10,7 +10,7 @@ date: 2009-03-06 08:59:32
 
 Come dance with the *60's All-Stars* who are comprised of members from the Kinks, Foundations and George Harrison Band!
 
-[Friday 20 March, 7.30pm at Winchester Hall](https://stmargarets.london/event/show/200705142071)
+[Friday 20 March, 7.30pm at Winchester Hall](/event/show/200705142071)
 
 In aid of *The Royal Marsden Hospital*.
 

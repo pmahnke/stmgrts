@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2013/Strawberry-Summer-Ball-flyer.jpg" title="See larger version of - Strawberry Summer Ball flyer"><img src="/assets/images/2013/Strawberry-Summer-Ball-flyer_thumb.jpg" width="150" height="212" alt="Strawberry Summer Ball flyer" class=" right" /></a>
 
-Step back in time and enjoy an evening of dancing at the Strawberry Summer Ball on [Friday 28 June 2013 from 7.15pm to midnight](https://stmargarets.london/event/event/200705143836) at Horace Walpole's gothic castle, Strawberry Hill, Twickenham.
+Step back in time and enjoy an evening of dancing at the Strawberry Summer Ball on [Friday 28 June 2013 from 7.15pm to midnight](/event/event/200705143836) at Horace Walpole's gothic castle, Strawberry Hill, Twickenham.
 
 Horace Walpole spent many hours enjoying festivities and Lady Waldegrave established a tradition of hosting magnificent balls at Strawberry Hill, attended by the leading lights of the 1800s.
 

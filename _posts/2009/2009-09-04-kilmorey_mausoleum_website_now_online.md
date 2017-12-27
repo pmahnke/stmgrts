@@ -27,4 +27,4 @@ It contains all sorts of information regarding the building and the grounds, ope
 
 Visit the site at [sites.google.com/site/kilmoreymausoleum](http://sites.google.com/site/kilmoreymausoleum/)
 
-Also, the mausoleum will be [open on Saturday 19<sup>th</sup> September](https://stmargarets.london/event/exhibition/200705142204) -- free admission.
+Also, the mausoleum will be [open on Saturday 19<sup>th</sup> September](/event/exhibition/200705142204) -- free admission.

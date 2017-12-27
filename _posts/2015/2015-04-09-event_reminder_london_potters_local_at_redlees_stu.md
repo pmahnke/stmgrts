@@ -27,5 +27,5 @@ In total, there will be 18 artists showing in the gallery, and 5 in the courtyar
 #### More Information
 
 -   The Gallery at Redlees Studios, Redlees Park, Worton Road. TW7 6DW
--   [Saturday 25 April, 11am-6pm , Sunday 26 April 11am-5pm](https://stmargarets.london/event/exhibition/200705144964)
+-   [Saturday 25 April, 11am-6pm , Sunday 26 April 11am-5pm](/event/exhibition/200705144964)
 -   Free refreshments, free parking , wheel-chair access

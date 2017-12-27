@@ -15,4 +15,4 @@ excerpt: |
 
 With Tesco closed until 15 February 2014, it's the perfect time to find out what your local traders can offer you. Many of them have special deals and promotions, January sales and Richmond Card offers to take advantage of right now!
 
-[Get all the details on MyStMargarets.com](https://stmargarets.london/l/ePNJ0)
+[Get all the details on MyStMargarets.com](/l/ePNJ0)

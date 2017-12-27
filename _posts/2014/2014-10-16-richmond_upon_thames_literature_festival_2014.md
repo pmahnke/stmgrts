@@ -22,4 +22,4 @@ The 23<sup>rd</sup> annual Richmond Literature Festival will run throughout Nove
 
 -   To see the full festival line-up please visit [www.richmondliterature.com](http://www.richmondliterature.com)
 -   Book tickets, or call 020 8831 6494
--   [St Margarets Community Website event listings](https://stmargarets.london/directory/art/200610191449)
+-   [St Margarets Community Website event listings](/directory/art/200610191449)

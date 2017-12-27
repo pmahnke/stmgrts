@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-Friday, 2 June at the Queen Charlotte Hall, as part of the RACC series of Friday evening Jazz events promoted by the Jazz faculty, RACC are proud to present the [Mexican Hat Dance](https://stmargarets.london/event/Concert/200604230626) -- a Mexican influenced evening of Jazz featuring a host band plus guest performers.
+Friday, 2 June at the Queen Charlotte Hall, as part of the RACC series of Friday evening Jazz events promoted by the Jazz faculty, RACC are proud to present the [Mexican Hat Dance](/event/Concert/200604230626) -- a Mexican influenced evening of Jazz featuring a host band plus guest performers.
 
 -   Come and listen and dance to a great host band with an extended timbale section and brass front line.
 -   Eat Mexican food and drink Mexican beer.

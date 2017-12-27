@@ -66,6 +66,6 @@ Most of the groups weren't discouraged by the lack of adequate PA systems. They 
 Mean, moody, magnificent - and playing American Fender guitars! (Sorry about the cigarette. It's what you had to do in those days to look mean, moody and magnificent.)
 
 </div>
-<em>Read part 2 of [Rock Around The Embargo](https://stmargarets.london/archives/2014/07/rock_around_the_embargo_part_2.html</em>)
+<em>Read part 2 of [Rock Around The Embargo](/archives/2014/07/rock_around_the_embargo_part_2.html)</em>
 
 <cite>-- from Martyn Day</cite>

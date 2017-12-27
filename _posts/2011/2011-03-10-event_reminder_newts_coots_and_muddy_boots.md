@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2011/atenborough.jpg" title="See larger version of - Sir David Attenborough and the Great Crested Newt"><img src="/assets/images/2011/atenborough_thumb.jpg" width="150" height="228" alt="Sir David Attenborough and the Great Crested Newt" class=" right" /></a>
 
-*A [special lecture event for children Saturday 14<sup>th</sup> May 2011](https://stmargarets.london/event/event/200705142723) at 2.30pm Duke St Baptist Church, Richmond...*
+*A [special lecture event for children Saturday 14<sup>th</sup> May 2011](/event/event/200705142723) at 2.30pm Duke St Baptist Church, Richmond...*
 
 A Natural History of Richmond upon Thames in 5 objects chaired by Sir David Attenborough and the Great Crested Newt also starring ...
 

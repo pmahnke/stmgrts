@@ -8,7 +8,7 @@ date: 2008-09-04 09:10:37
 
 ---
 
-There will be a [Kumon Open Day](https://stmargarets.london/event/meeting/200705141903) on the 28<sup>th</sup> of September in the
+There will be a [Kumon Open Day](/event/meeting/200705141903) on the 28<sup>th</sup> of September in the
 St Margarets Roman Catholic Church library from 2 to 4 pm.
 
 Please come along if you are interested.

@@ -17,7 +17,7 @@ excerpt: |
 
 <img src="/assets/images/2012/full_of_life_title_and_date_-_small_v2.jpg" width="150" alt="Full of Life Fair 2012"  class="photo right"  />
 
-<em>A celebration event for Richmond's senior residents [10am - 4pm on 2 October 2012](https://stmargarets.london/event/fair/200705143613</em>)
+<em>A celebration event for Richmond's senior residents [10am - 4pm on 2 October 2012](/event/fair/200705143613)</em>
 
 Building on the success of last year's Full of Life Fair, which was attended by over 500 senior residents, the Council is inviting the borough's older residents and carers to its annual Full of Life Fair. The fair aims to provide useful information and advice to residents on how to access the necessary support and information to live full and active later lives.
 

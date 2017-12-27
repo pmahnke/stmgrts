@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2010/DuckPondMarketRichmondPoste.jpg" title="See larger version of - Duck Pond Market Poster"><img src="/assets/images/2010/DuckPondMarketRichmondPoste_thumb.jpg" width="106" height="150" alt="Duck Pond Market Poster" class="photo right" /></a>
 
-[Duck Pond Market](http://www.duckpondmarket.co.uk/duckpondmarket.co.uk/Richmond_DPM.html) is going to trial two Sundays in Heron Square, where the Saturday market is held, in Richmond. The two dates are [Sunday the 28th of November](https://stmargarets.london/event/event/200705142645) and [Sunday the 19th of December](https://stmargarets.london/event/event/200705142646) from 10.00am to 3.00pm.
+[Duck Pond Market](http://www.duckpondmarket.co.uk/duckpondmarket.co.uk/Richmond_DPM.html) is going to trial two Sundays in Heron Square, where the Saturday market is held, in Richmond. The two dates are [Sunday the 28th of November](/event/event/200705142645) and [Sunday the 19th of December](/event/event/200705142646) from 10.00am to 3.00pm.
 
 If these two dates go well, they will propose a regular weekly Sunday Duck Pond Market.
 

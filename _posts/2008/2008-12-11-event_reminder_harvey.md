@@ -30,4 +30,4 @@ Director John Gilbert says: "The play works best in the period in which it's wri
 
 > "In 1950 Harvey became a memorable film starring James Stewart. As Elwood shares his ... well, idiosyncratic outlook, its Pulitzer Prize credentials still sparkle through just as superbly. We expect it to become this year's top pre-Christmas present, and given its likely popularity, we'll be performing 10 shows rather than our usual eight."
 
-[Harvey runs from December 12th](https://stmargarets.london/event/play/200705142016) to 20th at 7.45pm (Sun 14th 4pm, matinees Sats 13th & 20th 3pm, no show Weds 17th). Box office 020 8744 0547 for bookings, membership and more details.
+[Harvey runs from December 12th](/event/play/200705142016) to 20th at 7.45pm (Sun 14th 4pm, matinees Sats 13th & 20th 3pm, no show Weds 17th). Box office 020 8744 0547 for bookings, membership and more details.

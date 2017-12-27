@@ -60,4 +60,4 @@ Queen Elizabeth 1<sup>st</sup> died on a Thursday - 24<sup>th</sup> March 1603. 
 
 <cite>-- from Martyn Day</cite>
 
-[Originally published in 2011](https://stmargarets.london/archives/2011/03/queen_elizabeths_ghost.html)
+[Originally published in 2011](/archives/2011/03/queen_elizabeths_ghost.html)

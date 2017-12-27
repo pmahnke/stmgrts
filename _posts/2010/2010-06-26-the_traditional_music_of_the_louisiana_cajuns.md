@@ -21,7 +21,7 @@ excerpt: |
 
 <cite>Pierre Varnon Daigle</cite>
 
-The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand Dérangement". (New readers will have to check out [last week's article](https://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.))
+The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand Dérangement". (New readers will have to check out [last week's article](/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html.))
 
 Over the centuries the performance of traditional Cajun music has evolved from solo singers, to singers with triangles, to singers with fiddles up to its current form with fiddlers, guitar players, triangle players and accordionists.
 

@@ -8,7 +8,7 @@ date: 2010-09-10 08:33:50
 excerpt: |
     <a href="/assets/images/2010/220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="/assets/images/2010/220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
     
-    That is the story of Himalayan Balsam (<em>Impatiens glandulifera</em>) A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
+    That is the story of Himalayan Balsam (<em>Impatiens glandulifera)</em> A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
     
 
 ---
@@ -19,7 +19,7 @@ excerpt: |
 
 > Lizzie was an old and dear friend. One day she introduced me to Laya, one of her close relatives from India. Laya was very nice - tall and elegant and in many ways very similar to dear old Lizzie. When Laya mentioned that she was looking for somewhere to stay I offered her my spare room. All seemed well until I discovered that Laya had spread her stuff into the living room, then the bathroom and then the kitchen. Just when I thought that I should probably do something about it Laya brought in the rest of her family - and there were literally thousands of them. All tall, all elegant and all determined to kick me out of my own house. Before long they had taken over the garden, the house next door and the house next door to that. Then the entire street disappeared and everyone in it. Even dear friend Lizzie doesn't seem to be answering her phone these days.
 
-That is the story of Himalayan Balsam (<em>Impatiens glandulifera</em>) A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
+That is the story of Himalayan Balsam (<em>Impatiens glandulifera)</em> A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
 
 <a href="/assets/images/2010/busy_lizzie.jpg" title="See larger version of - Busy Lizzie"><img src="/assets/images/2010/busy_lizzie_thumb.jpg" width="98" height="150" alt="Busy Lizzie" class="photo right" /></a>
 

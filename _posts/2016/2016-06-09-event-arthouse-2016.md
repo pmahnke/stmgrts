@@ -13,7 +13,7 @@ excerpt: |
 
 <a href="/assets/images/2016/arthouse_open_studios_2016_poster.png" title="See larger version of - arthouse open studios 2016 poster"><img src="/assets/images/2016/arthouse_open_studios_2016_poster_thumb.png" width="250" height="351" alt="arthouse open studios 2016 poster" class="photo right" /></a>
 
-[Friday 24-Sunday 26 June 1 and Friday 1 July - Sunday 3 July](https://stmargarets.london/directory/art/201006031129)
+[Friday 24-Sunday 26 June 1 and Friday 1 July - Sunday 3 July](/directory/art/201006031129)
 
 Richmond borough's annual artists' open studios festival, turns 21 this year, celebrating the vast and varied creative talent across the area. Over these two weekends artists and craftspeople will open the doors to their homes and creative spaces to exhibit their work with in the unique environment in which it is created.
 

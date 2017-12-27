@@ -8,7 +8,7 @@ date: 2015-01-30 20:39:03
 
 ---
 
-<em>Some great ideas from [For Sanity's Sake](http://www.forsanityssake.com/profiles/blogs/a-new-take-on-local-winter-days-out</em>)
+<em>Some great ideas from [For Sanity's Sake](http://www.forsanityssake.com/profiles/blogs/a-new-take-on-local-winter-days-out)</em>
 
 It is more difficult to motivate ourselves to go out in winter - the days are short, it's cold and the weather can be generally uninviting. But getting out is important for both our wellbeing and that of our children and lifts our mood, helps us fight colds and infections, invigorates us and keeps us fit.
 

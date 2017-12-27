@@ -19,6 +19,6 @@ The planning meeting will be held on 15 May 2008 6:30 pm at York House.
 
 **Links**
 
--   [Original article](https://stmargarets.london/archives/2008/02/planning_application_former_crown_road_surgery.html)
+-   [Original article](/archives/2008/02/planning_application_former_crown_road_surgery.html)
 -   [Planning committee agenda](http://www.richmond.gov.uk/home/council_government_and_democracy/democratic_processes_and_events/calendar_of_meetings.htm?mgl=ieListDocuments.asp&CId=224&MId=1771&q=1)
 -   [Planning officers recommendation (pdf)](http://cabnet.richmond.gov.uk/Published/C00000224/M00001771/AI00015895/$074239FUL66CrownRoad.docA.ps.pdf)

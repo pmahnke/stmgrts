@@ -10,7 +10,7 @@ date: 2010-10-14 22:28:16
 
 <a href="/assets/images/2010/Sheesh_Mahal_invite.jpg" title="See larger version of - download flier"><img src="/assets/images/2010/Sheesh_Mahal_invite_thumb.jpg" width="150" height="105" alt="download flier" class="photo right" /></a>
 
-The David Adams Leukaemia Appeal is a locally run charity, based in the heart of St Margarets, raising funds for The Royal Marsden Hospital. They are hosting [a charity evening, at the Sheesh Mahal in Twickenham on the 28<sup>th</sup> October 2010](https://stmargarets.london/event/party/200705142574).
+The David Adams Leukaemia Appeal is a locally run charity, based in the heart of St Margarets, raising funds for The Royal Marsden Hospital. They are hosting [a charity evening, at the Sheesh Mahal in Twickenham on the 28<sup>th</sup> October 2010](/event/party/200705142574).
 
 The evening costs just £20 and includes a two course dinner, poppadoms, tea/coffee and a donation to The Royal Marsden. There will also be a chance to win lovely prizes at the raffle. These dinners are always successful and tickets sell out quickly.
 

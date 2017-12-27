@@ -30,5 +30,5 @@ Refreshments available.
 
 #### More Information
 
--   [Saturday September 29<sup>th</sup>, from 11am to 4pm](https://stmargarets.london/event/event/200705143577)
+-   [Saturday September 29<sup>th</sup>, from 11am to 4pm](/event/event/200705143577)
 -   Cambridge Park Bowls Club, Twickenham TW1 2PG

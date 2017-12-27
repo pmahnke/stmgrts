@@ -10,7 +10,7 @@ date: 2009-12-03 22:08:01
 
 <img src="/assets/images/2009/snowflake-thumb.jpg" alt="snowflake" class="right" />
 
-Don't miss the [Crown Road Christmas Fair 2009](https://stmargarets.london/event/fair/200705142248) this Sunday, 6 December 2009. The event starts at 11.00am and closes at 4.00pm when St Stephen's Church will be holding an open air Carol Service.
+Don't miss the [Crown Road Christmas Fair 2009](/event/fair/200705142248) this Sunday, 6 December 2009. The event starts at 11.00am and closes at 4.00pm when St Stephen's Church will be holding an open air Carol Service.
 
 Please join us for a day of family fun and entertainment:
 

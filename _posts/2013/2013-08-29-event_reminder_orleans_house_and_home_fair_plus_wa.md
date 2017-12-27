@@ -13,9 +13,9 @@ excerpt: |
 
 <a href="/assets/images/2013/Webfriendly-version_poster.JPG" title="See larger version of - Orleans House....and Home - Late summer Fair"><img src="/assets/images/2013/Webfriendly-version_poster_thumb.JPG" width="150" height="212" alt="Orleans House....and Home - Late summer Fair" class="photo right" /></a>
 
-As well as an exciting host of local designers/makers at next weekends [Orleans House and Home Fair](https://stmargarets.london/event/fair/200705144132), there is also a jam packed programme of FREE events for the whole family.
+As well as an exciting host of local designers/makers at next weekends [Orleans House and Home Fair](/event/fair/200705144132), there is also a jam packed programme of FREE events for the whole family.
 
-Whether coming to browse amongst the stalls of wonderful crafts people, such as ceramicist Charlotte Stockley, furniture maker Derek Pearce and quirky stationers Lollipop or to visit one of our great exhibitions, we hope there will be something for everyone at [Orleans House Gallery](https://stmargarets.london/directory/gallery/200506150208) across this late summer weekend.
+Whether coming to browse amongst the stalls of wonderful crafts people, such as ceramicist Charlotte Stockley, furniture maker Derek Pearce and quirky stationers Lollipop or to visit one of our great exhibitions, we hope there will be something for everyone at [Orleans House Gallery](/directory/gallery/200506150208) across this late summer weekend.
 
 *All activities are FREE and no booking is necessary.*
 

@@ -10,7 +10,7 @@ date: 2005-04-28 13:47:22
 
 Dear Friends and Neighbours,
 
-Welcome to the *St Margarets Community Web Site* ([www.stmargarets.london](www.stmargarets.london)) This is a work in progress, begun by a group of friends, neighbours and some of the Traders. Please feel free to contribute in anyway.
+Welcome to the *St Margarets Community Web Site* - [stmargarets.london](). This is a work in progress, begun by a group of friends, neighbours and some of the Traders. Please feel free to contribute in anyway.
 
 The idea is to provide a voice for St Margarets. Richmond and Twickenham have their own identity but St Margarets is not always recognised as an independent vibrant, local community. We want to celebrate that it is and to provide a way for people to connect locally.
 
@@ -24,4 +24,4 @@ We hope that you will join in.
 
 It should be great fun!
 
-Don't forget to [sign-up](https://stmargarets.london/cgi-bin/newsletter.cgi) for our *Weekly Newsletter*.
+Don't forget to [sign-up](/cgi-bin/newsletter.cgi) for our *Weekly Newsletter*.

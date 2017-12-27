@@ -14,7 +14,5 @@ The council will use the money to help cut crime and provide other local service
 
 What do you think they should do with the money?
 
-Discuss it in our [forum](https://stmargarets.london/cgi-bin/yabb/YaBB.pl?board=Council).
-
 Source: Sarah Woods (24 March 2005)
 *Council wins £1.73 million reward*, **Richmond and Twickenham Times**, Retrieved 25 March 2005, from <http://www.richmondandtwickenhamtimes.co.uk/display.var.582184.0.0.php>

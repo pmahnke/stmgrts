@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2009/police_community.jpg" title="See larger version of - working together"><img src="/assets/images/2009/police_community_thumb.jpg" width="150" height="98" alt="working together" class="photo right" /></a>
 
-[Come and meet](https://stmargarets.london/event/meeting/200705142043) the officers from the Richmond Borough Operations Command Unit of the Metropolitan Police, your Safer Neighbourhood Team officers and your local councillors. This is your chance to ask questions, discuss issues and make suggestions regarding how you would like your Ward to be policed.
+[Come and meet](/event/meeting/200705142043) the officers from the Richmond Borough Operations Command Unit of the Metropolitan Police, your Safer Neighbourhood Team officers and your local councillors. This is your chance to ask questions, discuss issues and make suggestions regarding how you would like your Ward to be policed.
 
 Mike Roe, Senior Youth Worker, will start with a short talk: *60 years of teenagers*
 

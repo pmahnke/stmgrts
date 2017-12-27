@@ -14,7 +14,7 @@ In an innovative new move PC Alan Richens will be holding a surgery in [Zorans D
 
 Over a skinny decaff latte you will be able to approach the local police with any information, concerns or questions.
 
-In an interview with the [St Margarets Community Website](https://stmargarets.london/) PC Richens said, "This is an opportunity for people to approach the police with their concerns or questions." The police are pleased to be in the high street, to be part of the local community and are grateful to Zoran for providing the space to try this out. Previously the police tried to hold surgeries in York House at the civic centre but no one came.
+In an interview with the [St Margarets Community Website](/) PC Richens said, "This is an opportunity for people to approach the police with their concerns or questions." The police are pleased to be in the high street, to be part of the local community and are grateful to Zoran for providing the space to try this out. Previously the police tried to hold surgeries in York House at the civic centre but no one came.
 
 The first surgeries will be on [Wednesday 1<sup>st</sup> March](/cgi-bin/events.cgi?key=200602220259&action=getevent) and [Wednesday 15<sup>th</sup> March](/cgi-bin/events.cgi?key=200602220260&action=getevent) between 2 and 4 pm. After that it is hoped that there will be two surgeries a month probably on a Wednesday. Watch this space for more details.
 

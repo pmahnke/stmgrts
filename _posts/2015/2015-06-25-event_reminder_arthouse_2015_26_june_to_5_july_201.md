@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="/assets/images/2015/arthouse_2015_thumb.jpg" width="250" height="187" alt="arthouse 2015" class="photo right" /></a>
 
-[Runs over the weekends of 26 to 28 June and 3 to 5 July 2015 all over Richmond Borough,](https://stmargarets.london/directory/art/201006031129)
+[Runs over the weekends of 26 to 28 June and 3 to 5 July 2015 all over Richmond Borough,](/directory/art/201006031129)
 
 ARThouse is a celebration of the wealth of creative talent that exists within the borough of Richmond upon Thames. Artists join together and exhibit their work across two summer weekends, providing visitors the chance to see the unique environment in which their art is created, celebrate local artists and buy work directly from the creator themselves.
 

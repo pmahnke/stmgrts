@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2013/FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="/assets/images/2013/FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
 
-[Join us in a celebration of original art and the handcrafted!](https://stmargarets.london/event/event/200705144199)
+[Join us in a celebration of original art and the handcrafted!](/event/event/200705144199)
 
 Ceramics, glass, fine art, sculpture, jewellery, metalworks, video installation, photography, leather accessories and more...
 

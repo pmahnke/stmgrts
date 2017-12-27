@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2012/OLDESTNOW_Blue_School.jpg" title="See larger version of - Blue School"><img src="/assets/images/2012/OLDESTNOW_Blue_School_thumb.jpg" width="150" height="85" alt="Blue School" class="photo right" /></a>
 
-<em>115 years ago, on June 26<sup>th</sup> 1897, a local paper, "The Richmond Herald" celebrated Queen Victoria's Diamond Jubilee by publishing an interview with the district's oldest inhabitant. His name was [James Harbor](https://stmargarets.london/archives/2012/05/the_oldest_inhabitant_then.html), a boot maker, and he was 93 years old. To celebrate our own Queen's Diamond Jubilee here is an interview with one of today's oldest inhabitants. He is 102 years old and has been living in this area for the last 95 years.</em>
+<em>115 years ago, on June 26<sup>th</sup> 1897, a local paper, "The Richmond Herald" celebrated Queen Victoria's Diamond Jubilee by publishing an interview with the district's oldest inhabitant. His name was [James Harbor](/archives/2012/05/the_oldest_inhabitant_then.html), a boot maker, and he was 93 years old. To celebrate our own Queen's Diamond Jubilee here is an interview with one of today's oldest inhabitants. He is 102 years old and has been living in this area for the last 95 years.</em>
 
 Sonny was born in Chiswick on 20<sup>th</sup> May 1910. When he was 7 he moved with his family to Byfield Road in Isleworth where he attended the Blue School. It was a world without central heating or indoor sanitation or electricity or free health care or a car on every drive. It was a time when children died from diphtheria and polio and the poor had to rely upon charity as Sonny remembers...
 

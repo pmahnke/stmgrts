@@ -12,7 +12,7 @@ excerpt: |
 
 *De-clutter your home, or furnish it for free, and help the environment!*
 
-The council is organising its first [Give and Take Day](https://stmargarets.london/event/Meeting/200609121032), which is a free community re-use event. It is a great opportunity for people to donate unwanted items that are taking up room in the home and garage. Items donated will then be displayed for others to re-use, rather than be thrown away. Alternately if you need something for the home or garden come along and find something for free!
+The council is organising its first [Give and Take Day](/event/Meeting/200609121032), which is a free community re-use event. It is a great opportunity for people to donate unwanted items that are taking up room in the home and garage. Items donated will then be displayed for others to re-use, rather than be thrown away. Alternately if you need something for the home or garden come along and find something for free!
 
 Everyone is welcome and it is guaranteed to be a fun day out; there will be refreshments and a competition, a play area and activities for children, plus information on recycling, composting and much more!
 

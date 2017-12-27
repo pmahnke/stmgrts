@@ -8,10 +8,10 @@ date: 2008-11-20 10:52:33
 
 ---
 
-Our [Autumn Good as New Sale will be on 29th November](https://stmargarets.london/event/meeting/200705142002) in the church hall adjacent to St Margarets Catholic Church from 12.30 pm. Items for sale include good quality clothes, bric a brac, toys and books.
+Our [Autumn Good as New Sale will be on 29th November](/event/meeting/200705142002) in the church hall adjacent to St Margarets Catholic Church from 12.30 pm. Items for sale include good quality clothes, bric a brac, toys and books.
 
 REFRESHMENTS including home-made cakes will be available.
 
 ADMISSION *only* 50p!
 
-<em>WE NEED donations of good quality bric a brac, clothes, books, CDs, toys etc (sorry, no furniture). Either bring it to the church hall from 9am on the morning or we will collect: please contact Jo Kitson 8891 2110, email [johanna\_kitson@hotmail.com](mailto:johanna_kitson@hotmail.com</em>)
+<em>WE NEED donations of good quality bric a brac, clothes, books, CDs, toys etc (sorry, no furniture). Either bring it to the church hall from 9am on the morning or we will collect: please contact Jo Kitson 8891 2110, email [johanna\_kitson@hotmail.com](mailto:johanna_kitson@hotmail.com)</em>

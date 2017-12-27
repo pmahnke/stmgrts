@@ -28,6 +28,6 @@ Following an idea started during the recent local elections it was agreed we nee
 
 The final outcome will feed into the council's Local Development Framework (LDF), and provide our new councillors with guidelines from us, on how we want to be represented.
 
-An initial meeting has been arranged for [Tuesday 6th June, 7.30 pm](https://stmargarets.london/event/Meeting/200605081437) at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
+An initial meeting has been arranged for [Tuesday 6th June, 7.30 pm](/event/Meeting/200605081437) at Winchester Hall, Winchester Road (by the Turks Head pub and St. Stephens Jnr. School). Representatives from various community groups, the police, our new councillors as well as individual residents will be attending, but we will need the views and support of as many people as possible if the project is to develop into a practical community plan.
 
 Contact Judy Maciejowska <judymaciejowska@blueyonder.co.uk> for further information.

@@ -14,4 +14,4 @@ Zippos Circus and the Richmond Council are offering a free clown show at the new
 
 *Please come down and check it out.*
 
-You can read more about the event [here](https://stmargarets.london/cgi-bin/events.cgi?key=200506221633&action=getevent).
+You can read more about the event [here](/cgi-bin/events.cgi?key=200506221633&action=getevent).

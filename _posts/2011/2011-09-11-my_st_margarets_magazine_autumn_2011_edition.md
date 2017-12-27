@@ -21,6 +21,6 @@ In this edition we meet some of our local resident authors and have the privileg
 
 <a href="/assets/images/2011/devoured_meredith.jpg" title="See larger version of - Devoured by local author Denise Meredith"><img src="/assets/images/2011/devoured_meredith_thumb.jpg" width="150" height="225" alt="Devoured by local author Denise Meredith" class="photo right" /></a>
 
-Free draw for readers of the [St Margarets Community Website's newsletter](https://stmargarets.london/cgi-bin/newsletter.cgi) - we have a signed edition of Devoured by local author Denise Meredith to give away, one lucky subscriber will be drawn at random and will receive the copy of the book.
+Free draw for readers of the [St Margarets Community Website's newsletter](/cgi-bin/newsletter.cgi) - we have a signed edition of Devoured by local author Denise Meredith to give away, one lucky subscriber will be drawn at random and will receive the copy of the book.
 
 This edition will be followed by the Christmas edition which is due for publication end November. The publishers have received many request from local residents about advertising in the magazine. If you are interested in advertising in future editions of the magazine please contact <traders@mystmargarets.com>.

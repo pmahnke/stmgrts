@@ -18,7 +18,7 @@ Here are a few things to do this October Half-term with the kids. If you know of
 #### Orleans House Gallery
 
 -   [Events and activities for 6-9 and 9-14 year olds](http://www.richmond.gov.uk/home/leisure_and_culture/arts/orleans_house_gallery/education_at_orleans_house_gallery/activities_for_children_and_families_at_orleans_house_gallery/holiday_activities_at_orleans_house_gallery/autumn_half_term_activities.htm)
--   [Once upon a time Dance workshop for 8-12 year olds](https://stmargarets.london/event/event/200705143050)
+-   [Once upon a time Dance workshop for 8-12 year olds](/event/event/200705143050)
 
 #### Koosa Kids at Whitton and Teddington Sport Centres
 
@@ -46,7 +46,7 @@ Here are a few things to do this October Half-term with the kids. If you know of
 
 #### National Childcare Trust
 
--   [NCT Halloween Disco with Diddi Dance](https://stmargarets.london/event/party/200705143061)
+-   [NCT Halloween Disco with Diddi Dance](/event/party/200705143061)
 
 #### Pottery Cafe - East Twickenham
 

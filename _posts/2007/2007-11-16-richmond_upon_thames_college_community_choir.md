@@ -11,7 +11,7 @@ date: 2007-11-16 10:39:55
 <div markdown="1" class="box">
 ### Updated information
 
-This is an older post and some of the information is out of date. Please see the directory listing for more up to date information about the [Richmond Community Choir](https://stmargarets.london/directory/music/201205311730)
+This is an older post and some of the information is out of date. Please see the directory listing for more up to date information about the [Richmond Community Choir](/directory/music/201205311730)
 
 *Thank you*
 

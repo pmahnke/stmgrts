@@ -52,7 +52,7 @@ Unlike the Small Faces who never toured America the Faces enjoyed considerable s
 
 <a href="/assets/images/2014/MCLAGAN_kim-kerrigan-ian-mclagan.jpg" title="See larger version of - kim kerrigan ian mclagan"><img src="/assets/images/2014/MCLAGAN_kim-kerrigan-ian-mclagan_thumb.jpg" width="250" height="252" alt="kim kerrigan ian mclagan" class="photo right" /></a>
 
-In 1978 he married Kim Kerrigan, former wife of the Keith Moon, the drummer with the <em>"Who"</em> and the couple moved to America. In 1994 they finally settled in Austin, Texas, where Ian and his <em>"Bump Band"</em> became part of a vibrant music scene. He was also busy as a session player with many leading artists of the time including Bruce Springsteen (<em>'Human Touch'</em> and <em>'Lucky Town'</em>), Bonnie Raitt (<em>'Light'</em>) and Carly Simon (<em>'Spy'</em>). In 1984 he toured with Bob Dylan. More recently he had been touring with Billy Bragg.
+In 1978 he married Kim Kerrigan, former wife of the Keith Moon, the drummer with the <em>"Who"</em> and the couple moved to America. In 1994 they finally settled in Austin, Texas, where Ian and his <em>"Bump Band"</em> became part of a vibrant music scene. He was also busy as a session player with many leading artists of the time including Bruce Springsteen (<em>'Human Touch'</em> and <em>'Lucky Town')</em>, Bonnie Raitt (<em>'Light')</em> and Carly Simon (<em>'Spy')</em>. In 1984 he toured with Bob Dylan. More recently he had been touring with Billy Bragg.
 
 Ian Patrick McLagan, the boy from Isleworth, won the Ivor Novell award in 1996 for his outstanding contribution to British music. In 2012 the <em>"Small Faces"</em> and the <em>"Faces"</em> were inducted into the Rock <em>'n'</em> Roll Hall of Fame.
 

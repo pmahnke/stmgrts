@@ -10,4 +10,4 @@ date: 2010-11-01 22:51:51
 
 ### What to play at the Christmas Fair?
 
-The 2010 St Margarets Christmas Fair takes place on [Sunday 5<sup>th</sup> December in Crown Road](https://stmargarets.london/event/fair/200705142573). If you are interesting in showcasing your band or group at the fair please contact Alistair at <livemusic@blueyonder.co.uk>.
+The 2010 St Margarets Christmas Fair takes place on [Sunday 5<sup>th</sup> December in Crown Road](/event/fair/200705142573). If you are interesting in showcasing your band or group at the fair please contact Alistair at <livemusic@blueyonder.co.uk>.

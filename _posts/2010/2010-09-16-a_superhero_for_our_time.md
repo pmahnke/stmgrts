@@ -7,21 +7,16 @@ category: around_town
 date: 2010-09-16 21:01:02
 excerpt: |
     <a href="/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
-    
+
     _The Return of Wilson_
-    
+
     In August Dr. Sharon Lamb from the University of Massachusetts told the annual Convention of the American Psychological Association in San Diego, California, that modern superheroes may not be the best image for boys to look up to if society wants to promote kinder, less stereotypical male behaviours.
-    
-    She said that unlike the superheroes of the past who often held ordinary day jobs and believed in social justice, the new breed are playboy millionaires who are aggressive, sarcastic and rarely speak about the virtue of doing good for humanity. She said that original superheroes like Superman, a reporter by day and the Green Lantern, a railroad engineer, were invented to fight for social justice and were a reaction to the rise of fascism. But the new superheroes only thought about themselves.
-    
-    bq. "Today's superhero is too much like an action hero who participates in non-stop violence;... When not in superhero costume, these men exploit women, flaunt bling and convey their manhood with high-powered guns. The comic book heroes of the past did fight criminals, but these were (role models) that boys could look up to and learn from because outside of their costumes, (they) were real people with real problems and many vulnerabilities."
-    
 
 ---
 
 <a href="/assets/images/2010/sharon_lamb.jpg" title="See larger version of - Sharon Lamb"><img src="/assets/images/2010/sharon_lamb_thumb.jpg" width="150" height="150" alt="Sharon Lamb" class="photo right" /></a>
 
-*The Return of Wilson*
+#### The Return of Wilson
 
 In August Dr. Sharon Lamb from the University of Massachusetts told the annual Convention of the American Psychological Association in San Diego, California, that modern superheroes may not be the best image for boys to look up to if society wants to promote kinder, less stereotypical male behaviours.
 

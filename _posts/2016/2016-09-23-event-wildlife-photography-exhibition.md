@@ -15,4 +15,4 @@ excerpt: |
 
 For one day only, photographer Amy Cooke is putting on a small fundraiser exhibition in St Margarets of her wildlife photography to raise money for an organization called [Hands At Work](http://www.handsatwork.org/).
 
-Come along to [Rock & Fairy](https://stmargarets.london/directory/health_aNd_beauty/201009031147) on Sunday, 2 October and see some amazing wildlife photos.
+Come along to [Rock & Fairy](/directory/health_aNd_beauty/201009031147) on Sunday, 2 October and see some amazing wildlife photos.

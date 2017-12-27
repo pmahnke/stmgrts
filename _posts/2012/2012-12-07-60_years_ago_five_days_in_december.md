@@ -18,4 +18,4 @@ December 1952 started very cold. London found itself covered in a thick freezing
 
 On Friday December 5th, with visibility dropping below 1 metre, cars and public transport stopped running and people, wheezing and coughing, had to grope their way through the streets. London was facing an environmental disaster the like of which they had never seen before. While higher parts of the city like Hampstead and Crystal Palace stood clear of the deadly miasma low lying areas like Richmond, Twickenham and St Margarets experienced its full horror. Local paper, "The Richmond Herald" reported;
 
--   [Continue reading **Five Days in December**](https://stmargarets.london/archives/2009/02/five_days_in_december.html) originally published 12 February 2009
+-   [Continue reading **Five Days in December**](/archives/2009/02/five_days_in_december.html) originally published 12 February 2009

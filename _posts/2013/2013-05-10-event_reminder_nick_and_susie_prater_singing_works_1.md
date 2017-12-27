@@ -17,7 +17,7 @@ excerpt: |
 
 *Sunday 7<sup>th</sup> July 2013 from 11 am - 4 pm*
 
-Come and sing with us in the beautiful Victorian [Normansfield Theatre](https://stmargarets.london/directory/theatre/201109291236). Easy to learn, uplifting, soulful harmonies. Vibrant and nourishing songs of freedom, joy and peace. Gospels and spirituals from around the world. Nick's wonderful compositions and arrangements will make your heart sing. Everything taught by ear. No need to read music. Just for the sheer joy of singing together.
+Come and sing with us in the beautiful Victorian [Normansfield Theatre](/directory/theatre/201109291236). Easy to learn, uplifting, soulful harmonies. Vibrant and nourishing songs of freedom, joy and peace. Gospels and spirituals from around the world. Nick's wonderful compositions and arrangements will make your heart sing. Everything taught by ear. No need to read music. Just for the sheer joy of singing together.
 
 Bring and share lunch. Refreshments provided.
 

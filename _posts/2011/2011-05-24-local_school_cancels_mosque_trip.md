@@ -18,7 +18,7 @@ But letters were sent to parents last week saying the year 1 trip was to be canc
 
 Jane Evans, headteacher of the school in Hartington Road, said her "first duty" was the safety of pupils at the school.
 
-<cite>-- from [The Richmond & Twickenham Times](https://stmargarets.london/l/OoYbP) - 24<sup>th</sup> May 2011
+<cite>-- from [The Richmond & Twickenham Times](/l/OoYbP) - 24<sup>th</sup> May 2011
 
 <div markdown="1" class="box">
 #### What do you think?
@@ -26,8 +26,8 @@ Jane Evans, headteacher of the school in Hartington Road, said her "first duty" 
 <a href="https://stmargarets.london/poll/TERROR/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=TERROR&amp;action=image" class="right" /></a>
 
 </p>
--   [vote in our poll](https://stmargarets.london/poll/TERROR)
--   [see the results](https://stmargarets.london/poll/TERROR/results)
+-   [vote in our poll](/poll/TERROR)
+-   [see the results](/poll/TERROR/results)
 -   leave a comment
 
 </div>

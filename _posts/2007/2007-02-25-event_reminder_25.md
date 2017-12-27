@@ -14,7 +14,7 @@ date: 2007-02-25 11:21:57
 
 It's a thriller with all the ingredients -- deliberate murder, accidental stabbings, romantic love and uncontrollable lust, plus wickedly black humour. Oh yes, and amongst all this excitement, possibly the most famous moments of poetry ever put on stage.
 
-The [production](https://stmargarets.london/event/Play/200702250521) of Hamlet now in preparation at the [Mary Wallace Theatre](https://stmargarets.london/directory/theatre/200506260340) promises to be one of the borough's major theatrical events. Director David Duff has prudently cut the script to make sure the evening's entertainment is short enough for people using public transport (~3 hours). For keen students of Shakespeare there is a special invitation to stay behind after Sunday's performance and discuss the play with the actors and director who have been working together on the script since last year.
+The [production](/event/Play/200702250521) of Hamlet now in preparation at the [Mary Wallace Theatre](/directory/theatre/200506260340) promises to be one of the borough's major theatrical events. Director David Duff has prudently cut the script to make sure the evening's entertainment is short enough for people using public transport (~3 hours). For keen students of Shakespeare there is a special invitation to stay behind after Sunday's performance and discuss the play with the actors and director who have been working together on the script since last year.
 
 So, is Hamlet mad, or putting it on? Does he really lack willpower, or is he outfoxing them all? Make up your mind when you watch the revenge story that took the world by storm.
 

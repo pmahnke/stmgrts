@@ -22,7 +22,7 @@ excerpt: |
 
 <a href="/assets/images/2008/EelPieXmas08card.jpg"><img src="/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
 
-Find something special for Christmas at [Eel Pie Island's Open Studios](https://stmargarets.london/event/exhibition/200705142011).
+Find something special for Christmas at [Eel Pie Island's Open Studios](/event/exhibition/200705142011).
 
 There will be; mosaics, pottery, jewellery, glass, prints, ceramics, sculpture, paintings, costumes, cards, cartoons and more.
 

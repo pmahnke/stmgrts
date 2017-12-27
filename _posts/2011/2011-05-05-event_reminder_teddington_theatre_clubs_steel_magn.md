@@ -21,7 +21,7 @@ In the world of Truvy's local-homegrown beauty salon, six very different women c
 
 #### Details
 
--   Days: [May 22<sup>nd</sup> to May 28th](https://stmargarets.london/event/play/200705142789)
+-   Days: [May 22<sup>nd</sup> to May 28th](/event/play/200705142789)
 -   Times: Sunday, May 22<sup>nd</sup> 6pm, Weekdays 7.45pm
 -   Ticket prices: Sunday £8/&pound;10 - Monday 2 for the price of one £10/&pound;12 - Rest of the run £10/&pound;12
 -   Location: Hampton Hill Playhouse 90 High Street Hampton Hill TW12 1NY

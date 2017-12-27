@@ -19,7 +19,7 @@ excerpt: |
 
 Check out the new spring timetable, special spring offers and information about a nordic walking workshop.
 
--   [Download timetables](https://stmargarets.london/images/pilatesplusspring2013.pdf) \[pdf\]
+-   [Download timetables](/images/pilatesplusspring2013.pdf) \[pdf\]
 
 Get in touch today
 

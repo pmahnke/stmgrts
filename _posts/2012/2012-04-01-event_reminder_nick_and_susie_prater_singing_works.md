@@ -12,7 +12,7 @@ date: 2012-04-01 10:40:04
 
 *Let Your Heart Sing!*
 
-[Sunday 13<sup>th</sup> May from 11 am to 4 pm](https://stmargarets.london/event/event/200705143210)
+[Sunday 13<sup>th</sup> May from 11 am to 4 pm](/event/event/200705143210)
 
 Come and sing with us in the beautiful Victorian Normansfield Theatre
 ([www.langdondowncentre.org.uk](http://www.langdondowncentre.org.uk) off Kingston Rd, Teddington, TW11 9PS)
@@ -27,4 +27,4 @@ All Welcome! Everything taught by ear. No need to read music just to enjoy singi
 -   Contact Pepita Payan 0208 943 4762, <joeandpep@talktalk.net> or Lucy Lister 07813 677742, <lalister@hotmail.co.uk>
 -   Please send cheques payable to P. Payan with contact details including your email address and telephone number, to 31 Victor Rd, Teddington, TW11 8SP
 
-<em>For more details of Nick and Susie Prater go to [www.nickprater.co.uk](http://www.nickprater.co.uk) or [www.naturalvoice.net](http://www.naturalvoice.net</em>)
+<em>For more details of Nick and Susie Prater go to [www.nickprater.co.uk](http://www.nickprater.co.uk) or [www.naturalvoice.net](http://www.naturalvoice.net)</em>

@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2011/BAT-poster-Sept-8.jpg" title="See larger version of - Download the poster"><img src="/assets/images/2011/BAT-poster-Sept-8_thumb.jpg" width="150" height="196" alt="Download the poster" class="photo right" /></a>
 
-Take an illustrated talk by Philip Briggs of *The London Bat Group* followed by a guided walk along the river to hear and see them. On [Thursday, 8<sup>th</sup> September 2001, starting at 8.00 pm](https://stmargarets.london/event/tour/200705142984) at the Twickenham Yacht Club.
+Take an illustrated talk by Philip Briggs of *The London Bat Group* followed by a guided walk along the river to hear and see them. On [Thursday, 8<sup>th</sup> September 2001, starting at 8.00 pm](/event/tour/200705142984) at the Twickenham Yacht Club.
 
 Bat detectors and refreshments provided.
 

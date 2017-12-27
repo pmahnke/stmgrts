@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="250" height="356" alt="St Margarets Fair comingsoon 2014" class="photo right" /></a>
 
-Don't miss the [highlight of the summer](https://stmargarets.london/event/fair/200705144148).
+Don't miss the [highlight of the summer](/event/fair/200705144148).
 
 - a full <a href="http://www.stmargaretsfair.org/schedule.html">programme</a> of entertainment throughout the day
 - starting with a popular children's '5-a-side' <a href="http://www.stmargaretsfair.org/football.html">football</a> tournament in the morning on Moormead

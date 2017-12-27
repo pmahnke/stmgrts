@@ -34,7 +34,7 @@ Also enjoy with us refreshments kindly provided by Gaia Wholefoods in the interv
 
 #### Date, time and venue:
 
--   [23<sup>rd</sup> November 2012 at 7.30pm](https://stmargarets.london/event/concert/200705143682)
+-   [23<sup>rd</sup> November 2012 at 7.30pm](/event/concert/200705143682)
 -   All Saints' Church Street, Isleworth TW7 6BE
 -   Tickets £12 - pay at the door on the night
 -   Reserve with Ester on <ester.kosar@gmail.com> or 078 2577 3179

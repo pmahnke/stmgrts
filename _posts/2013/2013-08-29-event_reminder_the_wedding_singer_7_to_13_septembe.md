@@ -20,7 +20,7 @@ It's 1985 and rock-star wannabe Robbie Hart is New Jersey's favourite wedding si
 
 #### More Information
 
--   Buy your tickets for both our [great new shows today!](https://stmargarets.london/event/play/200705144133) Call 07989 565411 or
+-   Buy your tickets for both our [great new shows today!](/event/play/200705144133) Call 07989 565411 or
     [www.twickenhamoperatics.com/tickets](http://www.twickenhamoperatics.com/tickets)
 -   <tickets@twickenhamoperatics.com>
 -   Tickets are £15 / £14 with Family tickets from £45

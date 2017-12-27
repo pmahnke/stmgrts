@@ -8,7 +8,7 @@ date: 2007-10-11 09:14:56
 
 ---
 
-In the recent St Margarets Lease Survey a number of residents indicated that they would be interested in proceeding with a lease extension within the next 6 months. We have now contacted all those who took part in the survey and those who left us their details at the meeting in the Winchester Hall on the 24 July, [see notes](https://stmargarets.london/archives/2007/08/notes_from_the_lease_extension_meeting.html).
+In the recent St Margarets Lease Survey a number of residents indicated that they would be interested in proceeding with a lease extension within the next 6 months. We have now contacted all those who took part in the survey and those who left us their details at the meeting in the Winchester Hall on the 24 July, [see notes](/archives/2007/08/notes_from_the_lease_extension_meeting.html).
 
 We recognise that a number of residents may not have been party to the survey or subsequent emails and extend the offer to proceed with the group to anyone who is interested. If you are interested in proceeding with your lease extension negotiations NOW please contact Maddie at <maddie.menzies@btopenworld.com> by 23 October.
 

@@ -16,7 +16,7 @@ date: 2005-09-07 21:39:54
 
 **Nick, what are your associations with St Margarets? Where did you go to school?**
 
-> I was born and raised in St Margarets, attending [Orleans Infants](/cgi-bin/directory.cgi?key=200506280125&action=getlisting), [St Stephens](https://stmargarets.london/cgi-bin/directory.cgi?key=200507170243&action=getlisting) and *The Unicorn School*. I have one brother and two sisters who all schooled in the area and my parents have been involved in local affairs. My mother was a founder of the *Orleans Nursery School* and my father has run businesses from offices in Richmond and St Margarets for the last 20 years.
+> I was born and raised in St Margarets, attending [Orleans Infants](/cgi-bin/directory.cgi?key=200506280125&action=getlisting), [St Stephens](/cgi-bin/directory.cgi?key=200507170243&action=getlisting) and *The Unicorn School*. I have one brother and two sisters who all schooled in the area and my parents have been involved in local affairs. My mother was a founder of the *Orleans Nursery School* and my father has run businesses from offices in Richmond and St Margarets for the last 20 years.
 
 > I have always been interested in serving the public in some part of the leisure/service industry. I have previous experience of dealing with the public from working with Grand Illusions in St Margarets and a period in Western Canada when I first worked in the warehouse and delivery side of a large private furniture store, followed by being the Operations Manager for a delivery and private storage company.
 

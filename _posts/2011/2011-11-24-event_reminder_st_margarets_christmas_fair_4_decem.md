@@ -18,7 +18,7 @@ excerpt: |
 
 *The St Margarets Traders Association proudly presents...*
 
-The St Margarets Christmas Fair - [Sunday 4<sup>th</sup> December 2011 from 11.00am Crown Road St Margarets.](https://stmargarets.london/event/fair/200705143078)
+The St Margarets Christmas Fair - [Sunday 4<sup>th</sup> December 2011 from 11.00am Crown Road St Margarets.](/event/fair/200705143078)
 
 Please join us for a fun packed day of family entertainment including:
 

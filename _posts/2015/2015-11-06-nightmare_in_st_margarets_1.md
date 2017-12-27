@@ -50,4 +50,4 @@ But that's the way I like it. I am pleased to live in a community where children
 </iframe>
 <cite>-- from Martyn Day</cite>
 
-*N.B: A [version of this article](https://stmargarets.london/archives/2010/11/nightmare_in_st_margarets.html) first appeared in the on the site in November 2010*
+*N.B: A [version of this article](/archives/2010/11/nightmare_in_st_margarets.html) first appeared in the on the site in November 2010*

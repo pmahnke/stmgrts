@@ -8,7 +8,7 @@ date: 2015-09-23 23:21:41
 
 ---
 
-Did you know that the [Twickenham Stoop](https://stmargarets.london/directory/sports/201108150838) is open for the Twickenham based games for drinks and/or watching the matches? If you live in our area and have a ticket, you can enjoy the pre and post match fun!
+Did you know that the [Twickenham Stoop](/directory/sports/201108150838) is open for the Twickenham based games for drinks and/or watching the matches? If you live in our area and have a ticket, you can enjoy the pre and post match fun!
 
 -   **26<sup>th</sup> September: England v Wales**
     Kick-off 20:00. The Stoop and the bars are open for match day ticket holders from 13:00 to 23:00.

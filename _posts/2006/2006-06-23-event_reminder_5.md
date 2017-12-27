@@ -12,5 +12,5 @@ This Saturday, 24 June, from 11am a group of local residents will be clearing ou
 
 **Links**:
 
--   [Event Page](https://stmargarets.london/event/Meeting/200606011527)
--   [Original Article](https://stmargarets.london/archives/2006/06/moormead_park_c_1.html)
+-   [Event Page](/event/Meeting/200606011527)
+-   [Original Article](/archives/2006/06/moormead_park_c_1.html)

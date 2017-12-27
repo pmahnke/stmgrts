@@ -15,4 +15,4 @@ The purpose of the meeting is to hear from a representative of the Lease Advisor
 
 Please note that any mention of LAG is an error. The Lease Advisory Service is in no way connected with the Lease Advisory Group (LAG).
 
-[Event details here.](https://stmargarets.london/event/meeting/200705141655)
+[Event details here.](/event/meeting/200705141655)

@@ -34,5 +34,5 @@ We then contacted Michael Potter, Senior Engineer of the Transport Planning Serv
 
 -   Contact Michael Potter if you see traffic issues at: <m.potter@richmond.gov.uk>
 -   Report these same issues (via a cc:) to the [SPASM](http://updatebysms.blogspot.com/) website by emailing: <spasm_2004@hotmail.com>
--   Another excellent resource recommended to us is [Tescopoly](www.tescopoly.org.uk), a national website trying to limit the power Tesco has as a near monopoly. On the Tescopoly site you can voice your opinion, lobby the government and follow other local campaigns across the country, including the similar issues with the Tesco at Kew.
+-   Another excellent resource recommended to us is [Tescopoly](http://www.tescopoly.org.uk), a national website trying to limit the power Tesco has as a near monopoly. On the Tescopoly site you can voice your opinion, lobby the government and follow other local campaigns across the country, including the similar issues with the Tesco at Kew.
 -   Vote in our new [poll](/cgi-bin/poll.cgi?pollname=tescobaypost) [view results](/cgi-bin/poll.cgi?pollname=tescobaypost&action=results)

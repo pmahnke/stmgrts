@@ -15,9 +15,9 @@ excerpt: |
 
 The TW12 Jazz Festival is back for the fourth year in July, this year spread over four days in four different venues, featuring internationally acclaimed jazz artists alongside local performers and Richmond Music Trust students.
 
--   [Thursday 21<sup>st</sup> July](https://stmargarets.london/event/show/200705145618) - Free Festival Launch Jazz Jam Session at The Hampton Pub, The Avenue, Hampton TW12 3RA. House band led by Leo Appleyard. Musicians and singers welcome to perform.
--   [Friday 22<sup>nd</sup> July](https://stmargarets.london/event/show/200705145619) - Jim Mullen Organ Trio + Zoë Francis - United Reform Church, 35 High Street, Hampton Hill, TW12 1NB
--   [Saturday 23<sup>rd</sup> July](https://stmargarets.london/event/show/200705145620) - Richmond Youth Jazz Band (Free concert), Kate Williams' Four Plus Three - Normansfield Theatre, 2a Langdon Park, Teddington TW11 9PS
--   [Sunday 24<sup>th</sup> July](https://stmargarets.london/event/show/200705145621) - RACC Jazz Ensemble, South Side Gypsy Trio, Mood Indigo Band, Anita Wardell, Gilad Atzmon's Orient House Ensemble, Femi Temowo Trio featuring The Engines Orchestra at the Hampton Hill Theatre.
+-   [Thursday 21<sup>st</sup> July](/event/show/200705145618) - Free Festival Launch Jazz Jam Session at The Hampton Pub, The Avenue, Hampton TW12 3RA. House band led by Leo Appleyard. Musicians and singers welcome to perform.
+-   [Friday 22<sup>nd</sup> July](/event/show/200705145619) - Jim Mullen Organ Trio + Zoë Francis - United Reform Church, 35 High Street, Hampton Hill, TW12 1NB
+-   [Saturday 23<sup>rd</sup> July](/event/show/200705145620) - Richmond Youth Jazz Band (Free concert), Kate Williams' Four Plus Three - Normansfield Theatre, 2a Langdon Park, Teddington TW11 9PS
+-   [Sunday 24<sup>th</sup> July](/event/show/200705145621) - RACC Jazz Ensemble, South Side Gypsy Trio, Mood Indigo Band, Anita Wardell, Gilad Atzmon's Orient House Ensemble, Femi Temowo Trio featuring The Engines Orchestra at the Hampton Hill Theatre.
 
 For full details of times, tickets and special offers please see website: [www.tw12jazzfestival.co.uk](http://www.tw12jazzfestival.co.uk)

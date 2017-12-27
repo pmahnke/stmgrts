@@ -22,4 +22,4 @@ Lots of great stalls - many by local Mums, including:-
 -   Products from recycled materials
 -   Cards, Christmas cards, wrapping paper, advent calendars
 
-and [much more...](https://stmargarets.london/event/fair/200705141723)
+and [much more...](/event/fair/200705141723)

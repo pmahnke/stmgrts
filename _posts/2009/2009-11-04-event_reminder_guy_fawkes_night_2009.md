@@ -15,7 +15,7 @@ Here are a few things to help you celebrate Guy Fawkes Night.
 |       |                                                                                          |                 |                            |
 |-------|------------------------------------------------------------------------------------------|-----------------|----------------------------|
 | Date  | Event                                                                                    | Price           | Time                       |
-| Nov 5 |[Syon Park and House Fireworks](https://stmargarets.london/event/show/200705142274)       | £5/£2 children  | 7pm gates/8pm fireworks    |
-| Nov 5 |[Punch and Judy Man](https://stmargarets.london/event/show/200705142275)                  | £1              | 7:30pm                     |
-| Nov 5 |[Imber Court Fireworks](https://stmargarets.london/event/show/200705142284)               | £6/£3 children  | 5pm gates/7pm fireworks    |
-| Nov 8 |[Richmond Athletic Grounds Fireworks](https://stmargarets.london/event/show/200705142316) | £10/£5 children | 5pm gates/6.15pm fireworks |
+| Nov 5 |[Syon Park and House Fireworks](/event/show/200705142274)       | £5/£2 children  | 7pm gates/8pm fireworks    |
+| Nov 5 |[Punch and Judy Man](/event/show/200705142275)                  | £1              | 7:30pm                     |
+| Nov 5 |[Imber Court Fireworks](/event/show/200705142284)               | £6/£3 children  | 5pm gates/7pm fireworks    |
+| Nov 8 |[Richmond Athletic Grounds Fireworks](/event/show/200705142316) | £10/£5 children | 5pm gates/6.15pm fireworks |

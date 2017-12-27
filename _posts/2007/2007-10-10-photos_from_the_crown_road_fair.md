@@ -14,4 +14,4 @@ The fair was amazing. [Here are the photos](http://picasaweb.google.com/StMargar
 
 Congratulations to Jamie and family for all your hard work. You guys really are community heros.
 
-We are all looking forward to the [Christmas Fair on 7<sup>th</sup> December](https://stmargarets.london/event/fair/200705141700)!
+We are all looking forward to the [Christmas Fair on 7<sup>th</sup> December](/event/fair/200705141700)!

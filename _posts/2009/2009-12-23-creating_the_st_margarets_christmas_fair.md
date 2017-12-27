@@ -39,4 +39,4 @@ So what's next *St Margarets' Got Talent?* or *I'm a Celebrity Let Me Live Here?
 
 Mary - local mum proud to be part of St Margarets
 
-<em>For a full review of the Fair with photos and videos from the stage show please go to [www.mystmargarets.com](http://www.mystmargarets.com/</em>)
+<em>For a full review of the Fair with photos and videos from the stage show please go to [www.mystmargarets.com](http://www.mystmargarets.com/)</em>

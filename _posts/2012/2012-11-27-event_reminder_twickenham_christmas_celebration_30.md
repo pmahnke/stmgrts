@@ -14,7 +14,7 @@ excerpt: |
 
 <img src="/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="250" />
 
-You are invited to the **Twickenham Christmas Celebration** on [30 November 2012 in the the Diamond Jubilee Gardens](https://stmargarets.london/event/fair/200705143696) from 2 to 8.30pm. There will be loads of children's activities, food, music and more...
+You are invited to the **Twickenham Christmas Celebration** on [30 November 2012 in the the Diamond Jubilee Gardens](/event/fair/200705143696) from 2 to 8.30pm. There will be loads of children's activities, food, music and more...
 
 #### Kids Disco
 

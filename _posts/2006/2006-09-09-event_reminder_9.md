@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-Residents of St. Margaret's in Twickenham will be winding up the summer with a [full day of fun for local people of all ages](https://stmargarets.london/event/Fair/200608310619), on Saturday September 9th.
+Residents of St. Margaret's in Twickenham will be winding up the summer with a [full day of fun for local people of all ages](/event/Fair/200608310619), on Saturday September 9th.
 
 Organised by the North St. Margaret's Residents' Association, local children will begin the day by marking the bounds of the area in the ancient "Beating the Bounds" ceremony. Drinks and prizes for the best fancy dress will be on offer, as well as willow wands to "mark" the boundary.
 

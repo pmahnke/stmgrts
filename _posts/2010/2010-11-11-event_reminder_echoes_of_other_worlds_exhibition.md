@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2010/Echoes_otherworlds.jpg" title="See larger version of - Echoes of other worlds"><img src="/assets/images/2010/Echoes_otherworlds_thumb.jpg" width="150" height="142" alt="Echoes of other worlds" class="photo right" /></a>
 
-[From 28 October - 28 November 2010](https://stmargarets.london/event/exhibition/200705142638)
+[From 28 October - 28 November 2010](/event/exhibition/200705142638)
 
 Sculpture, video and paintings by a group of young artists, musicians and scientists present recent work that explores diverse ideas. The show has no set theme, but uses the title as a starting point to explore links between different worlds; in particular the worlds of the artist, scientist and musician.
 

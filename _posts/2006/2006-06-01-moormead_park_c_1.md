@@ -14,7 +14,7 @@ excerpt: |
 
 *Calling all handymen and women who enjoy painting, decorating and generally mucking in...*
 
-[Pavilion Clearing Out Day](https://stmargarets.london/event/Meeting/200606011527), will be on Saturday 24 June, from 11am. The Council will provide the skip, what we need are some volunteers to help lift and lug.
+[Pavilion Clearing Out Day](/event/Meeting/200606011527), will be on Saturday 24 June, from 11am. The Council will provide the skip, what we need are some volunteers to help lift and lug.
 
 Following various public meetings regarding Moormead, the overall consensus is that, aside from some updating on existing facilities, little needs to be changed at the park.
 

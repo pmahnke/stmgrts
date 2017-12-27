@@ -24,7 +24,7 @@ PLUS cake stalls, face painting, children's games, photography, balloon making, 
 
 FREE balloon and goody bag for all!
 
-#### [More Information](https://stmargarets.london/event/fair/200705143873)
+#### [More Information](/event/fair/200705143873)
 
 -   Friday 17<sup>th</sup> May 2013
 -   The Clarendon Room, York House Twickenham TW1 3AA (pay and display parking available on site, next to the hall)

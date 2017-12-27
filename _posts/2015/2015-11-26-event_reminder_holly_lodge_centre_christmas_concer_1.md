@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2015/holly_lodge_xmas_concert_2015.jpg" title="See larger version of - holly lodge xmas concert 2015"><img src="/assets/images/2015/holly_lodge_xmas_concert_2015_thumb.jpg" width="250" height="187" alt="holly lodge xmas concert 2015" class="photo right" /></a>
 
-The ever-popular Holly Lodge Centre Christmas concert -- an evening of song and readings -- will feature three local choirs and celebrity readers Sir Trevor McDonald, Helen Baxendale and Jonathan Guy Lewis. [From 7 pm at St Mary Magdalene Church, Richmond TW9 1SN](https://stmargarets.london/event/concert/200705145282).
+The ever-popular Holly Lodge Centre Christmas concert -- an evening of song and readings -- will feature three local choirs and celebrity readers Sir Trevor McDonald, Helen Baxendale and Jonathan Guy Lewis. [From 7 pm at St Mary Magdalene Church, Richmond TW9 1SN](/event/concert/200705145282).
 
 -   Leading the musical offering will be the Sheen Gate Choir as well as the choirs of Newland House School in Twickenham and the Bedesford special needs school in Kingston.
 -   Sir Trevor McDonald well known television presenter who hosted ITV's Tonight with Trevor McDonald and recently presented the documentary Inside Death Row. His two-part series on Las Vegas appears on ITV in early December.

@@ -29,4 +29,4 @@ Shirley Peace
 Chair of Governors
 
 </div>
--   [St Stephens School Draft Admissions policy 2014 15](https://stmargarets.london/images/St_Stephens_School_Draft_Admisssions_policy_2014-15.pdf) \[pdf\]
+-   [St Stephens School Draft Admissions policy 2014 15](/images/St_Stephens_School_Draft_Admisssions_policy_2014-15.pdf) \[pdf\]

@@ -26,6 +26,6 @@ There will be managed access for residents who live within the closure area.
 
 The matches will also incorporate activities along the Whitton Road outside the Stadium on both match days. Local residents are able to come along and enjoy the fun outside the Stadium grounds.
 
-For more information, go to: [www.richmond.gov.uk/nfl_match]([www.richmond.gov.uk/nfl_match](http://www.richmond.gov.uk/nfl_match))
+For more information, go to: [www.richmond.gov.uk/nfl_match](http://www.richmond.gov.uk/nfl_match)
 
 <cite>&mdash; from a Richmond Council press release - 5 September 2017</cite>

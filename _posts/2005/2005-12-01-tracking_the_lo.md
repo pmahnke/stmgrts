@@ -19,7 +19,7 @@ Here is how it works:
 3.  Once you submit the form, you will be asked if you have any photo's to upload, if you don't, no problem.
 4.  Then go to the Online Log[2] to see a record of all the submitted observations.
 
-NOTE: <em>if you have forgotten, the [Loading Bay's Rules are posted here](https://stmargarets.london/archives/2005/10/council_legitim.html.</em>)
+NOTE: <em>if you have forgotten, the [Loading Bay's Rules are posted here](/archives/2005/10/council_legitim.html).</em>
 
 [1] The observation form is now offline ;-)
 

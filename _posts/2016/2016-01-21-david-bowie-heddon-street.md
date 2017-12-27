@@ -55,6 +55,6 @@ David Bowie's last record <em>'Lazarus'</em>
 <iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/y-JqH1M4Ya8?rel=0" frameborder="0" allowfullscreen>
 </iframe>
 </div>
-Ziggy Stardust has visited the pages of this newsletter before. Well, he did [come from Isleworth!](https://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html)
+Ziggy Stardust has visited the pages of this newsletter before. Well, he did [come from Isleworth!](/archives/2009/04/ziggy_stardust_came_from_isleworth.html)
 
 <cite>-- from Martyn Day</cite>

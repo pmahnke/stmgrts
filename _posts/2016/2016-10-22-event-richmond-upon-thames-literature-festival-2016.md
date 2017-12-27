@@ -13,7 +13,7 @@ excerpt: |
 
 <a href="/assets/images/2016/Richmond_Literature_Festival_2016.jpg" title="See larger version of - Richmond Literature Festival 2016"><img src="/assets/images/2016/Richmond_Literature_Festival_2016_thumb.jpg" width="250" height="259" alt="Richmond Literature Festival 2016" class="right" /></a>
 
-[Richmond upon Thames Literature Festival](https://stmargarets.london/directory/art/200610191449) is celebrating its 25<sup>th</sup> birthday in style, hosting a stellar line up of some of today's most thought-provoking novelists, including Sebastian Barry (in conversation with Erica Wagner), Margaret Drabble, Kate Summerscale and Sarah Moss.
+[Richmond upon Thames Literature Festival](/directory/art/200610191449) is celebrating its 25<sup>th</sup> birthday in style, hosting a stellar line up of some of today's most thought-provoking novelists, including Sebastian Barry (in conversation with Erica Wagner), Margaret Drabble, Kate Summerscale and Sarah Moss.
 
 Consider your November entertainment sorted with events embracing everything from vampires and gangsters, through to spies, royal princes and the Mitford sisters. Science journalist Jo Marchant will open our eyes to mind-body medicine, whilst best-selling biographer Anne Sebba will discuss the fascinating lives and loves of women in Paris in the 1940s. Weekend events for families include historian Lucy Worsley introducing her first children's book, storytelling and drawing with Axel Scheffler, and a podcast workshop with spoken word artist Polarbear.
 

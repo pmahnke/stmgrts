@@ -23,7 +23,7 @@ Sessions will focus on developing a creative dialogue between the writer and the
 
 London poet, Agnieszka Studzinska has an MA in Creative Writing from the UEA, and is currently working towards her PhD at Royal Holloway. Her first debut collection, Snow Calling was shortlisted for the London New Poetry Award 2010. Beginners of all abilities are welcome.
 
-<em>Capacity: 8 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/default.aspx</em>)
+<em>Capacity: 8 - [Please book online](https://www2.richmond.gov.uk/Richmondbookings/default.aspx)</em>
 
 #### More Information
 

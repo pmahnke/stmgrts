@@ -22,4 +22,4 @@ The Festival, which was inspired by the success of the Twickenham Riverside Rega
 
 The Twickenham Riverside Jubilee Festival will start with the traditional Tug of War outside the Barmy Arms and the popular Morris dancers will be making their customary appearance. Twickenham Alive aims to bring new events to the Festival and will be working up until the last minute to make this the most exciting festival to take place in Twickenham.
 
--   [Download the flyer with event listings](https://stmargarets.london/images/TRJF_Programme_2012.pdf) \[pdf\]
+-   [Download the flyer with event listings](/images/TRJF_Programme_2012.pdf) \[pdf\]

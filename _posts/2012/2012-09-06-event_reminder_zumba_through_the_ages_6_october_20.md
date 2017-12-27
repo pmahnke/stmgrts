@@ -18,7 +18,7 @@ excerpt: |
 
 #### Celebrate Older Peoples Day with Age UK Richmond
 
-[Saturday 6<sup>th</sup> October 9.00am to 12.00pm](https://stmargarets.london/event/event/200705143579)
+[Saturday 6<sup>th</sup> October 9.00am to 12.00pm](/event/event/200705143579)
 
 We invite you, your family and friends to dance the morning away with our Zumba sessions to suit all levels: Zumba Gold, Zumba Fitness and Zumbatomic for kids. Please join us for this special cross- generational event to enjoy a morning of fun, fitness and a cup of tea with our friendly team.
 

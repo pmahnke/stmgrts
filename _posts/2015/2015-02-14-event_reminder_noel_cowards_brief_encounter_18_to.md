@@ -16,7 +16,7 @@ excerpt: |
 
 Few can be unfamiliar with the classic 1945 David Lean film weepie *Brief Encounter*, scripted by Noel Coward from his original one-act play *Still Life*. Set in provincial England in the winter of 1938/39, it is a love story like no other. Two people, Laura and Alec, both married with children, meet by chance in a railway station buff. What follows is a heart-rendering dissection of a love affair constrained by the dictates of pre-war middle class morality.
 
-Stopgap Production of Brief Encounter which is on at [Isleworth Public Hall from 18 to 20 February 2015](https://stmargarets.london/event/play/200705144902). The play, with music and not just Rachmaninov's 2<sup>nd</sup> piano concerto underplaying some of the dialogue, starts at 7.45 pm.
+Stopgap Production of Brief Encounter which is on at [Isleworth Public Hall from 18 to 20 February 2015](/event/play/200705144902). The play, with music and not just Rachmaninov's 2<sup>nd</sup> piano concerto underplaying some of the dialogue, starts at 7.45 pm.
 
 #### More Information
 

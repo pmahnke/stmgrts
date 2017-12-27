@@ -20,7 +20,7 @@ excerpt: |
 
 <img src="/assets/images/directory/200604230500_Kilmorey_Mausoleum.jpg" width="150" height="150" class="photo right" />
 
-On the 7th May 201, from 1 to 5pm, visit the Kilmorey Mausoleum for their [Open day](https://stmargarets.london/event/tour/200705142770).
+On the 7th May 201, from 1 to 5pm, visit the Kilmorey Mausoleum for their [Open day](/event/tour/200705142770).
 
 A chance to see inside the Grade 2 listed Mausoleum.
 

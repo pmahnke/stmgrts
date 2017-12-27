@@ -14,6 +14,6 @@ Kumon offers individualised after-school study programmes designed to help child
 
 Children work at their own pace, enabling them to develop self-confidence and learning skills that will give them the optimum chance of succeeding in life.
 
-On Saturday, 22<sup>nd</sup> September 2007 they are [having an Open Day](https://stmargarets.london/event/meeting/200705141688) at the St Margarets Church. If you are interested stop by for more information.
+On Saturday, 22<sup>nd</sup> September 2007 they are [having an Open Day](/event/meeting/200705141688) at the St Margarets Church. If you are interested stop by for more information.
 
 For more info parents can go to [www.kumon.co.uk](http://www.kumon.co.uk/)

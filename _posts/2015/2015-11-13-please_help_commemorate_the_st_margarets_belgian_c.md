@@ -16,4 +16,4 @@ St Margarets has a unique WWI history! We gave a home in 1914-18 to a massive Be
 
 They need £8400 for the memorial, on top of our £5000 grant from Richmond Council.
 
-<a href="/assets/images/2015/1WW%20Belgian%20Refugees.Twickenham%20St%20Margarets%202.pdf">Download the factsheet</a>
+<a href="/assets/images/2015/1WW_Belgian_Refugees_Twickenham_St_Margarets_2.pdf">Download the factsheet</a>

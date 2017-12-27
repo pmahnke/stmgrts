@@ -18,7 +18,7 @@ excerpt: |
 
 **A day of family fun and entertainment.**
 
-This years Community Fair takes place on [Sunday 12<sup>th</sup> June 2011 in Crown Road from 11am-4pm](https://stmargarets.london/event/fair/200705142754).
+This years Community Fair takes place on [Sunday 12<sup>th</sup> June 2011 in Crown Road from 11am-4pm](/event/fair/200705142754).
 
 -   If you would like to book a stall please contact Anita at <events@mystmargarets.com>
 -   If you are a band or group and are interested in playing at the fair please contact Alistair at <livemusic@blueyonder.co.uk>

@@ -8,7 +8,7 @@ date: 2008-10-10 21:03:06
 
 ---
 
-Agenda for [St Margarets & North Twickenham and Twickenham Riverside Area Consultation Meeting](https://stmargarets.london/event/meeting/200705141987) for Tuesday, 14 October at 7:30pm in York House.
+Agenda for [St Margarets & North Twickenham and Twickenham Riverside Area Consultation Meeting](/event/meeting/200705141987) for Tuesday, 14 October at 7:30pm in York House.
 
 1.  POLICE ISSUES
     The following concern was raised prior to agenda publication:

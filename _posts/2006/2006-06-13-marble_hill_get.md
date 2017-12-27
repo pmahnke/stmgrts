@@ -39,4 +39,4 @@ Denise
 </div>
 **Links**
 
--   [Marble Hill Concert Licensing Application](https://stmargarets.london/archives/2006/05/marble_hill_con.html)
+-   [Marble Hill Concert Licensing Application](/archives/2006/05/marble_hill_con.html)

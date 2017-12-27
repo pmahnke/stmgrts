@@ -25,7 +25,7 @@ The *St Margarets Controlled Parking Zone (CPZ) Survey* was distributed this wee
 
 We want to know what you think, so please:
 
--   [vote in our poll](https://stmargarets.london/poll/CPZ) ([results only](https://stmargarets.london/poll/CPZ/results) ).
--   leave a comment in [our forum](https://stmargarets.london/forum.cgi?action=jump&amp;topic=CPZ%20Consultation&amp;topic_id=5)
+-   [vote in our poll](/poll/CPZ) ([results only](/poll/CPZ/results) ).
+-   leave a comment in [our forum](/forum.cgi?action=jump&amp;topic=CPZ%20Consultation&amp;topic_id=5)
 
 Also, the Council is to hold exhibitions with detailed plans at the Winchester Hall next to the Turks Head on Tuesday 5<sup>th</sup> and Thursday 7<sup>th</sup> June from 4pm to 8pm. In attendance will be your local councillors and council officers from the Transport Department. In addition the councillors will be happy to meet up at alternative times should this be necessary.

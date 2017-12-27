@@ -14,7 +14,7 @@ excerpt: |
     * Thames Water have accepted responsibility
     * Thames Water are likely to be prosecuted
     
-    ??from Ed Randall??
+    <cite>-- from Ed Randall</cite>
 
 ---
 

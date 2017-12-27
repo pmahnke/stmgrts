@@ -19,6 +19,6 @@ Réservez vite, places limitées!
 
 #### More Information
 
--   [Live Languages](https://stmargarets.london/directory/school/201304231650)
+-   [Live Languages](/directory/school/201304231650)
 -   <infolivelanguages@gmail.com>
 -   07855 528 483.

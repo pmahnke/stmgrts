@@ -10,7 +10,7 @@ date: 2010-06-04 09:05:42
 
 <a href="/assets/images/2010/twickenham_stadium.jpg"><img alt="twickenham_stadium.jpg" src="/assets/images/2010/twickenham_stadium-thumb.jpg" width="150" height="99"  class="photo right"/></a>
 
-This Saturday, June 5<sup>th</sup>, Twickenham Stadium will be opening its gates for a [Family Fun Day](https://stmargarets.london/event/event/200705142465).
+This Saturday, June 5<sup>th</sup>, Twickenham Stadium will be opening its gates for a [Family Fun Day](/event/event/200705142465).
 
 In the West Car Park Village there will be live music from the Robin Bibi Band, Skalextric, Three Mustgetbeers and local rock 'n' roll favourites Nark Drool and the Shudders along with children's rides, games, inflatables, beer and food stalls and a picnic area.
 

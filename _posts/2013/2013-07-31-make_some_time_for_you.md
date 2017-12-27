@@ -17,7 +17,7 @@ excerpt: |
 
 ---
 
-[Time For You](https://stmargarets.london/directory/health_aNd_beauty/201304091614) is my home based massage therapy treatment room in St Margarets. I wanted to let you know about the special offers that I am running at the moment:
+[Time For You](/directory/health_aNd_beauty/201304091614) is my home based massage therapy treatment room in St Margarets. I wanted to let you know about the special offers that I am running at the moment:
 
 -   A half price 60 minute massage! Usual cost is £35 but for new clients it is £17.50. The client chooses what type of massage they would like, and
 -   Facials for £20 to all new clients.

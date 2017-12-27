@@ -33,4 +33,4 @@ You will start to feel the benefits of exercising, which are improved muscle ton
 
 I will discuss more about the benefits of exercise in the next article.
 
-<em>For more information please call Georgie on 07736070612 or visit her website [www.geolifestyle.co.uk](http://www.geolifestyle.co.uk/</em>)
+<em>For more information please call Georgie on 07736070612 or visit her website [www.geolifestyle.co.uk](http://www.geolifestyle.co.uk/)</em>

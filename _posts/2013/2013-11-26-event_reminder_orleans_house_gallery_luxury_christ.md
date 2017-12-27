@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2013/OHG_Christmas-Fair-2013_invite.jpg" title="See larger version of - Christmas Fair 2013 invite"><img src="/assets/images/2013/OHG_Christmas-Fair-2013_invite_thumb.jpg" width="150" height="212" alt="Christmas Fair 2013 invite" class="photo right" /></a>
 
-*On [6 December 2013 from 2 to 7pm](https://stmargarets.london/event/fair/200705144200) at Orleans House Gallery*
+*On [6 December 2013 from 2 to 7pm](/event/fair/200705144200) at Orleans House Gallery*
 
 This year the Orleans House Christmas Shopping Fair has an added touch of luxury. Not only will visitors be able to choose from a stylish selection of Christmas Gifts and little luxuries, such as organic skin care, handmade chocolates, designer gifts, studio ceramics, books, toys, seasonal foods and contemporary jewellery... they'll be able to do this in the elegant surroundings of the Coach House and Octagon Room. In addition to solving your Christmas gift problems, you can enjoy delicious complimentary nibbles and mulled wine; take advantage of our gift wrapping service; have something tasty to eat in our excellent café; and let the children enjoy our Christmas art activities - all accompanied by a little light baroque music.
 

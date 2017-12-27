@@ -53,7 +53,7 @@ The Richmond Council sponsors a series of plays for kids in parks across the bor
 
 </li>
 </ul>
-Look [here](https://stmargarets.london/cgi-bin/directory.cgi?key=200507270645&action=getlisting) for a complete list.
+Look [here](/cgi-bin/directory.cgi?key=200507270645&action=getlisting) for a complete list.
 
 **Details**
 
@@ -65,7 +65,7 @@ Look [here](https://stmargarets.london/cgi-bin/directory.cgi?key=200507270645&ac
 
 Structured classes to teach football and athletic skills run by Karl Budd (FA Qualified) (BSc Sport Science)
 
-Venue : [Marble Hill Park](https://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
+Venue : [Marble Hill Park](/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
 
 Only one week remaining!! : 29th August - 2nd September (4 days)
 Each day from 10 am to 3 pm (with lunch break)
@@ -117,7 +117,7 @@ Children aged between 8 and 14 years can take part in a range of multi sport cam
 -   Tennis, Swimming and Cricket - Mon 8th Aug - Fri 12 Aug
 -   Tennis, Swimming and Softball - Mon 22 Aug - Fri 26th Aug
 
-#### [Moormead Recreation Ground](https://stmargarets.london/cgi-bin/directory.cgi?key=200507050402&action=getlisting), Moormead Road, St Margarets
+#### [Moormead Recreation Ground](/cgi-bin/directory.cgi?key=200507050402&action=getlisting), Moormead Road, St Margarets
 
 -   Tennis, Football and Athletics - Mon 8th Aug - Fri 12th Aug
 -   Tennis, Tag Rugby and Cricket - Mon 22 Aug - Fri 26 Aug
@@ -158,7 +158,7 @@ The day is filled with fun games, drills and fitness, with many great team games
 -   Mon 8th Aug - Fri 12th Aug
 -   Mon 22nd Aug - Fri 26th Aug
 
-#### [Moormead Recreation Ground](https://stmargarets.london/cgi-bin/directory.cgi?key=200507050402&action=getlisting), Moormead Road, St Margarets
+#### [Moormead Recreation Ground](/cgi-bin/directory.cgi?key=200507050402&action=getlisting), Moormead Road, St Margarets
 
 -   Mon 1st Aug - Fri 5th Aug
 -   Mon 15th Aug - Fri 19th Aug
@@ -198,7 +198,7 @@ Bikes, painting, baby corner, sand pits, play houses, slides, table top toys, sh
 
 -   Mon - Fri 1pm - 4pm
 -   £2.50 per family
--   Venue: [Marble Hill Park](https://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
+-   Venue: [Marble Hill Park](/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
 -   Tel: 020 8891 0641 / 020 8891 4930
 
 #### Adventure Playground - 5-15 years
@@ -209,7 +209,7 @@ Friendship bracelets, football, rope swings, quiz nights, table tennis, games, a
 
 -   Mon - Fri 11am - 6pm
 -   £2.00 per child
--   Venue: [Marble Hill Park](https://stmargarets.london/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
+-   Venue: [Marble Hill Park](/cgi-bin/directory.cgi?key=200505180441&action=getlisting)
 -   Tel: 020 8891 0641 / 020 8891 4930
 
 ### Families Upon Thames

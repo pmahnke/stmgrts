@@ -18,4 +18,4 @@ Talking about the village planning events Cllr Pamela Fleming, Richmond Council'
 
 > "We have always said that we will bring the results from the All in One back to local people, to start a conversation within communities about how to make your local area better. These village planning events will be the start of that process. Over two months on Saturdays between May and July will be holding all day events where people can drop in any time between 10am and 5pm."
 
--- read more on the [Richmond Council website - 18 March 2011](https://stmargarets.london/l/3aWiX)
+-- read more on the [Richmond Council website - 18 March 2011](/l/3aWiX)

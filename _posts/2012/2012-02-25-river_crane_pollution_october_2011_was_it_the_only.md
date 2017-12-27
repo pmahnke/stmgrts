@@ -12,7 +12,7 @@ excerpt: |
 
 ---
 
-In late October 2011, when the major pollution occurred in the Crane, I [posted the following to the St Margarets site](https://stmargarets.london/archives/2011/10/river_crane_polluted.html).
+In late October 2011, when the major pollution occurred in the Crane, I [posted the following to the St Margarets site](/archives/2011/10/river_crane_polluted.html).
 
 > "Just in case my comment didn't get through to this subject - we alerted NRA on 9<sup>th</sup> Oct that the river was deep black & stank. We saw a crab trying to climb out near the Hill View Rd bridge. NRA phoned next day for details. Are they saying that there were 2 leaks?"
 

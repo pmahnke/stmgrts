@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2015/Church-St-flyer-2015.jpg" title="See larger version of - Church St flyer 2015"><img src="/assets/images/2015/Church-St-flyer-2015_thumb.jpg" width="250" height="344" alt="Church St flyer 2015" class="photo right" /></a>
 
-Our committee are once again pleased to organise [the annual Church Street Party](https://stmargarets.london/event/fair/200705145014) now in its 5<sup>th</sup> consecutive year. It promises to better and bigger than the previous year and why not bring your family, friends & neighbours to this ever popular street event? 2,000 + visitors were in attendance previously and if you wish to join in the fun and community spirit, be sure to be there!
+Our committee are once again pleased to organise [the annual Church Street Party](/event/fair/200705145014) now in its 5<sup>th</sup> consecutive year. It promises to better and bigger than the previous year and why not bring your family, friends & neighbours to this ever popular street event? 2,000 + visitors were in attendance previously and if you wish to join in the fun and community spirit, be sure to be there!
 
 -   Eileen Sheridan a well-known local resident champion cyclist will officially open the Party at mid-day and the outgoing Major Corinna Smart will join us arriving between 12.30 - 1.00 pm.
 -   Radio Jackie will be providing its very own Road Show throughout the afternoon, sponsored by The London Apprentice Pub.

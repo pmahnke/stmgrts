@@ -16,4 +16,4 @@ excerpt: |
 
 The Fair, as always is about fun and getting the whole community together, as well as raising funds for local schools and some local charities. It's all a volunteer effort with minimal running costs and nearly every penny of the profit going back into the community. This year they'll be even more to see and do on Moormead, complete with the usual fabulous live music line up.
 
--   [More information](https://stmargarets.london/event/fair/200705144026)
+-   [More information](/event/fair/200705144026)

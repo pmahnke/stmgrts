@@ -10,7 +10,7 @@ date: 2011-04-22 11:11:47
 
 <img src="/assets/images/directory/200602240454_Crossbats_Cricket_Club.gif" width="128" height="159" class="right" />
 
-[Crossbats Cricket Club](https://stmargarets.london/directory/sports/200602240454) is looking for players - we play at Marble Hill and some away fixtures.
+[Crossbats Cricket Club](/directory/sports/200602240454) is looking for players - we play at Marble Hill and some away fixtures.
 
 We play fun, competitive, cricket each Saturday. Post match drinks are a key part of our enjoyment. We laugh at any opposition who warms up by running around the outfield in an attempt to intimidate us before the start of the game.
 

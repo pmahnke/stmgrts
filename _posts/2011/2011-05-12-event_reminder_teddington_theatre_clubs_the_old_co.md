@@ -20,7 +20,7 @@ Add to the mix a shady couple of younger spies, he English and she Russian, and 
 
 #### Details
 
--   Runs from [Sunday June 5th to Saturday June 11th](https://stmargarets.london/event/play/200705142796)
+-   Runs from [Sunday June 5th to Saturday June 11th](/event/play/200705142796)
 -   Performance Times: Sunday, 6pm - Weekdays, 7.45pm
 -   Tickets: £8/£10
 -   Box office: Telephone 0845 838 7529 (between 10am and 8pm only)

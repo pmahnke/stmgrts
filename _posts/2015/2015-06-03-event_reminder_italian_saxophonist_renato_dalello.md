@@ -20,4 +20,4 @@ excerpt: |
 
 Renato is a superlative saxophonist and Poet ! He has all the virtues a Jazz musician can have, a beautiful sense of time, a total joy of performing and a technique which effortlessly projects his brilliant flowing ideas... wonderful to watch enjoy and savour. He also has fabulous Italian sense of fun, warmth and along with his fellow Italians the all essential ingredient Passion... with a glowing international reputation, it is wonderful to have him performing here in Twickenham.
 
--   [More information](https://stmargarets.london/event/show/200705145019)
+-   [More information](/event/show/200705145019)

@@ -12,7 +12,7 @@ Event Reminder: Club Acoustica & Club Acoustica Too
 
 Here are two new (to us) local music clubs in the area.
 
-#### [Club Acoustica](https://stmargarets.london/directory/music/200805080324)
+#### [Club Acoustica](/directory/music/200805080324)
 
 ALTERNATE FRIDAY'S AND OCCASIONAL SATURDAY'S
 AT THE CROWN, 174 RICHMOND ROAD, TWICKENHAM, MIDDLESEX, TW1 2NH - FROM 7.30PM

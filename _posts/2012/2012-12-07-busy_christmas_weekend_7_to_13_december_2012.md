@@ -14,19 +14,19 @@ There are a lot of Christmas events going on this weekend... so we did a recap h
 
 #### Friday, 7 December 2012
 
--   [East Twickenham Christmas Switch-On](https://stmargarets.london/archives/2012/11/event_reminder_east_twickenham_christmas_switchon.html) - from 6pm
--   [The Helen Astrid Singing Academy Christmas Concert](https://stmargarets.london/archives/2012/11/event_reminder_christmas_concert_7_december_2012.html) - from 7.30pm
+-   [East Twickenham Christmas Switch-On](/archives/2012/11/event_reminder_east_twickenham_christmas_switchon.html) - from 6pm
+-   [The Helen Astrid Singing Academy Christmas Concert](/archives/2012/11/event_reminder_christmas_concert_7_december_2012.html) - from 7.30pm
 
 #### Saturday, 8 December 2012
 
--   [Twickenham Library Christmas Craft Fair](https://stmargarets.london/archives/2012/12/event_reminder_twickenham_library_christmas_craft.html) - from 11am to 2.30pm
--   [Orleans Primary School Christmas Fair](https://stmargarets.london/archives/2012/12/event_reminder_orleans_primary_school_christmas_fa.html) - from 2.30 to 6.30pm
--   [Singalonga-Santa](https://stmargarets.london/archives/2012/11/event_reminder_singalongasanta_8_december_2012.html) - from 3.30 to 4pm
+-   [Twickenham Library Christmas Craft Fair](/archives/2012/12/event_reminder_twickenham_library_christmas_craft.html) - from 11am to 2.30pm
+-   [Orleans Primary School Christmas Fair](/archives/2012/12/event_reminder_orleans_primary_school_christmas_fa.html) - from 2.30 to 6.30pm
+-   [Singalonga-Santa](/archives/2012/11/event_reminder_singalongasanta_8_december_2012.html) - from 3.30 to 4pm
 
 #### Sunday, 9 December 2012
 
--   [Crown Road Christmas Fair](https://stmargarets.london/archives/2012/11/event_reminder_crown_road_christmas_fair_9_decembe.html) - from 11am to 4pm
+-   [Crown Road Christmas Fair](/archives/2012/11/event_reminder_crown_road_christmas_fair_9_decembe.html) - from 11am to 4pm
 
 #### Thursday, 13 December 2012
 
--   [Richmond Community Choir Christmas Concert](https://stmargarets.london/archives/2012/11/event_reminder_richmond_community_choir_christmas.html) - from 7.30pm
+-   [Richmond Community Choir Christmas Concert](/archives/2012/11/event_reminder_richmond_community_choir_christmas.html) - from 7.30pm

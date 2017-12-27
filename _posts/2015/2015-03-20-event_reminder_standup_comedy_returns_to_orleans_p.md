@@ -14,7 +14,7 @@ excerpt: |
 
 <a href="/assets/images/2015/SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="/assets/images/2015/SuzyBennettPic_thumb.jpg" width="250" height="187" alt="SuzyBennettPic" class="photo right" /></a>
 
-[Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.](https://stmargarets.london/event/show/200705144926)
+[Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.](/event/show/200705144926)
 
 Thanks to school parent Lucy Timms, an organiser of the Funny Women standup comedy awards, the evening features an unusually strong lineup of comedy talent.
 

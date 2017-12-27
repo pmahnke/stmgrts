@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2014/2014-ElasticBandConcert.jpg" title="See larger version of - 2014 ElasticBandConcert"><img src="/assets/images/2014/2014-ElasticBandConcert_thumb.jpg" width="150" height="220" alt="2014 ElasticBandConcert" class=" right" /></a>
 
-Come along to a fund raising concert for the St Margarets Fair, who supports four local schools, three local charities chosen by the St Margarets Fair committee. The concert is at St Stephens School on [15 April 2014 from 7.30.](https://stmargarets.london/event/show/200705144414)
+Come along to a fund raising concert for the St Margarets Fair, who supports four local schools, three local charities chosen by the St Margarets Fair committee. The concert is at St Stephens School on [15 April 2014 from 7.30.](/event/show/200705144414)
 
 #### More Information
 

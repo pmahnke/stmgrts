@@ -17,7 +17,7 @@ Speakers include working mums expert Inge Woudstra, inspiring passion-coach Liz 
 #### More Information
 
 -   Organised by [Mum & Career](http://www.mumandcareer.co.uk)
--   [Tuesday 29 January 19.00-22.00](https://stmargarets.london/event/event/200705143705)
+-   [Tuesday 29 January 19.00-22.00](/event/event/200705143705)
 -   Tickets £25
 -   [full details of programme](http://www.mumandcareer.co.uk/events/career-change-and-re-training-workshop/)
 -   Location: Cole Court Centre, 150 London Road, Twickenham, TW1 1HD

@@ -23,9 +23,9 @@ Over the next two years English Heritage – supported by the Heritage Lottery F
 
 To find out more about our plans and share your views, please join us at our Marble Hill public consultation meetings:
 
--   [Sports Groups Consultation at St Mary's Church, Twickenham](https://stmargarets.london/event/event/200705146013)
+-   [Sports Groups Consultation at St Mary's Church, Twickenham](/event/event/200705146013)
     Tuesday, 24 January 6:30-7:30pm
--   [Public Consultation at York House, Twickenham](https://stmargarets.london/event/event/200705146012)
+-   [Public Consultation at York House, Twickenham](/event/event/200705146012)
     Wednesday, 25 January 7-8:30pm
 
 [More information on the plans](http://www.english-heritage.org.uk/visit/places/marble-hill-house/marble-hill-revived)

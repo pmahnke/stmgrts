@@ -8,4 +8,4 @@ date: 2006-08-06 17:15:04
 
 ---
 
-Monday, 7 August is the [St Margarets Police Safer Neighbourhood Clinic](https://stmargarets.london/event/Meeting/200607261716) at the Turk's Head from 6-8pm. Please drop in to discuss any issues or suggestions you might have regarding maintaining a safer, more peaceful neighbourhood.
+Monday, 7 August is the [St Margarets Police Safer Neighbourhood Clinic](/event/Meeting/200607261716) at the Turk's Head from 6-8pm. Please drop in to discuss any issues or suggestions you might have regarding maintaining a safer, more peaceful neighbourhood.

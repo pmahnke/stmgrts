@@ -15,7 +15,7 @@ excerpt: |
 
 <a href="/assets/images/2015/Glorious_Mud_Cressida_Borrett_snowflake.jpg" title="See larger version of - Glorious Mud Cressida Borrett snowflake"><img src="/assets/images/2015/Glorious_Mud_Cressida_Borrett_snowflake_thumb.jpg" width="250" height="224" alt="Glorious Mud Cressida Borrett snowflake" class="photo right" /></a>
 
-The Landmark Arts Centre is delighted to offer Kew volunteers and staff free entry to [Sparkle](https://stmargarets.london/event/event/200705145261) on presentation of your Kew passes. A wonderful opportunity to meet, and buy directly from more than 70 designer makers from all over the UK. There will be a dazzling selection of work including jewellery, handknits, ceramics, glass and so much more - gifts galore - and a separate area dedicated to a mouth-watering selection of gourmet foods all in preparation for Christmas.
+The Landmark Arts Centre is delighted to offer Kew volunteers and staff free entry to [Sparkle](/event/event/200705145261) on presentation of your Kew passes. A wonderful opportunity to meet, and buy directly from more than 70 designer makers from all over the UK. There will be a dazzling selection of work including jewellery, handknits, ceramics, glass and so much more - gifts galore - and a separate area dedicated to a mouth-watering selection of gourmet foods all in preparation for Christmas.
 
 #### More Information
 

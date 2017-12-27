@@ -28,4 +28,4 @@ Can I encourage concerned local residents (one of whom came up and joined the co
 
 **Links**
 
--   [previous article](https://stmargarets.london/archives/2007/06/crossing_of_st_margarets_road_and_a316.html)
+-   [previous article](/archives/2007/06/crossing_of_st_margarets_road_and_a316.html)

@@ -10,7 +10,7 @@ date: 2012-12-22 21:51:14
 
 Here is a list of church services for Christmas Eve and Christmas for some local churches.
 
-#### [All Hallows Church](https://stmargarets.london/directory/church/200506080815)
+#### [All Hallows Church](/directory/church/200506080815)
 
 -   24<sup>th</sup> December
     -   **Crib Service** - 4pm
@@ -21,7 +21,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
     -   **Holy Communion** - a relaxed service for all the family! - 10am
         Children are encouraged to bring along their favourite gift to show to the congregation.
 
-#### [All Souls Church](https://stmargarets.london/directory/church/200506080805)
+#### [All Souls Church](/directory/church/200506080805)
 
 Enjoy the fun Christingle Service for all ages or savour the atmospheric Carols by Candlelight. Experience the expectant buzz of children at the Crib Service, or the hush of Midnight Communion. On Christmas Morning itself, take a few minutes mid-morning to be part of the exuberance and laughter of the celebration here...
 
@@ -31,7 +31,7 @@ Enjoy the fun Christingle Service for all ages or savour the atmospheric Carols 
 -   25<sup>th</sup> December
     -   **Family service** - 10.30am
 
-#### [St Margarets Catholic Church](https://stmargarets.london/directory/church/200505180349)
+#### [St Margarets Catholic Church](/directory/church/200505180349)
 
 -   24<sup>th</sup> December
     -   **First Mass of Christmas (Children's Mass)** - 5:00pm
@@ -42,7 +42,7 @@ Enjoy the fun Christingle Service for all ages or savour the atmospheric Carols 
 -   26<sup>th</sup> December - St Stephen's Day
     -   **Mass** - 12 noon
 
-#### [St Mary the Virgin Church](https://stmargarets.london/directory/church/200505180329)
+#### [St Mary the Virgin Church](/directory/church/200505180329)
 
 -   24<sup>th</sup> December
     -   **Crib Service** - 4pm
@@ -50,7 +50,7 @@ Enjoy the fun Christingle Service for all ages or savour the atmospheric Carols 
 -   25<sup>th</sup> December
     -   **Christmas Eucharist** - 10am
 
-#### [St Stephens Church](https://stmargarets.london/directory/church/200506080822)
+#### [St Stephens Church](/directory/church/200506080822)
 
 -   23<sup>rd</sup> December
     -   **Alternative Christmas Service** - 6.00pm

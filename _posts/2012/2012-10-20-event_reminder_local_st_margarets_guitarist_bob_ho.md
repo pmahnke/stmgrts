@@ -17,5 +17,5 @@ Including songs by Radiohead - Beatles - Oasis - Otis Reading - Ben E King - Nor
 #### More Information
 
 -   [www.pigs-ears.co.uk](http://www.pigs-ears.co.uk)
--   From [20.30 pm](https://stmargarets.london/event/show/200705143675)
+-   From [20.30 pm](/event/show/200705143675)
 -   Free admission!

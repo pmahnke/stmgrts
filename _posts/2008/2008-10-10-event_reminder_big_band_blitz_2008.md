@@ -20,7 +20,7 @@ excerpt: |
 
 <a href="/assets/images/2008/BigBandBlitz.jpg"><img src="/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
 
-Step back in time, return to the 1940s and dance the night away at [Big Band Blitz](https://stmargarets.london/event/show/200705141991). This popular and highly successful annual 1940s event will this year celebrate the 20th Anniversary of the opening of The Museum of Richmond by Her Majesty Queen Elizabeth II.
+Step back in time, return to the 1940s and dance the night away at [Big Band Blitz](/event/show/200705141991). This popular and highly successful annual 1940s event will this year celebrate the 20th Anniversary of the opening of The Museum of Richmond by Her Majesty Queen Elizabeth II.
 
 Proceeds from this special charity event will help benefit The Museum of Richmond's charity. Royal Patron of the charity is HRH Princess Alexandra, and the Patrons include Richmond's famous brothers, Lord Richard Attenborough and Sir David Attenborough.
 

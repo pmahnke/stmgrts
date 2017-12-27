@@ -8,7 +8,7 @@ date: 2012-07-11 20:16:43
 
 ---
 
-From [1-5pm on Sunday, 15 July 2012](https://stmargarets.london/event/event/200705143442), in the newly opened Diamond Jubliee Gardens, The Embankment Twickenham, TW1 (off Wharf Lane)
+From [1-5pm on Sunday, 15 July 2012](/event/event/200705143442), in the newly opened Diamond Jubliee Gardens, The Embankment Twickenham, TW1 (off Wharf Lane)
 
 In the lead up to our month long November Literature Festival we are celebrating the opening of the new Twickenham Diamond Jubilee Gardens with an afternoon of writing, reading and poetry. This picturesque location along the Thames provides the perfect backdrop to work on your writing, enjoy guest readings from a number of London's finest writers or simply bring a book and pull up a deck chair over looking the river.
 

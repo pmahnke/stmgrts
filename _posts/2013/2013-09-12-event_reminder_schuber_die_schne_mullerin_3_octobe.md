@@ -18,6 +18,6 @@ excerpt: |
 
 *Will Morgan, tenor and John Paul Ekins, piano*
 
-Two fabulous professional musicians are performing Schubert's song-cycle Die schöne Müllerin at [7.00 on Thursday October the 3<sup>rd</sup>](https://stmargarets.london/event/concert/200705144140) in the Richmond and Putney Unitarian Church, Ormond Road Richmond.
+Two fabulous professional musicians are performing Schubert's song-cycle Die schöne Müllerin at [7.00 on Thursday October the 3<sup>rd</sup>](/event/concert/200705144140) in the Richmond and Putney Unitarian Church, Ormond Road Richmond.
 
 Before the performance there will be an illustrated talk on the work, and there will be a chance to discuss the work with the performers afterwards. Tickets are £7.50 on the door and refreshments will be available.

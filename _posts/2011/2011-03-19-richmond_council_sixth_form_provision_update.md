@@ -18,7 +18,7 @@ Cllr Paul Hodgins, Richmond Council's Cabinet Member for Schools, said:
 > 
 >  "We want to expand the range of post-16 provision in the borough. Our secondary schools have worked extremely hard to raise standards in 11-16 education. Two of our secondaries are now rated outstanding by Ofsted, and as a group they have moved up the national tables. Richmond upon Thames College and Richmond Adult Community College also continue to provide a very broad range of excellent post 16 options to our students."
 > 
->  -- read more on the [Richmond Council website - 18 March 2011](https://stmargarets.london/l/Jk66q)
+>  -- read more on the [Richmond Council website - 18 March 2011](/l/Jk66q)
 > 
 > 
 > 

@@ -6,15 +6,15 @@ commentfile: 2013-06-27-a_surfeit_of_lamphreys
 category: around_town
 date: 2013-06-27 22:21:20
 excerpt: |
-    <a href="/assets/images/2013/LAMPHREYS_the_lampreys_mouth..jpg" title="See larger version of - the lampreys mouth."><img src="/assets/images/2013/LAMPHREYS_the_lampreys_mouth_thumb." width="150" height="156" alt="the lampreys mouth." class="photo right" /></a>
-    
-    
+    <a href="/assets/images/2013/LAMPHREYS_the_lampreys_mouth.jpg" title="See larger version of - the lampreys mouth."><img src="/assets/images/2013/LAMPHREYS_the_lampreys_mouth_thumb.jpg" width="150" height="156" alt="the lampreys mouth." class="photo right" /></a>
+
+
     Next time you feel inclined to go wild swimming in the Thames or even dangle a toe consider the case of 16 year old Marilyn Bell from Toronto who in September 1954 started off on a record breaking swim across Lake Ontario. As Time magazine later reported she was barely out from the shore when...
-    
+
 
 ---
 
-<a href="/assets/images/2013/LAMPHREYS_the_lampreys_mouth..jpg" title="See larger version of - the lampreys mouth."><img src="/assets/images/2013/LAMPHREYS_the_lampreys_mouth_thumb." width="150" height="156" alt="the lampreys mouth." class="photo right" /></a>
+<a href="/assets/images/2013/LAMPHREYS_the_lampreys_mouth.jpg" title="See larger version of - the lampreys mouth."><img src="/assets/images/2013/LAMPHREYS_the_lampreys_mouth_thumb.jpg" width="150" height="156" alt="the lampreys mouth." class="photo right" /></a>
 
 > "Some of the most primitive vertebrates still alive today, river lampreys (Lampetra fluviatilis) are small, eel-like fish with toothed, sucker-mouths. They use this sucker to attach to other fish, rasping away at the flesh and feeding on bodily fluids. They also feed on carrion."
 

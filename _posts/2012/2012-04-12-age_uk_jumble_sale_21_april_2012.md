@@ -19,4 +19,4 @@ Admission 50p
 
 Tea coffee cakes ~ Clothes ~ Bric a Brac
 
-<em>[all proceeds to Age UK Richmond](http://www.ageuk.org.uk/richmonduponthames/</em>)
+<em>[all proceeds to Age UK Richmond](http://www.ageuk.org.uk/richmonduponthames/)</em>

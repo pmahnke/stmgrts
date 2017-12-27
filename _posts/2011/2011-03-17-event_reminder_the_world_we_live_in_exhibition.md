@@ -19,7 +19,7 @@ Creative and Media Diploma students collaborate to produce a fresh and imaginati
 #### Details
 
 -   Stables Gallery, Orleans House Gallery, Riverside, Twickenham, TW1 3DJ
--   [24 March - 8 May 2011](https://stmargarets.london/event/exhibition/200705142730)
+-   [24 March - 8 May 2011](/event/exhibition/200705142730)
 -   Free admission
 -   Open Tuesday - Saturday 1.00-4.30pm
 -   Sun 2.00-4.30pm

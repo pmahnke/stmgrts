@@ -52,4 +52,4 @@ On the very same day as her execution the City of London finally accepted that H
 
 <cite>Letter from John Husee to 1<sup>st</sup> Viscount Lisle, Uncle to Henry, 8<sup>th</sup> April 20, 1534</cite>
 
-<em>Don't forget to read [Wolf Hall Part 2 - When One Vicar Turned Against Another](https://stmargarets.london/archives/2015/03/wolf_hall_part_2_when_one_vicar_turned_against_ano.html</em>)
+<em>Don't forget to read [Wolf Hall Part 2 - When One Vicar Turned Against Another](/archives/2015/03/wolf_hall_part_2_when_one_vicar_turned_against_ano.html)</em>

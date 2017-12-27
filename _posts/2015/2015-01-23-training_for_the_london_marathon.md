@@ -12,7 +12,7 @@ excerpt: |
 
 Firstly congratulations on making the commitment. Most training regimes will cover running frequency and distances in some detail. The importance of diet, rest, and general well-being will be highlighted but often specialist guidance is lacking. There are several disciplines from within the complementary therapy community that significantly benefit a person training for a marathon. Did you know, for example, at the London 2012 Olympics Osteopaths joined the medical team supporting and treating the athletes? Or that many runners use Acupuncture to improve their performance (check out this article in [Runners' World](http://www.runnersworld.com/injury-treatment/acupuncture-reversing-stressful-effects-running)).
 
-At [The Maris Practice](https://stmargarets.london/directory/health_aNd_beauty/201411111722), they have a number of consultants experienced in treating sportsmen and women to help them achieve their goals. They are a one-stop-shop for athletes to support their overall well-being, vital for competition success.
+At [The Maris Practice](/directory/health_aNd_beauty/201411111722), they have a number of consultants experienced in treating sportsmen and women to help them achieve their goals. They are a one-stop-shop for athletes to support their overall well-being, vital for competition success.
 
 Their team includes:
 

@@ -8,7 +8,7 @@ date: 2008-10-02 20:47:37
 
 ---
 
-Come to our local [area consultation meeting](https://stmargarets.london/event/meeting/200705141987) on Tuesday, 14 October 2008 7:30 pm at York House.
+Come to our local [area consultation meeting](/event/meeting/200705141987) on Tuesday, 14 October 2008 7:30 pm at York House.
 
 The agenda will be [published 5 clear working days before the meeting](http://www.richmond.gov.uk/home/council_government_and_democracy/democratic_processes_and_events/calendar_of_meetings.htm?mgl=ieListDocuments.asp&CId=233&MId=2091&q=1)
 

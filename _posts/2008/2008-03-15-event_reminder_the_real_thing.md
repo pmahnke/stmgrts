@@ -18,7 +18,7 @@ excerpt: |
 
 <a href="/assets/images/2008/rss_simonprints.jpg" title="See larger version of - The Real Thing"><img src="/assets/images/2008/rss_simonprints_thumb.jpg" width="98" height="150" alt="The Real Thing" class="photo right" /></a>
 
-Next show from the Richmond Shakespeare Society is Sir Tom Stoppard's theatrically pyrotechnical [The Real Thing](https://stmargarets.london/event/play/200705141794), an extraordinary semi-autobiographical play by turns hilarious and touching, and uncannily blurring stage illusion with real life.
+Next show from the Richmond Shakespeare Society is Sir Tom Stoppard's theatrically pyrotechnical [The Real Thing](/event/play/200705141794), an extraordinary semi-autobiographical play by turns hilarious and touching, and uncannily blurring stage illusion with real life.
 
 Successful playwright Henry is married to actress Charlotte, but is in a secret liaison with another actress, Annie, who is married to actor Max. Ultimately their affair will wreck both marriages.
 

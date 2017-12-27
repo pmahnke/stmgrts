@@ -13,7 +13,7 @@ excerpt: |
 
 <a href="/assets/images/2012/2012-Christmas-Fair-Poster.jpg" title="See larger version of - 2012 Christmas Fair Poster"><img src="/assets/images/2012/2012-Christmas-Fair-Poster_thumb.jpg" width="150" height="212" alt="2012 Christmas Fair Poster" class="photo right" /></a>
 
-This years *St Margarets Christmas Fair* will be held on [Sunday 9<sup>th</sup> December 2012](https://stmargarets.london/event/fair/200705143678) in Crown Road St Margarets. The Fair opens at 11am and draws to a close at 4pm.
+This years *St Margarets Christmas Fair* will be held on [Sunday 9<sup>th</sup> December 2012](/event/fair/200705143678) in Crown Road St Margarets. The Fair opens at 11am and draws to a close at 4pm.
 
 Please join us for a day of family fun and entertainment
 

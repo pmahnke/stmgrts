@@ -67,4 +67,4 @@ There will be more stories about the local men and women who experienced the Gre
 
 <cite>-- from Martyn Day</cite>
 
-<em>Read the first instalment, [The War Walk \#2 - 'From Ypres To Isleworth'](https://stmargarets.london/archives/2014/11/the_war_walk_2_from_ypres_to_isleworth.html</em>)
+<em>Read the first instalment, [The War Walk \#2 - 'From Ypres To Isleworth'](/archives/2014/11/the_war_walk_2_from_ypres_to_isleworth.html)</em>

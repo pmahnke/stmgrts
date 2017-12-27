@@ -19,7 +19,7 @@ excerpt: |
 
 *Friday 11 - Sunday 20 June 2010*
 
-[The ARThouse Open Studios Festival](https://stmargarets.london/directory/art/201006031129) for the London Borough of Richmond upon Thames this year has 82 venues to visit over the two weekends (Friday 11, Saturday 12, Sunday 13 - Friday 18, Saturday 19, Sunday 20 June), as well as 11 of the Borough's schools taking part.
+[The ARThouse Open Studios Festival](/directory/art/201006031129) for the London Borough of Richmond upon Thames this year has 82 venues to visit over the two weekends (Friday 11, Saturday 12, Sunday 13 - Friday 18, Saturday 19, Sunday 20 June), as well as 11 of the Borough's schools taking part.
 
 The range of artwork created in the borough is fantastic, with art forms including paintings, prints, sculpture, ceramics, jewellery, textiles, photography and more. Many of the venues are clustered together within easy walking or cycling distance of one another, so it's a simple way to spend an enjoyable afternoon discovering your local artists and learning about the borough.
 
