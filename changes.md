@@ -4,10 +4,11 @@ title: Site changes
 permalink: /changes/
 ---
 
-h2. Site Changes
+## Site Changes
 
-p. Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
+Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
+|27 December 2017|Migrated to markdown for posts, fixed lots of missing images|
 |1 April 2017|Added recaptcha to catch comment spam|
 |19 January 2017|Changed to sentence case titles|
 |30 November 2016|Moved to https|
@@ -29,7 +30,7 @@ p. Just to share what we are doing on the site we are sharing a _change log_ of 
 |28 July 2011|Made the Local information categories smaller by removing details and adding a 'more information' button|
 |5 July 2011|Removed all the 'onclick' images to more accessible embedded ones|
 |14 April 2011|Added 'Recent Forum Posts' to the homepage|
-|16 November 2010|Wrote a "traffic parser":/cgi-bin/get_traffic.cgi using TFL, not sure if I will make it more public|
+|16 November 2010|Wrote a [traffic parser](/cgi-bin/get_traffic.cgi) using TFL, not sure if I will make it more public|
 |6 November 2010|Got train parser working again with traintimes.org.uk|
 |20 October 2010|re-wrote scrapers for Richmond Theater, Twickfolk|
 |13 October 2010|re-launched mystmargarets.com|
@@ -43,7 +44,7 @@ p. Just to share what we are doing on the site we are sharing a _change log_ of 
 |1 December 2005|Added three month Tesco Bay Obervation pages.  Its the first use of MySQL and PHP on the site.  Seems to work fine... I might need to convert the Events and Directory to this...|
 |17 November 2005|Created new action in poll.cgi to allow for direct 150x150 viewing of the current poll results, created an include version of gd_pie to do this|
 |16 November 2005|Added flag to allow inactive polls to appear in polls list, just without the option to vote|
-|21 October 2005|Converted homepage to shtml so no more publishing events each morning, it updates itself.... since I was doing that, I moved to a new weather widget that I wrote using METAR data, moved to background image for bullet chevron, so IE users can see it too and (finally) added the 'Hot Items' section to keep important topics on the homepage|
+|21 October 2005|Converted homepage to shtml so no more publishing events each morning, it updates itself... since I was doing that, I moved to a new weather widget that I wrote using METAR data, moved to background image for bullet chevron, so IE users can see it too and (finally) added the 'Hot Items' section to keep important topics on the homepage|
 |11 October 2005|Converted homepage events lists to new "hCalendar format":http://microformats.org/wiki/hcalendar just in case this becomes popular... or even useful.|
 |27 September 2005|Added a _print_ style sheet that makes links visible and gets rid of unnecessary information (e.g. navigation, footer, etc...)|
 |21 September 2005|Lowered the limit again on polls to 2 per IP and added javascript warning to that affect.|
