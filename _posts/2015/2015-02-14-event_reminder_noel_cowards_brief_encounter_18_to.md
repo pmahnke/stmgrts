@@ -8,7 +8,7 @@ date: 2015-02-14 09:24:34
 excerpt: |
     <a href="/assets/images/2015/Brief-Encounter-Flyer.jpg" title="See larger version of - Brief Encounter Flyer"><img src="/assets/images/2015/Brief-Encounter-Flyer_thumb.jpg" width="150" height="212" alt="Brief Encounter Flyer" class="photo right" /></a>
     
-    Stopgap Production of Brief Encounter which is on at <a href="https://stmargarets.london/event/play/200705144902.">Isleworth Public Hall from 18 to 20 February 2015</a>  The play, with music and not just Rachmaninov's 2<sup>nd</sup> piano concerto underplaying some of the dialogue, starts at 7.45 pm.
+    Stopgap Production of Brief Encounter which is on at <a href="https://stmargarets.london/event/play/200705144902">Isleworth Public Hall from 18 to 20 February 2015</a>  The play, with music and not just Rachmaninov's 2<sup>nd</sup> piano concerto underplaying some of the dialogue, starts at 7.45 pm.
 
 ---
 

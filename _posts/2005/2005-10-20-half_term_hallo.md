@@ -10,7 +10,7 @@ date: 2005-10-20 16:25:54
 
 We are trying to assemble a list of some *half-term* and *Halloween* activities for families.
 
-If you know of any, please forward them on to us at: <content@stmargarets.london>.
+If you know of any, please forward them on to us at: [content@stmargarets.london](mailto:content@stmargarets.london).
 
 General
 -------

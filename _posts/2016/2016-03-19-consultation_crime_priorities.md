@@ -17,6 +17,6 @@ We would like to understand what priorities you think should be set for the part
 
 Please watch the video above and/or read the Strategic Intelligence Assessment report or summary below before filling out the survey.
 
-Please [complete the survey online](https://consultation.richmond.gov.uk/community-safety/crime-2016) or if you would like a paper copy please contact us at <consultation@richmond.gov.uk>
+Please [complete the survey online](https://consultation.richmond.gov.uk/community-safety/crime-2016) or if you would like a paper copy please contact us at [consultation@richmond.gov.uk](mailto:consultation@richmond.gov.uk)
 
 *The consultation closes on 3 April 2016.*

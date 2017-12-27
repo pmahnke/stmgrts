@@ -16,4 +16,4 @@ Cllr Pamela Fleming, Strategic Cabinet Member for Communities, Business and Cult
 
 > "I would like to encourage local people to come to this event for a chance to tell us the community safety and policing issues that they think should be prioritised in the borough. We know that crime levels are typically low in Richmond upon Thames, but we want to look at what more can be done to improve safety even further."
 
-The event runs from 7 to 8pm in the Hyde Room at York House, Twickenham. For more information contact the CPP administrator on <community.safety@richmond.gov.uk> or on 020 8891 7777.
+The event runs from 7 to 8pm in the Hyde Room at York House, Twickenham. For more information contact the CPP administrator on [community.safety@richmond.gov.uk](mailto:community.safety@richmond.gov.uk) or on 020 8891 7777.

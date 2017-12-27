@@ -42,7 +42,7 @@ The WAR WALK starts at the AILSA TAVERN on the St Margarets Road at 11.00am. Thi
 
 #### AN AFTERNOON OF POETRY AND SONG
 
-<a href="/assets/images/2014/NSMREMEBERS_Exhausted_soldiers.jpg" title="See larger version of - Exhausted soldiers."><img src="/assets/images/2014/NSMREMEBERS_Exhausted_soldiers_thumb.jpg" width="250" height="166" alt="Exhausted soldiers." class="photo right" /></a>
+<a href="/assets/images/2014/NSMREMEBERS_Exhausted_soldiers.jpg" title="See larger version of - Exhausted soldiers"><img src="/assets/images/2014/NSMREMEBERS_Exhausted_soldiers_thumb.jpg" width="250" height="166" alt="Exhausted soldiers." class="photo right" /></a>
 
 <em>[3.00pm Sunday 14 December 2014](/event/event/200705144672)</em>
 

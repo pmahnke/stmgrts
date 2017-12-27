@@ -11,7 +11,7 @@ excerpt: |
     
     We only managed to capture a few photos from this year's fair.
     
-    If you have any, please forward them to us at <a href="mailto:content@stmargarets.london">content@stmargarets.london</a>  
+    If you have any, please forward them to us at <a href="mailto:content@stmargarets.london">content@stmargarets.london[/a>  
     
     
     <a href="https://stmargarets.london/static/fair/2007/index.html">Here they are...</a>
@@ -23,6 +23,18 @@ excerpt: |
 
 We only managed to capture a few photos from this year's fair.
 
-If you have any, please forward them to us at <content@stmargarets.london>
+If you have any, please forward them to us at <content@stmargarets.london](mailto:/a>  
+    
+    
+    <a href="https://stmargarets.london/static/fair/2007/index.html">Here they are...</a>
+    
+
+---
+
+<a href="/assets/images/2007/fair_wide.jpg"><img src="/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
+
+We only managed to capture a few photos from this year's fair.
+
+If you have any, please forward them to us at <content@stmargarets.london)
 
 [Here they are...](/static/fair/2007/index.html)

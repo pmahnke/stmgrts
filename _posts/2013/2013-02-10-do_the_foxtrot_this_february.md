@@ -8,7 +8,7 @@ date: 2013-02-10 18:17:00
 excerpt: |
     <a href="/assets/images/2013/Tea-Dance_Poster_2013.jpg" title="See larger version of - Tea Dance Poster 2013"><img src="/assets/images/2013/Tea-Dance_Poster_2013_thumb.jpg" width="150" height="212" alt="Tea Dance Poster 2013" class="photo right" /></a>
     
-    Local over 50s who enjoy music and dance are being invited to the Leader's annual Tea Dance taking place on <a href="https://stmargarets.london/event/event/200705143798.">26 February 2013 at Clarendon Hall in Twickenham</a>
+    Local over 50s who enjoy music and dance are being invited to the Leader's annual Tea Dance taking place on <a href="https://stmargarets.london/event/event/200705143798">26 February 2013 at Clarendon Hall in Twickenham</a>
     
     The afternoon, which will see live accompaniment from the Ross Mitchell Combo Band, promises to be one to remember filled with beautiful music, dance and complimentary tea, coffee and cakes on offer.
 

@@ -6,7 +6,7 @@ commentfile: 2006-03-23-dont_miss_a_ver
 category: around_town
 date: 2006-03-23 05:23:34
 excerpt: |
-    Don't miss the 2x2 Opera's <a href="/event/Concert/200602010748.">A Very Magical Flute</a> The performances are on Friday 24th March at 7.30pm and Saturday 25th March at 2.30pm and 7.30pm, all at All Soul’s Church, Northcote Road, St. Margarets. Tickets are £8 / £4.50 available on the door or in advance by calling 020 8891 4641.
+    Don't miss the 2x2 Opera's <a href="/event/Concert/200602010748">A Very Magical Flute</a> The performances are on Friday 24th March at 7.30pm and Saturday 25th March at 2.30pm and 7.30pm, all at All Soul’s Church, Northcote Road, St. Margarets. Tickets are £8 / £4.50 available on the door or in advance by calling 020 8891 4641.
 
 ---
 

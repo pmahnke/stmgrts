@@ -11,7 +11,7 @@ excerpt: |
     
     _The Richmond Printmakers group celebrate their first 20 years this year._
     
-    An exhibition of past and current members runs at the <a href="https://stmargarets.london/event/show/200705142702.">Stables Gallery, Orleans House Gallery, Twickenham from 20 January to 20 March 2011</a>
+    An exhibition of past and current members runs at the <a href="https://stmargarets.london/event/show/200705142702">Stables Gallery, Orleans House Gallery, Twickenham from 20 January to 20 March 2011</a>
     
     Ingrid Alan a very committed tutor at the Shaftsbury Centre at Richmond Adult College founded Richmond Printmakers in 1991. She felt that her talented students needed a showcase for their work who, at that time, were mainly etchers. The group attracted printmakers in other disciplines from outside the college and a lively cohesive body of artists started exhibiting together. Helping with the mechanics of setting up the group was Peter Strachan who was also an experienced member of Greenwich Printmakers.
     

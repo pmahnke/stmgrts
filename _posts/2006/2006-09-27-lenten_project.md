@@ -6,7 +6,7 @@ commentfile: 2006-09-27-lenten_project
 category: news
 date: 2006-09-27 08:35:49
 excerpt: |
-    On the 9th April we <a href="https://stmargarets.london/archives/2006/04/st_margarets_ro_1.html">posted information</a> on the website about the a local fund raising project at <a href="https://stmargarets.london/directory/church/200505180349.">St Margarets RC Church</a> This is held every year in the parish during Lent and the money raised is used to help some of the poorest people on the planet. All the money raised has now been counted and accounted for and we are pleased to be able to tell you were the money has gone.
+    On the 9th April we <a href="https://stmargarets.london/archives/2006/04/st_margarets_ro_1.html">posted information</a> on the website about the a local fund raising project at <a href="https://stmargarets.london/directory/church/200505180349">St Margarets RC Church</a> This is held every year in the parish during Lent and the money raised is used to help some of the poorest people on the planet. All the money raised has now been counted and accounted for and we are pleased to be able to tell you were the money has gone.
 
 ---
 

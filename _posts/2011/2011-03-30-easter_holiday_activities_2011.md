@@ -8,7 +8,7 @@ date: 2011-03-30 21:16:25
 
 ---
 
-Here are a few things you can do with your children this Easter break. If you have more, please email us at <editor@stmargarets.london>.
+Here are a few things you can do with your children this Easter break. If you have more, please email us at [editor@stmargarets.london](mailto:editor@stmargarets.london).
 
 ### Coach House Club for 6 - 9 year-olds
 

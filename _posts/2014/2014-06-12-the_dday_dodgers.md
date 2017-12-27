@@ -48,7 +48,7 @@ The lyrics of the song are sometimes credited to Major Hamish Henderson of the 5
 
 </div>
 
-<a href="/assets/images/2014/DDDOGERS_dodgers_take_cover.jpg" title="See larger version of - dodgers take cover."><img src="/assets/images/2014/DDDOGERS_dodgers_take_cover_thumb.jpg" width="150" height="112" alt="dodgers take cover." class="photo left" /></a>
+<a href="/assets/images/2014/DDDOGERS_dodgers_take_cover.jpg" title="See larger version of - dodgers take cover"><img src="/assets/images/2014/DDDOGERS_dodgers_take_cover_thumb.jpg" width="150" height="112" alt="dodgers take cover." class="photo left" /></a>
 
 The song became very popular not only amongst the troops in Italy but also by folk singers who took it up after the war. It has since been covered by Ian Campbell, the Clancy Brothers with Tommy Makem, Hamish Imlach, Ian Robb, Pete Seeger and countless others.
 

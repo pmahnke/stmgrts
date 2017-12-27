@@ -34,6 +34,6 @@ The [next meeting is 7.30pm October 16th The Salon York House](/event/Meeting/20
 
 It was pointed out that there was nobody at the meeting from St Margarets and that nobody in St Margarets seemed to know about it. The councillors agreed to check their database and to ensure that as many people and community groups as possible are made aware of the next meeting.
 
-*If you would like to be informed of the meetings please email us at <content@stmargarets.london> and the website will forward them to the Council.*
+*If you would like to be informed of the meetings please email us at [content@stmargarets.london](mailto:content@stmargarets.london) and the website will forward them to the Council.*
 
 Approximately 60 people went to the meeting about the community development plan at the Turks Head somebody must have been interested in going to this! Councillor Morgan has agreed to update the website about the school proposals and Cllr Khosa has [regarding the CPZ](/archives/2006/07/cllr_khosas_cpz.html). Please let us have your views.

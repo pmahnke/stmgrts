@@ -8,7 +8,7 @@ date: 2006-04-10 22:35:07
 excerpt: |
     After posting the <a href="/archives/2006/03/reply_to_reside.html">Reply to Residents Group Letter on Proposed Indoor Soft Play Area</a> article, we recieved a  number of emails asking who the _St Margarets Association of Residents_ was, so we asked them to pass along some information.
     
-    Turns out they didn't have a website, so we have hosted a page for them <a href="/static/info/smar.html.">here</a>
+    Turns out they didn't have a website, so we have hosted a page for them <a href="/static/info/smar.html">here</a>
 
 ---
 

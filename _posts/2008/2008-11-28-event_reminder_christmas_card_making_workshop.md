@@ -8,7 +8,7 @@ date: 2008-11-28 12:21:32
 excerpt: |
     !(right) https://stmargarets.london/images/xmas_tree_stamp.gif (Christmas Tree)!
     
-    Cut the cost of Christmas this year by <a href="https://stmargarets.london/event/meeting/200705141804.">making your own cards and decorations</a> Under the guidance of printmaker Sasa Marinkov, we'll be making small seasonal decorations, unique pictures and pop-up cards using monoprinting, collage and paper folding techniques, inspired by traditional images such as animals, stars, trees and angels.
+    Cut the cost of Christmas this year by <a href="https://stmargarets.london/event/meeting/200705141804">making your own cards and decorations</a> Under the guidance of printmaker Sasa Marinkov, we'll be making small seasonal decorations, unique pictures and pop-up cards using monoprinting, collage and paper folding techniques, inspired by traditional images such as animals, stars, trees and angels.
 
 ---
 

@@ -22,7 +22,7 @@ Which leads me to my next point, we need more groups and people to tell us about
 
 ### Help Required
 
-Maintaining a site like this requires a lot of time and effort. Events need to be added, updated and rotated off the home pages. News needs to be collected and written. Photos need to be taken. Listings need to be added to the directory of local information. If you have the interest and the time, please let us know what you can do to help. Email us at <volunteer@stmargarets.london>.
+Maintaining a site like this requires a lot of time and effort. Events need to be added, updated and rotated off the home pages. News needs to be collected and written. Photos need to be taken. Listings need to be added to the directory of local information. If you have the interest and the time, please let us know what you can do to help. Email us at [volunteer@stmargarets.london](mailto:volunteer@stmargarets.london).
 
 ### Site Improvements & Feedback
 

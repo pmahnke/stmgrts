@@ -6,7 +6,7 @@ commentfile: 2006-05-25-note_from_polic
 category: news
 date: 2006-05-25 08:46:29
 excerpt: |
-    _The following comment was recieved following Wednesday's <a href="https://stmargarets.london/archives/2006/05/event_reminder_2.html.">Police Surgery</a>  Thank you Ann._
+    _The following comment was recieved following Wednesday's <a href="https://stmargarets.london/archives/2006/05/event_reminder_2.html">Police Surgery</a>  Thank you Ann._
 
 ---
 

@@ -12,7 +12,7 @@ excerpt: |
     </div>
 
 
-    When we opened this Saturday's Guardian, the last thing we thought we would see staring back at us was our own <a href="http://www.google.com/cse?cx=011552492105320257021%3Aaklyesuuk5c&q=Martyn+Day&sa=Search&cof=FORID%3A0#gsc.tab=0&gsc.q=Martyn%20Day&gsc.page=1.">Martyn Day</a>  But there he was in his Nark Drool _Crepe and Drape_!
+    When we opened this Saturday's Guardian, the last thing we thought we would see staring back at us was our own <a href="http://www.google.com/cse?cx=011552492105320257021%3Aaklyesuuk5c&q=Martyn+Day&sa=Search&cof=FORID%3A0#gsc.tab=0&gsc.q=Martyn%20Day&gsc.page=1">Martyn Day</a>  But there he was in his Nark Drool _Crepe and Drape_!
 
 
 ---

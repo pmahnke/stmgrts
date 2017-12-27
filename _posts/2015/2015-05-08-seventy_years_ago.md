@@ -49,7 +49,7 @@ And at this point and into the following day St Margarets, Richmond and Twickenh
 
 > "Every house and business played its part in adding to the gay appearance of the town with paper flags and red, white and blue flowers... and everyone wearing their brightest frocks, with patriotic emblems and red, white and blue ribbons in their hair."
 
-<a href="/assets/images/2015/VE70_Jimmy_Knode_Ad.jpg" title="See larger version of - Jimmy Knode Ad."><img src="/assets/images/2015/VE70_Jimmy_Knode_Ad_thumb.jpg" width="150" height="424" alt="Jimmy Knode Ad." class="photo right" /></a>
+<a href="/assets/images/2015/VE70_Jimmy_Knode_Ad.jpg" title="See larger version of - Jimmy Knode Ad"><img src="/assets/images/2015/VE70_Jimmy_Knode_Ad_thumb.jpg" width="150" height="424" alt="Jimmy Knode Ad." class="photo right" /></a>
 
 There was a parade from Twickenham Green to St Stephen's Church by the Civil Defence Service, recently <em>'stood-down'</em>. The Mayor of Twickenham toured the borough in a car and gave a speech from the steps of the Queen's Cinema, opposite York House. There were many bonfires. One house in St. Peter's Road also caught fire and two bedsteads and a grand piano were destroyed. At the corner of Crown Road and St Margarets Road a grocer's shop displayed a model of a sailing ship flanked by pictures of Churchill and the slogan <em>"Pioneers of yesterday, our salvation today!"</em> All Hallows Church Tower on the Chertsey Road was floodlit and a thanksgiving service remembering the fallen was held in St Margarets R.C Church. But the biggest and most widely reported celebration took place outside No 2 St Margaret Grove, the home of local bookie and bulldog fancier Jimmy Knode...
 

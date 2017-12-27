@@ -12,7 +12,7 @@ It is that time of year again... time to start thinking about secondary schools 
 
 Here is a list of all the Open events at local authority secondary and private schools around the borough.
 
-If we have missed any out, please contact us at <content@stmargarets.london>.
+If we have missed any out, please contact us at [content@stmargarets.london](mailto:content@stmargarets.london).
 
 ### [Richmond Park Academy](/directory/school/201108260957)
 

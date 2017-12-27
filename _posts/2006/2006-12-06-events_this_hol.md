@@ -8,7 +8,7 @@ date: 2006-12-06 21:03:24
 excerpt: |
     We have been searching high and low and have pulled together a few events to get everyone in the holiday mood.
     
-    If you have any more to add, please email us all the relevant details[1] at: <a href="mailto:content@stmargarets.london.">content@stmargarets.london</a>
+    If you have any more to add, please email us all the relevant details[1] at: <a href="mailto:content@stmargarets.london">content@stmargarets.london[/a>
     
     fn1. For this, and in general, when you pass along an event for us to post, you really need to give us more than a one line email... in fact, I probably won't bother posting a one line event.
     
@@ -17,7 +17,16 @@ excerpt: |
 
 We have been searching high and low and have pulled together a few events to get everyone in the holiday mood.
 
-If you have any more to add, please email us all the relevant details[1] at: <content@stmargarets.london>.
+If you have any more to add, please email us all the relevant details[1] at: <content@stmargarets.london](mailto:/a>
+    
+    fn1. For this, and in general, when you pass along an event for us to post, you really need to give us more than a one line email... in fact, I probably won't bother posting a one line event.
+    
+
+---
+
+We have been searching high and low and have pulled together a few events to get everyone in the holiday mood.
+
+If you have any more to add, please email us all the relevant details[1] at: <content@stmargarets.london).
 
 #### The Crystal Grotto
 

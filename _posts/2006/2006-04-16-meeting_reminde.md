@@ -6,7 +6,7 @@ commentfile: 2006-04-16-meeting_reminde
 category: around_town
 date: 2006-04-16 08:43:24
 excerpt: |
-    On the 18<sup>th</sup> April at Winchester Hall in the Turk's Head, there will be a <a href="/event/Meeting/200603301410.">meeting to review the best submissions for the new play area at Moormead Park</a>  This meeting is a follow-up from the most recent <a href="/archives/2006/03/notes_from_moor.html.">Moormead Park Meeting</a>  Hamish Waugh, Project Manager for Parks & Open Spaces Richmond upon Thames, is running the meeting and asking any interested residents and children to review the three best proposals for the playground's redevelopment.
+    On the 18<sup>th</sup> April at Winchester Hall in the Turk's Head, there will be a <a href="/event/Meeting/200603301410">meeting to review the best submissions for the new play area at Moormead Park</a>  This meeting is a follow-up from the most recent <a href="/archives/2006/03/notes_from_moor.html">Moormead Park Meeting</a>  Hamish Waugh, Project Manager for Parks & Open Spaces Richmond upon Thames, is running the meeting and asking any interested residents and children to review the three best proposals for the playground's redevelopment.
 
 ---
 

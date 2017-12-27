@@ -11,7 +11,7 @@ excerpt: |
 
     _Want to play at the Christmas Fair?_
 
-    The 2011 St Margarets Christmas Fair takes place on Sunday 4<sup>th</sup> December in Crown Road. If you are interesting in showcasing your band or group at the fair please contact Alistair at <a href="mailto:livemusic@blueyonder.co.uk.">livemusic@blueyonder.co.uk</a>
+    The 2011 St Margarets Christmas Fair takes place on Sunday 4<sup>th</sup> December in Crown Road. If you are interesting in showcasing your band or group at the fair please contact Alistair at <a href="mailto:livemusic@blueyonder.co.uk">livemusic@blueyonder.co.uk</a>
 
 
 ---

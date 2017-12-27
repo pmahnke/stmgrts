@@ -32,8 +32,10 @@ Cllr Pamela Fleming, Richmond Council Cabinet Member for Environment and Plannin
 
 "Village Planning has given everyone a chance to identify priorities for their area and we have seen how passionate people are about where they live and work. They have a strong vision for the future of their community. This fund will help make some of the community ideas and initiatives a reality.
 
-"Anyone with an idea... submit it now before the 14<sup>th</sup> August 2017".
+"Anyone with an idea... submit it now before the 14[sup>th</sup> August 2017".
 
-For more details on how to apply and the criteria contact your local Community Links Officer: <allinone@richmond.gov.uk> and visit the website: [www.richmond.gov.uk/village\_planning\_fund](http://www.richmond.gov.uk/village_planning_fund)
+For more details on how to apply and the criteria contact your local Community Links Officer: <allinone@richmond.gov.uk](mailto:sup>th</sup> August 2017".
+
+For more details on how to apply and the criteria contact your local Community Links Officer: <allinone@richmond.gov.uk) and visit the website: [www.richmond.gov.uk/village\_planning\_fund](http://www.richmond.gov.uk/village_planning_fund)
 
 <cite>-- from a Richmond Council press release</cite>

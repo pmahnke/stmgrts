@@ -8,7 +8,7 @@ date: 2015-07-02 22:17:48
 excerpt: |
     <a href="/assets/images/2015/RSS_Taming-of-the-Shrew.jpg" title="See larger version of - RSS Taming of the Shrew"><img src="/assets/images/2015/RSS_Taming-of-the-Shrew_thumb.jpg" width="150" height="221" alt="RSS Taming of the Shrew" class="photo right" /></a>
     
-    Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging The Taming of the Shrew  by William Shakespeare  from <a href="https://stmargarets.london/event/play/200705145122.">Monday 20<sup>th</sup> to Saturday 25<sup>th</sup> July at the Fountain Gardens, Twickenham Riverside</a>
+    Richmond Shakespeare Society (RSS) - one of the borough's longest-standing theatre companies - is staging The Taming of the Shrew  by William Shakespeare  from <a href="https://stmargarets.london/event/play/200705145122">Monday 20<sup>th</sup> to Saturday 25<sup>th</sup> July at the Fountain Gardens, Twickenham Riverside</a>
     
 
 ---

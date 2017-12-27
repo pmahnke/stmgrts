@@ -14,7 +14,7 @@ excerpt: |
     
     What do YOU think about the consultation process?
     
-    Participate in a <a href="https://stmargarets.london/event/meeting/200705141986.">Borough Meeting with the Richmond United Group</a>
+    Participate in a <a href="https://stmargarets.london/event/meeting/200705141986">Borough Meeting with the Richmond United Group</a>
     
     The Sustainable Communities Act is launched on 14 October, the day of the Borough Meeting.  One of the group that campaigned for this Act of Parliament will speak at the meeting.
     

@@ -51,6 +51,6 @@ Cllr Pamela Fleming, Richmond Council Cabinet Member for Environment and Plannin
 
 "I hope community organisations and local groups will get involved and work with Council officers and local ward councillors to bring forward strong project proposals for funding.
 
-For more details on how to apply and the criteria contact your local Community Links Officer: <allinone@richmond.gov.uk> and visit the website: [www.richmond.gov.uk/village\_planning\_fund](http://www.richmond.gov.uk/village_planning_fund)
+For more details on how to apply and the criteria contact your local Community Links Officer: [allinone@richmond.gov.uk](mailto:allinone@richmond.gov.uk) and visit the website: [www.richmond.gov.uk/village\_planning\_fund](http://www.richmond.gov.uk/village_planning_fund)
 
 <cite>-- from a Richmond Council press release</cite>

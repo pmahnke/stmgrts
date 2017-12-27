@@ -10,7 +10,7 @@ excerpt: |
     
     Following Jim McCluskey's popular exhibition of paintings shown from 16<sup>th</sup> to 25<sup>th</sup> September, at the 12 Richmond Hill Art Gallery, the exhibition will reopen for a further two weeks.
     
-    The opening times will be from <a href="https://stmargarets.london/event/show/200705143069.">3<sup>rd</sup> to 16<sup>th</sup> October 2011</a>
+    The opening times will be from <a href="https://stmargarets.london/event/show/200705143069">3<sup>rd</sup> to 16<sup>th</sup> October 2011</a>
     
     Jim McCluskey will be at the gallery when it will be open from 5.30 pm to 7.00 pm in weekdays.
     

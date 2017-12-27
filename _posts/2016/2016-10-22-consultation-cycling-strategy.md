@@ -23,7 +23,7 @@ Our strategy has three aims to help us meet make our cycling vision a reality:
 
 Whether you cycle or not we would like to hear your views on how we can improve cycling in Richmond borough. Your comments will help us understand what we need to do to get more people cycling.
 
-Please ensure you read [the strategy document](/assets/images/2016/draft_cycling_strategy_Oct_2016.pdf) before you complete the online survey. If you require paper copies of the strategy or the questionnaire please contact us on 020 8891 7660 or <highwaysandtransport@richmond.gov.uk>
+Please ensure you read [the strategy document](/assets/images/2016/draft_cycling_strategy_Oct_2016.pdf) before you complete the online survey. If you require paper copies of the strategy or the questionnaire please contact us on 020 8891 7660 or [highwaysandtransport@richmond.gov.uk](mailto:highwaysandtransport@richmond.gov.uk)
 
 The Council are hosting drop-in events where you can find out more and give us your views. The details of these can be found on the right hand side of this page.
 

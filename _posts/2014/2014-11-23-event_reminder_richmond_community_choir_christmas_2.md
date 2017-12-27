@@ -8,7 +8,7 @@ date: 2014-11-23 07:16:35
 excerpt: |
     <a href="/assets/images/2014/Richmond-Community-Choir-Christmas-2014.jpg" title="See larger version of - Richmond Community Choir Christmas 2014"><img src="/assets/images/2014/Richmond-Community-Choir-Christmas-2014_thumb.jpg" width="150" height="212" alt="Richmond Community Choir Christmas 2014" class="photo right" /></a>
     
-    Richmond Community Choir and the Martineau Brass Quintet presents a Christmas Concert with old and new pieces, carols and mince-pies, at <a href="https://stmargarets.london/event/concert/200705144756.">7.30pm on 11 December 2014 at the Church of St John the Divine, Kew Road, Richmond</a>
+    Richmond Community Choir and the Martineau Brass Quintet presents a Christmas Concert with old and new pieces, carols and mince-pies, at <a href="https://stmargarets.london/event/concert/200705144756">7.30pm on 11 December 2014 at the Church of St John the Divine, Kew Road, Richmond</a>
 
 ---
 

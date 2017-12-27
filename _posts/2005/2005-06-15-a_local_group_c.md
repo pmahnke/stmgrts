@@ -56,8 +56,8 @@ We already have a big problem with people passing through who park in the loadin
 
 First off, there are two people to write to ask the Council to enforce current restrictions (i.e. "a Transit van for 20 minutes, and no parking"):
 
--   **Matthew Hill** -- he is the senior manager responsible for Transport - email <Matthew.Hill@richmond.gov.uk>
--   **Councillor Kreling** *Cabinet Member for Transport* -- he is currently reviewing the whole matter -- email <cllr.MKreling@richmond.gov.uk>
+-   **Matthew Hill** -- he is the senior manager responsible for Transport - email [Matthew.Hill@richmond.gov.uk](mailto:Matthew.Hill@richmond.gov.uk)
+-   **Councillor Kreling** *Cabinet Member for Transport* -- he is currently reviewing the whole matter -- email [cllr.MKreling@richmond.gov.uk](mailto:cllr.MKreling@richmond.gov.uk)
 -   *don't forget to cc <spasm_2004@hotmail.com> to let SPASM know.*
 
 Second, we need to keep a record of what is going on outside the shop. So that means photos (email to <spasm_2004@hotmail.com> ), and real time reports by SMS of cars/lorries etc that are illegally parked or waiting - That includes Tesco lorries that are far too wide for the loading bay.

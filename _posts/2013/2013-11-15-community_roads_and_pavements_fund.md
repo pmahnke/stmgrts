@@ -16,5 +16,5 @@ As part of the Council's drive to improve the environment of the borough and aft
 
 -   [Submit your suggestion for your village area online](https://consultation.richmond.gov.uk/environment/community_roads_pavements_2014) or fill in a paper copy, available at the Civic Centre or any local library
 -   The closing date for nominations is **13 December 2013**
--   If you have any questions about a suggestion you would like to make please contact <highwaysandtransport@richmond.gov.uk>
+-   If you have any questions about a suggestion you would like to make please contact [highwaysandtransport@richmond.gov.uk](mailto:highwaysandtransport@richmond.gov.uk)
 -   [more information](http://richmond.gov.uk/fund)

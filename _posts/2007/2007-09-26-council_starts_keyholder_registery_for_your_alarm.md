@@ -12,10 +12,10 @@ Richmond Council is now maintaining a "keyholder" registry for any premises with
 
 **Residential premises**
 
-If you have an audible intruder alarm at your house, and would like to register contact details with us, you can email <residentialeh@richmond.gov.uk>, phone on 8891-7800 or 8891-1411 ext 4451, or write to the Residential Team, Richmond Council, Room 118, The Civic Centre, 44 York Street, Twickenham, TW1 3BZ.
+If you have an audible intruder alarm at your house, and would like to register contact details with us, you can email [residentialeh@richmond.gov.uk](mailto:residentialeh@richmond.gov.uk), phone on 8891-7800 or 8891-1411 ext 4451, or write to the Residential Team, Richmond Council, Room 118, The Civic Centre, 44 York Street, Twickenham, TW1 3BZ.
 
 **Commercial premises**
 
-For commercial premises, please call 8891-7994, email <commercialeh@richmond.gov.uk> or write to Commercial Environmental Health, 7B Parkshot, Richmond, TW9 2RT.
+For commercial premises, please call 8891-7994, email [commercialeh@richmond.gov.uk](mailto:commercialeh@richmond.gov.uk) or write to Commercial Environmental Health, 7B Parkshot, Richmond, TW9 2RT.
 
 <cite>-- Steve Davis, Sergeant in charge of the St Margarets & Twickenham North Safer Neighbourhoods Team<cite>

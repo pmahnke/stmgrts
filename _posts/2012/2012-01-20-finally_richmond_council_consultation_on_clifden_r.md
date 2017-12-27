@@ -21,7 +21,7 @@ LAST year, the Council agreed to buy the Clifden Road site of Richmond Adult Com
 
 The Council is aware that many people in the borough hold strong views on the type of education, if any, that should be provided at Clifden Road. This consultation provides an opportunity for residents to have their say on the proposals for the site.
 
-Your views are important to us and the information you provide will help the Council understand residents' concerns and priorities prior to making its decision about how the site will be used. Please complete the survey by 5 pm on the 16<sup>th</sup> March 2012. You can complete the survey online or you can request a paper copy by contacting Matthew Paul by email <m.paul@richmond.gov.uk> or by phone 8891 7588.
+Your views are important to us and the information you provide will help the Council understand residents' concerns and priorities prior to making its decision about how the site will be used. Please complete the survey by 5 pm on the 16[sup>th</sup> March 2012. You can complete the survey online or you can request a paper copy by contacting Matthew Paul by email <m.paul@richmond.gov.uk](mailto:sup>th</sup> March 2012. You can complete the survey online or you can request a paper copy by contacting Matthew Paul by email <m.paul@richmond.gov.uk) or by phone 8891 7588.
 
 Please read through the consultation documents and the glossary before completing the survey.
 

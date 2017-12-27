@@ -15,9 +15,9 @@ excerpt: |
     
     Don't forget to wear something spotty. There's a magnificent prize for the person wearing the spottiest outfit.
     
-    Register today at <a href="http://www.bowelcancer.tv/.">www.bowelcancer.tv</a>
+    Register today at <a href="http://www.bowelcancer.tv/">www.bowelcancer.tv</a>
     
-    Any questions, please do drop us a line <a href="mailto:info@bowelcancer.tv.">info@bowelcancer.tv</a>
+    Any questions, please do drop us a line <a href="mailto:info@bowelcancer.tv">info@bowelcancer.tv</a>
     
 
 ---

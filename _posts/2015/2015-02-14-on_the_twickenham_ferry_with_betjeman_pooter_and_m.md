@@ -26,7 +26,7 @@ And amongst the friends at this imaginary gathering is Charles Pooter, from Geor
 
 And so, being something of a Victorian party animal and <em>"Twickenham Ferry"</em> such a recent hit, Mr Pooter duly obliged...
 
-|<a href="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing."><img src="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
+|<a href="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand.JPG" title="See larger version of - Pooter painting the washstand"><img src="/assets/images/2015/TWICKFERRY_Pooter_painting_the_washstand_thumb.JPG" width="250" height="288" alt="Pooter painting the washstand" class="photo" /></a>|<a href="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" title="See larger version of - Mr and Mrs Pooter practise dancing"><img src="/assets/images/2015/TWICKFERRY_Mr_and_Mrs_Pooter_practise_dancing..JPG" width="250" height="316" alt="Mr and Mrs Pooter practise dancing." class="photo" /></a>|
 
 <pre markdown="1" class="poem">
 

@@ -8,7 +8,7 @@ date: 2008-01-17 08:31:55
 
 ---
 
-<a href="/assets/images/2008/rsc_inspectorcalls.jpg" title="See larger version of -  Jonathan Dunn and Elizabeth Madgwick as Gerald Croft and Sheila Birling finding that the path of true love does not always run smooth when An Inspector Calls."><img src="/assets/images/2008/rsc_inspectorcalls_thumb.jpg" width="150" height="112" alt=" Jonathan Dunn and Elizabeth Madgwick as Gerald Croft and Sheila Birling finding that the path of true love does not always run smooth when An Inspector Calls." class="photo right" /></a>
+<a href="/assets/images/2008/rsc_inspectorcalls.jpg" title="See larger version of -  Jonathan Dunn and Elizabeth Madgwick as Gerald Croft and Sheila Birling finding that the path of true love does not always run smooth when An Inspector Calls"><img src="/assets/images/2008/rsc_inspectorcalls_thumb.jpg" width="150" height="112" alt=" Jonathan Dunn and Elizabeth Madgwick as Gerald Croft and Sheila Birling finding that the path of true love does not always run smooth when An Inspector Calls." class="photo right" /></a>
 
 Three first-class first-timers take the stage at Twickenham's Mary Wallace Theatre this weekend -- in the classic J B Priestley thriller [An Inspector Calls](/event/auction/200705141773).
 

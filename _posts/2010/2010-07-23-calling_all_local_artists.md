@@ -12,4 +12,4 @@ The autumn edition of the My St Margarets Magazine is due do feature local artis
 
 Would you like to be included?
 
-If so send a short piece about yourself and some photos of your work to Jeannine the magazine editor at <magazine@mystmargarets.com>. To be considered for the autumn edition please ensure that your email arrives by 30 July 2010.
+If so send a short piece about yourself and some photos of your work to Jeannine the magazine editor at [magazine@mystmargarets.com](mailto:magazine@mystmargarets.com). To be considered for the autumn edition please ensure that your email arrives by 30 July 2010.

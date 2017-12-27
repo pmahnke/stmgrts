@@ -6,7 +6,7 @@ commentfile: 2006-03-16-stellar_night_a
 category: around_town
 date: 2006-03-16 10:57:03
 excerpt: |
-    Toby Hartwell updates us following his very successful <a href="/archives/2006/02/a_starstudded_n.html">charity event</a> that raised nearly  &pound;2000 for the <a href="/cgi-bin/directory.cgi?key=200602091019&action=getlisting.">Shooting Star Children's Hospice</a>  The event was part of Toby's campaign for running in this year's London Marathon.
+    Toby Hartwell updates us following his very successful <a href="/archives/2006/02/a_starstudded_n.html">charity event</a> that raised nearly  &pound;2000 for the <a href="/cgi-bin/directory.cgi?key=200602091019&action=getlisting">Shooting Star Children's Hospice</a>  The event was part of Toby's campaign for running in this year's London Marathon.
     
 
 ---

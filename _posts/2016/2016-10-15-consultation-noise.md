@@ -29,4 +29,4 @@ To take part in the consultation visit:
 
 -   [www.richmond.gov.uk/draft\_supplementary\_planning\_documents.htm](http://www.richmond.gov.uk/draft_supplementary_planning_documents.htm)
 
-The consultation documents can also be viewed at the Council's Civic Centre in York Street and all of the borough's libraries. You can respond by email to <LocalPlan@richmond.gov.uk> or by post to Policy and Design, London Borough of Richmond upon Thames, Civic Centre, 44 York Street, Twickenham, TW1 3BZ.
+The consultation documents can also be viewed at the Council's Civic Centre in York Street and all of the borough's libraries. You can respond by email to [LocalPlan@richmond.gov.uk](mailto:LocalPlan@richmond.gov.uk) or by post to Policy and Design, London Borough of Richmond upon Thames, Civic Centre, 44 York Street, Twickenham, TW1 3BZ.

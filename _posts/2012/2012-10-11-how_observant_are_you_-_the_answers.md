@@ -6,7 +6,7 @@ commentfile: 2012-10-11-how_observant_are_you_-_the_answers
 category: around_town
 date: 2012-10-11 20:26:59
 excerpt: |
-    Answers to the <a href="https://stmargarets.london/archives/2012/10/how_observant_are_you.html.">a quiz</a>
+    Answers to the <a href="https://stmargarets.london/archives/2012/10/how_observant_are_you.html">a quiz</a>
     
 
 ---

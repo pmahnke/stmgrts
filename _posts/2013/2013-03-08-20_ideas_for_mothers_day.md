@@ -9,7 +9,7 @@ excerpt: |
     Here are 20 Ideas for Mother's Day...whether you're looking for some time off, or a special day with the family...
     
     # *Tea and flowers*
-    Petersham Nurseries resident florists Ronny de Koning and Thomas Broom will be making beautiful and fragrant, seasonal hand-tied bouquets for Mother's Day which you can pre-order from Friday 8<sup>th</sup>. If you are coming for lunch at Petersham Nurseries Caf&#233; on Mother's Day, you can pre-order to have your bouquet delivered to your table! To order, call 020 8940 5230 or email <a href="mailto:nfo@petershamnurseries.com.">nfo@petershamnurseries.com</a>
+    Petersham Nurseries resident florists Ronny de Koning and Thomas Broom will be making beautiful and fragrant, seasonal hand-tied bouquets for Mother's Day which you can pre-order from Friday 8<sup>th</sup>. If you are coming for lunch at Petersham Nurseries Caf&#233; on Mother's Day, you can pre-order to have your bouquet delivered to your table! To order, call 020 8940 5230 or email <a href="mailto:nfo@petershamnurseries.com">nfo@petershamnurseries.com</a>
     # *Get green-fingered for Mother's Day*
     From Thursday 7<sup>th</sup> - Sunday 10<sup>th</sup>, Squires Garden Centre, Twickenham is giving your kids the chance to get creative and plant their own container featuring three colourful flowers and a pretty bow.
     # *Enjoy Mother's Day lunch with Upsy Daisy!*

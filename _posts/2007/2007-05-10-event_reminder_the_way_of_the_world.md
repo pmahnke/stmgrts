@@ -6,7 +6,7 @@ commentfile: 2007-05-10-event_reminder_the_way_of_the_world
 category: around_town
 date: 2007-05-10 13:47:06
 excerpt: |
-    There's a time-travel opportunity coming up soon, for one week only, at the Mary Wallace Theatre. On May 19th Twickenham's delightful club theatre will be transformed into an early 1700s playhouse, for William Congreve's <a href="https://stmargarets.london/event/Play/200705100745.">The Way of the World</a>
+    There's a time-travel opportunity coming up soon, for one week only, at the Mary Wallace Theatre. On May 19th Twickenham's delightful club theatre will be transformed into an early 1700s playhouse, for William Congreve's <a href="https://stmargarets.london/event/Play/200705100745">The Way of the World</a>
 
 ---
 

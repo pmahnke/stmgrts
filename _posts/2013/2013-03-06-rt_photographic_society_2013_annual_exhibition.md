@@ -8,7 +8,7 @@ date: 2013-03-06 17:07:20
 excerpt: |
     <a href="/assets/images/2013/RTPS-Exhibition-Poster-2013.jpg" title="See larger version of - RTPS Exhibition Poster 2013"><img src="/assets/images/2013/RTPS-Exhibition-Poster-2013_thumb.jpg" width="150" height="213" alt="RTPS Exhibition Poster 2013" class="photo right" /></a>
     
-    The Richmond & Twickenham Photographic Society are holding their annual exhibition at <a href="https://stmargarets.london/event/show/200705143808.">The Landmark Arts Centre in Teddington, from 20 March to 1 April</a>
+    The Richmond & Twickenham Photographic Society are holding their annual exhibition at <a href="https://stmargarets.london/event/show/200705143808">The Landmark Arts Centre in Teddington, from 20 March to 1 April</a>
 
 ---
 

@@ -6,7 +6,7 @@ commentfile: 2013-01-17-event_reminder_second_twickenham_hyperlocal_meet_u
 category: around_town
 date: 2013-01-17 21:02:18
 excerpt: |
-    The following is an invite from the very excellent <a href="https://twickerati.wordpress.com/2013/01/06/twickenham-hyperlocal-tweet-up/#more-8357.">Twickerati website</a>  We went to last year's event and had a great time, so we will be heading over this year as well.  If you fancy a pint and a chat about all things local, come along and say 'hello'. 
+    The following is an invite from the very excellent <a href="https://twickerati.wordpress.com/2013/01/06/twickenham-hyperlocal-tweet-up/#more-8357">Twickerati website</a>  We went to last year's event and had a great time, so we will be heading over this year as well.  If you fancy a pint and a chat about all things local, come along and say 'hello'. 
 
 ---
 

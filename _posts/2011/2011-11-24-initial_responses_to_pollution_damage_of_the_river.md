@@ -13,7 +13,7 @@ excerpt: |
 
 ---
 
-<a href="/assets/images/2011/FORCEvolday.JPG" title="See larger version of - Jo Tipping helping to weed the hedge we planted last year."><img src="/assets/images/2011/FORCEvolday_thumb.JPG" width="150" height="229" alt="Jo Tipping helping to weed the hedge we planted last year." class="photo right" /></a>
+<a href="/assets/images/2011/FORCEvolday.JPG" title="See larger version of - Jo Tipping helping to weed the hedge we planted last year"><img src="/assets/images/2011/FORCEvolday_thumb.JPG" width="150" height="229" alt="Jo Tipping helping to weed the hedge we planted last year." class="photo right" /></a>
 
 Late last month there was a devastating pollution incident on the River Crane that killed at least 10,000 fish and is likely to take several years to fully recover from. The Friends of the River Crane Environment (FORCE) is a local volunteer group that has been working to improve the Crane corridor for the last eight years and last Sunday the group held its first volunteer event since the pollution spill.
 

@@ -20,4 +20,4 @@ So far we have confirmation that:
 -   St James
     [... more schools and Richmond Council services listed here](http://richmond.gov.uk/home/policing_and_public_safety/accidents_emergencies_and_safety/emergency_planning/guidance_on_specific_incidents/winter_weather.htm)
 
-Any more reports, please email <content@stmargarets.london>
+Any more reports, please email [content@stmargarets.london](mailto:content@stmargarets.london)

@@ -52,7 +52,7 @@ After 40 years as the Rector of Sutton-under-Brailes in Warwickshire, in 1900 Re
 There is little interest in "Shirley" today but in the early part of the 20<sup>th</sup> century it was a firm favourite with young aspiring women, including Virginia Woolf, Vera Brittain and Barbara Pym. The book's appeal lay in its independently minded heroine, Shirley Keeldar, described by Bronte as "the first blue stocking" and her determination to make her own way in the world.
 
 <div markdown="1" class="box">
-<a href="/assets/images/2013/SWEETING_shirley_crabtree_jr.jpg" title="See larger version of - Shirley Crabtree Jr."><img src="/assets/images/2013/SWEETING_shirley_crabtree_jr_thumb.jpg" width="150" height="276" alt="Shirley Crabtree Jr." class="photo left" /></a>
+<a href="/assets/images/2013/SWEETING_shirley_crabtree_jr.jpg" title="See larger version of - Shirley Crabtree Jr"><img src="/assets/images/2013/SWEETING_shirley_crabtree_jr_thumb.jpg" width="150" height="276" alt="Shirley Crabtree Jr." class="photo left" /></a>
 
 The novel's popularity resulted in 'Shirley' becoming a woman's name. Before its publication Shirley was a man's name. In the novel the title character, Shirley Keeldar, is given the name that her father had intended to give a son. There are very few male "Shirleys" around now. Probably the most famous was Shirley Crabtree Jnr - a.k.a Big Daddy, the wrestler. Today Shirley is regarded as a female name.
 

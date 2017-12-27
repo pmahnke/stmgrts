@@ -14,7 +14,7 @@ The [St Margarets Autumn Event](/cgi-bin/events.cgi?key=200507211432&action=gete
 
 One of the main goals of the event is for *local people to raise funds for local projects*. Fair organisers are still looking for local groups to come forward and set-up a stall or run a game at the fair.
 
-The fair organisers, the *St Margarets Trader's Association* (<traders@stmargarets.london>, need to hear from you if you would like to help with fund raising or help with organising the event.
+The fair organisers, the *St Margarets Trader's Association* ([traders@stmargarets.london](mailto:traders@stmargarets.london), need to hear from you if you would like to help with fund raising or help with organising the event.
 
 Since the event is for the community, the community needs to help with the event.
 

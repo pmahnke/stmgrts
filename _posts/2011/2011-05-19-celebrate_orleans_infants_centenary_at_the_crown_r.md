@@ -8,7 +8,7 @@ date: 2011-05-19 16:11:22
 
 ---
 
-[Orleans Infants School](/directory/school/200506280125) are hoping to raise funds at the fair to help with their refurbishment project. The school are producing a 1911 themed programme and are looking for any local photographs of the era that could be included in their programme. If you can help please contact <traders@mystmargarets.com> and we'll pass your details on to the school.
+[Orleans Infants School](/directory/school/200506280125) are hoping to raise funds at the fair to help with their refurbishment project. The school are producing a 1911 themed programme and are looking for any local photographs of the era that could be included in their programme. If you can help please contact [traders@mystmargarets.com](mailto:traders@mystmargarets.com) and we'll pass your details on to the school.
 
 #### CROWN ROAD COMMUNITY FAIR
 

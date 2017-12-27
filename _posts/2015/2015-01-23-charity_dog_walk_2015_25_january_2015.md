@@ -10,7 +10,7 @@ excerpt: |
     
     Get 2015 off to a brisk start with a dog walk in Richmond Park and raise money for the Royal Marsden Cancer Charity.
     
-    All Welcome to come along. There's no entry free but <a href="http://uk.virginmoneygiving.com/team/dogwalk2015.">please donate or sponsor online</a>
+    All Welcome to come along. There's no entry free but <a href="http://uk.virginmoneygiving.com/team/dogwalk2015">please donate or sponsor online</a>
 
 ---
 

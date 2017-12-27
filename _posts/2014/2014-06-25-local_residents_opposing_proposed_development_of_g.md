@@ -12,7 +12,7 @@ date: 2014-06-25 07:05:06
 
 By now many of you will have heard that the Council are looking to develop the site along the riverside to house the 'Gloriana'. They require an area that can put the boat into dry dock and of three proposed areas; we have now learnt the Council favour this area alongside the playground. Luckily we have heard about it before it has gone to a public consultation stage, so we have time to act and get a working group together to fight this proposal.
 
-We now need to all individually contact the local Councillor for the area Susan Chappell <Cllr.SChappell@richmond.gov.uk> to voice our objections, as well as to <d.allister@richmond.gov.uk> from the planning department. Though this is probably early in the process, we might as well start to get our views heard.
+We now need to all individually contact the local Councillor for the area Susan Chappell [Cllr.SChappell@richmond.gov.uk](mailto:Cllr.SChappell@richmond.gov.uk) to voice our objections, as well as to [d.allister@richmond.gov.uk](mailto:d.allister@richmond.gov.uk) from the planning department. Though this is probably early in the process, we might as well start to get our views heard.
 
 Other comments I think worth to include:
 

@@ -11,7 +11,7 @@ excerpt: |
 
     _Want to play at the Jubilee Fair?_
 
-    The St Margarets Jubilee Fair and Street Party  Fair takes place on Sunday 3<sup>rd</sup> June in Crown Road. If you are interesting in showcasing your band or group at the fair please contact Alistair at <a href="mailto:livemusic@blueyonder.co.uk.">livemusic@blueyonder.co.uk</a>
+    The St Margarets Jubilee Fair and Street Party  Fair takes place on Sunday 3<sup>rd</sup> June in Crown Road. If you are interesting in showcasing your band or group at the fair please contact Alistair at <a href="mailto:livemusic@blueyonder.co.uk">livemusic@blueyonder.co.uk</a>
 
 
 ---

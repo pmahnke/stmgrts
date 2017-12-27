@@ -8,7 +8,7 @@ date: 2011-06-09 10:38:29
 excerpt: |
     <a href="/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
     
-    It is time for <a href="http://www.richmond.gov.uk/arthouse_open_studios.">ARThouse 2011, Richmond's annual Open Studios Festival</a>
+    It is time for <a href="http://www.richmond.gov.uk/arthouse_open_studios">ARThouse 2011, Richmond's annual Open Studios Festival</a>
     
     Residents and visitors get the chance to experience the abundance of creative talent living and working in the borough. Over the two weekends between 10-19 June artists and creative craftspeople will open their homes and studios to exhibit their work in their own unique environment. Last year's festival involved over 150 artists who exhibited their current creations and project in their homes, studios, community centres and schools.
 
@@ -123,11 +123,15 @@ Studies of the human form, both sculpted using several different clays and finis
 
 #### Heatham House
 
-<a href="/assets/images/2011/arthouse_27.jpg" title="See larger version of - arthouse_27"><img src="/assets/images/2011/arthouse_27_thumb.jpg" width="99" height="105" alt="arthouse_27" class=" right" /></a>
+[a href="/assets/images/2011/arthouse_27.jpg" title="See larger version of - arthouse_27"><img src="/assets/images/2011/arthouse_27_thumb.jpg" width="99" height="105" alt="arthouse_27" class=" right" /></a>
 
 -   Heatham House Youth Centre, Whitton Road, Twickenham, TW1 1BH
 -   020 8288 0950
--   <c.farrugia@richmond.gov.uk>
+-   <c.farrugia@richmond.gov.uk](mailto:a href="/assets/images/2011/arthouse_27.jpg" title="See larger version of - arthouse_27"><img src="/assets/images/2011/arthouse_27_thumb.jpg" width="99" height="105" alt="arthouse_27" class=" right" /></a>
+
+-   Heatham House Youth Centre, Whitton Road, Twickenham, TW1 1BH
+-   020 8288 0950
+-   <c.farrugia@richmond.gov.uk)
 
 *Open: Sat 11, Sun 12, Sat 18, Sun 19*
 

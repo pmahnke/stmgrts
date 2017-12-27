@@ -16,4 +16,4 @@ Sadly, only a day after the *St Margarets Fair*, which officially opened the new
 
 -- *from a local resident*
 
-If you saw, heard or know anything about who might have done this, please let us know at <content@stmargarets.london>.
+If you saw, heard or know anything about who might have done this, please let us know at [content@stmargarets.london](mailto:content@stmargarets.london).

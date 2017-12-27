@@ -10,7 +10,7 @@ date: 2012-04-25 20:26:14
 
 *editor's note: we received this email and are posting as is, as we cannot prove the allegations in the letter, but believe it deserves publishing.*
 
-<div markdown="1" class="letter">
+[div markdown="1" class="letter">
 Dear Editor,
 
 Lord True (Leader of Richmond Council) and the Planning Office have covered-up a highly critical report, produced by their own advisory group, concerning the residential development over Twickenham Railway Station.
@@ -19,8 +19,17 @@ The detailed and extensive report (+80 pages) was prepared by the Twickenham Adv
 
 I would like the help of your readers to obtain answers to some very basic questions from:
 
--   Lord True - *Leader of Richmond Council* - <Cllr.LordTrue@richmond.gov.uk>
--   Paul Chadwick - *Council Director of Environment* - <P.Chadwick@richmond.gov.uk>
+-   Lord True - *Leader of Richmond Council* - <Cllr.LordTrue@richmond.gov.uk](mailto:div markdown="1" class="letter">
+Dear Editor,
+
+Lord True (Leader of Richmond Council) and the Planning Office have covered-up a highly critical report, produced by their own advisory group, concerning the residential development over Twickenham Railway Station.
+
+The detailed and extensive report (+80 pages) was prepared by the Twickenham Advisory Panel (TAP). Lord True formed TAP to act as an 'honest broker' - providing a forum for open dialogue between the community and the developer (Solum). The report was prepared to follow up the questions raised during the public consultation event held at Richmond College in July 2011.
+
+I would like the help of your readers to obtain answers to some very basic questions from:
+
+-   Lord True - *Leader of Richmond Council* - <Cllr.LordTrue@richmond.gov.uk)
+-   Paul Chadwick - *Council Director of Environment* - [P.Chadwick@richmond.gov.uk](mailto:P.Chadwick@richmond.gov.uk)
 
 Questions:
 

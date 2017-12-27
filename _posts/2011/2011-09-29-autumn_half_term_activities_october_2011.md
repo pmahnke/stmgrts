@@ -8,12 +8,17 @@ date: 2011-09-29 10:56:01
 excerpt: |
     <a href="/assets/images/2017/autumn_leaves.jpg" title="Click for a larger image"><img src="/assets/images/2017/autumn_leaves-thumb.jpg" width="150" alt="Image - autumn_leaves"  class="photo right"/></a>
 
-    Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at <a href="mailto:content@stmargarets.london">content@stmargarets.london</a> or add a comment.
+    Here are a few things to do this October Half-term with the kids.  If you know of any more events, either email them to us at <a href="mailto:content@stmargarets.london">content@stmargarets.london[/a> or add a comment.
 ---
 
 <a href="/assets/images/2017/autumn_leaves.jpg" title="Click for a larger image"><img src="/assets/images/2017/autumn_leaves-thumb.jpg" width="250" alt="Image - autumn_leaves"  class="photo right"/></a>
 
-Here are a few things to do this October Half-term with the kids. If you know of any more events, either email them to us at <content@stmargarets.london> or add a comment.
+Here are a few things to do this October Half-term with the kids. If you know of any more events, either email them to us at <content@stmargarets.london](mailto:/a> or add a comment.
+---
+
+<a href="/assets/images/2017/autumn_leaves.jpg" title="Click for a larger image"><img src="/assets/images/2017/autumn_leaves-thumb.jpg" width="250" alt="Image - autumn_leaves"  class="photo right"/></a>
+
+Here are a few things to do this October Half-term with the kids. If you know of any more events, either email them to us at <content@stmargarets.london) or add a comment.
 
 #### Orleans House Gallery
 

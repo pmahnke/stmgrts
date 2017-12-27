@@ -9,7 +9,7 @@ excerpt: |
     <a href="/assets/images/2009/rockdancers.jpg"><img src="/assets/images/2009/rockdancers-thumb.jpg" width="150" height="98" alt="Bunny Hoppers" class="photo right" /></a>
     
     
-    <a href="https://stmargarets.london/event/show/200705142092.">On Saturday 25th April, drape suited, crepe booted rock 'n' roll returns to Eel Pie Island with an Easter Bunny Hop at Richmond Yacht Club</a> As well as gen-u-ine 50's and 60's rock and pop music from everyone's local favourites 'Nark Drool and the Shudders' there will be a licensed bar, hot food and a free dance lesson! Jumping Jivers, Batman!
+    <a href="https://stmargarets.london/event/show/200705142092">On Saturday 25th April, drape suited, crepe booted rock 'n' roll returns to Eel Pie Island with an Easter Bunny Hop at Richmond Yacht Club</a> As well as gen-u-ine 50's and 60's rock and pop music from everyone's local favourites 'Nark Drool and the Shudders' there will be a licensed bar, hot food and a free dance lesson! Jumping Jivers, Batman!
     
 
 ---

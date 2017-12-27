@@ -8,7 +8,7 @@ date: 2014-11-06 21:24:22
 excerpt: |
     <a href="/assets/images/2014/hollylodge---christmas-concert-2014.jpg" title="See larger version of - hollylodge   christmas concert 2014"><img src="/assets/images/2014/hollylodge---christmas-concert-2014_thumb.jpg" width="150" height="207" alt="hollylodge   christmas concert 2014" class="photo right" /></a>
     
-    St Mary Magdalene Church, Paradise Road, Richmond will come alive with the sounds of Christmas at <a href="https://stmargarets.london/event/show/200705144730.">7 pm, 2 December when the Holly Lodge Centre presents its 8<sup>th</sup> annual Christmas concert</a>  The event will be hosted by Adrian Mills and will feature choirs from the Sheen Mount School in East Sheen and the Clarendon School in Hampton as well as readings by Claire Tomalin and Tim McMullan.
+    St Mary Magdalene Church, Paradise Road, Richmond will come alive with the sounds of Christmas at <a href="https://stmargarets.london/event/show/200705144730">7 pm, 2 December when the Holly Lodge Centre presents its 8<sup>th</sup> annual Christmas concert</a>  The event will be hosted by Adrian Mills and will feature choirs from the Sheen Mount School in East Sheen and the Clarendon School in Hampton as well as readings by Claire Tomalin and Tim McMullan.
 
 ---
 

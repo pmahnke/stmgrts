@@ -28,4 +28,4 @@ The traders association with support from Richmond council has been actively see
 
 The Traders Association will be also launching the St Margarets magazine in November. The magazine will include news and information about all the latest ranges of offer in St Margarets along with recommendations for your festive table.
 
-We would also like to include some local stories, recommendations, pictures and illustrations. If you would like to submit an article or favourite picture for inclusion in the magazine please contact the editor at <events@stmargarets.london>
+We would also like to include some local stories, recommendations, pictures and illustrations. If you would like to submit an article or favourite picture for inclusion in the magazine please contact the editor at [events@stmargarets.london](mailto:events@stmargarets.london)

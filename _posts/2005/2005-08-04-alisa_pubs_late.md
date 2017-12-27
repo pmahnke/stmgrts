@@ -19,4 +19,4 @@ from Councillor Annie Hambidge
 **Contact Information**
 
 -   Phone 07813 362477
--   Email: <cllr.ahambidge@richmond.gov.uk>
+-   Email: [cllr.ahambidge@richmond.gov.uk](mailto:cllr.ahambidge@richmond.gov.uk)

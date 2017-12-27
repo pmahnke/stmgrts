@@ -15,4 +15,4 @@ So far we have confirmation that:
 -   District line is suspended between Earls Court and Richmond
 -   St Stephens School is closed
 
-Any more reports, please email <content@stmargarets.london>
+Any more reports, please email [content@stmargarets.london](mailto:content@stmargarets.london)

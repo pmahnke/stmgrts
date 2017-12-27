@@ -10,7 +10,7 @@ date: 2005-08-03 12:04:58
 
 With this listing we are introducing a new section to the St Margarets Community Website, *local recipes from local residents*. We hope you will enjoy some of these cooking ideas.
 
-If you would like to contribute a recipe, please email us at <content@stmargarets.london>.
+If you would like to contribute a recipe, please email us at [content@stmargarets.london](mailto:content@stmargarets.london).
 
 <div markdown="1" class="recipe">
 ### St Margarets Souvlakia

@@ -15,4 +15,4 @@ date: 2009-05-16 07:36:26
 -   Oyetona Raheem
     Interim Committee Manager
 -   phone: 020 8891 7813
--   email: <oyetona.raheem@richmond.gov.uk>
+-   email: [oyetona.raheem@richmond.gov.uk](mailto:oyetona.raheem@richmond.gov.uk)

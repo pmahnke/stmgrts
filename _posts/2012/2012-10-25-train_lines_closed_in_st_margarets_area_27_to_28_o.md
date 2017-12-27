@@ -10,7 +10,7 @@ excerpt: |
     
     _Planned engineering work is taking place across the South West Trains network on Saturday 26 and Sunday 27 January 2013._
     
-    For full details including timetables, please visit the <a href="http://www.southwesttrains.co.uk/JanEng2013.aspx">Engineering Work section</a> of our website and to plan your journey, please use the National Rail Enquiries real-time <a href="http://www.nationalrail.co.uk/.">Journey Planner</a>
+    For full details including timetables, please visit the <a href="http://www.southwesttrains.co.uk/JanEng2013.aspx">Engineering Work section</a> of our website and to plan your journey, please use the National Rail Enquiries real-time <a href="http://www.nationalrail.co.uk/">Journey Planner</a>
 
 ---
 

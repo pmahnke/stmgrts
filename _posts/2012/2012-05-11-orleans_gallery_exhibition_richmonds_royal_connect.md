@@ -26,5 +26,5 @@ Cllr Pamela Fleming, Richmond Council's Strategic Cabinet Member for Communities
 -   *Free admission*
 -   Gallery open Tuesday-Saturday 1.00-5.30pm, Sunday 2.00-5.30pm
 -   Tel: 020 8831 6000
--   Email: <artsinfo@richmond.gov.uk>
+-   Email: [artsinfo@richmond.gov.uk](mailto:artsinfo@richmond.gov.uk)
 -   Website: [www.richmond.gov.uk/arts](http://www.richmond.gov.uk/arts)

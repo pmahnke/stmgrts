@@ -32,4 +32,4 @@ Richmond Council Cabinet Member for Culture, Cllr Meena Bond, said:
 >  "The role is hugely rewarding and volunteers can take great satisfaction in knowing they are contributing to the provision of arts and the enrichment of the life of the local community."
 > 
 > 
- For more information call Charlotte or Sheila on: 020 8831 6000 or email <artsinfo@richmond.gov.uk> Alternatively visit [www.richmond.gov.uk/orleans\_house\_gallery](http://www.richmond.gov.uk/orleans_house_gallery)
+ For more information call Charlotte or Sheila on: 020 8831 6000 or email [artsinfo@richmond.gov.uk](mailto:artsinfo@richmond.gov.uk) Alternatively visit [www.richmond.gov.uk/orleans\_house\_gallery](http://www.richmond.gov.uk/orleans_house_gallery)

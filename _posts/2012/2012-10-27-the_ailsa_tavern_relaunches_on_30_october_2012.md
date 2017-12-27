@@ -11,7 +11,7 @@ excerpt: |
     
     The Ailsa Tavern has changed managers and is going to relaunch on Tuesday, 30 October 2012 with all new food and updated nights for music and quizzes.  Changes include the addition of an Irish and Scottish music night on Thursdays and &pound;5 lunchtime food specials.
     
-    Check out the pub and check out their new website: <a href="http://www.ailsatavern.com/.">www.ailsatavern.com</a>
+    Check out the pub and check out their new website: <a href="http://www.ailsatavern.com/">www.ailsatavern.com</a>
 
 ---
 

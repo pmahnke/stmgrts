@@ -8,7 +8,7 @@ date: 2008-11-06 11:09:38
 excerpt: |
     !(right) //stmargarets.london/assets/images/directory/200811060457_Crouching_Tiger_Karate.gif (Crouching Tiger Karate logo)!
     
-    There is a new childrens karate programme in St Margarets, <a href="https://stmargarets.london/directory/sports/200811060457.">_Crouching Tiger Karate_</a>
+    There is a new childrens karate programme in St Margarets, <a href="https://stmargarets.london/directory/sports/200811060457">_Crouching Tiger Karate_</a>
     
     Classes are held during school term-time at Winchester Hall.
     

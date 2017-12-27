@@ -6,7 +6,7 @@ commentfile: 2006-11-13-event_reminder_16
 category: around_town
 date: 2006-11-13 21:16:45
 excerpt: |
-    <a href="https://stmargarets.london/directory/wine_aNd_spirits/200511281416">The Good Wine Shop</a> in Isleworth is hosting a special pre-Christmas <a href="https://stmargarets.london/event/Exhibition/200611131514.">wine tasting event</a>
+    <a href="https://stmargarets.london/directory/wine_aNd_spirits/200511281416">The Good Wine Shop</a> in Isleworth is hosting a special pre-Christmas <a href="https://stmargarets.london/event/Exhibition/200611131514">wine tasting event</a>
     
     A selection of more than 50 quality wines will be on offer for guests to sample during the evening event which takes place at Winchester Hall on Wednesday 22nd November, 6.00pm to 9.00pm. 
 

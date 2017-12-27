@@ -8,7 +8,7 @@ date: 2010-12-02 07:16:32
 
 ---
 
-Latest updated on school closures we are aware of. Please email us at <content@stmargarets.london> or tweet us [@stmgrts](http://twitter.com/stmgrts) if you know of more.
+Latest updated on school closures we are aware of. Please email us at [content@stmargarets.london](mailto:content@stmargarets.london) or tweet us [@stmgrts](http://twitter.com/stmgrts) if you know of more.
 
 -   Richmond College CLOSED
     [closed 2 Dec 2010](/l/VnQBn)

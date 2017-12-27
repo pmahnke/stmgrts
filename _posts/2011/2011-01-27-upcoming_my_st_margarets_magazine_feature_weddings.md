@@ -19,4 +19,4 @@ We are looking for local stories about your special day.
 -   Would you just like to tell us how special your day was?
 -   Any pictures?
 
-Please send your wedding stories to <editor@mystmargarets.com>
+Please send your wedding stories to [editor@mystmargarets.com](mailto:editor@mystmargarets.com)

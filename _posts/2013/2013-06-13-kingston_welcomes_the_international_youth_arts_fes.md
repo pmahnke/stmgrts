@@ -6,7 +6,7 @@ commentfile: 2013-06-13-kingston_welcomes_the_international_youth_arts_fes
 category: around_town
 date: 2013-06-13 19:17:11
 excerpt: |
-    The historic riverside town of Kingston upon Thames will be alive with music, dance, theatre and arts performances next month during the sixth annual <a href="http://www.iyafestival.org.uk/iyaf-2013/.">International Youth Arts Festival</a> The 23-day festival is the UK's premier international showcase for outstanding young local, national and international artists and will feature an explosion of talent at venues across the town from 6<sup>th</sup> and 28<sup>th</sup> July.
+    The historic riverside town of Kingston upon Thames will be alive with music, dance, theatre and arts performances next month during the sixth annual <a href="http://www.iyafestival.org.uk/iyaf-2013/">International Youth Arts Festival</a> The 23-day festival is the UK's premier international showcase for outstanding young local, national and international artists and will feature an explosion of talent at venues across the town from 6<sup>th</sup> and 28<sup>th</sup> July.
 
 ---
 

@@ -63,7 +63,7 @@ The rejection of the previous planning application for overuse and congestion is
 
 #### Action Required
 
-1. Prior to July 16th, as many local residents as possible should submit objections to Mr. Bryan Staff at <b.staff@richmond.gov.uk> , telephone: 0845 612 2660.
+1. Prior to July 16th, as many local residents as possible should submit objections to Mr. Bryan Staff at [b.staff@richmond.gov.uk](mailto:b.staff@richmond.gov.uk) , telephone: 0845 612 2660.
 
 According to the Council’s leaflet “Objecting to or supporting a planning application”, suitable grounds for objection include:
 
@@ -83,9 +83,9 @@ Liberal Democrat and Deputy Mayor of the Borough, councillor Ben Khosa.
 Ben can be contacted at
 
 -   15, Tayben Avenue, Twickenham, TW2 7RA, home phone: 0208 408 0586,
-    email: <cllr.bkhosa@richmond.gov.uk>
+    email: [cllr.bkhosa@richmond.gov.uk](mailto:cllr.bkhosa@richmond.gov.uk)
 -   The Mayor's Office, London Borough of Richmond upon Thames, York House, Richmond Road, Twickenham
-    TW1 3AA. Telephone: 020 8891 7123, Fax: 020 8891 7701, e-mail: <mayors.office@richmond.gov.uk>
+    TW1 3AA. Telephone: 020 8891 7123, Fax: 020 8891 7701, e-mail: [mayors.office@richmond.gov.uk](mailto:mayors.office@richmond.gov.uk)
 
 If anyone else has discussed the hostel development with the Council, I would very interested to hear their feedback.
 

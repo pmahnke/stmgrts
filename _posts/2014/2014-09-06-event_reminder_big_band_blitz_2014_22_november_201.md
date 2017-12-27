@@ -8,7 +8,7 @@ date: 2014-09-06 08:07:05
 excerpt: |
     <a href="/assets/images/2014/Big_Band_Blitz_2013_-_The_Spinettes.jpg" title="See larger version of - Big Band Blitz 2013   The Spinettes"><img src="/assets/images/2014/Big_Band_Blitz_2013_-_The_Spinettes_thumb.jpg" width="150" height="111" alt="Big Band Blitz 2013   The Spinettes" class="photo right" /></a>
     
-    Take a step back in time to wartime Richmond, and party 1940s-style in <a href="https://stmargarets.london/event/party/200705144639.">this year's BIG BAND BLITZ at York House Twickenham</a>  You can dance the night away with the Jon Bennett Big Band and enjoy the showbiz guests, mingle with 1940s re-enactors, view the 1940s vehicles, and even hear the Air-Raid Warning.  You will see 1940s posters/newspapers / memorabilia, and you can buy food / drink at the licensed NAAFI. There will also be a special 1940s museum, and some great prizes in the Celebrity Charity Raffle Draw.
+    Take a step back in time to wartime Richmond, and party 1940s-style in <a href="https://stmargarets.london/event/party/200705144639">this year's BIG BAND BLITZ at York House Twickenham</a>  You can dance the night away with the Jon Bennett Big Band and enjoy the showbiz guests, mingle with 1940s re-enactors, view the 1940s vehicles, and even hear the Air-Raid Warning.  You will see 1940s posters/newspapers / memorabilia, and you can buy food / drink at the licensed NAAFI. There will also be a special 1940s museum, and some great prizes in the Celebrity Charity Raffle Draw.
 
 ---
 

@@ -11,7 +11,7 @@ excerpt: |
     
     Come and enjoy a barn dance celebration to welcome in the Autumn!
     
-    Dance your socks off on <a href="https://stmargarets.london/event/concert/200705141984.">Friday 17th October 2008, from 7.30pm until late</a>
+    Dance your socks off on <a href="https://stmargarets.london/event/concert/200705141984">Friday 17th October 2008, from 7.30pm until late</a>
     
     &pound;10 per person (includes live music, full dancing instructions (caller!), cheese board and good priced drinks)
 

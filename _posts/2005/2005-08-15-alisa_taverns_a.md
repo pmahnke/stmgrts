@@ -22,4 +22,4 @@ The decision suggests that the licensing committee will reject applications for 
 
 -- from Trevor Whittall
 
-If you want to make representations on this subject, then write to <licensing@richmond.gov.uk>. Also, Trevor Whittall ([trevor.whittall@kcl.ac.uk](mailto:trevor.whittall@kcl.ac.uk)) is prepared to help residents with any issues.
+If you want to make representations on this subject, then write to [licensing@richmond.gov.uk](mailto:licensing@richmond.gov.uk). Also, Trevor Whittall ([trevor.whittall@kcl.ac.uk](mailto:trevor.whittall@kcl.ac.uk)) is prepared to help residents with any issues.

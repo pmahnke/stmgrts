@@ -8,7 +8,7 @@ date: 2015-11-26 08:12:36
 excerpt: |
     <a href="/assets/images/2015/St-James-Christmas-Fayre-2015_poster.jpg" title="See larger version of - St James Christmas Fayre 2015 poster"><img src="/assets/images/2015/St-James-Christmas-Fayre-2015_poster_thumb.jpg" width="150" height="210" alt="St James Christmas Fayre 2015 poster" class="photo right" /></a>
     
-    The St James Christmas Fayre is on <a href="https://stmargarets.london/event/fair/200705145280.">Saturday, 5<sup>th</sup> December from 12pm till 4pm</a> This year we are having an outdoor Christmas Market with lots of exciting stall holders selling art, craft, handmade Christmas decorations, prints, canvasses, cards, handmade jewellery and accessories and much more!
+    The St James Christmas Fayre is on <a href="https://stmargarets.london/event/fair/200705145280">Saturday, 5<sup>th</sup> December from 12pm till 4pm</a> This year we are having an outdoor Christmas Market with lots of exciting stall holders selling art, craft, handmade Christmas decorations, prints, canvasses, cards, handmade jewellery and accessories and much more!
 
 ---
 

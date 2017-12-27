@@ -8,7 +8,7 @@ date: 2011-08-12 08:20:30
 excerpt: |
     <a href="/assets/images/2011/FLYER-QUIZ-ST-MARGARETS-16-AUG-FA3PC-iiii.jpg" title="See larger version of - See the flyer"><img src="/assets/images/2011/FLYER-QUIZ-ST-MARGARETS-16-AUG-FA3PC-iiii_thumb.jpg" width="150" height="398" alt="See the flyer" class="photo right" /></a>
 
-    Richard Lomas, a resident of St Margarets, is one of a team of around 20 attempting the Three Peaks Challenge in honour of their friend and colleague, Francesco Anstey, who passed away in May earlier this year.  They are hoping to raise as much money as possible for the Anstey family's chosen charity, the <a href="http://braintumourtrust.co.uk/.">Samantha Dickson Brain Tumour Trust</a>
+    Richard Lomas, a resident of St Margarets, is one of a team of around 20 attempting the Three Peaks Challenge in honour of their friend and colleague, Francesco Anstey, who passed away in May earlier this year.  They are hoping to raise as much money as possible for the Anstey family's chosen charity, the <a href="http://braintumourtrust.co.uk/">Samantha Dickson Brain Tumour Trust</a>
 
     Francesco, a former colleague of Richard's, sadly passed away after an outrageous, courageous fight against the odds.  Francesco was aged just 23 and his job at Firebrand Digital Ltd was his first "proper" one after recent graduation from the Royal Holloway University.
 

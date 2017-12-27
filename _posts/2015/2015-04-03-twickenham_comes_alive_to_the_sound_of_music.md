@@ -24,6 +24,6 @@ Tremendous interest has been shown in the new festival, which has been organised
 
 This Arts Council Grant offers the opportunity for artists working on 'The Streets' project to potentially feed into the Music and Drama Festival programme, bringing international and professional acts to Twickenham town centre.
 
-For more information on The Streets or the Music and Drama Festival contact the Council's Arts Service on 020 8831 6000 or email <artsinfo@richmond.gov.uk>
+For more information on The Streets or the Music and Drama Festival contact the Council's Arts Service on 020 8831 6000 or email [artsinfo@richmond.gov.uk](mailto:artsinfo@richmond.gov.uk)
 
 <cite>-- from a [Richmond Council press release 12 March 2015](http://www.richmond.gov.uk/home/council/news/press_office/older_news/march_2015/twickenham_comes_alive_to_the_sound_of_music_thanks_to__600k_grant.htm</cite>)

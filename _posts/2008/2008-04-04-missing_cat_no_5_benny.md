@@ -13,7 +13,7 @@ excerpt: |
     
     He has very distinctive markings and wears a blue collar. He went missing from the Turks Head end of Winchester Road on Thursday 21st Feb 08, we only moved to the are from Enfield at the end of Jan 08. We really miss him. I would be grateful if people could check garages and sheds etc. He is microchipped and I have put up some posters already. I have attached a photo of him too.
     
-    Sally Evans can be contacted on 07958305102 or <a href="mailto:thisissallyevans@aol.com.">thisissallyevans@aol.com</a>
+    Sally Evans can be contacted on 07958305102 or <a href="mailto:thisissallyevans@aol.com">thisissallyevans@aol.com</a>
     
 
 ---

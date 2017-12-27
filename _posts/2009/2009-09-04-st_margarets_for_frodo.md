@@ -12,7 +12,7 @@ excerpt: |
     
     The next event is the <a href="http://www.thelondonduathlon.com,">London Duathlon</a> a team from St Margarets is taking part and we would welcome your support both in giving any sponsorship you can and also joining us on the day.  The Duathlon takes place in <a href="https://stmargarets.london/event/match/200705142211,">Richmond Park , on Sunday 13<sup>th</sup> September</a> the park is specially closed for the day and is a great occasion for all the family.
     
-    To sponsor the our team visit <a href="http://www.justgiving.com/feet-for-frodo/">www.justgiving.com/feet-for-frodo/</a>   or, to find out more about FRODO and how St Margarets is supporting it  visit <a href="http://www.frodokids.org/.">www.frodokids.org</a>
+    To sponsor the our team visit <a href="http://www.justgiving.com/feet-for-frodo/">www.justgiving.com/feet-for-frodo/</a>   or, to find out more about FRODO and how St Margarets is supporting it  visit <a href="http://www.frodokids.org/">www.frodokids.org</a>
      
 
 ---

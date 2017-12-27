@@ -18,4 +18,4 @@ Football only
 -   Football only -- Mon 7 Aug - Fri 11 Aug
 -   Tennis, football and softball -- Mon 21 Aug - Fri 25 Aug
 
-Apparently 2 more children are needed to ensure the football camp runs, so call 020 8831 6107 or e-mail <leisure@richmond.gov.uk> today.
+Apparently 2 more children are needed to ensure the football camp runs, so call 020 8831 6107 or e-mail [leisure@richmond.gov.uk](mailto:leisure@richmond.gov.uk) today.

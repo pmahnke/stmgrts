@@ -6,7 +6,7 @@ commentfile: 2006-05-15-notes_from_moor_1
 category: news
 date: 2006-05-15 20:23:52
 excerpt: |
-    A smaller group turned out on Wednesday evening than the <a href="/archives/2006/03/notes_from_moor.html.">previous meeting on 9 March</a>  In fact it was suggested by one resident that the main objective of the improvement scheme had been satisfied, that of the playground.
+    A smaller group turned out on Wednesday evening than the <a href="/archives/2006/03/notes_from_moor.html">previous meeting on 9 March</a>  In fact it was suggested by one resident that the main objective of the improvement scheme had been satisfied, that of the playground.
 
 ---
 
