@@ -13,7 +13,7 @@ date: 2006-05-22 22:25:51
 
 [*Meet your local police team*](/event/Meeting/200605221625)
 
-P.C. Alan Richens from the St. Margaret's & North Twickenham Safer Neighbourhood Team will be holding another police 'surgery' on
+P.C. Alan Richens from the St Margarets & North Twickenham Safer Neighbourhood Team will be holding another police 'surgery' on
 
 Wednesday 24th May
 At [Zorans deli](/directory/restaurant/200506220002) – Crown Road

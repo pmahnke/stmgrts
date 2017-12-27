@@ -8,7 +8,7 @@ date: 2007-12-06 15:27:56
 
 ---
 
-I hope all of you who are concerned about the spread of CPZ in St. Margaret's read this so you know what is happening currently. I was informed the night two nights ago that the council would be holding an unpublicised meeting on 4 December, 7PM, Winchester Hall, St Margarets at which the street and signage design of a "trial consultation" in a newly proposed CPZ in St Margarets would be decided by "invited" residents.
+I hope all of you who are concerned about the spread of CPZ in St Margarets read this so you know what is happening currently. I was informed the night two nights ago that the council would be holding an unpublicised meeting on 4 December, 7PM, Winchester Hall, St Margarets at which the street and signage design of a "trial consultation" in a newly proposed CPZ in St Margarets would be decided by "invited" residents.
 
 As you may know, last summer the council sent a questionnaire to all of the households in the originally proposed CPZ in St. Margarets. 65% of household voted against the CPZ and 36.8% said they wanted it.
 

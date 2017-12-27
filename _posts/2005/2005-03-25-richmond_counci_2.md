@@ -5,7 +5,8 @@ permalink: /archives/2005/03/richmond_counci_2.html
 commentfile: 2005-03-25-richmond_counci_2
 category: news
 date: 2005-03-25 17:21:51
-
+excerpt: |
+    The money will be given to Richmond Council over the next two years as a reward for improving services in the borough under the Local Public Service Agreement (PSA) scheme.
 ---
 
 The money will be given to Richmond Council over the next two years as a reward for improving services in the borough under the Local Public Service Agreement (PSA) scheme.

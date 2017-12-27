@@ -6,12 +6,10 @@ permalink: /archives/index.html
 
 <div id="twocolcenter" class="row">
   <div class="content eight columns">
-
     <h2>St Margarets Community Website Archives</h2>
 
     <!-- news -->
     <h3><a href="/archives/news">News archives</a></h3>
-
     <ul>
 {% for post in site.categories.news limit: 10 %}
       <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>

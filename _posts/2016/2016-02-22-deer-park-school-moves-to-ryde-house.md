@@ -25,12 +25,12 @@ Cllr Paul Hodgins, Cabinet Member for Education, said:
 
 > "Finding a site for a new school in East Twickenham and St Margarets has been our single biggest challenge in implementing our school place planning strategy. As for most new schools now across London, this site has its challenges. We always agreed that London House wasn't an ideal location. I am sure that residents around that site will be pleased.
 > 
->  "I am fully confident that Deer Park Primary will be an excellent school on this site. It has been an extremely painful and drawn out process, and it has been frustrating that we have not been able to say more throughout. But we have persisted, and I am delighted that, subject to an agreed lease and planning permission, we finally have agreement for a new school in East Twickenham and St. Margaret's. I would like to thank Lidl for their willingness to come to an arrangement which is the best possible outcome for the local community."
+>  "I am fully confident that Deer Park Primary will be an excellent school on this site. It has been an extremely painful and drawn out process, and it has been frustrating that we have not been able to say more throughout. But we have persisted, and I am delighted that, subject to an agreed lease and planning permission, we finally have agreement for a new school in East Twickenham and St Margarets. I would like to thank Lidl for their willingness to come to an arrangement which is the best possible outcome for the local community."
 > 
 > 
  The Chair of the Bellevue Place Education Trust - the charity that maintains Deer Park School - Claire Delaney, added:
 
-> "We are delighted to announce to parents and the local community that we can follow through on our original promise to offer new high-quality primary school places where they are most needed - in the East Twickenham and St. Margaret's area of Richmond. We do hope that parents who were anticipating the school to be at London House will continue to consider Deer Park School as their school of choice."
+> "We are delighted to announce to parents and the local community that we can follow through on our original promise to offer new high-quality primary school places where they are most needed - in the East Twickenham and St Margarets area of Richmond. We do hope that parents who were anticipating the school to be at London House will continue to consider Deer Park School as their school of choice."
 
 Deer Park School has offered to meet with prospective parents on Tuesday 1 March at 5pm at Deer Park School, to hear more information about the planned move and also understand how to amend their preferences after being offered a place on National Offer Day on 18 April 2016.
 

@@ -6,7 +6,7 @@ commentfile: 2009-12-23-st_stephen_who
 category: around_town
 date: 2009-12-23 11:34:28
 excerpt: |
-    <a href="/assets/images/2017/wenceslas_1.png" title="Click for a larger image"><img src="/assets/images/2017/wenceslas_1-thumb.png" width="150" alt="Image - wenceslas_1"  class="photo right"/></a>
+    <a href="/assets/images/2017/wenceslas_1.jpg" title="Click for a larger image"><img src="/assets/images/2017/wenceslas_1-thumb.jpg" width="150" alt="Image - wenceslas_1"  class="photo right"/></a>
 
     "Good King Wenceslas looked out on the Feast of Stephen
     When the snow lay round about, deep and crisp and even."
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="/assets/images/2017/wenceslas_1.png" title="Click for a larger image"><img src="/assets/images/2017/wenceslas_1-thumb.png" width="250" alt="Image - wenceslas_1"  class="photo right"/></a>
+<a href="/assets/images/2017/wenceslas_1.jpg" title="Click for a larger image"><img src="/assets/images/2017/wenceslas_1-thumb.jpg" width="250" alt="Image - wenceslas_1"  class="photo right"/></a>
 
 > "Good King Wenceslas looked out on the Feast of Stephen
 > When the snow lay round about, deep and crisp and even."

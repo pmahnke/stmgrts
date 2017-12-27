@@ -37,6 +37,6 @@ THEN AND NOW is a volunteer-led project to celebrate and study Richmond's histor
 
 [Saturday 5 October, 10am to 3pm](/event/event/200705144111)
 
-Put your local and architectural knowledge into action! Join us for a fun day in Twickenham and St. Margaret's working as a team, or solo, to collect architectural details and features with your camera or sketch pad. Light refreshments and prizes.
+Put your local and architectural knowledge into action! Join us for a fun day in Twickenham and St Margarets working as a team, or solo, to collect architectural details and features with your camera or sketch pad. Light refreshments and prizes.
 
 -   [More information](/event/event/200705144111)

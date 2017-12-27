@@ -30,9 +30,9 @@ At this point we don't know what is going to happen, but read on if you are inte
 
 #### The Rise of Europe's Private Internet Police | Foreign Policy
 
-> "In 2005, Peter Mahnke, a resident of the English town of St. Margaret's, Middlesex, set up a community website. For the past seven years, he and a handful of local volunteers have been publishing regular updates about local events, parks, new businesses, weather, and train schedules. All G-rated and uncontroversial.
+> "In 2005, Peter Mahnke, a resident of the English town of St Margarets, Middlesex, set up a community website. For the past seven years, he and a handful of local volunteers have been publishing regular updates about local events, parks, new businesses, weather, and train schedules. All G-rated and uncontroversial.
 > 
->  Yet in early March, for reasons that remain unclear, the St. Margaret's website was blocked throughout Britain on mobile Internet services offered by Orange (a subsidiary of France Telecom) and T-mobile (owned by Deutsche Telecom). The site had fallen victim to a nationwide child-protection system run by the mobile companies themselves. Somehow the system, which activists say is rife with errors, had classified the site as "adult" content, causing it to be blocked on all phones by default."
+>  Yet in early March, for reasons that remain unclear, the St Margarets website was blocked throughout Britain on mobile Internet services offered by Orange (a subsidiary of France Telecom) and T-mobile (owned by Deutsche Telecom). The site had fallen victim to a nationwide child-protection system run by the mobile companies themselves. Somehow the system, which activists say is rife with errors, had classified the site as "adult" content, causing it to be blocked on all phones by default."
 > 
  <cite>[www.foreignpolicy.com](http://www.foreignpolicy.com/articles/2012/05/16/the_rise_of_europe_s_private_internet_police</cite>)
 

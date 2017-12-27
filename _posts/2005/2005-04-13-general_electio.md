@@ -5,12 +5,16 @@ permalink: /archives/2005/04/general_electio.html
 commentfile: 2005-04-13-general_electio
 category: news
 date: 2005-04-13 20:11:43
+excerpt: |
+    <img src="/assets/images/2005/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right"/>
+
+    The Prime Minister, Tony Blair, has called for a general election on the 5th of May.
 
 ---
 
 <img src="/assets/images/2005/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right"/>
 
-Tony Blair has called for a general election on the 5th of May.
+The Prime Minister, Tony Blair, has called for a general election on the 5th of May.
 
 To look up your ward, learn who your local Councillors are and where you vote, you can use [this online tool](http://www.richmond.gov.uk/wardfinder/lookup-street.asp).
 

@@ -61,13 +61,13 @@ And there was more to come.
 
 <a href="/assets/images/2010/stm_St_Margaret.jpg" title="See larger version of - St Margaret"><img src="/assets/images/2010/stm_St_Margaret_thumb.jpg" width="150" height="241" alt="St Margaret" class="photo right" /></a>
 
-When the bier carrying St. Margaret's body passed by the tomb of her husband Malcolm...
+When the bier carrying St Margarets body passed by the tomb of her husband Malcolm...
 
 > "The arms of the bearers were immediately benumbed, and they could not convey the shrine with the relics further, on account of the greatness of the weight; but, whether willing or not, they were obliged to halt, and speedily laid down their burden....At length, all wondering, and judging themselves unworthy of so precious a trust, the voice of a bystander, divinely inspired, as was believed, was heard suggesting distinctly, that the bones of the holy Queen could not be transferred further until the tomb of her husband was opened, and his body raised with similar honour."
 
 With the approval of the King Alexander 3<sup>rd</sup> Malcolm's tomb was immediately opened and his bones placed with those of his beloved wife in her new tomb.
 
-They were not destined to spend the rest of eternity together. During the Reformation St. Margaret's head came into the possession of Mary Queen of Scots and was later secured by the Jesuits at Douai. They lost it during the French Revolution. The rest of the relics, including what was left of Malcolm, were acquired in the 1550's by Phillip 2<sup>nd</sup> of Spain. When Bishop Gilles of Edinburgh asked for them back they could not be found... and that was that.
+They were not destined to spend the rest of eternity together. During the Reformation St Margarets head came into the possession of Mary Queen of Scots and was later secured by the Jesuits at Douai. They lost it during the French Revolution. The rest of the relics, including what was left of Malcolm, were acquired in the 1550's by Phillip 2<sup>nd</sup> of Spain. When Bishop Gilles of Edinburgh asked for them back they could not be found... and that was that.
 
 "St Margarets" - the house built in 1830 for Archibald Kennedy, the 1<sup>st</sup> Marquis of Ailsa, didn't fare much better. It was pulled down in 1853 by the 2<sup>nd</sup> Earl of Kilmorey and a new building, Kilmorey House, was built in its place. After spending some time as the Royal Naval School for Girls it too was demolished in 1950.
 

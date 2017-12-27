@@ -5,7 +5,10 @@ permalink: /archives/2005/03/richmond_counci_1.html
 commentfile: 2005-03-24-richmond_counci_1
 category: news
 date: 2005-03-24 08:32:55
+excerpt: |
+    Council Taxes set to Rise 3.5% in 2005-6
 
+    This makes the average tax for Richmond Borough (in Band D) £1,386, the highest in Greater London and the third highest nationally.
 ---
 
 #### Council Taxes set to Rise 3.5% in 2005-6

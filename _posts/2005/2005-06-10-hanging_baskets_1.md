@@ -5,6 +5,10 @@ permalink: /archives/2005/06/hanging_baskets_1.html
 commentfile: 2005-06-10-hanging_baskets_1
 category: news
 date: 2005-06-10 20:25:38
+excerpt: |
+    <img alt="hanging basket" src="/assets/images/2005/hanging-basket-thumb.jpg" width="100" height="93" class="right" /></a>
+
+    After several months of [planning and negotiations](/archives/2005/04/hanging_baskets.html) hanging baskets have finally arrived in St. Margarets Road and Crown Road. The baskets have been organised by the St. Margarets Traders’ Association working in partnership with Richmond in Bloom. Funding for the baskets was helped through the Richmond Council's excellent Civic Pride scheme.
 
 ---
 
@@ -19,7 +23,7 @@ The baskets will be watered and maintained by a local contractor. The St. Margar
 Simon Chapman from the Traders' Association said:
 
 > "We are looking at ways in which we could fund further floral displays and for additional funding to ensure the baskets are a permanent fixture and not removed next year when our budget is exhausted.
-> 
+>
 > "We are hoping that the council will allow us to adopt the local recycling site and use the income for this project."
 
 *see our article [Recycling Really Can Help the Community](/archives/2005/04/recycling_reall.html) for details.*

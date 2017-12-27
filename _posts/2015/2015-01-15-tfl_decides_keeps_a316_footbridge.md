@@ -19,7 +19,7 @@ Between 9 June and 18 July 2014, we consulted on proposals to remove the footbri
 
 Following a detailed review of the responses we received, we have modified the scheme as follows:
 
--   Provide an at-grade two stage toucan crossing facility on the western arm of St. Margaret's roundabout as originally proposed - this will be installed prior to the Rugby World Cup taking place in autumn 2015
+-   Provide an at-grade two stage toucan crossing facility on the western arm of St Margarets roundabout as originally proposed - this will be installed prior to the Rugby World Cup taking place in autumn 2015
 -   Retain the existing footbridge and undertake further maintenance to extend its service life. The structure of the bridge will be reviewed again in 24 months following the installation of the toucan crossing. The condition of the footbridge will be constantly monitored. If the structure deteriorates significantly it may be necessary to close it without warning.
 -   TfL commits to carrying out local consultation with the community and stakeholders should any further proposals to remove the footbridge be put forward.
 

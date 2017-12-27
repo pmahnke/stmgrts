@@ -27,4 +27,4 @@ For application form and job description write to HANDS,1<sup>st</sup> Floor, Tw
 
 #### HANDS - Help a Neighbour in Distress Scheme
 
-HANDS is the neighbourhood care group covering Twickenham and St. Margaret's. We provide voluntary, practical support in non-specialist fields to those in need, especially the older, frail, isolated and housebound.
+HANDS is the neighbourhood care group covering Twickenham and St Margarets. We provide voluntary, practical support in non-specialist fields to those in need, especially the older, frail, isolated and housebound.

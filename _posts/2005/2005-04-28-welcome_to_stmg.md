@@ -5,12 +5,13 @@ permalink: /archives/2005/04/welcome_to_stmg.html
 commentfile: 2005-04-28-welcome_to_stmg
 category: editorial
 date: 2005-04-28 13:47:22
-
+excerpt: |
+    Welcome to the St Margarets Community Web Site - <a href="https://stmargarets.london">stmargarets.london</a>. This is a work in progress, begun by a group of friends, neighbours and some of the Traders. Please feel free to contribute in anyway.
 ---
 
 Dear Friends and Neighbours,
 
-Welcome to the *St Margarets Community Web Site* - [stmargarets.london](). This is a work in progress, begun by a group of friends, neighbours and some of the Traders. Please feel free to contribute in anyway.
+Welcome to the *St Margarets Community Web Site* - [stmargarets.london](https://stmargarets.london). This is a work in progress, begun by a group of friends, neighbours and some of the Traders. Please feel free to contribute in anyway.
 
 The idea is to provide a voice for St Margarets. Richmond and Twickenham have their own identity but St Margarets is not always recognised as an independent vibrant, local community. We want to celebrate that it is and to provide a way for people to connect locally.
 

@@ -22,8 +22,8 @@ The Proposers are:-
 
 #### More Information
 
--   [Membership form](/images/FoM_Membership_Form-2013.pdf) \[pdf\]
--   [Minutes of the open meeting - 29 January 2013](/images/FoM_Minutes-29_Jan_2013.pdf) \[pdf\]
+-   [Membership form](/assets/images/2013/FoM_Membership_Form-2013.pdf) \[pdf\]
+-   [Minutes of the open meeting - 29 January 2013](/assets/images/2013/FoM_Minutes-29_Jan_2013.pdf) \[pdf\]
 -   [Draft Constitution Friends of Moormead - v2](/assets/images/2013/FoM_Constitution_Friends_of_Moormead__Ver_2.pdf) \[pdf\]
 
 For further information or to put your name forward to become an Officer of the Friends of Moormead please contact either Mandie or Stephen by Wednesday, 27 February 2013.

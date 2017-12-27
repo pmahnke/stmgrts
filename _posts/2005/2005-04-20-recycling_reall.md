@@ -5,7 +5,10 @@ permalink: /archives/2005/04/recycling_reall.html
 commentfile: 2005-04-20-recycling_reall
 category: news
 date: 2005-04-20 14:06:19
+excerpt: |
+    <img alt="recycle" src="/assets/images/2005/recycle-thumb.gif" width="100" height="100" class="right" />
 
+    The *St Margarets' Traders Association* has applied to the Richmond Council for the right to adopt the Barron's Road recycling site.
 ---
 
 <img alt="recycle" src="/assets/images/2005/recycle-thumb.gif" width="100" height="100" class="right" />

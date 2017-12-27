@@ -5,10 +5,12 @@ permalink: /archives/2005/03/marble_hill_req.html
 commentfile: 2005-03-29-marble_hill_req
 category: news
 date: 2005-03-29 15:57:18
+excerpt: |
+    <a href="http://www.english-heritage.org.uk">English Heritage</a> has submitted an, application for consent to erect marquees on rear lawn for not more than 16 events per year. Approval sought for trial 3 year period.
 
 ---
 
-[English Heritage](http://www.english-heritage.org.uk) has submitted an,
+[English Heritage](http://www.english-heritage.org.uk) has submitted an;
 
 > Application for consent to erect marquees on rear lawn for not more than 16 events per year. Approval sought for trial 3 year period.
 
