@@ -13,14 +13,7 @@ excerpt: |
 
 Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
 
-To book either email <artseducation@richmond.gov.uk](mailto:a href="/assets/images/2017/ORLEANSARTS_Painting-Class-1.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANSARTS_Painting-Class-1-thumb.jpg" width="150" alt="Image - ORLEANSARTS_Painting-Class-1"  class="photo right"/></a>
-
-    Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
----
-
-Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
-
-To book either email <artseducation@richmond.gov.uk) or call 020 8831 6000 or [online](https://www2.richmond.gov.uk/Richmondbookings/default.aspx)
+To book either email <artseducation@richmond.gov.uk> or call 020 8831 6000 or [online](https://www2.richmond.gov.uk/Richmondbookings/default.aspx)
 
 ### Expressionism and Impressionism, Acrylics
 

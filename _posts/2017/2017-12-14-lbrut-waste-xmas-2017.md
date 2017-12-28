@@ -36,4 +36,4 @@ For more information, go to: [www.richmond.gov.uk/collection\_day](http://www.ri
 
 Our waste and recycling teams will be working very hard to ensure Christmas and New Years' collections are completed throughout the borough but please be mindful that due to heavy workloads some collection crews may be undertaking collections later than normal. If you do need to report a missed collection this can be done online [www.richmond.gov.uk/report\_a\_missed\_collection](http://www.richmond.gov.uk/report_a_missed_collection)
 
-For more information or to order more recycling boxes call 020 8891 1411, email <wasteandrecycling@richmond.gov.uk](mailto:a href="/assets/images/2017/lbrut-waste-xmas-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-waste-xmas-2017-thumb.jpg" width="150" alt="Image - lbrut-waste-xmas-2017"  class="photo right"/></a>
+For more information or to order more recycling boxes call 020 8891 1411, email <wasteandrecycling@richmond.gov.uk>

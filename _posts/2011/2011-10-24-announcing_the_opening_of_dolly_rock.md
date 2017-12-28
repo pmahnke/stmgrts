@@ -6,7 +6,7 @@ commentfile: 2011-10-24-announcing_the_opening_of_dolly_rock
 category: news
 date: 2011-10-24 20:27:24
 excerpt: |
-    The [a href="http://www.mystmargarets.com">St Margarets Traders Association</a> is proud to announce the latest edition to St Margarets - *Dolly Rock boutique* at 14 Crown Road St Margarets.
+    The <a href="http://www.mystmargarets.com">St Margarets Traders Association</a> is proud to announce the latest edition to St Margarets - *Dolly Rock boutique* at 14 Crown Road St Margarets.
     
     Dolly Rock opens on Thursday 3<sup>rd</sup> November.
 
