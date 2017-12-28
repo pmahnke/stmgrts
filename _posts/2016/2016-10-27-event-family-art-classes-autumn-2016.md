@@ -6,7 +6,7 @@ commentfile: 2016-10-27-event-family-art-classes-autumn-2016
 category: around_town
 date: 2016-10-27 18:42:44
 excerpt: |
-    [a href="/assets/images/2016/Family_Explorers_Poster_Autumn_2016.jpg" title="See larger version of - Family Explorers Poster Autumn 2016"><img src="/assets/images/2016/Family_Explorers_Poster_Autumn_2016_thumb.jpg" width="150" height="212" alt="Family Explorers Poster Autumn 2016" class="photo right" /></a>
+    <a href="/assets/images/2016/Family_Explorers_Poster_Autumn_2016.jpg" title="See larger version of - Family Explorers Poster Autumn 2016"><img src="/assets/images/2016/Family_Explorers_Poster_Autumn_2016_thumb.jpg" width="150" height="212" alt="Family Explorers Poster Autumn 2016" class="photo right" /></a>
 
     Three great family art sessions from Richmond Council this Autumn; Family Explorers at the OSO Art Centre in Barnes and the ever popular See Saw for Under 5s plus Dad Days!
 

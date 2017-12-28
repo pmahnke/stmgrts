@@ -6,7 +6,7 @@ commentfile: 2017-08-26-orleans-adult-programme-autumn-2017
 category: around_town
 date: 2017-08-26 13:03:36
 excerpt: |
-    [a href="/assets/images/2017/ORLEANSARTS_Painting-Class-1.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANSARTS_Painting-Class-1-thumb.jpg" width="150" alt="Image - ORLEANSARTS_Painting-Class-1"  class="photo right"/></a>
+    <a href="/assets/images/2017/ORLEANSARTS_Painting-Class-1.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANSARTS_Painting-Class-1-thumb.jpg" width="150" alt="Image - ORLEANSARTS_Painting-Class-1"  class="photo right"/></a>
 
     Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
 ---

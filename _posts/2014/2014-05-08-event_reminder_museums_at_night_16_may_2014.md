@@ -6,7 +6,7 @@ commentfile: 2014-05-08-event_reminder_museums_at_night_16_may_2014
 category: around_town
 date: 2014-05-08 22:36:38
 excerpt: |
-    [a href="/assets/images/2014/Museums_at_Night_online_image.jpg" title="See larger version of - Museums at Night"><img src="/assets/images/2014/Museums_at_Night_online_image_thumb.jpg" width="150" height="83" alt="Museums at Night" class="photo right" /></a>
+    <a href="/assets/images/2014/Museums_at_Night_online_image.jpg" title="See larger version of - Museums at Night"><img src="/assets/images/2014/Museums_at_Night_online_image_thumb.jpg" width="150" height="83" alt="Museums at Night" class="photo right" /></a>
     
     Join us for a special late night opening of Orleans House Gallery on <a href="https://stmargarets.london/event/event/200705144425">Friday 16 May 2014</a> as part of Museums at Night.  Both gallery spaces will be open until 9pm featuring the New Georgians exhibition and Art and Soul: Expressions.
 

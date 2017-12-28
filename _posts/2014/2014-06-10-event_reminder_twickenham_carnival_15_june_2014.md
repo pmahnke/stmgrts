@@ -6,7 +6,7 @@ commentfile: 2014-06-10-event_reminder_twickenham_carnival_15_june_2014
 category: around_town
 date: 2014-06-10 22:39:40
 excerpt: |
-    [a href="/assets/images/2014/Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="/assets/images/2014/Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
+    <a href="/assets/images/2014/Carnival_2014_picture_low_res.jpg" title="See larger version of - Carnival 2014 picture"><img src="/assets/images/2014/Carnival_2014_picture_low_res_thumb.jpg" width="150" height="225" alt="Carnival 2014 picture" class="photo right" /></a>
     
     _Twickenham will once again come to life with the sights and sounds of Carnival!_
     

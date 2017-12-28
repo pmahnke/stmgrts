@@ -6,7 +6,7 @@ commentfile: 2017-11-18-event-orleans-xmas-workshops
 category: around_town
 date: 2017-11-18 08:24:04
 excerpt: |
-    [a href="/assets/images/2017/orleans-candles.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-candles-thumb.jpg" width="150" alt="Image - orleans-candles"  class="photo right"/></a>
+    <a href="/assets/images/2017/orleans-candles.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-candles-thumb.jpg" width="150" alt="Image - orleans-candles"  class="photo right"/></a>
 
     <em>Get creative this Christmas with some festive workshops at Orleans House Gallery.</em>
 

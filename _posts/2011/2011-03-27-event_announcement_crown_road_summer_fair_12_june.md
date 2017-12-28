@@ -6,7 +6,7 @@ commentfile: 2011-03-27-event_announcement_crown_road_summer_fair_12_june
 category: news
 date: 2011-03-27 14:58:07
 excerpt: |
-    [a href="http://www.flickr.com/photos/mahnke/5261139833/" title="P1090406 by Peter M, on Flickr"><img src="/assets/images/2011/5261139833_5fdc79856a_m.jpg" width="150" class="photo right" alt="Crown Road" /></a>
+    <a href="http://www.flickr.com/photos/mahnke/5261139833/" title="P1090406 by Peter M, on Flickr"><img src="/assets/images/2011/5261139833_5fdc79856a_m.jpg" width="150" class="photo right" alt="Crown Road" /></a>
 
     *A day of family fun and entertainment.*
 

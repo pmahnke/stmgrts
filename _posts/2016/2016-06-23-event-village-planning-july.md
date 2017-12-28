@@ -6,7 +6,7 @@ commentfile: 2016-06-23-event-village-planning-july
 category: around_town
 date: 2016-06-23 18:30:46
 excerpt: |
-    [a href="/assets/images/2016/Village_Planning_E_Twick_STM.png" title="See larger version of - Village Planning E Twick STM"><img src="/assets/images/2016/Village_Planning_E_Twick_STM_thumb.png" width="150" height="212" alt="Village Planning E Twick STM" class="photo right" /></a>
+    <a href="/assets/images/2016/Village_Planning_E_Twick_STM.png" title="See larger version of - Village Planning E Twick STM"><img src="/assets/images/2016/Village_Planning_E_Twick_STM_thumb.png" width="150" height="212" alt="Village Planning E Twick STM" class="photo right" /></a>
 
     Hundreds of residents, local community groups and businesses have worked together to develop a village plan and planning guidance to maintain and enhance the character of East Twickenham and of St Margarets.
 

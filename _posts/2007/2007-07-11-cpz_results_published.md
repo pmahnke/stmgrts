@@ -6,7 +6,7 @@ commentfile: 2007-07-11-cpz_results_published
 category: news
 date: 2007-07-11 13:12:19
 excerpt: |
-    [a href="/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
+    <a href="/assets/images/2007/stmgrts_cpz_bar.jpg"><img alt="Do you want the proposed CPZ to include your road?" src="/assets/images/2007/stmgrts_cpz_yn.jpg" width="150" height="146" class="right" /></a>
 
     The <a href="http://tinyurl.com/2f4ww">report on the CPZ consultation has been published</a>.
 

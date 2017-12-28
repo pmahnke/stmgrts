@@ -6,7 +6,7 @@ commentfile: 2011-09-11-my_st_margarets_magazine_autumn_2011_edition
 category: news
 date: 2011-09-11 18:16:21
 excerpt: |
-    [a href="/assets/images/2011/my_stmar_mag_autumn2011.jpg" title="See larger version of - My St Margarets Magazine - Autumn 2011 cover"><img src="/assets/images/2011/my_stmar_mag_autumn2011_thumb.jpg" width="150" height="212" alt="My St Margarets Magazine - Autumn 2011 cover" class="photo right" /></a>
+    <a href="/assets/images/2011/my_stmar_mag_autumn2011.jpg" title="See larger version of - My St Margarets Magazine - Autumn 2011 cover"><img src="/assets/images/2011/my_stmar_mag_autumn2011_thumb.jpg" width="150" height="212" alt="My St Margarets Magazine - Autumn 2011 cover" class="photo right" /></a>
     
     The autumn edition of the _My St Margarets Magazine_ is about to be published - look out for your copy arriving through local letter boxes over the next week. Copies will also be available online and from local businesses.
     

@@ -10,7 +10,7 @@ excerpt: |
 
     Present...
 
-    [a href="https://stmargarets.london/event/fair/200705142248">*The St Margarets' Christmas Fair*</a>
+    <a href="https://stmargarets.london/event/fair/200705142248">*The St Margarets' Christmas Fair*</a>
 
     <em>Sunday 6<sup>th</sup> December</em>
 

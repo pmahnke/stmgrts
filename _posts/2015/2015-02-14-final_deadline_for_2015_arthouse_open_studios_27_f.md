@@ -6,7 +6,7 @@ commentfile: 2015-02-14-final_deadline_for_2015_arthouse_open_studios_27_f
 category: around_town
 date: 2015-02-14 09:06:30
 excerpt: |
-    [a href="/assets/images/2015/Application-arthouse-2015.png" title="See larger version of - Application arthouse 2015"><img src="/assets/images/2015/Application-arthouse-2015_thumb.png" width="150" height="212" alt="Application arthouse 2015" class="photo right" /></a>
+    <a href="/assets/images/2015/Application-arthouse-2015.png" title="See larger version of - Application arthouse 2015"><img src="/assets/images/2015/Application-arthouse-2015_thumb.png" width="150" height="212" alt="Application arthouse 2015" class="photo right" /></a>
     
     _The final deadline is nearly here for the 2015 ARThouse Open Studios._
     

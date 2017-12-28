@@ -6,7 +6,7 @@ commentfile: 2011-10-04-st_margarets_christmas_fair_4_december_2011
 category: around_town
 date: 2011-10-04 18:35:52
 excerpt: |
-    [a href="/assets/images/2017/2010-crown-road-xmas-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2010-crown-road-xmas-fair-thumb.jpg" width="250" alt="Image - 2010-crown-road-xmas-fair"  class="photo right"/></a>
+    <a href="/assets/images/2017/2010-crown-road-xmas-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2010-crown-road-xmas-fair-thumb.jpg" width="250" alt="Image - 2010-crown-road-xmas-fair"  class="photo right"/></a>
 
     The <a href="http://www.mystmargarets.com">St Margarets Traders Association</a> is delighted to announce that this year's St Margarets Christmas Fair will be held in <a href="https://stmargarets.london/event/fair/200705143078">Crown Road St Margarets on Sunday 4<sup>th</sup> December from 11am-5pm</a>
 

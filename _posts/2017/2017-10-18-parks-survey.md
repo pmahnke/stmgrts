@@ -6,7 +6,7 @@ commentfile: 2017-10-18-parks-survey
 category: news
 date: 2017-10-18 16:09:06
 excerpt: |
-    [a href="/assets/images/2017/lbrut-park-survey-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-park-survey-2017-thumb.jpg" width="150" alt="Image - lbrut-park-survey-2017"  class="photo right"/></a>
+    <a href="/assets/images/2017/lbrut-park-survey-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-park-survey-2017-thumb.jpg" width="150" alt="Image - lbrut-park-survey-2017"  class="photo right"/></a>
 
     Richmond Council is asking residents to give their views on the Council's parks.
 

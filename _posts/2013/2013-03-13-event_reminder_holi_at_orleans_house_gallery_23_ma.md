@@ -6,7 +6,7 @@ commentfile: 2013-03-13-event_reminder_holi_at_orleans_house_gallery_23_ma
 category: around_town
 date: 2013-03-13 21:53:34
 excerpt: |
-    [a href="/assets/images/2013/holi_images_2013.jpg" title="See larger version of - holi images 2013"><img src="/assets/images/2013/holi_images_2013_thumb.jpg" width="150" height="157" alt="holi images 2013" class="photo right" /></a>
+    <a href="/assets/images/2013/holi_images_2013.jpg" title="See larger version of - holi images 2013"><img src="/assets/images/2013/holi_images_2013_thumb.jpg" width="150" height="157" alt="holi images 2013" class="photo right" /></a>
     
     _Holi, the Spring Festival of Colour_
     

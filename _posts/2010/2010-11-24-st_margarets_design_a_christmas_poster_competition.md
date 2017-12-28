@@ -6,7 +6,7 @@ commentfile: 2010-11-24-st_margarets_design_a_christmas_poster_competition
 category: around_town
 date: 2010-11-24 09:03:48
 excerpt: |
-    [a href="/assets/images/2010/2010-Christmas-Fair-Poster.jpg"><img alt="2010-Christmas-Fair-Poster.jpg" src="/assets/images/2010/2010-Christmas-Fair-Poster_thumb.jpg" width="150" height="105" class="photo right" /></a>
+    <a href="/assets/images/2010/2010-Christmas-Fair-Poster.jpg"><img alt="2010-Christmas-Fair-Poster.jpg" src="/assets/images/2010/2010-Christmas-Fair-Poster_thumb.jpg" width="150" height="105" class="photo right" /></a>
 
     Simply print one of the templates and design your poster. You may prefer to simply colour-in the Christmas picture or create a poster from scratch using the blank template. Deliver your poster to Churchill's Lettings in Crown Road who have generously sponsored this competition. We aim to display all the posters in the shop windows of St Margarets.
 
