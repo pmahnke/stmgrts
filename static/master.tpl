@@ -12,7 +12,7 @@ $html = <<EndofHTML;
   $METAlang
 
   <meta name="author" content="Peter Mahnke"/>
-  <meta name="copyright" content="&copy; Copyright 2004-2017 by Peter Mahnke. All rights reserved."/>
+  <meta name="copyright" content="&copy; Copyright 2004-2018 by Peter Mahnke. All rights reserved."/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
   <!-- Mobile Specific Metas
