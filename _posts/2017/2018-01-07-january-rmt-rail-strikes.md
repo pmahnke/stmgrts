@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Rail strikes - 8, 10, 12 January 2018"
+permalink: /archives/2018/01/january-rmt-rail-strikes.html
+commentfile: 2018-01-07-january-rmt-rail-strikes
+category: news
+date: 2018-01-07 17:15:05
+excerpt: |
+    <a href="/assets/images/2018/SWR-strike-map-jan2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg" width="150" alt="Image - SWR-strike-map-jan2018"  class="photo right"/></a>
+
+    There are three days of rail strikes set for this week.  They will effect St Margarets, please check the South Western Railways website for more information.
+
+---
+<a href="/assets/images/2018/SWR-strike-map-jan2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg" width="250" alt="Image - SWR-strike-map-jan2018"  class="photo right"/></a>
+
+There are three days of rail strikes set for this week.  They will effect St Margarets, please check the [South Western Railways website](https://www.southwesternrailway.com/plan-my-journey/rmt-strike) for more information.
+
+As we read the timetable, St Margarets trains to Waterloo will run every 30 minutes on the hour and half hour from 9.00 to 22.30 all three days.  But please check in the morning.
