@@ -19,7 +19,7 @@ _in aid of React charity_
 
 New members welcome!  No auditions or ability to read music necessary.  We meet every Thursday from 7 to 8.30pm,  starting on 11<sup>th</sup> January 2018.
 
-h4. More Information
+#### More Information
 
 * Holy Trinity Church, 1 Vicarage Lane, TW2 5TS (please enter at the back of the church).
 * Sessions &pound;12 or &pound;10 when booked in a block
