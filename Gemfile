@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
 gem 'jekyll-archives'
-gem 'jekyll-textile-converter'
+# gem 'jekyll-textile-converter'
+gem 'ffi'
 gem 'html-proofer'
+# gem 'RedCloth'

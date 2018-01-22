@@ -23,11 +23,11 @@ exclude:
 # gems
 gems:
   - jekyll-archives
-  - jekyll-textile-converter
+#  - jekyll-textile-converter
 
 # Build settings
 markdown: kramdown
-textile_ext: "textile,txtl,tl"
+# textile_ext: "textile,txtl,tl"
 sass:
     style: compressed
     sass_dir: _sass
