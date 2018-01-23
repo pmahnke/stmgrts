@@ -23,6 +23,7 @@ exclude:
 # gems
 plugins:
   - jekyll-archives
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
