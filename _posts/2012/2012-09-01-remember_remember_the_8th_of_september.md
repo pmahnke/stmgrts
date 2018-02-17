@@ -14,7 +14,7 @@ date: 2012-09-01 09:42:03
 
 > "It's like a car boot sale - but without the car or the boot!"
 
-Is that old Rembrandt still cluttering up the attic? Getting bored with those dusty Fabergé eggs in the bathroom? Is that authentic Ormolu clock really ticking-tocking you off? Get rid of them NOW in the Annual [North St Margarets Residents Association](https://nsmra.wordpress.com/) 'Grand Annual Street Sale', which takes place on [Saturday 8<sup>th</sup> September from 1.00pm](/event/event/200705143522).
+Is that old Rembrandt still cluttering up the attic? Getting bored with those dusty Fabergé eggs in the bathroom? Is that authentic Ormolu clock really ticking-tocking you off? Get rid of them NOW in the Annual [North St Margarets Residents Association](https://nsmra.org/) 'Grand Annual Street Sale', which takes place on [Saturday 8<sup>th</sup> September from 1.00pm](/event/event/200705143522).
 
 The procedure is simplicity itself. On the day of the sale the residents of the NSMRA community put tables outside their houses, cover them with all the things that they no longer need - books, records, toys, clothes and so on - and then sell them. They determine the price and they keep the money. The range of goods is huge, from furniture and clothes through to plants, homemade cakes, pickles and jams, bric-a-brac and DVD's.
 

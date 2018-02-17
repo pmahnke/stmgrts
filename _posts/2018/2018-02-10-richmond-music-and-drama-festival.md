@@ -31,7 +31,7 @@ Richmond Council's Cabinet Member for Arts and Culture, Cllr David Linnette, sai
 
 To view the Richmond Music and Dance Festival 2018 programme visit [www.richmond.gov.uk/musicanddrama](http://www.richmond.gov.uk/musicanddrama)
 
-Tickets for the opening event, go to: http://exchangetwickenham.co.uk/event/2018-music-drama-festival-showcase/
+Tickets for the opening event, go to: [exchangetwickenham.co.uk/event/2018-music-drama-festival-showcase](http://exchangetwickenham.co.uk/event/2018-music-drama-festival-showcase/)
 
 To stay up-to-date with all the latest news follow the festival via twitter [@LBRUTmusicdrama]([http://www.twitter.com/LBRUTmusicdrama)
 
