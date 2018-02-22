@@ -28,4 +28,4 @@ Get help with all problems concerning:
 * Twitter
 * Snapchat
 
-Please contact us at: [M.Sandberg@swedishschool.org.uk](mailto:M.Sandberg@swedishschool.org.uk) or call us on [+46703873354](tel:+46703873354)
+Please contact us at: [msandberg@swedishschool.org.uk](mailto:msandberg@swedishschool.org.uk) or call us on [+46703873354](tel:+46703873354)
