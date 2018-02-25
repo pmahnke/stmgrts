@@ -9,8 +9,9 @@
   ================================================== -->
   <meta charset="utf-8">
   <meta name="author"    content="Peter Mahnke" />
-  <meta name="copyright" content="&copy; Copyright 2004-2015 by Peter Mahnke. All rights reserved." />
+  <meta name="copyright" content="&copy; Copyright 2004-2018 by Peter Mahnke. All rights reserved." />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="alternate" href="https://stmargarets.london" hreflang="en-gb" />
 
   <!-- Mobile Specific Metas
   ================================================== -->
@@ -31,8 +32,16 @@
   <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
   <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 
-  <!-- Fonts -->
-  <link  rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext">
-
   <!-- RSS -->
-  <link rel="alternate"  type="application/atom+xml" title="Atom"    href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Javascript -->
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+  <!-- FROM JEKYLL -->
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+</head>
