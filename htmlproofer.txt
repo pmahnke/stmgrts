@@ -1,0 +1,7 @@
+Running ["ScriptCheck", "HtmlCheck", "LinkCheck", "ImageCheck"] on ["../../html"] on *.html... 
+
+
+Ran on 3627 files!
+
+
+htmlproofer 3.8.0 | Error:  HTML-Proofer found 47990 failures!

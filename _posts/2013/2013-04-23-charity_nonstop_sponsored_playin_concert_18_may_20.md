@@ -8,7 +8,8 @@ date: 2013-04-23 21:41:45
 
 ---
 
-<img src="/assets/images/2013/ROt.gif" width="150" title="Richmond Orchestra logo"  class="right" />
+<img src="/assets/images/2013/ROt.gif" width="150" title="Richmond Orchestra logo"  class="right"  alt="" />
+
 
 We invite you to join us in our Non-stop Sponsored Play-In Concert on Saturday 18<sup>th</sup> May 2013, at Sheen Lane Centre.
 
@@ -16,7 +17,8 @@ Come and enjoy an enticing medley of music including the finale to Tchaikovsky's
 
 Or as a soloist or conductor you can actually conduct your favourite piece or play your favourite instrumental solo or sing with the orchestra. All you have to do is decide what you would like to perform and get yourself sponsored. Don't hesitate - get in touch now, we can discuss it with you. Our conductor is happy to help budding conductors and soloists.
 
-<img src="/assets/images/2013/MCSt.gif" width="150" title="MacMillan Cancer logo"  class="right" />
+<img src="/assets/images/2013/MCSt.gif" width="150" title="MacMillan Cancer logo"  class="right"  alt="" />
+
 
 This is an entertaining and light hearted way to make some money for good causes, to make music and to have fun. Invite your friends to come and listen - entry free, tea and cakes on sale all day.
 

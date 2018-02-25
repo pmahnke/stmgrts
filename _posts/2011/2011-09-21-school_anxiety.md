@@ -6,7 +6,7 @@ commentfile: 2011-09-21-school_anxiety
 category: news
 date: 2011-09-21 18:14:14
 excerpt: |
-    <a href="https://stmargarets.london/poll/SCHOOLS/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=SCHOOLS&amp;action=image" class="right" /></a>
+    <a href="https://stmargarets.london/poll/SCHOOLS/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=SCHOOLS&amp;action=image" class="right"  alt="" /></a>
     
     It's a fact that there is an anticipated shortfall of 306 school places Borough wide in the 2012/13 academic year.
     
@@ -15,7 +15,7 @@ excerpt: |
 
 ---
 
-<a href="https://stmargarets.london/poll/SCHOOLS/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=SCHOOLS&amp;action=image" class="right" /></a>
+<a href="https://stmargarets.london/poll/SCHOOLS/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=SCHOOLS&amp;action=image" class="right"  alt="" /></a>
 
 It's a fact that there is an anticipated shortfall of 306 school places Borough wide in the 2012/13 academic year.
 

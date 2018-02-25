@@ -16,8 +16,10 @@ Historic protected view of St Paul's cathedral from Richmond Park destroyed by n
 Conservation and protection charity, Friends of Richmond Park, is saddened and outraged that one of London's most cherished and historic protected views - from King Henry's Mound in Richmond Park to St Paul's Cathedral - has been destroyed by the construction of a large, new development adjacent to the Olympic Park in Stratford, East London.
 
 <div markdown="1" class="crossfade">
-<img width="600" class="crossfade__image" src="/assets/images/2016/Before-StPauls.png" />
-<img width="600" class="crossfade__image--top" src="/assets/images/2016/After-StPauls.png" />
+<img width="600" class="crossfade__image" src="/assets/images/2016/Before-StPauls.png"  alt="" />
+
+<img width="600" class="crossfade__image--top" src="/assets/images/2016/After-StPauls.png"  alt="" />
+
 
 </div>
 Before and after: left, the pristine, protected view of St Paul's from Richmond Park as it was. Right, St Paul's with the massive Manhattan Loft Gardens building under construction behind. GLA planning officials failed to raise concerns about how the building would damage the protected view.

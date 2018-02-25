@@ -1,5 +1,6 @@
 <div id="dir_main">
-<a href="http://stmgrts.org.uk/archives/directory_store_olivers.html" onclick="window.open('http://stmgrts.org.uk/archives/directory_store_olivers.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://stmgrts.org.uk/archives/directory_store_olivers-thumb.jpg" width="300" height="225" /></a>
+<a href="http://stmgrts.org.uk/archives/directory_store_olivers.html" onclick="window.open('http://stmgrts.org.uk/archives/directory_store_olivers.html','popup','width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://stmgrts.org.uk/archives/directory_store_olivers-thumb.jpg" width="300" height="225"  alt="" />
+</a>
 
 h2. Olivers Grocery Store
 

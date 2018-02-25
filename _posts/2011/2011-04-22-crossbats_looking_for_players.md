@@ -8,7 +8,8 @@ date: 2011-04-22 11:11:47
 
 ---
 
-<img src="/assets/images/directory/200602240454_Crossbats_Cricket_Club.gif" width="128" height="159" class="right" />
+<img src="/assets/images/directory/200602240454_Crossbats_Cricket_Club.gif" width="128" height="159" class="right"  alt="" />
+
 
 [Crossbats Cricket Club](/directory/sports/200602240454) is looking for players - we play at Marble Hill and some away fixtures.
 

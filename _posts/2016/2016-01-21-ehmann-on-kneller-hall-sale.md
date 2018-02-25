@@ -6,12 +6,14 @@ commentfile: 2016-01-21-ehmann-on-kneller-hall-sale
 category: around_town
 date: 2016-01-21 22:10:12
 excerpt: |
-    <img src="/assets/images/directory/200505180516_Kneller_Hall.jpg" width="150"  class="photo right" />
+    <img src="/assets/images/directory/200505180516_Kneller_Hall.jpg" width="150"  class="photo right"  alt="" />
+
 
     As you will no doubt be aware, we received the terrible news this week that the Conservative Government plan to sell Whitton's, Kneller Hall.
 ---
 
-<img src="/assets/images/directory/200505180516_Kneller_Hall.jpg" width="250"  class="photo right" />
+<img src="/assets/images/directory/200505180516_Kneller_Hall.jpg" width="250"  class="photo right"  alt="" />
+
 
 As you will no doubt be aware, we received the terrible news this week that the Conservative Government plan to sell Whitton's, Kneller Hall. As a Councillor in the neighbouring ward, I am doing all that I can to support Whitton Councillor, Liz Jaeger in her efforts to reverse this announcement and save the facility for local people.
 
