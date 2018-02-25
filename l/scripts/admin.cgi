@@ -921,7 +921,8 @@ sub stats_past {
 		$out .= qq |
 	    
 	    <tr>
-	    <td><a href="$thisScript?a=stat_detail&amp;img=$B{$_}{'fp'}&amp;id=$_&amp;name=$B{$_}"><img src="$B{$_}{'fp'}" height="50" /></a></td>
+	    <td><a href="$thisScript?a=stat_detail&amp;img=$B{$_}{'fp'}&amp;id=$_&amp;name=$B{$_}"><img src="$B{$_}{'fp'}" height="50"  alt="" />
+</a></td>
 	    <td>$B{$_}</td>
 	    <td>$B{$_}{'count'}</td>
 	    <td>$B{$_}{'link'}</td>
@@ -1037,7 +1038,8 @@ sub stat_detail {
 	
 	<h2>$F{'name'}</h2>
 
-	<div><img src="$F{'img'}" class="left" /></div>
+	<div><img src="$F{'img'}" class="left"  alt="" />
+</div>
 
        	$chart
 
@@ -1129,7 +1131,8 @@ sub gchart {
 	~;
 
 	$output = qq ~
-	<p><img src="$chart" /></p>
+	<p><img src="$chart"  alt="" />
+</p>
 	~;
 	
 	return($output, $table);
@@ -1190,7 +1193,8 @@ sub gchart_twoline {
 	~;
 
 	$output = qq ~
-	<p><img src="$chart" /></p>
+	<p><img src="$chart"  alt="" />
+</p>
 	~;
 	
 	return($output, $table);

@@ -6,14 +6,16 @@ commentfile: 2017-06-22-event-arthouse-2017
 category: around_town
 date: 2017-06-22 19:29:54
 excerpt: |
-    <img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="150"  class="photo right" />
+    <img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="150"  class="photo right"  alt="" />
+
 
     Starting this weekend, hundreds of local artists will open their doors and invite you to take a look around their homes, studios, galleries and gardens!
 
     The Richmond Art House Open Studios Exhibition on the 23 to 25 June and 30 June to 2 July, will showcase a wide range of artwork and creative talent from the borough's artists, including printmaking, photography, wood sculpture and ceramics.
 
 ---
-<img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="250" class="photo right" />
+<img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="250" class="photo right"  alt="" />
+
 
 _Artists open their studios for unique exhibition_
 

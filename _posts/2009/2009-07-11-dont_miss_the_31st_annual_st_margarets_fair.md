@@ -8,7 +8,7 @@ date: 2009-07-11 23:41:45
 
 ---
 
-<a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2009/SMFLogo180.gif" height="150" width="150" class="right"/></a>
+<a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2009/SMFLogo180.gif" height="150" width="150" class="right" alt="" /></a>
 
 *This year the Fair will be on Saturday 11<sup>th</sup> July starting at 12.00*
 

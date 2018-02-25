@@ -6,7 +6,8 @@ commentfile: 2013-05-19-arthouse_open_studios_festival_2013
 category: around_town
 date: 2013-05-19 07:24:32
 excerpt: |
-    <img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="150"  class="photo right" />
+    <img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="150"  class="photo right"  alt="" />
+
     
     <em>"21 - 23 June and 28 - 30 June 2013":https://stmargarets.london/directory/art/201006031129</em>
     
@@ -14,7 +15,8 @@ excerpt: |
 
 ---
 
-<img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="300"  class="photo center" />
+<img src="/assets/images/directory/201006031129_ARThouse_Open_Studios_Festival.png" width="300"  class="photo center"  alt="" />
+
 
 <em>[21 - 23 June and 28 - 30 June 2013](/directory/art/201006031129)</em>
 

@@ -8,7 +8,8 @@ date: 2007-10-10 22:20:39
 
 ---
 
-<img src="/assets/images/2007/20070929CrownRoadFair.jpg" class="photo right" />
+<img src="/assets/images/2007/20070929CrownRoadFair.jpg" class="photo right"  alt="" />
+
 
 The fair was amazing. [Here are the photos](http://picasaweb.google.com/StMargaretsCommunityWebsite/20070929CrownRoadFair)
 

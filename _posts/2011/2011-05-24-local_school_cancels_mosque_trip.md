@@ -23,7 +23,7 @@ Jane Evans, headteacher of the school in Hartington Road, said her "first duty" 
 <div markdown="1" class="box">
 #### What do you think?
 
-<a href="https://stmargarets.london/poll/TERROR/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=TERROR&amp;action=image" class="right" /></a>
+<a href="https://stmargarets.london/poll/TERROR/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=TERROR&amp;action=image" class="right"  alt="" /></a>
 
 </p>
 -   [vote in our poll](/poll/TERROR)

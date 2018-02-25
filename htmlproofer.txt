@@ -1,0 +1,6 @@
+Running ["LinkCheck", "HtmlCheck", "ImageCheck", "ScriptCheck"] on ["../../html"] on *.html... 
+
+
+Ran on 3622 files!
+
+

@@ -81,8 +81,7 @@ You are absolutely not allowed to take cameras or mobile phones into the grounds
 At 6.00pm precisely the band played "The National Anthem", TRH disappeared up the garden steps and the day was over. Like many of us living in the terraces of St Margarets B.P. seems to have no side entrance - so to get from the garden back to the real world you have to pass through the Palace via the 'Grand Entrance' as it is known. As we did liveried staff watched to make sure that we didn't nick the family silver. Last year over 4000 of the spoons used at the garden parties went on walkabout never to be seen again so we could understand their concern. Not that we would do such a thing, us being Cubs (by Royal Appointment) and all!
 
 <div markdown="1" class="img_caption right">
-<a href="/assets/images/2009/wolf_clubs_1953.jpg"><img src="/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="THE CUB WOT WROTE IT!" class="photo" />
-</a><span>THE CUB WOT WROTE IT!</span>
+<a href="/assets/images/2009/wolf_clubs_1953.jpg"><img src="/assets/images/2009/wolf_clubs_1953-thumb.jpg" width="147" height="150" alt="THE CUB WOT WROTE IT!" class="photo" /></a><span>THE CUB WOT WROTE IT!</span>
 
 </div>
 On Thursday 16<sup>th</sup> July a small party of Cubs and Scouts from the *1<sup>st</sup> St Margaret Scout Group* joined 3,200 other young people from various uniformed youth organisations at a Garden Party at Buckingham Palace to help launch "YOU London" - a project to promote positive activities for all young people in London and to recruit adult leaders and helpers. We were proud to be invited, Ma'am.
