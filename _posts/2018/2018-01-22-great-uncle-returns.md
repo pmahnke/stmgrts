@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A great uncle returns"
+title: "A great uncle returns - part 1"
 permalink: /archives/2018/01/great-uncle-returns.html
 commentfile: 2018-01-22-great-uncle-returns
 category: around_town
@@ -37,7 +37,7 @@ Eric's platoon, part of the1/8<sup>th</sup> Battalion, London Regiment (Post Off
 In the next few weeks Lucy, Judith and Sarah will have a meeting with the Ministry of Defence to find out more about their great Uncle Eric, the details of his death and what happens next. Probably the military funeral that he never received all those years ago and a burial alongside all his comrades from the Post Office Rifles who were killed that day, 7<sup>th</sup> June 1917 on the bloody slopes of the Wytschaete-Messines Ridge
 
 
-<div class="box">
+<div class="box" markdown="1">
 
 <h4>THE RIDGE – 7th JUNE 1917</h4>
 
@@ -53,6 +53,14 @@ The thunder of the conflict they have won.
 </pre>
 <cite>AN UNKNOWN POET</cite>
 </div>
+
+
+<div class="box" markdown="1">
+
+For the part 2 of account of Eric read  <em>"[A Great Uncle Returns - part 2](/archives/2018/03/a-great-uncle-returns-part-2.html)"</em> published in the St Margarets Community Website - 11<sup>nd</sup> March 2018
+
+</div>
+
 
 
 <cite>-- from Martyn Day</cite>

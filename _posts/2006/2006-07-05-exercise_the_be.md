@@ -11,7 +11,7 @@ excerpt: |
     _We are running a series of articles from Georgie Islip, a local resident and fitness and nutrition specialist who runs a personal training company, GeoLifestyle in the area.  This second article is on 'the benefits of exercise'..._
     
     
-    h3. The Benefits of Exercise
+    ### The Benefits of Exercise
     
     Exercise includes four core areas; these are cardiovascular fitness, flexibility, endurance and strength. Each component helps towards the feeling of well-being and healthiness. 
     

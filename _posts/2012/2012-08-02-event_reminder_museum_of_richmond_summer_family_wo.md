@@ -7,7 +7,7 @@ category: around_town
 date: 2012-08-02 18:37:56
 excerpt: |
     
-    h3. Sporting Heroes Workshops
+    ### Sporting Heroes Workshops
      
     <a href="/assets/images/2012/mofrich_post.jpg" title="See larger version of - poster"><img src="/assets/images/2012/mofrich_post_thumb.jpg" width="150" height="197" alt="poster" class="photo right" /></a>
       

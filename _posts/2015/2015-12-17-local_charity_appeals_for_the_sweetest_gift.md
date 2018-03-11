@@ -29,7 +29,7 @@ Director of Jeevika Trust, Andrew Redpath said: "Beekeeping is a tried and teste
 > 
 >  "I'm appealing to everyone in the local community to get behind us and support our "Sweetest Gift" campaign. £2,500 will help us to expand our beekeeping project to another village, not only benefitting the women who take part in the project, but, as a result, their children, families and their communities as a whole. We know that Christmas is an expensive time and that we're one of thousands of good causes asking for donations over the festive period, but we operate on the principle of 'Small is Beautiful', whose author E.F.Schumacher was our founder back in 1970, so every little can make a very big difference to the lives of some of India's most marginalised and discriminated-against women."
 > 
->  h4. More Information
+>  #### More Information
 > 
 >  \* To support Jeevika Trust's "Sweetest Gift" appeal, please text SWEE70 £5 (or the amount of your choice, up to £10) to 70070
 >  \* visit [www.justgiving.com/sweetestgift](http://www.justgiving.com/sweetestgift) to make a donation of any amount.

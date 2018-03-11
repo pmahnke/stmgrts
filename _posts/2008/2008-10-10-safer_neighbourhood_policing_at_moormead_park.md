@@ -9,7 +9,7 @@ excerpt: |
     <a href="/assets/images/2008/police_liaison.jpg"><img src="/assets/images/2008/police_liaison-thumb.jpg" width="66" height="200" alt="Police Liaison Group" class="right" /></a>
     
     
-    h4. What's happening in Moormead Park?
+    #### What's happening in Moormead Park?
     
     Antisocial behaviour was the main topic at a police street briefing with the residents and our local Safer Neighbourhood Team on 23 June at Moormead Park. With the longer summer days upon us residents, police and the Council were keen to combat this behaviour. The following actions have been taken:
     

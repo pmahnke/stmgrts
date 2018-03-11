@@ -22,7 +22,7 @@ In a letter to the *Online Community's* forum **Vox Pop**, St Margarets Councill
 > 
 >  The period of consultation ends on 21 November. I have already met the TCMs for Richmond and Twickenham to hear their views of our proposal and would welcome further comments and suggestions before the above date. The Cabinet will then make a final decision at its next meeting in December.
 > 
->  h4. Actions
+>  #### Actions
 > 
 >  \* [Read the full letter](http://www.say-it-all.co.uk/voxpoprut/index.php?act=thread&forum_id=2&thread_id=2857&message_id=2876&message_id=2894&PHPSESSID=1d6763d336d5ee4158480379b0dfddf4)
 >  \* Email Cllr Lamb at [cllr.slamb@richmond.gov.uk](mailto:cllr.slamb@richmond.gov.uk) with your opinions on the proposed scheme.

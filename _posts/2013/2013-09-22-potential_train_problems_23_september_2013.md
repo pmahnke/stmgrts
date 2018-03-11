@@ -6,7 +6,7 @@ commentfile: 2013-09-22-potential_train_problems_23_september_2013
 category: news
 date: 2013-09-22 20:12:55
 excerpt: |
-    h4. Engineering Update - Barnes to Clapham Junction (Monday 23 September)
+    #### Engineering Update - Barnes to Clapham Junction (Monday 23 September)
     
     Our engineers have informed us today (Sunday) that they estimate they will need more time to complete improvement work between Barnes and Clapham Junction. 
     Vital minutes of engineering work time have been lost between works commencing this morning due to the following reasons: 

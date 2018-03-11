@@ -8,7 +8,7 @@ date: 2008-05-01 10:39:51
 excerpt: |
     <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
-    h4. How to improve fitness levels.
+    #### How to improve fitness levels.
     
     # Look at a building a race into your training programme as this will keep you motivated.
     # If you have limited time to train, try a circuit session. Warm up and then compete the following:

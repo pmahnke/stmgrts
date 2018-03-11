@@ -10,7 +10,7 @@ excerpt: |
     
     
     
-    h4. Craft Fair - A Collection of Works from Local Artistes
+    #### Craft Fair - A Collection of Works from Local Artistes
     
     We are pleased to able to announce that we will be hosting a <a href="https://stmargarets.london/event/exhibition/200705142130">Craft Fair on Saturday 9<sup>th</sup> May between 11.00am and 4.00pm.</a>
     

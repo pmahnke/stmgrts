@@ -11,7 +11,7 @@ excerpt: |
     
     I have lived in St Margarets for many years now and my family and I really enjoy the events that are held in our community, we loved the recent Christmas Fair in Crown road.
     
-    h4. So how does it happen?
+    #### So how does it happen?
     
     The St Margarets Christmas Fair exists because of the generosity and commitment of the local independent traders supported by their chairman Simon Chapman of Cutters.
     

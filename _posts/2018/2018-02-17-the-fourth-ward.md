@@ -25,7 +25,7 @@ In fact St Margarets is one of four wards that make up another village, the vill
 
 > "Twickenham is a handsome populous village, pleasantly situated on the river Thames, between Teddington and Isleworth (or, as it is commonly pronounced, Thistleworth), to the eastward of the former, between two brooks that here fall into the river, and in the county of Middlesex. Its distance from Teddington is rather more than a mile, much the same from Isleworth and about 3 miles from the market towns of Hounslow and Brentford... it is in length three miles, two furlongs, one mile and a half broad and in compass nine miles, six furlongs... the number of houses are computed at about 350 or upwards and its inhabitants as near as I can calculate, about two thousand."
 
-<div class="box">
+<div class="box" markdown="1">
 
 The  <em>'two brooks'</em> that Ironside writes about are the River Crane which empties into the Thames at Railshead in north St Margarets and the Duke of Northumberland's River, an artificial watercourse that does the same in Isleworth.
 
