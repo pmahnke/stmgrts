@@ -82,7 +82,7 @@ Suspecting that there are people anxious to brew some Ginger Beer for themselves
 > 
 >  TURN UP THE MUSIC!
 > 
->  h4. Video of "Devil's Gallop"
+>  #### Video of "Devil's Gallop"
 > 
 >  By Charles Williams, the main theme for 'Dick Barton - Special Agent' - BBC Light Programme between 7 October 1946 and 30 March 1951
 > 

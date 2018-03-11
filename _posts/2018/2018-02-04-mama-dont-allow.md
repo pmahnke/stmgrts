@@ -27,7 +27,7 @@ If you know of any former Teddy Boys and Dungaree Dolls who might appreciate ano
 
 BY THE WAY... 'Mama Don't Allow' happen to be looking for a tea chest bass player - old farts of any age or gender are particularly welcome. Experience is not important. Enthusiasm is!
 
-<div class="box">
+<div class="box" markdown="1">
 
 The Vipers Skiffle Group playing 'Pick A Bale of Cotton' in 1957 to the grandparents of today!
 

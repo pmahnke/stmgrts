@@ -6,7 +6,7 @@ commentfile: 2011-11-11-river_crane_pollution_update_from_force
 category: news
 date: 2011-11-11 09:30:45
 excerpt: |
-    h4. Summary
+    #### Summary
     
     * Lakes at Syon Park affected as well as Northumberland and Crane rivers.
     * An estimated 10,000 fish are now believed to have been killed

@@ -8,7 +8,7 @@ date: 2010-10-29 08:49:14
 excerpt: |
     <a href="/assets/images/2010/olympics_1948_londonposter.gif" title="See larger version of - 1948 London Olympics Poster"><img src="/assets/images/2010/olympics_1948_londonposter_thumb.gif" width="95" height="150" alt="1948 London Olympics Poster" class="photo right" /></a>
 
-    h3. When The Olympics Came To Richmond
+    ### When The Olympics Came To Richmond
 
     62 years ago in 1948 Britain was in a situation very similar to today - flat broke, up to its neck in debt and with a very expensive Olympic Games to pay for.
 

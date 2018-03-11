@@ -9,7 +9,7 @@ excerpt: |
     <a href="/assets/images/2010/vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="/assets/images/2010/vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
     
     
-    h3. Ziggy Stardust Came From Isleworth
+    ### Ziggy Stardust Came From Isleworth
     
     On the 23<sup>rd</sup> April 2009 the _St Margarets Community Website_ carried <a href="https://stmargarets.london/archives/2009/04/ziggy_stardust_came_from_isleworth.html,">an article about Vince Taylor</a> a 1960's rock 'n' roll singer born in Isleworth.  After enjoying some moderate success in France Vince fell victim to the powerful psychedelic drug LSD. During his struggle to hold his mind and his failing career together Vince meet David Bowie who was inspired by him to create his alter-ego Ziggy Stardust, the "leper Messiah" swallowed up by the excesses of rock stardom.
 

@@ -58,7 +58,7 @@ Our regular Seesaw sessions for under 5s - but with a Festive theme!
 -   Drop-in - no booking required
 -   Every Friday 10.30am-12.30pm
 -   Stops for Christmas break: 26 Dec, 2 Jan, 9 Jan
--   £5 per child and carer, £3 per additional sibling h4. Sunday Afternoon Art
+-   £5 per child and carer, £3 per additional sibling #### Sunday Afternoon Art
 
 Work with artist Katie Baker to create Christmas-inspired arts and crafts in the gallery.
 

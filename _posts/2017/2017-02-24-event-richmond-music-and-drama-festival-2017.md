@@ -36,7 +36,7 @@ Richmond Council's Cabinet Member for Arts and Culture, Cllr Meena Bond, said:
 > 
 >  "I'd like to encourage as many residents as possible to take full advantage of the wonderful acts and performances being showcased this year and to say a special thanks to our performers, venues, patrons and sponsors for helping make this what I know will be a wonderful event."
 > 
->  h4. More Information
+>  #### More Information
 > 
 >  \* To view the Richmond Music and Dance Festival 2017 programme visit [www.richmond.gov.uk/musicanddrama](http://www.richmond.gov.uk/musicanddrama)
 >  \* To stay up-to-date with all the latest news follow the festival via twitter [`LBRUTmusicdrama":http://www.twitter.com/LBRUTmusicdrama

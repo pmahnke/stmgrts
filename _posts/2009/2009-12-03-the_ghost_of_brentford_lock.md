@@ -8,9 +8,9 @@ date: 2009-12-03 21:47:05
 excerpt: |
     A series of gruesome murders across Britain in 1934 and 1935 convinced the nation that a 'Jack The Ripper' serial killer was at work...
     
-    h3. England Fears Murder Fiend After a Fifth Mystery case!
+    ### England Fears Murder Fiend After a Fifth Mystery case!
     
-    h3. 	Mutilated Bodies of Unidentified Women Discovered in Ravine in Scotland!
+    ### 	Mutilated Bodies of Unidentified Women Discovered in Ravine in Scotland!
     
     The murderer, or murderers, had taken every precaution to escape detection. The bodies were stripped of clothes. The feet and fingers had been chopped off. Large pieces of skin had been skilfully removed to destroy tell-tale scars and birthmarks. Faces had been mutilated beyond recognition. Even the blood had been drained, making the task of determining how long the victims had been dead much more difficult.
 

@@ -9,9 +9,9 @@ excerpt: |
     
     <a href="/assets/images/2011/fireworks.jpg"><img src="/assets/images/2011/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
     
-    h3. Friday 4<sup>th</sup> November 2011
+    ### Friday 4<sup>th</sup> November 2011
     
-    h4. Kingsmeadow Athletics Stadium - Kingston
+    #### Kingsmeadow Athletics Stadium - Kingston
     
     _The Kingston fireworks display promises to be a massive London fireworks event, with a huge display, family attractions and more kicking off at Kingsmeadow Athletics Stadium._
     

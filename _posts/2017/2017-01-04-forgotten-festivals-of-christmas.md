@@ -40,7 +40,7 @@ This day is an ecclesiastical remembrance of the murder of Archbishop Thomas á 
 >  And crowned was for his prowess."
 > 
 > 
-> h3. Friday 30<sup>th</sup> December
+> ### Friday 30<sup>th</sup> December
 
 In the ecclesiastical calendar this day was reserved for the commemoration of half forgotten saints such has Timon the Deacon, Hieromartyr Zoticus the Priest and St Daniel of Pereyaslavi-Zalesska whose relics were uncovered on this day. Apparently St Daniel was able to read minds and psychically 'view' events happening at a great distance. My 8 year old niece can do the same using Skype.
 

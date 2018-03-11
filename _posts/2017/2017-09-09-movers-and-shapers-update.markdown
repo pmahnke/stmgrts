@@ -94,7 +94,7 @@ What:
 * Power Plate presentation on benefits of plates on bone density.
 
 
-h4. More Information
+#### More Information
 
 * 020 8892 9158
 * [stmargarets@moversandshapers.co.uk](mailto:stmargarets@moversandshapers.co.uk)

@@ -8,7 +8,7 @@ date: 2008-04-24 09:58:04
 excerpt: |
     <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
-    h4. How to improve fitness levels.
+    #### How to improve fitness levels.
     
     # Always warm up for about 5 minutes before you do any exercise. If you are going out running, start off by walking so you get yourself ready for your run. Stretching is not necessary before a run, but will help reduce muscle soreness at the end of your exercise session. Again cool down for about 5 minutes.
     

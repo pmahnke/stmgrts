@@ -31,7 +31,7 @@ Mrs Dooley said:
 > 
 > "I hope that many families will come to the Open Evening, to find out more and join us on this exciting journey."
 
-h4. More Information
+#### More Information
 
 -   [Richmond upon Thames School website](http://www.richmonduponthamesschool.org.uk/admissions-events)
 -   follow us on Twitter [@RTS\_Twickenham.](http://www.twitter.com/RTS_Twickenham).

@@ -25,7 +25,7 @@ Draw and paint the Victorian pleasure gardens and Arcadian views with tuition (o
 Join us for an illustrated talk by Philip Briggs of The London Bat Group followed by a guided walk along the river to hear and see these delighted creatures.
 
 -   [More Information](/event/event/200705144113)
-    h4. Then and Now - Tour of The National Archives at Kew
+    #### Then and Now - Tour of The National Archives at Kew
 
 [Thursday 26 September, 1 to 2.30pm](/event/tour/200705144110)
 

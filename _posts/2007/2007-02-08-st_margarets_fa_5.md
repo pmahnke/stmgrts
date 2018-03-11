@@ -10,7 +10,7 @@ excerpt: |
     
     This years St Margarets Fair will be on Saturday, 14th July from 12 noon.
     
-    h4. Stalls
+    #### Stalls
     
     If you are interested in having a Stall, spaces are available to book on the Avenue of Stalls.  These are 10 foot wide and cost £50 for a Commercial Stall and £35 if your organization has a charity number.  Please contact Julia Kirkpatrick ("juliamkirkpatrick@hotmail.com":mailto:juliamkirkpatrick@hotmail.com) for an application form.
 

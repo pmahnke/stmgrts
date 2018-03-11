@@ -12,7 +12,7 @@ excerpt: |
     
     <a href="/assets/images/2011/POISON_Gas-Leaflet.gif" title="See larger version of - Poison Gas leaflet"><img src="/assets/images/2011/POISON_Gas-Leaflet_thumb.gif" width="150" height="287" alt="Poison Gas leaflet" class="photo right" /></a>
     
-    h4. POISON GAS WEEK
+    #### POISON GAS WEEK
     
     Dear Sir or Madam,
     
@@ -24,7 +24,7 @@ excerpt: |
     
     This was the announcement of a week designed to raise public awareness of the dangers of an enemy attack with poison gas. Similar notices appeared on the front pages of the local newspapers with the warning...
     
-    h3. DANGER - THERE WILL BE SURPRISE POISON GAS ATTACKS SO CARRY YOUR GAS-MASK - ALWAYS
+    ### DANGER - THERE WILL BE SURPRISE POISON GAS ATTACKS SO CARRY YOUR GAS-MASK - ALWAYS
     
 
 ---

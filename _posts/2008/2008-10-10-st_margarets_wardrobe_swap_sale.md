@@ -9,7 +9,7 @@ excerpt: |
     <a href="/assets/images/2008/frodo_wear_thumb.jpg"><img src="/assets/images/2008/frodo_wear_thumb-thumb.jpg" width="105" height="150" alt="St Margarets' Wardrobe Swap & Sale" class="photo right" /></a>
     
     
-    h4. 'Nothing to Wear?'
+    #### 'Nothing to Wear?'
     
     As the party season approaches and with the credit crunch looming, the answer to your wardrobe crisis is the _St Margarets' Wardrobe Swap & Sale_. Donate your beautiful guilty or worn-once purchases and buy someone else's back all in aid of FRODO.
     

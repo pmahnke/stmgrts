@@ -6,7 +6,7 @@ commentfile: 2012-09-06-event_reminder_zumba_through_the_ages_6_october_20
 category: around_town
 date: 2012-09-06 21:27:41
 excerpt: |
-    h4. Celebrate Older Peoples Day with Age UK Richmond
+    #### Celebrate Older Peoples Day with Age UK Richmond
     
     <a href="https://stmargarets.london/event/event/200705143579">Saturday 6<sup>th</sup> October 9.00am to 12.00pm</a>
     

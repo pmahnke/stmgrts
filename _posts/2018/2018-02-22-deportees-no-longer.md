@@ -106,7 +106,7 @@ Members of the crew:
 
 I wonder why the death of 28 migrant workers in a plane crash in California 70 years ago should be of interest to any of us living here in comfortable St Margarets save for the recognition that like us they were doing their best to improve the lives of themselves and their families and that like us all they deserve the respect and acknowlegement of their fellow human beings denied to them at the time.
 
-<div class="box">
+<div class="box" markdown="1">
 
 #### The original recording by Pete Seeger
 

@@ -55,7 +55,7 @@ The popular title of the much parodied long narrative (twenty one verses) proper
 
 </div>
 > 
->  h4. Mince Pies
+>  #### Mince Pies
 > 
 >  at CHRISTMAS time are said to have been emblematical of the manger in which our Saviour was laid. The paste over the 'offering' was made in the form of a cratch or hay-rack. Southey speaks of-
 > 
@@ -74,7 +74,7 @@ In English (also written Nowell), a Christmas CAROL, or the shout of joy in a ca
 >  Because that Christ, the king
 >  Was born on this blessed day
 > 
->  h4. Turkey *see MISNOMERS*
+>  #### Turkey *see MISNOMERS*
 > 
 >  Turkeys do not come from Turkey but from North America and were brought to Spain from Mexico.
 > 

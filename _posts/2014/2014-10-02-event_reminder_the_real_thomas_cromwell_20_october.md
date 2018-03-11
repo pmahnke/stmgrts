@@ -23,7 +23,7 @@ Born in Putney a lowly tavern keeper's son, and having lived for a time in Mortl
 The architect of England's break with the Roman Catholic Church and the dissolution of the monasteries, he was reviled for years as a Machiavellian schemer who stopped at nothing in his quest for power. But Thomas Cromwell was also a loving husband, father and guardian, a witty and generous host, and a loyal and devoted servant. With new insights into Cromwell's character, his family life and his close relationships with both Cardinal Wolsey and Henry VIII, Tracy Borman examines the life, loves and legacy of the man who changed the shape of England forever.
 
 The talk is by historian Tracy Borman, Joint Chief Curator of Historic Royal Palaces, tells the story of the real Wolf Hall in her definitive biography of Thomas Cromwell, Henry VIII's most trusted servant.
-h4. More Information
+#### More Information
 
 -   Proceeds towards the Museum's Development Appeal
 -   Tickets can be purchased with a credit card by phoning the MUSEUM of RICHMOND on 020 8332 1141.
