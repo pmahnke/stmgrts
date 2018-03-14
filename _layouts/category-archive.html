@@ -2,28 +2,41 @@
 layout: default-empty
 ---
 
-<div id="twocolcenter" class="row">
-  <div class="content eight columns">
-    <h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
-  {% for post in page.posts limit: 10 %}
-    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-    {{ post.excerpt | remove:'<div class="letter">' | textilize }}
-    <p class="posted u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
-  {% endfor %}
+    <section class="p-strip">
+      <div class="row">
+        <div class="col-8 content">
 
-    <h3>Older Articles</h3>
-    <ul>
-      {% for post in page.posts offset: 10 %}
-      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-      {% endfor %}
-    </ul>
-  </div><!-- end div content -->
-  <div id="right" class="sidebar four columns">
-    <h3>Category archives</h3>
-    <ul>
-      <li><a href="/archives/news">News archives</a></li>
-      <li><a href="/archives/editorial">Editorials archives</a></li>
-      <li><a href="/archives/around-town">Around town archives</a></li>
-    </ul>
-  </div><!-- end div right -->
-</div><!-- end div twocolcenter -->
+          <h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
+          {% for post in page.posts limit: 10 %}
+            <h3>
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                {{ post.title }}
+              </a>
+            </h3>
+            <p>
+              {{ post.excerpt | remove:'<div class="letter">' | textilize }}
+            </p>
+            <p class="u-clearfix posted">
+              {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
+            </p>
+          {% endfor %}
+
+          <h3>Older Articles</h3>
+          <ul>
+            {% for post in page.posts offset: 10 %}
+              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-4">
+          <div class="p-card">
+            <h3 class="p-card__title p-muted-heading">Category archives</h3>
+            <ul class="p-card__content p-list">
+              <li class="p-list__item"><a href="/archives/news">News archives</a></li>
+              <li class="p-list__item"><a href="/archives/editorial">Editorials archives</a></li>
+              <li class="p-list__item"><a href="/archives/around-town">Around town archives</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>

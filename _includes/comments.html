@@ -1,23 +1,26 @@
 <notextile>
-<div class="comments">
-    <h3>Comments</h3>
-    <ul>
-{% for comment in site.data.[include.commentfile] %}
-    {% if comment.comment != null %}
-        <li>
-{{ comment.comment }}
-            <cite>{{ comment.author }} on {{ comment.date }}</cite>
 
-        </li>
-    {% endif %}
-{% endfor %}
-    </ul>
-</div><!-- end comments -->
-
-<div id="commentform">
-    <h4>Add a comment</h4>
-    <form method="post" action="/cgi-bin/comments.cgi">
-        <fieldset>
+<section class="p-strip--comments">
+  <div class="row">
+    <div class="col-8">
+        <h3>Comments</h3>
+        <ul class="p-list">
+          {% for comment in site.data.[include.commentfile] %}
+            {% if comment.comment != null %}
+            <li class="p-list__item--comment">
+              {{ comment.comment }}
+              <cite>{{ comment.author }} on {{ comment.date }}</cite>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-8">
+        <h4>Add a comment</h4>
+        <form method="post" action="/cgi-bin/comments.cgi">
+          <fieldset>
             <label for="name">Name</label>
             <input type="text" id="name" name="name" value="" />
             <label for="email">Email</label>
@@ -29,6 +32,9 @@
             <input type="submit" name="a" value="comment" class="button-primary" />
             <input type="hidden" name="page-id" value="{{ include.commentfile }}" />
         </fieldset>
-    </form>
-</div><!-- end commentform -->
+      </form>
+    </div>
+  </div>
+</section>
+
 </notextile>

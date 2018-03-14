@@ -1,48 +1,36 @@
 {% include head.html %}
 
   <body>
-
 {% include google-tag-manager.html %}
-
 {% include header.html %}
 
-    <div class="container">
-      <div id="twocolcenter" class="row">
-        <div id="article" class="content nine columns">
+    <div class="wrapper u-no-margin--top">
+      <div id="main-content" class="inner-wrapper">
 
-{{ content }}
+        <!-- content -->
+        {{ content }}
 
-        </div><!-- end div article -->
-        <div id="right" class="sidebar three columns">
-{% if page.title %}
-          <div id="social">
-            <ul class="share-buttons">
-              <li><a id="share-facebook" title="Share on facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ site.url }}{{ page.url }}&amp;p[title]={{ page.title | cgi_escape }}" rel="nofollow"><img alt="Share on Facebook" src="/assets/images/Facebook.svg"></a></li>
-              <li><a id="share-twitter"  title="Share on twitter"  href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title | cgi_escape }}&amp;hashtags=stmgrts&amp;via=stmgrts" rel="nofollow"><img alt="Share on Twitter" src="/assets/images/Twitter.svg"></a></li>
-              <li><a id="share-email"    title="Share via Email"   href="mailto:?subject={{ page.title }}&amp;body=I've%20just%20read%20%27{{ page.title }}%27%20on%20the%20St%20Margarets%20Community%20Website%20and%20thought%20you%20would%20like%20it.%20Check%20it%20out:%20http://{{ site.url }}{{ page.url }}"><img alt="Share via email" src="/assets/images/Email.svg"></a></li>
-            </ul>
-          </div><!-- end social -->
-          <div class="pagenavigation u-cf">
-            {% if page.previous.url %}
-              <p class="prev"><a class="prev_link" href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a></p>
-              {% endif %}
-              {% if page.next.url %}
-              <p class="next"><a class="next_link" href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a></p>
-              {% endif %}
-          </div><!-- end pagenavigation -->
-{% endif %}
-        </div><!-- end div right -->
-      </div><!-- end div twocolcenter -->
-    </div><!-- end div container -->
-    <div id="comments">
-      <div class="container">
-        <div class="row">
-          <div class="nine columns">
-{% include comments.html commentfile=page.commentfile%}
-          </div><!-- end nine cols -->
-        </div><!-- end div row -->
-      </div><!-- end div container -->
-    </div><!-- end div comments row -->
+        <!-- prev/next pagination -->
+        <section class="p-pagination is-bordered">
+          {% if page.previous.url %}
+            <a class="p-pagination__link--previous" href="{{page.previous.url}}">
+              <span class="p-pagination__label">Previous</span>
+              <span class="p-pagination__title">{{page.previous.title}}</span>
+            </a>
+          {% endif %}
+          {% if page.next.url %}
+            <a class="p-pagination__link--next" href="{{page.next.url}}">
+              <span class="p-pagination__label">Next</span>
+              <span class="p-pagination__title">{{page.next.title}}</span>
+            </a>
+          {% endif %}
+        </section>
+
+        <!-- comments -->
+        {% include comments.html commentfile=page.commentfile%}
+
+      </div><!-- /.inner-wrapper -->
+    </div><!-- /.wrapper -->
 
 {% include footer.html %}
 

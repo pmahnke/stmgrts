@@ -1,8 +1,9 @@
 ---
 layout: default-empty
 ---
+<section class="p-strip">
   <div class="row">
-    <div id="center" class="six columns">
+    <div id="center" class="col-6">
       <div id="homepage" class="content">
 
 <!-- eight main stories -->
@@ -13,7 +14,7 @@ layout: default-empty
 
         <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
 
-        <p class="posted u-cf u-full-width">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+        <p class="u-clearfix posted">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
 {% endfor %}
 
 <!-- /end eight main stories -->
@@ -32,7 +33,7 @@ layout: default-empty
       </div><!-- end div content -->
     </div><!-- end div center -->
 
-    <div id="middle" class="three columns">
+    <div id="middle" class="col-3">
 
 <!-- start div weather -->
 {% include homepage_weather.html %}
@@ -52,25 +53,23 @@ layout: default-empty
 
     </div><!-- end div middle -->
 
-    <div id="right" class="sidebar three columns">
+    <div id="right" class="sidebar col-3">
 
       <div id="twitter" class="infobox">
 {% include homepage_twitter.html %}
       </div><!-- /end div twitter -->
 
-      <div id="newsletter" class="infobox">
-
-        <h3>Newsletter Sign-Up</h3>
-
-        <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
-          <form method="post" action="/cgi-bin/newsletter.cgi">
-          <p><label for="newsletteremailinline">Your Email Address:</label></p>
-          <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
-          <p><input type="submit" name="topage" value="register" /></p>
-        </form>
-
-        <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
-
+      <div id="newsletter" class="p-card">
+          <h3 class="p-card__title p-muted-heading">Newsletter Sign-Up</h3>
+          <div class="p-card__content">
+          <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+            <form method="post" action="/cgi-bin/newsletter.cgi">
+            <p><label for="newsletteremailinline">Your Email Address:</label></p>
+            <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
+            <p><input type="submit" name="topage" value="register" /></p>
+          </form>
+          <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
+        </div>
       </div><!-- /end div newsletter -->
 
       <div id="traininfo" class="infobox">
@@ -100,3 +99,4 @@ layout: default-empty
       </div><!-- end div archives -->
     </div><!-- end div right -->
   </div><!-- end div row -->
+</section>
