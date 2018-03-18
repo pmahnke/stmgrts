@@ -138,38 +138,30 @@ ul.share-buttons img{
 
 
 /* FOOTER */
-
-#footer {
-  border-top: 6px solid $color-light;
+.p-footer {
   background-color: $footer-color;
-  color: $color-x-light;
-  padding: 3em 0;
-  .container {
-    background-color: $footer-color;
-  }
-  h2 {
-    font-size: 1.2em;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
-  }
-  a {
-    &:link {
+
+  .p-footer__nav {
+
+    h2,
+    h2 > a:link,
+    li.p-list__item > a:link {
       color: $color-light;
     }
-    &:visited {
+
+    h2 > a:visited,
+    li.p-list__item > a:visited {
       color: $color-mid-light;
     }
-    &:active, &:hover {
-      color: $color-x-light;
-    }
+  }
+
+  p,
+  p a:link,
+  p a:visited {
+    color: $color-light;
   }
 }
 
-.copyright {
-  clear: both;
-  text-align: right;
-  padding: 1em 2em 0 0;
-}
 
 /* content */
 
@@ -794,7 +786,6 @@ forum table {
   }
 }
 
-// search from insights.u.c
 // XXX Caleb - 30.01.18 Nav search box styling fixes
 .p-navigation .p-navigation__nav > .p-search-box {
   @media (min-width: $breakpoint-navigation-threshold + 1) {
@@ -803,6 +794,10 @@ forum table {
   }
 }
 
+/// XXX Peter - 18 March 2018 fix for form+**input
+.p-search-box__input {
+  margin-top: 0;
+}
 
 // cross fade two photos, used on st pauls piece
 @keyframes crossfade__FadeInOut {
