@@ -794,6 +794,11 @@ forum table {
   }
 }
 
+// nav hover Colour
+.p-navigation .p-navigation__links .p-navigation__link:hover {
+  background-color: $menu-color;
+}
+
 /// XXX Peter - 18 March 2018 fix for form+**input
 .p-search-box__input {
   margin-top: 0;
