@@ -260,9 +260,6 @@ p.footnote {
 }
 
 div.event {
-  margin: 20px 0;
-  padding: 0;
-  width: 200px;
   text-align: center;
 }
 
@@ -281,28 +278,27 @@ div.event {
     color: $color-x-light;
     letter-spacing: 0.2em;
     background: $color-mid-dark;
-    font-weight: bold;
     margin: 0;
-    padding: 2px;
+    padding: 3px;
     border: 0;
-    height: 20px;
+    height: 2rem;
   }
   dd {
-    margin: 0;
-    padding: 0;
+    background: $color-light;
     border: 0;
     color: $color-dark;
-    background: $color-light;
     font-style: normal;
-    height: 20px;
-  }
-}
+    height: 2rem;
+    margin: 0;
+    padding: 0;
 
-dd.date {
-  font-size: 56px;
-  font-family: georgia, times, serif;
-  line-height: 105%;
-  height: 65px;
+    &.date {
+      font-size: 5rem;
+      font-family: georgia, times, serif;
+      line-height: 1;
+      height: 5.5rem;
+    }
+  }
 }
 
 .kids {
