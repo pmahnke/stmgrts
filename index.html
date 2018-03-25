@@ -8,7 +8,7 @@ layout: default-empty
 
 <!-- eight main stories -->
 {% for post in site.posts limit: 10%}
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h2 class="p-heading--four"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
         {{ post.excerpt | remove:'<div class="letter">' | textilize }}
 
