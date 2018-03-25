@@ -110,15 +110,6 @@ ul.share-buttons img{
 /* #Page Styles
 ================================================== */
 
-#homepage h2 {
-  font-size: 1.75em;
-  padding-bottom: 0.5em;
-}
-
-#homepage #newsletteremailinline {
-  width: 100%;
-}
-
 #remember, #forget {
   display: inline;
 }
@@ -229,7 +220,7 @@ textarea[id="comment-text"] {
   p {
     font-size: 1em;
     color: $color-dark;
-  }
+    }
 }
 
 #traintable td {

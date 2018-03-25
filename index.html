@@ -59,27 +59,25 @@ layout: default-empty
 {% include homepage_twitter.html %}
       </div><!-- /end div twitter -->
 
-      <div id="newsletter" class="p-card">
-          <h3 class="p-card__title p-muted-heading">Newsletter Sign-Up</h3>
-          <div class="p-card__content">
-          <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
-            <form method="post" action="/cgi-bin/newsletter.cgi">
-            <p><label for="newsletteremailinline">Your Email Address:</label></p>
-            <p><input type="text" id="newsletteremailinline" name="email" value="" size="25" /></p>
-            <p><input type="submit" name="topage" value="register" /></p>
-          </form>
-          <p class="message">We will never sell your email address, or let third parties use it.  Your privacy is important to us.</p>
-        </div>
+      <div id="newsletter" class="infobox">
+        <h3>Newsletter Sign-Up</h3>
+        <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
+        <form method="post" action="/cgi-bin/newsletter.cgi">
+          <label for="newsletteremailinline">Your Email Address:</label>
+          <input type="text" id="newsletteremailinline" name="email" value="" size="25" required="" />
+          <button type="submit" name="topage" value="register">register</button>
+          <p class="p-form-help-text"><small>We will never sell, or let third parties use your email address.  Your privacy is important to us.</small></p>
+        </form>
       </div><!-- /end div newsletter -->
 
       <div id="traininfo" class="infobox">
 
         <h3>Current Train Information</h3>
 
-        <ul>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+        <ul class="p-list">
+          <li class="p-list__item is-ticked"><a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+          <li class="p-list__item is-ticked"><a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+          <li class="p-list__item is-ticked"><a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
         </ul>
 
       </div><!-- /end div traininfo -->
