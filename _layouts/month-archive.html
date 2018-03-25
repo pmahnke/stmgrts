@@ -14,7 +14,7 @@ layout: default-empty
               </a>
             </h3>
             <p>
-              {{ post.excerpt | remove:'<div class="letter">' | textilize }}
+              {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
             </p>
             <p class="u-clearfix posted">
               {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}

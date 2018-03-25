@@ -8,7 +8,7 @@ sitemap: false
 
     <h3><a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsletter">{{ post.title }}</a></h3>
 
-    {{ post.excerpt | textilize }}
+    {{ post.excerpt | markdownify }}
 
     <p class="extended">&mdash; <a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsletter">read more</a></p>
 
