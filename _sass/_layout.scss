@@ -35,8 +35,6 @@ IMAGE STYLES
 
 img {
   display: block;
-  padding: 2px;
-  margin: 0 5px;
   border: 0;
 }
 
@@ -46,6 +44,7 @@ img {
 
 .photo {
   margin: 0.5em 1em;
+  padding: 2px;
   border: 1px solid $color-mid-light;
 }
 
@@ -221,7 +220,6 @@ textarea[id="comment-text"] {
 
 .infobox {
   overflow: hidden;
-  padding: 1em 0;
   h3 {
     color: $color-dark;
     margin: 1px;
@@ -251,14 +249,6 @@ p.footnote {
   margin: 2em auto;
 }
 
-#events {
-  img {
-    padding: 0;
-    margin: 1em 0;
-    border: 0;
-  }
-}
-
 div.event {
   text-align: center;
 }
@@ -269,7 +259,6 @@ div.event {
 
 .event {
   dl {
-    margin: 0;
     padding: 0;
     border: 0;
   }
@@ -691,13 +680,12 @@ forum table {
 #forum th, #forum td {
   margin: 0;
   padding: 0.5em 1em;
-  font-size: 1.2em;
 }
 
 #forum {
   th {
-    background-color: #800080;
-    color: white;
+    background-color: $color-brand;
+    color: $color-x-light;
     text-align: left;
   }
   fieldset {
@@ -705,42 +693,29 @@ forum table {
   }
 }
 
-#topic {
-  .list {
-    width: 90%;
-  }
-  .count {
-    font-size: 0.95em;
-    padding-left: 2em;
-  }
-}
-
 #conversation {
-  .title {
-    color: $color-bright-purple;
-  }
   .who {
     font-style: italic;
   }
   .me .who {
-    background-color: #990066;
+    background-color: $color-brand;
     color: $color-light;
   }
   .you .who {
-    background-color: #c9a0dc;
-    color: $color-x-light;
+    background-color: $color-light;
+    color: $color-dark;
   }
   .message {
-    padding: 0 1em;
     line-height: 1.25em;
   }
   td {
-    border-bottom: 1px solid $color-bright-purple;
+    border-bottom: 1px solid $color-mid-dark;
+    padding: 1rem;
   }
 }
 
 #topic td {
-  border-bottom: 1px solid $color-bright-purple;
+  border-bottom: 1px solid $color-mid-dark;
 }
 
 #conversation th, #topic th {
@@ -748,20 +723,9 @@ forum table {
 }
 
 #forum {
-  input, textarea {
-    font-size: 1.4em;
-    font-family: verdana, arial, sans-serif;
-    width: 75%;
-  }
-  .submit {
-    width: 20%;
-    font-size: 1.2em;
-  }
   .sub_conv {
     background-color: $color-light;
-  }
-  .title {
-    font-weight: bold;
+    padding: 1rem;
   }
 }
 
