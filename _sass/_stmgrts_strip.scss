@@ -1,0 +1,12 @@
+@mixin stmgrts-p-strip {
+  .p-strip--comments {
+    @extend .p-strip;
+
+    background-color: lighten($color-brand, 25%);
+
+    & fieldset {
+      background-color: lighten($color-brand, 20%);
+      border: 0;
+    }
+  }
+}

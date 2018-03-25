@@ -1,37 +1,23 @@
 ---
 # main scss file
 ---
+@charset "UTF-8";
 
 // Imports
-//@import "base";
-//@import "skeleton";
-
-/*
-* Skeleton V2.0.4
-* Copyright 2014, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 12/9/2014
-* Sass Version by Seth Coelen https://github.com/whatsnewsaes
-*/
-
-/* Base files. */
-@import "base/normalize";
-@import "base/variables";
-@import "base/functions";
-@import "base/base-styles";
-@import "base/utils";
-@import "base/typography";
-
-/* Modules */
-@import "modules/grid";
-@import "modules/buttons";
-@import "modules/forms";
-@import "modules/lists";
-@import "modules/code";
-@import "modules/tables";
-@import "modules/spacing";
-@import "modules/media-queries";
-
+@import "global-settings";
+@import "base";
 @import "layout";
+@import "stmgrts_lists";
+@import "stmgrts_strip";
+
+@include stmgrts-p-lists;
+@include stmgrts-p-strip;
+
+// undo some vanilla stuff
+p {
+  max-width: inherit;
+}
+
+blockquote {
+  border-left: 0;
+}

@@ -1,203 +1,4 @@
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
-
-/* Table of Content
-==================================================
-  #Site Styles
-  #Page Styles
-  #Media Queries
-  #Font-Face */
-
-/* #Site Styles
-================================================== */
-
-body {
-  margin: 0px 0px 20px 0px;
-  background: #FFFFFF;
-  text-align: left;
-  font-size: 15px;
-  color: #222;
-}
-
-a {
-  text-decoration: none;
-  &:link {
-    color: #003399;
-  }
-  &:visited {
-    color: #3366CC;
-  }
-  &:active, &:hover {
-    color: #333399;
-    text-decoration: underline;
-  }
-}
-
-h1, h2, h3, h4, h5 {
-  margin: 0px;
-  padding: 1em 0 0.5em 0;
-  font-weight: normal;
-  font-family: Georgia, Times, Serif;
-  line-height: 1.1em;
-}
-
-h1 {
-  font-size: 1.0em;
-}
-
-h2 {
-  font-size: 1.8em;
-}
-
-h3 {
-  font-size: 1.5em;
-}
-
-h4 {
-  font-size: 1.3em;
-}
-
-h5 {
-  font-size: 1.1em;
-}
-
-
-textarea, input {
-  &[type="text"], &[type="password"], &[type="email"] {
-    width: 75%;
-  }
-  font-size: 1em;
-}
-
-select, th, td {
-  font-size: 1em;
-}
-
-/*input {
-  &[type="submit"], &[type="radio"], &[type="checkbox"] {
-    width: 50%;
-  }
-}*/
-
-li {
-  font-size: 0.95em;
-  li {
-    font-size: 1em;
-    font-size: 1em;
-  }
-  p {
-    font-size: 1em;
-  }
-}
-
-td p, blockquote p {
-  font-size: 1em;
-}
-
-ul {
-  list-style: none;
-  margin: 1em 0;
-  padding-left: 1em;
-  text-indent: -1em;
-}
-
-ol {
-  margin: 1em 0;
-  padding-left: 2em;
-}
-
-ul > li {
-  &:before {
-    content: "\0BB \020";
-  }
-  margin-bottom: 0.5em;
-}
-
-ol > li {
-  margin-bottom: 0.5em;
-}
-
-blockquote {
-  padding: 1em 2em 0.5em 1em;
-  font-size: 1.1em;
-  line-height: 1.5em;
-  width: 75%;
-  color: #444;
-  font-family: Georgia, times, serif;
-
-  &:not(:last-child) {
-      margin-bottom: 0;
-      padding-bottom: 0
-  }
-}
-
-cite {
-  display: block;
-  margin: 1em 2em 2em 2em;
-  font-style: italic;
-}
-
-table {
-  border-spacing: 0;
-}
-
-th {
-  font-size: 0.85em;
-  font-weight: bold;
-  font-family: verdana, sans-serif;
-  padding: 0 3px;
-}
-
-td {
-  font-size: 0.85em;
-  font-family: verdana, sans-serif;
-  padding: 0 3px;
-  vertical-align: top;
-}
-
-tfoot {
-  font-style: italic;
-}
-
-caption {
-  font-family: Georgia, times, serif;
-  line-height: 1.1em;
-  font-size: 1.75em;
-  padding: 10px 0;
-  text-align: left;
-}
-
-tr:hover {
-  background: #ccf;
-}
-
-dl {
-  font-size: 0.85em;
-  padding: 2px;
-  margin: 5px;
-}
-
-dd {
-  margin-left: 15px;
-  font-style: italic;
-}
-
-dt {
-  margin-left: 5px;
-}
-
-td li {
-  font-size: 1em;
-  li {
-    font-size: 1em;
-  }
-}
+// LOCAL STMGRTS STYLES
 
 /*
 
@@ -234,8 +35,6 @@ IMAGE STYLES
 
 img {
   display: block;
-  padding: 2px;
-  margin: 0 5px;
   border: 0;
 }
 
@@ -245,7 +44,8 @@ img {
 
 .photo {
   margin: 0.5em 1em;
-  border: 1px solid #ccc;
+  padding: 2px;
+  border: 1px solid $color-mid-light;
 }
 
 .right {
@@ -274,111 +74,11 @@ img {
 .container {
   line-height: 140%;
   text-align: left;
-  background-color: #FFFFFF;
+  background-color: $color-x-light;
   font-family: Verdana, "Lucida Grande", sans-serif;
 }
 
-/* NAVIGATION STYLES */
-
-#navigation {
-  width: 100%;
-  margin: 0;
-  background-color: $menu-color;
-  .container {
-    background-color: $menu-color; /*#4C4C99*/
-  }
-}
-
-nav {
-  > ul {
-    list-style: none;
-    width: 100%;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-    text-indent: 0;
-    > li {
-      display: inline;
-      float: left;
-      padding: 0.25em 2%;
-      text-align: center;
-      display: block;
-      border-right: 1px solid #eee;
-      margin: 0;
-      line-height: inherit;
-    }
-    > li:last-child {
-      border-right: none;
-    }
-  }
-  ul > li:before {
-    content: "";
-  }
-  > ul > li > a {
-    &:link, &:hover, &:visited {
-      color: #fff;
-    }
-  }
-}
-
-#banner {
-  .container {
-    background-color: $primary-color;
-  }
-  background-color: $primary-color;
-  border-top: 2px solid #FFFFFF;
-  margin: 0;
-  padding: 0.5em 0;
-  width: 100%;
-}
-
-#logo img {
-  display: block;
-  border: 0;
-  margin: 0;
-  padding: 1em 0 1em 1em;
-}
-
-#sitename h1 {
-  color: #FFFFFF;
-  font-family: 'Open Sans',sans-serif;
-  font-size: 2.5em;
-  font-weight: 300;
-  line-height: 0.7em;
-  padding: 1em 0 .5em 1em;
-}
-
-#banner h1 {
-  span {
-    font-size: 0.4em;
-    padding-left: 6em;
-  }
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
-}
-
-#logo, #sitename {
-  float: left;
-}
-
-#search {
-  margin-top: 5em;
-  form {
-    margin: 0;
-    width: 98%;
-    color: #333;
-    input {
-      margin-right: 1em;
-      width: 15em;
-      color: #333;
-      float: right;
-    }
-  }
-}
-
-/* social buttone */
+/* social button */
 #social {
   float:right;
 }
@@ -425,76 +125,51 @@ ul.share-buttons img{
 
 #center, #twocolcenter, #right {
   overflow: hidden;
-  background-color: #fff;
+  background-color: $color-x-light;
 }
 
 .content {
-  background-color: #FFFFFF;
-  color: #333;
+  background-color: $color-x-light;
+  color: $color-dark;
   font-size: 1em;
   overflow: hidden;
 }
 
 
 /* FOOTER */
+.p-footer {
+  background-color: $footer-color;
 
-#footer {
-  border-top: 6px solid #eee;
-  background-color: $dark-color;
-  color: #fff;
-  padding: 3em 0;
-  .container {
-    background-color: $dark-color;
+  .p-footer__nav {
+
+    h2,
+    h2 > a:link,
+    li.p-list__item > a:link {
+      color: $color-light;
+    }
+
+    h2 > a:visited,
+    li.p-list__item > a:visited {
+      color: $color-mid-light;
+    }
   }
-  h2 {
-    font-size: 1.2em;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
-  }
-  a {
-    &:link {
-      color: #eee;
-    }
-    &:visited {
-      color: #ccc;
-    }
-    &:active, &:hover {
-      color: #fff;
-    }
+
+  p,
+  p a:link,
+  p a:visited {
+    color: $color-light;
   }
 }
 
-.copyright {
-  clear: both;
-  text-align: right;
-  padding: 1em 2em 0 0;
-}
 
 /* content */
 
 .content {
-  p {
-    color: #333;
-    font-size: 1.1em;
-    font-weight: normal;
-    line-height: 155%;
-    text-align: left;
-    margin-bottom: 10px;
-    > em {
-      font-style: italic;
-    }
-  }
-  li {
-    line-height: 150%;
-  }
-  h1, h2, h3, h4 {
-    color: #111;
-    text-align: left;
-  }
   p.posted {
-    color: #999999;
+    clear: both;
+    color: $color-mid-dark;
     font-size: 0.85em;
-    border-top: 1px solid #999999;
+    border-top: 1px solid $color--mid-dark;
     text-align: right;
     text-transform: uppercase;
     margin: 1em 0 2em 0;
@@ -514,20 +189,20 @@ ul.share-buttons img{
 
 .sidebar {
   h2 {
-    color: #666666;
+    color: $color-mid-dark;
     font-size: 0.85em;
     text-transform: uppercase;
     letter-spacing: .3em;
   }
   li {
-    color: #666666;
+    color: $color-mid-dark;
     font-size: 0.85em;
     text-align: left;
     line-height: 150%;
     margin-top: 10px;
   }
   img {
-    border: 3px solid #FFFFFF;
+    border: 3px solid $color-x-light;
   }
 }
 
@@ -545,9 +220,8 @@ textarea[id="comment-text"] {
 
 .infobox {
   overflow: hidden;
-  padding: 1em 0;
   h3 {
-    color: #333;
+    color: $color-dark;
     margin: 1px;
     padding: 5px;
     text-transform: uppercase;
@@ -556,18 +230,18 @@ textarea[id="comment-text"] {
   }
   p {
     font-size: 1em;
-    color: #333;
+    color: $color-dark;
     padding: 5px;
     margin: 10px;
   }
 }
 
 #traintable td {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid $color-dark;
 }
 
 p.footnote {
-  color: #999;
+  color: $color-dark;
   font-size: 9px;
 }
 
@@ -575,18 +249,7 @@ p.footnote {
   margin: 2em auto;
 }
 
-#events {
-  img {
-    padding: 0;
-    margin: 1em 0;
-    border: 0;
-  }
-}
-
 div.event {
-  margin: 20px 0;
-  padding: 0;
-  width: 200px;
   text-align: center;
 }
 
@@ -596,42 +259,40 @@ div.event {
 
 .event {
   dl {
-    margin: 0;
     padding: 0;
     border: 0;
   }
   dt {
     text-transform: uppercase;
-    color: #fff;
+    color: $color-x-light;
     letter-spacing: 0.2em;
-    background: #666;
-    font-weight: bold;
+    background: $color-mid-dark;
     margin: 0;
-    padding: 2px;
+    padding: 3px;
     border: 0;
-    height: 20px;
+    height: 2rem;
   }
   dd {
+    background: $color-light;
+    border: 0;
+    color: $color-dark;
+    font-style: normal;
+    height: 2rem;
     margin: 0;
     padding: 0;
-    border: 0;
-    color: #333;
-    background: #eee;
-    font-style: normal;
-    height: 20px;
-  }
-}
 
-dd.date {
-  font-size: 56px;
-  font-family: georgia, times, serif;
-  line-height: 105%;
-  height: 65px;
+    &.date {
+      font-size: 5rem;
+      font-family: georgia, times, serif;
+      line-height: 1;
+      height: 5.5rem;
+    }
+  }
 }
 
 .kids {
   text-transform: uppercase;
-  color: #fff;
+  color: $color-x-light;
   letter-spacing: 0.2em;
   background: #336;
   font-weight: bold;
@@ -667,12 +328,12 @@ p {
   li {
     display: inline;
     list-style: none;
-    border-left: 1px solid purple;
+    border-left: 1px solid $color-brand;
   }
   ul {
     margin-right: 25px;
-    background: #eee;
-    border: 1px solid #bbb;
+    background: $color-light;
+    border: 1px solid $color-mid-light;
   }
 }
 
@@ -685,7 +346,7 @@ p {
   margin: 1em 0 1em 2em;
   overflow: hidden;
   padding: 1em;
-  border: 1px solid #666;
+  border: 1px solid $color-mid-dark;
   font-size: smaller;
   img {
     float: none;
@@ -696,13 +357,13 @@ p {
 /* photo stroke */
 
 .photo {
-  border: 1px solid #bbb;
+  border: 1px solid $color-mid-light;
 }
 
 /* St Margarets Fair */
 
 #smf {
-  background: #CCFF99;
+  background: $color-recipe;
 }
 
 /* Recipe green div */
@@ -710,9 +371,9 @@ p {
 .recipe {
   overflow: hidden;
   color: #000;
-  border: 1px solid #eee;
+  border: 1px solid $color-light;
   padding: 20px 30px;
-  background: #CCFF99;
+  background: $color-recipe;
   h3 {
     color: #000;
     font-weight: bold;
@@ -735,38 +396,26 @@ p {
 }
 
 /* Comment Colour */
-#comments, #comments > .container {
-  background-color: #eee;
-}
-
-.comment {
-  background: #E7E7E5;
-  border: 1px solid #ccc;
-  padding: 1em 1em 0 1em;
+.p-list__item--comment {
+  background: $color-light;
+  border: 1px solid $color-mid-light;
+  padding: 1em;
   margin-bottom: 2em;
-  p.posted {
-    padding: 0;
-    margin: 1em 0;
-    color: #666;
-  }
-  &:hover {
-    background: #BFA8BF;
-  }
-}
 
-.comments > ul > li {
-  background: #e7e7e5;
-  border: 1px solid #ccc;
-  padding: 1em 1em 0 1em;
-  margin-bottom: 2em;
-  text-indent: 0;
-  &:before {
+  &::before {
     content: none;
   }
-  &:hover {
-    background-color: #bfa8bf;
+
+  &::hover {
+    background: $color-light-purple;
+  }
+
+  > cite {
+    display: inline-block;
+    padding-bottom: 1em;
   }
 }
+
 
 /* class to allow print only links */
 
@@ -778,7 +427,7 @@ p {
 
 .fig {
   table {
-    border: 1px solid #ccc;
+    border: 1px solid $color-mid-light;
     padding: 0 5px;
     width: 575px;
   }
@@ -806,15 +455,15 @@ p {
 /* Featured Items Box */
 
 #highlight {
-  color: #333;
-  border: 1px solid #999;
-  background: #CCFF99;
+  color: $color-dark;
+  border: 1px solid $color-dark;
+    background: $color-recipe;
   width: 360px;
   float: left;
   margin: 10px 0;
   padding: 5px;
   h3 {
-    color: #333;
+    color: $color-dark;
   }
   dl {
     display: block;
@@ -829,9 +478,9 @@ p {
     margin: 0;
     padding: 0;
     img {
-      border: 1px solid #999;
+      border: 1px solid $color-dark;
       padding: 1px;
-      background: #eee;
+      background: $color-light;
       width: 104px;
     }
   }
@@ -863,7 +512,7 @@ p {
 
 #latest_comments .comm {
   font-size: 1em;
-  color: #444;
+  color: $color-dark;
 }
 
 .post-link {
@@ -876,42 +525,40 @@ div.post-content > table {
 /* for letters, a gold box and serif font */
 
 .letter {
-  overflow: hidden;
-  color: #000;
-  border: 1px solid #eee;
-  padding: 20px 30px;
-  margin: 2em 0;
-  background: #F4EFC5;
+  background: $color-letter;
+  border: 1px solid $color-light;
+  clear: both;
   font-family: georgia, times, serif;
   font-size: 1.2em;
+  color: #000;
   line-height: 1.3em;
-  h3 {
-    color: #000;
-    font-weight: bold;
-  }
+  margin: 2em 0;
+  overflow: hidden;
+  padding: 20px 30px;
 }
 
 /* for a simple box */
 
 .box {
+  border: 1px solid $color-mid-dark;
   clear: both;
+  margin: 2em 0;
   overflow: hidden;
   padding: 1em;
-  margin: 2em 0;
-  border: 1px solid #666;
+
   &:hover {
-    background: #eee;
+    background: $color-light;
   }
 }
 
 /* hero box */
 
 .hero {
+  background-color: $color-light-purple;
+  border: 2px solid $color-bright-purple;
+  color: $color-dark;
   margin: 2em 5em;
   padding: 3em;
-  border: 2px solid #4b0082;
-  background-color: #c9a0dc;
-  color: #111;
 }
 
 /* image captions */
@@ -957,7 +604,7 @@ div {
 }
 
 pre {
-  color: #333;
+  color: $color-dark;
   font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
   font-size: 16px;
   line-height: 18px;
@@ -967,7 +614,7 @@ pre {
 }
 
 .poem {
-  color: #333;
+  color: $color-dark;
   font-family: 'american typewriter', Consolas, 'Lucida Console', 'Bitstream Vera Sans Mono', monospace;
   font-size: 16px;
   line-height: 18px;
@@ -985,7 +632,7 @@ pre {
 .more-link a {
   background-color: #8080BB;
   border-radius: 10px 10px 10px 10px;
-  color: #FFFFFF;
+  color: $color-x-light;
   font-size: 12px;
   font-weight: normal;
   height: 18px;
@@ -1020,7 +667,7 @@ blockquote p a img.right {
 
 a.toggle {
   &:visited, &:active, &:link, &:hover {
-    color: #eee;
+    color: $color-light;
     text-decoration: none;
   }
 }
@@ -1033,13 +680,12 @@ forum table {
 #forum th, #forum td {
   margin: 0;
   padding: 0.5em 1em;
-  font-size: 1.2em;
 }
 
 #forum {
   th {
-    background-color: #800080;
-    color: white;
+    background-color: $color-brand;
+    color: $color-x-light;
     text-align: left;
   }
   fieldset {
@@ -1047,63 +693,39 @@ forum table {
   }
 }
 
-#topic {
-  .list {
-    width: 90%;
-  }
-  .count {
-    font-size: 0.95em;
-    padding-left: 2em;
-  }
-}
-
 #conversation {
-  .title {
-    color: #4b0082;
-  }
   .who {
     font-style: italic;
   }
   .me .who {
-    background-color: #990066;
-    color: #eee;
+    background-color: $color-brand;
+    color: $color-light;
   }
   .you .who {
-    background-color: #c9a0dc;
-    color: #fff;
+    background-color: $color-light;
+    color: $color-dark;
   }
   .message {
-    padding: 0 1em;
     line-height: 1.25em;
   }
   td {
-    border-bottom: 1px solid #4b0082;
+    border-bottom: 1px solid $color-mid-dark;
+    padding: 1rem;
   }
 }
 
 #topic td {
-  border-bottom: 1px solid #4b0082;
+  border-bottom: 1px solid $color-mid-dark;
 }
 
 #conversation th, #topic th {
-  border: 1px solid #ccc;
+  border: 1px solid $color-mid-light;
 }
 
 #forum {
-  input, textarea {
-    font-size: 1.4em;
-    font-family: verdana, arial, sans-serif;
-    width: 75%;
-  }
-  .submit {
-    width: 20%;
-    font-size: 1.2em;
-  }
   .sub_conv {
-    background-color: #eee;
-  }
-  .title {
-    font-weight: bold;
+    background-color: $color-light;
+    padding: 1rem;
   }
 }
 
@@ -1124,51 +746,22 @@ forum table {
   }
 }
 
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
-  nav > ul > li {
-    width: 49%;
-    height: 1em;
-    float: left;
-    padding: 0.5em 0;
-    display: block;
-    border-right: none;
-  }
-  #logo img {
-    width: 75%;
-    height: 75%;
-    padding-left: 0.5em;
-  }
-  #sitename h1 {
-    font-size: 2em;
-  }
-  #search {
-      margin-top: 6em;
-    }
-}
-
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) {
-  nav > ul > li {
-    background-color: #4C4C99;
-  }
-  #sitename h1 {
-    font-size: 2em;
-  }
-  #search {
-    margin-top: 1em;
+// XXX Caleb - 30.01.18 Nav search box styling fixes
+.p-navigation .p-navigation__nav > .p-search-box {
+  @media (min-width: $breakpoint-navigation-threshold + 1) {
+    margin-top: 2px;
+    max-width: 15rem;
   }
 }
 
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) {
+// nav hover Colour
+.p-navigation .p-navigation__links .p-navigation__link:hover {
+  background-color: $menu-color;
+}
 
-  #logo img {
-    display: none;
-  }
-  #search {
-    margin-top: 1em;
-  }
+/// XXX Peter - 18 March 2018 fix for form+**input
+.p-search-box__input {
+  margin-top: 0;
 }
 
 // cross fade two photos, used on st pauls piece
