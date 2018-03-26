@@ -2,7 +2,7 @@
 
 h2. "stmgrts.org.uk":http://stmgrts.org.uk/
 
-<div class="five columns">
+<div class="col-6">
 
 h3. TEXT
 
@@ -24,7 +24,7 @@ h3. EVENTS
 * "upload images":http://www.stmgrts.org.uk/cgi-bin/imageUpload.cgi?action=new
 
 </div>
-<div class="five columns">
+<div class="col-6">
 
 h3. STATS
 

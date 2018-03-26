@@ -25,7 +25,7 @@ It has been created using mostly free, or very inexpensive tools:
 * forums and comments run on custom software
 * the train timetables, events, polls, directory, newsletter sign-up are based on custom Perl scripts
 
-If you are interested, we are maintaining a [change log](/changes.)
+If you are interested, we are maintaining a [change log](/changes).
 
 ### The site doesn't look good in my Browser
 
