@@ -58,9 +58,7 @@ $html = <<EndofHTML;
   </script>
 
 </head>
-
 <body>
-
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MXJB5Z"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -71,107 +69,115 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MXJB5Z');</script>
 <!-- End Google Tag Manager -->
 <!-- banner -->
-  <div id="banner">
-    <div class="container">
-      <div class="row">
-        <div class="eight columns">
-          <div id="logo" ><a href="/" accesskey="1" title="St Margarets Community Website"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAABNCAMAAADgrtieAAAC+lBMVEX///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8VN6D4AAAA/XRSTlMA/v32/Pr79/P49fTf+fDu7fHr6Onq8uDn79zmy+Ls3uPk3dfbxOXO0qzhAdEDk9m708HPrda0yrnUlMW3IJebVRajp9rItb2Rto7YBWuGqYWZAjgJ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" width="85" height="77" alt="St Margarets Community Website" /></a></div><!-- /logo -->
-          <div id="sitename" ><h1><a href="/" accesskey="1" title="St Margarets Community Website">St Margarets<br /><span>Community Website</span></a></h1></div><!-- /sitename -->
-        </div><!-- /eight columns -->
-
-        <div id="search" class="four columns">
-          <form id="searchbox_011552492105320257021:aklyesuuk5c" action="https://www.google.com/cse">
-            <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c" />
-            <input class="searchtext" name="q" type="text" size="20" placeholder="Search" />
-            <input type="hidden" name="cof" value="FORID:0" />
-          </form>
-        </div><!-- /search -->
-      </div><!-- /row -->
-    </div><!-- /container -->
-  </div><!-- /banner -->
-
-<!-- navigation -->
-  <div id="navigation">
-    <div class="container">
-      <div class="row">
-        <nav class="twelve columns">
-          <ul>
-            <li><a href="/" class="nav">home</a></li>
-            <li><a href="/archives/news/" class="nav">news</a></li>
-            <li><a href="/archives/editorial/" class="nav">editorial</a></li>
-            <li><a href="/archives/around-town/" class="nav">around town</a></li>
-            <li><a href="/event" class="nav">events</a></li>
-            <li><a href="/directory" class="nav">local info</a></li>
-            <li><a href="/forum" class="nav">forums</a></li>
-            <li><a href="/colophon" class="nav">about</a></li>
-            <li><a href="/cgi-bin/newsletter.cgi" class="nav">newsletter</a></li>
-          </ul>
-        </nav>
-      </div><!-- /row -->
-    </div><!-- /container -->
-  </div><!-- /navigation -->
+<!-- banner -->
+<header id="navigation" class="p-navigation">
+  <div class="row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__link" href="/" accesskey="1" title="St Margarets Community Website">
+          <img class="p-navigation__image" src="/assets/images/stmgrts-logo.svg" alt="St Margarets Community Website" />
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" role="menubar">
+      <span class="u-off-screen">
+        <a href="#main-content">Jump to main content</a>
+      </span>
+      <ul class="p-navigation__links" role="menu">
+        <li class="p-navigation__link {% if page.url contains '/archives/news/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/news/" class="nav">news</a></li>
+        <li class="p-navigation__link {% if page.url contains '/archives/editorial/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/editorial/" class="nav">editorial</a></li>
+        <li class="p-navigation__link {% if page.url contains '/archives/around-town/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/around-town/" class="nav">around town</a></li>
+        <li class="p-navigation__link {% if page.url contains '/event' %}is-selected{% endif %}" role="menuitem"><a href="/event" class="nav">events</a></li>
+        <li class="p-navigation__link {% if page.url contains '/directory' %}is-selected{% endif %}" role="menuitem"><a href="/directory" class="nav">local info</a></li>
+        <li class="p-navigation__link {% if page.url contains '/forum' %}is-selected{% endif %}" role="menuitem"><a href="/forum" class="nav">forums</a></li>
+      </ul>
+      <form class="p-search-box" id="google-appliance-search-form" id="searchbox_011552492105320257021:aklyesuuk5c" action="https://www.google.com/cse">
+        <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c" />
+        <input type="hidden" name="cof" value="FORID:0" />
+        <input class="p-search-box__input" name="q" type="search" size="20" placeholder="Search"  required="">
+        <button type="reset" class="p-search-box__reset" alt="reset"><i class="p-icon--close"></i></button>
+        <button type="submit" class="p-search-box__button" alt="search"><i class="p-icon--search"></i></button>
+      </form>
+    </nav>
+  </div>
+</header>
+<div class="wrapper u-no-margin--top">
+  <div id="main-content" class="inner-wrapper">
 
 $content
 
-<div id="footer">
-  <div class="container">
-    <div class="row">
-      <div id="footer_nav" class="three columns">
-         <h2>Navigation</h2>
-         <ul>
-            <li><a href="/">homepage</a></li>
-            <li><a href="/event">events</a></li>
-            <li><a href="/directory">local info</a></li>
-            <li><a href="/forum">forums</a></li>
-            <li><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
-            <li><a href="/poll">polls</a></li>
-            <li><a href="/contact">contact</a></li>
-            <li><a href="/colophon">about</a></li>
-         </ul>
-       </div><!-- end div footer_nav -->
+  </div><!-- /.inner-wrapper -->
+</div><!-- /.wrapper -->
+<!-- footer -->
+<footer class="p-footer u-no-margin--top">
+  <div class="row">
+    <nav class="p-footer__nav">
+      <div class="col-4">
 
-      <div id="footer_archives" class="three columns">
-         <h2><a href="/archives" title="Archives">Archives</a></h2>
-         <ul>
-            <li><a href="/archives/news">news</a></li>
-            <li><a href="/archives/editorial">editorial</a></li>
-            <li><a href="/archives/around-town">around town</a></li>
-         </ul>
-
-         <h2>News Feed</h2>
-         <ul>
-            <li><a href="/feed.xml">atom</a></li>
-         </ul>
-       </div><!-- end div footer_archives -->
-
-      <div id="footer_search" class="four columns">
-    <!-- Search Google -->
-        <h2>Search</h2>
-
-        <form id="searchbox_011552492105320257021:aklyesuuk5c" action="https://www.google.com/cse">
-          <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c"/>
-          <p><input name="q" type="text" size="20"/></p>
-          <p><input type="submit" name="sa" value="Search" class="button-primary"/></p>
-          <input type="hidden" name="cof" value="FORID:0"/>
-        </form>
-    <!-- Search Google -->
-
-        <h2>Train Schedules</h2>
-        <ul>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
-          <li> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+        <h2 class="p-muted-heading">Navigation</h2>
+        <ul class="p-list">
+          <li class="p-list__item"><a href="/">homepage</a></li>
+          <li class="p-list__item"><a href="/event">events</a></li>
+          <li class="p-list__item"><a href="/directory">local info</a></li>
+          <li class="p-list__item"><a href="/forum">forums</a></li>
+          <li class="p-list__item"><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+          <li class="p-list__item"><a href="/poll">polls</a></li>
+          <li class="p-list__item"><a href="/contact">contact</a></li>
+          <li class="p-list__item"><a href="/colophon">about</a></li>
         </ul>
 
-      </div><!-- end div footer_search -->
+      </div><!-- end left -->
 
-      <p class="copyright">Copyright &copy; 2005-2018 St Margarets Community Website<br/>Some rights reserved <a href="https://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAPCAYAAACbSf2kAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA6hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iPgogICAgICAgICA8eG1wOk1vZGlmeURhdGU+MjAxNi0wMi0yM1QwOTowMjo5MDwveG1wOk1vZGlmeURhdGU+CiAgICAgICAgIDx4bXA6Q3JlYXRvclRvb2w+UGl4ZWxtYXRvciAzLjQuMjwveG1wOkNyZWF0b3JUb29sPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpDb21wcmVzc2lvbj41PC90aWZmOkNvbXByZXNzaW9uPgogICAgICAgICA8dGlmZjpSZXNvbHV0aW9uVW5pdD4yPC90aWZmOlJlc29sdXRpb25Vbml0PgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj45NjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+OTY8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj40NjwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+MTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24+MTU8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KbQ9zKwAAA2dJREFUSA3dlstLVFEcx53GfDWZ2MtNi9BMzYoeFJSVpVaIuIoggkJqE7SJ3ogRFFRikFQUakG1KTdtgkiyJCu1DMzsoZsei4geFFpoUU2f7+2c6525M39A/eDD73V+554593fOnYSEf1QC8dYdDodzyZWB9CDchbZAIPAdHVeom0KyBBaYQY/QrdS9N35MRV0yiZWwFNJhAG5S14/2iW/hTDCeUXUwD3rgLaTCHNCER5jsGton1O4kuBH00GdmQAF6BlyG49T+NnFXUbcapwa+QC+MQBZoDZpnF3XKxRYmyIAWOAWZ0aOIlUIvbPHm8ANwAm5DnnLoXGHsmdg3oBEiNgt/PfRBqXdOU5dOvBbuwMTovOuTPAcn3UAMg3weDMAsm8augvsQ8sSa8Zs9fgp+O2z1xArwn4M7l815NfljcNEbc20S+dADahXtWDGUwViYABVQaHI12I3G1oIeQJF8CXY27DFk/4068SXENDbFjDuDvc+TT8RP8zDGjLPPULs6kmgN9Fp4SC8NUViNrUHqt6+wH7ohi5x67iqcx9bETjugO8DKAYxNxtFubjZ2FzoMaqM+tHq4HqzswKg0jsYdhhbWNMJ4PX8NaE0J3oVPx/+kIFIO1RS0UaBdzsG2E2pHh4gFDSH0MPlfaCvOjhrHtTWG2mHiqlG9nv8NrDRgXDGOFv7BJtA6nNOs7134S4JzTeI6ehsPka9deo19CK0r7SzowVqo0I/Qqwx6Ft9ETG9QItsRjcHQDaW3qNqfMA6saMMqjKPbpw4eGz8DrTVGCpOqx3VjpCuDLoYiCEImVIJziNB7wfZ4MnYneHs8CV8/ViTZJ2Evgi5w3gI6usc1l86TxdlY/FToBrWvX0g0wWl/ZjRCfjb0g/MjlMHWrdIB9mDrgL0zpJkxIfzoW0WbpVulcPQJfot8HVzyZ0yEpH6p7vEGmBw9kFg5vIANMXK1xNsgXzn0cmFsLVC5eoi+x9cRewL6SkcIMX1X9H3w3eMRk6iKQdq1o7AYnsIbUB/qBtCrO0gvt6J9Qu12glXwCtSbOmB6MzlwgbqY3wjqSsjrJlLv69bQAZ4K842/m9pBbFd8C7cZJsvGXgUF8Bna4R4T/EDHFeomkdRCFoIW3g23qPuIjivU6SysgGWgc2b/q0j/P/IHm2aboVmz45YAAAAASUVORK5CYII=" width="46" height="15" class="inline" style="padding: 0; margin: 0;" /></a></p>
-    </div><!-- /row -->
-  </div><!-- /container -->
-</div><!-- /footer -->
+      <div class="col-4">
+
+        <h2 class="p-muted-heading"><a href="/archives" title="Archives">Archives&nbsp;&rsaquo;</a></h2>
+
+        <ul class="p-list">
+          <li class="p-list__item"><a href="/archives/news">news</a></li>
+          <li class="p-list__item"><a href="/archives/editorial">editorial</a></li>
+          <li class="p-list__item"><a href="/archives/around-town">around town</a></li>
+        </ul>
+
+        <h2 class="p-muted-heading">News Feed</h2>
+        <ul class="p-list">
+          <li class="p-list__item"><a href="/feed.xml">atom</a></li>
+        </ul>
+
+      </div><!-- end middle -->
+
+      <div class="col-4">
+
+        <h2 class="p-muted-heading">Train Schedules</h2>
+        <ul class="p-list">
+          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+        </ul>
+
+      </div><!-- end right -->
+      <span class="u-off-screen">
+        <a href="#">Go to the top of the page</a>
+      </span>
+    </nav>
+  </div>
+
+  <div class="row">
+    <div class="col-12">
+      <p class="u-align--right">
+        <small>
+          Copyright &copy; 2005-2018 St Margarets Community Website<br />
+          Some rights reserved <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+        </small>
+      </p>
+    </div>
+  </div>
+</footer>
 
 <!-- Fonts -->
 <link  rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300&amp;subset=latin,latin-ext">
-</body>
+
+  </body>
 </html>
 EndofHTML
