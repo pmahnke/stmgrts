@@ -1,13 +1,10 @@
 ---
 layout: default-static
-title: Contact
+title: Contact us
 permalink: /contact/
 ---
 
-## Contact us
-
 We would love to hear from you.  Please pick the most appropriate email and drop us a line.
-
 
 - **editorial**
 <em><a href="mailto:editor@stmgrts.org.uk">editor@stmgrts.org.uk</a></em>

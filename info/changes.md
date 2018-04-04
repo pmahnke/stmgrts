@@ -4,8 +4,6 @@ title: Site changes
 permalink: /changes/
 ---
 
-## Site Changes
-
 Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
 |Date|Description|
