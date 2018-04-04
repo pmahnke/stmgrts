@@ -11,3 +11,8 @@ sitemap.xml.gz
 .DS_store
 /assets/images/events/Lear_photo_2.JPG
 /assets/images/events/Lear_photo_2_thumb.JPG
+/_includes/homepage_event_play.html
+/_includes/homepage_events.html
+/_includes/homepage_forum.html
+/_includes/homepage_twitter.html
+/_includes/homepage_weather.html
