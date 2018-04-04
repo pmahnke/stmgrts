@@ -90,19 +90,19 @@ In this series, we will discuss the art movements and individuals who shaped the
 
 * 24/04 - John Ruskin and his Influence
 The first lecture of this series kicks off with a closer look at the life and influence of John Ruskin.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
 * 01/05 - The Pre-Raphaelite Brotherhood
 The Pre-Raphaelites created something completely new in British art. Within this lecture we examine the themes and styles of individual painters and their influence on future movements and artists.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
 * 08/05 - Pioneering Women Artists
 From the lush tropics captured by Marianne North to atmospheric photographs by Julia Margaret Cameron to charging soldiers by Elizabeth Butler, women artists in the 19<sup>th</sup> century produced some of the most startling, varied and original images of the century.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54488](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54488 )   )
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54488](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54488 )   )
 * 15/05 - Decorative Arts
 William Morris's famous quote "Have nothing in your house that do not know to be useful or believe to be beautiful" will form the core to this discussion. His Arts and Crafts movement, a reaction against the mass produced and imported decorative objects.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
 * 22/05 - To Modernism
 The final lecture in this series looks at the art produced by Edward Burne-Jones his intentions to create the ultimate portrayal of beauty. A theme that was developed by James McNeill Whistler, who endured a long and expensive court battle with Ruskin.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5449](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5449))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5449](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5449))
 
 #### More Information
 
@@ -116,22 +116,22 @@ Continuing on the success of A Master Piece A Week, we will be running a series 
 
 * 05/06 - Venus from Willendorf
 Starting the series is the Venus from Willendorf - a beautiful carved limestone figurine dating back to between 28,000 and 25,000 BEC
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54476](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54476))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54476](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54476))
 * 12/06 - The Winged Victory of Samothrace
 This week we explore one of the most celebrated sculptures in the world - The Winged Victory of Samothrace.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
 * 19/06 - David by Michelangelo
 This lecture celebrates David, a masterpiece of Renaissance sculpture created in marble between 1501 and 1504 by Michelangelo.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
 * 26/06 - The Ecstasy of Saint Teresa by Bernini
 This week we focus on the Ecstasy of Saint Teresa, which is generally considered to be one of the sculptural masterpieces of the High Roman Baroque.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
 * 03/07 - Little Dancer by Degas
 This lecture takes a closer look at Degas' Little Dancer, a sculpture of a young student of the Paris Opera Ballet dance school. The piece was originally sculpted in wax and dressed in a real bodice, tutu and ballet slippers and has a wig of real hair.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5447))
 * 10/07 - Unique Forms of Continuity in Space by Umberto Boccioni
 The last lecture in the Masterpiece A Week takes a closer look at Unique Forms of Continuity in Space. This sculpture is depicted on the obverse of the Italian-issue 20 cent euro coin and is seen an expression of movement and fluidity.
-** [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
+  - [Book online]([www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=5448))
 
 #### More Information
 
