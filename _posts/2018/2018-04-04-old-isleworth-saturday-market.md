@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Local community launch new Saturday market in Old Isleworth"
+title: "New Saturday market in Old Isleworth"
 permalink: /archives/2018/04/old-isleworth-saturday-market.html
 commentfile: 2018-04-04-old-isleworth-saturday-market
 category: news

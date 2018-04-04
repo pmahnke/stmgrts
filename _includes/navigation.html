@@ -1,13 +1,13 @@
     <div id="categories">
         <h2>Navigation</h2>
             <ul>
-                <li><a href="/archives/news/" class="nav">news</a></li>
-                <li><a href="/archives/editorial/" class="nav">editorial</a></li>
-                <li><a href="/archives/around_town/" class="nav">around town</a></li>
-                <li><a href="/event" class="nav">events</a></li>
-                <li><a href="/directory" class="nav">local info</a></li>
-                <li><a href="/forum" class="nav">forums</a></li>
-                <li><a href="/colophon" class="nav">about</a></li>
-                <li><a href="/cgi-bin/newsletter.cgi" class="nav">newsletter</a></li>
+                <li><a href="/archives/news/" class="nav {% if page.url == '/archives/news/' %} is-selected{% endif %}">news</a></li>
+                <li><a href="/archives/editorial/" class="nav {% if page.url == '/archives/editorial/' %} is-selected{% endif %}">editorial</a></li>
+                <li><a href="/archives/around_town/" class="nav {% if page.url == '/archives/around_town/' %} is-selected{% endif %}">around town</a></li>
+                <li><a href="/event" class="nav {% if page.url == '/event' %} is-selected{% endif %}">events</a></li>
+                <li><a href="/directory" class="nav {% if page.url == '/directory' %} is-selected{% endif %}">local info</a></li>
+                <li><a href="/forum" class="nav {% if page.url == '/forum' %} is-selected{% endif %}">forums</a></li>
+                <li><a href="/colophon" class="nav {% if page.url == '/colophon' %} is-selected{% endif %}">about</a></li>
+                <li><a href="/cgi-bin/newsletter.cgi" class="nav {% if page.url == '/cgi-bin/newsletter.cgi' %} is-selected{% endif %}">newsletter</a></li>
             </ul>
     </div><!-- end div categories -->
