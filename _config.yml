@@ -25,6 +25,10 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
 
+# collections
+collections:
+- info
+
 # Build settings
 markdown: kramdown
 sass:

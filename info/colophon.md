@@ -1,10 +1,8 @@
 ---
 layout: default-static
-title: About
+title: About this site
 permalink: /colophon/
 ---
-
-## About this Site
 
 This site was created by a group of local residents of St Margarets, Middlesex.  Our mission is simple -- help foster a stronger community identity.  There are no hidden agendas, no political affiliations and to date, all the work is volunteer.
 

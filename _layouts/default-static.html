@@ -9,25 +9,24 @@
 <div class="wrapper u-no-margin--top">
   <div id="main-content" class="inner-wrapper">
 
-    <section class="p-strip">
+    <section class="p-strip--light is-shallow">
       <div class="row">
-        <div id="article" class="col-9 content">
-
-          {{ content }}
-
+        <div class="col-8">
+          <h1>{{ page.title }}</h1>
         </div>
-        <div id="right" class="col-3 sidebar">
-
+        <div class="col-4">
           {% if page.title %}
           <div id="social">
-            <ul class="share-buttons">
-              <li><a id="share-facebook" title="Share on facebook" href="http://www.facebook.com/sharer.php?s=100&amp;p[url]={{ site.url }}{{ page.url }}&amp;p[title]={{ page.title | cgi_escape }}" rel="nofollow"><img alt="Share on Facebook" src="/assets/images/Facebook.svg"></a></li>
-              <li><a id="share-twitter"  title="Share on twitter"  href="http://twitter.com/share?url={{ site.url }}{{ page.url }}&amp;text={{ page.title | cgi_escape }}&amp;hashtags=stmgrts&amp;via=stmgrts" rel="nofollow"><img alt="Share on Twitter" src="/assets/images/Twitter.svg"></a></li>
-              <li><a id="share-email"    title="Share via Email"   href="mailto:?subject={{ page.title }}&amp;body=I've%20just%20read%20%27{{ page.title }}%27%20on%20the%20St%20Margarets%20Community%20Website%20and%20thought%20you%20would%20like%20it.%20Check%20it%20out:%20http://{{ site.url }}{{ page.url }}"><img alt="Share via email" src="/assets/images/Email.svg"></a></li>
-            </ul>
+            {% include social-share.html %}
           </div><!-- end social -->
           {% endif %}
-
+        </div>
+      </div>
+    </section>
+    <section class="p-strip is-shallow">
+      <div class="row">
+        <div class="col-8">
+          {{ content }}
         </div>
       </div>
     </section>

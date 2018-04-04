@@ -1,16 +1,14 @@
 ---
 layout: default-static
 sitemap: false
+title: "Facebook message"
+permalink: /facebook/
 ---
-
-<pre>
 
 The St Margarets Community Website weekly newsletter is out... This week there is:
 
 {% for post in site.posts limit: 8 %}
-* {{ post.title }}
+* [{{ post.title }}](https://stmargarets.london{{ post.url }})
 {% endfor %}
 
-and more... www.stmgrts.org.uk
-
-</pre>
+and more... visit [stmargarets.london](https://stmargarets.london/)

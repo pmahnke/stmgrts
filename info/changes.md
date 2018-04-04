@@ -4,10 +4,10 @@ title: Site changes
 permalink: /changes/
 ---
 
-## Site Changes
-
 Just to share what we are doing on the site we are sharing a _change log_ of all the 'major' changes to the site.  Initially we will put in only a few key dates as there were many minor changes.  Going forward, I will add more minor details.
 
+|Date|Description|
+|----|-----------|
 |25 March 2018|Updated the css to [Vanilla framework](https://vanillaframework.io/)|
 |27 December 2017|Migrated to markdown for posts, fixed lots of missing images|
 |1 April 2017|Added recaptcha to catch comment spam|
