@@ -7,7 +7,7 @@ layout: default
       <div class="col-8">
         <header class="post-header">
           <h2>{{ page.title }}</h2>
-          <p><em>{{ page.date | date: "%-d %B %Y" }}{% if page.author %} • {{ page.author }}</em></p>
+          <p><em>{{ page.date | date: "%-d %B %Y" }}{% if page.author %} • {{ page.author }}</em>{% endif %}</p>
         </header>
       </div>
       {% if page.title %}
