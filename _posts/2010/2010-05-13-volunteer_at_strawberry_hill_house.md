@@ -5,10 +5,9 @@ permalink: /archives/2010/05/volunteer_at_strawberry_hill_house.html
 commentfile: 2010-05-13-volunteer_at_strawberry_hill_house
 category: news
 date: 2010-05-13 14:21:45
+image: "/assets/images/directory/200608190514_Strawberry_Hill_House.jpg"
 excerpt: |
-    <img class="photo right" src="/assets/images/directory/200608190514_Strawberry_Hill_House.jpg" width="150" alt="photo of Strawberry Hill House" />
-    
-    _Come and join the team that's bringing Walpole's little gothic castle back to life._
+    Come and join the team that's bringing Walpole's little gothic castle back to life.
     
     We are looking for friendly volunteers to help us run this exciting proerty. There are positions in the shop, the house, in education, front of house and many more. If you are interested in hearing more about our volunteering opportunities at Strawberry Hill then email us on: <a href="mailto:volunteering@strawberryhillhouse.org">volunteering@strawberryhillhouse.org</a>
 

@@ -5,9 +5,8 @@ permalink: /archives/2012/06/visit_the_jim_mccluskey_gallery.html
 commentfile: 2012-06-14-visit_the_jim_mccluskey_gallery
 category: around_town
 date: 2012-06-14 21:32:25
+image: "http://jimmccluskeygallery.files.wordpress.com/2011/11/princess-of-york-conservatory1.jpg?w=152&h=106"
 excerpt: |
-    <img src="http://jimmccluskeygallery.files.wordpress.com/2011/11/princess-of-york-conservatory1.jpg?w=152&h=106" width="150" height="106"  class="photo right"  alt="" />
-
     
     Following a successful exhibition in a gallery on Richmond Hill I decided to create a web site showing my paintings - <a href="http://jimmccluskeygallery.wordpress.com/">jimmccluskeygallery.wordpress.com</a>
     

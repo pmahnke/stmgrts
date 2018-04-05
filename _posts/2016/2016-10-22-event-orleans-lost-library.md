@@ -5,9 +5,8 @@ permalink: /archives/2016/10/event-orleans-lost-library.html
 commentfile: 2016-10-22-event-orleans-lost-library
 category: around_town
 date: 2016-10-22 13:29:33
+image: "/assets/images/2016/orleans-lost-library-2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/orleans-lost-library-2016.jpg" title="See larger version of - orleans lost library 2016"><img src="/assets/images/2016/orleans-lost-library-2016_thumb.jpg" width="150" height="250" alt="orleans lost library 2016" class="photo right" /></a>
-
     Once upon a time a Prince made Orleans House his home; he loved books and built a library where he could house his large collection and read in peace. When he left Orleans House for France he took his prized books with him, years later his library was demolished by gravel merchants. Today, the woodland has grown and covered where the library once stood.
 ---
 

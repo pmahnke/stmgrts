@@ -5,9 +5,8 @@ permalink: /archives/2010/09/the_ghost_on_richmond_green.html
 commentfile: 2010-09-24-the_ghost_on_richmond_green
 category: around_town
 date: 2010-09-24 08:37:06
+image: "/assets/images/2010/ghost20lady_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/ghost20lady.jpg" title="See larger version of - Ghost Lady"><img src="/assets/images/2010/ghost20lady_thumb.jpg" width="106" height="150" alt="Ghost Lady" class="photo right" /></a>
-    
     The Richmond and Twickenham Times sold on Saturday 23<sup>rd</sup> October 1886 was the usual mix of court reports, news items from the surrounding parishes and the familiar advertisements - <em>"Blair's Gout Pills, the great remedy for Gout, Sciatica and Lumbago", "Mazawatte Tea - for City Men, Brain Workers and those of weak indigestion", "Clarke's B41 Pills, guaranteed to cure all discharges from the urinary tract"</em> and even more unlikely <em>"Messrs Tomlinson, Estate Agents - for houses to be let or sold in St  Margarets from &pound;20 to &pound;300 per annum."<em>
 
 ---

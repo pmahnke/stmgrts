@@ -5,9 +5,8 @@ permalink: /archives/2013/11/event_reminder_redlees_winter_open_studios_6_to_8.h
 commentfile: 2013-11-10-event_reminder_redlees_winter_open_studios_6_to_8
 category: around_town
 date: 2013-11-10 09:22:58
+image: "/assets/images/2013/FinalWinterOSInviteFRONT_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/FinalWinterOSInviteFRONT.jpg" title="See larger version of - FinalWinterOSInviteFRONT"><img src="/assets/images/2013/FinalWinterOSInviteFRONT_thumb.jpg" width="150" height="112" alt="FinalWinterOSInviteFRONT" class="photo right" /></a>
-    
     <a href="https://stmargarets.london/event/event/200705144199">Join us in a celebration of original art and the handcrafted!</a>
     
     Ceramics, glass, fine art, sculpture, jewellery, metalworks,  video installation, photography, leather accessories and more...

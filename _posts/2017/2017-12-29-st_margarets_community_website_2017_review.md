@@ -5,9 +5,8 @@ permalink: /archives/2017/12/st_margarets_community_website_2017_review.html
 commentfile: 2017-12-29-st_margarets_community_website_2017_review
 category: editorial
 date: 2017-12-29 09:06:05
+image: "/assets/images/2017/2017-users-by-month-chart-thumb.png"
 excerpt: |
-    <a href="/assets/images/2017/2017-users-by-month-chart.png" title="Click for a larger image"><img src="/assets/images/2017/2017-users-by-month-chart-thumb.png" width="150" alt="Image - 2017-users-by-month-chart"  class="right"/></a>
-
     As 2017 comes to a close, we wanted to share some quick stats on the year that's gone by, as we have in 2016, 2015 and 2014.
 ---
 

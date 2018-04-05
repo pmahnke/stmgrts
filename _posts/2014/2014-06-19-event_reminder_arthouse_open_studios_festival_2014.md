@@ -5,9 +5,8 @@ permalink: /archives/2014/06/event_reminder_arthouse_open_studios_festival_2014.
 commentfile: 2014-06-19-event_reminder_arthouse_open_studios_festival_2014
 category: around_town
 date: 2014-06-19 22:27:42
+image: "/assets/images/2014/arthouse-logo-2014_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/arthouse-logo-2014.png" title="See larger version of - arthouse logo 2014"><img src="/assets/images/2014/arthouse-logo-2014_thumb.png" width="150" height="129" alt="arthouse logo 2014" class=" right" /></a>
-    
     <a href="http://www.arthouseopenstudios.co.uk/">ARThouse</a> is Richmond's annual Open Studios, celebrating the vast creative talent that exists within the borough of Richmond upon Thames.
     
 

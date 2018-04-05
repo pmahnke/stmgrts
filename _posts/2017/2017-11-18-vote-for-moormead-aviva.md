@@ -5,9 +5,8 @@ permalink: /archives/2017/11/vote-for-moormead-aviva.html
 commentfile: 2017-11-18-vote-for-moormead-aviva
 category: news
 date: 2017-11-18 06:29:34
+image: "/assets/images/2017/vote-moormead-pavillion-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/vote-moormead-pavillion.jpg" title="Click for a larger image"><img src="/assets/images/2017/vote-moormead-pavillion-thumb.jpg" width="150" alt="Image - vote-moormead-pavillion"  class="photo right"/></a>
-
     We have entered a competition to win &pound;25,000 to help us to regenerate Moormead Pavilion. All we need are your votes. Please use the link below, create an account and then vote for our project. You are allocated 10 votes, which you can use on the same project if you wish.
 
 ---

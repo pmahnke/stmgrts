@@ -5,9 +5,8 @@ permalink: /archives/2008/10/5000_boys_and_the_old_deer_park.html
 commentfile: 2008-10-16-5000_boys_and_the_old_deer_park
 category: around_town
 date: 2008-10-16 14:52:07
+image: "/assets/images/2008/jamboree_poster-thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2008/jamboree_poster.jpg"><img src="/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
     
     
     A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 

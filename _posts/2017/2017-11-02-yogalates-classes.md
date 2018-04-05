@@ -5,9 +5,8 @@ permalink: /archives/2017/11/yogalates-classes.html
 commentfile: 2017-11-02-yogalates-classes
 category: around_town
 date: 2017-11-02 21:33:02
+image: "/assets/images/2017/Yogalates-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Yogalates.jpg" title="Click for a larger image"><img src="/assets/images/2017/Yogalates-thumb.jpg" width="150" alt="Image - Yogalates"  class="photo right"/></a>
-
     Beat those winter blues every Sunday night at the ETNA Centre with two brand new Yoga classes! Yogalates at 6pm combines the best of hatha yoga and pilates; toning and strengthening, building core stability, flexibility and balance in body and mind.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2014/11/a_community_remembers_the_1st_world_war.html
 commentfile: 2014-11-27-a_community_remembers_the_1st_world_war
 category: around_town
 date: 2014-11-27 21:27:55
+image: "/assets/images/2014/TRENCHTEA_Final_Poster-page-001_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/TRENCHTEA_Final_Poster-page-001.jpg" title="See larger version of - Christmas Tea Event Poster"><img src="/assets/images/2014/TRENCHTEA_Final_Poster-page-001_thumb.jpg" width="150" height="212" alt="Christmas Tea Event Poster" class="photo right" /></a>
-    
     
     
     Having organised a well attended <em>'War Walk'</em> around the neighbourhood in October, visiting the former homes of WW1 servicemen, and with a trip to the wartime graves in Isleworth Cemetery yet to arrange for next spring, the North St Margarets Residents' Association, (the NSMRA), is now concentrating upon its next remembrance of the Great War.

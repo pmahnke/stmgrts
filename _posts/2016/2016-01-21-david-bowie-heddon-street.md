@@ -6,9 +6,8 @@ commentfile: 2016-01-21-david-bowie-heddon-street
 category: around_town
 author: Martyn Day
 date: 2016-01-21 22:29:24
+image: "/assets/images/2016/BOWIE_david-bowie_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/BOWIE_david-bowie_1.jpg" title="See larger version of - david bowie"><img src="/assets/images/2016/BOWIE_david-bowie_1_thumb.jpg" width="150" height="84" alt="david bowie" class="photo right" /></a>
-
     _David Robert Jones, a.k.a David Bowie: 8<sup>th</sup> Jan 1947 - 10<sup>th</sup> Jan 2016_
 
 ---

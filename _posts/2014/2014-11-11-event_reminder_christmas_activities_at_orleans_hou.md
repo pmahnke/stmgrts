@@ -5,9 +5,8 @@ permalink: /archives/2014/11/event_reminder_christmas_activities_at_orleans_hou.
 commentfile: 2014-11-11-event_reminder_christmas_activities_at_orleans_hou
 category: around_town
 date: 2014-11-11 12:17:33
+image: "/assets/images/2014/Christmas_at_Orleans_House_Gallery_2014_2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Christmas_at_Orleans_House_Gallery_2014_2.jpg" title="See larger version of - Christmas at Orleans House Gallery 2014 2"><img src="/assets/images/2014/Christmas_at_Orleans_House_Gallery_2014_2_thumb.jpg" width="150" height="212" alt="Christmas at Orleans House Gallery 2014 2" class="right" /></a>
-    
     Orleans House Gallery offers a range of fun, inspiring and creative Christmas activities to keep you busy creating.
 
 ---

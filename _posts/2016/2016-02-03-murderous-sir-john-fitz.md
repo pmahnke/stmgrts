@@ -6,9 +6,8 @@ commentfile: 2016-02-03-murderous-sir-john-fitz
 category: around_town
 date: 2016-02-03 20:36:53
 author: Martyn Day
+image: "/assets/images/2016/FITZ_sword_fight_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/FITZ_sword_fight.jpg" title="See larger version of - sword fight"><img src="/assets/images/2016/FITZ_sword_fight_thumb.jpg" width="150" height="94" alt="sword fight" class="photo right" /></a>
-
     In 1575, in the days before John Fitz was born his father, a keen astrologer, studied the stars to see what future awaited the child. Unfortunately Dad was not reassured by the astrological indications...
 
 ---

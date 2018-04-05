@@ -5,9 +5,8 @@ permalink: /archives/2017/11/river-crane-vision-document.html
 commentfile: 2017-11-30-river-crane-vision-document
 category: news
 date: 2017-11-30 18:39:00
+image: "/assets/images/2017/lower-river-crane-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/lower-river-crane.jpg" title="Click for a larger image"><img src="/assets/images/2017/lower-river-crane-thumb.jpg" width="150" alt="Image - lower-river-crane"  class="right"/></a>
-
     Residents across the boroughs of Richmond and Hounslow are encouraged to have their say on a proposed vision to restore 1.8 miles of the lower River Crane.
 
     The Crane Valley Partnership is embarking on the ambitious restoration project between the river's divide with the Duke of Northumberland and Cole Park Island.

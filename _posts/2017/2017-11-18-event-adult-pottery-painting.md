@@ -5,9 +5,8 @@ permalink: /archives/2017/11/event-adult-pottery-painting.html
 commentfile: 2017-11-18-event-adult-pottery-painting
 category: around_town
 date: 2017-11-18 08:16:35
+image: "/assets/images/2017/ToyShop-Pottery-night-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ToyShop-Pottery-night.jpg" title="Click for a larger image"><img src="/assets/images/2017/ToyShop-Pottery-night-thumb.jpg" width="150" alt="Image - ToyShop-Pottery-night"  class="photo right"/></a>
-
     The Toy Shop - St Margarets are excited to be offering Christmas themed Adult Pottery Painting Sessions.
 
     Come along and have some creative fun whilst painting your own gifts and decorations.  Paint your very own hanging Christmas trees, reindeer or baubles as well as personalised mugs, tiles and plates.  You will be amazed how professional your items look after they have been fired!

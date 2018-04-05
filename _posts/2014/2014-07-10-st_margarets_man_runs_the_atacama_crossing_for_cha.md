@@ -5,9 +5,8 @@ permalink: /archives/2014/07/st_margarets_man_runs_the_atacama_crossing_for_cha.
 commentfile: 2014-07-10-st_margarets_man_runs_the_atacama_crossing_for_cha
 category: news
 date: 2014-07-10 22:28:20
+image: "/assets/images/2014/atacama_marathon_men_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/atacama_marathon_men.jpg" title="See larger version of - atacama marathon men"><img src="/assets/images/2014/atacama_marathon_men_thumb.jpg" width="150" height="112" alt="atacama marathon men" class="photo right" /></a>
-    
     Paul Smith, of London, and Ross Jackson, of St Margarets, both 35 years old, are competing in the Atacama Crossing in Chile for Prostate Cancer UK.
     
     Paul and Ross are hoping to raise over &pound;25,000 by running the Atacama Crossing (6 marathons in 6 days, self-supported, across the Atacama Desert in Chile) in October this year to help the charity to continue supporting the 250,000 men living with prostate cancer in the UK.

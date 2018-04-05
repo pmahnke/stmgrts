@@ -5,8 +5,8 @@ permalink: /archives/2008/04/fitness_tips_and_new_class_sessions_from_geolifest.
 commentfile: 2008-04-24-fitness_tips_and_new_class_sessions_from_geolifest
 category: around_town
 date: 2008-04-24 09:58:04
+image: "/assets/images/2008/georgie-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
     #### How to improve fitness levels.
     

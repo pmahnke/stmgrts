@@ -5,9 +5,8 @@ permalink: /archives/2017/11/classes-baby-mindfulness.html
 commentfile: 2017-11-23-classes-baby-mindfulness
 category: around_town
 date: 2017-11-23 19:02:39
+image: "/assets/images/2017/orleans-baby-mindful-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-baby-mindful.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-baby-mindful-thumb.jpg" width="150" alt="Image - orleans-baby-mindful"  class="photo right"/></a>
-
     Baby Mindful is a brand new FREE course of Mindfulness for bumps and babies.
 
     New parents and their babies (pre-walking), and soon to be parents and their bumps can join us in the calming gallery space on Mondays when it is closed to the public, where we will welcome you into a fully baby friendly space.

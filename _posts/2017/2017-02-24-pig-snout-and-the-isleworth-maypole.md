@@ -6,9 +6,8 @@ commentfile: 2017-02-24-pig-snout-and-the-isleworth-maypole
 category: around_town
 author: Martyn Day
 date: 2017-02-24 20:15:56
+image: "/assets/images/2017/SNOUTFACE_Sophia-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SNOUTFACE_Sophia.jpg" title="Click for a larger image"><img src="/assets/images/2017/SNOUTFACE_Sophia-thumb.jpg" width="150" alt="Image - SNOUTFACE_Sophia"  class="photo right"/></a>
-
     In 1682 George married the beautiful Sophia Dorothea of Celle but it wasn't the happiest of marriages. The trouble started before they had even met. When Sophia first heard that she was to marry George she shouted  <em>"I will not marry that pig snout!"</em> and threw a miniature of him against the wall. Things didn't improve when they did finally get together. She fainted. She fainted again on meeting her future mother-in-law.
 
 ---

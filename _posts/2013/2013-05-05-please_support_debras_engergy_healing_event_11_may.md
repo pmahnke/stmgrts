@@ -5,9 +5,8 @@ permalink: /archives/2013/05/please_support_debras_engergy_healing_event_11_may.
 commentfile: 2013-05-05-please_support_debras_engergy_healing_event_11_may
 category: around_town
 date: 2013-05-05 09:15:50
+image: "/assets/images/2013/ESPIRIT-POSTER-FOR-DEBRA-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/ESPIRIT-POSTER-FOR-DEBRA-1.jpg" title="See larger version of - ESPIRIT POSTER FOR DEBRA"><img src="/assets/images/2013/ESPIRIT-POSTER-FOR-DEBRA-1_thumb.jpg" width="150" height="160" alt="ESPIRIT POSTER FOR DEBRA" class="photo right" /></a>
-    
     
     _Espirit 4 Health invites you to join us on an Energy Healing event on Saturday, 11<sup>th</sup> May 2013 to raise funds for DEBRA._
     

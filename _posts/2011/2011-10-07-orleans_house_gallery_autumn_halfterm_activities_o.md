@@ -5,9 +5,8 @@ permalink: /archives/2011/10/orleans_house_gallery_autumn_halfterm_activities_o.
 commentfile: 2011-10-07-orleans_house_gallery_autumn_halfterm_activities_o
 category: around_town
 date: 2011-10-07 08:00:47
+image: "/assets/images/2011/4-5s-a-medium_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/4-5s-a-medium.jpg" title="See larger version of - Orleans House Gallery class for kids"><img src="/assets/images/2011/4-5s-a-medium_thumb.jpg" width="150" height="112" alt="Orleans House Gallery class for kids" class="photo right" /></a>
-
     Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
 
 

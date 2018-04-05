@@ -5,8 +5,8 @@ permalink: /archives/2009/10/a_london_childhood_the_shove_hapenny_board_that_sa.
 commentfile: 2009-10-09-a_london_childhood_the_shove_hapenny_board_that_sa
 category: around_town
 date: 2009-10-09 14:20:35
+image: "/assets/images/2009/baby_martyn-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/baby_martyn.jpg"><img src="/assets/images/2009/baby_martyn-thumb.jpg" width="150" height="147" alt="Martyn looking at that board" class="photo right" /></a>
     
     
     I was born in the Royal Northern Hospital, Holloway at 3.20 in the morning on the 28th December 1944. Being a Thursday that made me a child with 'far to go'. How true. 11 days later, just after noon on 8th January 1945, I was blown up by a V2 rocket - a Vergeltungswaffen  as the Nazi High Command liked to call them.

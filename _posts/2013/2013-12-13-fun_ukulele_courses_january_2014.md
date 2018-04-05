@@ -5,9 +5,8 @@ permalink: /archives/2013/12/fun_ukulele_courses_january_2014.html
 commentfile: 2013-12-13-fun_ukulele_courses_january_2014
 category: around_town
 date: 2013-12-13 12:00:14
+image: "/assets/images/2013/Ukulele-Course-GenMaster2WE_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Ukulele-Course-GenMaster2WE.jpg" title="See larger version of - Ukulele Course Flyer"><img src="/assets/images/2013/Ukulele-Course-GenMaster2WE_thumb.jpg" width="150" height="212" alt="Ukulele Course Flyer" class="photo right" /></a>
-    
     Try a fun ukulele courses starting in January 2014, run by Surya Cooper.
     
 

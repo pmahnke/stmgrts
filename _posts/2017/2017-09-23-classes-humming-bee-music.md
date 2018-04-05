@@ -5,9 +5,8 @@ permalink: /archives/2017/09/classes-humming-bee-music.html
 commentfile: 2017-09-23-classes-humming-bee-music
 category: around_town
 date: 2017-09-23 08:34:54
+image: "/assets/images/2017/humming-bee-logo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/humming-bee-logo.jpg" title="Click for a larger image"><img src="/assets/images/2017/humming-bee-logo-thumb.jpg" width="150" alt="Image - humming-bee-logo"  class="right"/></a>
-
     Humming Bee is a weekly Music and Movement class for preschool children, based on the Kod&#225;ly principles of teaching musicianship. With an emphasis on live music making; we sing, play, listen, and move to music.
 
     Join a new music group this Sunday 24<sup>th</sup> September 2017 at the ETNA Centre.  There are  back to back classes at 10.00am and 10.45am.

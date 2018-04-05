@@ -5,8 +5,8 @@ permalink: /archives/2009/04/the_welsh_women_of_st_margarets.html
 commentfile: 2009-04-03-the_welsh_women_of_st_margarets
 category: around_town
 date: 2009-04-03 08:49:13
+image: "/assets/images/2009/peartree-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/peartree.jpg"><img src="/assets/images/2009/peartree-thumb.jpg" width="150" height="112" alt="Pear Tree" class="photo right" /></a>
     
     
     Once upon a time St Margarets didn't exist. Where we live now was an empty space. No station, no pub, no shops, no houses, no post office, no nothing. All that separated Isleworth, Twickenham, Richmond and Hounslow were cornfields, orchards and market gardens as far as the eye could see. Henry 8th called the area "London's breadbasket" and he was right. From the banks of the Thames and up the gentle rise to Hounslow the business around here was food.

@@ -5,8 +5,8 @@ permalink: /archives/2009/04/the_rise_and_fall_of_the_diddlers.html
 commentfile: 2009-04-09-the_rise_and_fall_of_the_diddlers
 category: around_town
 date: 2009-04-09 11:35:10
+image: "/assets/images/2009/diddler-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/diddler.png"><img src="/assets/images/2009/diddler-thumb.png" width="150" height="112" alt="The Rise and Fall of the Diddlers" class="photo right" /></a>
     
     
     The first trolley bus in London pulled out of Fulwell depot, Teddington on May 16th 1931 opening the No. 4 route between Teddington and Twickenham. As it left the depot the District Inspector Charles Gilbert jumped aboard and paid 1 penny for the first ticket. The conductor was Charles Hadland and you can see him in the YouTube film selling tickets to passengers on the top deck.

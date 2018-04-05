@@ -5,9 +5,8 @@ permalink: /archives/2010/10/sir_chaloner_ogle_and_the_pirates.html
 commentfile: 2010-10-14-sir_chaloner_ogle_and_the_pirates
 category: 
 date: 2010-10-14 23:19:48
+image: "/assets/images/2010/Ogles_plaque_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Ogles_plaque.jpg" title="See larger version of - Ogles plaque"><img src="/assets/images/2010/Ogles_plaque_thumb.jpg" width="107" height="150" alt="Ogles plaque" class="photo right" /></a>
-    
     
     On the wall of St Marys Church in Twickenham is a monument plaque by Michael Rysbrack in memory of Sir Chaloner Ogle, Bart, Admiral of the Fleet who died on April 20<sup>th</sup> 1750. Surmounted by an over-abundance of carved cannons, spears, an axe, a plumed helmet, standards and a boat hook, together with the head of a goat, a commemorative anchor, a broken column and a standing child is a lengthy eulogy in Latin. It begins..
 

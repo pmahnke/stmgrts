@@ -5,9 +5,8 @@ permalink: /archives/2015/09/from_zippy_to_zerdin.html
 commentfile: 2015-09-24-from_zippy_to_zerdin
 category: around_town
 date: 2015-09-24 23:45:34
+image: "/assets/images/2015/ZERDIN_Paul_Zerdin_and_Sam_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/ZERDIN_Paul_Zerdin_and_Sam.jpg" title="See larger version of - ZERDIN Paul Zerdin and Sam"><img src="/assets/images/2015/ZERDIN_Paul_Zerdin_and_Sam_thumb.jpg" width="150" height="150" alt="Paul Zerdin and Sam" class="photo right" /></a>
-    
     A couple of weeks ago a young ventriloquist from Wimbledon competed in the finals of <em>'America's Got Talent'</em> - the most popular TV talent show in the world - and won. His name is Paul Zerdin and he picked up $1 million in prize money and a contract at the Planet Hollywood Resort and Casino in Las Vegas.
     
 

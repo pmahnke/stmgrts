@@ -5,9 +5,8 @@ permalink: /archives/2014/12/yoga_fitness_starts_the_new_year_with_two_new_clas.
 commentfile: 2014-12-13-yoga_fitness_starts_the_new_year_with_two_new_clas
 category: around_town
 date: 2014-12-13 09:33:56
+image: "/assets/images/2014/yoga_fitness_201412_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/yoga_fitness_201412.jpg" title="See larger version of - yoga fitness 201412"><img src="/assets/images/2014/yoga_fitness_201412_thumb.jpg" width="150" height="112" alt="yoga fitness 201412" class="photo right" /></a>
-    
     
     The most wonderful thing about yoga is that 'Yoga is for everyone', virtually anyone can practice it, with a modified practice to suit you. Forget visions of Cirque du Soleil type students bending around in your local community hall, yoga is for people of all shapes, sizes, ages and abilities.
     

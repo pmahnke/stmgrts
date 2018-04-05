@@ -5,9 +5,8 @@ permalink: /archives/2016/01/age-uk-richmond-housekeepers.html
 commentfile: 2016-01-29-age-uk-richmond-housekeepers
 category: news
 date: 2016-01-29 18:10:59
+image: "/assets/images/2016/Age-Richmond-Housekeeping_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Age-Richmond-Housekeeping.jpg" title="See larger version of - Age Richmond Housekeeping"><img src="/assets/images/2016/Age-Richmond-Housekeeping_thumb.jpg" width="150" height="212" alt="Age Richmond Housekeeping" class="photo right" /></a>
-
     Age UK Richmond have a huge team of reliable, friendly housekeepers who can help you manage your home, your way. We help with general housework (like dusting, hoovering, cleaning, bed making), laundry, shopping, prescription collection and much more.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2012/11/the_day_st_margarets_went_off_the_rails.html
 commentfile: 2012-11-10-the_day_st_margarets_went_off_the_rails
 category: around_town
 date: 2012-11-10 12:54:15
+image: "/assets/images/2012/CRASH_Train-crash_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/CRASH_Train-crash.jpg" title="See larger version of - Train crash"><img src="/assets/images/2012/CRASH_Train-crash_thumb.jpg" width="300" height="205" alt="Train crash" class="photo right" /></a>
-    
     
     At 12.30 pm on Friday 18<sup>th</sup> July 1980 a train bound for Waterloo derailed and crashed onto the embankment just beyond St Margarets station. There was extensive damage to the wheel bogies of the first two carriages but none of the 50 passengers on board were injured. The driver, John Linane, was less fortunate. He was taken to West Middlesex Hospital suffering from shock but later allowed home.  Equally shocked - but in no apparent need of hospital treatment - were the women who worked for Martonair, a pneumatic control company. The 'Richmond and Twickenham Times' report of the accident included a photograph of them looking at the leading carriages of the train that had come to rest immediately outside their office window.  If the train had travelled just a few yards further they would have been amongst the casualties. Martonair later relocated to the Midlands and its trackside premises in St Margarets pulled down... and who can blame them? Being pneumatic is one thing. Getting the wind up is another!
 

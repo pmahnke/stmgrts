@@ -5,9 +5,8 @@ permalink: /archives/2017/05/event-orleans-house-history.html
 commentfile: 2017-05-06-event-orleans-house-history
 category: around_town
 date: 2017-05-06 15:22:02
+image: "/assets/images/2017/equine-idyll-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/equine-idyll.jpg" title="Click for a larger image"><img src="/assets/images/2017/equine-idyll-thumb.jpg" width="150" alt="Image - equine-idyll"  class="photo right"/></a>
-
     An immersive exhibition, at the Stables Gallery, celebrating the history of Orleans House Gallery will open next week. Orleans House was once was an idyllic retreat, worlds away from the bustling city. It was a pastoral vision set beside a tranquil flowing river, with horses and boats providing the main way in and out.
 
 ---

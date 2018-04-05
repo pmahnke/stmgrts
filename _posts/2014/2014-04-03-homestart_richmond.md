@@ -5,8 +5,9 @@ permalink: /archives/2014/04/homestart_richmond.html
 commentfile: 2014-04-03-homestart_richmond
 category: around_town
 date: 2014-04-03 18:42:16
+image: "/assets/images/2014/Home-Start_Colour_small_low_res.jpg"
 excerpt: |
-    <img src="/assets/images/2014/Home-Start_Colour_small_low_res.jpg" width="148" height="130" class="right" alt="home start logo"/>
+
     
     _Are you a parent/grandparent? Would you like to help local families?_
     

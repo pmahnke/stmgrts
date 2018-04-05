@@ -5,9 +5,8 @@ permalink: /archives/2010/09/something_to_get_your_teeth_into.html
 commentfile: 2010-09-03-something_to_get_your_teeth_into
 category: around_town
 date: 2010-09-03 12:08:21
+image: "/assets/images/2010/teeth_hufeland_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/teeth_hufeland.jpg" title="See larger version of - Christophe Wilhelm Hufeland"><img src="/assets/images/2010/teeth_hufeland_thumb.jpg" width="114" height="150" alt="Christophe Wilhelm Hufeland" class="photo right" /></a>
-    
     In 1826 '_The Family Oracle of Health_' reported on the rapid spread of tooth decay throughout the nation over the previous 25 years.  A number of reasons for this were put forward. One was the increased consumption of sugar from the West Indies - although this was disputed by some who argued that the West Indians who worked on the plantations and ate considerable quantities of sugar themselves, seemed to be remarkably untroubled by bad teeth. Another explanation, advanced by the German physician Christophe Wilhelm Hufeland, was that consuming hot and cold foods or drinks immediately after each other caused invisible cracks in the tooth enamel to open up and allow decay to enter. Surprisingly that argument still had its supporters into the late 1930's.
 
 ---

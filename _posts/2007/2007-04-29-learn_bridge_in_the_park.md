@@ -5,9 +5,8 @@ permalink: /archives/2007/04/learn_bridge_in_the_park.html
 commentfile: 2007-04-29-learn_bridge_in_the_park
 category: around_town
 date: 2007-04-29 20:36:36
+image: "/assets/images/2007/cards-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2007/cards-thumb.jpg" alt="Playing Card" class="photo right" height="150" width="105">
-    
     Local bridge teacher Ned Paul is starting a new beginning bridge class in Marble Hill Park. The lessons will take place on Friday mornings at the newly re-opened Coach House Cafe in the Park.  The course will comprise eight two hour lessons on Friday mornings from 10-12 noon starting on Friday May 11<sup>th</sup> (no session on June 1<sup>st</sup> - half term).
     
     Fee for the course will be &pound;60 to cover bridge tuition, playing practice and full notes.  Tuition will be personal - there will be a maximum of eight players in the group. The cafe is not charging any fee for the premises but the players will be expected to support the cafe by purchasing items from the extensive and delicious range of refreshments served.

@@ -5,9 +5,8 @@ permalink: /archives/2011/06/the_hall_with_many_names.html
 commentfile: 2011-06-23-the_hall_with_many_names
 category: around_town
 date: 2011-06-23 09:05:09
+image: "/assets/images/2011/SSH_hall_outside_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/SSH_hall_outside.jpg" title="See larger version of - St Stephens Hall from the Chertsey Road"><img src="/assets/images/2011/SSH_hall_outside_thumb.jpg" width="150" height="225" alt="St Stephens Hall from the Chertsey Road" class="photo right" /></a>
-    
     Anyone who sets out to write a history of the old Hall that stands next to St. Stephen's School on the Chertsey Road has their work cut out simply because the firm facts are difficult to find. For example...what is the place called? Is it "St. Stephen's School Hall" as most people think or is it "St Stephen's Church Hall" as the notice board outside suggests? Could it be "St Stephen's Mission Hall" as one set of records describe it or is it "St Paul's Mission Hall" as given in another? Perhaps it is even "St Paul's Church"? Confusing...
     
 

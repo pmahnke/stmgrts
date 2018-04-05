@@ -6,9 +6,8 @@ commentfile: 2017-06-22-70-years-of-flying-saucers
 category: around_town
 date: 2017-06-22 20:34:09
 author: Martyn Day
+image: "/assets/images/2017/SAUCERS_Kenneth-Arnold-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SAUCERS_Kenneth-Arnold.jpg" title="Click for a larger image"><img src="/assets/images/2017/SAUCERS_Kenneth-Arnold-thumb.jpg" width="150" alt="Image - SAUCERS_Kenneth-Arnold"  class="photo right"/></a>
-
     70 years ago, at 3.00pm on the 24<sup>th</sup> June 1947 Kenneth Arnold, an experienced Search and Rescue pilot was flying over the Cascade Mountains in Washington State in America when he saw below him nine unusual objects travelling at a speed he estimated to be around 1200 miles per hour. His immediate reaction was they were snow geese but having considered their speed he thought that they may be jet planes...
 
 ---

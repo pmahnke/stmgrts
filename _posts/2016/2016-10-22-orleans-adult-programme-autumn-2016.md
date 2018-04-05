@@ -5,9 +5,8 @@ permalink: /archives/2016/10/orleans-adult-programme-autumn-2016-2.html
 commentfile: 2016-10-22-orleans-adult-programme-autumn-2016
 category: around_town
 date: 2016-10-22 14:11:08
+image: "/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ORLEANS2016_Talk_and_Draw.jpg" title="See larger version of - Talk and Draw"><img src="/assets/images/2016/ORLEANS2016_Talk_and_Draw_thumb.jpg" width="150" alt="Talk and Draw" class="photo right" /></a>
-
     Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, creative writing, workshops and art history lectures.
 ---
 

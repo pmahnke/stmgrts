@@ -5,9 +5,8 @@ permalink: /archives/2010/11/christmas_sunday_markets_in_richmond.html
 commentfile: 2010-11-18-christmas_sunday_markets_in_richmond
 category: news
 date: 2010-11-18 19:34:10
+image: "/assets/images/2010/DuckPondMarketRichmondPoste_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/DuckPondMarketRichmondPoste.jpg" title="See larger version of - Duck Pond Market Poster"><img src="/assets/images/2010/DuckPondMarketRichmondPoste_thumb.jpg" width="106" height="150" alt="Duck Pond Market Poster" class="photo right" /></a>
-
     <a href="http://www.duckpondmarket.co.uk/duckpondmarket.co.uk/Richmond_DPM.html">Duck Pond Market</a> is going to trial two Sundays in Heron Square, where the Saturday market is held, in Richmond. The two dates are <a href="https://stmargarets.london/event/event/200705142645">Sunday the 28th of November</a> and <a href="https://stmargarets.london/event/event/200705142646">Sunday the 19th of December</a> from 10.00am to 3.00pm.
 
     If these two dates go well, they will propose a regular weekly Sunday Duck Pond Market.

@@ -5,9 +5,8 @@ permalink: /archives/2013/09/the_other_richmond_park.html
 commentfile: 2013-09-12-the_other_richmond_park
 category: around_town
 date: 2013-09-12 21:45:07
+image: "/assets/images/2013/RICHPARK_Richmond_Castle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/RICHPARK_Richmond_Castle.jpg" title="See larger version of - Richmond Castle"><img src="/assets/images/2013/RICHPARK_Richmond_Castle_thumb.jpg" width="150" height="99" alt="Richmond Castle" class="photo right" /></a>
-    
     
     Should you find yourself in Kalutara in west Sri Lanka, twiddling your thumbs and wondering what to do next, having already seen the Pinnawala Elephant Orphanage, the famous Asokaramaya Buddhist Temple and the world's only hollow 'stupa', then ask a local tuk-tuk driver for ideas. He might just take you to Richmond Park where you will find Richmond Castle.
     

@@ -5,8 +5,8 @@ permalink: /archives/2011/08/will_you_accept_mayor_clares_volunteer_challenge.ht
 commentfile: 2011-08-15-will_you_accept_mayor_clares_volunteer_challenge
 category: news
 date: 2011-08-15 18:39:12
+image: "/assets/images/2011/mayor_clare.jpg"
 excerpt: |
-    <img src="/assets/images/2011/mayor_clare.jpg" width="150" height="180" alt="Mayor Clare Head" class="photo right" />
     
     Borough Mayor Cllr Clare Head is spearheading a volunteer recruitment drive to encourage more people to give their time to support others in the community. The Mayor is encouraging people to sign up to work with local organisations and charities through Richmond Council for Voluntary Services or to help improve the area where they live through the borough council's Community Resource Bank.
     

@@ -5,9 +5,8 @@ permalink: /archives/2011/09/the_coming_of_the_giants_richmond_1918.html
 commentfile: 2011-09-29-the_coming_of_the_giants_richmond_1918
 category: around_town
 date: 2011-09-29 11:48:13
+image: "/assets/images/2011/BOMB_raf_be-12_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/BOMB_raf_be-12_1.jpg" title="See larger version of - RAF BE 12"><img src="/assets/images/2011/BOMB_raf_be-12_1_thumb.jpg" width="150" height="91" alt="RAF BE 12" class="photo right" /></a>
-    
     On the evening of 29<sup>th</sup> January 1918 three huge Zeppelin-Staaken R.VI  _Riesenflugzeug_ "Giant" bombers of the Luftstreitkr&#228;fte (Imperial German Air Service) took off from their base in Ghent, Belgium to attack London. The first plane ran into heavy anti-aircraft fire over Billericay and turned for home. It is not known where it dropped its bombs. The second 'Giant' was attacked by a night fighter over Tottenham in north London. It too decided to return home offloading its bombs near Wanstead. The third aircraft was also attacked near Hertford by a B.E 12 fighter flown by Capt. A Dennis of RFC 37 Squadron based at Goldhanger in Essex. This attack was unsuccessful and undamaged the 'Giant' turned south towards Brentford. Following the Thames towards its target the 'Giant' dropped its bombs. The first stick fell on the Old Deer Park, Richmond.  The others landed in Brentford, Kew Bridge Road and Chiswick. That night 10 people were killed and the same number injured. According to reports there was little material damage.
     
 

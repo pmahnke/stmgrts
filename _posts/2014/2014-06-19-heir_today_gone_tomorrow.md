@@ -5,9 +5,8 @@ permalink: /archives/2014/06/heir_today_gone_tomorrow.html
 commentfile: 2014-06-19-heir_today_gone_tomorrow
 category: around_town
 date: 2014-06-19 22:59:20
+image: "/assets/images/2014/BUDD_Twickenham_Park_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/BUDD_Twickenham_Park.jpg" title="See larger version of - Twickenham Park"><img src="/assets/images/2014/BUDD_Twickenham_Park_thumb.jpg" width="150" height="90" alt="Twickenham Park" class="photo right" /></a>
-
     Once upon a time there was a man living in these parts called Henry Budd and he was absolutely loaded. Not only did he own the riverside estate "Twickenham Park" in what was to become St Margarets but he also had properties on Marine Drive in Brighton and Russell Square in London as well as a rather prestigious family mausoleum at St. Matthews Church in Brixton.
 ---
 

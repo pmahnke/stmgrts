@@ -5,9 +5,8 @@ permalink: /archives/2009/05/turings_poisoned_apple.html
 commentfile: 2009-05-21-turings_poisoned_apple
 category: around_town
 date: 2009-05-21 21:41:04
+image: "/assets/images/2009/appl-logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/appl-logo.png" title="See larger version of - Apple Logo"><img src="/assets/images/2009/appl-logo_thumb.png" width="134" height="150" alt="Apple Logo" class=" right" /></a>
-    
     
     The corporate logo of Apple computers is a rainbow-striped apple with a single bite missing from it. For most people it is no more than the bright emblem of a successful modern company. For others with longer memories it is a poignant tribute to a remarkable man who lived for a short period of his life in Hampton.
     

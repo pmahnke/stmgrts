@@ -5,9 +5,8 @@ permalink: /archives/2017/09/octogon-club-recruiting.html
 commentfile: 2017-09-22-octogon-club-recruiting
 category: around_town
 date: 2017-09-22 17:09:16
+image: "/assets/images/2017/LBRUT-SEN-art-classes-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LBRUT-SEN-art-classes.jpg" title="Click for a larger image"><img src="/assets/images/2017/LBRUT-SEN-art-classes-thumb.jpg" width="150" alt="Image - LBRUT-SEN-art-classes"  class="photo right"/></a>
-
     A weekly art club for young people with Special Education Needs (SEN) is now inviting new members to join this Autumn.
 
     Octagon Club is a weekly club for young people with SEN aged 11 years to 17 years. They meet in the Coach House at Orleans House Gallery every Tuesday after school.

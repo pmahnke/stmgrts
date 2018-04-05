@@ -5,9 +5,8 @@ permalink: /archives/2017/08/open-house-london-bushy-house.html
 commentfile: 2017-08-13-open-house-london-bushy-house
 category: around_town
 date: 2017-08-13 06:14:53
+image: "/assets/images/2017/Bushy-House-Open-Flyer-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Bushy-House-Open-Flyer-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/Bushy-House-Open-Flyer-2017-thumb.jpg" width="150" alt="Image - Bushy-House-Open-Flyer-2017"  class="photo right"/></a>
-
     Bushy House was built for Edward Proger in the 1660s and was the residence of William, Duke of Clarence (later William IV) and his mistress Dora Jordan. It has been part of the National Physical Laboratory (NPL) since 1900.
 ---
 

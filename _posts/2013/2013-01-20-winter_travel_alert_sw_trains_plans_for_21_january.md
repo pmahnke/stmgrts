@@ -5,11 +5,10 @@ permalink: /archives/2013/01/winter_travel_alert_sw_trains_plans_for_21_january.
 commentfile: 2013-01-20-winter_travel_alert_sw_trains_plans_for_21_january
 category: news
 date: 2013-01-20 13:15:04
+image: "/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" alt="sw train winter weather warning" class=" right" height="80" width="150"></a>
     
-    
-    _Changes to train times Monday 21st January 2013._
+    Changes to train times Monday 21st January 2013.
     
     Because of the severe weather conditions, we will be running a revised timetable throughout the South West Trains network.  To make best use of the trains and crew we expect to have available, we will be concentrating on our main line services.  Please use this link for map of the service we will be providing on our network.  Where possible we will run additional trains in our peak service hours, please continue to check here where we will advertise the additional services we are able to run.
      

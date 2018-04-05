@@ -5,8 +5,8 @@ permalink: /archives/2009/03/recipe_polenta_farmers_eggs.html
 commentfile: 2009-03-26-recipe_polenta_farmers_eggs
 category: food
 date: 2009-03-26 18:34:33
+image: "/assets/images/2009/huevos_rancheros-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/huevos_rancheros.jpg"><img src="/assets/images/2009/huevos_rancheros-thumb.jpg" width="150" height="107" alt="Huevos Rancheros" class="photo right" /></a>
     
     
     bq. "It's so nice to start a Sunday by having a nice hearty brunch with your friends or family. This recipe is a variation of huevos rancheros which is a popular breakfast in Mexico  meaning "eggs ranch-style" or "eggs country-style". The dish traditionally was served for on rural farms for a mid-day meal and is traditionally made with corn tortillas, vegetables and eggs. too make this meal slightly more European I have replaced the tortillas with polenta and added large quantities of vegetables to make a wonder healthy brunch."

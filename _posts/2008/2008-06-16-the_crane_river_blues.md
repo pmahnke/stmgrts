@@ -5,8 +5,8 @@ permalink: /archives/2008/06/the_crane_river_blues.html
 commentfile: 2008-06-16-the_crane_river_blues
 category: around_town
 date: 2008-06-16 21:55:36
+image: "/assets/images/2008/crane_ken_colyer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/crane_ken_colyer.jpg"><img src="/assets/images/2008/crane_ken_colyer-thumb.jpg" width="150" height="114" alt="Ken Colyer" class="photo right"  /></a>
     
     
     If you're one of those happy souls who likes to remember important dates in social history here's one to add to your list - July 13<sup>th</sup> 1954 when -- just up the road from where you are reading this -- the fuse was lit on the great British pop music explosion!

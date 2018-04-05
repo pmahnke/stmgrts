@@ -5,9 +5,8 @@ permalink: /archives/2011/05/the_good_wine_shop_is_fully_stocked_for_the_summer.
 commentfile: 2011-05-26-the_good_wine_shop_is_fully_stocked_for_the_summer
 category: around_town
 date: 2011-05-26 22:57:38
+image: "/assets/images/2011/goodwineshop_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/goodwineshop.png" title="See larger version of - the good wine shop"><img src="/assets/images/2011/goodwineshop_thumb.png" width="150" height="112" alt="the good wine shop" class="photo right" /></a>
-    
     Exclusive Offer: Reduction on single or multiple bottle purchases
     To celebrate the start of summer, The Good Wine Shop in St. Margarets is offering subscribers to the _St Margarets Community Website_ newsletter a special discounted rate.
     

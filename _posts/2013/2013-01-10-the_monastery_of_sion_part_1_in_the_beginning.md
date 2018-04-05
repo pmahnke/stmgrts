@@ -5,9 +5,8 @@ permalink: /archives/2013/01/the_monastery_of_sion_part_1_in_the_beginning.html
 commentfile: 2013-01-10-the_monastery_of_sion_part_1_in_the_beginning
 category: around_town
 date: 2013-01-10 22:32:29
+image: "/assets/images/2013/SION1_The-Vision-of-St-Bridget_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/SION1_The-Vision-of-St-Bridget.jpg" title="See larger version of - The Vision of St Bridget"><img src="/assets/images/2013/SION1_The-Vision-of-St-Bridget_thumb.jpg" width="150" height="157" alt="The Vision of St Bridget" class="photo right" /></a>
-
     Is it a mysterious location hidden in the pages of "The Da Vinci Code"?  It isn't.  Was it founded in Syon Park- It wasn't.
 
     The Monastery of St. Saviour, the Blessed Virgin Mary and St Bridget of Sion of the order of St. Augustine was built by the Thames on meadows close to where Richmond Lock now stands. It was established on 22<sup>nd</sup> of February 1415 by King Henry 5<sup>th</sup> who laid the first stone himself and dedicated to St Bridget, famous for her visions of Christ.

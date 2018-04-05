@@ -5,9 +5,8 @@ permalink: /archives/2015/03/isleworth_brewery.html
 commentfile: 2015-03-27-isleworth_brewery
 category: around_town
 date: 2015-03-27 23:22:28
+image: "/assets/images/2015/BREWERY_Isleworth_Brewery_livery_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/BREWERY_Isleworth_Brewery_livery.jpg" title="See larger version of - Isleworth Brewery livery"><img src="/assets/images/2015/BREWERY_Isleworth_Brewery_livery_thumb.jpg" width="150" height="200" alt="Isleworth Brewery livery" class="photo right" /></a>
-    
     The street names are probably a giveaway - Shirehorse Way, Clydesdale Close, Malting Way, Draysman Way... but just off St John's Road that links Old Isleworth and Hounslow there once stood a brewery that supplied beer to pubs from Hammersmith to Teddington and beyond.
 
 ---

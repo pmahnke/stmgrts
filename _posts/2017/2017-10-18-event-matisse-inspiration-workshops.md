@@ -5,9 +5,8 @@ permalink: /archives/2017/10/<name>.html
 commentfile: 2017-10-18-event-matisse-inspiration-workshops
 category: around_town
 date: 2017-10-18 16:03:53
+image: "/assets/images/2017/EKGmatisse_autumn-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/EKGmatisse_autumn.jpg" title="Click for a larger image"><img src="/assets/images/2017/EKGmatisse_autumn-thumb.jpg" width="150" alt="Image - EKGmatisse_autumn"  class="photo right"/></a>
-
     Explore the MASTER IN YOU!
 
     Inspirational masters in art workshops for adults; each term, a different master to learn and be inspired from...

@@ -5,9 +5,8 @@ permalink: /archives/2016/07/event-orleans-house-family-fun-summer-2016.html
 commentfile: 2016-07-22-event-orleans-house-family-fun-summer-2016
 category: around_town
 date: 2016-07-22 10:15:31
+image: "/assets/images/2016/13769602_1117542314982644_4027429916185081174_n_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/13769602_1117542314982644_4027429916185081174_n.jpg" title="See larger version of - Create and make together poster"><img src="/assets/images/2016/13769602_1117542314982644_4027429916185081174_n_thumb.jpg" width="150" height="218" alt="Create and make together poster" class="photo right" /></a>
-
     Join us this summer for an exciting series of new family workshops and walks exploring the heritage, stories and surroundings of Orleans House Gallery.
 ---
 

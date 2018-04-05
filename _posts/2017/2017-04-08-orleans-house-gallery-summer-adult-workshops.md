@@ -5,9 +5,8 @@ permalink: /archives/2017/04/orleans-house-gallery-summer-adult-workshops.html
 commentfile: 2017-04-08-orleans-house-gallery-summer-adult-workshops
 category: around_town
 date: 2017-04-08 16:32:58
+image: "/assets/images/2017/ORLEANS_Animals-in-Art-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ORLEANS_Animals-in-Art.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANS_Animals-in-Art-thumb.jpg" width="150" alt="Image - ORLEANS_Animals-in-Art"  class="photo right"/></a>
-
     Orleans House Gallery has an exciting range of new workshops and lectures coming this summer including art history lectures, painting classes, live drawing and more.
 ---
 

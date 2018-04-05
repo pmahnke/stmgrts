@@ -5,9 +5,8 @@ permalink: /archives/2011/03/event_reminder_art_picnic_sugarcraft_workshop_17_a.
 commentfile: 2011-03-30-event_reminder_art_picnic_sugarcraft_workshop_17_a
 category: around_town
 date: 2011-03-30 21:00:47
+image: "/assets/images/2011/art_picnic_sugar_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/art_picnic_sugar.png" title="See larger version of - cupcakes"><img src="/assets/images/2011/art_picnic_sugar_thumb.png" width="150" height="106" alt="cupcakes" class="photo right" /></a>
-    
     With Sugar crafter Danielle Armstrong
     
     <a href="https://stmargarets.london/event/event/200705142765">Learn how to make Spring flowers from Sugar and decorate Easter cupcakes</a>

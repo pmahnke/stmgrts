@@ -5,8 +5,8 @@ permalink: /archives/2008/05/who_killed_the_electric_car.html
 commentfile: 2008-05-01-who_killed_the_electric_car
 category: news
 date: 2008-05-01 10:45:31
+image: "/assets/images/2008/20080417-Electric-Car-1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/20080417-Electric-Car-1.jpg"><img src="/assets/images/2008/20080417-Electric-Car-1-thumb.jpg" width="150" height="99" alt="James Page and Bamber Gascoigne" class="photo right" /></a>
     
     
     The Richmond and Twickenham Green Party held a public screening of the film "Who Killed the Electric Car?" recently. James Page (left in picture), explained how he thought the time may now have arrived for electric cars. Not only do they have a high overall efficiency (as shown in a recent <a href="http://www.wwf.org.uk/news/n_0000004946.asp">WWF report</a> ) but en masse they offer a partial solution to the inevitable problem we will reach with wind power: the storing of electricity.

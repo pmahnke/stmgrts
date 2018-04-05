@@ -6,9 +6,8 @@ commentfile: 2016-05-30-herbert-tsangtse-kwouk
 category: news
 date: 2016-05-29 10:36:55
 author: "Martyn Day"
+image: "/assets/images/2016/BURT_burt_kwouk_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/BURT_burt_kwouk.jpg" title="See larger version of - burt kwouk"><img src="/assets/images/2016/BURT_burt_kwouk_thumb.jpg" width="150" height="84" alt="burt kwouk" class="photo right" /></a>
-
     *Herbert Tsangtse <em>"Burt"</em> Kwouk O.B.E*
 
     _18 July 1930 - 24 May 2016_

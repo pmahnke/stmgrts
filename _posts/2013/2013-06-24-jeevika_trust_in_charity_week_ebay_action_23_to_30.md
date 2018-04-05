@@ -5,9 +5,8 @@ permalink: /archives/2013/06/jeevika_trust_in_charity_week_ebay_action_23_to_30.
 commentfile: 2013-06-24-jeevika_trust_in_charity_week_ebay_action_23_to_30
 category: news
 date: 2013-06-24 22:05:39
+image: "/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/CHARITY_deepika-padukone.jpg" title="See larger version of - deepika padukone"><img src="/assets/images/2013/CHARITY_deepika-padukone_thumb.jpg" width="150" height="224" alt="deepika padukone" class="photo right" /></a>
-    
     _Local charity Jeevika Trust takes part in national auction with Bollywood gifts_
     
     A Surrey charity is staging an auction to help India's rural poor - with a little help from Bollywood and from one of Britain's best gardeners.

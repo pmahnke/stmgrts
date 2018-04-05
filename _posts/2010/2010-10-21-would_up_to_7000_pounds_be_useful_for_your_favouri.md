@@ -5,8 +5,8 @@ permalink: /archives/2010/10/would_up_to_7000_pounds_be_useful_for_your_favouri.
 commentfile: 2010-10-21-would_up_to_7000_pounds_be_useful_for_your_favouri
 category: news
 date: 2010-10-21 20:53:46
+image: "/assets/images/2010/SMFLogo180.gif"
 excerpt: |
-    <p><a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2010/SMFLogo180.gif" height="150" width="150" class="right" alt="" /></a></p> 
     
     This year's _St Margarets Fair_ raised &pound;15,000 for our local schools and charities.  Thank you for your support.
     

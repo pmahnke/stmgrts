@@ -6,9 +6,8 @@ commentfile: 2016-08-14-operation-starfish-continued
 author: "Martyn Day"
 category: around_town
 date: 2016-08-14 08:26:58
+image: "/assets/images/2016/STARFISH3_decoy_site_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/STARFISH3_decoy_site.jpg" title="See larger version of - decoy site"><img src="/assets/images/2016/STARFISH3_decoy_site_thumb.jpg" width="150" height="99" alt="decoy site" class="photo right" /></a>
-
     In July 1945, less than 2 months after V.E Day, a general election was held in Great Britain, the first since 1935. Amongst the candidates nominated in Richmond was Squadron Leader Norman Howard, who was working at the time for the Air Ministry. Unlike other candidates who were able to promote themselves with full profiles and C.Vs all Sq/Leader Howard could say for himself is that during the war he worked for a <em>'hush-hush'</em> department... and so he did.
 ---
 

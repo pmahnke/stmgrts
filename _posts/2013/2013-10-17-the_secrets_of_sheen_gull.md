@@ -5,9 +5,8 @@ permalink: /archives/2013/10/the_secrets_of_sheen_gull.html
 commentfile: 2013-10-17-the_secrets_of_sheen_gull
 category: around_town
 date: 2013-10-17 21:49:47
+image: "/assets/images/2013/SHEENGULL_Isleworth_Ait_-_Osiers_on_bank_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/SHEENGULL_Isleworth_Ait_-_Osiers_on_bank.jpg" title="See larger version of - Isleworth Ait   Osiers on bank"><img src="/assets/images/2013/SHEENGULL_Isleworth_Ait_-_Osiers_on_bank_thumb.jpg" width="150" height="66" alt="Isleworth Ait   Osiers on bank" class="photo right" /></a>
-    
     
     If you travel by boat up the Thames towards Richmond you will pass along Syon Reach, with Kew Gardens on your left hand and Syon House on your right. Then, just as Old Isleworth comes into view through the trees, you will enter the strangely named Sheen Gull.
 

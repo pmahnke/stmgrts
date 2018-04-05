@@ -5,9 +5,8 @@ permalink: /archives/2011/08/event_reminder_thames_anglers_conservancy_the_annu.
 commentfile: 2011-08-17-event_reminder_thames_anglers_conservancy_the_annu
 category: around_town
 date: 2011-08-17 15:48:06
+image: "/assets/images/2011/annual-tac-summer-match-201_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/annual-tac-summer-match-201.jpg" title="See larger version of - Download the poster"><img src="/assets/images/2011/annual-tac-summer-match-201_thumb.jpg" width="150" height="211" alt="Download the poster" class="photo right" /></a>
-    
     A year has passed since the first summer match.  If you attended the first one, we are sure you will be here for the second and if you didn't why not come down and show some support. Whether you are fishing or saying hello you will be made most welcome.
     
     There will be 2 matches run at the same time.

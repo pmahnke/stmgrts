@@ -5,9 +5,8 @@ permalink: /archives/2007/02/event_reminder_27.html
 commentfile: 2007-02-27-event_reminder_27
 category: around_town
 date: 2007-02-27 08:11:44
+image: "/assets/images/2007/TurkstockII_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/TurkstockII.jpg" title="See larger version of - Turkstock II logo"><img src="/assets/images/2007/TurkstockII_thumb.jpg" width="150" height="61" alt="Turkstock II logo" class="photo right" /></a>
-    
     Forget Woodstock and Reading, the place to be this Friday is the Winchester Hall in St Margarets when the doors open promptly at 7.30pm for <a href="https://stmargarets.london/event/Concert/200702270210,">Turkstock II</a> a band fundraiser for St Stephen's CofE School.
      
     Last year's event raised a fantastic £600 for St Stephen's CofE School and this year's bash promises to be even bigger and better with four hot local bands. The line-ups are all St Margaret's bred talent, featuring dads from St Stephen's CofE School.

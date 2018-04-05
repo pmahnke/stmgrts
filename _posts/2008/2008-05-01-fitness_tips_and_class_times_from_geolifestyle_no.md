@@ -5,8 +5,8 @@ permalink: /archives/2008/05/fitness_tips_and_class_times_from_geolifestyle_no.h
 commentfile: 2008-05-01-fitness_tips_and_class_times_from_geolifestyle_no
 category: around_town
 date: 2008-05-01 10:39:51
+image: "/assets/images/2008/georgie-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
     #### How to improve fitness levels.
     

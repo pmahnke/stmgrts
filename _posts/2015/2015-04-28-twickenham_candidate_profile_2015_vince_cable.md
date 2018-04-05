@@ -5,9 +5,8 @@ permalink: /archives/2015/04/twickenham_candidate_profile_2015_vince_cable.html
 commentfile: 2015-04-28-twickenham_candidate_profile_2015_vince_cable
 category: news
 date: 2015-04-28 21:34:36
+image: "/assets/images/2015/Vince_Cable_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Vince_Cable_2015.jpg" title="See larger version of - Vince Cable"><img src="/assets/images/2015/Vince_Cable_2015_thumb.jpg" width="150" height="100" alt="Vince Cable" class="photo right" /></a>
-    
     Read Vince Cable's profile as a parliamentary candidate for Twickenham.
 
 ---

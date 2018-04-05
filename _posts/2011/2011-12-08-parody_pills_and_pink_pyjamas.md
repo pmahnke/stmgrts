@@ -5,9 +5,8 @@ permalink: /archives/2011/12/parody_pills_and_pink_pyjamas.html
 commentfile: 2011-12-08-parody_pills_and_pink_pyjamas
 category: around_town
 date: 2011-12-08 22:13:27
+image: "/assets/images/2011/PARODY_King_Wenceslas_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/PARODY_King_Wenceslas.jpg" title="See larger version of -  King Wenceslas"><img src="/assets/images/2011/PARODY_King_Wenceslas_thumb.jpg" width="150" height="197" alt=" King Wenceslas" class="photo right" /></a>
-
     Parody is one of those fine grammatical terms like anaphora, chiasmus and synedoche that English teachers understand and the rest of us don't.  Simply put a parody is a spoof or send-up by means of humorous, satirical or ironic imitation.  Ben Johnson sums it up rather nicely in his 1598 publication _'Every Man in His Humour'..._
 ---
 

@@ -5,8 +5,8 @@ permalink: /archives/2008/11/contacting_the_police.html
 commentfile: 2008-11-27-contacting_the_police
 category: around_town
 date: 2008-11-27 09:03:00
+image: "/assets/images/2008/police_number_200811-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/police_number_200811.jpg"><img src="/assets/images/2008/police_number_200811-thumb.jpg" width="150" height="104" alt="police number" class="photo right"/></a>
     
     
     

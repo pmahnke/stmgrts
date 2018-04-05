@@ -5,9 +5,8 @@ permalink: /archives/2015/12/st_margarets_community_website_2015_review.html
 commentfile: 2015-12-31-st_margarets_community_website_2015_review
 category: editorial
 date: 2015-12-31 10:06:05
+image: "/assets/images/2015/how_access_2015_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/how_access_2015.png" title="See larger version of - how access 2015"><img src="/assets/images/2015/how_access_2015_thumb.png" width="150" height="117" alt="how access 2015" class=" right" /></a>
-
     As 2015 comes to a close, we wanted to share some quick stats on the year that's gone by.
 ---
 

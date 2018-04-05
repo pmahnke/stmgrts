@@ -5,8 +5,8 @@ permalink: /archives/2009/04/the_turbulent_priest_from_st_peters_road.html
 commentfile: 2009-04-14-the_turbulent_priest_from_st_peters_road
 category: around_town
 date: 2009-04-14 21:52:31
+image: "/assets/images/2009/Stewart_Headlam-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/Stewart_Headlam.jpg"><img src="/assets/images/2009/Stewart_Headlam-thumb.jpg" width="96" height="150" alt="Rev Stewart Duckworth Headlam" class="photo right" /></a>
     
     
     Stewart Duckworth Headlam was the son of a Christian evangelist. He was born in Wavertree near Liverpool on 12<sup>th</sup> January 1847. After Eton, Headlam went to Cambridge University where he was taught Moral Philosophy by the radical preacher Frederick Maurice who believed that God would replace a "competitive, unjust society with a co-operative and egalitarian social order."

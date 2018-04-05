@@ -5,9 +5,8 @@ permalink: /archives/2010/09/sunday_dropin_workshops_at_orleans_house_gallery.ht
 commentfile: 2010-09-13-sunday_dropin_workshops_at_orleans_house_gallery
 category: around_town
 date: 2010-09-13 09:07:14
+image: "/assets/images/2010/martin_cheek_mosaic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/martin_cheek_mosaic.jpg" title="See larger version of - Martin Cheek Mosaic"><img src="/assets/images/2010/martin_cheek_mosaic_thumb.jpg" width="150" height="110" alt="Martin Cheek Mosaic" class="photo right" /></a>
-    
     Come and work with renowned mosaic artist Martin Cheek to create funky animals from fused glass. These will be used to decorate planters for the Croft Centre garden and will be on permanent display.
      
     Fused glass pieces, which are individually made by Martin, will be available in a wide range of shapes, colours and textures for the group to create their own animals with the theme of ‘above and below ground.’

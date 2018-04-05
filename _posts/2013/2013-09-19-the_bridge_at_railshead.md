@@ -5,9 +5,8 @@ permalink: /archives/2013/09/the_bridge_at_railshead.html
 commentfile: 2013-09-19-the_bridge_at_railshead
 category: around_town
 date: 2013-09-19 23:00:05
+image: "/assets/images/2013/RAILSHEAD_Railshead-Bridge---wide_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/RAILSHEAD_Railshead-Bridge---wide.jpg" title="See larger version of - Railshead Bridge "><img src="/assets/images/2013/RAILSHEAD_Railshead-Bridge---wide_thumb.jpg" width="150" height="75" alt="Railshead Bridge " class="photo right" /></a>
-    
     
     Once upon a time, long before St Margarets was even a twinkle in an estate agent's eye, a road ran through these parts from Twickenham to Isleworth alongside the Thames.  When it reached the River Crane just outside Old Isleworth, at a place called Railshead, there was a footbridge for the use of travellers. 600 years on and the bridge at Railshead still stands, bigger and stronger than it ever was, but still serving its original purpose, to help travellers on their way. Without realising it  the bridge has probably helped you on your way as well.
 

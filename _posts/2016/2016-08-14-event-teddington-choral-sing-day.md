@@ -5,9 +5,8 @@ permalink: /archives/2016/08/event-teddington-choral-sing-day.html
 commentfile: 2016-08-14-event-teddington-choral-sing-day
 category: around_town
 date: 2016-08-14 07:52:52
+image: "/assets/images/2016/September_Sing_Day_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/September_Sing_Day.png" title="See larger version of - September Sing Day"><img src="/assets/images/2016/September_Sing_Day_thumb.png" width="150" height="155" alt="September Sing Day" class="photo right" /></a>
-
     Why not start September with a Singing Day with Teddington Choral's Vocal Workshop with choruses from Mendelssohn's Elijah.
 ---
 

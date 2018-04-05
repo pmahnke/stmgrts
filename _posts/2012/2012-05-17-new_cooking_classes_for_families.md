@@ -5,9 +5,8 @@ permalink: /archives/2012/05/new_cooking_classes_for_families.html
 commentfile: 2012-05-17-new_cooking_classes_for_families
 category: around_town
 date: 2012-05-17 20:48:42
+image: "/assets/images/2012/curry-thumbnail_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/curry-thumbnail.jpg" title="See larger version of - curry "><img src="/assets/images/2012/curry-thumbnail_thumb.jpg" width="150" height="224" alt="curry " class="photo right" /></a>
-    
     
     <a href="https://stmargarets.london/directory/home_and_garden/201205171545">Tuck for Tots</a> is passionate about tasty home cooked food, healthy eating and families enjoying meal time together around the kitchen table.  Run by local Mum, Elaine Baxter, Tuck for Tots knows that all parents want what's best for their family but not all children are enthusiastic about food! The aim is to give Mums and Dads the know-how to create simple delicious meals that will be loved by all the family.
 

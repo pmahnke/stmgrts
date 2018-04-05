@@ -5,9 +5,8 @@ permalink: /archives/2010/11/event_reminder_picturing_science_exhibition.html
 commentfile: 2010-11-25-event_reminder_picturing_science_exhibition
 category: around_town
 date: 2010-11-25 21:18:10
+image: "/assets/images/2010/lowresscience_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/lowresscience.jpg" title="See larger version of - low-res science"><img src="/assets/images/2010/lowresscience_thumb.jpg" width="150" height="150" alt="low-res science" class="photo right" /></a>
-    
     <a href="https://stmargarets.london/event/exhibition/200705142637">From 4 December 2010 - 26 February 2011.</a>
     
     Disease, dissection, and Darwin become the subject for artists displaying at the Riverside Gallery, Richmond from 4<sup>th</sup> December 2010. Orleans House Gallery presents Picturing Science, an open exhibition which examines the collision between two harmonious and contrasting fields of symbolic representation, Art and Science.

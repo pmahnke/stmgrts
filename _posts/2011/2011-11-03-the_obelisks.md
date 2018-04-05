@@ -5,9 +5,8 @@ permalink: /archives/2011/11/the_obelisks.html
 commentfile: 2011-11-03-the_obelisks
 category: around_town
 date: 2011-11-03 20:46:41
+image: "/assets/images/2011/OBELISKS_Two-Obelisks_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/OBELISKS_Two-Obelisks.jpg" title="See larger version of - Two Obelisks"><img src="/assets/images/2011/OBELISKS_Two-Obelisks_thumb.jpg" width="150" height="112" alt="Two Obelisks" class="photo right" /></a>
-    
     
     About 20 years ago I was walking home along the towpath between Twickenham Bridge and Richmond Lock when an elderly man stopped me.
     

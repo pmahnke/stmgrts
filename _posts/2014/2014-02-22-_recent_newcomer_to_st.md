@@ -5,9 +5,8 @@ permalink: /archives/2014/02/_recent_newcomer_to_st.html
 commentfile: 2014-02-22-_recent_newcomer_to_st
 category: around_town
 date: 2014-02-22 11:01:00
+image: "/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/alexandertechniquestmargarets-logo.jpg" title="See larger version of - alexandertechniquestmargarets logo"><img src="/assets/images/2014/alexandertechniquestmargarets-logo_thumb.jpg" width="150" height="107" alt="alexandertechniquestmargarets logo" class="photo right" /></a>
-    
     Recent newcomer to St Margarets, Alexander Technique teacher Bronwyn Baud is now resident and available all week in St Margarets.
     
     Bronwyn trained at the Brighton Alexander Training Centre and since qualifying in 1997, has had practices in Surrey and in Australia.  After recently returning to the UK , she chose to live and work in St Margarets.

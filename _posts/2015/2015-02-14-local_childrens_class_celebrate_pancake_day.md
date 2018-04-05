@@ -5,9 +5,8 @@ permalink: /archives/2015/02/local_childrens_class_celebrate_pancake_day.html
 commentfile: 2015-02-14-local_childrens_class_celebrate_pancake_day
 category: around_town
 date: 2015-02-14 07:53:27
+image: "/assets/images/2015/pancakes_catch-a-balls_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/pancakes_catch-a-balls.png" title="See larger version of - pancakes catch a balls"><img src="/assets/images/2015/pancakes_catch-a-balls_thumb.png" width="150" height="182" alt="pancakes catch a balls" class="photo right" /></a>
-    
     Catch-a-balls will be celebrating the week of Pancake Day by practicing tossing 'pancakes' in their classes.  Instead of batter and frying pans, a racquet and rubber disk will be used.
 
 ---

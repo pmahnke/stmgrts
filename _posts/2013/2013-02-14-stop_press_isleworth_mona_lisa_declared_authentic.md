@@ -5,9 +5,8 @@ permalink: /archives/2013/02/stop_press_isleworth_mona_lisa_declared_authentic.h
 commentfile: 2013-02-14-stop_press_isleworth_mona_lisa_declared_authentic
 category: news
 date: 2013-02-14 21:26:06
+image: "/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa.jpg" title="See larger version of - CU Isleworth Mona Lisa"><img src="/assets/images/2013/MONA_CU-Isleworth-Mona-Lisa_thumb.jpg" width="150" height="116" alt="CU Isleworth Mona Lisa" class="photo right"/></a>
-    
     After exhaustive tests experts have just declared the so-called 'Isleworth Mona Lisa' as Leonardo Da Vinci's original version of the famous 'Mona Lisa' now in the Louvre in Paris.
     
     David Feldman, vice-president of the Mona Lisa foundation, an international group set up to demonstrate the painting's authenticity said, "When we add these new findings to the wealth of scientific and physical studies we already have, I believe anyone will find the evidence of a Leonardo attribution overwhelming."

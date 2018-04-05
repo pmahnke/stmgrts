@@ -5,9 +5,8 @@ permalink: /archives/2014/04/the_new_georgians_exhibition_3_may_to_27_july_2014.
 commentfile: 2014-04-30-the_new_georgians_exhibition_3_may_to_27_july_2014
 category: 
 date: 2014-04-30 22:07:23
+image: "/assets/images/2014/ORLEANS_Mademoiselle-Cucko_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/ORLEANS_Mademoiselle-Cucko.jpg" title="See larger version of - Mademoiselle Cucko"><img src="/assets/images/2014/ORLEANS_Mademoiselle-Cucko_thumb.jpg" width="150" height="188" alt="Mademoiselle Cucko" class="photo right" /></a>
-    
     <a href="https://stmargarets.london/event/exhibition/200705144423">The New Georgians</a> celebrates the tercentenary of the Hanoverian accession. This exhibition, part of the Richmond upon Thames Georgian Festival, commemorates this historical event through a display exploring the life and local links of Queen Caroline of Ansbach (1683-1737), wife of King George II. Caroline lavishly dined in the Octagon Room on a visit here in 1729. Her husband's mistress, Henrietta Howard, lived at the nearby Marble Hill House.
 
 ---

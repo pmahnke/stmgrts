@@ -5,9 +5,8 @@ permalink: /archives/2010/09/himalayan_balsam.html
 commentfile: 2010-09-10-himalayan_balsam
 category: around_town
 date: 2010-09-10 08:33:50
+image: "/assets/images/2010/220px-Impatiens_Glandulifera_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/220px-Impatiens_Glandulifera.jpg" title="See larger version of - Impatiens Glandulifera"><img src="/assets/images/2010/220px-Impatiens_Glandulifera_thumb.jpg" width="112" height="150" alt="Impatiens Glandulifera" class="photo right" /></a>
-    
     That is the story of Himalayan Balsam (<em>Impatiens glandulifera)</em> A.K.A The Policeman's Helmet, Indian Touch-Me-Not, Pink Peril, Poor Man's Orchid or Ornamental Jewelweed.
     
 

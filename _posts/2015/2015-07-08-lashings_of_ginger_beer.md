@@ -5,9 +5,8 @@ permalink: /archives/2015/07/lashings_of_ginger_beer.html
 commentfile: 2015-07-08-lashings_of_ginger_beer
 category: around_town
 date: 2015-07-08 20:30:22
+image: "/assets/images/2015/GINGERBEER_Denis_Compton_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/GINGERBEER_Denis_Compton.jpg" title="See larger version of - Denis Compton"><img src="/assets/images/2015/GINGERBEER_Denis_Compton_thumb.jpg" width="150" height="195" alt="Denis Compton" class="photo right" /></a>
-    
     Of all the summer sounds of my suburban childhood - the spine tingling theme to "Dick Barton - Special Agent", the clack of leather against willow as the brylcreemed Denis Compton showed the rest of the world how to play cricket - the one I most clearly remember is the woman next door constantly asking me if I wanted a Ginger Beer Plant. <em>"Do you want to make some ginger beer, ducks?"</em>
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2018/02/half_term_at_orleans_house_gallery.html
 commentfile: 2018-02-03-half_term_at_orleans_house_gallery
 category: around_town
 date: 2018-02-03 14:06:38
+image: "/assets/images/2018/ORLEANS_feb2018-poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/ORLEANS_feb2018-poster.jpg" title="Click for a larger image"><img src="/assets/images/2018/ORLEANS_feb2018-poster-thumb.jpg" width="150" alt="Image - ORLEANS_feb2018-poster"  class="photo right"/></a>
-
     Join us for a week of workshops inspired by our Stables Gallery exhibition, Water Water Everywhere. We will explore all things aquatic from the ocean to the Thames and the creatures who live there with print, paint, 3D creations and more!
 
 ---

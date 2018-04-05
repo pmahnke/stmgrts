@@ -5,8 +5,8 @@ permalink: /archives/2009/01/why_i_love_that_twang_thang.html
 commentfile: 2009-01-20-why_i_love_that_twang_thang
 category: around_town
 date: 2009-01-20 21:33:05
+image: "/assets/images/2009/Shudders_Diner-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/Shudders_Diner.jpg"><img src="/assets/images/2009/Shudders_Diner-thumb.jpg" width="101" height="150" alt="Nark Drool and the Shudders" class="photo right"  /></a>
     
     
     We are old now and grey, but we still remember those arcane names that we mumbled to each other all those years ago in dreary school playgrounds - Fender, Gibson, Guild and Gretsch, Watkins Copicat, Binson Echolette. Say them aloud and you can still hear their poetry.

@@ -5,9 +5,8 @@ permalink: /archives/2011/03/kate_and_will_cheese_plate_contest_from_yellowwedg.
 commentfile: 2011-03-31-kate_and_will_cheese_plate_contest_from_yellowwedg
 category: around_town
 date: 2011-03-31 20:00:08
+image: "/assets/images/2011/YWC_william_kate_competitio_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/YWC_william_kate_competitio.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/YWC_william_kate_competitio_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
-
     <em>Excited about the Royal Wedding?
     Looking for a fun activity for the
     Easter Holidays?</em>

@@ -5,9 +5,8 @@ permalink: /archives/2013/01/river_crane_pollution_fish_restocking_december_201.
 commentfile: 2013-01-17-river_crane_pollution_fish_restocking_december_201
 category: news
 date: 2013-01-17 20:54:48
+image: "/assets/images/2013/press-release-113-fish-restock-3_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/press-release-113-fish-restock-3.jpg" title="See larger version of - press release 113 fish restock 3"><img src="/assets/images/2013/press-release-113-fish-restock-3_thumb.jpg" width="150" height="99" alt="press release 113 fish restock 3" class="photo right" /></a>
-    
     In late October last year the River Crane and the Duke of Northumberland's River were both devastated by the uncontrolled discharge of an enormous volume of raw sewage.  The incident occurred due to the blockage of a large Thames Water sewer main and the subsequent release of effluent into the river rather than allowing it to flood Heathrow Airport.
     
 

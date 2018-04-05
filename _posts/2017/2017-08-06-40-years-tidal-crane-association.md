@@ -5,9 +5,8 @@ permalink: /archives/2017/08/40-years-tidal-crane-association.html
 commentfile: 2017-08-06-40-years-tidal-crane-association
 category: news
 date: 2017-08-06 16:48:18
+image: "/assets/images/2017/40CRANE_Then-the-original-river-clearers-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/40CRANE_Then-the-original-river-clearers.jpg" title="Click for a larger image"><img src="/assets/images/2017/40CRANE_Then-the-original-river-clearers-thumb.jpg" width="150" alt="Image - 40CRANE_Then-the-original-river-clearers"  class="photo right"/></a>
-
     Crane, yes. But tidal Crane? You could be forgiven for not knowing that the river we glimpse at Moormead and alongside the Cole Park Allotments is tidal in its final stretch from (roughly) the Northcote Road footbridge to the Thames.
 ---
 

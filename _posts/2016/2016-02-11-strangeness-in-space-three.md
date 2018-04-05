@@ -5,9 +5,8 @@ permalink: /archives/2016/02/strangeness-in-space-three.html
 commentfile: 2016-02-11-strangeness-in-space-three
 category: news
 date: 2016-02-11 20:11:59
+image: "/assets/images/2016/strangeness-in-spacelogo-380_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/strangeness-in-spacelogo-380.png" title="See larger version of - strangeness in space logo"><img src="/assets/images/2016/strangeness-in-spacelogo-380_thumb.png" width="150" height="151" alt="strangeness in space logo" class=" right" /></a>
-
     A brand new episode of Strangeness in Space, the FREE fan funded sci-fi comedy audio adventure, starring Sophie Aldred and Trev and Simon and produced by Clare Eden, will be released on Saturday, 13<sup>th</sup> February 2016 at 9.30am.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/05/event_reminder_beep_beep_family_dropin_17_may_2015.
 commentfile: 2015-05-14-event_reminder_beep_beep_family_dropin_17_may_2015
 category: around_town
 date: 2015-05-14 22:09:41
+image: "/assets/images/2015/orleans-family_event_17May_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/orleans-family_event_17May.jpg" title="See larger version of - orleans family event 17May"><img src="/assets/images/2015/orleans-family_event_17May_thumb.jpg" width="150" height="212" alt="orleans family event 17May" class="photo right" /></a>
-    
     Come and join artist Michelle Reader to make some transport inspired artwork and find out about our upcoming exhibition 'Beep Beep! Trains, Planes and Automobiles'.
     
 

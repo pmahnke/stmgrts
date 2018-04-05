@@ -5,9 +5,8 @@ permalink: /archives/2015/06/event_reminder_kelvin_christiane_all_star_big_band.
 commentfile: 2015-06-01-event_reminder_kelvin_christiane_all_star_big_band
 category: around_town
 date: 2015-06-01 22:04:25
+image: "/assets/images/2015/Kelvin_Christiane_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2015/Kelvin_Christiane.JPG" title="See larger version of - Kelvin Christiane"><img src="/assets/images/2015/Kelvin_Christiane_thumb.JPG" width="150" alt="Kelvin Christiane" class="photo right" /></a>
-    
     Blasting off the new months jazz at the Twickenham Jazz Club is the ever popular sound of Twickenham's own home grown Kelvin Christiane All Star Big Band.
 
 ---

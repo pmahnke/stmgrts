@@ -5,9 +5,8 @@ permalink: /archives/2016/11/carriage-rides-in-richmond-park.html
 commentfile: 2016-11-12-carriage-rides-in-richmond-park
 category: around_town
 date: 2016-11-12 08:21:40
+image: "/assets/images/2016/horse-drawn-carraige_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/horse-drawn-carraige.jpg" title="See larger version of - horse drawn carraige"><img src="/assets/images/2016/horse-drawn-carraige_thumb.jpg" width="150" height="150" alt="horse drawn carraige" class="photo right" /></a>
-
     This Festive Season, the Royal Parks Foundation has teamed up with Operation Centaur to bring you a six-person Park Brake drawn by our majestic Shire Horses, allowing you to experience Richmond Park like never before.
 
 ---

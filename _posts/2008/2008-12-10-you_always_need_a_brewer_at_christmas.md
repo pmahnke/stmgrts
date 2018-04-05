@@ -5,8 +5,8 @@ permalink: /archives/2008/12/you_always_need_a_brewer_at_christmas.html
 commentfile: 2008-12-10-you_always_need_a_brewer_at_christmas
 category: around_town
 date: 2008-12-10 15:39:52
+image: "/assets/images/2008/book_dict-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/book_dict.jpg"><img src="/assets/images/2008/book_dict-thumb.jpg" width="93" height="150" alt="17th Edition" class="photo right" /></a>
     
     
     One of the most interesting and useful books that you will ever read was first compiled in 1870 by Dr. Ebenezer Cobham Brewer. While writing a series of educational books for children Dr Brewer began to sense there was a new type of reader out there, literate but not educated in the academic sense who wanted more from books than just pure entertainment. What they were looking for, Dr Brewer surmised, was self-improvement, moral guidance and the satisfaction of simple curiosity and enquiry.

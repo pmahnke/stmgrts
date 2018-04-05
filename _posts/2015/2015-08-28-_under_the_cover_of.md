@@ -5,9 +5,8 @@ permalink: /archives/2015/08/_under_the_cover_of.html
 commentfile: 2015-08-28-_under_the_cover_of
 category: around_town
 date: 2015-08-28 19:21:06
+image: "/assets/images/2015/Treasure_Chest_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Treasure_Chest_poster.jpg" title="See larger version of - Treasure Chest poster"><img src="/assets/images/2015/Treasure_Chest_poster_thumb.jpg" width="150" height="212" alt="Treasure Chest poster" class="photo right" /></a>
-    
     Under the cover of darkness pirates invaded St Margarets last night!
     
     A notorious pirate gang has hidden treasure all over St Margarets...

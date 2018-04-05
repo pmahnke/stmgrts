@@ -5,9 +5,8 @@ permalink: /archives/2016/06/event-st-margarets-fair-2016.html
 commentfile: 2016-06-19-event-st-margarets-fair-2016
 category: around_town
 date: 2016-06-19 15:03:54
+image: "/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/St-Margarets-Fair-Programme-2016.jpg" title="This year's Fair artwork  by local illustrator Ali Pye"><img src="/assets/images/2016/St-Margarets-Fair-Programme-2016_thumb.jpg" width="150" height="208" alt="This year's Fair artwork  by local illustrator Ali Pye" class="photo right" /></a>
-
     The St Margarets Fair is back on Moormead on Saturday 9 July - a great day of family fun guaranteed.
 
     The music line up is now confirmed with sets from funk band Groove Manoova, local lads The Groovy Boys, acoustic duo Rock The Line, X-Factor contestant Anelisa Von Tease and more.

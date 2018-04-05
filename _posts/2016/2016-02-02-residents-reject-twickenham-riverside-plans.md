@@ -5,9 +5,8 @@ permalink: /archives/2016/02/residents-reject-twickenham-riverside-plans.html
 commentfile: 2016-02-02-residents-reject-twickenham-riverside-plans
 category: news
 date: 2016-02-02 22:22:33
+image: "/assets/images/2016/view_from_king_street_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/view_from_king_street.jpg" title="See larger version of - view from king street"><img src="/assets/images/2016/view_from_king_street_thumb.jpg" width="150" height="66" alt="view from king street" class="photo right" /></a>
-
     Well, the residents had their say regarding the Council's plans for regenerating the Twickenham riverside, and it wasn't very pretty.  In fact, every single question's response was overwhelmingly negative -- 92% of surveys were against the proposal.
 ---
 

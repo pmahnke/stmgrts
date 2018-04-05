@@ -6,8 +6,8 @@ commentfile: 2018-02-10-march-of-the-women
 category: around_town
 author: "Martyn Day"
 date: 2018-02-10 15:16:00
+image: "/assets/images/2018/WOMENMARCH_Suffragettes-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/WOMENMARCH_Suffragettes.jpg" title="Click for a larger image"><img src="/assets/images/2018/WOMENMARCH_Suffragettes-thumb.jpg" width="150" alt="Image - WOMENMARCH_Suffragettes"  class="photo right"/></a>
     <blockquote>"Shout, shout, up with your song!
     Cry with the wind, for the dawn is breaking."</blockquote>
 

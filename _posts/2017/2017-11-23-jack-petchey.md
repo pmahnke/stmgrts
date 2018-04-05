@@ -6,9 +6,8 @@ commentfile: 2017-11-23-jack-petchey
 category: around_town
 author: Martyn Day
 date: 2017-11-23 19:26:04
+image: "/assets/images/2017/PETCHEY_Jack-Petchey-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/PETCHEY_Jack-Petchey.jpg" title="Click for a larger image"><img src="/assets/images/2017/PETCHEY_Jack-Petchey-thumb.jpg" width="250" alt="Image - PETCHEY_Jack-Petchey"  class="photo right"/></a>
-
     Most people reading this won't know who Sir Jack Petchey is but there is a good chance that their children will. Most these people wouldn't know that Jack Petchey was born in Plaistow in 1925 and learned his considerable business skills selling fruit and veg off a barrow in a street market in east London... and they wouldn't know that over the years he has given away nearly &pound;100 million pounds to thousands of young Londoners to inspire and raise their aspirations and celebrate their achievements.
 
 ---

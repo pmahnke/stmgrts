@@ -5,8 +5,8 @@ permalink: /archives/2011/01/churchills_helping_the_st_margarets_community_in_2.
 commentfile: 2011-01-11-churchills_helping_the_st_margarets_community_in_2
 category: news
 date: 2011-01-11 08:48:46
+image: "/assets/images/2011/churchill_lynn-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/churchill_lynn.jpg"><img alt="churchill_lynn.jpg" src="/assets/images/2011/churchill_lynn-thumb.jpg" width="152" height="289" class="right" /></a>
     
     <a href="https://stmargarets.london/directory/estate_agent/201012150731">Churchills Estate Agents</a> of St Margarets would like to thank all the local residents for their support for the <a href="https://stmargarets.london/directory/charity/200702020407">Lynn's Bowel Cancer</a> Campaign Tombola at the St Margarets Christmas Fair in December.  We raised a very handsome sum for this great cause and we hope to continue this support into 2011. In turbulent economic times we feel it is important to help our fellow independent businesses and charities and every effort goes a long way.
 

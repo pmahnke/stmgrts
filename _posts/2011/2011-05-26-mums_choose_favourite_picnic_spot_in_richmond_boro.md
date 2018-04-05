@@ -5,9 +5,8 @@ permalink: /archives/2011/05/mums_choose_favourite_picnic_spot_in_richmond_boro.
 commentfile: 2011-05-26-mums_choose_favourite_picnic_spot_in_richmond_boro
 category: news
 date: 2011-05-26 22:24:35
+image: "/assets/images/2011/fss-tea-party2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/fss-tea-party2.jpg" title="See larger version of - Mums, tots and teddies celebrate by holding a Teddy Bears Picnic in the winning park"><img src="/assets/images/2011/fss-tea-party2_thumb.jpg" width="150" height="108" alt="Mums, tots and teddies celebrate by holding a Teddy Bears Picnic in the winning park." class="photo right" /></a>
-    
     Local survey reveals _Marble Hill Park_ is most popular picnic spot in the borough
     
     A survey, organised by local community web site For Sanity's Sake, asked its members (1,850) to vote for their Favourite Family Picnic Spot in the borough of Richmond.

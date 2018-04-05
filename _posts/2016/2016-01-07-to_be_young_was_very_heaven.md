@@ -5,9 +5,8 @@ permalink: /archives/2016/01/to_be_young_was_very_heaven.html
 commentfile: 2016-01-07-to_be_young_was_very_heaven
 category: around_town
 date: 2016-01-07 21:35:15
+image: "/assets/images/2016/FRIDAY_Stevie_Wright_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/FRIDAY_Stevie_Wright.jpg" title="See larger version of - Stevie Wright"><img src="/assets/images/2016/FRIDAY_Stevie_Wright_thumb.jpg" width="150" height="232" alt="Stevie Wright" class="photo right" /></a>
-
     On the 27th December 2015 - in the middle of those strange echoing days between Christmas and New Year - a former pop star died. There won't be any memorial tribute concerts for him and there will be few who recognise his name but he was, in part, responsible for one of the greatest pop records of the 1960's.
 
 ---

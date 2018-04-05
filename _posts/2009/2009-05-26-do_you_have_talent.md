@@ -5,8 +5,8 @@ permalink: /archives/2009/05/do_you_have_talent.html
 commentfile: 2009-05-26-do_you_have_talent
 category: around_town
 date: 2009-05-26 13:28:02
+image: "/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif"
 excerpt: |
-    <a href="/assets/images/2009/TwickenhamFestivalFamilyFunDay.gif"><img src="/assets/images/2009/TwickenhamFestivalFamilyFunDay-thumb.gif" width="105" height="150" alt="Family Fun Day poster" class="photo right" /></a>
     
     
     

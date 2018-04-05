@@ -5,9 +5,8 @@ permalink: /archives/2016/03/turner-house-gets-civic-pride-award.html
 commentfile: 2016-03-24-turner-house-gets-civic-pride-award
 category: news
 date: 2016-03-24 21:30:32
+image: "/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="150" height="86" alt="Turners Sandycombe Lodge" class="photo right" /></a>
-
     The London Borough of Richmond upon Thames has bestowed a Civic Pride Award of &pound;5,000 to enable Turner's House Trust to have its collection of prints, drawings, watercolours and oils professionally catalogued.
 ---
 

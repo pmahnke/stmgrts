@@ -5,9 +5,8 @@ permalink: /archives/2016/03/st-stephens-primary-vacancies.html
 commentfile: 2016-03-19-st-stephens-primary-vacancies
 category: around_town
 date: 2016-03-19 08:00:08
+image: "/assets/images/2016/st-stephen_logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/st-stephen_logo.png" title="See larger version of - st stephen logo"><img src="/assets/images/2016/st-stephen_logo_thumb.png" width="150" height="77" alt="st stephen logo" class="right" /></a>
-
     We currently have Teacher Training Opportunities and a Graduate Placement Programme at St Stephen's Primary School. We also have a vacancy for a part-time Teaching and Learning Assistant.
 ---
 

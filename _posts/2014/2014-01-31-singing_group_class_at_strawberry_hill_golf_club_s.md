@@ -5,9 +5,8 @@ permalink: /archives/2014/01/singing_group_class_at_strawberry_hill_golf_club_s.
 commentfile: 2014-01-31-singing_group_class_at_strawberry_hill_golf_club_s
 category: around_town
 date: 2014-01-31 08:35:06
+image: "/assets/images/2014/helen_astrid_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/helen_astrid.jpg" title="See larger version of - helen astrid"><img src="/assets/images/2014/helen_astrid_thumb.jpg" width="150" height="226" alt="helen astrid" class="photo right" /></a>
-    
     _Would you like to improve your singing abilities and confidence? And have some fun? Develop an inner strength that goes well beyond the limits of natural talent and skill._
     
     Learn simple techniques in breathing, tuning, increasing your vocal range, freeing your voice, improving your confidence all whilst singing fabulous songs. Songs chosen include popular classics, folksongs and show songs. No ability to read music is necessary.

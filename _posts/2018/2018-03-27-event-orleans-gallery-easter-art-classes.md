@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-orleans-gallery-easter-art-classes.html
 commentfile: 2018-03-27-event-orleans-gallery-easter-art-classes
 category: around_town
 date: 2018-03-27 07:58:55
+image: "/assets/images/2018/easter_at_orleans-gallery-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/easter_at_orleans-gallery.jpg" title="Click for a larger image"><img src="/assets/images/2018/easter_at_orleans-gallery-thumb.jpg" width="150" alt="Image - easter_at_orleans-gallery"  class="photo right"/></a>
-
     Hop on down to Orleans House Gallery for an eggs-ellent Easter holiday art class!
 
     Looking for something to do with your child over school holidays? Hop on down to Orleans House Gallery and take part in one of their eggs-ellent classes.

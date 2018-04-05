@@ -5,9 +5,8 @@ permalink: /archives/2014/08/what_to_help_make_a_film.html
 commentfile: 2014-08-14-what_to_help_make_a_film
 category: around_town
 date: 2014-08-14 22:31:21
+image: "/assets/images/2014/IsabellaPlantationV2-2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/IsabellaPlantationV2-2.jpg" title="See larger version of - IsabellaPlantationV2 2"><img src="/assets/images/2014/IsabellaPlantationV2-2_thumb.jpg" width="150" height="211" alt="IsabellaPlantationV2 2" class="photo right" /></a>
-    
     *The Isabella Plantation Access Project*
     
     

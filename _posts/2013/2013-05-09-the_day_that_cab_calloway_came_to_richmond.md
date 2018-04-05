@@ -5,9 +5,8 @@ permalink: /archives/2013/05/the_day_that_cab_calloway_came_to_richmond.html
 commentfile: 2013-05-09-the_day_that_cab_calloway_came_to_richmond
 category: around_town
 date: 2013-05-09 22:54:25
+image: "/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/CALLOWAY_Cab_Calloway.png" title="See larger version of -  Cab Calloway"><img src="/assets/images/2013/CALLOWAY_Cab_Calloway_thumb.png" width="150" height="157" alt=" Cab Calloway" class="photo right" /></a>
-    
     
     The argument about who created rock 'n' roll music and who first recorded it has been rattling on since Trixie Smith released _"My Man Rocks Me (With One Steady Roll)"_ in 1922. Whether it was the Boswell Sisters with _"Rock and Roll"_ in 1934, "Rockin' and Rollin'" by Charlie Gracie in 1952 or Bill Haley and _"Rock Around the Clock"_ in 1955, there have been many shoulders pushing at the boogie woogie wheel - and on December 2<sup>nd</sup> 1952 one of the greatest early rock pioneers came to Richmond. His name was Cab Calloway - and he was opening a clothes shop.
     

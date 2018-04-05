@@ -5,9 +5,8 @@ permalink: /archives/2014/11/event_reminder_the_christmas_shopping_weekend_at_o.
 commentfile: 2014-11-12-event_reminder_the_christmas_shopping_weekend_at_o
 category: around_town
 date: 2014-11-12 21:37:37
+image: "/assets/images/2014/christmas_image_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/christmas_image.jpg" title="See larger version of - christmas image"><img src="/assets/images/2014/christmas_image_thumb.jpg" width="150" height="145" alt="christmas image" class="photo right" /></a>
-
     With top designers, local makers, festive food and stylish things for your home, <a href="/event/event/200705144731">The Christmas Shopping Weekend at Orleans House Gallery</a> is this year bigger than ever. Aside from the stunning range of gifts on sale there will be a host of activities for the whole family.
 
 ---

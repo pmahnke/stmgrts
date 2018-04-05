@@ -5,9 +5,8 @@ permalink: /archives/2010/12/the_queen_of_screams_lived_here.html
 commentfile: 2010-12-02-the_queen_of_screams_lived_here
 category: around_town
 date: 2010-12-02 22:04:14
+image: "/assets/images/2010/IP_portrait_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/IP_portrait.jpg" title="See larger version of - Ingrid Pitt"><img src="/assets/images/2010/IP_portrait_thumb.jpg" width="150" height="187" alt="Ingrid Pitt" class="photo right" /></a>
-    
     A few weeks ago I wrote about Halloween and how the streets of St Margarets were crowded with young ghouls, ghosties and goblins. Today I report that the Mistress of them all -- the Queen of Screams and the Empress of the Undead is no longer with us.
     
     Ingrid Pitt died last week just two days after her 73<sup>rd</sup> birthday. This well regarded actor, writer, former resident of St Margarets and star of such classic Hammer horror films as "The Vampire Lovers" and "Countess Dracula" was admired around the world. Her legions of fans included gentlemen of a certain age much taken by her stunning looks, her voluptuous figure and her frequent appearances as a "lusty, busty, predatory bloodsucker" and you don't get many of those walking down Crown Road these days.

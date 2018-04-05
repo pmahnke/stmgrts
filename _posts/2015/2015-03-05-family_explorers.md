@@ -5,9 +5,8 @@ permalink: /archives/2015/03/family_explorers.html
 commentfile: 2015-03-05-family_explorers
 category: 
 date: 2015-03-05 21:05:02
+image: "/assets/images/2015/Family_Explorers_Flyer_Spring_Term_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Family_Explorers_Flyer_Spring_Term_2015.jpg" title="See larger version of - Family Explorers Flyer Spring Term 2015"><img src="/assets/images/2015/Family_Explorers_Flyer_Spring_Term_2015_thumb.jpg" width="150" height="219" alt="Family Explorers Flyer Spring Term 2015" class="photo right" /></a>
-    
     _Weekly art sessions for under 5s and their carers._
     
     Learn, play, and explore together in these exciting sessions which encourage creativity, curiosity and develop early communication.

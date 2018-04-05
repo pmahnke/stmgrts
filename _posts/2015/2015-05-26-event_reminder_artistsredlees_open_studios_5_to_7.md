@@ -5,9 +5,8 @@ permalink: /archives/2015/05/event_reminder_artistsredlees_open_studios_5_to_7.h
 commentfile: 2015-05-26-event_reminder_artistsredlees_open_studios_5_to_7
 category: around_town
 date: 2015-05-26 21:49:39
+image: "/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1.jpg" title="See larger version of - REDLEES INVITE BACK 2015 FINAL 1"><img src="/assets/images/2015/REDLEES-INVITE-BACK-2015-FINAL-1_thumb.jpg" width="150" height="105" alt="REDLEES INVITE BACK 2015 FINAL 1" class="photo right" /></a>
-    
     This <a href="https://stmargarets.london/event/show/200705145010">5 to 7 June</a> brings a popular and exciting event for your diary: the Artists@Redlees Open Studios with ceramics, glass, fine art, sculpture, jewellery, metalworks, photography, leather accessories and more...
 
 ---

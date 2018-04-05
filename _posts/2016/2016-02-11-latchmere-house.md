@@ -6,9 +6,8 @@ commentfile: 2016-02-11-latchmere-house
 category: around_town
 author: Martyn Day
 date: 2016-02-11 21:06:42
+image: "/assets/images/2016/LATCHMERE_Latchmere-house-resettlem-007_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/LATCHMERE_Latchmere-house-resettlem-007.jpg" title="See larger version of - Latchmere house"><img src="/assets/images/2016/LATCHMERE_Latchmere-house-resettlem-007_thumb.jpg" width="150" height="90" alt="Latchmere house" class="photo right" /></a>
-
     You may well have driven past the place, sitting behind its brick wall. You may have noticed the fencing and the <em>'Home Office Property'</em> signs. You may well have wondered what this large, well proportioned house sitting in a quiet, wooded corner in Ham was all about.  The former home of some Victorian well-to-do? A sanatorium? A top secret MI5 interrogation cage? A remand centre? Guess any of these options and you would have guessed right.
 ---
 

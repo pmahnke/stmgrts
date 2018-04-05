@@ -5,8 +5,8 @@ permalink: /archives/2010/04/give_us_yer_money_its_hocktide.html
 commentfile: 2010-04-15-give_us_yer_money_its_hocktide
 category: around_town
 date: 2010-04-15 22:00:23
+image: "/assets/images/2010/chuggers-thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/chuggers.png"><img alt="chuggers" src="/assets/images/2010/chuggers-thumb.png" width="150" height="150" class="photo right" /></a>
     
     _Monday and Tuesday 12<sup>th</sup> and 13<sup>th</sup> April_
     

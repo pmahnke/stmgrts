@@ -5,9 +5,8 @@ permalink: /archives/2016/03/new-park-northcote-avenue-recreational-ground.html
 commentfile: 2016-03-24-new-park-northcote-avenue-recreational-ground
 category: news
 date: 2016-03-24 20:29:20
+image: "/assets/images/2016/New-Nature-Reserve-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/New-Nature-Reserve-1.jpg" title="See larger version of - New Nature Reserve 1"><img src="/assets/images/2016/New-Nature-Reserve-1_thumb.jpg" width="150" height="112" alt="New Nature Reserve 1" class="photo right" /></a>
-
     Residents are hoping to transform the Northcote Avenue Recreation Ground, known locally as the 'Pit Park', into a landscaped area and nature reserve. Although just within the borough of Hounslow, the park faces Richmond across the River Crane, the middle of which marks the borough boundary. For this reason it has always been used by residents of North St Margarets as well as their Hounslow neighbours, being for many their nearest open space.
 
 ---

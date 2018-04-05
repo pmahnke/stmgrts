@@ -5,9 +5,8 @@ permalink: /archives/2011/09/support_david_walliams_thames_swim.html
 commentfile: 2011-09-09-support_david_walliams_thames_swim
 category: news
 date: 2011-09-09 14:53:08
+image: "/assets/images/2011/walliams_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/walliams.jpg" title="See larger version of - David Walliams"><img src="/assets/images/2011/walliams_thumb.jpg" width="150" height="112" alt="David Walliams" class="photo right" /></a>
-
     The actor David Walliams is swimming the 140 mile length of the Thames for Sports Relief.  He has caught the 'Thames tummy' and progress has slowed a bit, but he is expected to make it to the Twickenham/Richmond area Sunday or Monday.
 
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2006/05/visual_voices_s.html
 commentfile: 2006-05-06-visual_voices_s
 category: around_town
 date: 2006-05-06 14:45:33
+image: "/assets/images/2006/art_weight-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/art_weight.jpg"><img src="/assets/images/2006/art_weight-thumb.jpg" width="100" height="150" alt="Ursula White   Weight, Charcoal on paper, 1.20m x 1m" class="photo right"/></a>
     
     Caroline Horsbrugh, a local resident, is a member of a working group of artists who graduated from Surrey Institute of Art and Design in July 2000 and exhibit under the name 'Visual Voices'.  The members of the group come from different parts of the world; India, USA, France and Barbados, but manage to communicate and exhibit together regularly, their work creatively reflecting this diversity.  As the name 'Visual Voices' suggests each artist brings to the exhibition their own voice and view of the world.
     

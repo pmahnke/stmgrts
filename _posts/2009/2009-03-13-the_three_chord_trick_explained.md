@@ -5,8 +5,8 @@ permalink: /archives/2009/03/the_three_chord_trick_explained.html
 commentfile: 2009-03-13-the_three_chord_trick_explained
 category: around_town
 date: 2009-03-13 12:20:46
+image: "/assets/images/2009/bert_weedon-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/bert_weedon.jpg"><img src="/assets/images/2009/bert_weedon-thumb.jpg" width="106" height="150" alt="Bert Weedon" class="photo right" /></a>
     
     
     Back in the good old days when TV was black and white, records were mono and you could buy a Mars Bar, a Kit Kat and the latest Dickie Valentine single and still get change from a  'ten bob note' young men with a sense of destiny were teaching themselves to play the guitar. Everyone was doing it. Those who knew about these things said the guitar was an iconic symbol of the rise of the teenager.

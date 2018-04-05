@@ -5,9 +5,8 @@ permalink: /archives/2015/08/join_the_teddington_choral_society.html
 commentfile: 2015-08-28-join_the_teddington_choral_society
 category: around_town
 date: 2015-08-28 22:06:20
+image: "/assets/images/2015/TCS2015-poster_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/TCS2015-poster.png" title="See larger version of - TCS2015 poster"><img src="/assets/images/2015/TCS2015-poster_thumb.png" width="150" height="212" alt="TCS2015 poster" class="photo right" /></a>
-    
     Do you enjoy singing?  Come and join Teddington Choral Society, a friendly and welcoming local choir. Discover your voice and make new friends. Tenors & Basses especially welcome. Newcomers and Experienced singers equally welcome.
 
 ---

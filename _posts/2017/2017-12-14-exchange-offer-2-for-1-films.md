@@ -5,9 +5,8 @@ permalink: /archives/2017/12/exchange-offer-2-for-1-films.html
 commentfile: 2017-12-14-exchange-offer-2-for-1-films
 category: around_town
 date: 2017-12-14 09:41:18
+image: "/assets/images/2017/exchange-2-for-1-offer-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/exchange-2-for-1-offer-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/exchange-2-for-1-offer-2017-thumb.jpg" width="150" alt="Image - exchange-2-for-1-offer-2017"  class="photo right"/></a>
-
     Join us this festive season at The Exchange Twickenham for some classic Christmas films!
 
     We'll be screening Elf and White Christmas and would like to extend an offer of 2 For 1 tickets

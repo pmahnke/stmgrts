@@ -5,9 +5,8 @@ permalink: /archives/2017/02/event-Botanical Beauty-2017.html
 commentfile: 2017-02-24-event-Botanical Beauty-2017
 category: around_town
 date: 2017-02-24 20:03:35
+image: "/assets/images/2017/Autumn-Fragments-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Autumn-Fragments.jpg" title="Click for a larger image"><img src="/assets/images/2017/Autumn-Fragments-thumb.jpg" width="150" alt="Image - Autumn-Fragments"  class="photo right"/></a>
-
     An exhibition which celebrates contemporary botanical art and illustration should blossom with success when it opens at the Orleans House Gallery run Riverside Gallery in Richmond on Saturday, 25 February 2017.
 
 ---

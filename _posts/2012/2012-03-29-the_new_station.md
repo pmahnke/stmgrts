@@ -5,9 +5,8 @@ permalink: /archives/2012/03/the_new_station.html
 commentfile: 2012-03-29-the_new_station
 category: around_town
 date: 2012-03-29 22:01:43
+image: "/assets/images/2012/AB_Steam_Train2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/AB_Steam_Train2.jpg" title="See larger version of - Steam Train"><img src="/assets/images/2012/AB_Steam_Train2_thumb.jpg" width="150" height="98" alt="Steam Train" class="photo right" /></a>
-    
     <em>... or how we nearly came to be living in Ailsa Bridge.</em>
     
     In the 1870's St Margarets had everything that any small self respecting Victorian suburb might wish for - some shops, a church or two and a pub if you needed one.  Although the now familiar streets of two-ups and two-down 'villas' hadn't been built yet, there were still plenty of smart, well appointed houses on tree lined avenues to admire. St Margarets even had a railway line running out from London westwards towards Reading. There was only thing that it didn't have - a railway station... and this really ticked off the local populace...

@@ -5,9 +5,8 @@ permalink: /archives/2017/08/event-history-of-marble-hill.html
 commentfile: 2017-08-31-event-history-of-marble-hill
 category: around_town
 date: 2017-08-31 21:16:08
+image: "/assets/images/2017/history-marble-hill-Exhibition-flyer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/history-marble-hill-Exhibition-flyer.jpg" title="Click for a larger image"><img src="/assets/images/2017/history-marble-hill-Exhibition-flyer-thumb.jpg" width="150" alt="Image - history-marble-hill-Exhibition-flyer"  class="photo right"/></a>
-
     Come along to the launch of a month long exhibition celebrating 115 years of Marble Hill as a Public Park.
 
     It will take place at the Arthur Burrell Room, Twickenham Library, Garfield Road, Twickenham TW1 3JT on Saturday 9<sup>th</sup> September.

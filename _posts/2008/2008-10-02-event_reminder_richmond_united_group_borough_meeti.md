@@ -5,8 +5,8 @@ permalink: /archives/2008/10/event_reminder_richmond_united_group_borough_meeti.
 commentfile: 2008-10-02-event_reminder_richmond_united_group_borough_meeti
 category: around_town
 date: 2008-10-02 21:35:14
+image: "/assets/images/2008/rug_logo_thumb.gif"
 excerpt: |
-    <img src="/assets/images/2008/rug_logo_thumb.gif" width="168" height="106" alt="RUG " class="photo right" />
     
     Tuesday 14 October 8.00 pm
     

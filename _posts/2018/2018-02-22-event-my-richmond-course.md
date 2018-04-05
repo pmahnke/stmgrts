@@ -5,9 +5,8 @@ permalink: /archives/2018/02/event-my-richmond-course.html
 commentfile: 2018-02-22-event-my-richmond-course
 category: around_town
 date: 2018-02-22 10:03:33
+image: "/assets/images/2018/My-Richmond-Poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/My-Richmond-Poster.jpg" title="Click for a larger image"><img src="/assets/images/2018/My-Richmond-Poster-thumb.jpg" width="150" alt="Image - My-Richmond-Poster"  class="photo right"/></a>
-
     My Richmond is a month-long course taking place on consecutive Saturday mornings from 24 February at Castelnau Library. Each week we will explore a different aspect of our local history, slowly building up, a model of our local area, as well as our knowledge of the rich heritage around us.
 ---
 

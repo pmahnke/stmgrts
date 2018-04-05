@@ -5,10 +5,8 @@ permalink: /archives/2012/05/events_june_2012_half_term_orleans_house_gallery.ht
 commentfile: 2012-05-03-events_june_2012_half_term_orleans_house_gallery
 category: around_town
 date: 2012-05-03 17:24:09
+image: "/assets/images/2012/6-9s_c_medium_thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2012/6-9s_c_medium.jpg" title="See larger version of - child with art"><img src="/assets/images/2012/6-9s_c_medium_thumb.jpg" width="150" height="200" alt="child with art" class="photo right" /></a>
-    
     
     _Activities for Children and Young People_
     

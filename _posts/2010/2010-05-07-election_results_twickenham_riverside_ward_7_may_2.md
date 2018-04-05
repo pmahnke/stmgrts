@@ -5,8 +5,8 @@ permalink: /archives/2010/05/election_results_twickenham_riverside_ward_7_may_2.
 commentfile: 2010-05-07-election_results_twickenham_riverside_ward_7_may_2
 category: news
 date: 2010-05-07 14:29:08
+image: "/assets/images/2010/2010_ward_votes_tr-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/2010_ward_votes_tr.jpg"><img src="/assets/images/2010/2010_ward_votes_tr-thumb.jpg" width="300" height="130" alt="votes by candidate" class="photo center" /></a>
     
     
     Conservative Party candidates Susan Chappell [2473 votes], Scott Naylor [2283] and Samantha Salvoni [2295] won seats from the Liberal Democrates cabinet members David Trigg and Denise Carr in the Twickenham Riverside ward.

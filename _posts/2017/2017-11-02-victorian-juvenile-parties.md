@@ -6,9 +6,8 @@ commentfile: 2017-11-02-victorian-juvenile-parties
 category: around_town
 author: Martyn Day
 date: 2017-11-02 20:21:08
+image: "/assets/images/2017/JUVENILEPARTIES_childrens-party-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/JUVENILEPARTIES_childrens-party.jpg" title="Click for a larger image"><img src="/assets/images/2017/JUVENILEPARTIES_childrens-party-thumb.jpg" width="150" alt="Image - JUVENILEPARTIES_childrens-party"  class="photo right"/></a>
-
     The Victorians wouldn't be much use to you if you are organising a school disco, a Halloween <em>'sleep-over'</em> or even Guy Fawkes fireworks in the back garden - but ask them to lend a hand with what they called <em>'Juvenile Parties'</em> and you wouldn't be able to stop them.
 
 ---

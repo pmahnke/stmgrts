@@ -5,8 +5,8 @@ permalink: /archives/2011/05/dylan_at_70_i_told_bob_dylan_he_was_dead.html
 commentfile: 2011-05-24-dylan_at_70_i_told_bob_dylan_he_was_dead
 category: around_town
 date: 2011-05-24 09:53:40
+image: "/assets/images/2011/bobdylan_nashvilleskyline-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/bobdylan_nashvilleskyline.jpg"><img src="/assets/images/2011/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
     
     
     In the summer of 1969 I told Bob Dylan he was dead. He hadn't heard the news at the time but he didn't appear to be too bothered. Perhaps, like the rest of us who had made it through the Sixties, Bob had become inured to rock deaths - including his own. Since Buddy Holly, Ritchie Valens and the Big Bopper had died in that plane crash in February 1959 a whole gang of rockers had joined the great tour bus in the sky - Eddie Cochran, Otis Redding, the Bar-Kays, Brian Jones, Johnny Kidd, Sam Cooke, Bobby Fuller, Johnny Burnette, Joe Meek, Frankie Lymon and countless others. There was one major difference however. They really were dead and Bob Dylan wasn't but it didn't matter. The story going round in the summer of '69 said he was and the rumour carried just enough fact to make it seem plausible.

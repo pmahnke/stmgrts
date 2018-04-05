@@ -5,9 +5,8 @@ permalink: /archives/2015/05/event_reminder_richmond_park_reflections_10_june_2.
 commentfile: 2015-05-08-event_reminder_richmond_park_reflections_10_june_2
 category: around_town
 date: 2015-05-08 20:39:48
+image: "/assets/images/2015/holly-lodge_reflections-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/holly-lodge_reflections-poster.jpg" title="See larger version of - holly lodge reflections poster"><img src="/assets/images/2015/holly-lodge_reflections-poster_thumb.jpg" width="150" height="207" alt="holly lodge reflections poster" class="photo right" /></a>
-    
     A very special evening of music and entertainment featuring international opera stars and renowned musicians with a special guest appearance by the Tiffinians, the a cappella boys choir of the Tiffin School in Kingston.
 
 ---

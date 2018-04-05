@@ -5,9 +5,8 @@ permalink: /archives/2017/10/richmond-library-workspace-nurturing-business.html
 commentfile: 2017-10-18-richmond-library-workspace-nurturing-business
 category: news
 date: 2017-10-18 16:16:46
+image: "/assets/images/2017/richmond-library-mike-tapia-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/richmond-library-mike-tapia.jpg" title="Click for a larger image"><img src="/assets/images/2017/richmond-library-mike-tapia-thumb.jpg" width="150" alt="Image - richmond-library-mike-tapia"  class="photo right"/></a>
-
     A workspace operated by Richmond's Library Service which caters for lone workers, small businesses and freelancers, has helped a new business in Richmond take flight.
 
 ---

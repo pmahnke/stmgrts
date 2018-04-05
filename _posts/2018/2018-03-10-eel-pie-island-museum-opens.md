@@ -5,9 +5,8 @@ permalink: /archives/2018/03/eel-pie-island-museum-opens.html
 commentfile: 2018-03-10-eel-pie-island-museum-opens
 category: news
 date: 2018-03-10 16:32:38
+image: "/assets/images/2018/eel-pie-museum-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/eel-pie-museum.jpg" title="Click for a larger image"><img src="/assets/images/2018/eel-pie-museum-thumb.jpg" width="150" alt="Image - eel-pie-museum"  class="photo right"/></a>
-
     A museum dedicated to the rich musical- and river-related history of Eel Pie Island, Twickenham has opened its doors at 1-3 Richmond Road in Twickenham.
 
     Following a successful crowdfunding campaign, match-funded by the Mayor of London, and with the sponsorship of local businesses and organisations, and the support of Richmond Council, the Museum now enjoys a permanent location in the heart of Twickenham.

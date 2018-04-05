@@ -5,9 +5,8 @@ permalink: /archives/2010/06/the_traditional_music_of_the_louisiana_cajuns.html
 commentfile: 2010-06-26-the_traditional_music_of_the_louisiana_cajuns
 category: around_town
 date: 2010-06-26 06:23:32
+image: "/assets/images/2010/LO2_3_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/LO2_3.jpg" title="See larger version of - Joseph Falcon"><img src="/assets/images/2010/LO2_3_thumb.jpg" width="150" height="104" alt="Joseph Falcon" class="photo right" /></a>
-    
     
     The traditional music of the Cajun people of Louisiana is unique. It is sung in 17<sup>th</sup> century French and comes in two sizes - toe tapping, crowd pleasing 'two step' dances and slow, soulful waltzes, that still echo with the sadness and sense of separation of "Le Grand D&#233;rangement". (New readers will have to check out <a href="https://stmargarets.london/archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html">last week's article</a>)
     

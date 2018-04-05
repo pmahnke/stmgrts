@@ -5,9 +5,8 @@ permalink: /archives/2018/02/richmond-music-and-drama-festival.html
 commentfile: 2018-02-10-richmond-music-and-drama-festival
 category: news
 date: 2018-02-05 14:52:04
+image: "/assets/images/2018/lbrut-music-drama-2018-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/lbrut-music-drama-2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/lbrut-music-drama-2018-thumb.jpg" width="150" alt="Image - lbrut-music-drama-2018"  class="photo right"/></a>
-
     The wealth of prodigious musical and theatrical talents that exist in Richmond has been packed into an explosive programme of events that are taking place across the borough when the three-week festival comes to town starting on 1 March 2018.
 
 ---

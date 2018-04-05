@@ -5,9 +5,8 @@ permalink: /archives/2013/04/event_reminder_strawberry_summer_ball_28_june_2013.
 commentfile: 2013-04-14-event_reminder_strawberry_summer_ball_28_june_2013
 category: around_town
 date: 2013-04-14 09:55:58
+image: "/assets/images/2013/Strawberry-Summer-Ball-flyer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Strawberry-Summer-Ball-flyer.jpg" title="See larger version of - Strawberry Summer Ball flyer"><img src="/assets/images/2013/Strawberry-Summer-Ball-flyer_thumb.jpg" width="150" height="212" alt="Strawberry Summer Ball flyer" class=" right" /></a>
-    
     
     Step back in time and enjoy an evening of dancing at the Strawberry Summer Ball on <a href="https://stmargarets.london/event/event/200705143836">Friday 28 June 2013 from 7.15pm to midnight</a> at Horace Walpole's gothic castle, Strawberry Hill, Twickenham.
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/04/twickenham_candidate_profile_2015_nick_grant.html
 commentfile: 2015-04-28-twickenham_candidate_profile_2015_nick_grant
 category: news
 date: 2015-04-28 09:12:14
+image: "/assets/images/2015/nick_grant_labour_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/nick_grant_labour.jpg" title="See larger version of - nick grant labour"><img src="/assets/images/2015/nick_grant_labour_thumb.jpg" width="150" height="150" alt="nick grant labour" class="photo right" /></a>
-    
     Read Nick Grant's profile as a parliamentary candidate for Twickenham.
     
 

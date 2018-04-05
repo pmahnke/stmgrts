@@ -5,9 +5,8 @@ permalink: /archives/2010/02/richmond_fashion_week_sl_prive_spring_fashion_show.
 commentfile: 2010-02-22-richmond_fashion_week_sl_prive_spring_fashion_show
 category: around_town
 date: 2010-02-22 13:24:38
+image: "/assets/images/2010/InviationSLP2010FashionShow_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2010/InviationSLP2010FashionShow.pdf" title="See larger version of - Download the pdf"><img src="/assets/images/2010/InviationSLP2010FashionShow_thumb.gif" width="106" height="150" alt="Download the pdf" class="photo right" /></a>
-
     Well the good news is that some of the world's premier lingerie and swimwear brands are coming to you. SL Priv&#233;e is delighted to invite your to its Spring Fashion Show at:
 
 ---

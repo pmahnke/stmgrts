@@ -5,9 +5,8 @@ permalink: /archives/2010/02/st_margarets_and_st_valentine.html
 commentfile: 2010-02-04-st_margarets_and_st_valentine
 category: around_town
 date: 2010-02-04 13:07:39
+image: "/assets/images/2010/forgetmenot_valentine_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/forgetmenot_valentine.jpg" title="See larger version of - Forgetmenot Flowers"><img src="/assets/images/2010/forgetmenot_valentine_thumb.jpg" width="300" height="202" alt="Forgetmenot Flowers" class="photo center" /></a>
-    
     This year February 14<sup>th</sup>, St Valentine's Day falls on a Sunday, opening the prospect of a whole weekend of love and laughter.
     
     St Valentine's Day on Sunday 14<sup>th</sup> February is one of three important dates in the social calendar that tumble upon each other in close succession; we also have Mother's Day on Sunday 14<sup>th</sup> March and Easter on Sunday 4<sup>th</sup> April.

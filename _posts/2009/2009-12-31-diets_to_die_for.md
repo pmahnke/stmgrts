@@ -5,9 +5,8 @@ permalink: /archives/2009/12/diets_to_die_for.html
 commentfile: 2009-12-31-diets_to_die_for
 category: around_town
 date: 2009-12-31 10:32:19
+image: "/assets/images/2009/diet_1_HALIBURTON_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/diet_1_HALIBURTON.png" title="See larger version of - THOMAS CHANDLER HALIBURTON"><img src="/assets/images/2009/diet_1_HALIBURTON_thumb.png" width="133" height="150" alt="THOMAS CHANDLER HALIBURTON" class="photo right" /></a>
-    
     A sorry failing of us humans is our desire to always look our best - and we go to extraordinary and sometimes fatal lengths to achieve this. In the past we thought nothing of using lead based make-up for that perfect white complexion, removing teeth to give a fashionable  'hollow cheeked' look and even following potentially fatal dietary regimes.
     
     Such was the case with one of St Margarets most illustrious residents, the writer and humorist Thomas Chandler Haliburton. In 1863, realising that he was seriously overweight, Haliburton took up the fashionable Banting diet, the high protein forerunner of the Atkins Diet.  Initially he managed to lose 10 inches around his waist. Unfortunately the Banting Diet had the same regrettable effect on Thomas Chandler Haliburton as the Atkins Diet had on its creator. Haliburton died on August 27<sup>th</sup> 1865 and was buried in All Saints Churchyard in Old Isleworth. To the abiding gratitude of the pallbearers, he was a few stones lighter than his former self!

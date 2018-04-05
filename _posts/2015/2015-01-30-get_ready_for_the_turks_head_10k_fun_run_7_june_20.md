@@ -5,9 +5,8 @@ permalink: /archives/2015/01/get_ready_for_the_turks_head_10k_fun_run_7_june_20.
 commentfile: 2015-01-30-get_ready_for_the_turks_head_10k_fun_run_7_june_20
 category: around_town
 date: 2015-01-30 20:01:27
+image: "/assets/images/2015/Turks-10K_montage730pix-2015_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2015/Turks-10K_montage730pix-2015.gif" title="See larger version of - Turks 10K montage"><img src="/assets/images/2015/Turks-10K_montage730pix-2015_thumb.gif" width="150" height="81" alt="Turks 10K montage" class="photo right" /></a>
-    
     This is not just a race it is a one day party starting with a fantastic community race, ending up with a  day of music, bbq and fun at the turks head bringing everyone together.
 
 ---

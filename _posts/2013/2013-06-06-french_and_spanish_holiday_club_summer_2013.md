@@ -5,9 +5,8 @@ permalink: /archives/2013/06/french_and_spanish_holiday_club_summer_2013.html
 commentfile: 2013-06-06-french_and_spanish_holiday_club_summer_2013
 category: around_town
 date: 2013-06-06 21:43:27
+image: "/assets/images/2013/LCF-Twickenham-Summer-Club-advert_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/LCF-Twickenham-Summer-Club-advert.jpg" title="See larger version of - LCF Twickenham Summer Club advert"><img src="/assets/images/2013/LCF-Twickenham-Summer-Club-advert_thumb.jpg" width="150" height="111" alt="LCF Twickenham Summer Club advert" class="photo right" /></a>
-    
     _Special Offer to Readers of St Margarets Community. French and Spanish Holiday club for children - &pound;10 discount._
     
     Le Club Francais and El Club Espanol runs Fun language sessions in Twickenham and surrounding areas for young children from 3- 10 years old. Join us and get into the holiday mood.

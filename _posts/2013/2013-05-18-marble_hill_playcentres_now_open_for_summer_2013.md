@@ -5,9 +5,8 @@ permalink: /archives/2013/05/marble_hill_playcentres_now_open_for_summer_2013.ht
 commentfile: 2013-05-18-marble_hill_playcentres_now_open_for_summer_2013
 category: around_town
 date: 2013-05-18 08:15:28
+image: "/assets/images/2013/temporary_leaflet_2013_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/temporary_leaflet_2013.jpg" title="See larger version of - Marble Hill Playcentres summer  leaflet 2013"><img src="/assets/images/2013/temporary_leaflet_2013_thumb.jpg" width="150" height="106" alt="Marble Hill Playcentres summer  leaflet 2013" class="photo right" /></a>
-    
     _Adventure Playground for children and young people aged 5-15 years_
     
     There's lots to do at the AP. Swing on our rope swings, make a den, cook on an open fire or dig to the centre of the earth! If you don't fancy that then you can get creative with arts and crafts, have a bounce on our trampoline or just hang out with your friends. The trained and experienced Playworkers are on hand to supervise and help you make the most of your visit to the AP.

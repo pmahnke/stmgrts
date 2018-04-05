@@ -5,9 +5,8 @@ permalink: /archives/2014/08/isleworth_promenade_do_you_like_the_change.html
 commentfile: 2014-08-14-isleworth_promenade_do_you_like_the_change
 category: news
 date: 2014-08-14 22:16:39
+image: "/assets/images/2014/isleworth_promenade_clean_up_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/isleworth_promenade_clean_up.jpg" title="See larger version of - isleworth promenade clean up"><img src="/assets/images/2014/isleworth_promenade_clean_up_thumb.jpg" width="150" height="84" alt="isleworth promenade clean up" class="photo right" /></a>
-    
     At the request of local residents, Richmond Council's Community Links Team organised two conservation volunteer work days with local residents and Councillors along Isleworth Promenade on Friday 1<sup>st</sup> and Sunday 3<sup>rd</sup> managed by the Thames Landscape Strategy and South West London Environment Network. We would like to thank all the volunteers who participated and the passers-by who stopped to offer moral support as well as the Council's parks contractor Continental Landscapes who  August. These conservation volunteer work days were removed all the cut material.
     
 

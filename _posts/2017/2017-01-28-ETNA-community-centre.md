@@ -5,9 +5,8 @@ permalink: /archives/2017/01/ETNA-community-centre.html
 commentfile: 2017-01-28-ETNA-community-centre
 category: around_town
 date: 2017-01-28 11:06:45
+image: "/assets/images/2017/ETNA-community-centre-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ETNA-community-centre.jpg" title="Click for a larger image"><img src="/assets/images/2017/ETNA-community-centre-thumb.jpg" width="150" alt="Image - ETNA-community-centre"  class="photo right"/></a>
-
     ETNA Community Centre in the heart of TW1, your local welcoming and vibrant Centre. We offer a wide range of classes, activities, work-shops and self-help groups.
 ---
 

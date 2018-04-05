@@ -5,8 +5,8 @@ permalink: /archives/2009/07/the_skeeter_menace_of_1935.html
 commentfile: 2009-07-16-the_skeeter_menace_of_1935
 category: around_town
 date: 2009-07-16 10:51:52
+image: "/assets/images/2009/skeeter-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/skeeter.png"><img src="/assets/images/2009/skeeter-thumb.png" width="150" height="111" alt="skeeter" class="right" /></a>
 
     In early June 1935 St Margarets, Twickenham, Whitton and parts of Richmond and Hounslow were under attack from an insect invasion that was filling doctors' waiting rooms with scratching victims and driving local ratepayers to distraction. The enemy was from the family Culicidae - the Mosquito.
 

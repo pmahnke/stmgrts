@@ -5,9 +5,8 @@ permalink: /archives/2014/04/event_reminder_agm_of_the_friends_of_moormead_14_a.
 commentfile: 2014-04-09-event_reminder_agm_of_the_friends_of_moormead_14_a
 category: around_town
 date: 2014-04-09 23:39:53
+image: "/assets/images/2014/friends-of-moormead_logo_100_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/friends-of-moormead_logo_100.png" title="See larger version of - friends of moormead logo 100"><img src="/assets/images/2014/friends-of-moormead_logo_100_thumb.png" width="100" height="100" alt="friends of moormead logo 100" class=" right" /></a>
-
     All signed up members are invited to attend and non-Friends who want to attend are welcome to come along on the night and join. Please note that there is, at the moment, no joining fee nor subscription.
 
 ---

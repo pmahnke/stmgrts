@@ -5,9 +5,8 @@ permalink: /archives/2016/01/event-reminder-samantha-bond-at-holly-lodge.html
 commentfile: 2016-01-29-event-reminder-samantha-bond-at-holly-lodge
 category: around_town
 date: 2016-01-29 19:47:59
+image: "/assets/images/2016/holly-lodge-Samantha_Bond_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/holly-lodge-Samantha_Bond.jpg" title="See larger version of - holly lodge Samantha Bond"><img src="/assets/images/2016/holly-lodge-Samantha_Bond_thumb.jpg" width="150" height="199" alt="holly lodge Samantha Bond" class="photo right" /></a>
-
     "In conversation with Samantha Bond" will be the centre piece of the annual Holly Lodge Centre Spring Lunch on Wednesday 16 March at Pembroke Lodge in Richmond Park.  Supporters of the Centre will have a chance to interact with Samantha about her distinguished career in film, theatre and television.
 ---
 

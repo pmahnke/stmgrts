@@ -5,9 +5,8 @@ permalink: /archives/2017/02/st-margaretsfair-volunteers-2017.html
 commentfile: 2017-02-24-st-margaretsfair-volunteers-2017
 category: around_town
 date: 2017-02-24 14:12:01
+image: "/assets/images/2017/StStephensStewards2016-thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2017/StStephensStewards2016.JPG" title="Click for a larger image"><img src="/assets/images/2017/StStephensStewards2016-thumb.JPG" width="150" alt="Image - StStephensStewards2016"  class="photo right"/></a>
-
     Looking for enthusiastic locals who want to contribute to our community.
 
     Did you know the Fair is run entirely by volunteers and contributes all its profits to local charities and schools?  The Fair has been a fixture of St Margarets summers for over 35 years, and every year, thousands of pounds are donated.

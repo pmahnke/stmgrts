@@ -5,9 +5,8 @@ permalink: /archives/2015/01/half_term_activities_at_orleans_house_gallery_febr.
 commentfile: 2015-01-30-half_term_activities_at_orleans_house_gallery_febr
 category: around_town
 date: 2015-01-30 20:18:43
+image: "/assets/images/2015/orleans_half_term_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/orleans_half_term_2015.jpg" title="See larger version of - orleans half term 2015"><img src="/assets/images/2015/orleans_half_term_2015_thumb.jpg" width="150" height="213" alt="orleans half term 2015" class="photo right" /></a>
-
     Join us this February half term and work with professional artists specialising in a range of different art-forms.  Be inspired by our gallery exhibitions 'Richmond Views' and 'Rudi Patterson: Visions of my Island in the Sun'.
 
 ---

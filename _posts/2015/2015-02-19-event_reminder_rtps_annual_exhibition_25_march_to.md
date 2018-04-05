@@ -5,9 +5,8 @@ permalink: /archives/2015/02/event_reminder_rtps_annual_exhibition_25_march_to.h
 commentfile: 2015-02-19-event_reminder_rtps_annual_exhibition_25_march_to
 category: around_town
 date: 2015-02-19 20:32:21
+image: "/assets/images/2015/RTPS-Exhibition-Poster-2015-_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/RTPS-Exhibition-Poster-2015-.jpg" title="See larger version of - RTPS Exhibition Poster 2015 "><img src="/assets/images/2015/RTPS-Exhibition-Poster-2015-_thumb.jpg" width="150" height="212" alt="RTPS Exhibition Poster 2015 - Photograph by Seamus Reid, President, Richmond and Twickenham Photographic Society" class="photo right" /></a>
-    
     The Richmond & Twickenham Photographic Society are holding their <a href="https://stmargarets.london/event/exhibition/200705144906">annual exhibition at The Landmark Arts Centre in Teddington, from March 25<sup>th</sup> to 6<sup>th</sup> April.</a>
 
 ---

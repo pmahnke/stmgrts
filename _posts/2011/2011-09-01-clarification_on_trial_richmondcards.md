@@ -5,9 +5,8 @@ permalink: /archives/2011/09/clarification_on_trial_richmondcards.html
 commentfile: 2011-09-01-clarification_on_trial_richmondcards
 category: news
 date: 2011-09-01 10:24:45
+image: "/assets/images/2017/richmond_card-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/richmond_card.jpg" title="Click for a larger image"><img src="/assets/images/2017/richmond_card-thumb.jpg" width="250" alt="Image - richmond_card"  class="photo right"/></a>
-
     There was some confusion as to which cards were trial cards and why would someone have to re-register.  We asked the Richmond Council and here is their answer:
 
     *Registered RichmondCards have the swirl design, trial cards are white with black print only (no design)*

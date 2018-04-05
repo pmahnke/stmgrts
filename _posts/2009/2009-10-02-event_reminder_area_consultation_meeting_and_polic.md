@@ -5,9 +5,8 @@ permalink: /archives/2009/10/event_reminder_area_consultation_meeting_and_polic.
 commentfile: 2009-10-02-event_reminder_area_consultation_meeting_and_polic
 category: around_town
 date: 2009-10-02 09:56:12
+image: "/assets/images/2009/StMarg2_Autumn_09_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/StMarg2_Autumn_09.jpg" title="See larger version of - See the larger flyer"><img src="/assets/images/2009/StMarg2_Autumn_09_thumb.jpg" width="106" height="150" alt="See the larger flyer" class="photo right" /></a>
-
 
     On Tuesday, 6 October, you are welcome to attend the <a href="https://stmargarets.london/event/meeting/200705142236">Joint Area Consultation Meeting (ACM) and Police Liaison Group (PLG) meeting</a> for St Margarets & North Twickenham.  The ACM starts at 7.30pm and the PLG follows at 8.30 pm. The meetings are held in York House, Richmond Road, Twickenham.
 

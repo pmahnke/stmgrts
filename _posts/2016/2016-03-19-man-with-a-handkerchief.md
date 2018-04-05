@@ -6,9 +6,8 @@ commentfile: 2016-03-19-man-with-a-handkerchief
 category: around_town
 date: 2016-03-19 09:00:12
 author: Martyn Day
+image: "/assets/images/2016/HANDKERCHIEF_Bergen_Belsen_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/HANDKERCHIEF_Bergen_Belsen_1.jpg" title="See larger version of - Bergen Belsen 1"><img src="/assets/images/2016/HANDKERCHIEF_Bergen_Belsen_1_thumb.jpg" width="150" height="101" alt="Bergen Belsen 1" class="photo right" /></a>
-
     Lt. Col. Leonard Berney, who as a 25-year-old british army major helped liberate the Bergen-Belsen concentration camp, died on 8th March 2016 aged 95.
 ---
 

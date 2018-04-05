@@ -5,9 +5,8 @@ permalink: /archives/2016/10/event-richmond-upon-thames-literature-festival-2016
 commentfile: 2016-10-22-event-richmond-upon-thames-literature-festival-2016
 category: around_town
 date: 2016-10-22 17:52:46
+image: "/assets/images/2016/Richmond_Literature_Festival_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Richmond_Literature_Festival_2016.jpg" title="See larger version of - Richmond Literature Festival 2016"><img src="/assets/images/2016/Richmond_Literature_Festival_2016_thumb.jpg" width="150" alt="Richmond Literature Festival 2016" class="right" /></a>
-
     Richmond upon Thames Literature Festival is celebrating its 25<sup>th</sup> birthday in style, hosting a stellar line up of some of today's most thought-provoking novelists, including Sebastian Barry (in conversation with Erica Wagner), Margaret Drabble, Kate Summerscale and Sarah Moss.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2009/06/mr_amyands_appendix.html
 commentfile: 2009-06-12-mr_amyands_appendix
 category: around_town
 date: 2009-06-12 10:47:37
+image: "/assets/images/2009/amyand_house-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/amyand_house.png"  title="Amyand House - photo from Twickenham Museum"><img src="/assets/images/2009/amyand_house-thumb.png" width="150" height="106" alt="Amyand House - photo from Twickenham Museum" class="photo right" /></a>
-    
     
     Of course, nobody really knows what the appendix actually does. Some say it is a vestige of the days when we lived in the trees and ate leaves. Others say that it may have something to do with the management of bacteria in the gut.  Most of the time the appendix sits quietly at the junction of the large and small intestine minding its own business - until it decides to become infected and tries to kill us! Then it has to be removed ...and the first surgeon to perform that operation had a family name that is marked and remembered around St Margarets.
 

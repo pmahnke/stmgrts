@@ -5,9 +5,8 @@ permalink: /archives/2013/07/ridelondon_2013_classic_in_richmond_4_august_2013.h
 commentfile: 2013-07-31-ridelondon_2013_classic_in_richmond_4_august_2013
 category: news
 date: 2013-07-31 21:47:01
+image: "/assets/images/2013/ridelondon_visitrichmond_map_full_size_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/ridelondon_visitrichmond_map_full_size.png" title="See larger version of - ridelondon visitrichmond map"><img src="/assets/images/2013/ridelondon_visitrichmond_map_full_size_thumb.png" width="150" height="112" alt="ridelondon visitrichmond map" class="photo right" /></a>
-
 
     Prudential RideLondon is a new annual cycling festival which will be held on the weekend of 3-4 August 2013. The Saturday event, called the FreeCycle, will see up to 50,000 cyclists on closed roads in central London. It will have *no impact* on Richmond upon Thames.
 

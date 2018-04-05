@@ -5,9 +5,8 @@ permalink: /archives/2017/02/event-twickenham-coral-society-open-workshop.html
 commentfile: 2017-02-02-event-twickenham-coral-society-open-workshop
 category: around_town
 date: 2017-02-01 08:26:01
+image: "/assets/images/2017/20161019-Parry-workshop_leaflet_trifold-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/20161019-Parry-workshop_leaflet_trifold.jpg" title="Click for a larger image"><img src="/assets/images/2017/20161019-Parry-workshop_leaflet_trifold-thumb.jpg" width="150" alt="Image - 20161019-Parry-workshop_leaflet_trifold"  class="photo right"/></a>
-
     Come and sing Parry's Songs of Farewell.
 
     Join an open workshop led by guest conductor, renowned choral director, Ralph Allwood MBE at St Andrews Church, Surbiton on Saturday 4 March 2017 from 10.30am to 5pm.

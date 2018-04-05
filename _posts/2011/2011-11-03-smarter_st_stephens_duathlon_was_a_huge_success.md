@@ -5,9 +5,8 @@ permalink: /archives/2011/11/smarter_st_stephens_duathlon_was_a_huge_success.htm
 commentfile: 2011-11-03-smarter_st_stephens_duathlon_was_a_huge_success
 category: news
 date: 2011-11-03 20:13:46
+image: "/assets/images/2011/STS_IMAGE_2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/STS_IMAGE_2.jpg" title="See larger version of - Students crossing the finish line"><img src="/assets/images/2011/STS_IMAGE_2_thumb.jpg" width="150" height="119" alt="Students crossing the finish line" class="photo right" /></a>
-    
     The Smarter St Stephen's first ever Duathlon took place on Wednesday, 2 November 2011 in Moormead Park.  An amazing all day event with over 300 pupils from St Stephen's School taking part.  The children, aged 7 - 11, had to run, cycle and run again around Moormead Park to raise money for the Smarter St Stephen's campaign.  Local Estate Agent, Churchills, sponsored the event and England Rugby International, Simon Shaw, presented the trophies in a school assembly.
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2014/05/the_vicar_of_isleworth.html
 commentfile: 2014-05-22-the_vicar_of_isleworth
 category: around_town
 date: 2014-05-22 23:28:44
+image: "/assets/images/2014/VICAR_Royalists_at_battle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/VICAR_Royalists_at_battle.jpg" title="See larger version of - Royalists at battle"><img src="/assets/images/2014/VICAR_Royalists_at_battle_thumb.jpg" width="150" height="112" alt="Royalists at battle" class="photo right" /></a>
-    
     Hands up everybody who is really excited about the current elections! Oh, the fun of it all. Local and European! Home and Away! The endless blethering,  the armies of campaigners banging on the door, the piles of promises yet to be broken heaping up on the door mat and the myriad of prospective politicians demanding our attention and our vote. Labour, Conservative, Lib Dem, Green, UKIP, Independent, UUP, British Democrats, Sinn Fein, Scottish Nationalist, We Demand a Referendum, Plaid Cymru and on and on... all the sign of a healthy if rather overheated democracy.
 
 ---

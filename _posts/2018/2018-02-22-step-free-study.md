@@ -5,9 +5,8 @@ permalink: /archives/2018/02/step-free-study.html
 commentfile: 2018-02-22-step-free-study
 category: news
 date: 2018-02-22 19:50:57
+image: "/assets/images/2018/step-free-st-margarets-station-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/step-free-st-margarets-station.jpg" title="Click for a larger image"><img src="/assets/images/2018/step-free-st-margarets-station-thumb.jpg" width="150" alt="Image - step-free-st-margarets-station"  class="photo right"/></a>
-
     Richmond Council will fund feasibility study for step-free access at St Margarets Station.
 
     A feasibility study will be carried out looking at the possibility of introducing level step-free access from the street to the train station in St Margarets.

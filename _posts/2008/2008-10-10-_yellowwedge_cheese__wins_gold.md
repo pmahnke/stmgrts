@@ -5,8 +5,8 @@ permalink: /archives/2008/10/_yellowwedge_cheese__wins_gold.html
 commentfile: 2008-10-10-_yellowwedge_cheese__wins_gold
 category: news
 date: 2008-10-10 21:28:03
+image: "/assets/images/2008/yellowwedge-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/yellowwedge.jpg"><img src="/assets/images/2008/yellowwedge-thumb.jpg" width="150" height="125"  class="photo right" alt="winners" /></a>
     
     
     After Beijing, the gold rush continues. An independent, south-west London cheese retailer, _yellowwedge cheese_, in St Margarets, Twickenham, has won the prestigious trophy for Best New Deli at the British Cheese Awards 2008.

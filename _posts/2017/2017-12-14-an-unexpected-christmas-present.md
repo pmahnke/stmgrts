@@ -6,9 +6,8 @@ commentfile: 2017-12-14-an-unexpected-christmas-present
 category: around_town
 date: 2017-12-14 14:25:42
 author: "Martyn Day"
+image: "/assets/images/2017/UNEXPECTED_Christmas-tree-instruments-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/UNEXPECTED_Christmas-tree-instruments.jpg" title="Click for a larger image"><img src="/assets/images/2017/UNEXPECTED_Christmas-tree-instruments-thumb.jpg" width="150" alt="Image - UNEXPECTED_Christmas-tree-instruments"  class="photo right"/></a>
-
     In a previous life I worked in Children's Television. At that time I had contact with a lot of record pluggers, those young, enthusiastic and thick-skinned people whose difficult job was to promote artists that they often didn't like to unsympathetic people like me and persuade us to book them onto our programmes. As an inducement they would regale us with free tickets to see the acts playing live and as much vinyl as we could carry. One of this gallant and hard-boiled band was Ed who worked for the NEMS Agency. He knew almost everything there was to know about the pop scene although he was always very discreet about it.
 
 ---

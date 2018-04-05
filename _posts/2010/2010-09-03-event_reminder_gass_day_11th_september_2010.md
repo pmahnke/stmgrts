@@ -5,9 +5,8 @@ permalink: /archives/2010/09/event_reminder_gass_day_11th_september_2010.html
 commentfile: 2010-09-03-event_reminder_gass_day_11th_september_2010
 category: around_town
 date: 2010-09-03 12:15:23
+image: "/assets/images/2010/gass2008_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/gass2008.jpg" title="See larger version of - GASS Fun"><img src="/assets/images/2010/gass2008_thumb.jpg" width="300" height="66" alt="GASS Fun" class="photo center" /></a>
-    
     GASS Day is on Saturday 11<sup>th</sup> September and starts at 1.00pm. The streets involved are Haliburton, Heron, Newry, Northcote and Talbot. To find them cross the A316, walk up St. Margarets Road towards Isleworth, turn left past the Ailsa Tavern and walk down Northcote Road. Voila!
     
     Adding to the day's sense of community at 2.30pm local kids in fancy dress will parade around the area "Beating the Bounds" with willow wands. Although the ritual is pre-Christian the children see it as pure "Harry Potter" with the presence of a kilted bagpiper adding a touch of "McMagic".

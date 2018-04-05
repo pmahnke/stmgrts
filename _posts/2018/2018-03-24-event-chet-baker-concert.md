@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-chet-baker-concert.html
 commentfile: 2018-03-24-event-chet-baker-concert
 category: around_town
 date: 2018-03-24 10:45:18
+image: "/assets/images/2018/chet-baker-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/chet-baker.jpg" title="Click for a larger image"><img src="/assets/images/2018/chet-baker-thumb.jpg" width="150" alt="Image - chet-baker"  class="photo right"/></a>
-
     Let's Get Lost at Light Speed - new rehearsal technique piloted at RHACC.
 
     The leading edge technical research division of the Richmond Jazz School is piloting a new rehearsal technique, delivering major savings in studio costs.

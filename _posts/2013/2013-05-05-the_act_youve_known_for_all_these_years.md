@@ -5,9 +5,8 @@ permalink: /archives/2013/05/the_act_youve_known_for_all_these_years.html
 commentfile: 2013-05-05-the_act_youve_known_for_all_these_years
 category: around_town
 date: 2013-05-05 18:05:59
+image: "/assets/images/2013/BOOTLEG_beatles-mid-60s_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/BOOTLEG_beatles-mid-60s.jpg" title="See larger version of - BOOTLEG beatles mid 60s"><img src="/assets/images/2013/BOOTLEG_beatles-mid-60s_thumb.jpg" width="150" height="139" alt="BOOTLEG beatles mid 60s" class="photo right" /></a>
-
     _I've seen the Beatles twice and heard them once._
 
     The first time was in the 'Beatles Christmas Show' at the Astoria Cinema, Finsbury Park, early in January 1964. There were other acts on the bill - Billy J Kramer, the Fourmost, Tommy Quickly, Cilla Black and other members of Brian Epstein's 'stable' but  most of us had only come to see the stars of the show. I say 'see' because that was all anyone could do. The roar of thousands of desperately over-excited teenage girls screaming their lungs out was overwhelming, impressive and totally drowning any music that the four boys on stage might have played.

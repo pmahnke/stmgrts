@@ -5,9 +5,8 @@ permalink: /archives/2015/03/childrens_art_parties_at_orleans_house_gallery_201.
 commentfile: 2015-03-05-childrens_art_parties_at_orleans_house_gallery_201
 category: around_town
 date: 2015-03-05 21:00:25
+image: "/assets/images/2015/Parties-Flyer-2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Parties-Flyer-2015.jpg" title="See larger version of - Parties Flyer 2015"><img src="/assets/images/2015/Parties-Flyer-2015_thumb.jpg" width="150" height="212" alt="Parties Flyer 2015" class="photo right" /></a>
-    
     
     Enjoy your child's special celebration in a unique location surrounded by creativity!
     

@@ -5,8 +5,8 @@ permalink: /archives/2009/02/recipe_nutmeg_and_chili_chocolate_souffles.html
 commentfile: 2009-02-12-recipe_nutmeg_and_chili_chocolate_souffles
 category: food
 date: 2009-02-12 21:43:03
+image: "/assets/images/2009/souffle-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/souffle.jpg"><img src="/assets/images/2009/souffle-thumb.jpg" width="150" height="112" alt="Nutmeg and Chili, Chocolate Souffles" class="photo right" /></a>
     
     
     Valentine's day is a great excuse to feed a chocolate addiction and to make something special for your loved ones.  These souffles combine the strong flavours of chili, nutmeg and dark chocolate into a light fluffy dessert which has three distinct flavour undertones.

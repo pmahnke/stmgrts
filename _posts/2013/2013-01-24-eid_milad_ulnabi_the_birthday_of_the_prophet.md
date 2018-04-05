@@ -5,9 +5,8 @@ permalink: /archives/2013/01/eid_milad_ulnabi_the_birthday_of_the_prophet.html
 commentfile: 2013-01-24-eid_milad_ulnabi_the_birthday_of_the_prophet
 category: around_town
 date: 2013-01-24 12:51:49
+image: "/assets/images/2013/EID_Mohammads_name_calligraphy_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/EID_Mohammads_name_calligraphy.png" title="See larger version of - Mohammad's name calligraphy"><img src="/assets/images/2013/EID_Mohammads_name_calligraphy_thumb.png" width="150" height="109" alt="Mohammad's name calligraphy" class=" right" /></a>
-    
     bq. "And peace on him on the day he was born, and on the day he dies, and on the day he is raised to life"
     
     <cite>Holy Qu'ran 19:15</cite>

@@ -5,9 +5,8 @@ permalink: /archives/2017/03/the-day-i-met-chuck-berry.html
 commentfile: 2017-03-22-the-day-i-met-chuck-berry
 category: around_town
 date: 2017-03-22 20:28:25
+image: "/assets/images/2017/chuck-berry-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/chuck-berry.jpg" title="Click for a larger image"><img src="/assets/images/2017/chuck-berry-thumb.jpg" width="150" alt="Image - chuck-berry"  class="photo right"/></a>
-
     I met Chuck Berry once. It was early one morning in a deserted terminal building at Heathrow.  Like me he was probably waiting to catch the first plane out to somewhere. He was sitting on a bench wrapped up in a greatcoat, with a guitar case at his side and a sour look on his face. It was him alright. He had been a hero of mine for years and was unmistakeable.
 ---
 

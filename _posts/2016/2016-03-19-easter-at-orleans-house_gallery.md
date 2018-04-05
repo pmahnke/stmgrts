@@ -5,9 +5,8 @@ permalink: /archives/2016/03/easter-at-orleans-house_gallery.html
 commentfile: 2016-03-19-easter-at-orleans-house_gallery
 category: around_town
 date: 2016-03-19 08:46:10
+image: "/assets/images/2016/easter-2016-orleans-house-gallery-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/easter-2016-orleans-house-gallery-poster.jpg" title="See larger version of - easter 2016 orleans house gallery poster"><img src="/assets/images/2016/easter-2016-orleans-house-gallery-poster_thumb.jpg" width="150" height="214" alt="easter 2016 orleans house gallery poster" class="photo right" /></a>
-
     The Easter Holidays are fast approaching and we are looking forward to two weeks of fun children's activities where we will be creating artworks inspired by landscape, architecture and springtime!
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2013/05/dreamcatcher_medias_film_camp_summer_2013.html
 commentfile: 2013-05-23-dreamcatcher_medias_film_camp_summer_2013
 category: around_town
 date: 2013-05-23 21:24:14
+image: "/assets/images/2013/Dreamcatcher-Summer-2013_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Dreamcatcher-Summer-2013.jpg" title="See larger version of - Dreamcatcher Summer 2013"><img src="/assets/images/2013/Dreamcatcher-Summer-2013_thumb.jpg" width="150" height="212" alt="Dreamcatcher Summer 2013" class="photo right" /></a>
-    
     _Make a 5 minute film in 5 Days and take a copy home on DVD!_
     
     Here at Dreamcatcher Media, the films made on our Summer Film Camps feature great heroes and anti-heroes, goodies and baddies, exciting chases and dramatic scenes - all scripted, filmed and directed by young people aged 8 - 16.

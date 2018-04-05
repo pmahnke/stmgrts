@@ -5,9 +5,8 @@ permalink: /archives/2018/02/off-the-record-office-revamped.html
 commentfile: 2018-02-22-off-the-record-office-revamped
 category: news
 date: 2018-02-22 19:32:23
+image: "/assets/images/2018/off-the-record-office-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/off-the-record-office.jpg" title="Click for a larger image"><img src="/assets/images/2018/off-the-record-office-thumb.jpg" width="150" alt="Image - off-the-record-office"  class="photo right"/></a>
-
     A local Twickenham charity that provides confidential support and counselling services for young people in the borough will have revamped facilities, thanks to funding from Richmond Council.
 
 ---

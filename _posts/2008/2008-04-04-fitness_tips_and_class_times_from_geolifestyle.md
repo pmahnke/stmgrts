@@ -5,8 +5,8 @@ permalink: /archives/2008/04/fitness_tips_and_class_times_from_geolifestyle.html
 commentfile: 2008-04-04-fitness_tips_and_class_times_from_geolifestyle
 category: around_town
 date: 2008-04-04 09:58:33
+image: "/assets/images/2008/georgie-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
 
     I have been running my personal training and fitness business for the last five years. I currently run group running sessions during the week. These workouts are varied and focus on improving fitness levels. You do not need to be an experienced runner to manage one of these sessions, but just keen to improve your fitness.
 

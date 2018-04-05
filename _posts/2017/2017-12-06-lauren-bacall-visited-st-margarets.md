@@ -6,9 +6,8 @@ commentfile: 2017-12-06-lauren-bacall-visited-st-margarets
 category: around_town
 date: 2017-12-06 20:22:57
 author: Martyn Day
+image: "/assets/images/2017/BACALL_lauren-bacall-2-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/BACALL_lauren-bacall-2.jpg" title="Click for a larger image"><img src="/assets/images/2017/BACALL_lauren-bacall-2-thumb.jpg" width="150" alt="Image - BACALL_lauren-bacall-2"  class="photo right"/></a>
-
     On Monday 8<sup>th</sup> July 1985 a production of Tennessee Williams's play  <em>"Sweet Bird of Youth"</em>, directed by Harold Pinter, opened at the Haymarket Theatre in London's West End. The star of the show was the sultry Hollywood star Lauren Bacall, the widow of Humphrey Bogart. It was an appropriate piece of casting. <em>"Sweet Bird of Youth"</em> written in 1959 tells of a fading movie star, Alexandria Del Lago, and her relationship with gigolo and drifter Chance Wayne. One commentator said that the part was written for Bacall, although Tennessee Williams had originally conceived it for Tallulah Bankhead.
 ---
 

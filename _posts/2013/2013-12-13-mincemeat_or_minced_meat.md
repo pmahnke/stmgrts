@@ -5,9 +5,8 @@ permalink: /archives/2013/12/mincemeat_or_minced_meat.html
 commentfile: 2013-12-13-mincemeat_or_minced_meat
 category: around_town
 date: 2013-12-13 12:37:37
+image: "/assets/images/2013/MINCE_William_henry_hunt_christmas_pie_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/MINCE_William_henry_hunt_christmas_pie.jpg" title="See larger version of - William Henry Hunt christmas pie"><img src="/assets/images/2013/MINCE_William_henry_hunt_christmas_pie_thumb.jpg" width="150" height="205" alt="William Henry Hunt christmas pie" class="photo right" /></a>
-    
     The French writer and traveller Henri Misson de Valbourg was a big fan of English Puddings. In his 1698 book <em>"Memories and Observations in his Travels over England"</em> he noted one particular favourite, <em>"Christmas Pye"</em> - a forerunner of our familiar Christmas puddings and mince pies...
     
 

@@ -5,8 +5,8 @@ permalink: /archives/2006/02/review_saunders.html
 commentfile: 2006-02-03-review_saunders
 category: around_town
 date: 2006-02-03 10:19:13
+image: "/assets/images/2006/saunders-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/saunders.jpg"><img alt="James Saunders" src="/assets/images/2006/saunders-thumb.jpg" width="150" height="113" class="photo right" /></a>
 
     Last night we had the pleasure of seeing two fantastic one act plays by James Saunders at the Orange Tree Theatre in Richmond.  Unfortunately we saw these near the end of their run, so if you want to see them you must go tonight or Saturday.
 

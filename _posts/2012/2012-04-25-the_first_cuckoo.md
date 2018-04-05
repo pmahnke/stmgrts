@@ -5,9 +5,8 @@ permalink: /archives/2012/04/the_first_cuckoo.html
 commentfile: 2012-04-25-the_first_cuckoo
 category: around_town
 date: 2012-04-25 21:33:04
+image: "/assets/images/2012/CUCKOO_hounslow_mill_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/CUCKOO_hounslow_mill.jpg" title="See larger version of - hounslow mill"><img src="/assets/images/2012/CUCKOO_hounslow_mill_thumb.jpg" width="150" height="150" alt="hounslow mill" class="right" /></a>
-
     There were two things that must have depressed people living around these parts in the 18<sup>th</sup> and 19<sup>th</sup> centuries. The first was the likelihood of being robbed by highwaymen and footpads on Hounslow Heath. The second was the real possibility of being blown up by any one of the many gunpowder mills operating along the River Crane.
 
     Although it is difficult to prove, it does seem that this area has had a long association with explosives...

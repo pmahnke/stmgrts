@@ -5,8 +5,8 @@ permalink: /archives/2010/08/yellowwedge_cheese_makes_times_top_10_cheese_shops.
 commentfile: 2010-08-26-yellowwedge_cheese_makes_times_top_10_cheese_shops
 category: news
 date: 2010-08-26 09:57:49
+image: "/assets/images/2010/yw_times_article-thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/yw_times_article.png"><img alt="yw_times_article.png" src="/assets/images/2010/yw_times_article-thumb.png" width="150" height="212" class="right" /></a>
     
     In July 2010, local retailer <a href="https://stmargarets.london/directory/grocery/200711270904">yellowwedge cheese</a> has been named by The Times as one of the 'Top 10 Cheese Shops in Britain'! Juliet Harbutt who compiled the list wrote; 
     

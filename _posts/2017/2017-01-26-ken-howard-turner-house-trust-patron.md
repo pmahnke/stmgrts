@@ -5,9 +5,8 @@ permalink: /archives/2017/01/ken-howard-turner-house-trust-patron.html
 commentfile: 2017-01-26-ken-howard-turner-house-trust-patron
 category: news
 date: 2017-01-26 17:00:00
+image: "/assets/images/2017/ken-howard-obe-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ken-howard-obe.jpg" title="See larger version of - ken howard obe - left"><img src="/assets/images/2017/ken-howard-obe-thumb.jpg" width="150"  alt="ken howard obe - left" class="photo right" /></a>
-
     Turner's House Trust has announced artist Professor Ken Howard OBE RA as a new patron of the Trust.
 ---
 

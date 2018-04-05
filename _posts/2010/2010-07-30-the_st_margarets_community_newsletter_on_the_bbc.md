@@ -5,9 +5,8 @@ permalink: /archives/2010/07/the_st_margarets_community_newsletter_on_the_bbc.ht
 commentfile: 2010-07-30-the_st_margarets_community_newsletter_on_the_bbc
 category: around_town
 date: 2010-07-30 12:17:36
+image: "/assets/images/2010/vtaylor_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/vtaylor.jpg" title="See larger version of - Vince Taylor"><img src="/assets/images/2010/vtaylor_thumb.jpg" width="105" height="150" alt="Vince Taylor" class="photo right" /></a>
-    
     
     ### Ziggy Stardust Came From Isleworth
     

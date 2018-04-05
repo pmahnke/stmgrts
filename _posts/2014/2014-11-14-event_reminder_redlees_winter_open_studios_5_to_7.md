@@ -5,9 +5,8 @@ permalink: /archives/2014/11/event_reminder_redlees_winter_open_studios_5_to_7.h
 commentfile: 2014-11-14-event_reminder_redlees_winter_open_studios_5_to_7
 category: around_town
 date: 2014-11-14 09:23:03
+image: "/assets/images/2014/REDLEES-2014-WINTER-INVITE-FRONT-WEB_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/REDLEES-2014-WINTER-INVITE-FRONT-WEB.jpg" title="See larger version of - REDLEES 2014 WINTER INVITE"><img src="/assets/images/2014/REDLEES-2014-WINTER-INVITE-FRONT-WEB_thumb.jpg" width="150" height="105" alt="REDLEES 2014 WINTER INVITE" class="photo right" /></a>
-    
     
     Our popular <a href="https://stmargarets.london/event/exhibition/200705144753,">Open Studios weekend, 5 to 7 December 2014</a>  is where you can find original craft for yourself, your family and friends and affordable art to collect. Support your local art community by buying direct from over 30 artist, designer-makers that work in these restored Victorian stables.
     

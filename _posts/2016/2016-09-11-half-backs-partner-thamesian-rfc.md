@@ -5,9 +5,8 @@ permalink: /archives/2016/09/half-backs-partner-thamesian-rfc.html
 commentfile: 2016-09-11-half-backs-partner-thamesian-rfc
 category: around_town
 date: 2016-09-11 07:15:32
+image: "/assets/images/2016/HalfBacks-kids-rugby-Logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/HalfBacks-kids-rugby-Logo.png" title="See larger version of - HalfBacks kids rugby Logo"><img src="/assets/images/2016/HalfBacks-kids-rugby-Logo_thumb.png" width="150" height="73" alt="HalfBacks kids rugby Logo" class="right" /></a>
-
     Half Backs is excited to announce that we will be expanding by launching a new session for two to six year olds to enjoy rugby in the Twickenham area. Working in Partnership with Thamesians RFC we will be offering our fun, and active rugby based play sessions.
 ---
 

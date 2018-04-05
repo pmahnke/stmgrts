@@ -5,10 +5,8 @@ permalink: /archives/2011/11/major_pollution_damage_to_the_river_crane.html
 commentfile: 2011-11-03-major_pollution_damage_to_the_river_crane
 category: news
 date: 2011-11-03 21:14:36
+image: "/assets/images/2017/2011_river_crane-from-moormead-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/2011_river_crane-from-moormead.jpg" title="Click for a larger image"><img src="/assets/images/2017/2011_river_crane-from-moormead-thumb.jpg" width="150" alt="Image - 2011_river_crane-from-moormead"  class="photo right"/></a>
-
     FORCE trustees and members have been very saddened to see the effects of a major pollution incident in the River Crane over the last few days. This has been caused by raw sewage flowing into the river by the A4 Bath Road between Saturday night and early Monday morning due to a defective valve on the two metre diameter sewer that services the Heathrow area.
 
 ---

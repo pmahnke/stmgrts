@@ -5,12 +5,10 @@ permalink: /archives/2014/06/event_reminder_big_dance_bus_28_june_2014.html
 commentfile: 2014-06-12-event_reminder_big_dance_bus_28_june_2014
 category: around_town
 date: 2014-06-12 22:09:20
+image: "/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res.jpg" title="See larger version of - Big Dance Bus Twickenham 2012 low res"><img src="/assets/images/2014/Big_Dance_Bus_Twickenham_2012_low_res_thumb.jpg" width="150" height="225" alt="Big Dance Bus Twickenham 2012 low res" class="photo right" /></a>
-    
-     
     <a href="https://stmargarets.london/event/event/200705144500">The Big Dance Bus is back to get everyone dancing at Twickenham Green this summer!</a>
-    
+
     Last seen in the borough in 2012, this quirky double-decker bus pulls up with its own dance-floor, pumping sound system, compere, DJ and professional touring dance company, turning into a pop-up ballroom and ready made rave.
 
 ---

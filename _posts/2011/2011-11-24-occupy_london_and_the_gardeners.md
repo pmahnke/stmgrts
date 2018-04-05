@@ -5,9 +5,8 @@ permalink: /archives/2011/11/occupy_london_and_the_gardeners.html
 commentfile: 2011-11-24-occupy_london_and_the_gardeners
 category: around_town
 date: 2011-11-24 22:10:28
+image: "/assets/images/2011/OCCUPY_London2011_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/OCCUPY_London2011.jpg" title="See larger version of - OCCUPY London 2011"><img src="/assets/images/2011/OCCUPY_London2011_thumb.jpg" width="150" height="112" alt="OCCUPY London 2011" class="photo right" /></a>
-    
     
     The Occupy London protest is not the first to have upset the good people of St Paul's. There were similar ructions in 1345. Then the dispute was not about anti-capitalism but about fruit and veg... and chickens.
 

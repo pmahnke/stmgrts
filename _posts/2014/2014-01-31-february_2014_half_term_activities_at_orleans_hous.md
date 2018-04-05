@@ -5,9 +5,8 @@ permalink: /archives/2014/01/february_2014_half_term_activities_at_orleans_hous.
 commentfile: 2014-01-31-february_2014_half_term_activities_at_orleans_hous
 category: around_town
 date: 2014-01-31 08:58:22
+image: "/assets/images/2014/Feb-Half-Term-Poster-2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Feb-Half-Term-Poster-2014.jpg" title="See larger version of - Feb Half Term Poster 2014"><img src="/assets/images/2014/Feb-Half-Term-Poster-2014_thumb.jpg" width="150" height="207" alt="Feb Half Term Poster 2014" class="photo right" /></a>
-    
     Orleans House Gallery offers a range of fun, inspiring and creative activities  for children and young people to keep you busy creating.  Visit <a href="http://www.richmond.gov.uk/home/leisure_and_culture/arts/orleans_house_gallery.htm">our website</a> to find out more about what is happening each day.
 
 ---

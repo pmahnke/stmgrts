@@ -5,9 +5,8 @@ permalink: /archives/2011/05/new_twickenham_station_plans_published.html
 commentfile: 2011-05-12-new_twickenham_station_plans_published
 category: news
 date: 2011-05-12 12:23:18
+image: "/assets/images/2011/solum_twick_station_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/solum_twick_station.jpg" title="See larger version of - Solum"><img src="/assets/images/2011/solum_twick_station_thumb.jpg" width="300" height="200" alt="Solum" class="photo center" /></a>
-    
     <a href="http://www.solumregeneration.co.uk/twickenham.html">Solum</a> have withdrawn their planning applications for a 165-unit development and a podium for it to rest on above the platforms. Instead they have submitted a new single bid ("11/1443":https://stmargarets.london/l/Tuqsq) for a 115-unit development plus podium, which was published on May 11, 2011. The usually-mandatory affordable housing has been cut out allowing a 1-floor height reduction.
     
     The piling work for the podium is scheduled for October (there are no rugby internationals this autumn) so Solum are looking for a quick go-ahead for this scheme, either from the Council or from an Inspector on appeal. So if you <a href="https://stmargarets.london/l/4lTdS">wish to comment or object you should do so quickly.</a>

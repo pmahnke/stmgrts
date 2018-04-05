@@ -5,9 +5,8 @@ permalink: /archives/2015/06/the_magical_hag_stones_of_the_river_crane.html
 commentfile: 2015-06-25-the_magical_hag_stones_of_the_river_crane
 category: around_town
 date: 2015-06-25 22:57:45
+image: "/assets/images/2015/HAGSTONES_Hag-Stones_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HAGSTONES_Hag-Stones.jpg" title="See larger version of - Hag Stones"><img src="/assets/images/2015/HAGSTONES_Hag-Stones_thumb.jpg" width="150" height="159" alt="Hag Stones" class="photo right" /></a>
-    
     To most people they are just stones with holes in them - a curiosity that you might dangle on a nail or use as a key fob - but to observers of the occult or followers of the faerie way they are hag stones and imbued with great magical powers...
     
 

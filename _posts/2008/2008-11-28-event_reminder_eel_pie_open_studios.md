@@ -5,8 +5,8 @@ permalink: /archives/2008/11/event_reminder_eel_pie_open_studios.html
 commentfile: 2008-11-28-event_reminder_eel_pie_open_studios
 category: around_town
 date: 2008-11-28 13:10:00
+image: "/assets/images/2008/EelPieXmas08card-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/EelPieXmas08card.jpg"><img src="/assets/images/2008/EelPieXmas08card-thumb.jpg" width="150" height="105" alt="card" class="photo right" /></a>
     
     
     

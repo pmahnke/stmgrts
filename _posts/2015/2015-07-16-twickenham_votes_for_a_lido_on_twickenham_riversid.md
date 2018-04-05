@@ -5,9 +5,8 @@ permalink: /archives/2015/07/twickenham_votes_for_a_lido_on_twickenham_riversid.
 commentfile: 2015-07-16-twickenham_votes_for_a_lido_on_twickenham_riversid
 category: around_town
 date: 2015-07-16 19:25:10
+image: "/assets/images/2015/twickenham-Lido-Plan_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/twickenham-Lido-Plan.jpg" title="See larger version of - twickenham Lido Plan"><img src="/assets/images/2015/twickenham-Lido-Plan_thumb.jpg" width="150" height="116" alt="twickenham Lido Plan" class="right" /></a>
-    
     During consultations with local stakeholders it has become clear that there is a wish to bring back a Lido on Twickenham Riverside. Twickenham Alive has identified a successful "courtyard" style lido in Bristol which would fit into the site available.
 
 ---

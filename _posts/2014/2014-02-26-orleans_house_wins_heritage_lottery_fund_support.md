@@ -5,9 +5,8 @@ permalink: /archives/2014/02/orleans_house_wins_heritage_lottery_fund_support.ht
 commentfile: 2014-02-26-orleans_house_wins_heritage_lottery_fund_support
 category: news
 date: 2014-02-26 11:23:02
+image: "/assets/images/2014/orleans_house_painting_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/orleans_house_painting.jpg" title="See larger version of - orleans house painting"><img src="/assets/images/2014/orleans_house_painting_thumb.jpg" width="150" height="111" alt="orleans house painting" class="photo right" /></a>
-    
     Orleans House Gallery in Twickenham has received initial support from the Heritage Lottery Fund (HLF) for the Transforming Orleans House project. The &pound;3.2m project aims to preserve and make accessible the important heritage assets that comprise the Orleans House Gallery site, including restoring the grade one listed Octagon Room and increase public access to the Richmond upon Thames Borough Art Collection.
 
 ---

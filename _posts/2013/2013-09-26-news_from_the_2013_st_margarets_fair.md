@@ -5,9 +5,8 @@ permalink: /archives/2013/09/news_from_the_2013_st_margarets_fair.html
 commentfile: 2013-09-26-news_from_the_2013_st_margarets_fair
 category: news
 date: 2013-09-26 21:01:24
+image: "/assets/images/2013/SMFLogo180.gif"
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right" alt="" /></a>
-    
     All the bills are paid and all the money has now been counted.
     
     Unlike last year when our profits suffered from the rain, this year's sun - and your support and generosity - means that we have &pound;16,000 to share between our local schools and charities.

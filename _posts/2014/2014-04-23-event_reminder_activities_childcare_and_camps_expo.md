@@ -5,9 +5,8 @@ permalink: /archives/2014/04/event_reminder_activities_childcare_and_camps_expo.
 commentfile: 2014-04-23-event_reminder_activities_childcare_and_camps_expo
 category: around_town
 date: 2014-04-23 20:05:58
+image: "/assets/images/2014/FSS-Summer-Camps-Expo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/FSS-Summer-Camps-Expo.jpg" title="See larger version of - FSS Summer Camps Expo"><img src="/assets/images/2014/FSS-Summer-Camps-Expo_thumb.jpg" width="150" height="200" alt="FSS Summer Camps Expo" class="photo right" /></a>
-    
     Parents in Richmond Borough with children aged 2-7 who are looking for fun and educational classes and clubs for the May half-term and Summer holidays will get the chance to meet a huge range of local providers at the Activities, Childcare and Camps Expo on 30<sup>th</sup> April.
     
 

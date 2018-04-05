@@ -5,9 +5,8 @@ permalink: /archives/2014/03/the_tragic_death_of_miss_nita_foy.html
 commentfile: 2014-03-06-the_tragic_death_of_miss_nita_foy
 category: around_town
 date: 2014-03-06 21:38:38
+image: "/assets/images/2014/FOY_Anita-Foy_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/FOY_Anita-Foy.jpg" title="See larger version of - Anita Foy"><img src="/assets/images/2014/FOY_Anita-Foy_thumb.jpg" width="150" height="150" alt="Anita Foy" class="photo right" /></a>
-    
     
     Miss Nita Foy was burned to death when her clothing caught fire at the Twickenham Film Studio. Miss Foy was one of several chorus girls appearing in <em>"Here Comes The Bride"</em> at the Piccadilly Theatre who were to take part in a ballet scene in a film. The girls were wearing crinoline dresses and in a way not yet explained Miss Foy's dress caught fire.
     

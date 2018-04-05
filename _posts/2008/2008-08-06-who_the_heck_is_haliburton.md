@@ -5,8 +5,8 @@ permalink: /archives/2008/08/who_the_heck_is_haliburton.html
 commentfile: 2008-08-06-who_the_heck_is_haliburton
 category: around_town
 date: 2008-08-06 15:15:25
+image: "/assets/images/2008/Thomas_Haliburton-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/Thomas_Haliburton.jpg"><img src="/assets/images/2008/Thomas_Haliburton-thumb.jpg" width="121" height="150" alt="Thomas Chandler Haliburton" class="photo right" /></a>
     
     
     There are some lucky people whose self-esteem is enhanced by living in a road named after the famous or the good -- or both. Statesmen, sports personalities, explorers and even top-secret World War 2 acronyms have all given their names to local streets.

@@ -5,9 +5,8 @@ permalink: /archives/2016/04/ageukrichmond-spring-2016-garden.html
 commentfile: 2016-04-16-ageukrichmond-spring-2016-garden
 category: around_town
 date: 2016-04-16 08:33:11
+image: "/assets/images/2016/agerichmond-garden-service_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/agerichmond-garden-service.jpg" title="See larger version of - agerichmond garden service"><img src="/assets/images/2016/agerichmond-garden-service_thumb.jpg" width="150" height="100" alt="agerichmond garden service" class="photo right" /></a>
-
     Planning a spring makeover for your house and garden? We've got the help you need! Our Handyperson and Gardening Service isn't just for older people - any adult living in our Borough can use our services.
 ---
 

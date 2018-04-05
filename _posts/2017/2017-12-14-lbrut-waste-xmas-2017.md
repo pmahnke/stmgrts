@@ -5,9 +5,8 @@ permalink: /archives/2017/12/lbrut-waste-xmas-2017.html
 commentfile: 2017-12-14-lbrut-waste-xmas-2017
 category: news
 date: 2017-12-14 13:50:43
+image: "/assets/images/2017/lbrut-waste-xmas-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/lbrut-waste-xmas-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-waste-xmas-2017-thumb.jpg" width="150" alt="Image - lbrut-waste-xmas-2017"  class="photo right"/></a>
-
     Residents are being reminded that their collection times will be subject to change over the Christmas and New Year holiday period.
 
     Following the Bank Holiday on Tuesday 26 December, Richmond Council will carry out waste and recycling collections (including Garden Waste Collections) for domestic properties two days later than usual.  For example, Monday collections will take place on Wednesday and the Tuesday collections on Thursday.

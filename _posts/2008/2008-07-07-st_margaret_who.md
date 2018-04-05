@@ -5,8 +5,8 @@ permalink: /archives/2008/07/st_margaret_who.html
 commentfile: 2008-07-07-st_margaret_who
 category: around_town
 date: 2008-07-07 08:16:20
+image: "/assets/images/2008/stmargaret_statue-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/stmargaret_statue.jpg"><img src="/assets/images/2008/stmargaret_statue-thumb.jpg" width="99" height="150" alt="status of st margaret" class="photo right" /></a>
     
     
     I went to see St Margaret yesterday -- but the poor soul wasn't looking her best. A hundred years of nights out on the tiles has left our local Saint looking pitted and windblown... but that's what happens when you're a stone statue!

@@ -5,9 +5,8 @@ permalink: /archives/2015/01/voice_works_voice_and_singing_workshops.html
 commentfile: 2015-01-15-voice_works_voice_and_singing_workshops
 category: around_town
 date: 2015-01-15 22:03:44
+image: "/assets/images/2015/voice-works-flyer_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/voice-works-flyer.png" title="See larger version of - voice works flyer"><img src="/assets/images/2015/voice-works-flyer_thumb.png" width="150" height="191" alt="voice works flyer" class="photo right" /></a>
-    
     
     _Where you can find your voice!_
     

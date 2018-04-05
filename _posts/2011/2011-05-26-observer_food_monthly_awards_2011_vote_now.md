@@ -5,9 +5,8 @@ permalink: /archives/2011/05/observer_food_monthly_awards_2011_vote_now.html
 commentfile: 2011-05-26-observer_food_monthly_awards_2011_vote_now
 category: news
 date: 2011-05-26 22:46:40
+image: "/assets/images/2011/observerfoodmonthlyaward_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/observerfoodmonthlyaward.jpg" title="See larger version of - Observer Food Monthly Award 2011"><img src="/assets/images/2011/observerfoodmonthlyaward_thumb.jpg" width="150" height="138" alt="Observer Food Monthly Award 2011" class="span-4 right" /></a>
-    
     For anyone who loves our local food businesses - caf{e'}s, restaurants, pubs, and independent food retailers -- the <a href="http://www.easyanswer.net/observer/">OFM awards</a> are a great place to show your affection by voting for them and possibly seeing them scoop one of these prestigious prizes. The awards are some of the most sought after in the world of food, and you can help them to recognise some of your local St Margarets food heroes.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2010/11/ill_fly_it_if_youll_buy_it.html
 commentfile: 2010-11-11-ill_fly_it_if_youll_buy_it
 category: around_town
 date: 2010-11-11 22:04:10
+image: "/assets/images/2010/Spitfire_Twickenham_11_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Spitfire_Twickenham_11.jpg" title="See larger version of - Spitfire Twickenham"><img src="/assets/images/2010/Spitfire_Twickenham_11_thumb.jpg" width="300" height="213" alt="Spitfire Twickenham" class="photo center" /></a>
-    
     _We were really up against it, that summer of 1940. We all knew it..._
     
     Hitler's Army had swept across Europe and was now glaring at us from across the Channel. The British Expeditionary Force had been brought home from Dunkirk. We were all beginning to lose weight because of rationing and now we were being reminded to always carry our gas masks - just in case.  Above our heads the summer skies were laced with twisting vapour trails as the RAF took on the German Luftwaffe... and on the ground we wondered what we could do to help those brave young men who were risking their lives to save ours.

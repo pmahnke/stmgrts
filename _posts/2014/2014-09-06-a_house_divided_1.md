@@ -5,9 +5,8 @@ permalink: /archives/2014/09/a_house_divided_1.html
 commentfile: 2014-09-06-a_house_divided_1
 category: around_town
 date: 2014-09-06 09:06:11
+image: "/assets/images/2014/House_Divided_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/House_Divided.jpg" title="See larger version of - House Divided"><img src="/assets/images/2014/House_Divided_thumb.jpg" width="150" height="152" alt="House Divided" class="right" /></a>
-    
     Once Upon A Present Day...
     
     George and Flora had been married for a long time and seemed very happy together. Of course there had been the occasional row - and the dents in the kitchen cabinets suggested that perhaps pots and pans had been thrown around in the past - but generally speaking all appeared well until...

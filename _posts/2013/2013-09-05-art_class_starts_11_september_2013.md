@@ -5,9 +5,8 @@ permalink: /archives/2013/09/art_class_starts_11_september_2013.html
 commentfile: 2013-09-05-art_class_starts_11_september_2013
 category: around_town
 date: 2013-09-05 22:07:02
+image: "/assets/images/2013/Seasons-logo-Col-neg_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Seasons-logo-Col-neg.jpg" title="See larger version of - Seasons logo"><img src="/assets/images/2013/Seasons-logo-Col-neg_thumb.jpg" width="150" height="117" alt="Seasons logo" class="photo right" /></a>
-    
     _Absolute Beginners will Love this Fun Course!_
     
     It's time for you to get creative and learn how to draw and paint even if you've never picked up a paint brush before!

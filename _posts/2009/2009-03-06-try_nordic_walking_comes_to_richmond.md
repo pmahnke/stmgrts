@@ -5,8 +5,8 @@ permalink: /archives/2009/03/try_nordic_walking_comes_to_richmond.html
 commentfile: 2009-03-06-try_nordic_walking_comes_to_richmond
 category: around_town
 date: 2009-03-06 08:46:42
+image: "/assets/images/2009/trynordic-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/trynordic.jpg"><img src="/assets/images/2009/trynordic-thumb.jpg" width="150" height="112" alt="Try Nordic Walking comes to Richmond" class="photo right" /></a>
     
     
     <a href="https://stmargarets.london/directory/sports/200903060340">Nordic Walking</a> evolved in the 1930's by cross-country skiers who wanted to retain their fitness during the summer months.

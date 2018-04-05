@@ -5,9 +5,8 @@ permalink: /archives/2016/10/event-orleans-gallery-october-half-term-2016.html
 commentfile: 2016-10-02-event-orleans-gallery-october-half-term-2016
 category: around_town
 date: 2016-10-02 07:32:49
+image: "/assets/images/2016/orleans-october-2016-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/orleans-october-2016-poster.jpg" title="See larger version of - orleans october 2016 poster"><img src="/assets/images/2016/orleans-october-2016-poster_thumb.jpg" width="150" height="213" alt="orleans october 2016 poster" class="photo right" /></a>
-
     _Join us during your half term from 24 to 28 October._
 
     This half term will be part of the Big Draw 2016. Taking inspiration from this year’s theme STEAM as well as autumn and Halloween, you can create artworks inspired by science and experiment with a range of materials including clay, textiles, printing and more! Have a go at experimenting with light to make shadow puppets, create a drawing robot and make your Halloween costume!

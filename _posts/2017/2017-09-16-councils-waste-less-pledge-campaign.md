@@ -5,9 +5,8 @@ permalink: /archives/2017/09/councils-waste-less-pledge-campaign.html
 commentfile: 2017-09-16-councils-waste-less-pledge-campaign
 category: news
 date: 2017-09-16 08:36:21
+image: "/assets/images/2017/waste-less-live-more-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/waste-less-live-more.jpg" title="Click for a larger image"><img src="/assets/images/2017/waste-less-live-more-thumb.jpg" width="150" alt="Image - waste-less-live-more"  class="right"/></a>
-
     The average family wastes over &pound;700 a year, throwing away food that could otherwise be eaten. Keep Britain Tidy is encouraging everyone to sign up to their 'Waste Less, Live More Challenge' between the 14 - 24 September.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2011/02/you_are_kolley_kibber_you_come_from_strawberry_hil.
 commentfile: 2011-02-18-you_are_kolley_kibber_you_come_from_strawberry_hil
 category: around_town
 date: 2011-02-18 17:43:32
+image: "/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/KIBBER_Brighton-Rock.jpg" title="See larger version of - Brighton Rock poster"><img src="/assets/images/2011/KIBBER_Brighton-Rock_thumb.jpg" width="150" height="219" alt="Brighton Rock poster" class="photo right" /></a>
-
     <em>"... and I Claim The 'Community Newsletter' Prize!"</em>
 
     Graham Greene's 1938 thriller "Brighton Rock" - recently been filmed for the second time - opens with the murder of a newspaper tout called Kolley Kibber.

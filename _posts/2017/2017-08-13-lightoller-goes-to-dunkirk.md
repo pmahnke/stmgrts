@@ -6,9 +6,8 @@ commentfile: 2017-08-13-lightoller-goes-to-dunkirk
 category: around_town
 author: Martyn Day
 date: 2017-08-13 06:20:10
+image: "/assets/images/2017/LIGHTOLLERDUNKIRK_Charles-Lightoller-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LIGHTOLLERDUNKIRK_Charles-Lightoller.jpg" title="Click for a larger image"><img src="/assets/images/2017/LIGHTOLLERDUNKIRK_Charles-Lightoller-thumb.jpg" width="150" alt="Image - LIGHTOLLERDUNKIRK_Charles-Lightoller"  class="photo right"/></a>
-
     Is courage something that is always there - flowing constantly and always on hand when needed - or is it something that we must go looking for inside ourselves, in the hope that we'll find it?
 
     For local resident Charles Herbert Lightoller, late of No. 1, Duck's Walk, East Twickenham, courage was always there. In 1912, serving as Second Officer aboard the apparently unsinkable <em>'Titanic'</em> he helped save 30 survivors by encouraging them to cling to an upturned boat. Second Officer Lightoller was the last survivor to be pulled from the water

@@ -5,9 +5,8 @@ permalink: /archives/2010/10/the_austerity_games_july_29_to_august_14_1948.html
 commentfile: 2010-10-29-the_austerity_games_july_29_to_august_14_1948
 category: around_town
 date: 2010-10-29 08:49:14
+image: "/assets/images/2010/olympics_1948_londonposter_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2010/olympics_1948_londonposter.gif" title="See larger version of - 1948 London Olympics Poster"><img src="/assets/images/2010/olympics_1948_londonposter_thumb.gif" width="95" height="150" alt="1948 London Olympics Poster" class="photo right" /></a>
-
     ### When The Olympics Came To Richmond
 
     62 years ago in 1948 Britain was in a situation very similar to today - flat broke, up to its neck in debt and with a very expensive Olympic Games to pay for.

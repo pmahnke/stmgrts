@@ -5,8 +5,8 @@ permalink: /archives/2009/07/the_ghost_buster_from_st_margarets.html
 commentfile: 2009-07-09-the_ghost_buster_from_st_margarets
 category: around_town
 date: 2009-07-09 21:12:57
+image: "/assets/images/2009/mask_cook_poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/mask_cook_poster.jpg"><img src="/assets/images/2009/mask_cook_poster-thumb.jpg" width="106" height="150" alt="MASKELYNE AND COOKE' THEATRE POSTER" class="photo right" /></a>
     
     
     In 1864 a 25 year old Cheltenham watchmaker called John Nevil Maskelyne was visited by an American gentleman with a piece of 'apparatus' that needed attention. Its only apparent purpose was to make rapping noises on the underside of tables. The stranger paid well for the work and when he left he said to Maskelyne...

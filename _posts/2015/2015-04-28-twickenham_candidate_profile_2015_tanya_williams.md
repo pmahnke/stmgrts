@@ -5,9 +5,8 @@ permalink: /archives/2015/04/twickenham_candidate_profile_2015_tanya_williams.ht
 commentfile: 2015-04-28-twickenham_candidate_profile_2015_tanya_williams
 category: news
 date: 2015-04-28 09:13:14
+image: "/assets/images/2015/Tanya-Riveside2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Tanya-Riveside2.jpg" title="See larger version of - Tanya"><img src="/assets/images/2015/Tanya-Riveside2_thumb.jpg" width="150" height="175" alt="Tanya" class="photo right" /></a>
-    
     Read Tanya Williams' profile as a parliamentary candidate for Twickenham.
     
 

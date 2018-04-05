@@ -5,9 +5,8 @@ permalink: /archives/2014/05/help_busk_for_charity_7_june_2014.html
 commentfile: 2014-05-22-help_busk_for_charity_7_june_2014
 category: around_town
 date: 2014-05-22 22:56:01
+image: "/assets/images/2014/UkeBuskingPoster4LOW_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/UkeBuskingPoster4LOW.jpg" title="See larger version of - UkeBuskingPoster"><img src="/assets/images/2014/UkeBuskingPoster4LOW_thumb.jpg" width="150" height="219" alt="UkeBuskingPoster" class="photo right" /></a>
-    
     Is anybody free to help us with busking on Sat 7<sup>th</sup> June at St Margarets Tavern, 1-3pm for a very worthy cause- Twickenham based Off The Record whose volunteer counsellors help children and young people that's lost its funding.
     
 

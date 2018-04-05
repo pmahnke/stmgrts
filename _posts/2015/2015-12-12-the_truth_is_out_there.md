@@ -5,9 +5,8 @@ permalink: /archives/2015/12/the_truth_is_out_there.html
 commentfile: 2015-12-12-the_truth_is_out_there
 category: around_town
 date: 2015-12-12 09:41:53
+image: "/assets/images/2015/TRUTH_Elephant_by_Thames_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/TRUTH_Elephant_by_Thames.jpg" title="See larger version of - Elephant by Thames"><img src="/assets/images/2015/TRUTH_Elephant_by_Thames_thumb.jpg" width="150" height="100" alt="Elephant by Thames" class="photo right" /></a>
-    
     If you have recently walked up the path by the Thames, from Richmond Bridge to Hammerton's Ferry, you may have noticed an elephant lurking in the bushes. Whether it is an actual elephant or something that just looks like an elephant is neither here nor there but it would have been of considerable interest to American writer and researcher Charles Hoy Fort. He would even have had a name for such a curiosity - Simulacra.
 
 ---

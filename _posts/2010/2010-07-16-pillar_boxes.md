@@ -5,9 +5,8 @@ permalink: /archives/2010/07/pillar_boxes.html
 commentfile: 2010-07-16-pillar_boxes
 category: around_town
 date: 2010-07-16 10:46:41
+image: "/assets/images/2010/pillar_Richmond-Anonymous_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/pillar_Richmond-Anonymous.jpg" title="See larger version of - Anonymous Pillar"><img src="/assets/images/2010/pillar_Richmond-Anonymous_thumb.jpg" width="99" height="150" alt="Anonymous Pillar" class="photo right" /></a>
-    
     Walk through the archway at Old Richmond Palace towards the Green and you will see in front of you a historical rarity.  It looks so commonplace that most people walk by without even noticing. It is a red, cast iron, pillar-box, just like any of thousands to be found all over the country, but it differs from them in one unusual way. It carries no royal cipher. 
 
 ---

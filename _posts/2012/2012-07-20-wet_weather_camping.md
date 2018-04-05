@@ -5,9 +5,8 @@ permalink: /archives/2012/07/wet_weather_camping.html
 commentfile: 2012-07-20-wet_weather_camping
 category: around_town
 date: 2012-07-20 10:45:57
+image: "/assets/images/2012/WETCAMP_rainy_glastonbury_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/WETCAMP_rainy_glastonbury.jpg" title="See larger version of - rainy glastonbury"><img src="/assets/images/2012/WETCAMP_rainy_glastonbury_thumb.jpg" width="150" height="100" alt="rainy glastonbury" class="photo right" /></a>
-    
     
     _Top Tips and Helpful Hints from "Akela"_
     

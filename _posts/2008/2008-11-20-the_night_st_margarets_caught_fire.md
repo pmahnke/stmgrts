@@ -5,8 +5,8 @@ permalink: /archives/2008/11/the_night_st_margarets_caught_fire.html
 commentfile: 2008-11-20-the_night_st_margarets_caught_fire
 category: news
 date: 2008-11-20 10:29:15
+image: "/assets/images/2008/beufort_works-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/beufort_works.jpg"><img src="/assets/images/2008/beufort_works-thumb.jpg" width="150" height="109" alt="BEAUFORT WORKS - BEAUFORT ROAD, ST MARGARETS 29/11/40 - from LBRUT Local Studies collection" class="photo right" /></a>
     
     
     

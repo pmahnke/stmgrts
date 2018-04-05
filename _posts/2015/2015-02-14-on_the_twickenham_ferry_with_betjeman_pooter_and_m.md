@@ -5,9 +5,8 @@ permalink: /archives/2015/02/on_the_twickenham_ferry_with_betjeman_pooter_and_m.
 commentfile: 2015-02-14-on_the_twickenham_ferry_with_betjeman_pooter_and_m
 category: around_town
 date: 2015-02-14 09:55:53
+image: "/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC.jpg" title="See larger version of - Betjeman at the BBC"><img src="/assets/images/2015/TWICKFERRY_Betjeman_at_the_BBC_thumb.jpg" width="150" height="187" alt="Betjeman at the BBC" class="photo right" /></a>
-
     In a radio programme broadcast on Christmas Eve 1950, the poet John Betjeman invited listeners to join him at a Victorian musical evening...
 
 ---

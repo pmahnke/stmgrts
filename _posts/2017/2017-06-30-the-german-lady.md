@@ -6,9 +6,8 @@ commentfile: 2017-06-30-the-german-lady
 category: around_town
 author: Martyn Day
 date: 2017-06-30 20:52:04
+image: "/assets/images/2017/GERMANLADY_lausanne-road-house-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/GERMANLADY_lausanne-road-house.jpg" title="Click for a larger image"><img src="/assets/images/2017/GERMANLADY_lausanne-road-house-thumb.jpg" width="150" alt="Image - GERMANLADY_lausanne-road-house"  class="photo right"/></a>
-
     When I was a little boy I lived in Lausanne Road in Hornsey. It is part of the Harringay Ladder, a grid of Victorian streets running east -west between Wightman Road and Green Lanes. In my time, just after the 2<sup>nd</sup> World War, the streets were empty of cars and apart from the occasional milk float clip-clopping its way down the road and the weekly dustcart the area was largely free of traffic. It was halfway down this street that the German Lady lived and watched us kids playing outside her front door.
 
 ---

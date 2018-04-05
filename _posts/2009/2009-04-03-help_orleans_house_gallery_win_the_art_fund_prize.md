@@ -5,8 +5,8 @@ permalink: /archives/2009/04/help_orleans_house_gallery_win_the_art_fund_prize.h
 commentfile: 2009-04-03-help_orleans_house_gallery_win_the_art_fund_prize
 category: news
 date: 2009-04-03 09:09:01
+image: "/images/directory/200506150208_Orleans_House_Gallery.jpg"
 excerpt: |
-    <img src="https://stmargarets.london/images/directory/200506150208_Orleans_House_Gallery.jpg"  alt="Orleans_House_Gallery" width="150" height="112" class="photo right" />
     
     Orleans House Gallery has been long-listed for a &pound;100,000 prize in the Art Fund prize draw. Ten museums and galleries across the country are competing for the grant which is awarded to the project who demonstrates the most originality, imagination and excellence.
 

@@ -5,9 +5,8 @@ permalink: /archives/2011/09/a_noble_little_instrument.html
 commentfile: 2011-09-07-a_noble_little_instrument
 category: around_town
 date: 2011-09-07 13:23:00
+image: "/assets/images/2011/UKE_ukulele_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/UKE_ukulele.jpg" title="See larger version of - A Ukulele"><img src="/assets/images/2011/UKE_ukulele_thumb.jpg" width="150" height="125" alt="A Ukulele" class="right" /></a>
-    
     The ukulele is back in vogue again following the same high curve of popularity as the piano accordion, the banjo, the ocarina, the mouth organ and the guitar before it. Although the guitar is the only instrument to have maintained its level of popularity the little uke looks set to follow.
 
 ---

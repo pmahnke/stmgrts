@@ -5,9 +5,8 @@ permalink: /archives/2010/10/event_reminder_making_it_faking_it.html
 commentfile: 2010-10-14-event_reminder_making_it_faking_it
 category: around_town
 date: 2010-10-14 22:55:45
+image: "/assets/images/2010/lexthomasmrandmrsandrews_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/lexthomasmrandmrsandrews.jpg" title="See larger version of - lex thomas mr and mrs andrews"><img src="/assets/images/2010/lexthomasmrandmrsandrews_thumb.jpg" width="147" height="150" alt="lex thomas mr and mrs andrews" class=" right" /></a>
-
 
     <a href="https://stmargarets.london/event/exhibition/200705142575">Orleans House Gallery from 2 October 2010- 23 January 2011</a>
 

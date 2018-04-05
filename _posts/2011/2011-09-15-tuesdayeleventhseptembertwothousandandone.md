@@ -5,9 +5,8 @@ permalink: /archives/2011/09/tuesdayeleventhseptembertwothousandandone.html
 commentfile: 2011-09-15-tuesdayeleventhseptembertwothousandandone
 category: around_town
 date: 2011-09-15 10:26:52
+image: "/assets/images/2011/skopje_main_square_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/skopje_main_square.jpg" title="See larger version of - Skopje's main square"><img src="/assets/images/2011/skopje_main_square_thumb.jpg" width="150" height="112" alt="Skopje's main square" class="photo right" /></a>
-    
     _This is my memory of 9/11 and the reaction of the people I was with at the time._
     
     On Tuesday September 11<sup>th</sup> 2001 I was in the Balkans, sitting in front of an editing machine in the basement of a building in Skopje, Macedonia. We were cutting a children's TV drama series called _"Nashe Maalo"_ about a multi ethnic group of young people - Albanian, Macedonian, Roma and Turkish - who solved their cultural differences through peaceful conflict resolution and understanding. The series was produced in response to the recent war in Kosovo, 7 miles to the north. Fearing a repeat of similar inter-ethnic conflict in Macedonia _"Nashe Maalo"_ had been commissioned by UNESCO to promote peace between the various cultural groups.

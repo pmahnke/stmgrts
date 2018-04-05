@@ -5,9 +5,8 @@ permalink: /archives/2014/07/sun_draws_record_crowds_to_the_2014_st_margarets_f.
 commentfile: 2014-07-17-sun_draws_record_crowds_to_the_2014_st_margarets_f
 category: news
 date: 2014-07-17 22:48:46
+image: "/assets/images/2014/SMF_Dog_Show_thumb._Disabled_dog_Patch_with_owner_Glyn_Roberts"
 excerpt: |
-    <a href="/assets/images/2014/SMF_Dog_Show._Disabled_dog_Patch_with_owner_Glyn_Roberts.jpg" title="See larger version of - Dog Show. Disabled dog Patch with owner Glyn Roberts"><img src="/assets/images/2014/SMF_Dog_Show_thumb._Disabled_dog_Patch_with_owner_Glyn_Roberts" width="150" height="200" alt="Dog Show. Disabled dog Patch with owner Glyn Roberts" class="photo right" /></a>
-
     _Soaring temperatures and sunshine meant the event enjoyed its biggest ever attendance._
 
     Visitors were treated to a full day of attractions and activities including a local schools' 5-a-side football tournament, dance, a dog show (pictured), tennis taster lessons, a karate display and karting.

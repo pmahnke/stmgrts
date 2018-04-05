@@ -5,8 +5,8 @@ permalink: /archives/2010/10/the_boroughs_byelaws.html
 commentfile: 2010-10-25-the_boroughs_byelaws
 category: around_town
 date: 2010-10-25 19:50:06
+image: "/assets/images/2010/Woodcut-Tip-Cat-thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/Woodcut-Tip-Cat.png"><img alt="Woodcut-Tip-Cat.png" src="/assets/images/2010/Woodcut-Tip-Cat-thumb.png" width="150" height="101" class="right" /></a>
     
     The Borough's Bye-Laws have been kindly published by the Council, and as a result, the law abiding citizens of Twickenham need to be on their guard so as to ensure that they do not transgress. There appears to be different sets of rules applying to the three parts of the Borough united when the London Borough came into existence in 1965. Although there are a lot of similar provisions, those for Twickenham affect us and make interesting reading, perhaps.
     

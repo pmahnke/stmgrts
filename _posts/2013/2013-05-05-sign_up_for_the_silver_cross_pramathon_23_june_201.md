@@ -5,9 +5,8 @@ permalink: /archives/2013/05/sign_up_for_the_silver_cross_pramathon_23_june_201.
 commentfile: 2013-05-05-sign_up_for_the_silver_cross_pramathon_23_june_201
 category: around_town
 date: 2013-05-05 09:24:08
+image: "/assets/images/2013/pramathon_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/pramathon.jpg" title="See larger version of - pramathon 2013"><img src="/assets/images/2013/pramathon_thumb.jpg" width="300" height="114" alt="pramathon 2013" class="photo center" /></a>
-    
     _Genesis Research Trust_, is a charity set up in 1985 by our Founder and Chairman Professor Robert Winston. We finance vital medical research into conditions affecting women, children and ultimately families. Miscarriage, stillbirth, premature birth, brain damage and cancer are all diseases and conditions that our leading scientists are working to prevent.
 
 ---

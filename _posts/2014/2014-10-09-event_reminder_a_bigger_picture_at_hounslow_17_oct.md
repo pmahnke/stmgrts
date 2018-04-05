@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_a_bigger_picture_at_hounslow_17_oct.
 commentfile: 2014-10-09-event_reminder_a_bigger_picture_at_hounslow_17_oct
 category: around_town
 date: 2014-10-09 21:56:12
+image: "/assets/images/2014/Hounslow-invite_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/Hounslow-invite.png" title="See larger version of - Hounslow invite"><img src="/assets/images/2014/Hounslow-invite_thumb.png" width="150" height="212" alt="Hounslow invite" class="photo right" /></a>
-    
     Over the next three years, London's Screen Archives is hitting the road for London: A Bigger Picture - a major project to introduce the capital to its cinematic heritage, and collect your home movies. First stop? Hounslow.
 
 ---

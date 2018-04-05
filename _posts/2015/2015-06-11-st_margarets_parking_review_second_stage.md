@@ -5,9 +5,8 @@ permalink: /archives/2015/06/st_margarets_parking_review_second_stage.html
 commentfile: 2015-06-11-st_margarets_parking_review_second_stage
 category: news
 date: 2015-06-11 18:08:01
+image: "/assets/images/2015/St-Margarets-CPZ-S-Consultation-Diagram_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/St-Margarets-CPZ-S-Consultation-Diagram.jpg" title="See larger version of - St Margarets CPZ S Consultation Diagram"><img src="/assets/images/2015/St-Margarets-CPZ-S-Consultation-Diagram_thumb.jpg" width="150" height="104" alt="St Margarets CPZ S Consultation Diagram" class="photo right" /></a>
-    
     For people living in the St Margarets area, you will hopefully be aware that Richmond Council is consulting on proposals to change the parking zone areas.
     
 

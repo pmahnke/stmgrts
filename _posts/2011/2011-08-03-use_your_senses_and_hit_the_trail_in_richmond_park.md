@@ -5,9 +5,8 @@ permalink: /archives/2011/08/use_your_senses_and_hit_the_trail_in_richmond_park.
 commentfile: 2011-08-03-use_your_senses_and_hit_the_trail_in_richmond_park
 category: news
 date: 2011-08-03 09:46:33
+image: "/assets/images/2011/forp_book_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/forp_book.jpg" title="See larger version of - Book Cover - Family Trails in Richmond Park"><img src="/assets/images/2011/forp_book_thumb.jpg" width="150" height="216" alt="Book Cover - Family Trails in Richmond Park" class="photo right" /></a>
-    
     Friends of Richmond Park have just published a new book _specially_ designed for families to get the most out of the Park.  It's called _Family Trails_ and it is now on sale in bookshops and on the Friends website, <a href="http://www.frp.org.uk">www.frp.org.uk.</a>  All profits from sales of the book go back to the charity and conservation projects in the Park and as the Government has slashed park funding by over 25%, buying this book could really help preserve and improve the Park.  The book also includes a forward by one of the UK's leading children's authors, Jacqueline Wilson, a Patron of the Friends.
     
 

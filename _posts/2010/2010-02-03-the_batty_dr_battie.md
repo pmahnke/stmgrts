@@ -5,9 +5,8 @@ permalink: /archives/2010/02/the_batty_dr_battie.html
 commentfile: 2010-02-03-the_batty_dr_battie
 category: around_town
 date: 2010-02-03 21:30:42
+image: "/assets/images/2017/battie_1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/battie_1.jpg" title="Click for a larger image"><img src="/assets/images/2017/battie_1-thumb.jpg" width="150" alt="Image - battie_1"  class="photo right"/></a>
-
     Twickenham has been home to many eccentric people over the years but none so strange as Dr William Battie who lived there from 1740 to 1759.
 
     Dr Battie was born and baptised on the 1<sup>st</sup> September 1704 in Modbury is South Devon, the son of Reverend Edward Battie. His father had been a master at Eton and that is where young William went to school, moving on to Kings College in Cambridge where he studied law. Failing his bar exams and with insufficient funds to continue his legal training he "diverted his attention to physic" and took up medicine. After practising for many years in the field of psychiatry he bought two private "madhouses" near St Lukes in Cripplegate from which he gained a handsome income.

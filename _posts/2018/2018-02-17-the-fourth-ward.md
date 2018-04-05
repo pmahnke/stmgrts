@@ -6,9 +6,8 @@ commentfile: 2018-02-17-the-fourth-ward
 category: around_town
 author: "Martyn Day"
 date: 2018-02-17 13:17:29
+image: "/assets/images/2018/FOURTHWARD_St-Margarets-Station-1907-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/FOURTHWARD_St-Margarets-Station-1907.jpg" title="Click for a larger image"><img src="/assets/images/2018/FOURTHWARD_St-Margarets-Station-1907-thumb.jpg" width="150" alt="Image - FOURTHWARD_St-Margarets-Station-1907"  class="photo right"/></a>
-
     Some people, local estate agents mainly, insist on calling St Margarets  <em>'the village'</em> even though most of us know that our slice of paradise is really a  <em>'dormitory'</em> or <em>'a railway town'</em> which didn't really come into existence until the railway station was opened on Monday 2<sup>nd</sup> October 1876. Before then it was about 2,000 acres of pasture, arable land, wood and common. We should be grateful that we live in <em>'St Margarets'</em>. The local businessmen who helped pay for the new station wanted to call the neighbourhood <em>'Ailsa Bridge'</em>. Phew!
 
 

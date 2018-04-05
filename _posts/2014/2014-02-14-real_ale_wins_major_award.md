@@ -5,9 +5,8 @@ permalink: /archives/2014/02/real_ale_wins_major_award.html
 commentfile: 2014-02-14-real_ale_wins_major_award
 category: news
 date: 2014-02-14 09:08:36
+image: "/assets/images/2014/DRA_2014_logo_finalist_OL_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/DRA_2014_logo_finalist_OL.JPG" title="See larger version of - DRA 2014 logo finalist OL"><img src="/assets/images/2014/DRA_2014_logo_finalist_OL_thumb.JPG" width="150" height="234" alt="DRA 2014 logo finalist OL" class="right" /></a>
-    
     The Drinks Retailing Awards, awarded Real Ale Ltd 'Independent beer retailer of the year'.  Awarded for its commitment to championing beer and making it the core element in the success of their business in the past year.
 
 ---

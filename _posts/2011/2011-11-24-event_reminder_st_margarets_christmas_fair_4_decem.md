@@ -5,9 +5,8 @@ permalink: /archives/2011/11/event_reminder_st_margarets_christmas_fair_4_decem.
 commentfile: 2011-11-24-event_reminder_st_margarets_christmas_fair_4_decem
 category: around_town
 date: 2011-11-24 22:44:57
+image: "/assets/images/2011/stmagxmasfair2011poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/stmagxmasfair2011poster.jpg" title="See larger version of - st magerets xmas fair 2011 poster"><img src="/assets/images/2011/stmagxmasfair2011poster_thumb.jpg" width="150" height="212" alt="st magerets xmas fair 2011 poster" class="photo right" /></a>
-    
     _The St Margarets Traders Association proudly presents..._
     
     The St Margarets Christmas Fair - <a href="https://stmargarets.london/event/fair/200705143078">Sunday 4<sup>th</sup> December 2011 from 11.00am Crown Road St Margarets.</a>

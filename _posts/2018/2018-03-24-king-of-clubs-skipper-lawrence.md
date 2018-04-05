@@ -6,9 +6,8 @@ commentfile: 2018-03-24-king-of-clubs-skipper-lawrence
 category: around_town
 author: Martyn Day
 date: 2018-03-24 10:55:54
+image: "/assets/images/2018/SKIPPER_himself-revised-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/SKIPPER_himself-revised.jpg" title="Click for a larger image"><img src="/assets/images/2018/SKIPPER_himself-revised-thumb.jpg" width="150" alt="Image - SKIPPER_himself-revised"  class="photo right"/></a>
-
     The 8<sup>th</sup> of March marked the 55<sup>th</sup> anniversary of the death of a much-valued member of the St Margarets community whose name and contribution is now largely forgotten.
 
     In the summer of 1919 a local man, Arthur William Lawrence, came to the conclusion that the only thing St Margarets needed to turn it into an earthly paradise -- all the other necessary attributes being in place -- was a Scout Troop.

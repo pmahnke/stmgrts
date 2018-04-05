@@ -5,9 +5,8 @@ permalink: /archives/2014/06/commemorating_the_first_world_war.html
 commentfile: 2014-06-28-commemorating_the_first_world_war
 category: news
 date: 2014-06-28 12:43:14
+image: "/assets/images/2014/bw-wartimeimage_03_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/bw-wartimeimage_03.jpg" title="See larger version of - WWI soldiers"><img src="/assets/images/2014/bw-wartimeimage_03_thumb.jpg" width="150" height="55" alt="WWI soldiers" class="photo right" /></a>
-    
     To commemorate the Centenary of the First World War, a series of borough-wide events will be launched by Richmond Council throughout the year to mark the anniversary.
     
     The brochure 'Commemorating the first World War in Richmond upon Thames' has been launched by Richmond Council to give an overview of the activities taking place between July to December 2014. It provides details of 9 exhibitions, and 42 events including commemorations, community events and learning programmes as well as key highlights for future years.

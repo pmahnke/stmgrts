@@ -5,9 +5,8 @@ permalink: /archives/2015/05/arthur_chisnall_the_man_the_music_the_museum.html
 commentfile: 2015-05-21-arthur_chisnall_the_man_the_music_the_museum
 category: around_town
 date: 2015-05-21 22:13:27
+image: "/assets/images/2015/CHISNALL_arthur_chisnall_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/CHISNALL_arthur_chisnall.jpg" title="See larger version of - CHISNALL arthur chisnall"><img src="/assets/images/2015/CHISNALL_arthur_chisnall_thumb.jpg" width="150" height="185" alt="CHISNALL arthur chisnall" class="photo right" /></a>
-    
     bq. "You must realise that what goes on here is the expression of the latent desire among the young to get away from mass media and regimentation."
     
     <cite>Arthur Chisnall</cite>

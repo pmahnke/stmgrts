@@ -5,8 +5,8 @@ permalink: /archives/2017/12/christmas_church_services_in_our_area_2017.html
 commentfile: 2017-12-17-christmas_church_services_in_our_area_2017
 category: around_town
 date: 2017-12-14 13:55:39
+image: "/assets/images/2005/snowflake-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2005/snowflake-thumb.jpg"  class="right" width="150" alt="snowflake"/>
 
     Here is a list of church services for Christmas Eve and Christmas for some local churches in the St Margarets area.
 ---

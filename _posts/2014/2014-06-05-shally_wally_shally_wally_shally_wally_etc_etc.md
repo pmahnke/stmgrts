@@ -5,9 +5,8 @@ permalink: /archives/2014/06/shally_wally_shally_wally_shally_wally_etc_etc.html
 commentfile: 2014-06-05-shally_wally_shally_wally_shally_wally_etc_etc
 category: around_town
 date: 2014-06-05 21:54:47
+image: "/assets/images/2014/GGG_Camp_fire_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/GGG_Camp_fire.jpg" title="See larger version of - scout camp fire"><img src="/assets/images/2014/GGG_Camp_fire_thumb.jpg" width="150" height="100" alt="scout camp fire" class="photo right" /></a>
-    
     At last it can be told. The true story of <em>'Ging Gang Gooli'</em> (apparently) who wrote it and why (allegedly) , where it was first performed (possibly) and what it means (if anything)
 
 ---

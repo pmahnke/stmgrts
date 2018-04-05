@@ -5,9 +5,8 @@ permalink: /archives/2012/05/sir_david_attenborough_digs_new_jubilee_pond.html
 commentfile: 2012-05-17-sir_david_attenborough_digs_new_jubilee_pond
 category: news
 date: 2012-05-17 08:37:26
+image: "/assets/images/2012/D_Attenborough_with_spade_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/D_Attenborough_with_spade.jpg" title="See larger version of - D Attenborough with spade"><img src="/assets/images/2012/D_Attenborough_with_spade_thumb.jpg" width="150" height="224" alt="D Attenborough with spade" class="photo right" /></a>
-    
     During the Queen's visit to Richmond Park on Tuesday, 15 May, Sir David Attenborough dug the first spade of earth for the new Jubilee Pond to commemorate her Diamond Jubilee.
     
     Funded by the conservation charity Healthy Planet, the Friends of Richmond Park and through a public appeal, the pond will retain water in the park and create a new wildlife habitat.

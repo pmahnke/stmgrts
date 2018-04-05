@@ -5,9 +5,8 @@ permalink: /archives/2017/02/event-richmond-music-and-drama-festival-2017.html
 commentfile: 2017-02-24-event-richmond-music-and-drama-festival-2017
 category: around_town
 date: 2017-02-24 10:34:04
+image: "/assets/images/2017/rich-drama-music-festival-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/rich-drama-music-festival-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/rich-drama-music-festival-2017-thumb.jpg" width="150" alt="Image - rich-drama-music-festival-2017"  class="photo right"/></a>
-
 
     A taster of the stellar line-up of acts that promise to make this year's Richmond Music and Drama Festival the best yet can now be viewed online.
 

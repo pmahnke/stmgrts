@@ -5,9 +5,8 @@ permalink: /archives/2007/04/event_reminder_partners_in_dance.html
 commentfile: 2007-04-05-event_reminder_partners_in_dance
 category: around_town
 date: 2007-04-05 10:01:05
+image: "/assets/images/directory/200704050651_Partners_in_Dance.gif"
 excerpt: |
-    <a href="/assets/images/2007/6-Week-Dance-Courses-flyer.jpg"><img src="/assets/images/directory/200704050651_Partners_in_Dance.gif"  alt="Partners_in_Dance" class="right"/></a>
-    
     Richmond Council's <a href="https://stmargarets.london/directory/theatre/200704050651">Partners in Dance</a> festival is offering three exciting 6 week long dance classes over April and May.
     
 

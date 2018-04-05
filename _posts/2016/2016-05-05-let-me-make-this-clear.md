@@ -6,9 +6,8 @@ commentfile: 2016-05-05-let-me-make-this-clear
 category: around_town
 author: "Martyn Day"
 date: 2016-05-05 18:23:29
+image: "/assets/images/2016/CLARITY_usage_and_abusage_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/CLARITY_usage_and_abusage.jpg" title="See larger version of - book - usage and abusage"><img src="/assets/images/2016/CLARITY_usage_and_abusage_thumb.jpg" width="150" height="232" alt="book - usage and abusage" class="photo right" /></a>
-
     Although I have reached an age when I am expected - and sometimes encouraged -  to be grumpy I do not consider myself to be a particularly prickly sort of man. I don't mind too much if people push in front of me at the bus stop and if others pay small fortunes for jeans with pre-torn knees, ride bicycles in the rain with no mudguards (how ridiculous is that?) and walk up the street with their noses stuck into smart phones then so be it.
 
 ---

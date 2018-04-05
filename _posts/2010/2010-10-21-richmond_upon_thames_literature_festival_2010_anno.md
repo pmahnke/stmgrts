@@ -5,9 +5,8 @@ permalink: /archives/2010/10/richmond_upon_thames_literature_festival_2010_anno.
 commentfile: 2010-10-21-richmond_upon_thames_literature_festival_2010_anno
 category: news
 date: 2010-10-21 20:30:39
+image: "/assets/images/2010/rich_lit_festival_2010_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/rich_lit_festival_2010.jpg" title="See larger version of - Richmond upon Thames Literature Festival 2010"><img src="/assets/images/2010/rich_lit_festival_2010_thumb.jpg" width="106" height="150" alt="Richmond upon Thames Literature Festival 2010" class="photo right" /></a>
-    
     
     The 19<sup>th</sup> Richmond upon Thames Literature Festival will take place throughout November, with another stellar line-up of writers, broadcasters, historians, new talent and activities for all ages.
     

@@ -5,9 +5,8 @@ permalink: /archives/2015/04/lord_fellowes_becomes_patron_of_the_museum_of_rich.
 commentfile: 2015-04-26-lord_fellowes_becomes_patron_of_the_museum_of_rich
 category: news
 date: 2015-04-26 11:04:58
+image: "/assets/images/2015/lord_fellows_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/lord_fellows.jpg" title="See larger version of - Lord Fellows, Photo Tony McSweeney"><img src="/assets/images/2015/lord_fellows_thumb.jpg" width="150" height="110" alt="Lord Fellows, Photo Tony McSweeney" class="photo right" /></a>
-    
     The Museum of Richmond is honoured to announce that Julian, Lord Fellowes of West Stafford, has very kindly agreed to become a Patron of the Museum.
     
 

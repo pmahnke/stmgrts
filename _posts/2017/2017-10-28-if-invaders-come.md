@@ -6,9 +6,8 @@ commentfile: 2017-10-28-if-invaders-come
 category: around_town
 date: 2017-10-28 20:07:46
 author: "Martyn Day"
+image: "/assets/images/2017/INVASION_KCC-Battle-of-Britain-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/INVASION_KCC-Battle-of-Britain.jpg" title="Click for a larger image"><img src="/assets/images/2017/INVASION_KCC-Battle-of-Britain-thumb.jpg" width="150" alt="Image - INVASION_KCC-Battle-of-Britain"  class="photo right"/></a>
-
     Hanging on my kitchen wall is an old wartime poster. Set in an upper case <em>'Keep Calm'</em> font against a red background it advises <em>'Keep Calm and Carry On'</em>.
 
     This morale raising poster was first published by the Government in 1939 when the nation was on the brink of war with Germany and threatened with mass air attacks and invasion. About 2.45 million copies of the poster were printed but it was not widely displayed. The campaign was soon forgotten until 2000 when a copy of the poster was rediscovered in a bookshop in Alnwick.

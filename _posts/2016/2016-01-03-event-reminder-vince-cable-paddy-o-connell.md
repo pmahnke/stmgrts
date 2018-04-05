@@ -5,9 +5,8 @@ permalink: /archives/2016/01/event-reminder-vince-cable-paddy-o-connell.html
 commentfile: 2016-01-03-event-reminder-vince-cable-paddy-o-connell
 category: around_town
 date: 2016-01-03 21:14:04
+image: "/assets/images/events/Vince-Cable-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/events/Vince-Cable-poster.jpg" title="See larger version of - Vince Cable poster"><img src="/assets/images/events/Vince-Cable-poster_thumb.jpg" width="150" height="215" alt="Vince Cable poster" class="photo right" /></a>
-
     Come hear Vince Cable speaking with Paddy O'Connell about the economic future of Britain at Queen Charlotte Hall, RACC Parkshot on <a href="https://stmargarets.london/event/event/200705145366">Tuesday, 9 February 2016 from 7.30pm to 9.00pm</a>
 
 ---

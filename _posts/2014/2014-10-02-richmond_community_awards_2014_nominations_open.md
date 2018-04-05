@@ -5,9 +5,8 @@ permalink: /archives/2014/10/richmond_community_awards_2014_nominations_open.htm
 commentfile: 2014-10-02-richmond_community_awards_2014_nominations_open
 category: news
 date: 2014-10-02 21:49:21
+image: "/assets/images/2014/com_awards_logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/com_awards_logo.png" title="See larger version of - com awards logo"><img src="/assets/images/2014/com_awards_logo_thumb.png" width="150" height="59" alt="com awards logo" class="photo right" /></a>
-    
     Residents who live, work or study in the borough and work tirelessly to help improve the quality of lives for others will once again be rewarded via the Council's annual local 'honours' scheme - the Richmond Community Awards.
 
 ---

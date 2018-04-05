@@ -5,9 +5,8 @@ permalink: /archives/2011/10/the_cottingley_fairies.html
 commentfile: 2011-10-13-the_cottingley_fairies
 category: around_town
 date: 2011-10-13 10:05:45
+image: "/assets/images/2011/Cottingley-Elsie-and-Frances_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Cottingley-Elsie-and-Frances.jpg" title="See larger version of - Elsie and Frances"><img src="/assets/images/2011/Cottingley-Elsie-and-Frances_thumb.jpg" width="150" height="109" alt="Elsie and Frances" class="photo right" /></a>
-    
     In the summer of 1917, in the small village of Cottingley in Yorkshire, 15 year old Elsie Wright and her 10 year old cousin Frances Griffiths were enjoying a holiday together. Frances had just arrived with her mother from South Africa and was staying with Elsie in Yorkshire while Frances's father was away fighting the war in France. The two girls spent the summer playing in the woods that ran behind Elsie's house... and it was in these quiet woods that Elsie and Frances meet the fairies.
     
 

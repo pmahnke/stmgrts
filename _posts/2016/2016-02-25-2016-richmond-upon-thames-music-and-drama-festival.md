@@ -5,8 +5,8 @@ permalink: /archives/2016/02/2016-richmond-upon-thames-music-and-drama-festival.
 commentfile: 2016-02-25-2016-richmond-upon-thames-music-and-drama-festival
 category: around_town
 date: 2016-02-25 21:11:30
+image: "/assets/images/directory/201602091714_Richmond_upon_Thames_Music_and_Drama_Festival.jpg"
 excerpt: |
-    <img src="/assets/images/directory/201602091714_Richmond_upon_Thames_Music_and_Drama_Festival.jpg" width="150" height="150" class="right" alt="Richmond upon Thames Music and Drama Festival" />
 
     The 2016 Music and Drama Festival will take place 1 March to 20 March 2016 with another programme of exciting and varied music, dance and drama events across the borough including a special programme of events for children, families and young people.
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2015/01/take_the_st_margarets_traders_association_survey.ht
 commentfile: 2015-01-10-take_the_st_margarets_traders_association_survey
 category: 
 date: 2015-01-10 14:06:55
+image: "/assets/images/2015/heart_125_transparent.png"
 excerpt: |
-    <img src="/assets/images/2015/heart_125_transparent.png" alt="St Margarets Traders Association"  class="right" width="125" height="125" />
     
     _With a chance to win a &pound;50 St Margarets Shopping Voucher_
     

@@ -5,9 +5,8 @@ permalink: /archives/2009/05/the_cranes_skiffle_group.html
 commentfile: 2009-05-14-the_cranes_skiffle_group
 category: around_town
 date: 2009-05-14 09:28:59
+image: "/assets/images/2009/embassey_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/embassey.png" title="See larger version of - That famous red label"><img src="/assets/images/2009/embassey_thumb.png" width="150" height="150" alt="That famous red label" class="right" /></a>
-    
     Although they borrowed their name from the River Crane they had very little to do with our river and even less to do with St Margarets. Although the group was made up of some of the finest skiffle musicians of the time with worldwide hits to their credit the Cranes Skiffle Group didn't really exist at all. They were a fiction specially created for an unusual record label called Embassy.
     
     In 1954, long before pop stars and groups had become celebrities, record buyers were much more interested in the songs on their discs than the artistes actually singing them. Sheet music was still selling in vast quantities and popular songs were often covered by many artists. It was the song rather than the singer that was the selling point. All of this gave Oriole, a successful record company of the time, an idea. Why not start a new record label using talented unknowns rather than expensive established artistes to produce high quality copies of the latest hit tunes? Oriole sold the idea to Woolworth's - who liked it - and together they established Embassy Records to be sold exclusively through the 'Woolies' stores.

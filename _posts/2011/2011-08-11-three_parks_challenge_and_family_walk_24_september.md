@@ -5,9 +5,8 @@ permalink: /archives/2011/08/three_parks_challenge_and_family_walk_24_september.
 commentfile: 2011-08-11-three_parks_challenge_and_family_walk_24_september
 category: around_town
 date: 2011-08-11 14:01:06
+image: "/assets/images/2011/threeparkchallenge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/threeparkchallenge.jpg" title="See larger version of - Three Parks Challenge and Family Walk"><img src="/assets/images/2011/threeparkchallenge_thumb.jpg" width="150" height="99" alt="Three Parks Challenge and Family Walk" class="photo right" /></a>
-    
     Ramble through three beautiful Royal Parks - Richmond Park, Hampton Court Park and Bushy Park and make a real difference to Shooting Star CHASE.
     
     The <a href="http://www.shootingstarchase.org.uk/support-us/our-campaigns/three-parks-challenge-and-family-walk">Three Parks Challenge and Family Walk</a> is a great opportunity for walkers of all ages to view the beautiful scenes and historic landmarks of the Royal Parks in the Borough of Richmond in a fun and friendly atmosphere. The Three Parks Challenge is a 15-mile walk, with 8-mile and 3-mile options, so there is a route to suit everyone from the enthusiastic hiker, sports enthusiast or leisurely rambler.

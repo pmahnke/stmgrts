@@ -5,9 +5,8 @@ permalink: /archives/2012/12/the_70_year_old_christmas_cake_december_1942.html
 commentfile: 2012-12-12-the_70_year_old_christmas_cake_december_1942
 category: around_town
 date: 2012-12-12 21:12:25
+image: "/assets/images/2012/70CAKE_rationing_1943_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/70CAKE_rationing_1943.jpg" title="See larger version of - rationing 1943"><img src="/assets/images/2012/70CAKE_rationing_1943_thumb.jpg" width="150" height="84" alt="rationing 1943" class="photo right" /></a>
-    
     Imagine. Britain is at war. Rommel's Afrika Korps have been defeated at El Alamein, the Russians have encircled Hitler's 6<sup>th</sup> Army outside Stalingrad and on the Home Front, Santa is about to make his expected appearance. Restricted by strict food rationing your challenge is to bake a small Christmas cake, covered in marzipan and seasonally decorated. You are to do it *without any of the following ingredients...* eggs, brandy, candied peel, nutmeg, almonds, glace cherries, zest of orange or lemon, brown sugar, icing sugar, currants, sultanas, raisins, unsalted butter, marzipan or anything else suggested by Delia. 
     
     _Please note: You may be baking this cake in the middle of an air raid._

@@ -5,9 +5,8 @@ permalink: /archives/2012/05/introducing_wanderhood.html
 commentfile: 2012-05-24-introducing_wanderhood
 category: news
 date: 2012-05-24 22:10:32
+image: "/assets/images/2012/wanderhood_ICONS_05_thumb.png"
 excerpt: |
-    <a href="/assets/images/2012/wanderhood_ICONS_05.png" title="See larger version of - wanderhood ICONS 05"><img src="/assets/images/2012/wanderhood_ICONS_05_thumb.png" width="150" height="150" alt="wanderhood ICONS 05" class=" right" /></a>
-    
     The world loves social networks, but there is a gap, according to local resident Scott Gregory. He has designed <a href="http://www.wanderhood.com,">Wanderhood</a> an online network for a very important community in our lives, our neighbourhood.
     
     Wanderhood aims to build on the great community spirit that already exists in St Margarets. Scott believes that Wanderhood is a tool that can help people to get out and enjoy their local neighbourhood even more, by putting people in touch with who and what's happening in St Margarets.

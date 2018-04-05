@@ -5,8 +5,8 @@ permalink: /archives/2007/06/martin_herdman_speaks_out_on_parking_isuses_for_tr.
 commentfile: 2007-06-06-martin_herdman_speaks_out_on_parking_isuses_for_tr
 category: around_town
 date: 2007-06-06 11:37:30
+image: "/assets/images/2007/martins_parking_poster-thumb.gif"
 excerpt: |
-    <a href="/assets/images/2007/martins_parking_poster.gif"><img alt="martins_parking_poster.gif" src="/assets/images/2007/martins_parking_poster-thumb.gif" width="133" height="150" class="photo right"/></a>
     
     Local businessman, Martin Herdman, of Herdman Carpets is angry.
     

@@ -5,9 +5,8 @@ permalink: /archives/2015/04/local_job_vacancies_50_degrees_north.html
 commentfile: 2015-04-26-local_job_vacancies_50_degrees_north
 category: around_town
 date: 2015-04-26 09:43:50
+image: "/assets/images/2015/50DegreesNorth_colour_withstrapline_small_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/50DegreesNorth_colour_withstrapline_small.png" title="See larger version of - 50DegreesNorth colour withstrapline small"><img src="/assets/images/2015/50DegreesNorth_colour_withstrapline_small_thumb.png" width="150" height="80" alt="50 Degrees North logo" class="right" /></a>
-     
     50 Degrees North is a RIBA Chartered practice based in East Twickenham, next to Richmond Bridge. We have a passion for residential architecture and love to create beautiful homes which function magnificently.
 
 ---

@@ -5,8 +5,9 @@ permalink: /archives/2005/04/general_electio.html
 commentfile: 2005-04-13-general_electio
 category: news
 date: 2005-04-13 20:11:43
+image: "/assets/images/2005/STMGRTS_vote-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2005/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right"/>
+
 
     The Prime Minister, Tony Blair, has called for a general election on the 5th of May.
 

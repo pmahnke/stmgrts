@@ -5,9 +5,8 @@ permalink: /archives/2011/08/the_great_river_race_17_september_2011.html
 commentfile: 2011-08-18-the_great_river_race_17_september_2011
 category: around_town
 date: 2011-08-18 15:42:12
+image: "/assets/images/2011/great_river_race_2009_richmond_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/great_river_race_2009_richmond.jpg" title="See larger version of - great river race 2009 richmond"><img src="/assets/images/2011/great_river_race_2009_richmond_thumb.jpg" width="150" height="112" alt="great river race 2009 richmond" class="photo right" /></a>
-
     The Great River Race, London's River Marathon, is a spectacular boat race up the River Thames that attracts over 300 crews from all over the globe and appeals to every level of competitor from those who enjoy fun, fancy dress and charity stunts, to serious sportsmen and women who like to win. A great fun day out for competitors and spectators alike.
 ---
 

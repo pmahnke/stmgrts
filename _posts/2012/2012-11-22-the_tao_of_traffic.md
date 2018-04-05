@@ -5,9 +5,8 @@ permalink: /archives/2012/11/the_tao_of_traffic.html
 commentfile: 2012-11-22-the_tao_of_traffic
 category: around_town
 date: 2012-11-22 11:02:22
+image: "/assets/images/2012/TAO_lao-tzu_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/TAO_lao-tzu.jpg" title="See larger version of - lao tzu"><img src="/assets/images/2012/TAO_lao-tzu_thumb.jpg" width="150" height="150" alt="lao tzu" class="photo right" /></a>
-
     According to a recent survey there are 6,451,909 people living in Hanoi, the capital of Vietnam and every one of them has a motor scooter - or so it would seem. It is their pleasure between 5 and 9 in the morning and 5 and 9 at night to ride their scooters around the city in a solid, unbroken, constantly moving stream of traffic without benefit of traffic lights, traffic cops, road signs or rules. At junctions, of which there are many, they do not slow down, stop or give way. The streams of traffic simple merge into each other. No matter what direction they are coming from, north, south, east or west, the rivers of traffic pass through each other and continue on their way. It is a motorised version of the ancient philosophy of Taoism - "the Way" - originally proposed around 600BC by the Chinese sage Lao Tzu. Taoism promotes 'wu-wei' (action from non-action) through simplicity, spontaneity and detachment. It teaches that by allowing things to happen, by yielding to the will of the universe, goals can be achieved without effort.
 
 

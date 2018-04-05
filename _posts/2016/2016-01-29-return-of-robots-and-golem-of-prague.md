@@ -6,9 +6,8 @@ commentfile: 2016-01-29-return-of-robots-and-golem-of-prague
 category: around_town
 author: Martyn Day
 date: 2016-01-29 21:16:26
+image: "/assets/images/2016/ROBOTS_robby_the_robot_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ROBOTS_robby_the_robot.jpg" title="See larger version of - Robby the robot"><img src="/assets/images/2016/ROBOTS_robby_the_robot_thumb.jpg" width="150" height="150" alt="Robby the robot" class="photo right" /></a>
-
     Before we get too excited about the future and <em>'squadrons of automatons zipping about'</em> we should not forget that the concept of robots, replicants and androids has been around for centuries. One of the great Cretan myths about Talos, the mechanical man who guarded the island from pirates, dates back to 400 years BC. An automaton with a similar defensive purpose was created in Czechoslovakia in the sixteenth century.
 ---
 

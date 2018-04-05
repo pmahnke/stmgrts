@@ -5,9 +5,8 @@ permalink: /archives/2014/07/rock_around_the_embargo_part_2.html
 commentfile: 2014-07-03-rock_around_the_embargo_part_2
 category: around_town
 date: 2014-07-03 22:28:41
+image: "/assets/images/2014/EMBARGO2_Beatles_and_Vox_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/EMBARGO2_Beatles_and_Vox.jpg" title="See larger version of - Beatles and Vox"><img src="/assets/images/2014/EMBARGO2_Beatles_and_Vox_thumb.jpg" width="150" height="110" alt="Beatles and Vox" class="photo right" /></a>
-
     By the early 1960's the British pop music scene was changing. The early rock 'n' roll stars with the fancy names like Marty, Billy, Tommy and Vince were falling from favour. Instead of screaming at solo singers with quiffs, attitude and gold lame suits fans were now turning their attention to the latest pop phenomenon, the beat groups, who were following on the Cuban heels of the Beatles. Often writing their own material and promoting their own regional 'sounds' like Merseybeat and Brumbeat these guitar dominated groups were no longer limited to coffee bars and youth clubs.
 
 

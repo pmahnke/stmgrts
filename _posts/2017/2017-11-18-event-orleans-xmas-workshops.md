@@ -5,9 +5,8 @@ permalink: /archives/2017/11/event-orleans-xmas-workshops.html
 commentfile: 2017-11-18-event-orleans-xmas-workshops
 category: around_town
 date: 2017-11-18 08:24:04
+image: "/assets/images/2017/orleans-candles-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-candles.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-candles-thumb.jpg" width="150" alt="Image - orleans-candles"  class="photo right"/></a>
-
     <em>Get creative this Christmas with some festive workshops at Orleans House Gallery.</em>
 
     Whether you want to 'wow' your friends and family with your homemade Christmas decorations or you want to add a personal touch in designing and printing your own Christmas cards, the Christmas craft workshops could be just what you are looking for.

@@ -5,8 +5,8 @@ permalink: /archives/2009/01/ever_wanted_to_be_fitter_1.html
 commentfile: 2009-01-20-ever_wanted_to_be_fitter_1
 category: around_town
 date: 2009-01-20 21:21:07
+image: "/assets/images/2009/ahm_fitter-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/ahm_fitter.jpg"><img src="/assets/images/2009/ahm_fitter-thumb.jpg" width="150" height="46" alt="Ever Wanted to be Fitter?" class="photo right"/></a>
     
     
     

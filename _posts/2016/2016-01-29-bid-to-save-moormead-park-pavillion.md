@@ -5,9 +5,8 @@ permalink: /archives/2016/01/bid-to-save-moormead-park-pavillion.html
 commentfile: 2016-01-29-bid-to-save-moormead-park-pavillion
 category: news
 date: 2016-01-29 19:10:35
+image: "/assets/images/2016/moormead_pavillion_group_photo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/moormead_pavillion_group_photo.jpg" title="See larger version of - moormead pavillion group photo"><img src="/assets/images/2016/moormead_pavillion_group_photo_thumb.jpg" width="150" height="55" alt="moormead pavillion group photo" class="photo right" /></a>
-
     On Saturday 16 January 2016, hundreds of St Margarets residents braved freezing temperatures to show their support for the renovation of Moormead Park Pavilion.
 
     Parents from Moormead Football Club are waiting to hear back from Richmond Council about their community-led 'expression of interest' to restore the Pavilion building, which was submitted in December last year.

@@ -5,9 +5,8 @@ permalink: /archives/2014/09/help_a_local_filmmaker_make_his_london_symphony.htm
 commentfile: 2014-09-11-help_a_local_filmmaker_make_his_london_symphony
 category: news
 date: 2014-09-11 20:12:35
+image: "/assets/images/2014/LS-04_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/LS-04.jpg" title="See larger version of - LS 04 - Lion"><img src="/assets/images/2014/LS-04_thumb.jpg" width="150" height="150" alt="LS 04 - Lion" class="photo right" /></a>
-    
     <em>A brand new silent film about the culture and diversity of London, is set to launch <a href="http://www.Londonsymphfilm.com/</em>">a crowdfunding campaign on 16 September  2014</a>
     
     

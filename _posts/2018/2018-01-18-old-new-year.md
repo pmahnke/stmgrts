@@ -6,9 +6,8 @@ commentfile: 2018-01-18-old-new-year
 category: around_town
 author: "Martyn Day"
 date: 2018-01-18 16:19:14
+image: "/assets/images/2018/OLDNEWYEAR-the-Future-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/OLDNEWYEAR-the-Future.jpg" title="Click for a larger image"><img src="/assets/images/2018/OLDNEWYEAR-the-Future-thumb.jpg" width="150" alt="Image - OLDNEWYEAR-the-Future"  class="photo right"/></a>
-
     Can we look forward to a bright and optimistic New Year, free of all the anxieties and divisions that troubled us over the last twelve months or will we be fobbed off with a rerun of the Old Year?
 
 ---

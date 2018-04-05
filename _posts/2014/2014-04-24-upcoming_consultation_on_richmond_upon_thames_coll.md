@@ -5,9 +5,8 @@ permalink: /archives/2014/04/upcoming_consultation_on_richmond_upon_thames_coll.
 commentfile: 2014-04-24-upcoming_consultation_on_richmond_upon_thames_coll
 category: news
 date: 2014-04-24 21:32:59
+image: "/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1.jpg" title="See larger version of - consultation flyer"><img src="/assets/images/2014/rich0609_consultationflyer_a5_aw_web-1_thumb.jpg" width="150" height="210" alt="consultation flyer" class="photo right" /></a>
-
     _Help shape the future of the Richmond Education and Enterprise Campus_
 
     Richmond upon Thames College, Richmond Council, Haymarket Media Group and Harlequins are working together to create an Education and Enterprise Campus on the College site on Egerton Road in Twickenham.

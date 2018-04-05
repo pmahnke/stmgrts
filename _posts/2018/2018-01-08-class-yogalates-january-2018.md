@@ -5,9 +5,8 @@ permalink: /archives/2018/01/class-yogalates-january-2018.html
 commentfile: 2018-01-08-class-yogalates-january-2018
 category: around_town
 date: 2018-01-08 19:07:38
+image: "/assets/images/2018/Yogalates-201801-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/Yogalates-201801.jpg" title="Click for a larger image"><img src="/assets/images/2018/Yogalates-201801-thumb.jpg" width="150" alt="Image - Yogalates-201801"  class="photo right"/></a>
-
     Ready for real transformation in 2018? Join me for a brand new term of Yogalates classes starting this Sunday evening (14th January) at the ETNA Centre in St Margarets.
 
 ---

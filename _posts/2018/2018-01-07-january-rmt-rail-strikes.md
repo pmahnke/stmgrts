@@ -5,9 +5,8 @@ permalink: /archives/2018/01/january-rmt-rail-strikes.html
 commentfile: 2018-01-07-january-rmt-rail-strikes
 category: news
 date: 2018-01-07 17:15:05
+image: "/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/SWR-strike-map-jan2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg" width="150" alt="Image - SWR-strike-map-jan2018"  class="photo right"/></a>
-
     There are three days of rail strikes set for this week.  They will effect St Margarets, please check the South Western Railways website for more information.
 
 ---

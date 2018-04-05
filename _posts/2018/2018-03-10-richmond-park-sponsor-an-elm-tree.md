@@ -5,9 +5,8 @@ permalink: /archives/2018/03/richmond-park-sponsor-an-elm-tree.html
 commentfile: 2018-03-10-richmond-park-sponsor-an-elm-tree
 category: around_town
 date: 2018-03-10 15:56:23
+image: "/assets/images/2018/richmond-park-elm-tree-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/richmond-park-elm-tree.jpg" title="Click for a larger image"><img src="/assets/images/2018/richmond-park-elm-tree-thumb.jpg" width="150" alt="Image - richmond-park-elm-tree"  class="photo right"/></a>
-
     The Friends of Richmond Park, and The Royal Parks, have launched an exciting project to plant over 40 disease-resistant elm trees in Richmond Park.
 
     Elm Walk will be a new avenue of trees along the path from Petersham Gate. The start of the Elm Walk will be marked with an elm tree presented by the Friends to Sir David Attenborough on his 90<sup>th</sup> birthday.

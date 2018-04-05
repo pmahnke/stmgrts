@@ -5,9 +5,8 @@ permalink: /archives/2018/04/orleans-house-gallery-spring-summer-2018-adult-cour
 commentfile: 2018-04-04-orleans-house-gallery-spring-summer-2018-adult-courses
 category: around_town
 date: 2018-04-04 08:42:45
+image: "/assets/images/2018/ORLEANS-painting-class-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/ORLEANS-painting-class.jpg" title="Click for a larger image"><img src="/assets/images/2018/ORLEANS-painting-class-thumb.jpg" width="150" alt="Image - ORLEANS-painting-class"  class="photo right"/></a>
-
     Here are all the new adult programmes for the spring/summer term here at Orleans House Gallery.
 
 ---

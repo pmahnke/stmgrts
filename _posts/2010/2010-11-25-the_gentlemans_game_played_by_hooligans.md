@@ -5,9 +5,8 @@ permalink: /archives/2010/11/the_gentlemans_game_played_by_hooligans.html
 commentfile: 2010-11-25-the_gentlemans_game_played_by_hooligans
 category: around_town
 date: 2010-11-25 18:22:11
+image: "/assets/images/2010/early_football_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/early_football.jpg" title="See larger version of - early football"><img src="/assets/images/2010/early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
-    
     
     bq. "Football is a gentleman's game played by hooligans. Rugby is a hooligan's game played by gentlemen."
     

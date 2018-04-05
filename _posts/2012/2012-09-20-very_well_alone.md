@@ -5,9 +5,8 @@ permalink: /archives/2012/09/very_well_alone.html
 commentfile: 2012-09-20-very_well_alone
 category: around_town
 date: 2012-09-20 20:41:52
+image: "/assets/images/2012/HOMEGUARD_Very_well_alone_thumb.png"
 excerpt: |
-    <a href="/assets/images/2012/HOMEGUARD_Very_well_alone.png" title="See larger version of -  Very well alone"><img src="/assets/images/2012/HOMEGUARD_Very_well_alone_thumb.png" width="150" height="134" alt=" Very well alone" class="photo right" /></a>
-    
     
     On June 18<sup>th</sup> 1940 the Evening Standard published a cartoon by David Low. It showed a grim faced British soldier standing on a rock in the middle of a stormy sea shaking his fist at a squadron of enemy bombers approaching across a pitch black sky. The caption read "Very well. Alone."
 

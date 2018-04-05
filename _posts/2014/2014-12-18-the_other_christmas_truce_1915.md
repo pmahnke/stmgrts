@@ -5,9 +5,8 @@ permalink: /archives/2014/12/the_other_christmas_truce_1915.html
 commentfile: 2014-12-18-the_other_christmas_truce_1915
 category: around_town
 date: 2014-12-18 21:46:09
+image: "/assets/images/2014/TRUCE_Football_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/TRUCE_Football.jpg" title="See larger version of - TRUCE Football"><img src="/assets/images/2014/TRUCE_Football_thumb.jpg" width="150" height="100" alt="TRUCE Football" class="photo right" /></a>
-    
     After nearly a year of remembrance of the 1<sup>st</sup> World War most of us already know the story of the Christmas Truce of 1914, when British, French and German troops sang carols together across <em>'No Man's Land'</em> and rose from their trenches to play football and exchange gifts. It has been written about and dramatised in plays and films, pop videos and songs. This year the truce even provided the theme for a Sainsbury's TV commercial.
 
 ---

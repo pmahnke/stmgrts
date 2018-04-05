@@ -5,8 +5,8 @@ permalink: /archives/2008/10/safer_neighbourhood_policing_at_moormead_park.html
 commentfile: 2008-10-10-safer_neighbourhood_policing_at_moormead_park
 category: news
 date: 2008-10-10 21:23:49
+image: "/assets/images/2008/police_liaison-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/police_liaison.jpg"><img src="/assets/images/2008/police_liaison-thumb.jpg" width="66" height="200" alt="Police Liaison Group" class="right" /></a>
     
     
     #### What's happening in Moormead Park?

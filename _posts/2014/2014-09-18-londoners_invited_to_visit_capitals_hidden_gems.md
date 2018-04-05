@@ -5,9 +5,8 @@ permalink: /archives/2014/09/londoners_invited_to_visit_capitals_hidden_gems.htm
 commentfile: 2014-09-18-londoners_invited_to_visit_capitals_hidden_gems
 category: around_town
 date: 2014-09-18 19:42:21
+image: "/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Ride-n-Stride-Richmond-2014.jpg" title="See larger version of - Ride n Stride Richmond 2014"><img src="/assets/images/2014/Ride-n-Stride-Richmond-2014_thumb.jpg" width="150" height="215" alt="Ride n Stride Richmond 2014" class="photo right" /></a>
-    
     _Get on your bikes or put your best foot forward to raise much needed funds for London's places of worship!_
     
     On Saturday 20 September 2014, Londoners are invited to walk, run or cycle to visit religious buildings.  The less energetic can also take part as many of these buildings are on major public transport routes, so top up your Oyster cards now!

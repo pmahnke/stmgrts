@@ -5,9 +5,8 @@ permalink: /archives/2017/09/event-full-of-life-fair.html
 commentfile: 2017-09-22-event-full-of-life-fair
 category: around_town
 date: 2017-09-22 17:13:53
+image: "/assets/images/2017/LBRUT-full-of-life-fair-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LBRUT-full-of-life-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/LBRUT-full-of-life-fair-thumb.jpg" width="150" alt="Image - LBRUT-full-of-life-fair"  class="photo right"/></a>
-
     The Full of Life Fair is coming to town again on Friday 6 October and registration is now open. The free annual event aims to enhance digital skills and promote healthy and independent living, tackling isolation and loneliness open for residents over 55.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2012/09/bacon_but_briefly.html
 commentfile: 2012-09-29-bacon_but_briefly
 category: around_town
 date: 2012-09-29 11:02:57
+image: "/assets/images/2012/BACON_18-year_old_Francis_Bacon_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BACON_18-year_old_Francis_Bacon.jpg" title="See larger version of -  18 year old Francis Bacon"><img src="/assets/images/2012/BACON_18-year_old_Francis_Bacon_thumb.jpg" width="150" height="175" alt=" 18 year old Francis Bacon" class="right" /></a>
-    
     
     bq. "I mean to open up and lay down a new and certain pathway from the perceptions of the senses themselves to the mind."
     

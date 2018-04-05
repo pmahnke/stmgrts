@@ -5,8 +5,8 @@ permalink: /archives/2009/03/vote_for_twickenhams_hidden_treasure.html
 commentfile: 2009-03-26-vote_for_twickenhams_hidden_treasure
 category: news
 date: 2009-03-26 22:18:07
+image: "/assets/images/2009/marywallace-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/marywallace.jpg"><img src="/assets/images/2009/marywallace-thumb.jpg" width="100" height="150" alt="Mary Wallace Theatre" class="photo right" /></a>
     
     
     It's official -- the Mary Wallace Theatre is Twickenham's very own little gem! It has been nominated as Best Neighbourhood Theatre in the Smooth Radio's Love London Awards 2009.

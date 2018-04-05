@@ -5,9 +5,8 @@ permalink: /archives/2017/02/donate-to-st-stephens-at-tesco.html
 commentfile: 2017-02-08-donate-to-st-stephens-at-tesco
 category: around_town
 date: 2017-02-08 21:43:17
+image: "/assets/images/2017/St-Stephens-Tesco-Bags-of-Help-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/St-Stephens-Tesco-Bags-of-Help.jpg" title="Click for a larger image"><img src="/assets/images/2017/St-Stephens-Tesco-Bags-of-Help-thumb.jpg" width="150" alt="Image - St-Stephens-Tesco-Bags-of-Help"  class="photo right"/></a>
-
     St Stephen's CE Primary School in Twickenham is one of three shortlisted to bag a massive cash boost from the Tesco Bags of Help initiative.
 
 ---

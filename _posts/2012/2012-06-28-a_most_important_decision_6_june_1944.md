@@ -5,9 +5,8 @@ permalink: /archives/2012/06/a_most_important_decision_6_june_1944.html
 commentfile: 2012-06-28-a_most_important_decision_6_june_1944
 category: around_town
 date: 2012-06-28 08:16:03
+image: "/assets/images/2012/D-DAY_Landing_Craft_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/D-DAY_Landing_Craft.jpg" title="See larger version of - Landing Craft"><img src="/assets/images/2012/D-DAY_Landing_Craft_thumb.jpg" width="150" height="118" alt="Landing Craft" class="photo right" /></a>
-    
     bq. "Soldiers, sailors and airmen of the Allied Expeditionary Force. You are about to embark upon the great crusade, toward which we have striven these many months. The eyes of the world are upon you. The hope and prayers of liberty-loving people everywhere march with you."
     
     <cite>Dwight D. Eisenhower -- June 6, 1944</cite>

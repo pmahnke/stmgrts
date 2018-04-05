@@ -5,9 +5,8 @@ permalink: /archives/2016/02/turner-house-restoration-appeal.html
 commentfile: 2016-02-25-turner-house-restoration-appeal
 category: around_town
 date: 2016-02-25 20:37:21
+image: "/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Turners-sandycombe-lodge.jpg" title="See larger version of - Turners Sandycombe Lodge"><img src="/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="150" height="86" alt="Turners Sandycombe Lodge" class="photo right" /></a>
-
     Turner's House Trust is leading a fascinating project to restore J.M.W Turner's Twickenham retreat to its original appearance, open it to visitors, and set up a programme of activities for people of all ages.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2016/01/event-reminder-feb-2016-orleans-house-gallery.html
 commentfile: 2016-01-21-event-reminder-feb-2016-orleans-house-gallery
 category: around_town
 date: 2016-01-21 20:45:50
+image: "/assets/images/2016/orleans_feb_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/orleans_feb_2016.jpg" title="See larger version of - orleans feb 2016"><img src="/assets/images/2016/orleans_feb_2016_thumb.jpg" width="150" height="214" alt="orleans feb 2016" class="photo right" /></a>
-
     Visit our exhibitions and work with professional artists specialising in a range of different art-forms.  Be inspired by our new exhibition 'Capability Now 'and themes of landscape, nature and spring!
 
 ---

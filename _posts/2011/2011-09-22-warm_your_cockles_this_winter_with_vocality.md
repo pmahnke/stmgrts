@@ -5,8 +5,8 @@ permalink: /archives/2011/09/warm_your_cockles_this_winter_with_vocality.html
 commentfile: 2011-09-22-warm_your_cockles_this_winter_with_vocality
 category: around_town
 date: 2011-09-22 10:53:11
+image: "/assets/images/directory/201103021201_Vocality_Richmond.jpg"
 excerpt: |
-    <img src="/assets/images/directory/201103021201_Vocality_Richmond.jpg"  alt="Vocality_Richmond" width="150" class="right" />
     
     Richmond based 'choir-with-a-difference' Vocality offers to warm the cockles of your heart this winter with the pleasure of communal singing..
     

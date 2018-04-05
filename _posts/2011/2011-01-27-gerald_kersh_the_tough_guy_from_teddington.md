@@ -5,9 +5,8 @@ permalink: /archives/2011/01/gerald_kersh_the_tough_guy_from_teddington.html
 commentfile: 2011-01-27-gerald_kersh_the_tough_guy_from_teddington
 category: around_town
 date: 2011-01-27 09:29:22
+image: "/assets/images/2011/Kersh_Gerald-Kersh_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Kersh_Gerald-Kersh.jpg" title="See larger version of - Gerald Kersh"><img src="/assets/images/2011/Kersh_Gerald-Kersh_thumb.jpg" width="150" height="185" alt="Gerald Kersh" class="photo right" /></a>
-    
     There is a popular and persistent image of the 'tough guy' crime writer. A 'loner' sitting at a battered typewriter, a fedora tilted back on his head, a smouldering cigarette hanging from his lips, a half drunk bottle of whiskey in the desk drawer. They are usually called Mickey or Chester or Ross and they practise their dark arts in shabby offices in Los Angeles or New York. Whatever they are - they are not called Gerald and they don't come from Teddington High Street... well not often.
     
 

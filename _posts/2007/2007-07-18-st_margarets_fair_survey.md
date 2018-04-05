@@ -5,8 +5,8 @@ permalink: /archives/2007/07/st_margarets_fair_survey.html
 commentfile: 2007-07-18-st_margarets_fair_survey
 category: around_town
 date: 2007-07-18 08:20:42
+image: "/assets/images/2007/fair_survey.jpg"
 excerpt: |
-    <img alt="fair survey" src="/assets/images/2007/fair_survey.jpg" width="150" height="150" class="right" />
     
     The Fair Committee is looking to get some feedback from this website's readers about the Fair this year to help make next year's Fair, the 30<sup>th</sup> anniversary, the best it can be.
     

@@ -5,8 +5,8 @@ permalink: /archives/2009/06/recipe_rustic_pesto_chicken.html
 commentfile: 2009-06-12-recipe_rustic_pesto_chicken
 category: food
 date: 2009-06-12 10:31:09
+image: "/assets/images/2009/pesto_chicken-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/pesto_chicken.jpg"><img src="/assets/images/2009/pesto_chicken-thumb.jpg" width="150" height="107" alt="Pesto Chicken" class="photo right" /></a>
     
     
     

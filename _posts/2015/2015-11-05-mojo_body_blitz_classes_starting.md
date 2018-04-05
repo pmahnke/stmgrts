@@ -5,9 +5,8 @@ permalink: /archives/2015/11/mojo_body_blitz_classes_starting.html
 commentfile: 2015-11-05-mojo_body_blitz_classes_starting
 category: around_town
 date: 2015-11-05 19:36:53
+image: "/assets/images/2015/jo_mojo_fitness_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/jo_mojo_fitness.jpg" title="See larger version of - jo mojo fitness"><img src="/assets/images/2015/jo_mojo_fitness_thumb.jpg" width="150" height="173" alt="jo mojo fitness" class="photo right" /></a>
-    
     New to St Margarets, total body conditioning circuit classes "Mojo Body Blitz" begin weekly at The Training Works, opposite St Margarets Station, on Friday 6<sup>th</sup> November 2015. Class times 9:10am (straight after school drop off) or 10:10am for those who prefer a later start. Mojo Body Blitz is suitable for all fitness levels. Held in a small group setting '6-8 people' allowing for more personal attention to each participant. The Training Works is a light, well equipped, air conditioned fitness studio in the heart of St Margarets village.
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/04/photographs_of_st_margaret_shops_by_randall_webb_1.
 commentfile: 2015-04-03-photographs_of_st_margaret_shops_by_randall_webb_1
 category: around_town
 date: 2015-04-03 12:10:59
+image: "/assets/images/2015/Reynolds6-800_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Reynolds6-800.jpg" title="See larger version of - Reynolds6 800"><img src="/assets/images/2015/Reynolds6-800_thumb.jpg" width="150" height="96" alt="Reynolds6 800" class="photo right" /></a>
-    
     Howard Webb has passed along a few photos of local shops from his late father, Randall Webb.
     
 

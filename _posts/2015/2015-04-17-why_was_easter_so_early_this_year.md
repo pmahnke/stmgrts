@@ -5,9 +5,8 @@ permalink: /archives/2015/04/why_was_easter_so_early_this_year.html
 commentfile: 2015-04-17-why_was_easter_so_early_this_year
 category: around_town
 date: 2015-04-17 07:59:43
+image: "/assets/images/2015/EASTER_Russian-silver-Easter-Egg_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/EASTER_Russian-silver-Easter-Egg.jpg" title="See larger version of - Russian silver Easter Egg"><img src="/assets/images/2015/EASTER_Russian-silver-Easter-Egg_thumb.jpg" width="150" height="194" alt="Russian silver Easter Egg" class="right" /></a>
-    
     Of all the really big questions being asked over the Easter holiday this year - like <em>"How come Fireman Stevie won 'The Voice' and not flame haired Lucy who really can sing?"</em> and <em>"When will David Cameron, Ed Miliband and Nigel Farage finally realise that they were beaten hollow in the Leaders Debate by smarter and spin-doctor free Nicola Sturgeon, Leanne Wood and Natalie Bennett?"</em> the one question that foxes us all is <em>"Why was Easter so flipping early?"</em>
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2009/10/sheridan_in_st_margarets.html
 commentfile: 2009-10-29-sheridan_in_st_margarets
 category: around_town
 date: 2009-10-29 09:23:33
+image: "/assets/images/2009/sheridan_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/sheridan.png" title="See larger version of - RICHARD BRINSLEY SHERIDAN"><img src="/assets/images/2009/sheridan_thumb.png" width="117" height="150" alt="RICHARD BRINSLEY SHERIDAN" class="photo right" /></a>
-
     In his time the politician and playwright Richard Brinsley Sheridan (30<sup>th</sup> October 1751 - 7<sup>th</sup> July 1816) was thought to be the wittiest man in England. Once, in February 1809, when he was discovered drinking a glass of wine in the street as he watched his own Theatre Royal burn down, Sheridan famously retorted, "A man may surely be allowed to take a glass of wine by his own fireside!"
 
 ---

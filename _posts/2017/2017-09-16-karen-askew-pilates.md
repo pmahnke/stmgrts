@@ -5,9 +5,8 @@ permalink: /archives/2017/09/karen-askew-pilates.html
 commentfile: 2017-09-16-karen-askew-pilates
 category: around_town
 date: 2017-09-16 12:59:33
+image: "/assets/images/2017/karenaskew-pilates-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/karenaskew-pilates.jpg" title="Click for a larger image"><img src="/assets/images/2017/karenaskew-pilates-thumb.jpg" width="150" alt="Image - karenaskew-pilates"  class="photo right"/></a>
-
     Running the classes locally since 2008 and booking new students in East Twickenham and Twickenham.
 
     In every session my aim is to teach a safe, effective and beneficial set of exercises that work for everyone in the group, modifying exercises to suit, if a person has a shoulder problem I will simplify the move until they are ready to move on. After each class I want you to feel you have worked your whole body but feel relaxed and stretched.

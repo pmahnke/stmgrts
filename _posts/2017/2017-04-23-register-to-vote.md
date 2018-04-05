@@ -5,8 +5,9 @@ permalink: /archives/2017/04/register-to-vote.html
 commentfile: 2017-04-23-register-to-vote
 category: around_town
 date: 2017-04-23 08:26:19
+image: "/assets/images/2005/STMGRTS_vote-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2005/STMGRTS_vote-thumb.jpg" width="71" height="74" alt="Vote! 5th May 2005"  class="right"/>
+
 
     The deadline to register to vote in the General Election is Monday 22 May.
 

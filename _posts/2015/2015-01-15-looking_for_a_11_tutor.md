@@ -5,9 +5,8 @@ permalink: /archives/2015/01/looking_for_a_11_tutor.html
 commentfile: 2015-01-15-looking_for_a_11_tutor
 category: around_town
 date: 2015-01-15 21:50:32
+image: "/assets/images/2015/Flyer-Tutoring_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/Flyer-Tutoring.png" title="See larger version of - Flyer Tutoring"><img src="/assets/images/2015/Flyer-Tutoring_thumb.png" width="150" height="212" alt="Flyer Tutoring" class="photo right" /></a>
-    
     Two new group tutoring classes for 11+ exams - grammars and private schools - starts soon in central twickenham. Tutor with successful entries into Lady Eleanor Holles, Tiffin Girls, Tiffin Boys, King's College, St Catherine's and Radnor House.
     
 

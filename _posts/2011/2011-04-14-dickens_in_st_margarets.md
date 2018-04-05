@@ -5,9 +5,8 @@ permalink: /archives/2011/04/dickens_in_st_margarets.html
 commentfile: 2011-04-14-dickens_in_st_margarets
 category: around_town
 date: 2011-04-14 20:43:14
+image: "/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/CD_Young_Charles_Dickens.jpg" title="See larger version of - Young Charles Dickens"><img src="/assets/images/2011/CD_Young_Charles_Dickens_thumb.jpg" width="150" height="212" alt="Young Charles Dickens" class="photo right" /></a>
-    
     
     In the spring of 1838 Charles Dickens was a young man on a roll. His first novel, "The Pickwick Papers", published two years earlier in serial form, was a smash hit. When he introduced the astute and witty cockney servant Sam Weller in Chapter 10 sales were boosted from 500 to 40,000 a month. It was, as one commentator noted, "a publishing phenomenon."
 

@@ -6,9 +6,8 @@ commentfile: 2018-04-04-the-story-of-sexie-sadie
 category: around_town
 date: 2018-04-04 09:49:13
 author: "Martyn Day"
+image: "/assets/images/2018/SEXYSADIE_maharishi-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/SEXYSADIE_maharishi.jpg" title="Click for a larger image"><img src="/assets/images/2018/SEXYSADIE_maharishi-thumb.jpg" width="150" alt="Image - SEXYSADIE_maharishi"  class="photo right"/></a>
-
     Fifty years ago last month, on the 16<sup>th</sup> February 1968, four young men from Liverpool went to Rishikesh in India to study transcendental meditation under the spiritual guidance of the Maharishi Mahesh Yogi. They wanted to devote themselves to his instruction but unfortunately John, Paul, George and Ringo did not find the certainty that they were hoping for.
 
 ---

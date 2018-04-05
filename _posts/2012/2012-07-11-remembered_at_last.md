@@ -5,9 +5,8 @@ permalink: /archives/2012/07/remembered_at_last.html
 commentfile: 2012-07-11-remembered_at_last
 category: around_town
 date: 2012-07-11 20:35:50
+image: "/assets/images/2012/BOMBER_Bomber_command_memorial_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BOMBER_Bomber_command_memorial.jpg" title="See larger version of - Bomber command memorial"><img src="/assets/images/2012/BOMBER_Bomber_command_memorial_thumb.jpg" width="150" height="200" alt="Bomber command memorial" class="photo right" /></a>
-
     At 12.00 on Thursday 28<sup>th</sup> June the Queen unveiled a memorial honouring the 55,573 aircrew of Bomber Command who were killed during WW2 and all those who died in their attacks. On it is written...
 ---
 

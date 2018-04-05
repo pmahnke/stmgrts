@@ -5,9 +5,8 @@ permalink: /archives/2014/02/_the_year_of_the_horse.html
 commentfile: 2014-02-15-_the_year_of_the_horse
 category: around_town
 date: 2014-02-15 07:42:38
+image: "/assets/images/2014/HORO_chinese-newyear21_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/HORO_chinese-newyear21.jpg" title="See larger version of - Chinese newyear 2014"><img src="/assets/images/2014/HORO_chinese-newyear21_thumb.jpg" width="150" height="187" alt="Chinese newyear 2014" class="photo right" /></a>
-    
     _Jan 31, 2014 - Feb 18, 2015_
     
     Welcome to the Year of the Horse. Last year it was the Year of the Snake and next year it will be the Year of the Sheep....but this year it is the Year of the Horse - and so the horoscope of the East rolls around its mysterious annual cycle.

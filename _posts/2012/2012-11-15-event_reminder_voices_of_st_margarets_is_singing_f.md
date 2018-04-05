@@ -5,9 +5,8 @@ permalink: /archives/2012/11/event_reminder_voices_of_st_margarets_is_singing_f.
 commentfile: 2012-11-15-event_reminder_voices_of_st_margarets_is_singing_f
 category: around_town
 date: 2012-11-15 21:52:23
+image: "/assets/images/2012/surya_charity_concert_dec_2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/surya_charity_concert_dec_2012.jpg" title="See larger version of - surya charity concert dec 2012"><img src="/assets/images/2012/surya_charity_concert_dec_2012_thumb.jpg" width="150" height="199" alt="surya charity concert dec 2012" class="photo right" /></a>
-    
     On Monday December 17<sup>th</sup> 2012  at the ETNA, 13 Rosslyn Rd, E. Twickenham TW1 2AR  ("www.etnacentre.org":http://www.etnacentre.org) from 6-8.30pm, Voices of St Margarets  is singing to raise money for Save the Children's life-saving work in the world's poorest countries.
     
     The group of 8 people are polishing off their vocals in preparation for a fantastic evening of festive fundraising which also includes local children, teenagers and adults playing a variety of instruments as well as a Ukulele group and special guests. The Midwinter Celebration's suggested donation is &pound;8 for adults and &pound;2 for children aged under16 which includes festive refreshments.

@@ -5,9 +5,8 @@ permalink: /archives/2012/09/cambridge_park_indoor_bowls_club_open_day_29_septe.
 commentfile: 2012-09-06-cambridge_park_indoor_bowls_club_open_day_29_septe
 category: around_town
 date: 2012-09-06 21:11:40
+image: "/assets/images/2012/twick_bowls_thumb.png"
 excerpt: |
-    <a href="/assets/images/2012/twick_bowls.png" title="See larger version of - twick bowls"><img src="/assets/images/2012/twick_bowls_thumb.png" width="150" height="140" alt="twick bowls" class="photo right" /></a>
-    
     Inspired by the Olympics to take up a new sport?
     
     Enjoy a gentle introduction to the game with the help of our friendly coaches and teachers. No experience needed - all ages welcome.

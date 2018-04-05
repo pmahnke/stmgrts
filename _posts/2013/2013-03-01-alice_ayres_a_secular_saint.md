@@ -5,9 +5,8 @@ permalink: /archives/2013/03/alice_ayres_a_secular_saint.html
 commentfile: 2013-03-01-alice_ayres_a_secular_saint
 category: around_town
 date: 2013-03-01 09:44:49
+image: "/assets/images/2013/AYRES_Union-Street-Fire_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/AYRES_Union-Street-Fire.jpg" title="See larger version of - Union Street Fire"><img src="/assets/images/2013/AYRES_Union-Street-Fire_thumb.jpg" width="150" height="294" alt="Union Street Fire" class="photo right" /></a>
-    
     If you walk up St Martin's Le Grand from St Pauls towards the Barbican in the City of London you will pass on your left a small green open space called Postman's Park. This was once the burial ground for St Botolph's, Aldersgate but in 1880 it was opened as a public garden. In 1900 Postman's Park became the home of George Frederic Watt's 'Memorial to Self-Sacrifice', honouring ordinary working men and women who gave their lives to save others. Among the 54 memorial tablets, remembering such people as Sarah Smith, a pantomime artist who died in January 24<sup>th</sup> 1863 of <em>"terrible injuries received when attempting in her inflammable dress to extinguish the flames which had enveloped her companion" and Leigh Pitt who in June 7<sup>th</sup>, 2007, "saved a drowning boy from the canal at Thamesmead, but sadly was unable to save himself."</em> is a ceramic plaque remembering a young woman from Isleworth called Alice Ayres.
     
 

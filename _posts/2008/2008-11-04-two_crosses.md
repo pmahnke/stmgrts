@@ -5,8 +5,8 @@ permalink: /archives/2008/11/two_crosses.html
 commentfile: 2008-11-04-two_crosses
 category: around_town
 date: 2008-11-04 09:19:02
+image: "/assets/images/2008/war_memorial_allsouls-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/war_memorial_allsouls.jpg"><img src="/assets/images/2008/war_memorial_allsouls-thumb.jpg" width="100" height="150" alt="two crosses" class="photo right" /></a>
 
 
     Hanging on the wall inside All Souls Church, Haliburton Road in north St Margarets, are two plain wooden crosses. They once stood in the mud of Flanders, over the makeshift graves of 2<sup>nd</sup> Lt Geoffrey Wilkins and Corporal Lawrence Richards, local men killed in the First World War. Following the Armistice, when the dead were gathered into formal cemeteries under uniform headstones, the two wooden crosses were sent back to the church that both men had attended. Now they stand like sentries on either side of a hand lettered Roll of Honour listing all the men from the parish who were killed in the Great War. Underneath the names is this carved caption:-

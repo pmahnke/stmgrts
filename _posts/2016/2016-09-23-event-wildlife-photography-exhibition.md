@@ -5,9 +5,8 @@ permalink: /archives/2016/09/event-wildlife-photography-exhibition.html
 commentfile: 2016-09-23-event-wildlife-photography-exhibition
 category: around_town
 date: 2016-09-23 17:15:04
+image: "/assets/images/2016/exhibition-walk-in-the-wild_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/exhibition-walk-in-the-wild.jpg" title="See larger version of - exhibition walk in the wild"><img src="/assets/images/2016/exhibition-walk-in-the-wild_thumb.jpg" width="150" height="101" alt="exhibition walk in the wild" class="photo right" /></a>
-
     For one day only, photographer Amy Cooke is putting on a small fundraiser exhibition in St Margarets of her wildlife photography to raise money for an  organization called <a href="http://www.handsatwork.org/">Hands At Work</a>
 ---
 

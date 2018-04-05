@@ -5,9 +5,8 @@ permalink: /archives/2017/02/event-orleans-spring-2017-programme.html
 commentfile: 2017-02-18-event-orleans-spring-2017-programme
 category: around_town
 date: 2017-02-18 12:34:44
+image: "/assets/images/2017/ORLEANS-SPRING-2017_Life-Drawing-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ORLEANS-SPRING-2017_Life-Drawing.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANS-SPRING-2017_Life-Drawing-thumb.jpg" width="150" alt="Image - ORLEANS-SPRING-2017_Life-Drawing"  class="photo right"/></a>
-
     At Orleans House Gallery we offer adult audiences an exciting and engaging range of lectures, talks and creative workshops. Find a programme suitable for you and book today.
 
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2009/03/pocahontas_the_powhatan_princess_of_old_brentford.h
 commentfile: 2009-03-26-pocahontas_the_powhatan_princess_of_old_brentford
 category: around_town
 date: 2009-03-26 22:58:07
+image: "/assets/images/2009/pocahontas-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/pocahontas.jpg"><img src="/assets/images/2009/pocahontas-thumb.jpg" width="116" height="150" alt="Pocahontas"  class="photo right" /></a>
     
     
     

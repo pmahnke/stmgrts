@@ -5,8 +5,8 @@ permalink: /archives/2008/11/mr_mustard_and_the_charge_of_the_light_brigade.html
 commentfile: 2008-11-14-mr_mustard_and_the_charge_of_the_light_brigade
 category: news
 date: 2008-11-14 11:21:33
+image: "/assets/images/2008/James_Mustard-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/James_Mustard.jpg"><img src="/assets/images/2008/James_Mustard-thumb.jpg" width="93" height="150" alt="James Mustard" class="photo right" /></a>
     
     If you had lived in St Margarets 150 years ago you may well have known Mr. Mustard. Like his father before him he was a tailor and lived in Winchester Road, or Turks Road as it was known then.
     

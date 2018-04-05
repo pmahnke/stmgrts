@@ -5,9 +5,8 @@ permalink: /archives/2016/05/dreamcatcher-may-2016-film-camp.html
 commentfile: 2016-05-14-dreamcatcher-may-2016-film-camp
 category: around_town
 date: 2016-05-14 09:15:24
+image: "/assets/images/2016/2016_Flyer_Falcons_School_For_Boys_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/2016_Flyer_Falcons_School_For_Boys.png" title="See larger version of - 2016 Flyer Falcons School For Boys"><img src="/assets/images/2016/2016_Flyer_Falcons_School_For_Boys_thumb.png" width="150" height="212" alt="2016 Flyer Falcons School For Boys" class="photo right" /></a>
-
     Here at Dreamcatcher Media, the films made on our Summer Film Camps feature great heroes and anti-heroes, goodies and baddies, exciting chases and dramatic scenes - all scripted, filmed and directed by young people aged 8 - 18.
 
 ---

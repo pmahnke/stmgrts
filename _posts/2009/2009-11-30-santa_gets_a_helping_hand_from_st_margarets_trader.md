@@ -5,8 +5,8 @@ permalink: /archives/2009/11/santa_gets_a_helping_hand_from_st_margarets_trader.
 commentfile: 2009-11-30-santa_gets_a_helping_hand_from_st_margarets_trader
 category: news
 date: 2009-11-30 10:14:28
+image: "/assets/images/2009/gI_0_santapostbox-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/gI_0_santapostbox.jpg"><img alt="Santa's North Pole Postbox - stationed in St Margarets" src="/assets/images/2009/gI_0_santapostbox-thumb.jpg" width="150" height="150" class="photo right" /></a>
     
     
     

@@ -5,9 +5,8 @@ permalink: /archives/2015/11/nightmare_in_st_margarets_1.html
 commentfile: 2015-11-06-nightmare_in_st_margarets_1
 category: around_town
 date: 2015-11-06 20:50:25
+image: "/assets/images/2015/Halloween_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Halloween_1.jpg" title="See larger version of - Halloween 1"><img src="/assets/images/2015/Halloween_1_thumb.jpg" width="150" height="134" alt="Halloween 1" class="photo right" /></a>
-    
     Last Saturday, Hallowe'en, the graves opened up in St Margarets and the 'undead' - or the "alternatively alive" as they prefer to be called these days - walked our streets.
     
     
