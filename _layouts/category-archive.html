@@ -13,6 +13,9 @@ layout: default-empty
                 {{ post.title }}
               </a>
             </h3>
+            {% if post.image %}
+            <img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" />
+            {% endif %}
             <p>
               {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
             </p>
