@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-reminder-family-explorers-oso.html
 commentfile: 2016-04-22-event-reminder-family-explorers-oso
 category: around_town
 date: 2016-04-22 22:12:35
+image: "/assets/images/2016/Family_Explorers_final_poster_Summer_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Family_Explorers_final_poster_Summer_2016.jpg" title="See larger version of - Family Explorers final poster Summer 2016"><img src="/assets/images/2016/Family_Explorers_final_poster_Summer_2016_thumb.jpg" width="150" height="212" alt="Family Explorers final poster Summer 2016" class="photo right" /></a>
-
     Join weekly art sessions for under 5s and their carers.  Learn, play, and explore together in these exciting sessions which encourage creativity, curiosity and develop early communication.
 
 ---

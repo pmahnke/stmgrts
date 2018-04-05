@@ -6,9 +6,8 @@ commentfile: 2017-02-02-the-other-twickenham
 category: around_town
 author: "Martyn Day"
 date: 2017-02-02 08:12:00
+image: "/assets/images/2017/OTHERTWICK_Hale-Street-Twickenham-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/OTHERTWICK_Hale-Street-Twickenham.jpg" title="Click for a larger image"><img src="/assets/images/2017/OTHERTWICK_Hale-Street-Twickenham-thumb.jpg" width="150" alt="Image - OTHERTWICK_Hale-Street-Twickenham"  class="photo right"/></a>
-
     Looking for somewhere to live in twickenham, a place with a bit of style and not too expensive?
 
     How about this recently renovated house on Hale Street? Sitting on a quarter of an acre of land this detached property has three bedrooms, two bathrooms, a brand new kitchen with all appliances plus original hardwood floors and new fitted carpets throughout.  The house also benefits from a carport to the exterior and a patio. The cost? For a quick sale the property is going for &pound;128,000.

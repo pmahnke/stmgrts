@@ -5,9 +5,8 @@ permalink: /archives/2014/01/james_hewens.html
 commentfile: 2014-01-31-james_hewens
 category: around_town
 date: 2014-01-31 09:13:40
+image: "/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900_thumb.LCF_3806"
 excerpt: |
-    <a href="/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900.LCF_3806.jpg" title="See larger version of - Richmond Railway Station c 1870   1900.LCF 3806"><img src="/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900_thumb.LCF_3806" width="150" height="104" alt="Richmond Railway Station c 1870   1900.LCF 3806" class="photo right" /></a>
-    
     
     bq. "In endeavouring to save the life of a fellow creature, he lost his own."
     

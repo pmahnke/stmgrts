@@ -5,10 +5,8 @@ permalink: /archives/2014/12/ian_mclagan_from_isleworth.html
 commentfile: 2014-12-13-ian_mclagan_from_isleworth
 category: around_town
 date: 2014-12-13 09:50:27
+image: "/assets/images/2014/MCLAGAN_ian_mclagan_thumb.png"
 excerpt: |
-    
-    <a href="/assets/images/2014/MCLAGAN_ian_mclagan.png" title="See larger version of - ian mclagan"><img src="/assets/images/2014/MCLAGAN_ian_mclagan_thumb.png" width="150" height="90" alt="ian mclagan" class="photo right" /></a>
-    
     Our neck of the West London woods has a proud reputation for originating, nurturing and cherishing popular music and those that play it, from international stars like Mick Jagger and Pete Townshend to amateur bluespickers noodling away in their back bedroom. Sadly on the 3<sup>rd</sup> December one of that august company died.
     
 

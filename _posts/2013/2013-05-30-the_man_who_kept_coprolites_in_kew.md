@@ -5,9 +5,8 @@ permalink: /archives/2013/05/the_man_who_kept_coprolites_in_kew.html
 commentfile: 2013-05-30-the_man_who_kept_coprolites_in_kew
 category: around_town
 date: 2013-05-30 22:57:28
+image: "/assets/images/2013/JUNGLEYES_Jungleyes_Love_-_by_his_sister_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/JUNGLEYES_Jungleyes_Love_-_by_his_sister.jpg" title="See larger version of - Jungleyes Love   by his sister"><img src="/assets/images/2013/JUNGLEYES_Jungleyes_Love_-_by_his_sister_thumb.jpg" width="150" height="93" alt="Jungleyes Love   by his sister" class="photo right" /></a>
-    
     
     Charles Gibaut Bissell-Thomas was born in Jersey in the Channel Islands on Tuesday 13<sup>th</sup> March 1956. He was never happy with that name so as a teenager he changed it - first to Charlight Utang, then Soma Love, again by deed poll to Jungleyes Cism Love and finally Jarl Love. Then he opened a shop in Kew called 'World Tree Mend Us'.
     

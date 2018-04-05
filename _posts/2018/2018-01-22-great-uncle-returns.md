@@ -6,9 +6,8 @@ commentfile: 2018-01-22-great-uncle-returns
 category: around_town
 author: "Martyn Day"
 date: 2018-01-22 17:33:44
+image: "/assets/images/2018/GUNCLEERIC_Battle_of_Messines_-_destroyed_German_trench-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/GUNCLEERIC_Battle_of_Messines_-_destroyed_German_trench.jpg" title="Click for a larger image"><img src="/assets/images/2018/GUNCLEERIC_Battle_of_Messines_-_destroyed_German_trench-thumb.jpg" width="150" alt="Image - GUNCLEERIC_Battle_of_Messines_-_destroyed_German_trench"  class="photo right"/></a>
-
     Sarah Foot who lives in St Margarets is one of three sisters; Judith, Lucy and herself. Just before last Christmas she received a phone call from Lucy. Instead of the usual family chitchat about this and that Lucy told her that she had received an unexpected phone call from the Ministry of Defence.
 
 ---

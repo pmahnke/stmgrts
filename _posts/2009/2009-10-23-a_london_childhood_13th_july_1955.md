@@ -5,8 +5,8 @@ permalink: /archives/2009/10/a_london_childhood_13th_july_1955.html
 commentfile: 2009-10-23-a_london_childhood_13th_july_1955
 category: around_town
 date: 2009-10-23 14:56:32
+image: "/assets/images/2009/ruth_ellis-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/ruth_ellis.jpg"><img src="/assets/images/2009/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
     
     
     At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by. The second knocked Blakely to the ground. Ruth calmly walked over to where he was laying and fired the remaining four shots at close range. Still holding the gun in her hand she was immediately arrested by an off duty policeman who heard her say, "I am guilty, I'm a little confused".

@@ -5,9 +5,8 @@ permalink: /archives/2015/08/event_reminder_the_music_of_bond_james_bond_9_octo.
 commentfile: 2015-08-13-event_reminder_the_music_of_bond_james_bond_9_octo
 category: around_town
 date: 2015-08-13 17:39:09
+image: "/assets/images/2015/Friendship-Matinee-at-the-Royal-Albert-Hall-2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Friendship-Matinee-at-the-Royal-Albert-Hall-2.jpg" title="See larger version of - Friendship Matinee at the Royal Albert Hall 2"><img src="/assets/images/2015/Friendship-Matinee-at-the-Royal-Albert-Hall-2_thumb.jpg" width="150" height="100" alt="Friendship Matinee at the Royal Albert Hall 2" class="photo right" /></a>
-
     This autumn the Royal Albert Hall presents its annual Friendship Matinee for anyone who receives support from a charity or who belongs to a community or voluntary group.  This year's concert on Friday 9 October 2015 at 3pm features the Music of James Bond and all tickets are just &pound;5!
 
 

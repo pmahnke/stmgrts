@@ -5,9 +5,8 @@ permalink: /archives/2015/01/the_january_parliament.html
 commentfile: 2015-01-23-the_january_parliament
 category: around_town
 date: 2015-01-23 23:50:09
+image: "/assets/images/2015/Simon_de_Montfort_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Simon_de_Montfort.jpg" title="See larger version of - Simon de Montfort"><img src="/assets/images/2015/Simon_de_Montfort_thumb.jpg" width="150" height="84" alt="Simon de Montfort" class="photo right" /></a>
-    
     Exactly 750 years ago to this week, on the 20<sup>th</sup> January 1265, elected representatives from all over the country gathered together for the first time to speak on behalf of their communities and some of the people living within them. It was an early demonstration of how democracy can rise over the absolute power of the monarchy and it laid the foundations of what is now called Parliament.
     
     

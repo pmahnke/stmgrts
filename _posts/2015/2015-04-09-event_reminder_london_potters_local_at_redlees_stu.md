@@ -5,9 +5,8 @@ permalink: /archives/2015/04/event_reminder_london_potters_local_at_redlees_stu.
 commentfile: 2015-04-09-event_reminder_london_potters_local_at_redlees_stu
 category: around_town
 date: 2015-04-09 15:58:34
+image: "/assets/images/2015/London-Potters-Local_Front-jpg_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/London-Potters-Local_Front-jpg.jpg" title="See larger version of - London Potters Local Front jpg"><img src="/assets/images/2015/London-Potters-Local_Front-jpg_thumb.jpg" width="150" height="106" alt="London Potters Local Front jpg" class="photo right" /></a>
-    
     London Potters Local is a new initiative by London Potters to promote and sell the work of
     members of our Society, whose practice is based in West and South-west London.
     

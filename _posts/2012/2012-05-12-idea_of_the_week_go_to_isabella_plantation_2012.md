@@ -5,8 +5,8 @@ permalink: /archives/2012/05/idea_of_the_week_go_to_isabella_plantation_2012.htm
 commentfile: 2012-05-12-idea_of_the_week_go_to_isabella_plantation_2012
 category: around_town
 date: 2012-05-12 14:04:36
+image: "/assets/images/2012/isabella_plantation_2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/isabella_plantation_2012.jpg" title="See larger version of - isabella plantation 2012 by Ann Murray" ><img src="/assets/images/2012/isabella_plantation_2012_thumb.jpg" width="300" height="225" alt="isabella plantation 2012 by Ann Murray" class="photo center" /></a>
     
     We have been told that the azaleas  in <a href="http://www.royalparks.org.uk/parks/richmond-park/isabella-plantation">Isabella Plantation</a> are perfect. It will probably only last a couple of weeks, so be sure to get there soon if you are interested.
 

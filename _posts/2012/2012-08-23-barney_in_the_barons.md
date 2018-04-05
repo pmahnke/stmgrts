@@ -5,9 +5,8 @@ permalink: /archives/2012/08/barney_in_the_barons.html
 commentfile: 2012-08-23-barney_in_the_barons
 category: around_town
 date: 2012-08-23 21:36:35
+image: "/assets/images/2012/BARRONS_Simon_de_Montfort_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BARRONS_Simon_de_Montfort_1.jpg" title="See larger version of - Simon de Montfort 1"><img src="/assets/images/2012/BARRONS_Simon_de_Montfort_1_thumb.jpg" width="150" height="184" alt="Simon de Montfort 1" class="photo right" /></a>
-    
     So in 1230 aged 21 Simon de Montfort, born in France without title or money, came to England to see the King, Henry 3<sup>rd</sup>. Fortunately the king liked Simon and not only gave him back his family estate but also the title Duke of Leicester in return for &pound;100 and a promise to supply 60 knights in time of war.
     
 

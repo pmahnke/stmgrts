@@ -5,9 +5,8 @@ permalink: /archives/2013/07/i_dont_sound_like_nobody.html
 commentfile: 2013-07-25-i_dont_sound_like_nobody
 category: around_town
 date: 2013-07-25 22:05:12
+image: "/assets/images/2013/NOBODY_teenage_elvis_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/NOBODY_teenage_elvis.jpg" title="See larger version of - teenage Elvis"><img src="/assets/images/2013/NOBODY_teenage_elvis_thumb.jpg" width="150" height="235" alt="teenage Elvis" class="photo right" /></a>
-    
     Almost exactly 60 years ago... on Saturday 18<sup>th</sup> July 1953, a teenage boy walked into the offices of Sun Records, on 706 Union Street, Memphis, Tennessee. He had been past the door many times before but this was the first time that he had actually entered.
 
 ---

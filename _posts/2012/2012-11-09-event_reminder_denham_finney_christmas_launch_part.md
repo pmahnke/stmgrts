@@ -5,9 +5,8 @@ permalink: /archives/2012/11/event_reminder_denham_finney_christmas_launch_part.
 commentfile: 2012-11-09-event_reminder_denham_finney_christmas_launch_part
 category: around_town
 date: 2012-11-09 22:36:33
+image: "/assets/images/2012/Greats-2012-Finalist-logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Greats-2012-Finalist-logo.jpg" title="See larger version of - Greats 2012 Finalist logo"><img src="/assets/images/2012/Greats-2012-Finalist-logo_thumb.jpg" width="150" height="272" alt="Greats 2012 Finalist logo" class="right" /></a>
-    
     You are warmly invited to our annual <a href="https://stmargarets.london/event/event/200705143688">Christmas launch and promotion</a>
     
     Please join us at our annual event with 10% off everything in the shop.  We have all new and as always, free Christmas Gift Wrap and have a celebratory drink on us.

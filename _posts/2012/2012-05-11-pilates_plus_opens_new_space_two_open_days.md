@@ -5,8 +5,8 @@ permalink: /archives/2012/05/pilates_plus_opens_new_space_two_open_days.html
 commentfile: 2012-05-11-pilates_plus_opens_new_space_two_open_days
 category: around_town
 date: 2012-05-11 07:22:18
+image: "/assets/images/2012/pp2006-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/pp2006.jpg"><img src="/assets/images/2012/pp2006-thumb.jpg" width="150" height="144" alt="Pilates Plus" class="right" /></a>
     
     After 10 successful years running her Crown Rd Pilates studio, owner Sarah Duley is pleased to announce the opening of 117, an additional studio in St Margarets, Twickenham.
     

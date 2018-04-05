@@ -6,9 +6,8 @@ commentfile: 2018-03-11-a-great-uncle-returns-part-2
 category: around_town
 date: 2018-03-11 09:54:47
 author: "Martyn Day"
+image: "/assets/images/2018/GREAT_UNCLE2_Eric-as-Scout-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/GREAT_UNCLE2_Eric-as-Scout.jpg" title="Click for a larger image"><img src="/assets/images/2018/GREAT_UNCLE2_Eric-as-Scout-thumb.jpg" width="150" alt="Image - GREAT_UNCLE2_Eric-as-Scout"  class="photo right"/></a>
-
     Through their Joint Casualty and Compassionate Centre the Ministry of Defence supports a continuing service recovering  <em>'missing'</em> British and Commonwealth service personnel killed in conflict from the 1<sup>st</sup> World War right up to the Korean War in the 1950's... and it is this small team of six dedicated people who are providing Uncle Eric with the formal military funeral that he never received in 1917.   
 ---
 <div class="box" markdown="1">

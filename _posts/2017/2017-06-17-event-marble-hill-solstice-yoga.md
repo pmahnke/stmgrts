@@ -5,9 +5,8 @@ permalink: /archives/2017/06/event-marble-hill-solstice-yoga.html
 commentfile: 2017-06-17-event-marble-hill-solstice-yoga
 category: around_town
 date: 2017-06-17 17:45:24
+image: "/assets/images/2017/salutetothesun-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/salutetothesun.jpg" title="Click for a larger image"><img src="/assets/images/2017/salutetothesun-thumb.jpg" width="150" alt="Image - salutetothesun"  class="photo right"/></a>
-
     Local residents are being invited to take part in a free Summer Solstice yoga session in the grounds of Marble Hill House at 7.45am on Wednesday 21 June to celebrate midsummer and mark the longest day of the year.
 
 ---

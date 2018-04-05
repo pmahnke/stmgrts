@@ -5,8 +5,8 @@ permalink: /archives/2012/06/turners_thames_on_bbc_iplayer_until_20_june_2012.ht
 commentfile: 2012-06-14-turners_thames_on_bbc_iplayer_until_20_june_2012
 category: around_town
 date: 2012-06-14 21:22:42
+image: "http://static.bbci.co.uk/programmeimages/272x153/episode/b01jv255.jpg?nodefault=true"
 excerpt: |
-    <img src="http://static.bbci.co.uk/programmeimages/272x153/episode/b01jv255.jpg?nodefault=true" width="150"  class="photo right" alt="Matthew Collings" />
     
     In case you missed it, there was a documentary by Matthew Collings on local artist JMW Turner and the Thames in Richmond and Twickenham.  It is showing on the BBC iPlayer until 20 June 2012.
     

@@ -5,10 +5,8 @@ permalink: /archives/2014/08/marble_hills_wadih_chourey_faces_deportation.html
 commentfile: 2014-08-31-marble_hills_wadih_chourey_faces_deportation
 category: news
 date: 2014-08-31 08:17:45
+image: "/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2014/Wadih-Hanna-Chourey.jpg" title="See larger version of - Wadih Hanna Chourey"><img src="/assets/images/2014/Wadih-Hanna-Chourey_thumb.jpg" width="150" height="99" alt="Wadih Hanna Chourey" class="photo right" /></a>
-    
     _Down's syndrome boy faces being deported from Britain after 17 years - because his parents died_
     
     Wadih Chourey, 44, moved to the UK in 1997 with his mum, dad and two brothers, because he was being mentally and physically abused by local gangs in Beirut

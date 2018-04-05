@@ -5,9 +5,8 @@ permalink: /archives/2017/11/libraries-art-and-soul-exhibition.html
 commentfile: 2017-11-23-libraries-art-and-soul-exhibition
 category: around_town
 date: 2017-11-23 18:48:51
+image: "/assets/images/2017/event-art-and-soul-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/event-art-and-soul.jpg" title="Click for a larger image"><img src="/assets/images/2017/event-art-and-soul-thumb.jpg" width="150" alt="Image - event-art-and-soul"  class="photo right"/></a>
-
     We have some art that will soothe the soul coming to a library near you over the coming months.
 
     A touring pop-up exhibition, Art & Soul, which celebrates arts for wellbeing is being shown at libraries across the borough. It uses creative activity and positive engagement to support mental wellbeing in our communities.

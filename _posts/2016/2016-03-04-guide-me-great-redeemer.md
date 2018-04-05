@@ -6,9 +6,8 @@ commentfile: 2016-03-04-guide-me-great-redeemer
 category: around_town
 author: Martyn Day
 date: 2016-03-04 08:30:08
+image: "/assets/images/2016/GUIDEME_Hymn_singing_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/GUIDEME_Hymn_singing.jpg" title="See larger version of - Hymn singing"><img src="/assets/images/2016/GUIDEME_Hymn_singing_thumb.jpg" width="150" height="150" alt="Hymn singing" class="photo right" /></a>
-
 
     bq. "My only way of remembering people's addresses has been by the numbers of the hymns."
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/05/casting_call_bbc_two_back_in_time.html
 commentfile: 2015-05-21-casting_call_bbc_two_back_in_time
 category: around_town
 date: 2015-05-21 21:33:31
+image: "/assets/images/2015/Back-In-Time-Leisure-flyer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Back-In-Time-Leisure-flyer.jpg" title="See larger version of - Back In Time Leisure flyer"><img src="/assets/images/2015/Back-In-Time-Leisure-flyer_thumb.jpg" width="150" height="84" alt="Back In Time Leisure flyer" class="photo right" /></a>
-    
     We are looking for a London-based family to take part in another Back In Time social history experiment for BBC Two, summer 2015.
 
 ---

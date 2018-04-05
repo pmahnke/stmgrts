@@ -5,9 +5,8 @@ permalink: /archives/2016/07/pauline-quirke-space.html
 commentfile: 2016-07-14-pauline-quirke-space
 category: around_town
 date: 2016-07-14 09:19:59
+image: "/assets/images/2016/outthererehpic_webres-3_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/outthererehpic_webres-3.jpg" title="See larger version of - out there pic"><img src="/assets/images/2016/outthererehpic_webres-3_thumb.jpg" width="150" height="99" alt="out there" class="photo right" /></a>
-
     Excited students of the Pauline Quirke Academy in Richmond are eagerly awaiting Saturday 9<sup>th</sup> July, which marks the launch of their summer musical, <em>'Out There'</em>.  This space-themed extravaganza will be piloted by 6 to 18-year-old performers and powered by imaginative vision, epic choreography and a live band for some good old fashioned rock and roll rocket fuel.  The shuttle will launch from Hampton Hill Theatre at 2pm before returning to earth for a re-launch at 7.30pm.
 ---
 

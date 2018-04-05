@@ -5,9 +5,8 @@ permalink: /archives/2011/06/the_return_of_the_twang.html
 commentfile: 2011-06-30-the_return_of_the_twang
 category: around_town
 date: 2011-06-30 09:02:26
+image: "/assets/images/2011/DUANE_Duane-and-Rebels_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/DUANE_Duane-and-Rebels.jpg" title="See larger version of - Duane and the Rebels"><img src="/assets/images/2011/DUANE_Duane-and-Rebels_thumb.jpg" width="150" height="123" alt="Duane and the Rebels" class="photo right" /></a>
-    
     In April 1960 I went with my friend Dave Cooper to Finsbury Park Empire and our very first pop concert. It was a freezing cold rainy night and the Finsbury Park Empire was a dump and within a month of being closed for ever but we didn't care. We were only 14 and the star of the show that night was our hero, the guitar playing "twang meister" Duane Eddy.
 
 ---

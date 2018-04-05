@@ -5,9 +5,8 @@ permalink: /archives/2014/03/event_reminder_charity_easter_childrens_concert_4.h
 commentfile: 2014-03-21-event_reminder_charity_easter_childrens_concert_4
 category: around_town
 date: 2014-03-21 22:37:40
+image: "/assets/images/2014/Easter_Momentum_Poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Easter_Momentum_Poster.jpg" title="See larger version of - Easter Momentum Poster"><img src="/assets/images/2014/Easter_Momentum_Poster_thumb.jpg" width="150" height="206" alt="Easter Momentum Poster" class="right" /></a>
-    
     _help raise funds for Momentum and the Tempo Tots Music Therapy Project_
     
     This concert is to support the charity Momentum and raise funds towards the Tempo Tots Music Therapy Project. With your help we will be able to offer more music therapy sessions to children with life threatening illnesses and their families.

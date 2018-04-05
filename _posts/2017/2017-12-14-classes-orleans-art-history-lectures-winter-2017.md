@@ -5,9 +5,8 @@ permalink: /archives/2017/12/classes-orleans-art-history-lectures-winter-2017.ht
 commentfile: 2017-12-14-classes-orleans-art-history-lectures-winter-2017
 category: around_town
 date: 2017-12-14 13:29:35
+image: "/assets/images/2017/orleans-lectures-talks-winter-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-lectures-talks-winter-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-lectures-talks-winter-2017-thumb.jpg" width="150" alt="Image - orleans-lectures-talks-winter-2017"  class="photo right"/></a>
-
     A programme of talks and lectures exploring Art History and themes from the gallery's exhibition programmes. Delivered in partnership with Mariska Beekenkamp-Wladimiroff, Art Historical London.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2014/07/event_reminder_st_margarets_fair_12_july_2014.html
 commentfile: 2014-07-10-event_reminder_st_margarets_fair_12_july_2014
 category: around_town
 date: 2014-07-10 23:03:44
+image: "/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/StMF-ad-comingsoon-2014.jpg" title="See larger version of - St Margarets Fair comingsoon 2014"><img src="/assets/images/2014/StMF-ad-comingsoon-2014_thumb.jpg" width="150" height="214" alt="St Margarets Fair coming soon 2014" class="photo right" /></a>
-
     Don't miss the <a href="https://stmargarets.london/event/fair/200705144148">highlight of the summer</a>
 
 ---

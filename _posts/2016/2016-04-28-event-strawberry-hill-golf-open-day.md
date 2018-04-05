@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-strawberry-hill-golf-open-day.html
 commentfile: 2016-04-28-event-strawberry-hill-golf-open-day
 category: around_town
 date: 2016-04-28 19:58:33
+image: "/assets/images/2016/Open_Day_Flyer_2016a_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Open_Day_Flyer_2016a.jpg" title="See larger version of - Open Day Flyer 2016"><img src="/assets/images/2016/Open_Day_Flyer_2016a_thumb.jpg" width="150" height="212" alt="Open Day Flyer 2016" class="photo right" /></a>
-
     Interested in Golf? Why not visit Strawberry Hill Golf Club Open Day. Everyone welcome, from beginners to seasoned golfers!
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/01/the_amiable_crane.html
 commentfile: 2015-01-08-the_amiable_crane
 category: around_town
 date: 2015-01-08 19:15:31
+image: "/assets/images/2015/AMIABLE_Crane_-_Bridge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/AMIABLE_Crane_-_Bridge.jpg" title="See larger version of - Crane Bridge"><img src="/assets/images/2015/AMIABLE_Crane_-_Bridge_thumb.jpg" width="150" height="93" alt="Crane Bridge" class="photo right" /></a>
-
     Generally speaking the Crane is an amiable river. On its 9 mile journey from the source in North Hyde Road, Hayes, where it connects with Yeading Brook, to its exit into the Thames at Isleworth there is nothing to interrupt its leisurely progress. All is peace... until the final contrary kilometre. Twice a day, every day, the River Crane slows to a complete halt and then begins to turn back on itself. Instead of continuing on towards the Thames it moves in reverse, picking up speed, depth and sometimes ferocity.
 
 ---

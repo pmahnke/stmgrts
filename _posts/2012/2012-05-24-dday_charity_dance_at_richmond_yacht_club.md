@@ -5,9 +5,8 @@ permalink: /archives/2012/05/dday_charity_dance_at_richmond_yacht_club.html
 commentfile: 2012-05-24-dday_charity_dance_at_richmond_yacht_club
 category: around_town
 date: 2012-05-24 22:30:13
+image: "/assets/images/2012/doodlebug_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/doodlebug.jpg" title="See larger version of - doodlebug"><img src="/assets/images/2012/doodlebug_thumb.jpg" width="150" height="53" alt="doodlebug" class="photo right" /></a>
-    
     On June 19 1944, just less than two weeks after D-Day, a V1 'doodlebug' flying bomb landed on Twickenham Embankment at the bottom of Water Lane. It destroyed Gotham Villas, killing six people. A further 4 people on the Embankment were also killed.
     
     To commemorate this and D-Day, a dance will be held at Richmond Yacht club on Friday 8<sup>th</sup> June.  Proceeds from the dance will go towards The Embankment Memorial Fund -a fund established to build a memorial to the event and those who died.

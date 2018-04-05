@@ -5,9 +5,8 @@ permalink: /archives/2013/01/do_you_like_singing_join_the_richmond_community_ch.
 commentfile: 2013-01-10-do_you_like_singing_join_the_richmond_community_ch
 category: around_town
 date: 2013-01-10 21:27:13
+image: "/assets/images/2013/richmond_comm_choir_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/richmond_comm_choir.png" title="See larger version of - richmond comm choir"><img src="/assets/images/2013/richmond_comm_choir_thumb.png" width="150" height="113" alt="richmond comm choir" class="photo right" /></a>
-    
     If so, why not come and join Richmond Community Choir in St Margarets?
     Set up and sponsored by Richmond upon Thames College as an evening class five years ago, and now a self-managed Charity, Richmond Community Choir now has over 30 friendly and welcoming members of all ages united by their enjoyment of singing.
     

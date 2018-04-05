@@ -5,9 +5,8 @@ permalink: /archives/2016/07/scotty_moore.html
 commentfile: 2016-07-08-scotty_moore
 category: around_town
 date: 2016-07-08 14:18:28
+image: "/assets/images/2016/SCOTTY_MAIN_PHOTO_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/SCOTTY_MAIN_PHOTO.jpg" title="See larger version of - SCOTTY and ELVIS"><img src="/assets/images/2016/SCOTTY_MAIN_PHOTO_thumb.jpg" width="150" height="84" alt="SCOTTY and ELVIS" class="photo right" /></a>
-
     Here is a photograph taken in 1954 of Elvis Presley, aged 19. This was long before <em>'college boy hair cut'</em> post-military service Elvis, star of some mind numbing films like <em>'Paradise Hawaiian Style'</em>, the weird <em>'Harum Scarum'</em> and the even more grisly <em>'Clambake'</em>... and even longer before lardy Las Vegas, pilled up Elvis, of spangled jump suit fame, handing out souvenir scarves at the International Hotel.
 ---
 

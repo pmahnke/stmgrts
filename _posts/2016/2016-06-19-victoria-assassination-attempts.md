@@ -6,9 +6,8 @@ commentfile: 2016-06-19-victoria-assassination-attempts
 category: around_town
 date: 2016-06-19 15:39:21
 author: "Martyn Day"
+image: "/assets/images/2016/VICT_ASS-queen_victoria_1840_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/VICT_ASS-queen_victoria_1840.jpg" title="See larger version of - queen victoria 1840"><img src="/assets/images/2016/VICT_ASS-queen_victoria_1840_thumb.jpg" width="150" height="195" alt="queen victoria 1840" class="photo right" /></a>
-
     There is little doubt that most people in this country love Queen Elizabeth or at least are prepared to put up with her and the monarchy she represents. (I'm not so sure about the assorted hangers-on that go with it.)
 ---
 

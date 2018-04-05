@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-marble-hill-henriettas-garden-quest.html
 commentfile: 2018-03-29-event-marble-hill-henriettas-garden-quest
 category: around_town
 date: 2018-03-29 08:08:17
+image: "/assets/images/2018/MARBLE-HILL-Henriettas-garden-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/MARBLE-HILL-Henriettas-garden.jpg" title="Click for a larger image"><img src="/assets/images/2018/MARBLE-HILL-Henriettas-garden-thumb.jpg" width="150" alt="Image - MARBLE-HILL-Henriettas-garden"  class="photo right"/></a>
-
     Bring the whole family along for outdoor fun in a gorgeous historic Thameside location. Pick up a leaflet to guide you on an 18<sup>th</sup> Century treasure hunt around Marble Hill Park. Hunt for clues to help Dan, the Head Gardener keep Henrietta Howard's Gardens spick and span.
 
 ---

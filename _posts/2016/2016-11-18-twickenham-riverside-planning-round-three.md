@@ -5,9 +5,8 @@ permalink: /archives/2016/11/twickenham-riverside-planning-round-three.html
 commentfile: 2016-11-18-twickenham-riverside-planning-round-three
 category: news
 date: 2016-11-17 06:44:45
+image: "/assets/images/2016/twick-riverside-plans_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/twick-riverside-plans.jpg" title="See larger version of - twick riverside plans"><img src="/assets/images/2016/twick-riverside-plans_thumb.jpg" width="150" height="90" alt="twick riverside plans" class="photo right" /></a>
-
     Richmond Council has started round three of the consultation on its plans to update the Twickenham Riverside.  The first two rounds have not been very successful to say the least.  This time there are three proposals to look at, all from the same architect.  There is a pop-up on Church Street to see the plans and comment.  You can also <a href="http://www.richmond.gov.uk/twickenham_rediscovered_have_your_say,">look online</a> but turning up is the better way to see and have your views heard.
 ---
 

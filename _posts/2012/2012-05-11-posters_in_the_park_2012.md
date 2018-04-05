@@ -5,9 +5,8 @@ permalink: /archives/2012/05/posters_in_the_park_2012.html
 commentfile: 2012-05-11-posters_in_the_park_2012
 category: around_town
 date: 2012-05-11 08:09:10
+image: "/assets/images/2012/Posters-in-the-Park_2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Posters-in-the-Park_2012.jpg" title="See larger version of - Posters in the Park 2012"><img src="/assets/images/2012/Posters-in-the-Park_2012_thumb.jpg" width="150" height="202" alt="Posters in the Park 2012" class="photo right" /></a>
-    
     _Design an eye-catching poster to help protect Richmond Park_
     
     The Friends of Richmond Park has launched Posters in the Park, a competition to find an iconic, eye-catching poster to help protect Richmond Park's environment and wildlife.

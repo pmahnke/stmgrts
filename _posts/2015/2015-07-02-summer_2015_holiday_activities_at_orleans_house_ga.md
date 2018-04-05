@@ -5,9 +5,8 @@ permalink: /archives/2015/07/summer_2015_holiday_activities_at_orleans_house_ga.
 commentfile: 2015-07-02-summer_2015_holiday_activities_at_orleans_house_ga
 category: around_town
 date: 2015-07-02 22:39:29
+image: "/assets/images/2015/papier_mache_pigeons_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/papier_mache_pigeons.jpg" title="See larger version of - papier mache pigeons"><img src="/assets/images/2015/papier_mache_pigeons_thumb.jpg" width="150" height="112" alt="papier mache pigeons" class="photo right" /></a>
-    
     
     _Fill your holidays with creativity! From 28 July to 14 August 2015 for children aged 0 to 17._
     

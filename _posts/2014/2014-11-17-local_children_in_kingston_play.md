@@ -5,9 +5,8 @@ permalink: /archives/2014/11/local_children_in_kingston_play.html
 commentfile: 2014-11-17-local_children_in_kingston_play
 category: news
 date: 2014-11-17 14:51:10
+image: "/assets/images/2014/The-Lion-The-Witch-and-The-Wardrobe_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/The-Lion-The-Witch-and-The-Wardrobe.jpg" title="See larger version of - The Lion The Witch and The Wardrobe"><img src="/assets/images/2014/The-Lion-The-Witch-and-The-Wardrobe_thumb.jpg" width="150" height="150" alt="The Lion The Witch and The Wardrobe" class="photo right" /></a>
-    
     Two local children from St Margarets auditioned successfully back in July to be part of the cast in the Christmas show at The Rose Theatre Kingston "The Lion, The Witch and The Wardrobe".  Jemma attends The Vineyard School and Michael, Orleans Park.
     
 

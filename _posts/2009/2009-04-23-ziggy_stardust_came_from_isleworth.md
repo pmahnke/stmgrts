@@ -5,8 +5,8 @@ permalink: /archives/2009/04/ziggy_stardust_came_from_isleworth.html
 commentfile: 2009-04-23-ziggy_stardust_came_from_isleworth
 category: around_town
 date: 2009-04-23 14:38:51
+image: "/assets/images/2009/vince_taylor-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/vince_taylor.jpg"><img src="/assets/images/2009/vince_taylor-thumb.jpg" width="118" height="150" alt="MAURICE BRIAN HOLDEN a.k.a VINCE TAYLOR" class="photo right" /></a>
     
     
     _Ziggy Stardust was a rock and roll fantasy created by David Bowie._

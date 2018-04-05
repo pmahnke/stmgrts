@@ -5,9 +5,8 @@ permalink: /archives/2015/01/a_tale_of_two_stories.html
 commentfile: 2015-01-30-a_tale_of_two_stories
 category: around_town
 date: 2015-01-30 21:16:03
+image: "/assets/images/2015/2STORY_SouvenierFront-Cover_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/2STORY_SouvenierFront-Cover.jpg" title="See larger version of - Souvenier Front Cover"><img src="/assets/images/2015/2STORY_SouvenierFront-Cover_thumb.jpg" width="150" height="216" alt="Souvenier Front Cover" class="photo right" /></a>
-
     Just over 60 years ago, in June 1953, the <em>'Daily Express'</em> newspaper produced a compilation of six daily editions, as a souvenir of  what they described as <em>'The Story of the Century'</em> - the Coronation of Queen Elizabeth 2<sup>nd</sup>... But between the cheery reports of pomp and parties, celebration and crowds, there appeared a darker, more tragic story...
 
 ---

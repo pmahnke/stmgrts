@@ -5,9 +5,8 @@ permalink: /archives/2015/07/event_reminder_st_margarets_fair_2015.html
 commentfile: 2015-07-02-event_reminder_st_margarets_fair_2015
 category: around_town
 date: 2015-07-02 22:56:57
+image: "/assets/images/2015/St_Mags_Fair_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="/assets/images/2015/St_Mags_Fair_thumb.jpg" width="150" height="128" alt="St Mags Fair" class="photo right" /></a>
-    
     The 2015 Fair again promises to be an incredible day of fun and excitement for our wonderful community. There is a full programme of entertainment throughout the day.
     
 

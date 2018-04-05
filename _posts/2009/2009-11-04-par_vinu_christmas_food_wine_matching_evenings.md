@@ -5,8 +5,8 @@ permalink: /archives/2009/11/par_vinu_christmas_food_wine_matching_evenings.html
 commentfile: 2009-11-04-par_vinu_christmas_food_wine_matching_evenings
 category: around_town
 date: 2009-11-04 18:10:05
+image: "/assets/images/2009/CHRISTMASF&W-tasting-promov3-1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/CHRISTMASF&W-tasting-promov3-1.jpg"><img src="/assets/images/2009/CHRISTMASF&W-tasting-promov3-1-thumb.jpg" width="102" height="150" alt="flyer" class="photo right" /></a>
     
     
     Treat yourself to an early Christmas Present this year with an evening designed to give you the confidence to match food styles with wines!

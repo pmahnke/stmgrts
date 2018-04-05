@@ -5,9 +5,8 @@ permalink: /archives/2014/11/2nd_annual_charity_santa_cycle_6_december_2014.html
 commentfile: 2014-11-17-2nd_annual_charity_santa_cycle_6_december_2014
 category: around_town
 date: 2014-11-17 15:22:19
+image: "/assets/images/2014/santa_cycle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/santa_cycle.jpg" title="See larger version of - santa cycle"><img src="/assets/images/2014/santa_cycle_thumb.jpg" width="150" height="88" alt="santa cycle" class="photo right" /></a>
-    
     We will be cycling from Whole Foods in Richmond to Shooting Star Chase Hospice in Hampton and delivering Christmas gifts to the children. We had a great turn out last year and are hoping to make it even bigger this year. It's 100% FREE to enter and all you need to do is be dressed in a Santa suit and buy a recommended Christmas gift for the kids at the Hospice and/or donate direct to the hospice via our justgiving page: <a href="http://www.justgiving.com/NjingaSantaCharityCycle/">www.justgiving.com/NjingaSantaCharityCycle</a>
 
 ---

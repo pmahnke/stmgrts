@@ -6,9 +6,8 @@ commentfile: 2017-08-26-facing-the-last-trump
 category: around_town
 author: Martyn Day
 date: 2017-08-26 13:09:53
+image: "/assets/images/2017/LASTTRUMP_mushroom-cloud-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LASTTRUMP_mushroom-cloud.jpg" title="Click for a larger image"><img src="/assets/images/2017/LASTTRUMP_mushroom-cloud-thumb.jpg" width="150" alt="Image - LASTTRUMP_mushroom-cloud"  class="photo right"/></a>
-
     Having noted President Trump's rather gung-ho, fire and fury attitude to nuclear deterrent and the possibility that he might wake up at 3.00am one morning, reach for the Twitter button on his mobile phone (I was going to say 'smart phone' but clearly <em>'Smart'</em> and <em>'Trump'</em> do not sit very well together) and inadvertently trigger World War 3.  I decided to dig out my battered copy of Civil Defence Handbook No. 10 "Advising the Householder on Protection against Nuclear Attack" and swot up... just in case.
 ---
 

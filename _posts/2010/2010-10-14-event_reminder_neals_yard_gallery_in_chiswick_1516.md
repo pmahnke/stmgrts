@@ -5,8 +5,8 @@ permalink: /archives/2010/10/event_reminder_neals_yard_gallery_in_chiswick_1516.
 commentfile: 2010-10-14-event_reminder_neals_yard_gallery_in_chiswick_1516
 category: around_town
 date: 2010-10-14 23:03:48
+image: "/assets/images/2010/NYG_ChiswickPlaceInvite-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/NYG_ChiswickPlaceInvite.jpg"><img alt="NYG_ChiswickPlaceInvite.jpg" src="/assets/images/2010/NYG_ChiswickPlaceInvite-thumb.jpg" width="150" height="105" class="photo right"/></a>
     
     Neal's Yard Galleries have set up another nomadic gallery right on Chiswick roundabout. It's open on Friday 1-4pm and Saturday 1-4pm of this week, before it reopens somewhere else.
     

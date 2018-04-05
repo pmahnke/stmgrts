@@ -5,9 +5,8 @@ permalink: /archives/2017/05/rutc-young-chef-competition-2017.html
 commentfile: 2017-05-11-rutc-young-chef-competition-2017
 category: news
 date: 2017-05-11 20:09:56
+image: "/assets/images/2017/RuTC_Young-Chef-Comp-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/RuTC_Young-Chef-Comp.jpg" title="Click for a larger image"><img src="/assets/images/2017/RuTC_Young-Chef-Comp-thumb.jpg" width="150" alt="Image - RuTC_Young-Chef-Comp"  class="photo right"/></a>
-
     On Wednesday 3<sup>rd</sup> May, students from local schools Orleans Park in Twickenham, Acton High School in Ealing and Bishop Wand C of E School in Sunbury-on-Thames competed in the final of the annual Young Chef of the Year Competition at Richmond upon Thames College (RuTC)
 
 ---

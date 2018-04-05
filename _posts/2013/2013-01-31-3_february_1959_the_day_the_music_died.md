@@ -5,9 +5,8 @@ permalink: /archives/2013/01/3_february_1959_the_day_the_music_died.html
 commentfile: 2013-01-31-3_february_1959_the_day_the_music_died
 category: around_town
 date: 2013-01-31 22:30:04
+image: "/assets/images/2013/DTMD_buddy-holly_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/DTMD_buddy-holly.jpg" title="See larger version of - Buddy Holly"><img src="/assets/images/2013/DTMD_buddy-holly_thumb.jpg" width="150" height="112" alt="Buddy Holly" class="photo right" /></a>
-
     I remember that morning in February 1959. It was a typical winter day, grey and grim, and I was delivering newspapers. Plastered over the front page of the 'Daily Mirror' was the headline 'Top Rock Stars Die in Crash'. Above it, arms spread, was a photograph of J.P Richardson - the Big Bopper - and below, grinning from behind his horn rimmed glasses, was my hero, Buddy Holly. They were both dead, along with 17 year old Ritchie Valens...
 
 ---

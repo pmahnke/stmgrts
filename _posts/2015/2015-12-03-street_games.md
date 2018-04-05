@@ -5,9 +5,8 @@ permalink: /archives/2015/12/street_games.html
 commentfile: 2015-12-03-street_games
 category: around_town
 date: 2015-12-03 21:09:52
+image: "/assets/images/2015/STREETGAMES_childrens_pavement_art_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/STREETGAMES_childrens_pavement_art.jpg" title="See larger version of - childrens pavement art"><img src="/assets/images/2015/STREETGAMES_childrens_pavement_art_thumb.jpg" width="150" height="118" alt="childrens pavement art" class="photo right" /></a>
-    
     
     Games have always been part of human existence, providing ritual, exercise, behavioural training for adulthood, healthy competition and in some cases, a good imitation of life itself... Remember how to play games and you remember how to enjoy yourself. What could be better therapy for young or old?
 

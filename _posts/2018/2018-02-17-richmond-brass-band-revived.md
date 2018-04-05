@@ -5,9 +5,8 @@ permalink: /archives/2018/02/richmond-brass-band-revived.html
 commentfile: 2018-02-17-richmond-brass-band-revived
 category: around_town
 date: 2018-02-17 11:34:34
+image: "/assets/images/2018/richmondbrassband2018-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/richmondbrassband2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/richmondbrassband2018-thumb.jpg" width="150" alt="Image - richmondbrassband2018"  class="photo right"/></a>
-
     <em>Trumpets sound as historical, local brass band is revived</em>
 
     A local brass band has been revived in Richmond upon Thames and historical recordings published, thanks to funding from Richmond Council.

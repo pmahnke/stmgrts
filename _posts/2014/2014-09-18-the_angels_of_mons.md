@@ -5,9 +5,8 @@ permalink: /archives/2014/09/the_angels_of_mons.html
 commentfile: 2014-09-18-the_angels_of_mons
 category: around_town
 date: 2014-09-18 21:41:52
+image: "/assets/images/2014/ANGELS_The_Bowmen_cover_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/ANGELS_The_Bowmen_cover.JPG" title="See larger version of - ANGELS The Bowmen cover"><img src="/assets/images/2014/ANGELS_The_Bowmen_cover_thumb.JPG" width="150" height="240" alt="ANGELS The Bowmen cover" class="photo right" /></a>
-
     The British Expeditionary Force, the BEF, had its first major encounter with the German Army, the <em>'Deutsches Heer'</em>, near Mons in Belgium on the 22<sup>nd</sup>/23<sup>rd</sup> of August 1914. Although they were heavily outnumbered the British troops were able to hold the Germans back for about 24 hours until eventually forced into a rapid retreat. Following this sobering experience the British public began to realise that defeating Germany was not going to be as easy as they first thought.
 
 ---

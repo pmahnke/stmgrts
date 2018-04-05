@@ -5,9 +5,8 @@ permalink: /archives/2018/01/lbrut-free-street-parties-for-harry-and-meghan.html
 commentfile: 2018-01-23-lbrut-free-street-parties-for-harry-and-meghan
 category: news
 date: 2018-01-23 17:16:54
+image: "/assets/images/2018/harry-street-party-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/harry-street-party.jpg" title="Click for a larger image"><img src="/assets/images/2018/harry-street-party-thumb.jpg" width="150" alt="Image - harry-street-party"  class="photo right"/></a>
-
     Street parties for the Royal Wedding this spring are being encouraged by Richmond Council, which is again covering the costs of all road closures in streets where residents would like to organise celebrations.
 
 ---

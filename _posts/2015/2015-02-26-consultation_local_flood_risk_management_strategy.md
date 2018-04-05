@@ -5,9 +5,8 @@ permalink: /archives/2015/02/consultation_local_flood_risk_management_strategy.h
 commentfile: 2015-02-26-consultation_local_flood_risk_management_strategy
 category: news
 date: 2015-02-26 21:58:49
+image: "/assets/images/2015/Flooding_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Flooding.jpg" title="See larger version of - Flooding"><img src="/assets/images/2015/Flooding_thumb.jpg" width="150" height="103" alt="Flooding" class="photo right" /></a>
-    
     Under the Flood and Water Management Act 2010 the London Borough of Richmond upon Thames was designated as a Lead Local Flood Authority (LLFA) with responsibilities for managing local flood risk across the borough. The primary duties of a LLFA are to ensure that flood risks from surface water runoff, groundwater and ordinary watercourses are identified and managed appropriately.
     
 

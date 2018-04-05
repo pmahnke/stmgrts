@@ -5,9 +5,8 @@ permalink: /archives/2016/05/consultation-pavement-repair.html
 commentfile: 2016-05-05-consultation-pavement-repair
 category: news
 date: 2016-05-05 10:27:19
+image: "/assets/images/2016/pavement_fund_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/pavement_fund.jpg" title="See larger version of - pavement fund"><img src="/assets/images/2016/pavement_fund_thumb.jpg" width="150" height="107" alt="pavement fund" class="photo right" /></a>
-
     Residents concerned about the state of pavements in their local area can now nominate them for repair until 17 June 2016.
 
 ---

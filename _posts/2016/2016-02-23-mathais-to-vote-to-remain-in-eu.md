@@ -5,9 +5,8 @@ permalink: /archives/2016/02/mathais-to-vote-to-remain-in-eu.html
 commentfile: 2016-02-23-mathais-to-vote-to-remain-in-eu
 category: news
 date: 2016-02-23 09:25:59
+image: "/assets/images/2016/Tania_Mathias_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Tania_Mathias.jpg" title="See larger version of - Tania Mathias"><img src="/assets/images/2016/Tania_Mathias_thumb.jpg" width="150" height="224" alt="Tania Mathias" class="photo right" /></a>
-
     I consider myself "Euro Cautious". I am not a strong enthusiast for the European Union - it has become too bureaucratic, too controlling and too expensive - but I am by no means blind to the benefits it brings either.
 
     On this basis, I have always said that I wanted to be able to vote to stay in the EU and following the announcement that the referendum will now be held on 23<sup>rd</sup> June, I now know that I will be voting for the UK to remain a member of the European Union.

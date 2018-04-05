@@ -5,9 +5,8 @@ permalink: /archives/2015/03/sarah_jane_hemsley_upholstery.html
 commentfile: 2015-03-12-sarah_jane_hemsley_upholstery
 category: around_town
 date: 2015-03-12 22:23:32
+image: "/assets/images/2015/Sarah-Jane-Hemsley-Upholstery_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Sarah-Jane-Hemsley-Upholstery.jpg" title="See larger version of - Sarah Jane Hemsley Upholstery"><img src="/assets/images/2015/Sarah-Jane-Hemsley-Upholstery_thumb.jpg" width="150" height="86" alt="Sarah Jane Hemsley Upholstery" class="photo right" /></a>
-    
     From my home workshop in St Margarets I restore, recondition and re-upholster antique and mid-century furniture. My aim is to create unique, beautifully crafted furniture from tired or worn pieces.
 
 ---

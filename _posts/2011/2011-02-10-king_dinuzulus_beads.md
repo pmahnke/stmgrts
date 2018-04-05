@@ -5,9 +5,8 @@ permalink: /archives/2011/02/king_dinuzulus_beads.html
 commentfile: 2011-02-10-king_dinuzulus_beads
 category: around_town
 date: 2011-02-10 22:24:25
+image: "/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/DINUZULU_Wood_Badge_Woggle.jpg" title="See larger version of - Wood badge and woggle"><img src="/assets/images/2011/DINUZULU_Wood_Badge_Woggle_thumb.jpg" width="150" height="200" alt="Wood badge and woggle" class="photo right" /></a>
-    
     
     
     Dinuzulu, the son of the mighty warrior Cetshwayo, was King of the Zulu nation from 1884 until his death in 1913.  As a sign of his royalty and courage in battle he wore around his neck a 4 metre long 'iziQu' - a necklace made of thousands of small wooden acacia beads strung on a leather thong. The necklace, passed down from generation to generation, was considered sacred and kept in a cave on a high mountain and guarded day and night. The explorer Charles Rawden Maclean who was shipwrecked off the coast of Zululand in 1825 wrote...

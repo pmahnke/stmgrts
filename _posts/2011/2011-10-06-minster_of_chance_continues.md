@@ -5,9 +5,8 @@ permalink: /archives/2011/10/minster_of_chance_continues.html
 commentfile: 2011-10-06-minster_of_chance_continues
 category: news
 date: 2011-10-06 09:42:18
+image: "/assets/images/2011/minister_of_chance_logo_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2011/minister_of_chance_logo.gif" title="See larger version of - Minister of Chance logo"><img src="/assets/images/2011/minister_of_chance_logo_thumb.gif" width="150" height="80" alt="Minister of Chance logo" class="photo right" /></a>
-    
     Good news, locally produced _Minister of Chance_, a modern, pay-as-you-go radio-play is going to continue with Episode three.
     
     

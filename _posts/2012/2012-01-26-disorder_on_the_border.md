@@ -5,9 +5,8 @@ permalink: /archives/2012/01/disorder_on_the_border.html
 commentfile: 2012-01-26-disorder_on_the_border
 category: around_town
 date: 2012-01-26 22:33:39
+image: "/assets/images/2012/BORDER_St_Theodore_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BORDER_St_Theodore.jpg" title="See larger version of -  St Theodore"><img src="/assets/images/2012/BORDER_St_Theodore_thumb.jpg" width="150" height="208" alt=" St Theodore" class="photo right" /></a>
-    
     
     bq. "A good fence helpeth to keepe peace between neighbours; but let vs take heed that we make not a high stone wall, to keepe vs from meeting."
     

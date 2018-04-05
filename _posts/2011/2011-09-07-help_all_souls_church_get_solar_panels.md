@@ -5,9 +5,8 @@ permalink: /archives/2011/09/help_all_souls_church_get_solar_panels.html
 commentfile: 2011-09-07-help_all_souls_church_get_solar_panels
 category: news
 date: 2011-09-07 11:00:51
+image: "/assets/images/2011/all-souls-solar-Energyshare_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/all-souls-solar-Energyshare.jpg" title="See larger version of - poster"><img src="/assets/images/2011/all-souls-solar-Energyshare_thumb.jpg" width="150" height="211" alt="poster" class="photo right" /></a>
-
     Please help support All Souls Church's bid to get funding through the 'Energy share' fund to get Solar panels installed on the church roof.  If they are successful in winning the grant they will be reinvesting the money made from the 'feed-in-tariff' to support community projects with local schools and young people in the long term.
 
 ---

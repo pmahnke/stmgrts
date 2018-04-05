@@ -5,8 +5,8 @@ permalink: /archives/2013/10/guy_fawkes_night_and_fireworks_2013.html
 commentfile: 2013-10-17-guy_fawkes_night_and_fireworks_2013
 category: around_town
 date: 2013-10-17 21:08:11
+image: "/assets/images/2013/fireworks-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/fireworks.jpg"><img src="/assets/images/2013/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right"/></a>
 
     Here are some of the larger firework displays around us this year.
 

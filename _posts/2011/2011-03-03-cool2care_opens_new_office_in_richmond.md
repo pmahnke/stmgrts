@@ -5,9 +5,8 @@ permalink: /archives/2011/03/cool2care_opens_new_office_in_richmond.html
 commentfile: 2011-03-03-cool2care_opens_new_office_in_richmond
 category: news
 date: 2011-03-03 22:02:55
+image: "/assets/images/2011/cool2care_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2011/cool2care.gif" title="See larger version of - Cool2care logo"><img src="/assets/images/2011/cool2care_thumb.gif" width="150" height="40" alt="Cool2care logo" class=" right" /></a>
-    
     Cool2Care opens new office in Richmond to support local families with disabled children in Southwest London.
     
     Cool2Care, an innovative social enterprise, has opened up a local office in Richmond to compliment its successful Surrey team. With over 15 offices around England, this is the latest office to be opened by the organisation and will service Richmond and the SW London area.

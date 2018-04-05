@@ -5,9 +5,8 @@ permalink: /archives/2012/11/ladies_want_to_be_a_rock_n_roll_star.html
 commentfile: 2012-11-30-ladies_want_to_be_a_rock_n_roll_star
 category: around_town
 date: 2012-11-30 12:38:21
+image: "/assets/images/2012/Nark_mic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Nark_mic.jpg" title="See larger version of - Nark's mic"><img src="/assets/images/2012/Nark_mic_thumb.jpg" width="150" height="208" alt="Nark's mic" class="photo right" /></a>
-    
     Can you sing like Brenda Lee? Can you "dooby-doo" like the Ronettes? Do you look hot in a 'frou-frou' dress? Are you into the popular music of the late 1950's?
     
     You can? You do? You are?!! Then you might be just the person that a St Margarets based 1950's style rock 'n' roll band is looking for!

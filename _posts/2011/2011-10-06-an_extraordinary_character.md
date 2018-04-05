@@ -5,9 +5,8 @@ permalink: /archives/2011/10/an_extraordinary_character.html
 commentfile: 2011-10-06-an_extraordinary_character
 category: around_town
 date: 2011-10-06 20:29:03
+image: "/assets/images/2011/EXTRAORDINARY_Chevalier_Billing_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/EXTRAORDINARY_Chevalier_Billing.jpg" title="See larger version of - Chevalier Billing"><img src="/assets/images/2011/EXTRAORDINARY_Chevalier_Billing_thumb.jpg" width="150" height="172" alt="Chevalier Billing" class="photo right" /></a>
-    
     bq. "In the court of the evening, by particular desire of several persons of distinction, the celebrated CHEVALIERE D'EON will FENCE with a NOBLEMAN."
     
     On the evening of 23<sup>rd</sup> August 1793 the patrons of the Theatre Royal, Richmond were looking forward to a real treat. Included on the bill that evening was a fencing display by that acknowledged champion of the flashing blade - the Chevaliere d'Eon.  This was the same person who on June 19<sup>th</sup> that year had received the personal congratulations of the Prince of Wales and his mistress Mrs Fitzherbert after a fencing demonstration that had shown _"a vigour and  firmness incredible"_.

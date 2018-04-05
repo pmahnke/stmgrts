@@ -5,11 +5,8 @@ permalink: /archives/2011/10/local_boys_help_raise_money_for_charity.html
 commentfile: 2011-10-19-local_boys_help_raise_money_for_charity
 category: news
 date: 2011-10-19 21:15:34
+image: "/assets/images/2011/jeevika_walkers_thumb.png"
 excerpt: |
-    
-    
-    <a href="/assets/images/2011/jeevika_walkers.png" title="See larger version of - Ryan and Cameron, Jeevika Trust's youngest ever walkers"><img src="/assets/images/2011/jeevika_walkers_thumb.png" width="150" height="99" alt="Ryan and Cameron, Jeevika Trust's youngest ever walkers" class="photo right" /></a>
-    
     Hampton Wick based charity, Jeevika Trust's youngest ever walker, along with his brother and 30 other walkers have helped the charity to raise over &pound;2000 for water projects in rural India.
     
     Six year old Cameron and his little brother Ryan, four, who attend Orleans Infant School and are from St Margarets, took part in the charity's annual sponsored Walk for Water through Bushy Park and along the Thames towpath on Sunday 25<sup>th</sup> September along with other friends and supporters of the charity.  Ryan was picked up by his dad half way round the 6 mile route after doing a sterling job, but Cameron had so much energy at the end, he ran home!  Liz, the charitable boys' mum said 'The boys and I had a great time doing it together.  Ryan did a super job to get as far as Ham House, and Cameron felt so wonderful at the end, that after our bus ride to Twickenham, he ran the last half mile home.  I am so proud of them - the sponsorship is still coming in and it looks like they have managed to raise well over &pound;100.'

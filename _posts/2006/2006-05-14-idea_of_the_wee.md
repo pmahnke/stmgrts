@@ -5,8 +5,8 @@ permalink: /archives/2006/05/idea_of_the_wee.html
 commentfile: 2006-05-14-idea_of_the_wee
 category: around_town
 date: 2006-05-14 14:17:13
+image: "/assets/images/2006/gotoisabellaplantation-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/gotoisabellaplantation.jpg"><img src="/assets/images/2006/gotoisabellaplantation-thumb.jpg" width="150" height="112" alt="Go to Isabella Plantation" class="photo right" /></a>
     
     We just went to <a href="http://www.royalparks.gov.uk/parks/richmond_park/">Isabella Plantation</a> this morning and the azaleas are perfect.  It will probably only last a week, so be sure to get there soon if you are interested.
     

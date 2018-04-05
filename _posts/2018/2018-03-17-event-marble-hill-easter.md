@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-marble-hill-easter.html
 commentfile: 2018-03-17-event-marble-hill-easter
 category: around_town
 date: 2018-03-13 07:29:38
+image: "/assets/images/2018/marble-hill-house-easter-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/marble-hill-house-easter.jpg" title="Click for a larger image"><img src="/assets/images/2018/marble-hill-house-easter-thumb.jpg" width="150" alt="Image - marble-hill-house-easter"  class="photo right"/></a>
-
     Bring the whole family along for outdoor fun in a gorgeous historic Thameside location.
 
 ---

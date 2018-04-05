@@ -5,8 +5,8 @@ permalink: /archives/2006/07/exercise_the_be.html
 commentfile: 2006-07-05-exercise_the_be
 category: around_town
 date: 2006-07-05 12:25:42
+image: "/assets/images/2006/georgie-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/georgie.jpg"><img src="/assets/images/2006/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
     
     _We are running a series of articles from Georgie Islip, a local resident and fitness and nutrition specialist who runs a personal training company, GeoLifestyle in the area.  This second article is on 'the benefits of exercise'..._
     

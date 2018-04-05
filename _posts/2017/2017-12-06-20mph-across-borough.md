@@ -5,9 +5,8 @@ permalink: /archives/2017/12/20mph-across-borough.html
 commentfile: 2017-12-06-20mph-across-borough
 category: news
 date: 2017-12-06 19:32:08
+image: "/assets/images/2017/20-mph-sign-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/20-mph-sign.jpg" title="Click for a larger image"><img src="/assets/images/2017/20-mph-sign-thumb.jpg" width="150" alt="Image - 20-mph-sign"  class="photo right"/></a>
-
     A 20mph speed limit could be introduced across the borough it was announced at last week's Council meeting.
 
     The plans were announced by Cllr Peter Buckwell, Richmond Council Cabinet Member for Highways, following a rise in the number of community petitions being submitted to the Council, requesting 20mph.

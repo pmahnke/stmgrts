@@ -5,9 +5,8 @@ permalink: /archives/2013/03/1000_pound_competition_winner_announced.html
 commentfile: 2013-03-07-1000_pound_competition_winner_announced
 category: around_town
 date: 2013-03-07 18:58:23
+image: "/assets/images/2013/herman_comp_mayor_2013_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/herman_comp_mayor_2013.jpg" title="See larger version of - herman comp mayor 2013"><img src="/assets/images/2013/herman_comp_mayor_2013_thumb.jpg" width="150" height="112" alt="herman comp mayor 2013" class="photo right" /></a>
-    
     
     The Mayor Councillor Rita Palmer visited St Margarets on Monday to announce the winner of the Herdman Family Carpet Shop's competition.
     

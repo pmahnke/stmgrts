@@ -5,9 +5,8 @@ permalink: /archives/2009/12/the_bass_players_pal.html
 commentfile: 2009-12-10-the_bass_players_pal
 category: around_town
 date: 2009-12-10 22:08:38
+image: "/assets/images/2009/paul_1_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/paul_1.png" title="See larger version of - THE FLEDERMAUS GUITAR WITH BUILT-IN AMPLIFIER"><img src="/assets/images/2009/paul_1_thumb.png" width="150" height="103" alt="THE FLEDERMAUS GUITAR WITH BUILT-IN AMPLIFIER" class="right" /></a>
-    
     Being the rockin' little spot that it is, St. Margarets is full of people who are either a) In a band or group, b) Were in a band or group, c) Wish they were in a band or group, or d) Are not in a band or group, have never been in a band or group, have never wanted to be in a band or group and have probably stopped reading this already.
     
 

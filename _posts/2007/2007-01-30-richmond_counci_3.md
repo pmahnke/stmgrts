@@ -5,8 +5,8 @@ permalink: /archives/2007/01/richmond_counci_3.html
 commentfile: 2007-01-30-richmond_counci_3
 category: news
 date: 2007-01-30 16:18:57
+image: "/assets/images/2007/co2_emissions-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2007/co2_emissions-thumb.jpg" width="150" height="147" alt="co2" class="right" />
     
     Last night the Cabinet of Richmond Council voted to implement parking charges for <abbr title="controlled parking zone">CPZ</abbr>  permits based on the CO2 emissions of their vehicles.
     

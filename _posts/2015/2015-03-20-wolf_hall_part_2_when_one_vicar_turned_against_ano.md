@@ -5,9 +5,8 @@ permalink: /archives/2015/03/wolf_hall_part_2_when_one_vicar_turned_against_ano.
 commentfile: 2015-03-20-wolf_hall_part_2_when_one_vicar_turned_against_ano
 category: around_town
 date: 2015-03-20 09:55:56
+image: "/assets/images/2015/WOLF2_Henry_8th_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/WOLF2_Henry_8th.jpg" title="See larger version of - Henry 8th"><img src="/assets/images/2015/WOLF2_Henry_8th_thumb.jpg" width="150" height="180" alt="Henry 8th" class="photo right" /></a>
-    
     THE STORY SO FAR... In 1533 the King, Henry 8<sup>th</sup>, broke with the authority of Rome and the Catholic Church, married his second wife Anne Boleyn and proclaimed himself Supreme Head of the Church of England. Many objected and there were some who voiced their opinion quite openly but they were quickly rounded up by the King's Chief Minister Thomas Cromwell and silenced - by the axe and the hangman's noose. Amongst their number were two local clerics, John Hale, the vicar of Isleworth and Robert Feron, the vicar of Teddington.
 
 ---

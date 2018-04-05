@@ -5,9 +5,8 @@ permalink: /archives/2015/06/event_reminder_italian_saxophonist_renato_dalello.h
 commentfile: 2015-06-03-event_reminder_italian_saxophonist_renato_dalello
 category: around_town
 date: 2015-06-03 22:07:10
+image: "/assets/images/2015/renato_portrait_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/renato_portrait.jpg" title="See larger version of - renato portrait"><img src="/assets/images/2015/renato_portrait_thumb.jpg" width="150"  alt="renato portrait" class="photo right" /></a>
-    
     _featuring Dave Warren_
     
     Renato is a superlative saxophonist and Poet ! He has all the virtues a Jazz musician can have, a beautiful sense of time, a total joy of performing and a technique which effortlessly projects his brilliant flowing ideas...

@@ -5,9 +5,8 @@ permalink: /archives/2012/05/no_such_thing_as_bad_publicity_really.html
 commentfile: 2012-05-19-no_such_thing_as_bad_publicity_really
 category: editorial
 date: 2012-05-19 10:20:20
+image: "/assets/images/2012/pornlady_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/pornlady.jpg" title="See larger version of - pornlady"><img src="/assets/images/2012/pornlady_thumb.jpg" width="150" height="84" alt="pornlady" class="photo right" /></a>
-
     Well, this week we received some tweets from <a href="http://www.twitter.com/MustardSeedUK">@MustardSeedUK</a> about a new report from the <a href="https://www.openrightsgroup.org/blog/2012/mobile-internet-censorship">Open Rights Group</a> about mobile operators blocking sites incorrectly as 'p0rn' sites.
 ---
 

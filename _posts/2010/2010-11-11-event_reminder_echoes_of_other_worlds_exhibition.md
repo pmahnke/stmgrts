@@ -5,9 +5,8 @@ permalink: /archives/2010/11/event_reminder_echoes_of_other_worlds_exhibition.ht
 commentfile: 2010-11-11-event_reminder_echoes_of_other_worlds_exhibition
 category: around_town
 date: 2010-11-11 19:41:59
+image: "/assets/images/2010/Echoes_otherworlds_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Echoes_otherworlds.jpg" title="See larger version of - Echoes of other worlds"><img src="/assets/images/2010/Echoes_otherworlds_thumb.jpg" width="150" height="142" alt="Echoes of other worlds" class="photo right" /></a>
-    
     Sculpture, video and paintings by a group of young artists, musicians and scientists present recent work that explores diverse ideas. The show has no set theme, but uses the title as a starting point to explore links between different worlds; in particular the worlds of the artist, scientist and musician.
     
     Artworks also examine ideas of collecting, interactivity and the surreal or visual joke.

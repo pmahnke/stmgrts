@@ -5,9 +5,8 @@ permalink: /archives/2011/07/petition_save_heatham_house.html
 commentfile: 2011-07-28-petition_save_heatham_house
 category: news
 date: 2011-07-28 18:44:55
+image: "/assets/images/2011/heatham_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/heatham_poster.jpg" title="See larger version of - Heatham Poster"><img src="/assets/images/2011/heatham_poster_thumb.jpg" width="150" height="212" alt="Heatham Poster" class="photo right" /></a>
-    
     An <a href="http://www.richmond.gov.uk/home/council_government_and_democracy/petitions/online_petitions/epetitions.htm?mgl=mgEPetitionDisplay.aspx&ID=42&RPID=7637922&HPID=7637922">online petition to save Heatham House</a> has been started and runs until 4<sup>th</sup> October 2011 and has been created because;
     
     bq. "The Twickenham Area Action plan proposes that Heatham House and its grounds could be sold for residential or hotel use and the youth centre moved into new premises on the old royal mail sorting office site next door."

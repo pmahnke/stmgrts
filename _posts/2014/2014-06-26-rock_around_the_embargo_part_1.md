@@ -5,9 +5,8 @@ permalink: /archives/2014/06/rock_around_the_embargo_part_1.html
 commentfile: 2014-06-26-rock_around_the_embargo_part_1
 category: around_town
 date: 2014-06-26 09:06:52
+image: "/assets/images/2014/the_shadows_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/the_shadows.jpg" title="See larger version of - the shadows"><img src="/assets/images/2014/the_shadows_thumb.jpg" width="150" height="140" alt="the shadows" class="photo right" /></a>
-
     54 years ago, on 17<sup>th</sup> June 1960,  the Shadows recorded "Apache", an instrumental that introduced to the UK a new and exciting sound played on a new and stylish American guitar - the Fender Stratocaster. Like many other British musicians the Shadows were fed up with the lack of decent guitars in the UK - so they decided to import one for themselves. Whenbq. "Apache" was released in July 1960 it went straight to No. 1 and stayed there for 5 weeks.
 
 ---

@@ -6,9 +6,8 @@ commentfile: 2017-04-17-vimy-ridge
 category: around_town
 author: Martyn Day
 date: 2017-04-17 12:42:19
+image: "/assets/images/2017/VIMYRIDGE_Vimy_Ridge_Memorial-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/VIMYRIDGE_Vimy_Ridge_Memorial.jpg" title="Click for a larger image"><img src="/assets/images/2017/VIMYRIDGE_Vimy_Ridge_Memorial-thumb.jpg" width="150" alt="Image - VIMYRIDGE_Vimy_Ridge_Memorial"  class="photo right"/></a>
-
     Hey Jesse leave your ploughing.
     There's a man waiting at the door.
     He's got some government papers,

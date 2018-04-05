@@ -6,9 +6,8 @@ commentfile: 2018-02-04-mama-dont-allow
 category: around_town
 author: "Martyn Day"
 date: 2018-02-04 07:09:20
+image: "/assets/images/2018/SKIFFLE_cafe-racers-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/SKIFFLE_cafe-racers.jpg" title="Click for a larger image"><img src="/assets/images/2018/SKIFFLE_cafe-racers-thumb.jpg" width="150" alt="Image - SKIFFLE_cafe-racers"  class="photo right"/></a>
-
     There is a common misapprehension that the only music the elderly enjoy is of the "Daisy Daisy" variety forgetting perhaps that today's generation of 70 and 80-year olds were not raised listening to music hall and Marie Lloyd but Johnny Ray, Tommy Steele and Skiffle. Today's Grey Panthers were yesterday's Teddy Boys and Dungaree Dolls and in their hearts they still are.
 
 ---

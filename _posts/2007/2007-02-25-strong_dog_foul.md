@@ -5,8 +5,8 @@ permalink: /archives/2007/02/strong_dog_foul.html
 commentfile: 2007-02-25-strong_dog_foul
 category: news
 date: 2007-02-25 10:34:27
+image: "/assets/images/2007/Dogfouling0.2d48-thumb.gif"
 excerpt: |
-    <img src="/assets/images/2007/Dogfouling0.2d48-thumb.gif" width="150" height="153" alt="no dog poo please" class="right" />
     
     The Council will be adopting new dog fouling powers that will increase the maximum penalty for failing to remove dog faeces deposited on the highway to &pound;1000 on conviction. The Council will be targeting its enforcement operations at known hotspots in the vicinity of Primary schools.
     

@@ -5,9 +5,8 @@ permalink: /archives/2014/11/intimations_of_mortality.html
 commentfile: 2014-11-23-intimations_of_mortality
 category: around_town
 date: 2014-11-23 08:10:19
+image: "/assets/images/2014/INCROWD_Martyn_Mod_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/INCROWD_Martyn_Mod.jpg" title="See larger version of - Martyn Mod"><img src="/assets/images/2014/INCROWD_Martyn_Mod_thumb.jpg" width="150" height="207" alt="Martyn Mod" class="photo right" /></a>
-    
     In 1964 I was a Mod. I wore a two-vent madras cotton jacket over an arrow point Ben Sherman shirt, hipster trousers and shoes by Ravel. My hair was backcombed and I rode a Lambretta Li150 scooter with chrome side panels. My music was soul and my attitudes were hip.  I truly thought that I was one of the <em>"In Crowd"</em>.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2011/05/kidsdance_dance_cource_at_rambert_2529_july_2011.ht
 commentfile: 2011-05-26-kidsdance_dance_cource_at_rambert_2529_july_2011
 category: around_town
 date: 2011-05-26 22:03:45
+image: "/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Kidsdance-Stormalong-flyer.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/Kidsdance-Stormalong-flyer_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
-    
     _Kidsdance Multi Arts Summer Course at the Rambert School in St Margarets_
     
     Stormalong is a holiday dance course for children aged 5 to 12, which includes workshops in singing (sea shanties!), music and art.

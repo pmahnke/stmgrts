@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-spring-adult-art-workshops.html
 commentfile: 2016-04-16-event-spring-adult-art-workshops
 category: around_town
 date: 2016-04-16 09:21:08
+image: "/assets/images/2016/Painting-Class-Orleans_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Painting-Class-Orleans.jpg" title="See larger version of - Painting Class Orleans"><img src="/assets/images/2016/Painting-Class-Orleans_thumb.jpg" width="150" height="131" alt="Painting Class Orleans" class="photo right" /></a>
-
     This Spring there is an exciting selection of workshops and programmes for adults running this summer at Orleans House Gallery.  They offer adult audiences an exciting and fun range of lectures, talks and workshops. From one day sessions to longer courses, you can develop practical skills and extend your art knowledge throughout the year.
 ---
 

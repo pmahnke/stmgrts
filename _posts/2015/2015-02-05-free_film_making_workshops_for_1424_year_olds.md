@@ -5,9 +5,8 @@ permalink: /archives/2015/02/free_film_making_workshops_for_1424_year_olds.html
 commentfile: 2015-02-05-free_film_making_workshops_for_1424_year_olds
 category: around_town
 date: 2015-02-05 07:53:17
+image: "/assets/images/2015/Isabella-Plantation-Access-Project-flyer-V3_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Isabella-Plantation-Access-Project-flyer-V3.jpg" title="See larger version of - Isabella Plantation Access Project flyer V3"><img src="/assets/images/2015/Isabella-Plantation-Access-Project-flyer-V3_thumb.jpg" width="150" height="211" alt="Isabella Plantation Access Project flyer V3" class="photo right" /></a>
-    
     Groundwork are running film making workshops for young people aged between 14 - 24. Come along and learn new skills by producing a film about the sights and sounds of the Isabella Plantation in Richmond Park.
 
 ---

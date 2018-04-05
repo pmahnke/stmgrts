@@ -5,9 +5,8 @@ permalink: /archives/2013/04/event_reminder_spectacular_may_fayre_17_may_2013.ht
 commentfile: 2013-04-11-event_reminder_spectacular_may_fayre_17_may_2013
 category: around_town
 date: 2013-04-11 20:53:10
+image: "/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/May_Fayre_Poster_FINAL.jpg" title="See larger version of - May Fayre Poster"><img src="/assets/images/2013/May_Fayre_Poster_FINAL_thumb.jpg" width="150" height="213" alt="May Fayre Poster" class="photo right" /></a>
-    
     Join NappyValleyNet, your favourite local website, Tempo Tots and Gilbert Giggles for a spectacular May Fayre for children 4 months - under 5 years.
     
     Enjoy a 45 minute performance of magic, dancing, story telling, music making, giggles, singing and balloon making with special performances from Gilbert Giggles, the most amazing Master of Disaster & Highly Skilled Dellusionist, Tempo Tots and their LiVE Music Making and the fabulous TEMPO TOTS CHOIR, 'Up Tempo'.

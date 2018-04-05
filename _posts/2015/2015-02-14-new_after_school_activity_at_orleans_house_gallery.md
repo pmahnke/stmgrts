@@ -5,9 +5,8 @@ permalink: /archives/2015/02/new_after_school_activity_at_orleans_house_gallery.
 commentfile: 2015-02-14-new_after_school_activity_at_orleans_house_gallery
 category: around_town
 date: 2015-02-14 07:46:12
+image: "/assets/images/2015/Star-Club-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Star-Club-poster.jpg" title="See larger version of - Star Club poster"><img src="/assets/images/2015/Star-Club-poster_thumb.jpg" width="150" height="213" alt="Star Club poster" class="photo right" /></a>
-    
     Orleans House Gallery is pleased to announce an exciting brand new after school activity, Star Club. Combining, movement, story telling, music and art -- spend 5 weeks working with performance and art practitioner Liz Howell.
     
 

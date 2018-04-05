@@ -6,9 +6,8 @@ commentfile: 2016-08-20-vogue_words
 category: around_town
 author: "Martyn Day"
 date: 2016-08-20 14:25:56
+image: "/assets/images/2016/NEWWORDS_Jessica_Ennis_Hill_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/NEWWORDS_Jessica_Ennis_Hill.jpg" title="See larger version of - Jessica Ennis Hill"><img src="/assets/images/2016/NEWWORDS_Jessica_Ennis_Hill_thumb.jpg" width="150" height="99" alt="Jessica Ennis Hill" class="photo right" /></a>
-
     Maybe it's because I am getting old or like Rip Van Winkle I have been asleep for the last twenty years or maybe I'm just thick but something strange seems to be happening to our language.  A whole gabble of words that I have never seen before have recently appeared and left me baffled.
 
 ---

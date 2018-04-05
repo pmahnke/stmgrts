@@ -5,9 +5,8 @@ permalink: /archives/2015/03/event_reminder_standup_comedy_returns_to_orleans_p.
 commentfile: 2015-03-20-event_reminder_standup_comedy_returns_to_orleans_p
 category: around_town
 date: 2015-03-20 09:26:12
+image: "/assets/images/2015/SuzyBennettPic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/SuzyBennettPic.jpg" title="See larger version of - SuzyBennettPic"><img src="/assets/images/2015/SuzyBennettPic_thumb.jpg" width="150" height="112" alt="SuzyBennettPic" class="photo right" /></a>
-    
     Back by popular demand, the unmissable OPSA Comedy Night delivers some of Britain's hottest standup talent.
 
 ---

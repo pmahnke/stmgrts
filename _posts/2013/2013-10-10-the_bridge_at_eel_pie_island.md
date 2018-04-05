@@ -5,9 +5,8 @@ permalink: /archives/2013/10/the_bridge_at_eel_pie_island.html
 commentfile: 2013-10-10-the_bridge_at_eel_pie_island
 category: around_town
 date: 2013-10-10 17:33:20
+image: "/assets/images/2013/EELPIE_eel_pie_hotel_1920_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/EELPIE_eel_pie_hotel_1920.jpg" title="See larger version of - eel pie hotel 1920"><img src="/assets/images/2013/EELPIE_eel_pie_hotel_1920_thumb.jpg" width="150" height="151" alt="eel pie hotel 1920" class="photo right" /></a>
-    
     When local antique dealer Michael Snapper bought the old and gently decaying Eel Pie Island Hotel in the early 1950's the locomotive band had been replaced by <em>"a rather washed-out trio playing foxtrots and what-not to half a dozen people."</em> Business at the hotel was very slow and locals were beginning to talk of Snapper's acquisition as a white elephant. The hotel badly needed renovation, the entertainment wasn't attracting anybody and worse of all - the only way you could get there was by a small ferryboat. Although he may not have realised it at the time what Mr Snapper needed to save his hotel was a) something that would attract large numbers of people, b) ideally people who wouldn't be too bothered by the tatty decor of his hotel and c) people who would really 'dig' the fun of a ferry boat ride. The answer was right under his nose.
     
 

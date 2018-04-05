@@ -5,9 +5,8 @@ permalink: /archives/2012/05/new_jubilee_pond_in_richmond_park_to_be_created.htm
 commentfile: 2012-05-11-new_jubilee_pond_in_richmond_park_to_be_created
 category: news
 date: 2012-05-11 09:21:57
+image: "/assets/images/2012/Jubilee-pond-Richmond-Park_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Jubilee-pond-Richmond-Park.jpg" title="See larger version of - Jubilee pond Richmond Park"><img src="/assets/images/2012/Jubilee-pond-Richmond-Park_thumb.jpg" width="150" height="99" alt="Jubilee pond Richmond Park" class="photo right" /></a>
-    
     _Sir David Attenborough launches Richmond Park Ponds & Streams conservation appeal._
     
     The Queen's visit to Richmond Park on May 15 will see a new Jubilee Pond being created in her honour and to commemorate her Diamond Jubilee.

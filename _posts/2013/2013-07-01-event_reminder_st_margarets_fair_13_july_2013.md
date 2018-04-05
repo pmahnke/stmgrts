@@ -5,9 +5,8 @@ permalink: /archives/2013/07/event_reminder_st_margarets_fair_13_july_2013.html
 commentfile: 2013-07-01-event_reminder_st_margarets_fair_13_july_2013
 category: around_town
 date: 2013-07-01 10:45:38
+image: "/assets/images/2013/SMFLogo180.gif"
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2013/SMFLogo180.gif" height="150" width="150" class="right" alt="" /></a>
-    
     
     Don't forget that this <a href="https://stmargarets.london/event/fair/200705144026,">Saturday, 13 July 2013, from 11.30am to 7.30pm</a> is the 35<sup>th</sup> Annual St Margarets Fair in Moormead Park.
 

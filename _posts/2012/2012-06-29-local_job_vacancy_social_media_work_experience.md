@@ -5,9 +5,8 @@ permalink: /archives/2012/06/local_job_vacancy_social_media_work_experience.html
 commentfile: 2012-06-29-local_job_vacancy_social_media_work_experience
 category: around_town
 date: 2012-06-29 09:29:58
+image: "/assets/images/2012/heart_125_transparent.png"
 excerpt: |
-    <a href="http://mystmargarets.com" title="St Margarets Traders Association"><img src="http://mystmargarets.com/images/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"></a>
-
 
     The St Margarets Traders Association is keen to increase the use of it's website <a href="http://www.mystmargarets.com">www.mystmargarets.com</a> by developing new social media campaigns and exciting web site content. They are seeking a local person looking for work experience around the web and social media marketing.
 ---

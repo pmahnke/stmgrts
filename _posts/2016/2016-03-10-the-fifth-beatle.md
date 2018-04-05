@@ -6,9 +6,8 @@ commentfile: 2016-03-10-the-fifth-beatle
 category: news
 date: 2016-03-10 20:12:22
 author: "Martyn Day"
+image: "/assets/images/2016/5BEATLE_george_martin_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/5BEATLE_george_martin.jpg" title="See larger version of - george martin"><img src="/assets/images/2016/5BEATLE_george_martin_thumb.jpg" width="150" height="93" alt="george martin" class="photo right" /></a>
-
     Much has been written about George Martin and I am sure that there is much more to come so there is no need for me to add to it save...
 ---
 

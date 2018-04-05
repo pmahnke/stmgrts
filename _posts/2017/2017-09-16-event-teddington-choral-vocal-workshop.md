@@ -5,9 +5,8 @@ permalink: /archives/2017/09/event-teddington-choral-vocal-workshop.html
 commentfile: 2017-09-16-event-teddington-choral-vocal-workshop
 category: around_town
 date: 2017-09-16 06:39:55
+image: "/assets/images/2017/TCS-workshop-2017-09-23-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/TCS-workshop-2017-09-23.jpg" title="Click for a larger image"><img src="/assets/images/2017/TCS-workshop-2017-09-23-thumb.jpg" width="150" alt="Image - TCS-workshop-2017-09-23"  class="photo right"/></a>
-
     Join Teddington Choral for a lively Come &amp; Sing Day Saturday 23<sup>rd</sup> September with Haydn's St Nicholas and Theresa Masses.
 
     September Sing Day will be led by Sam Evans, professional baritone and Music Director of Teddington Choral Society, the day will focus on vocal health, singing technique, and having fun.

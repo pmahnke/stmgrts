@@ -5,9 +5,8 @@ permalink: /archives/2017/12/classes-orleans-painting-winter-2017.html
 commentfile: 2017-12-14-classes-orleans-painting-winter-2017
 category: around_town
 date: 2017-12-14 13:15:56
+image: "/assets/images/2017/orleans-classes-painting-winter-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-classes-painting-winter-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-classes-painting-winter-2017-thumb.jpg" width="150" alt="Image - orleans-classes-painting-winter-2017"  class="photo right"/></a>
-
     Discover a range of painting techniques and create your own masterpieces. The classes are aimed at both beginners and experienced painters.
 
 ---

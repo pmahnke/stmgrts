@@ -5,9 +5,8 @@ permalink: /archives/2011/01/the_icicle_thief.html
 commentfile: 2011-01-13-the_icicle_thief
 category: around_town
 date: 2011-01-13 09:09:06
+image: "/assets/images/2011/ICICLE_frozen_thames_1677_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/ICICLE_frozen_thames_1677.jpg" title="See larger version of - Frozen Thames in 1677"><img src="/assets/images/2011/ICICLE_frozen_thames_1677_thumb.jpg" width="150" height="92" alt="Frozen Thames in 1677" class="photo right" /></a>
-    
     
     The River Thames froze over on twenty three occasions between 1620 and 1814. Sometimes the ice was so thick that people could walk from one side to the other or cross in horse and carriage. There were "Frost Fairs" with traders setting up booths on the ice..."as fruit sellers, victuallers, that solde beere and wine, shoe makers and barber's tents." The frozen river also became a place for dancing, sports and games, as in the winter of 1565 and recorded by Stow and Holinshead.
 

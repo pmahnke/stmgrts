@@ -6,9 +6,8 @@ commentfile: 2016-12-10-riding-the-rusty-husky
 category: around_town
 author: "Martyn Day"
 date: 2016-12-10 07:25:45
+image: "/assets/images/2016/HUSKY_hillman-husky_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/HUSKY_hillman-husky.jpg" title="See larger version of - hillman husky"><img src="/assets/images/2016/HUSKY_hillman-husky_thumb.jpg" width="150" height="99" alt="hillman husky" class="photo right" /></a>
-
     When I was a teenager I used to deliver newspapers in the countryside around the village of Welham Green in Hertfordshire. Because the delivery round was eight miles long Fred the newsagent allowed me to use his car - the  "Rusty Husky" - a rather tired Hillman Husky with holes in the floor and a hundredweight sack of sugar over the back axle to help with traction in muddy farmyards and fallen snow.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2017/09/richmond-upon-thames-school-opens.html
 commentfile: 2017-09-22-richmond-upon-thames-school-opens
 category: news
 date: 2017-09-22 16:41:15
+image: "/assets/images/2017/LBRUT_rut-school-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LBRUT_rut-school.jpg" title="Click for a larger image"><img src="/assets/images/2017/LBRUT_rut-school-thumb.jpg" width="150" alt="Image - LBRUT_rut-school"  class="photo right"/></a>
-
     The borough's newest secondary school opened its doors last week, welcoming 140 Year 7 pupils.
 
     The Richmond upon Thames School is governed by The Richmond upon Thames School Trust, made up of partner organisations including Harlequins, Haymarket Media Group, Richmond upon Thames College, Achieving for Children and Richmond Council.

@@ -5,9 +5,8 @@ permalink: /archives/2016/09/a316-average-speed-cameras.html
 commentfile: 2016-09-03-a316-average-speed-cameras
 category: news
 date: 2016-09-03 14:16:09
+image: "/assets/images/2016/a316_average-speed-camera_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/a316_average-speed-camera.jpg" title="See larger version of - a316 average speed camera"><img src="/assets/images/2016/a316_average-speed-camera_thumb.jpg" width="150" height="101" alt="a316 average speed camera" class="photo right" /></a>
-
     You may have noticed that along the A316, all the yellow speed camera are gone.  Don't relax, they are being replaced with a new average speed system like we have seen in various areas under construction on the M3 and M25 for years.
 ---
 

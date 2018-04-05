@@ -5,8 +5,8 @@ permalink: /archives/2010/06/event_reminder_arthouse_open_studios_festival.html
 commentfile: 2010-06-04-event_reminder_arthouse_open_studios_festival
 category: around_town
 date: 2010-06-04 08:48:45
+image: "/images/directory/201006031129_ARThouse_Open_Studios_Festival.jpg"
 excerpt: |
-    <img src="https://stmargarets.london/images/directory/201006031129_ARThouse_Open_Studios_Festival.jpg"  alt="ARThouse_Open_Studios_Festival" class="right" width="150" />
     
     _Friday 11 - Sunday 20 June 2010_
     

@@ -5,11 +5,8 @@ permalink: /archives/2013/03/local_rugbytots_classes.html
 commentfile: 2013-03-14-local_rugbytots_classes
 category: 
 date: 2013-03-14 09:47:56
+image: "/assets/images/2013/rugby_totsRGB_thumb.jpg"
 excerpt: |
-    
-    
-    <a href="/assets/images/2013/rugby_totsRGB.jpg" title="See larger version of - rugby tots logo"><img src="/assets/images/2013/rugby_totsRGB_thumb.jpg" width="150" height="97" alt="rugby tots logo" class=" right" /></a>
-    
     
     Rugbytots is the first UK rugby specific play programme for young children, aimed at both boys and girls. Rugbytots is weekly play session for children between the ages of 2 and 7 years. Started by rugby playing parents and teachers; Rugbytots is unique and innovative in its approach to child development.
 

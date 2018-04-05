@@ -5,8 +5,8 @@ permalink: /archives/2015/10/moormead_pavilion_expression_of_interest.html
 commentfile: 2015-10-10-moormead_pavilion_expression_of_interest
 category: news
 date: 2015-10-10 10:50:41
+image: "/assets/images/directory/200510200949_Moormead_Park_Group.jpg"
 excerpt: |
-    <img src="/assets/images/directory/200510200949_Moormead_Park_Group.jpg" alt="Moormead_Park_Group" width="150"  class="photo right" />
 
     After several rejected attempts and constant pressure from our local councillors and the <a href="http://www.friendsofmoormead.org.uk/,">Friends of Moormead</a> Richmond Council has finally decided to do something about the derelict pavilion in Moormead Park.  They are now open to Expressions of Interest from parties interested in doing something with the building.  If you are interested, you have until 2 December 2015 to contact the council.
 

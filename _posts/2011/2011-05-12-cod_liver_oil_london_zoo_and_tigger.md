@@ -5,9 +5,8 @@ permalink: /archives/2011/05/cod_liver_oil_london_zoo_and_tigger.html
 commentfile: 2011-05-12-cod_liver_oil_london_zoo_and_tigger
 category: around_town
 date: 2011-05-12 11:21:11
+image: "/assets/images/2011/COD_Tigger_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/COD_Tigger.jpg" title="See larger version of - Tigger"><img src="/assets/images/2011/COD_Tigger_thumb.jpg" width="300" height="107" alt="Tigger" class=" center" /></a>
-    
     
     Why is it that when people talk about the Welfare State - or 'state welfare' as I prefer to call it - they always mention the major provisions of this wonderful institution like education, health care, pensions and so on but rarely touch upon the little things that older people remember so well? Where is Double Concentrated Orange Juice in the conversation? Why leave out Extract of Malt? What is it about Cod Liver Oil that leaves a nasty taste in the mouth?
     

@@ -5,9 +5,8 @@ permalink: /archives/2013/11/paul_miller_to_succeed_sam_walters_at_the_orange_t.
 commentfile: 2013-11-30-paul_miller_to_succeed_sam_walters_at_the_orange_t
 category: news
 date: 2013-11-30 13:24:31
+image: "/assets/images/2013/ORANGETREE_paulmiller_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/ORANGETREE_paulmiller.jpg" title="See larger version of - Paul Miller"><img src="/assets/images/2013/ORANGETREE_paulmiller_thumb.jpg" width="150" height="191" alt="Paul Miller" class="photo right" /></a>
-    
     We're delighted to announce the appointment of Paul Miller as the next Artistic Director of the Orange Tree Theatre. He is currently an Associate Director at Sheffield Crucible. He will succeed Sam Walters, who founded the Theatre in 1971, in July 2014.
 
 ---

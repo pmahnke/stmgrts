@@ -5,9 +5,8 @@ permalink: /archives/2009/09/event_reminder_riverniscence.html
 commentfile: 2009-09-11-event_reminder_riverniscence
 category: around_town
 date: 2009-09-11 09:21:43
+image: "/assets/images/2009/rivernicence_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/rivernicence.png" title="See larger version of - River-nicence poster"><img src="/assets/images/2009/rivernicence_thumb.png" width="150" height="106" alt="River-nicence poster" class="photo right" /></a>
-    
     Between the Locks is a two-year oral history project to record the lives of people making their living from the river and the heritage of the Thames river community, bounded by the locks at Richmond and Teddington, centred on Twickenham and Eel Pie Island. The project is being run by the Environment Trust for Richmond Upon Thames, supported by funds from the Heritage Lottery Fund and Hampton Fuel Allotment Charity.
     
 

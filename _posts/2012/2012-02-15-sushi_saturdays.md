@@ -5,9 +5,8 @@ permalink: /archives/2012/02/sushi_saturdays.html
 commentfile: 2012-02-15-sushi_saturdays
 category: news
 date: 2012-02-15 08:41:54
+image: "/assets/images/2012/Sushi_Flyer_DL_TO_PRINT_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Sushi_Flyer_DL_TO_PRINT.jpg" title="See larger version of - Sushi Flyer"><img src="/assets/images/2012/Sushi_Flyer_DL_TO_PRINT_thumb.jpg" width="150" height="314" alt="Sushi Flyer" class="photo right" /></a>
-    
     The <a href="http://www.mystmargarets.com">St Margarets Traders Association</a> is delighted to announce the opening of a new Sushi stall in St Margarets. Starting this Saturday 18<sup>th</sup> February 2012, local resident Eddie Holmes will be running a sushi stall on the paved area outside Armstrongs Butchers in St Margarets Road. Operating from 10am to 2pm.
 
 ---

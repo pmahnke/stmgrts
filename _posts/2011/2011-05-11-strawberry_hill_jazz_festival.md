@@ -5,9 +5,8 @@ permalink: /archives/2011/05/strawberry_hill_jazz_festival.html
 commentfile: 2011-05-11-strawberry_hill_jazz_festival
 category: around_town
 date: 2011-05-11 20:36:15
+image: "/assets/images/2011/SH_Jazz_2011_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/SH_Jazz_2011.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/SH_Jazz_2011_thumb.jpg" width="150" height="212" alt="Poster" class="photo right" /></a>
-    
     On <a href="https://stmargarets.london/event/fair/200705142775">Sunday, 5<sup>th</sup> June 2011 from  2 to 9.30 pm</a> (gates open 1pm).
     
     bq. "a careless song, with a little nonsense in it now and then, does not misbecome a monarch"

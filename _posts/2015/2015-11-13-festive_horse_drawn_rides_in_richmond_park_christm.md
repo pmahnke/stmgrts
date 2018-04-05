@@ -5,9 +5,8 @@ permalink: /archives/2015/11/festive_horse_drawn_rides_in_richmond_park_christm.
 commentfile: 2015-11-13-festive_horse_drawn_rides_in_richmond_park_christm
 category: around_town
 date: 2015-11-13 19:04:47
+image: "/assets/images/2015/xmas_rides_large_square_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/xmas_rides_large_square.jpg" title="See larger version of - xmas rides large square"><img src="/assets/images/2015/xmas_rides_large_square_thumb.jpg" width="150" height="150" alt="xmas rides large square" class="photo right" /></a>
-    
     Have you always dreamt of joining Santa and his reindeers in his sleigh? This Christmas make your dreams come true and step into your very own horse drawn 'sleigh' for a magical ride in Richmond Park - there is no better way to welcome in the festive season!
     
 

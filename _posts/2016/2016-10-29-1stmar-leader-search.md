@@ -6,9 +6,8 @@ commentfile: 2016-10-29-1stmar-leader-search
 category: around_town
 author: "Martyn Day"
 date: 2016-10-29 10:06:21
+image: "/assets/images/2016/1STMARLEADERS_The_entire_crew_at_the_Station_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/1STMARLEADERS_The_entire_crew_at_the_Station.jpg" title="See larger version of - The entire crew at the Station"><img src="/assets/images/2016/1STMARLEADERS_The_entire_crew_at_the_Station_thumb.jpg" width="150" height="100" alt="The entire crew at the Station" class="photo right" /></a>
-
     The 1<sup>st</sup> St Margarets Scout Group is rapidly approaching an important anniversary in its history. For nearly 100 years young people, Beavers, Cubs and Scouts, have been parading our streets, running stalls at local fairs, going away camping and hiking, singing songs around campfires and learning skills like First Aid, Fire Lighting, Fotography (sorry) and Fencing and generally having one good time.
 ---
 

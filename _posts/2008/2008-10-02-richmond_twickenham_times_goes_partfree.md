@@ -5,8 +5,8 @@ permalink: /archives/2008/10/richmond_twickenham_times_goes_partfree.html
 commentfile: 2008-10-02-richmond_twickenham_times_goes_partfree
 category: news
 date: 2008-10-02 22:03:55
+image: "/assets/images/2008/rtt_logo-thumb.jpg"
 excerpt: |
-    <img alt="Richmond & Twickenham Times logo" src="/assets/images/2008/rtt_logo-thumb.jpg" width="150" height="46" class="right" />
     
     Regional publisher Newsquest is to dump two existing free weekly newspapers and replace them by transforming its 135-year-old weekly paid-for title, the Richmond & Twickenham Times, into a paper with a mixed free and paid-for distribution.
     

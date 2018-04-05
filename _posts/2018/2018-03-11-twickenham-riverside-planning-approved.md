@@ -5,9 +5,8 @@ permalink: /archives/2018/03/twickenham-riverside-planning-approved.html
 commentfile: 2018-03-11-twickenham-riverside-planning-approved
 category: news
 date: 2018-03-11 09:30:20
+image: "/assets/images/2018/twick-riverside-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/twick-riverside.jpg" title="Click for a larger image"><img src="/assets/images/2018/twick-riverside-thumb.jpg" width="150" alt="Image - twick-riverside"  class="photo right"/></a>
-
     Following lengthy debate last night the application to redevelop Twickenham Riverside was approved by the Planning Committee.
 
     On Wednesday 7<sup>th</sup> March, the Committee discussed an application to redevelop 1, 1A, 1B and 1C King Street; 2-4 Water Lane; the site of the former swimming pool building at the corner of Water Lane and the Embankment; and river facing parcel of land on the Embankment in front of Diamond Jubilee Gardens, Twickenham.

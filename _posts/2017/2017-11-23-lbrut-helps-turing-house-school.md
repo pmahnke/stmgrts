@@ -5,9 +5,8 @@ permalink: /archives/2017/11/lbrut-helps-turing-house-school.html
 commentfile: 2017-11-23-lbrut-helps-turing-house-school
 category: news
 date: 2017-11-23 19:06:53
+image: "/assets/images/2017/turing-house-school-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/turing-house-school.jpg" title="Click for a larger image"><img src="/assets/images/2017/turing-house-school-thumb.jpg" width="150" alt="Image - turing-house-school"  class="photo right"/></a>
-
     Richmond Council agreed a proposal to provide temporary accommodation for the popular Turing House School at its Cabinet meeting last week.
 
     Turing House is a secondary free school run by the Russell Education Trust. It opened in September 2015 in temporary premises, at Livingston House, Queens Road, Teddington.

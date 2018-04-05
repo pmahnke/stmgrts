@@ -5,9 +5,8 @@ permalink: /archives/2011/08/richmond_tops_england_in_primary_school_sats_2011.h
 commentfile: 2011-08-03-richmond_tops_england_in_primary_school_sats_2011
 category: news
 date: 2011-08-03 18:24:25
+image: "/assets/images/2011/top_primary_eng_math_2011_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/top_primary_eng_math_2011.jpg" title="See larger version of - Top 10 Sats"><img src="/assets/images/2011/top_primary_eng_math_2011_thumb.jpg" width="150" height="108" alt="Top 10 Sats" class="photo right" /></a>
-
     Richmond had the highest percentage of children achieving level 4 or above in both English and maths in the nation at 86% vs the national average of 74%.  Despite the national average going up over last year, there is still some concern at the pass rate for level 5.
 
 

@@ -5,9 +5,8 @@ permalink: /archives/2014/07/the_creatures_of_an_hour.html
 commentfile: 2014-07-17-the_creatures_of_an_hour
 category: around_town
 date: 2014-07-17 22:45:14
+image: "/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/ENDOFTERM_school-holidays.jpg" title="See larger version of - school holidays"><img src="/assets/images/2014/ENDOFTERM_school-holidays_thumb.jpg" width="150" height="95" alt="school holidays" class="photo right" /></a>
-    
     <pre class="poem">
     Our song is done, we must be gone,
     No longer can we stay.

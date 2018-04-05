@@ -5,11 +5,9 @@ permalink: /archives/2012/05/museum_of_richmonds_half_term_family_workshops_jun.
 commentfile: 2012-05-31-museum_of_richmonds_half_term_family_workshops_jun
 category: around_town
 date: 2012-05-31 22:24:02
+image: "/assets/images/2012/mofrich_june2012_thumb.jpg"
 excerpt: |
-
-
-    <a href="/assets/images/2012/mofrich_june2012.jpg" title="See larger version of - mofrich june2012"><img src="/assets/images/2012/mofrich_june2012_thumb.jpg" width="300" height="95" alt="mofrich june2012" class="photo center" /></a>
-
+    
     The Museum of Richmond has three great half-term family workshops this June.
 
 ---

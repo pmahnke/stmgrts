@@ -5,9 +5,8 @@ permalink: /archives/2017/05/event-tw12-jazz-festival-2017.html
 commentfile: 2017-05-12-event-tw12-jazz-festival-2017
 category: around_town
 date: 2017-05-12 17:54:41
+image: "/assets/images/2017/tw12-poster-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/tw12-poster-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/tw12-poster-2017-thumb.jpg" width="150" alt="Image - tw12-poster-2017"  class="photo right"/></a>
-
     We're putting on our fifth TW12 Jazz Festival on the first weekend of June which will take place in Richmond (RACC Parkshot), Lower Sunbury and Hampton Hill Theatre over three days. As always, our festival will feature both top-line jazz artists alongside Richmond Borough students and some local performers.
 
 ---

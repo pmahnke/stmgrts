@@ -5,9 +5,8 @@ permalink: /archives/2015/10/event_reminder_big_band_blitz_2015_14_november_201.
 commentfile: 2015-10-01-event_reminder_big_band_blitz_2015_14_november_201
 category: around_town
 date: 2015-10-01 21:17:03
+image: "/assets/images/2015/BBB_2015_thumb.PNG"
 excerpt: |
-    <a href="/assets/images/2015/BBB_2015.PNG" title="See larger version of - BBB 2015"><img src="/assets/images/2015/BBB_2015_thumb.PNG" width="150" height="147" alt="BBB 2015" class="photo right" /></a>
-    
     Take a step back in time and party 1940s-style in this year's special BIG BAND BLITZ at York House Twickenham.  You can dance the night away with the Jon Bennett Big Band and enjoy the showbiz guests, mingle with 1940's re-enactors, view the 1940s vehicles, and even hear the Air-Raid Warning.  You will see 1940's posters, newspapers, memorabilia, and you can buy food and drink at the licensed NAAFI . There will also be a special 1940's museum, and some great prizes in the Celebrity Charity Raffle Draw.
     
 

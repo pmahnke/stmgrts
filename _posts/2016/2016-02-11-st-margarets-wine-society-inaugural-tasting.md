@@ -5,9 +5,8 @@ permalink: /archives/2016/02/st-margarets-wine-society-inaugural-tasting.html
 commentfile: 2016-02-11-st-margarets-wine-society-inaugural-tasting
 category: around_town
 date: 2016-02-11 20:46:34
+image: "/assets/images/2016/St_Margarets_wine_tasting_logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/St_Margarets_wine_tasting_logo.jpg" title="See larger version of - St Margarets wine tasting logo"><img src="/assets/images/2016/St_Margarets_wine_tasting_logo_thumb.jpg" width="150" height="119" alt="St Margarets wine tasting logo" class=" right" /></a>
-
     St Margarets Wine Society Inaugural Tasting takes place at Le Salon Priv&#233; on Monday 29<sup>th</sup> February and Tuesday 1<sup>st</sup> March 2016.
 ---
 

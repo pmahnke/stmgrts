@@ -6,9 +6,8 @@ commentfile: 2016-03-10-triumph-of-the-tripods
 category: around_town
 author: "Martyn Day"
 date: 2016-03-10 19:10:34
+image: "/assets/images/2016/TRIPOD_Tripod_4_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/TRIPOD_Tripod_4.jpg" title="See larger version of - Tripod 4"><img src="/assets/images/2016/TRIPOD_Tripod_4_thumb.jpg" width="150" height="224" alt="Tripod 4" class="photo right" /></a>
-
     They loom over the rooftops and chimney pots like the Martian <em>'Tripods'</em> in <em>"War of the Worlds"</em>, these soaring builder's towers of scaffold and sheeting. Once there were none. Now our streets are full of them - with more to come. They are the changing face of our community. They are the future...
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2017/01/tunnel-of-love-under-kilmory-road.html
 commentfile: 2017-01-20-tunnel-of-love-under-kilmory-road
 category: around_town
 date: 2017-01-20 08:19:08
+image: "/assets/images/2017/TUNNEL_Artist-Impression-of-entrance-thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2017/TUNNEL_Artist-Impression-of-entrance.JPG" title="Click for a larger image"><img src="/assets/images/2017/TUNNEL_Artist-Impression-of-entrance-thumb.JPG" width="150" alt="Image - TUNNEL_Artist-Impression-of-entrance"  class="photo right"/></a>
-
     In 1843 the 2<sup>nd</sup> Earl of Kilmorey, Francis  <em>'Black Jack'</em> Needham, took in scandalous circumstances a mistress. She was Priscilla Hoste who was 35 years his junior and his legal ward. Some said that their relationship had been encouraged by her mother! When Priscilla died from  <em>'a disease of the heart'</em> in 1854 Black Jack was so distraught that he built for her an Egyptian style mausoleum, dedicated to the sun god Ra
 ---
 

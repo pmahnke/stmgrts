@@ -5,9 +5,8 @@ permalink: /archives/2015/05/the_last_king_of_portugal.html
 commentfile: 2015-05-14-the_last_king_of_portugal
 category: around_town
 date: 2015-05-14 22:37:30
+image: "/assets/images/2015/PORTUGAL_Manoel_and_Augusta_-_wedding_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/PORTUGAL_Manoel_and_Augusta_-_wedding.jpg" title="See larger version of - Manoel and Augusta   wedding"><img src="/assets/images/2015/PORTUGAL_Manoel_and_Augusta_-_wedding_thumb.jpg" width="150" height="93" alt="Manoel and Augusta   wedding" class="photo right" /></a>
-    
     To his parents and family he was Manoel Maria Filipe Carlos Am&#233;lio Lu&#237;s Miguel Rafael Gabriel Gonzaga Francisco de Assis Eug&#233;nio. To his subjects he was <em>'His Most Faithful Majesty Manoel II, King of Portugal and the Algarves, of either side of the sea in Africa, Lord of Guinea and of Conquest, Navigation and Commerce of Ethiopia, Arabia, Persia and India, etcetera etcetera'</em>. To his neighbours in Fulwell he was the first President of the Twickenham Piscatorial Society. To the rest of us he was the last King of Portugal.
 
 ---

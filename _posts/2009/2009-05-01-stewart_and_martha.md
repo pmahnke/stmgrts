@@ -5,8 +5,8 @@ permalink: /archives/2009/05/stewart_and_martha.html
 commentfile: 2009-05-01-stewart_and_martha
 category: around_town
 date: 2009-05-01 15:46:47
+image: "/assets/images/2009/allsouls_inside-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/allsouls_inside.jpg"><img src="/assets/images/2009/allsouls_inside-thumb.jpg" width="150" height="98" alt="THE INTERIOR OF ALL SOULS" class="photo right"/></a>
     
     
     One of the more interesting and perhaps alarming aspects of local history is just when you think the story is done and tucked away into the archives it suddenly jumps out again and surprises you. This is the case with Stewart Headlam whose anarchic story was <a href="https://stmargarets.london/archives/2009/04/the_turbulent_priest_from_st_peters_road.html">recorded in this newsletter two weeks ago</a>

@@ -5,9 +5,8 @@ permalink: /archives/2010/02/the_sea_wall_the_shaduf_and_st_margarets.html
 commentfile: 2010-02-17-the_sea_wall_the_shaduf_and_st_margarets
 category: around_town
 date: 2010-02-17 11:56:07
+image: "/assets/images/2010/sea_wall_2_thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/sea_wall_2.png" title="See larger version of - Shaduf"><img src="/assets/images/2010/sea_wall_2_thumb.png" width="121" height="150" alt="Shaduf" class="photo right" /></a>
-    
     There was a time when the St Margarets that we know didn't exist. No station. No shops. No pub. No cafes, No streets crammed with cars...nothing. The Thames flowed quietly towards the sea through an open parkland of grand houses, smallholdings and market gardens. Boatmen might stop at Richmond to drop off a passenger or pull into Isleworth to collect a cargo but between the two there was little catch their interest.
 
 ---

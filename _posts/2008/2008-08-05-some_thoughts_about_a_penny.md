@@ -5,8 +5,8 @@ permalink: /archives/2008/08/some_thoughts_about_a_penny.html
 commentfile: 2008-08-05-some_thoughts_about_a_penny
 category: around_town
 date: 2008-08-05 11:28:12
+image: "/assets/images/2008/old_english_penny-thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2008/old_english_penny-thumb.jpg" width="150" height="150" alt="Old English Penny" class="right" />
     
     If you walk over the footbridge at Richmond Lock from the St Margarets side you will see in front of you a disused kiosk. Built into the front of it are the remains of an old fashioned turnstile. Underneath layers of paint you can still see the words "Silent Reversible Patented 1887". Up to 1938 it cost one penny to use the footbridge and this is where they collected the money.
     

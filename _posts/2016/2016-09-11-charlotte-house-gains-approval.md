@@ -5,9 +5,8 @@ permalink: /archives/2016/09/charlotte-house-gains-approval.html
 commentfile: 2016-09-11-charlotte-house-gains-approval
 category: news
 date: 2016-09-11 06:49:35
+image: "/assets/images/2016/Charlotte_House_care_home_wins_approval_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Charlotte_House_care_home_wins_approval.jpg" title="See larger version of - Charlotte House care home wins approval"><img src="/assets/images/2016/Charlotte_House_care_home_wins_approval_thumb.jpg" width="150" height="99" alt="Charlotte House care home wins approval" class="photo right" /></a>
-
     The Care Quality Commission's (CQC) report gave Care UK's Charlotte House care home on Snowy Fielder Waye an overall 'Good' rating, following an unannounced inspection.
 ---
 

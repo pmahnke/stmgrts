@@ -5,8 +5,8 @@ permalink: /archives/2009/02/seeing_saucers_over_st_margarets.html
 commentfile: 2009-02-03-seeing_saucers_over_st_margarets
 category: around_town
 date: 2009-02-03 10:51:29
+image: "/assets/images/2009/flyingsaucer-thumb.jpg"
 excerpt: |
-    <img alt="flying saucer- not real!" src="/assets/images/2009/flyingsaucer-thumb.jpg" width="150" height="115" class="photo right" />
     
     People have been seeing UFOs for centuries. Even the Old Testament prophet Ezekiel who lived some 2600 years ago claimed to have seen one.  
     

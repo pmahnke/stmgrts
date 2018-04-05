@@ -5,9 +5,8 @@ permalink: /archives/2011/07/the_barnes_mystery_solved.html
 commentfile: 2011-07-14-the_barnes_mystery_solved
 category: around_town
 date: 2011-07-14 14:34:44
+image: "/assets/images/2011/SOLVED_kate_webster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/SOLVED_kate_webster.jpg" title="See larger version of - Kate Webster"><img src="/assets/images/2011/SOLVED_kate_webster_thumb.jpg" width="150" height="191" alt="Kate Webster" class=" right" /></a>
-    
     
     In October 2008 this website carried <a href="https://stmargarets.london/archives/2008/10/the_mistress_the_murderess_and_the_bowl_of_lard.html,">an article about the brutal murder in March 1879 of Julia Martha Thomas</a> who lived at 2 Vine Cottages on Richmond Hill. Her killer was a convicted fraudster, thief and hard case called Kate Webster who Julia Thomas had recently taken on as a maid. Just out of prison, Kate had been looking for easy pickings all over this area. She threw over one position with the Mitchell family in Teddington because, as she said later, _"They didn't have anything worth stealing"..._ but Julia Martha Thomas did. Just 6 weeks after engaging the maid Julia Martha Thomas had mysteriously disappeared and Kate Webster was walking around in her clothes and jewellery.
     

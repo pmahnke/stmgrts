@@ -6,9 +6,8 @@ commentfile: 2016-05-30-sweet-lass-of-richmond-hill
 category: around_town
 date: 2016-05-29 08:58:39
 author: "Martyn Day"
+image: "/assets/images/2016/SWEETLASS_Frances_LAnson_colour_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/SWEETLASS_Frances_LAnson_colour.jpg" title="See larger version of - Frances LAnson colour"><img src="/assets/images/2016/SWEETLASS_Frances_LAnson_colour_thumb.jpg" width="150" height="241" alt="Frances LAnson colour" class="photo right" /></a>
-
     <blockquote>
     On Richmond Hill there lives a lass
     More bright than May-day morn,

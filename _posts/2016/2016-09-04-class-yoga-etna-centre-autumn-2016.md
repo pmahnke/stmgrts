@@ -5,9 +5,8 @@ permalink: /archives/2016/09/<name>.html
 commentfile: 2016-09-04-class-yoga-etna-centre-autumn-2016
 category: around_town
 date: 2016-09-04 14:34:56
+image: "/assets/images/2016/GROUNDED_YOGA_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/GROUNDED_YOGA.jpg" title="See larger version of - GROUNDED YOGA"><img src="/assets/images/2016/GROUNDED_YOGA_thumb.jpg" width="150" height="150" alt="GROUNDED YOGA" class="photo right" /></a>
-
     Amy Faulkner of Grounded Yoga will be teaching two classes at the ETNA Community Centre every Sunday during term time.
 ---
 

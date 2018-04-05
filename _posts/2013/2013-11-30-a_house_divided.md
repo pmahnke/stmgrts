@@ -5,9 +5,8 @@ permalink: /archives/2013/11/a_house_divided.html
 commentfile: 2013-11-30-a_house_divided
 category: around_town
 date: 2013-11-30 18:45:45
+image: "/assets/images/2013/HOUSE_Lacy-House-from-river_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/HOUSE_Lacy-House-from-river.jpg" title="See larger version of - Lacy House from river"><img src="/assets/images/2013/HOUSE_Lacy-House-from-river_thumb.jpg" width="150" height="103" alt="Lacy House from river" class="photo right" /></a>
-    
     As most regular readers of the St Margarets Community Website already know our little corner of Paradise, with its many delights and coffee shops, takes its name from a house that once stood on the river close to where Richmond lock and footbridge now stand. In 1830 Archibald Kennedy, the 1<sup>st</sup> Marquis of Ailsa, bought Lacy House in Twickenham Park.  Despite the fact that many celebrated people like James Lacy, co-owner of the Drury Lane Theatre, the Hon. Sir Edward Walpole, Hon. Mrs Keppell - the widow of the Bishop of Exeter, the playwright Richard Brinsley Sheridan and the Earl of Warwick had all lived there Archibald Kennedy immediately pulled the house down and built a new one in its place, naming it "St Margarets" - which says a lot about planning permission 1830 style. It was an appropriate name however, what with Archibald Kennedy being Scottish - and St Margaret being the patron saint of Scotland.
     
 

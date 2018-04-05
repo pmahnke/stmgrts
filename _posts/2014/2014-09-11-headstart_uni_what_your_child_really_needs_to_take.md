@@ -5,9 +5,8 @@ permalink: /archives/2014/09/headstart_uni_what_your_child_really_needs_to_take.
 commentfile: 2014-09-11-headstart_uni_what_your_child_really_needs_to_take
 category: news
 date: 2014-09-11 21:04:36
+image: "/assets/images/2014/A-Headstart-Uni-cooking-workshop_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/A-Headstart-Uni-cooking-workshop.jpg" title="See larger version of - A Headstart Uni cooking workshop"><img src="/assets/images/2014/A-Headstart-Uni-cooking-workshop_thumb.jpg" width="150" height="112" alt="A Headstart Uni cooking workshop" class="photo right" /></a>
-    
     <em>St Margarets parent Hilary Thomson found the one thing her child needed wasn't available from any shop...</em>
     
     Freshers week looms and, in anticipation, retailers are queuing up to sell soon-to-be students everything from calculators to colanders, not to mention overdrafts and credit cards. At the big Sainsbury's in Hampton last weekend, the aisles were crowded with young people and slightly stressed-looking parents piling up trolleys with duvets and giant packs of pasta. At Ikea last week they ran out of tin openers. Imagine.

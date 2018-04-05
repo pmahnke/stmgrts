@@ -5,9 +5,8 @@ permalink: /archives/2013/05/richmond_aid_boosts_advice_service_for_disabled_pe.
 commentfile: 2013-05-09-richmond_aid_boosts_advice_service_for_disabled_pe
 category: news
 date: 2013-05-09 21:31:37
+image: "/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form.jpg" title="See larger version of - Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form"><img src="/assets/images/2013/Richmond_AID_Advisor_Suzanne_helping_a_deaf_client_Joesph_to_fill_in_an_Income_Support_Form_thumb.jpg" width="150" height="104" alt="Richmond AID Advisor Suzanne helping a deaf client Joesph to fill in an Income Support Form" class="photo right" /></a>
-    
     <em>"Richmond AID":https://stmargarets.london/directory/charity/201305091626 boosts advice service to help more local people deal with changes affecting disabled people</em>
     
     Major changes affecting disabled people have seen calls to the Richmond AID advice service increase by over 40% in the last 12 months. Right now they are finding disabled people experiencing complex problems with the bedroom tax, housing difficulties, financial troubles and issues with disability benefits. This is expected to increase with Personal Independence Payments which will replace Disability Living Allowance this June. The Disability Action and Advice Centre has expanded with more advisors available every day to cope with the increased demand.

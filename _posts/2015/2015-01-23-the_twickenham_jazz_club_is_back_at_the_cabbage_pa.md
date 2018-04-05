@@ -5,9 +5,8 @@ permalink: /archives/2015/01/the_twickenham_jazz_club_is_back_at_the_cabbage_pa.
 commentfile: 2015-01-23-the_twickenham_jazz_club_is_back_at_the_cabbage_pa
 category: news
 date: 2015-01-23 22:41:42
+image: "/assets/images/2015/twick_jazz_club_2014_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/twick_jazz_club_2014.png" title="See larger version of - twick jazz club 2014"><img src="/assets/images/2015/twick_jazz_club_2014_thumb.png" width="150" height="215" alt="twick jazz club 2014" class="photo right" /></a>
-    
     New Year, New Venue and wonderful things are happening at Twickenham's long running Jazz Club which now joins the Eel Pie Club, TwickFolk and many others at The Famous  Cabbage Patch in London Road Twickenham.
 
 ---

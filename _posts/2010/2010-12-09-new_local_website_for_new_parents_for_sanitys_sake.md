@@ -5,9 +5,8 @@ permalink: /archives/2010/12/new_local_website_for_new_parents_for_sanitys_sake.
 commentfile: 2010-12-09-new_local_website_for_new_parents_for_sanitys_sake
 category: news
 date: 2010-12-09 19:19:02
+image: "/assets/images/2010/Rachel-McLean-Andrea-Quinte_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Rachel-McLean-Andrea-Quinte.jpg" title="See larger version of - Rachel McLean and Andrea Quintero"><img src="/assets/images/2010/Rachel-McLean-Andrea-Quinte_thumb.jpg" width="150" height="150" alt="Rachel McLean and Andrea Quintero" class="photo right" /></a>
-    
     Two Twickenham mothers have launched a free, community website called For Sanity's Sake ("www.forsanityssake.com":http://www.forsanityssake.com) to help new parents find events, groups and services in their area. Their catchment area covers St Margarets, Richmond, Kew, Ham, Petersham, Twickenham, Teddington and the Hamptons.
     
     Rachel Mclean and Andrea Quintero set up the site after finding it hard to keep up to date with activities in the borough whilst they were on maternity leave.

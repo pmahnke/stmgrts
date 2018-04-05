@@ -5,9 +5,8 @@ permalink: /archives/2010/05/william_cobbett_and_the_gin_drinkers_of_st_margare.
 commentfile: 2010-05-13-william_cobbett_and_the_gin_drinkers_of_st_margare
 category: around_town
 date: 2010-05-13 18:09:58
+image: "/assets/images/2010/gin_williamhogarth-ginlane_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/gin_williamhogarth-ginlane.jpg" title="See larger version of - Gin Drinkers"><img src="/assets/images/2010/gin_williamhogarth-ginlane_thumb.jpg" width="129" height="150" alt="Gin Drinkers" class="photo right" /></a>
-    
     On the morning of Wednesday September 25<sup>th</sup> 1822 William Cobbett and his son set out on horseback from Kensington in London for Uphusband, near Andover, in Hampshire, a journey that would take them across Richmond Bridge and through the small holdings, market gardens and country estates of Twickenham Park, an area that in less than 50 years time would be known as "St Margarets". This is what Cobbett saw and reported...
     
 

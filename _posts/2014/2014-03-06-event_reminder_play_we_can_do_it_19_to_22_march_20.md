@@ -5,9 +5,8 @@ permalink: /archives/2014/03/event_reminder_play_we_can_do_it_19_to_22_march_20.
 commentfile: 2014-03-06-event_reminder_play_we_can_do_it_19_to_22_march_20
 category: around_town
 date: 2014-03-06 18:58:25
+image: "/assets/images/2014/Isleworth-Community-Play---We-Can-Do-It-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Isleworth-Community-Play---We-Can-Do-It-poster.jpg" title="See larger version of - Isleworth Community Play   We Can Do It poster"><img src="/assets/images/2014/Isleworth-Community-Play---We-Can-Do-It-poster_thumb.jpg" width="150" height="106" alt="Isleworth Community Play   We Can Do It poster" class="photo right" /></a>
-    
     <a href="https://stmargarets.london/event/auction/200705144364">We Can Do It!</a> This is an original musical theatre production about life in Isleworth and the surrounding areas of Twickenham and Richmond during the 2<sup>nd</sup> World War and how people coped. It features a cast of over 60 actors, singers and dancers drawn from the community, spanning in age from 6 to 79.
 
 ---

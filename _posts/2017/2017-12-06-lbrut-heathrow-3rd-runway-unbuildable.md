@@ -5,9 +5,8 @@ permalink: /archives/2017/12/lbrut-heathrow-3rd-runway-unbuildable.html
 commentfile: 2017-12-06-lbrut-heathrow-3rd-runway-unbuildable
 category: news
 date: 2017-12-06 20:16:43
+image: "/assets/images/2017/lbrut-heathrow-airplane-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/lbrut-heathrow-airplane.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-heathrow-airplane-thumb.jpg" width="150" alt="Image - lbrut-heathrow-airplane"  class="photo right"/></a>
-
     Councils opposed to expansion at Heathrow have told the Transport Select Committee that the most recent evidence published by the Government continues to demonstrate that a third runway could not be built at the airport without causing unacceptable air and noise pollution.
 
 ---

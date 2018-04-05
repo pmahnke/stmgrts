@@ -5,9 +5,8 @@ permalink: /archives/2013/01/herdman_family_carpet_shop_new_year_competition.htm
 commentfile: 2013-01-10-herdman_family_carpet_shop_new_year_competition
 category: around_town
 date: 2013-01-10 20:59:01
+image: "/assets/images/2013/herdman_promo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/herdman_promo.jpg" title="See larger version of - herdman competition details"><img src="/assets/images/2013/herdman_promo_thumb.jpg" width="150" height="185" alt="herdman competition details" class="photo right" /></a>
-
     <strong>WIN WIN WIN</strong>
 
     &pound;1000 NEW YEAR COMPETITION !!!

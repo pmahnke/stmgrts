@@ -5,9 +5,8 @@ permalink: /archives/2010/04/a_kip_on_a_ship.html
 commentfile: 2010-04-22-a_kip_on_a_ship
 category: around_town
 date: 2010-04-22 21:14:32
+image: "/assets/images/2010/HMS_Belfast1_thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/HMS_Belfast1.png" title="See larger version of - HMS Belfast"><img src="/assets/images/2010/HMS_Belfast1_thumb.png" width="200" height="118" alt="HMS Belfast" class="photo right" /></a>
-    
     H.M.S Belfast is a Second World War light cruiser preserved for the nation on the Thames at Tower Bridge.  She is an eleven thousand ton, nine decked, four turreted lean, mean fighting machine and last Saturday night she was home for the Cubs of the 1<sup>st</sup> St Margarets Cub Pack.
 
 ---

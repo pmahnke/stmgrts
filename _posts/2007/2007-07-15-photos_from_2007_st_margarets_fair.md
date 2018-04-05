@@ -5,8 +5,8 @@ permalink: /archives/2007/07/photos_from_2007_st_margarets_fair.html
 commentfile: 2007-07-15-photos_from_2007_st_margarets_fair
 category: around_town
 date: 2007-07-15 14:59:03
+image: "/assets/images/2007/fair_wide-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/fair_wide.jpg"><img src="/assets/images/2007/fair_wide-thumb.jpg" width="300" height="121" alt="ice cream queue" class="photo center" /></a>
     
     
     We only managed to capture a few photos from this year's fair.

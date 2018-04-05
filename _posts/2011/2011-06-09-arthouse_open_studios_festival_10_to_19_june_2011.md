@@ -5,9 +5,8 @@ permalink: /archives/2011/06/arthouse_open_studios_festival_10_to_19_june_2011.h
 commentfile: 2011-06-09-arthouse_open_studios_festival_10_to_19_june_2011
 category: around_town
 date: 2011-06-09 10:38:29
+image: "/assets/images/2011/Arthouse-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Arthouse-poster.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Arthouse-poster_thumb.jpg" width="150" height="212" alt="poster" class="photo right" /></a>
-
     It is time for <a href="http://www.richmond.gov.uk/arthouse_open_studios">ARThouse 2011, Richmond's annual Open Studios Festival</a>
 
     Residents and visitors get the chance to experience the abundance of creative talent living and working in the borough. Over the two weekends between 10-19 June artists and creative craftspeople will open their homes and studios to exhibit their work in their own unique environment. Last year's festival involved over 150 artists who exhibited their current creations and project in their homes, studios, community centres and schools.

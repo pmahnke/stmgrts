@@ -5,9 +5,8 @@ permalink: /archives/2015/11/eel_pie_island_artists_christmas_open_studios_5_to.
 commentfile: 2015-11-05-eel_pie_island_artists_christmas_open_studios_5_to
 category: around_town
 date: 2015-11-05 19:47:29
+image: "/assets/images/2015/Frozen_Blue_HR_thumb.jpeg"
 excerpt: |
-    <a href="/assets/images/2015/Frozen_Blue_HR.jpeg" title="See larger version of - Frozen Blue HR.jpeg"><img src="/assets/images/2015/Frozen_Blue_HR_thumb.jpeg" width="150" height="98" alt="Frozen Blue HR.jpeg" class="photo right" /></a>
-
 
     _A rare opportunity to visit Eel Pie Island's resident artists' studios._
 

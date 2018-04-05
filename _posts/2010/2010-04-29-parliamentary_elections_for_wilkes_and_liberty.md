@@ -5,8 +5,8 @@ permalink: /archives/2010/04/parliamentary_elections_for_wilkes_and_liberty.html
 commentfile: 2010-04-29-parliamentary_elections_for_wilkes_and_liberty
 category: around_town
 date: 2010-04-29 13:44:47
+image: "/assets/images/2010/election_1_thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/election_1.png" title="See larger version of - Election Fever "><img src="/assets/images/2010/election_1_thumb.png" width="150" alt="Election Fever " class="photo right" /></a>
     
     In the 17<sup>th</sup> century the parliamentary elections for Middlesex were held on Hampstead Heath. The county was much larger than it is now and the poll lasted for 15 days to allow voters time to get there.
     

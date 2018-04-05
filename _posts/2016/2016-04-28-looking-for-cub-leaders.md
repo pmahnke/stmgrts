@@ -6,9 +6,8 @@ commentfile: 2016-04-28-looking-for-cub-leaders
 category: around_town
 date: 2016-04-28 19:58:39
 author: "Martyn Day"
+image: "/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/JOINCUBS_Wolf_cubs.jpg" title="See larger version of - Wolf cubs"><img src="/assets/images/2016/JOINCUBS_Wolf_cubs_thumb.jpg" width="150" height="112" alt="Wolf cubs" class="photo right" /></a>
-
     It is a year of significant anniversaries. So far we have seen the 400<sup>th</sup> anniversary of the death of both William Shakespeare and Cervantes, the 90<sup>th</sup> birthday of the Queen, the 950<sup>th</sup> anniversary of the Battle of Hastings, the 350<sup>th</sup> of the Great Fire of London and the 100<sup>th</sup> of the Battle of the Somme. Want some more? It is the 60<sup>th</sup> anniversary of the UK release of "<em>Heartbreak Hotel</em>", the 40<sup>th</sup> of British Punk music and the100<sup>th</sup> anniversary of the founding of the Wolf Cubs, a.k.a The Cub Scouts.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2012/11/event_reminder_richmond_orchestra_winter_concert_1.
 commentfile: 2012-11-09-event_reminder_richmond_orchestra_winter_concert_1
 category: around_town
 date: 2012-11-09 21:46:42
+image: "/assets/images/2012/Richmond-poster-Dec-2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Richmond-poster-Dec-2012.jpg" title="See larger version of - Richmond poster Dec 2012"><img src="/assets/images/2012/Richmond-poster-Dec-2012_thumb.jpg" width="150" height="211" alt="Richmond poster Dec 2012" class="photo right" /></a>
-    
     Come here the Richmond Orchestra's <a href="https://stmargarets.london/event/concert/200705143686">Winter Concert on 1<sup>st</sup> December 2012</a> at All Saints Church in East Sheen.  They will be performing:
     
     * Borodin - Overture - Prince Igor

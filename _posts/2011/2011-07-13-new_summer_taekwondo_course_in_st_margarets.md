@@ -5,9 +5,8 @@ permalink: /archives/2011/07/new_summer_taekwondo_course_in_st_margarets.html
 commentfile: 2011-07-13-new_summer_taekwondo_course_in_st_margarets
 category: around_town
 date: 2011-07-13 18:29:35
+image: "/assets/images/2011/Twickenham-TKD-Flyer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Twickenham-TKD-Flyer.jpg" title="See larger version of - poster"><img src="/assets/images/2011/Twickenham-TKD-Flyer_thumb.jpg" width="150" height="96" alt="poster" class=" right" /></a>
-
     Learn the dynamic Korean martial art of Taekwon-do. Develop explosive power, fitness and strength.  Take a four week summer trial for only &pound;25.
 
     Our *TaekwonKids* class is a high energy, fun class that is specifically designed to help increase a child's self confdence, focus and awareness.

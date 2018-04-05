@@ -5,9 +5,8 @@ permalink: /archives/2016/09/event-autumn-2016-orleans-house.html
 commentfile: 2016-09-23-event-autumn-2016-orleans-house
 category: around_town
 date: 2016-09-23 20:51:58
+image: "/assets/images/2016/art_club_autumn_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/art_club_autumn_2016.jpg" title="See larger version of - art club autumn 2016"><img src="/assets/images/2016/art_club_autumn_2016_thumb.jpg" width="150" height="212" alt="art club autumn 2016" class="photo right" /></a>
-
     Learn about the exciting new clubs and classes at Orleans house Gallery for children and families.  This term they have art clubs, family 'draw and explore' walks and drop-in Sunday art.
 
 ---

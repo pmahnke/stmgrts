@@ -5,9 +5,8 @@ permalink: /archives/2016/09/love-yoga-london-pregnancy-classes-autumn-2016.html
 commentfile: 2016-09-11-love-yoga-london-pregnancy-classes-autumn-2016
 category: around_town
 date: 2016-09-11 07:01:14
+image: "/assets/images/2016/pregnancy-yoga-logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/pregnancy-yoga-logo.jpg" title="See larger version of - pregnancy yoga logo"><img src="/assets/images/2016/pregnancy-yoga-logo_thumb.jpg" width="150" height="69" alt="pregnancy yoga logo" class="photo right" /></a>
-
     Love Yoga London is delighted to announce a lovely new pregnancy yoga class is now running in the  heart of Twickenham.
 
 ---

@@ -5,10 +5,8 @@ permalink: /archives/2010/12/event_reminder_st_margarets_christmas_fair_2010.htm
 commentfile: 2010-12-02-event_reminder_st_margarets_christmas_fair_2010
 category: around_town
 date: 2010-12-02 22:27:11
+image: "/assets/images/2017/2010-ugly-sisters-fair-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/2010-ugly-sisters-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2010-ugly-sisters-fair-thumb.jpg" width="150" alt="Image - 2010-ugly-sisters-fair"  class="photo right"/></a>
-
     There's a warm welcome waiting for you at this weekends <a href="https://stmargarets.london/event/fair/200705142573,">St Margarets Christmas Fair</a> the weather may be a little cold but a glass of Mulled Wine or a Hot Toddy should help to keep you warm. The fair takes place on Sunday 5<sup>th</sup> December in Crown Road from 11 am.
 
 ---

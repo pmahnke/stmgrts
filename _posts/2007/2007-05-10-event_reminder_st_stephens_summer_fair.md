@@ -5,8 +5,8 @@ permalink: /archives/2007/05/event_reminder_st_stephens_summer_fair.html
 commentfile: 2007-05-10-event_reminder_st_stephens_summer_fair
 category: around_town
 date: 2007-05-10 13:07:01
+image: "/assets/images/2007/ststephens_fair_poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/ststephens_fair_poster.jpg"><img src="/assets/images/2007/ststephens_fair_poster-thumb.jpg" width="116" height="150" alt="fair poster" class="photo right" /></a>
     
     
     With May upon us the Summer Fair season swings into action! Don't miss the <a href="https://stmargarets.london/event/Fair/200705100703">St Stephen's School Summer Fair</a> -- Saturday May 19<sup>th</sup>, 12-3pm, St Stephen's School, Winchester Road, Twickenham.

@@ -5,9 +5,8 @@ permalink: /archives/2011/05/all_in_one_planning_event_11_june_2011.html
 commentfile: 2011-05-05-all_in_one_planning_event_11_june_2011
 category: news
 date: 2011-05-05 16:11:16
+image: "/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2011/all_in_one_a5_leaflet_villa.gif" title="See larger version of - poster"><img src="/assets/images/2011/all_in_one_a5_leaflet_villa_thumb.gif" width="150" height="215" alt="poster" class="photo right" /></a>
-    
     Last year, over 13,500 local people took the opportunity to have their say about their local areas through the survey run by Richmond Council. That represents 17% of households spread evenly across the borough.
     
     First results from the survey, show that 92 per cent of local people have said they were happy with their local area -- however they did highlight a number of areas that need improving.

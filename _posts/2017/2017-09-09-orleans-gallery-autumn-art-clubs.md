@@ -5,9 +5,8 @@ permalink: /archives/2017/09/orleans-gallery-autumn-art-clubs.html
 commentfile: 2017-09-09-orleans-gallery-autumn-art-clubs
 category: around_town
 date: 2017-09-09 17:34:05
+image: "/assets/images/2017/ORLEANS-art-club-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ORLEANS-art-club.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANS-art-club-thumb.jpg" width="150" alt="Image - ORLEANS-art-club"  class="photo right"/></a>
-
     Join an after school club... weekly after school clubs on Mondays, Wednesdays and Thursday for 5-15 year olds.
 
     Exciting weekly workshops offer budding young artists the opportunity to explore a broad range of artistic media and practice with our experienced gallery artists. Each term brings a varied selection of projects which are explored in group sizes of no more than sixteen, allowing participants to try more messy and adventurous media than may be possible at school.

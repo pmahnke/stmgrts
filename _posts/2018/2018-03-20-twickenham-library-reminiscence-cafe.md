@@ -5,8 +5,8 @@ permalink: /archives/2018/03/twickenham-library-reminiscence-cafe.html
 commentfile: 2018-03-20-twickenham-library-reminiscence-cafe
 category: around_town
 date: 2018-03-20 10:12:44
+image: "/assets/images/2018/twick-reminiscence-cafe-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/twick-reminiscence-cafe.jpg" title="Click for a larger image"><img src="/assets/images/2018/twick-reminiscence-cafe-thumb.jpg" width="150" alt="Image - twick-reminiscence-cafe"  class="photo right"/></a>
     Calling all social seniors! Twickenham Library will this week hold their regular Reminiscence Caf&#233;.
 
     Attendees will be able socialise in an informal, friendly setting and share memories, stories and a cup of tea with the rest of the group.

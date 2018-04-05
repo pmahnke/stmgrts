@@ -5,9 +5,8 @@ permalink: /archives/2018/02/event-nick-hornby-charity-talk.html
 commentfile: 2018-02-10-event-nick-hornby-charity-talk
 category: around_town
 date: 2018-02-06 15:32:55
+image: "/assets/images/2018/nick-hornby-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/nick-hornby.jpg" title="Click for a larger image"><img src="/assets/images/2018/nick-hornby-thumb.jpg" width="150" alt="Image - nick-hornby"  class="photo right"/></a>
-
     Oscar nominated screenwriter to answer your questions at Twickenham Studios.
 
     An Oscar nominated screenwriter and award-winning author is to give a VIP public Q & A at Twickenham studios next month - giving an intimate audience a real insight to life in Hollywood, script writing and what it takes to break into the industry.

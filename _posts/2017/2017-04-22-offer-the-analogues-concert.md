@@ -5,10 +5,8 @@ permalink: /archives/2017/04/offer-the-analogues-concert.html
 commentfile: 2017-04-22-offer-the-analogues-concert
 category: around_town
 date: 2017-04-22 09:53:05
+image: "/assets/images/2017/the-analogues-sgtpeppers-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/the-analogues-sgtpeppers.jpg" title="Click for a larger image"><img src="/assets/images/2017/the-analogues-sgtpeppers-thumb.jpg" width="150" alt="Image - the-analogues-sgtpeppers"  class="photo right"/></a>
-
     A special offer available to readers of the St Margarets newsletter and visitors to the website as we live in an area with such great Beatles links.
 ---
 

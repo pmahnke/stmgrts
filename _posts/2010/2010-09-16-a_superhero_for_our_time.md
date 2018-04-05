@@ -5,9 +5,8 @@ permalink: /archives/2010/09/a_superhero_for_our_time.html
 commentfile: 2010-09-16-a_superhero_for_our_time
 category: around_town
 date: 2010-09-16 21:01:02
+image: "/assets/images/2010/Wilson_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Wilson.jpg" title="See larger version of - Wilson"><img src="/assets/images/2010/Wilson_thumb.jpg" width="93" height="150" alt="Wilson" class="photo right" /></a>
-
     _The Return of Wilson_
 
     In August Dr. Sharon Lamb from the University of Massachusetts told the annual Convention of the American Psychological Association in San Diego, California, that modern superheroes may not be the best image for boys to look up to if society wants to promote kinder, less stereotypical male behaviours.

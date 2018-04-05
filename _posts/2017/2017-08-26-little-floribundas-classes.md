@@ -5,9 +5,9 @@ permalink: /archives/2017/08/little-floribundas-classes.html
 commentfile: 2017-08-26-little-floribundas-classes
 category: around_town
 date: 2017-08-26 11:10:38
+image: "/assets/images/directory/201708191226_little_floribundas_baby_massage_and_baby_yoga.jpg"
 excerpt: |
-    <img src="https://stmargarets.london/assets/images/directory/201708191226_little_floribundas_baby_massage_and_baby_yoga.jpg" width="150" class="right" alt="" />
-
+    
     little floribundas is offering baby massage and baby yoga classes in a relaxed, friendly environment. Massage and yoga are hugely beneficial to your child's development and can help relieve the discomfort of teething, colic and other digestive difficulties as well as improving bonding between parent and child.
 ---
 

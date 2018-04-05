@@ -5,9 +5,8 @@ permalink: /archives/2012/09/the_first_million_seller.html
 commentfile: 2012-09-06-the_first_million_seller
 category: around_town
 date: 2012-09-06 21:53:27
+image: "/assets/images/2012/MILLION_glenn-miller_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/MILLION_glenn-miller.jpg" title="See larger version of - Glenn Miller"><img src="/assets/images/2012/MILLION_glenn-miller_thumb.jpg" width="150" height="205" alt="Glenn Miller" class="photo right" /></a>
-
 
     The first Gold Record was awarded 70 years ago, in February 1942, to Glenn Miller for his recording of _"Chattanooga Choo Choo"_. It sold 1,200,000 copies. In 1956 Elvis Presley received a Gold Record for 1,000,000 sales of _"Don't Be Cruel."_ The following year, 1957, Harry Belafonte was presented with a Gold Record for his album _"Calypso"_, the first L.P to sell over 1,000,000 copies
 

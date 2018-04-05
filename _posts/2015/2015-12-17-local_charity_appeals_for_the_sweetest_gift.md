@@ -5,9 +5,8 @@ permalink: /archives/2015/12/local_charity_appeals_for_the_sweetest_gift.html
 commentfile: 2015-12-17-local_charity_appeals_for_the_sweetest_gift
 category: around_town
 date: 2015-12-17 21:00:53
+image: "/assets/images/2015/Jeevika__bees_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Jeevika__bees.jpg" title="See larger version of - Jeevika  bees"><img src="/assets/images/2015/Jeevika__bees_thumb.jpg" width="150" height="100" alt="Jeevika  bees" class="photo right" /></a>
-    
     
     Jeevika Trust, a small, Hampton Wick-based International Development charity, is appealing to the local community for help with an innovative project this Christmas. The organisation, in partnership with five carefully-selected Indian NGO partners, works to improve rural livelihoods in some of the most deprived regions of rural India through creating income generation opportunities for women and through improving access to clean water, better sanitation, better nutrition and improved healthcare for villagers.
 

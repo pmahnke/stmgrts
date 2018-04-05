@@ -5,9 +5,8 @@ permalink: /archives/2015/07/event_reminder_shakespeare_in_the_garden_8_to_9_se.
 commentfile: 2015-07-16-event_reminder_shakespeare_in_the_garden_8_to_9_se
 category: around_town
 date: 2015-07-16 19:36:32
+image: "/assets/images/2015/shakespear_turks_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/shakespear_turks_2015.jpg" title="See larger version of - shakespear turks 2015"><img src="/assets/images/2015/shakespear_turks_2015_thumb.jpg" width="150" height="100" alt="shakespear turks 2015" class="photo right" /></a>
-    
     We're not just famous for rugby - this Summer, Shakespeare in the Garden is back at the Turk's Head. Permanently Bard presents "Romeo & Juliet" - the greatest love story ever told.
 
 ---

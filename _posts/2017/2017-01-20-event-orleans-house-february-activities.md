@@ -5,9 +5,8 @@ permalink: /archives/2017/01/event-orleans-house-february-activities.html
 commentfile: 2017-01-20-event-orleans-house-february-activities
 category: around_town
 date: 2017-01-20 08:02:05
+image: "/assets/images/2017/orleans-gallery-feb17-activities-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-gallery-feb17-activities.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-gallery-feb17-activities-thumb.jpg" width="150" alt="Image - orleans-gallery-feb17-activities"  class="photo right"/></a>
-
     Get creative this spring! Visit our exhibitions and work with professional artists specialising in a range of different art-forms.  Be inspired by our current exhibition to experiment, make and invent using architecture, furniture, sculpture, painting, drawing and the natural world as inspiration!
 ---
 

@@ -5,10 +5,8 @@ permalink: /archives/2010/11/nightmare_in_st_margarets.html
 commentfile: 2010-11-04-nightmare_in_st_margarets
 category: around_town
 date: 2010-11-04 19:12:43
+image: "/assets/images/2017/2010_Halloween1-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/2010_Halloween1.jpg" title="Click for a larger image"><img src="/assets/images/2017/2010_Halloween1-thumb.jpg" width="250" alt="Image - 2010_Halloween1"  class="photo right"/></a>
-
     Last Sunday, Hallowe'en, the graves opened up in St Margarets and the 'undead' - or the _"alternatively alive"_ as they prefer to be called these days - walked our streets.
 
     Now I've got nothing against monsters - some of my best friends turn in to zombies on Saturday nights - but that is on a one-to-one basis. It is another matter entirely when you have the full set walking up your path and banging on the front door. Vampires, Frankenstein's monster, Zombies, Mummies, Ghouls, Ghosts, Werewolves and Witches -they were all there on Sunday night accompanied by their shadowy outriders - the Parents. _Oh, the horror, the horror!_

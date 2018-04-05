@@ -5,9 +5,8 @@ permalink: /archives/2013/09/wild_education_job_posting_and_information.html
 commentfile: 2013-09-05-wild_education_job_posting_and_information
 category: news
 date: 2013-09-05 22:52:16
+image: "/assets/images/2013/forestschool_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/forestschool.png" title="See larger version of - Wild Education"><img src="/assets/images/2013/forestschool_thumb.png" width="150" height="189" alt="Wild Education" class="photo right" /></a>
-    
     
     _Wild Education - learning outside makes children smarter, healthier, happier_
     

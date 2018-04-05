@@ -5,9 +5,8 @@ permalink: /archives/2013/09/richmond_upon_thames_heritage_festival_september_2.
 commentfile: 2013-09-05-richmond_upon_thames_heritage_festival_september_2
 category: around_town
 date: 2013-09-05 22:41:19
+image: "/assets/images/2013/know-your-place-logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/know-your-place-logo.jpg" title="See larger version of - know your place logo"><img src="/assets/images/2013/know-your-place-logo_thumb.jpg" width="150" height="70" alt="know your place logo" class=" right" /></a>
-    
     Richmond Upon Thames has a rich and vibrant history and throughout September 2013 we will be celebrating it with the first ever heritage festival _Know Your Place_.
     
     The action packed programme encompasses the whole of the Borough with events for all ages.

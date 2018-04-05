@@ -5,8 +5,8 @@ permalink: /archives/2009/08/the_dog_days_of_summer.html
 commentfile: 2009-08-27-the_dog_days_of_summer
 category: around_town
 date: 2009-08-27 21:43:55
+image: "/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>
     
     
     bq. "In the mydle of the monthe Iulius the Canicular dayes begyn."

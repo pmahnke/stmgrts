@@ -5,8 +5,8 @@ permalink: /archives/2011/02/churchills_offering_1_sales_commission_in_february.
 commentfile: 2011-02-03-churchills_offering_1_sales_commission_in_february
 category: around_town
 date: 2011-02-03 19:25:44
+image: "/assets/images/2011/churchill_rr_sign-thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/churchill_rr_sign.png"><img alt="churchill_rr_sign.png" src="/assets/images/2011/churchill_rr_sign-thumb.png" width="150" height="48" class="photo right"/></a>
     
     _Good news for homeowners in St Margarets_
     

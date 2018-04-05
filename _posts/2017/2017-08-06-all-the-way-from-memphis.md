@@ -6,9 +6,8 @@ commentfile: 2017-08-06-all-the-way-from-memphis
 category: around_town
 author: Martyn Day
 date: 2017-08-06 17:48:07
+image: "/assets/images/2017/MEMPHIS_stax-logo-thumb.png"
 excerpt: |
-    <a href="/assets/images/2017/MEMPHIS_stax-logo.png" title="Click for a larger image"><img src="/assets/images/2017/MEMPHIS_stax-logo-thumb.png" width="150" alt="Image - MEMPHIS_stax-logo"  class="right"/></a>
-
     In the spring of 1967 an unusual package tour flew into Europe from America. Unlike other pop shows on the circuit at the time these artists were mainly black, they all came from Memphis, Tennessee and they all recorded for the same record label, Stax, known locally as "an R&B powerhouse".
 
 ---

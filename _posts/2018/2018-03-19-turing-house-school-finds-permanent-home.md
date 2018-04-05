@@ -5,9 +5,8 @@ permalink: /archives/2018/03/turing-house-school-finds-permanent-home.html
 commentfile: 2018-03-19-turing-house-school-finds-permanent-home
 category: news
 date: 2018-03-19 09:51:30
+image: "/assets/images/2018/turing-house-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/turing-house.jpg" title="Click for a larger image"><img src="/assets/images/2018/turing-house-thumb.jpg" width="150" alt="Image - turing-house"  class="photo right"/></a>
-
     Richmond Council welcomes the news that the Education Skills Funding Agency has finalised the land acquisition from the London Borough of Hounslow for a permanent site for Turing School, in Whitton.
 
 ---

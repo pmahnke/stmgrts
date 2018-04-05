@@ -5,9 +5,8 @@ permalink: /archives/2013/02/event_reminder_evening_of_dance_drama_comedy_to_be.
 commentfile: 2013-02-20-event_reminder_evening_of_dance_drama_comedy_to_be
 category: around_town
 date: 2013-02-20 21:08:25
+image: "/assets/images/2013/Mulberry-flyer-front_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/Mulberry-flyer-front.png" title="See larger version of - Mulberry flyer"><img src="/assets/images/2013/Mulberry-flyer-front_thumb.png" width="150" height="211" alt="Mulberry flyer" class="photo right" /></a>
-    
     Chiswick-based breast cancer survivor Yvette Cowles, herself a client of The Mulberry Centre, has joined forces with Sushma Mehta to put together an exciting double bill on <a href="https://stmargarets.london/event/event/200705143811">15<sup>th</sup> March 2013 at 7.45pm</a> to benefit this local cancer centre.  10% of the profits of the event will go to the charity.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2015/06/farewell_marguerite.html
 commentfile: 2015-06-19-farewell_marguerite
 category: around_town
 date: 2015-06-19 15:42:59
+image: "/assets/images/2015/MARGUERITE_Marguerite_patten_in_colour_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/MARGUERITE_Marguerite_patten_in_colour.jpg" title="See larger version of - Marguerite patten in colour"><img src="/assets/images/2015/MARGUERITE_Marguerite_patten_in_colour_thumb.jpg" width="150" height="133" alt="Marguerite patten in colour" class="photo right" /></a>
-    
     
     I come from a generation who were raised on Marguerite Patten's wartime recipes. Her meals were shaped - as we were - by food rationing, shortages and some unusual additions to our diet like dried egg, spam, whale steaks and that ghastly canned fish - snoek. We are the generation that still remembers, not always fondly,  tripe and trotters, scrag end and sago and worse of all - tapioca known as <em>"frog spawn "</em> by the millions of kids obliged to eat it
 

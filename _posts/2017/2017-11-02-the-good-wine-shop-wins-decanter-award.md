@@ -5,9 +5,8 @@ permalink: /archives/2017/11/the-good-wine-shop-wins-decanter-award.html
 commentfile: 2017-11-02-the-good-wine-shop-wins-decanter-award
 category: news
 date: 2017-11-02 19:08:53
+image: "/assets/images/2017/goodwineshop-decanter-2017-award-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/goodwineshop-decanter-2017-award.jpg" title="Click for a larger image"><img src="/assets/images/2017/goodwineshop-decanter-2017-award-thumb.jpg" width="150" alt="Image - goodwineshop-decanter-2017-award"  class="photo right"/></a>
-
     The Good Wine Shop has won the prestigious Decanter Magazine Champagne Retailer of the  Year 2017 award against stiff competition from national retailer Waitrose and other independent specialists.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2012/05/orange_tree_theatres_40th_birthday_garden_tea_part.
 commentfile: 2012-05-17-orange_tree_theatres_40th_birthday_garden_tea_part
 category: around_town
 date: 2012-05-17 20:03:02
+image: "/assets/images/2012/orange_tree_theatre_40th_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/orange_tree_theatre_40th.jpg" title="See larger version of - orange tree theatre 40th"><img src="/assets/images/2012/orange_tree_theatre_40th_thumb.jpg" width="150" height="73" alt="orange tree theatre 40th" class=" right" /></a>
-    
     Continuing the Orange Tree Theatre's 40<sup>th</sup> birthday celebrations, this extra-special Garden Tea Party presents a rare opportunity to enjoy tea, cake, BBQ and Pimm's and a selection of local stalls in the sumptuous grounds of Grade I-listed Trumpeters' House, situated between the River Thames and Richmond Green on the historic site previously occupied by Richmond Palace.
     
     This annual event raises funds for the Orange Tree's renowned Community and Education programme, whilst providing the ideal opportunity to browse stalls selling everything from bath products to romantic dresses, to olive oils and silver jewellery.

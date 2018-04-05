@@ -5,9 +5,8 @@ permalink: /archives/2006/05/police_in_st_ma.html
 commentfile: 2006-05-15-police_in_st_ma
 category: news
 date: 2006-05-15 22:59:41
+image: "/cgi-bin/poll.cgi?pollname=police&action=image"
 excerpt: |
-    <a href="/poll/police" title="Vote in the poll"><img src="/cgi-bin/poll.cgi?pollname=police&action=image" alt="pollresults" width="150" height="150" class="right" /></a>
-    
     PC Alan Richens wants your feedback on policing in St Margarets. He has been available once a fortnight on a Wednesday afternoon in Zorans, but has not been over run with enquires. He has asked us to ask you -- how do you want the police to spend their time in St Margarets?
     
 

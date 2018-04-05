@@ -5,9 +5,8 @@ permalink: /archives/2012/12/christmas_day_in_the_workhouse.html
 commentfile: 2012-12-20-christmas_day_in_the_workhouse
 category: around_town
 date: 2012-12-20 10:45:08
+image: "/assets/images/2012/WORKHOUSE_picking_oakum_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/WORKHOUSE_picking_oakum.jpg" title="See larger version of - picking oakum"><img src="/assets/images/2012/WORKHOUSE_picking_oakum_thumb.jpg" width="150" height="84" alt="picking oakum" class="photo right" /></a>
-    
     In the 14<sup>th</sup> and 15<sup>th</sup> centuries provision for the poor was provided by monasteries, guilds and private charity. By the early 16<sup>th</sup> century and the Reformation, when Henry 8<sup>th</sup> was abolishing the monasteries, large numbers of poor were forced to roam the country looking for food and alms, becoming objects of fear and derision.
 
 ---

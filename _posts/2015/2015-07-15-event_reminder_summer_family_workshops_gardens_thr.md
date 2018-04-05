@@ -5,9 +5,8 @@ permalink: /archives/2015/07/event_reminder_summer_family_workshops_gardens_thr.
 commentfile: 2015-07-15-event_reminder_summer_family_workshops_gardens_thr
 category: around_town
 date: 2015-07-15 19:25:33
+image: "/assets/images/2015/museumofrichmond-flower_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/museumofrichmond-flower.jpg" title="See larger version of - museumofrichmond flower"><img src="/assets/images/2015/museumofrichmond-flower_thumb.jpg" width="150" height="150" alt="museumofrichmond flower" class="photo right" /></a>
-    
     <a href="https://stmargarets.london/event/event/200705145053">Events every day from 10 to noon from Tuesday 28<sup>th</sup> July 2015 to Friday 31<sup>st</sup> July 2015.</a>
     
     The Museum of Richmond is thrilled to announce that its Summer Family Workshops will be on the theme; GARDENS THROUGH TIME. This will complement our 'Feeding London; the forgotten market gardens' exhibition which runs at the museum until September 1<sup>st</sup>

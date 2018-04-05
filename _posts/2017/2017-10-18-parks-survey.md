@@ -5,9 +5,8 @@ permalink: /archives/2017/10/parks-survey.html
 commentfile: 2017-10-18-parks-survey
 category: news
 date: 2017-10-18 16:09:06
+image: "/assets/images/2017/lbrut-park-survey-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/lbrut-park-survey-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/lbrut-park-survey-2017-thumb.jpg" width="150" alt="Image - lbrut-park-survey-2017"  class="photo right"/></a>
-
     Richmond Council is asking residents to give their views on the Council's parks.
 
     The Richmond Council 'Parks Satisfaction Survey' 2017 will take place over the next four weeks and aims to assess overall satisfaction with local parks and, importantly, highlight any areas for improvement.

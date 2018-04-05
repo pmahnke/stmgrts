@@ -5,8 +5,8 @@ permalink: /archives/2011/03/film_london_90_second_film_competition_capital_tal.
 commentfile: 2011-03-03-film_london_90_second_film_competition_capital_tal
 category: around_town
 date: 2011-03-03 21:50:33
+image: "/assets/images/2011/filmlondon-thumb.gif"
 excerpt: |
-    <a href="/assets/images/2011/filmlondon.gif"><img alt="filmlondon.gif" src="/assets/images/2011/filmlondon-thumb.gif" width="71" height="84"  class="right" /></a>
     
     Richmond Arts Service and Film London are delighted to announce the return of the 90 second film competition!
     

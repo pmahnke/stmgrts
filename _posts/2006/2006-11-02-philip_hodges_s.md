@@ -5,8 +5,8 @@ permalink: /archives/2006/11/philip_hodges_s.html
 commentfile: 2006-11-02-philip_hodges_s
 category: news
 date: 2006-11-02 22:58:25
+image: "/assets/images/2006/philiphodges-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/philiphodges.jpg"><img src="/assets/images/2006/philiphodges-thumb.jpg" width="150" height="91" alt="line drawing" class="photo right" /></a>
     
     Haweli of St Margarets, an Indian takeaway restaurant at 122 St Margarets Road has applied for planning approval to replace their existing timber shop front with a matte black aluminium one. 
     

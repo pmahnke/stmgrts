@@ -5,9 +5,8 @@ permalink: /archives/2010/05/the_coming_of_the_hurricane.html
 commentfile: 2010-05-26-the_coming_of_the_hurricane
 category: around_town
 date: 2010-05-26 22:28:12
+image: "/assets/images/2010/hurricane_Hawker_XIIa_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/hurricane_Hawker_XIIa.jpg" title="See larger version of - Hurricicane Hawker XIIa"><img src="/assets/images/2010/hurricane_Hawker_XIIa_thumb.jpg" width="150" height="112" alt="Hurricicane Hawker XIIa" class="photo right" /></a>
-    
     70 years ago to the day Adolf Hitler was feeling rather pleased with himself. Ever since his unprovoked invasion of Poland on the 1<sup>st</sup> September 1939 his armies had blitzkrieged their way through Denmark, Norway, Holland, Luxembourg and France and nobody had been able to stop them. O.K - He may have been a little miffed that a fleet of small ships had suddenly appeared over the horizon to pull the British Army and their allies off the beaches at Dunkirk - but apart from that everything was going swimmingly. All that was left to do was to sweep the RAF out of the skies, leaving the way clear for the Fuhrer's final ambition - the invasion of Great Britain.
     
 

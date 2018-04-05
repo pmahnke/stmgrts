@@ -5,9 +5,8 @@ permalink: /archives/2015/03/event_reminder_redlees_unrooted_4_to_5_april_2015.h
 commentfile: 2015-03-27-event_reminder_redlees_unrooted_4_to_5_april_2015
 category: around_town
 date: 2015-03-27 22:39:52
+image: "/assets/images/2015/uprooted_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/uprooted.jpg" title="See larger version of - uprooted"><img src="/assets/images/2015/uprooted_thumb.jpg" width="150" height="199" alt="uprooted" class="photo right" /></a>
-    
     
     <a href="https://stmargarets.london/event/exhibition/200705144931">Opening Saturday 4 April, 6.30 - 9.00pm and Sunday 5 April, 11am - 4pm</a>
     

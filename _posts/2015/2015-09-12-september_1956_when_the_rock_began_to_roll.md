@@ -5,9 +5,8 @@ permalink: /archives/2015/09/september_1956_when_the_rock_began_to_roll.html
 commentfile: 2015-09-12-september_1956_when_the_rock_began_to_roll
 category: around_town
 date: 2015-09-12 09:55:08
+image: "/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock.jpg" title="See larger version of - Poster of the movie Rock Around the Clock"><img src="/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock_thumb.jpg" width="150" height="298" alt="Poster of the movie Rock Around the Clock" class="photo right" /></a>
-    
     bq. The movie, <em>'Rock Around the Clock'</em>  remains a fitting tribute to perhaps the unlikeliest rock and roll trailblazer of them all.
     
     <cite>THIS DAY IN MUSIC 9TH Nov. 2010</cite>

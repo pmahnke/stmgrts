@@ -5,9 +5,8 @@ permalink: /archives/2013/05/mad_hatters_tea_party.html
 commentfile: 2013-05-09-mad_hatters_tea_party
 category: around_town
 date: 2013-05-09 22:13:05
+image: "/assets/images/2013/teaparty_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/teaparty.jpg" title="See larger version of - tea party"><img src="/assets/images/2013/teaparty_thumb.jpg" width="150" height="116" alt="tea party" class="photo right" /></a>
-    
     _London 27<sup>th</sup> May 12pm-till the cake runs out!!_
     
     Join some of the Sesame community and students of the Masters course, to have fun, eat cake, and drink tea!! We will be holding a mad hatter's tea party to celebrate the Sesame International Tea week. We will have a variety of teas, coffee and soft drinks as well as cakes, biscuits and sandwiches to enjoy.

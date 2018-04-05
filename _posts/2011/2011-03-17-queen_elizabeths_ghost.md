@@ -5,9 +5,8 @@ permalink: /archives/2011/03/queen_elizabeths_ghost.html
 commentfile: 2011-03-17-queen_elizabeths_ghost
 category: around_town
 date: 2011-03-17 20:15:04
+image: "/assets/images/2011/GHOST_Queen_Elizabeth_I_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/GHOST_Queen_Elizabeth_I.jpg" title="See larger version of - Queen Elizabeth I"><img src="/assets/images/2011/GHOST_Queen_Elizabeth_I_thumb.jpg" width="150" height="190" alt="Queen Elizabeth I" class="photo right" /></a>
-    
     The thing about ghosts is that they are unpredictable. They turn up when you least expect them and then they scare the living daylights out of you. That's how they work. You cannot set your watch by a ghost because ghosts do not keep to schedules or time tables... apart from the ghost of Queen Elizabeth 1<sup>st</sup> which is supposed to make an annual appearance every March 24<sup>th</sup> in the courtyard of Richmond Palace.
     
 

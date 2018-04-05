@@ -5,9 +5,8 @@ permalink: /archives/2014/03/yogafitness_wins_netmums_award.html
 commentfile: 2014-03-28-yogafitness_wins_netmums_award
 category: news
 date: 2014-03-28 22:48:57
+image: "/assets/images/2014/favourite_classes_2014_badge_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/favourite_classes_2014_badge.png" title="See larger version of - favourite classes 2014 badge"><img src="/assets/images/2014/favourite_classes_2014_badge_thumb.png" width="150" height="150" alt="favourite classes 2014 badge" class=" right" /></a>
-    
     _'Complete Beginners Yoga Course' voted favourite adult class in Richmond area._
     
     A St Margarets 'Complete Beginners Yoga Course' has scooped one of the top awards in the 'Classes For You' competition, run by Britain's biggest parenting site Netmums.

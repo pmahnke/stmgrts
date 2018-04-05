@@ -5,9 +5,8 @@ permalink: /archives/2014/09/event_reminder_friendship_matinee_at_the_royal_alb.
 commentfile: 2014-09-06-event_reminder_friendship_matinee_at_the_royal_alb
 category: around_town
 date: 2014-09-06 08:14:36
+image: "/assets/images/2014/friendship-matinee-2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/friendship-matinee-2014.jpg" title="See larger version of - friendship matinee 2014"><img src="/assets/images/2014/friendship-matinee-2014_thumb.jpg" width="150" height="99" alt="friendship matinee 2014" class="photo right" /></a>
-    
     Friendship Matinee provides people who are part of a charity, community or voluntary organisation the opportunity to come to the Royal Albert Hall to see world-class shows for only &pound;5.00 per ticket.
     
     In partnership with the Royal Philharmonic Orchestra this year's concert, taking place on Friday 10 October, presents a tribute to the musical brilliance of John Williams, undoubtedly one of the world's most respected film music composers.

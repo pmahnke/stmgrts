@@ -5,8 +5,8 @@ permalink: /archives/2012/05/dreamcatcher_film_and_tv_summer_camp_2012.html
 commentfile: 2012-05-24-dreamcatcher_film_and_tv_summer_camp_2012
 category: around_town
 date: 2012-05-24 21:57:34
+image: "/assets/images/2012/2012pdfflyer-thumbnail_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/2012pdfflyer.pdf"" title="download a pdf flyer"><img src="/assets/images/2012/2012pdfflyer-thumbnail_thumb.jpg" width="150" height="104" alt="2012pdfflyer thumbnail" class="photo right" /></a>
     
     Students who enroll for our one week course will receive all the fundamental instruction they need to get to grips with completing a short film. We take students aged 7 to 17 and children are put in age appropriate groups. We have a young, middle and older group. Classes run from 9am to 2pm each day.
 

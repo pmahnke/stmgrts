@@ -5,9 +5,8 @@ permalink: /archives/2017/02/good-wine-shop-wins-champagne-award.html
 commentfile: 2017-02-08-good-wine-shop-wins-champagne-award
 category: news
 date: 2017-02-08 22:03:30
+image: "/assets/images/2017/DRA-Winners-good-wine-shop-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/DRA-Winners-good-wine-shop.jpg" title="Click for a larger image - Picture of Winners (left to right) Joe Fattorini (The Wine Show), Mark Wrigglesworth, Derek Morrison, Martin Green (Editor OLN)"><img src="/assets/images/2017/DRA-Winners-good-wine-shop-thumb.jpg" width="150" alt="Image - Picture of Winners (left to right) Joe Fattorini (The Wine Show), Mark Wrigglesworth, Derek Morrison, Martin Green (Editor OLN)"  class="photo right"/></a>
-
     Local Kew and Chiswick wine merchant wins the Independent Champagne Retailer of the Year 2017 against stiff competition from other independent specialists but the judges said champagne has "a major in-store presence at both stores" and "a regular turnover of new wines to keep things fresh and interesting for customers".
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2017/11/richmond-college-gets-ofsted-good.html
 commentfile: 2017-11-23-richmond-college-gets-ofsted-good
 category: news
 date: 2017-11-23 18:42:02
+image: "/assets/images/2017/richmond-college-night-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/richmond-college-night.jpg" title="Click for a larger image"><img src="/assets/images/2017/richmond-college-night-thumb.jpg" width="150" alt="Image - richmond-college-night"  class="photo right"/></a>
-
     In October 2017, a team of Ofsted inspectors visited Richmond upon Thames College, a general further education college based in Twickenham, to carry out a full four day inspection covering all areas of the college provision.
 
 ---

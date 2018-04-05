@@ -5,9 +5,8 @@ permalink: /archives/2010/07/st_margarets_estate_conservation_area_extension.htm
 commentfile: 2010-07-30-st_margarets_estate_conservation_area_extension
 category: news
 date: 2010-07-30 11:34:02
+image: "/assets/images/2010/con_st_margaret_s_extension_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/con_st_margaret_s_extension.jpg" title="See larger version of - map of proposed extension"><img src="/assets/images/2010/con_st_margaret_s_extension_thumb.jpg" width="150" height="103" alt="map of proposed extension" class="photo right" /></a>
-    
     The Council is proposing the extend the boundary of the St Margarets Estate Conservation Area under the Planning (Listed Building and Conservation Areas) Act 1990. The proposed extension includes this property. As part of this process, the Council is seeking views of all owners and/or occupiers.
     
 

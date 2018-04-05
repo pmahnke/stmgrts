@@ -5,9 +5,8 @@ permalink: /archives/2014/09/event_reminder_richmonds_river_23_to_30_september.h
 commentfile: 2014-09-25-event_reminder_richmonds_river_23_to_30_september
 category: around_town
 date: 2014-09-25 10:31:50
+image: "/assets/images/2014/Richmond_River_Final_Poster_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/Richmond_River_Final_Poster.JPG" title="See larger version of - Richmond River Poster"><img src="/assets/images/2014/Richmond_River_Final_Poster_thumb.JPG" width="150" height="212" alt="Richmond River Poster" class="photo right" /></a>
-    
     For one week only, the stunning baroque Octagon Room at Orleans House Gallery is showcasing a choice selection of a dozen key riverscapes from the prestigious Richmond upon Thames Borough Art Collection. Visitors will be able to discover Richmond's riverside riches in this chronological display.
 
 ---

@@ -6,9 +6,8 @@ commentfile: 2017-02-08-small-balls
 category: around_town
 author: "Martyn Day"
 date: 2017-02-08 22:12:00
+image: "/assets/images/2017/SMALLBALLS_The-World-Marbles-Championship-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SMALLBALLS_The-World-Marbles-Championship.jpg" title="Click for a larger image"><img src="/assets/images/2017/SMALLBALLS_The-World-Marbles-Championship-thumb.jpg" width="150" alt="Image - SMALLBALLS_The-World-Marbles-Championship"  class="photo right"/></a>
-
     As all mibsters, shooters and lovers of 'playing for keeps' know the Marble season is nearly upon us and now is the time to 'knuckle down'.  Application forms are already going out for the National Marble Championships which take place in Wildwood, New Jersey over four days in June.
 ---
 

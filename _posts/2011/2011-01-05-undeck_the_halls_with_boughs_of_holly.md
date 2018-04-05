@@ -5,9 +5,8 @@ permalink: /archives/2011/01/undeck_the_halls_with_boughs_of_holly.html
 commentfile: 2011-01-05-undeck_the_halls_with_boughs_of_holly
 category: around_town
 date: 2011-01-05 14:13:15
+image: "/assets/images/2011/TWELFTH_Bean-King-Jacob-Jor_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/TWELFTH_Bean-King-Jacob-Jor.jpg" title="See larger version of - Bean King"><img src="/assets/images/2011/TWELFTH_Bean-King-Jacob-Jor_thumb.jpg" width="150" height="113" alt="Bean King" class="photo right" /></a>
-    
     
     According to tradition Christmas decorations must be taken down by the 12<sup>th</sup> Day of Christmas - or 5<sup>th</sup> January if you can be bothered to count. In the past it was considered extremely unlucky not to have taken down your decorations by then. It was believed that tree-spirits lived in the boughs of holly, ivy, mistletoe, box and laurel used for decoration. While it was a kindness to bring the spirits into the house during the mid winter days to share Christmas, it was vital that they were returned to nature once the festival was over. Fail to do so and spring would not come.
     

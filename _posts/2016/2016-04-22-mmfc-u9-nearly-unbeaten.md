@@ -5,9 +5,8 @@ permalink: /archives/2016/04/mmfc-u9-nearly-unbeaten.html
 commentfile: 2016-04-22-mmfc-u9-nearly-unbeaten
 category: news
 date: 2016-04-22 22:52:43
+image: "/assets/images/2016/mmfc-logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/mmfc-logo.png" title="See larger version of - mmfc logo"><img src="/assets/images/2016/mmfc-logo_thumb.png" width="150" height="150" alt="mmfc logo" class="right" /></a>
-
     The youngsters of St Margarets community football club, Moor Mead FC, are one game away from an unbeaten season in their first year in the league.
 
 ---

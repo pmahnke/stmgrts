@@ -5,9 +5,8 @@ permalink: /archives/2010/03/the_marathon_de_sables_1_week_to_go.html
 commentfile: 2010-03-25-the_marathon_de_sables_1_week_to_go
 category: around_town
 date: 2010-03-25 19:21:57
+image: "/assets/images/2010/georgie-thumb.jpg"
 excerpt: |
-    <p><a href="/assets/images/2010/georgie.jpg"><img src="/assets/images/2010/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a></p>
-    
     For 15 years I have wanted to do this incredible race and now it is imminent, less than a week away. I can't quite believe it. All my training and work has been done and I'm just doing the odd run to keep myself confident and in shape. I now need to pack and build myself up mentally.
     
 

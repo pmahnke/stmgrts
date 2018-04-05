@@ -5,9 +5,8 @@ permalink: /archives/2017/01/class-little-love-yoga.html
 commentfile: 2017-01-07-class-little-love-yoga
 category: around_town
 date: 2017-01-07 15:03:26
+image: "/assets/images/directory/201701071459_Little_Love_-_Motherhood_Yoga_aNd_Massage.png"
 excerpt: |
-    <img src="/assets/images/directory/201701071459_Little_Love_-_Motherhood_Yoga_aNd_Massage.png" width="150"  class="right" alt="logo"/>
-
     Yoga is so helpful when we need to slow down and enjoy the precious moments of parenthood - the before the baby is born and for many years afterwards.
 ---
 

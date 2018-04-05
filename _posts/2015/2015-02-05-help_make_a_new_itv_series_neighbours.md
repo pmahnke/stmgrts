@@ -5,9 +5,8 @@ permalink: /archives/2015/02/help_make_a_new_itv_series_neighbours.html
 commentfile: 2015-02-05-help_make_a_new_itv_series_neighbours
 category: around_town
 date: 2015-02-05 08:00:31
+image: "/assets/images/2015/Neighbours_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Neighbours.jpg" title="See larger version of - Neighbours"><img src="/assets/images/2015/Neighbours_thumb.jpg" width="150" height="211" alt="Neighbours" class="right" /></a>
-    
     In London, only 1 in 10 of us count our neighbours as friends and so we want to film with a number of households on one street over six weeks in the summer to find out more about the people that live there. We'd then like to offer those people the opportunity to gain an insight into each other's lives and see whether this makes a difference to their relationships with each other.
 
 ---

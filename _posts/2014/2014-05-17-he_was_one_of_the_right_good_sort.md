@@ -5,9 +5,8 @@ permalink: /archives/2014/05/he_was_one_of_the_right_good_sort.html
 commentfile: 2014-05-17-he_was_one_of_the_right_good_sort
 category: around_town
 date: 2014-05-17 14:54:10
+image: "/assets/images/2014/PERCY_Percy_Davies_-_soldier_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/PERCY_Percy_Davies_-_soldier.jpg" title="See larger version of - Percy Davies   soldier"><img src="/assets/images/2014/PERCY_Percy_Davies_-_soldier_thumb.jpg" width="150" height="337" alt="Percy Davies   soldier" class="photo right" /></a>
-    
     On the 31<sup>st</sup> December 1915, near the village of Vermelles in northern France, a platoon of soldiers from the 19<sup>th</sup> Battalion of the 1<sup>st</sup> London Regiment were being lead out of the front line trenches by their sergeant, B.A Few. Somehow on the way, in the confusion of the trenches, saps and communication lines crossing each other the platoon got lost. Tired, dirty and anxious to get to their billets and comparative safety, one man, Corporal Percy Davies, calmly climbed up onto the parapet to see if he could find the route back to the rear area. While he was standing there he was shot and killed by a German sniper.
     
 

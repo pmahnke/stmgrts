@@ -5,9 +5,8 @@ permalink: /archives/2012/06/event_reminder_come_party_with_pluto_22_june_2012.h
 commentfile: 2012-06-15-event_reminder_come_party_with_pluto_22_june_2012
 category: around_town
 date: 2012-06-15 11:24:52
+image: "/assets/images/2012/A5_Courtfield_Gardens_flyer_thumb._pdf"
 excerpt: |
-    <a href="/assets/images/2012/A5_Courtfield_Gardens_flyer._pdf.jpg" title="See larger version of - Plutu Courtfield Gardens flyer. pdf"><img src="/assets/images/2012/A5_Courtfield_Gardens_flyer_thumb._pdf" width="150" height="105" alt="Plutu Courtfield Gardens flyer. pdf" class="photo right" /></a>
-
 
     We are very proud to announce that this year's legendary annual Courtfield Gardens Summer Garden Party is going to be held in aid of The Pluto Appeal!  Please join us from 7pm on Friday June 22<sup>nd</sup> for an evening of entertainment in this beautiful square.
 

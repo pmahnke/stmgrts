@@ -5,9 +5,8 @@ permalink: /archives/2010/10/richmond_councils_school_place_planning_update_oct.
 commentfile: 2010-10-06-richmond_councils_school_place_planning_update_oct
 category: news
 date: 2010-10-06 18:20:03
+image: "/assets/images/2010/stmarg_school_places_page_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/stmarg_school_places_page_1.jpg" title="See larger version of - View page 1"><img src="/assets/images/2010/stmarg_school_places_page_1_thumb.jpg" width="112" height="150" alt="View page 1" class="photo right" /></a>
-
 
     The Richmond Council will send <a href="//stmargarets.london/assets/images/2010/stmarg_school_places_post_sept_2010.pdf">this leaflet</a> to all parents of school age parents with an update on issues around school places.  Key recommendations are:
 

@@ -5,10 +5,8 @@ permalink: /archives/2012/01/a_vast_esteat_to_entertain_soe_many.html
 commentfile: 2012-01-20-a_vast_esteat_to_entertain_soe_many
 category: around_town
 date: 2012-01-20 22:52:45
+image: "/assets/images/2012/ORLEANS_James-Johnston_thumb.png"
 excerpt: |
-    
-    <a href="/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
-    
     bq. "Here let us trace the matchless vales of Thames,
     Far winding up top where the muses haunt,
     To Twitnam's bowers."

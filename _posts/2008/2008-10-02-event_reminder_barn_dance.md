@@ -5,9 +5,8 @@ permalink: /archives/2008/10/event_reminder_barn_dance.html
 commentfile: 2008-10-02-event_reminder_barn_dance
 category: around_town
 date: 2008-10-02 22:11:38
+image: "/assets/images/2008/SMFBarnDance_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2008/SMFBarnDance.gif" title="See larger version of - Barn Dance poster"><img src="/assets/images/2008/SMFBarnDance_thumb.gif" width="106" height="150" alt="Barn Dance poster" class="photo right" /></a>
-    
     
     Come and enjoy a barn dance celebration to welcome in the Autumn!
     

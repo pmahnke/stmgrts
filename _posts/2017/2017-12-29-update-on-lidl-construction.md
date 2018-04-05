@@ -5,9 +5,8 @@ permalink: /archives/2017/12/update-on-lidl-construction.html
 commentfile: 2017-12-29-update-on-lidl-construction
 category: news
 date: 2017-12-29 12:50:09
+image: "/assets/images/2017/lidl_east_twick_render-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/lidl_east_twick_render.jpg" title="Click for a larger image"><img src="/assets/images/2017/lidl_east_twick_render-thumb.jpg" width="150" alt="Image - lidl_east_twick_render"  class="photo right"/></a>
-
     After extensive due diligence into the procurement of this project, we are pleased to say that we are fast approaching commencement of works on site.
 
     The demolition is scheduled to start first thing in the New Year with the construction in the Spring time.

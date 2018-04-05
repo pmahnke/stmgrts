@@ -5,9 +5,8 @@ permalink: /archives/2012/06/16_june_2012_trooping_the_colour.html
 commentfile: 2012-06-14-16_june_2012_trooping_the_colour
 category: around_town
 date: 2012-06-14 22:17:04
+image: "/assets/images/2012/bearskin_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/bearskin.jpg" title="See larger version of - bearskin hats"><img src="/assets/images/2012/bearskin_thumb.jpg" width="150" height="93" alt="bearskin hats" class="photo right" /></a>
-    
     One of the regular features of Trooping the Colour which takes place next Saturday on Horse Guards Parade is the playing of the "The British Grenadiers" - the signature marching song of the Grenadier Guards...
 
 ---

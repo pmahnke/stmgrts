@@ -5,9 +5,8 @@ permalink: /archives/2015/02/visit_orleans_house_gallerys_exhibit_rudi_patterso.
 commentfile: 2015-02-05-visit_orleans_house_gallerys_exhibit_rudi_patterso
 category: around_town
 date: 2015-02-05 08:17:27
+image: "/assets/images/2015/oreleans_Rudi_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/oreleans_Rudi_poster.jpg" title="See larger version of - oreleans Rudi poster"><img src="/assets/images/2015/oreleans_Rudi_poster_thumb.jpg" width="150" height="208" alt="oreleans Rudi poster" class="photo right" /></a>
-    
     Orleans House Gallery presents the biggest ever retrospective of one of the UK's leading black artists, Jamaican born Rudi Patterson (1933-2013).
     
     With 91 paintings and featuring many unexhibited works from the artist's private collection, this unique showing explores Rudi Patterson's amazing legacy. From his mid-twenties Rudi lived in England, almost exclusively in West London. He composed mostly Caribbean scenes - vivid mountain landscapes, plantation villages, luxuriant tropical vegetation and crops, and still life beaches with rivers flowing onto them.

@@ -5,9 +5,8 @@ permalink: /archives/2012/02/joe_moretti_a_tribute_to_a_session_musician.html
 commentfile: 2012-02-25-joe_moretti_a_tribute_to_a_session_musician
 category: around_town
 date: 2012-02-25 11:33:43
+image: "/assets/images/2012/MORETTI_Joe-Moretti_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/MORETTI_Joe-Moretti.jpg" title="See larger version of -  Joe Moretti"><img src="/assets/images/2012/MORETTI_Joe-Moretti_thumb.jpg" width="150" height="223" alt=" Joe Moretti" class="photo right" /></a>
-
     In the mid 1950's a new type of singer appeared on the music scene - the teen idol. They were young, appealing and some of them were even able to hold a tune. With a little work and a change of name to something meaningful like Danny Trouble, Billy Sincere or Ricky Livid, they and their managers hoped to open a door to fame and fortune. The problem was for all their toothy smiles these performers weren't smart enough to turn the lacklustre songs of the time into hit records. The Dannys, Billys and Rickys needed a new type of musician to support them. They had to be young, talented, in step with rock 'n' roll music and above all busting at the seams with new and exciting ideas. These were the players who would come up with the musical licks and hooks that would catch a listener's attention and hold it. These were the musicians who could turn garbage into gold and in the coffee bars and skiffle cellars of Soho they found them - the session men.
 
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2011/09/richmond_upon_thames_literature_festival_3_to_27_n.
 commentfile: 2011-09-05-richmond_upon_thames_literature_festival_3_to_27_n
 category: around_town
 date: 2011-09-05 14:12:46
+image: "/assets/images/directory/200610191449_Richmond_upon_Thames_Literature_Festival.gif"
 excerpt: |
-    <img src="/assets/images/directory/200610191449_Richmond_upon_Thames_Literature_Festival.gif"  alt="Richmond_upon_Thames_Literature_Festival" width="150"  class="photo right" />
 
     The <a href="https://stmargarets.london/directory/art/200610191449,">Richmond upon Thames Literature Festival</a> formerly _Book Now_, is back and celebrating their 20<sup>th</sup> anniversary.
 ---

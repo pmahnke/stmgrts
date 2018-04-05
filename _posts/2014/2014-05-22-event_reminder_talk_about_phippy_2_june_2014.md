@@ -5,9 +5,8 @@ permalink: /archives/2014/05/event_reminder_talk_about_phippy_2_june_2014.html
 commentfile: 2014-05-22-event_reminder_talk_about_phippy_2_june_2014
 category: around_town
 date: 2014-05-22 23:03:56
+image: "/assets/images/2014/Phippy_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Phippy.jpg" title="See larger version of - Phippy"><img src="/assets/images/2014/Phippy_thumb.jpg" width="150" height="200" alt="Phippy" class="photo right" /></a>
-    
     The Museum of Richmond's collection contains many items and information on the Georgian period. In order to join the celebrations marking the beginning of this important era, the museum is organising the following talk...
 
 ---

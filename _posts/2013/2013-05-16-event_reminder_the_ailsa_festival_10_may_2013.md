@@ -5,9 +5,8 @@ permalink: /archives/2013/05/event_reminder_the_ailsa_festival_10_may_2013.html
 commentfile: 2013-05-16-event_reminder_the_ailsa_festival_10_may_2013
 category: around_town
 date: 2013-05-16 22:30:26
+image: "/assets/images/2013/Ailsa-Festival-Elaine_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Ailsa-Festival-Elaine.jpg" title="See larger version of - Ailsa Festival organiser,  Elaine Samuels"><img src="/assets/images/2013/Ailsa-Festival-Elaine_thumb.jpg" width="150" height="186" alt="Ailsa Festival organiser,  Elaine Samuels" class="photo right" /></a>
-    
     Come to the new, <a href="https://stmargarets.london/event/fair/200705143885,">Ailsa Tavern Festival, July 5<sup>th</sup> - 7<sup>th</sup></a> and hear top live bands, jams, workshops, an open mic, real ales great Mediterranean inspired food and a hog roast.  There is also going to be a music talent contest, called "Rising Stars"! Everything musical is free to attend except the talent contest which is only &pound;5.
     
 

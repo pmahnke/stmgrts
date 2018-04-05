@@ -5,9 +5,8 @@ permalink: /archives/2017/10/event-teddington-baptist-craft-fair.html
 commentfile: 2017-10-28-event-teddington-baptist-craft-fair
 category: around_town
 date: 2017-10-28 14:57:03
+image: "/assets/images/2017/teddington-baptist-craft-fair-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/teddington-baptist-craft-fair-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/teddington-baptist-craft-fair-2017-thumb.jpg" width="150" alt="Image - teddington-baptist-craft-fair-2017"  class="photo right"/></a>
-
     The popular annual craft fair held at Teddington Baptist Church returns on Saturday 18<sup>th</sup> November between 10.30am and 3.30pm featuring regular favourites alongside new stalls to get you in the festive spirit. The Mayor will be attending the event and there will be over 20 stalls where shoppers will be able to enjoy a range of professional designer/makers including jewellery, textiles, Christmas decorations, art, stationery, ceramics, handicrafts and handmade chocolates. Food and drink will be available in the caf&#233; throughout the day, and a charity cake stall will be on hand to provide sweet treats.
 
 ---

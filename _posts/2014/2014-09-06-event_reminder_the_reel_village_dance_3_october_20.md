@@ -5,9 +5,8 @@ permalink: /archives/2014/09/event_reminder_the_reel_village_dance_3_october_20.
 commentfile: 2014-09-06-event_reminder_the_reel_village_dance_3_october_20
 category: around_town
 date: 2014-09-06 08:21:50
+image: "/assets/images/2014/Reel-Dance-PDF_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/Reel-Dance-PDF.png" title="See larger version of - Reel Dance Poster"><img src="/assets/images/2014/Reel-Dance-PDF_thumb.png" width="150" height="212" alt="Reel Dance Poster" class="photo right" /></a>
-    
     This month we're excited to announce St Margarets first community dance, The 'Reel' Village Dance, which will take place at the Winchester Hall (beside the Turks Head pub) on Friday 3 October at 8pm.
     
     A fun and relaxed village dance, everyone is welcome, no dancing experience or dance partner is required - just come along and have a go and make new friends in the process!

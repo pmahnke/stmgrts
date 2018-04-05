@@ -5,9 +5,8 @@ permalink: /archives/2018/03/brompton-hire-scheme-launching.html
 commentfile: 2018-03-17-brompton-hire-scheme-launching
 category: news
 date: 2018-03-17 08:55:14
+image: "/assets/images/2018/brompton-bike-locker-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/brompton-bike-locker.jpg" title="Click for a larger image"><img src="/assets/images/2018/brompton-bike-locker-thumb.jpg" width="150" alt="Image - brompton-bike-locker"  class="photo right"/></a>
-
     Commuters in Richmond upon Thames will have more options available to them following the installation of a Brompton Bicycle Rack outside one of the borough's busiest train stations.
 
 ---

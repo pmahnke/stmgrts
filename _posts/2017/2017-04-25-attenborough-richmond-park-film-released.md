@@ -5,9 +5,8 @@ permalink: /archives/2017/04/attenborough-richmond-park-film-released.html
 commentfile: 2017-04-25-attenborough-richmond-park-film-released
 category: news
 date: 2017-04-25 13:00:00
+image: "/assets/images/2017/david-attenborough-film1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/david-attenborough-film1.jpg" title="Click for a larger image"><img src="/assets/images/2017/david-attenborough-film1-thumb.jpg" width="150" alt="Image - david-attenborough-film1"  class="photo right"/></a>
-
     David Attenborough's new film calls for visitors to help protect Richmond Park's wildlife First TV broadcast on London Live 26<sup>th</sup> April
 
     Richmond Park - National Nature Reserve is a new film presented and narrated by broadcaster Sir David Attenborough and commissioned by conservation charity Friends of Richmond Park.

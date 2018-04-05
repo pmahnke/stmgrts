@@ -5,9 +5,8 @@ permalink: /archives/2014/02/cricket_on_thames.html
 commentfile: 2014-02-27-cricket_on_thames
 category: around_town
 date: 2014-02-27 22:22:44
+image: "/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/CRICKET_richmond_half_tide_lock.jpg" title="See larger version of - Richmond half tide lock"><img src="/assets/images/2014/CRICKET_richmond_half_tide_lock_thumb.jpg" width="150" height="104" alt="Richmond half tide lock" class="photo right" /></a>
-    
     When the old London Bridge was demolished in 1832, with its 19 cramped piers and protective palisades, it resulted in the tides on the Thames rising and falling far more rapidly than they had done before. With the old bridge no longer holding the river back water levels at Teddington dropped by 30 inches. The river flowing through Twickenham and Richmond became a stream running between mud banks. For much of the time the upper river was unnavigable by anything but the smallest craft.
 
 ---

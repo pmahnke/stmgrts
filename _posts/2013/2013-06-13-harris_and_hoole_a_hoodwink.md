@@ -5,9 +5,8 @@ permalink: /archives/2013/06/harris_and_hoole_a_hoodwink.html
 commentfile: 2013-06-13-harris_and_hoole_a_hoodwink
 category: around_town
 date: 2013-06-13 22:15:01
+image: "/assets/images/2013/H+H_Harris_+_Hoole_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/H+H_Harris_+_Hoole.jpg" title="See larger version of - Harris + Hoole"><img src="/assets/images/2013/H+H_Harris_+_Hoole_thumb.jpg" width="150" height="112" alt="Harris + Hoole" class="photo right" /></a>
-
     Given the choice I'd rather have a shop where I could buy a gallon of paraffin, a box of chisels and a bucket of whitewash but it is not to be. Despite being told otherwise St Margarets is about to get itself another coffee house. How many does that make it so far? 10?
 
     The old Superdrug store, once tastefully wrapped up in brown paper, is about to become a trendy watering hole called 'Harris and Hoole' serving what the owners describe as... "fantastic tasting, professionally crafted, speciality grade, directly sourced coffee" to 'happy people'! Unfortunately some of the people in St Margarets are not happy at all.

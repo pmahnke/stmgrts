@@ -5,9 +5,8 @@ permalink: /archives/2017/02/age-uk-richmond-doorstep-safety-packs.html
 commentfile: 2017-02-18-age-uk-richmond-doorstep-safety-packs
 category: news
 date: 2017-02-18 12:47:54
+image: "/assets/images/2017/age-richmond-doorstep-safety-thumb.gif"
 excerpt: |
-    <a href="/assets/images/2017/age-richmond-doorstep-safety.gif" title="Click for a larger image"><img src="/assets/images/2017/age-richmond-doorstep-safety-thumb.gif" width="150" alt="Image - age-richmond-doorstep-safety"  class="photo right"/></a>
-
     Age UK Richmond upon Thames are working in partnership with the Safer Neighbourhood Team and Trading Standards to help keep you safer from doorstep crime.  We want to give you the confidence to say 'no' to cold calling traders on your doorstep.  We've put together a Doorstep Safety Pack which contains anti-cold caller door stickers to deter rogue callers and to remind you if unsure, don't open the door.
 
     We are also offering free supply and fitting of a range of doorstep security devices.

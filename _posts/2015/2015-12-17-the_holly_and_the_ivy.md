@@ -5,9 +5,8 @@ permalink: /archives/2015/12/the_holly_and_the_ivy.html
 commentfile: 2015-12-17-the_holly_and_the_ivy
 category: around_town
 date: 2015-12-17 21:21:08
+image: "/assets/images/2015/HOLLYIVY_Pope-Gregory-I_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HOLLYIVY_Pope-Gregory-I.jpg" title="See larger version of - Pope Gregory I"><img src="/assets/images/2015/HOLLYIVY_Pope-Gregory-I_thumb.jpg" width="150" height="150" alt="Pope Gregory I" class="photo right" /></a>
-    
     Our modern Christmas celebrations sit firmly on the shoulders of earlier pagan midwinter festivals like Yule and Saturnalia and many of their beliefs and practises remain with us to this day. In fact so popular were many of these pre-Christian customs that in the late 6<sup>th</sup> century Pope Gregory 1 wrote to Augustine of Canterbury advising him to permit and even encourage their continuing use if they were "pleasing to the Almighty"...
     
 

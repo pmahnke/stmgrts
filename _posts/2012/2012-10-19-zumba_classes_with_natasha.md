@@ -5,9 +5,8 @@ permalink: /archives/2012/10/zumba_classes_with_natasha.html
 commentfile: 2012-10-19-zumba_classes_with_natasha
 category: around_town
 date: 2012-10-19 13:25:15
+image: "/assets/images/2012/Zumba-with-Natasha_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Zumba-with-Natasha.jpg" title="See larger version of - Zumba with Natasha"><img src="/assets/images/2012/Zumba-with-Natasha_thumb.jpg" width="150" height="109" alt="Zumba with Natasha" class="photo right" /></a>
-    
     Feel the music and let loose!
     
     Whatever your inspiration... the need to get fit, weight loss, or just to have some fun!  Join the party & move to some great Latin inspired music!

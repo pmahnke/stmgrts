@@ -5,9 +5,8 @@ permalink: /archives/2018/03/delivery-robots-in-richmond.html
 commentfile: 2018-03-17-delivery-robots-in-richmond
 category: news
 date: 2018-03-14 08:42:14
+image: "/assets/images/2018/self-driving-robot-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/self-driving-robot.jpg" title="Click for a larger image"><img src="/assets/images/2018/self-driving-robot-thumb.jpg" width="150" alt="Image - self-driving-robot"  class="photo right"/></a>
-
     A fleet of self-driving robots will be trialled across the borough - aimed at reducing carbon emissions and delivery costs.
 
     Richmond Council has agreed that Starship Technologies can pilot their latest innovation, a self-driving delivery robot, on the borough's highway network.

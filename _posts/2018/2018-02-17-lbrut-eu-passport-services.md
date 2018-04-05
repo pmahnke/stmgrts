@@ -5,9 +5,8 @@ permalink: /archives/2018/02/lbrut-eu-passport-services.html
 commentfile: 2018-02-17-lbrut-eu-passport-services
 category: news
 date: 2018-02-17 11:40:24
+image: "/assets/images/2018/lbrut-passport-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/lbrut-passport.jpg" title="Click for a larger image"><img src="/assets/images/2018/lbrut-passport-thumb.jpg" width="150" alt="Image - lbrut-passport"  class="photo right"/></a>
-
 
     European nationals living in Richmond upon Thames are now able to use a new Passport Return Service available at the Council's register office.
 

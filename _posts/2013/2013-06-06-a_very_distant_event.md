@@ -5,9 +5,8 @@ permalink: /archives/2013/06/a_very_distant_event.html
 commentfile: 2013-06-06-a_very_distant_event
 category: around_town
 date: 2013-06-06 21:57:25
+image: "/assets/images/2013/CORONATION_cecil_beaton_portrait_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/CORONATION_cecil_beaton_portrait.jpg" title="See larger version of - cecil beaton portrait"><img src="/assets/images/2013/CORONATION_cecil_beaton_portrait_thumb.jpg" width="150" height="142" alt="cecil beaton portrait" class="photo right" /></a>
-    
     
     bq. "You would have to be around the age of 65 or over to remember the Coronation of Queen Elizabeth II, which took place 60 years ago tomorrow. That means that five out of six people in this country have no direct memory of any kind of the Coronation, while an even smaller proportion have anything like a detailed recall of what is now a very distant event."
     

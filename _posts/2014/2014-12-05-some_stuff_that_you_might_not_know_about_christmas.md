@@ -5,9 +5,8 @@ permalink: /archives/2014/12/some_stuff_that_you_might_not_know_about_christmas.
 commentfile: 2014-12-05-some_stuff_that_you_might_not_know_about_christmas
 category: around_town
 date: 2014-12-05 09:09:11
+image: "/assets/images/2014/KNOWXMAS_Mr_and_MrsSantaClaus_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/KNOWXMAS_Mr_and_MrsSantaClaus.jpg" title="See larger version of - Mr and Mrs Santa Claus"><img src="/assets/images/2014/KNOWXMAS_Mr_and_MrsSantaClaus_thumb.jpg" width="150" height="236" alt="Mr and Mrs Santa Claus" class="photo right" /></a>
-    
     Tongue tied at the Staff Party? Unable to respond when the kids say they're bored? Want to impress that certain passenger on the 8.15am from St Margarets? Why not astound everyone with your esoteric knowledge of Christmas trivia? Guaranteed to break the ice at parties!
     
 

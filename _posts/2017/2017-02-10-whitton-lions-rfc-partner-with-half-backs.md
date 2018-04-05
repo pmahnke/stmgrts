@@ -5,9 +5,8 @@ permalink: /archives/2017/02/whitton-lions-rfc-partner-with-half-backs.html
 commentfile: 2017-02-10-whitton-lions-rfc-partner-with-half-backs
 category: around_town
 date: 2017-02-10 18:34:46
+image: "/assets/images/2017/half_backs_flyer-whitton-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/half_backs_flyer-whitton-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/half_backs_flyer-whitton-2017-thumb.jpg" width="150" alt="Image - half_backs_flyer-whitton-2017"  class="photo right"/></a>
-
     Half Backs Rugby are starting new classes on the 18 February 2017 working in partnership with Whitton Lions RFC. Brining rugby for 2 to 6 year olds a stones throw away from the home of rugby, Twickenham Stadium.
 
 ---

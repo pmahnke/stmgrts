@@ -5,9 +5,8 @@ permalink: /archives/2017/04/belgian-wwi-memorial-commemorated.html
 commentfile: 2017-04-01-belgian-wwi-memorial-commemoration
 category: news
 date: 2017-04-01 07:12:56
+image: "/assets/images/2017/BELGIANTWICK_belgian-workers-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/BELGIANTWICK_belgian-workers.jpg" title="Click for a larger image"><img src="/assets/images/2017/BELGIANTWICK_belgian-workers-thumb.jpg" width="150" alt="Image - BELGIANTWICK_belgian-workers"  class="photo right"/></a>
-
     The legendary historical moments, stories and tales of the 6,000 First World War refugees who made <em>'The Belgian Village on the Thames'</em> were commemorated when the Belgian Ambassador unveiled a piece of public artwork and information boards at the centre of where they once lived.
 ---
 

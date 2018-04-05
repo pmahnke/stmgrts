@@ -5,9 +5,8 @@ permalink: /archives/2013/07/event_reminder_teddington_antlers_open_training_se.
 commentfile: 2013-07-31-event_reminder_teddington_antlers_open_training_se
 category: around_town
 date: 2013-07-31 21:23:59
+image: "/assets/images/2013/teddington_antlers_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/teddington_antlers.jpg" title="See larger version of - teddington antlers"><img src="/assets/images/2013/teddington_antlers_thumb.jpg" width="150" height="150" alt="teddington antlers" class="photo right" /></a>
-    
     
     Teddington Antlers invite you to come and give rugby a try at Bushy Park, Teddington on <a href="https://stmargarets.london/event/event/200705144042">Sunday August 11<sup>th</sup> from 11am!</a>
     

@@ -5,9 +5,8 @@ permalink: /archives/2013/09/the_rise_and_fall_and_rise_again_of_the_coffee_hou.
 commentfile: 2013-09-26-the_rise_and_fall_and_rise_again_of_the_coffee_hou
 category: around_town
 date: 2013-09-26 22:05:34
+image: "/assets/images/2013/COFFEE_St_Johns_Coffee_House_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/COFFEE_St_Johns_Coffee_House.jpg" title="See larger version of - Hogarth St Johns Coffee House"><img src="/assets/images/2013/COFFEE_St_Johns_Coffee_House_thumb.jpg" width="150" height="111" alt="Hogarth St Johns Coffee House" class="photo right" /></a>
-    
     I decided to step out and count the number of coffee outlets we have in St Margarets. I started my census at the little "Expresso" kiosk down by the roundabout - <em>"one"</em> - but by the time I reached the coffee shop on St Margarets Station - <em>"five"</em> - and faced with the prospect of at least seven more to come I gave up... so much coffee, so little time.
     
 

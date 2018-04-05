@@ -5,9 +5,8 @@ permalink: /archives/2014/06/the_dday_dodgers.html
 commentfile: 2014-06-12-the_dday_dodgers
 category: around_town
 date: 2014-06-12 23:21:58
+image: "/assets/images/2014/DDDOGERS_Anzio_landings_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/DDDOGERS_Anzio_landings.jpg" title="See larger version of - Anzio landings"><img src="/assets/images/2014/DDDOGERS_Anzio_landings_thumb.jpg" width="150" height="145" alt="Anzio landings" class="photo right" /></a>
-
 
     On the 6<sup>th</sup> June 1944, as units of the British 2<sup>nd</sup> Army and their allies stormed ashore on the beaches of Normandy, men of the British 8<sup>th</sup> Army, the Desert Rats, and their U.S allies were liberating Rome. One campaign is remembered and honoured to this day. The other is forgotten.
 

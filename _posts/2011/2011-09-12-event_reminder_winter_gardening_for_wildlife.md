@@ -5,9 +5,8 @@ permalink: /archives/2011/09/event_reminder_winter_gardening_for_wildlife.html
 commentfile: 2011-09-12-event_reminder_winter_gardening_for_wildlife
 category: around_town
 date: 2011-09-12 13:48:22
+image: "/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Winter-Gardening-for-Wildli.jpg" title="See larger version of - Winter Gardening for Wildlife poster"><img src="/assets/images/2011/Winter-Gardening-for-Wildli_thumb.jpg" width="150" height="212" alt="Winter Gardening for Wildlife poster" class="photo right" /></a>
-
     <a href="https://stmargarets.london/event/event/200705142931">_2pm Sunday, 9 October at Kew Gardens_</a>
 
     This afternoon of short talks and question sessions at Kew will offer practical advice about the things you can do now to help birds and other small creatures in your garden. There will also be the opportunity to take part in a new survey of local garden biodiversity.

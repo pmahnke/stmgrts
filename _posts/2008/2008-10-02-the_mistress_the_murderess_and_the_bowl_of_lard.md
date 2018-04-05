@@ -5,8 +5,8 @@ permalink: /archives/2008/10/the_mistress_the_murderess_and_the_bowl_of_lard.htm
 commentfile: 2008-10-02-the_mistress_the_murderess_and_the_bowl_of_lard
 category: around_town
 date: 2008-10-02 23:00:05
+image: "/assets/images/2008/kate_webster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/kate_webster.jpg"><img src="/assets/images/2008/kate_webster-thumb.jpg" width="117" height="150" alt="Kate Webster" class="photo right" /></a>
     
     
     On the 13<sup>th</sup> January 1879 Mrs Julia Martha Thomas of No. 2 Vine Cottages, Park Road, on Richmond Hill, made a mistake that would cost her her life. This respectable but rather eccentric widow in her mid 50's took on a maid. Unknown to her the woman she engaged was a convicted thief, fraudster and hard nut called Kate Webster. Just out of prison, Kate had been looking for easy pickings all over the area. She threw over one position with the Mitchell family in Teddington because, as she said later, "They didn't have anything worth stealing."

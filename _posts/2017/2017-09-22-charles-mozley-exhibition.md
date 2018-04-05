@@ -5,9 +5,8 @@ permalink: /archives/2017/09/charles-mozley-exhibition.html
 commentfile: 2017-09-22-charles-mozley-exhibition
 category: around_town
 date: 2017-09-22 17:19:53
+image: "/assets/images/2017/LBRUT-mozley-gallery-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LBRUT-mozley-gallery.jpg" title="Click for a larger image"><img src="/assets/images/2017/LBRUT-mozley-gallery-thumb.jpg" width="150" alt="Image - LBRUT-mozley-gallery"  class="photo right"/></a>
-
     The Riverside Gallery at the Old Town Hall, Richmond will play host to an exhibition of work by mid-twentieth century artist Charles Mozley over the next few months.
 
     Mozley, who lived in Richmond for twenty years, was part of the English Romantic movement. During the Second World War, he worked in camouflage along with other artists, such as Edward Seago.

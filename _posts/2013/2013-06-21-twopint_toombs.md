@@ -5,9 +5,8 @@ permalink: /archives/2013/06/twopint_toombs.html
 commentfile: 2013-06-21-twopint_toombs
 category: around_town
 date: 2013-06-21 10:32:31
+image: "/assets/images/2013/TWOPINTS_264_Squadron_and_aircrew_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/TWOPINTS_264_Squadron_and_aircrew.jpg" title="See larger version of - 264 Squadron and aircrew"><img src="/assets/images/2013/TWOPINTS_264_Squadron_and_aircrew_thumb.jpg" width="150" height="108" alt="264 Squadron and aircrew" class="photo right" /></a>
-
 
     Frank Toombs was an unlikely Battle of Britain hero. He wasn't your stereotypical young and dashing Spitfire pilot holding the Luftwaffe at bay in 1940. In fact he wasn't a pilot at all and at the age of 29 he was ancient when compared with his colleagues whose average age was 20. He was modest and married and his inability to drink more than two pints of the weak wartime beer before falling off his chair earned him the affectionate scorn of his friends and the nickname 'Two-pint.'
 

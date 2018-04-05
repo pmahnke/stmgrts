@@ -5,9 +5,8 @@ permalink: /archives/2015/02/a_life_down_below.html
 commentfile: 2015-02-05-a_life_down_below
 category: around_town
 date: 2015-02-05 22:14:14
+image: "/assets/images/2015/BELOW_Uncle_Tom_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/BELOW_Uncle_Tom.jpg" title="See larger version of - Uncle Tom"><img src="/assets/images/2015/BELOW_Uncle_Tom_thumb.jpg" width="150" height="226" alt="Uncle Tom" class="photo right" /></a>
-    
     Back in those dim and distant days when public services and utilities were owned and run by the very people who used and paid for them, i.e the public, my Uncle Tom worked for Hornsey Borough Council in the Sewage Department.  Officially he was a <em>'Sanitary Worker'</em> but to the rest of us he was <em>'a flusher'</em>. When asked what that entailed he said <em>"Sorting the solids from the liquids"</em> which was enough to stop any further questions.
 
 ---

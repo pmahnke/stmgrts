@@ -5,8 +5,8 @@ permalink: /archives/2009/07/calling_all_runners_cyclists_the_london_duathlon.ht
 commentfile: 2009-07-09-calling_all_runners_cyclists_the_london_duathlon
 category: news
 date: 2009-07-09 19:06:28
+image: "/assets/images/2009/LondonDuathlonposter3-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/LondonDuathlonposter3.jpg"><img src="/assets/images/2009/LondonDuathlonposter3-thumb.jpg" width="105" height="150" alt="poster" class="photo right" /></a>
     
     
     

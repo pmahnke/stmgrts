@@ -6,9 +6,8 @@ commentfile: 2016-07-14-kilmorey-time-machine
 category: around_town
 date: 2016-07-14 09:20:59
 author: "Martyn Day"
+image: "/assets/images/2016/TIMEMACHINE_Charles-Priscilla-and-Jack_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/TIMEMACHINE_Charles-Priscilla-and-Jack.jpg" title="See larger version of - Charles Priscilla and Jack"><img src="/assets/images/2016/TIMEMACHINE_Charles-Priscilla-and-Jack_thumb.jpg" width="150" height="220" alt="Charles Priscilla and Jack" class="photo right" /></a>
-
     At the time it was an absolute scandal - a veritable cause c&#233;l&#232;bre!  He was 53, an acolyte of the occult, a peer of the realm and married with children. She was a blushing 20 year old - and his legal ward. There was much to gossip about for the antimacassar set of early Victorian society!
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2014/09/the_urban_fox.html
 commentfile: 2014-09-11-the_urban_fox
 category: around_town
 date: 2014-09-11 21:38:41
+image: "/assets/images/2014/URBAN_FOXES_-_urban_foxes_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/URBAN_FOXES_-_urban_foxes.jpg" title="See larger version of - URBAN FOXES   urban foxes"><img src="/assets/images/2014/URBAN_FOXES_-_urban_foxes_thumb.jpg" width="150" height="93" alt="URBAN FOXES   urban foxes" class="photo right" /></a>
-    
     We've all seen them, heard them and probably even smelt them too. To some they are an urban delight. To others they are a cursed nuisance. They are the Urban Fox and there is probably some living in or near your backyard right now.
     
 

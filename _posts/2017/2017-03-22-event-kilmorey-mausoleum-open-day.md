@@ -6,9 +6,8 @@ commentfile: 2017-03-22-event-kilmorey-mausoleum-open-day
 category: around_town
 author: Martyn Day
 date: 2017-03-22 20:16:24
+image: "/assets/images/2017/Kilmory_Mausoleumn-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Kilmory_Mausoleumn.jpg" title="Click for a larger image"><img src="/assets/images/2017/Kilmory_Mausoleumn-thumb.jpg" width="150" alt="Image - Kilmory_Mausoleumn"  class="photo right"/></a>
-
     Although Francis 'Black' Jack Needham, 2<sup>nd</sup> Earl of Kilmorey and his oh-so-much younger mistress Priscilla Anne have both been dead for over 130 years they are proving to be St Margarets most welcoming hosts. Once again the stylish Victorian mausoleum that they share on the St Margarets Road opposite the Ailsa Tavern will be opening to the public.
 ---
 

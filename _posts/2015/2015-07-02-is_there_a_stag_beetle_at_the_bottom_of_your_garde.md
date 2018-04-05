@@ -5,9 +5,8 @@ permalink: /archives/2015/07/is_there_a_stag_beetle_at_the_bottom_of_your_garde.
 commentfile: 2015-07-02-is_there_a_stag_beetle_at_the_bottom_of_your_garde
 category: around_town
 date: 2015-07-02 23:15:25
+image: "/assets/images/2015/STAGBEETLES_Stag-Beetle-1-_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/STAGBEETLES_Stag-Beetle-1-.jpg" title="See larger version of - Stag Beetle 1 "><img src="/assets/images/2015/STAGBEETLES_Stag-Beetle-1-_thumb.jpg" width="150" height="117" alt="Stag Beetle 1 " class="photo right" /></a>
-    
     Last Friday I was tidying up what I like to call my office - a.k.a the back bedroom - when I found, lurking in the wastepaper bin, a Stag Beetle giving me one of those <em>"What are you staring at, pal?"</em> looks. It was big - about the size of a large box of matches - and waving around a set of fearsome jaws. 
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2010/07/the_monarch_and_the_maypole.html
 commentfile: 2010-07-30-the_monarch_and_the_maypole
 category: around_town
 date: 2010-07-30 12:05:44
+image: "/assets/images/2010/monarch_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/monarch_1.jpg" title="See larger version of - Melusina von der Schulemburg"><img src="/assets/images/2010/monarch_1_thumb.jpg" width="112" height="150" alt="Melusina von der Schulemburg" class="photo right" /></a>
-    
     
     _Fun And Games At Kendal House_
     

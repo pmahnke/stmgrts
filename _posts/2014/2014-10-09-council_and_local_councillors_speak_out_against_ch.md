@@ -5,9 +5,8 @@ permalink: /archives/2014/10/council_and_local_councillors_speak_out_against_ch.
 commentfile: 2014-10-09-council_and_local_councillors_speak_out_against_ch
 category: news
 date: 2014-10-09 21:43:45
+image: "/assets/images/2014/cllr_Alexander_Ehmann_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/cllr_Alexander_Ehmann.png" title="See larger version of - Cllr Alexander Ehmann"><img src="/assets/images/2014/cllr_Alexander_Ehmann_thumb.png" width="150" height="201" alt="Cllr Alexander Ehmann" class="photo right" /></a>
-    
     It seems that neither the Local Councillors or the Richmond Council seem to want Chelsea to use Twickenham Stadium while they redevelop Stamford Bridge.  This the St Margarets Community Website  would have been willing to listen to the proposal before rejecting it out of hand; however, it doesn't look likely to even be entertained.
     
 

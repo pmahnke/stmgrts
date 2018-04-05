@@ -5,9 +5,8 @@ permalink: /archives/2011/08/event_reminder_the_summer_romance_10_september_201.
 commentfile: 2011-08-16-event_reminder_the_summer_romance_10_september_201
 category: around_town
 date: 2011-08-16 16:32:27
+image: "/assets/images/2011/Ester-Summer-Romance_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Ester-Summer-Romance.jpg" title="See larger version of - Download the poster"><img src="/assets/images/2011/Ester-Summer-Romance_thumb.jpg" width="150" height="216" alt="Download the poster" class="photo right" /></a>
-    
     On <a href="https://stmargarets.london/event/concert/200705142985">10<sup>th</sup> September 2011 at 7:30pm at the Duke Street Baptist Church in Richmond</a> there will be a classic concert by a young Czech opera singer who lives at St Margarets.  The _Summer Romance_ has Ester Svandova singing and Chris Huntley accompanying her on the piano in the evening full of romantic music including Schubert, Dvorak, Smetana and also Bellini, Rossini and Mozart arias.
 
 ---

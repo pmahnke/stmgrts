@@ -5,9 +5,8 @@ permalink: /archives/2012/02/st_valentines_day.html
 commentfile: 2012-02-16-st_valentines_day
 category: around_town
 date: 2012-02-16 21:27:21
+image: "/assets/images/2012/VALENTINE_St-Valentine_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/VALENTINE_St-Valentine.jpg" title="See larger version of - St Valentine"><img src="/assets/images/2012/VALENTINE_St-Valentine_thumb.jpg" width="150" height="193" alt="St Valentine" class="photo right" /></a>
-    
     Last Tuesday, the 14<sup>th</sup> February, was St Valentine's Day when lovers who remember will exchange gifts and romantic cards plighting their troth etc etc and lovers who don't will exchange apologies and excuses.
     
     There were lots of Saint Valentines - 14 according to some sources and all martyred!- but most authorities, including the Catholic Church, have settled on Valentinus who lived in Rome around 200 AD as the saint behind the annual  smooching. This was a period in Roman history when Christians faced relentless persecution and Valentinus was accused not only of being a Christian, but of helping other Christians to escape and marrying Christian couples. This last activity particularly upset the Emperor Claudius. He was trying to raise an army and believing that married men made bad soldiers he had banned marriage... and here was Valentinus secretly marrying people. Mistake No. 1.

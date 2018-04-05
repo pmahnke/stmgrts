@@ -5,9 +5,8 @@ permalink: /archives/2017/11/globeifa-wins-award.html
 commentfile: 2017-11-18-globeifa-wins-award
 category: news
 date: 2017-11-18 06:12:50
+image: "/assets/images/2017/globeifa-award-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/globeifa-award.jpg" title="Click for a larger image"><img src="/assets/images/2017/globeifa-award-thumb.jpg" width="150" alt="Image - globeifa-award"  class="photo right"/></a>
-
     St Margarets based firm, Globe Independent Financial Advisors, are proud to announce they received an award in the highly prestigious National 'Investment Life & Pensions Moneyfacts Awards 2017'.
 
 ---

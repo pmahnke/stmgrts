@@ -6,9 +6,8 @@ commentfile: 2017-11-30-christmas-carols
 category: around_town
 author: Martyn Day
 date: 2017-11-30 19:42:56
+image: "/assets/images/2017/CAROLS_christmas-carol-singers-with-candles-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/CAROLS_christmas-carol-singers-with-candles.jpg" title="Click for a larger image"><img src="/assets/images/2017/CAROLS_christmas-carol-singers-with-candles-thumb.jpg" width="150" alt="Image - CAROLS_christmas-carol-singers-with-candles"  class="photo right"/></a>
-
     There is much grumbling to be heard around Christmas time - about how prices of everything seem to be going up along with children's expectations, about tedious relations falling asleep on the sofa and the mountain of food that has to be prepared to feed them, about unwanted presents that we try to look delighted with and mind numbing programmes on the TV that bore us to death - but the grumble most often heard is how the entire shebang seems to be kicking off earlier and earlier... Christmas Selections in stores from October, Christmas TV ads from early November and a week or two later carol singers banging on the door demanding our charity. Unfortunately it has always been thus...
 
 

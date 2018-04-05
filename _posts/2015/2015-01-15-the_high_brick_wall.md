@@ -5,9 +5,8 @@ permalink: /archives/2015/01/the_high_brick_wall.html
 commentfile: 2015-01-15-the_high_brick_wall
 category: around_town
 date: 2015-01-15 22:48:50
+image: "/assets/images/2015/BRICK_Isleworth_House_photograph_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/BRICK_Isleworth_House_photograph.jpg" title="See larger version of - Isleworth House photograph"><img src="/assets/images/2015/BRICK_Isleworth_House_photograph_thumb.jpg" width="150" height="93" alt="Isleworth House photograph" class="photo right" /></a>
-    
     If 200 years ago you happened to be a member of the landed gentry, with a prominent position in society and a shed full of money, the world was your oyster. If you wanted to cut down a few ancient trees to improve the view or move a main road because it got in the way you just got on and did it. Such autonomy was demonstrated by Sir William Cooper, the Chaplain-in-ordinary to King George 3<sup>rd</sup>. He lived in Isleworth House which still stands hidden behind a high brick wall and scaffolding on the A3004 road from St Margarets to Old Isleworth.
 
 ---

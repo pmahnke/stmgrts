@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-golden-thread.html
 commentfile: 2016-04-16-event-golden-thread
 category: around_town
 date: 2016-04-16 08:56:57
+image: "/assets/images/2016/E--SHOWCASE-WEEKEND-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/E--SHOWCASE-WEEKEND-poster.jpg" title="See larger version of - E  SHOWCASE WEEKEND poster"><img src="/assets/images/2016/E--SHOWCASE-WEEKEND-poster_thumb.jpg" width="150" height="212" alt="E  SHOWCASE WEEKEND poster" class="photo right" /></a>
-
     The Golden Thread exhibition includes exhibits from a wide range of arts and cultural organisations affiliated to Arts Richmond in an exuberant celebration of the wealth of the arts of all kinds in the borough.
 ---
 

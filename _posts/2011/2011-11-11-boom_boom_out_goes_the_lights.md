@@ -5,9 +5,8 @@ permalink: /archives/2011/11/boom_boom_out_goes_the_lights.html
 commentfile: 2011-11-11-boom_boom_out_goes_the_lights
 category: around_town
 date: 2011-11-11 09:52:01
+image: "/assets/images/2011/power-cut-dinner_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/power-cut-dinner.jpg" title="See larger version of - power cut dinner"><img src="/assets/images/2011/power-cut-dinner_thumb.jpg" width="150" height="112" alt="power cut dinner" class="photo right" /></a>
-    
     Last week the power failed twice in St Margarets. The first time was just before noon on Wednesday, 26<sup>th</sup> October. The radio fell silent, the fridge stopped humming and the computer rolled over and died. After a few of minutes of confused scrabbling around on the phone I finally found a nice pre-recorded woman who told me that Twickenham, Brentford and Isleworth were experiencing "a power outage" and not to worry too much about the food in the freezer. _"Normal service will be resumed in two to three hours"_, she said - and it was. It was announced later that the "outage" was caused by equipment failure.
     
 

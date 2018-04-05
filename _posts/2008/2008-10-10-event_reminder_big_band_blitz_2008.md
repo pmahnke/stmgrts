@@ -5,8 +5,8 @@ permalink: /archives/2008/10/event_reminder_big_band_blitz_2008.html
 commentfile: 2008-10-10-event_reminder_big_band_blitz_2008
 category: around_town
 date: 2008-10-10 22:14:36
+image: "/assets/images/2008/BigBandBlitz-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/BigBandBlitz.jpg"><img src="/assets/images/2008/BigBandBlitz-thumb.jpg" width="150" height="99" alt="Big Band Blitz 2008" class="photo right" /></a>
     
     
     

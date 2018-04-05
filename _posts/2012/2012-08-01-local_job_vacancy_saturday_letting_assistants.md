@@ -5,8 +5,8 @@ permalink: /archives/2012/08/local_job_vacancy_saturday_letting_assistants.html
 commentfile: 2012-08-01-local_job_vacancy_saturday_letting_assistants
 category: around_town
 date: 2012-08-01 21:46:24
+image: "/assets/images/directory/201009030936_Fitz-Gibbon_mystm.png"
 excerpt: |
-    <img src="/assets/images/directory/201009030936_Fitz-Gibbon_mystm.png"  class="photo right" width="150" alt="fitzgibbon" />
 
     <div markdown="1" class="box">
     THIS POSITION HAS NOW BEEN FILLED

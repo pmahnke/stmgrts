@@ -5,9 +5,8 @@ permalink: /archives/2011/10/7_january_1928_the_day_that_st_margarets_flooded.ht
 commentfile: 2011-10-27-7_january_1928_the_day_that_st_margarets_flooded
 category: around_town
 date: 2011-10-27 22:35:02
+image: "/assets/images/2011/FLOOD_Kew-Green_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/FLOOD_Kew-Green.jpg" title="See larger version of - Kew Green"><img src="/assets/images/2011/FLOOD_Kew-Green_thumb.jpg" width="150" height="85" alt="Kew Green" class="photo right" /></a>
-
     The warning signs were in the local newspapers for all to see...
 
     * "Kew Garden sustained greater damage by the recent frost and snowfall than had been experienced for 40 years"

@@ -5,9 +5,8 @@ permalink: /archives/2015/09/remember_remember_the_fifth_of_september.html
 commentfile: 2015-09-03-remember_remember_the_fifth_of_september
 category: around_town
 date: 2015-09-03 22:35:26
+image: "/assets/images/2015/GASS_Poster_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/GASS_Poster_2015.jpg" title="See larger version of - GASS Poster 2015"><img src="/assets/images/2015/GASS_Poster_2015_thumb.jpg" width="150" height="212" alt="GASS Poster 2015" class="photo right" /></a>
-    
     
     _Grand Annual Street Sale - Saturday 5<sup>th</sup> September 2015_
     

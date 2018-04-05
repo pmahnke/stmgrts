@@ -5,9 +5,8 @@ permalink: /archives/2016/01/2016-01-05-st-margarets-rd-gas-repairs.html
 commentfile: 2016-01-05-st-margarets-rd-gas-repairs
 category: news
 date: 2016-01-05 20:21:58
+image: "/assets/images/2016/natgridworks_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/natgridworks_2015.jpg" title="See larger version of - natgridworks 2015"><img src="/assets/images/2016/natgridworks_2015_thumb.jpg" width="150" height="143" alt="natgridworks 2015" class="photo right" /></a>
-
     National Grid mains repairs will disrupt buses, parking and traffic for two months on St Margarets Road.  Starting on 18 January from The Barrons to the A316 followed by works from the A316 to Netherton Road.
 ---
 

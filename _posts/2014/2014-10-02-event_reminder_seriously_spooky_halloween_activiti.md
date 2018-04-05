@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_seriously_spooky_halloween_activiti.
 commentfile: 2014-10-02-event_reminder_seriously_spooky_halloween_activiti
 category: around_town
 date: 2014-10-02 22:09:34
+image: "/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill.jpg" title="See larger version of - Taking part in Halloween activities at Strawberry Hill"><img src="/assets/images/2014/Taking_part_in_Halloween_activities_at_Strawberry_Hill_thumb.jpg" width="150" height="112" alt="Taking part in Halloween activities at Strawberry Hill" class="photo right" /></a>
-    
     Horace Walpole's castle in Twickenham, Middlesex will be the scene for a week of seriously spooky Halloween activities for children and adults from 25 October to 31 October 2014.
 
 ---

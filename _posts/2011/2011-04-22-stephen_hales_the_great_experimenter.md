@@ -5,9 +5,8 @@ permalink: /archives/2011/04/stephen_hales_the_great_experimenter.html
 commentfile: 2011-04-22-stephen_hales_the_great_experimenter
 category: around_town
 date: 2011-04-22 12:07:19
+image: "/assets/images/2011/HALES_Hales_Stephen_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/HALES_Hales_Stephen.jpg" title="See larger version of - Stephen Hales"><img src="/assets/images/2011/HALES_Hales_Stephen_thumb.jpg" width="150" height="180" alt="Stephen Hales" class="photo right" /></a>
-    
     Just inside the bell tower of the church of St Mary with St Alban in Teddington is a small plaque commemorating Revd. Stephen Hales DD FRS "Minister of this parish fifty one years". It is a modest memorial for a modest man who was a dedicated cleric, a social reformer, a philanthropist and one of the greatest scientists of his time.
     
     

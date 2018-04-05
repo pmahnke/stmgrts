@@ -5,9 +5,8 @@ permalink: /archives/2010/09/spring_heeled_jack.html
 commentfile: 2010-09-30-spring_heeled_jack
 category: around_town
 date: 2010-09-30 10:29:08
+image: "/assets/images/2010/springheeled-jack_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/springheeled-jack.jpg" title="See larger version of - Springheeled Jack"><img src="/assets/images/2010/springheeled-jack_thumb.jpg" width="98" height="150" alt="Springheeled Jack" class="photo right" /></a>
-    
     
     A group of girls crossing Barnes Common reported that a man dressed in a dark cloak vaulted the railings surrounding the churchyard, tore at their clothing then ran off laughing. Similar assaults took place the following month on Clapham Common. This time the cloaked assailant left footprints showing "machines or springs" built into his shoes. On October 11<sup>th</sup> a barmaid was assaulted at Blackheath Fair by a man with 'fiery eyes who spat blues flames and smelt of sulphur'. He too ripped at her clothes with what felt like iron claws then ran off laughing. The barmaid said that "he looked like a nobleman".
     

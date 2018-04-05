@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_the_real_thomas_cromwell_20_october.
 commentfile: 2014-10-02-event_reminder_the_real_thomas_cromwell_20_october
 category: around_town
 date: 2014-10-02 22:34:10
+image: "/assets/images/2014/Poster-Tracy-Borman_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Poster-Tracy-Borman.jpg" title="See larger version of - Poster Tracy Borman"><img src="/assets/images/2014/Poster-Tracy-Borman_thumb.jpg" width="150" height="215" alt="Poster Tracy Borman" class="photo right" /></a>
-    
     _A talk on <a href="https://stmargarets.london/event/event/200705144662">20 October 2014 at 7pm</a> is followed by a sparkling wine reception_
     
     Born in Putney a lowly tavern keeper's son, and having lived for a time in Mortlake, Cromwell rose swiftly through the ranks to become the king's right-hand man and one of the most powerful figures in Tudor history. 

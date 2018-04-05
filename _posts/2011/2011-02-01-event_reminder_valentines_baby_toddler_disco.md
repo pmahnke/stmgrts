@@ -5,9 +5,8 @@ permalink: /archives/2011/02/event_reminder_valentines_baby_toddler_disco.html
 commentfile: 2011-02-01-event_reminder_valentines_baby_toddler_disco
 category: around_town
 date: 2011-02-01 22:16:47
+image: "/assets/images/2011/jolly-julie_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/jolly-julie.jpg" title="See larger version of - Jolly Julie"><img src="/assets/images/2011/jolly-julie_thumb.jpg" width="150" height="167" alt="Jolly Julie" class="photo right" /></a>
-    
     On <a href="https://stmargarets.london/event/party/200705142658">Friday 11<sup>th</sup> February, For Sanity's Sake are hosting a Valentine's Baby & Toddler Disco</a> Professional kids entertainer and owner of Krafty Kidz, Jolly Julie, is putting on the show with dancing, light shows, bubbles, lazers and, for the toddlers, animal balloons.
     
     It will be held at The Garryowen Pub, 68 London Road, Twickenham TW1 3QS.

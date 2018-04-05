@@ -5,9 +5,8 @@ permalink: /archives/2015/12/desiderata-or-desired-things.html
 commentfile: 2015-12-30-desiderata-or-desired-things
 category: around_town
 date: 2015-12-30 11:14:16
+image: "/assets/images/2015/DESIDERATA_tennis-girl-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/DESIDERATA_tennis-girl-poster.jpg" title="See larger version of - tennis girl poster"><img src="/assets/images/2015/DESIDERATA_tennis-girl-poster_thumb.jpg" width="150" height="224" alt="tennis girl poster" class="photo right" /></a>
-
     Despite what you might have read about  the <em>'Swinging 60'</em>s' - 'free love', <em>'Camberwell carrots'</em>, <em>'Sergeant Pepper'</em> and so on - young people at the time weren't just interested in sex, drugs and rock <em>'n'</em> roll. For all their long hair, bra burning and <em>"Peace and Love"</em> other things were also grabbing their attention like eastern mysticism, equal rights, the environment and macrobiotic diets and there were plenty of books and poetry around to support their curiosity.
 ---
 

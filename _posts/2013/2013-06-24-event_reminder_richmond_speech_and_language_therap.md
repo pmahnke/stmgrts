@@ -5,9 +5,8 @@ permalink: /archives/2013/06/event_reminder_richmond_speech_and_language_therap.
 commentfile: 2013-06-24-event_reminder_richmond_speech_and_language_therap
 category: around_town
 date: 2013-06-24 21:45:23
+image: "/assets/images/2013/SLT-Launch-Flyer-20130703_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/SLT-Launch-Flyer-20130703.jpg" title="See larger version of - SLT Launch Flyer 20130703"><img src="/assets/images/2013/SLT-Launch-Flyer-20130703_thumb.jpg" width="150" height="212" alt="SLT Launch Flyer 20130703" class="photo right" /></a>
-    
     Richmond Speech and Language Therapy Service are holding <a href="https://stmargarets.london/event/event/200705144027">an open-day event on Wednesday 3 July</a> for parents, children and professionals to drop-in and find out more about the services the team provides.
 
 ---

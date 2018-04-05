@@ -5,9 +5,8 @@ permalink: /archives/2013/09/event_reminder_great_annual_street_sale_14_septemb.
 commentfile: 2013-09-05-event_reminder_great_annual_street_sale_14_septemb
 category: around_town
 date: 2013-09-05 22:57:22
+image: "/assets/images/2013/GASS_2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/GASS_2012.jpg" title="See larger version of - GASS 2012"><img src="/assets/images/2013/GASS_2012_thumb.jpg" width="150" height="103" alt="GASS 2012" class="photo right" /></a>
-
     _It's a Guaranteed GASS!_
 
     There are times when the stuff that we accumulate around ourselves threatens to take over our lives. Shelves groan under the weight of unread books and record racks creak with unplayed CDs. Cupboards are stuffed with things that we don't even know we had and wardrobes are hung with clothes that went out of fashion when David Bowie abandoned the 3 inch stack heel for lounge suits. What can we do about it all? There are 3 possible solutions:

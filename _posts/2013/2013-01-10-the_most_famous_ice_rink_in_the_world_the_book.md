@@ -5,9 +5,8 @@ permalink: /archives/2013/01/the_most_famous_ice_rink_in_the_world_the_book.html
 commentfile: 2013-01-10-the_most_famous_ice_rink_in_the_world_the_book
 category: news
 date: 2013-01-10 21:06:10
+image: "/assets/images/2013/medIce_Rink_1.jpg"
 excerpt: |
-    <a href="http://www.twickenham-museum.org.uk/detail.asp?ContentID=336"><img src="/assets/images/2013/medIce_Rink_1.jpg" width="150"  class="photo right" alt="Ice rink from Twickenham museum" /></a>
-    
     Richmond's iconic and much-missed Ice Rink may be long gone, but as we are discovering, it is certainly by no means forgotten. The riverside pleasure dome played such a central part in the lives of so many local people down the years, that even 20 years after it was controversially closed, a warm place is reserved in the hearts of many for the icy relic.
 
 ---

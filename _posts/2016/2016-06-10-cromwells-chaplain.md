@@ -5,9 +5,8 @@ permalink: /archives/2016/06/cromwells-chaplain.html
 commentfile: 2016-06-10-cromwells-chaplain
 category: around_town
 date: 2016-06-10 16:57:54
+image: "/assets/images/2016/FRANCESCROMWELL_Jeremiah_White_Chaplain_to_Cromwell_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/FRANCESCROMWELL_Jeremiah_White_Chaplain_to_Cromwell.jpg" title="See larger version of - Jeremiah White Chaplain to Cromwell"><img src="/assets/images/2016/FRANCESCROMWELL_Jeremiah_White_Chaplain_to_Cromwell_thumb.jpg" width="150"  alt="Jeremiah White Chaplain to Cromwell" class="photo right" /></a>
-
     Although his portrait suggests that Jeremiah White was not much to look at it does appear that an attractive personality and witty conversation made him popular, especially with the ladies.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/06/the_volunteerss_diary.html
 commentfile: 2015-06-11-the_volunteerss_diary
 category: around_town
 date: 2015-06-11 21:00:08
+image: "/assets/images/2015/VOLUNTEERS_2015-Volunteer-Week-Thank-You_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/VOLUNTEERS_2015-Volunteer-Week-Thank-You.jpg" title="See larger version of - 2015 Volunteer Week Thank You"><img src="/assets/images/2015/VOLUNTEERS_2015-Volunteer-Week-Thank-You_thumb.jpg" width="150" height="82" alt="2015 Volunteer Week Thank You" class="photo right" /></a>
-    
     Last week, 1<sup>st</sup> - 7<sup>th</sup> June 2015, was Volunteer Week, an annual and nationwide celebration of the extraordinary contribution millions of volunteers make to our lives. To mark the event here is a brief record of what the volunteers who run the 1<sup>st</sup> St Margarets Cub Pack got up to during that period...
 
 ---

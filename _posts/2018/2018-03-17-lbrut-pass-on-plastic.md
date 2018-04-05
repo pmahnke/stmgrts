@@ -5,9 +5,8 @@ permalink: /archives/2018/03/lbrut-pass-on-plastic.html
 commentfile: 2018-03-17-lbrut-pass-on-plastic
 category: news
 date: 2018-03-17 08:34:13
+image: "/assets/images/2018/lbrut-pass-on-plastic-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/lbrut-pass-on-plastic.jpg" title="Click for a larger image"><img src="/assets/images/2018/lbrut-pass-on-plastic-thumb.jpg" width="150" alt="Image - lbrut-pass-on-plastic"  class="photo right"/></a>
-
     Richmond upon Thames' residents and businesses are being encouraged to pass on using plastics to help preserve the borough's beautiful environment.
 
     Every year in London we use 2.3 tonnes of plastic packaging, 13 billion plastic bottles, and 2.5 billion coffee cups. Meanwhile, a staggering 1 million plastic straws are used every day. This has to change.

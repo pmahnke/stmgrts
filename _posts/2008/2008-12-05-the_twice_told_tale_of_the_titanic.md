@@ -5,10 +5,8 @@ permalink: /archives/2008/12/the_twice_told_tale_of_the_titanic.html
 commentfile: 2008-12-05-the_twice_told_tale_of_the_titanic
 category: around_town
 date: 2008-12-05 10:33:32
+image: "/assets/images/2008/charles_lightoller-thumb.jpg" 
 excerpt: |
-    <div markdown="1" class="img_caption right"><a href="/assets/images/2008/charles_lightoller.jpg"><img src="/assets/images/2008/charles_lightoller-thumb.jpg" width="102" height="150" alt="CHARLES LIGHTOLLER" class="photo"/></a>
-    <span>CHARLES LIGHTOLLER</span></div>
-    
     Anyone who has wandered down Ducks Walk in recent times will have seen the blue plaque commemorating the life of Charles Herbert Lightoller who once lived there. Lightoller was born in 1874 and went to sea when he was only 13. In 1912, after many adventures at sea, he was appointed Second Officer aboard the 'Titanic', the White Star Line's new and 'virtually unsinkable' ship on its ill-fated maiden voyage from Southampton to New York.
     
 

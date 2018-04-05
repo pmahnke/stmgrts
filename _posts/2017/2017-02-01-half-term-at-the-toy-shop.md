@@ -5,9 +5,8 @@ permalink: /archives/2017/02/half-term-at-the-toy-shop.html
 commentfile: 2017-02-01-half-term-at-the-toy-shop
 category: around_town
 date: 2017-02-01 20:40:55
+image: "/assets/images/2017/TOYSHOP_Half-Term-Activities-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/TOYSHOP_Half-Term-Activities.jpg" title="Click for a larger image"><img src="/assets/images/2017/TOYSHOP_Half-Term-Activities-thumb.jpg" width="150" alt="Image - TOYSHOP_Half-Term-Activities"  class="photo right"/></a>
-
     Join us as at The Toy Shop - St Margarets and have fun creating and making, as you participate in different projects including pottery painting, bead craft and even a Lego club.
 ---
 

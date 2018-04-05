@@ -5,8 +5,8 @@ permalink: /archives/2012/11/event_reminder_twickenham_christmas_celebration_30.
 commentfile: 2012-11-27-event_reminder_twickenham_christmas_celebration_30
 category: around_town
 date: 2012-11-27 12:05:02
+image: "/assets/images/2012/Xmas-logo.jpg"
 excerpt: |
-    <img src="/assets/images/2012/Xmas-logo.jpg"  class="photo right" alt="logo" width="150" />
 
     You are invited to the *Twickenham Christmas Celebration* on <a href="https://stmargarets.london/event/fair/200705143696">30 November 2012 in the the Diamond Jubilee Gardens</a> from 2 to 8.30pm.  There will be loads of children's activities, food, music and more...
 

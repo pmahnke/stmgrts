@@ -5,9 +5,8 @@ permalink: /archives/2012/11/the_great_benefactress.html
 commentfile: 2012-11-30-the_great_benefactress
 category: around_town
 date: 2012-11-30 12:49:42
+image: "/assets/images/2012/BENEFACTRESS_Ingrams_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BENEFACTRESS_Ingrams.jpg" title="See larger version of - Ingrams Alms house"><img src="/assets/images/2012/BENEFACTRESS_Ingrams_thumb.jpg" width="150" height="100" alt="Ingrams Alms house" class="photo right" /></a>
-
     If ever there was a growth industry in Old Isleworth it was the founding of almshouses. Over the last 400 years these small, well built, terraced cottages have provided a secure home for some of the district's most vulnerable people. The names of the almshouses:- Butler's, Bell's, Farnell's,  Ingram's, Rayment's, Tolson's and Sermon's are a reminder of the generous benefactors who bequeathed money for the benefit of the less fortunate members of their community. This is the story of one of them- <em>"a great benefactress to the parish."</em>
 
 ---

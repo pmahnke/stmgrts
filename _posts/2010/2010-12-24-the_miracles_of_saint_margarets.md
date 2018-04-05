@@ -5,9 +5,8 @@ permalink: /archives/2010/12/the_miracles_of_saint_margarets.html
 commentfile: 2010-12-24-the_miracles_of_saint_margarets
 category: around_town
 date: 2010-12-24 06:24:47
+image: "/assets/images/2010/stm_Lacy_House_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/stm_Lacy_House.jpg" title="See larger version of - Lacy House"><img src="/assets/images/2010/stm_Lacy_House_thumb.jpg" width="150" height="87" alt="Lacy House" class="photo left" /></a>
-    
     
     When Archibald Kennedy, the 1<sup>st</sup>  Marquis of Ailsa, bought Lacy House in Twickenham Park in 1830 he probably knew of its previous illustrious owners. James Lacy, co-owner of the Drury Lane Theatre, the Hon. Sir Edward Walpole, his daughter Laura who was the widow of the Bishop of Exeter, the Earl of Warwick and the playwright Richard Brinsley Sheridan had all lived there.
 

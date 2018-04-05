@@ -5,9 +5,8 @@ permalink: /archives/2011/06/summer_activities_at_orleans_house.html
 commentfile: 2011-06-30-summer_activities_at_orleans_house
 category: around_town
 date: 2011-06-30 07:03:01
+image: "/assets/images/2011/orleans_chc_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/orleans_chc_1.jpg" title="See larger version of - Coach House Club 1"><img src="/assets/images/2011/orleans_chc_1_thumb.jpg" width="150" height="112" alt="Coach House Club 1" class="photo right" /></a>
-    
     There is a busy and exciting summer at Orleans House.  August will see an extravaganza of materials and techniques with workshops for everybody, from a Textile Tastic workshop for 4-5 year olds and frenzied days of activities for 6-9 and 9-14 year olds, to our Photography Summer School for 12-14 and 15-17 year olds.  Read on to find details of these and other activities.  Booking essential: Please call 020 8831 6000 or visit our website where you can book online at: <a href="http://www.richmond.gov.uk/arts">www.richmond.gov.uk/arts</a>
 
 ---

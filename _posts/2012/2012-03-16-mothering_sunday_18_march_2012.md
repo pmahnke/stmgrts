@@ -5,9 +5,8 @@ permalink: /archives/2012/03/mothering_sunday_18_march_2012.html
 commentfile: 2012-03-16-mothering_sunday_18_march_2012
 category: around_town
 date: 2012-03-16 10:20:44
+image: "/assets/images/2012/MOTHERING_cybele_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="/assets/images/2012/MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>
-
 
     bq. "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
 

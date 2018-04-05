@@ -5,9 +5,8 @@ permalink: /archives/2017/09/julian-costello-album.html
 commentfile: 2017-09-22-julian-costello-album
 category: news
 date: 2017-09-22 16:49:58
+image: "/assets/images/2017/Julian-Costello-flyer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Julian-Costello-flyer.jpg" title="Click for a larger image"><img src="/assets/images/2017/Julian-Costello-flyer-thumb.jpg" width="150" alt="Image - Julian-Costello-flyer"  class="photo right"/></a>
-
     Local band, the Julian Costello Quartet has just released their new album, Transitions on 33 Jazz Records. Expect to hear music which encompasses many moods, is energetic, humourous and melodic. They are touring the UK with support from Arts Council of England.
 
 ---

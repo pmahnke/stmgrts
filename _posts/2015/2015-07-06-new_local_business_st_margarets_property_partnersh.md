@@ -5,9 +5,8 @@ permalink: /archives/2015/07/new_local_business_st_margarets_property_partnersh.
 commentfile: 2015-07-06-new_local_business_st_margarets_property_partnersh
 category: around_town
 date: 2015-07-06 20:54:01
+image: "/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB.jpg" title="See larger version of - 2672 StMarg PP Logo LH RGB"><img src="/assets/images/2015/2672-StMarg-PP-Logo-LH-RGB_thumb.jpg" width="150" height="58" alt="2672 StMarg PP Logo LH RGB" class="right" /></a>
-    
     Introducing St Margarets Property Partnership, a uniquely personalised and community-driven estate agency, dedicated to offering the highest quality Sales and Lettings service to the residents of St Margarets.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2014/10/north_st_margarets_remembers_two_events.html
 commentfile: 2014-10-09-north_st_margarets_remembers_two_events
 category: around_town
 date: 2014-10-09 22:49:20
+image: "/assets/images/2014/NSMREMEBERS_Lord_Kitchener_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/NSMREMEBERS_Lord_Kitchener.jpg" title="See larger version of - Lord Kitchener"><img src="/assets/images/2014/NSMREMEBERS_Lord_Kitchener_thumb.jpg" width="150" height="204" alt="Lord Kitchener" class="photo right" /></a>
-
     _Two local events in St Margarets commemorating the 1<sup>st</sup> World War_
 
     Our memories of the 1<sup>st</sup> World War and the men and women who lived through it are fixed in bronze statues, names carved in wood and stone, elegaic music, first-hand memoirs and poetry by the likes of Siegfried Sassoon and Wilfred Owen. Somewhere along the line we seem to have forgotten that most of those who took part in that terrible conflict were just like us, living in the same houses that we still live in,  walking the same streets as us and sharing the same hopes and aspirations.

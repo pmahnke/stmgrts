@@ -6,9 +6,8 @@ commentfile: 2017-06-17-summer-is-icumen-in
 category: around_town
 date: 2017-06-17 18:44:10
 author: Martyn Day
+image: "/assets/images/2017/ICUMEMIN_Countryside-Summer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ICUMEMIN_Countryside-Summer.jpg" title="Click for a larger image"><img src="/assets/images/2017/ICUMEMIN_Countryside-Summer-thumb.jpg" width="150" alt="Image - ICUMEMIN_Countryside-Summer"  class="photo right"/></a>
-
     So how do we know that summer has actually arrived? It certainly isn't marked by postmen wearing shorts - they do that all year round. How about the start of European Summer Time? That kicks off at the end of March when we could be up to our necks in snow. No summer there. The same goes for the arrival of the cuckoo. They traditionally turn up in late March. Far too early. Perhaps it is the start of the cricket season. That begins on the 7<sup>th</sup> April with the County Championships and runs through to the 28<sup>th</sup> September. Too early again.
 
 ---

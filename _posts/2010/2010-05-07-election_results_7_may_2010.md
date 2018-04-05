@@ -5,8 +5,8 @@ permalink: /archives/2010/05/election_results_7_may_2010.html
 commentfile: 2010-05-07-election_results_7_may_2010
 category: news
 date: 2010-05-07 14:29:08
+image: "/assets/images/2010/2010_ward_votes-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/2010_ward_votes.jpg"><img src="/assets/images/2010/2010_ward_votes-thumb.jpg" width="300" height="129" alt="votes by candidate" class="photo center" /></a>
     
     
     Liberal Democrats Geoff Acton [2638 votes] and Ben Khosa [2380] retain their seats in St Margarets and North Twickenham. Tory candidate Chris Harrison [2366] has taken the third seat in the ward ahead of Philip Morgan [2292].

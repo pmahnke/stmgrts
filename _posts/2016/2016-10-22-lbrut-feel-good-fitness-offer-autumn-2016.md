@@ -5,9 +5,8 @@ permalink: /archives/2016/10/lbrut-feel-good-fitness-offer-autumn-2016.html
 commentfile: 2016-10-22-lbrut-feel-good-fitness-offer-autumn-2016
 category: around_town
 date: 2016-10-22 12:16:09
+image: "/assets/images/2016/fgf_offer_oct_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/fgf_offer_oct_2016.jpg" title="See larger version of - fgf offer oct 2016"><img src="/assets/images/2016/fgf_offer_oct_2016_thumb.jpg" width="150" height="213" alt="fgf offer oct 2016" class="photo right" /></a>
-
     Don't wait until 2017 to get into shape... if you take advantage of the Council's Feel Good Fitness offer you won't have to pay a penny until the end of the year!
 
 ---

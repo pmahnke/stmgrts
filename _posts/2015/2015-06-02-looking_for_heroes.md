@@ -5,9 +5,8 @@ permalink: /archives/2015/06/looking_for_heroes.html
 commentfile: 2015-06-02-looking_for_heroes
 category: around_town
 date: 2015-06-02 21:58:55
+image: "/assets/images/2015/CORNWELL_Jack_Cornwell_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/CORNWELL_Jack_Cornwell.jpg" title="See larger version of - Jack Cornwell"><img src="/assets/images/2015/CORNWELL_Jack_Cornwell_thumb.jpg" width="150" height="247" alt="Jack Cornwell" class="photo right" /></a>
-    
     'Jack' Cornwell was only 16&#189; when he died. Like most working-class lads from the East End he left school at the age of 14 and found a job. He was a keen member of his local Scout Troop and was once praised for rescuing a girl stuck in a drain. Just like hundreds of thousands of other lads Jack had joined Baden-Powell's newly established youth movement to find adventure and a direction for his life.
 
 ---

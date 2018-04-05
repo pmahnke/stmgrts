@@ -5,9 +5,8 @@ permalink: /archives/2018/03/richmond-bikeshare.html
 commentfile: 2018-03-17-richmond-bikeshare
 category: news
 date: 2018-03-12 07:17:43
+image: "/assets/images/2018/richmond-bike-share-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/richmond-bike-share.jpg" title="Click for a larger image"><img src="/assets/images/2018/richmond-bike-share-thumb.jpg" width="150" alt="Image - richmond-bike-share"  class="photo right"/></a>
-
     A pilot to bring dockless bike share to Richmond upon Thames will launch in April.
 
     Advancements in technology means bicycle hire schemes no longer require docking stations, as provided with the current Santander London cycle hire scheme, with the technology now built directly into the bikes themselves.

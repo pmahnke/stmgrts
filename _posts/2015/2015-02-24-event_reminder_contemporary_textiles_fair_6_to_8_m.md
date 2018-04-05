@@ -5,9 +5,8 @@ permalink: /archives/2015/02/event_reminder_contemporary_textiles_fair_6_to_8_m.
 commentfile: 2015-02-24-event_reminder_contemporary_textiles_fair_6_to_8_m
 category: around_town
 date: 2015-02-24 06:39:08
+image: "/assets/images/2015/Linda_Dooley_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Linda_Dooley.jpg" title="See larger version of - Linda Dooley"><img src="/assets/images/2015/Linda_Dooley_thumb.jpg" width="150" height="200" alt="Linda Dooley" class="photo right" /></a>
-    
     The Contemporary Textiles Fair at the Landmark Arts Centre, the Teddington based arts charity, brings together more than 76 individual designer makers offering a dazzling range of contemporary textiles and, to celebrate our 20<sup>th</sup> anniversary, this year a chance to meet and work with renowned textile artist, Sophie Long.
     
 

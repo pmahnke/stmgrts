@@ -5,9 +5,8 @@ permalink: /archives/2009/05/idea_of_the_week_go_to_isabella_plantation.html
 commentfile: 2009-05-05-idea_of_the_week_go_to_isabella_plantation
 category: around_town
 date: 2009-05-05 14:11:26
+image: "/assets/images/2017/2009-isabella-bee-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/2009-isabella-bee.jpg" title="Click for a larger image"><img src="/assets/images/2017/2009-isabella-bee-thumb.jpg" width="250" alt="Image - 2009-isabella-bee"  class="photo right"/></a>
-
     We just went to Isabella Plantation this weekend and the azaleas are perfect, really just starting. It will probably only last a couple of weeks, so be sure to get there soon if you are interested.
 
 ---

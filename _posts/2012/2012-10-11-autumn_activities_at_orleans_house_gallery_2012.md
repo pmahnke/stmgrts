@@ -5,9 +5,8 @@ permalink: /archives/2012/10/autumn_activities_at_orleans_house_gallery_2012.htm
 commentfile: 2012-10-11-autumn_activities_at_orleans_house_gallery_2012
 category: around_town
 date: 2012-10-11 19:51:25
+image: "/assets/images/2012/Short-Small_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Short-Small.jpg" title="See larger version of - Short Small"><img src="/assets/images/2012/Short-Small_thumb.jpg" width="150" height="112" alt="Short Small" class="photo right" /></a>
-
 
     Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
 

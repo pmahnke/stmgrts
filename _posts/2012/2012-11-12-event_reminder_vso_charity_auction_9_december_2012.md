@@ -5,9 +5,8 @@ permalink: /archives/2012/11/event_reminder_vso_charity_auction_9_december_2012.
 commentfile: 2012-11-12-event_reminder_vso_charity_auction_9_december_2012
 category: around_town
 date: 2012-11-12 16:53:15
+image: "/assets/images/2012/vso_auction_thumb.png"
 excerpt: |
-    <a href="/assets/images/2012/vso_auction.png" title="See larger version of - vso auction poster"><img src="/assets/images/2012/vso_auction_thumb.png" width="150" height="213" alt="vso auction poster" class="photo right" /></a>
-    
     On the 9<sup>th</sup> December at 7pm I am a holding a charity auction at the Winchester Room in St Margarets to raise money for VSO. A hot air balloon ride, 'wardrobe detox' from personal stylist Anna Berkeley and motor boat hire at the Lensbury are just a taste of the lots available on the night. There will also be some fantastic live music from 16 Valve Newsreel and Al McBride.
     
     Tickets are just &pound;7.50 and can be bought at <a href="http://www.vsocharityauction.ticketsource.co.uk">www.vsocharityauction.ticketsource.co.uk</a> you can also keep updated with what will be on offer on the night on twitter <a href="http://www.twitter.com/vsoauction">@vsoauction</a> or <a href="http://www.facebook.com/events/380188535400030/">view the event on facebook</a>

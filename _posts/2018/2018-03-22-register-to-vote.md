@@ -5,9 +5,8 @@ permalink: /archives/2018/03/register-to-vote.html
 commentfile: 2018-03-22-register-to-vote
 category: news
 date: 2018-03-22 10:32:18
+image: "/assets/images/2018/ballot-box-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/ballot-box.jpg" title="Click for a larger image"><img src="/assets/images/2018/ballot-box-thumb.jpg" width="150" alt="Image - ballot-box"  class="photo right"/></a>
-
     On Thursday 3 May residents in Richmond upon Thames will go to the polls to have their say on who represents them at a local level.
 
     Local government elections select councillors, who are responsible for making decisions on running services in your local area. These include housing, education, planning, parks, leisure, social care and waste management.

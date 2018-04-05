@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_crown_road_community_christmas_fair.
 commentfile: 2014-10-24-event_reminder_crown_road_community_christmas_fair
 category: around_town
 date: 2014-10-24 11:40:18
+image: "/assets/images/2014/crownrd_xmas_fair_2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/crownrd_xmas_fair_2014.jpg" title="See larger version of - crown road xmas fair 2014"><img src="/assets/images/2014/crownrd_xmas_fair_2014_thumb.jpg" width="150" height="112" alt="crown road xmas fair 2014" class="photo right" /></a>
-    
     There'll be the usual diverse mix of stalls, food vendors, children's entertainment, fairground rides and attractions, real-life reindeer (!) with a very special jolly visitor from the North Pole who'll be ready to hear your Christmas wish lists! There'll be a few special surprises too so make sure you come along and join in the fun!
     
 

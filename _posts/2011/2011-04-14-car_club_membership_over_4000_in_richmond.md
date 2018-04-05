@@ -5,8 +5,8 @@ permalink: /archives/2011/04/car_club_membership_over_4000_in_richmond.html
 commentfile: 2011-04-14-car_club_membership_over_4000_in_richmond
 category: news
 date: 2011-04-14 20:01:35
+image: "/cgi-bin/poll.cgi?pollname=CAR&action=image"
 excerpt: |
-    <a href="https://stmargarets.london/poll/CAR/results"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=CAR&action=image" width="150" height="150" alt="Car Club Poll" class="right" /></a>
 
     More than 4,000 Richmond upon Thames residents have joined the borough's three car clubs since the Council's Smarter Travel campaign launched two years ago.
 

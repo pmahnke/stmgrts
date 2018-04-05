@@ -5,9 +5,8 @@ permalink: /archives/2017/04/twickenham-station-works-start.html
 commentfile: 2017-04-22-twickenham-station-works-start
 category: news
 date: 2017-04-22 07:54:09
+image: "/assets/images/2017/twick-station-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/twick-station-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/twick-station-2017-thumb.jpg" width="150" alt="Image - twick-station-2017"  class="photo right"/></a>
-
     If you haven't noticed, works have stated on Twickenham Station by the developer Solumn. This will effect access to the station and travel on many, many weekends over the coming year.
 ---
 

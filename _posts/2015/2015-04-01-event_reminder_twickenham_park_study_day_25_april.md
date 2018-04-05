@@ -5,9 +5,8 @@ permalink: /archives/2015/04/event_reminder_twickenham_park_study_day_25_april.h
 commentfile: 2015-04-01-event_reminder_twickenham_park_study_day_25_april
 category: around_town
 date: 2015-04-01 22:45:46
+image: "/assets/images/2015/twickenham_park_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/twickenham_park.jpg" title="See larger version of - twickenham park"><img src="/assets/images/2015/twickenham_park_thumb.jpg" width="150" height="104" alt="twickenham park" class="photo right" /></a>
-    
     Francis Bacon held the tenancy of Twickenham Park 1595 to 1608. Lucy Harrington, Countess of Bedford, took over the tenancy in 1609. Around this time Robert Smythson drew the plan of the garden. The LPGT Study Day will examine the history of Twickenham Park, the house, garden and the site from medieval times to the present.
     
 

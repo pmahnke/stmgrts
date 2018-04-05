@@ -5,9 +5,8 @@ permalink: /archives/2014/01/american_pie.html
 commentfile: 2014-01-23-american_pie
 category: around_town
 date: 2014-01-23 22:24:25
+image: "/assets/images/2014/AMERICANPIE_Don_McLean_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/AMERICANPIE_Don_McLean.jpg" title="See larger version of - Don McLean"><img src="/assets/images/2014/AMERICANPIE_Don_McLean_thumb.jpg" width="150" height="142" alt="Don McLean" class="photo right" /></a>
-    
     42 years ago, on the 22<sup>nd</sup> January 1972, a record by American singer Don McLean reached No. 2 in the UK charts. <em>"American Pie"</em> was and remains a significant song of the period and has been voted No. 5 in the 100 most important recordings of the 20<sup>th</sup> century. For an entire generation it marked the end of the 1960s and put a final full stop on their teenage years.  In a series of cryptic verses the song tells how the popular music they had grown up with had lost its innocence.
     
 

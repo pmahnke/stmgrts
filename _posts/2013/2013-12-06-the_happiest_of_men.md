@@ -5,9 +5,8 @@ permalink: /archives/2013/12/the_happiest_of_men.html
 commentfile: 2013-12-06-the_happiest_of_men
 category: around_town
 date: 2013-12-06 19:42:01
+image: "/assets/images/2013/CAMBRIDGE__Richard_Cambridge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/CAMBRIDGE__Richard_Cambridge.jpg" title="See larger version of - Richard Cambridge"><img src="/assets/images/2013/CAMBRIDGE__Richard_Cambridge_thumb.jpg" width="150" height="168" alt="Richard Cambridge" class="photo right" /></a>
-    
     You know where you are when you stray into Cambridge Park. Along with Cambridge Park itself there's Cambridge Gardens, Cambridge Road, Cambridge Mansions and Cambridge Park Court plus assorted odds and ends like Cambridge Park Footpath and Cambridge Park Bowls Club. Tucked away in a quiet corner of East Twickenham they all take their name from a house and an estate once owned by the poet, satirist and friend of the famous, Richard Owen Cambridge. Described as <em>"the happiest of men - unencumbered by rank and easy in fortune"</em> and <em>"a 'beau ideal' of a thorough English gentleman,"</em> Cambridge was <em>"a font of benevolent wit."</em>
     
 

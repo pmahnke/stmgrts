@@ -5,8 +5,8 @@ permalink: /archives/2009/03/the_meek_and_mild_murderer.html
 commentfile: 2009-03-03-the_meek_and_mild_murderer
 category: around_town
 date: 2009-03-03 21:38:32
+image: "/assets/images/2009/nother_murder-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/nother_murder.jpg"><img src="/assets/images/2009/nother_murder-thumb.jpg" width="150" height="113" alt="bloodthirsty crowd of spectators"  class="photo right" /></a>
     
     
     

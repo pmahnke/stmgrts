@@ -5,9 +5,8 @@ permalink: /archives/2016/03/reading_volunteers_orleans_primary.html
 commentfile: 2016-03-19-reading_volunteers_orleans_primary
 category: news
 date: 2016-03-19 07:25:58
+image: "/assets/images/2016/orleans-primary_logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/orleans-primary_logo.png" title="See larger version of - orleans primary logo"><img src="/assets/images/2016/orleans-primary_logo_thumb.png" width="150" height="165" alt="orleans primary logo" class="photo right" /></a>
-
     <ul><li>Do you have a few spare hours a week?</li><li>Do you love to read?</li><li>Are you a confident reader?</li><li>Do you want to make a difference to children&#39;s lives?</li></ul>
 
 ---

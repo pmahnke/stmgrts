@@ -5,9 +5,8 @@ permalink: /archives/2015/11/event_reminder_crown_road_community_christmas_fair_
 commentfile: 2015-11-26-event_reminder_crown_road_community_christmas_fair_1
 category: around_town
 date: 2015-11-26 19:00:44
+image: "/assets/images/2015/crown_road_xmas_fair_2015_poster_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/crown_road_xmas_fair_2015_poster.png" title="See larger version of - crown road xmas fair 2015 poster"><img src="/assets/images/2015/crown_road_xmas_fair_2015_poster_thumb.png" width="150" height="206" alt="crown road xmas fair 2015 poster" class="photo right" /></a>
-
     Please join us on Crown Road from 11am to 5pm on 6 December 2015 for frozen fun for all the family.
 
 ---

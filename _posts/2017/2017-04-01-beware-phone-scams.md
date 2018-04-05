@@ -5,9 +5,8 @@ permalink: /archives/2017/04/beware-phone-scams.html
 commentfile: 2017-04-01-beware-phone-scams
 category: around_town
 date: 2017-04-01 07:58:40
+image: "/assets/images/2017/SCAM_phone-scam-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SCAM_phone-scam.jpg" title="Click for a larger image"><img src="/assets/images/2017/SCAM_phone-scam-thumb.jpg" width="150" alt="Image - SCAM_phone-scam"  class=" right"/></a>
-
     Last week I received a phone call from <em>'John Martin from Manchester'</em> who sounded more like Mukesh from Mumbai. He said that his company, <em>'Claims Advisory Group'</em>, had been commissioned by the Government to find people who had paid excessive Bank Charges. If this proved to be the case <em>'Claims Advisory Group'</em> would pursue a claim and compensation. In my case the cash-back would be somewhere between &pound;3,000 and &pound;5,000.
 
 ---

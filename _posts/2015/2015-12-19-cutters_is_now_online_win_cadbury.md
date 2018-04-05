@@ -5,9 +5,8 @@ permalink: /archives/2015/12/cutters_is_now_online_win_cadbury.html
 commentfile: 2015-12-19-cutters_is_now_online_win_cadbury
 category: around_town
 date: 2015-12-19 13:08:59
+image: "/assets/images/2015/kate_cadbury_hamper_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/kate_cadbury_hamper.jpg" title="See larger version of - kate cadbury hamper"><img src="/assets/images/2015/kate_cadbury_hamper_thumb.jpg" width="150" height="200" alt="kate cadbury hamper" class="photo right" /></a>
-    
     To celebrate their new Facebook and Twitter feeds, Cutters of 28 Crown Rd giving-away this gorgeous and delicious Cadbury Hamper!
     
 

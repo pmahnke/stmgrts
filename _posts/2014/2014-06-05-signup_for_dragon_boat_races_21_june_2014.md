@@ -5,9 +5,8 @@ permalink: /archives/2014/06/signup_for_dragon_boat_races_21_june_2014.html
 commentfile: 2014-06-05-signup_for_dragon_boat_races_21_june_2014
 category: news
 date: 2014-06-05 21:23:43
+image: "/assets/images/2014/Dragon_16June12_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Dragon_16June12.jpg" title="See larger version of - Dragon boats from 2013"><img src="/assets/images/2014/Dragon_16June12_thumb.jpg" width="150" height="100" alt="Dragon boats from 2013" class="photo right" /></a>
-    
     Once again the popular Dragon Boat races return to Twickenham Riverside this June as part of the Twickenham Alive Riverside Events. 
     
     We are looking for Dragon Boat teams, 16-20 in a team plus a drummer. No previous experience needed!

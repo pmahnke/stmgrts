@@ -6,9 +6,8 @@ commentfile: 2017-01-04-forgotten-festivals-of-christmas
 category: around_town
 date: 2017-01-04 19:29:26
 author: "Martyn Day"
+image: "/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/FORGOTTEN_Holy-Innocents.jpg" title="Click for a larger image"><img src="/assets/images/2017/FORGOTTEN_Holy-Innocents-thumb.jpg" width="150" class="photo right" alt="Image - Holy-Innocents" /></a>
-
     Well, that's it for another year. The presents have been given, the turkey has been eaten and the decorations look like they might fall down at any moment. New Year's Eve is out of the way, old acquaintances have already being forgotten, the kids are back at school and ahead lies nothing but peace, perfect peace.
 ---
 

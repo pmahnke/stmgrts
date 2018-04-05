@@ -5,9 +5,8 @@ permalink: /archives/2014/02/robert_louis_stevenson.html
 commentfile: 2014-02-20-robert_louis_stevenson
 category: around_town
 date: 2014-02-20 21:53:11
+image: "/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/RLSTEVENSON_as_teenager.jpg" title="See larger version of - as a teenager"><img src="/assets/images/2014/RLSTEVENSON_as_teenager_thumb.jpg" width="150" height="190" alt="as a teenager" class="photo right" /></a>
-    
     He was in every respect a true Scot, born in Scotland of Scottish parents, with an education in one of Scotland's finest schools, Edinburgh Academy and a family lineage stretching back to the Balfour chiefs of Inchrye in Fife... but in 1863 13 year old Robert Louis Balfour Stevenson, who was later to write <em>"Treasure Island"</em>, <em>"Kidnapped"</em> and <em>"Strange Case of Dr Jeykyll and Mr Hyde"</em> came to live briefly in Isleworth.
     
 

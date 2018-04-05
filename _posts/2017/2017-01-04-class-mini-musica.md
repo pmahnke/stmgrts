@@ -5,9 +5,8 @@ permalink: /archives/2017/01/class-mini-musica.html
 commentfile: 2017-01-04-class-mini-musica
 category: around_town
 date: 2017-01-04 18:29:26
+image: "/assets/images/2017/ETNA--big--leaflet-----FREE--TASTER--Jan--2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/ETNA--big--leaflet-----FREE--TASTER--Jan--2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/ETNA--big--leaflet-----FREE--TASTER--Jan--2017-thumb.jpg" width="150" alt="Image - ETNA--big--leaflet-----FREE--TASTER--Jan--2017"  class="photo right"  /></a>
-
     Mini Musica promotes musical culture among children through the sessions children learn about music and shape musical taste.  Sessions are Tuesdays at the ETNA Centre from 13.15 to 13.45.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/05/chiswick_and_whitton_cricket_club_summer_2015.html
 commentfile: 2015-05-08-chiswick_and_whitton_cricket_club_summer_2015
 category: around_town
 date: 2015-05-08 19:29:41
+image: "/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/cricket-poster-summer-2015---U15.jpg" title="See larger version of - cricket poster summer 2015   U15"><img src="/assets/images/2015/cricket-poster-summer-2015---U15_thumb.jpg" width="150" height="106" alt="cricket poster summer 2015   U15" class="photo right" /></a>
-    
     Our summer training programme has just started and we are keen for local children to come along and have fun playing cricket.
     
     We are based at Whitton Park (190 Wills Crescent, Hounslow TW3 2JD) and training takes place every Sunday from 9.30am - 11.30am. This will continue until the end of the school term in July 2015.

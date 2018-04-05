@@ -5,9 +5,8 @@ permalink: /archives/2014/02/wild_tots_and_wild_preschool_2014_spring_term.html
 commentfile: 2014-02-14-wild_tots_and_wild_preschool_2014_spring_term
 category: news
 date: 2014-02-14 09:12:31
+image: "/assets/images/2014/wild_tots_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/wild_tots.png" title="See larger version of - wild tots"><img src="/assets/images/2014/wild_tots_thumb.png" width="150" height="199" alt="wild tots" class="photo right" /></a>
-    
     St Margarets Mum Ellie Wrigglesworth has always enjoyed mud and invites you and your children to come and share her passion!
     
     Wild Tots and Wild Pre-school are starting again after half term.  Bring your children along for Gruffalo spotting, bear hunting, dragon chasing, dinosaur tracking, marshmallow toasting, den building, puddle jumping, mud making, singing & giggling!

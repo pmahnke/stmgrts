@@ -5,9 +5,8 @@ permalink: /archives/2014/03/clap_hands_here_comes_charlie.html
 commentfile: 2014-03-13-clap_hands_here_comes_charlie
 category: around_town
 date: 2014-03-13 22:34:45
+image: "/assets/images/2014/KUNZ_CHARLIE-KUNZ_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/KUNZ_CHARLIE-KUNZ.jpg" title="See larger version of - CHARLIE KUNZ"><img src="/assets/images/2014/KUNZ_CHARLIE-KUNZ_thumb.jpg" width="150" height="237" alt="CHARLIE KUNZ" class="photo right" /></a>
-    
     Looking at the slim, quietly spoken, elegantly tail-suited man with the flower in his buttonhole and the <em>'patent leather'</em> hair it is perhaps difficult to imagine that Charlie Kunz was one of the biggest stars of his time. According to some he was the highest paid pianist in the world, earning around &pound;1000 a week and although he died 56 years ago his records continue to sell.
     
 

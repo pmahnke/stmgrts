@@ -6,9 +6,8 @@ commentfile: 2016-11-12-virol-the-food-for-health
 category: around_town
 date: 2016-11-12 11:04:39
 author: "Martyn Day"
+image: "/assets/images/2016/VIROL_Virol_Lady_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/VIROL_Virol_Lady.png" title="See larger version of - Virol Lady"><img src="/assets/images/2016/VIROL_Virol_Lady_thumb.png" width="150" height="78" alt="Virol Lady" class="photo right" /></a>
-
     When I was child living in Tufnell Park in the late 1940s a regular feature of my Primary School week was the arrival of the Virol Lady. She would turn up every Monday morning and dole out to anyone with a penny in their pocket a spoonful of Virol, a brown, sweet and incredibly sticky Malt Extract. She came equipped for the job with a jumbo sized jar of the miracle cure along with a massive key ring strung with hundreds of battered spoons.
 ---
 

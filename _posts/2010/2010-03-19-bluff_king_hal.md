@@ -5,8 +5,8 @@ permalink: /archives/2010/03/bluff_king_hal.html
 commentfile: 2010-03-19-bluff_king_hal
 category: around_town
 date: 2010-03-19 12:08:17
+image: "/assets/images/2010/syon_1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/syon_1.jpg"><img src="/assets/images/2010/syon_1-thumb.jpg" width="125" height="150" alt="Bluff King Hal" class="photo right" /></a>
 
      The next time you are driving through Syon Park to the Garden Centre in search of ornamental fountains, Mexican chimeneas or calendars showing cute pictures of kittens consider this - you are only there because a king died.
 

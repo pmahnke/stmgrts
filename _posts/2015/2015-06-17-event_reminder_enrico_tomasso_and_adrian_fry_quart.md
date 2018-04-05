@@ -5,9 +5,8 @@ permalink: /archives/2015/06/event_reminder_enrico_tomasso_and_adrian_fry_quart.
 commentfile: 2015-06-17-event_reminder_enrico_tomasso_and_adrian_fry_quart
 category: around_town
 date: 2015-06-17 22:09:15
+image: "/assets/images/2015/Enrico_Tomasso_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Enrico_Tomasso.jpg" title="See larger version of - Enrico Tomasso"><img src="/assets/images/2015/Enrico_Tomasso_thumb.jpg" width="150"  alt="Enrico Tomasso" class="photo right" /></a>
-    
     Mentored by Louis Armstrong as a young trumpeter Enrico is one of the most endearing and talented trumpeters on the Jazz scene, " I just thought Louis was another person who came to the house" says Enrico... 
 
 ---

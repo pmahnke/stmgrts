@@ -5,9 +5,8 @@ permalink: /archives/2015/09/event_reminder_a_walk_with_heroes_13_september_201.
 commentfile: 2015-09-03-event_reminder_a_walk_with_heroes_13_september_201
 category: around_town
 date: 2015-09-03 22:49:56
+image: "/assets/images/2015/HEROS_Pears-Memorial-_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HEROS_Pears-Memorial-.jpg" title="See larger version of - HEROS Pears Memorial "><img src="/assets/images/2015/HEROS_Pears-Memorial-_thumb.jpg" width="150" height="238" alt="HEROS Pears Memorial " class="photo right" /></a>
-    
     Isleworth Cemetery, on Park Road in Isleworth, stands between Syon Park on one side and the West Middlesex Hospital on the other. It was opened in 1880 when the burial ground of All Saints Church near the London Apprentice became full. Now in its turn Isleworth Cemetery is full as well, its 9 acres of open grassland, trees and shrubs the last resting place of many including 30 'fallen heroes' from the 1<sup>st</sup> World War, men who were wounded in France but died at home.
 
 ---

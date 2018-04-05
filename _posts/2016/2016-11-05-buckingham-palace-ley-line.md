@@ -6,9 +6,8 @@ commentfile: 2016-11-05-buckingham-palace-ley-line
 category: around_town
 date: 2016-11-05 16:16:10
 author: "Martyn Day"
+image: "/assets/images/2016/BUCKINGHAMLEY_The_Mall_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/BUCKINGHAMLEY_The_Mall.png" title="See larger version of - The Mall"><img src="/assets/images/2016/BUCKINGHAMLEY_The_Mall_thumb.png" width="150" height="224" alt="The Mall" class="photo right" /></a>
-
     There are some people who believe that our planet is interlaced with an invisible matrix of magnetic - and perhaps magical - lines of energy. In China they are called  <em>'Dragon Paths'</em>, in Ireland  <em>'fairy paths'</em>.  In Peru they are  <em>'Spirit Lines'</em> and in Australia  <em>'Song Paths'</em>. In Germany they are  <em>'Heilige Linien'</em> and in Britain they are  <em>'Ley Lines'</em>, a name conjured up in 1921 by amateur archaeologist Alfred Watkins.
 ---
 

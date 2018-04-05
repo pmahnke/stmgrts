@@ -5,9 +5,8 @@ permalink: /archives/2011/08/londonsurrey_cycle_classic_road_race_14_august_201.
 commentfile: 2011-08-03-londonsurrey_cycle_classic_road_race_14_august_201
 category: news
 date: 2011-08-03 14:44:04
+image: "/assets/images/2011/cycle_closure_map_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/cycle_closure_map.jpg" title="See larger version of - Map of road closures"><img src="/assets/images/2011/cycle_closure_map_thumb.jpg" width="150" height="112" alt="Map of road closures" class="photo right" /></a>
-    
     London is preparing to welcome the 2012 Olympic and Paralympic Games, and the *London-Surrey Cycle Classic* road race on Sunday, 14 August 2011 will be one of the most important test events.
     
     The race will take place on _closed_ roads along a 140km route which will pass through southwest London and Surrey, starting and finishing in central London. Roads will be closed along the route and over 60 bus routes will be affected from very early in the morning until mid-afternoon. This includes Richmond, East Twickenham, Twickenham, Teddington, Bushy Park, Hampton, Hampton Wick, Kingston, etc...

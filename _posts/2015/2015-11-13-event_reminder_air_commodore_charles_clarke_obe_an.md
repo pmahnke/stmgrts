@@ -5,9 +5,8 @@ permalink: /archives/2015/11/event_reminder_air_commodore_charles_clarke_obe_an.
 commentfile: 2015-11-13-event_reminder_air_commodore_charles_clarke_obe_an
 category: around_town
 date: 2015-11-13 19:11:15
+image: "/assets/images/2015/Charles-Clarke-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Charles-Clarke-poster.jpg" title="See larger version of - Charles Clarke poster"><img src="/assets/images/2015/Charles-Clarke-poster_thumb.jpg" width="150" height="212" alt="Charles Clarke poster" class="photo right" /></a>
-    
     Charles Clarke was shot down over Germany and imprisoned in Stalag Luft III, the camp from which 76 prisoners tunnelled out in the "Great Escape". He later took part in the 'long march' of British PoWs across Germany in the last months of the Third Reich. After the war, he stayed in the RAF, reaching the rank of Air Commodore, continuing to work full time until 1998.
 
 ---

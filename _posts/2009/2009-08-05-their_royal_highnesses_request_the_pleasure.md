@@ -5,8 +5,8 @@ permalink: /archives/2009/08/their_royal_highnesses_request_the_pleasure.html
 commentfile: 2009-08-05-their_royal_highnesses_request_the_pleasure
 category: around_town
 date: 2009-08-05 22:16:08
+image: "/assets/images/2009/scouts_palace-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/scouts_palace.jpg"><img src="/assets/images/2009/scouts_palace-thumb.jpg" width="150" height="100" alt="1st St Margarets at Buckingham Palace" class="photo right" /></a>
     
     
     

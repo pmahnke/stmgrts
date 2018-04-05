@@ -5,9 +5,8 @@ permalink: /archives/2015/10/never_forgotten.html
 commentfile: 2015-10-15-never_forgotten
 category: around_town
 date: 2015-10-15 21:33:29
+image: "/assets/images/2015/NEVERFOGOTTEN_incisograph_cutting_text_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/NEVERFOGOTTEN_incisograph_cutting_text.jpg" title="See larger version of - incisograph cutting text"><img src="/assets/images/2015/NEVERFOGOTTEN_incisograph_cutting_text_thumb.jpg" width="150" height="77" alt="incisograph cutting text" class="photo right" /></a>
-    
     In a quiet corner of Isleworth Cemetery is a 1<sup>st</sup> World War headstone marking the grave of Private Benjamin George Buckland of the 46<sup>th</sup> Australian Infantry Battalion. He was the son of William and Marion Buckland from Long Galley, Victoria in Australia and he was the holder of the Military Medal...
 
 ---

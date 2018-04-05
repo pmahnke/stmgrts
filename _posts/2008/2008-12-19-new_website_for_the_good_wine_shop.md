@@ -5,8 +5,8 @@ permalink: /archives/2008/12/new_website_for_the_good_wine_shop.html
 commentfile: 2008-12-19-new_website_for_the_good_wine_shop
 category: news
 date: 2008-12-19 13:51:23
+image: "/assets/images/2008/goodwine_web-thumb.jpg"
 excerpt: |
-    <a href="http://www.thegoodwineshop.co.uk/"><img src="/assets/images/2008/goodwine_web-thumb.jpg" width="150" height="109" alt="website" class="photo right" /></a>
     
     
     <a href="https://stmargarets.london/directory/wine_aNd_spirits/200511281416">The Good Wine Shop</a> is an Independent Wine Merchant based in St Margarets, south west London. Since 1999 we have built a reputation locally for sourcing interesting, good value and often quirky wines from some of the worlds best small producers. Big high street brands and supermarket wines aren't really our thing, however that doesn't mean we only sell expensive wine. There are wines in our range for all budgets but quality is never sacrificed.

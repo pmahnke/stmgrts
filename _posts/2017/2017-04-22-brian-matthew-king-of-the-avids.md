@@ -6,9 +6,8 @@ commentfile: 2017-04-22-brian-matthew-king-of-the-avids
 category: around_town
 author: Martyn Day
 date: 2017-04-22 17:46:05
+image: "/assets/images/2017/BRIANMATTHEW_Brian-Matthew-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/BRIANMATTHEW_Brian-Matthew.jpg" title="Click for a larger image"><img src="/assets/images/2017/BRIANMATTHEW_Brian-Matthew-thumb.jpg" width="150" alt="Image - BRIANMATTHEW_Brian-Matthew"  class="photo right"/></a>
-
     For my generation Brian Matthew was a significant figure. Ian Dury described him as  <em>"the great Brian Matthew - a huge influence"</em> and he was right. He wasn't a trend setter or an icon of the times. He didn't have any hit records and his picture rarely appeared on teenage bedroom walls. He didn't set any fashionable trends or challenge the accepted order. He was just what he was - an ordinary man who presented radio shows that featured the music that we liked. He was a friend, a mate of my generation and a friend of our favourite stars - and because of this the stars became our friends too. That is why we will miss him.
 
 ---

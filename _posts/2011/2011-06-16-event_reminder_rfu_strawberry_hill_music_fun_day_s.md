@@ -5,9 +5,8 @@ permalink: /archives/2011/06/event_reminder_rfu_strawberry_hill_music_fun_day_s.
 commentfile: 2011-06-16-event_reminder_rfu_strawberry_hill_music_fun_day_s
 category: around_town
 date: 2011-06-16 09:08:48
+image: "/assets/images/2011/sthill_music_fest_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/sthill_music_fest.jpg" title="See larger version of - RFU STRAWBERRY HILL MUSIC & FUN DAY"><img src="/assets/images/2011/sthill_music_fest_thumb.jpg" width="150" height="112" alt="RFU STRAWBERRY HILL MUSIC & FUN DAY" class="photo right" /></a>
-    
     Strawberry Hill House, Twickenham 12noon to 7.30pm. Music stage with 8 bands, charity and craft stalls, children's rides, beer and food. Only &pound;2 /children free - <a href="http://www.strawberryhillmusicday.co.uk">www.strawberryhillmusicday.co.uk</a>
     
     

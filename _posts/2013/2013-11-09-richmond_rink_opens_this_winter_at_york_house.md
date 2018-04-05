@@ -5,9 +5,8 @@ permalink: /archives/2013/11/richmond_rink_opens_this_winter_at_york_house.html
 commentfile: 2013-11-09-richmond_rink_opens_this_winter_at_york_house
 category: news
 date: 2013-11-09 23:54:59
+image: "/assets/images/2013/Ice-Rink-Poster-13-11-05_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/Ice-Rink-Poster-13-11-05.jpg.jpg" title="See larger version of - Ice Rink Poster 13 11 05"><img src="/assets/images/2013/Ice-Rink-Poster-13-11-05_thumb.jpg" width="150" height="191" alt="Ice Rink Poster 13 11 05" class="photo right" /></a>
-
     Skating every day from 10am to 8pm in the grounds of York House, Twickenham from Saturday, 30<sup>th</sup> November 2013 to 12<sup>th</sup> January 2014.
 ---
 

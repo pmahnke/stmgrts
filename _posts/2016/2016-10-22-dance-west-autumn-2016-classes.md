@@ -5,9 +5,8 @@ permalink: /archives/2016/10/dance-west-autumn-2016-classes.html
 commentfile: 2016-10-22-dance-west-autumn-2016-classes
 category: around_town
 date: 2016-10-22 12:15:56
+image: "/assets/images/2016/Richmond_Under_5s_Front_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Richmond_Under_5s_Front.jpg" title="See larger version of - Richmond Under 5s Front"><img src="/assets/images/2016/Richmond_Under_5s_Front_thumb.jpg" width="150" height="212" alt="Richmond Under 5s Front" class="photo right" /></a>
-
     Creative movement classes will encourage children's language, colour recognition, number work and social interplay skills as well as physical development and co-ordination. Our classes are suitable for children 12 months - 5 years and are delivered in a playful environment supported by the parent/carer.
 ---
 

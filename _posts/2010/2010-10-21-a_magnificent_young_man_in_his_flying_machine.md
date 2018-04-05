@@ -5,9 +5,8 @@ permalink: /archives/2010/10/a_magnificent_young_man_in_his_flying_machine.html
 commentfile: 2010-10-21-a_magnificent_young_man_in_his_flying_machine
 category: around_town
 date: 2010-10-21 21:32:28
+image: "/assets/images/2010/flying_Gilmour_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/flying_Gilmour.jpg" title="See larger version of - Douglas Graham Gilmour"><img src="/assets/images/2010/flying_Gilmour_thumb.jpg" width="120" height="150" alt="Douglas Graham Gilmour" class="photo right" /></a>
-    
     Saturday February 17<sup>th</sup> 1912 was a beautiful day. After the recent spell of cold, damp weather people shopping in St Margarets were pleased to be out enjoying the bright sunshine, a clear blue sky and the gentlest of breezes...
     
     It was approaching midday when they heard the sound of an aeroplane approaching from the south. Aircraft were rare enough in those days for them to stop and point and wonder at the marvel that was passing overhead.

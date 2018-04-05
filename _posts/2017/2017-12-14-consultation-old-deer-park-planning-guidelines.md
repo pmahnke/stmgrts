@@ -5,9 +5,8 @@ permalink: /archives/2017/12/consultation-old-deer-park-planning-guidelines.html
 commentfile: 2017-12-14-consultation-old-deer-park-planning-guidelines
 category: around_town
 date: 2017-12-14 11:32:13
+image: "/assets/images/2017/consultation-old-deer-park-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/consultation-old-deer-park.jpg" title="Click for a larger image"><img src="/assets/images/2017/consultation-old-deer-park-thumb.jpg" width="150" alt="Image - consultation-old-deer-park"  class="photo right"/></a>
-
     Residents are invited to have their say on the development of planning guidelines for Old Deer Park in Richmond.
 
     The Council has been working with residents, businesses, community groups and organisations to help create planning guidelines for the Old Deer Park Conservation Area and has now prepared a draft Supplementary Planning Document  for the area.

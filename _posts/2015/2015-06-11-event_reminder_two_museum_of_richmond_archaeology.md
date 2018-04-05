@@ -5,9 +5,8 @@ permalink: /archives/2015/06/event_reminder_two_museum_of_richmond_archaeology.h
 commentfile: 2015-06-11-event_reminder_two_museum_of_richmond_archaeology
 category: around_town
 date: 2015-06-11 18:37:15
+image: "/assets/images/2015/MUS_RICH_ARCH_Bottle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/MUS_RICH_ARCH_Bottle.jpg" title="See larger version of -  Bottle"><img src="/assets/images/2015/MUS_RICH_ARCH_Bottle_thumb.jpg" width="150" height="150" alt=" Bottle" class="photo right" /></a>
-    
     The Museum of Richmond is delighted to be taking part in this year's Festival of Archaeology by hosting two engaging family events on Thursday 23<sup>rd</sup> July 2015 and Saturday 25<sup>th</sup>  July 2015.
     
     

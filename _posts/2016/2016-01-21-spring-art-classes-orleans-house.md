@@ -5,9 +5,8 @@ permalink: /archives/2016/01/spring-art-classes-orleans-house.html
 commentfile: 2016-01-21-spring-art-classes-orleans-house
 category: around_town
 date: 2016-01-21 21:15:36
+image: "/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/orleans-feb-2016-see-saw.jpg" title="See larger version of - orleans feb 2016 see saw"><img src="/assets/images/2016/orleans-feb-2016-see-saw_thumb.jpg" width="150" height="212" alt="orleans feb 2016 see saw" class="photo right" /></a>
-
     Why not join in the fun at Orleans House Gallery and try an art class for you and your children!
 
 ---

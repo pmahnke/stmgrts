@@ -5,9 +5,8 @@ permalink: /archives/2011/09/mayor_clare_launches_local_businessmans_charity_ca.
 commentfile: 2011-09-08-mayor_clare_launches_local_businessmans_charity_ca
 category: news
 date: 2011-09-08 11:33:48
+image: "/assets/images/2011/mayor_jason_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/mayor_jason.jpg" title="See larger version of - Mayor Clare Head and Jason Payne"><img src="/assets/images/2011/mayor_jason_thumb.jpg" width="150" height="113" alt="Mayor Clare Head and Jason Payne" class="photo right" /></a>
-    
     Richmond Mayor Councillor Clare Head visited St Margarets recently to help launch, local trader Jason Payne's campaign to raise funds for Cancer Research UK.
     
     Jason who runs Crown Classic Cars in Crown Road St Margarets is planning to trek the 5895 metres to the summit of Mount Kilimanjaro in March next year.

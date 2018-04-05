@@ -5,8 +5,8 @@ permalink: /archives/2015/05/watermans_arts_centre_childrens_activities.html
 commentfile: 2015-05-21-watermans_arts_centre_childrens_activities
 category: around_town
 date: 2015-05-21 19:03:27
+image: "/assets/images/directory/201505081402_Watermans.jpg"
 excerpt: |
-    <img src="/assets/images/directory/201505081402_Watermans.jpg" width="150" class="right" alt="logo" />
     
     Watermans is an arts centre on the banks of the Thames in Brentford, near Kew Bridge station. It's great for families with lots of regular activities from babies to teens including theatre, cinema, workshops and holiday activities, plus a large cafe/restaurant and on-site car park. <a href="http://www.watermans.org.uk/">See our website for up to date listings.</a>
 

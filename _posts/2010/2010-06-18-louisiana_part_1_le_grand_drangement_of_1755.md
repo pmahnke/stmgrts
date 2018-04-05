@@ -5,9 +5,8 @@ permalink: /archives/2010/06/louisiana_part_1_le_grand_drangement_of_1755.html
 commentfile: 2010-06-18-louisiana_part_1_le_grand_drangement_of_1755
 category: around_town
 date: 2010-06-18 09:06:43
+image: "/assets/images/2010/lo1_grand_derangement_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/lo1_grand_derangement.jpg" title="See larger version of - Grand Derangement"><img src="/assets/images/2010/lo1_grand_derangement_thumb.jpg" width="300" height="222" alt="Grand Derangement" class="photo center" /></a>
-    
     
     This story starts in 1604 when French emigrants settled in the Canadian Maritime Provinces of New Brunswick, Nova Scotia and Newfoundland. Here they established a network of small, closely knit farming communities loyal to the French king and the Catholic religion. The immigrants found their life so idyllic they called their land 'Arcadia' after the mythological land flowing with milk and honey. For the next 150 years, these 'Arcadians' cultivated the land, maintained a friendly relationship with the native Micmac Indians, and remained neutral in the ongoing conflicts between the French and the British. When Arcadia fell to the British in 1710 the 18,000 or so Acadians living in the area were allowed to remain as neutrals under the terms of the 1713 Treaty of Utrecht. It was to be an uneasy truce. The British, concerned that the Arcadians might unite with other French colonies in the region, wanted them out - leaving their prosperous farms for British settlers.
 

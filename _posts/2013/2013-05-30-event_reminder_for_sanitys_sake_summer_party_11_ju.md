@@ -5,9 +5,8 @@ permalink: /archives/2013/05/event_reminder_for_sanitys_sake_summer_party_11_ju.
 commentfile: 2013-05-30-event_reminder_for_sanitys_sake_summer_party_11_ju
 category: around_town
 date: 2013-05-30 22:44:12
+image: "/assets/images/2013/FSSSummerParty1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/FSSSummerParty1.jpg" title="See larger version of - event flyer"><img src="/assets/images/2013/FSSSummerParty1_thumb.jpg" width="150" height="207" alt="event flyer" class="photo right" /></a>
-    
     _It's the end of term and it's party time!! Let us entertain you..._
     
     Have a night to let your hair down with other parents from your nursery, pre-school or children's school year - and ask your girlfriends along too. It's club night at The Patch with For Sanity's Sake with live music, dancing and DJ.

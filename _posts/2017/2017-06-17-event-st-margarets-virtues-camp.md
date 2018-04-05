@@ -5,9 +5,8 @@ permalink: /archives/2017/06/event-st-margarets-virtues-camp.html
 commentfile: 2017-06-17-event-st-margarets-virtues-camp
 category: around_town
 date: 2017-06-17 17:14:54
+image: "/assets/images/2017/St-Margarets-Virtues-Camp-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/St-Margarets-Virtues-Camp-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/St-Margarets-Virtues-Camp-2017-thumb.jpg" width="150" alt="Image - St-Margarets-Virtues-Camp-2017"  class="photo right"/></a>
-
     The annual St Margarets Virtues Camp is around the corner, taking place this year at The Winchester Room, Turk's Head, a fun day of character building activities for children aged three to eleven.
 ---
 

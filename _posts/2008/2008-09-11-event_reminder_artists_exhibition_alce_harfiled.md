@@ -5,8 +5,8 @@ permalink: /archives/2008/09/event_reminder_artists_exhibition_alce_harfiled.htm
 commentfile: 2008-09-11-event_reminder_artists_exhibition_alce_harfiled
 category: around_town
 date: 2008-09-11 15:47:12
+image: "/assets/images/2008/alce_gallery-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/alce_gallery.jpg"><img src="/assets/images/2008/alce_gallery-thumb.jpg" width="150" height="112" alt="Alce Harfield's work" class="photo right" /></a>
     
     
     

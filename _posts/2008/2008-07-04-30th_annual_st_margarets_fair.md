@@ -5,9 +5,8 @@ permalink: /archives/2008/07/30th_annual_st_margarets_fair.html
 commentfile: 2008-07-04-30th_annual_st_margarets_fair
 category: around_town
 date: 2008-07-04 08:27:30
+image: "/assets/images/2008/SMFLogo180.gif"
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img src="/assets/images/2008/SMFLogo180.gif" height="150" width="150" class="right" alt="" /></a>
-    
     This year the Fair will be on Saturday 12th July starting at 12.00
     
     <a href="http://www.stmargaretsfair.org/SMF08_map.gif">Here is a map of the fairground.</a>

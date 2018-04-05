@@ -5,9 +5,8 @@ permalink: /archives/2013/09/the_rivulet_of_happy_families.html
 commentfile: 2013-09-05-the_rivulet_of_happy_families
 category: around_town
 date: 2013-09-05 23:02:58
+image: "/assets/images/2013/CRANE_under_the_bridge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/CRANE_under_the_bridge.jpg" title="See larger version of - under the bridge"><img src="/assets/images/2013/CRANE_under_the_bridge_thumb.jpg" width="150" height="99" alt="under the bridge" class="photo right" /></a>
-    
     Unless you are one of those lucky souls who actually has the River Crane gurgling away at the bottom of your garden you may be unaware of the river or forgotten it. In the early 1930's the writer A.G Linney paid a visit to the river and was so taken by what he saw that he later described it as "A Rivulet of Happy Families" - a little flowery perhaps but true nevertheless. Well, the Crane does flow through St Margarets, doesn't it, which most of us think of as a demi-paradise, full of happy people skipping down flower-strewn streets to enjoy coffee at one of the many outlets.  This is what Linney wrote in 1932...
 
 ---

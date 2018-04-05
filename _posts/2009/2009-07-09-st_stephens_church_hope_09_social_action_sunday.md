@@ -5,8 +5,8 @@ permalink: /archives/2009/07/st_stephens_church_hope_09_social_action_sunday.htm
 commentfile: 2009-07-09-st_stephens_church_hope_09_social_action_sunday
 category: news
 date: 2009-07-09 08:44:10
+image: "/assets/images/2009/hope_group-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/hope_group.jpg"><img src="/assets/images/2009/hope_group-thumb.jpg" width="150" height="100" alt="Project team at ETNA" class="photo right" /></a>
     
     
     

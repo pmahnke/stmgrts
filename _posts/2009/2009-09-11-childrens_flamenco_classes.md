@@ -5,8 +5,8 @@ permalink: /archives/2009/09/childrens_flamenco_classes.html
 commentfile: 2009-09-11-childrens_flamenco_classes
 category: around_town
 date: 2009-09-11 10:08:28
+image: "/assets/images/2009/flemflyerpic-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/flemflyerpic.jpg"><img src="/assets/images/2009/flemflyerpic-thumb.jpg" width="103" height="150" alt="poster" class="photo right" /></a>
     
     
     

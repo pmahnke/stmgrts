@@ -5,9 +5,8 @@ permalink: /archives/2015/04/event_reminder_folk_storytellers_at_twickfolk_19_a.
 commentfile: 2015-04-03-event_reminder_folk_storytellers_at_twickfolk_19_a
 category: around_town
 date: 2015-04-03 09:13:20
+image: "/assets/images/2015/HarpandaMonkey3_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HarpandaMonkey3.jpg" title="See larger version of - Harp and a Monkey "><img src="/assets/images/2015/HarpandaMonkey3_thumb.jpg" width="150" height="116" alt="Harp and a Monkey " class="photo right" /></a>
-    
     TALES of cuckolded molecatchers, a lone oak tree that grows at Gallipoli, care in the community and medieval pilgrims - there's clearly going to be no shortage of talking points at a show in Twickenham this week!
     
 

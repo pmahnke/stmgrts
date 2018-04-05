@@ -5,9 +5,8 @@ permalink: /archives/2017/09/-event-marble-bill-doggie-drop-in.html
 commentfile: 2017-09-23-event-marble-bill-doggie-drop-in
 category: around_town
 date: 2017-09-23 08:44:03
+image: "/assets/images/2017/MARBLEHILL_Doggie-Drop-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/MARBLEHILL_Doggie-Drop.jpg" title="Click for a larger image"><img src="/assets/images/2017/MARBLEHILL_Doggie-Drop-thumb.jpg" width="150" alt="Image - MARBLEHILL_Doggie-Drop"  class="photo right"/></a>
-
     Marble Hill is epitomised by its canine visitors, and we're inviting local dogs and their owners to come along for a FREE drop-in event on Saturday 30 September between 9am and 12 noon, near the cricket pitch.
 
     Bring your dog along for a free activity morning. Have a go at agility, a tricks master class, or even bag a Kennel Club Good Citizen Dog Scheme Bronze Award.
