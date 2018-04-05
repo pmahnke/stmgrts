@@ -8,6 +8,7 @@ Just to share what we are doing on the site we are sharing a _change log_ of all
 
 |Date|Description|
 |----|-----------|
+|5 April 2018|Added [open graph](http://ogp.me/) and [schema.org](http://schema.org/Article) tags to make things look nicer on social media|
 |25 March 2018|Updated the css to [Vanilla framework](https://vanillaframework.io/)|
 |27 December 2017|Migrated to markdown for posts, fixed lots of missing images|
 |1 April 2017|Added recaptcha to catch comment spam|
