@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://google.com/article"
+  },
+  "headline": "{{ page.title }}",
+  "image": "{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/assets/images/stmgrts_logo_tree.png{% endif %}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{% if page.author %}{{ page.author }}{% else %}Peter Mahnke{% endif %}"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "St Margarets Community Website",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://stmargarets.london/assets/images/stmgrts_logo_tree.png"
+    }
+  },
+  "description": "{{ page.excerpt  | strip_html | strip_newlines | truncate: 250 }}"
+}
+</script>
