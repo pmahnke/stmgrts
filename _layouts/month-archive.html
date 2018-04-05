@@ -12,7 +12,8 @@ layout: default-empty
 <section class="p-strip is-shallow">
   <div class="row">
     <div class="col-8">
-    {% for post in page.posts limit: 10 %}
+
+      {% for post in page.posts limit: 10 %}
       <h2>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
@@ -25,7 +26,7 @@ layout: default-empty
       <p class="u-clearfix posted">
         {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
       </p>
-    {% endfor %}
+      {% endfor %}
 
       <h2>Older Articles</h2>
       <ul>

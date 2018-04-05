@@ -12,10 +12,6 @@ layout: default-empty
   <div class="row">
     <div class="col-8">
 
-
-<section class="p-strip">
-  <div class="row">
-    <div class="col-8 content">
       {% for post in page.posts limit: 10 %}
       <h2>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
