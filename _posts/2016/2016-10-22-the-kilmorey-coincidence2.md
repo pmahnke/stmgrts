@@ -6,9 +6,8 @@ commentfile: 2016-10-22-the-kilmorey-coincidence2
 category: around_town
 date: 2016-10-22 18:02:20
 author: "Martyn Day"
+image: "/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair.jpg" title="See larger version of - Francis Charles Needham Vanity Fair"><img src="/assets/images/2016/KILMOREYCOINCIDENCE2_Francis_Charles_Needham_Vanity_Fair_thumb.jpg" width="150" height="249" alt="Francis Charles Needham Vanity Fair" class="photo right" /></a>
-
     Most times coincidences feel like an unexpected serendipity that has been wafted along by a gentle breeze. Sometimes they feel like a cudgel beating you over the head. Once is interesting, twice is uncanny, three times are unsettling. When it comes to four times -- watch out for that cudgel!
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/05/richmond_council_helps_renovate_kilmorey_mausoleum.
 commentfile: 2015-05-14-richmond_council_helps_renovate_kilmorey_mausoleum
 category: news
 date: 2015-05-14 21:37:10
+image: "/assets/images/2015/Kilmorey_building_works_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Kilmorey_building_works_2015.jpg" title="See larger version of - Kilmorey building works 2015"><img src="/assets/images/2015/Kilmorey_building_works_2015_thumb.jpg" width="150" height="112" alt="Kilmorey building works 2015" class="photo right" /></a>
-    
     
     The architecturally magnificent Kilmorey Mausoleum will receive a &pound;70,000 renovation thanks to Richmond Council.
     

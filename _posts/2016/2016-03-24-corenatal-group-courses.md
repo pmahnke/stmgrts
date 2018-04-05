@@ -5,9 +5,8 @@ permalink: /archives/2016/03/corenatal-group-courses.html
 commentfile: 2016-03-24-corenatal-group-courses
 category: around_town
 date: 2016-03-24 20:56:13
+image: "/assets/images/2016/Corenatal_courses_2016_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Corenatal_courses_2016.jpg" title="See larger version of - Corenatal courses 2016"><img src="/assets/images/2016/Corenatal_courses_2016_thumb.jpg" width="150" height="200" alt="Corenatal courses 2016" class="photo right" /></a>
-
     It's ironic that a new mum takes on her most challenging physical role when she is potentially the most out of physical alignment. Lifting and carrying a baby can be a struggle if your ligaments are unstable and this in turn makes your spine vulnerable to injury. Even if you have a normal, low risk pregnancy, the right exercise plays a vital role in keeping you strong and healthy.
 
 ---

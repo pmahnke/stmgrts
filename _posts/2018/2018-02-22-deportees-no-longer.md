@@ -6,9 +6,8 @@ commentfile: 2018-02-22-deportees-no-longer
 author: Martyn Day
 category: around_town
 date: 2018-02-22 20:15:15
+image: "/assets/images/2018/DEPORTEES_DC3-and-deportees-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/DEPORTEES_DC3-and-deportees.jpg" title="Click for a larger image"><img src="/assets/images/2018/DEPORTEES_DC3-and-deportees-thumb.jpg" width="150" alt="Image - DEPORTEES_DC3-and-deportees"  class="photo right"/></a>
-
     70 years ago, on January 28<sup>th</sup> 1948, a poorly serviced Douglas DC3 passenger plane on its way to the Immigration and Naturalization Service Deportation Centre in El Centro, California, burst into flames over Los Gatos canyon in Fresno County and crashed, killing 28 Mexican migrant workers and the American crew of 4. Even though this was tragic event it might be assumed after such a long time that the crash and the loss of life would be forgotten but not so...
 
 ---

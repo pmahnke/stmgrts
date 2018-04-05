@@ -5,9 +5,8 @@ permalink: /archives/2011/08/photos_of_the_londonsurrey_cycle_classic.html
 commentfile: 2011-08-14-photos_of_the_londonsurrey_cycle_classic
 category: news
 date: 2011-08-14 11:15:43
+image: "/assets/images/2017/PRE_OLYMPIC_BIKE_lead-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/PRE_OLYMPIC_BIKE_lead.jpg" title="Click for a larger image"><img src="/assets/images/2017/PRE_OLYMPIC_BIKE_lead-thumb.jpg" width="250" alt="Image - PRE_OLYMPIC_BIKE_lead"  class="photo right"/></a>
-
     The Olympic test event, the London-Surrey Cycle Classic, raced through St Margarets this morning, 14 August 2011.  Approximately 180 riders passed through at approximately 40mph.  Thousands of residents turned up to cheer on the racers.
 
 ---

@@ -6,9 +6,8 @@ commentfile: 2016-04-23-bugle-boy-frederick-charles-brown
 category: around_town
 author: "Martyn Day"
 date: 2016-04-23 01:40:10
+image: "/assets/images/2016/BUGLE_boy_scout_and_bugle_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/BUGLE_boy_scout_and_bugle.jpg" title="See larger version of - boy scout and bugle"><img src="/assets/images/2016/BUGLE_boy_scout_and_bugle_thumb.jpg" width="150" height="195" alt="boy scout and bugle" class="photo right" /></a>
-
     On Thursday, 6 June 1918 a 17 year old boy from Isleworth, Frederick Charles Brown, the son of a tobacconist, died after a long illness. He was buried three days later in Isleworth Cemetery.
 
 ---

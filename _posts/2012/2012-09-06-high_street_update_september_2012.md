@@ -5,10 +5,9 @@ permalink: /archives/2012/09/high_street_update_september_2012.html
 commentfile: 2012-09-06-high_street_update_september_2012
 category: around_town
 date: 2012-09-06 22:06:50
+image: "/assets/images/2012/heart_125_transparent.png"
 excerpt: |
-    <img src="/assets/images/2012/heart_125_transparent.png" alt="St Margarets Traders Association" class="right"/>
-    
-    _St Margarets is open for business_
+    St Margarets is open for business
     
     St Margarets boosts a unique high street bursting with independent specialist shops offering a wide and varied range of goods, services and places to eat.
     

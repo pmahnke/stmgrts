@@ -5,9 +5,8 @@ permalink: /archives/2011/08/would_your_children_like_to_be_part_of_a_dance_per.
 commentfile: 2011-08-02-would_your_children_like_to_be_part_of_a_dance_per
 category: around_town
 date: 2011-08-02 09:24:53
+image: "/assets/images/2011/locatate_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/locatate.jpg" title="See larger version of - Locate logo"><img src="/assets/images/2011/locatate_thumb.jpg" width="150" height="31" alt="Locate logo" class=" right" /></a>
-
     LOCATE dance festival, run by Richmond Council's arts service is looking for young people from the age of 8 to 12 to get involved with a performance taking place in the 20<sup>th</sup> century gardens at Hampton Court Palace.
 
     This is an exciting opportunity to work with award winning choreographer Darren Johnston. Darren has been artist in residence at the Roundhouse, Camden, winner of the prestigious Herald Angel award and nominated for the Place Prize amongst countless others. His work combines theatrical dance and movement with playful costumes and witty ideas.

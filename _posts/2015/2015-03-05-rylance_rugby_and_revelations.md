@@ -5,9 +5,8 @@ permalink: /archives/2015/03/rylance_rugby_and_revelations.html
 commentfile: 2015-03-05-rylance_rugby_and_revelations
 category: around_town
 date: 2015-03-05 21:58:39
+image: "/assets/images/2015/ICHING_Mark_Rylance_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/ICHING_Mark_Rylance.jpg" title="See larger version of - ICHING Mark Rylance"><img src="/assets/images/2015/ICHING_Mark_Rylance_thumb.jpg" width="150" height="178" alt="Mark Rylance" class="photo right" /></a>
-    
     In 1986 a young actor was struggling with a difficult decision. Should he take up a tempting offer from Steven Spielberg to appear in his forthcoming feature film "The Empire of the Sun" or accept an invitation to join the company at the National Theatre? As Mark Rylance explained recently on "Desert Island Discs" he only made his decision after consulting the <em>'I Ching'</em> , or 'Book of Changes" - a familiar feature on many bookshelves in the 1960's alongside <em>"The Prophet"</em> by Kahil Gibran and the Desiderata... <em>"Go placidly amid the noise and the haste etc etc"</em>
 
 ---

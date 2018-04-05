@@ -5,8 +5,8 @@ permalink: /archives/2008/12/i_told_bob_dylan_he_was_dead.html
 commentfile: 2008-12-19-i_told_bob_dylan_he_was_dead
 category: news
 date: 2008-12-19 16:06:56
+image: "/assets/images/2008/bobdylan_nashvilleskyline-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/bobdylan_nashvilleskyline.jpg"><img src="/assets/images/2008/bobdylan_nashvilleskyline-thumb.jpg" width="150" height="136" alt="Nashville Skyline" class="photo right" /></a>
     
     
     

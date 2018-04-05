@@ -5,8 +5,8 @@ permalink: /archives/2011/06/event_reminder_st_margarets_fair_16_july_2011.html
 commentfile: 2011-06-17-event_reminder_st_margarets_fair_16_july_2011
 category: around_town
 date: 2011-06-17 15:27:18
+image: "/assets/images/directory/200507051436_St_Margarets_Fair.jpg"
 excerpt: |
-    <img src="/assets/images/directory/200507051436_St_Margarets_Fair.jpg"  alt="St_Margarets_Fair" width="150" class="right" />
     
     Come celebrate the 33rd annual St Margarets Fair on Moormead Park from <a href="https://stmargarets.london/event/fair/200705142755">noon to 8pm on 16th July 2011</a>
     

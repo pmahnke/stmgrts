@@ -5,9 +5,8 @@ permalink: /archives/2017/04/event-easter-egg-hunt-york-house.html
 commentfile: 2017-04-01-event-easter-egg-hunt-york-house
 category: around_town
 date: 2017-04-01 06:59:31
+image: "/assets/images/2017/easter-egg-hunt-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/easter-egg-hunt.jpg" title="Click for a larger image"><img src="/assets/images/2017/easter-egg-hunt-thumb.jpg" width="150" alt="Image - easter-egg-hunt"  class="photo right"/></a>
-
 
     Get into the Easter Spirit and raise some money for charity by coming along to the Mayor's Easter Egg Hunt on Friday, 14 April 2017. All the usual trimmings can be expected from the hunt but booking is essential to avoid disappointment for your little ones.
 

@@ -5,8 +5,8 @@ permalink: /archives/2006/06/moormead_playgr.html
 commentfile: 2006-06-19-moormead_playgr
 category: news
 date: 2006-06-19 21:19:04
+image: "/assets/images/2006/playground_older-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/playground_older.jpg"><img src="/assets/images/2006/playground_older-thumb.jpg" width="150" height="112" alt="Older Kids Area"  class="photo right" /></a>
     
     For those of you who have not been in Moormead Park lately, work has begun on the refurbishment of the playground.  Starting about three weeks ago, the old playground has been completely removed as well as the fence parallel to Moormead Road.
     

@@ -5,10 +5,9 @@ permalink: /archives/2015/02/digging_new_ground_at_our_barn.html
 commentfile: 2015-02-26-digging_new_ground_at_our_barn
 category: around_town
 date: 2015-02-26 22:47:08
+image: "/assets/images/2015/our_barn_outside_thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2015/our_barn_outside.jpg" title="See larger version of - our barn outside"><img src="/assets/images/2015/our_barn_outside_thumb.jpg" width="150" height="112" alt="our barn outside" class="photo right" /></a>
-    
+        
 
 ---
 

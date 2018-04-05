@@ -5,8 +5,8 @@ permalink: /archives/2009/11/continuing_train_problems.html
 commentfile: 2009-11-21-continuing_train_problems
 category: news
 date: 2009-11-21 21:58:53
+image: "/assets/images/2009/feltham_bridge_outage-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/feltham_bridge_outage.jpg"><img src="/assets/images/2009/feltham_bridge_outage-thumb.jpg" width="300" height="225" alt="Feltham Bridge" class="photo center" /></a>
     
     
     Because of extensive flood damage to a river bridge in the Feltham area, trains are currently unable to run on lines between Hounslow / Whitton and Feltham.

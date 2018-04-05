@@ -5,9 +5,8 @@ permalink: /archives/2015/04/register_your_support_for_proposed_richmond_bridge.
 commentfile: 2015-04-26-register_your_support_for_proposed_richmond_bridge
 category: news
 date: 2015-04-26 08:42:35
+image: "/assets/images/2015/richmond_bridge_girl-and-teacher_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/richmond_bridge_girl-and-teacher.jpg" title="See larger version of - richmond bridge girl and teacher"><img src="/assets/images/2015/richmond_bridge_girl-and-teacher_thumb.jpg" width="150" height="100" alt="richmond bridge girl and teacher" class="photo right" /></a>
-    
     Bellevue Place Education Trust has announced that it will be submitting an application to the Department for Education for a primary free school in the St Margarets/East Twickenham area in May.
 
 ---

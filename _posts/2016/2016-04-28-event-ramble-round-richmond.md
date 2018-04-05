@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-ramble-round-richmond.html
 commentfile: 2016-04-28-event-ramble-round-richmond
 category: around_town
 date: 2016-04-28 2016-04-28 19:58:37
+image: "/assets/images/2016/Ramble-round-Richmond_2016_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/Ramble-round-Richmond_2016.png" title="See larger version of - Ramble round Richmond 2016"><img src="/assets/images/2016/Ramble-round-Richmond_2016_thumb.png" width="150" height="212" alt="Ramble round Richmond 2016" class="photo right" /></a>
-
     Action on Hearing Loss' annual sponsored walk around Richmond Park- Ramble Round Richmond- taking place on Saturday 7<sup>th</sup> May 2016, starting at Sheen Gate Car Park at 9:30am.
 
 ---

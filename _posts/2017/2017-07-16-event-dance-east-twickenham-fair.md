@@ -5,9 +5,8 @@ permalink: /archives/2017/07/event-dance-east-twickenham-fair.html
 commentfile: 2017-07-16-event-dance-east-twickenham-fair
 category: around_town
 date: 2017-07-16 10:29:28
+image: "/assets/images/2017/event-east-twick-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/event-east-twick-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/event-east-twick-2017-thumb.jpg" width="150" alt="Image - event-east-twick-2017"  class="photo right"/></a>
-
     A specially commissioned dance event celebrating the history of the Belgian Refugees who lived and worked in East Twickenham during the First World War.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/03/event_reminder_recruitment_and_conscientious_objec.
 commentfile: 2015-03-16-event_reminder_recruitment_and_conscientious_objec
 category: around_town
 date: 2015-03-16 22:35:19
+image: "/assets/images/2015/recruitment-in-richmond-park_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/recruitment-in-richmond-park.jpg" title="See larger version of - recruitment in richmond park"><img src="/assets/images/2015/recruitment-in-richmond-park_thumb.jpg" width="150" height="107" alt="recruitment in richmond park" class="photo right" /></a>
-    
     _A talk by WWI Historian Dr Chris Kempshall_
     
     As part of a series of events to coincide with our WWI exhibition, Dr Kempshall will be discussing recruitment and conscientious objection with an audience <a href="https://stmargarets.london/event/event/200705144908">at the Museum of Richmond on April 1<sup>st</sup> 2015 at 2pm.</a>

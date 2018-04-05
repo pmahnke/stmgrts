@@ -5,9 +5,8 @@ permalink: /archives/2013/05/fire_starter.html
 commentfile: 2013-05-23-fire_starter
 category: around_town
 date: 2013-05-23 22:47:16
+image: "/assets/images/2013/FIRESTARTER_Burning_Church_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/FIRESTARTER_Burning_Church.jpg" title="See larger version of - Burning Church"><img src="/assets/images/2013/FIRESTARTER_Burning_Church_thumb.jpg" width="150" height="92" alt="Burning Church" class="photo right" /></a>
-    
     In the early hours of Friday, 28<sup>th</sup> May 1943, All Saints Church, standing by the Thames in Old Isleworth, was destroyed by fire. The alarm was given at 2.30am by Miss Burrage who lived next door and again by Mr. McDonald, the publican of the "London Apprentice". Against the darkness of the wartime black-out the glow of the huge fire could be seen for miles.
     
 

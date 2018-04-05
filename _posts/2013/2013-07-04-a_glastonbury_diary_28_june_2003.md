@@ -5,9 +5,8 @@ permalink: /archives/2013/07/a_glastonbury_diary_28_june_2003.html
 commentfile: 2013-07-04-a_glastonbury_diary_28_june_2003
 category: around_town
 date: 2013-07-04 21:04:46
+image: "/assets/images/2013/GLASTO_Glastonbury-Festival_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/GLASTO_Glastonbury-Festival.jpg" title="See larger version of - Glastonbury Festival"><img src="/assets/images/2013/GLASTO_Glastonbury-Festival_thumb.jpg" width="150" height="100" alt="Glastonbury Festival" class="photo right" /></a>
-    
     
     In March 2003 a friend of mine said that his group - 'Biggles Wartime Band' - had been booked to play at Glastonbury and there was a vacant spot on the bill.  Did my band want to take it? So me and Bob and Dominic and Graham and Steve and Roger gave it our very best consideration for a nanosecond and then said that we would. There would be no money or accommodation or groupie fringed hot tubs of course- but we were the Ragin' Cajuns and we were ready to rock!
     

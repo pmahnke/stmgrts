@@ -5,8 +5,8 @@ permalink: /archives/2009/10/a_london_childhood_barzo_and_the_underground_army.h
 commentfile: 2009-10-16-a_london_childhood_barzo_and_the_underground_army
 category: around_town
 date: 2009-10-16 18:20:52
+image: "/assets/images/2009/childs_cap_gun-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/childs_cap_gun.jpg"><img alt=" A CHILD'S CAP GUN" src="/assets/images/2009/childs_cap_gun-thumb.jpg" width="150" height="72" class="right" /></a>
 
     We knew all about the war at Burghley Road Primary School. Our Dads had fought it, our Mums were still sweeping up the mess and we, the boys of Miss Kirby's class, had heard all the stories and were now busily embellishing them.
 

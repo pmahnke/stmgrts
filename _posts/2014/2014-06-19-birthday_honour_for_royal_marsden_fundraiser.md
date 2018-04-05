@@ -5,9 +5,8 @@ permalink: /archives/2014/06/birthday_honour_for_royal_marsden_fundraiser.html
 commentfile: 2014-06-19-birthday_honour_for_royal_marsden_fundraiser
 category: news
 date: 2014-06-19 19:30:09
+image: "/assets/images/2014/Mandie-Adams-McGuire-MBE-and-Cally-Palmer-CBE_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Mandie-Adams-McGuire-MBE-and-Cally-Palmer-CBE.jpg" title="See larger version of - Mandie Adams McGuire MBE and Cally Palmer CBE"><img src="/assets/images/2014/Mandie-Adams-McGuire-MBE-and-Cally-Palmer-CBE_thumb.jpg" width="150" height="112" alt="Mandie Adams McGuire MBE and Cally Palmer CBE" class="photo right" /></a>
-    
     The David Adams Leukaemia Appeal Fund is delighted to share the news that its founder and chairman, Mandie Adams McGuire, has been honoured with an MBE in the Queens' Birthday honours.
     
 

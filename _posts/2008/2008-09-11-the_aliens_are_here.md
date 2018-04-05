@@ -5,8 +5,8 @@ permalink: /archives/2008/09/the_aliens_are_here.html
 commentfile: 2008-09-11-the_aliens_are_here
 category: news
 date: 2008-09-11 16:27:29
+image: "/assets/images/2008/aliens-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/aliens.jpg"><img src="/assets/images/2008/aliens-thumb.jpg" width="350" height="87" alt="aliens" class="photo center" /></a>
     
     
     

@@ -5,9 +5,8 @@ permalink: /archives/2010/10/event_reminder_2x2_operas_cinderella_by_rossini.htm
 commentfile: 2010-10-30-event_reminder_2x2_operas_cinderella_by_rossini
 category: around_town
 date: 2010-10-30 08:40:54
+image: "/assets/images/2010/2x2_cinderella_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/2x2_cinderella_poster.jpg" title="See larger version of - 2x2 Cinderella Poster"><img src="/assets/images/2010/2x2_cinderella_poster_thumb.jpg" width="106" height="150" alt="2x2 Cinderella Poster" class="photo right" /></a>
-
     2x2 Opera for Young People is <a href="https://stmargarets.london/event/show/200705142623">presenting 4 performances of Rossini's brilliant comic opera Cinderella</a> In this new up-to-date version Angelina, (Cinderella's real name), and her down-trodden father slave away in the kitchen of the family's newly opened cup cake boutique, 'Haute Petit Gateaux'.
 
 ---

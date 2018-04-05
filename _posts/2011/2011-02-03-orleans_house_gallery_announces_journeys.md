@@ -5,9 +5,8 @@ permalink: /archives/2011/02/orleans_house_gallery_announces_journeys.html
 commentfile: 2011-02-03-orleans_house_gallery_announces_journeys
 category: around_town
 date: 2011-02-03 20:03:52
+image: "/assets/images/2011/journeyslowres_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/journeyslowres.jpg" title="See larger version of - Journeys"><img src="/assets/images/2011/journeyslowres_thumb.jpg" width="150" height="99" alt="Journeys" class="photo right" /></a>
-    
     Orleans House Gallery launches Journeys, which has involved more than 80 local young people from the London Borough of Richmond upon Thames and is part of the Cultural Olympiad project, Stories of the World: London.  This project is transforming 23 London museums across 17 boroughs by drawing on the skills, energy and enthusiasm of young Londoners to help them tell the story of London as a world city.
 
 ---

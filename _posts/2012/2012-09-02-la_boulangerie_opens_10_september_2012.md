@@ -5,9 +5,8 @@ permalink: /archives/2012/09/la_boulangerie_opens_10_september_2012.html
 commentfile: 2012-09-02-la_boulangerie_opens_10_september_2012
 category: news
 date: 2012-09-02 17:15:19
+image: "/assets/images/2012/michel_la_boulanger_of_tw_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/michel_la_boulanger_of_tw.jpg" title="See larger version of - Welcome from Michel - votre Boulanger "><img src="/assets/images/2012/michel_la_boulanger_of_tw_thumb.jpg" width="150" height="149" alt="Welcome from Michel - votre Boulanger " class="photo right" /></a>
-
     <em>Welcome to 'The Bakery' opening Monday 10<sup>th</sup> September
     Mangez du pain, Vous vivrez bien!</em>
 

@@ -5,8 +5,8 @@ permalink: /archives/2008/10/sundays_were_different_then_14th_april_1963.html
 commentfile: 2008-10-22-sundays_were_different_then_14th_april_1963
 category: around_town
 date: 2008-10-22 09:01:41
+image: "/assets/images/2008/crawdaddy_stones-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/crawdaddy_stones.jpg"><img src="/assets/images/2008/crawdaddy_stones-thumb.jpg" width="150" height="112" alt="photo by Phil Bird from www.eelpie.org/music01.htm" class="photo right" /></a>
     
     
     

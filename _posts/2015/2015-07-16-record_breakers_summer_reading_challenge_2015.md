@@ -5,9 +5,8 @@ permalink: /archives/2015/07/record_breakers_summer_reading_challenge_2015.html
 commentfile: 2015-07-16-record_breakers_summer_reading_challenge_2015
 category: around_town
 date: 2015-07-16 19:43:34
+image: "/assets/images/2015/record-breakers-logo_smaller_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/record-breakers-logo_smaller.png" title="See larger version of - record breakers logo"><img src="/assets/images/2015/record-breakers-logo_smaller_thumb.png" width="150" height="143" alt="record breakers logo" class=" right" /></a>
-    
     Record Breakers is this year's Summer Reading Challenge in libraries all over the country for children aged 4 to 11, produced by The Reading Agency in association with Guinness World Records.
 
 ---

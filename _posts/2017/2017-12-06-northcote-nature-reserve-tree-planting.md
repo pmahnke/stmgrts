@@ -5,9 +5,8 @@ permalink: /archives/2017/12/northcote-nature-reserve-tree-planting.html
 commentfile: 2017-12-06-northcote-nature-reserve-tree-planting
 category: news
 date: 2017-12-06 19:40:43
+image: "/assets/images/2017/Vanessa-Smith-and-Rev-of-All-Souls-Church_Richard-Frank-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Vanessa-Smith-and-Rev-of-All-Souls-Church_Richard-Frank.jpg" title="Click for a larger image"><img src="/assets/images/2017/Vanessa-Smith-and-Rev-of-All-Souls-Church_Richard-Frank-thumb.jpg" width="150" alt="Image - Vanessa-Smith-and-Rev-of-All-Souls-Church_Richard-Frank"  class="photo right"/></a>
-
     On Sunday 3rd December, local residents planted eight trees to mark the inauguration of the new Northcote Nature Reserve in Isleworth.
 
     The Nature Reserve is the northernmost point of the recently announced Lower Crane Restoration Project, which aims to restore 3km of riverside paths and create a more natural river along the adjacent river Crane.

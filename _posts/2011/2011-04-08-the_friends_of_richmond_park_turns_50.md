@@ -5,9 +5,8 @@ permalink: /archives/2011/04/the_friends_of_richmond_park_turns_50.html
 commentfile: 2011-04-08-the_friends_of_richmond_park_turns_50
 category: news
 date: 2011-04-08 08:28:41
+image: "/assets/images/2011/RP_Deer-deaths-newspaper_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2011/RP_Deer-deaths-newspaper.gif" title="See larger version of - Deer deaths newspaper article"><img src="/assets/images/2011/RP_Deer-deaths-newspaper_thumb.gif" width="150" height="183" alt="Deer deaths newspaper article" class="photo right" /></a>
-
     Richmond Park is a unique space.  Today it is recognised as a National Nature Reserve and a Site of Special Scientific Interest, but it has always been an oasis of peace for visitors.  However, in 1961 it came under threat when Lord John Hope, Minister of Transport, raised the speed limit on Park roads from 20mph to 30mph, and opened the gates to traffic after dark.  Accidents increased, with injuries to deer and people.
 
 ---

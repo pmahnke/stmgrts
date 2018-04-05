@@ -5,9 +5,8 @@ permalink: /archives/2010/07/the_ballad_of_the_crane.html
 commentfile: 2010-07-01-the_ballad_of_the_crane
 category: around_town
 date: 2010-07-01 09:59:59
+image: "/assets/images/2010/River-Crane-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/River-Crane-1.jpg" title="See larger version of - River Crane"><img src="/assets/images/2010/River-Crane-1_thumb.jpg" width="150" height="99" alt="River Crane" class="photo right" /></a>
-    
     I sometimes wonder myself how many people living in St. Margarets today actually know about the River Crane. Although it runs right through our neighbourhood it is hidden and out of sight, lost behind fences and hedges, tucked away at the bottom of gardens and buried under bridges and culverts. 
 
 ---

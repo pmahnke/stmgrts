@@ -5,9 +5,8 @@ permalink: /archives/2010/03/f_is_for_flooding.html
 commentfile: 2010-03-12-f_is_for_flooding
 category: around_town
 date: 2010-03-12 08:44:27
+image: "/assets/images/2010/RiverCrane1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/RiverCrane1.jpg" title="See larger version of - River Crane"><img src="/assets/images/2010/RiverCrane1_thumb.jpg" width="150" height="99" alt="boats on the River Crane" class="photo right" /></a>
-    
     
     Those of us who live along the banks of the tidal River Crane in north St Margarets love our river. We build decking and jetties alongside it, our children paddle in it, we delight in the wildlife that lives along its banks. We keep small boats on it and every year in the summer we gather as a community to clean it out. We enjoy our river, and yet...
     

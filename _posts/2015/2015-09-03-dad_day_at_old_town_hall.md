@@ -5,9 +5,8 @@ permalink: /archives/2015/09/dad_day_at_old_town_hall.html
 commentfile: 2015-09-03-dad_day_at_old_town_hall
 category: around_town
 date: 2015-09-03 22:23:50
+image: "/assets/images/2015/Dad_Day_Flyer_20150903_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Dad_Day_Flyer_20150903.jpg" title="See larger version of - Dad Day Flyer 20150903"><img src="/assets/images/2015/Dad_Day_Flyer_20150903_thumb.jpg" width="150" height="212" alt="Dad Day Flyer 20150903" class="photo right" /></a>
-    
     Dad Day is a programme of creative activities especially for Dads or male carers and their children from babies to 10 years. Dads can join us for practical artist-led workshops exploring different themes and techniques including animation, print-making, construction and painting.
 
 ---

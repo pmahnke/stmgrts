@@ -5,9 +5,8 @@ permalink: /archives/2014/11/the_war_walk_1_from_the_ailsa_to_ypres.html
 commentfile: 2014-11-06-the_war_walk_1_from_the_ailsa_to_ypres
 category: around_town
 date: 2014-11-06 22:18:06
+image: "/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/WARWALK-Troops_sheltering_by_road.jpg" title="See larger version of - Troops sheltering by road"><img src="/assets/images/2014/WARWALK-Troops_sheltering_by_road_thumb.jpg" width="150" height="121" alt="Troops sheltering by road" class="photo right" /></a>
-    
     Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, in Haliburton Road.  With the information gathered, on Saturday October 25<sup>th</sup> NSMRA was able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Here are some of those WW1 stories from our own streets...
 
 ---

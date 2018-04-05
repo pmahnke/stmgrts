@@ -5,9 +5,8 @@ permalink: /archives/2018/02/social-media-help.html
 commentfile: 2018-02-17-social-media-help
 category: around_town
 date: 2018-02-17 12:56:45
+image: "/assets/images/2018/swedish-social-media-company-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/swedish-social-media-company.jpg" title="Click for a larger image"><img src="/assets/images/2018/swedish-social-media-company-thumb.jpg" width="150" alt="Image - swedish-social-media-company"  class="photo right"/></a>
-
     As part of their course, two women from the Swedish School in Richmond have created a company to help people with getting to grips with social media and technology.
 
 ---

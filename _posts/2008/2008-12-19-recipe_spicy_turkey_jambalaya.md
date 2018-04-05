@@ -5,8 +5,8 @@ permalink: /archives/2008/12/recipe_spicy_turkey_jambalaya.html
 commentfile: 2008-12-19-recipe_spicy_turkey_jambalaya
 category: food
 date: 2008-12-19 14:05:21
+image: "/assets/images/2008/Spicy_Turkey_Jambalaya-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/Spicy_Turkey_Jambalaya.jpg"><img src="/assets/images/2008/Spicy_Turkey_Jambalaya-thumb.jpg" width="150" height="112" alt="Steaming Plate of Spicy Turkey Jambalaya" class="photo right" /></a>
     
     
     bq. "Christmas is soon approaching and many of us will be sitting down in a little less than a week to a huge turkey dinner.  For the cooks in the family, the turkey dinner is a true feat of ability.  Trying to get the turkey nicely browned, the sprouts perfectly cooked, the potatoes roasted to crispiness, all while keeping the in-laws and children at bay, truly requires immense planning and timing abilities and tests the skill of even the most talented chef.  It's no wonder then that after Christmas dinner is over, the cook is exhausted and ready to throw the turkey some place where it will never been seen again!  Don't do it!  There are so many brilliant ways of using those turkey leftovers that aren't just boring sandwiches and microwaved leftovers.  My absolute favourite way of using turkey leftovers is to make a hearty jambalaya full of spices and vegetables."

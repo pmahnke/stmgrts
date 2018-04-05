@@ -5,9 +5,8 @@ permalink: /archives/2015/05/election_results_2015_tania_mathias_wins.html
 commentfile: 2015-05-08-election_results_2015_tania_mathias_wins
 category: news
 date: 2015-05-08 21:07:48
+image: "/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Tania_Mathias_and_Boris_Johnson.jpg" title="See larger version of - Tania Mathias and Boris Johnson"><img src="/assets/images/2015/Tania_Mathias_and_Boris_Johnson_thumb.jpg" width="150" height="92" alt="Tania Mathias and Boris Johnson" class="photo right" /></a>
-
     We have a new MP.  Conservative Tania Mathias has pushed out Vince Cable.
 
     What do you think?

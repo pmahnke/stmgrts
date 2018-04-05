@@ -5,8 +5,8 @@ permalink: /archives/2007/02/marathon_duet.html
 commentfile: 2007-02-26-marathon_duet
 category: around_town
 date: 2007-02-26 22:17:40
+image: "/assets/images/2007/marathon_duet-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/marathon_duet.jpg"><img src="/assets/images/2007/marathon_duet-thumb.jpg" width="103" height="150" alt="Rachel Evans and Loretta Hopkins" class="photo right" /></a>
     
     
     Rachel Evans, a local woman, is running in the London Marathon in April.  She has committed to raise &pound;2000 for the <a href="http://www.nch.org.uk/,">NCH</a> 'the children's charity' and <a href="http://www2.stmartin-in-the-fields.org/page/building/support.html">St Martin-in-the-fields Building Project</a>  As Rachel happens to be a soprano with St Martin-in-the-fields, to help raise funds  she has organised <a href="https://stmargarets.london/event/Concert/200702261611">A Concert for Mother's Day</a> -- an evening of Arias Duets and Trios from Oratorio, Opera and Shows at <a href="https://stmargarets.london/directory/church/200505180329">St Mary the Virgin Church</a> in Twickenham on 18<sup>th</sup> March.  Rachel will be performing with Loretta Hopkins with special guest Gregory Tassell.

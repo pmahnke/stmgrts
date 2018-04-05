@@ -5,8 +5,8 @@ permalink: /archives/2011/01/the_thames_angling_conservancy.html
 commentfile: 2011-01-27-the_thames_angling_conservancy
 category: news
 date: 2011-01-27 08:55:43
+image: "/assets/images/2011/tac_logo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/tac_logo.jpg"><img alt="tac_logo.jpg" src="/assets/images/2011/tac_logo-thumb.jpg" width="83" height="147" class="right" /></a>
     
     The TAC is a Free to join voluntary organisation established at the beginning of 2010 and run by anglers, wanting to help in the conservation of the River Thames.
     

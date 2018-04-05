@@ -5,9 +5,8 @@ permalink: /archives/2018/03/lbrut-pushes-drinking-fountains.html
 commentfile: 2018-03-19-lbrut-pushes-drinking-fountains
 category: news
 date: 2018-03-19 09:58:24
+image: "/assets/images/2018/bubbler-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/bubbler.jpg" title="Click for a larger image"><img src="/assets/images/2018/bubbler-thumb.jpg" width="150" alt="Image - bubbler"  class="photo right"/></a>
-
     Go with the flow and ditch plastics for parks' water fountains
 
     Drinking fountains in a number of our parks and open spaces are helping people ditch single use plastic water bottles for good.

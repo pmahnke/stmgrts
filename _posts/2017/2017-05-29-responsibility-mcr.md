@@ -6,9 +6,8 @@ commentfile: 2017-05-29-responsibility-mcr
 category: editorial
 date: 2017-05-29 06:12:55
 author: Martyn Day
+image: "/assets/images/2017/Manchester-Arena-2-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Manchester-Arena-2.jpg" title="Click for a larger image"><img src="/assets/images/2017/Manchester-Arena-2-thumb.jpg" width="150" alt="Image - Manchester-Arena-2"  class="photo right"/></a>
-
     We are surrounded by people who are responsible, people we can rely on. They help hold together our communities and our society. Responsible people. People who are <em>"morally accountable for their actions"</em>. Not just the obvious ones like doctors and nurses and teachers and ministers of religion, people who according to the dictionary are  <em>"capable of rational conduct, of good credit or position or repute, respectable, apparently trustworthy"</em>.
 
 

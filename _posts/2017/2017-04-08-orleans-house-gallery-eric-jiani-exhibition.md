@@ -5,11 +5,9 @@ permalink: /archives/2017/04/orleans-house-gallery-eric-jiani-exhibition.html
 commentfile: 2017-04-08-orleans-house-gallery-eric-jiani-exhibition
 category: around_town
 date: 2017-04-08 17:27:30
+image: "/assets/images/2017/ORLEANS_eric-jiani-thumb.jpg"
 excerpt: |
-   <a href="/assets/images/2017/ORLEANS_eric-jiani.jpg" title="Click for a larger image"><img src="/assets/images/2017/ORLEANS_eric-jiani-thumb.jpg" width="150" alt="Image - ORLEANS_eric-jiani"  class="photo right"/></a>
-
-
-   A self-taught autistic artist has launched his latest beautiful but haunting portrayal of his imaginative world at a new exhibition at the Stables Gallery, in Orleans House Gallery.
+    A self-taught autistic artist has launched his latest beautiful but haunting portrayal of his imaginative world at a new exhibition at the Stables Gallery, in Orleans House Gallery.
 
 ---
 

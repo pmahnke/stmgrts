@@ -5,9 +5,8 @@ permalink: /archives/2013/06/biking_for_children_in_care_20_june_2013.html
 commentfile: 2013-06-13-biking_for_children_in_care_20_june_2013
 category: around_town
 date: 2013-06-13 19:07:53
+image: "/assets/images/2013/gill_timmis_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/gill_timmis.jpg" title="See larger version of - gill timmis"><img src="/assets/images/2013/gill_timmis_thumb.jpg" width="150" height="150" alt="gill timmis" class="photo right"  class="photo right" /></a>
-    
     Long-range cyclists from St Margarets, Twickenham and many parts of Britain head off to Holland next week (20<sup>th</sup> June) for Double Dutch - their second children's charity ride through Holland.
     
     The Biking for Children in Care team of more than 50 riders, aged 20 to 70, plus a nine-strong support team, will be making their 12<sup>th</sup> ride to raise funds for the Who Cares? Trust kids' charity.

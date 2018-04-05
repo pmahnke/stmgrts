@@ -5,9 +5,8 @@ permalink: /archives/2013/06/village_newsletters_launched_june_2013.html
 commentfile: 2013-06-21-village_newsletters_launched_june_2013
 category: news
 date: 2013-06-21 10:21:15
+image: "/assets/images/2013/all_in_one_logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/all_in_one_logo.jpg" title="See larger version of - all in one logo"><img src="/assets/images/2013/all_in_one_logo_thumb.jpg" width="150" height="52" alt="all in one logo" class=" right" /></a>
-    
     Last Week Richmond Council launched its new Village e-Newsletters - localised email updates that are sent to over 25,000 residents.
     
     As well as council updates, they also showcase the work being carried out by local community groups or individuals and let people know how they can get involved.

@@ -5,9 +5,8 @@ permalink: /archives/2010/02/this_is_a_food_war.html
 commentfile: 2010-02-25-this_is_a_food_war
 category: around_town
 date: 2010-02-25 20:31:20
+image: "/assets/images/2010/austerity_1_thumb.png"
 excerpt: |
-    <a href="/assets/images/2010/austerity_1.png" title="See larger version of - Dig for Victory"><img src="/assets/images/2010/austerity_1_thumb.png" width="98" height="150" alt="Dig for Victory" class="photo right" /></a>
-
     Seventy years ago, on the 8<sup>th</sup> January 1940, the wartime government introduced food rationing - a control that was to remain in force for the next fourteen years.  All over the country people started tightening their belts at the sobering news that their personal weekly food ration would be:-
 
 ---

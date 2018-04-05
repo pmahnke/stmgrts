@@ -5,9 +5,8 @@ permalink: /archives/2016/01/smta-adam-tocock-steps-down.html
 commentfile: 2016-01-29-smta-adam-tocock-steps-down
 category: editorial
 date: 2016-01-29 19:59:15
+image: "/assets/images/2016/adam_tocock_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/adam_tocock.jpg" title="See larger version of - adam tocock"><img src="/assets/images/2016/adam_tocock_thumb.jpg" width="150" height="112" alt="adam tocock" class="photo right" /></a>
-
     After many years of service, Adam Tocock is stepping down from his role with the St Margarets Traders Association.  Adam helped organise the group and all their activities, including publishing the wonderful St Margarets magazines and running the semi-annual Crown Road fairs.  It is hard and often unappreciated work, but Adam pushed forward with a smile on his face and a ready joke.  Thank you Adam and we will see you at Cutters.
 ---
 

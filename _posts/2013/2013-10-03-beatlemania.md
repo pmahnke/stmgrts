@@ -5,9 +5,8 @@ permalink: /archives/2013/10/beatlemania.html
 commentfile: 2013-10-03-beatlemania
 category: around_town
 date: 2013-10-03 22:05:28
+image: "/assets/images/2013/BEATLEMANIA_palace_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/BEATLEMANIA_palace.jpg" title="See larger version of - BEATLEMANIA at the Palace"><img src="/assets/images/2013/BEATLEMANIA_palace_thumb.jpg" width="150" height="129" alt="BEATLEMANIA at the Palace" class="photo right" /></a>
-    
     
     Beatlemania started - more or less - exactly 50 years ago this week. Who actually come up with the concept is difficult to say because there have been many pretenders. The leading contender is Andi Lothian, a former Scottish music promoter, who claims that he coined the term on 7<sup>th</sup> October 1963, while speaking to a reporter at a Beatles concert in the Caird Hall, Dundee.
 

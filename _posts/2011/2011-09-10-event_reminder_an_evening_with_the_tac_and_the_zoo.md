@@ -5,9 +5,8 @@ permalink: /archives/2011/09/event_reminder_an_evening_with_the_tac_and_the_zoo.
 commentfile: 2011-09-10-event_reminder_an_evening_with_the_tac_and_the_zoo
 category: around_town
 date: 2011-09-10 12:19:10
+image: "/assets/images/2011/tac_an_eve10_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/tac_an_eve10.jpg" title="See larger version of - event poster"><img src="/assets/images/2011/tac_an_eve10_thumb.jpg" width="150" height="211" alt="event poster" class="photo right" /></a>
-
     For our first Autumn event we are pleased to have the ZSL coming down to give us a talk on their work.  Learn about their Eel monitoring programmes on the Thames along with other work, including the subject of invasive species.  A great opportunity to learn more about the Thames and to ask plenty of questions.  Come and find out what lives within our river and how it affects our fishing.
 
 ---

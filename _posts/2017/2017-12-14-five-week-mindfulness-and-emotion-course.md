@@ -5,9 +5,8 @@ permalink: /archives/2017/12/five-week-mindfulness-and-emotion-course.html
 commentfile: 2017-12-14-five-week-mindfulness-and-emotion-course
 category: around_town
 date: 2017-12-14 12:43:08
+image: "/assets/images/2017/course-flame-of-the-heart-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/course-flame-of-the-heart.jpg" title="Click for a larger image"><img src="/assets/images/2017/course-flame-of-the-heart-thumb.jpg" width="150" alt="Image - course-flame-of-the-heart"  class="photo right"/></a>
-
     Working skilfully with our emotional landscape is one of the biggest challenges of being human.  In this modern world many of us are caught within a confusing contradiction &mdash; pressured to work harder and harder while simultaneously living and pursuing a fuller and happier life.  It's not surprising that this can lead to a sense of overwhelm and defeat.  Our emotions, instead of being regarded as valued messengers from the heart, become assailants and barriers. Without realising it, we can easily move into a place of emotional estrangement and numbness.
 
 ---

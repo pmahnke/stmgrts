@@ -5,9 +5,8 @@ permalink: /archives/2013/11/my_adventures_in_time_and_space.html
 commentfile: 2013-11-22-my_adventures_in_time_and_space
 category: around_town
 date: 2013-11-22 21:36:43
+image: "/assets/images/2013/DRWHO_jon_pertwee_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/DRWHO_jon_pertwee.jpg" title="See larger version of - Jon Pertwee"><img src="/assets/images/2013/DRWHO_jon_pertwee_thumb.jpg" width="150" height="181" alt="Jon Pertwee" class="photo right" /></a>
-    
     
     This being the 50<sup>th</sup> anniversary of the first incarnation of 'Dr. Who' and me not having been inside the Tardis for over 40 years I think that I can now safely reveal some secrets ... although I should add that for the sake of Universal Copyright (<em>"in this world, all known worlds and all worlds yet to be discovered")</em> this article was written under the terms of the Protocol of Perpetual Silence determined by the Council of Gallifrey on the Doctor's first incarnation in ED1963.
 

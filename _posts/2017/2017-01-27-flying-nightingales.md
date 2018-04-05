@@ -6,9 +6,8 @@ commentfile: 2017-01-27-flying-nightingales
 category: around_town
 author: "Martyn Day"
 date: 2017-01-27 07:55:37
+image: "/assets/images/2017/NIGHTINGALE_Lydia-Alford-and-Dakota-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/NIGHTINGALE_Lydia-Alford-and-Dakota.jpg" title="Click for a larger image"><img src="/assets/images/2017/NIGHTINGALE_Lydia-Alford-and-Dakota-thumb.jpg" width="150" alt="Image - NIGHTINGALE_Lydia-Alford-and-Dakota"  class="photo right"/></a>
-
     This is Lydia Alford, a corporal and nursing orderly in the Women's Auxiliary Air Force - the WAAF. She and two colleagues were the first women to fly into the Normandy battle zone after the D Day landings to help evacuate the wounded. They were among hundreds of thousands of women who came forward between 1939 and 1945 to help fight the war - working in factories, driving ambulances, ferrying aircraft and working in the services as radar operators, air traffic controllers, medics, mechanics, cypher analysts and so much more. Unfortunately their invaluable contribution is now largely overlooked.
 ---
 

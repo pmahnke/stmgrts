@@ -5,8 +5,8 @@ permalink: /archives/2005/12/council_refuses.html
 commentfile: 2005-12-10-council_refuses
 category: news
 date: 2005-12-10 13:54:17
+image: "/assets/images/2005/tescoATM_sm.gif"
 excerpt: |
-    <a href="/assets/images/2005/tescoATM.gif"><img src="/assets/images/2005/tescoATM_sm.gif" width="150" height="113" alt="Tesco's new ATM" class="right ignore" /></a>
 
     On the 6<sup>th</sup> of December, _Richmond Council Planning Committee_ refused Tesco's request for a second ATM at their store on St Margarets Road.
 ---

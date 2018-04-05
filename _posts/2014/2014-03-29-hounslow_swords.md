@@ -5,9 +5,8 @@ permalink: /archives/2014/03/hounslow_swords.html
 commentfile: 2014-03-29-hounslow_swords
 category: around_town
 date: 2014-03-29 00:04:34
+image: "/assets/images/2014/HSWORDS_hounslow_swords_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/HSWORDS_hounslow_swords.jpg" title="See larger version of - hounslow swords"><img src="/assets/images/2014/HSWORDS_hounslow_swords_thumb.jpg" width="150" height="250" alt="hounslow swords" class=" right" /></a>
-    
     Once upon a time, long before estate agents roamed the earth; when Michael Gove was just a figment of our imagination, this blessed plot of ours was noted for many things like wheat, fruit, pottery, fish, beer, gunpowder and surprisingly - swords. It is recorded that in the late 16<sup>th</sup> century, during the reign of Elizabeth 1<sup>st</sup>, those who wished to rent land near the Rivers Colne and  Crane for the construction of gunpowder mills had to pay the Government a rent of 1000 swords... which sounds a little cut throat to me!
     
 

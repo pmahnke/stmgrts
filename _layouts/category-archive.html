@@ -1,45 +1,52 @@
 ---
 layout: default-empty
 ---
+<section class="p-strip--light is-shallow">
+  <div class="row">
+    <div class="col-12">
+      <h1>Archives from {{ page.type }} '{{ page.title }}'</h1>
+    </div>
+  </div>
+</section>
+<section class="p-strip is-shallow">
+  <div class="row">
+    <div class="col-8">
 
-    <section class="p-strip">
-      <div class="row">
-        <div class="col-8 content">
 
-          <h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
-          {% for post in page.posts limit: 10 %}
-            <h3>
-              <a href="{{ post.url | prepend: site.baseurl }}">
-                {{ post.title }}
-              </a>
-            </h3>
-            {% if post.image %}
-            <img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" />
-            {% endif %}
-            <p>
-              {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
-            </p>
-            <p class="u-clearfix posted">
-              {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
-            </p>
-          {% endfor %}
+<section class="p-strip">
+  <div class="row">
+    <div class="col-8 content">
+      {% for post in page.posts limit: 10 %}
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      {% if post.image %}
+      <img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" />
+      {% endif %}
+      <p>
+        {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
+      </p>
+      <p class="u-clearfix posted">
+        {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
+      </p>
+      {% endfor %}
 
-          <h3>Older Articles</h3>
-          <ul>
-            {% for post in page.posts offset: 10 %}
-              <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="col-4">
-          <div class="p-card">
-            <h3 class="p-card__title p-muted-heading">Category archives</h3>
-            <ul class="p-card__content p-list">
-              <li class="p-list__item"><a href="/archives/news">News archives</a></li>
-              <li class="p-list__item"><a href="/archives/editorial">Editorials archives</a></li>
-              <li class="p-list__item"><a href="/archives/around-town">Around town archives</a></li>
-            </ul>
-          </div>
-        </div>
+      <h2>Older Articles</h2>
+      <ul>
+        {% for post in page.posts offset: 10 %}
+          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-4">
+      <div class="p-card">
+        <h3 class="p-card__title p-muted-heading">Category archives</h3>
+        <ul class="p-card__content p-list">
+          <li class="p-list__item"><a href="/archives/news">News archives</a></li>
+          <li class="p-list__item"><a href="/archives/editorial">Editorials archives</a></li>
+          <li class="p-list__item"><a href="/archives/around-town">Around town archives</a></li>
+        </ul>
       </div>
-    </section>
+    </div>
+  </div>
+</section>

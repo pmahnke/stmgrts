@@ -5,9 +5,8 @@ permalink: /archives/2012/06/event_reminder_arthouse_open_studios_festival_22_j.
 commentfile: 2012-06-21-event_reminder_arthouse_open_studios_festival_22_j
 category: around_town
 date: 2012-06-21 22:20:56
+image: "/assets/images/2012/arthouse_smaller_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/arthouse_smaller.jpg" title="See larger version of - arthouse logo"><img src="/assets/images/2012/arthouse_smaller_thumb.jpg" width="150" height="90" alt="arthouse logo" class="photo right" /></a>
-    
     Over the last two weekends in June more than <a href="https://stmargarets.london/directory/art/201006031129">80 individual artists; 12 artist and community groups and 7 schools and colleges</a> will open their homes, studios, classrooms and gardens to showcase a wide range of artwork created in the local area.
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/11/reminder_crown_road_community_fair_road_closures_6.
 commentfile: 2015-11-26-reminder_crown_road_community_fair_road_closures_6
 category: news
 date: 2015-11-26 18:48:59
+image: "/assets/images/2015/Crown_Rd_Community_Christmas_Fair_2015_Road_Closure__Notice_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Crown_Rd_Community_Christmas_Fair_2015_Road_Closure__Notice.jpg" title="See larger version of - Crown Rd Community Christmas Fair 2015 Road Closure  Notice"><img src="/assets/images/2015/Crown_Rd_Community_Christmas_Fair_2015_Road_Closure__Notice_thumb.jpg" width="150" height="212" alt="Crown Rd Community Christmas Fair 2015 Road Closure  Notice" class="photo right" /></a>
-    
     Hopefully you are aware from the posters, My St Margarets Magazine, and official council notices, that our next community fair takes place on Sunday 6<sup>th</sup> December 2015 on Crown Road.
     
 

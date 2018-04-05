@@ -5,9 +5,8 @@ permalink: /archives/2017/08/council-cold-caller-stickers.html
 commentfile: 2017-08-13-council-cold-caller-stickers
 category: news
 date: 2017-08-13 06:00:43
+image: "/assets/images/2017/no-cold-callers-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/no-cold-callers.jpg" title="Click for a larger image"><img src="/assets/images/2017/no-cold-callers-thumb.jpg" width="150" alt="Image - no-cold-callers"  class="photo right"/></a>
-
     Vulnerable residents in Richmond upon Thames can send a 'clear message' to cold callers with the help of an initiative being rolled out across the borough.
 
     Residents are being offered a free 'sticker' which they can display at their front door warning doorstep traders to stay away.

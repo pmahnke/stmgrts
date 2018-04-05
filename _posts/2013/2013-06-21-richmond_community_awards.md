@@ -5,9 +5,8 @@ permalink: /archives/2013/06/richmond_community_awards.html
 commentfile: 2013-06-21-richmond_community_awards
 category: news
 date: 2013-06-21 10:22:32
+image: "/assets/images/2013/community_awards_logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/community_awards_logo.png" title="See larger version of - community awards logo"><img src="/assets/images/2013/community_awards_logo_thumb.png" width="150" height="60" alt="community awards logo" class="right" /></a>
-    
     People in the borough who work tirelessly to help improve the quality of lives for others can now be rewarded via the Council's new mini 'honours' scheme, the Richmond Community Awards.
     
 

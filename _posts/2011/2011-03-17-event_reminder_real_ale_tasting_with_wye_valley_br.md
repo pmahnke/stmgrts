@@ -5,9 +5,9 @@ permalink: /archives/2011/03/event_reminder_real_ale_tasting_with_wye_valley_br.
 commentfile: 2011-03-17-event_reminder_real_ale_tasting_with_wye_valley_br
 category: around_town
 date: 2011-03-17 17:52:07
+image: "/assets/images/2011/dorothy-golden-ale-bottles.png"
 excerpt: |
-    <img alt="mmm, beer" class="right" src="/assets/images/2011/dorothy-golden-ale-bottles.png" width="150" />
-    
+   
     This month we're pleased to have ventured a little further afield, and have teamed up with Hereford based, Wye Valley Brewery.  Founded in 1985 by ex-Guinness brewer, Peter Amor, we will be joined by Peter's son Vernon, who trained at Youngs Brewery in Wandsworth.  They source their ingredients locally, wherever possible, with their determination to constantly improve meaning they have attracted many awards.
 
 ---

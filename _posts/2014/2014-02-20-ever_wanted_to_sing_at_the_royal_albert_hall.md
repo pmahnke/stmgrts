@@ -5,9 +5,8 @@ permalink: /archives/2014/02/ever_wanted_to_sing_at_the_royal_albert_hall.html
 commentfile: 2014-02-20-ever_wanted_to_sing_at_the_royal_albert_hall
 category: around_town
 date: 2014-02-20 21:03:12
+image: "/assets/images/2014/20140129-verdi-A5-flyer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/20140129-verdi-A5-flyer.jpg" title="See larger version of - 20140129 verdi A5 flyer"><img src="/assets/images/2014/20140129-verdi-A5-flyer_thumb.jpg" width="150" height="212" alt="20140129 verdi A5 flyer" class="photo right" /></a>
-    
     _Twickenham Choral Society are looking for extras to join us to sing in Verdi Requiem Sunday, 18 May 2014 in the Royal Albert Hall_
     
     Twickenham Choral Society is joining Vivace Chorus, with the London  Philharmonic Choir and Wimbledon Choral Society, and an excellent line-up of  soloists and the Royal Philharmonic Orchestra, for a performance conducted by Jeremy Backhouse.

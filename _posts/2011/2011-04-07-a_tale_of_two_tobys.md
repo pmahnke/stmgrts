@@ -5,9 +5,8 @@ permalink: /archives/2011/04/a_tale_of_two_tobys.html
 commentfile: 2011-04-07-a_tale_of_two_tobys
 category: around_town
 date: 2011-04-07 22:44:27
+image: "/assets/images/2011/TOBYS_highwayman_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/TOBYS_highwayman.jpg" title="See larger version of - Highwayman"><img src="/assets/images/2011/TOBYS_highwayman_thumb.jpg" width="150" height="148" alt="Highwayman" class="photo right" /></a>
-    
     Hounslow Heath was once part of the extensive Forest of Middlesex. Frequented by highwaymen and footpads, between the 17<sup>th</sup> and early 19<sup>th</sup> centuries it was thought to be the most dangerous place in Britain. When Gordon S Maxwell wrote "Highwayman's Heath" in 1935 about the Heath he sometimes used the term "Tobymen" to describe the unsavoury characters that lurked there - a 'High Toby' being a mounted robber and a 'Low Toby' being someone who operated on foot. Here are some examples of what the two Tobys were up to, taken from newspapers of the time.
     
 

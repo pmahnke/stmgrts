@@ -5,9 +5,8 @@ permalink: /archives/2011/10/_the_high_cost_of.html
 commentfile: 2011-10-03-_the_high_cost_of
 category: food
 date: 2011-10-03 11:38:19
+image: "/assets/images/2011/First_Bday_Cebs_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/First_Bday_Cebs.jpg" title="See larger version of - Emily Mascarenhas with Caterpillar, Trudi Harrison and Rachel McLean by Luke Dixon - www.lukepatrickdixon.com"><img src="/assets/images/2011/First_Bday_Cebs_thumb.jpg" width="150" height="112" alt="Emily Mascarenhas with Caterpillar, Trudi Harrison and Rachel McLean by Luke Dixon - www.lukepatrickdixon.com" class="photo right" /></a>
-
     The high cost of childcare and commuting is forcing women to give up their jobs to avoid ending up out of pocket, according to new research.
 
     The latest ONS Labour Force Survey says the number of women opting to look after their children instead of doing paid employment has risen by 32,000 nationally since last summer, with rising childcare costs being a key factor in their decision.

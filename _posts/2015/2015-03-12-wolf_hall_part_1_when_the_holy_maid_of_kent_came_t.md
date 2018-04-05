@@ -5,9 +5,8 @@ permalink: /archives/2015/03/wolf_hall_part_1_when_the_holy_maid_of_kent_came_t.
 commentfile: 2015-03-12-wolf_hall_part_1_when_the_holy_maid_of_kent_came_t
 category: around_town
 date: 2015-03-12 22:59:57
+image: "/assets/images/2015/WOLFHALL_Elizabeth_Barton_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/WOLFHALL_Elizabeth_Barton.jpg" title="See larger version of - Elizabeth Barton"><img src="/assets/images/2015/WOLFHALL_Elizabeth_Barton_thumb.jpg" width="150" height="204" alt="Elizabeth Barton" class="photo right" /></a>
-    
     I would imagine that followers of <em>"Wolf Hall"</em> and its shadowy hero Thomas Cromwell will probably have had enough of Sister Elizabeth Barton, the so called <em>"Holy Maid of Kent"</em> and arch-irritant to King Henry 8<sup>th</sup> but just in case you are suffering from Tudor cold turkey and need a fix...
 
 ---

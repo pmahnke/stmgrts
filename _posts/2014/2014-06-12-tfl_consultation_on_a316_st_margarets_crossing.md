@@ -5,9 +5,8 @@ permalink: /archives/2014/06/tfl_consultation_on_a316_st_margarets_crossing.html
 commentfile: 2014-06-12-tfl_consultation_on_a316_st_margarets_crossing
 category: news
 date: 2014-06-12 23:09:35
+image: "/assets/images/2014/a316-st-margarets-map_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/a316-st-margarets-map.jpg" title="See larger version of - a316 st margarets map"><img src="/assets/images/2014/a316-st-margarets-map_thumb.jpg" width="150" height="102" alt="a316 st margarets map" class="photo right" /></a>
-    
     The TFL are proposing to improve accessibility to crossing facilities at St Margaret's roundabout, Twickenham. 
 
 ---

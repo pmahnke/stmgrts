@@ -5,9 +5,8 @@ permalink: /archives/2018/03/lbrut-asks-network-rail-to-look-at-level-crossings.
 commentfile: 2018-03-10-lbrut-asks-network-rail-to-look-at-level-crossings
 category: news
 date: 2018-03-10 16:21:30
+image: "/assets/images/2018/level-crossings-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/level-crossings.jpg" title="Click for a larger image"><img src="/assets/images/2018/level-crossings-thumb.jpg" width="150" alt="Image - level-crossings"  class="photo right"/></a>
-
     Following feedback from residents, businesses and ward councillors, particularly at recent Village Planning Questiontime events, Cllr Paul Hodgins and Cllr Peter Buckwell met with Network Rail to discuss level crossings in Richmond upon Thames.
 
 ---

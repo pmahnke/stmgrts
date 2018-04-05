@@ -5,8 +5,8 @@ permalink: /archives/2009/02/dyb_dyb_dyb_dob_dob_dob.html
 commentfile: 2009-02-20-dyb_dyb_dyb_dob_dob_dob
 category: around_town
 date: 2009-02-20 11:41:00
+image: "/assets/images/2009/4scouts-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/4scouts.jpg"><img src="/assets/images/2009/4scouts-thumb.jpg" width="150" height="110" alt="OSSIE STANLEY (2nd from R) WITH BEAVER PATROL – 1954" class="photo right" /></a>
     
     
     In the summer of 1919 a local man, Mr Laurence, came to the conclusion that the only thing St Margarets needed to turn it into an earthly paradise- all the other necessary attributes being in place - was a Scout Troop, so on November 24th he started one. He cunningly called it the "1<sup>st</sup> St Margarets" and himself, being the leader,  "Skipper". The story has it that the first meetings were held under a gaslight on a street corner. True or not the fledgling troop soon found themselves settled in a room over Shipman's Garage behind St Margarets Hotel.

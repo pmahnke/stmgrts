@@ -5,9 +5,8 @@ permalink: /archives/2010/12/the_sad_story_of_sweet_fanny_adams.html
 commentfile: 2010-12-09-the_sad_story_of_sweet_fanny_adams
 category: around_town
 date: 2010-12-09 19:49:20
+image: "/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/sweet_fa-Fanny-Adams.jpg" title="See larger version of - Fanny Adams"><img src="/assets/images/2010/sweet_fa-Fanny-Adams_thumb.jpg" width="150" height="239" alt="Fanny Adams" class="photo right" /></a>
-    
     
     <div markdown="1" class="warning">
     THE FOLLOWING ARTICLE IS ABOUT THE BRUTAL MURDER OF A YOUNG GIRL IN 1867. SOME PEOPLE MAY PREFER TO LEAVE THIS ONE UNREAD.

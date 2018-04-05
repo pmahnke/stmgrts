@@ -5,9 +5,8 @@ permalink: /archives/2015/08/rugby_world_cup_road_closure_trail_weekends_15_aug.
 commentfile: 2015-08-12-rugby_world_cup_road_closure_trail_weekends_15_aug
 category: around_town
 date: 2015-08-12 22:18:27
+image: "/assets/images/2015/rugby_world_cup-300x190_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/rugby_world_cup-300x190.png" title="See larger version of - rugby world cup 300x190"><img src="/assets/images/2015/rugby_world_cup-300x190_thumb.png" width="150" height="95" alt="rugby world cup logo" class="right" /></a>
-    
     On Saturday 15 August, a sporting event will take place at Twickenham Stadium at 20.00 and again on 2 September at 14.30. This event will be used to test new travel arrangements for Rugby World Cup 2015, which will take place from Friday 18 September until Saturday 31 October.
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2011/08/charlie_shores_childrens_regatta.html
 commentfile: 2011-08-21-charlie_shores_childrens_regatta
 category: around_town
 date: 2011-08-21 15:44:48
+image: "/assets/images/2011/charlie_shore_regatta_2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/charlie_shore_regatta_2.jpg" title="See larger version of - Charlie Shore's Children's Regatta"><img src="/assets/images/2011/charlie_shore_regatta_2_thumb.jpg" width="150" height="114" alt="Charlie Shore's Children's Regatta" class="photo right" /></a>
-    
     Saturday 17<sup>th</sup> September will start with the recreation of the Charlie Shore's Twickenham Boys' and Girls' Regatta, which was founded in 1894 and last held in 1958; it is hoped to be an annual event. The regatta competitors are boys and girls (ages 13-16). The event will be for 20 rowers from schools in  the Borough.
     
     The Charlie Shore Regatta is sponsored by the Richmond Environmental Information Centre, with the Twickenham Rowing Club as its delivery partner. The 350m course will be from opposite the White Swan to the site of the original Charlie Shore boathouse, just below the Eel Pie Island footbridge.

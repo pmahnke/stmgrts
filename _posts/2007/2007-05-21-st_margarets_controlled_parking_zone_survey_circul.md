@@ -5,9 +5,9 @@ permalink: /archives/2007/05/st_margarets_controlled_parking_zone_survey_circul.
 commentfile: 2007-05-21-st_margarets_controlled_parking_zone_survey_circul
 category: news
 date: 2007-05-21 05:46:52
+image: "/cgi-bin/poll.cgi?pollname=CPZ&amp;action=image"
 excerpt: |
-    <a href="https://stmargarets.london/poll/CPZ" title="Vote in the poll"><img src="https://stmargarets.london/cgi-bin/poll.cgi?pollname=CPZ&amp;action=image" alt="pollresults" width="150" height="150" class="right" /></a></p>
-    
+
     The _St Margarets Controlled Parking Zone (CPZ) Survey_ was distributed this weekend.  Residents given the survey have until 15 June 2007 to complete it.  The CPZ was a major issue in the last election and remains a divisive issue for the community.
     
     We want to know what you think, so please:

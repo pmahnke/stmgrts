@@ -5,9 +5,8 @@ permalink: /archives/2017/11/digital-device-help.html
 commentfile: 2017-11-30-digital-device-help
 category: around_town
 date: 2017-11-30 18:29:43
+image: "/assets/images/2017/library-try-before-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/library-try-before.jpg" title="Click for a larger image"><img src="/assets/images/2017/library-try-before-thumb.jpg" width="150" alt="Image - library-try-before"  class="photo right"/></a>
-
     <em>Library elves on hand to help pick the digital device for your Xmas stocking.</em>
 
     Thinking about by an Android tablet or iPad for Christmas but not sure which one to get? Before deciding what's best for you why not come get some hands on experience at one of the free information sessions being run by our Libraries team.

@@ -5,8 +5,8 @@ permalink: /archives/2009/02/tesco_loading_bay_earns_council_1400_a_day.html
 commentfile: 2009-02-12-tesco_loading_bay_earns_council_1400_a_day
 category: news
 date: 2009-02-12 21:27:28
+image: "/assets/images/2009/bbc_stm_loadbay-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/bbc_stm_loadbay.jpg"><img src="/assets/images/2009/bbc_stm_loadbay-thumb.jpg" width="150" height="112" alt="parking sign" class="photo right" /></a>
     
     
 bq.      A London council has taken an average of &pound;1,400 in parking fines per day from a single loading bay, it has emerged.

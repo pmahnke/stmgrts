@@ -5,9 +5,8 @@ permalink: /archives/2009/12/creating_the_st_margarets_christmas_fair.html
 commentfile: 2009-12-23-creating_the_st_margarets_christmas_fair
 category: around_town
 date: 2009-12-23 11:31:31
+image: "/assets/images/2009/xmasfair09_uglysisters_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/xmasfair09_uglysisters.jpg" title="See larger version of - Ugly Sisters"><img src="/assets/images/2009/xmasfair09_uglysisters_thumb.jpg" width="150" height="112" alt="Ugly Sisters" class="photo right" /></a>
-    
     
     I have lived in St Margarets for many years now and my family and I really enjoy the events that are held in our community, we loved the recent Christmas Fair in Crown road.
     

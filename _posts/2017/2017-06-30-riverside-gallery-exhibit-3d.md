@@ -5,9 +5,8 @@ permalink: /archives/2017/06/riverside-gallery-exhibit-3d.html
 commentfile: 2017-06-30-riverside-gallery-exhibit-3d
 category: around_town
 date: 2017-06-30 20:37:39
+image: "/assets/images/2017/riverside-gallery-3d-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/riverside-gallery-3d.jpg" title="Click for a larger image"><img src="/assets/images/2017/riverside-gallery-3d-thumb.jpg" width="150" alt="Image - riverside-gallery-3d"  class="photo right"/></a>
-
     An exhibition of colourful 3D iconography which offers a 'doorway to worlds beyond' is being exhibited in the Riverside Gallery.
 
     The Gallery in Richmond Old Town Hall is hosting a solo show by artist Ian Butcher who turns flat images into illusory 3D artworks.

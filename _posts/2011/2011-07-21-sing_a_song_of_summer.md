@@ -5,9 +5,8 @@ permalink: /archives/2011/07/sing_a_song_of_summer.html
 commentfile: 2011-07-21-sing_a_song_of_summer
 category: around_town
 date: 2011-07-21 14:44:36
+image: "/assets/images/2011/SUMMER_SummerHolidayPic1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/SUMMER_SummerHolidayPic1.jpg" title="See larger version of - Summer Holiday"><img src="/assets/images/2011/SUMMER_SummerHolidayPic1_thumb.jpg" width="150" height="129" alt="Summer Holiday" class="photo right" /></a>
-
     Someone once said that there are only three types of popular song - songs about love, songs about summer and songs about everything else.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2014/03/dreamcatcher_film_camps_easter_and_summer_2014.html
 commentfile: 2014-03-06-dreamcatcher_film_camps_easter_and_summer_2014
 category: around_town
 date: 2014-03-06 21:06:28
+image: "/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014.jpg" title="See larger version of - Dream Catcher Flyer Easter 2014"><img src="/assets/images/2014/Dream-Catcher-Flyer-Easter-2014_thumb.jpg" width="150" height="104" alt="Dream Catcher Flyer Easter 2014" class="photo right" /></a>
-
     Make a 5 minute film in 5 Days and take a copy home on DVD!
 
     Here at Dreamcatcher Media, the films made on our Summer Film Camps feature great heroes and anti-heroes, goodies and baddies, exciting chases and dramatic scenes - all scripted, filmed and directed by young people aged 8 - 18.

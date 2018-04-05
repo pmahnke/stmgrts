@@ -5,9 +5,8 @@ permalink: /archives/2015/05/holiday_activities_at_orleans_house_gallery_may_ha.
 commentfile: 2015-05-14-holiday_activities_at_orleans_house_gallery_may_ha
 category: around_town
 date: 2015-05-14 21:25:19
+image: "/assets/images/2015/orleans-house-may-2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/orleans-house-may-2015.jpg" title="See larger version of - orleans house may 2015"><img src="/assets/images/2015/orleans-house-may-2015_thumb.jpg" width="150" height="200" alt="orleans house may 2015" class="photo right" /></a>
-    
     The next holiday activities take place from Tuesday 26 May to Saturday 30 May 2015.
     
     Work with professional artists specialising in a range of different art-forms including performance, drawing, clay and sculpting with recycled materials.

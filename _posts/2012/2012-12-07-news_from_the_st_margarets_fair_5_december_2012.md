@@ -5,9 +5,8 @@ permalink: /archives/2012/12/news_from_the_st_margarets_fair_5_december_2012.htm
 commentfile: 2012-12-07-news_from_the_st_margarets_fair_5_december_2012
 category: news
 date: 2012-12-07 08:25:28
+image: "/assets/images/2012/stm_xmas_2012_1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/stm_xmas_2012_1.jpg" title="See larger version of - stm xmas 2012 1"><img src="/assets/images/2012/stm_xmas_2012_1_thumb.jpg" width="150" height="112" alt="stm xmas 2012 1" class="photo right" /></a>
-
     Over eighty St Margarets senior residents enjoyed a free Christmas meal on the 5<sup>th</sup> of December in the Winchester Room, organised by the St Margarets Fair Committee.  As well as contributing all the Fair profits to local schools and charities, the Christmas meal has been a regular event funded by the Fair since it started after the Queen's Silver Jubilee in 1977.
 
 

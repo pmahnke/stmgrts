@@ -5,9 +5,8 @@ permalink: /archives/2015/10/charity_shire_horsedrawn_carriages_rides_in_richmo.
 commentfile: 2015-10-01-charity_shire_horsedrawn_carriages_rides_in_richmo
 category: news
 date: 2015-10-01 22:12:36
+image: "/assets/images/2015/horse_carriage_richmond_park_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/horse_carriage_richmond_park.jpg" title="See larger version of - horse carriage richmond park"><img src="/assets/images/2015/horse_carriage_richmond_park_thumb.jpg" width="150" height="99" alt="horse carriage richmond park" class="photo right" /></a>
-    
     Imagine the sombre steps of a pair of Shire horses approaching through the darkness. Tis Halloween, and Richmond Park in the dark is both exhilarating... and just a little bit scary!
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2017/09/ellas-choir-starting.html
 commentfile: 2017-09-16-ellas-choir-starting
 category: around_town
 date: 2017-09-16 08:55:42
+image: "/assets/images/2017/astrid-new-choir-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/astrid-new-choir.jpg" title="Click for a larger image"><img src="/assets/images/2017/astrid-new-choir-thumb.jpg" width="150" alt="Image - astrid-new-choir"  class="photo right"/></a>
-
     New Choir "Ella's Choir" Thursday 14<sup>th</sup> September 7-8.30pm weekly. If you love to sing, then this choir needs you. No need to audition or read music.
 
 ---

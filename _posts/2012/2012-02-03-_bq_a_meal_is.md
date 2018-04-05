@@ -5,9 +5,8 @@ permalink: /archives/2012/02/_bq_a_meal_is.html
 commentfile: 2012-02-03-_bq_a_meal_is
 category: around_town
 date: 2012-02-03 13:11:48
+image: "/assets/images/2012/CALVES_Calves-Head_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/CALVES_Calves-Head.jpg" title="See larger version of - Calves Head Club"><img src="/assets/images/2012/CALVES_Calves-Head_thumb.jpg" width="150" height="243" alt="Calves Head Club" class="photo right" /></a>
-
     When despots fall and regimes crumble it often results in unease amongst the populace. There will be some - Group A, who are happy to welcome the new system with the optimistic hope that it will lead to better times. There will be others - Group B, who will mourn the passing of the old arrangement but do it rather quietly fearing an adverse reaction from Group A. There will be Group C whose lives, brief and brutish, will remain unchanged - and there will be group D who will celebrate the change in circumstances loudly with a slap up meal.
 
 ---

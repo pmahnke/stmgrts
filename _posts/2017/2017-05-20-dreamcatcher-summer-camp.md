@@ -5,10 +5,8 @@ permalink: /archives/2017/05/dreamcatcher-summer-camp.html
 commentfile: 2017-05-20-dreamcatcher-summer-camp
 category: around_town
 date: 2017-05-20 08:37:18
+image: "/assets/images/2017/2017-dreamcatcher-film-camp-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/2017-dreamcatcher-film-camp.jpg" title="Click for a larger image"><img src="/assets/images/2017/2017-dreamcatcher-film-camp-thumb.jpg" width="150" alt="Image - 2017-dreamcatcher-film-camp"  class="photo right"/></a>
-
     It's that time of year again as we look towards summer and the film camp. As always the setting is the Falcons Prep. The films made on our Summer Film Camps feature great heroes and anti-heroes, goodies and baddies, exciting chases and dramatic scenes - all scripted, filmed and directed by young people aged 8 - 18.
 
 ---

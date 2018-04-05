@@ -5,9 +5,8 @@ permalink: /archives/2016/06/event-crown-road-2016-summer.html
 commentfile: 2016-06-10-event-crown-road-2016-summer
 category: around_town
 date: 2016-06-10 17:13:34
+image: "/assets/images/2016/crown-road-summer-2016-fair-poster_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/crown-road-summer-2016-fair-poster.png" title="See larger version of - crown road summer 2016 fair poster"><img src="/assets/images/2016/crown-road-summer-2016-fair-poster_thumb.png" width="150" height="211" alt="crown road summer 2016 fair poster" class="photo right" /></a>
-
     We are so proud to invite you all to the most wonderful Street Party, on Crown Road 12 June 2016 from 11am to 5pm. Like nothing you've experienced before and sure to be the most magical day for everyone!
 ---
 

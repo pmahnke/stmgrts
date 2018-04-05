@@ -5,8 +5,8 @@ permalink: /archives/2015/01/jmw_turners_twickenham_house_saved_by_lottery_gran.
 commentfile: 2015-01-07-jmw_turners_twickenham_house_saved_by_lottery_gran
 category: news
 date: 2015-01-07 16:04:21
+image: "/assets/images/directory/201304111542_Turner's_House.jpg"
 excerpt: |
-    <img src="/assets/images/directory/201304111542_Turner's_House.jpg" alt="Turner's House" class="photo right" width="150" />
     
     A house designed and owned by JMW Turner is to be restored and opened to the public after receiving a &pound;1.4m grant from the Heritage Lottery Fund.
     

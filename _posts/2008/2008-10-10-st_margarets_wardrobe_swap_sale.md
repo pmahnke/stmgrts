@@ -5,8 +5,8 @@ permalink: /archives/2008/10/st_margarets_wardrobe_swap_sale.html
 commentfile: 2008-10-10-st_margarets_wardrobe_swap_sale
 category: around_town
 date: 2008-10-10 21:46:58
+image: "/assets/images/2008/frodo_wear_thumb-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/frodo_wear_thumb.jpg"><img src="/assets/images/2008/frodo_wear_thumb-thumb.jpg" width="105" height="150" alt="St Margarets' Wardrobe Swap & Sale" class="photo right" /></a>
     
     
     #### 'Nothing to Wear?'

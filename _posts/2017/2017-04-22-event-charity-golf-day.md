@@ -5,9 +5,8 @@ permalink: /archives/2017/04/event-charity-golf-day.html
 commentfile: 2017-04-22-event-charity-golf-day
 category: around_town
 date: 2017-04-22 17:27:37
+image: "/assets/images/2017/Chance-for-Childhood-Golf-Day-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Chance-for-Childhood-Golf-Day-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/Chance-for-Childhood-Golf-Day-2017-thumb.jpg" width="150" alt="Image - Chance-for-Childhood-Golf-Day-2017"  class="photo right"/></a>
-
     Chance for Childhood will be running our Annual Charity Golf Day at the Royal Mid Surrey Golf Club on Friday, 12 May 2017. Now in its eighth year, our Golf Day is one of our key fundraising events, bringing together around 70 players to raise essential funds for our work.
 
 ---

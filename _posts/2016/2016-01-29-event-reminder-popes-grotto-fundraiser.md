@@ -5,9 +5,8 @@ permalink: /archives/2016/01/event-reminder-popes-grotto-fundraiser.html
 commentfile: 2016-01-29-event-reminder-popes-grotto-fundraiser
 category: around_town
 date: 2016-01-29 19:34:38
+image: "/assets/images/2016/Popes-Grotto-Fundraiser-Poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Popes-Grotto-Fundraiser-Poster.jpg" title="See larger version of - Popes Grotto Fundraiser Poster"><img src="/assets/images/2016/Popes-Grotto-Fundraiser-Poster_thumb.jpg" width="150" height="212" alt="Popes Grotto Fundraiser Poster" class="right" /></a>
-
     Join us for a fund-raising dinner on Saturday, 5 March 2016, in the splendour of the Long Gallery at Strawberry Hill House, Horace Walpole's "little gothic castle" and help save Pope's Grotto.
 ---
 

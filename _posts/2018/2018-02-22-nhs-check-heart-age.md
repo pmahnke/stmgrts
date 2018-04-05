@@ -5,9 +5,8 @@ permalink: /archives/2018/02/nhs-check-heart-age.html
 commentfile: 2018-02-22-nhs-check-heart-age
 category: news
 date: 2018-02-22 19:44:38
+image: "/assets/images/2018/heart-check-thumb.gif"
 excerpt: |
-    <a href="/assets/images/2018/heart-check.gif" title="Click for a larger image"><img src="/assets/images/2018/heart-check-thumb.gif" width="150" alt="Image - heart-check"  class="right"/></a>
-
     Residents in Richmond are being encouraged to check their heart age and make changes to their lifestyle to keep their hearts healthy.
 
     Heart disease is the leading cause of death in the borough, accounting for 10.8 per cent of deaths in Richmond upon Thames in 2016.

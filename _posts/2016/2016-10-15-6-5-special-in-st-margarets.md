@@ -6,9 +6,8 @@ commentfile: 2016-10-15-6-5-special-in-st-margarets
 category: around_town
 author: "Martyn Day"
 date: 2016-10-15 11:58:36
+image: "/assets/images/2016/6-5SPECIAL_pete_and_jo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/6-5SPECIAL_pete_and_jo.jpg" title="See larger version of - 6 5 SPECIAL pete and jo"><img src="/assets/images/2016/6-5SPECIAL_pete_and_jo_thumb.jpg" width="150" height="120" alt="6 5 SPECIAL pete and jo" class="photo right" /></a>
-
     At the end of the 1950's the BBC, anxious get into the developing <em>'teen telly market'</em>, decided to create a TV programme aimed directly at teenagers. To head up the project they brought in Jack Good, a young pioneering producer with a hot idea.  Why not make it a 100% rock <em>'n'</em> roll show with non-stop music, lots of movement, teenage stars, some hip presenters and an audience of young, trendy boppers? Sound good? Mmmmm... Not for the BBC!
 ---
 

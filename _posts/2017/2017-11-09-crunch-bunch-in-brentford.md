@@ -6,9 +6,8 @@ commentfile: 2017-11-09-crunch-bunch-in-brentford
 category: around_town
 author: "Martyn Day"
 date: 2017-11-09 20:59:11
+image: "/assets/images/2017/CRUNCHBUNCH_smiths-crisps-tin-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/CRUNCHBUNCH_smiths-crisps-tin.jpg" title="Click for a larger image"><img src="/assets/images/2017/CRUNCHBUNCH_smiths-crisps-tin-thumb.jpg" width="250" alt="Image - CRUNCHBUNCH_smiths-crisps-tin"  class="photo right"/></a>
-
     In 1919, in the midst of the general depression that followed the Great War, a new  <em>'novelty food item'</em> appeared on sale in pubs and hotels. It came in a blue tin, carried the brand name Smith's with a distinctive upper-case  <em>'IT'</em> and a label saying  <em>'Potato Crisps'</em>. They weren't the first potato crisps in the U.K but they were the most popular.
 
 ---

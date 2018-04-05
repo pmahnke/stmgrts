@@ -5,9 +5,8 @@ permalink: /archives/2013/08/event_reminder_orleans_house_and_home_fair_plus_wa.
 commentfile: 2013-08-29-event_reminder_orleans_house_and_home_fair_plus_wa
 category: around_town
 date: 2013-08-29 22:04:07
+image: "/assets/images/2013/Webfriendly-version_poster_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2013/Webfriendly-version_poster.JPG" title="See larger version of - Orleans House....and Home - Late summer Fair"><img src="/assets/images/2013/Webfriendly-version_poster_thumb.JPG" width="150" height="212" alt="Orleans House....and Home - Late summer Fair" class="photo right" /></a>
-
     As well as an exciting host of local designers/makers at next weekends <a href="https://stmargarets.london/event/fair/200705144132,">Orleans House and Home Fair</a> there is also a jam packed programme of FREE events for the whole family.
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2011/11/event_reminder_thames_riverside_walk.html
 commentfile: 2011-11-03-event_reminder_thames_riverside_walk
 category: around_town
 date: 2011-11-03 19:08:37
+image: "/assets/images/2011/richmond_lock_top_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/richmond_lock_top.jpg" title="See larger version of - richmond lock from the top"><img src="/assets/images/2011/richmond_lock_top_thumb.jpg" width="150" height="111" alt="richmond lock from the top" class="photo right" /></a>
-    
     _Saturday 26th November - 10.00 am - 12 noon approx._
     
     Explore the River from Richmond half lock to Richmond Bridge.  Find out about the history and the function of Richmond half lock and the work of Port of London Authority from the lock-keeper himself.  

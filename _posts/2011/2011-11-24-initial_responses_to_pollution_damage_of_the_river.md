@@ -5,9 +5,8 @@ permalink: /archives/2011/11/initial_responses_to_pollution_damage_of_the_river.
 commentfile: 2011-11-24-initial_responses_to_pollution_damage_of_the_river
 category: news
 date: 2011-11-24 21:03:29
+image: "/assets/images/2011/FORCEvolday_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2011/FORCEvolday.JPG" title="See larger version of - FORCEvolday"><img src="/assets/images/2011/FORCEvolday_thumb.JPG" width="150" height="229" alt="FORCEvolday" class="photo right" /></a>
-
     Late last month there was a devastating pollution incident on the River Crane that killed at least 10,000 fish and is likely to take several years to fully recover from.  The Friends of the River Crane Environment (FORCE) is a local volunteer group that has been working to improve the Crane corridor for the last eight years and last Sunday the group held its first volunteer event since the pollution spill.
 
 

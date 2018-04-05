@@ -5,9 +5,8 @@ permalink: /archives/2017/05/event-grand-concert.html
 commentfile: 2017-05-12-event-grand-concert
 category: around_town
 date: 2017-05-12 17:38:37
+image: "/assets/images/2017/SMEB-2017-Flyer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SMEB-2017-Flyer.jpg" title="Click for a larger image"><img src="/assets/images/2017/SMEB-2017-Flyer-thumb.jpg" width="150" alt="Image - SMEB-2017-Flyer"  class="photo right"/></a>
-
     On 3 June, the St Margarets Elastic Band, will be joined by <strong>Union Musicale de Fontainebleau</strong> and <em>Richmond Youth Jazz Band</em> for a GRAND CONCERT to celebrate 40 years of friendship between Richmond and our twin town Fontainebleau.
 
 ---

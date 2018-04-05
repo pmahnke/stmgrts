@@ -5,9 +5,8 @@ permalink: /archives/2010/10/looking_for_volunteers_stagetext.html
 commentfile: 2010-10-06-looking_for_volunteers_stagetext
 category: news
 date: 2010-10-06 18:19:54
+image: "/assets/images/2010/stage_text_thumb.pdf"
 excerpt: |
-    <a href="/assets/images/2010/stage_text.pdf" title="See larger version of - Read flier"><img src="/assets/images/2010/stage_text_thumb.pdf" width="109" height="150" alt="Read flier" class="photo right" /></a>
-
     Captioning on stage works in a similar way to subtitles on a foreign film - except as well as displaying dialogue from the play, it also shows sound effects, music descriptions and other noises (such as coughs!) too! In this area, both Richmond Theatre and The Rose Theatre, Kingston schedule regular captioned shows.
 
 ---

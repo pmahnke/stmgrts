@@ -5,9 +5,8 @@ permalink: /archives/2007/02/event_reminder_24.html
 commentfile: 2007-02-02-event_reminder_24
 category: around_town
 date: 2007-02-02 10:02:12
+image: "/assets/images/2007/par_ici_alice_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/par_ici_alice.jpg" title="See larger version of - ALCE HARFIELD painting"><img src="/assets/images/2007/par_ici_alice_thumb.jpg" width="150" height="144" alt="ALCE HARFIELD painting" class="photo right" /></a>
-    
     Alce Harfield has <a href="https://stmargarets.london/event/Exhibition/200702020423">a show</a> running from 3 - 17 February at Par Ici at 40 Church Street in Twickenham.  She was born in Sussex in 1966 into an unusually artistic family. She grew up surrounded by photographers, art teachers, architects and printmakers, so it came as no surprise when she embarked on an artistic career of her own.
 
 ---

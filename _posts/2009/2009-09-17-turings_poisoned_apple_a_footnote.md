@@ -5,8 +5,8 @@ permalink: /archives/2009/09/turings_poisoned_apple_a_footnote.html
 commentfile: 2009-09-17-turings_poisoned_apple_a_footnote
 category: around_town
 date: 2009-09-17 22:42:01
+image: "/assets/images/2009/turing_chair-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/turing_chair.png"><img src="/assets/images/2009/turing_chair-thumb.png" width="140" height="150" alt="Alan Turing in a chair" class="photo right" /></a>
     
     
     

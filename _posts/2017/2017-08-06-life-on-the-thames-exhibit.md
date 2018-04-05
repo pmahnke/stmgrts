@@ -5,9 +5,8 @@ permalink: /archives/2017/08/life-on-the-thames-exhibit.html
 commentfile: 2017-08-06-life-on-the-thames-exhibit
 category: around_town
 date: 2017-08-06 10:21:00
+image: "/assets/images/2017/paul-stewart-live-on-thames-thumb.jpg"
 excerpt: |
-   <a href="/assets/images/2017/paul-stewart-live-on-thames.jpg" title="Click for a larger image"><img src="/assets/images/2017/paul-stewart-live-on-thames-thumb.jpg" width="150" alt="Image - paul-stewart-live-on-thames"  class="photo right"/></a>
-
    A new photography exhibition, celebrating life on the Thames will open next month at the Riverside Gallery in Richmond.
 
    Award winning photographer, Paul Stewart, will open his exhibition at the Gallery from 12 August - 23 September. The exhibition is in partnership with The Thames Landscape Strategy.

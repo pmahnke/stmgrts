@@ -5,8 +5,8 @@ permalink: /archives/2009/06/the_day_war_broke_out.html
 commentfile: 2009-06-04-the_day_war_broke_out
 category: around_town
 date: 2009-06-04 08:46:04
+image: "/assets/images/2009/neville_chamberlain-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/neville_chamberlain.png"><img src="/assets/images/2009/neville_chamberlain-thumb.png" width="108" height="150" alt="Neville Chamberlain" class="photo right" /></a>
     
     
     Just before 11.00am on the morning of Sunday 3rd September 1939 the people of Britain gathered around their wireless sets to listen to a very important announcement from the Prime Minister, Neville Chamberlain. Gardeners put down their tools and came indoors. Golfers cut short their game and returned to the clubhouse. Ministers brought radios into their churches or made arrangements for the news to be read out the moment it was received. It came at 11.15...

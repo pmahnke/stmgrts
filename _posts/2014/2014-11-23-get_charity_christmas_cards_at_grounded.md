@@ -5,9 +5,8 @@ permalink: /archives/2014/11/get_charity_christmas_cards_at_grounded.html
 commentfile: 2014-11-23-get_charity_christmas_cards_at_grounded
 category: around_town
 date: 2014-11-23 06:58:04
+image: "/assets/images/2014/grounded_2014_xmas_card_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/grounded_2014_xmas_card.jpg" title="See larger version of - grounded 2014 xmas card"><img src="/assets/images/2014/grounded_2014_xmas_card_thumb.jpg" width="150" height="112" alt="grounded 2014 xmas card" class="photo right" /></a>
-    
     Grounded are supporting The Children's Hospital Trust Fund by selling their charity Christmas cards. The cards have been sponsored by Rayne Estates which means that every penny from the sale of the packs goes directly to the charity, which helps babies and children at Chelsea and Westminster Hospital.
     
 

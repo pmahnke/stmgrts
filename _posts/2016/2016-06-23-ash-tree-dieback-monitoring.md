@@ -5,9 +5,8 @@ permalink: /archives/2016/06/ash-tree-dieback-monitoring.html
 commentfile: 2016-06-23-ash-tree-dieback-monitoring
 category: around_town
 date: 2016-06-23 18:42:40
+image: "/assets/images/2016/ash-tree_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ash-tree.jpg" title="See larger version of - ash tree"><img src="/assets/images/2016/ash-tree_thumb.jpg" width="150" height="200" alt="ash tree" class="photo right" /></a>
-
     A call for involvement and help from residents to help monitor ash die back across Richmond Borough.
 ---
 

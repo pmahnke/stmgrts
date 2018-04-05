@@ -5,9 +5,8 @@ permalink: /archives/2014/11/the_save_our_footbridge_campaign_needs_you.html
 commentfile: 2014-11-14-the_save_our_footbridge_campaign_needs_you
 category: news
 date: 2014-11-14 08:56:15
+image: "/assets/images/2014/save_our_footbridge_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/save_our_footbridge.JPG" title="See larger version of - save our footbridge"><img src="/assets/images/2014/save_our_footbridge_thumb.JPG" width="150" height="78" alt="save our footbridge" class="photo right" /></a>
-
     The campaign has been working hard to increase awareness of the TFL proposal. This has been done by using social media, school networks and more visual displays such as the banner placed on the St Stephen's school fence adjacent to the footbridge and a short one minute video.
 
 ---

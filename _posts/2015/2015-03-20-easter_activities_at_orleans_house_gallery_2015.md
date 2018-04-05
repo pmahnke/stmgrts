@@ -5,9 +5,8 @@ permalink: /archives/2015/03/easter_activities_at_orleans_house_gallery_2015.htm
 commentfile: 2015-03-20-easter_activities_at_orleans_house_gallery_2015
 category: around_town
 date: 2015-03-20 09:05:33
+image: "/assets/images/2015/Easter_Activities_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Easter_Activities_2015.jpg" title="See larger version of - Easter Activities 2015"><img src="/assets/images/2015/Easter_Activities_2015_thumb.jpg" width="150" height="212" alt="Easter Activities 2015" class="photo right" /></a>
-
     Join us this Easter for two fun-filled weeks of art and creativity. Work with professional artists specialising in a range of different art-forms and be inspired by our Stables Gallery exhibition _A Guest in Turner's House_ by Katie Sollohub.
 ---
 

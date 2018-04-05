@@ -5,9 +5,8 @@ permalink: /archives/2012/01/_january_6th_is_epiphany.html
 commentfile: 2012-01-05-_january_6th_is_epiphany
 category: around_town
 date: 2012-01-05 10:19:54
+image: "/assets/images/2012/Christmas_decorations_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Christmas_decorations.jpg" title="See larger version of - Christmas decorations"><img src="/assets/images/2012/Christmas_decorations_thumb.jpg" width="150" height="121" alt="Christmas decorations" class="photo right" /></a>
-    
     Sidney Goulter was a strange boy and a constant anxiety for his parents. When he was 15 he developed a morbid fixation on his mother who he followed from room to room. He told his friends that she was dead and even wore a black armband in remembrance. He was also sexually provocative. His father, a retired Metropolitan Police inspector, feared for the safety of Sidney's younger sister and began escorting her to and from school. He also insisted that the girl kept her bedroom door locked at night. Sidney would spend hours sitting in complete silence with his head in his hands. His mother noticed that he was stealing things from around the house and hiding them. He also spent many hours wandering alone in Richmond Park which was just around the corner from where he lived.
 
 ---

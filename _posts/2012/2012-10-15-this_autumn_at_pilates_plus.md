@@ -5,9 +5,8 @@ permalink: /archives/2012/10/this_autumn_at_pilates_plus.html
 commentfile: 2012-10-15-this_autumn_at_pilates_plus
 category: around_town
 date: 2012-10-15 20:59:56
+image: "/assets/images/2012/leaf_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/leaf.jpg" title="See larger version of - leaf"><img src="/assets/images/2012/leaf_thumb.jpg" width="150" height="128" alt="leaf" class=" right" /></a>
-    
     
     Pilates Plus is now online.  Book your classes whenever you choose! Just visit <a href="http://www.pilates-plus.co.uk/book-online">www.pilates-plus.co.uk/book-online</a> and follow the instructions. So long as you have money on your account you can book/cancel classes, view your schedule and more.
 

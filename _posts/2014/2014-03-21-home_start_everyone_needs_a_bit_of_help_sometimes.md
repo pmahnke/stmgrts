@@ -5,9 +5,8 @@ permalink: /archives/2014/03/home_start_everyone_needs_a_bit_of_help_sometimes.h
 commentfile: 2014-03-21-home_start_everyone_needs_a_bit_of_help_sometimes
 category: news
 date: 2014-03-21 22:50:26
+image: "/assets/images/2014/Home-Start_Colour_small_low_res_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Home-Start_Colour_small_low_res.jpg" title="See larger version of - Home Start Colour small low res"><img src="/assets/images/2014/Home-Start_Colour_small_low_res_thumb.jpg" width="150" height="131" alt="Home Start Colour small low res" class="right" /></a>
-    
     Many parents need support, friendship or advice when their children are young. We train volunteers with parenting experience in the Richmond area who can visit you at home. They can give you a helping hand and listen to your concerns. All are DBS (CRB) checked and fully trained.
     
 

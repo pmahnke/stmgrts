@@ -5,9 +5,8 @@ permalink: /archives/2011/01/event_reminder_kristin_yeatman_28_january_2011.html
 commentfile: 2011-01-20-event_reminder_kristin_yeatman_28_january_2011
 category: around_town
 date: 2011-01-20 19:30:17
+image: "/assets/images/2011/yeatman_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/yeatman.jpg" title="See larger version of - Kristin Yeatman"><img src="/assets/images/2011/yeatman_thumb.jpg" width="150" height="150" alt="Kristin Yeatman" class="photo right" /></a>
-
     The Turk's Head presents a high energy funk/soul evening with Montreal born, <a href="https://stmargarets.london/event/show/200705142696">Kristin Yeatman</a> and her 7-piece band, performing an inspired selection of classics plus tracks  from her new CD, <a href="https://stmargarets.london/archives/2010/12/local_musician_kristin_yeatman_releases_new_album.html">Orleans Road</a>
 ---
 

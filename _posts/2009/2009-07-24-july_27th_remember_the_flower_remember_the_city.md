@@ -5,8 +5,8 @@ permalink: /archives/2009/07/july_27th_remember_the_flower_remember_the_city.htm
 commentfile: 2009-07-24-july_27th_remember_the_flower_remember_the_city
 category: news
 date: 2009-07-24 13:00:19
+image: "/assets/images/2009/keep_calm-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/keep_calm.jpg"><img src="/assets/images/2009/keep_calm-thumb.jpg" width="106" height="150" alt="A WARTIME POSTER" class="photo right"/></a>
 
     July 27<sup>th</sup> is a largely forgotten anniversary but on that date we are invited to remember an insignificant flower and the city that it has come to symbolise.
 

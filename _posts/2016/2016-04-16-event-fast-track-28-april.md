@@ -5,9 +5,8 @@ permalink: /archives/2016/04/event-fast-track-28-april.html
 commentfile: 2016-04-16-event-fast-track-28-april
 category: around_town
 date: 2016-04-16 09:11:30
+image: "/assets/images/2016/Fast-Track-to-Fabulous-facebook-advert_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Fast-Track-to-Fabulous-facebook-advert.jpg" title="See larger version of - Fast Track to Fabulous facebook advert"><img src="/assets/images/2016/Fast-Track-to-Fabulous-facebook-advert_thumb.jpg" width="150" height="213" alt="Fast Track to Fabulous facebook advert" class="photo right" /></a>
-
     You are invited to a special evening in support of Ruils, Teddington's local disability Charity. Enjoy proscecco and eat treats and receive a fabulous goody bag to takeaway.
 ---
 

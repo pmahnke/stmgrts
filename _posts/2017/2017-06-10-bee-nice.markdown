@@ -5,9 +5,8 @@ permalink: /archives/2017/06/bee-nice.html
 commentfile: 2017-06-10-bee-nice
 category: around_town
 date: 2017-06-10 17:45:03
+image: "/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/bee-nice-to-bees.jpg" title="Click for a larger image"><img src="/assets/images/2017/bee-nice-to-bees-thumb.jpg" width="150" alt="Image - bee-nice-to-bees"  class="photo right"/></a>
-
     Richmond Council is encouraging residents not to attack any nests. Normally bumblebee nests live for around 2-3 months, they do not cause any structural damage and they do not swarm. They are also not aggressive insects and are generally only interested in finding flowers. The only time when they may act defensively is if something disturbs their nest.
 
 ---

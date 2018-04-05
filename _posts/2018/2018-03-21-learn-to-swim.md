@@ -5,9 +5,8 @@ permalink: /archives/2018/03/learn-to-swim.html
 commentfile: 2018-03-21-learn-to-swim
 category: around_town
 date: 2018-03-21 10:23:11
+image: "/assets/images/2018/learn-to-swim-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/learn-to-swim.jpg" title="Click for a larger image"><img src="/assets/images/2018/learn-to-swim-thumb.jpg" width="150" alt="Image - learn-to-swim"  class="photo right"/></a>
-
     Dive into summer 2018 by learning to swim at one of Richmond upon Thames' pools and fitness centres.
 
     New pupil bookings are now open for the summer term of lessons at Teddington Pools and Fitness Centre and Pools on the Park in Richmond.

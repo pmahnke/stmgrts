@@ -5,9 +5,8 @@ permalink: /archives/2009/05/twickenham_festival_2009.html
 commentfile: 2009-05-26-twickenham_festival_2009
 category: around_town
 date: 2009-05-26 21:42:16
+image: "/assets/images/2009/Festival_09_logo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/Festival_09_logo.jpg"><img src="/assets/images/2009/Festival_09_logo-thumb.jpg" width="150" height="106" alt="right" /></a>
-    
     
     <a href="https://stmargarets.london/event/fair/200705142158">Twickenham's annual Festival</a> is this year filled with music, fun and action-packed events.  From 12<sup>th</sup> - 21<sup>st</sup> June a huge variety of community activities will take place.  The first weekend kicks off with:
     

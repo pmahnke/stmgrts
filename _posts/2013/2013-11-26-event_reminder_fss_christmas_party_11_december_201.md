@@ -5,9 +5,8 @@ permalink: /archives/2013/11/event_reminder_fss_christmas_party_11_december_201.
 commentfile: 2013-11-26-event_reminder_fss_christmas_party_11_december_201
 category: around_town
 date: 2013-11-26 23:29:10
+image: "/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/FSS-and-TLG-Party-xmas2013.jpg" title="See larger version of - FSS and TLG Party xmas2013"><img src="/assets/images/2013/FSS-and-TLG-Party-xmas2013_thumb.jpg" width="150" height="240" alt="FSS and TLG Party xmas2013" class="photo right" /></a>
-    
     <a href="http://www.forsanityssake.com">For Sanity's Sake</a> - the local activity website for kids, are organising a Christmas Party on <a href="https://stmargarets.london/event/party/200705144201">Wednesday, 11<sup>th</sup> December 2013</a> for children 4 months - under 4 years with The Little Gym and The Imagination Den. Dressing up as Santas, elves, reindeers or fairies optional.
 
 ---

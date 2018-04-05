@@ -5,8 +5,8 @@ permalink: /archives/2008/09/the_poet_who_lost_his_head.html
 commentfile: 2008-09-18-the_poet_who_lost_his_head
 category: around_town
 date: 2008-09-18 09:51:55
+image: "/assets/images/2008/Alexander_Pope-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/Alexander_Pope.jpg"><img src="/assets/images/2008/Alexander_Pope-thumb.jpg" width="119" height="150" alt="Alexander Pope" class="photo right" /></a>
     
     
     

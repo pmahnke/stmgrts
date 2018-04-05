@@ -6,9 +6,8 @@ commentfile: 2018-03-17-trevor-baylis-party
 category: around_town
 author: Martyn Day
 date: 2018-03-17 09:01:56
+image: "/assets/images/2018/TREVORSPARTY_himself-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/TREVORSPARTY_himself.jpg" title="Click for a larger image"><img src="/assets/images/2018/TREVORSPARTY_himself-thumb.jpg" width="150" alt="Image - TREVORSPARTY_himself"  class="photo right"/></a>
-
     'Nark Drool and the Shudders' had played many times on Eel Pie Island and felt quite privileged to be following in the steps of the Rolling Stones, the Yardbirds, Rod Stewart and the other R&B greats of the 1960s. But after a few years of dragging our equipment across the humped back bridge on trolleys and back again in the early hours of the morning, trailing behind us the ghosts of Brian Jones, Keith Relf, Ken Colyer, Keith Moon and all the others that had moved on to the great gig in the sky we thought that enough was enough. Then Trevor Baylis, the man who invented the wind-up radio, phoned us up.
 
 ---

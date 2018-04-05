@@ -5,8 +5,8 @@ permalink: /archives/2011/10/exhibition_of_jim_mccluskeys_paintings.html
 commentfile: 2011-10-03-exhibition_of_jim_mccluskeys_paintings
 category: around_town
 date: 2011-10-03 13:26:37
+image: "/assets/images/2011/Jim_St_Mathias_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Jim_St_Mathias.jpg" title="See larger version of - St Mathias Church (Oil on canvas, 50" x 37", £550)"><img src="/assets/images/2011/Jim_St_Mathias_thumb.jpg" width="150" height="224" alt="St Mathias Church (Oil on canvas, 50" x 37", £550)" class="photo right" /></a>
     
     Following Jim McCluskey's popular exhibition of paintings shown from 16<sup>th</sup> to 25<sup>th</sup> September, at the 12 Richmond Hill Art Gallery, the exhibition will reopen for a further two weeks.
     

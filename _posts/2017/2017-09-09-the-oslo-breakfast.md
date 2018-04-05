@@ -6,9 +6,8 @@ commentfile: 2017-09-09-the-oslo-breakfast
 category: around_town
 date: 2017-09-09 17:52:48
 author: Martyn Day
+image: "/assets/images/2017/OSLOBREAKIE_wartime-evacuees-2-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/OSLOBREAKIE_wartime-evacuees-2.jpg" title="Click for a larger image"><img src="/assets/images/2017/OSLOBREAKIE_wartime-evacuees-2-thumb.jpg" width="150" alt="Image - OSLOBREAKIE_wartime-evacuees-2"  class="photo right"/></a>
-
     The people who kindly agreed to house children evacuated from Britain's cities during the second World War faced a number of unexpected difficulties. The first was vermin - body lice. Some children, particularly from inner city slums, were so verminous that their clothes - not that they had many of them - had to be burnt on arrival at their new evacuation homes in the country...
 
 ---

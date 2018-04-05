@@ -5,9 +5,8 @@ permalink: /archives/2018/03/vote-for-attenborough-film-award.html
 commentfile: 2018-03-17-vote-for-attenborough-film-award
 category: news
 date: 2018-03-14 08:16:46
+image: "/assets/images/2018/attenboroug-with-stag-beetle-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/attenboroug-with-stag-beetle.jpg" title="Click for a larger image"><img src="/assets/images/2018/attenboroug-with-stag-beetle-thumb.jpg" width="150" alt="Image - attenboroug-with-stag-beetle"  class="photo right"/></a>
-
     Richmond Park - National Nature Reserve, presented by David Attenborough, has been selected as a finalist in the 2018 Charity Film Awards and the public can help it win by voting for it now.
 
 

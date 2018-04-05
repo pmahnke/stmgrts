@@ -5,9 +5,8 @@ permalink: /archives/2012/05/st_margarets_jubilee_fair_update.html
 commentfile: 2012-05-26-st_margarets_jubilee_fair_update
 category: around_town
 date: 2012-05-26 16:34:55
+image: "/assets/images/2012/St-Margarets-Jubilee-Fair_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/St-Margarets-Jubilee-Fair.jpg" title="See larger version of - St Margarets Jubilee Fair"><img src="/assets/images/2012/St-Margarets-Jubilee-Fair_thumb.jpg" width="150" height="212" alt="St Margarets Jubilee Fair" class="photo right" /></a>
-    
     _Even more entertainment added to the Jubilee Fair!_
     
     As you are no doubt aware St Margarets is holding a Jubilee Fair on <a href="https://stmargarets.london/event/fair/200705143245">Sunday 3<sup>rd</sup> June</a> in Crown Road St Margarets from 11am until 4pm. The event is open to all and will offer a day of family fun and entertainment. Many of the planned activities are free including: Jubilee Punch and Judy shows, children's magic show, children's crafts, face painting, balloon modelling, circus skills fun, Flamin June show, hilarious street entertainers and lots lots more. We also have a mini fun fair, lots of games and competitions, live music all day, side stalls, Pimms stall and delicious food stalls including Zoran's famous BBQ. The Mayor is also joining us at 12 noon.

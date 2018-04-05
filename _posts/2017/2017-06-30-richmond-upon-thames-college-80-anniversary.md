@@ -5,9 +5,8 @@ permalink: /archives/2017/06/richmond-upon-thames-college-80-anniversary.html
 commentfile: 2017-06-30-richmond-upon-thames-college-80-anniversary
 category: news
 date: 2017-06-30 19:51:59
+image: "/assets/images/2017/RuTC-80th-anniversary-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/RuTC-80th-anniversary.jpg" title="Click for a larger image"><img src="/assets/images/2017/RuTC-80th-anniversary-thumb.jpg" width="150" alt="Image - RuTC-80th-anniversary"  class="photo right"/></a>
-
     Last night, Richmond upon Thames College (RuTC) celebrated its 80<sup>th</sup> Anniversary with a number of special guests including staff, governors, local businesses and the Mayor of Richmond upon Thames, Councillor Lisa Blakemore.
 
 ---

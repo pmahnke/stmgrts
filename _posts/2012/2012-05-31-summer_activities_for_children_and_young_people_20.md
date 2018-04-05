@@ -5,9 +5,8 @@ permalink: /archives/2012/05/summer_activities_for_children_and_young_people_20.
 commentfile: 2012-05-31-summer_activities_for_children_and_young_people_20
 category: around_town
 date: 2012-05-31 22:14:20
+image: "/assets/images/2012/6-9s_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2012/6-9s.JPG" title="See larger version of - 6 9s"><img src="/assets/images/2012/6-9s_thumb.JPG" width="150" height="167" alt="6 9s" class="photo right" /></a>
-
 
     Orleans House Gallery offers a range of fun, inspiring and creative activities to keep you busy creating.  Visit our website to find out more about what is happening each day.
 

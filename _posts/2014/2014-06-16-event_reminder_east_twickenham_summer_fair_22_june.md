@@ -5,9 +5,8 @@ permalink: /archives/2014/06/event_reminder_east_twickenham_summer_fair_22_june.
 commentfile: 2014-06-16-event_reminder_east_twickenham_summer_fair_22_june
 category: around_town
 date: 2014-06-16 08:08:47
+image: "/assets/images/2014/140515--East-Twickenham-Summer-Fair-2014-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/140515--East-Twickenham-Summer-Fair-2014-poster.jpg" title="See larger version of - East Twickenham Summer Fair 2014 poster"><img src="/assets/images/2014/140515--East-Twickenham-Summer-Fair-2014-poster_thumb.jpg" width="150" height="210" alt="East Twickenham Summer Fair 2014 poster" class="photo right" /></a>
-    
     Come along to the <a href="https://stmargarets.london/event/fair/200705144435">East Twickenham Summer Fair on 22 June 2014 from 12 to 5pm in Cambridge Gardens</a> for a fun filled day.
 
 ---

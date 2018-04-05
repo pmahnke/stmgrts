@@ -5,9 +5,8 @@ permalink: /archives/2013/11/event_reminder_orleans_house_gallery_luxury_christ.
 commentfile: 2013-11-26-event_reminder_orleans_house_gallery_luxury_christ
 category: around_town
 date: 2013-11-26 23:00:24
+image: "/assets/images/2013/OHG_Christmas-Fair-2013_invite_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/OHG_Christmas-Fair-2013_invite.jpg" title="See larger version of - Christmas Fair 2013 invite"><img src="/assets/images/2013/OHG_Christmas-Fair-2013_invite_thumb.jpg" width="150" height="212" alt="Christmas Fair 2013 invite" class="photo right" /></a>
-    
     
     This year the Orleans House Christmas Shopping Fair has an added touch of luxury. Not only will visitors be able to choose from a stylish selection of Christmas Gifts and little luxuries, such as organic skin care, handmade chocolates, designer gifts, studio ceramics, books, toys, seasonal foods and contemporary jewellery... they'll be able to do this in the elegant surroundings of the Coach House and Octagon Room.
 

@@ -5,9 +5,9 @@ permalink: /archives/2009/03/pole2pole_nordic_walking.html
 commentfile: 2009-03-13-pole2pole_nordic_walking
 category: around_town
 date: 2009-03-13 10:48:32
+image: "/assets/images/directory/200903130540_Pole2Pole_Nordic_Walking.jpg"
 excerpt: |
-    <img src="/assets/images/directory/200903130540_Pole2Pole_Nordic_Walking.jpg" class="photo right" width="150"  alt="" />
-
+    
     
     <a href="https://stmargarets.london/directory/sports/200903130540">Pole2Pole Nordic Walking</a> started in November 2008.  It has become more and more popular with people in West London because of our beautiful riverside walkways and parks.
 

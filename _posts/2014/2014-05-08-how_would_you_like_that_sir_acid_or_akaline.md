@@ -5,9 +5,8 @@ permalink: /archives/2014/05/how_would_you_like_that_sir_acid_or_akaline.html
 commentfile: 2014-05-08-how_would_you_like_that_sir_acid_or_akaline
 category: around_town
 date: 2014-05-08 22:57:10
+image: "/assets/images/2014/ACID_Barrel_of_apples_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/ACID_Barrel_of_apples.jpg" title="See larger version of - Barrel of apples"><img src="/assets/images/2014/ACID_Barrel_of_apples_thumb.jpg" width="150" height="224" alt="Barrel of apples" class="photo right" /></a>
-    
     We are currently being advised that for a long and healthy life we need to eat 7 portions of fruit and vegetables a day, with the polite nudge that vegetables are better than fruit. Unless I have nodded off I'm not sure what actually constitutes a portion. At the moment I'm working on the basis that if it is large enough to see, identify and pick up with a fork then that's a portion. This policy is flexible enough to include both a single pea and a beefsteak tomato.
     
 

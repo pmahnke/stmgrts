@@ -5,9 +5,8 @@ permalink: /archives/2013/03/the_statue.html
 commentfile: 2013-03-14-the_statue
 category: around_town
 date: 2013-03-14 10:24:17
+image: "/assets/images/2013/STATUE_St-Margaret-close_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/STATUE_St-Margaret-close.jpg" title="See larger version of - St Margaret close"><img src="/assets/images/2013/STATUE_St-Margaret-close_thumb.jpg" width="150" height="200" alt="St Margaret close" class="photo right" /></a>
-    
     
     Local cartophiles[1] and others with a damp afternoon and nothing else to do will be interested to learn that the small slice of paradise that we call home sits within four church parishes - St Mary's to the south, St Stephens to the east, All Hallows to the west and the gloriously named St Margarets-on-Thames to the north.
     

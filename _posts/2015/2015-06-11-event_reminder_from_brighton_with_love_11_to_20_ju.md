@@ -5,9 +5,8 @@ permalink: /archives/2015/06/event_reminder_from_brighton_with_love_11_to_20_ju.
 commentfile: 2015-06-11-event_reminder_from_brighton_with_love_11_to_20_ju
 category: around_town
 date: 2015-06-11 20:34:17
+image: "/assets/images/2015/From-Brighton-with-Love-poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/From-Brighton-with-Love-poster.jpg" title="See larger version of - From Brighton with Love poster"><img src="/assets/images/2015/From-Brighton-with-Love-poster_thumb.jpg" width="150" height="212" alt="From Brighton with Love poster" class="photo right" /></a>
-    
     DENHAM & FINNEY are proud to present, for 10 days only  an exceptional showcase of talent all the way from the South Coast. Come and join us from Thursday, 11<sup>th</sup> June from 6 to 9pm until Saturday, 20<sup>th</sup> June at 149 St Margarets Road.
     
 

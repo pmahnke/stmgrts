@@ -5,9 +5,8 @@ permalink: /archives/2014/09/the_fire_at_twickenham_studios.html
 commentfile: 2014-09-25-the_fire_at_twickenham_studios
 category: around_town
 date: 2014-09-25 10:59:31
+image: "/assets/images/2014/FIRETS_Twickenham_Fire_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/FIRETS_Twickenham_Fire.JPG" title="See larger version of - Twickenham Fire"><img src="/assets/images/2014/FIRETS_Twickenham_Fire_thumb.JPG" width="150" height="141" alt="Twickenham Fire" class="photo right" /></a>
-    
     Eighty years ago, on the 18<sup>th</sup> September 1934, 'The Times 'reported that Twickenham Film Studios was about to spend &pound;500,000, that's over &pound;30 million in today's money, on film production. Opening a modern sound stage on the site, producer and studio owner Mr Julius Hagen announced a list of films that would be shot in this new facility. These included 'The Morals of Marcus' starring 'The Mexican Spitfire' - Miss Lupe Velez, 'Vintage Wine' with Seymour Hicks and Claire Luce and 'Squibs' featuring Betty Balfour and Stanley Holloway. Mr Hagen told reporters that the new sound stage, 125 feet long and 70 feet wide, featured all the very latest acoustic properties and air-conditioning systems.
 
 ---

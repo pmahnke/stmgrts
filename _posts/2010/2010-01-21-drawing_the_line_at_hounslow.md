@@ -5,9 +5,8 @@ permalink: /archives/2010/01/drawing_the_line_at_hounslow.html
 commentfile: 2010-01-21-drawing_the_line_at_hounslow
 category: around_town
 date: 2010-01-21 13:22:30
+image: "/assets/images/2017/baseline_1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/baseline_1.jpg" title="Click for a larger image"><img src="/assets/images/2017/baseline_1-thumb.jpg" width="150" alt="Image - baseline_1"  class="photo right"/></a>
-
     *Cartophile* --  _n._ One who greatly admires and enjoys maps.
 
     The next time you find yourself lost on a lonely hillside with only a map and a compass between you and missing the next episode of 'Celebrity Big Brother' or standing in the rain checking your A-Z to find the nearest tube station consider this - virtually every map in this country owes its existence to 2 military engineers, 10 men from the 12<sup>th</sup> Regiment of Foot - and a straight line paced out on Hounslow Heath.

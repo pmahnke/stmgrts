@@ -5,10 +5,8 @@ permalink: /archives/2010/02/council_purchase_of_site_for_new_primary_school.htm
 commentfile: 2010-02-17-council_purchase_of_site_for_new_primary_school
 category: news
 date: 2010-02-17 18:18:11
+image: "/assets/images/2017/SiteA-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/SiteA.jpg" title="Click for a larger image"><img src="/assets/images/2017/SiteA-thumb.jpg" width="150" alt="Image - SiteA"  class="photo right"/></a>
-
     Richmond Council has negotiated the purchase of part of the former St John's hospital site, in Strafford Road, Twickenham, for further primary school provision, subject to approval from Cabinet on Monday 22 February.
 
     The purchase from the current owners, the South West London Mental Health Trust (MHT), will be conditional upon planning permission being obtained for the site.

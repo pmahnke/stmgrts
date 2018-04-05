@@ -5,8 +5,8 @@ permalink: /archives/2013/02/over_20_halfterm_ideas_from_for_sanitys_sake.html
 commentfile: 2013-02-10-over_20_halfterm_ideas_from_for_sanitys_sake
 category: around_town
 date: 2013-02-10 18:27:38
+image: "/assets/images/directory/201012151646_For_Sanity%27s_Sake.png"
 excerpt: |
-    <img src="/assets/images/directory/201012151646_For_Sanity%27s_Sake.png" width="150"  class="right" alt="FSS logo" />
     
     Find over 20 great ideas for February 2013's half term in and around the Richmond Borough. For more details and even more activity ideas go to <a href="http://www.forsanityssake.com">www.forsanityssake.com</a>
 

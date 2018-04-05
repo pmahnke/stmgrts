@@ -6,9 +6,8 @@ commentfile: 2016-10-08-the-kilmorey-coincidence
 category: around_town
 date: 2016-10-08 10:22:17
 author: "Martyn Day"
+image: "/assets/images/2016/KILMOREYCOINCIDENCE_Richard_Needham_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/KILMOREYCOINCIDENCE_Richard_Needham.jpg" title="See larger version of - Richard Needham"><img src="/assets/images/2016/KILMOREYCOINCIDENCE_Richard_Needham_thumb.jpg" width="150" height="286" alt="Richard Needham" class="photo right" /></a>
-
     When two similar or linked events occur at the same time it is a coincidence. When three similar or linked events occur at the same time it is unusual and strange. When three similar or linked events occur at the same time within an environment that already has a lurking reputation for weirdness then you had better start thinking of calling Ghostbusters... and so it was on Sunday 18<sup>th</sup> September.
 ---
 

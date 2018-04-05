@@ -5,9 +5,8 @@ permalink: /archives/2018/02/orleans-house-refurb-completed.html
 commentfile: 2018-02-17-orleans-house-refurb-completed
 category: news
 date: 2018-02-17 13:07:24
+image: "/assets/images/2018/orleans-house-painting-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/orleans-house-painting.jpg" title="Click for a larger image"><img src="/assets/images/2018/orleans-house-painting-thumb.jpg" width="150" alt="Image - orleans-house-painting"  class="photo right"/></a>
-
     Orleans House Gallery, whose eponymous owner, the Duke of Orleans once called "my peaceful house in old Twick", is about to come alive to a new wave of admirers after its refurbishment.
 
 ---

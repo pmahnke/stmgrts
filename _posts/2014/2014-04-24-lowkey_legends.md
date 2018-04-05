@@ -5,9 +5,8 @@ permalink: /archives/2014/04/lowkey_legends.html
 commentfile: 2014-04-24-lowkey_legends
 category: around_town
 date: 2014-04-24 22:14:55
+image: "/assets/images/2014/ABBA_abba_boots_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/ABBA_abba_boots.jpg" title="See larger version of - abba boots"><img src="/assets/images/2014/ABBA_abba_boots_thumb.jpg" width="150" height="84" alt="abba boots" class="photo right" /></a>
-    
     40 years ago last Sunday, 20<sup>th</sup> April 1974, a new record and a new group with a new style jumped out of nowhere and went straight to No 1 in the U.K charts and stayed there for 9 weeks. It was the first of over 26 UK chart hits for this band, 9 of them reaching No. 1.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2011/04/for_sanitys_sake_easter_party_a_hopping_success.htm
 commentfile: 2011-04-27-for_sanitys_sake_easter_party_a_hopping_success
 category: news
 date: 2011-04-27 19:16:24
+image: "/assets/images/2011/FSS_Parachute_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/FSS_Parachute.jpg" title="See larger version of - Parachute"><img src="/assets/images/2011/FSS_Parachute_thumb.jpg" width="150" height="99" alt="Parachute" class="photo right" /></a>
-    
     Music from the guitar, keyboard, flute and singing voices of Charlotte Miller and Vicki Smith filled The Marble Hill Pub, East Twickenham, along with over 70 pre-schoolers and their parents last Thursday (21 April 2011) morning.
     
     It was For Sanity's Sake's Easter Party with Tempo Tots and the little ones were Easter bunnies, hopping to the live music and hunting out toys from behind big, cut-out, colourful eggs.

@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_speak_up_for_kew_22_october_2014.htm
 commentfile: 2014-10-17-event_reminder_speak_up_for_kew_22_october_2014
 category: around_town
 date: 2014-10-17 11:52:14
+image: "/assets/images/2014/Kew-Gardens-public-leaflet_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/Kew-Gardens-public-leaflet.png" title="See larger version of - Kew Gardens public leaflet"><img src="/assets/images/2014/Kew-Gardens-public-leaflet_thumb.png" width="150" height="217" alt="Kew Gardens public leaflet" class="photo right" /></a>
-    
     <em>Please come to a public meeting to hear about the impact of budget and staffing cuts on the service that Kew provides on <a href="https://stmargarets.london/event/meeting/200705144722.</em>">Wednesday, 22 October 2014 from 7.00pm to 8.45pm</a>
     
     

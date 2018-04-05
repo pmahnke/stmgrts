@@ -5,8 +5,8 @@ permalink: /archives/2009/09/how_to_find_a_bargain.html
 commentfile: 2009-09-17-how_to_find_a_bargain
 category: around_town
 date: 2009-09-17 22:20:03
+image: "/assets/images/2009/gass_09-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/gass_09.png"><img src="/assets/images/2009/gass_09-thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
     
     
     _Great Annual Street Sale  - September 19<sup>th</sup>_

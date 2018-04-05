@@ -5,9 +5,8 @@ permalink: /archives/2011/09/event_reminder_art_picnic_thames_ditton_island_pri.
 commentfile: 2011-09-01-event_reminder_art_picnic_thames_ditton_island_pri
 category: around_town
 date: 2011-09-01 09:44:33
+image: "/assets/images/2011/thamesditton_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/thamesditton.png" title="See larger version of - Thames Ditton Island Footbridge"><img src="/assets/images/2011/thamesditton_thumb.png" width="150" height="112" alt="Thames Ditton Island Footbridge" class="photo right" /></a>
-    
     On <a href="https://stmargarets.london/event/meeting/200705142991,">Sunday, 18<sup>th</sup> September 2001</a> there will be a Block Printing workshop with Sasa Marinkov at a riverside house on Thames Ditton Island which is accessed via a footbridge next to The Olde Swan pub on Summer Road, Thames Ditton.
 
 ---

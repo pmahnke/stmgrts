@@ -5,9 +5,9 @@ permalink: /archives/2018/04/-south-western-railway-weekend-engineering-work.htm
 commentfile: 2018-04-04-south-western-railway-weekend-engineering-works
 category: news
 date: 2018-04-04 07:11:43
+image: "/assets/images/2018/swr-square-logo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/swr-square-logo.jpg" title="Click for a larger image"><img src="/assets/images/2018/swr-square-logo-thumb.jpg" width="150" alt="Image - swr-square-logo"  class="right"  style="margin: 0.5em 1em; padding: 2px;" /></a>
-
+    
     Engineering work will affect trains from London Waterloo to Clapham Junction and in the Barnes area all day Sunday.  Trains normally coming from Waterloo via Richmond will start in Richmond and go around the Wimbledon way.  Trains going to Waterloo via Richmond will go to Twickenham and then go around the Wimbledon way.
 
 ---

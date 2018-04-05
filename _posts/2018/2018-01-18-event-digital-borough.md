@@ -5,9 +5,8 @@ permalink: /archives/2018/01/event-digital-borough.html
 commentfile: 2018-01-18-event-digital-borough
 category: news
 date: 2018-01-18 16:04:27
+image: "/assets/images/2018/LBRUT_digital-richmond-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/LBRUT_digital-richmond.jpg" title="Click for a larger image"><img src="/assets/images/2018/LBRUT_digital-richmond-thumb.jpg" width="150" alt="Image - LBRUT_digital-richmond"  class="photo right"/></a>
-
     New and aspiring tech entrepreneurs are being encouraged to attend a special event to explore key tech trends and issues, showcase the borough's digital and tech pace-setters, and stimulate engagement between business and others.
 
 ---

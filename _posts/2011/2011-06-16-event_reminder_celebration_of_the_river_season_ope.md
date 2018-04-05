@@ -5,9 +5,8 @@ permalink: /archives/2011/06/event_reminder_celebration_of_the_river_season_ope.
 commentfile: 2011-06-16-event_reminder_celebration_of_the_river_season_ope
 category: around_town
 date: 2011-06-16 09:02:36
+image: "/assets/images/2011/celebr10_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/celebr10.jpg" title="See larger version of - poster"><img src="/assets/images/2011/celebr10_thumb.jpg" width="150" height="211" alt="poster" class="photo right" /></a>
-
     The Thames Anglers Conservancy running a <a href="https://stmargarets.london/event/event/200705142801,">free event on Sunday, 19 June 2011</a> near Walton Bridge to help get people learn about fishing on the Thames.    
 
 ---

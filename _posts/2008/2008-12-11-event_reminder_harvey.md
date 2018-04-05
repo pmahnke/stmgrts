@@ -5,9 +5,8 @@ permalink: /archives/2008/12/event_reminder_harvey.html
 commentfile: 2008-12-11-event_reminder_harvey
 category: around_town
 date: 2008-12-11 09:35:09
+image: "/assets/images/2008/rss_harvey_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/rss_harvey.jpg" title="See larger version of - Harvey"><img src="/assets/images/2008/rss_harvey_thumb.jpg" width="150" height="112" alt="Harvey" class="photo right" /></a>
-    
     Veta Louise and her daughter Myrtle Mae have arranged an afternoon party -- hoping to find an an ideal husband for Myrtle. But things go horribly wrong when Uncle Elwood P Dowd drops in with his best friend Harvey -- a 6' 1" white rabbit invisible to everyone else.
     
     And as their party plans go progressively down the rabbit hole, the baffled family resolves to commit Uncle Elwood to the local mental hospital.

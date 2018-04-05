@@ -5,9 +5,8 @@ permalink: /archives/2015/08/sir_david_attenborough_becomes_a_patron_of_the_hol.
 commentfile: 2015-08-13-sir_david_attenborough_becomes_a_patron_of_the_hol
 category: around_town
 date: 2015-08-13 18:31:04
+image: "/assets/images/2015/david-attenborough-holly-lodge_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/david-attenborough-holly-lodge.png" title="See larger version of - david attenborough holly lodge"><img src="/assets/images/2015/david-attenborough-holly-lodge_thumb.png" width="150" height="98" alt="david attenborough holly lodge" class="photo right" /></a>
-    
     The Trustees of the Holly Lodge Centre in Richmond Park are extremely pleased to announce that Sir David Attenborough has agreed to become a patron of the Centre.
     
 

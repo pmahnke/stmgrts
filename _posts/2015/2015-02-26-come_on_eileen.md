@@ -5,9 +5,8 @@ permalink: /archives/2015/02/come_on_eileen.html
 commentfile: 2015-02-26-come_on_eileen
 category: around_town
 date: 2015-02-26 23:22:49
+image: "/assets/images/2015/SHERIDAN_Eileen_Sheridan_smile_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/SHERIDAN_Eileen_Sheridan_smile.jpg" title="See larger version of - Eileen Sheridan smile"><img src="/assets/images/2015/SHERIDAN_Eileen_Sheridan_smile_thumb.jpg" width="150" height="184" alt="Eileen Sheridan smile" class="photo right" /></a>
-    
     A celebrated and award-winning cyclist lives in Old Isleworth. Her name stands alongside other British cycling legends like Reg Harris, Beryl Burton, Victoria Pendleton and Sir Bradley Wiggins. In her time she has established over 30 speed and distance cycling records. Although she effectively retired from competitive cycling in 1955, 60 years ago, many of her records still stand to this day. Her name is Eileen Sheridan.
     
 

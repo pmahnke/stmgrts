@@ -5,9 +5,8 @@ permalink: /archives/2010/12/the_man_who_stood_at_the_gate_of_the_year.html
 commentfile: 2010-12-30-the_man_who_stood_at_the_gate_of_the_year
 category: around_town
 date: 2010-12-30 08:42:46
+image: "/assets/images/2010/gate_queenm-george_vi_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/gate_queenm-george_vi.jpg" title="See larger version of - King George VI"><img src="/assets/images/2010/gate_queenm-george_vi_thumb.jpg" width="150" height="93" alt="King George VI" class="photo right" /></a>
-    
     
     When King George 6<sup>th</sup> made his first wartime Christmas radio broadcast on December 25<sup>th</sup> 1939 the nation and its Empire were in the middle of the "Phony War". The expected air onslaught on Britain hadn't come and many of the children who had been evacuated out of our cities had returned home. Although the German Navy was already harassing our Atlantic convoys and on October 13<sup>th</sup> had managed to penetrate the defences at Scapa Flow and sink the battleship "Royal Oak" with the loss of over 830 lives the general mood in the country was of apathy and complacency.
     

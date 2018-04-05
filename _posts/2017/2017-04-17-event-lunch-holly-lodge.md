@@ -5,9 +5,8 @@ permalink: /archives/2017/04/event-lunch-holly-lodge.html
 commentfile: 2017-04-17-event-lunch-holly-lodge
 category: around_town
 date: 2017-04-17 12:22:15
+image: "/assets/images/2017/thehollylodgecentre-sping-lunch-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/thehollylodgecentre-sping-lunch-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/thehollylodgecentre-sping-lunch-2017-thumb.jpg" width="150" alt="Image - thehollylodgecentre-sping-lunch-2017"  class="photo right"/></a>
-
     Jan Harvey will be "in conversation" with Adrian Mills for The Holly Lodge Centre Spring Lunch to be held at the exclusive Richmond Golf Club on Tuesday, 25 April 2017 in support of The Holly Lodge Centre.
 
 ---

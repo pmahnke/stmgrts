@@ -5,9 +5,8 @@ permalink: /archives/2011/02/event_reminder_richmond_printmakers_at_20.html
 commentfile: 2011-02-03-event_reminder_richmond_printmakers_at_20
 category: around_town
 date: 2011-02-03 20:46:25
+image: "/assets/images/2011/richmondprintmakers_jwolcho_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/richmondprintmakers_jwolcho.png" title="See larger version of - Tree of Life   Janet Wolchover"><img src="/assets/images/2011/richmondprintmakers_jwolcho_thumb.png" width="150" height="198" alt="Tree of Life   Janet Wolchover" class="photo right" /></a>
-    
     
     _The Richmond Printmakers group celebrate their first 20 years this year._
     

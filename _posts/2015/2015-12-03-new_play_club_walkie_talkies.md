@@ -5,9 +5,9 @@ permalink: /archives/2015/12/new_play_club_walkie_talkies.html
 commentfile: 2015-12-03-new_play_club_walkie_talkies
 category: around_town
 date: 2015-12-03 19:20:23
+image: "/assets/images/2015/walkie-talkies_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/walkie-talkies.jpg" title="See larger version of - walkie talkies"><img src="/assets/images/2015/walkie-talkies_thumb.jpg" width="150" height="62" alt="walkie talkies" class=" right" /></a>
-    
+
     Join Walkie Talkies the new drop off play club for 1 - 3 year olds, focusing on child-led creative play with more structured Music and Dance fun to finish!
 
 ---

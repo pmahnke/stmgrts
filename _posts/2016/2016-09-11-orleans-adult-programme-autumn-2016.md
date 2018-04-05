@@ -5,9 +5,8 @@ permalink: /archives/2016/09/orleans-adult-programme-autumn-2016.html
 commentfile: 2016-09-11-orleans-adult-programme-autumn-2016
 category: around_town
 date: 2016-09-11 07:33:26
+image: "/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ORLEANS-ADULT_Painting_Classes.jpg" title="See larger version of - ORLEANS ADULT Painting Classes"><img src="/assets/images/2016/ORLEANS-ADULT_Painting_Classes_thumb.jpg" width="150" height="99" alt="ORLEANS ADULT Painting Classes" class="photo right" /></a>
-
     Orleans House Gallery has an exciting new programme for adults this autumn - from painting classes, cyanotypes workshop and art history lectures.
 ---
 

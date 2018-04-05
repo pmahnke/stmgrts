@@ -5,9 +5,8 @@ permalink: /archives/2018/03/orleans-house-historical-markers.html
 commentfile: 2018-03-10-orleans-house-historical-markers
 category: news
 date: 2018-03-10 15:38:33
+image: "/assets/images/2018/orleans-house-marker-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/orleans-house-marker.jpg" title="Click for a larger image"><img src="/assets/images/2018/orleans-house-marker-thumb.jpg" width="150" alt="Image - orleans-house-marker"  class="photo right"/></a>
-
     Fancy spending a lunchtime strolling through the gardens of one of Twickenham's iconic landmarks? Are you a history or architecture enthusiast? If your answer is yes, then a new permanent interpretation in the grounds of Orleans House Gallery could be just the thing for you.
 
 ---

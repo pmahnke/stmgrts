@@ -5,9 +5,8 @@ permalink: /archives/2014/01/a_brilliant_mind_pardoned.html
 commentfile: 2014-01-09-a_brilliant_mind_pardoned
 category: around_town
 date: 2014-01-09 22:44:08
+image: "/assets/images/2014/Alan_Turing_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/Alan_Turing.JPG" title="See larger version of - Alan Turing"><img src="/assets/images/2014/Alan_Turing_thumb.JPG" width="150" height="228" alt="Alan Turing" class="photo right" /></a>
-    
     On the 24<sup>th</sup> December 2013, while the rest of us were preparing for Christmas, a man who once lived in Hampton was pardoned for a crime of the heart.
     
     Under the terms of the Royal Prerogative of Mercy, the WW2 code-breaker and computer scientist  Alan Turing, previously convicted for 'homosexual activity,' was granted a posthumous pardon by the Queen.

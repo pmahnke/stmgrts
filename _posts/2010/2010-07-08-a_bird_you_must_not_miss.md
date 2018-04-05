@@ -5,9 +5,8 @@ permalink: /archives/2010/07/a_bird_you_must_not_miss.html
 commentfile: 2010-07-08-a_bird_you_must_not_miss
 category: around_town
 date: 2010-07-08 14:52:21
+image: "/assets/images/2010/magpie_murgatroyd_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/magpie_murgatroyd.jpg" title="See larger version of - Murgatroyd"><img src="/assets/images/2010/magpie_murgatroyd_thumb.jpg" width="150" height="117" alt="Murgatroyd" class=" right" /></a>
-    
     Back in the 60's and 70's middle class children called Tristram and Jocaste collected stamps, went to gymkhanas and watched "Blue Peter" on the BBC. Working class kids called Jason and Charlene kicked tins around the street, cheeked their teachers and watched "Magpie" in ITV. Or at least that was the perception.
 
 ---

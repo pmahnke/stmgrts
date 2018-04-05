@@ -5,9 +5,8 @@ permalink: /archives/2013/02/the_return_of_nellie_the_elephant.html
 commentfile: 2013-02-20-the_return_of_nellie_the_elephant
 category: around_town
 date: 2013-02-20 22:15:20
+image: "/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/NELLIE_elephant_cartoon.jpg" title="See larger version of - elephant cartoon"><img src="/assets/images/2013/NELLIE_elephant_cartoon_thumb.jpg" width="150" height="120" alt="elephant cartoon" class="photo right" /></a>
-    
     Every three years I cycle up to a Scout Hut in Whitton to take a First Aid refresher course. It lasts all day and covers most aspects of basic first aid, from minor cuts, bruises and nose bleeds through to life threatening situations like cardiac arrest, choking and anaphylactic shock.
     
 

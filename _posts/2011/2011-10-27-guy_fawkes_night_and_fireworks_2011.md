@@ -5,9 +5,8 @@ permalink: /archives/2011/10/guy_fawkes_night_and_fireworks_2011.html
 commentfile: 2011-10-27-guy_fawkes_night_and_fireworks_2011
 category: around_town
 date: 2011-10-27 22:16:37
+image: "/assets/images/2011/fireworks-thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2011/fireworks.jpg"><img src="/assets/images/2011/fireworks-thumb.jpg" width="150" height="112" alt="fireworks" class="photo right" /></a>
     
     ### Friday 4<sup>th</sup> November 2011
     

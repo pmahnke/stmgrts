@@ -5,9 +5,8 @@ permalink: /archives/2017/03/easter-2017-orleans-house.html
 commentfile: 2017-03-17-easter-2017-orleans-house
 category: around_town
 date: 2017-03-17 21:45:38
+image: "/assets/images/2017/orleans-house-easter-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-house-easter-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-house-easter-2017-thumb.jpg" width="150" alt="Image - orleans-house-easter-2017"  class="photo right"/></a>
-
     Imaginary Worlds! Join us from Monday, 3 to Thursday, 13 April 2017 for a range of exciting Easter workshops led by professional artists. We will be exploring the Stables Gallery exhibition by artist Eric Jiani and will explore nature, adventure and more!
 
 ---

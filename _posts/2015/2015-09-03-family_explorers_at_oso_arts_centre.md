@@ -5,9 +5,8 @@ permalink: /archives/2015/09/family_explorers_at_oso_arts_centre.html
 commentfile: 2015-09-03-family_explorers_at_oso_arts_centre
 category: around_town
 date: 2015-09-03 22:22:56
+image: "/assets/images/2015/Family_Explorers_Flyer_20150903_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Family_Explorers_Flyer_20150903.jpg" title="See larger version of - Family Explorers Flyer 20150903"><img src="/assets/images/2015/Family_Explorers_Flyer_20150903_thumb.jpg" width="150" height="212" alt="Family Explorers Flyer 20150903" class="photo right" /></a>
-    
     Weekly art sessions for babies and children under 5 and their carers.
     
     Learn, play, and explore together in these exciting sessions which encourage creativity, curiosity and develop early communication.

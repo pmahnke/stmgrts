@@ -5,9 +5,8 @@ permalink: /archives/2016/01/event-reminder-crafty-tails.html
 commentfile: 2016-01-21-event-reminder-crafty-tails
 category: around_town
 date: 2016-01-21 21:58:12
+image: "/assets/images/2016/crafty_tales_at_ETNA_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/crafty_tales_at_ETNA.jpg" title="See larger version of - crafty tales at ETNA"><img src="/assets/images/2016/crafty_tales_at_ETNA_thumb.jpg" width="150" height="212" alt="crafty tales at ETNA" class="photo right" /></a>
-
     A fun and interactive session combining music and storytelling for 2-4 year olds!
 ---
 

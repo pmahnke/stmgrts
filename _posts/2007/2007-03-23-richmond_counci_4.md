@@ -5,9 +5,8 @@ permalink: /archives/2007/03/richmond_counci_4.html
 commentfile: 2007-03-23-richmond_counci_4
 category: news
 date: 2007-03-23 08:58:55
+image: "/assets/images/2007/cctv_car-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/cctv_car.jpg" title="Cllr Trigg in the CCTV Smart Car"><img src="/assets/images/2007/cctv_car-thumb.jpg" width="150" height="112" alt="Cllr Trigg in the CCTV Smart Car" class="photo right"  /></a>
-    
     St Margarets is about to get two new tools in fighting irresponsibly motorists.  the first is the two month trial of a new high-tech car fitted with a CCTV camera on a periscope.  The specially modified Smart car will target known hotspots, homing in on motorists parking on pavements and illegally parking around schools and pedestrian crossings. 
     
 

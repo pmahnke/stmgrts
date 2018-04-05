@@ -5,9 +5,8 @@ permalink: /archives/2015/04/mini_explorers_club_at_marble_hill_park.html
 commentfile: 2015-04-26-mini_explorers_club_at_marble_hill_park
 category: around_town
 date: 2015-04-26 09:12:08
+image: "/assets/images/2015/Mini_explorers_Marble_Hill_poster_FINAL__thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Mini_explorers_Marble_Hill_poster_FINAL_.jpg" title="See larger version of - Mini explorers Marble Hill poster "><img src="/assets/images/2015/Mini_explorers_Marble_Hill_poster_FINAL__thumb.jpg" width="150" height="106" alt="Mini explorers Marble Hill poster " class="photo right" /></a>
-    
     Join the team from Brilliant Play for some exciting adventures on your doorstep! Mini Explorers Club will be exploring Marble Hill Park where adventures are waiting to be had, friendships made and little imaginations engaged in the great outdoors. All adventures are enhanced by games, stories, crafts, dressing up and other play elements to maximise the fun. Adventures will be primarily child led and supported by the 'Lead Explorers' who are experts in children play. Mini Explorers is for children aged 3-5 years.
 
 ---

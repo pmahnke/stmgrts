@@ -5,9 +5,8 @@ permalink: /archives/2014/01/raise_your_voice_with_vital_voices.html
 commentfile: 2014-01-16-raise_your_voice_with_vital_voices
 category: around_town
 date: 2014-01-16 19:02:14
+image: "/assets/images/2014/Voice_Poster_2014_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Voice_Poster_2014.jpg" title="See larger version of - Voice Poster 2014"><img src="/assets/images/2014/Voice_Poster_2014_thumb.jpg" width="150" height="220" alt="Vital Voice Poster 2014" class="photo right" /></a>
-    
     _A New Way of using your Voice_
     
     Vital Voices is  a new way of learning to sing, taking your voice in a new musical direction- it's not something you may have experienced before, or seen on TV -it's not Glee, nor a Church Choir or a community sing-song but  a  way to give Voice to the music inside you, and share it with others in a relaxed setting.

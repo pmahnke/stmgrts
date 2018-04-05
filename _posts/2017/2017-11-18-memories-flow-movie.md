@@ -5,9 +5,8 @@ permalink: /archives/2017/11/memories-flow-movie.html
 commentfile: 2017-11-18-memories-flow-movie
 category: news
 date: 2017-11-18 06:22:27
+image: "/assets/images/2017/memories-flow-postcard-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/memories-flow-postcard.jpg" title="Click for a larger image"><img src="/assets/images/2017/memories-flow-postcard-thumb.jpg" width="150" alt="Image - memories-flow-postcard"  class="photo right"/></a>
-
     We are delighted to share with you the film <em>Memories Flow Through Me Like a Boat Flows Down the River</em> - a specially commissioned dance theatre performance which is one of the key events in Richmond upon Thames' First World War Commemoration Programme 2014-2018.
 
 ---

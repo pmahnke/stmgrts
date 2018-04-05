@@ -5,9 +5,8 @@ permalink: /archives/2014/04/dressing_the_press.html
 commentfile: 2014-04-03-dressing_the_press
 category: around_town
 date: 2014-04-03 20:42:24
+image: "/assets/images/2014/DRESSING_Jacobean_house_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/DRESSING_Jacobean_house.jpg" title="See larger version of - Jacobean house"><img src="/assets/images/2014/DRESSING_Jacobean_house_thumb.jpg" width="150" height="100" alt="Jacobean house" class="photo right" /></a>
-    
     <em>or how to titivate your 'Telegraph'</em>
     
     When I was a boy I used to deliver newspapers to an aristocratic lady who was a cousin of the Queen Mother. She lived in a large Jacobean house in the middle of a country estate and had assorted staff, including a chauffeur and a butler ... but it was the butler what did it!

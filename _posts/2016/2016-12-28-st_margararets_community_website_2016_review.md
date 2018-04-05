@@ -5,9 +5,8 @@ permalink: /archives/2016/12/st_margarets_community_website_2016_review.html
 commentfile: 2016-12-28-st_margarets_community_website_2016_review
 category: editorial
 date: 2016-12-28 02:06:05
+image: "/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/stmgrts-stats-how_access_2016.png" title="See larger version of - stmgrts stats how access 2016"><img src="/assets/images/2016/stmgrts-stats-how_access_2016_thumb.png" width="150" height="77" alt="stmgrts stats how access 2016" class=" right" /></a>
-
     As 2016 comes to a close, we wanted to share some quick stats on the year that's gone by, as we have in 2015 and 2014.
 ---
 

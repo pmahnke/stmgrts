@@ -5,9 +5,8 @@ permalink: /archives/2015/04/richmond_councils_all_in_one_may_2015_events.html
 commentfile: 2015-04-30-richmond_councils_all_in_one_may_2015_events
 category: around_town
 date: 2015-04-30 21:26:22
+image: "/assets/images/2015/Village_Planning_Flyers_St_Marg_and_East_Twick_W_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Village_Planning_Flyers_St_Marg_and_East_Twick_W.jpg" title="See larger version of - Village Planning Flyers St Marg and East Twick W"><img src="/assets/images/2015/Village_Planning_Flyers_St_Marg_and_East_Twick_W_thumb.jpg" width="150" height="202" alt="Village Planning Flyers St Marg and East Twick W." class="photo right" /></a>
-
     _Your Vision, Your St Margarets, Your East Twickenham_
 
     At the end of 2010 Richmond Council sent every household the All in One survey, which asked about the priorities of residents in each local area. We asked what people liked about  where they lived and what could be improved.

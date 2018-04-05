@@ -5,8 +5,8 @@ permalink: /archives/2008/11/event_reminder_environment_trust_art_picnic_at_syo.
 commentfile: 2008-11-06-event_reminder_environment_trust_art_picnic_at_syo
 category: around_town
 date: 2008-11-06 13:03:34
+image: "/assets/images/2008/syonhouse-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/syonhouse.jpg"><img src="/assets/images/2008/syonhouse-thumb.jpg" width="150" height="118" alt="Syon House Conservatory" class="photo right" /></a>
     
     
     On Sunday, 16 November 2008 from 11am to 4pm at Syon Park there is an <a href="https://stmargarets.london/event/meeting/200705141803">Environment Trust Art Picnic</a>

@@ -5,8 +5,8 @@ permalink: /archives/2009/03/the_bakers_daughter_from_isleworth.html
 commentfile: 2009-03-19-the_bakers_daughter_from_isleworth
 category: around_town
 date: 2009-03-19 13:22:36
+image: "/assets/images/2009/child_taken_night-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/child_taken_night.png"><img src="/assets/images/2009/child_taken_night-thumb.png" width="97" height="124" alt="Child taken in the night" class="photo right" /></a>
     
     
     In the early hours of Saturday 30<sup>th</sup> June 1860 a three year old boy, Francis Saville Kent, was taken from his bed in the nursery at Road Hill House, Road, Wiltshire.  Later that day his body was found with its throat cut lying at the bottom of the servants' privy in the garden. Apart from an open window in the drawing room of the large house the rest of the building was securely locked which suggested to the local police that the murder had been committed by someone living in the house.  Immediate suspicion feel upon 22 year old Elizabeth Gough, the nursemaid who had been sleeping in the nursery at the time of the boy's disappearance. She was an intelligent and attractive young woman - even though one of her front teeth was missing - and it was hinted in the local village that she was having an affair with the master of the house, Samuel Kent. Gossip suggested that maybe the child awoke to find his father Samuel in bed with Elizabeth and to prevent their affair being discovered she murdered the boy. Even Charles Dickens agreed with this view.

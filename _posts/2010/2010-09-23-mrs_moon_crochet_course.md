@@ -5,9 +5,8 @@ permalink: /archives/2010/09/mrs_moon_crochet_course.html
 commentfile: 2010-09-23-mrs_moon_crochet_course
 category: around_town
 date: 2010-09-23 21:36:16
+image: "/assets/images/2010/Large-image-Granny-Square_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/Large-image-Granny-Square.jpg" title="See larger version of - crochet"><img src="/assets/images/2010/Large-image-Granny-Square_thumb.jpg" width="150" height="115" alt="crochet" class="photo right" /></a>
-
     Before I start, I must confess to being a complete crochet novice, having never even picked up a crochet hook before...
 ---
 

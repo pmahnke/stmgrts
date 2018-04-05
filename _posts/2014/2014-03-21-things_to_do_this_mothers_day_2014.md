@@ -5,9 +5,8 @@ permalink: /archives/2014/03/things_to_do_this_mothers_day_2014.html
 commentfile: 2014-03-21-things_to_do_this_mothers_day_2014
 category: around_town
 date: 2014-03-21 22:44:29
+image: "/assets/images/2014/FSS_OsterleyhouseMothersDay_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/FSS_OsterleyhouseMothersDay.jpg" title="See larger version of - FSS OsterleyhouseMothersDay"><img src="/assets/images/2014/FSS_OsterleyhouseMothersDay_thumb.jpg" width="150" height="143" alt="FSS OsterleyhouseMothersDay" class="photo right" /></a>
-    
     Whether you're looking to treat yourself with some special "me time" or looking for somewhere fun to take the whole family, we've got plenty of ideas for 30<sup>th</sup> March...
 
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2008/04/missing_cat_no_5_benny.html
 commentfile: 2008-04-04-missing_cat_no_5_benny
 category: around_town
 date: 2008-04-04 08:13:27
+image: "/assets/images/2008/Lostcat-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/Lostcat.jpg"><img src="/assets/images/2008/Lostcat-thumb.jpg" width="145" height="150" alt="Benny" class="photo right" /></a>
     
     
     Please can you help, I have lost my cat, Benny.

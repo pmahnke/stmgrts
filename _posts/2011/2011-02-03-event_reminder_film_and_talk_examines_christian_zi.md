@@ -5,9 +5,8 @@ permalink: /archives/2011/02/event_reminder_film_and_talk_examines_christian_zi.
 commentfile: 2011-02-03-event_reminder_film_and_talk_examines_christian_zi
 category: around_town
 date: 2011-02-03 19:54:45
+image: "/assets/images/2011/RevDrStephenSizer_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/RevDrStephenSizer.jpg" title="See larger version of - The Rev Dr Stephen Sizer"><img src="/assets/images/2011/RevDrStephenSizer_thumb.jpg" width="150" height="216" alt="The Rev Dr Stephen Sizer" class="photo right" /></a>
-    
     A film which examines the fascinating but rarely acknowledged role that Christian Zionism plays in the story of Israel and Palestine will be shown in Richmond next week.
     
     "With God On Our Side" includes contributions from internationally renowned author and Middle East expert, the Reverend Dr Stephen Sizer, vicar of Christ Church, Virginia Water, and he will be present at the film showing to give a talk and answer questions.

@@ -5,9 +5,8 @@ permalink: /archives/2015/11/event_reminder_holly_lodge_centre_christmas_concer_
 commentfile: 2015-11-26-event_reminder_holly_lodge_centre_christmas_concer_1
 category: around_town
 date: 2015-11-26 18:57:54
+image: "/assets/images/2015/holly_lodge_xmas_concert_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/holly_lodge_xmas_concert_2015.jpg" title="See larger version of - holly lodge xmas concert 2015"><img src="/assets/images/2015/holly_lodge_xmas_concert_2015_thumb.jpg" width="150" height="112" alt="holly lodge xmas concert 2015" class="photo right" /></a>
-    
     The ever-popular Holly Lodge Centre Christmas concert -- an evening of song and readings -- will feature three local choirs and celebrity readers Sir Trevor McDonald, Helen Baxendale and Jonathan Guy Lewis. <a href="https://stmargarets.london/event/concert/200705145282">From 7 pm at St Mary Magdalene Church, Richmond TW9 1SN</a>
 
 ---

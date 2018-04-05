@@ -5,8 +5,8 @@ permalink: /archives/2006/09/st_margarets_fa_3.html
 commentfile: 2006-09-19-st_margarets_fa_3
 category: news
 date: 2006-09-19 08:21:45
+image: "/assets/images/2008/SMFLogo180-thumb.jpg"
 excerpt: |
-    <a href="http://www.stmargaretsfair.org/"><img alt="SMFLogo180.jpg" src="/assets/images/2008/SMFLogo180-thumb.jpg" width="150" height="150" class="right" /></a>
 
     This year's July Fair raised a record &pound;18,000, and here's where the money is going.
 

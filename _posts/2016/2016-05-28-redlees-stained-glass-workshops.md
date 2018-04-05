@@ -5,9 +5,8 @@ permalink: /archives/2016/05/2016-05-28-redlees-stained-glass-workshops.html
 commentfile: 2016-05-28-redlees-stained-glass-workshops
 category: around_town
 date: 2016-05-28 11:27:39
+image: "/assets/images/2016/redlees-stained-glass_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/redlees-stained-glass.jpg" title="See larger version of - redlees stained glass"><img src="/assets/images/2016/redlees-stained-glass_thumb.jpg" width="150" height="214" alt="redlees stained glass" class="photo right" /></a>
-
     Beginners stained glass one day weekend workshops.  All tools and materials provided. Learn to make a stained glass panel using traditional techniques.
 ---
 

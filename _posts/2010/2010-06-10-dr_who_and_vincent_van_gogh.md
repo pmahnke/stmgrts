@@ -5,9 +5,8 @@ permalink: /archives/2010/06/dr_who_and_vincent_van_gogh.html
 commentfile: 2010-06-10-dr_who_and_vincent_van_gogh
 category: around_town
 date: 2010-06-10 09:37:49
+image: "/assets/images/2010/van_gogh-Who_and_Amy_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/van_gogh-Who_and_Amy.jpg" title="See larger version of - Dr Who and Amy Pond"><img src="/assets/images/2010/van_gogh-Who_and_Amy_thumb.jpg" width="124" height="150" alt="Dr Who and Amy Pond" class="photo right" /></a>
-    
     Most people in St. Margarets already know that Vincent van Gogh was once a near neighbour of ours. It is heartening to see that  "the greatest painter who ever lived" has conquered time and space and is now fighting aliens with Dr. Who and his travelling companion Amy Pond (<em>mmmmmm - Amy Pond!)</em>.
     
 

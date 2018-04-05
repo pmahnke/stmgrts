@@ -5,9 +5,8 @@ permalink: /archives/2015/01/event_reminder_st_margarets_question_time_10_febru.
 commentfile: 2015-01-30-event_reminder_st_margarets_question_time_10_febru
 category: around_town
 date: 2015-01-30 19:53:26
+image: "/assets/images/2015/63_10_RICH_Village_Planning_leaflets_East_Twickenham_AW-page-001_thumb.jpg"
 excerpt: |
-    <img src="/assets/images/2015/63_10_RICH_Village_Planning_leaflets_East_Twickenham_AW-page-001_thumb.jpg" width="150" height="202" alt="Village Planning leaflets East Twickenham AW page 001" class="photo right">
-    
     To mark the launch of the second phase of Village Planning, local 'question-time' style events will be occurring in Richmond, East Twickenham and St Margarets over the next few months. These events will enable residents to share local issues with the Leader of the Council and Cabinet Members. During the Village Planning 'question-time' event residents will be able to make suggestions for improvements and hold leading members of the Council to account.
 
 ---

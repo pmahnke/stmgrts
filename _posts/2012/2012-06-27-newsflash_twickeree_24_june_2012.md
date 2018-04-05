@@ -5,9 +5,8 @@ permalink: /archives/2012/06/newsflash_twickeree_24_june_2012.html
 commentfile: 2012-06-27-newsflash_twickeree_24_june_2012
 category: around_town
 date: 2012-06-27 20:30:18
+image: "/assets/images/2012/TWICKDERBY_P1010560_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/TWICKDERBY_P1010560.jpg" title="See larger version of - Cubs in the Derby car"><img src="/assets/images/2012/TWICKDERBY_P1010560_thumb.jpg" width="150" height="150" alt="Cubs in the Derby car" class="photo right" /></a>
-
 
     #### St Margarets Win The Derby!
 

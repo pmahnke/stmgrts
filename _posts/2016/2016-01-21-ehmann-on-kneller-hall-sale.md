@@ -5,9 +5,9 @@ permalink: /archives/2016/01/ehmann-on-kneller-hall-sale.html
 commentfile: 2016-01-21-ehmann-on-kneller-hall-sale
 category: around_town
 date: 2016-01-21 22:10:12
+image: "/assets/images/directory/200505180516_Kneller_Hall.jpg"
 excerpt: |
-    <img src="/assets/images/directory/200505180516_Kneller_Hall.jpg" width="150"  class="photo right"  alt="" />
-
+    
 
     As you will no doubt be aware, we received the terrible news this week that the Conservative Government plan to sell Whitton's, Kneller Hall.
 ---

@@ -5,8 +5,8 @@ permalink: /archives/2008/07/leeches_filthy_little_devils.html
 commentfile: 2008-07-07-leeches_filthy_little_devils
 category: news
 date: 2008-07-07 21:57:08
+image: "/assets/images/2008/rivercrane_boys-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/rivercrane_boys.jpg"><img src="/assets/images/2008/rivercrane_boys-thumb.jpg" width="99" height="150" alt="boys helping" class="photo right"/></a>
     
     
     We all think that the River Crane is pretty marvellous - but there are some in our community who believe its waters to be positively miraculous with the power to dissolve supermarket trolleys and old fridges, turn discarded plastic bottles into elegant holiday homes for garden gnomes and transport garden waste to Patagonia where it becomes a luxury food item for endangered penguins.  That is why they so confidently use our river as a rubbish bin. This is also why the Tidal Crane Association was formed some 25 years ago -- to clear up the rubbish and to keep the lower Crane beautiful, safe and navigable.

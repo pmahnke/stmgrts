@@ -5,9 +5,8 @@ permalink: /archives/2011/05/film_camps_this_summer_for_children_at_twickenham.h
 commentfile: 2011-05-19-film_camps_this_summer_for_children_at_twickenham
 category: around_town
 date: 2011-05-19 12:34:01
+image: "/assets/images/2011/DM-Summer-2011_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/DM-Summer-2011.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/DM-Summer-2011_thumb.jpg" width="150" height="107" alt="Poster" class="photo right" /></a>
-    
     It's that time of year again and while the paparazzi chase the stars at the Cannes Film Festival, here at Twickenham Film Studios we're busy getting ready for this year's Summer Film Camp. As for the studios themselves, Steven Spielberg has now left after completing filming of "Warhorse" but the studio crews are still working morning to night filming two series for BBC3.
     
     Here in Dreamcatcher Media's office, we're busy finalising some exciting plans for this year's Camp!  As well as the usual mix of fascinating visits to working film and TV studios, we're planning on some special filming opportunities during the summer.

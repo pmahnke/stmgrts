@@ -5,9 +5,8 @@ permalink: /archives/2012/05/the_oldest_inhabitant_now.html
 commentfile: 2012-05-31-the_oldest_inhabitant_now
 category: around_town
 date: 2012-05-31 23:13:44
+image: "/assets/images/2012/OLDESTNOW_Blue_School_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/OLDESTNOW_Blue_School.jpg" title="See larger version of - Blue School"><img src="/assets/images/2012/OLDESTNOW_Blue_School_thumb.jpg" width="150" height="85" alt="Blue School" class="photo right" /></a>
-    
     <em>115 years ago, on June 26<sup>th</sup> 1897, a local paper, "The Richmond Herald" celebrated Queen Victoria's Diamond Jubilee by publishing an interview with the district's oldest inhabitant. His name was <a href="https://stmargarets.london/archives/2012/05/the_oldest_inhabitant_then.html,">James Harbor</a> a boot maker, and he was 93 years old. To celebrate our own Queen's Diamond Jubilee here is an interview with one of today's oldest inhabitants. He is 102 years old and has been living in this area for the last 95 years.</em>
 
 ---

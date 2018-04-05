@@ -5,9 +5,8 @@ permalink: /archives/2011/11/event_reminder_subterranean_jewels_8_december_2011.
 commentfile: 2011-11-11-event_reminder_subterranean_jewels_8_december_2011
 category: around_town
 date: 2011-11-11 09:09:21
+image: "/assets/images/2011/popes_grotto_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/popes_grotto.jpg" title="See larger version of - popes grotto"><img src="/assets/images/2011/popes_grotto_thumb.jpg" width="150" height="157" alt="popes grotto" class="photo right" /></a>
-    
     A fundraising evening for the Environment Trust for Richmond upon Thames at Orleans House Coach House on <a href="https://stmargarets.london/event/event/200705143124">Thursday, 8<sup>th</sup> December 2011 from 7 to 9:30pm.</a>
     
 

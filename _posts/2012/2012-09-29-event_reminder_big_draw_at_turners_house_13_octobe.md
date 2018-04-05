@@ -5,9 +5,8 @@ permalink: /archives/2012/09/event_reminder_big_draw_at_turners_house_13_octobe.
 commentfile: 2012-09-29-event_reminder_big_draw_at_turners_house_13_octobe
 category: around_town
 date: 2012-09-29 10:35:11
+image: "/assets/images/2012/BIG_Draw_at_Turners_House_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/BIG_Draw_at_Turners_House.jpg" title="See larger version of - BIG Draw at Turners House"><img src="/assets/images/2012/BIG_Draw_at_Turners_House_thumb.jpg" width="150" height="212" alt="BIG Draw at Turners House" class="photo right" /></a>
-
     At  Home with JMW Turner: Come and draw in the country villa of Britain's most famous artist, Twickenham's best kept secret. We are holding a Big Draw family event on <a href="https://stmargarets.london/event/event/200705143619">Saturday 13<sup>th</sup> October, 10am-5pm</a> at 40, Sandycoombe Road, Twickenham TW2 2LR.
 
 ---

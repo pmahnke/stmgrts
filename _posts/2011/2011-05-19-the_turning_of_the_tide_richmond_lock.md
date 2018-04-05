@@ -5,9 +5,8 @@ permalink: /archives/2011/05/the_turning_of_the_tide_richmond_lock.html
 commentfile: 2011-05-19-the_turning_of_the_tide_richmond_lock
 category: around_town
 date: 2011-05-19 16:12:21
+image: "/assets/images/2011/LOCK_footbridge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/LOCK_footbridge.jpg" title="See larger version of - Richmond Lock footbridge"><img src="/assets/images/2011/LOCK_footbridge_thumb.jpg" width="150" height="112" alt="Richmond Lock footbridge" class="photo right" /></a>
-    
     When Richmond Lock and Weir and its footbridge were opened in 1894 by the Duke and Duchess of York there were cheers and celebrations in St Margarets. Now they had a short cut to Richmond on their doorstep. (_Twickenham Bridge would not be built for another 39 years._)
     
     There were celebrations in Isleworth as well. They were cheering because they didn't have a short cut to Richmond on their doorstep.

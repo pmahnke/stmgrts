@@ -5,9 +5,8 @@ permalink: /archives/2011/10/river_crane_polluted.html
 commentfile: 2011-10-31-river_crane_polluted
 category: news
 date: 2011-10-31 13:49:08
+image: "/assets/images/2017/pa310217-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/pa310217.jpg" title="Click for a larger image"><img src="/assets/images/2017/pa310217-thumb.jpg" width="150" alt="Image - pa310217"  class="photo right"/></a>
-
     A two-metre valve (penstock) in a major sewer serving Heathrow Airport jammed shut on Saturday afternoon at Cranford Bridge on the A4 Bath Road while engineers carried out routine maintenance.
 ---
 

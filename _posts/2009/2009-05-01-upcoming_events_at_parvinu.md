@@ -5,8 +5,8 @@ permalink: /archives/2009/05/upcoming_events_at_parvinu.html
 commentfile: 2009-05-01-upcoming_events_at_parvinu
 category: around_town
 date: 2009-05-01 15:39:54
+image: "/assets/images/2009/glass-dish-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/glass-dish.jpg"><img src="/assets/images/2009/glass-dish-thumb.jpg" width="150" height="114" alt="glass dish" class="photo right" /></a>
     
     
     

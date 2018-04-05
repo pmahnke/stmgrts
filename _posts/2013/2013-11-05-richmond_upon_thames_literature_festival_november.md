@@ -5,9 +5,8 @@ permalink: /archives/2013/11/richmond_upon_thames_literature_festival_november.h
 commentfile: 2013-11-05-richmond_upon_thames_literature_festival_november
 category: around_town
 date: 2013-11-05 21:27:01
+image: "/assets/images/2013/2013-Brochure-richmond-lit-festival-1_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/2013-Brochure-richmond-lit-festival-1.jpg" title="See larger version of - 2013 Brochure richmond lit festival 1"><img src="/assets/images/2013/2013-Brochure-richmond-lit-festival-1_thumb.jpg" width="150" height="212" alt="2013 Brochure richmond lit festival 1" class="photo right" /></a>
-    
     _A fantastic festival of books & words, tales, talks, ideas & thoughts_
     
     Now in its' 22<sup>nd</sup> year, the Richmond Literature Festival is a calendar highlight for the borough and beyond.

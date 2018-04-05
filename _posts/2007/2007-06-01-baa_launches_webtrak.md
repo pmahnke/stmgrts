@@ -5,8 +5,8 @@ permalink: /archives/2007/06/baa_launches_webtrak.html
 commentfile: 2007-06-01-baa_launches_webtrak
 category: news
 date: 2007-06-01 09:15:44
+image: "/assets/images/2007/airportnoise-thumb.jpg"
 excerpt: |
-    <img alt="aeroplane noise" src="/assets/images/2007/airportnoise-thumb.jpg" width="111" height="106" class="right" />
     
     Campaign group HACAN welcomed the introduction of <a href="http://www.baa.com/noise,">WebTrak</a> launched by BAA last week. WebTrak enables people to watch planes land and take off at Heathrow, Stansted and Gatwick airports on their computer screens.
     

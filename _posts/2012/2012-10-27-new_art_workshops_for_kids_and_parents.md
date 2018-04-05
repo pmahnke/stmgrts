@@ -5,9 +5,8 @@ permalink: /archives/2012/10/new_art_workshops_for_kids_and_parents.html
 commentfile: 2012-10-27-new_art_workshops_for_kids_and_parents
 category: around_town
 date: 2012-10-27 20:02:18
+image: "/assets/images/2012/group-pic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/group-pic.jpg" title="See larger version of - Anna de Polnay art class"><img src="/assets/images/2012/group-pic_thumb.jpg" width="150" height="138" alt="Anna de Polnay art class" class="photo right" /></a>
-    
     
     Monthly <a href="https://stmargarets.london/directory/art/201210271457">art workshops</a> with local artist Anna De Polnay. Each workshop has a different theme: Halloween, Christmas and fairy tales to name a few. A fantastic opportunity for mums, dads, grandparents and kids to create individual or collaborative art in a fun and informal atmosphere.
     

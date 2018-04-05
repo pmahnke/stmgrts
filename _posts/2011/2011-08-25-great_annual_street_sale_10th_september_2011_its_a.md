@@ -5,9 +5,8 @@ permalink: /archives/2011/08/great_annual_street_sale_10th_september_2011_its_a.
 commentfile: 2011-08-25-great_annual_street_sale_10th_september_2011_its_a
 category: around_town
 date: 2011-08-25 11:12:07
+image: "/assets/images/2011/gass_2011_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/gass_2011.png" title="See larger version of - GASS"><img src="/assets/images/2011/gass_2011_thumb.png" width="150" height="99" alt="GASS" class="photo right" /></a>
-    
     There are times when the stuff that we accumulate around ourselves threatens to take over our lives. Bookshelves groan under the weight of unread books and CD racks creak with forgotten records. Cupboards are stuffed with things that we don't even know we had and wardrobes are hung with clothes that went out of fashion when David Bowie abandoned the 3 inch stack heel for lounge suits. What can we do? There are 3 possible solutions:-
     
     # Do nothing until the neighbours wonder, "Whatever happened to old so-and-so?" and our bodies are found buried under a mountain of David Cassidy albums, Dan Brown books and rusting Swiss Fondue sets.

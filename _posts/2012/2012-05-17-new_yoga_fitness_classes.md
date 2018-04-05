@@ -5,9 +5,8 @@ permalink: /archives/2012/05/new_yoga_fitness_classes.html
 commentfile: 2012-05-17-new_yoga_fitness_classes
 category: news
 date: 2012-05-17 19:45:43
+image: "/assets/images/2012/yoga_fitness_logo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="/assets/images/2012/yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a>
-    
     I have been practicing yoga for over 6 years and am currently training as a student teacher with the British Wheel of Yoga (UK Governing Body for Yoga in the UK).
     
     After the birth of my two sons (have two sons under the age of three), I realised that I needed a career that could work around my children (my previous career was Account Director within a busy marketing agency, so long hours and lots of stress) and I have been lucky enough to turn a passion into that career, hence the birth of <a href="https://stmargarets.london/directory/sports/201205171438">Yoga Fitness</a> and my new Yoga class in St Margarets, Twickenham.

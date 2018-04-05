@@ -5,9 +5,8 @@ permalink: /archives/2014/09/local_business_robert_steer_company.html
 commentfile: 2014-09-25-local_business_robert_steer_company
 category: around_town
 date: 2014-09-25 10:16:59
+image: "/assets/images/2014/outside_workshop_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/outside_workshop.jpg" title="See larger version of - outside workshop"><img src="/assets/images/2014/outside_workshop_thumb.jpg" width="150" height="112" alt="outside workshop" class="photo right" /></a>
-
 
     [Robert Steer & Company](/directory/home_and_garden/201409250512) design, make and install architectural joinery at their studio and multifunction workshop in Brentford. The company undertakes a range of projects, from one off bespoke feature staircases at the high end to small bespoke desk tidies for those with a smaller budget.
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/02/event_reminder_talk_on_johan_zoffany_and_the_sayer.
 commentfile: 2015-02-25-event_reminder_talk_on_johan_zoffany_and_the_sayer
 category: around_town
 date: 2015-02-25 06:41:09
+image: "/assets/images/2015/zoffany_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/zoffany_poster.jpg" title="See larger version of - zoffany poster"><img src="/assets/images/2015/zoffany_poster_thumb.jpg" width="150" height="203" alt="zoffany poster" class="photo right" /></a>
-    
     A talk by art historian David Wilson. <a href="https://stmargarets.london/event/event/200705144893">Monday 16<sup>th</sup> March 7.30pm at St Mary Magdalene Church, Paradise Road, Richmond.</a> Writer and historian Dr David Wilson, FSA, will give a talk on his book, published in 2014, 'Johan Zoffany RA and The Sayer Family of Richmond', which concerns one of the most prominent families in Richmond upon Thames in the second half of the eighteenth century.
 
 ---

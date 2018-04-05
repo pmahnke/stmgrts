@@ -5,9 +5,8 @@ permalink: /archives/2017/03/event-marble-hill-archaeology-open-day.html
 commentfile: 2017-03-10-event-marble-hill-archaeology-open-day
 category: around_town
 date: 2017-03-10 16:37:48
+image: "/assets/images/2017/marble-hill-open-day-poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/marble-hill-open-day-poster.jpg" title="Click for a larger image"><img src="/assets/images/2017/marble-hill-open-day-poster-thumb.jpg" width="150" alt="Image - marble-hill-open-day-poster"  class="photo right"/></a>
-
     During March 2017 Historic England archaeologists will be exploring the original layout of Henrietta Howard's garden, digging several trenches to look for garden features shown on a plan of 1752.
 
     On the 18 March 2017 we are offing multiple tours of the excavation and archaeology talks by industry professionals.

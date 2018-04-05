@@ -5,9 +5,8 @@ permalink: /archives/2012/03/richmond_twickenham_photographic_society_annual_ex.
 commentfile: 2012-03-25-richmond_twickenham_photographic_society_annual_ex
 category: around_town
 date: 2012-03-25 10:13:05
+image: "/assets/images/2012/The-Queen-with-corgi_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/The-Queen-with-corgi.jpg" title="See larger version of - The Queen with her corgi"><img src="/assets/images/2012/The-Queen-with-corgi_thumb.jpg" width="150" height="187" alt="The Queen with her corgi" class="photo right" /></a>
-    
     
     _featuring a Diamond Jubilee presentation of informal photographs of H.M The Queen_
     

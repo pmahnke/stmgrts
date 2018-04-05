@@ -5,9 +5,8 @@ permalink: /archives/2011/01/event_reminder_art_picnic_at_strawberry_hill_house.
 commentfile: 2011-01-05-event_reminder_art_picnic_at_strawberry_hill_house
 category: around_town
 date: 2011-01-05 14:01:03
+image: "/assets/images/2011/Poster_jan11_art_picnic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Poster_jan11_art_picnic.jpg" title="See larger version of - Poster"><img src="/assets/images/2011/Poster_jan11_art_picnic_thumb.jpg" width="150" height="221" alt="Poster" class="photo right" /></a>
-
     <a href="https://stmargarets.london/event/event/200705142683">Sunday, 23<sup>rd</sup> January 2011 - 11am to 4pm</a>
 
     Horace Walpole's Gothic castle is undergoing an &pound;8.9 million restoration and the first phase is complete. The house will be closed until 2 April whilst important conservation work continues, but the Environment Trust has been offered a special opportunity to spend a day drawing the interior spaces with tuition by popular local artist Jill Storey.

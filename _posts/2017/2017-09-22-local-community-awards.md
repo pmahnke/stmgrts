@@ -5,9 +5,8 @@ permalink: /archives/2017/09/local-community-awards.html
 commentfile: 2017-09-22-local-community-awards
 category: news
 date: 2017-09-22 17:03:39
+image: "/assets/images/2017/LBRUT-local-community-awards-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/LBRUT-local-community-awards.jpg" title="Click for a larger image"><img src="/assets/images/2017/LBRUT-local-community-awards-thumb.jpg" width="150" alt="Image - LBRUT-local-community-awards"  class="photo right"/></a>
-
     Forty-seven local heroes ranging from across the borough were honoured with Community Awards at a ceremony on Friday.
 
     Richmond Council invited members of the public to nominate residents who they feel have given outstanding service to the community, improved the quality of life for local people or benefited the community through community involvement or volunteering.

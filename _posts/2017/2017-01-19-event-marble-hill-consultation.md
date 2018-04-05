@@ -5,9 +5,8 @@ permalink: /archives/2017/01/event-marble-hill-consultation.html
 commentfile: 2017-01-19-event-marble-hill-consultation
 category: around_town
 date: 2017-01-19 19:06:10
+image: "/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Marble--Hill--Public--Meeting.jpg" title="Click for a larger image"><img src="/assets/images/2017/Marble--Hill--Public--Meeting-thumb.jpg" width="150" alt="Image - Marble--Hill--Public--Meeting"  class="photo right"/></a>
-
     Over the next two years English Heritage – supported by the Heritage Lottery Fund and Big Lottery Fund – plans to restore the lost gardens that Henrietta created. We will also tell the story of her house, and show how the house and landscape were intrinsically linked. On the 24 and 25 of January, there are consultations with the public so you can have your say.
 ---
 

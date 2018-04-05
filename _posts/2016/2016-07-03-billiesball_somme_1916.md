@@ -6,17 +6,17 @@ commentfile: 2016-07-03-billiesball_somme_1916
 category: around_town
 date: 2016-07-03 09:26:34
 author: "Martyn Day"
+image: "/assets/images/2016/BILLIESBALL_Captain_Billie_Neville_thumb.jpg"
 excerpt: |
-   <a href="/assets/images/2016/BILLIESBALL_Captain_Billie_Neville.jpg" title="See larger version of - Captain Billie Neville"><img src="/assets/images/2016/BILLIESBALL_Captain_Billie_Neville_thumb.jpg" width="150" height="195" alt="Captain Billie Neville" class="photo right" /></a>
 
-   There had been a lot of misleading talk before the Battle of the Somme. Because of the heavy artillery barrage that had been <em>'softening-up'</em> the German lines for the last seven days military command thought that the opening attack, scheduled for 1<sup>st</sup> July 1916, would be - literally - a <em>'walk-over'</em>. General Sir Henry Rawlinson said to his subordinates, <em>"Nothing could exist at the conclusion of the bombardment in the area covered by it"</em>.
+    There had been a lot of misleading talk before the Battle of the Somme. Because of the heavy artillery barrage that had been <em>'softening-up'</em> the German lines for the last seven days military command thought that the opening attack, scheduled for 1<sup>st</sup> July 1916, would be - literally - a <em>'walk-over'</em>. General Sir Henry Rawlinson said to his subordinates, <em>"Nothing could exist at the conclusion of the bombardment in the area covered by it"</em>.
 ---
 
 > "On through the hail of slaughter, where gallant comrades fall,
 >  Where blood is poured like water, they drive the trickling ball.
 >  The fear of death before them, is but an empty name;
 >  True to the land that bore them, the SURREYS played the game."
-> 
+>
  <cite>"Touchstone" in the Daily Mail</cite>
 
 <a href="/assets/images/2016/BILLIESBALL_General_Sir_Henry_Rawlinson_in_1916.jpg" title="See larger version of - General Sir Henry Rawlinson in 1916"><img src="/assets/images/2016/BILLIESBALL_General_Sir_Henry_Rawlinson_in_1916_thumb.jpg" width="250" height="343" alt="General Sir Henry Rawlinson in 1916" class="photo right" /></a>

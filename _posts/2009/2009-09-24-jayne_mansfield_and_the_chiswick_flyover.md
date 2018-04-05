@@ -5,8 +5,8 @@ permalink: /archives/2009/09/jayne_mansfield_and_the_chiswick_flyover.html
 commentfile: 2009-09-24-jayne_mansfield_and_the_chiswick_flyover
 category: around_town
 date: 2009-09-24 21:19:55
+image: "/assets/images/2009/JM_opening_ChiswickFlyover-thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/JM_opening_ChiswickFlyover.png"><img src="/assets/images/2009/JM_opening_ChiswickFlyover-thumb.png" width="150" height="111" alt="JAYNE MANSFIELD OPENS CHISWICK FLYOVER" class="photo right" /></a>
     
     
     There was a time when we loved our cars with a passion. On Saturdays we would wash them and on Sundays take them out for a spin. We would titivate them with fluffy dice and padded steering wheels. On the back seat - already trimmed in polyester tigerskin - we would throw a tartan travel blanket and a couple of lacy cushions.  We even wore special clothes to drive too. Boxy 'car coats', leather fronted 'driving gloves' and special non-slip driving shoes to help with those tricky double declutching gear changes were de rigeur. And when we were done with all that we would stick our names on them - usually under the plastic sun shield. Such was the love of the car that some people would take picnics to busy lay-bys just to sit and watch them go streaming by.

@@ -6,9 +6,8 @@ commentfile: 2017-05-12-billy-shears
 category: around_town
 date: 2017-05-12 20:27:18
 author: Martyn Day
+image: "/assets/images/2017/BILLYSHEARS_Paul-Sgt-Pepper-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/BILLYSHEARS_Paul-Sgt-Pepper.jpg" title="Click for a larger image"><img src="/assets/images/2017/BILLYSHEARS_Paul-Sgt-Pepper-thumb.jpg" width="150" alt="Image - BILLYSHEARS_Paul-Sgt-Pepper"  class="photo right"/></a>
-
     We know when Billy Shears first appeared on the scene. It was the 1<sup>st</sup> June 1967, the day on which the Beatles released their much anticipated masterwork album, <em>"Sgt Pepper's Lonely Hearts Club Band"</em>. Billy's name is there at the end of the very first song...
 ---
 

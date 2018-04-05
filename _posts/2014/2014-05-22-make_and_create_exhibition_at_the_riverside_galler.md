@@ -5,9 +5,8 @@ permalink: /archives/2014/05/make_and_create_exhibition_at_the_riverside_galler.
 commentfile: 2014-05-22-make_and_create_exhibition_at_the_riverside_galler
 category: around_town
 date: 2014-05-22 22:44:22
+image: "/assets/images/2014/Eighteenth_Century_Genoese_armchair_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/Eighteenth_Century_Genoese_armchair.JPG" title="See larger version of - Rachael Pearcey, Eighteenth century Genoese Armchair"><img src="/assets/images/2014/Eighteenth_Century_Genoese_armchair_thumb.JPG" width="150" height="146" alt="Rachael Pearcey, Eighteenth century Genoese Armchair" class="photo right" /></a>
-    
     Make & Create showcases affordable, attractive crafted items for the home, ranging from prints, quilts, embroidery, felt, rugs, glassware, ceramics, and mixed media works.
     
     The exhibition brings together 26 artists and craftspeople from across the country who submitted work via open submission.

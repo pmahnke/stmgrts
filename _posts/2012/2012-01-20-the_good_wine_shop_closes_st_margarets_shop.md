@@ -5,8 +5,8 @@ permalink: /archives/2012/01/the_good_wine_shop_closes_st_margarets_shop.html
 commentfile: 2012-01-20-the_good_wine_shop_closes_st_margarets_shop
 category: news
 date: 2012-01-20 22:13:04
+image: "/assets/images/directory/200511281416_The_Good_Wine_Shop.jpg"
 excerpt: |
-    <img src="/assets/images/directory/200511281416_The_Good_Wine_Shop.jpg"  alt="The_Good_Wine_Shop" width="150"  class="photo right" />
 
     Sadly, due to circumstances beyond our control, <a href="http://www.thegoodwineshop.co.uk/">The Good Wine Shop</a> will be moving out of our St Margarets Shop on Monday 23 January. 
 ---

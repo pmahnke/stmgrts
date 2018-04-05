@@ -5,9 +5,8 @@ permalink: /archives/2012/09/the_golden_hinde.html
 commentfile: 2012-09-01-the_golden_hinde
 category: around_town
 date: 2012-09-01 09:28:51
+image: "/assets/images/2012/HINDE_Sir_Francis_Drake_by_Jodocus_Hondius_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/HINDE_Sir_Francis_Drake_by_Jodocus_Hondius.jpg" title="See larger version of - Sir Francis Drake by Jodocus Hondius"><img src="/assets/images/2012/HINDE_Sir_Francis_Drake_by_Jodocus_Hondius_thumb.jpg" width="150" height="150" alt="Sir Francis Drake by Jodocus Hondius" class="right" /></a>
-
 
     The 'Golden Hinde' is a legendary English galleon best known for its captain, Francis Drake and his circumnavigation of the globe between 1577 and 1580. On 1 March 1579, Drake captured the Spanish galleon 'Nuestra Se&#241;ora de la Concepci&#243;n' off the coast of Ecuador and relieved her of six tons of treasure worth over &pound;12 million today. When the ship returned home in September 1580 she was welcomed by Queen Elizabeth 1 who, looking forward to her share of the prize money, said...
 

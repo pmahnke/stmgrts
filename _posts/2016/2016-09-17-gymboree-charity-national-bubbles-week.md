@@ -5,9 +5,8 @@ permalink: /archives/2016/09/gymboree-charity-national-bubbles-week.html
 commentfile: 2016-09-17-gymboree-charity-national-bubbles-week
 category: around_town
 date: 2016-09-17 17:22:07
+image: "/assets/images/2016/Gymboree_bubbles_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Gymboree_bubbles.jpg" title="See larger version of - Gymboree bubbles"><img src="/assets/images/2016/Gymboree_bubbles_thumb.jpg" width="150" height="143" alt="Gymboree bubbles" class="photo right" /></a>
-
     Young visitors to Gymboree St Margarets will be bursting with excitement during National Bubbles Week from 19 to 25 September whilst raising money for Rainbow Trust Children's Charity, which supports families caring for a child with a life threatening or terminal illness.
 ---
 

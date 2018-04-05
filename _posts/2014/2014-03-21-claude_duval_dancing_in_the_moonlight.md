@@ -5,9 +5,8 @@ permalink: /archives/2014/03/claude_duval_dancing_in_the_moonlight.html
 commentfile: 2014-03-21-claude_duval_dancing_in_the_moonlight
 category: around_town
 date: 2014-03-21 23:15:37
+image: "/assets/images/2014/DUVAL_Dancing_in_the_moonlight_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/DUVAL_Dancing_in_the_moonlight.jpg" title="See larger version of - Dancing in the moonlight"><img src="/assets/images/2014/DUVAL_Dancing_in_the_moonlight_thumb.jpg" width="150" height="106" alt="Dancing in the moonlight" class="photo right" /></a>
-    
     Regular readers of this website already know that our little corner of Paradise sits on the southern edge of what was the most dangerous 4,000 acres of open countryside in the entire kingdom. In its time Hounslow Heath was the favoured haunt of footpads, robbers and highwaymen and the most handsome, the most charming, the most dashing of them all was the roguish Claude Duval. Huzzah!
     
 

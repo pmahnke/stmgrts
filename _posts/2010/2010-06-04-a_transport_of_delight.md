@@ -5,9 +5,8 @@ permalink: /archives/2010/06/a_transport_of_delight.html
 commentfile: 2010-06-04-a_transport_of_delight
 category: around_town
 date: 2010-06-04 09:16:33
+image: "/assets/images/2010/37-Fare-Stage_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/37-Fare-Stage.jpg" title="See larger version of - Fare Stage"><img src="/assets/images/2010/37-Fare-Stage_thumb.jpg" width="150" height="144" alt="Fare Stage" class=" right" /></a>
-    
     
     A brief history of the H37 bus route and an assortment of allied omnibus trivia.
     

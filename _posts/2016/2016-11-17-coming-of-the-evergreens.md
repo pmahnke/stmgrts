@@ -6,9 +6,8 @@ commentfile: 2016-11-17-coming-of-the-evergreens
 category: around_town
 date: 2016-11-17 20:10:57
 author: "Martyn Day"
+image: "/assets/images/2016/EVERGREENS_ho_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/EVERGREENS_ho.jpg" title="See larger version of - ho"><img src="/assets/images/2016/EVERGREENS_ho_thumb.jpg" width="150" height="118" alt="ho" class="photo right" /></a>
-
     With shops and supermarkets already brimming over with Christmas merchandise I think that we can safely assume that the Christmas season has started. The John Lewis yuletide TV Ad probably confirm it. But before you rush off to deck your halls with boughs of holly, _tra la la la la etc etc..._ you might consider what folk-lore has to say on the matter.
 ---
 

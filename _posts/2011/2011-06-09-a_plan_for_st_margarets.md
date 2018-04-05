@@ -5,9 +5,8 @@ permalink: /archives/2011/06/a_plan_for_st_margarets.html
 commentfile: 2011-06-09-a_plan_for_st_margarets
 category: news
 date: 2011-06-09 12:33:24
+image: "/assets/images/2011/St_Margarets_plan-cover_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/St_Margarets_plan-cover.jpg" title="See larger version of - A Plan for St Margarets"><img src="/assets/images/2011/St_Margarets_plan-cover_thumb.jpg" width="150" height="212" alt="A Plan for St Margarets" class="photo right" /></a>
-
     The <a href="http://www.mystmargarets.com">St Margarets Traders Association</a> has published a leaflet that will soon be distributed to local residents.  It highlights the Traders ideas for improving the high street without cost to the Council.
 
     Ideas include getting a fishmonger and a bakery and adding more retail space on St Margarets and Crown Roads.

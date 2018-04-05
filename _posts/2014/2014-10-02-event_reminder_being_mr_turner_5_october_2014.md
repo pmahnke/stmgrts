@@ -5,9 +5,8 @@ permalink: /archives/2014/10/event_reminder_being_mr_turner_5_october_2014.html
 commentfile: 2014-10-02-event_reminder_being_mr_turner_5_october_2014
 category: around_town
 date: 2014-10-02 22:47:29
+image: "/assets/images/2014/Big-Draw-poster-2014-final_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Big-Draw-poster-2014-final.jpg" title="See larger version of - Big Draw poster 2014 final"><img src="/assets/images/2014/Big-Draw-poster-2014-final_thumb.jpg" width="150" height="213" alt="Big Draw poster 2014 final" class="photo right" /></a>
-    
     A Big Draw family event <a href="https://stmargarets.london/event/event/200705144663">Sunday, 5 October 2014 from 10am to 4pm</a> at the house that JMW Turner designed and lived in 200 years ago.
     
 

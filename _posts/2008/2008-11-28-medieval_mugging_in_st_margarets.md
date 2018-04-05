@@ -5,8 +5,8 @@ permalink: /archives/2008/11/medieval_mugging_in_st_margarets.html
 commentfile: 2008-11-28-medieval_mugging_in_st_margarets
 category: around_town
 date: 2008-11-28 12:52:33
+image: "/assets/images/2008/mummers-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/mummers.jpg"><img src="/assets/images/2008/mummers-thumb.jpg" width="150" height="133" alt="Mummers Play" class="photo right" /></a>
     
     
     Maybe it's something in the water or those strange odorous gases that sometimes drift in from Mogden. Maybe there is a crack in the space-time continuum separating the area from the rest of decent civilisation. Whatever the reason it is undeniable that the good people up in north St. Margarets are weird! First they stop the traffic with an annual street fair. Then they get their children rushing around the streets 'beating the bounds'. Now they are intending to celebrate Christmas with a traditional medieval Mummers Play. Next they'll be dunking witches and dancing around a maypole!

@@ -5,9 +5,8 @@ permalink: /archives/2017/06/marble-hill-playcentres-contributions.html
 commentfile: 2017-06-10-marble-hill-playcentres-contributions
 category: around_town
 date: 2017-06-10 17:28:32
+image: "/assets/images/2017/marble-hill-playcentre-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/marble-hill-playcentre.jpg" title="Click for a larger image"><img src="/assets/images/2017/marble-hill-playcentre-thumb.jpg" width="150" alt="Image - marble-hill-playcentre"  class="photo right"/></a>
-
     Marble Hill Playcentres are staging an exhibition this summer, exploring their 40-year history through interviews, photographs and film. Staff and children at the playcentres are looking for people to contribute their memories of the adventure playground - from its opening in 1975 to the present day.
 
 ---

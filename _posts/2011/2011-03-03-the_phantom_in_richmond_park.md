@@ -5,9 +5,8 @@ permalink: /archives/2011/03/the_phantom_in_richmond_park.html
 commentfile: 2011-03-03-the_phantom_in_richmond_park
 category: around_town
 date: 2011-03-03 22:59:55
+image: "/assets/images/2011/Phantom_badge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Phantom_badge.jpg" title="See larger version of - Phantom badge"><img src="/assets/images/2011/Phantom_badge_thumb.jpg" width="150" height="148" alt="Phantom badge" class="photo right" /></a>
-    
     In November 1939, at the very beginning of the 2<sup>nd</sup> World War, Air Marshal Barratt, the Commander of the British Air Forces in France, set up a special semi-secret unit, the 3<sup>rd</sup> British Air Mission, to gather as much information as possible about the disposition of the enemy and the terrain that they were rapidly occupying. The code name for this unit was "Phantom."
 
 ---

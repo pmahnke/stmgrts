@@ -5,9 +5,8 @@ permalink: /archives/2015/04/twickenham_candidate_profile_2015_barry_edwards_uk.
 commentfile: 2015-04-28-twickenham_candidate_profile_2015_barry_edwards_uk
 category: news
 date: 2015-04-28 21:23:55
+image: "/assets/images/2015/barry_edwards_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/barry_edwards.png" title="See larger version of - barry edwards"><img src="/assets/images/2015/barry_edwards_thumb.png" width="150" height="227" alt="barry edwards" class="photo right" /></a>
-    
     
     Read Barry Edwards's profile as a parliamentary candidate for Twickenham.
 

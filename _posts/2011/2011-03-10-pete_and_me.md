@@ -5,9 +5,8 @@ permalink: /archives/2011/03/pete_and_me.html
 commentfile: 2011-03-10-pete_and_me
 category: around_town
 date: 2011-03-10 19:37:46
+image: "/assets/images/2011/Trekkas03_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Trekkas03.jpg" title="See larger version of - the Trekkas"><img src="/assets/images/2011/Trekkas03_thumb.jpg" width="150" height="170" alt="The Trekkas" class="photo right" /></a>
-    
     
     Although we've never talked I know quite a lot about him. I know where he lives and where he has his office. I know where he went to school and what he does to make a living. I saw him once on Twickenham riverside and again on Ranelagh Drive in St Margarets when I said "Hello." He was polite enough to smile back but he didn't recognise me. Why should he? The only time that we had met before was on Thursday June 17<sup>th</sup> 1965.
     

@@ -5,9 +5,8 @@ permalink: /archives/2017/02/event-richdance-2017-tickets.html
 commentfile: 2017-02-18-event-richdance-2017-tickets
 category: around_town
 date: 2017-02-18 12:32:16
+image: "/assets/images/2017/richdance_2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/richdance_2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/richdance_2017-thumb.jpg" width="150" alt="Image - richdance_2017"  class="photo right"/></a>
-
     The box office is now open for the annual and explosive RichDance event which never fails to entertain and is packed with prodigious talent and choreography.
 
     It's back and bigger than ever with this year's programme filled with young talent, dance companies, movers, shakers and dance tips and tricks from those who know best.

@@ -5,9 +5,8 @@ permalink: /archives/2011/03/bell_book_and_handle.html
 commentfile: 2011-03-31-bell_book_and_handle
 category: around_town
 date: 2011-03-31 19:39:12
+image: "/assets/images/2011/BBH_Richard-Bishop_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/BBH_Richard-Bishop.jpg" title="See larger version of - Richard and Bishop"><img src="/assets/images/2011/BBH_Richard-Bishop_thumb.jpg" width="150" height="112" alt="Richard and Bishop" class="photo right" /></a>
-    
     
     Last Sunday, after ten years in suspension, 'All Souls' Church in Northcote Road was reinstated as the parish church for 'St Margarets-upon-Thames'. After a simple ceremony involving a bell, a book and the handle on the old church door Revd. Richard Frank was also installed as its Vicar.
     

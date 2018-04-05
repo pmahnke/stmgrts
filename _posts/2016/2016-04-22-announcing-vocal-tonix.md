@@ -5,9 +5,8 @@ permalink: /archives/2016/04/announcing-vocal-tonix.html
 commentfile: 2016-04-22-announcing-vocal-tonix
 category: around_town
 date: 2016-04-22 21:40:54
+image: "/assets/images/2016/Shelle_Luscombe-vocalist_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Shelle_Luscombe-vocalist.jpg" title="See larger version of - Shelle Luscombe vocalist"><img src="/assets/images/2016/Shelle_Luscombe-vocalist_thumb.jpg" width="150" height="113" alt="Shelle Luscombe vocalist" class="photo right" /></a>
-
     Twickenham vocalist Shelle Luscombe ("www.shelleluscombe.co.uk":http://www.shelleluscombe.co.uk) will be hosting a brand new community sing along group called Vocal TonixTM. The weekly 'sing along and social' sessions launch Wednesday 4<sup>th</sup> May at 1.30pm in Twickenham and Thursday 5<sup>th</sup> May at 1.30pm in East Twickenham.
 ---
 

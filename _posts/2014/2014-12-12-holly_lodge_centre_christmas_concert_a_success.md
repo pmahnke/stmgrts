@@ -5,9 +5,8 @@ permalink: /archives/2014/12/holly_lodge_centre_christmas_concert_a_success.html
 commentfile: 2014-12-12-holly_lodge_centre_christmas_concert_a_success
 category: around_town
 date: 2014-12-12 19:54:53
+image: "/assets/images/2014/Clarendon_School_thumb.JPG"
 excerpt: |
-    <a href="/assets/images/2014/Clarendon_School.JPG" title="See larger version of - Clarendon School"><img src="/assets/images/2014/Clarendon_School_thumb.JPG" width="150" height="112" alt="Clarendon School" class="photo right" /></a>
-    
     The Choir of Clarenden special needs school in Hampton brought its inimitable version of <em>"Do you want to build a snowman?"</em> from the Disney movie, <em>"Frozen"</em> to St Mary Magdalene Church in Richmond as one of the highlights of the Holly Lodge Centre's annual Christmas concert Tuesday evening, 2 December.
     
 

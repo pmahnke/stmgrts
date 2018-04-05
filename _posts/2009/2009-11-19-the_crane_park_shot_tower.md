@@ -5,9 +5,8 @@ permalink: /archives/2009/11/the_crane_park_shot_tower.html
 commentfile: 2009-11-19-the_crane_park_shot_tower
 category: around_town
 date: 2009-11-19 17:39:41
+image: "/assets/images/2009/shot_tower_2_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/shot_tower_2.png" title="See larger version of - cartoon"><img src="/assets/images/2009/shot_tower_2_thumb.png" width="150" height="116" alt="cartoon" class=" right" /></a>
-    
     _How to make Musket Balls for your army_
     
     # Take a lump of lead.

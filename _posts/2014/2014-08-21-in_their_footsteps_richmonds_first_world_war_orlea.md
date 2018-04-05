@@ -5,9 +5,8 @@ permalink: /archives/2014/08/in_their_footsteps_richmonds_first_world_war_orlea.
 commentfile: 2014-08-21-in_their_footsteps_richmonds_first_world_war_orlea
 category: around_town
 date: 2014-08-21 21:48:11
+image: "/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/orleans_ww1_rsz_scanned_photo.jpg" title="See larger version of - Denis Conran, Private Collection"><img src="/assets/images/2014/orleans_ww1_rsz_scanned_photo_thumb.jpg" width="150" height="208" alt="Denis Conran, Private Collection" class="photo right" /></a>
-    
     _This exhibition, created by young people, launches the borough's four-year commemoration of the First World War Centenary._
     
     The exhibition focuses on the First World War heritage of the London Borough of Richmond upon Thames. Working with photographer Othello De Souza Hartley and designer Jasleen Kaur, young people have explored the stories and histories through people and places and the impact of the War in the locality. These stories have been brought to life through objects, artworks, creative writing and photographic recreations of narrative events.

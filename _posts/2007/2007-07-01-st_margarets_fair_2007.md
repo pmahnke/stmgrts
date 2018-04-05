@@ -5,8 +5,8 @@ permalink: /archives/2007/07/st_margarets_fair_2007.html
 commentfile: 2007-07-01-st_margarets_fair_2007
 category: news
 date: 2007-07-01 09:22:22
+image: "/assets/images/2007/stmgrts_fair_2007-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/stmgrts_fair_2007.jpg"><img src="/assets/images/2007/stmgrts_fair_2007-thumb.jpg" width="150" height="126" alt="St Margarets Fair 2007" class="right" /></a>
     
     
     

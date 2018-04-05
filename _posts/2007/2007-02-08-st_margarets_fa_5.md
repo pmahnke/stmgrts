@@ -5,8 +5,8 @@ permalink: /archives/2007/02/st_margarets_fa_5.html
 commentfile: 2007-02-08-st_margarets_fa_5
 category: around_town
 date: 2007-02-08 10:39:58
+image: "/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg"
 excerpt: |
-    <img alt="2005 St Margarets Fair logo" src="/assets/images/2007/2005St_Margarets_Fair-thumb.jpg" width="150" height="126" class="right"/>
     
     This years St Margarets Fair will be on Saturday, 14th July from 12 noon.
     

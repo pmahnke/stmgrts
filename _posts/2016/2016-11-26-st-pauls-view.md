@@ -5,8 +5,8 @@ permalink: /archives/2016/11/st-pauls-view.html
 commentfile: 2016-11-26-st-pauls-view
 category: news
 date: 2016-11-26 09:49:13
+image: "/assets/images/2016/After-StPauls.png"
 excerpt: |
-    <img class="photo right" width="150" alt="St Paul's view" src="/assets/images/2016/After-StPauls.png" />
 
     Historic protected view of St Paul's cathedral from Richmond Park destroyed by new Stratford skyscraper and the Friends of Richmond Park calls for temporary halt in construction and urgent GLA review.
 ---

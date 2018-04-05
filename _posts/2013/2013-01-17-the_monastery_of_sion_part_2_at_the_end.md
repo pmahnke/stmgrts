@@ -5,9 +5,8 @@ permalink: /archives/2013/01/the_monastery_of_sion_part_2_at_the_end.html
 commentfile: 2013-01-17-the_monastery_of_sion_part_2_at_the_end
 category: around_town
 date: 2013-01-17 22:34:30
+image: "/assets/images/2013/SION2_Syon_Abbey_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/SION2_Syon_Abbey.png" title="See larger version of - Syon Abbey"><img src="/assets/images/2013/SION2_Syon_Abbey_thumb.png" width="150" height="85" alt="Syon Abbey" class="photo right" /></a>
-    
     
     
     In 1432, 18 years after its original foundation on meadows close to where Richmond Lock now stands, the monastery of Sion and its establishment of 60 nuns and 25 brothers, moved to a larger building recently constructed in what is now Syon Park. For all the extra room and facilities, life didn't get any easier for these 'Disciples of Christ' who followed a strict programme of observance and worship...

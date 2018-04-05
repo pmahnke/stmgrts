@@ -5,9 +5,8 @@ permalink: /archives/2014/10/the_duel_a_combat_of_honour.html
 commentfile: 2014-10-16-the_duel_a_combat_of_honour
 category: around_town
 date: 2014-10-16 23:12:31
+image: "/assets/images/2014/Duel_with_pistols_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/Duel_with_pistols.jpg" title="See larger version of - Duel with pistols"><img src="/assets/images/2014/Duel_with_pistols_thumb.jpg" width="150" height="212" alt="Duel with pistols" class="photo right" /></a>
-    
     Hounslow Heath once had a fearsome reputation for a wide variety of unsavoury activities, including murder, highway robbery, the general seduction of the innocent and gullible and the execution of assorted miscreants and subsequent grisly exhibition of their corpses. It was also, at a time when individuals settled their differences with swords and pistols, a perfect place for duels. In his admirable history of the area, <em>"And So Make A City Here"</em>, historian G.E Bate notes a couple for our interest...
     
 

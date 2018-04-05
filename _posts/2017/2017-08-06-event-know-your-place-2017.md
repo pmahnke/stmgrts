@@ -5,9 +5,8 @@ permalink: /archives/2017/08/event-know-your-place-2017.html
 commentfile: 2017-08-06-event-know-your-place-2017
 category: around_town
 date: 2017-08-06 10:26:06
+image: "/assets/images/2017/know-your-place_logo_png-thumb.png"
 excerpt: |
-    <a href="/assets/images/2017/know-your-place_logo_png.png" title="Click for a larger image"><img src="/assets/images/2017/know-your-place_logo_png-thumb.png" width="150" alt="Image - know-your-place_logo_png"  class="photo right"/></a>
-
 
     Tickets are now on sale for the annual 'Know Your Place' Heritage Festival which celebrates Richmond's rich and vibrant history.
 

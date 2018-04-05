@@ -5,9 +5,8 @@ permalink: /archives/2011/09/event_reminder_east_meets_west_8_october_2011.html
 commentfile: 2011-09-28-event_reminder_east_meets_west_8_october_2011
 category: around_town
 date: 2011-09-28 18:37:56
+image: "/assets/images/2011/AKBcolourphoto_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/AKBcolourphoto.jpg" title="See larger version of - Anup Biswas"><img src="/assets/images/2011/AKBcolourphoto_thumb.jpg" width="150" height="194" alt="Anup Biswas" class=" right" /></a>
-
     This is the very first acoustic concert in Horace Walpoles stunning Gallery at Strawberry Hill House. A champagne reception is followed by an exquisite recital of music which crosses the intellectual and culural arena of English and Indian  classical music... with a subtle dusting of Jazz.
 
 ---

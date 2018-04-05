@@ -5,9 +5,8 @@ permalink: /archives/2017/01/event-family-explorers-spring-2017.html
 commentfile: 2017-01-20-event-family-explorers-spring-2017
 category: around_town
 date: 2017-01-20 08:10:59
+image: "/assets/images/2017/Family-Explorers-Spring-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Family-Explorers-Spring-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/Family-Explorers-Spring-2017-thumb.jpg" width="150" alt="Image - Family-Explorers-Spring-2017"  class="photo right"/></a>
-
     We have a NEW time and NEW location but our usual fun themed art activities and lovely songtime around the parachute! Ideal for ages 2+ years but younger children welcome.
 ---
 

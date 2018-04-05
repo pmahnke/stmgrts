@@ -5,9 +5,8 @@ permalink: /archives/2009/03/event_reminder_2x2_operas_robinson_crusoe.html
 commentfile: 2009-03-26-event_reminder_2x2_operas_robinson_crusoe
 category: around_town
 date: 2009-03-26 11:29:19
+image: "/assets/images/2009/opera_rc_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/opera_rc.jpg" title="See larger version of - 2x2 Opera's Robinson Crusoe"><img src="/assets/images/2009/opera_rc_thumb.jpg" width="150" height="90" alt="2x2 Opera's Robinson Crusoe" class="photo right" /></a>
-    
     2x2 Opera for young people presents Offenbach's comic opera <a href="https://stmargarets.london/event/auction/200705142072">Robinson Crusoe</a> at the Musical Museum, Brentford, 26, 27 March at 7.30pm and 28 March at 2.30pm and 7.30pm.  Tickets are available through the Museum box office: 020 8847 9373. Adults: &pound;12.00; Senior Citizens &pound;9.00; Children and other concessions &pound;5.00.
 
 ---

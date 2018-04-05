@@ -6,9 +6,8 @@ commentfile: 2017-04-28-mr-whiteheads-pups
 category: around_town
 author: Martyn Day
 date: 2017-05-06 15:22:09
+image: "/assets/images/2017/WHITEHEAD_Sopwith-pup-machine-gun-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/WHITEHEAD_Sopwith-pup-machine-gun.jpg" title="Click for a larger image"><img src="/assets/images/2017/WHITEHEAD_Sopwith-pup-machine-gun-thumb.jpg" width="150" alt="Image - WHITEHEAD_Sopwith-pup-machine-gun"  class="photo right"/></a>
-
     In 1916, the German Air Corps, <em>Die Fliegertruppen</em>, had gained air superiority over the Allies thanks to a new and technologically advanced plane, the Fokker E1 monoplane fighter - the <em>Eindecker</em>. This was an externally braced mid-winged monoplane powered by a 7 cylinder Oberursel rotary engine giving a top speed of 81 mph and an operational ceiling of 9,840 feet.
 ---
 

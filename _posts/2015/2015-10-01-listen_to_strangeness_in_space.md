@@ -5,9 +5,8 @@ permalink: /archives/2015/10/listen_to_strangeness_in_space.html
 commentfile: 2015-10-01-listen_to_strangeness_in_space
 category: news
 date: 2015-10-01 20:54:05
+image: "/assets/images/2015/strangenessinspace_thumb.png"
 excerpt: |
-    <a href="/assets/images/2015/strangenessinspace.png" title="See larger version of - strangenessinspace"><img src="/assets/images/2015/strangenessinspace_thumb.png" width="150" height="151" alt="strangenessinspace" class=" right" /></a>
-    
     Strangeness in Space is a new comedy audio drama, produced and recorded in St Margarets.  It is for anyone aged 8 to 80 to enjoy, on any of those gadgets we all seem to have nowadays!
     
 

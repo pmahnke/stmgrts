@@ -5,9 +5,8 @@ permalink: /archives/2012/05/bold_nevison.html
 commentfile: 2012-05-17-bold_nevison
 category: around_town
 date: 2012-05-17 21:09:56
+image: "/assets/images/2012/NEVISON_Dick_Turpin_Comic_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/NEVISON_Dick_Turpin_Comic.jpg" title="See larger version of - Dick Turpin Comic"><img src="/assets/images/2012/NEVISON_Dick_Turpin_Comic_thumb.jpg" width="150" height="167" alt="Dick Turpin Comic" class="photo right" /></a>
-
     Everyone knows the tale of brave Dick Turpin, don't they?  The handsome hero of Hounslow Heath, the gallant 'Robin Hood' highwayman who, with a hearty "Stand and Deliver!" stole from the rich to give to the poor, his legend immortalised by his epic 200 mile ride from London to York on his faithful steed "Black Bess"?
 
 

@@ -5,9 +5,8 @@ permalink: /archives/2015/06/local_artists_at_jmw_turners_house_for_arthouse_20.
 commentfile: 2015-06-25-local_artists_at_jmw_turners_house_for_arthouse_20
 category: around_town
 date: 2015-06-25 19:28:28
+image: "/assets/images/2015/arthouse_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
-    
     Celebrating ARThouse 2015 Turner's House is delighted to host an exhibition by two local professional artists, both inspired by our great British landscape painter.
 
 ---

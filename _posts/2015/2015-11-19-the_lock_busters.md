@@ -5,9 +5,8 @@ permalink: /archives/2015/11/the_lock_busters.html
 commentfile: 2015-11-19-the_lock_busters
 category: around_town
 date: 2015-11-19 22:03:09
+image: "/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/LOCKBUSTERS_German_bombers.jpg" title="See larger version of - German bombers"><img src="/assets/images/2015/LOCKBUSTERS_German_bombers_thumb.jpg" width="150" height="93" alt="German bombers" class="photo right" /></a>
-    
     This is the time of the annual River Thames 'Draw-Off'. You may have noticed. The weirs at Richmond Lock have been raised and the river allowed to settle down to its natural depth and flow. For long periods of the day, from Richmond Lock to Teddington, the river is now un-navigable for larger vessels. Local boat people know that and on 19<sup>th</sup> February 1944 so did the German Luftwaffe.
     
 

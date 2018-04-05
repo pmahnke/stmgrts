@@ -5,8 +5,8 @@ permalink: /archives/2007/04/interview_jo_dunbar_of_botanica_medica_herbal_apot.
 commentfile: 2007-04-25-interview_jo_dunbar_of_botanica_medica_herbal_apot
 category: around_town
 date: 2007-04-25 08:34:59
+image: "/assets/images/2007/jo_dunbar-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2007/jo_dunbar.jpg"><img src="/assets/images/2007/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
     
     
     _In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._

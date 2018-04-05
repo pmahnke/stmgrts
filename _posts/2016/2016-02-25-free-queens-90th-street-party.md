@@ -5,9 +5,8 @@ permalink: /archives/2016/02/free-queens-90th-street-party.html
 commentfile: 2016-02-25-free-queens-90th-street-party
 category: news
 date: 2016-02-25 21:25:51
+image: "/assets/images/2016/street-party-queens-birthday_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/street-party-queens-birthday.jpg" title="See larger version of - street party queens birthday"><img src="/assets/images/2016/street-party-queens-birthday_thumb.jpg" width="150" height="100" alt="street party queens birthday" class="photo right" /></a>
-
     Residents are being urged to celebrate the Queen’s 90<sup>th</sup> Birthday this spring by holding a street party as Richmond Council waives fee for Queen's birthday street parties.
 
 ---

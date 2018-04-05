@@ -5,9 +5,8 @@ permalink: /archives/2017/08/contemporary-british-painting-prize.html
 commentfile: 2017-08-13-contemporary-british-painting-prize
 category: news
 date: 2017-08-13 06:09:33
+image: "/assets/images/2017/contemp-contest-cat-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/contemp-contest-cat.jpg" title="Click for a larger image"><img src="/assets/images/2017/contemp-contest-cat-thumb.jpg" width="150" alt="Image - contemp-contest-cat"  class="photo right"/></a>
-
     A national art competition, looking for the most Contemporary British Painting will be coming to three local art galleries this summer.
 
     The 'Contemporary British Painting Prize' is an artist led organisation which explores and promotes current trends in British painting through group exhibitions, talks, publications and the donation of paintings to art museums.

@@ -5,9 +5,8 @@ permalink: /archives/2010/12/the_morning_after_the_night_before.html
 commentfile: 2010-12-17-the_morning_after_the_night_before
 category: around_town
 date: 2010-12-17 12:40:54
+image: "/assets/images/2010/hangover_manhungover_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/hangover_manhungover.jpg" title="See larger version of - Man hungover"><img src="/assets/images/2010/hangover_manhungover_thumb.jpg" width="150" height="112" alt="Man hungover" class="photo right" /></a>
-    
     
     There can't be many of us who, at some time in our youthful lives, haven't woken up with a throbbing head, a mouth like a zoo-keepers bucket and one thought on our minds - "Never Again."
     

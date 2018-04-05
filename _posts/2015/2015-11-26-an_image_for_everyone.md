@@ -5,9 +5,8 @@ permalink: /archives/2015/11/an_image_for_everyone.html
 commentfile: 2015-11-26-an_image_for_everyone
 category: around_town
 date: 2015-11-26 19:11:33
+image: "/assets/images/2015/PEACE_Paris_Peace_Sign_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/PEACE_Paris_Peace_Sign.jpg" title="See larger version of - Paris Peace Sign"><img src="/assets/images/2015/PEACE_Paris_Peace_Sign_thumb.jpg" width="150" height="139" alt="Paris Peace Sign" class="photo right" /></a>
-
     In the immediate hours following the terrorist attack in Paris on Friday 13<sup>th</sup> November a new image began to appear on the streets of the city. It consisted of an outline of the Eiffel Tower laid over the familiar <em>'peace sign'</em> evoking a sense of unity in the nation, support for the victims and a wish for peace. Even before the details of the atrocity were fully known this simple cartoon was being shared by millions around the world.
 
 ---

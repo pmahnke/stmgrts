@@ -5,9 +5,8 @@ permalink: /archives/2010/09/holistic_yoga_classes.html
 commentfile: 2010-09-10-holistic_yoga_classes
 category: around_town
 date: 2010-09-10 08:25:06
+image: "/assets/images/2010/yoga_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/yoga.jpg" title="See larger version of - yoga icon"><img src="/assets/images/2010/yoga_thumb.jpg" width="150" height="138" alt="yoga icon" class=" right" /></a>
-    
     Your children have gone back to school and you are thinking about their activities, what about yours?
     
     As we get older we lose our suppleness- this is crucial to our skeletal health and to increase our capacity to be mobile for the longest we possibly can. We rush around and until things go wrong that affect our lifestyle and limit things we want to do we ignore the needs of our body and mind, and also  our emotional needs.

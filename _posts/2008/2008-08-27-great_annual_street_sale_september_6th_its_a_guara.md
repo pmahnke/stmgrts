@@ -5,8 +5,8 @@ permalink: /archives/2008/08/great_annual_street_sale_september_6th_its_a_guara.
 commentfile: 2008-08-27-great_annual_street_sale_september_6th_its_a_guara
 category: around_town
 date: 2008-08-27 09:09:44
+image: "/assets/images/2008/GasDay200622-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/GasDay200622.jpg"><img src="/assets/images/2008/GasDay200622-thumb.jpg" width="150" height="100" alt="Last years GASS" class="photo right"/></a>
     
     
     When they start handing out medals for the "Most Dynamic Community Group of the Year", at the very front of the queue will be NSMRA... the mighty 'North St Margarets Residents' Association'. Their record of community activities ranges from regular dances, quizzes and children's parties through to their signature event - GASS Day - the Great Annual Street Sale, which takes place on Saturday 6th September from 2.00pm.

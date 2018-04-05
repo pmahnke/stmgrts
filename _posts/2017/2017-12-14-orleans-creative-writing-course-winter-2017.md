@@ -5,9 +5,8 @@ permalink: /archives/2017/12/orleans-creative-writing-course-winter-2017.html
 commentfile: 2017-12-14-orleans-creative-writing-course-winter-2017
 category: around_town
 date: 2017-12-14 13:20:15
+image: "/assets/images/2017/orleans-exhibitions-ect-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/orleans-exhibitions-ect.jpg" title="Click for a larger image"><img src="/assets/images/2017/orleans-exhibitions-ect-thumb.jpg" width="150" alt="Image - orleans-exhibitions-ect"  class="photo right"/></a>
-
     Develop your creative writing and learn how to generate inspiration from poetry, gallery exhibitions and even the world around us.  Sessions will focus on developing a creative dialogue between the writer and the art work.
 ---
 

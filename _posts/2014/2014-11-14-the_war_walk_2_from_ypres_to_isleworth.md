@@ -5,9 +5,8 @@ permalink: /archives/2014/11/the_war_walk_2_from_ypres_to_isleworth.html
 commentfile: 2014-11-14-the_war_walk_2_from_ypres_to_isleworth
 category: around_town
 date: 2014-11-14 12:52:19
+image: "/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/WARWALK2_battle_of_ypres.jpg" title="See larger version of -  battle of ypres"><img src="/assets/images/2014/WARWALK2_battle_of_ypres_thumb.jpg" width="150" height="97" alt=" battle of ypres" class="photo right" /></a>
-    
     Five years ago the North St Margarets Residents Association, NSMRA, began researching the lives of 86 local men whose names are recorded on the World War 1 <em>'Roll of Honour'</em> in All Souls Church, Haliburton Road. With the information gathered, on Saturday October 25<sup>th</sup> we were able to organise a <em>"War Walk"</em> around our neighbourhood, visiting some of their homes and learning something about the families that once lived there. Nearly 100 people took part. Here are some more WW1 stories from our own St Margarets streets:-
 
 ---

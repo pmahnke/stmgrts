@@ -5,10 +5,8 @@ permalink: /archives/2015/03/exhibition_celebrates_turners_house_artist_in_resi.
 commentfile: 2015-03-20-exhibition_celebrates_turners_house_artist_in_resi
 category: news
 date: 2015-03-20 09:31:41
+image: "/assets/images/2015/turners-house_Sollohub_thumb.jpg"
 excerpt: |
-    
-    <a href="/assets/images/2015/turners-house_Sollohub.jpg" title="See larger version of - turners house Sollohub"><img src="/assets/images/2015/turners-house_Sollohub_thumb.jpg" width="150" height="214" alt="turners house Sollohub" class="photo right" /></a>
-    
     For the past year Sussex artist, Katie Sollohub, has been a guest in JMW Turner's House, as artist in residence supported by Arts Council England.
     
     Now she is to celebrate her many days working at Sandycombe Lodge and garden, with an exhibition of new drawings and paintings. With the title 'A Guest in Turner's House' the exhibition runs from 26<sup>th</sup> March to 25<sup>th</sup> May 2015 at The Stables Gallery, Orleans House Gallery, Twickenham TW1 3DJ. Entry is free.

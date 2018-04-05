@@ -6,9 +6,8 @@ commentfile: 2016-03-24-more-man-with-a-handkerchief
 category: around_town
 author: Martyn Day
 date: 2016-03-24 21:21:52
+image: "/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Anne_frank_memorial_bergen_belsen.jpg" title="See larger version of - Anne frank memorial bergen belsen"><img src="/assets/images/2016/Anne_frank_memorial_bergen_belsen_thumb.jpg" width="150" height="95" alt="Anne frank memorial bergen belsen" class="photo right" /></a>
-
     Here is a little more about the soldier who drove the bulldozer at Bergen-Belsen concentration camp at the time of its liberation - April 15<sup>th</sup> 1945.
 ---
 

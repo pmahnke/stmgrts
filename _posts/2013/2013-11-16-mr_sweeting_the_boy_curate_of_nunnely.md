@@ -5,9 +5,8 @@ permalink: /archives/2013/11/mr_sweeting_the_boy_curate_of_nunnely.html
 commentfile: 2013-11-16-mr_sweeting_the_boy_curate_of_nunnely
 category: around_town
 date: 2013-11-16 12:07:20
+image: "/assets/images/2013/SWEETING_Shirley_Keeldar_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/SWEETING_Shirley_Keeldar.jpg" title="See larger version of - Shirley Keeldar"><img src="/assets/images/2013/SWEETING_Shirley_Keeldar_thumb.jpg" width="150" height="228" alt="Shirley Keeldar" class="photo right" /></a>
-
     Victorian novels are awash with clerics of all ranks and persuasions reflecting their prominent and important role in the society of the time. Charlotte Bronte's second novel "Shirley", published in 1849 has at least four of them - Mr. Helstone, the rector of Briarfield and his three curates, Mr. Donne, Mr. Malone, and Mr. Sweeting. Apparently they spent their time debating <em>"minute points of ecclesiastical discipline, frivolities which seem as empty as bubbles to all save themselves"</em>... which sounds like fun.
 
 

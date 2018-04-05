@@ -5,9 +5,9 @@ permalink: /archives/2014/07/borough_camp_july_5_to_6_july_2014.html
 commentfile: 2014-07-10-borough_camp_july_5_to_6_july_2014
 category: around_town
 date: 2014-07-10 23:03:43
+image: "/assets/images/2014/BOROUGHCAMP_Scouts_2012_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/BOROUGHCAMP_Scouts_2012.jpg" title="See larger version of - Scouts 2012"><img src="/assets/images/2014/BOROUGHCAMP_Scouts_2012_thumb.jpg" width="150" height="112" alt="Scouts 2012" class="photo right" /></a>
-    If you wondered why the streets seemed less crowded than usual last weekend or the parks and football pitches less busy it was because nearly 1000 young people from around these parts - boys and girls - were away camping with the Scouts. For over 30 years one weekend early in July has been designated "Borough Camp" for the young members of the Richmond scout district, and it is usually run at Walton Firs Scout Activity Centre near Cobham. With a slew of exciting and sometimes demanding challenges like caving, climbing, football, archery, rounders and the weirdly named 'crate stacking' it attracts young people from as far east as Barnes and as far west as Teddington and Hampton.
+        If you wondered why the streets seemed less crowded than usual last weekend or the parks and football pitches less busy it was because nearly 1000 young people from around these parts - boys and girls - were away camping with the Scouts. For over 30 years one weekend early in July has been designated "Borough Camp" for the young members of the Richmond scout district, and it is usually run at Walton Firs Scout Activity Centre near Cobham. With a slew of exciting and sometimes demanding challenges like caving, climbing, football, archery, rounders and the weirdly named 'crate stacking' it attracts young people from as far east as Barnes and as far west as Teddington and Hampton.
 
 ---
 

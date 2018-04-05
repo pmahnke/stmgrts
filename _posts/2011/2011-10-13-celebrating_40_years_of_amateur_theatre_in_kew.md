@@ -5,9 +5,8 @@ permalink: /archives/2011/10/celebrating_40_years_of_amateur_theatre_in_kew.html
 commentfile: 2011-10-13-celebrating_40_years_of_amateur_theatre_in_kew
 category: around_town
 date: 2011-10-13 08:58:57
+image: "/assets/images/2011/shapeimage_1.png"
 excerpt: |
-    <img src="/assets/images/2011/shapeimage_1.png" width="150" alt="Illustration from Wind in the WIllows"  class="photo right"  />
-    
     Q2 Players will present _The Wind in the Willows_ by Alan Bennett, based on the book by Kenneth Graham on <a href="https://stmargarets.london/event/play/200705143101">1<sup>st</sup> and 2<sup>nd</sup> December at 8pm as well as 2.30 and 7pm on Saturday 3<sup>rd</sup> December</a> (note earlier, family-friendly evening performance on Saturday) in the Alexandra Room, St. Luke's in the Avenue, The Avenue, Kew.
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2012/11/age_uk_richmonds_winter_wellbeing_campaign_2012.htm
 commentfile: 2012-11-28-age_uk_richmonds_winter_wellbeing_campaign_2012
 category: news
 date: 2012-11-28 20:15:45
+image: "/assets/images/2012/Warm-Safe-Leaflet_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Warm-Safe-Leaflet.jpg" title="See larger version of - Warm Safe Leaflet"><img src="/assets/images/2012/Warm-Safe-Leaflet_thumb.jpg" width="150" height="220" alt="Warm Safe Leaflet" class="photo right" /></a>
-    
     
     _Practical advice on keeping you and your home warm, avoiding cold related illness such as flu and eating well in the winter_
     

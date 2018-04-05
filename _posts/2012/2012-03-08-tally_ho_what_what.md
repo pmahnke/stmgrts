@@ -5,9 +5,8 @@ permalink: /archives/2012/03/tally_ho_what_what.html
 commentfile: 2012-03-08-tally_ho_what_what
 category: around_town
 date: 2012-03-08 20:15:29
+image: "/assets/images/2012/TALLYHO_staghunting_thumb.gif"
 excerpt: |
-    <a href="/assets/images/2012/TALLYHO_staghunting.gif" title="See larger version of - Stag hunting"><img src="/assets/images/2012/TALLYHO_staghunting_thumb.gif" width="150" height="185" alt="Stag hunting" class=" right" /></a>
-    
     It is hard to imagine but there was a time when St Margarets, with its streets and houses, shops and schools, was part of a vast royal hunting ground strictly preserved for the King and his nobles. It stretched from Windsor in the west, eastwards across Hounslow Heath towards the fringes of London and northwards into Hertfordshire. Its popularity as a Royal Chase was due in part to it being almost equidistant from London and Windsor, with Kew Palace and Hampton Court both adjacent. Long before estate agents started describing St Margarets as "the village" (oh, the horror!) our home was woodland and open heath echoing with cries of "View Halloa" and "Tally Ho!" as the wealthy went hawking, shooting, fishing and hunting stags and wild boars, deer and foxes...
     
 

@@ -5,9 +5,8 @@ permalink: /archives/2016/01/david-masters-valentines-2016-promotion.html
 commentfile: 2016-01-29-david-masters-valentines-2016-promotion
 category: around_town
 date: 2016-01-29 20:43:37
+image: "/assets/images/2016/DMS_valentines_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/DMS_valentines.png" title="See larger version of - DMS valentines"><img src="/assets/images/2016/DMS_valentines_thumb.png" width="150" height="103" alt="DMS valentines" class=" right" /></a>
-
     David Masters Salon is giving away fabulous heart shaped box of chocolates with Gift Cards in the run up to Valentine's Day, while stocks last. They are redeemable against hair and beauty services at David Masters Salons in Richmond Bridge and St Margarets, Richmond's premier independent hair and beauty salon.
 
 ---

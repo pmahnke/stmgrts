@@ -6,9 +6,8 @@ commentfile: 2017-06-10-1st-st-margarets-and-hms-belfast
 category: around_town
 date: 2017-06-10 21:08:39
 author: Martyn Day
+image: "/assets/images/2017/HMSBELFAST_north_cape-star-shell-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/HMSBELFAST_north_cape-star-shell.jpg" title="Click for a larger image"><img src="/assets/images/2017/HMSBELFAST_north_cape-star-shell-thumb.jpg" width="150" alt="Image - HMSBELFAST_north_cape-star-shell"  class="photo right"/></a>
-
     The Battle of North Cape began Christmas Day 1943 when the German battlecruiser Scharnhorst and five escorting destroyers left their base in Altenfjord to intercept two Arctic Convoys rounding Norway's North Cape. Convoy JW55B was transporting essential supplies to the Soviet Union, and RA 55A was returning to the U.K.
 
 

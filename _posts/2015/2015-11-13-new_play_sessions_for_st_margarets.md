@@ -5,9 +5,8 @@ permalink: /archives/2015/11/new_play_sessions_for_st_margarets.html
 commentfile: 2015-11-13-new_play_sessions_for_st_margarets
 category: news
 date: 2015-11-13 19:23:33
+image: "/assets/images/2015/Fantastic_fridays_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Fantastic_fridays.jpg" title="See larger version of - Fantastic fridays"><img src="/assets/images/2015/Fantastic_fridays_thumb.jpg" width="150" height="78" alt="Fantastic fridays" class="photo right" /></a>
-    
     Brilliant Play Solutions CiC is an award winning local social enterprise providing rich play opportunities for children and their families. There are three parent and child preschool play sessions to choose from in St Margarets and East Twickenham all designed to offer children high quality opportunities for play and for their grown us to meet for a cuppa and a chat in a friendly and welcoming environment.
 
 ---

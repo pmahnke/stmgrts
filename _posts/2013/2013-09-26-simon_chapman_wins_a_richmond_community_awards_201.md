@@ -5,9 +5,8 @@ permalink: /archives/2013/09/simon_chapman_wins_a_richmond_community_awards_201.
 commentfile: 2013-09-26-simon_chapman_wins_a_richmond_community_awards_201
 category: news
 date: 2013-09-26 21:44:52
+image: "/assets/images/2013/2013_community_awards_logo_thumb.png"
 excerpt: |
-    <a href="/assets/images/2013/2013_community_awards_logo.png" title="See larger version of - 2013 community awards logo"><img src="/assets/images/2013/2013_community_awards_logo_thumb.png" width="150" height="60" alt="2013 community awards logo" class=" right" /></a>
-
     Twenty-eight residents from around the borough were honoured on the 21 September 2013 at an event to celebrate Richmond Council's Community Awards.
 ---
 

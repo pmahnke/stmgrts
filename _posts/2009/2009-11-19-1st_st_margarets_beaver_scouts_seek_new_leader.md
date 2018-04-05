@@ -5,9 +5,8 @@ permalink: /archives/2009/11/1st_st_margarets_beaver_scouts_seek_new_leader.html
 commentfile: 2009-11-19-1st_st_margarets_beaver_scouts_seek_new_leader
 category: news
 date: 2009-11-19 16:23:31
+image: "/assets/images/2009/BeaversLeaderSearch_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/BeaversLeaderSearch.jpg" title="See larger version of - Leader?"><img src="/assets/images/2009/BeaversLeaderSearch_thumb.jpg" width="150" height="84" alt="Leader?" class="photo right" /></a>
-    
     
     The 1st St Margarets Scouts' Beaver Colony faces closure unless it can find a new leader by the end of December.
     

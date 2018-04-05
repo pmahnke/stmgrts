@@ -5,9 +5,8 @@ permalink: /archives/2015/04/the_hongerwinter.html
 commentfile: 2015-04-26-the_hongerwinter
 category: around_town
 date: 2015-04-26 11:22:56
+image: "/assets/images/2015/HONGERWINTER_Loading_Lancaster_with_food_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/HONGERWINTER_Loading_Lancaster_with_food.jpg" title="See larger version of - Loading Lancaster with food"><img src="/assets/images/2015/HONGERWINTER_Loading_Lancaster_with_food_thumb.jpg" width="150" height="124" alt="Loading Lancaster with food" class="photo right" /></a>
-    
     Almost exactly seventy years ago, at the end of April 1945, an unusual activity was taking place on Bomber Command airfields across England. Although the war in Europe had only 10 more days left to run, the ground crews and armourers were as busy as ever but instead of loading their aircraft with bombs they were filling the bomb bays with sacks of food.
 
 ---

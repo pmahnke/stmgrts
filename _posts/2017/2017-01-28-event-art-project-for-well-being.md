@@ -5,9 +5,8 @@ permalink: /archives/2017/01/event-art-project-for-well-being.html
 commentfile: 2017-01-28-event-art-project-for-well-being
 category: around_town
 date: 2017-01-28 10:48:35
+image: "/assets/images/2017/watercolor_background-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/watercolor_background.jpg" title="Click for a larger image"><img src="/assets/images/2017/watercolor_background-thumb.jpg" width="150" alt="Image - watercolor_background"  class="photo right"/></a>
-
     Take time out for yourself and use the chance of being part of an unique art project. Let's play with art and take the chance to have a closer look at your personal well being.
 
     What's in for you? YOU DON'T NEED TO HAVE ANY DRAWING SKILLS! But you will be guided and supported by a professional artist using watercolor and collage techniques.

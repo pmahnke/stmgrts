@@ -6,9 +6,8 @@ commentfile: 2017-03-18-akela-wild-camping-and-the-brocken-spectre
 category: around_town
 author: Martyn Day
 date: 2017-03-18 08:46:41
+image: "/assets/images/2017/AKELA_Wild-camping-3-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/AKELA_Wild-camping-3.jpg" title="Click for a larger image"><img src="/assets/images/2017/AKELA_Wild-camping-3-thumb.jpg" width="150" alt="Image - AKELA_Wild-camping-3"  class="photo right"/></a>
-
     Back when I was a <em>'tenderfoot'</em> camping was all about keeping it light and keeping it portable. <em>'If you can't hump it - dump it'</em> was the motto. That is no longer the case. Today's campers of the trendy <em>'glamping'</em> fraternity like to have everything with them from air conditioned tents/lodges/yurts with fridges, TV's, full Wi-Fi and ensuite bathrooms to swimming pools, on-site restaurants, coffee shops and delis. Canoes, trekking ponies and archery make a welcome addition
 
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2016/09/charity-ben-khosa-jump.html
 commentfile: 2016-09-23-charity-ben-khosa-jump
 category: around_town
 date: 2016-09-23 17:33:16
+image: "/assets/images/2016/ben-khosa_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ben-khosa.jpg" title="See larger version of - ben khosa"><img src="/assets/images/2016/ben-khosa_thumb.jpg" width="150" height="150" alt="ben khosa" class="photo right" /></a>
-
     Local Councillor Ben Khosa is doing a bungee jump in support of the domestic abuse charity Refuge.
 ---
 

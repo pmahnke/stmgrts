@@ -5,8 +5,8 @@ permalink: /archives/2009/07/st_margarets_fair_update_and_photographs.html
 commentfile: 2009-07-16-st_margarets_fair_update_and_photographs
 category: around_town
 date: 2009-07-16 09:32:03
+image: "/assets/images/2009/stm_pano-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/stm_pano.jpg"><img src="/assets/images/2009/stm_pano-thumb.jpg" width="300" height="39" alt="panorama of the Fair" class="center" /></a>
     
     
     In spite of us not providing the normal rainless baking hot day for this year's St Margarets Fair, your support was as always tremendous.  We'll know the exact amount of money raised for the schools and charities in September, but even given the weather it looks like being at least as much as last year.  Thank you all very much.  Although the money is important we always strive to primarily ensure that the Fair is an event for all ages and flavours of the Community.

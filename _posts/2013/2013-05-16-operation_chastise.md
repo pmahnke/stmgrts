@@ -5,9 +5,8 @@ permalink: /archives/2013/05/operation_chastise.html
 commentfile: 2013-05-16-operation_chastise
 category: around_town
 date: 2013-05-16 22:51:33
+image: "/assets/images/2013/DAMBUSTER_617_badge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/DAMBUSTER_617_badge.jpg" title="See larger version of - 617 badge"><img src="/assets/images/2013/DAMBUSTER_617_badge_thumb.jpg" width="150" height="150" alt="617 badge" class="right" /></a>
-    
     Almost exactly 70 years ago, on the evening of 16<sup>th</sup> May 1943, an event took place that has become imprinted on the British character. There will be many of us who know the story rather well - the stressed but determined engineer, the 'press-on-regardless' pilot and his team of courageous flyers, the dog that was killed and the mighty concrete walls that came crashing down. Most of all we remember a piece of music that is still whistled ironically on holiday jets coming in to land at Malaga and Palma, played at football matches and used in TV commercials. The official name for this event was 'Operation Chastise' but to most people it is the 'Dambusters Raid'.
 
 ---

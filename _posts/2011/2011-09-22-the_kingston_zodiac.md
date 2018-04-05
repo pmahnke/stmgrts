@@ -5,9 +5,8 @@ permalink: /archives/2011/09/the_kingston_zodiac.html
 commentfile: 2011-09-22-the_kingston_zodiac
 category: around_town
 date: 2011-09-22 11:20:22
+image: "/assets/images/2011/KINGZOD_ley_line_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/KINGZOD_ley_line.jpg" title="See larger version of - Ley Line"><img src="/assets/images/2011/KINGZOD_ley_line_thumb.jpg" width="150" height="112" alt="Ley Line" class="photo right" /></a>
-    
     Maybe it was a reaction to the horrors of the 1<sup>st</sup> World War but in the 1920's there was a revival of interest in mysticism, paganism, ancient beliefs and the romantic tales of King Arthur and Uther Pendragon. We may have won the Great War but it was a brutal, messy business. In the myths and fairy tales of the dark past maybe we hoped to find a more civilised, more chivalrous heritage.
 
 ---

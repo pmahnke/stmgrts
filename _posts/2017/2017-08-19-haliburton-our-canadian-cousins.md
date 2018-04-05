@@ -6,9 +6,8 @@ commentfile: 2017-08-19-haliburton-our-canadian-cousins
 category: around_town
 author: Martyn Day
 date: 2017-08-19 10:32:15
+image: "/assets/images/2017/HALICOUSIN_Thomas-Haliburton-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/HALICOUSIN_Thomas-Haliburton.jpg" title="Click for a larger image"><img src="/assets/images/2017/HALICOUSIN_Thomas-Haliburton-thumb.jpg" width="150" alt="Image - HALICOUSIN_Thomas-Haliburton"  class="photo right"/></a>
-
     Should you bold  <em>'village'</em> dwellers every venture north of the A316 into what the locals call the true St Margarets you may find yourself ambling along the long and gently curving avenue that is Haliburton Road. Following the path of the River Crane on its last tidal half mile before emptying into the Thames this little slice of Arcadia also marks the border between Hounslow and Richmond.
 ---
 

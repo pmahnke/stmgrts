@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-twickenham-library-craft-fair.html
 commentfile: 2018-03-26-event-twickenham-library-craft-fair
 category: around_town
 date: 2018-03-26 07:52:20
+image: "/assets/images/2018/library-craft-fair-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/library-craft-fair.jpg" title="Click for a larger image"><img src="/assets/images/2018/library-craft-fair-thumb.jpg" width="150" alt="Image - library-craft-fair"  class="photo right"/></a>
-
     Get a spring in your step by grabbing a bargain at one of Twickenham Library's fabulous craft fairs. Local crafters will be displaying their wares in the library on Saturday 21<sup>st</sup> April 2018 from 11am to 3pm.
 
 ---

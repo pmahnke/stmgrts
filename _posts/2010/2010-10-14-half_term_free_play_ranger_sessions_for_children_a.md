@@ -5,8 +5,8 @@ permalink: /archives/2010/10/half_term_free_play_ranger_sessions_for_children_a.
 commentfile: 2010-10-14-half_term_free_play_ranger_sessions_for_children_a
 category: news
 date: 2010-10-14 22:44:56
+image: "/assets/images/2010/play_rangers_300x164-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/play_rangers_300x164.jpg"><img alt="play_rangers_300x164.jpg" src="/assets/images/2010/play_rangers_300x164-thumb.jpg" width="150" height="82" class="right" /></a>
 
     Join in with our team of experienced Play Rangers and take part in play and exciting adventures, in a park near you in all weathers, all year round! Our aim is to enable all children to make the most of their local outdoor spaces and parks for play, fun and games and meeting up with friends.
 

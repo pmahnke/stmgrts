@@ -5,9 +5,8 @@ permalink: /archives/2018/03/richmond-college-sells-land.html
 commentfile: 2018-03-25-richmond-college-sells-land
 category: news
 date: 2018-03-25 07:36:32
+image: "/assets/images/2018/richmond-college-sells-land-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/richmond-college-sells-land.jpg" title="Click for a larger image"><img src="/assets/images/2018/richmond-college-sells-land-thumb.jpg" width="150" alt="Image - richmond-college-sells-land"  class="photo right"/></a>
-
     Richmond upon Thames College, one of London's leading colleges of general and further education, is pleased to announce that it has exchanged contracts on the sale of 4.8 acres of land on the college's existing site in Egerton Road, Twickenham to Clarion Housing.
 
 ---

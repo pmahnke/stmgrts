@@ -5,9 +5,8 @@ permalink: /archives/2016/08/event-rambert-open-day.html
 commentfile: 2016-08-14-event-rambert-open-day
 category: around_town
 date: 2016-08-14 07:59:23
+image: "/assets/images/2016/Monument-Studio_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Monument-Studio.jpg" title="See larger version of - Monument Studio"><img src="/assets/images/2016/Monument-Studio_thumb.jpg" width="150" height="100" alt="Monument Studio" class="photo right" /></a>
-
     For one day only, Rambert School offers local children a fun filled family day of dancing. Take a behind the scenes look in the studios, watch rehearsals and try on costumes at one of the UK's oldest professional dance schools. Children from two years upwards will be able to try out free taster dance classes, available all day from 11am until 3pm. Saturday 10 September, 11am - 3pm.
 ---
 

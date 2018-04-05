@@ -5,9 +5,8 @@ permalink: /archives/2012/11/event_reminder_christmas_herbal_workshop_16_decemb.
 commentfile: 2012-11-13-event_reminder_christmas_herbal_workshop_16_decemb
 category: around_town
 date: 2012-11-13 17:17:02
+image: "/assets/images/2012/botanica_medica_thumb.png"
 excerpt: |
-    <a href="/assets/images/2012/botanica_medica.png" title="See larger version of - botanica medica logo"><img src="/assets/images/2012/botanica_medica_thumb.png" width="150" height="44" alt="botanica medica logo" class="right" /></a>
-    
     
     Medical herbalist, Janine Gerhardt will show you how to make unique herbal Christmas gifts to take home after this lovely workshop at Botanica Medica Herbal Apothecary in St Margarets.
     

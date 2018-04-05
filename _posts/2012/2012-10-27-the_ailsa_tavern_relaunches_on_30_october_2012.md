@@ -5,9 +5,8 @@ permalink: /archives/2012/10/the_ailsa_tavern_relaunches_on_30_october_2012.html
 commentfile: 2012-10-27-the_ailsa_tavern_relaunches_on_30_october_2012
 category: news
 date: 2012-10-27 20:38:27
+image: "/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/Ailsa_Relaunch_II.jpg" title="See larger version of - Ailsa Relaunch - Food"><img src="/assets/images/2012/Ailsa_Relaunch_II_thumb.jpg" width="150" height="210" alt="Ailsa Relaunch - Food" class="photo right" /></a>
-    
     
     The Ailsa Tavern has changed managers and is going to relaunch on Tuesday, 30 October 2012 with all new food and updated nights for music and quizzes.  Changes include the addition of an Irish and Scottish music night on Thursdays and &pound;5 lunchtime food specials.
     

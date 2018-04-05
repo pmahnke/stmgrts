@@ -5,9 +5,8 @@ permalink: /archives/2015/05/event_reminder_isleworth_church_street_big_lunch_p.
 commentfile: 2015-05-21-event_reminder_isleworth_church_street_big_lunch_p
 category: around_town
 date: 2015-05-21 19:24:54
+image: "/assets/images/2015/Church-St-flyer-2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/Church-St-flyer-2015.jpg" title="See larger version of - Church St flyer 2015"><img src="/assets/images/2015/Church-St-flyer-2015_thumb.jpg" width="150" height="206" alt="Church St flyer 2015" class="photo right" /></a>
-    
     Our committee are once again pleased to organise <a href="https://stmargarets.london/event/fair/200705145014">the annual Church Street Party</a> now in its 5<sup>th</sup> consecutive year.  It promises to better and bigger than the previous year and why not bring your family, friends & neighbours to this ever popular street event?   2,000 + visitors were in attendance previously and if you wish to join in the fun and community spirit, be sure to be there!
     
 

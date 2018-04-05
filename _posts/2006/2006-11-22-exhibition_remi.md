@@ -5,9 +5,8 @@ permalink: /archives/2006/11/exhibition_remi.html
 commentfile: 2006-11-22-exhibition_remi
 category: around_town
 date: 2006-11-22 08:20:22
+image: "/assets/images/2006/I_JInvitationCardVF2_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/I_JInvitationCardVF2.jpg" title="See larger version of - examples of paintings"><img src="/assets/images/2006/I_JInvitationCardVF2_thumb.jpg" width="200" height="141" alt="examples of paintings" class="photo left" /></a>
-    
     Currently running, there is a new <a href="https://stmargarets.london/event/Exhibition/200611220219">joint exhibition</a> featuring recent paintings by local artists, Idun Eustace and Jane Butcher.
     
     Curator of Orleans House Gallery Mark De Novellis said: "This is a very accomplished exhibition of work by local talent."

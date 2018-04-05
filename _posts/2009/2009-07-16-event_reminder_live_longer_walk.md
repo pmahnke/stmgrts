@@ -5,8 +5,8 @@ permalink: /archives/2009/07/event_reminder_live_longer_walk.html
 commentfile: 2009-07-16-event_reminder_live_longer_walk
 category: around_town
 date: 2009-07-16 09:53:09
+image: "/assets/images/2009/bowelcancer_logo-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/bowelcancer_logo.jpg"><img src="/assets/images/2009/bowelcancer_logo-thumb.jpg" width="114" height="150" alt="Live Longer Walk" class="right" /></a>
     
     
     Get Spotted in Hyde Park this Sunday September 20<sup>th</sup> at 10.30.

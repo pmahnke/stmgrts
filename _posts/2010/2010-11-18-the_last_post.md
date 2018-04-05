@@ -5,9 +5,8 @@ permalink: /archives/2010/11/the_last_post.html
 commentfile: 2010-11-18-the_last_post
 category: around_town
 date: 2010-11-18 21:53:42
+image: "/assets/images/2010/tilly_Battle_of_the_Somme_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/tilly_Battle_of_the_Somme.jpg" title="See larger version of - The Battle of the Somme"><img src="/assets/images/2010/tilly_Battle_of_the_Somme_thumb.jpg" width="300" height="154" alt="The Battle of the Somme" class="photo center" /></a>
-
 
     If ever a sound captured the sombre, reflective mood of Remembrance Day it is the high melancholic notes of the 'Last Post' - the military bugle call played to mark the end of the day. For 90 years nervous buglers across the world have stood up at Armistice, alone and unsupported, to evoke through their playing remembrance of all those who have died in war. From local war memorials to the fields of Flanders and to cemeteries and cenotaphs far and wide this has been the bugler's privilege and test - and this year the awesome responsibility of a 10 year old Cub Scout from St Margarets.
 

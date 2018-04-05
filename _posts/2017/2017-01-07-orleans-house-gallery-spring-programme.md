@@ -5,9 +5,8 @@ permalink: /archives/2017/01/orleans-house-gallery-spring-programme.html
 commentfile: 2017-01-07-orleans-house-gallery-spring-programme
 category: around_town
 date: 2017-01-07 15:26:03
+image: "/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures.jpg" title="Click for a larger image"><img src="/assets/images/2017/springprogrammeorleanshousegallery-Art--History--Lectures-thumb.jpg" width="150" alt="Image - springprogrammeorleanshousegallery-Art--History--Lectures" class="photo right"  /></a>
-
     Check out our brand new spring programme for adults. We are also offering a 10% discount to Richmond Card holders across all the programmes listed.
 ---
 

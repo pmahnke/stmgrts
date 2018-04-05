@@ -5,9 +5,8 @@ permalink: /archives/2015/06/arthouse_popup_in_old_lyric_palace_cinema_until_10.
 commentfile: 2015-06-25-arthouse_popup_in_old_lyric_palace_cinema_until_10
 category: around_town
 date: 2015-06-25 19:13:46
+image: "/assets/images/2015/arthouse_2015_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/arthouse_2015.jpg" title="See larger version of - arthouse 2015"><img src="/assets/images/2015/arthouse_2015_thumb.jpg" width="150" height="112" alt="arthouse 2015" class="photo right" /></a>
-    
     A new lease of life will be brought to a Twickenham building when it is transformed into a temporary pop-up art gallery and workshop space as part of Richmond's Open Studios Festival ARThouse.
 
 ---

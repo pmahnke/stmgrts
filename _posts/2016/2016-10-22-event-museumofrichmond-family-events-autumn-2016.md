@@ -5,9 +5,8 @@ permalink: /archives/2016/10/event-museumofrichmond-family-events-autumn-2016.ht
 commentfile: 2016-10-22-event-museumofrichmond-family-events-autumn-2016
 category: around_town
 date: 2016-10-22 13:44:30
+image: "/assets/images/2016/Museum-of-Richmond-Oct_to_Feb_2016_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Museum-of-Richmond-Oct_to_Feb_2016_poster.jpg" title="See larger version of - Museum of Richmond Oct to Feb 2016 poster"><img src="/assets/images/2016/Museum-of-Richmond-Oct_to_Feb_2016_poster_thumb.jpg" width="150" height="212" alt="Museum of Richmond Oct to Feb 2016 poster" class="photo right" /></a>
-
     From ghosts to gifts to half term activities, the Museum of Richmond has great events this autumn and winter for families.
 
 ---

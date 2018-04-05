@@ -5,9 +5,8 @@ permalink: /archives/2016/06/orleans-gallery-summer-programme-2016.html
 commentfile: 2016-06-10-orleans-gallery-summer-programme-2016
 category: around_town
 date: 2016-06-10 14:29:09
+image: "/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/ORLEANS-2016_Painting_Class.jpg" title="See larger version of -  Painting Class"><img src="/assets/images/2016/ORLEANS-2016_Painting_Class_thumb.jpg" width="150" height="131" alt=" Painting Class" class="photo right" /></a>
-
     Orleans House Gallery is offering adult audiences an exciting and fun range of lectures, talks and workshops this June and July. From one day sessions to longer courses, you can develop practical skills and extend your art knowledge throughout the year.
 ---
 

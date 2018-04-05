@@ -5,10 +5,8 @@ permalink: /archives/2013/06/the_2013_summer_crown_road_community_fair_report.ht
 commentfile: 2013-06-13-the_2013_summer_crown_road_community_fair_report
 category: news
 date: 2013-06-13 22:00:51
+image: "/assets/images/2017/2013-crown-road-summer-fair-thumb.jpg"
 excerpt: |
-
-    <a href="/assets/images/2017/2013-crown-road-summer-fair.jpg" title="Click for a larger image"><img src="/assets/images/2017/2013-crown-road-summer-fair-thumb.jpg" width="150" alt="Image - 2013-crown-road-summer-fair"  class="photo right"/></a>
-
     Last Sunday, up went the bunting and balloons in St Margarets for the Crown Road Community Fair. The theme of this years fair was My St Margarets Farm - There were pony rides along Bridle Lane, real farmyard animals, such as goats, lambs, rabbits and ducklings, for all the neighbourhood children (and adults) to enjoy in close proximity.
 
 ---

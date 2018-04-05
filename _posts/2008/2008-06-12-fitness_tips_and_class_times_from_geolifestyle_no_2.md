@@ -5,8 +5,8 @@ permalink: /archives/2008/06/fitness_tips_and_class_times_from_geolifestyle_no_2
 commentfile: 2008-06-12-fitness_tips_and_class_times_from_geolifestyle_no_2
 category: around_town
 date: 2008-06-12 09:08:45
+image: "/assets/images/2008/georgie-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/georgie.jpg"><img src="/assets/images/2008/georgie-thumb.jpg" width="100" height="128" alt="Georgie Islip" class="photo right" /></a>
 
 
     **How to start increasing your distance and pace**

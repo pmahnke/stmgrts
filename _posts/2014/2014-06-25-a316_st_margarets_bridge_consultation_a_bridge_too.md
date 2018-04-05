@@ -5,9 +5,8 @@ permalink: /archives/2014/06/a316_st_margarets_bridge_consultation_a_bridge_too.
 commentfile: 2014-06-25-a316_st_margarets_bridge_consultation_a_bridge_too
 category: news
 date: 2014-06-25 06:40:11
+image: "/assets/images/2014/saveourfootbridge_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2014/saveourfootbridge.jpg" title="See larger version of - save our footbridge"><img src="/assets/images/2014/saveourfootbridge_thumb.jpg" width="150" height="112" alt="save our footbridge" class="photo right" /></a>
-    
     Local Liberal Democrat Councillors, Alexander Ehmann, Ben Khosa and Geoff Acton (Councillors for St Margarets and North Twickenham Ward) have put their weight behind local residents and  concerned parents, who have expressed dismay over TfL's recent proposal to dismantle the  current footbridge crossing of the A316 at St Margarets roundabout and replace it with Toucan  crossings.
 
 ---

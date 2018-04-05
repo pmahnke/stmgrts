@@ -5,9 +5,8 @@ permalink: /archives/2017/01/st-stephens-2018-admission-change.html
 commentfile: 2017-01-07-st-stephens-2018-admission-change
 category: news
 date: 2017-01-07 15:49:21
+image: "/assets/images/2017/St-Stephens-ADMISSIONS_ARRANGEMENTS_FOR_2O1819-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/St-Stephens-ADMISSIONS_ARRANGEMENTS_FOR_2O1819.jpg" title="Click for a larger image"><img src="/assets/images/2017/St-Stephens-ADMISSIONS_ARRANGEMENTS_FOR_2O1819-thumb.jpg" width="150" alt="Image - St-Stephens-ADMISSIONS_ARRANGEMENTS_FOR_2O1819"  class="photo right"  /></a>
-
     On behalf of the Governing Body of St Stephen's CE Primary School, attached is the school's proposed Admissions Arrangements for the academic year 2018-19.  We have added to the criteria at point 5. concerning children of staff directly employed by St Stephen's School for two years or more at the time of application.
 ---
 

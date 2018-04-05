@@ -5,9 +5,8 @@ permalink: /archives/2010/05/the_robber_robbed.html
 commentfile: 2010-05-21-the_robber_robbed
 category: around_town
 date: 2010-05-21 17:40:48
+image: "/assets/images/2010/hounslow_heath_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/hounslow_heath.jpg" title="See larger version of - HOUNSLOW HEATH "><img src="/assets/images/2010/hounslow_heath_thumb.jpg" width="150" height="83" alt="HOUNSLOW HEATH " class="photo left" /></a>
-    
     One night a tailor was travelling by foot across Hounslow Heath when he was stopped by "a knight of the road" who pulled out a brace of pistols and ordered the man to give up his purse. The tailor did so but asked for a favour in return.
     
     "My friends," he said, " will laugh at me and my wife will be angry when I tell them I offered no more resistance than a lamb. Could you put a couple of shots through my hat to make it seem that I had resisted."

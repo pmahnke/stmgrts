@@ -5,9 +5,8 @@ permalink: /archives/2015/11/the_book_the_most_famous_ice_rink_in_the_world.html
 commentfile: 2015-11-05-the_book_the_most_famous_ice_rink_in_the_world
 category: news
 date: 2015-11-05 20:12:22
+image: "/assets/images/2015/richmond_ice_rink_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/richmond_ice_rink.jpg" title="See larger version of - richmond ice rink - from http://www.geocities.ws/emandjay2003/"><img src="/assets/images/2015/richmond_ice_rink_thumb.jpg" width="150" height="101" alt="richmond ice rink - from http://www.geocities.ws/emandjay2003/" class="photo right" /></a>
-    
     The work on the book, <em>The Most Famous Ice Rink in the World</em>, started in earnest towards the end of August 2015 although it had begun as the seed of an idea a number of years before.
     
 

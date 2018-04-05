@@ -5,9 +5,8 @@ permalink: /archives/2013/01/event_reminder_allo_allo.html
 commentfile: 2013-01-10-event_reminder_allo_allo
 category: around_town
 date: 2013-01-10 21:22:11
+image: "/assets/images/2013/AA-flyer-front-290_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/AA-flyer-front-290.jpg" title="See larger version of - Allo Allo flyer"><img src="/assets/images/2013/AA-flyer-front-290_thumb.jpg" width="150" height="212" alt="Allo Allo flyer" class="photo right" /></a>
-    
     bq. "Listen very carefully, I shall say zis only once..."
     
     Based on the popular TV series, the stage version of 'Allo 'Allo follows the hapless caf&#233; owner Ren&#233; as he fends off amorous waitresses, his oversexed wife, Edith (stupid woman!) and assists the escape of two dim British airmen. All this during a visit from the F&#252;hrer and while struggling to cash-in on the priceless portrait hidden in a sausage in his cellar.

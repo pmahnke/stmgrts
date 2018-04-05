@@ -5,9 +5,8 @@ permalink: /archives/2015/04/yoga_for_complete_beginners_starting_19_april_2015.
 commentfile: 2015-04-03-yoga_for_complete_beginners_starting_19_april_2015
 category: around_town
 date: 2015-04-03 08:58:48
+image: "/assets/images/2015/yoga_fitness_logo_thumb.jpg"
 excerpt: |
-    <p><a href="/assets/images/2015/yoga_fitness_logo.jpg" title="See larger version of - yoga fitness logo"><img src="/assets/images/2015/yoga_fitness_logo_thumb.jpg" width="150" height="112" alt="yoga fitness logo" class="right" /></a></p>
-    
     In our hectic modern world many people are taking 'time out' to practice yoga - a system that originated in India 5,000 years ago. Everyone can practice yoga, regardless of age, sex or ability.
     
     Yoga offers us a holistic approach to body and mind, which can provide us with the 'tools' to cope with the challenges of daily life. Yoga can also complement medical science and therapy for specific conditions.

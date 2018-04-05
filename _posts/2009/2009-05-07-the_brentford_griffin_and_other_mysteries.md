@@ -5,9 +5,8 @@ permalink: /archives/2009/05/the_brentford_griffin_and_other_mysteries.html
 commentfile: 2009-05-07-the_brentford_griffin_and_other_mysteries
 category: around_town
 date: 2009-05-07 22:43:33
+image: "/assets/images/2009/nell_gwyn_thumb.png"
 excerpt: |
-    <a href="/assets/images/2009/nell_gwyn.png" title="See larger version of - Nell Gwyn"><img src="/assets/images/2009/nell_gwyn_thumb.png" width="118" height="150" alt="Nell Gwyn" class="photo right" /></a>
-    
     Once upon a time... around 1670, King Charles 2nd bought his new mistress, the 'pretty, witty' actress and all-round good time girl Nell Gwyn, a pet griffin which she kept at her house on the Butts Estate in Brentford. A griffin, by the way, is a mythical fantasy creature with the body of a lion and the head and wings of an eagle. Note the word 'mythical'. They were highly regarded as powerful and majestic beings.
 
 ---

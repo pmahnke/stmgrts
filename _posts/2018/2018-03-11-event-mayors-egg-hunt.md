@@ -5,9 +5,8 @@ permalink: /archives/2018/03/event-mayors-egg-hunt.html
 commentfile: 2018-03-11-event-mayors-egg-hunt
 category: around_town
 date: 2018-03-11 09:46:29
+image: "/assets/images/2018/easter-eggs-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/easter-eggs.jpg" title="Click for a larger image"><img src="/assets/images/2018/easter-eggs-thumb.jpg" width="150" alt="Image - easter-eggs"  class="photo right"/></a>
-
     <em>Be a part of our Eggs-ellent adventure</em>
 
     Children and families are invited to be part of an eggs-ellent adventure and join the Mayor's Easter Egg Hunt in York House Gardens from 2pm to 3pm on Sunday 25<sup>th</sup> March.

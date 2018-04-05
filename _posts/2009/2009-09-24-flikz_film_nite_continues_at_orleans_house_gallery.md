@@ -5,8 +5,8 @@ permalink: /archives/2009/09/flikz_film_nite_continues_at_orleans_house_gallery.
 commentfile: 2009-09-24-flikz_film_nite_continues_at_orleans_house_gallery
 category: news
 date: 2009-09-24 20:55:38
+image: "/assets/images/2009/film_teens-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/film_teens.jpg"><img src="/assets/images/2009/film_teens-thumb.jpg" width="108" height="150" alt="poster" class="photo right" /></a>
     
     
     Flikz is aimed at young people between 12 and 19, and is a great activity taking place on the last Wednesday of every month from 6:00 to 8.30: and the next one will take place next Wednesday 30<sup>th</sup> September .

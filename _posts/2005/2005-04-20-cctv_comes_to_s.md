@@ -5,8 +5,8 @@ permalink: /archives/2005/04/cctv_comes_to_s.html
 commentfile: 2005-04-20-cctv_comes_to_s
 category: news
 date: 2005-04-20 14:46:30
+image: "/assets/images/2018/SWR-strike-map-jan2018-thumb.jpg"
 excerpt: |
-    <img alt="cctv" src="/assets/images/2005/cctv-thumb.gif" width="100" height="110" class="right"/>
 
     Transport for London has now installed a CCTV camera near the train station. However, the police can also use the cameras, so hopefully it will help with any vandalism (see our article, Bounty on Graffiti Vandals in the area.
 ---

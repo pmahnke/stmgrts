@@ -5,9 +5,8 @@ permalink: /archives/2018/01/event-come-and-sing-day.html
 commentfile: 2018-01-22-event-come-and-sing-day
 category: around_town
 date: 2018-01-22 17:13:13
+image: "/assets/images/2018/TCS2018_flyer-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/TCS2018_flyer.jpg" title="Click for a larger image"><img src="/assets/images/2018/TCS2018_flyer-thumb.jpg" width="150" alt="Image - TCS2018_flyer"  class="photo right"/></a>
-
     Join Teddington Choral and Sam Evans for a lively Come & Sing Day Saturday 10 February 2018 at Teddington Baptist Church, TW11 8PF.  10 am Registration. 10:30-5pm with a lunch break.  Haydn's St Nicholas & Theresa Masses available.
 
 ---

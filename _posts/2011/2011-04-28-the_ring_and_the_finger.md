@@ -5,9 +5,8 @@ permalink: /archives/2011/04/the_ring_and_the_finger.html
 commentfile: 2011-04-28-the_ring_and_the_finger
 category:
 date: 2011-04-28 10:46:59
+image: "/assets/images/2011/ROYALWED_wedding-rings_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/ROYALWED_wedding-rings.jpg" title="See larger version of - Wedding Rings"><img src="/assets/images/2011/ROYALWED_wedding-rings_thumb.jpg" width="150" height="112" alt="Wedding Rings by Jeff Belmonte" class="photo right" /></a>
-
     Unless there is something going on that none of us know about I can confidently predict that when Prince William marries Kate Middleton on Friday he will at some stage in the proceedings, slip a ring onto the fourth finger of her left hand. Given eight fingers (and two thumbs) to choose from, why will he be going for this one?
 
 

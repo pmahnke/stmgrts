@@ -5,9 +5,8 @@ permalink: /archives/2016/09/event-richmond-heritage-festival.html
 commentfile: 2016-09-17-event-richmond-heritage-festival
 category: around_town
 date: 2016-09-17 17:14:46
+image: "/assets/images/2016/know-your-place_logo_2016_thumb.png"
 excerpt: |
-    <a href="/assets/images/2016/know-your-place_logo_2016.png" title="See larger version of - know your place logo 2016"><img src="/assets/images/2016/know-your-place_logo_2016_thumb.png" width="150" height="73" alt="know your place logo 2016" class=" right" /></a>
-
     Organised by Richmond Council's Library Service, the 'Know Your Place' festival is the annual programme of activities that celebrate the history of the borough throughout September.
 ---
 

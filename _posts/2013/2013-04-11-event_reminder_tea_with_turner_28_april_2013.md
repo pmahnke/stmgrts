@@ -5,8 +5,8 @@ permalink: /archives/2013/04/event_reminder_tea_with_turner_28_april_2013.html
 commentfile: 2013-04-11-event_reminder_tea_with_turner_28_april_2013
 category: around_town
 date: 2013-04-11 20:46:31
+image: "/assets/images/2013/vision.png"
 excerpt: |
-    <img src="/assets/images/2013/vision.png" width="150" alt="Turner self portrait"  class="photo right" />
     
     _Take tea in Twickenham with England's greatest landscape painter_
     

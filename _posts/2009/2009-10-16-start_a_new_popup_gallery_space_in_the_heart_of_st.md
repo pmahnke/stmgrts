@@ -5,8 +5,8 @@ permalink: /archives/2009/10/start_a_new_popup_gallery_space_in_the_heart_of_st.
 commentfile: 2009-10-16-start_a_new_popup_gallery_space_in_the_heart_of_st
 category: news
 date: 2009-10-16 18:47:52
+image: "/images/IMG_9656.jpeg"
 excerpt: |
-    <a href="/assets/images/2009/IMG_9656.jpeg"><img src="https://stmargarets.london/images/IMG_9656.jpeg" width="150" height="100" alt="st art"  class="photo right" /></a>
     
     Thursday November 19<sup>th</sup> is the date set for the private view opening of  St Margarets first pop-up gallery space, St.Art.
     

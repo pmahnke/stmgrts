@@ -5,9 +5,8 @@ permalink: /archives/2013/03/the_day_the_church_fell_down.html
 commentfile: 2013-03-08-the_day_the_church_fell_down
 category: around_town
 date: 2013-03-08 20:49:19
+image: "/assets/images/2013/CHURCHDOWN_St_Mary_the_Virgin_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/CHURCHDOWN_St_Mary_the_Virgin.jpg" title="See larger version of - St Mary the Virgin"><img src="/assets/images/2013/CHURCHDOWN_St_Mary_the_Virgin_thumb.jpg" width="150" height="96" alt="St Mary the Virgin" class="photo right" /></a>
-    
     
     The old church had been sitting on a rise of high land by the river for over 400 years and it was in poor structural repair.  The medieval ragstone was pulling apart and some of the interior pillars were on the point of collapse. (The original supporting walls had been removed in 1640 and replaced by pillars to improve the lighting and make more room. That was not a good idea.)
 

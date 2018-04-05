@@ -5,11 +5,8 @@ permalink: /archives/2015/10/new_exhibition_richmond_remembers_world_war_two.htm
 commentfile: 2015-10-01-new_exhibition_richmond_remembers_world_war_two
 category: around_town
 date: 2015-10-01 21:04:05
+image: "/assets/images/2015/WWII_Peldon_Avenue_thumb.jpg"
 excerpt: |
-    
-    
-    <a href="/assets/images/2015/WWII_Peldon_Avenue.jpg" title="See larger version of - WWII Peldon Avenue Richmond"><img src="/assets/images/2015/WWII_Peldon_Avenue_thumb.jpg" width="150" height="112" alt="WWII Peldon Avenue Richmond" class="photo right" /></a>
-    
     To mark the 75<sup>th</sup> Anniversary of the Battle of Britain, the Museum of Richmond has collaborated with The Richmond Local History Society to create an exhibition recounting Richmond's experience of the Second World War.
     
 

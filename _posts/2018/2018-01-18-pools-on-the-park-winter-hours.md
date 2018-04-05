@@ -5,9 +5,8 @@ permalink: /archives/2018/01/pools-on-the-park-winter-hours.html
 commentfile: 2018-01-18-pools-on-the-park-winter-hours
 category: news
 date: 2018-01-18 15:57:33
+image: "/assets/images/2018/LBRUT_pool-on-park-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/LBRUT_pool-on-park.jpg" title="Click for a larger image"><img src="/assets/images/2018/LBRUT_pool-on-park-thumb.jpg" width="150" alt="Image - LBRUT_pool-on-park"  class="photo right"/></a>
-
     Users of the outdoor pool at Pools on the Park in Richmond will be able to benefit from increased opening times over the winter months as the popularity of outdoor swimming flourishes in the borough.
 
 ---

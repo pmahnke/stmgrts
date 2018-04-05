@@ -5,9 +5,8 @@ permalink: /archives/2013/01/winter_travel_alert_sw_trains_plans_for_18_january.
 commentfile: 2013-01-17-winter_travel_alert_sw_trains_plans_for_18_january
 category: 
 date: 2013-01-17 22:51:52
+image: "/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/sw_train_winter_weather_warning.jpg" title="See larger version of - sw train winter weather warning"><img src="/assets/images/2013/sw_train_winter_weather_warning_thumb.jpg" width="150" height="80" alt="sw train winter weather warning" class=" right" /></a>
-    
     
     South West Trains has announced that because of the severe weather conditions, they will be running a revised timetable on Friday 18 January throughout the South West Trains network.
 

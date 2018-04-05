@@ -5,8 +5,8 @@ permalink: /archives/2009/05/event_reminder_the_good_wine_shops_summer_tasting.h
 commentfile: 2009-05-13-event_reminder_the_good_wine_shops_summer_tasting
 category: around_town
 date: 2009-05-13 15:56:20
+image: "/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/TGWS_Tasting_Picture.jpg"><img src="/assets/images/2009/TGWS_Tasting_Picture-thumb.jpg" width="150" height="112" alt="people tasting wine" class="photo right" /></a>
     
     
     

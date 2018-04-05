@@ -5,8 +5,8 @@ permalink: /archives/2012/10/zumba_classes_tuesday_evenings_in_east_twickenham.h
 commentfile: 2012-10-13-zumba_classes_tuesday_evenings_in_east_twickenham
 category: around_town
 date: 2012-10-13 14:51:08
+image: "/assets/images/directory/201210130946_Zumba_Fitness_with_Chloe_Pitcher.jpg"
 excerpt: |
-    <img src="/assets/images/directory/201210130946_Zumba_Fitness_with_Chloe_Pitcher.jpg" width="150" alt="zumba logo"  class="photo right" />
     
     Summer is over, the days are getting shorter. Do you want to get back into a fitness regime? Shift a few pounds from the holiday? 
     

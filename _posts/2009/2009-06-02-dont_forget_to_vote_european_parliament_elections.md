@@ -5,8 +5,8 @@ permalink: /archives/2009/06/dont_forget_to_vote_european_parliament_elections.h
 commentfile: 2009-06-02-dont_forget_to_vote_european_parliament_elections
 category: news
 date: 2009-06-02 08:22:12
+image: "/assets/images/2009/epe09-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/epe09.jpg"><img src="/assets/images/2009/epe09-thumb.jpg" width="150" height="93" alt="Vote" class="right" /></a>
     
     
     

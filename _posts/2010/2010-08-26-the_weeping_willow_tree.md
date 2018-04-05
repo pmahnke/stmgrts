@@ -5,9 +5,8 @@ permalink: /archives/2010/08/the_weeping_willow_tree.html
 commentfile: 2010-08-26-the_weeping_willow_tree
 category: around_town
 date: 2010-08-26 10:23:32
+image: "/assets/images/2010/willow_Weeping-Willow_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/willow_Weeping-Willow.jpg" title="See larger version of - Weeping Willow"><img src="/assets/images/2010/willow_Weeping-Willow_thumb.jpg" width="150" height="125" alt="Weeping Willow" class="photo right" /></a>
-    
     Some sources say that the most common of the cultivated Weeping Willow species (_salix x sepulcralis_) was first introduced into this country from a German nursery in 1908... which does seem a little late in the day considering the hundreds of thousands of the trees that are now to be found across the length and breadth of Britain.
 
 ---

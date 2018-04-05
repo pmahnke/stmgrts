@@ -5,11 +5,9 @@ permalink: /archives/2012/11/concert_supporting_humanitas_23_november_2012.html
 commentfile: 2012-11-02-concert_supporting_humanitas_23_november_2012
 category: around_town
 date: 2012-11-02 11:11:23
+image: "/assets/images/2012/EsterConcert23rdNovember_thumb.jpg"
 excerpt: |
-
-
-    <a href="/assets/images/2012/EsterConcert23rdNovember.jpg" title="See larger version of - Concert poster"><img src="/assets/images/2012/EsterConcert23rdNovember_thumb.jpg" width="150" height="211" alt="Concert poster" class="photo right" /></a>
-
+    
     _An Evening of Flute, Voice and Verse_
 
     I am delighted to invite you to a concert to support a charity <a href="http://www.humanitascharity.org">www.humanitascharity.org</a> which supports children in need.

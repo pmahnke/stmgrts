@@ -5,9 +5,8 @@ permalink: /archives/2017/04/turner-house-appoints-director.html
 commentfile: 2017-04-01-turner-house-appoints-director
 category: news
 date: 2017-04-01 06:43:47
+image: "/assets/images/2017/Lucy-Thompson-turner-house-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Lucy-Thompson-turner-house.jpg" title="Click for a larger image"><img src="/assets/images/2017/Lucy-Thompson-turner-house-thumb.jpg" width="150" alt="Image - Lucy-Thompson-turner-house"  class="photo right"/></a>
-
 
     Turner's House Trust has appointed Lucy Thompson to the new post of House Director of Sandycombe Lodge, the Twickenham villa that JMW Turner designed as a retreat from the pressures of the London art world and hurly-burly of domestic life in his Marylebone house.
 ---

@@ -5,9 +5,8 @@ permalink: /archives/2008/09/event_reminder_days_of_wine_and_roses.html
 commentfile: 2008-09-11-event_reminder_days_of_wine_and_roses
 category: around_town
 date: 2008-09-11 15:26:57
+image: "/assets/images/2008/Wine-n-Roses_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2008/Wine-n-Roses.jpg" title="See larger version of - Nikki Squire (Mona) with Kevin Boland (Donal)"><img src="/assets/images/2008/Wine-n-Roses_thumb.jpg" width="99" height="150" alt="Nikki Squire as Mona with Kevin Boland as Donal" class="photo right" /></a>
-    
     Next up from the Richmond Shakespeare Society is Owen McCafferty's poignant love story <a href="https://stmargarets.london/event/play/200705141906,">Days of Wine and Roses</a> on stage at Twickenham's Mary Wallace Theatre from September 13 to 20.
     
     Originally a 1958 teleplay written by a Texan which transferred to the big screen with Jack Lemmon and Lee Remick,it was reset for the stage by Northern Irish writer Owen McCafferty and relocated to London in the Swinging Sixties.

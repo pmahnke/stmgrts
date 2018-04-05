@@ -5,9 +5,8 @@ permalink: /archives/2017/07/the-return-of-skiffle.html
 commentfile: 2017-07-16-the-return-of-skiffle
 category: around_town
 date: 2017-07-16 10:44:36
+image: "/assets/images/2017/SKIFFLERETURN_skiffle-group-1-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/SKIFFLERETURN_skiffle-group-1.jpg" title="Click for a larger image"><img src="/assets/images/2017/SKIFFLERETURN_skiffle-group-1-thumb.jpg" width="150" alt="Image - SKIFFLERETURN_skiffle-group-1"  class="photo right"/></a>
-
     After about 60 years of absence the word <em>'Skiffle'</em> has suddenly made a reappearance in the news leaving a number of people, particularly younger ones, scratching their heads and wondering <em>"Huh?"</em> Surprising as it might seem there are actually some people out there - intelligent people with O levels, Tufty Club badges and a full set of Pok&#233;mon trading cards who do not know what skiffle is - and why it might be of interest to the population of St Margarets... so here is a crash course.
 
 ---

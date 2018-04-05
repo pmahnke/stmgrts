@@ -5,9 +5,8 @@ permalink: /archives/2017/12/lbrut-submit-twickenham-riverside-planning-applicat
 commentfile: 2017-12-06-lbrut-submit-twickenham-riverside-planning-application
 category: news
 date: 2017-12-06 20:05:07
+image: "/assets/images/2017/twick-riverside-render-2017-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/twick-riverside-render-2017.jpg" title="Click for a larger image"><img src="/assets/images/2017/twick-riverside-render-2017-thumb.jpg" width="150" alt="Image - twick-riverside-render-2017"  class="photo right"/></a>
-
     A Planning Application to redevelop Twickenham Riverside has been submitted and will be open to statutory consultation.
 
     Over the past two years the Council has been consulting with residents and businesses in Twickenham on proposals for a new development on King Street / Water Lane and Twickenham Riverside.  The development site includes three properties on the corner of King Street and Water Lane, the car park to the rear and the derelict former swimming pool buildings.

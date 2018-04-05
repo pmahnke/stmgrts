@@ -5,8 +5,8 @@ permalink: /archives/2006/11/art_deco_london.html
 commentfile: 2006-11-22-art_deco_london
 category: around_town
 date: 2006-11-22 08:26:26
+image: "/assets/images/2006/art_deco_london-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2006/art_deco_london.jpg"><img src="/assets/images/2006/art_deco_london-thumb.jpg" width="150" height="150" alt="book cover" class="photo right" /></a>
     
     Art Deco London  written by local resident Colin Hines with photographs by Paul Riddle and Keith Cheetham is the first ever guide book to the 20's and 30's deco delights of the capital. Its 60 pages contain 110 superb colour photographs and shows where in London magnificent examples of art deco can be found, eaten and quaffed in, slept in, shopped in, and campaigned for. Its deco delights range from 'palaces of the people' cinemas (many saved thanks to bingo), theatres, hotels, homes, shops, museums, a deco hospital and even a 'decover and out' crematorium.
     

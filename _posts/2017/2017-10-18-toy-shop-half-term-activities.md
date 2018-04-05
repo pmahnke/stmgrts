@@ -5,9 +5,8 @@ permalink: /archives/2017/10/toy-shop-half-term-activities.html
 commentfile: 2017-10-18-toy-shop-half-term-activities
 category: around_town
 date: 2017-10-18 16:38:03
+image: "/assets/images/2017/TOYSHOP_Halloween-poster-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/TOYSHOP_Halloween-poster.jpg" title="Click for a larger image"><img src="/assets/images/2017/TOYSHOP_Halloween-poster-thumb.jpg" width="150" alt="Image - TOYSHOP_Halloween-poster"  class="photo right"/></a>
-
     Autumn is well and truly here and time is flying by.
 
     If you fancy getting stuck into some wonderful activities over the half terms break, then join the team at The Toy Shop for a week of Halloween inspired activities.

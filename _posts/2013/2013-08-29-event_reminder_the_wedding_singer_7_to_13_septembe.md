@@ -5,9 +5,8 @@ permalink: /archives/2013/08/event_reminder_the_wedding_singer_7_to_13_septembe.
 commentfile: 2013-08-29-event_reminder_the_wedding_singer_7_to_13_septembe
 category: around_town
 date: 2013-08-29 21:16:30
+image: "/assets/images/2013/TOpS-Website-main-card_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/TOpS-Website-main-card.jpg" title="See larger version of - poster"><img src="/assets/images/2013/TOpS-Website-main-card_thumb.jpg" width="150" height="106" alt="poster" class="photo right" /></a>
-
     You're invited to join the award winning Twickenham Operatic Society as they take you back to a time when hair was big, greed was good, collars were up, and a wedding singer might just be the coolest guy in the room.
 
 ---

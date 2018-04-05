@@ -5,8 +5,8 @@ permalink: /archives/2009/07/local_kumon_students_receive_awards_for_outstandin.
 commentfile: 2009-07-09-local_kumon_students_receive_awards_for_outstandin
 category: news
 date: 2009-07-09 20:26:51
+image: "/assets/images/2009/kumon-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2009/kumon.jpg"><img src="/assets/images/2009/kumon-thumb.jpg" width="150" height="112" alt="students with their awards" class="photo right" /></a>
     
     
     On 25<sup>th</sup> of June 2009 at the St Margarets Catholic Church local students from the <a href="https://stmargarets.london/directory/school/200709280322">Kumon St Margarets Centre</a> gained recognition for their success and continued development studying on the Kumon maths and/or English programmes.  The committed students were presented with awards at a ceremony to celebrate their achievement of mastering maths and English beyond their current school level.

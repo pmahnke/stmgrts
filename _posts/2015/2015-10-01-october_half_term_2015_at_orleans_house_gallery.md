@@ -5,9 +5,8 @@ permalink: /archives/2015/10/october_half_term_2015_at_orleans_house_gallery.htm
 commentfile: 2015-10-01-october_half_term_2015_at_orleans_house_gallery
 category: around_town
 date: 2015-10-01 21:30:36
+image: "/assets/images/2015/October_2015_Half_Term_Orleans_poster_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/October_2015_Half_Term_Orleans_poster.jpg" title="See larger version of - October 2015 Half Term Orleans poster"><img src="/assets/images/2015/October_2015_Half_Term_Orleans_poster_thumb.jpg" width="150" height="213" alt="October 2015 Half Term Orleans poster" class="photo right" /></a>
-    
     We offer a range of full and half day workshops for ages 0 to 17.
     
     Visit the gallery exhibition and work with professional artists specialising in a range of different techniques from drawing, painting and print-making to sculpture and textiles.

@@ -5,9 +5,8 @@ permalink: /archives/2013/05/event_reminder_nick_and_susie_prater_singing_works_
 commentfile: 2013-05-10-event_reminder_nick_and_susie_prater_singing_works_1
 category: around_town
 date: 2013-05-10 21:41:06
+image: "/assets/images/2013/July_Prater-workshop_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/July_Prater-workshop.jpg" title="See larger version of - July Prater workshop"><img src="/assets/images/2013/July_Prater-workshop_thumb.jpg" width="150" height="192" alt="July Prater workshop" class=" right" /></a>
-    
     Come and sing with us in the beautiful Victorian <a href="https://stmargarets.london/directory/theatre/201109291236">Normansfield Theatre</a> Easy to learn, uplifting, soulful harmonies. Vibrant and nourishing songs of freedom, joy and peace. Gospels and spirituals from around the world. Nick's wonderful compositions and arrangements will make your heart sing. Everything taught by ear. No need to read music. Just for the sheer joy of singing together.
     
 

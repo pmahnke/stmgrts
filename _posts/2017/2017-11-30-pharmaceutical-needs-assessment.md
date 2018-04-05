@@ -5,9 +5,8 @@ permalink: /archives/2017/11/pharmaceutical-needs-assessment.html
 commentfile: 2017-11-30-pharmaceutical-needs-assessment
 category: around_town
 date: 2017-11-30 18:17:52
+image: "/assets/images/2017/PharmaceuticalNeedsAssessment-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/PharmaceuticalNeedsAssessment.jpg" title="Click for a larger image"><img src="/assets/images/2017/PharmaceuticalNeedsAssessment-thumb.jpg" width="150" alt="Image - PharmaceuticalNeedsAssessment"  class="photo right"/></a>
-
     People in Richmond are being asked for their views on the Council's draft assessment of the availability of pharmacies and medication in the borough.
 
     These views will inform the Council's final Pharmaceutical Needs Assessment (PNA). Findings will be used to advise the NHS on what future services need to be provided by NHS pharmacies in Richmond upon Thames.

@@ -5,9 +5,8 @@ permalink: /archives/2011/07/did_shakespeare_come_to_isleworth.html
 commentfile: 2011-07-07-did_shakespeare_come_to_isleworth
 category: around_town
 date: 2011-07-07 11:11:30
+image: "/assets/images/2011/Shakespeare_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/Shakespeare.jpg" title="See larger version of - W. Shakespeare"><img src="/assets/images/2011/Shakespeare_thumb.jpg" width="150" height="180" alt="W. Shakespeare" class="photo right" /></a>
-    
     In his 1948 book, "And So Make A City Here" local historian G.E Bate suggests that our greatest poet and playwright William Shakespeare may have come to Isleworth in 1615, the year before his death, and stayed for a fortnight at the Vicarage, the home of his friend Nicholas Byfield. Like Shakespeare, Nicholas Byfield was born in Stratford on Avon and according to G.E Bate this shared birthplace was enough to make them good friends.
     
     Bate adds that Shakespeare "was no doubt well acquainted with the district" as evidenced in his work - although giving Falstaff the disguise of "The Wise Woman of Brentford"  in the "Merry Wives of Windsor" is no clear indication of familiarity with the locale. Any local knowledge that Shakespeare may have had of the area could have been acquired when riding up the Thames on a barge on his way to perform at Hampton Court for Queen Elizabeth and later King James with the Lord Chamberlain's Players.

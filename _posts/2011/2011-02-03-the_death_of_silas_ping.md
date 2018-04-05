@@ -5,9 +5,8 @@ permalink: /archives/2011/02/the_death_of_silas_ping.html
 commentfile: 2011-02-03-the_death_of_silas_ping
 category: around_town
 date: 2011-02-03 21:06:16
+image: "/assets/images/2011/SILAS_gamekeeper_thumb.png"
 excerpt: |
-    <a href="/assets/images/2011/SILAS_gamekeeper.png" title="See larger version of - Game keeper"><img src="/assets/images/2011/SILAS_gamekeeper_thumb.png" width="150" height="172" alt="Game keeper - courtesy of Life Magazine" class="photo right" /></a>
-    
     
     In the early hours of a moonlit night in late July 1722 a man called Silas Ping was killed on Twickenham Warren. The man accused of his death was William Chunn, the local Warrener responsible for the care of the warren and the rabbits that lived there. He was arrested and taken into custody.
     

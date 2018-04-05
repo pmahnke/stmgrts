@@ -5,9 +5,8 @@ permalink: /archives/2010/08/a_mysterious_presentiment_or_two.html
 commentfile: 2010-08-05-a_mysterious_presentiment_or_two
 category: around_town
 date: 2010-08-05 21:07:31
+image: "/assets/images/2010/mysterious_Ship_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2010/mysterious_Ship.jpg" title="See larger version of - Ship"><img src="/assets/images/2010/mysterious_Ship_thumb.jpg" width="150" height="115" alt="Ship" class="photo right" /></a>
-    
     
     The Royal Naval Female School that came to St. Margarets from Richmond in July 1856 was founded in 1840 by Admiral Sir Thomas Williams to "provide education for the daughters of necessitous officers." His endowment of &pound;1000 (equivalent to &pound;55,000 today) marked the end of a long career serving his country with distinction during the American Revolutionary War, the French Revolutionary War and the Napoleonic War.
     

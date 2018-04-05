@@ -5,9 +5,8 @@ permalink: /archives/2018/02/nominate-your-park-for-trees.html
 commentfile: 2018-02-22-nominate-your-park-for-trees
 category: news
 date: 2018-02-22 19:22:39
+image: "/assets/images/2018/nominate-park-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2018/nominate-park.jpg" title="Click for a larger image"><img src="/assets/images/2018/nominate-park-thumb.jpg" width="150" alt="Image - nominate-park"  class="photo right"/></a>
-
     Residents are being asked to nominate tree locations for planting within the borough's parks and open spaces as part of an initiative to plant more native trees in our green and open spaces.
 
 ---

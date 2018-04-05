@@ -5,9 +5,8 @@ permalink: /archives/2012/03/chiswick_and_latymer_cricket_club.html
 commentfile: 2012-03-16-chiswick_and_latymer_cricket_club
 category: 
 date: 2012-03-16 09:46:50
+image: "/assets/images/2012/WHITTON-COLTS-POSTER_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2012/WHITTON-COLTS-POSTER.jpg" title="See larger version of - WHITTON COLTS POSTER"><img src="/assets/images/2012/WHITTON-COLTS-POSTER_thumb.jpg" width="150" height="215" alt="WHITTON COLTS POSTER" class="photo right" /></a>
-    
     _New Colts Section_
     
     Despite our name our headquarters are in Wills Crescent on the Whitton and Hounslow border from where we run 4 adult teams on Saturdays and a further 2 teams on Sundays. We are now starting a colts section for ages 7 upwards that will be supervised by ECB qualified coaches who have all been CRB checked.

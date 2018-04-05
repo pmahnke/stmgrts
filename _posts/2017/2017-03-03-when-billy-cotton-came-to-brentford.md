@@ -6,9 +6,8 @@ commentfile: 2017-03-03-when-billy-cotton-came-to-brentford
 category: around_town
 date: 2017-03-03 12:17:24
 author: Martyn Day
+image: "/assets/images/2017/BILLYCOTTON_Band-Show-thumb.png"
 excerpt: |
-    <a href="/assets/images/2017/BILLYCOTTON_Band-Show.png" title="Click for a larger image"><img src="/assets/images/2017/BILLYCOTTON_Band-Show-thumb.png" width="150" alt="Image - BILLYCOTTON_Band-Show"  class="photo right"/></a>
-
     Whether or not you know who Billy Cotton is will depend upon when and where you were born and what your outlook on life was. To those who do know between the 1920's and the late 1960's Billy Cotton was one of the most popular bandleaders in Britain despite the fact he couldn't read a note of music and his only instrumental talent was playing drums. In between setting up his own group, the London Savannah Band in 1924 and being voted Showbusiness Personality of the Year in 1962 William Edward Cotton lived what one obituarist described as a  <em>"Life Less Ordinary"</em>.
 
 ---

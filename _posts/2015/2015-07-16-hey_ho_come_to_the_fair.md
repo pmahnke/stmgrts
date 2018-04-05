@@ -5,9 +5,8 @@ permalink: /archives/2015/07/hey_ho_come_to_the_fair.html
 commentfile: 2015-07-16-hey_ho_come_to_the_fair
 category: around_town
 date: 2015-07-16 20:00:09
+image: "/assets/images/2015/FAIR_St_Mags_Fair_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2015/FAIR_St_Mags_Fair.jpg" title="See larger version of - St Mags Fair"><img src="/assets/images/2015/FAIR_St_Mags_Fair_thumb.jpg" width="150" height="128" alt="St Mags Fair" class="photo right" /></a>
-    
     bq. "This is the time of the year when St Margarets empties out and turns into a ghost town..."
     
     <cite>Overheard at the St Margarets Fair - Saturday 11<sup>th</sup> July 2015</cite>

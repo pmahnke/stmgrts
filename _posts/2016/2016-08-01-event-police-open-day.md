@@ -5,9 +5,8 @@ permalink: /archives/2016/08/event-police-open-day.html
 commentfile: 2016-08-01-event-police-open-day
 category: around_town
 date: 2016-08-01 09:31:49
+image: "/assets/images/2016/Vintage_Police_Car_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2016/Vintage_Police_Car.jpg" title="See larger version of - Vintage Police Car"><img src="/assets/images/2016/Vintage_Police_Car_thumb.jpg" width="150" height="99" alt="Vintage Police Car" class="photo right" /></a>
-
     Two weeks into the school holiday and the kids are already driving you mad? Want to take them somewhere which doesn't cost a bean where they're bound to have fun and behave themselves?
 ---
 

@@ -5,9 +5,8 @@ permalink: /archives/2017/03/toy-shop-easter-fun.html
 commentfile: 2017-03-17-toy-shop-easter-fun
 category: around_town
 date: 2017-03-17 21:27:40
+image: "/assets/images/2017/Easter2017-at-the-Toy-Shop-thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2017/Easter2017-at-the-Toy-Shop.jpg" title="Click for a larger image"><img src="/assets/images/2017/Easter2017-at-the-Toy-Shop-thumb.jpg" width="150" alt="Image - Easter2017-at-the-Toy-Shop"  class="photo right"/></a>
-
     Come and join in the Easter Fun - we have a whole timetable of activities lined up for the Easter Holidays working with qualified teachers, a professional cake maker and local artist and art teacher... book your child's place now.
 ---
 

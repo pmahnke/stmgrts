@@ -5,9 +5,8 @@ permalink: /archives/2014/03/bloody_belgians_in_st_margarets_in_the_first_world.
 commentfile: 2014-03-21-bloody_belgians_in_st_margarets_in_the_first_world
 category: around_town
 date: 2014-03-21 23:16:37
+image: "/assets/images/2014/BELGIAN_Pelabon-Works_thumb.png"
 excerpt: |
-    <a href="/assets/images/2014/BELGIAN_Pelabon-Works.png" title="See larger version of - &copy;  Postcards Then and Now"><img src="/assets/images/2014/BELGIAN_Pelabon-Works_thumb.png" width="150" height="94" alt="&copy;  Postcards Then and Now" class="photo right" /></a>
-
 
     News about the First World War Belgian refugees across the border in East Twickenham has now hit the headlines, but the story of the refugees in St Margarets is still to be told. If East Twickenham was the hub of the Belgian community, then St Margarets and adjacent parts of Central Twickenham were its perimeter.
 

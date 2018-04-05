@@ -5,9 +5,8 @@ permalink: /archives/2011/04/local_deal_st_georges_day_game.html
 commentfile: 2011-04-11-local_deal_st_georges_day_game
 category: around_town
 date: 2011-04-11 09:26:32
+image: "/assets/images/2011/RFU_st-george_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2011/RFU_st-george.jpg" title="See larger version of - RFU Poster"><img src="/assets/images/2011/RFU_st-george_thumb.jpg" width="150" height="211" alt="RFU Poster" class="photo right" /></a>
-    
     p=. Saturday 23 April - Twickenham Stadium
     
     p=. LONDON WASPS V BATH RUGBY

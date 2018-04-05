@@ -5,9 +5,8 @@ permalink: /archives/2013/02/tempo_tots_halfterm_february_2013.html
 commentfile: 2013-02-13-tempo_tots_halfterm_february_2013
 category: around_town
 date: 2013-02-13 22:09:04
+image: "/assets/images/2013/TempoTotsEmailLogo_thumb.jpg"
 excerpt: |
-    <a href="/assets/images/2013/TempoTotsEmailLogo.jpg" title="See larger version of - TempoTots lLogo"><img src="/assets/images/2013/TempoTotsEmailLogo_thumb.jpg" width="150" height="150" alt="TempoTots lLogo" class=" right" /></a>
-    
     _Looking for something to do in half term?  Why not pop along to the fab TEMPO TOTS!!!_
     
     Tempo Tots offers live music making as a developmental tool for little ones aged between 3 months - 4 years in RICHMOND, TWICKENHAM, SHEEN, HAMPTON WICK and TEDDINGTON. The classes aim to facilitate and enhance communication,  physical development and bonding between parents and their babies.

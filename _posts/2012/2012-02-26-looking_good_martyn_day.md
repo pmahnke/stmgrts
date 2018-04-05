@@ -5,12 +5,8 @@ permalink: /archives/2012/02/looking_good_martyn_day.html
 commentfile: 2012-02-26-looking_good_martyn_day
 category: editorial
 date: 2012-02-26 14:39:58
+image: "/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg"
 excerpt: |
-    <div markdown="1" class="img_caption right">
-    	<a href="/assets/images/2012/Weekender-Martyn-Day-001.jpg" title="See larger version of - Weekender: Martyn Day"><img src="/assets/images/2012/Weekender-Martyn-Day-001_thumb.jpg" width="150" height="210" alt="Weekender: Martyn Day" class="photo" /></a>
-    	<span>Photograph: Emily Stein for the Guardian</span>
-    </div>
-
 
     When we opened this Saturday's Guardian, the last thing we thought we would see staring back at us was our own <a href="http://www.google.com/cse?cx=011552492105320257021%3Aaklyesuuk5c&q=Martyn+Day&sa=Search&cof=FORID%3A0#gsc.tab=0&gsc.q=Martyn%20Day&gsc.page=1">Martyn Day</a>  But there he was in his Nark Drool _Crepe and Drape_!
 
