@@ -26,13 +26,13 @@ We know when Billy Shears first appeared on the scene. It was the 1<sup>st</sup>
 >  So let me introduce to you 
 >  The one and only Billy Shears 
 >  And Sgt. Pepper's Lonely Hearts Club Band."
-> 
-> 
+>
+>
  <em>And then Ringo Starr starts to sing...</em>
 
 <a href="/assets/images/2017/BILLYSHEARS_Billy_shears.jpg" title="Click for a larger image"><img src="/assets/images/2017/BILLYSHEARS_Billy_shears-thumb.jpg" width="250" alt="Image - BILLYSHEARS_Billy_shears"  class="photo right"/></a>
 
-Although the album was based around an adopted identity ~~the Beatles performing as <em>"Sgt Pepper's Lonely Hearts Club Band"</em>~~ the idea that Ringo Starr might masquerading as Billy Shears was too much for some fans, particularly those living in America, the home of the conspiracy theory. They saw the <em>'Sgt Pepper'</em> album as yet more proof of the on-going speculation that Paul McCartney had been killed in a car crash on Wednesday, November 9<sup>th</sup> 1966 and replaced with a look-a-like, sound-a-like called William Campbell Shears a.k.a Billy Shears born in Shreveport, Louisiana on September 16<sup>th</sup>, 1940.
+Although the album was based around an adopted identity the Beatles performing as <em>"Sgt Pepper's Lonely Hearts Club Band"</em> the idea that Ringo Starr might masquerading as Billy Shears was too much for some fans, particularly those living in America, the home of the conspiracy theory. They saw the <em>'Sgt Pepper'</em> album as yet more proof of the on-going speculation that Paul McCartney had been killed in a car crash on Wednesday, November 9<sup>th</sup> 1966 and replaced with a look-a-like, sound-a-like called William Campbell Shears a.k.a Billy Shears born in Shreveport, Louisiana on September 16<sup>th</sup>, 1940.
 
 <div markdown="1" class="box">
 <a href="/assets/images/2017/BILLYSHEARS_Injured-Paul.jpg" title="Click for a larger image"><img src="/assets/images/2017/BILLYSHEARS_Injured-Paul-thumb.jpg" width="150" alt="Image - BILLYSHEARS_Injured-Paul"  class="photo left"/></a>
