@@ -20,7 +20,7 @@ The poet James Thomson wrote of this beautiful landscape:
 > Here let us trace the matchless vale of the Thames,
 >  Far winding up to where the muses haunt,
 >  To Twitnam's bowers.
-> 
+>
  ...and it doesn't get much more syrupy than that.
 
 The land upon which St Margarets now stands was particularly fertile. J. Middleton's "Survey of Middlesex" in 1807 stated that some of the most productive market gardens in the area were situated on drained marsh lands by the river side, which, while "being richly impregnated by water from the river", were protected from flooding by raised banks of earth known locally as 'sea walls'.
@@ -29,7 +29,7 @@ The land upon which St Margarets now stands was particularly fertile. J. Middlet
 
 Over the last two hundred years the course of the river has been modified. Embankments were built and the tidal flow controlled by lock gates up stream and from 1894 the Richmond Half Tide lock. As more and more houses were built in the area the land upon which they stood was raised and drained to avoid flooding. In the course of all this work the old sea walls disappeared.
 
-<a href="/assets/images/2010/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="/assets/images/2010/sea_wall_1_thumb.png" width="150" height="99" alt="DUCKS WALK" class="photo right" /></a>
+<a href="/assets/images/2010/sea_wall_1.png" title="See larger version of - DUCKS WALK"><img src="/assets/images/2010/sea_wall_1-thumb.png" width="250" height="99" alt="DUCKS WALK" class="photo right" /></a>
 
 The last remaining sea wall in the area ran alongside 'Ducks Walk' following the course of the river from Twickenham Bridge to East Twickenham. It finally disappeared when the path was widened and the land raised to allow houses to be built. 'Ducks Walk' was well named. Prior to the builders arriving 'Ducks Walk' was much lower than it is now and often flooded at high tide. It is hard to imagine that where the houses now stand was once marshland.
 
