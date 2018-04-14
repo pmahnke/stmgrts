@@ -2,9 +2,9 @@
 layout: post
 title: "Local council elections - 2018"
 permalink: /archives/2018/04/local-council-elections.html
-commentfile: 2018-04-13-local-council-elections
+commentfile: 2018-04-14-local-council-elections
 category: news
-date: 2018-04-13 09:01:33
+date: 2018-04-14 11:01:33
 image: "/assets/images/2018/2018-elections-libdems-all-thumb.jpg"
 excerpt: |
     With the local council elections around the corner on the 3<sup>rd</sup> May 2018, we have started to pull together some information on the party manifestos and candidates.
