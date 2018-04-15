@@ -57,7 +57,7 @@ In later years the Beatles suggested that the rumours about the Maharishi were p
 
 #### A link to John Lennon's demo of  <em>'Sexy Sadie'</em>
 
-<iframe width="600" height="450" src="https://www.youtube-nocookie.com/embed/[youtu.be/hDqgOoX8Ii4](https://youtu.be/hDqgOoX8Ii4)?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDqgOoX8Ii4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
 
