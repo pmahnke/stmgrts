@@ -28,7 +28,7 @@ Hopefully we will post some more information on the candidates soon.
     <h3>Gordon Alexander</h3>
 
     <ul class="p-media-object__meta-list">
-      <li class="p-media-object__meta-list-item">
+      <li class="p-media-object__meta-list-item--twitter">
         <a href="https://twitter.com/GordonBute"><i class="p-icon--twitter">twitter</i></a>
       </li>
      </ul>
@@ -109,7 +109,7 @@ Hopefully we will post some more information on the candidates soon.
 
     <ul class="p-media-object__meta-list">
         <li class="p-media-object__meta-list-item--twitter">
-          <a href="https://twitter.com/philjvtaylor"><i class="p-icon--twitter">twitter</i></a>
+          <a href="https://twitter.com/PhillipTaylor"><i class="p-icon--twitter">twitter</i></a>
         </li>
        </ul>
 </div>
