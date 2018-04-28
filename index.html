@@ -35,40 +35,23 @@ layout: default-empty
 
     <div id="middle" class="col-3">
 
-<!-- start div weather -->
-{% include homepage_weather.html %}
-<!-- end div weather -->
+      {% include homepage_weather.html %}
 
-<!-- start div upcoming events -->
-{% include homepage_events.html %}
-<!-- end div upcoming events -->
+      {% include homepage_events.html %}
 
-<!-- start div upcoming plays -->
-{% include homepage_event_play.html %}
-<!-- end div upcoming plays -->
+      {% include homepage_event_play.html %}
 
-<!-- start div forum -->
-{% include homepage_forum.html %}
-<!-- end div forum -->
+      {% include homepage_forum.html %}
 
     </div><!-- end div middle -->
 
     <div id="right" class="sidebar col-3">
 
       <div id="twitter" class="infobox">
-{% include homepage_twitter.html %}
-      </div><!-- /end div twitter -->
+        {% include homepage_twitter.html %}
+      </div>
 
-      <div id="newsletter" class="infobox">
-        <h3>Newsletter Sign-Up</h3>
-        <p>Please sign-up for our weekly Newsletter to let you know all the current news and upcoming events in the St Margarets area.</p>
-        <form method="post" action="/cgi-bin/newsletter.cgi">
-          <label for="newsletteremailinline">Your Email Address:</label>
-          <input type="text" id="newsletteremailinline" name="email" value="" size="25" required="" />
-          <button type="submit" name="topage" value="register">register</button>
-          <p class="p-form-help-text"><small>We will never sell, or let third parties use your email address.  Your privacy is important to us.</small></p>
-        </form>
-      </div><!-- /end div newsletter -->
+      {% include homepage_newsletter_signup.html %}
 
       <div id="traininfo" class="infobox">
 
@@ -82,7 +65,7 @@ layout: default-empty
 
       </div><!-- /end div traininfo -->
 
-{% include local_sites.html %}
+      {% include local_sites.html %}
 
       <div id="archives"  class="infobox">
 
