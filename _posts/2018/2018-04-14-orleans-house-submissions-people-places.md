@@ -30,4 +30,4 @@ David Allister, Head of Culture said:
 > "This exhibition celebrates the wonderful diversity of the borough's environment and the history of its people. It will complement new display in the Study Gallery at Orleans House which explores the people and places of Richmond."
 
 
-To obtain a copy of the submission form outlining how to apply, email: [Roseanna.davey@richmondandwandsworth.gov.uk](:mailto:Roseanna.davey@richmondandwandsworth.gov.uk)
+To obtain a copy of the submission form outlining how to apply, email: [Roseanna.davey@richmondandwandsworth.gov.uk](mailto:Roseanna.davey@richmondandwandsworth.gov.uk)
