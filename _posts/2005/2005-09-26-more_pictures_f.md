@@ -10,6 +10,6 @@ date: 2005-09-26 11:35:15
 
 <img alt="dogshow" src="/assets/images/2005/dogshow-thumb.jpg" width="150" height="113" class="right photo ignore"/>
 
-Stevan Bennett has given us [five more photos](/static/fair/aut_05_2.html) of the *St Margarets Autumn Event* to share. Most are from the dog show.
+Stevan Bennett has given us five more photos (photos removed) of the *St Margarets Autumn Event* to share. Most are from the dog show.
 
 Thank you Stevan.

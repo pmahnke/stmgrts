@@ -24,7 +24,7 @@ A big thank you to all those who helped put on the day's event. Some major thank
 
 .. and Ann Murray, Clair Wood and whole FOOI team, Sherralyn Rainey, Claire Wilson, Stephanie Grefsheim, Matt Grefsheim (aka Judge B. Arking), Karen Ranger (aka Judge Miss G. Ruff), Margaret Fenn-Nielson and Adrian Neale.
 
-We have posted a [few photos from the event](/static/fair/aut_05.html). If you have any more, please email them to us at <content@stmargarets.london](mailto:a href="/assets/images/2005/autfair05_street.jpg"><img src="/assets/images/2005/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
+We have posted a few photos from the event. If you have any more, please email them to us at <content@stmargarets.london](mailto:a href="/assets/images/2005/autfair05_street.jpg"><img src="/assets/images/2005/autfair05_street-thumb.jpg" width="150" height="112" alt="Fair from St Margarets Road" class="photo right"/></a>
 
 The *St Margarets Autumn Fair*, held in Crown Road on Saturday, 17<sup>th</sup> September, was a big success. Hundreds, perhaps a thousand, people came out to enjoy a day of live music, food, drink, clowns, art, a fun fair and more.
 
@@ -40,7 +40,7 @@ A big thank you to all those who helped put on the day's event. Some major thank
 
 .. and Ann Murray, Clair Wood and whole FOOI team, Sherralyn Rainey, Claire Wilson, Stephanie Grefsheim, Matt Grefsheim (aka Judge B. Arking), Karen Ranger (aka Judge Miss G. Ruff), Margaret Fenn-Nielson and Adrian Neale.
 
-We have posted a [few photos from the event](/static/fair/aut_05.html). If you have any more, please email them to us at <content@stmargarets.london), or drop them by [Cutters](/cgi-bin/directory.cgi?key=200506090425&action=getlisting).
+We have posted a few photos from the event. If you have any more, please email them to us at <content@stmargarets.london), or drop them by [Cutters](/cgi-bin/directory.cgi?key=200506090425&action=getlisting).
 
 > "What a fabulous afternoon of music, food and stalls. These community events add so much to the local area and thanks are due to everyone involved. But for me the highlight was the dog show - I do hope that bubble-catching Sadie won the prize for Cleverest Dog! I am now looking forward to the December Event for lights, music and Christmas Shopping."
 

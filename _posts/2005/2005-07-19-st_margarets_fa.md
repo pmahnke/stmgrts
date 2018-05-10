@@ -17,5 +17,3 @@ Here is a list of our carefully compiled anecdotal evidence:
 -   The BBQ, where I worked for 3 hours, was selling over 200 burgers an hour and had to run out and buy more food by 4pm.
 -   Soft drinks started the day with 10% more than last years amount, but had to be replenished three times with throughout the day.
 -   The Pimms Stall sold out completely by 4:30pm of all the Pimms they planned plus all the available stock from the big Tesco in Twickenham and Odd Bins as well... this means *222 litres of Pimms*!
-
-We have also put up some pictures from the fair of the [football](/static/fair/smf_05_football.html), [bands](/static/fair/smf_05_bands.html) and some [general](/static/fair/smf_05_around.html) ones and opened up a [forum](/cgi-bin/yabb/YaBB.pl?board=fair) for people to up comments, suggestion and reviews.
