@@ -5,6 +5,7 @@ permalink: /archives/2018/03/orleans-primary-school-governor-vacancies.html
 commentfile: 2018-03-11-orleans-primary-school-governor-vacancies
 category: around_town
 date: 2018-01-23 17:07:46
+image: "/assets/images/directory/200506280125_Orleans_Primary_School.png"
 excerpt: |
     Orleans Primary School has vacancies for three Governors. Governors are vital to the running of the school and it is exciting being involved in new developments and helping the school improve and meet its targets.
 ---
