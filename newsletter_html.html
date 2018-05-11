@@ -9,7 +9,7 @@ sitemap: false
     <h3><a href="{{ post.url | prepend: site.url }}?utm_source=newsletter&utm_medium=email&utm_campaign=traffic%2Bfrom%20newsletter">{{ post.title }}</a></h3>
 
     {% if post.image %}
-    <img src="{{ post.image }}" width="150" align="right" style="border: 1px solid #ccc; padding: 1px;" alt="" />
+    <p><img src="{{ post.image }}" width="150" align="right" style="border: 1px solid #ccc; padding: 1px;" alt="" /></p>
     {% endif %}
 
     {{ post.excerpt | markdownify }}

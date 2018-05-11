@@ -10,7 +10,7 @@ layout: default-empty
 {% for post in site.posts limit: 10%}
         <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         {% if post.image %}
-        <img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" />
+        <p><img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" /></p>
         {% endif %}
         {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
         <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
