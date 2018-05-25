@@ -7,7 +7,7 @@ excerpt: |
 ---
 _May 2018_
 
-St Margarets Community Website collects personal information from you in two ways; via an opt-in newsletter and for a login for the forum.
+St Margarets Community Website collects personal information from you in three ways; via an opt-in newsletter, through comments, and for a login for the forum.
 
 At the St Margarets Community Website, we consider your privacy to be extremely important. These are the fundamental principles that we follow in relation to your personal information:
 
@@ -25,13 +25,13 @@ Our nominated representative for all data privacy matters is Mr Peter Mahnke, Ed
 
 ### Information we collect from you
 
-*Information you give us.* This is information about you that you give us by filling in forms on a the St Margarets Community Website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site or receive a newsletter. It may includes the following: display name for the forum and email address.
+*Information you give us.* This is information about you that you give us by filling in forms on a the St Margarets Community Website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site or receive a newsletter. It may includes the following: display name for the forum and comments and email address.
 
 *Information about your visit.* This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
 
 ### How information is collected from you
 
-When you register to use the forum, we may ask for personal information such as a displayname, email address and a password.
+When you register to use the forum or make a comment on a post, we ask for personal information such as a displayname/name, email address and, for the forum, a password.  The email is never displayed, only use to confirm a real person has signed up.  The displayname/name can be any text (i.e. not your real name).
 
 #### Non-personally identifying information
 
@@ -119,9 +119,7 @@ If we are under a duty to disclose or share your personal data in order to compl
 
 ### Where we transfer and store your information
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### Changes to our privacy policy
 
@@ -133,7 +131,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 ## Your right to complain
 
-If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [www.ico.org/concerns](http://www.ico.org/concerns )or write to them at:
+If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [www.ico.org/concerns](http://www.ico.org/concerns) or write to them at:
 
 Information Commissioner's Office<br />
 Wycliffe House<br />
