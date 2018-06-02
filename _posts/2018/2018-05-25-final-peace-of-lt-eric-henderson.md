@@ -37,6 +37,6 @@ With the 100<sup>th</sup> anniversary of the Armistice and the end of the 1<sup>
 
 > Look up and swear by the green of the spring that you'll never forget.
 
-??SIEGFRIED SASSOON??
+<cite>SIEGFRIED SASSOON</cite>
 
 <cite>-- from Martyn Day</cite>
