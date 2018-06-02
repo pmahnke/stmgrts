@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matisse Inspirations workshops - 2 Nov to 14 Dec 2017"
-permalink: /archives/2017/10/<name>.html
+permalink: /archives/2017/10/event-matisse-inspiration-workshops.html
 commentfile: 2017-10-18-event-matisse-inspiration-workshops
 category: around_town
 date: 2017-10-18 16:03:53
