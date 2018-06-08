@@ -16,7 +16,7 @@ excerpt: |
 
 <a href="/assets/images/2018/INSTRUMENTALS_shadows-recording-apache.jpg" title="Click for a larger image"><img src="/assets/images/2018/INSTRUMENTALS_shadows-recording-apache-thumb.jpg" width="250" alt="Image - INSTRUMENTALS_shadows-recording-apache"  class="photo right"/></a>
 
-em>Unite you guitar strummers of the world! You have nothing to lose but your plectrums!</em>
+<em>Unite you guitar strummers of the world! You have nothing to lose but your plectrums!</em>
 
 There is a timeline in the evolution of British pop music, determined by the instruments and equipment available. Back in the early 1950's when Skiffle was the latest craze the music was driven by acoustic guitars (and often cheap and nasty ones too) accompanied by home-made instruments like wash boards, rhythm poles (bottle tops nailed onto broom handles) and tea chest basses. There were no amplifiers or P.A systems in those days. To be heard you just strummed and sang louder.
 
