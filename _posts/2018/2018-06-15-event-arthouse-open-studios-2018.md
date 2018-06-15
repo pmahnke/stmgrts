@@ -4,7 +4,7 @@ title: "Art House Open Studios 2018"
 permalink: /archives/2018/06/event-arthouse-open-studios-2018.html
 commentfile: 2018-06-15-event-arthouse-open-studios-2018
 category: around_town
-images: "/assets/images/2018/ARTHOUSE_2018-flyer-thumb.jpg"
+image: "/assets/images/2018/ARTHOUSE_2018-flyer-thumb.jpg"
 date: 2018-06-15 12:06:19
 excerpt: |
     Art House Open Studios is Richmond Upon Thames' annual art extravaganza, celebrating the vast wealth of creative talent that exists within the borough.
