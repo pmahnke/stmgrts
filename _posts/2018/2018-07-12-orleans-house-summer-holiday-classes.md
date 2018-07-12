@@ -112,9 +112,7 @@ Achieve your Discover Arts Award certificate by investigating the art around you
 
 A family afternoon of art, crafts and fun across the gallery!
 
-####
-
-More Information
+#### More Information
 
 * Sunday 19 August
 * 12.30-4pm
