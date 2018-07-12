@@ -11,7 +11,7 @@ excerpt: |
 
 ---
 
-<a href="/assets/images/2018/ORLEANS_Summer-2018.jpg" title="Click for a larger image"><img src="" width="250" alt="Image - ORLEANS_Summer-2018"  class="photo right"/></a>
+<a href="/assets/images/2018/ORLEANS_Summer-2018.jpg" title="Click for a larger image"><img src="/assets/images/2018/ORLEANS_Summer-2018-thumb.jpg" width="250" alt="Image - ORLEANS_Summer-2018"  class="photo right"/></a>
 
 Join us over the summer holidays for creative workshops inspired by the beauty and nature of our gallery grounds! We will learn, explore and create while playing with a variety of techniques, including 3D construction, printing and textiles.
 
