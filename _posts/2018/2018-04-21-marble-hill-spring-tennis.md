@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marble Hill Spring 2018 Tennis Programme"
-permalink: /archives/2018/04/-marble-hill-spring-tennis.html
+permalink: /archives/2018/04/marble-hill-spring-tennis.html
 commentfile: 2018-04-21-marble-hill-spring-tennis
 category: around_town
 date: 2018-04-21 08:07:34

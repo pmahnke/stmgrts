@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Play Club - Walkie Talkies"
+title: "New Play Club - Walkie Talkies - CLOSED"
 permalink: /archives/2015/12/new_play_club_walkie_talkies.html
 commentfile: 2015-12-03-new_play_club_walkie_talkies
 category: around_town
@@ -24,8 +24,4 @@ Both Mums themselves - Jodie and Margaret have worked with young children for ma
 
 #### More Information
 
--   9.30 - 11.30 on Wednesdays
--   St Stephen's Crossway, TW1 2P
--   Contact
-    -   Margaret McCondach (BMUS, PGCE, MA) 07960 499494
-    -   Jodie Sitner (AISTD, MBBO) 07914 796651
+-   NOW CLOSED
