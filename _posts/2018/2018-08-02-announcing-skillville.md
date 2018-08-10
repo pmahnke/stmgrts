@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skillville: a community learning website"
-permalink: /archives/2018/08/<name>.html
+permalink: /archives/2018/08/announcing-skillville.html
 commentfile: 2018-08-02-announcing-skillville
 category: around_town
 image: "/assets/images/2018/skillville-thumb.jpg"
