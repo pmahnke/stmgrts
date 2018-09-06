@@ -7,7 +7,7 @@ category: around_town
 image: "/assets/images/2018/turner-house-thumb.jpg"
 date: 2018-09-06 18:55:22
 excerpt: |
-    Turner's House in Twickenham is opening its doors for the first time in this year's [Open House London](https://openhouselondon.org.uk/) on both 22<sup>nd</sup>-23<sup>rd</sup> September. It will be free to visit from 10am-1pm but places are limited as the house is small, so booking is essential.
+    Turner's House in Twickenham is opening its doors for the first time in this year's Open House London on both 22<sup>nd</sup>-23<sup>rd</sup> September. It will be free to visit from 10am-1pm but places are limited as the house is small, so booking is essential.
 ---
 
 <a href="/assets/images/2018/turner-house.jpg" title="Click for a larger image"><img src="/assets/images/2018/turner-house-thumb.jpg" width="250" alt="Image - turner-house"  class="photo right"/></a>
