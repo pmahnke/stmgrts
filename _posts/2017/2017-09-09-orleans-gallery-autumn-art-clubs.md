@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orleans House Gallery Autumn Term Art Clubs"
+title: "Orleans House Gallery Autumn 2017 Art Clubs"
 permalink: /archives/2017/09/orleans-gallery-autumn-art-clubs.html
 commentfile: 2017-09-09-orleans-gallery-autumn-art-clubs
 category: around_town
