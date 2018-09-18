@@ -27,4 +27,4 @@ I am writing to invite you to a drop in consultation session in the Violet Needh
 
 Please do let us know if you are unable to attend on the 18<sup>th</sup> September and would prefer an alternative date, as I'd be very happy to arrange an alternative time to explain our plans with you.
 
-* [rachel.tranter@rambertschool.org](:mailto:rachel.tranter@rambertschool.org)
+* [rachel.tranter@rambertschool.org.uk](:mailto:rachel.tranter@rambertschool.org.uk)
