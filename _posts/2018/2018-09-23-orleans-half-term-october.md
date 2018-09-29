@@ -24,3 +24,5 @@ Or join us for a half day workshop with Nature Play! to explore mark making with
 | 23 October | People in 2D!      | 10am-3pm  | 6-10 years | &pound;32 |
 | 24 October | People in 3D!      | 10am-3pm  | 6-10 years | &pound;32 |
 | 25 October | People in Mystery! | 10am-3pm  | 6-10 years | &pound;32 |
+
+* [Book online](https://www.orleanshousegallery.org/learning/children-families/children/)
