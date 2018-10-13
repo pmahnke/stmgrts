@@ -7,7 +7,7 @@ layout: default-empty
       <div id="homepage" class="content">
 
 <!-- eight main stories -->
-{% for post in site.posts limit: 15%}
+{% for post in site.posts limit: 9 %}
         <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         {% if post.image %}
         <p><img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" /></p>
@@ -24,7 +24,7 @@ layout: default-empty
           <h2>Recent Entries</h2>
 
           <ul id="entry_list" class="p-list">
-{% for post in site.posts limit: 10 offset: 15 %}
+{% for post in site.posts limit: 10 offset: 9 %}
             <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
           </ul>
