@@ -41,7 +41,7 @@ The Original Dixieland Jazz Band tour of Britain ended in July 1920 with the ban
 
 #### The Original Dixieland Jazz Band 1917 recording of  <em>"Hold That Tiger"</em>
 
-<iframe width="600" height="450" src="https://www.youtube-nocookie.com/embed/89fZGnAdago?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube-nocookie.com/embed/9PCse3O47nc?rel=0" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
