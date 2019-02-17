@@ -7,10 +7,10 @@ category: around_town
 date: 2011-05-24 09:53:40
 image: "/assets/images/2011/bobdylan_nashvilleskyline-thumb.jpg"
 excerpt: |
-    
-    
+
+
     In the summer of 1969 I told Bob Dylan he was dead. He hadn't heard the news at the time but he didn't appear to be too bothered. Perhaps, like the rest of us who had made it through the Sixties, Bob had become inured to rock deaths - including his own. Since Buddy Holly, Ritchie Valens and the Big Bopper had died in that plane crash in February 1959 a whole gang of rockers had joined the great tour bus in the sky - Eddie Cochran, Otis Redding, the Bar-Kays, Brian Jones, Johnny Kidd, Sam Cooke, Bobby Fuller, Johnny Burnette, Joe Meek, Frankie Lymon and countless others. There was one major difference however. They really were dead and Bob Dylan wasn't but it didn't matter. The story going round in the summer of '69 said he was and the rumour carried just enough fact to make it seem plausible.
-    
+
 
 ---
 
@@ -31,7 +31,7 @@ Everybody knew that in 1967 Bob had survived a motorbike accident. By the summer
 >  But then there are those who emulate
 >  At times, to expand further the light
 >  Of an original glow.
-> 
+>
  What did the Man in Black mean by ..."then there are those who emulate... the light of an original glow"? Was he in on the Dylan deception? Did he know that the real Bob had already shuffled off to Buffalo?
 
 Naturally my first question on hearing the story that afternoon in 1969 was, "Who carried out this celebrity assassination and substitution and why?" The answer was immediate. Ah ha! Only the same team that brought you the Roswell aliens cover-up, the Kennedy single gunman myth, the Bay of Pigs fiasco and the Castro exploding cigar stunt. The C.I.A!..... and they had a motive. They hated Bob Dylan because he was subversive, un-American and stirring up the nation's youth to question long held precepts like the righteousness of war and the unfailing wisdom of their elders and betters. Bob was corrupting young minds they thought, and he had to go...so they disguised it as a motorcycle accident.
@@ -46,7 +46,6 @@ Klaus told me later that George and his wife Patti Boyd were staying with Bob Dy
 
 Happy Birthday, Bob. May you stay forever young.
 
-<object width="480" height="390">
-<param name="movie" value="http://www.youtube-nocookie.com/v/9sldgunY3Fw?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/9sldgunY3Fw?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="600" height="450" src="https://www.youtube-nocookie.com/embed/9sldgunY3Fw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <cite>-- from Martyn Day</cite>
