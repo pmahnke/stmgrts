@@ -13,6 +13,7 @@
     display: inline-block;
     height: 2.5rem;
     width: 2.5rem;
+    overflow: hidden;
 
     &:hover {
       @include vf-icon-email(rgba(220,48,35, .999999));
