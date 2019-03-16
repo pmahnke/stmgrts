@@ -5,7 +5,7 @@ permalink: /archives/2019/03/lbrut_20mph-approved.html
 commentfile: 2019-03-15-lbrut_20mph-approved
 category: news
 date: 2019-03-15 06:29:24
-image: <img src="/assets/images/2017/20-mph-sign-thumb.jpg"
+image: "/assets/images/2017/20-mph-sign-thumb.jpg"
 excerpt: |
     Richmond upon Thames is soon to become the latest 20mph borough after Cabinet approved amended proposals last night. The amended proposals on a 20mph limit were published earlier this year following a 12-week consultation held in 2018.
 
