@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Council's Community conversations - 30 April 2019"
-permalink: /archives/2019/04/event-lbrut-community-conversations.html
+permalink: /
 commentfile: 2019-04-14-event-lbrut-community-conversations
 category: around_town
 image: "/assets/images/2019/lbrut-community-conversations-april-2019-thumb.jpg"
