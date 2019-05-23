@@ -24,6 +24,4 @@ This year we are shining a light on our Street Champions: incredible street chil
 
 So come along for a cup of coffee, a slice of cake and and be part of the Street Champions' day!
 
-#### More Information
-
-* https://www.streetinvest.org/events/street-champion-coffee-mornings
+- [More Information](https://www.streetinvest.org/events/street-champion-coffee-mornings)
