@@ -22,4 +22,4 @@ Cllr John Coombs, Richmond Council's lead member for culture said:
 
 > "Our libraries' Overdrive service is an easy way to get access to thousands of e-books to read on the go. As part of Cityread 2019 you have the opportunity to try out this free, on-demand service and see if it is something you'd like to continue using long-term."
 
-[Download the Libby app from the app store onto your Android or iOS device](https://me)et.libbyapp.com/).
+[Download the Libby app from the app store onto your Android or iOS device](https://meet.libbyapp.com/).

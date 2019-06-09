@@ -34,7 +34,7 @@ Professor Colin Mellors, Chair of the Commission, said:
 
 > "Residents will then have a further chance to have their say after we publish our draft recommendations in October."
 
-Local people have until 5 August 2019 to submit their views in this consultation. Further information on the review and interactive maps of the existing wards can be found at [consultation.lgbce.org.uk](https://consultation.lgbce.org.uk) and [www.lgbce.org.uk](https://www.lgbce.org.uk)).
+Local people have until 5 August 2019 to submit their views in this consultation. Further information on the review and interactive maps of the existing wards can be found at [consultation.lgbce.org.uk](https://consultation.lgbce.org.uk) and [www.lgbce.org.uk](https://www.lgbce.org.uk).
 
 
 <cite>-- from a Richmond Council press release - 4 June 2019</cite>
