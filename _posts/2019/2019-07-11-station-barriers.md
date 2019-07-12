@@ -10,14 +10,14 @@ image: "/assets/images/2019/randall-station-barriers-thumb.jpg"
 excerpt: |
     During July work will commence to install automatic ticket barrier gates at St Margarets station.
 
-    They will be placed approximately across the space where the ticket office window is currently situated. The ticket office window will be relocated to the wall facing the road, with the automatic ticket machines placed wither adjacent or opposite it.
+    They will be placed approximately across the space where the ticket office window is currently situated. The ticket office window will be relocated to the wall facing the road, with the automatic ticket machines placed either adjacent or opposite it.
 
 ---
 <a href="/assets/images/2019/randall-station-barriers.jpg" title="Click for a larger image"><img src="/assets/images/2019/randall-station-barriers-thumb.jpg" width="250" alt="Image - randall-station-barriers"  class="photo right"/></a>
 
 During July work will commence to install automatic ticket barrier gates at St Margarets station.
 
-They will be placed approximately across the space where the ticket office window is currently situated. The ticket office window will be relocated to the wall facing the road, with the automatic ticket machines placed wither adjacent or opposite it.
+They will be placed approximately across the space where the ticket office window is currently situated. The ticket office window will be relocated to the wall facing the road, with the automatic ticket machines placed either adjacent or opposite it.
 
 These will replace the current oyster touch-in/out machines.
 
