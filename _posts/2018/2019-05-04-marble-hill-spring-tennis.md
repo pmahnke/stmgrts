@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Marble Hill Spring 2018 Tennis Programme"
+title: "Marble Hill Spring 2019 Tennis Programme"
 permalink: /archives/2019/05/marble-hill-spring-tennis.html
-commentfile: 2018-05-04-marble-hill-spring-tennis
+commentfile: 2019-05-04-marble-hill-spring-tennis
 category: around_town
-date: 2018-05-04 08:07:34
+date: 2019-05-04 08:07:34
 excerpt: |
     Now in its 7<sup>th</sup> year, the tennis classes in Marble Hill Park start next week and cater for children aged 4-15 years and over.
 
