@@ -1,62 +1,59 @@
-<footer class="p-footer u-no-margin--top">
+<footer class="p-strip p-footer u-no-margin--top">
   <div class="row">
-    <nav class="p-footer__nav">
-      <div class="col-4">
+    <div class="col-4 p-footer__nav">
+      <h2 class="p-muted-heading">Navigation</h2>
+      <ul class="p-list">
+        <li class="p-list__item"><a class="p-link--soft" href="/">homepage</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/event">events</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/directory">local info</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/forum">forums</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/cgi-bin/newsletter.cgi">newsletter</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/poll">polls</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/contact">contact</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/colophon">about</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/privacy">data privacy</a></li>
+      </ul>
 
-        <h2 class="p-muted-heading">Navigation</h2>
-        <ul class="p-list">
-          <li class="p-list__item"><a href="/">homepage</a></li>
-          <li class="p-list__item"><a href="/event">events</a></li>
-          <li class="p-list__item"><a href="/directory">local info</a></li>
-          <li class="p-list__item"><a href="/forum">forums</a></li>
-          <li class="p-list__item"><a href="/cgi-bin/newsletter.cgi">newsletter</a></li>
-          <li class="p-list__item"><a href="/poll">polls</a></li>
-          <li class="p-list__item"><a href="/contact">contact</a></li>
-          <li class="p-list__item"><a href="/colophon">about</a></li>
-          <li class="p-list__item"><a href="/privacy">data privacy</a></li>
-        </ul>
+    </div><!-- end left -->
 
-      </div><!-- end left -->
+    <div class="col-4 p-footer__nav">
 
-      <div class="col-4">
+      <h2 class="p-muted-heading"><a class="p-link--soft" href="/archives" title="Archives">Archives&nbsp;&rsaquo;</a></h2>
 
-        <h2 class="p-muted-heading"><a href="/archives" title="Archives">Archives&nbsp;&rsaquo;</a></h2>
+      <ul class="p-list">
+        <li class="p-list__item"><a class="p-link--soft" href="/archives/news">news</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/archives/editorial">editorial</a></li>
+        <li class="p-list__item"><a class="p-link--soft" href="/archives/around-town">around town</a></li>
+      </ul>
 
-        <ul class="p-list">
-          <li class="p-list__item"><a href="/archives/news">news</a></li>
-          <li class="p-list__item"><a href="/archives/editorial">editorial</a></li>
-          <li class="p-list__item"><a href="/archives/around-town">around town</a></li>
-        </ul>
+      <h2 class="p-muted-heading">News Feed</h2>
+      <ul class="p-list">
+        <li class="p-list__item"><a class="p-link--soft" href="/feed.xml">atom</a></li>
+      </ul>
 
-        <h2 class="p-muted-heading">News Feed</h2>
-        <ul class="p-list">
-          <li class="p-list__item"><a href="/feed.xml">atom</a></li>
-        </ul>
+    </div><!-- end middle -->
 
-      </div><!-- end middle -->
+    <div class="col-4 p-footer__nav">
 
-      <div class="col-4">
+      <h2 class="p-muted-heading">Train Schedules</h2>
+      <ul class="p-list">
+        <li class="p-list__item"> <a class="p-link--soft" href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
+        <li class="p-list__item"> <a class="p-link--soft" href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
+        <li class="p-list__item"> <a class="p-link--soft" href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
+      </ul>
 
-        <h2 class="p-muted-heading">Train Schedules</h2>
-        <ul class="p-list">
-          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
-          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=TWI">Twickenham Station</a></li>
-          <li class="p-list__item"> <a href="/cgi-bin/train_parser.cgi?station=RMD">Richmond Station</a></li>
-        </ul>
-
-      </div><!-- end right -->
-      <span class="u-off-screen">
-        <a href="#">Go to the top of the page</a>
-      </span>
-    </nav>
+    </div><!-- end right -->
+    <span class="u-off-screen">
+      <a class="p-link--soft" href="#">Go to the top of the page</a>
+    </span>
   </div>
 
   <div class="row">
-    <div class="col-12">
+    <div class="u-fixed-width">
       <p class="u-align--right">
         <small>
           Copyright &copy; 2005-{{ site.time | date: '%Y' }} St Margarets Community Website<br />
-          Some rights reserved <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
+          Some rights reserved <a class="p-link--soft" href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a>
         </small>
       </p>
     </div>

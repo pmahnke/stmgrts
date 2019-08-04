@@ -4,7 +4,7 @@ layout: default-empty
 
 <section class="p-strip--light is-shallow">
   <div class="row">
-    <div class="col-12">
+    <div class="u-fixed-width">
       <h1>Archives from {{ page.date | date: "%B %Y" }}</h1>
     </div>
   </div>
@@ -14,18 +14,7 @@ layout: default-empty
     <div class="col-8">
 
       {% for post in page.posts limit: 10 %}
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      {% if post.image %}
-      <p><img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" /></p>
-      {% endif %}
-      <p>
-        {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
-      </p>
-      <p class="u-clearfix posted">
-        {{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}
-      </p>
+        {% include index-posts.html %}
       {% endfor %}
 
       <h2>Older Articles</h2>

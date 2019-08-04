@@ -11,17 +11,17 @@
         {{ content }}
 
         <!-- prev/next pagination -->
-        <section class="p-pagination is-bordered">
+        <section class="p-article-pagination is-bordered">
           {% if page.previous.url %}
-            <a class="p-pagination__link--previous" href="{{page.previous.url}}">
-              <span class="p-pagination__label">Previous</span>
-              <span class="p-pagination__title">{{page.previous.title}}</span>
+            <a class="p-article-pagination__link--previous" href="{{page.previous.url}}">
+              <span class="p-article-pagination__label">Previous</span>
+              <span class="p-article-pagination__title">{{page.previous.title}}</span>
             </a>
           {% endif %}
           {% if page.next.url %}
-            <a class="p-pagination__link--next" href="{{page.next.url}}">
-              <span class="p-pagination__label">Next</span>
-              <span class="p-pagination__title">{{page.next.title}}</span>
+            <a class="p-article-pagination__link--next" href="{{page.next.url}}">
+              <span class="p-article-pagination__label">Next</span>
+              <span class="p-article-pagination__title">{{page.next.title}}</span>
             </a>
           {% endif %}
         </section>
