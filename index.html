@@ -6,18 +6,12 @@ layout: default-empty
     <div id="center" class="col-6">
       <div id="homepage" class="content">
 
-<!-- eight main stories -->
+<!-- main stories -->
 {% for post in site.posts limit: 9 %}
-        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        {% if post.image %}
-        <p><img src="{{ site.url }}{{ post.image }}" width="150" class="photo right" alt="" /></p>
-        {% endif %}
-        {{ post.excerpt | remove:'<div class="letter">' | markdownify }}
-        <p class="post-link"><a href="{{ post.url | prepend: site.baseurl }}">Continue reading &#8230;</a></p>
-        <p class="u-clearfix posted">{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</p>
+  {% include index-posts.html %}
 {% endfor %}
 
-<!-- /end eight main stories -->
+<!-- /end stories -->
 
         <div id="recent">
 
@@ -37,25 +31,30 @@ layout: default-empty
 
       {% include homepage_weather.html %}
 
+      <hr class="u-sv2">
       {% include homepage_events.html %}
 
+      <hr class="u-sv2">
       {% include homepage_event_play.html %}
 
+      <hr class="u-sv2">
       {% include homepage_forum.html %}
 
     </div><!-- end div middle -->
 
-    <div id="right" class="sidebar col-3">
+    <div class="col-3">
 
-      <div id="twitter" class="infobox">
+      <div id="twitter" class="is-bordered">
         {% include homepage_twitter.html %}
       </div>
 
+      <hr class="u-sv2">
       {% include _homepage_newsletter_signup.html %}
 
-      <div id="traininfo" class="infobox">
+      <hr class="u-sv2">
+      <div id="traininfo" class="">
 
-        <h3>Current Train Information</h3>
+        <h3 class="p-muted-heading">Current Train Information</h3>
 
         <ul class="p-list">
           <li class="p-list__item is-ticked"><a href="/cgi-bin/train_parser.cgi?station=SMG">St Margarets Station</a></li>
@@ -65,18 +64,19 @@ layout: default-empty
 
       </div><!-- /end div traininfo -->
 
+      <hr class="u-sv2">
       {% include local_sites.html %}
 
-      <div id="archives"  class="infobox">
+      <hr class="u-sv2">
+      <div id="archives"  class="">
 
-        <h2><a href="/archives/">Archives</a></h2>
+        <h3 class="p-muted-heading"><a href="/archives/">Archives</a></h3>
 
         <ul>
-{% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
-          <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-        {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
+          {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
+            <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
+          {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
         </ul>
-
       </div><!-- end div archives -->
     </div><!-- end div right -->
   </div><!-- end div row -->

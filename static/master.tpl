@@ -164,7 +164,7 @@ $content
   </div>
 
   <div class="row">
-    <div class="col-12">
+    <div class="u-fixed-width">
       <p class="u-align--right">
         <small>
           Copyright &copy; 2005-2018 St Margarets Community Website<br />
