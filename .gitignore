@@ -17,3 +17,4 @@ sitemap.xml.gz
 /_includes/homepage_twitter.html
 /_includes/homepage_weather.html
 /polls/*
+wget-log*
