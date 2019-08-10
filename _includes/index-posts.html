@@ -1,7 +1,9 @@
 <div class="row">
   <div class="u-fixed-width">
     {% if post.image %}
-    <img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/stmgrts/image/fetch/w_488,c_scale/w_488,h_192,c_crop,g_north,q_auto,f_auto/{% endif %}{{ site.url }}{{ post.image  | remove:'-thumb' }}" width="488" {% if jekyll.environment == "development" %}class="photo-featured" {% endif %}alt="" />
+    <p class="u-sv1">
+      <img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/stmgrts/image/fetch/w_488,c_scale/w_488,h_192,c_crop,g_auto,q_auto,f_auto/{% endif %}{{ site.url }}{{ post.image  | remove:'-thumb' }}" width="488" {% if jekyll.environment == "development" %}class="photo-featured" {% endif %}alt="" />
+    </p>
     {% endif %}
     <h3>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
