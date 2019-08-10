@@ -1,7 +1,7 @@
 <div class="row">
   <div class="u-fixed-width">
     {% if post.image %}
-    <img src="{{ site.url }}{{ post.image  | remove:'-thumb' }}" width="100%" class="photo-featured" alt="" />
+    <img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/stmgrts/image/fetch/w_488,c_scale/w_488,h_192,c_crop,g_center,q_auto,f_auto/{% endif %}{{ site.url }}{{ post.image  | remove:'-thumb' }}" width="488" {% if jekyll.environment == "development" %}class="photo-featured" {% endif %}alt="" />
     {% endif %}
     <h3>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
