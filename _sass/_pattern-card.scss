@@ -1,0 +1,22 @@
+.p-card--suru {
+  padding: 0;
+
+  .photo-featured {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .p-card__content {
+    padding: 1rem;
+  }
+
+  .p-card__suru {
+    position: relative;
+  }
+
+  .p-card__suru-image {
+    position: absolute;
+    bottom: -11px;
+    width:100%;
+  }
+}

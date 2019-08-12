@@ -1,19 +1,19 @@
 ---
 layout: default-empty
 ---
-<section class="p-strip--light is-shallow">
+<section class="p-strip is-shallow is-bordered">
   <div class="row">
     <div class="u-fixed-width">
-      <h1>Archives from {{ page.type }} '{{ page.title }}'</h1>
+      <h1 class="p-heading--two u-no-margin--bottom">Archives from {{ page.type }} '{{ page.title }}'</h1>
     </div>
   </div>
 </section>
-<section class="p-strip is-shallow">
+<section class="p-strip--light">
   <div class="row">
     <div class="col-8">
 
       {% for post in page.posts limit: 10 %}
-        {% include index-posts.html %}
+        {% include index-posts-suru.html %}
       {% endfor %}
 
       <h2>Older Articles</h2>
