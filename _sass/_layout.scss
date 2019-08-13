@@ -735,6 +735,14 @@ forum table {
   background-color: $menu-color;
 }
 
+.p-navigation__link.is-selected > a {
+  color: #bfbfdb;
+}
+
+.p-navigation__link:hover > a {
+  color: #bfbfdb;
+}
+
 /// XXX Peter - 18 March 2018 fix for form+**input
 .p-search-box__input {
   margin-top: 0;
