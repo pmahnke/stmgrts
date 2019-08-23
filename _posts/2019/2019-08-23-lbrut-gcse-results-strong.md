@@ -23,28 +23,4 @@ Cllr Penny Frost, Richmond Council Cabinet Member for Schools, said:
 
 > These grades are a credit to the students and all those who have supported them, and I wish them the best of luck for the future."
 
-NOTES TO EDITORS
-
-Changes to the GCSE grading system
-
-What is happening?
-
-Ofqual has changed the grading of numerous GCSEs to make them more challenging. Grading will now be from 9 to 1 (9 is the highest grade) rather than A* to G.
-
-The old and new GCSE grading scales do not directly compare but there are three points where they align:
-
-The bottom of grade 7 is aligned with the bottom of grade A;
-The bottom of grade 4 is aligned with the bottom of grade C; and
-The bottom of grade 1 is aligned with the bottom of grade G.
-
-In general, the Department for Education (DfE) expects a pupil who would have got a C or above in last year's exams to get a 4 or above this year.
-
-These changes only apply to GCSEs regulated in England. Wales and Northern Ireland are also making changes to their GCSEs but are not introducing a new 9 to 1 grading scale. There are currently no changes to AS or A level grading.
-
-Why?
-
-The GCSE grading scale in England has been changed by Ofqual to make it more demanding. They believe this will ensure that pupils will leave schools better prepared for work or further study. The DfE explains that the 9 to 1 grading scale allows clearer differentiation between highest performing pupils and makes clear distinction between old and new exams.
-
-The DfE recognises grade 5 and above as a 'strong pass', a benchmark in line with the expectations of top performing education systems around the world. They will publish the proportion of pupils achieving both grade 4 and above and grade 5 and above.
-
 <cite>-- from a Richmond Council press release - 23 August 2019</cite>
