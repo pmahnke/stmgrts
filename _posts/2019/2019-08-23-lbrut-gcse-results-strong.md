@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Richmond celebrates another successful GCSE year"
+permalink: /archive/2019/08/lbrut-gcse-results-strong.html
+commentfile: 2019-08-23-lbrut-gcse-results-strong
+category: news
+date: 2019-08-23 18:52:48
+image: "/assets/images/2019/lbrut-gcse-results-2019-thumb.jpg"
+excerpt: |
+    Richmond Council has congratulated local schools following the publication of this year's GCSE results - with excellent outcomes maintained or improved upon in most schools.
+---
+<a href="/assets/images/2019/lbrut-gcse-results-2019.jpg" title="Click for a larger image"><img src="/assets/images/2019/lbrut-gcse-results-2019-thumb.jpg" width="250" alt="Image - lbrut-gcse-results-2019"  class="photo right"/></a>
+
+Richmond Council has congratulated local schools following the publication of this year's GCSE results - with excellent outcomes maintained or improved upon in most schools.
+
+Provisional figures show that 78% of pupils achieved a grade four or above in English and Mathematics, which is roughly equivalent to the old C grade or above. This represents a 6% point increase since last year and is well above the 2019 national average of 66%. 56% of pupils also secured a 'good' pass in both subjects, achieving a grade 5 or above.
+
+In addition to the improvements seen in English and mathematics, performance in other subject areas has also remained strong. 77% of all pupils entered into history or geography achieved a grade 4 or above, while 82% of those entered into a language did so, both above 2018 national averages of 62% and 70% respectively.
+
+Cllr Penny Frost, Richmond Council Cabinet Member for Schools, said:
+
+> I would like to congratulate everyone who picked up their results yesterday. The strength of these results show another excellent year for education in Richmond upon Thames and are testament to the hard work of schools, teachers and tutors and their pupils. "They should all be very proud of their achievements - particularly with the additional challenge of changes to the grading system.
+
+> These grades are a credit to the students and all those who have supported them, and I wish them the best of luck for the future."
+
+NOTES TO EDITORS
+
+Changes to the GCSE grading system
+
+What is happening?
+
+Ofqual has changed the grading of numerous GCSEs to make them more challenging. Grading will now be from 9 to 1 (9 is the highest grade) rather than A* to G.
+
+The old and new GCSE grading scales do not directly compare but there are three points where they align:
+
+The bottom of grade 7 is aligned with the bottom of grade A;
+The bottom of grade 4 is aligned with the bottom of grade C; and
+The bottom of grade 1 is aligned with the bottom of grade G.
+
+In general, the Department for Education (DfE) expects a pupil who would have got a C or above in last year's exams to get a 4 or above this year.
+
+These changes only apply to GCSEs regulated in England. Wales and Northern Ireland are also making changes to their GCSEs but are not introducing a new 9 to 1 grading scale. There are currently no changes to AS or A level grading.
+
+Why?
+
+The GCSE grading scale in England has been changed by Ofqual to make it more demanding. They believe this will ensure that pupils will leave schools better prepared for work or further study. The DfE explains that the 9 to 1 grading scale allows clearer differentiation between highest performing pupils and makes clear distinction between old and new exams.
+
+The DfE recognises grade 5 and above as a 'strong pass', a benchmark in line with the expectations of top performing education systems around the world. They will publish the proportion of pupils achieving both grade 4 and above and grade 5 and above.
+
+<cite>-- from a Richmond Council press release - 23 August 2019</cite>
