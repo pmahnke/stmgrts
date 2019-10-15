@@ -9,7 +9,7 @@ image: "/assets/images/2019/turner_20-thumb.jpg"
 excerpt: |
     The new &pound;20 featuring J.M.W. Turner and his work was unveiled today, 10<sup>th</sup> October 2019, by The Bank of England, to which Turner's House Trust has responded by planning a series of events in 2020 to celebrate.
 ---
-<a href="/assets/images/2019/turner_20.jpg" title="Click for a larger image"><img src="/assets/images/2019/turner_20-thumb.jpg" width="250" alt="Image - turner_20"  class="photo right"/></a
+<a href="/assets/images/2019/turner_20.jpg" title="Click for a larger image"><img src="/assets/images/2019/turner_20-thumb.jpg" width="250" alt="Image - turner_20"  class="photo right"/></a>
 
 The new &pound;20 featuring J.M.W. Turner and his work was unveiled today, 10<sup>th</sup> October 2019, by The Bank of England, to which Turner's House Trust has responded by planning a series of events in 2020 to celebrate.
 
