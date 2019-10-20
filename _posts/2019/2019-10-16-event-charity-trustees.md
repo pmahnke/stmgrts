@@ -24,6 +24,6 @@ Join the Richmond CVS Trustee Recruitment Event for some first-hand insights int
 
 This free event takes place on Thursday 14 November, 6pm to 8pm, at Richmond and Hillcroft Adult and Community College (RHACC), Parkshot, Richmond.
 
-For more information and to register for this event, visit our Eventbrite booking page.
+For more information and to register for this event, [visit our Eventbrite booking page](https://www.eventbrite.co.uk/e/richmond-cvs-annual-trustee-recruitment-evening-for-potential-trustees-tickets-71491225179).
 
 To find out more about volunteering opportunities in general, take a look at [www.richmondcvs.org.uk](http://www.richmondcvs.org.uk).
