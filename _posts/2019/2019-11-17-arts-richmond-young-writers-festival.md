@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "oung Writers' Festival launch"
+title: "Young Writers' Festival launch"
 permalink: /archive/2019/11/arts-richmond-young-writers-festival.html
 commentfile: 2019-11-17-arts-richmond-young-writers-festival
 category: around_town
