@@ -2,9 +2,9 @@
 layout: post
 title: "Christmas services in our area - 2019"
 permalink: /archives/2019/12/christmas_church_services_in_our_area_2019.html
-commentfile: 2019-12-10-christmas_church_services_in_our_area_2019
+commentfile: 2019-12-17-christmas_church_services_in_our_area_2019
 category: around_town
-date: 2019-10-14 09:40:18
+date: 2019-12-17 09:40:18
 image: "/assets/images/2019/st-marys-twick.jpg"
 excerpt: |
     Here is a list of church services for Christmas Eve and Christmas for some local churches in the St Margarets area.
