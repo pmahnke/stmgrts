@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marble Hill American doubles tournaments"
-permalink: /archive/2019/09/event-tennis-marble-hill-doubles.html
+permalink: /archives/2019/09/event-tennis-marble-hill-doubles.html
 commentfile: 2019-09-28-event-tennis-marble-hill-doubles
 category: around_town
 date: 2019-09-27 09:06:12

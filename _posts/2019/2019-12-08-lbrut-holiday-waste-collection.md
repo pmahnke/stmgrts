@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Holiday waste and recycling collection"
-permalink: /archive/2019/12/lbrut-holiday-waste-collection.html
+permalink: /archives/2019/12/lbrut-holiday-waste-collection.html
 commentfile: 2019-12-08-lbrut-holiday-waste-collection
 category: around_town
 date: 2019-12-08 00:00:00

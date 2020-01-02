@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Axel Scheffler debuts The Smeds and the Smoos - 16 November 2019"
-permalink: /archive/2019/09/event-scheffler-smeds-smoos.html
+permalink: /archives/2019/09/event-scheffler-smeds-smoos.html
 commentfile: 2019-09-26-event-scheffler-smeds-smoos
 category: around_town
 date: 2019-09-26 00:00:00

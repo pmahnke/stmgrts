@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Be a good neighbour this Christmas"
-permalink: /archive/2019/12/be-a-good-christmas-neighbour.html
+permalink: /archives/2019/12/be-a-good-christmas-neighbour.html
 commentfile: 2019-12-17-be-a-good-christmas-neighbour
 category: around_town
 date: 2019-12-17 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wild neighbours"
-permalink: /archive/2019/07/wild-neighbours.html
+permalink: /archives/2019/07/wild-neighbours.html
 commentfile: 2019-07-11-wild-neighbours
 category: around_town
 author: "Martyn Day"

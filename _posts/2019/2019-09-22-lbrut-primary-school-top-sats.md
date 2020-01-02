@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Borough's schools top national results tables"
-permalink: /archive/2019/09/lbrut-primary-school-top-sats.html
+permalink: /archives/2019/09/lbrut-primary-school-top-sats.html
 commentfile: 2019-09-22-lbrut-primary-school-top-sats
 category: news
 date: 2019-09-22 00:00:00

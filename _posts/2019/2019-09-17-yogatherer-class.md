@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eight week yoga class at ETNA"
-permalink: /archive/2019/09/yogatherer-class.html
+permalink: /archives/2019/09/yogatherer-class.html
 commentfile: 2019-09-17-yogatherer-class
 category: around_town
 date: 2019-09-17 20:19:50

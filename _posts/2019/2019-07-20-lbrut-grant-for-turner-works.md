@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grant to help bring Turner works to Twickenham"
-permalink: /archive/2019/07/lbrut-grant-for-turner-works.html
+permalink: /archives/2019/07/lbrut-grant-for-turner-works.html
 commentfile: 2019-07-20-lbrut-grant-for-turner-works
 category: news
 date: 2019-07-20 12:29:06

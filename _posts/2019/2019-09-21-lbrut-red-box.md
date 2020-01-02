@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Red Box project arrives in Richmond"
-permalink: /archive/2019/09/lbrut-red-box.html
+permalink: /archives/2019/09/lbrut-red-box.html
 commentfile: 2019-09-18-lbrut-red-box
 category: news
 date: 2019-09-18 20:12:20

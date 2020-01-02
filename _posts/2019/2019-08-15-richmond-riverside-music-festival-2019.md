@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Riverside Music Festival - 24 to 25 August"
-permalink: /archive/2019/08/richmond-riverside-music-festival-2019.html
+permalink: /archives/2019/08/richmond-riverside-music-festival-2019.html
 commentfile: 2019-08-15-richmond-riverside-music-festival-2019
 category: around_town
 date: 2019-08-15 08:51:58

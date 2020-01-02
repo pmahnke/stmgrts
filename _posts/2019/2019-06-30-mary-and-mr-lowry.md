@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mary and Mr Lowry"
-permalink: /archive/2019/06/mary-and-mr-lowry.html
+permalink: /archives/2019/06/mary-and-mr-lowry.html
 commentfile: 2019-06-30-mary-and-mr-lowry
 category: around_town
 date: 2019-06-30 11:11:52

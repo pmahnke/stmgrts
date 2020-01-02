@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas at the Environment Trust"
-permalink: /archive/2019/12/xmas-at-environment-trust.html
+permalink: /archives/2019/12/xmas-at-environment-trust.html
 commentfile: 2019-12-08-xmas-at-environment-trust
 category: news
 date: 2019-12-08 11:13:17

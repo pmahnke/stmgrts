@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yogalates afternoon retreat - 12 October 2019"
-permalink: /archive/2019/09/yogolates-oct-retreat.html
+permalink: /archives/2019/09/yogolates-oct-retreat.html
 commentfile: 2019-09-17-yogolates-oct-retreat
 category: around_town
 date: 2019-09-17 19:58:40

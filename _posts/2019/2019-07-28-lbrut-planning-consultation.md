@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Have your say on community involvement in planning consultations"
-permalink: /archive/2019/07/lbrut-planning-consultation.html
+permalink: /archives/2019/07/lbrut-planning-consultation.html
 commentfile: 2019-07-28-lbrut-planning-consultation
 category: around_town
 date: 2019-07-31 16:12:20

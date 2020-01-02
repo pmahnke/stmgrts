@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Old photos of Crown Road"
-permalink: /archive/2019/08/crown-road-photos-for-roger-wyer.html
+permalink: /archives/2019/08/crown-road-photos-for-roger-wyer.html
 commentfile: 2019-08-23-crown-road-photos-for-roger-wyer
 category: around_town
 date: 2019-08-23 04:56:14

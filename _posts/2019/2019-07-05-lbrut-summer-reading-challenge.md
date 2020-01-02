@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Reading Challenge to 'blast off' in July!"
-permalink: /archive/2019/07/lbrut-summer-reading-challenge.html
+permalink: /archives/2019/07/lbrut-summer-reading-challenge.html
 commentfile: 2019-07-05-lbrut-summer-reading-challenge
 category: around_town
 date: 2019-07-05 17:40:39

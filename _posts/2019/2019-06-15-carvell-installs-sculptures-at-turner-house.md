@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artist Nicky Carvell installs sculptures at Turner House"
-permalink: /archive/2019/06/carvell-installs-sculptures-at-turner-house.html
+permalink: /archives/2019/06/carvell-installs-sculptures-at-turner-house.html
 commentfile: 2019-06-15-carvell-installs-sculptures-at-turner-house
 category: news
 date: 2019-06-15 11:23:57

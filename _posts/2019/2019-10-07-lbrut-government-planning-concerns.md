@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Potential issues with Government's new planning rules"
-permalink: /archive/2019/10/lbrut-government-planning-concerns.html
+permalink: /archives/2019/10/lbrut-government-planning-concerns.html
 commentfile: 2019-10-07-lbrut-government-planning-concerns
 category: news
 date: 2019-10-07 00:00:00

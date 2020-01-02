@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free sanitary products in Richmond schools"
-permalink: /archive/2019/06/lbrut-red-box-project.html
+permalink: /archives/2019/06/lbrut-red-box-project.html
 commentfile: 2019-06-30-lbrut-red-box-project
 category: news
 date: 2019-06-30 10:11:52

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devastating scale of Heathrow expansion unveiled"
-permalink: /archive/2019/06/lbrut-scale--of-third-runway.html
+permalink: /archives/2019/06/lbrut-scale--of-third-runway.html
 commentfile: 2019-06-20-lbrut-scale--of-third-runway
 category: news
 date: 2019-06-20 20:48:31

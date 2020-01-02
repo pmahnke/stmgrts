@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Environment Trust's first 'Clothes Swap' event - 2 August 2019"
-permalink: /archive/2019/07/event-etrut-clothes-swap.html
+permalink: /archives/2019/07/event-etrut-clothes-swap.html
 commentfile: 2019-07-05-event-etrut-clothes-swap
 category: around_town
 date: 2019-07-05 17:40:39

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New charges for 'DIY' waste"
-permalink: /archive/2019/10/lbrut-diy-waste-charges.html
+permalink: /archives/2019/10/lbrut-diy-waste-charges.html
 commentfile: 2019-10-23-lbrut-diy-waste-charges
 category: news
 date: 2019-10-23 00:00:00

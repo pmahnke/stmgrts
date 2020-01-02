@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help keep your home warm this winter"
-permalink: /archive/2019/11/lbrut-keep-warm.html
+permalink: /archives/2019/11/lbrut-keep-warm.html
 commentfile: 2019-11-25-lbrut-keep-warm
 category: around_town
 date: 2019-11-25 00:00:00

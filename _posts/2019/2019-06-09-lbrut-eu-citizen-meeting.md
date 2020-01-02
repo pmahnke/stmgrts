@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free info evening for EU citizens"
-permalink: /archive/2019/06/lbrut-eu-citizen-meeting.html
+permalink: /archives/2019/06/lbrut-eu-citizen-meeting.html
 commentfile: 2019-06-09-lbrut-eu-citizen-meeting
 category: news
 date: 2019-06-09 10:23:26

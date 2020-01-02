@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final week of exhibition at Turner House"
-permalink: /archive/2019/09/last-chance-turner-house.html
+permalink: /archives/2019/09/last-chance-turner-house.html
 commentfile: 2019-09-15-last-chance-turner-house
 category: around_town
 date: 2019-09-14 08:01:14

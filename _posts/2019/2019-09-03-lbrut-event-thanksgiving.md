@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Thanksgiving at Clarendon Hall"
-permalink: /archive/2019/09/lbrut-event-thanksgiving.html
+permalink: /archives/2019/09/lbrut-event-thanksgiving.html
 commentfile: 2019-09-03-lbrut-event-thanksgiving
 category: around_town
 date: 2019-09-03 10:44:43

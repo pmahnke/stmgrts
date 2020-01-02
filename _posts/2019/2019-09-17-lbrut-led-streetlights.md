@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Council to replace 7,000 street lights with LED lights"
-permalink: /archive/2019/09/lbrut-led-streetlights.html
+permalink: /archives/2019/09/lbrut-led-streetlights.html
 commentfile: 2019-09-17-lbrut-led-streetlights
 category: news
 date: 2019-09-17 20:08:05

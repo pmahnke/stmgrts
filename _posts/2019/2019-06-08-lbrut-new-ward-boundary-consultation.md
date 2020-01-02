@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help map out new ward boundaries"
-permalink: /archive/2019/06/lbrut-new-ward-boundary-consultation.html
+permalink: /archives/2019/06/lbrut-new-ward-boundary-consultation.html
 commentfile: 2019-06-08-lbrut-new-ward-boundary-consultation
 category: news
 date: 2019-06-08 14:43:00

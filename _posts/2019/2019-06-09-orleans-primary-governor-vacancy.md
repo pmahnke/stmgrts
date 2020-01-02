@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orleans Primary School is looking for a governor"
-permalink: /archive/2019/06/orleans-primary-governor-vacancy.html
+permalink: /archives/2019/06/orleans-primary-governor-vacancy.html
 commentfile: 2019-06-09-orleans-primary-governor-vacancy
 category: news
 date: 2019-06-09 12:29:00

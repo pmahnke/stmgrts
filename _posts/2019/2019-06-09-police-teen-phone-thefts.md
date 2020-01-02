@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Police warn about phone thefts"
-permalink: /archive/2019/06/police-teen-phone-thefts.html
+permalink: /archives/2019/06/police-teen-phone-thefts.html
 commentfile: 2019-06-09-police-teen-phone-thefts
 category: news
 date: 2019-06-09 09:05:03

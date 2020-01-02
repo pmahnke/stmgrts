@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volunteer at Turner's House owns tartan painted by J.M.W. Turner"
-permalink: /archive/2019/06/turner-house-tartan.html
+permalink: /archives/2019/06/turner-house-tartan.html
 commentfile: 2019-06-30-turner-house-tartan
 category: around_town
 date: 2019-06-30 11:05:54

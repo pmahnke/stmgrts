@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20mph rollout continues"
-permalink: /archive/2019/10/update-20mph-rollout.html
+permalink: /archives/2019/10/update-20mph-rollout.html
 commentfile: 2019-10-02-update-20mph-rollout
 category: news
 date: 2019-10-02 00:00:00

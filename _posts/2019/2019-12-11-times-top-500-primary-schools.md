@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond primary schools dominate the Times top 500"
-permalink: /archive/2019/12/times-top-500-primary-schools.html
+permalink: /archives/2019/12/times-top-500-primary-schools.html
 commentfile: 2019-12-11-times-top-500-primary-schools
 category: news
 date: 2019-12-11 00:00:00

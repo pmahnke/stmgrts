@@ -8,7 +8,7 @@ date: 2006-12-23 13:05:56
 
 ---
 
-The Online Communities (OnComm), the group behind many Richmond Borough sites (e.g. [twickenham-online.co.uk](http://www.webarchive.org.uk/wayback/archive/20100114165808/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Twickenham), [richmond-online.co.uk](http://www.webarchive.org.uk/wayback/archive/20100114165812/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Richmond), [Mogden Sewage Treatment Community Site](http://www.mogden.org.uk/), etc...) has [announced](http://www.say-it-all.com/newsdev/admin/story.php?intro_id=2034) that it is closing down after Christmas.
+The Online Communities (OnComm), the group behind many Richmond Borough sites (e.g. [twickenham-online.co.uk](http://www.webarchive.org.uk/wayback/archives/20100114165808/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Twickenham), [richmond-online.co.uk](http://www.webarchive.org.uk/wayback/archives/20100114165812/http://oncomarchive.com/newsdev/news/archive.php?sheet_name=Richmond), [Mogden Sewage Treatment Community Site](http://www.mogden.org.uk/), etc...) has [announced](http://www.say-it-all.com/newsdev/admin/story.php?intro_id=2034) that it is closing down after Christmas.
 
 Oncom has been been supporting grassroots e-democracy for ten years, but has never been able to secure government funding. They have built up a huge readership and given a voice to the people on many divisive issues. The VoxPop forums have been a particularly powerful tool to talk directly with Councillors.
 

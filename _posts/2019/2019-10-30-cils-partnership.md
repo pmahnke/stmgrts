@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CILS partnership to help people live independently"
-permalink: /archive/2019/10/cils-partnership.html
+permalink: /archives/2019/10/cils-partnership.html
 commentfile: 2019-10-30-cils-partnership
 category: news
 date: 2019-10-30 00:00:00

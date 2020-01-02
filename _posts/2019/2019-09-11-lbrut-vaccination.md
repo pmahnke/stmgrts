@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are your children vaccinated?"
-permalink: /archive/2019/09/lbrut-vaccination.html
+permalink: /archives/2019/09/lbrut-vaccination.html
 commentfile: 2019-09-11-lbrut-vaccination
 category: news
 date: 2019-09-11 08:35:58

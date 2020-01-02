@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond upon Thames Literature Festival 2019"
-permalink: /archive/2019/09/richmond-lit-festival-2019.html
+permalink: /archives/2019/09/richmond-lit-festival-2019.html
 commentfile: 2019-09-27-richmond-lit-festival-2019
 category: around_town
 date: 2019-09-27 00:00:01

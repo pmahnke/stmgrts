@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call out to men: Move it to lose it!"
-permalink: /archive/2019/09/lbrut-get-fit.html
+permalink: /archives/2019/09/lbrut-get-fit.html
 commentfile: 2019-09-05-lbrut-get-fit
 category: around_town
 date: 2019-09-05 13:28:16

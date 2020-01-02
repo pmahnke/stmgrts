@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Have your say on 5 Twickenham Riverside designs"
-permalink: /archive/2019/09/twickenham-riverside-designs.html
+permalink: /archives/2019/09/twickenham-riverside-designs.html
 commentfile: 2019-09-15-twickenham-riverside-designs
 category: around_town
 date: 2019-09-15 06:53:40

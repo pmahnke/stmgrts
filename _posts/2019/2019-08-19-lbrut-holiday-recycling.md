@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August Bank Holiday recycling one day later"
-permalink: /archive/2019/08/lbrut-holiday-recycling.html
+permalink: /archives/2019/08/lbrut-holiday-recycling.html
 commentfile: 2019-08-19-lbrut-holiday-recycling
 category: around_town
 date: 2019-08-19 20:24:02

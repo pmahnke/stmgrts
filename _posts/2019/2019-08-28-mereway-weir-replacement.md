@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weir to be replaced on River Crane"
-permalink: /archive/2019/08/mereway-weir-replacement.html
+permalink: /archives/2019/08/mereway-weir-replacement.html
 commentfile: 2019-08-28-mereway-weir-replacement
 category: news
 date: 2019-08-28 14:41:13

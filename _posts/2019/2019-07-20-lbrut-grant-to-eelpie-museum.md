@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Grant to make Eel Pie Island's history more accessible"
-permalink: /archive/2019/07/lbrut-grant-to-eelpie-museum.html
+permalink: /archives/2019/07/lbrut-grant-to-eelpie-museum.html
 commentfile: 2019-07-20-lbrut-grant-to-eelpie-museum
 category: news
 date: 2019-07-20 10:44:43

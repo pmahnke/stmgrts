@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Council urges students to get immunised"
-permalink: /archive/2019/08/lbrut-uni-immunisations.html
+permalink: /archives/2019/08/lbrut-uni-immunisations.html
 commentfile: 2019-08-30-lbrut-uni-immunisations
 category: news
 date: 2019-08-30 15:33:09

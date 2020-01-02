@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preferred Bidder selected for Twickenham Riverside"
-permalink: /archive/2019/11/lbrut-twick-riverside-bidder-selected.html
+permalink: /archives/2019/11/lbrut-twick-riverside-bidder-selected.html
 commentfile: 2019-11-17-lbrut-twick-riverside-bidder-selected
 category: news
 date: 2019-11-17 14:26:18

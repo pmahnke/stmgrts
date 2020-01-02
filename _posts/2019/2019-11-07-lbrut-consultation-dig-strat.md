@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consultation on digital strategy"
-permalink: /archive/2019/11/lbrut-consultation-dig-strat.html
+permalink: /archives/2019/11/lbrut-consultation-dig-strat.html
 commentfile: 2019-11-07-lbrut-consultation-dig-strat
 category: around_town
 date: 2019-11-07 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrate the heroes in our community"
-permalink: /archive/2019/06/lbrut-community-hero-nominations.html
+permalink: /archives/2019/06/lbrut-community-hero-nominations.html
 commentfile: 2019-06-09-lbrut-community-hero-nominations
 category: around_town
 date: 2019-06-09 09:05:03

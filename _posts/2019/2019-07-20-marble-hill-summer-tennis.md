@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marble Hill Summer 2019 Tennis Programme"
-permalink: /archive/2019/07/marble-hill-summer-tennis.html
+permalink: /archives/2019/07/marble-hill-summer-tennis.html
 commentfile: 2019-07-20-marble-hill-summer-tennis
 category: around_town
 date: 2019-07-20 12:44:43

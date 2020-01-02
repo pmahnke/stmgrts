@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "e-books for Richmond readers"
-permalink: /archive/2019/06/lbrut-e-books.html
+permalink: /archives/2019/06/lbrut-e-books.html
 commentfile: 2019-06-09-lbrut-e-books
 category: news
 date: 2019-06-09 12:16:30

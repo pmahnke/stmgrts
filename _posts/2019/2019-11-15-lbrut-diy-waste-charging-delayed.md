@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementation of new DIY disposal charge delayed for review"
-permalink: /archive/2019/11/lbrut-diy-waste-charging-delayed.html
+permalink: /archives/2019/11/lbrut-diy-waste-charging-delayed.html
 commentfile: 2019-11-15-lbrut-diy-waste-charging-delayed
 category: news
 date: 2019-11-15 00:00:00

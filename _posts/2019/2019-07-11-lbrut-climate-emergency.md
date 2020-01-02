@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climate Emergency declared in Richmond upon Thames"
-permalink: /archive/2019/07/lbrut-climate-emergency.html
+permalink: /archives/2019/07/lbrut-climate-emergency.html
 commentfile: 2019-07-11-lbrut-climate-emergency
 category: news
 date: 2019-07-11 20:50:07

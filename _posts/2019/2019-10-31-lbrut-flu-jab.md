@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get your flu vaccination now"
-permalink: /archive/2019/10/lbrut-flu-jab.html
+permalink: /archives/2019/10/lbrut-flu-jab.html
 commentfile: 2019-10-31-lbrut-flu-jab
 category: around_town
 date: 2019-10-31 00:00:00

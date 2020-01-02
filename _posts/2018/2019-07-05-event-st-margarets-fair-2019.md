@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "St Margarets Fair 2019 - 6 July 2019"
-permalink: /archive/2019/07/event-st-margarets-fair-2019.html
+permalink: /archives/2019/07/event-st-margarets-fair-2019.html
 commentfile: 2019-07-05-event-st-margarets-fair-2019
 category: around_town
 date: 2019-07-05 18:40:39

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architects shortlisted for Twickenham Riverside redevelopment"
-permalink: /archive/2019/06/lbrut-twickenham-riverside-architects-shortlisted.html
+permalink: /archives/2019/06/lbrut-twickenham-riverside-architects-shortlisted.html
 commentfile: 2019-06-09-lbrut-twickenham-riverside-architects-shortlisted
 category: news
 date: 2019-06-09 09:27:56

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are you ready for the General Election?"
-permalink: /archive/2019/10/lbrut-voting.html
+permalink: /archives/2019/10/lbrut-voting.html
 commentfile: 2019-10-31-lbrut-voting
 category: around_town
 date: 2019-10-31 00:00:00
