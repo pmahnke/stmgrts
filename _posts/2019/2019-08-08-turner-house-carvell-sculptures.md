@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two stunning new sculptures unveiled at Turner's House"
-permalink: /archive/2019/08/turner-house-carvell-sculptures.html
+permalink: /archives/2019/08/turner-house-carvell-sculptures.html
 commentfile: 2019-08-08-turner-house-carvell-sculptures
 category: news
 date: 2019-08-08 08:24:17

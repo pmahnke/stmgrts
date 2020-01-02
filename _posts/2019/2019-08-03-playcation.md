@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playcation at Orleans House Gallery - 4 August 2019"
-permalink: /archive/2019/08/playcation.html
+permalink: /archives/2019/08/playcation.html
 commentfile: 2019-08-03-playcation
 category: around_town
 date: 2019-07-31 12:06:09

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get walking this winter"
-permalink: /archive/2019/11/lbrut-winter-walks.html
+permalink: /archives/2019/11/lbrut-winter-walks.html
 commentfile: 2019-11-13-lbrut-winter-walks
 category: around_town
 date: 2019-11-13 00:00:00

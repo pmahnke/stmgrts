@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cygnets Art School classes"
-permalink: /archive/2019/12/cygnets-art-school-classes.html
+permalink: /archives/2019/12/cygnets-art-school-classes.html
 commentfile: 2019-12-16-cygnets-art-school-classes
 category: around_town
 date: 2019-12-16 07:48:02

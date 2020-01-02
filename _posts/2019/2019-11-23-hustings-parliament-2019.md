@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Question Time with local Parliamentary candidates - 27 November 2019"
-permalink: /archive/2019/11/hustings-parliament-2019.html
+permalink: /archives/2019/11/hustings-parliament-2019.html
 commentfile: 2019-11-23-hustings-parliament-2019
 category: news
 date: 2019-11-23 00:00:00

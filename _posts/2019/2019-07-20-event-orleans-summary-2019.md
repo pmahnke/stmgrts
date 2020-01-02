@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Holidays at Orleans House Gallery"
-permalink: /archive/2019/07/event-orleans-summary-2019.html
+permalink: /archives/2019/07/event-orleans-summary-2019.html
 commentfile: 2019-07-20-event-orleans-summary-2019
 category: around_town
 date: 2019-07-20 11:18:24

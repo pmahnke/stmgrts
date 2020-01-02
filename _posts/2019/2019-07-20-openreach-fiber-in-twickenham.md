@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ultrafast broadband arrives in Twickenham"
-permalink: /archive/2019/07/openreach-fiber-in-twickenham.html
+permalink: /archives/2019/07/openreach-fiber-in-twickenham.html
 commentfile: 2019-07-20-openreach-fiber-in-twickenham
 category: news
 date: 2019-07-20 11:34:48

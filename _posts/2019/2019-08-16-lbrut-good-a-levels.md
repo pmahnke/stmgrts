@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "School Sixth Forms buck national A-Level results"
-permalink: /archive/2019/08/lbrut-good-a-levels.html
+permalink: /archives/2019/08/lbrut-good-a-levels.html
 commentfile: 2019-08-16-lbrut-good-a-levels
 category: news
 date: 2019-08-16 09:45:31

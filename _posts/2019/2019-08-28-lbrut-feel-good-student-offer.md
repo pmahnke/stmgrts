@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feel Good back to school fitness offer"
-permalink: /archive/2019/08/lbrut-feel-good-student-offer.html
+permalink: /archives/2019/08/lbrut-feel-good-student-offer.html
 commentfile: 2019-08-28-lbrut-feel-good-student-offer
 category: around_town
 date: 2019-08-28 15:28:36

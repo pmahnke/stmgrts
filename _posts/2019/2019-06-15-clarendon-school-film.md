@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clarendon School's viral film"
-permalink: /archive/2019/06/clarendon-school-film.html
+permalink: /archives/2019/06/clarendon-school-film.html
 commentfile: 2019-06-15-clarendon-school-film
 category: around_town
 date: 2019-06-15 11:31:39

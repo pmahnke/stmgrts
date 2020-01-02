@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond commits to real living wage"
-permalink: /archive/2019/11/lbrut-living-wage.html
+permalink: /archives/2019/11/lbrut-living-wage.html
 commentfile: 2019-11-16-lbrut-living-wage-employer
 category: news
 date: 2019-11-16 00:00:00

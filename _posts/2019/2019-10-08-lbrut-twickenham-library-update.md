@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twickenham Library to receive some much-needed TLC"
-permalink: /archive/2019/10/lbrut-twickenham-library-update.html
+permalink: /archives/2019/10/lbrut-twickenham-library-update.html
 commentfile: 2019-10-08-lbrut-twickenham-library-update
 category: news
 date: 2019-10-08 00:00:00

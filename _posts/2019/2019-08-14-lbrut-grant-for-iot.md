@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Council gets 4 million grant to build an enabling IoT project"
-permalink: /archive/2019/08/lbrut-grant-for-iot.html
+permalink: /archives/2019/08/lbrut-grant-for-iot.html
 commentfile: 2019-08-14-lbrut-grant-for-iot
 category: news
 date: 2019-08-14 19:22:31

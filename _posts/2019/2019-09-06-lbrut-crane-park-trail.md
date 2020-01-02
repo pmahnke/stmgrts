@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crane Park nature trail opens"
-permalink: /archive/2019/09/lbrut-crane-park-trail.html
+permalink: /archives/2019/09/lbrut-crane-park-trail.html
 commentfile: 2019-09-06-lbrut-crane-park-trail
 category: news
 date: 2019-09-06 14:37:14

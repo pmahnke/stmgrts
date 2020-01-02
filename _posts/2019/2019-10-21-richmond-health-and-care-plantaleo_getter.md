@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Health and Care Plan update"
-permalink: /archive/2019/10/richmond-health-and-care-plan.html
+permalink: /archives/2019/10/richmond-health-and-care-plan.html
 commentfile: 2019-10-21-richmond-health-and-care-plan
 category: news
 date: 2019-10-21 00:00:00

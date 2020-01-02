@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Munira Wilson selected to replace Vince Cable MP"
-permalink: /archive/2019/09/munira-willson-lib-dem-candidate.html
+permalink: /archives/2019/09/munira-willson-lib-dem-candidate.html
 commentfile: 2019-09-16-munira-willson-lib-dem-candidate
 category: news
 date: 2019-09-16 19:55:10

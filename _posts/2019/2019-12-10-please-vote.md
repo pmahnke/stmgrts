@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't forget to vote - 12 December"
-permalink: /archive/2019/12/please-vote.html
+permalink: /archives/2019/12/please-vote.html
 commentfile: 2019-12-10-please-vote
 category: around_town
 date: 2019-12-10 14:11:51

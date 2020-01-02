@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yogalates' September programme"
-permalink: /archive/2019/07/yogalates-september-2019.html
+permalink: /archives/2019/07/yogalates-september-2019.html
 commentfile: 2019-07-28-yogalates-september-2019
 category: around_town
 date: 2019-07-27 16:44:30

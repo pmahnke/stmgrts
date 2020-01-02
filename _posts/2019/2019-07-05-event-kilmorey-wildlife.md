@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discover local wildlife at Kilmorey - 21 July 2019"
-permalink: /archive/2019/07/event-kilmorey-wildlife.html
+permalink: /archives/2019/07/event-kilmorey-wildlife.html
 commentfile: 2019-07-05-event-kilmorey-wildlife
 category: around_town
 date: 2019-07-05 17:29:44

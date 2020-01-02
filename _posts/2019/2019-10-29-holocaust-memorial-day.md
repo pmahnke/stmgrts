@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help commemorate Holocaust Memorial Day"
-permalink: /archive/2019/10/holocaust-memorial-day.html
+permalink: /archives/2019/10/holocaust-memorial-day.html
 commentfile: 2019-10-29-holocaust-memorial-day
 category: around_town
 date: 2019-10-29 00:00:00

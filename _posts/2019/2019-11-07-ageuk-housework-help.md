@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Need a little help with Housework?"
-permalink: /archive/2019/11/ageuk-housework-help.html
+permalink: /archives/2019/11/ageuk-housework-help.html
 commentfile: 2019-11-07-ageuk-housework-help
 category: around_town
 date: 2019-11-07 00:00:00

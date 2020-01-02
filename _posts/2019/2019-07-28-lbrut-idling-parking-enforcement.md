@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New enforcement officers to tackle idling and parking rule breakers"
-permalink: /archive/2019/07/lbrut-idling-parking-enforcement.html
+permalink: /archives/2019/07/lbrut-idling-parking-enforcement.html
 commentfile: 2019-07-27-lbrut-idling-parking-enforcement
 category: news
 date: 2019-07-27 16:44:30

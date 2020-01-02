@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two local events around the 80th WWII anniversary"
-permalink: /archive/2019/08/env-trust-wwii-events.html
+permalink: /archives/2019/08/env-trust-wwii-events.html
 commentfile: 2019-08-22-env-trust-wwii-events
 category: around_town
 date: 2019-08-22 20:30:29

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New new dockless e-bikeshare scheme"
-permalink: /archive/2019/07/freebike-in-richmond.html
+permalink: /archives/2019/07/freebike-in-richmond.html
 commentfile: 2019-07-25-freebike-in-richmond
 category: around_town
 date: 2019-07-25 17:34:14

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New back to work programme already a great success"
-permalink: /archive/2019/09/back-to-work.html
+permalink: /archives/2019/09/back-to-work.html
 commentfile: 2019-09-09-back-to-work
 category: news
 date: 2019-09-09 08:29:02

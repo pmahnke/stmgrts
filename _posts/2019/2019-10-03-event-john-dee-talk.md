@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Astrology, magic or science... You decide!"
-permalink: /archive/2019/10/event-john-dee-talk.html
+permalink: /archives/2019/10/event-john-dee-talk.html
 commentfile: 2019-10-03-event-john-dee-talk
 category: around_town
 date: 2019-10-03 16:14:46

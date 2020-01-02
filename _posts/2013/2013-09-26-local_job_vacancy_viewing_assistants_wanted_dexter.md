@@ -7,7 +7,10 @@ category: around_town
 date: 2013-09-26 20:32:05
 image: "/assets/images/directory/201009030914_Dexters_mystm.png"
 excerpt: |
+    We are currently looking for energetic and motivated people to join our company.
 
+    If you have your own car and are keen to assist with the viewing of properties and liaising between customers and offices, then we would love to hear from you!
+---
 We are currently looking for energetic and motivated people to join our company.
 
 If you have your own car and are keen to assist with the viewing of properties and liaising between customers and offices, then we would love to hear from you!

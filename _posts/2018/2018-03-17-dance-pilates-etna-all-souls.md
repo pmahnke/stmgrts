@@ -3,7 +3,7 @@ layout: post
 title: "Dance Pilates classes starting 19 March 2018"
 permalink: /archives/2018/03/dance-pilates-etna-all-souls.html
 commentfile: 2018-03-17-dance-pilates-etna-all-souls
-category: around_towns
+category: around_town
 date: 2018-03-14 08:26:22
 image: "/assets/images/2018/charlie-dance-pilates-thumb.jpg"
 excerpt: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twitter Park half-term event - 29 October 2019"
-permalink: /archive/2019/10/event-twitter-park.html
+permalink: /archives/2019/10/event-twitter-park.html
 commentfile: 2019-10-18-event-twitter-park
 category: around_town
 date: 2019-10-18 00:00:00

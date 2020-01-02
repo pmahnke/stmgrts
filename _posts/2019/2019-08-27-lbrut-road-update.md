@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond Council road update"
-permalink: /archive/2019/08/lbrut-road-update.html
+permalink: /archives/2019/08/lbrut-road-update.html
 commentfile: 2019-08-27-lbrut-road-update
 category: around_town
 date: 2019-08-27 14:34:48

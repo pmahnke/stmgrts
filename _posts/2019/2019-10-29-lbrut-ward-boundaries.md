@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Have your say on new political map of Richmond"
-permalink: /archive/2019/10/lbrut-ward-boundaries.html
+permalink: /archives/2019/10/lbrut-ward-boundaries.html
 commentfile: 2019-10-29-lbrut-ward-boundaries
 category: news
 date: 2019-10-29 00:00:00

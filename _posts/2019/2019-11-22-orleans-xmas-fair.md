@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orleans Christmas Weekend - 30 November to 1 December 2019"
-permalink: /archive/2019/11/orleans-xmas-fair.html
+permalink: /archives/2019/11/orleans-xmas-fair.html
 commentfile: 2019-11-22-orleans-xmas-fair
 category: around_town
 date: 2019-11-22 00:00:00

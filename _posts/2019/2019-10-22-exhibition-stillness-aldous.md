@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exhibition 'Stillness' by Bob Aldous"
-permalink: /archive/2019/10/exhibition-stillness-aldous.html
+permalink: /archives/2019/10/exhibition-stillness-aldous.html
 commentfile: 2019-10-22-exhibition-stillness-aldous
 category: around_town
 date: 2019-10-22 00:00:00

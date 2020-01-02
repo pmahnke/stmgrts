@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consultation - New cycling and walking strategy unveiled!"
-permalink: /archive/2019/11/consultation-cycling-walking.html
+permalink: /archives/2019/11/consultation-cycling-walking.html
 commentfile: 2019-11-06-consultation-cycling-walking
 category: news
 date: 2019-11-06 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four receive the Queen's Award for Voluntary Service"
-permalink: /archive/2019/06/lbrut-4-win-queens-award.html
+permalink: /archives/2019/06/lbrut-4-win-queens-award.html
 commentfile: 2019-06-09-lbrut-4-win-queens-award
 category: news
 date: 2019-06-08 12:47:59

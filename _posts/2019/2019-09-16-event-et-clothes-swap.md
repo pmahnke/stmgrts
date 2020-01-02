@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clothes Swap event - 19 October 2019"
-permalink: /archive/2019/09/event-et-clothes-swap.html
+permalink: /archives/2019/09/event-et-clothes-swap.html
 commentfile: 2019-09-16-event-et-clothes-swap
 category: around_town
 date: 2019-09-16 19:38:55

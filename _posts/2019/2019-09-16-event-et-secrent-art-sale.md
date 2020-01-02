@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Secret Art Sale's Silent Auction - 28 September 2019"
-permalink: /archive/2019/09/event-et-secrent-art-sale.html
+permalink: /archives/2019/09/event-et-secrent-art-sale.html
 commentfile: 2019-09-16-event-et-secrent-art-sale
 category: around_town
 date: 2019-09-16 19:46:00

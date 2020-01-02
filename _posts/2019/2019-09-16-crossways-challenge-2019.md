@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sponsored walk, run, cycle and swim - 28 September 2019"
-permalink: /archive/2019/09/crossways-challenge-2019.html
+permalink: /archives/2019/09/crossways-challenge-2019.html
 commentfile: 2019-09-16-crossways-challenge-2019
 category: around_town
 date: 2019-09-16 19:50:07

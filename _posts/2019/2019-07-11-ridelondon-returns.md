@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get ready for RideLondon - 3 &amp 4 August 2019"
-permalink: /archive/2019/07/ridelondon-returns.html
+permalink: /archives/2019/07/ridelondon-returns.html
 commentfile: 2019-07-11-ridelondon-returns
 category: around_town
 date: 2019-07-11 20:10:36

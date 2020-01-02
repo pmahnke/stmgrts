@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caf&#233; reopens at Orleans House Gallery"
-permalink: /archive/2019/10/orleans-house-cafe-reopens.html
+permalink: /archives/2019/10/orleans-house-cafe-reopens.html
 commentfile: 2019-10-23-orleans-house-cafe-reopens
 category: around_town
 date: 2019-10-23 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recycle your pumpkins this Halloween"
-permalink: /archive/2019/11/lbrut-recycle-your-pumpkins.html
+permalink: /archives/2019/11/lbrut-recycle-your-pumpkins.html
 commentfile: 2019-11-01-lbrut-recycle-your-pumpkins
 category: around_town
 date: 2019-11-01 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free info evening for EU citizens - 2 October 2019"
-permalink: /archive/2019/09/lbrut-eu-citizen-evening.html
+permalink: /archives/2019/09/lbrut-eu-citizen-evening.html
 commentfile: 2019-09-19-lbrut-eu-citizen-evening
 category: around_town
 date: 2019-09-19 20:15:54

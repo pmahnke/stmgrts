@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Richmond celebrates another successful GCSE year"
-permalink: /archive/2019/08/lbrut-gcse-results-strong.html
+permalink: /archives/2019/08/lbrut-gcse-results-strong.html
 commentfile: 2019-08-23-lbrut-gcse-results-strong
 category: news
 date: 2019-08-23 18:52:48

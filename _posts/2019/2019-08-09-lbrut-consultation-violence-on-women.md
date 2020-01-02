@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Consultation on violence against women and girls"
-permalink: /archive/2019/08/lbrut-consultation-violence-on-women.html
+permalink: /archives/2019/08/lbrut-consultation-violence-on-women.html
 commentfile: 2019-08-08-lbrut-consultation-violence-on-women
 category: news
 date: 2019-08-09 08:01:16

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exhibition: A Unique Vision: Outsider and Self-Taught Art"
-permalink: /archive/2019/11/orleans-exhibition-self-taught-art.html
+permalink: /archives/2019/11/orleans-exhibition-self-taught-art.html
 commentfile: 2019-11-04-orleans-exhibition-self-taught-art
 category: around_town
 date: 2019-11-04 00:00:00

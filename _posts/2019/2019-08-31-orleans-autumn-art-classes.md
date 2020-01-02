@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Orleans House Gallary - Autumn art classes"
-permalink: /archive/2019/08/orleans-autumn-art-classes.html
+permalink: /archives/2019/08/orleans-autumn-art-classes.html
 commentfile: 2019-08-31-orleans-autumn-art-classes
 category: around_town
 date: 2019-08-31 12:46:17

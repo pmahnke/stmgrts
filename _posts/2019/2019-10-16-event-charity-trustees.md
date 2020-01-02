@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WANTED - Trustees for Local Charities - 14 November 2019"
-permalink: /archive/2019/10/event-charity-trustees.html
+permalink: /archives/2019/10/event-charity-trustees.html
 commentfile: 2019-10-16-event-charity-trustees
 category: around_town
 date: 2019-10-16 00:00:00

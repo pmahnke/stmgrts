@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fight waste at our Waste-Less Food Fest this weekend!"
-permalink: /archive/2019/10/lbrut-food-waste.html
+permalink: /archives/2019/10/lbrut-food-waste.html
 commentfile: 2019-10-14-lbrut-food-waste
 category: around_town
 date: 2019-10-14 00:00:00

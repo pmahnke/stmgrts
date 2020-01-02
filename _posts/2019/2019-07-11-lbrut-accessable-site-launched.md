@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Richmond Access Guide is launched"
-permalink: /archive/2019/07/lbrut-accessable-site-launched.html
+permalink: /archives/2019/07/lbrut-accessable-site-launched.html
 commentfile: 2019-07-11-lbrut-accessable-site-launched
 category: around_town
 date: 2019-07-11 20:51:18

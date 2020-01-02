@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mayor of London to consider Homebase planning application"
-permalink: /archive/2019/08/homebase-mayor.html
+permalink: /archives/2019/08/homebase-mayor.html
 commentfile: 2019-08-09-homebase-mayor
 category: news
 date: 2019-08-08 07:38:10

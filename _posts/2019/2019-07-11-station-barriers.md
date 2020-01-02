@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Barriers to be installed at St Margarets station"
-permalink: /archive/2019/07/station-barriers.html
+permalink: /archives/2019/07/station-barriers.html
 commentfile: 2019-07-11-station-barriers
 category: news
 author: "Ed Randall"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RMT Industrial Action - 18 to 22 June 2019"
-permalink: /archive/2019/06/swtrains-strike-june-2019.html
+permalink: /archives/2019/06/swtrains-strike-june-2019.html
 commentfile: 2019-06-17-swtrains-strike-june-2019
 category: news
 date: 2019-06-17 17:48:08

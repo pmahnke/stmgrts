@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turner's House celebrates unveiling of the new &pound;20"
-permalink: /archive/2019/10/turner-twenty.html
+permalink: /archives/2019/10/turner-twenty.html
 commentfile: 2019-10-10-turner-twenty
 category: news
 date: 2019-10-10 00:00:00

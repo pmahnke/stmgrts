@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check your polling station before voting"
-permalink: /archive/2019/12/find-your-polling-station.html
+permalink: /archives/2019/12/find-your-polling-station.html
 commentfile: 2019-12-09-find-your-polling-station
 category: around_town
 date: 2019-12-09 00:00:00

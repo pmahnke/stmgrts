@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International food and music charity event - 18 October 2019"
-permalink: /archive/2019/10/event-charity-meal-last-chance.html
+permalink: /archives/2019/10/event-charity-meal-last-chance.html
 commentfile: 2019-10-04-event-charity-meal-last-chance
 category: around_town
 date: 2019-10-04 00:00:00

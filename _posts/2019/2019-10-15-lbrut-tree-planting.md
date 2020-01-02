@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Council to improve air quality with more trees"
-permalink: /archive/2019/10/lbrut-tree-planting.html
+permalink: /archives/2019/10/lbrut-tree-planting.html
 commentfile: 2019-10-15-lbrut-tree-planting
 category: around_town
 date: 2019-10-15 00:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New initiative to encourage young people to be Street W!se"
-permalink: /archive/2019/11/lbrut-street-wise.html
+permalink: /archives/2019/11/lbrut-street-wise.html
 commentfile: 2019-11-29-lbrut-street-wise
 category: news
 date: 2019-11-29 00:00:00

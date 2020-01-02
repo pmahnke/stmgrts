@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Council to consult on borough's first School Streets"
-permalink: /archive/2019/06/lbrut-school-streets.html
+permalink: /archives/2019/06/lbrut-school-streets.html
 commentfile: 2019-09-25-lbrut-school-streets
 category: news
 date: 2019-09-25 00:00:00

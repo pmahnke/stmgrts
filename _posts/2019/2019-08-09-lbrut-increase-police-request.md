@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Council calls for increased police presence"
-permalink: /archive/2019/08/lbrut-increase-police-request.html
+permalink: /archives/2019/08/lbrut-increase-police-request.html
 commentfile: 2019-08-09-lbrut-increase-police-request
 category: news
 date: 2019-08-08 08:08:25

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yogalates and Mindfulness 5-week programme"
-permalink: /archive/2019/06/yogalates-summer-2019.html
+permalink: /archives/2019/06/yogalates-summer-2019.html
 commentfile: 2019-06-09-yogalates-summer-2019
 category: around_town
 date: 2019-06-09 09:38:39

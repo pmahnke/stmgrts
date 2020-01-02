@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Queen Victoria and food lecture - 26 September 2019"
-permalink: /archive/2019/09/event-queen-vic-and-food.html
+permalink: /archives/2019/09/event-queen-vic-and-food.html
 commentfile: 2019-09-16-event-queen-vic-and-food
 category: around_town
 date: 2019-09-16 19:42:33

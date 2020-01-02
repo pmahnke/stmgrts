@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Local vacancies: French and Spanish speakers"
-permalink: /archive/2019/09/local-vacancies-language-teachers.html
+permalink: /archives/2019/09/local-vacancies-language-teachers.html
 commentfile: 2019-09-16-local-vacancies-language-teachers
 category: around_town
 date: 2019-09-16 10:58:40

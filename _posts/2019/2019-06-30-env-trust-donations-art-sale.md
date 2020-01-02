@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Environment Trust calls for artists to donate art to its Secret Art Sale"
-permalink: /archive/2019/06/env-trust-donations-art-sale.html
+permalink: /archives/2019/06/env-trust-donations-art-sale.html
 commentfile: 2019-06-30-env-trust-donations-art-sale
 category: around_town
 date: 2019-06-30 11:11:52

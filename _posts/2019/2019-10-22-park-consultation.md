@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parks consultation"
-permalink: /archive/2019/10/park-consultation.html
+permalink: /archives/2019/10/park-consultation.html
 commentfile: 2019-10-22-park-consultation
 category: news
 date: 2019-10-22 00:00:00

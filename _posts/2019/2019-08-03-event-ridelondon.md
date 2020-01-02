@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prudential RideLondon - 3 and 4 August 2019"
-permalink: /archive/2019/08/event-ridelondon.html
+permalink: /archives/2019/08/event-ridelondon.html
 commentfile: 2019-08-03-event-ridelondon
 category: around_town
 date: 2019-08-02 12:14:01

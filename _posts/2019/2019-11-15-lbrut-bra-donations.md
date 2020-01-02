@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bank your bras at Richmond Council"
-permalink: /archive/2019/11/lbrut-bra-donations.html
+permalink: /archives/2019/11/lbrut-bra-donations.html
 commentfile: 2019-11-15-lbrut-bra-donations
 category: around_town
 date: 2019-11-15 00:00:00

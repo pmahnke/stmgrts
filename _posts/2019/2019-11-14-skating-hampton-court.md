@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hampton Court Palace ice rink opens 22 November 2019"
-permalink: /archive/2019/11/skating-hampton-court.html
+permalink: /archives/2019/11/skating-hampton-court.html
 commentfile: 2019-11-14-skating-hampton-court
 category: around_town
 date: 2019-11-14 00:00:00

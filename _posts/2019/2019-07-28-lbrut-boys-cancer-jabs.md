@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cancer prevention jab for boys this autumn"
-permalink: /archive/2019/07/lbrut-boys-cancer-jabs.html
+permalink: /archives/2019/07/lbrut-boys-cancer-jabs.html
 commentfile: 2019-07-28-lbrut-boys-cancer-jabs
 category: news
 date: 2019-07-24 16:12:20

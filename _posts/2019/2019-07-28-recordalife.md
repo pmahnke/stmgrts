@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Recordalife - record and print the memoirs of your family members"
-permalink: /archive/2019/07/recordalife.html
+permalink: /archives/2019/07/recordalife.html
 commentfile: 2019-07-28-recordalife
 category: around_town
 date: 2019-07-28 09:59:13

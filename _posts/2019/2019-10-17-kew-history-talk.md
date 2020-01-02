@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Discover the history of Kew Gardens - 18 October 2019"
-permalink: /archive/2019/10/kew-history-talk.html
+permalink: /archives/2019/10/kew-history-talk.html
 commentfile: 2019-10-17-kew-history-talk
 category: around_town
 date: 2019-10-17 00:00:00

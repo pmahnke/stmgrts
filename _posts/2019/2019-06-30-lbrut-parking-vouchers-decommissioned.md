@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paper Parking Voucher Scheme to end"
-permalink: /archive/2019/06/lbrut-parking-vouchers-decommissioned.html
+permalink: /archives/2019/06/lbrut-parking-vouchers-decommissioned.html
 commentfile: 2019-06-30-lbrut-parking-vouchers-decommissioned
 category: news
 date: 2019-06-30 10:45:34

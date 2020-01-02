@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Famous actors and artists line up to donate art to Environment Trust's Secret Art Sale"
-permalink: /archive/2019/08/envtrust-secret-art-sale-donations.html
+permalink: /archives/2019/08/envtrust-secret-art-sale-donations.html
 commentfile: 2019-08-14-envtrust-secret-art-sale-donations
 category: news
 date: 2019-08-14 19:33:55

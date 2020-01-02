@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Serving up a terrific summer of tennis"
-permalink: /archive/2019/07/lbrut-tennis-lessons.html
+permalink: /archives/2019/07/lbrut-tennis-lessons.html
 commentfile: 2019-07-05-lbrut-tennis-lessons
 category: around_town
 date: 2019-07-05 17:40:39

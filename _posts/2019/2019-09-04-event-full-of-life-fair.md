@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Full of Life Fair - 4 October 2019"
-permalink: /archive/2019/09/event-full-of-life-fair.html
+permalink: /archives/2019/09/event-full-of-life-fair.html
 commentfile: 2019-09-04-event-full-of-life-fair
 category: around_town
 date: 2019-09-04 13:28:16

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Libraries celebrate Black History Month"
-permalink: /archive/2019/09/libraries-black-history-month.html
+permalink: /archives/2019/09/libraries-black-history-month.html
 commentfile: 2019-09-26-libraries-black-history-month
 category: around_town
 date: 2019-09-26 09:24:18

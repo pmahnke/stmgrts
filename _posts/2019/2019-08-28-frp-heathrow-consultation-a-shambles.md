@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heathrow consultation 'a shambles'"
-permalink: /archive/2019/08/frp-heathrow-consultation-a-shambles.html
+permalink: /archives/2019/08/frp-heathrow-consultation-a-shambles.html
 commentfile: 2019-08-28-frp-heathrow-consultation-a-shambles
 category: news
 date: 2019-08-28 15:06:22

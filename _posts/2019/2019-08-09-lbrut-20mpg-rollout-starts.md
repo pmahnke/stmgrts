@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "20mph limit roll-out begins"
-permalink: /archive/2019/08/lbrut-20mpg-rollout-starts.html
+permalink: /archives/2019/08/lbrut-20mpg-rollout-starts.html
 commentfile: 2019-08-09-lbrut-20mpg-rollout-starts
 category: news
 date: 2019-08-08 08:17:22

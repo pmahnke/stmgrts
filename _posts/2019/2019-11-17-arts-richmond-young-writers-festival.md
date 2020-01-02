@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Young Writers' Festival launch"
-permalink: /archive/2019/11/arts-richmond-young-writers-festival.html
+permalink: /archives/2019/11/arts-richmond-young-writers-festival.html
 commentfile: 2019-11-17-arts-richmond-young-writers-festival
 category: around_town
 date: 2019-11-17 15:55:44

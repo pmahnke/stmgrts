@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kick-start your career in Local Government"
-permalink: /archive/2019/06/lbrut-graduate-development-programme.html
+permalink: /archives/2019/06/lbrut-graduate-development-programme.html
 commentfile: 2019-06-09-lbrut-graduate-development-programme
 category: around_town
 date: 2019-06-09 08:34:05

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vince Cable to stand down as an MP"
-permalink: /archive/2019/09/vince-stepping-down.html
+permalink: /archives/2019/09/vince-stepping-down.html
 commentfile: 2019-09-06-vince-stepping-down
 category: news
 date: 2019-09-06 17:29:24

@@ -7,46 +7,27 @@ category: around_town
 date: 2009-10-23 14:56:32
 image: "/assets/images/2009/ruth_ellis-thumb.jpg"
 excerpt: |
-    
-    
-    At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by. The second knocked Blakely to the ground. Ruth calmly walked over to where he was laying and fired the remaining four shots at close range. Still holding the gun in her hand she was immediately arrested by an off duty policeman who heard her say, "I am guilty, I'm a little confused".
-    
-    
-    
-    Although undeniably guilty of the murder Ruth had been the victim of a considerable amount of violent abuse from Blakely. Only 10 days before the shooting Ruth had suffered a miscarriage after Blakely had punched her in the stomach. Although she showed a willingness to accept responsibility for her crime Ruth made no real attempt to defend herself in court.  When asked by the Prosecutor...
-    
-bq.      "Mrs Ellis, when you fired that revolver at close range into the body of David Blakely, what did you intend to do?"
-bq.     
-bq.     "It is obvious that when I shot him I intended to kill him," she replied.
-bq.     
-bq. 
-bq. ---
-bq. 
-bq. <a href="/assets/images/2009/ruth_ellis.jpg"><img src="/assets/images/2009/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
-bq. 
-bq. 
+    At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by.
+---
+
+<a href="/assets/images/2009/ruth_ellis.jpg"><img src="/assets/images/2009/ruth_ellis-thumb.jpg" width="150" height="85" alt="RUTH ELLIS AND DAVID BLAKELY"  class="photo right" /></a>
+
+
 At about 9.30pm on the evening of Easter Sunday, 10<sup>th</sup> April 1955 a 28 year old model and nightclub 'hostess' called Ruth Ellis shot and killed her boyfriend David Blakely outside the Magdala pub in South Hampstead. Her first shot missed, injuring a passer-by. The second knocked Blakely to the ground. Ruth calmly walked over to where he was laying and fired the remaining four shots at close range. Still holding the gun in her hand she was immediately arrested by an off duty policeman who heard her say, "I am guilty, I'm a little confused".
-
-
 
 Although undeniably guilty of the murder Ruth had been the victim of a considerable amount of violent abuse from Blakely. Only 10 days before the shooting Ruth had suffered a miscarriage after Blakely had punched her in the stomach. Although she showed a willingness to accept responsibility for her crime Ruth made no real attempt to defend herself in court.  When asked by the Prosecutor...
 
-bq.  "Mrs Ellis, when you fired that revolver at close range into the body of David Blakely, what did you intend to do?"
-bq. 
-bq. "It is obvious that when I shot him I intended to kill him," she replied.
-bq. 
-bq. 
-bq. 
-bq. 
-bq. <a href="/assets/images/2009/ruth_ellis_blakey.jpg"><img src="/assets/images/2009/ruth_ellis_blakey-thumb.jpg" width="121" height="150" alt="RUTH ELLIS" class="photo right" /></a>
-bq. 
-bq. 
-bq. 
-p. On Monday, 20 June 1955 at the Old Bailey in London, dressed in a black suit and white silk blouse with freshly bleached blond hair, Ruth Ellis was found guilty and sentenced to death. The execution was scheduled for the 13<sup>th</sup> July 1955 at Holloway Prison.
+> "Mrs Ellis, when you fired that revolver at close range into the body of David Blakely, what did you intend to do?"
+
+> "It is obvious that when I shot him I intended to kill him," she replied.
+
+<a href="/assets/images/2009/ruth_ellis_blakey.jpg"><img src="/assets/images/2009/ruth_ellis_blakey-thumb.jpg" width="121" height="150" alt="RUTH ELLIS" class="photo right" /></a>
+
+On Monday, 20 June 1955 at the Old Bailey in London, dressed in a black suit and white silk blouse with freshly bleached blond hair, Ruth Ellis was found guilty and sentenced to death. The execution was scheduled for the 13<sup>th</sup> July 1955 at Holloway Prison.
 
 There was a public outcry for a reprieve and thousands of people signed petitions asking for clemency, including 35 members of London County Council. A number of major newspapers ran campaigns on her behalf. The Daily Mirror columnist Cassandra wrote a famous column attacking the sentence.
 
-bq. "The one thing that brings stature and dignity to mankind and raises us above the beasts will have been denied her - pity and the hope of ultimate redemption."
+> "The one thing that brings stature and dignity to mankind and raises us above the beasts will have been denied her - pity and the hope of ultimate redemption."
 
 Now the children in Miss Kirkby's class at Burghley Road Primary School didn't read the Daily Mirror or any other paper for that matter but we all knew about Ruth Ellis and her rapidly approaching execution. Holloway Prison was only a mile from the school and an occasional subject for playground discussion.
 
@@ -56,11 +37,9 @@ In the days before the execution a morbid atmosphere descended over the school. 
 
 <a href="/assets/images/2009/holloway_prison_ruth_ellis.png"><img src="/assets/images/2009/holloway_prison_ruth_ellis-thumb.png" width="150" height="118" alt="THE SCENE OUTSIDE HOLLOWAY PRISON" class="photo right" /></a>
 
-
-
 The execution was scheduled to take place at 9.00am. When we arrived at about 8.00am, apprehensive and unsure about what we doing there, about 1000 people were standing outside the main gate at Holloway, some praying, some holding up placards protesting the execution and some just curious as we were. There was a muted fury in the air and a dreadful awareness that an awful thing was about to happen and there was absolutely nothing that could be done about it.  There was a lot of jostling as journalists and photographers arrived to join the crowd. In the middle of this grim frenzy a policeman came across and asked us what we were doing. As we 'ummed' and 'aaahed' an answer he squatted down to our eye level.
 
-bq. "Back to school, lads," he said. "There's nothing for you here. Go on. Hop it!"
+> "Back to school, lads," he said. "There's nothing for you here. Go on. Hop it!"
 
 We were back in class and giving our names to kind and caring Miss Kirkby when they hung Prisoner 9656 Ellis, just after 9.00am. At 9.18am, the execution notice was posted outside the gates and after that the crowd dispersed.
 
@@ -79,5 +58,3 @@ Numerous attempts have been made to grant Ruth Ellis a posthumous pardon, the mo
 I have never forgotten.
 
 <cite>-- from Martyn Day</cite>
-
-
