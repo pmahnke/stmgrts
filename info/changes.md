@@ -9,6 +9,7 @@ Just to share what we are doing on the site we are sharing a _change log_ of all
 
 | Date                        | Description                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|3 January 2020|Added [instapage](https://instant.page/) for quick prefetching.|
 |4 October 2019| Updated the pages based on [csswizardry.com](https://csswizardry.com/) workshop recommendations to improve site speed|
 |10 August 2019|Started using [Cloudinary](https://cloudindary.com) for index page images|
 | 22 May 2018                 | Added [data privacy page](https://stmargarets.london/privacy/) for GDPR                                                                                                                                                                                                                                                                          |
