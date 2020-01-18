@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Attenborough opens Turner and the Thames exhibits"
+title: "Attenborough opens Turner and the Thames exhibit"
 permalink: /archives/2020/01/turner-and-the-thames.html
 commentfile: 2020-01-17-turner-and-the-thames
 category: around_town
