@@ -20,5 +20,5 @@ We still have a couple of tables to sell second-hand family items at &pound;25. 
 
 - [29 February 2020 from 10am to 4pm](https://stmargarets.london/event/event/200705147467)
 - Free entry
-- [Website](https://www.thebigparentevent.com/contactus)
+- [Website](https://www.thebigparentevent.com/)
 - The Crossway, 306 Richmond Road, Twickenham, TW1 2PD
