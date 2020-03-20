@@ -12,6 +12,8 @@ layout: default-empty
 
 <!-- /end stories -->
 
+{% comment %}
+
 <!-- start recent -->
         <div class="row">
           <div class="u-fixed-width">
@@ -23,6 +25,7 @@ layout: default-empty
           </ul>
         </div>
       </div><!-- /end recent -->
+      {% endcomment %}
 
 
       </div><!-- end div col-6 -->
@@ -32,6 +35,40 @@ layout: default-empty
       {% include homepage_weather.html %}
 
       <hr class="u-sv2">
+
+      <div id="events">
+        <h3 class="p-muted-heading">Events</h3>
+        <div class="box" style="background-color:#F4EFC5;">
+          <p>Due to the Covid-19 pandemic, all events in the area have been cancelled or postponed.</p>
+        </div>
+      </div>
+
+      <hr class="u-sv2">
+
+        <h3 class="p-muted-heading">Recent Entries</h3>
+        <ul id="entry_list" class="p-list">
+{% for post in site.posts limit: 10 offset: 6 %}
+          <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
+{% endfor %}
+        </ul>
+
+        <hr class="u-sv2">
+
+        <div id="archives"  class="">
+
+          <h3 class="p-muted-heading"><a href="/archives/">Archives</a></h3>
+
+          <ul>
+            {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
+              <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
+            {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
+          </ul>
+        </div><!-- end div archives -->
+
+
+      {% comment %}
+
+      <hr class="u-sv2">
       {% include homepage_events.html %}
 
       <hr class="u-sv2">
@@ -39,6 +76,7 @@ layout: default-empty
 
       <hr class="u-sv2">
       {% include homepage_forum.html %}
+      {% endcomment %}
 
     </div><!-- end div middle -->
 
@@ -67,6 +105,7 @@ layout: default-empty
       <hr class="u-sv2">
       {% include local_sites.html %}
 
+      {% comment %}
       <hr class="u-sv2">
       <div id="archives"  class="">
 
@@ -78,6 +117,7 @@ layout: default-empty
           {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
         </ul>
       </div><!-- end div archives -->
+      {% endcomment %}
     </div><!-- end div right -->
   </div><!-- end div row -->
 </section>
