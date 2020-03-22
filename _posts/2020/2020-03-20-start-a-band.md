@@ -15,7 +15,7 @@ larger image"><img src="/assets/images/2020/STARTABAND_skiffle-group-thumb.jpg" 
 
 When I was a boy back in the 1950's starting a band was very easy. It was so easy in fact that everyone I knew was either in a band, about to join a band or was starting a band of their own. All you needed in those days was 1) a cheap acoustic guitar, probably made of plywood and knocked together in a tractor factory in Czechoslovakia and 2) a friend who could keep time banging on a saucepan lid. The only musical knowledge you needed was how to play 3 chords (or 4 if you fancied venturing into jazz) and the words of *"Rock Island Line"* by Lonnie Donegan. There were so many bands playing this kind of stuff - skiffle as it was known to aficionados - that they were soon forced to mutate towards other forms of musical outlet. Up in Liverpool the *'Quarry Men'* eventually became the Beatles. In Manchester *'Les Skifflettes'* evolved into the Hollies and in Newcastle the Railroaders changed into first the Drifters than the Shadows.
 
-<div class="box" >
+<div markdown="1" class="box" >
 It is worth mentioning that back in the 1950's small musical assembles weren't called <em>'bands'</em>. The popular terminology was <em>'group'</em> or if you were particularly weird <em>'combo'</em>.
 </div>
 
