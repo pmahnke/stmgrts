@@ -71,7 +71,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- banner -->
 <!-- banner -->
 <header id="navigation" class="p-navigation">
-  <div class="row">
+  <div class="p-navigation__row">
     <div class="p-navigation__banner">
       <div class="p-navigation__logo">
         <a class="p-navigation__link" href="/" accesskey="1" title="St Margarets Community Website">
