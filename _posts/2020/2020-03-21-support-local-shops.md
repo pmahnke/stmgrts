@@ -2,9 +2,9 @@
 layout: post
 title: "Support your local shops - 21 March 2020"
 permalink: /archives/2020/03/support-local-shops.html
-commentfile: 2020-03-21-support-local-shops
+commentfile: 2020-03-25-support-local-shops
 category: around_town
-date: 2020-03-21 13:38:07
+date: 2020-03-25 13:38:07
 image: "/assets/images/2020/support-local.jpg"
 excerpt: |
      Please keep supporting our local pubs and restaurants if you can.  Here is a list of what we currently know.  If you have more information, please leave a comment.
@@ -13,9 +13,9 @@ excerpt: |
 
 Please keep supporting our local pubs and restaurants if you can.  Here is a list of what we currently know.  If you have more information, please leave a comment.
 
-| Pub                                                                          | Status                                                                | Details                                                                                                                                                                                       |
+| Pubs                                                                         | Status                                                                | Details                                                                                                                                                                                       |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [The Ailsa](https://stmargarets.london/directory/pub/201007070426)           | <span markdown="1" class="p-label--in-progress">Anyone know?</span>   |                                                                                                                                                                                               |
+| [The Ailsa](https://stmargarets.london/directory/pub/201007070426)           | <span markdown="1" class="p-label--deprecated">Closed</span>   |                                                                                                                                                                                               |
 | [The Turks Head](https://stmargarets.london/directory/pub/200505231518)      | <span markdown="1" class="p-label--deprecated">Closed</span>          |                                                                                                                                                                                               |
 | [The Crown](https://stmargarets.london/directory/pub/200506090609)           | <span markdown="1" class="p-label--deprecated">Closed</span>          |                                                                                                                                                                                               |
 | [The Rising Sun](https://stmargarets.london/directory/pub/200611051507)      | <span markdown="1" class="p-label--deprecated">Closed</span>          |                                                                                                                                                                                               |
@@ -35,4 +35,4 @@ Please keep supporting our local pubs and restaurants if you can.  Here is a lis
 | [Sunshine & Ravioli](https://stmargarets.london/directory/restaurant/201009031226)       | <span markdown="1" class="p-label--deprecated">Closed</span>          |                                                                                                                                                             |
 | [The Curry Inn Tandoori](https://stmargarets.london/directory/restaurant/200506220006)   | <span markdown="1" class="p-label--new">Takeaways</span>              |                                                                                                                                                             |
 | [The Fish Bar](https://stmargarets.london/directory/restaurant/201009030933)             | <span markdown="1" class="p-label--new">Takeaways</span>              |                                                                                                                                                             |
-| [Zoran's Delicatessen](https://stmargarets.london/directory/restaurant/200506220002)     | <span markdown="1" class="p-label--new">Takeaways</span>              | breakfast, lunch, fresh bread, eggs, pasta and more...                                                                                                      |
+| [Zoran's Delicatessen](https://stmargarets.london/directory/restaurant/200506220002)     | <span markdown="1" class="p-label--deprecated">Closed</span>              |                                                                                                       |
