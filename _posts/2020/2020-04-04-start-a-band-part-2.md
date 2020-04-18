@@ -3,7 +3,8 @@ layout: post
 title: "Take your mind off coronavirus - Start a band - Part 2"
 permalink: /archives/2020/04/start-a-band-part-2.html
 commentfile: 2020-04-04-start-a-band-part-2
-category: around_town|news|editorial
+category: around_town
+author: "Martyn Day"
 date: 2020-04-04 08:57:51
 image: "/assets/images/2020/BAND2_brianjones.jpg"
 excerpt: |
