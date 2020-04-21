@@ -12,18 +12,9 @@ $html = <<EndofHTML;
     <meta http-equiv="content-language" content="en-uk">
  </head>
  <body>
-
+<div class="width: 500px;">
 $content
-
+</div>
  </body>
 </html>
 EndofHTML
-
-
-
-
-
-
-
-
-
