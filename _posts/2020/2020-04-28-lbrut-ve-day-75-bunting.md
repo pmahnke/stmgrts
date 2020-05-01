@@ -23,7 +23,7 @@ In a similar manner to how households in the borough have been decorating window
 
 Hang your bunting with pride over the weekend Friday 8 May - Sunday 10 May and share your pictures on social media using the hashtags #GreatBritishBunting and #RichmondVEDay.
 
-For tips on how to create your bunting, click here.
+For tips on how to create your bunting, [click here](https://www.bbc.co.uk/programmes/articles/4TrqYDyf4PMdLypxzyTwGDg/great-british-bunting).
 
 Cllr Nancy Baldwin, Mayor of Richmond upon Thames, said:
 
