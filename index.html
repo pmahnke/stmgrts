@@ -6,7 +6,7 @@ layout: default-empty
     <div class="col-6">
 
 <!-- main stories -->
-{% for post in site.posts limit: 8 %}
+{% for post in site.posts limit: 6 %}
   {% include index-posts.html %}
 {% endfor %}
 
@@ -18,7 +18,7 @@ layout: default-empty
           <div class="u-fixed-width">
           <h2>Recent Entries</h2>
           <ul id="entry_list" class="p-list">
-{% for post in site.posts limit: 10 offset: 9 %}
+{% for post in site.posts limit: 10 offset: 7 %}
             <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
 {% endfor %}
           </ul>
