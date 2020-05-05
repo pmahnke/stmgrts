@@ -9,7 +9,6 @@ layout: default-empty
 {% for post in site.posts limit: 6 %}
   {% include index-posts.html %}
 {% endfor %}
-
 <!-- /end stories -->
 
 {% comment %}
@@ -18,13 +17,13 @@ layout: default-empty
           <div class="u-fixed-width">
           <h2>Recent Entries</h2>
           <ul id="entry_list" class="p-list">
-{% for post in site.posts limit: 10 offset: 7 %}
+            {% for post in site.posts limit: 10 offset: 7 %}
             <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-{% endfor %}
+            {% endfor %}
           </ul>
         </div>
       </div><!-- /end recent -->
-      {% endcomment %}
+{% endcomment %}
 
 
       </div><!-- end div col-6 -->
