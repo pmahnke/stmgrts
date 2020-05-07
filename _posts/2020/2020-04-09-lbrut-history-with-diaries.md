@@ -9,9 +9,7 @@ image: "/assets/images/2020/lbrut-covid-diary.jpg"
 excerpt: |
     Richmond Library Services are looking for residents to share their experiences of life during lockdown to help future studies on how we coped during the coronavirus pandemic.
 ---
-<a href="/assets/images/2020/lbrut-covid-diary.jpg" title="Click for a larger
-image"><img src="/assets/images/2020/lbrut-covid-diary-thumb.jpg" width="250"
-alt="Image - lbrut-covid-diary"  class="photo right"/></a>
+<a href="/assets/images/2020/lbrut-covid-diary.jpg" title="Click for a larger image"><img src="/assets/images/2020/lbrut-covid-diary-thumb.jpg" width="250" alt="Image - lbrut-covid-diary"  class="photo right"/></a>
 
 Richmond Library Services are looking for residents to share their experiences of life during lockdown to help future studies on how we coped during the coronavirus pandemic.
 
