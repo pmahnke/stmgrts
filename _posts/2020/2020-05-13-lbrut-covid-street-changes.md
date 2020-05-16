@@ -31,21 +31,21 @@ Councillor Alexander Ehmann, Chair of the Transport and Air Quality Committee, f
 
 > "These measures are the first of many, with officers exploring other locations and longer-term improvements that aim to make it safer for people to move around once public movement restrictions are eased."
 
-Notes to Editors:
+### Details
 
 The urgent changes will be rolled out in Richmond Town Centre and East Twickenham, from the week commencing 17 May and include:
 
-George Street, Richmond
+#### George Street, Richmond
 
-Two sections of safety barrier will be placed in the road to create additional space for pedestrians (outside M&S and on the approach to the Duke Street junction).
-The disabled bay outside Tesco will be suspended and two cycle parking spaces will be removed to create additional footway space around the frontage of the store.
-Bus stop A will be closed on George Street. All bus services to operate from bus stop B (outside Top Shop).
+- Two sections of safety barrier will be placed in the road to create additional space for pedestrians (outside M&S and on the approach to the Duke Street junction).
+- The disabled bay outside Tesco will be suspended and two cycle parking spaces will be removed to create additional footway space around the frontage of the store.
+- Bus stop A will be closed on George Street. All bus services to operate from bus stop B (outside Top Shop).
 
-Richmond Bridge and East Twickenham
+#### Richmond Bridge and East Twickenham
 
-A temporary loading bay in King Street will replace three existing pay and display bays (outside numbers 12 - 15), to relieve the loading pressure from George Street as more shops re-open.
-One-way pedestrian flow on each pavement across Richmond Bridge up to the Cambridge Road signalised crossing.
-A temporary extension of the traffic island at the Richmond Bridge/Petersham road junction to assist with crossing movements in relation to the one-way pavements.
-A temporary bus border at the Twickenham bound 'Cresswell Road' bus stop and suspension of the 3 parking bays between this stop and Cambridge Road to provide additional pavement width.
+- A temporary loading bay in King Street will replace three existing pay and display bays (outside numbers 12 - 15), to relieve the loading pressure from George Street as more shops re-open.
+- One-way pedestrian flow on each pavement across Richmond Bridge up to the Cambridge Road signalised crossing.
+- A temporary extension of the traffic island at the Richmond Bridge/Petersham road junction to assist with crossing movements in relation to the one-way pavements.
+- A temporary bus border at the Twickenham bound 'Cresswell Road' bus stop and suspension of the 3 parking bays between this stop and Cambridge Road to provide additional pavement width.
 
 <cite>-- from a Richmond Council press release - 13 May 2020</cite>

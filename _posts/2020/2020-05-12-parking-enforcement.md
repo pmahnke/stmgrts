@@ -33,15 +33,15 @@ To enable those who work in health services or deliver vital community support t
 
 The Council will continue to provide parking enforcement of the serious incidents that could have a more significant impact on safety and traffic flow e.g. yellow lines at road junctions, the obstruction of dropped kerbs, footway parking that intrudes upon pedestrian access etc. However, the additional changes will be enforced over the next few weeks:
 
-Controlled Parking Zones (CPZs)
+#### Controlled Parking Zones (CPZs)
 
 Residents and businesses with permits in Controlled Parking Zones (CPZs) are still currently permitted to park on single yellow lines without penalty. Exceptions are where there are safety risks e.g. corners of junctions, across dropped kerbs and on double yellow lines. Residents or businesses without a permit or that hold a recently expired permit will need to apply/reapply for a dispensation or permit by Monday 25<sup>th</sup> May 2020.
 
-Unauthorised parking
+#### Unauthorised parking
 
 Civil Enforcement Officers will continue to grant a 20-minute grace period (increased from 5 minutes) for unauthorised parking (in all but demonstrably unsafe or obstructive instances) until Monday 25<sup>th</sup> May 2020.
 
-Parking Charges
+#### Parking Charges
 
 The Council will also renew enforcement all on-street parking charges (such as parking meters and pay and display machines) from Monday 25<sup>th</sup> May 2020.
 
