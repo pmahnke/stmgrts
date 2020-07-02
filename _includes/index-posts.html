@@ -2,7 +2,7 @@
   {% if post.image %}
   <div class="p-card__suru">
     {% if post.image %}
-    <img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/stmgrts/image/fetch/w_550,c_scale/w_605,h_192,c_crop,g_auto,q_auto,f_auto/{% endif %}{{ site.url }}{{ post.image  | remove:'-thumb' | remove:'_thumb' }}" width="605" {% if jekyll.environment == "development" %}class="photo-featured" {% endif %}alt="" />
+    <a href="{{ post.url | prepend: site.baseurl }}"><img src="{% if jekyll.environment == "production" %}https://res.cloudinary.com/stmgrts/image/fetch/w_550,c_scale/w_605,h_192,c_crop,g_auto,q_auto,f_auto/{% endif %}{{ site.url }}{{ post.image  | remove:'-thumb' | remove:'_thumb' }}" width="605" {% if jekyll.environment == "development" %}class="photo-featured" {% endif %}alt="" /></a>
     {% endif %}
     <div class="p-card__suru-image">
       <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 320 36"><g fill="none" fill-rule="nonzero"><g opacity=".3"><path fill="#000" d="M0 0l320 36H0z"></path><path fill="#FFF" d="M0 0l320 36H0z"></path></g><path fill="#FFF" d="M0 12l320 24H0z" opacity=".6"></path><path fill="#FFF" d="M0 24l320 12H0z"></path></g></svg>
