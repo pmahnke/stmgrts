@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Looking Lively, and Arty, from your Sofa"
-permalink: /archives/2020/07/lbrut-open-toe-sandals.html
-commentfile: 2020-07-23-lbrut-open-toe-sandals
+permalink: /archives/2020/07/arts-society-online.html
+commentfile: 2020-07-23-arts-society-online
 category: around_town
 date: 2020-07-23 10:00:00
 image: "/assets/images/2020/arts-society-jenny-lebus.jpg"
