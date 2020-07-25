@@ -12,6 +12,7 @@ permalink: /prm/
             <h3><span class="caps">TEXT</span></h3>
             <ul>
               <li><a target="_blank" href="http://intl.transitionelement.com/rt/convertText.cgi">convertText</a></li>
+              <li><a target="_blank" href="https://intl.transitionelement.com/rt/convertBlog.cgi">convertBlog</a></li>
               <li><a target="_blank" href="/static/editPages_sm.cgi">edit pages</a></li>
               <li><a target="_blank" href="/cgi-bin/multiemail2.cgi">emailer</a></li>
             </ul>
