@@ -26,4 +26,4 @@ Each two-hour class is suitable for all levels and includes a weekly theme, brea
 
 All classes will be from 7 to 9pm on Thursday evenings, starting from September 3<sup>rd</sup> and running on consecutive weeks up until October 22<sup>nd</sup>. The full course cost is typically &pound;250, however as this course will be via video conference (Zoom), the revised online cost is &pound;195.
 
-If you would like to book your place or find out more, please do get in touch: [sammiemason1@googlemail.com](mailto:sammiemason1@googlemail.com)
+If you would like to book your place or find out more, please do get in touch: [loveyogalondon@gmail.com](mailto:loveyogalondon@gmail.com) and [www.loveyogalondon.co.uk](https://www.loveyogalondon.co.uk).
