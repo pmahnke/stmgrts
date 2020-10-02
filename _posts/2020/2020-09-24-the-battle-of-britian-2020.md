@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Battle of Britian 2020"
-permalink: /archives/2020/09/the-battle-of-britian-2020.html
-commentfile: 2020-09-24-the-battle-of-britian-2020
+title: "The Battle of Britain 2020"
+permalink: /archives/2020/09/the-battle-of-britain-2020.html
+commentfile: 2020-09-24-the-battle-of-britain-2020
 category: around_town
 date: 2020-09-24 10:00:00
 image: "/assets/images/2020/BB2020_coronavirus.jpg"
