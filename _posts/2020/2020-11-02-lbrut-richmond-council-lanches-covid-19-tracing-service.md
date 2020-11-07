@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richmond Council lanches Covid-19 tracing service"
+title: "Richmond Council launches Covid-19 tracing service"
 permalink: /archives/2020/11/lbrut-richmond-council-lanches-covid-19-tracing-service.html
 commentfile: 2020-11-02-lbrut-richmond-council-lanches-covid-19-tracing-service
 category: news
