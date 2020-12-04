@@ -17,7 +17,7 @@ A new local dance company is holding dance and drama workshops over the Easter h
 
 *Too Cool For Skool Dance Company* is a local arts-in-education company founded by Artistic Director Livia Maciejowska in April 2005. Livia was trained at the world renowned Laban, centre for Contemporary Dance after her degree in Contemporary Arts from Manchester Metropolitan University. Working with local schools in Richmond and Hounslow, Too Cool for Skool already provides dance training to young people at key stages one and two, aged 7 to 11, and is adding drama to its repertoire.
 
-Livia Maciejowska said, “Our popularity in local schools has enabled us to expand and offer drama training. This is very exciting because there aren’t many dance companies for young people that offer a combination of dance and drama. But this gives us the chance to provide a very varied programme for our workshops.”
+Livia Maciejowska said, "Our popularity in local schools has enabled us to expand and offer drama training. This is very exciting because there aren't many dance companies for young people that offer a combination of dance and drama. But this gives us the chance to provide a very varied programme for our workshops."
 
 Students at the Easter Workshops will take sessions in street dance, jazz and contemporary dance, alongside drama, improvisation skills and role-play. This will all culminate in a performance of their devised work on the last day.
 

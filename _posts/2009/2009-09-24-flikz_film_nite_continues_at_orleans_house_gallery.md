@@ -20,8 +20,8 @@ excerpt: |
 
 Flikz is aimed at young people between 12 and 19, and is a great activity taking place on the last Wednesday of every month from 6:00 to 8.30: and the next one will take place next Wednesday 30<sup>th</sup> September .
 
-It is completely free, and there will be snacks for those attending. The idea is to give young people the opportunity to meet in a safe environment after school, and enjoy a film. This month’s choice is:-
+It is completely free, and there will be snacks for those attending. The idea is to give young people the opportunity to meet in a safe environment after school, and enjoy a film. This month's choice is:-
 
 **BE KIND REWIND** Cert 12, starring Jack Black
 
-The Stables Gallery will remain open until 8:30, and we are currently showcasing Ashley Davies: ‘Without Words’ A new body of work with urban imagery as the starting point and those attending FLIKZ can view this show.
+The Stables Gallery will remain open until 8:30, and we are currently showcasing Ashley Davies: 'Without Words' A new body of work with urban imagery as the starting point and those attending FLIKZ can view this show.

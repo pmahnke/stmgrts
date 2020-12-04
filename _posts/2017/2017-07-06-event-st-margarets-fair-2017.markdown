@@ -26,7 +26,7 @@ It's the canine event of the year! Including the legendary 'Leave the Sausage Ch
 - Cutest Puppy - up to 5 months
 - St Margarets Got Talent: entertain us with tricks, fancy dress or whatever!
 - Best Rescue Dog
-- Child’s BFF: tell us why you love your dog so much - for children under 14
+- Child's BFF: tell us why you love your dog so much - for children under 14
 - Golden Oldie 8+ years
 - 'Leave the Sausage' Challenge - for the Butch Parker Trophy
 - Best in Show

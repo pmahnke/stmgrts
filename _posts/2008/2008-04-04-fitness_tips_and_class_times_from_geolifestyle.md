@@ -42,12 +42,12 @@ Fitness Time table
 | Day       | Time    | Place                 | Class               | Level          |
 | Monday    | 12.30pm | Marble Hill Park      | Adult fitness       | Beginner - NEW |
 |           | 2.00pm  | Marble Hill Park\*    | Running group       | Intermediate   |
-| Tuesday   | 10.00am | Marble Hill Park      | Children’s Fit Club | NEW            |
+| Tuesday   | 10.00am | Marble Hill Park      | Children's Fit Club | NEW            |
 | Wednesday | 9.00am  | Orleans Infant School | Running group       | Intermediate   |
-| Thursday  | 1.00pm  | Marble Hill Park      | Children’s Fit Club | NEW            |
+| Thursday  | 1.00pm  | Marble Hill Park      | Children's Fit Club | NEW            |
 |           | 2.00pm  | Marble Hill Park      | Running group       | Advanced       |
 | Friday    | 9.00am  | Orleans Infant School | Running group       | Intermediate   |
-|           | 10.15am | Moor Mead Park        | Children’s Fit Club | NEW            |
+|           | 10.15am | Moor Mead Park        | Children's Fit Club | NEW            |
 | Saturday  | 8.30am  | St Margarets Station  | Long run            | Intermediate   |
 
 -   Meet by the car park in Marble Hill.

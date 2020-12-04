@@ -27,7 +27,7 @@ In November 1939, at the very beginning of the 2<sup>nd</sup> World War, Air Mar
 
 <div markdown="1" class="img_caption right">
 <a href="/assets/images/2011/PHANTOM_neerlanden.png" title="See larger version of - Neerlanden"><img src="/assets/images/2011/PHANTOM_neerlanden_thumb.png" width="150" height="106" alt="Neerlanden" class="photo" /></a>
-<span>Phantom unit Neerlanden 1940 (HQ). Lieutenant-Colonel “Hoppy” Hopkinson is 4<sup>th</sup> from left, smoking a pipe.</span>
+<span>Phantom unit Neerlanden 1940 (HQ). Lieutenant-Colonel "Hoppy" Hopkinson is 4<sup>th</sup> from left, smoking a pipe.</span>
 
 </div>
 "Phantom" was under the command of Wing Commander J.M "Fairy" Fairweather and Lieutenant-Colonel G.F "Hoppy" Hopkinson. Noting the speed of the German 'blitzkrieg" invasion of the Low Countries both men realised that the only way to get the information that their boss needed was by actual ground reconnaissance at the front line. Trying to pick up titbits of intelligence from behind the lines at G.H.Q was not an option.

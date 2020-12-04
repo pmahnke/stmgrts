@@ -9,7 +9,7 @@ image: "/assets/images/2016/orleans-october-2016-poster_thumb.jpg"
 excerpt: |
     _Join us during your half term from 24 to 28 October._
 
-    This half term will be part of the Big Draw 2016. Taking inspiration from this year’s theme STEAM as well as autumn and Halloween, you can create artworks inspired by science and experiment with a range of materials including clay, textiles, printing and more! Have a go at experimenting with light to make shadow puppets, create a drawing robot and make your Halloween costume!
+    This half term will be part of the Big Draw 2016. Taking inspiration from this year's theme STEAM as well as autumn and Halloween, you can create artworks inspired by science and experiment with a range of materials including clay, textiles, printing and more! Have a go at experimenting with light to make shadow puppets, create a drawing robot and make your Halloween costume!
 
 ---
 
@@ -17,7 +17,7 @@ excerpt: |
 
 *Join us during your half term from 24 to 28 October.*
 
-This half term will be part of the Big Draw 2016. Taking inspiration from this year’s theme STEAM as well as autumn and Halloween, you can create artworks inspired by science and experiment with a range of materials including clay, textiles, printing and more! Have a go at experimenting with light to make shadow puppets, create a drawing robot and make your Halloween costume!
+This half term will be part of the Big Draw 2016. Taking inspiration from this year's theme STEAM as well as autumn and Halloween, you can create artworks inspired by science and experiment with a range of materials including clay, textiles, printing and more! Have a go at experimenting with light to make shadow puppets, create a drawing robot and make your Halloween costume!
 
 #### Monday, 24 October - Sculpted Trees or ages 6+
 
@@ -47,7 +47,7 @@ This half term will be part of the Big Draw 2016. Taking inspiration from this y
     Join artist Charlotte Tupper in a kite making workshop where we'll be problem solving how fabrics can fly!
     Using textile techniques and feeling inspired by science experiments, see your fabrics come to life in colour. Use your mathematical mind to shape your materials and build your own kite. Living Posters for ages 9+
 -   **10-3pm**
-    Work with artist Charlotte Cranidge and create your own sci-fi inspired poster! You’ll start the session by creating a mini storyboard using collage techniques before working in collaboration to bring your poster to life!
+    Work with artist Charlotte Cranidge and create your own sci-fi inspired poster! You'll start the session by creating a mini storyboard using collage techniques before working in collaboration to bring your poster to life!
 
 #### Friday, 28 October - Halloween Costume for ages 6+!
 

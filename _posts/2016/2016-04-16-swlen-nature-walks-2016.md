@@ -16,4 +16,4 @@ This spring, South West London Environment Network has organised a series of fre
 
 A two-part Dawn Chorus Walk + Talk on Sunday, 24th April 2016 and Sunday, 1st May 2016, and an Evening Bat Walk on Sunday, 1st May 2016.
 
-For all details, go to [SWLEN’s Walks + Talks webpage](http://www.swlen.org.uk/our-work/walks-and-talks/)
+For all details, go to [SWLEN's Walks + Talks webpage](http://www.swlen.org.uk/our-work/walks-and-talks/)

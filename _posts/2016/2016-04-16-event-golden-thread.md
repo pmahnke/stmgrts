@@ -14,11 +14,11 @@ excerpt: |
 
 *The Golden Thread: An Exhibition Celebrating 50 years (1966 – 2016) of the Arts in Richmond upon Thames*
 
-Where will you find costumes worn by Rudolf Nureyev and Margot Fonteyn; Midsummer’s Night Dream enacted by puppets; and over 100 ceramic swans? The answer is at Arts Richmond’s 50th Anniversary.
+Where will you find costumes worn by Rudolf Nureyev and Margot Fonteyn; Midsummer's Night Dream enacted by puppets; and over 100 ceramic swans? The answer is at Arts Richmond's 50th Anniversary.
 
 The Golden Thread exhibition includes exhibits from a wide range of arts and cultural organisations affiliated to Arts Richmond in an exuberant celebration of the wealth of the arts of all kinds in the borough.
 
-The Exhibition also highlights Arts Richmond’s own proud history of its contribution to Richmond’s rich and varied cultural life particularly through the Swan Drama Awards, Arts & Photography Exhibitions and Choral Workshops, and Literature events.
+The Exhibition also highlights Arts Richmond's own proud history of its contribution to Richmond's rich and varied cultural life particularly through the Swan Drama Awards, Arts & Photography Exhibitions and Choral Workshops, and Literature events.
 
 To celebrate the Exhibition, Arts Richmond has programmed a series of showcase weekends, which will showcase a selection of societies current programmes, activities and events on the below dates:
 

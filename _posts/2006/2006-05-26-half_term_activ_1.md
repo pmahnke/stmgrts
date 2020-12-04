@@ -27,7 +27,7 @@ Call or check website for full details.
 
 Purcell Room, London SE1. 08703 800 400. [www.rfh.org.uk](http:www.rfh.org.uk/)
 
--   Mon 29 May to Thu 1 Jun. THEATRO DI PIAZZA O D'OCCASIONE. “THE JAPANESE GARDEN”
+-   Mon 29 May to Thu 1 Jun. THEATRO DI PIAZZA O D'OCCASIONE. "THE JAPANESE GARDEN"
     A fantasy fusion of storytelling, performance and technology, the show is set within a larger-than-life electronic landscape, allowing for a unique and unusually intimate interactive experience. £7/&pound;10.
 
 ### Puppet Theatre Barge
@@ -67,5 +67,5 @@ Open daily 10am-4.50pm, until 10pm on the first Friday of each month
 
 -   **The Bank of England Museum** ([www.bankofengland.co.uk](http://www.bankofengland.co.uk/)) provides a fascinating insight into one of the oldest banking systems in the world. There are banknotes and gold bars on display and plenty of hands-on exhibits for fledgling bankers. (Should have reopened on 2 May 2006 after redecoration, but please check before you visit.)
 -   Another fascinating insight into domestic life can be found at the **Geffrye Museum** ([www.geffrye-museum.org.uk](http://www.geffrye-museum.org.uk/)). The displays lead the visitor through domestic interiors from the 17th century to the present time. There are wonderful period gardens and an award-winning herb garden too.
--   **The National Maritime Museum** ([www.nmm.ac.uk](http://www.nmm.ac.uk/)) houses the world’s largest collection of items relating to seafaring. Special children’s activities, such as games for younger children and worksheets for the older ones, are on offer.
+-   **The National Maritime Museum** ([www.nmm.ac.uk](http://www.nmm.ac.uk/)) houses the world's largest collection of items relating to seafaring. Special children's activities, such as games for younger children and worksheets for the older ones, are on offer.
 -   Another wonderful South London institution is the **Horniman Museum** ([www.horniman.ac.uk](http://www.horniman.ac.uk/)). It specialises in world culture and natural history and is very child-friendly. It also boasts a wonderful garden.

@@ -18,7 +18,7 @@ For February Half-term 2011, Orleans House Gallery are offering a range of fun, 
 
 #### Gulliver's Travels
 
-Work with Dawn Smithers to make pages for a huge book that turns you into one of Gulliver’s tiny people. Transform your page into a scroll to take home to your family.
+Work with Dawn Smithers to make pages for a huge book that turns you into one of Gulliver's tiny people. Transform your page into a scroll to take home to your family.
 
 -   10am - 3pm Wednesday 23 February.
 -   £25 per day.

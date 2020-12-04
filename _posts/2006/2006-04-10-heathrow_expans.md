@@ -30,7 +30,7 @@ Vice Chairman
 
 bq.. "Here's a marvellous new way to help HACAN with its campaign against too many Heathrow flights -- and at the same time enjoy a real treat for yourself. You do nothing except sit back and have a good laugh!
 
-I am a novelist and playwright, recently staged in London. My latest play is called This is Your Captain Speaking. It's a great laugh-a-minute farce, about a man who lives and works -- and complains! -- somewhere under the flight path in Kew, and the trouble he lands in when he says to his lady-friend 'Next time I’m going to take real action, no pussyfooting.'
+I am a novelist and playwright, recently staged in London. My latest play is called This is Your Captain Speaking. It's a great laugh-a-minute farce, about a man who lives and works -- and complains! -- somewhere under the flight path in Kew, and the trouble he lands in when he says to his lady-friend 'Next time I'm going to take real action, no pussyfooting.'
 
 She teases him to go and do it; he does and then the balloon really goes up! In the end he wins the girl -or does he?
 

@@ -7,7 +7,7 @@ category: news
 date: 2016-02-25 21:25:51
 image: "/assets/images/2016/street-party-queens-birthday_thumb.jpg"
 excerpt: |
-    Residents are being urged to celebrate the Queen’s 90<sup>th</sup> Birthday this spring by holding a street party as Richmond Council waives fee for Queen's birthday street parties.
+    Residents are being urged to celebrate the Queen's 90<sup>th</sup> Birthday this spring by holding a street party as Richmond Council waives fee for Queen's birthday street parties.
 
 ---
 

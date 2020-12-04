@@ -12,12 +12,12 @@ date: 2007-09-20 08:45:34
 
 Twickenham Town Centre Manager, Ester Worboys, will also give a talk on: The Strategy for Developing Twickenham Town Centre.
 
-Take the opportunity to enjoy an inside view of the hallowed turf of one of Britain’s legendary sports venues from the panoramic perspective of the Wakefield Room.
+Take the opportunity to enjoy an inside view of the hallowed turf of one of Britain's legendary sports venues from the panoramic perspective of the Wakefield Room.
 
 [Tuesday 2 October 2007, 6.30pm–8pm](/event/meeting/200705141687)
 
 Wakefield Room, East Stand, Twickenham Rugby Stadium, Rugby Road, Twickenham
-Pedestrians and cars should enter via Gate F on Rugby Road (there’s parking on the concourse, close to Gate F).
+Pedestrians and cars should enter via Gate F on Rugby Road (there's parking on the concourse, close to Gate F).
 
 Go to the Lift Shaft near Gate F and take the lift up to Level 3 – Wakefield is through the doors and immediately in front of you.
 

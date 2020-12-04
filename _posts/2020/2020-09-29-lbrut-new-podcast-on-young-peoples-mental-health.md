@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New podcast on young people’s mental health"
+title: "New podcast on young people's mental health"
 permalink: /archives/2020/09/lbrut-new-podcast-on-young-peoples-mental-health.html
 commentfile: 2020-09-29-lbrut-new-podcast-on-young-peoples-mental-health
 category: news

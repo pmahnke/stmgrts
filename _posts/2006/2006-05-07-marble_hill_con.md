@@ -45,9 +45,9 @@ In addition, on the day of the concerts:
 
 #### Why is this year important?
 
-IMG is applying under the new Licensing Act for a premises licence for five concerts this year and six thereafter. When a licence is granted, it is for an indefinite period. It is therefore essential that the licence granted this year places a maximum limit on the audience size (now 8,000) and the length of concerts. If it doesn’t, IMG will be free to expand the size and change the nature of their programmes.
+IMG is applying under the new Licensing Act for a premises licence for five concerts this year and six thereafter. When a licence is granted, it is for an indefinite period. It is therefore essential that the licence granted this year places a maximum limit on the audience size (now 8,000) and the length of concerts. If it doesn't, IMG will be free to expand the size and change the nature of their programmes.
 
-It is therefore vital to make your comments known about this year’s application before the license is granted as it will affect future years.
+It is therefore vital to make your comments known about this year's application before the license is granted as it will affect future years.
 
 #### What can you do?
 

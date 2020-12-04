@@ -25,6 +25,6 @@ He took over Lib Dem leadership from Tim Farron, continuing to lead the party in
 
 When Sir Vince stepped down as leader in May, Mr Farron said his legacy was to have saved his party from possible extinction after its election trauma in 2015.
 
-Under his leadership, the Lib Dems witnessed a grassroots revival, with the party taking control of a host of councils during May’s local elections."
+Under his leadership, the Lib Dems witnessed a grassroots revival, with the party taking control of a host of councils during May's local elections."
 
 <cite>- [BBC](https://www.bbc.co.uk/news/uk-england-london-49499015) - 28 August 2019</cite>

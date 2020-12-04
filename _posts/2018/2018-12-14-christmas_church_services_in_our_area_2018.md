@@ -17,7 +17,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 ### St Margarets Catholic Church
 
 -  Christmas Eve
-    - 6:00 pm - Children’s Christmas Mass
+    - 6:00 pm - Children's Christmas Mass
     - 11:30 pm - Vigil of Christmas and carols
 -  Christmas Day
     - 8:30 am - Masses of the Nativity

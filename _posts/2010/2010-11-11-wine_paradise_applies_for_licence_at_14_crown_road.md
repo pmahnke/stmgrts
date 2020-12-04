@@ -9,7 +9,7 @@ date: 2010-11-11 20:57:55
 ---
 
 <p>
-<strong>Wine Paradise</strong>, a discount off-licence, has applied for a licence to sell alcohol all week from 10am to 10pm at 14 Crown Road, site of the BabyDom shop. Recently Nike News, Look In Video and the newsagents at the end of Crown Road have all been granted licences. We also understand that there has been considerable interest in this shop, including; other wine shops, a fish monger, a baker, a Laundromat, so there hasn’t been a lack of interest in the shop.
+<strong>Wine Paradise</strong>, a discount off-licence, has applied for a licence to sell alcohol all week from 10am to 10pm at 14 Crown Road, site of the BabyDom shop. Recently Nike News, Look In Video and the newsagents at the end of Crown Road have all been granted licences. We also understand that there has been considerable interest in this shop, including; other wine shops, a fish monger, a baker, a Laundromat, so there hasn't been a lack of interest in the shop.
 
 </p>
 <p>

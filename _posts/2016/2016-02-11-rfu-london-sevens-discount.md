@@ -7,7 +7,7 @@ category: around_town
 date: 2016-02-11 20:29:05
 image: "/assets/images/2016/LondonSevensCommunityTicket_thumb.jpg"
 excerpt: |
-    The Rugby Football Union (RFU) is offering local residents exclusive access to discounted tickets for this year’s HSBC London Sevens, as part of its ongoing commitment to the local community.
+    The Rugby Football Union (RFU) is offering local residents exclusive access to discounted tickets for this year's HSBC London Sevens, as part of its ongoing commitment to the local community.
 
 ---
 

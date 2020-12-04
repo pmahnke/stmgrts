@@ -23,9 +23,9 @@ We have full and half day workshops for ages 0-17 with professional artists spec
 |Thursday 5 April|Easter Bowls|2–4pm|7+|£14|
 |Friday 6 April|The 8th Wonder|10am–3pm|11+|£32|
 |Monday 9 April|FAMILY FUN|2–4pm|4+|£9|
-|Tuesday 10 April|Let’s Set Sail|10am–12pm|4+|£14|
+|Tuesday 10 April|Let's Set Sail|10am–12pm|4+|£14|
 |Tuesday 10 April|Mythical Heroes|10am–12pm|7+|£14|
-|Tuesday 10 April|Let’s Set Sail|2–4pm|4+|£14|
+|Tuesday 10 April|Let's Set Sail|2–4pm|4+|£14|
 |Tuesday 10 April|Mythical Heroes|2–4pm|7+|£14|
 |Wednesday 11th|The 8th Wonder|10am–3pm|7+|£32|
 |Wednesday 11 April|Hanging Gardens|10am–3pm|11+|£32|

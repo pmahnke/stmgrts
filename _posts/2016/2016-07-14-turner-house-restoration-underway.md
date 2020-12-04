@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Turner’s House Restoration Well Underway"
+title: "Turner's House Restoration Well Underway"
 permalink: /archives/2016/07/turner-house-restoration-underway.html
 commentfile: 2016-07-14-turner-house-restoration-underway
 category: news
@@ -8,7 +8,7 @@ date: 2016-07-14 09:10:59
 image: "/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg"
 excerpt: |
     
-    Restoration of Sandycombe Lodge, JMW Turner’s Twickenham country villa, has now begun. With the building fully scaffolded and wrapped against noise and dirt, and a team of specialist contractors well underway, progress has reached an exciting phase.
+    Restoration of Sandycombe Lodge, JMW Turner's Twickenham country villa, has now begun. With the building fully scaffolded and wrapped against noise and dirt, and a team of specialist contractors well underway, progress has reached an exciting phase.
 ---
 
 <img src="/assets/images/2016/Turners-sandycombe-lodge_thumb.jpg" width="250" height="143" alt="Turners Sandycombe Lodge" class="photo right">

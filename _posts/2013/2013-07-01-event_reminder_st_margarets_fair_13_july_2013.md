@@ -30,7 +30,7 @@ During the afternoon there is a <a href="http://www.stmargaretsfair.org/dogshow.
 
 </li>
 <li>
-The <a href="http://www.stmargaretsfair.org/music.html">musical entertainment</a> runs all afternoon on the stage, and we moved the stage further away from the tea tent to help separate the <a href="http://www.stmargaretsfair.org/music.html">‘rock’</a> from the <a href="http://www.stmargaretsfair.org/food.html">rolls</a>.
+The <a href="http://www.stmargaretsfair.org/music.html">musical entertainment</a> runs all afternoon on the stage, and we moved the stage further away from the tea tent to help separate the <a href="http://www.stmargaretsfair.org/music.html">'rock'</a> from the <a href="http://www.stmargaretsfair.org/food.html">rolls</a>.
 
 </li>
 <li>

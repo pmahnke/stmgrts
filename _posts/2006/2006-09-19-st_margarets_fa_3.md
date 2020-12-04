@@ -10,7 +10,7 @@ excerpt: |
 
     This year's July Fair raised a record &pound;18,000, and here's where the money is going.
 
-    &pound;1,500 pays for Christmas presents and a meal in the Turks Head for many of St Margarets older residents. There’s a £500 donation to Marble Hill Play Centres. As always the four local schools receive around 50% of the profits, distributed on a points system awarded for the tasks they undertook for the Fair.
+    &pound;1,500 pays for Christmas presents and a meal in the Turks Head for many of St Margarets older residents. There's a £500 donation to Marble Hill Play Centres. As always the four local schools receive around 50% of the profits, distributed on a points system awarded for the tasks they undertook for the Fair.
 
 ---
 
@@ -18,7 +18,7 @@ excerpt: |
 
 This year's July Fair raised a record £18,000, and here's where the money is going.
 
-£1,500 pays for Christmas presents and a meal in the Turks Head for many of St Margarets older residents. There’s a £500 donation to Marble Hill Play Centres. As always the four local schools receive around 50% of the profits, distributed on a points system awarded for the tasks they undertook for the Fair.
+£1,500 pays for Christmas presents and a meal in the Turks Head for many of St Margarets older residents. There's a £500 donation to Marble Hill Play Centres. As always the four local schools receive around 50% of the profits, distributed on a points system awarded for the tasks they undertook for the Fair.
 
 For organising the football competition and providing the stewards, St Stephens get £2,613. St Mary's took charge of the litter collection and post fair clean up, and receive £1,959. Little Orleans also receives £1,959 for organising the barbecue. Orleans Park get £1,469 for running the Pimms stall and taking charge of the printed programme and all its advertisements.
 

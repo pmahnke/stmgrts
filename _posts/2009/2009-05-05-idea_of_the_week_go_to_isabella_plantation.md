@@ -18,4 +18,4 @@ We just went to [Isabella Plantation](http://www.royalparks.org.uk/parks/richmon
 
 Here is Royal Parks description of the plantation:
 
-> “The Isabella Plantation is a beautiful woodland garden inside Richmond Park that houses a fine collection of azaleas, including the National Collection of 50 Japanese azalea varieties introduced to the West around 1920 by the famous plant collector, Ernest Wilson. Rhododendrons, camellias, and magnolias thrive under a mature woodland canopy with many other acid-loving plants.”
+> "The Isabella Plantation is a beautiful woodland garden inside Richmond Park that houses a fine collection of azaleas, including the National Collection of 50 Japanese azalea varieties introduced to the West around 1920 by the famous plant collector, Ernest Wilson. Rhododendrons, camellias, and magnolias thrive under a mature woodland canopy with many other acid-loving plants."

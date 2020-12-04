@@ -62,7 +62,7 @@ The [debate will continue online](/cgi-bin/yabb/YaBB.pl?board=LDF) in the first 
 There will be another meeting later in the year.
 
 Judy Maciejowska
-7th June ‘06
+7th June '06
 
 ### Links
 

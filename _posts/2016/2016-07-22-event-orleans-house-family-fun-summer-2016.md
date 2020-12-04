@@ -18,7 +18,7 @@ Join us this summer for an exciting series of new family workshops and walks exp
 
 Join us this summer for an exciting series of new family workshops exploring the heritage, stories and surroundings of Orleans House Gallery. Suitable for children aged 8 and under.
 
-We would like to welcome children and parents to an afternoon of fun arts and crafts at Orleans House Gallery. You’ll create collaborative and individual artworks to take home inspired by our collection, nature and the local landscape. You will even have a chance to adventure into the future!
+We would like to welcome children and parents to an afternoon of fun arts and crafts at Orleans House Gallery. You'll create collaborative and individual artworks to take home inspired by our collection, nature and the local landscape. You will even have a chance to adventure into the future!
 Sessions cost £9 per child, with parents coming along for free! Booking is essential. All bookings are final and non-refundable. Please call 020 8831 6000 or book online.
 
 #### Family Fun: Tweet Tweet

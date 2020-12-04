@@ -8,7 +8,7 @@ date: 2005-11-24 16:07:08
 
 ---
 
-When our daughter first heard we were considering moving from the US to England, she just couldn’t stop laughing. She thought it was a joke. Nevertheless, we are here and the things that are different are not necessarily what we anticipated...
+When our daughter first heard we were considering moving from the US to England, she just couldn't stop laughing. She thought it was a joke. Nevertheless, we are here and the things that are different are not necessarily what we anticipated...
 
 <div markdown="1" class="recipe">
 ### The World of Daniel

@@ -85,7 +85,7 @@ There are potted biographies...
 
 <pre class="poem">
 When Charles 11
-         Beckon’d
+         Beckon'd
 Nell
          Fell!
 </pre>

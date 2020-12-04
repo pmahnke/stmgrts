@@ -12,7 +12,7 @@ date: 2008-11-14 11:35:56
 
 **The fair is scheduled for the 12<sup>th</sup> December 4:30pm – 9:30pm.**
 
-We have a program of live entertainment, hot food, mulled wine, Santa’s grotto, a choir, a fancy dress competition and lots more
+We have a program of live entertainment, hot food, mulled wine, Santa's grotto, a choir, a fancy dress competition and lots more
  
 We would like to ask for volunteers to help set up on the day of the event, clearing up, selling raffle tickets and holding donation buckets.
 

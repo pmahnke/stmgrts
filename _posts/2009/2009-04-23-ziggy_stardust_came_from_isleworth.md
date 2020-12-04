@@ -30,7 +30,7 @@ In 1958 when Brian was 18 years old his sister Sheila moved to Los Angeles and t
 
 Like most teenagers of the time Brian was a confirmed rock 'n' roll fan and had ambitions to become a rock star himself. He realised that his best chance of making it was back in Britain where the competition was less hot. One story goes that he heard a record by Tommy Steele, the UK's biggest rock star at the time, and said
 
-<a href="/assets/images/2009/2_is.jpg"><img src="/assets/images/2009/2_is-thumb.jpg" width="150" height="124" alt="THE 2 I’s COFFEE BAR" class="photo right" /></a>
+<a href="/assets/images/2009/2_is.jpg"><img src="/assets/images/2009/2_is-thumb.jpg" width="150" height="124" alt="THE 2 I's COFFEE BAR" class="photo right" /></a>
 
 > "If that passes as rock 'n' roll I can't miss!"
 

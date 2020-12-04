@@ -11,7 +11,7 @@ excerpt: |
     
     Get Spotted in Hyde Park this Sunday September 20<sup>th</sup> at 10.30.
     
-    More and more people are registering every day, so don’t miss out.
+    More and more people are registering every day, so don't miss out.
     
     Don't forget to wear something spotty. There's a magnificent prize for the person wearing the spottiest outfit.
     
@@ -26,7 +26,7 @@ excerpt: |
 
 Get Spotted in Hyde Park this Sunday September 20<sup>th</sup> at 10.30.
 
-More and more people are registering every day, so don’t miss out.
+More and more people are registering every day, so don't miss out.
 
 Don't forget to wear something spotty. There's a magnificent prize for the person wearing the spottiest outfit.
 

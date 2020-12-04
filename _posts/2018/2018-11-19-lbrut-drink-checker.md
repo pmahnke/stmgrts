@@ -7,7 +7,7 @@ category: around_town
 image: "/assets/images/2018/lbrut-drink-checker-thumb.jpg"
 date: 2018-11-19 05:51:59
 excerpt: |
-    Are you drinking responsibly? Keep track of your intake with the Richmond DrinkChecker website. Richmond’s residents are being encouraged to drink responsibly and keep track of their drinking.
+    Are you drinking responsibly? Keep track of your intake with the Richmond DrinkChecker website. Richmond's residents are being encouraged to drink responsibly and keep track of their drinking.
 ---
 
 <a href="/assets/images/2018/lbrut-drink-checker.jpg" title="Click for a larger image"><img src="/assets/images/2018/lbrut-drink-checker-thumb.jpg" width="250" alt="Image - lbrut-drink-checker"  class="photo right"/></a>

@@ -75,7 +75,7 @@ Here is a list of church services for Christmas Eve and Christmas for some local
 ### St Mary's Twickenham
 
 -   17 December 2017
-    -   9.30 am - Children’s Nativity Eucharist
+    -   9.30 am - Children's Nativity Eucharist
     -   8 am & 11.30 am - Book of Common Prayer Eucharists
     -   6.00 pm - Parish Christmas Carol Service
 -   Christmas Eve

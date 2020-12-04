@@ -9,7 +9,7 @@ image: "/assets/images/2010/martin_cheek_mosaic_thumb.jpg"
 excerpt: |
     Come and work with renowned mosaic artist Martin Cheek to create funky animals from fused glass. These will be used to decorate planters for the Croft Centre garden and will be on permanent display.
      
-    Fused glass pieces, which are individually made by Martin, will be available in a wide range of shapes, colours and textures for the group to create their own animals with the theme of ‘above and below ground.’
+    Fused glass pieces, which are individually made by Martin, will be available in a wide range of shapes, colours and textures for the group to create their own animals with the theme of 'above and below ground.'
      
     Each participant will have the chance to select their own glass pieces, and arrange them into a butterfly, spider, beetle, frog, ladybird, or an animal from their own imagination!
      
@@ -25,7 +25,7 @@ For families, children and young people, particularly suitable for those with ad
 
 Come and work with renowned mosaic artist Martin Cheek to create funky animals from fused glass. These will be used to decorate planters for the Croft Centre garden and will be on permanent display.
 
-Fused glass pieces, which are individually made by Martin, will be available in a wide range of shapes, colours and textures for the group to create their own animals with the theme of ‘above and below ground.’
+Fused glass pieces, which are individually made by Martin, will be available in a wide range of shapes, colours and textures for the group to create their own animals with the theme of 'above and below ground.'
 
 Each participant will have the chance to select their own glass pieces, and arrange them into a butterfly, spider, beetle, frog, ladybird, or an animal from their own imagination!
 

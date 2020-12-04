@@ -25,12 +25,12 @@ Originally a recreation ground for the Worple housing estate, the park had deter
 
 Working with Hounslow Council, an ambitious vision and outline proposal has been designed to turn the space into a new nature reserve, to be enjoyed by all.
 
-The proposed landscaping plan includes a wildflower meadow, kingfisher and water vole habitats, a bird/wildlife hide, heritage fruit trees and fruit bearing sun walls – a nod to the area’s market garden history.
+The proposed landscaping plan includes a wildflower meadow, kingfisher and water vole habitats, a bird/wildlife hide, heritage fruit trees and fruit bearing sun walls – a nod to the area's market garden history.
 
 Also featured is a backwater inlet that brings the adjacent river Crane into the nature reserve, with a reed bed, marginal planting and terracing.
 
 In developing the plans the group has worked closely with the Environment Agency. The appointed Design Consultants have assembled a strong team of expert ecologists and river engineers to contribute to the process.
 
-Friends group Chair Vanessa Smith said: “We want this to be a place that ALL local people can enjoy, from dog walkers to those with young children, elderly people and local schools.”
+Friends group Chair Vanessa Smith said: "We want this to be a place that ALL local people can enjoy, from dog walkers to those with young children, elderly people and local schools."
 
 Work on creating the nature reserve is scheduled to begin in spring 2018, ahead of the seasonal habitat activity. Habitat and species analysis over spring and summer will feed into the detailed design of the later landscaping and river phases, planned for later in 2018.

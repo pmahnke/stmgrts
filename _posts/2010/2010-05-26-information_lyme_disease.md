@@ -37,7 +37,7 @@ Lyme Disease Action (LDA) is a UK-registered charity striving for the prevention
 
 ### What is Lyme disease and what are its symptoms?
 
-Lyme disease is caused by the bite of an infected tick and causes a wide range of symptoms which may include a circular red “bull’s eye” rash, headaches, a stiff neck, extreme fatigue, muscle and joint pain, and disturbances of sight, hearing, digestive system and sleep.
+Lyme disease is caused by the bite of an infected tick and causes a wide range of symptoms which may include a circular red "bull's eye" rash, headaches, a stiff neck, extreme fatigue, muscle and joint pain, and disturbances of sight, hearing, digestive system and sleep.
 
 ### Where are ticks found?
 

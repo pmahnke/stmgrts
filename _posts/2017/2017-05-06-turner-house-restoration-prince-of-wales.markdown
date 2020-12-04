@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prince of Wales supports Turner’s House"
+title: "Prince of Wales supports Turner's House"
 permalink: /archives/2017/05/turner-house-restoration-prince-of-wales.html
 commentfile: 2017-05-06-turner-house-restoration-prince-of-wales
 category: news

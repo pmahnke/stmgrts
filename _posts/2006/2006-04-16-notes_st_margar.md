@@ -23,7 +23,7 @@ Hilary Ivory Chair of the [St Margarets Association of Residents](/directory/gro
 It was agreed that this audit should be conducted before any action is taken in order to assess the following:
 
 -   How many residents' cars need to be accommodated?
--   How many commuters' cars are parked in the ‘village' daily?
+-   How many commuters' cars are parked in the 'village' daily?
 -   How many holidaymakers park in St Margaret's, then fly out of Heathrow for a week or more?
 -   How many cars have been abandoned?
 
@@ -31,7 +31,7 @@ In order to come up with the most suitable solution, the conditions need to be d
 
 The Councillors present (Cllrs Hambidge and Lamb), and Mick Potter (Traffic Officer Environment Directorate) agreed to let residents carry out this audit themselves.
 
-The area in which the audit would be conducted was defined as the ‘village': those roads bounded by Chertsey Rd and the railway line, and St Margarets Rd and Moormead Park. There was considerable interest in extending it beyond these boundaries into Orchard Rd and the Trust Grounds. However, sheer logistics make anything wider than this difficult initially. Twenty generous volunteers signed up to offer their services.
+The area in which the audit would be conducted was defined as the 'village': those roads bounded by Chertsey Rd and the railway line, and St Margarets Rd and Moormead Park. There was considerable interest in extending it beyond these boundaries into Orchard Rd and the Trust Grounds. However, sheer logistics make anything wider than this difficult initially. Twenty generous volunteers signed up to offer their services.
 
 ### Next steps:
 

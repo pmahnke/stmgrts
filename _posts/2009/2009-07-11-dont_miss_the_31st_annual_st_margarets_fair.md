@@ -32,4 +32,4 @@ Every year volunteers organise and staff the following:
 -   The BBQ is run by parents from <a href="http://www.lgfl.net/lgfl/leas/richmond/schools/ois/">Orleans Infant School's PTA – FOOI</a>.
 -   Local parents organise a Pimms stall from <a href="http://www.lgfl.net/lgfl/leas/richmond/schools/op/">Orleans Park School.</a>
 -   Site stewarding is done by the parents of children at <a href="http://www.st-stephens.richmond.sch.uk/index.html">St Stephens Junior School</a>, and an early morning team is on site from 7am to help stall holders.
--   The fair site is kept clean by parents at <a href="http://www.st-marys.richmond.sch.uk/">St Mary’s CE School</a> who clean up throughout the day and on the Sunday morning.
+-   The fair site is kept clean by parents at <a href="http://www.st-marys.richmond.sch.uk/">St Mary's CE School</a> who clean up throughout the day and on the Sunday morning.

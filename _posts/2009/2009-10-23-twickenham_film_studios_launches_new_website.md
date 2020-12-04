@@ -9,7 +9,7 @@ image: "/assets/images/2009/tfs_website_thumb.jpg"
 excerpt: |
     <a href="https://stmargarets.london/directory/business_service/200910240404">Twickenham Film Studios</a> have re-launched their website, <a href="http://www.twickenhamstudios.com/,">www.twickenhamstudios.com</a> to meet the needs of their expanding client base.
     
-    Twickenham Studio’s customers, potential customers, associated companies, productions and film fans can visit the website and be kept up to date with important news and current productions.
+    Twickenham Studio's customers, potential customers, associated companies, productions and film fans can visit the website and be kept up to date with important news and current productions.
     
     
 
@@ -19,6 +19,6 @@ excerpt: |
 
 [Twickenham Film Studios](/directory/business_service/200910240404) have re-launched their website, [www.twickenhamstudios.com](http://www.twickenhamstudios.com/), to meet the needs of their expanding client base.
 
-Twickenham Studio’s customers, potential customers, associated companies, productions and film fans can visit the website and be kept up to date with important news and current productions.
+Twickenham Studio's customers, potential customers, associated companies, productions and film fans can visit the website and be kept up to date with important news and current productions.
 
 The site was designed and developed by local web design agency [Phuture Design](/directory/business_service/200810091242).

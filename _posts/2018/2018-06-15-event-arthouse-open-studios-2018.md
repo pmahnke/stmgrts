@@ -9,7 +9,7 @@ date: 2018-06-15 12:06:19
 excerpt: |
     Art House Open Studios is Richmond Upon Thames' annual art extravaganza, celebrating the vast wealth of creative talent that exists within the borough.
 
-    Between 22 June – 1 July 2018 some of the borough’s finest artists will be opening up their homes and studios to the public showcasing a wonderfully diverse range of crafts including: painting, printmaking, wood sculpture, jewellery, ceramics, photography, tapestry, porcelain and digital art.
+    Between 22 June – 1 July 2018 some of the borough's finest artists will be opening up their homes and studios to the public showcasing a wonderfully diverse range of crafts including: painting, printmaking, wood sculpture, jewellery, ceramics, photography, tapestry, porcelain and digital art.
 ---
 
 <a href="/assets/images/2018/ARTHOUSE_2018-flyer.jpg" title="Click for a larger image"><img src="/assets/images/2018/ARTHOUSE_2018-flyer-thumb.jpg" width="250" alt="Image - ARTHOUSE_2018-flyer"  class="photo right"/></a>

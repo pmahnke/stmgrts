@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cycle training with ‘Pedal Up’"
+title: "Cycle training with 'Pedal Up'"
 permalink: /archives/2020/09/cycle-training-with-pedal-up.html
 commentfile: 2020-09-25-cycle-training-with-pedal-up
 category: around_town

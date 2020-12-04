@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Share your community heroes’ story"
+title: "Share your community heroes' story"
 permalink: /archives/2020/07/lbrut-share-your-community-heroes-story.html
 commentfile: 2020-07-30-lbrut-share-your-community-heroes-story
 category: around_town

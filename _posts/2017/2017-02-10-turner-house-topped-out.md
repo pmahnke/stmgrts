@@ -6,7 +6,7 @@ commentfile: 2017-02-10-turner-house-topped-out
 category: news
 date: 2017-02-10 20:30:09
 excerpt: |
-    An exciting stage has been reached in the restoration of Sandycombe Lodge, JMW Turner’s Twickenham country villa.
+    An exciting stage has been reached in the restoration of Sandycombe Lodge, JMW Turner's Twickenham country villa.
 
 ---
 

@@ -18,4 +18,4 @@ A fun and interactive session combining music and storytelling for 2-4 year olds
 
 -   Sessions are Tuesdays 2.00-2.30pm - *term time only*
 -   ETNA is located at 13 Rosslyn Road, Twickenham, TW1 2AR
--   Call Stanley Children’s Centre from 2pm on Mondays to book a place 0208 734 3372
+-   Call Stanley Children's Centre from 2pm on Mondays to book a place 0208 734 3372

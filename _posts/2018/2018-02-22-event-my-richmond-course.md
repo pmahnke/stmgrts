@@ -36,4 +36,4 @@ Sessions take place at Castelnau Library (75 Castelnau, Barnes, SW13 9RT) on:
 
 The course is free, however we suggest booking your place for all 4 classes with us as places are limited.
 
-Don't worry if you can’t make every session. Drop in places may be available on the day but we suggest [booking to ensure your place](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54455).
+Don't worry if you can't make every session. Drop in places may be available on the day but we suggest [booking to ensure your place](https://www2.richmond.gov.uk/Richmondbookings/Details.aspx?Id=54455).

@@ -18,7 +18,7 @@ Everyone is welcome and it is guaranteed to be a fun day out; there will be refr
 
 ### How a Give & Take Day Works
 
-In the morning residents are invited to bring along unwanted household and garden items that are in good condition. In the afternoon (givers and non givers) then have the option to take what they feel they can re-use from the items available, and it’s all free of charge.
+In the morning residents are invited to bring along unwanted household and garden items that are in good condition. In the afternoon (givers and non givers) then have the option to take what they feel they can re-use from the items available, and it's all free of charge.
 
 There will be a qualified electrician on site to safety test all electrical equipment before it is put out on display. Everyone who brings items will be automatically entered into a prize draw to win one of a number of environmental prizes we have to give away -- ranging from compost bins to a week's supply of organic vegetables.
 

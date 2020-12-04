@@ -17,7 +17,7 @@ Imaginary Worlds! Join us from Monday, 3 to Thursday, 13 April 2017 for a range 
 
 -   [Book your place online](https://www2.richmond.gov.uk/Richmondbookings/default.aspx)!
 
-### Plus it’s almost time for the Easter Bunny!
+### Plus it's almost time for the Easter Bunny!
 
 The Easter Bunny returns for his annual visit to Orleans House Gallery on
 Thursday, 13 April 2017.

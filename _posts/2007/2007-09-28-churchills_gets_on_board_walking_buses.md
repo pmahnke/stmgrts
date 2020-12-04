@@ -28,6 +28,6 @@ Further information for parents interested in using the Walking Bus services:
 
 -   Cole Park Walking Bus: <polsunter@aol.com> or <sharon@gower.co.uk>
 -   East Twickenham Walking Bus: <conisbee@blueyonder.co.uk>
--   North St Margaret’s Walking Bus (drops off at St Stephen’s too): <jo_knight@blueyonder.co.uk>
+-   North St Margaret's Walking Bus (drops off at St Stephen's too): <jo_knight@blueyonder.co.uk>
 
 <cite>from a press release</cite>

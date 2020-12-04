@@ -19,7 +19,7 @@ The Richmond Council has granted Tesco additional flexibility on the loading bay
 
 In return, the Council has:
 
-> "recommended that Tesco be asked to contribute to ‘community initiatives’ in the St Margarets area, to demonstrate their commitment to the area and act as a ‘community leader’."
+> "recommended that Tesco be asked to contribute to 'community initiatives' in the St Margarets area, to demonstrate their commitment to the area and act as a 'community leader'."
 
 -- from the <a href="http://cabnet.richmond.gov.uk/mgConvert2PDF.asp?ID=9206">Cabinet Report <em>Tesco St Margarets<br />– Amendments To The Waiting And Loading Restrictions</em></a>, September 2005
 

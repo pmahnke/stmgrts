@@ -9,14 +9,14 @@ image: "/assets/images/2009/st_margs_cpz-thumb.gif"
 excerpt: |
     
     
-    In October 2008, the Council extended the St Margarets South CPZ to Bridge Road and Winchester Road. The decision to extend the CPZ followed consultation with residents and businesses in the area, the results of which were reported to the Council’s Transport Consultative Group (TCG) last June. <a href="http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_consultations/st_margarets_cpz_review.htm">The Council is now reviewing the operation of this CPZ extension.</a>
+    In October 2008, the Council extended the St Margarets South CPZ to Bridge Road and Winchester Road. The decision to extend the CPZ followed consultation with residents and businesses in the area, the results of which were reported to the Council's Transport Consultative Group (TCG) last June. <a href="http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_consultations/st_margarets_cpz_review.htm">The Council is now reviewing the operation of this CPZ extension.</a>
     
 
 ---
 
 <a href="/assets/images/2009/st_margs_cpz.gif"><img src="/assets/images/2009/st_margs_cpz-thumb.gif" width="150" height="174" alt="Map of the proposed CPZ" class="right" /></a>
 
-In October 2008, the Council extended the St Margarets South CPZ to Bridge Road and Winchester Road. The decision to extend the CPZ followed consultation with residents and businesses in the area, the results of which were reported to the Council’s Transport Consultative Group (TCG) last June. [The Council is now reviewing the operation of this CPZ extension.](http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_consultations/st_margarets_cpz_review.htm)
+In October 2008, the Council extended the St Margarets South CPZ to Bridge Road and Winchester Road. The decision to extend the CPZ followed consultation with residents and businesses in the area, the results of which were reported to the Council's Transport Consultative Group (TCG) last June. [The Council is now reviewing the operation of this CPZ extension.](http://www.richmond.gov.uk/home/transport_and_streets/motor_vehicles_roads_and_parking/parking/controlled_parking_zones/controlled_parking_zone_consultations/st_margarets_cpz_review.htm)
 
 The purpose of the review is to seek the views of the residents and businesses within the extended CPZ on how it has worked since its implementation, whether it should remain in operation and, if so, whether any changes to it should be taken forward.
 

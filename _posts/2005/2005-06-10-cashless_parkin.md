@@ -8,7 +8,7 @@ date: 2005-06-10 17:45:32
 
 ---
 
-On the 6<sup>th</sup> June, the Richmond Council’s cabinet agreed to move ahead with plans for *cashless on-street parking payment systems* in the Richmond borough.
+On the 6<sup>th</sup> June, the Richmond Council's cabinet agreed to move ahead with plans for *cashless on-street parking payment systems* in the Richmond borough.
 
 Currently they are opening a bidding process for vendors and hope to implement then system by year end. The system is likely to require people to pay using mobile phones, but the exact plans have not been defined.
 
