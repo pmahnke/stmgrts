@@ -47,7 +47,7 @@ Venue: Orleans House Gallery
 
 ### Art Concepts
 
-In this three week exploration of Art Concepts we’ll begin with the main Art Historical periods; the Renaissance, the Baroque, Rococo, Neo-Classicism, Romanticism, Realism, Impressionism, Expressionism, Cubism and Abstract Art, before moving on to Genres and Subjects in Art and then exploring artistic techniques.
+In this three week exploration of Art Concepts we'll begin with the main Art Historical periods; the Renaissance, the Baroque, Rococo, Neo-Classicism, Romanticism, Realism, Impressionism, Expressionism, Cubism and Abstract Art, before moving on to Genres and Subjects in Art and then exploring artistic techniques.
 
 #### 26th April: Art Historical Periods
 

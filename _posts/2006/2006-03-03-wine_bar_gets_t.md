@@ -6,13 +6,13 @@ commentfile: 2006-03-03-wine_bar_gets_t
 category: news
 date: 2006-03-03 14:32:52
 excerpt: |
-    On 2<sup>nd</sup> March 2006, the  Richmond Council Planning Committee Meeting gave ‘conditional permission’ for the proposed wine bar in the basement formerly occupied by Phelps. 
+    On 2<sup>nd</sup> March 2006, the  Richmond Council Planning Committee Meeting gave 'conditional permission' for the proposed wine bar in the basement formerly occupied by Phelps. 
 
 ---
 
 <img alt="ParVinu Logo" src="/assets/images/2006/ParVinu-logo-thumb.gif" width="150" height="69" class="photo right" />
 
-On 2<sup>nd</sup> March 2006, the Richmond Council Planning Committee Meeting gave ‘conditional permission’ for the proposed wine bar in the basement formerly occupied by Phelps.
+On 2<sup>nd</sup> March 2006, the Richmond Council Planning Committee Meeting gave 'conditional permission' for the proposed wine bar in the basement formerly occupied by Phelps.
 
 The meeting was held before a completely full room. After speakers for both sides, councillor questions and planning's advice, the application was *conditionally approved* by a 5-3 vote, with local councillors Cllr Hambidge supporting and Cllrs Lamb and Trigg (Twickenham Riverside) against. The 'conditions' are that; a Travel Plan is agreed, Air Conditioning plans are approved, only a 2am New Year's license is given and only 'personal permission' is given.
 

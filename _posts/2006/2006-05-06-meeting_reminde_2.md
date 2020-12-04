@@ -6,13 +6,13 @@ commentfile: 2006-05-06-meeting_reminde_2
 category: around_town
 date: 2006-05-06 15:59:37
 excerpt: |
-    A third <a href="/event/Meeting/200603301408">Moormead Park Meeting</a> has been called for Wednesday, 10 May at 7.30pm in the Turks’ Head, Winchester Hall.
+    A third <a href="/event/Meeting/200603301408">Moormead Park Meeting</a> has been called for Wednesday, 10 May at 7.30pm in the Turks' Head, Winchester Hall.
     
     The meeting will update everyone on what has happened with the playground plans, the survey on the pavillion and include a talk from Bazil Arden of the _Friends of Canbury Gardens_  -- a community group which runs a similar pavilion in Kingston.
 
 ---
 
-A third [Moormead Park Meeting](/event/Meeting/200603301408) has been called for Wednesday, 10 May at 7.30pm in the Turks’ Head, Winchester Hall.
+A third [Moormead Park Meeting](/event/Meeting/200603301408) has been called for Wednesday, 10 May at 7.30pm in the Turks' Head, Winchester Hall.
 
 The meeting will update everyone on what has happened with the playground plans, the survey on the pavillion and include a talk from Bazil Arden of the *Friends of Canbury Gardens* -- a community group which runs a similar pavilion in Kingston.
 

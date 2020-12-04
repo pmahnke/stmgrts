@@ -47,4 +47,4 @@ David Allister, Richmond Council's Head of Culture said:
 
 > "If you're looking for something to do this Easter Holiday why not consider one of the courses being run at Orleans House Gallery. There are a range of exciting full day and half day workshops available for children aged four and over to participate in."
 
-[Find out more about the Easter programme and how to book your child’s place.](https://www.orleanshousegallery.org/learning/children-families/children/)
+[Find out more about the Easter programme and how to book your child's place.](https://www.orleanshousegallery.org/learning/children-families/children/)

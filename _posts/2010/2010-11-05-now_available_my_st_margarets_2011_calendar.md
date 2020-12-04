@@ -12,6 +12,6 @@ date: 2010-11-05 21:38:28
 
 The limited edition *My St Margarets and Around the Borough* calendar is out now. Copies are available from <a href=" and">Mrs Moon</a> <a href=" in">Gift</a> Crown Road and <a href=" in">Denham & Finney</a> St Margarets Road.
 
-Copies are also available from *Orleans Infants* and *St Stephen’s Junior Schools*.
+Copies are also available from *Orleans Infants* and *St Stephen's Junior Schools*.
 
 Priced £8 each.

@@ -8,11 +8,11 @@ date: 2008-11-14 11:06:14
 
 ---
 
-Help clear rubbish out of the river, learn about the history of the area and find out about the wildlife that calls the riverbed its home. Then have a go at drawing what you’ve found over, on and in the river.
+Help clear rubbish out of the river, learn about the history of the area and find out about the wildlife that calls the riverbed its home. Then have a go at drawing what you've found over, on and in the river.
  
 With environmental teacher Joe Pecorelli and artist Emily Burton.
  
-Everyone welcome. Where wellies and clothes that you don’t mind getting muddy.
+Everyone welcome. Where wellies and clothes that you don't mind getting muddy.
 
 **Details**
 

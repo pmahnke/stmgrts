@@ -18,7 +18,7 @@ It is a simple and really effective way of helping the schools which will cost t
 
 You can shop online at over 100 retailers including John Lewis, Early Learning Centre, Mothercare, Canvas Holidays, Amazon, DVD.co.uk, BT, Capital One... the list goes on and on. Many of the retailers have exclusive online discounts and offers, often making it far cheaper than buying the same items on the high street.
 
-When you log on through the links below and use the retailer’s online shops, the schools will receive a set donation or a percentage of your purchases from the retailer. It is out of their profit margin. Some services such as signing up for BT Broadband can earn the school a donation of £30 or £10 when you book travel holiday insurance via Direct Line.
+When you log on through the links below and use the retailer's online shops, the schools will receive a set donation or a percentage of your purchases from the retailer. It is out of their profit margin. Some services such as signing up for BT Broadband can earn the school a donation of £30 or £10 when you book travel holiday insurance via Direct Line.
 
 **Links**
 

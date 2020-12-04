@@ -14,7 +14,7 @@ excerpt: |
     
     <cite> -- _Invasion of the Body Snatchers_ 1956</cite>
     
-    Sometimes I feel like a character in one of those cheesy 1950’s science fiction films. You know the type. There’s a handsome hero, his beautiful girlfriend and a crusty professor and THEY ARE THE ONLY PEOPLE IN THE ENTIRE WORLD!!! who know that their little town has just been invaded by aliens…and is anyone listening to them? NOOOOOOOOOO!!!!!
+    Sometimes I feel like a character in one of those cheesy 1950's science fiction films. You know the type. There's a handsome hero, his beautiful girlfriend and a crusty professor and THEY ARE THE ONLY PEOPLE IN THE ENTIRE WORLD!!! who know that their little town has just been invaded by aliens…and is anyone listening to them? NOOOOOOOOOO!!!!!
     
     Well friends, before you turn over to the other channel let me tell you that it is happening here in St Margarets and this time there are three of them! Holy Moley! They all come from the East and if left unchecked they will be shortly parking on your front lawn and asking if they can borrow a cup of sugar. 
     
@@ -25,7 +25,7 @@ excerpt: |
 
 <cite> -- *Invasion of the Body Snatchers* 1956</cite>
 
-Sometimes I feel like a character in one of those cheesy 1950’s science fiction films. You know the type. There’s a handsome hero, his beautiful girlfriend and a crusty professor and THEY ARE THE ONLY PEOPLE IN THE ENTIRE WORLD!!! who know that their little town has just been invaded by aliens…and is anyone listening to them? NOOOOOOOOOO!!!!!
+Sometimes I feel like a character in one of those cheesy 1950's science fiction films. You know the type. There's a handsome hero, his beautiful girlfriend and a crusty professor and THEY ARE THE ONLY PEOPLE IN THE ENTIRE WORLD!!! who know that their little town has just been invaded by aliens…and is anyone listening to them? NOOOOOOOOOO!!!!!
 
 Well friends, before you turn over to the other channel let me tell you that it is happening here in St Margarets and this time there are three of them! Holy Moley! They all come from the East and if left unchecked they will be shortly parking on your front lawn and asking if they can borrow a cup of sugar.
 
@@ -33,9 +33,9 @@ Well friends, before you turn over to the other channel let me tell you that it 
 
 The first alien has many names - fleeceflower, monkeyweed, Huzhang, Hancock's curse, elephant ears, donkey rhubarb and Mexican bamboo but to those dedicated environmentalists who fight it daily it is… Japanese Knotweed! Aaaah! This monster was introduced from Asia to Europe in the mid-nineteenth century as an ornamental plant and decided to put down roots- everywhere! . It spreads like wildfire, loves damp places and is very difficult to stop. The World Conservation Union includes it in the 100 most invasive species – and it is illegal to grow it in Britain…but still it grows and grows and grows. There is some probably bursting its way through solid concrete near you even as you read. You have been warned.
 
-The second swarm of aliens are Chinese Mitten Crabs (*Eriocheir sinensis*). These hand sized crabs first appeared in the Thames in the 1930s and almost immediately set about our local crabs, boring holes in embankments and blocking drainage pipes. In 1995 the Evening Standard reported the Mittens coming out of the river at Greenwich and taking over local swimming pools. Now they are frightening the fish in the River Crane. If you see a brown crab with huge hairy claws knocking on your cat flap, don’t let it in. It is a Chinese Mitten and it has come to eat your sofa!
+The second swarm of aliens are Chinese Mitten Crabs (*Eriocheir sinensis*). These hand sized crabs first appeared in the Thames in the 1930s and almost immediately set about our local crabs, boring holes in embankments and blocking drainage pipes. In 1995 the Evening Standard reported the Mittens coming out of the river at Greenwich and taking over local swimming pools. Now they are frightening the fish in the River Crane. If you see a brown crab with huge hairy claws knocking on your cat flap, don't let it in. It is a Chinese Mitten and it has come to eat your sofa!
 
-The last creature to stick its foot in the door is the Zebra Mussel from southeast Russia. Although they are only about the size of a 10p coin these small molluscs just love to get together and block up drainage pipes and cooling systems. They really hate native mussels and can kill a lobster by simply encrusting him to death! Zebra Mussels are mean, moody and making their way up the Thames to a watercourse near you. Don’t dip your toes in the water.
+The last creature to stick its foot in the door is the Zebra Mussel from southeast Russia. Although they are only about the size of a 10p coin these small molluscs just love to get together and block up drainage pipes and cooling systems. They really hate native mussels and can kill a lobster by simply encrusting him to death! Zebra Mussels are mean, moody and making their way up the Thames to a watercourse near you. Don't dip your toes in the water.
 
 Now there will be a short interlude for popcorn and the other side of the story...
 

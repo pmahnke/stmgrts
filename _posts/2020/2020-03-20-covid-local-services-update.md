@@ -13,7 +13,7 @@ London is starting to shutdown to attempt to suppress Covid-19 transmission.  Th
 
 #### Trains
 
-South West Trains are reducing the number of services running from Monday 23 March, following the Government’s announcement urging people to avoid all but essential travel in order to help limit the spread of the highly contagious virus.
+South West Trains are reducing the number of services running from Monday 23 March, following the Government's announcement urging people to avoid all but essential travel in order to help limit the spread of the highly contagious virus.
 
 Some alterations to services will continue in the meantime due to last minute cancellations from staff being unavailable, before the [amended timetable](https://www.southwesternrailway.com/plan-my-journey/coronvirus-temporary-timetable) is introduced on Monday.
 

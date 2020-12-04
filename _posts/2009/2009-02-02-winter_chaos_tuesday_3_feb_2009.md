@@ -15,7 +15,7 @@ So far we have confirmation that:
 -   St Stephens School
 -   Orleans Infant
 -   Orleans Park
--   St Mary’s
+-   St Mary's
 -   The Vinyard
 -   St James
     [... more schools and Richmond Council services listed here](http://richmond.gov.uk/home/policing_and_public_safety/accidents_emergencies_and_safety/emergency_planning/guidance_on_specific_incidents/winter_weather.htm)

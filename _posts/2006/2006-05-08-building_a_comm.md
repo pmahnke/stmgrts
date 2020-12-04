@@ -32,4 +32,4 @@ We hope that you will join us. How do you feel this could be done? What sort of 
 
 Now we are waiting to hear from you onilne and hopefully see you at Winchester Hall!
 
-<em>If you haven't already, Don’t forget to sign-up for our [Weekly Newsletter](/cgi-bin/newsletter.cgi).</em>
+<em>If you haven't already, Don't forget to sign-up for our [Weekly Newsletter](/cgi-bin/newsletter.cgi).</em>

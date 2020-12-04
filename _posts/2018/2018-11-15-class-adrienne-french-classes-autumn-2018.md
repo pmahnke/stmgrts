@@ -6,7 +6,7 @@ commentfile: 2018-11-15-class-adrienne-french-classes-autumn-2018
 category: around_town
 date: 2018-11-15 18:26:19
 excerpt: |
-    Calling local Francophiles looking to improve or perfect their French. I run friendly French conversation classes (only for adults during school hours I’m afraid) at intermediate and advanced levels.  
+    Calling local Francophiles looking to improve or perfect their French. I run friendly French conversation classes (only for adults during school hours I'm afraid) at intermediate and advanced levels.  
 
 ---
 

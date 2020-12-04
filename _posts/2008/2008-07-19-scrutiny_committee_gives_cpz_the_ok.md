@@ -8,7 +8,7 @@ date: 2008-07-19 22:39:30
 
 ---
 
-The meeting of the Environment & Sustainability Overview & Scrutiny Committee on Thursday 17 July agreed to ‘note’ Cllr Trigg’s decision to extend the CPZ to Bridge and Winchester Roads. This means that the extension will be implemented without further delay. Cllr Trigg has agreed:
+The meeting of the Environment & Sustainability Overview & Scrutiny Committee on Thursday 17 July agreed to 'note' Cllr Trigg's decision to extend the CPZ to Bridge and Winchester Roads. This means that the extension will be implemented without further delay. Cllr Trigg has agreed:
 
 -   to review his decision to exclude Sidney Road \[which split 50/50\] with a view to early inclusion;
 -   to re-consult The Mews; and

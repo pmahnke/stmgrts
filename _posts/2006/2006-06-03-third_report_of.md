@@ -61,7 +61,7 @@ PC Richens also provided these tips for being safe at a cash machine...
 
 -   Give other users space to enter their PIN in private. We recommend you stand about two metres away from the user in front of you until they have completed their transaction. Some cash machines may have a safety zone on the ground around the machine marking out this area.
 -   Be aware of your surroundings. If someone is crowding you or watching you cancel the transaction and go to another machine.
--   Do not accept help from “well-meaning” strangers and never allow yourself to be distracted.
+-   Do not accept help from "well-meaning" strangers and never allow yourself to be distracted.
 -   Stand close to the cash machine and always shield the keypad to avoid anyone seeing you enter your PIN.
 -   If your card is retained by a cash machine inform your bank or building society immediately.
 

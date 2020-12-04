@@ -12,7 +12,7 @@ excerpt: |
 
 Sgt Arif Malik, PC Alan Richens, PCSO Lucy Burt and PCSO Eugenia Venour met with some 25 local residents to discuss implementation of the Safer Neighbourhoods initiative. Wendy Kyle-Pope, the borough liaison between police and wards, whose remit is to improve communications, chaired the meeting. Future meetings will be chaired by Dr Jenny Atton, who also chairs the Cole Park Road Residents Association.
 
-The Safer Neighbourhood Team consists of six police and police community support officers, whose aim is to address the community’s key concerns. The meeting was set up to define these concerns, seek understanding of the background to them from residents, and discuss the most practical ways of tackling them. They were as follows:
+The Safer Neighbourhood Team consists of six police and police community support officers, whose aim is to address the community's key concerns. The meeting was set up to define these concerns, seek understanding of the background to them from residents, and discuss the most practical ways of tackling them. They were as follows:
 
 ### Antisocial behaviour
 

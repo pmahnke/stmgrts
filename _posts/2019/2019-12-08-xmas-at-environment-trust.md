@@ -11,7 +11,7 @@ excerpt: |
 ---
 <a href="/assets/images/2019/env-trust-advent-2019.jpg" title="Click for a larger image"><img src="/assets/images/2019/env-trust-advent-2019-thumb.jpg" width="250" alt="Image - env-trust-advent-2019"  class="photo right"/></a>
 
-*Get creative with Environment Trust’s online Advent Calendar and help create more space for local nature and heritage this Christmas!*
+*Get creative with Environment Trust's online Advent Calendar and help create more space for local nature and heritage this Christmas!*
 
 This festive season, Environment Trust, the nature and heritage conservation charity based in South West London, has created a free online Advent Calendar to inspire connection with and protection of our nature and heritage. [Twenty-four practical guides and fun facts will go online](https://www.environmenttrust.org/pages/category/advent-calender) throughout this giving season. Pass on the festive fun and creative spirit by sharing the link for extra details behind each door!
 

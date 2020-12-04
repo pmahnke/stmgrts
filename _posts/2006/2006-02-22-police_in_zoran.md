@@ -18,8 +18,8 @@ In an interview with the [St Margarets Community Website](/) PC Richens said, "T
 
 The first surgeries will be on [Wednesday 1<sup>st</sup> March](/cgi-bin/events.cgi?key=200602220259&action=getevent) and [Wednesday 15<sup>th</sup> March](/cgi-bin/events.cgi?key=200602220260&action=getevent) between 2 and 4 pm. After that it is hoped that there will be two surgeries a month probably on a Wednesday. Watch this space for more details.
 
-At the moment the police are concerned about a number of burglaries in the area. They have asked us to ask you to be vigilant, please leave your home properly secured and keep your valuables out of sight. Do not let anyone into your house to read the gas or other meter with out him or her showing you the correct identification. If in doubt don’t let them in.
+At the moment the police are concerned about a number of burglaries in the area. They have asked us to ask you to be vigilant, please leave your home properly secured and keep your valuables out of sight. Do not let anyone into your house to read the gas or other meter with out him or her showing you the correct identification. If in doubt don't let them in.
 
-If you see anyone acting suspiciously don’t be afraid to call 999 in an emergency.
+If you see anyone acting suspiciously don't be afraid to call 999 in an emergency.
 
-If you would like to contact PC Richens but can’t get to the surgery in Zorans you can email him on <alan.ej.richens@met.police.uk> or call 07879 432330.
+If you would like to contact PC Richens but can't get to the surgery in Zorans you can email him on <alan.ej.richens@met.police.uk> or call 07879 432330.

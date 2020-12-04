@@ -27,11 +27,11 @@ To enable this essential work to be carried out safely and efficiently, a two-wa
 
 Gas engineers will require access to some properties to replace service pipes. This work will involve a brief interruption of the gas supply. Affected properties will be notified. All National Grid engineers carry official identity cards, which people should ask to see before allowing them on their property.
 
-Phil Walden, Authorising Engineer at National Grid, said: “This is a major project but we’re doing all we can to deliver it with as little disruption as possible.
+Phil Walden, Authorising Engineer at National Grid, said: "This is a major project but we're doing all we can to deliver it with as little disruption as possible.
 
-“Wherever possible we’re using innovative technology to insert the new pipe into the old main, which is much quicker than digging up the road to lay new pipe.”
+"Wherever possible we're using innovative technology to insert the new pipe into the old main, which is much quicker than digging up the road to lay new pipe."
 
-He added: “During peak travel times we will manually control the traffic lights to reduce congestion and we’ll also work at weekends when necessary to ensure we finish the job on time.”
+He added: "During peak travel times we will manually control the traffic lights to reduce congestion and we'll also work at weekends when necessary to ensure we finish the job on time."
 
 All our employees carry official identity cards, which people should ask to see before letting them on their property.
 

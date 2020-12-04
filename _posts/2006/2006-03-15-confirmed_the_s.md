@@ -6,11 +6,11 @@ commentfile: 2006-03-15-confirmed_the_s
 category: news
 date: 2006-03-15 21:27:00
 excerpt: |
-    It has been confirmed that _The Spirit Group_ have dropped their appeal against the Richmond Council’s recent licensing decision regarding trading hours at the _St Margarets Tavern_.
+    It has been confirmed that _The Spirit Group_ have dropped their appeal against the Richmond Council's recent licensing decision regarding trading hours at the _St Margarets Tavern_.
 
 ---
 
-It has been confirmed that *The Spirit Group* have dropped their appeal against the Richmond Council’s recent licensing decision regarding trading hours at the *St Margarets Tavern*.
+It has been confirmed that *The Spirit Group* have dropped their appeal against the Richmond Council's recent licensing decision regarding trading hours at the *St Margarets Tavern*.
 
 From the General Manager of the St Margarets Tavern:
 

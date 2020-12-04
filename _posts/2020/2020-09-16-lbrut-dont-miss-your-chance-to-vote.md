@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don’t miss your chance to vote"
+title: "Don't miss your chance to vote"
 permalink: /archives/2020/09/lbrut-dont-miss-your-chance-to-vote.html
 commentfile: 2020-09-16-lbrut-dont-miss-your-chance-to-vote
 category: news

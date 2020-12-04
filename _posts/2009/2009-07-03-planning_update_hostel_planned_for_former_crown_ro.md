@@ -12,7 +12,7 @@ On Thursday 2 July I met with Bryan Staff, North Ward planning officer, to discu
 
 #### Supporting documentation and consultation with residents.
 
-Mr. Staff informed me that the applicant has submitted no documentation to support his request for planning permission other than those available on the Council’s web site. This is not unusual and has no bearing on Mr. Staff’s decision. Equally, the lack of consultation by the developer with the property’s neighbours is not ideal but is irrelevant to the Council's assessment of the applications’ merits.
+Mr. Staff informed me that the applicant has submitted no documentation to support his request for planning permission other than those available on the Council's web site. This is not unusual and has no bearing on Mr. Staff's decision. Equally, the lack of consultation by the developer with the property's neighbours is not ideal but is irrelevant to the Council's assessment of the applications' merits.
 
 #### The intended residents.
 
@@ -26,7 +26,7 @@ He advised that he would assess matters such as the ratio of bedrooms to bathroo
 
 #### Loss of amenity.
 
-In general, the Council’s policy is to support the reversion of commercial property to residential use, but Mr. Staff felt that the change of use from a social amenity to a private residential dwelling may not be desirable for the Borough and would have to be considered. He was unfamiliar with the details of the doctors surgery and thought that it operated only on the ground floor, with the rest of the property being unused or flats.
+In general, the Council's policy is to support the reversion of commercial property to residential use, but Mr. Staff felt that the change of use from a social amenity to a private residential dwelling may not be desirable for the Borough and would have to be considered. He was unfamiliar with the details of the doctors surgery and thought that it operated only on the ground floor, with the rest of the property being unused or flats.
 
 #### The number of HMOs in the borough.
 
@@ -34,22 +34,22 @@ Mr. Staff does not know how many HMOs operate within the borough, nor whether Ro
 
 #### HMO licence.
 
-He thought that the property might require an HMO licence but wasn’t sure ([the council’s own web site states that it does](http://www.richmond.gov.uk/hmo_policy.pdf)). Without such a licence, the property could not be let to tenants. He is not aware of a licence application for this property.
+He thought that the property might require an HMO licence but wasn't sure ([the council's own web site states that it does](http://www.richmond.gov.uk/hmo_policy.pdf)). Without such a licence, the property could not be let to tenants. He is not aware of a licence application for this property.
 
 #### Process
 
-Prior to making a decision, Mr. Staff will consult the council’s
+Prior to making a decision, Mr. Staff will consult the council's
 
 -   Transport Department re parking;
--   Planning Policy re the property’s role as a doctors’ surgery;
--   possibly Environmental Health re the density of occupation and the quality of the property’s provisions, and
--   local residents’ objections.
+-   Planning Policy re the property's role as a doctors' surgery;
+-   possibly Environmental Health re the density of occupation and the quality of the property's provisions, and
+-   local residents' objections.
 
-Under delegated powers from the Planning Committee, he has the discretion to either reject the application, or, if he recommends it for approval, send it for review by the Committee. Residents who have objected to the development will be informed of the date of the Committee’s hearing.
+Under delegated powers from the Planning Committee, he has the discretion to either reject the application, or, if he recommends it for approval, send it for review by the Committee. Residents who have objected to the development will be informed of the date of the Committee's hearing.
 
 #### Bottom Line
 
-The idea that “young professionals” would want to live in an 8 bed hostel and share bathroom and kitchen facilities with strangers is not credible. When you were “a young professional” did you want to live in a hostel? Neither did I. A few friends and I chose to share a flat in a busier, younger, less family dominated part of inner London. I suspect today’s “young professionals” will want to do something similar. So who will live in the hostel? According to Mr. Staff, anyone can live there - Mr. Massie’s statement of intent is not binding and the Council has no power to veto its residents.
+The idea that "young professionals" would want to live in an 8 bed hostel and share bathroom and kitchen facilities with strangers is not credible. When you were "a young professional" did you want to live in a hostel? Neither did I. A few friends and I chose to share a flat in a busier, younger, less family dominated part of inner London. I suspect today's "young professionals" will want to do something similar. So who will live in the hostel? According to Mr. Staff, anyone can live there - Mr. Massie's statement of intent is not binding and the Council has no power to veto its residents.
 
 Proximity of the development to the infant school and your children is irrelevant.
 
@@ -65,14 +65,14 @@ The rejection of the previous planning application for overuse and congestion is
 
 1. Prior to July 16th, as many local residents as possible should submit objections to Mr. Bryan Staff at [b.staff@richmond.gov.uk](mailto:b.staff@richmond.gov.uk) , telephone: 0845 612 2660.
 
-According to the Council’s leaflet “Objecting to or supporting a planning application”, suitable grounds for objection include:
+According to the Council's leaflet "Objecting to or supporting a planning application", suitable grounds for objection include:
 
 -   adequacy of parking - car and cycle
 -   adequacy of refuse and recycling provision
 -   highway safety
 -   traffic generation
 -   noise and disturbance
--   previous planning decisions (although this is inconsistent with Mr. Staff’s views)
+-   previous planning decisions (although this is inconsistent with Mr. Staff's views)
 
 You may know of other grounds for objection. Please share them here.
 

@@ -15,7 +15,7 @@ The Richmond upon Thames School (RTS) will open on the Richmond upon Thames Coll
 
 A Free School Trust has been established to run the secondary school, with a membership that includes; Harlequin Football Club, Haymarket Media Group, Waldegrave School, Richmond upon Thames College, Richmond Council and Achieving for Children. All will offer opportunities to students at the school.
 
-On Monday 3 October from 6.30 to 8.30pm, parents and prospective pupils have the opportunity to find out more about the school at an Open Evening at The Stoop Rugby Ground. For those unable to attend, the school’s Headteacher is hosting another weekend, Open Day on Saturday, 15th October, 11.30am - 1.30pm.
+On Monday 3 October from 6.30 to 8.30pm, parents and prospective pupils have the opportunity to find out more about the school at an Open Evening at The Stoop Rugby Ground. For those unable to attend, the school's Headteacher is hosting another weekend, Open Day on Saturday, 15th October, 11.30am - 1.30pm.
 
 At the event there will be an exhibition showcasing information about the ongoing school building project, the future curriculum plans for the school and extra-curricular activities. There will also be an opportunity to have a sneak preview of the uniform that has been designed following consultation with parents.
 

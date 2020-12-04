@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25% “No shows” at Townmead Road"
+title: "25% "No shows" at Townmead Road"
 permalink: /archives/2020/11/lbrut-25-no-shows-at-townmead-road.html
 commentfile: 2020-11-16-lbrut-25-no-shows-at-townmead-road
 category: around_town

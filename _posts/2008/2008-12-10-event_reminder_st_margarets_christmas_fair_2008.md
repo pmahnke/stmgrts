@@ -17,7 +17,7 @@ There is a great program with:
 -   live entertainment
 -   hot food
 -   mulled wine
--   Santa’s grotto
+-   Santa's grotto
 -   a choir
 -   a fancy dress competition
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Artist Ken Howard becomes Turner’s House Trust Patron"
+title: "Artist Ken Howard becomes Turner's House Trust Patron"
 permalink: /archives/2017/01/ken-howard-turner-house-trust-patron.html
 commentfile: 2017-01-26-ken-howard-turner-house-trust-patron
 category: news

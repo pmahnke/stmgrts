@@ -19,4 +19,4 @@ Caroline Horsbrugh, a local resident, is a member of a working group of artists 
 
 Caroline lives half the year in France and her work reflects the journeying between the two countries. The [forthcoming show at the Jersey Gallery](/event/Exhibition/200604171602) in the 18th century National Trust property of Osterley Park will be a thought provoking mixture of installation, painting, print, drawing, and photography.
 
-<img alt="Sue Waters, Child’s Shell Bathing Suit, Shells and Mastic, 46 x 24 19 cms" src="/assets/images/2006/art_shell.jpg" width="200" height="300" class="photo" /></a>
+<img alt="Sue Waters, Child's Shell Bathing Suit, Shells and Mastic, 46 x 24 19 cms" src="/assets/images/2006/art_shell.jpg" width="200" height="300" class="photo" /></a>

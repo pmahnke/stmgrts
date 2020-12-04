@@ -17,23 +17,23 @@ The *St Margarets Community Website* has recieved a copy of the reply to an [Obj
 
 Dear Ms Ivory
 
-### PROPOSED INDOOR PLAY FACILITY AT UNIT 2, ST MARGARET’S BUSINESS CENTRE, DRUMMOND PLACE, TWICKENHAM TW1 1JN
+### PROPOSED INDOOR PLAY FACILITY AT UNIT 2, ST MARGARET'S BUSINESS CENTRE, DRUMMOND PLACE, TWICKENHAM TW1 1JN
 
 Thank you for your letter concerning the above planning application. I am replying on behalf of the applicant to the points you have raised. I should emphasise that in selecting these premises he considered all these issues and was satisfied with its suitability based on the information gathered.
 
 #### Adjacent tenants
 
-In planning law a B1 use must be one that “can be carried out in any residential area without detriment to the amenity of that area by reason of noise, vibration, smell, fumes, smoke, soot, ash, dust or grit.” If this description is being infringed by Mears or Powerhouse Engineering, then the detriment affects all the surrounding residents, not just the proposed occupants of the new play facility, and the Council is obliged to take action.
+In planning law a B1 use must be one that "can be carried out in any residential area without detriment to the amenity of that area by reason of noise, vibration, smell, fumes, smoke, soot, ash, dust or grit." If this description is being infringed by Mears or Powerhouse Engineering, then the detriment affects all the surrounding residents, not just the proposed occupants of the new play facility, and the Council is obliged to take action.
 
 With respect it would not appear reasonable to oppose a planning use because of possible non compliant operations by neighbours.
 
 In any event, we have been advised by the managing agents that any unauthorised spraying that might have taken place will not be repeated and is against the terms of the lease.
 
-Mears have reported that as per their working practises, their “fleet” is based off site and come into the business park mainly in the mornings and leave by 9am, with the odd vehicles returning during the day, whereas the play centre will only open at 10am.
+Mears have reported that as per their working practises, their "fleet" is based off site and come into the business park mainly in the mornings and leave by 9am, with the odd vehicles returning during the day, whereas the play centre will only open at 10am.
 
 #### Working Hours
 
-The application does not seek to change the “working hours” – although if the facility is successful a later application might be considered. Parties for young children will take place within the specified hours and this is in keeping with the age range the centre is aimed at.
+The application does not seek to change the "working hours" – although if the facility is successful a later application might be considered. Parties for young children will take place within the specified hours and this is in keeping with the age range the centre is aimed at.
 
 #### Congestion and Parking
 

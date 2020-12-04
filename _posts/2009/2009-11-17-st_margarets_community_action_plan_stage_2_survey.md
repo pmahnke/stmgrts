@@ -10,7 +10,7 @@ excerpt: |
 
 ---
 
-Stage 2 of the St Margarets Residents’ Survey is now available for completion online.  The Survey sets out the issues and solutions most frequently stated in the Stage 1 Survey and invites residents to comment on them as well as adding any further thoughts or ideas.  Those who completed Survey at the Results Evening on 15th September do not need to complete this version, which has mainly been fine-tuned for clarity.  You are also welcome to complete Stage 2 even if you didn’t complete the Stage 1 Survey. 
+Stage 2 of the St Margarets Residents' Survey is now available for completion online.  The Survey sets out the issues and solutions most frequently stated in the Stage 1 Survey and invites residents to comment on them as well as adding any further thoughts or ideas.  Those who completed Survey at the Results Evening on 15th September do not need to complete this version, which has mainly been fine-tuned for clarity.  You are also welcome to complete Stage 2 even if you didn't complete the Stage 1 Survey. 
 
 As it took longer than anticipated to finalise the online version of Stage 2 and to meet with LBRUT, Alliance has postponed the meeting originally scheduled for Tuesday 17th November at the Winchester Hall and an alternative date will arranged – this is likely to be after Christmas.
 

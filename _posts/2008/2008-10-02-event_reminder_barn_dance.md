@@ -26,6 +26,6 @@ Dance your socks off on [Friday 17th October 2008, from 7.30pm until late](/even
 
 At St Stephen's School Hall, St Margarets, Twickenham (entrance on A316)
 
-All money raised goes to the St Margaret's Fair senior citizen’s Christmas dinner!
+All money raised goes to the St Margaret's Fair senior citizen's Christmas dinner!
 
 For further details and to reserve a table, please call John I'Anson (07880 796174) or Zeph King (07977 298045).

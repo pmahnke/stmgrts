@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer surfin’ online with libraries’ IT help sessions"
+title: "Summer surfin' online with libraries' IT help sessions"
 permalink: /archives/2018/06/lbrut-library-it-sessions.html
 commentfile: 2018-06-30-lbrut-library-it-sessions
 category: around_town

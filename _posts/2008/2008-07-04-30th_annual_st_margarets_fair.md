@@ -30,7 +30,7 @@ The musical entertainment from 12.00 to 7.30 features 8 bands this year. See who
 We have a tea tent and a beer tent organised and staffed by volunteers. The BBQ is run by parents from Orleans Infant School's PTA – FOOI. Local parents organise a Pimms stall from Orleans Park.
 
 Site stewarding is done by the parents of children at St Stephens Junior School.
-And the fair site is kept clean by parents at St Mary’s Junior school
+And the fair site is kept clean by parents at St Mary's Junior school
 
 ### St Margarets Fair Programme
 
@@ -57,4 +57,4 @@ And the fair site is kept clean by parents at St Mary’s Junior school
 | 1700 - 1730      | The Blue Beat Allstars re-create the Caribbean Ska sound of the late 50's and early 60's.                                                               | (music stage)     |
 | 1800 - 1830      | The Retrobates – a young band with a great variety of covers, from the 50's till the present.                                                           | (music stage)     |
 | 1830 - 1845      | Charity Auction time                                                                                                                                    | (music stage)     |
-| 1900 - 1930      | Nark Drool & The Shudders - ramming back the ’rama lama ding dong!’ into toe-tapping rock ‘n’ roll classics,                                            | (music stage)     |
+| 1900 - 1930      | Nark Drool & The Shudders - ramming back the 'rama lama ding dong!' into toe-tapping rock 'n' roll classics,                                            | (music stage)     |

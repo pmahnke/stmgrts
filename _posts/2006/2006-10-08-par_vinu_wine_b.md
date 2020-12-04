@@ -15,7 +15,7 @@ Opening Hours applied for are:
 -   Mon-Thur 10:30-23:30
 -   Fri-Sat 10:30-00.00 Sun 11:00-23:30
 -   01:00 on Christmas Eve, and on Bank Holiday Sundays
--   02:00 on New Year’s Eve.
+-   02:00 on New Year's Eve.
 
 **Links**
 

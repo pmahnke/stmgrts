@@ -28,7 +28,7 @@ The workshop combines the talent of two experts, Janet Donbavand and Margaret Sq
 -   Adapting a written document for the spoken word
 -   Using quotations and anecdotes
     PowerPoint
--   Do’s and don’ts of bulleted lists
+-   Do's and don'ts of bulleted lists
 -   Keeping consistency by using the Slide Master
 -   Adapting presentations for different audiences
 -   Using charts to bring data to life

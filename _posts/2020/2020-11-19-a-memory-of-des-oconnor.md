@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A memory of Des O’Connor"
+title: "A memory of Des O'Connor"
 permalink: /archives/2020/11/a-memory-of-des-oconnor.html
 commentfile: 2020-11-19-a-memory-of-des-oconnor
 category: around_town

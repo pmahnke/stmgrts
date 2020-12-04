@@ -6,11 +6,11 @@ commentfile: 2006-03-08-fine_food_marke
 category: news
 date: 2006-03-08 21:05:41
 excerpt: |
-    After a long five months, Richmond Council Planning Officer, Polly Perks has recommended that the Planning Committee give its ‘permission’ for the proposed Sunday Fine Foods Market in the St Margarets Tavern parking lot.
+    After a long five months, Richmond Council Planning Officer, Polly Perks has recommended that the Planning Committee give its 'permission' for the proposed Sunday Fine Foods Market in the St Margarets Tavern parking lot.
 
 ---
 
-After a long five months, Richmond Council Planning Officer, Polly Perks has recommended that the Planning Committee give its ‘permission’ for the proposed [Sunday Fine Foods Market](/archives/2005/08/sunday_fine_foo.html) in the St Margarets Tavern parking lot. The Richmond Planning Committee will meet on the 16<sup>th</sup> March 2006 at 6:30 pm in the Salon at [York House](/cgi-bin/directory.cgi?key=200508171541&action=getlisting) to decide whether to grant or reject this recommendation.
+After a long five months, Richmond Council Planning Officer, Polly Perks has recommended that the Planning Committee give its 'permission' for the proposed [Sunday Fine Foods Market](/archives/2005/08/sunday_fine_foo.html) in the St Margarets Tavern parking lot. The Richmond Planning Committee will meet on the 16<sup>th</sup> March 2006 at 6:30 pm in the Salon at [York House](/cgi-bin/directory.cgi?key=200508171541&action=getlisting) to decide whether to grant or reject this recommendation.
 
 The Planning Officer felt;
 

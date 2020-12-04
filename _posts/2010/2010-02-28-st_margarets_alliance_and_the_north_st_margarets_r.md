@@ -8,7 +8,7 @@ date: 2010-02-28 10:37:12
 
 ---
 
-The North St Margarets Residents' Association’s committee resolved on 23 February that the Association should withdraw from participation in the St Margarets Alliance with immediate effect.
+The North St Margarets Residents' Association's committee resolved on 23 February that the Association should withdraw from participation in the St Margarets Alliance with immediate effect.
 
 Laurence Mann
 Secretary

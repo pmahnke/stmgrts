@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nightwatchman’s Hut in Terrace Gardens restored"
+title: "Nightwatchman's Hut in Terrace Gardens restored"
 permalink: /archives/2018/07/terrace-gardens-hut-restored.html
 commentfile: 2018-07-28-terrace-gardens-hut-restored
 category: news

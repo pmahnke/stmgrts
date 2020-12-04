@@ -12,7 +12,7 @@ Our much-loved cat has been missing from 28a Hartington Road since Thursday, 13 
 
 No collar.
 
-If you have any news, we’d be very grateful if you could ring:
+If you have any news, we'd be very grateful if you could ring:
 
 -   0208 892 4362 or
 -   07963 253 470

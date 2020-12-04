@@ -10,4 +10,4 @@ excerpt: |
 
 ---
 
-While the principles of the wine bar were hoping for an October 2005 hearing with the Richmond Council's Planning Committee, the Planning Officer, John Brown, has still not completed his report. According to Mr Brown, "I’ll be aiming for the earliest committee possible, but this won’t be before February."
+While the principles of the wine bar were hoping for an October 2005 hearing with the Richmond Council's Planning Committee, the Planning Officer, John Brown, has still not completed his report. According to Mr Brown, "I'll be aiming for the earliest committee possible, but this won't be before February."

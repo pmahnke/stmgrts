@@ -16,7 +16,7 @@ excerpt: |
 
 [Magnet](/directory/group/200610120518) is a forum that allows the informal coming together of people (mainly women at the moment) who live in our community and share an interest in their work arrangements/choices/needs. Though not exclusively, this is largely driven by the need to address the balance of parenting and work demands. There are, however, people who just want to contribute to a community effort.
 
-Magnet’s agenda seeks to address the work related needs of members either through formal sessions (presentations at our meetings) or through the Magnet network (either at the meetings or on the Magnet grapevine which is flourishing!
+Magnet's agenda seeks to address the work related needs of members either through formal sessions (presentations at our meetings) or through the Magnet network (either at the meetings or on the Magnet grapevine which is flourishing!
 
 **How people hear about Magnet?**
 
@@ -24,7 +24,7 @@ Most of the people who come to Magnet meetings have heard about us through conve
 
 **Highlights so far?**
 
-Many connections have been made through Magnet leading to recommendations for freelance work; people with similar jobs supporting each other in difficult situations through to a recruitment consultant placing another member in a local marketing role. These examples clearly demonstrate Magnet’s contribution to the community.
+Many connections have been made through Magnet leading to recommendations for freelance work; people with similar jobs supporting each other in difficult situations through to a recruitment consultant placing another member in a local marketing role. These examples clearly demonstrate Magnet's contribution to the community.
 
 **Magnet meetings**
 

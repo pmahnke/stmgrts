@@ -14,7 +14,7 @@ If you are a victim of Graffiti then you should report it to your local [Safer N
 
 The Council will remove Graffiti from private premises free of charge, but however cannot remove graffiti from any private property without first having received the appropriate graffiti removal request form.
 
-This form is accessed via Richmond Council’s Website
+This form is accessed via Richmond Council's Website
 [www.richmond.gov.uk](http://www.richmond.gov.uk/) and going to the Environment and planning section, where you can download a Graffiti Removal Request Form (see [bit.ly/graffiti](http://bit.ly/graffiti) ).
 
 St Margarets Safer Neighbourhood Team
