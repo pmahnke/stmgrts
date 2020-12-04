@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Councillors start monthly "Drop in Surgeries""
+title: "Councillors start monthly 'Drop in Surgeries'"
 permalink: /archives/2009/06/councillors_start_monthly_drop_in_surgeries.html
 commentfile: 2009-06-29-councillors_start_monthly_drop_in_surgeries
 category: news
