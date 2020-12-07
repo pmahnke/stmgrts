@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your help is needed. Pleaes donate blood in Twickenham - 7 to 21 December 2020"
+title: "Your help is needed. Please donate blood in Twickenham - 7 to 21 December 2020"
 permalink: /archives/2020/12/your-help-is-needed.-blood-donation-in-twickenham-7-to-21-december-2020.html
 commentfile: 2020-12-07-your-help-is-needed.-blood-donation-in-twickenham-7-to-21-december-2020
 category: around_town
