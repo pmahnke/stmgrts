@@ -6,7 +6,7 @@
     "@type": "WebPage",
     "@id": "https://google.com/article"
   },
-  "headline": "{{ page.title }}",
+  "headline": {{ page.title | jsonify }},
   "image": "{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/assets/images/stmgrts_logo_tree.png{% endif %}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.date | date_to_xmlschema }}",
@@ -22,6 +22,6 @@
       "url": "https://stmargarets.london/assets/images/stmgrts_logo_tree.png"
     }
   },
-  "description": "{{ page.excerpt  | strip_html | strip_newlines | truncate: 250 }}"
+  "description": {{ page.excerpt  | strip_html | strip_newlines | truncate: 250 | jsonify }}
 }
 </script>
