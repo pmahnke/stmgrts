@@ -15,7 +15,7 @@ NHS Blood and Transplant are holding blood donation sessions in Twickenham at Re
 
 Do something amazing, save a life. Give Blood. Session times 8:30am to 5pm.
 
-Please visit [blood.co.uk](https://www.blood.co.uk), download our app **NHSGIVEBLOOD**, call us on [0300 123 23 23](tel:+443001232323] or [book a timed appointment online](https://www.blood.co.uk/the-donation-process/registering-online/) for the date listed.
+Please visit [blood.co.uk](https://www.blood.co.uk), download our app **NHSGIVEBLOOD**, call us on [0300 123 23 23](tel:+443001232323) or [book a timed appointment online](https://www.blood.co.uk/the-donation-process/registering-online/) for the date listed.
 
 *Please note - Registering for tickets on this event does not give you an appointment.*
 
