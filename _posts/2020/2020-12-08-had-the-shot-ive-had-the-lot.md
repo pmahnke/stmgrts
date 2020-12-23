@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Had the shot? I’ve had the lot!"
+title: "Had the shot? I've had the lot!"
 permalink: /archives/2020/12/had-the-shot-ive-had-the-lot.html
 commentfile: 2020-12-08-had-the-shot-ive-had-the-lot
 category: around_town

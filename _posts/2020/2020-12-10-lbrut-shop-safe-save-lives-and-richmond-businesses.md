@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shop safe, save lives and Richmond’s businesses"
+title: "Shop safe, save lives and Richmond's businesses"
 permalink: /archives/2020/12/lbrut-shop-safe-save-lives-and-richmond-businesses.html
 commentfile: 2020-12-10-lbrut-shop-safe-save-lives-and-richmond-businesses
 category: around_town
