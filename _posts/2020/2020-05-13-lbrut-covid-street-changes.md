@@ -3,7 +3,7 @@ layout: post
 title: "Measures to make our streets safer"
 permalink: /archives/2020/05/lbrut-covid-street-changes.html
 commentfile: 2020-05-13-lbrut-covid-street-changes
-category: around_town|news|editorial
+category: news
 date: 2020-05-13 00:00:00
 image: "/assets/images/2020/richmond-bridge.jpg"
 excerpt: |

@@ -3,7 +3,7 @@ layout: post
 title: "Director downsizes and creates A Beautiful Mess"
 permalink: /archives/2020/02/exchange-a-beautiful-mess.html
 commentfile: 2020-02-17-exchange-a-beautiful-mess
-category: around_town|news|editorial
+category: around_town
 date: 2020-02-17 00:00:00
 image: "/assets/images/2020/exchange-a-beautiful-mess.jpg"
 excerpt: |

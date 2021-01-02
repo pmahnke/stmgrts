@@ -3,7 +3,7 @@ layout: post
 title: "Friendly French conversation - now online"
 permalink: /archives/2020/06/friendly-french-conversation.html
 commentfile: 2020-06-26-friendly-french-conversation
-category: news|around_town|editorial
+category: around_town
 date: 2020-06-26 10:00:00
 excerpt: |
     Calling local Francophiles looking to improve or perfect their French. I have been running friendly French conversation classes in Richmond since 2012.
