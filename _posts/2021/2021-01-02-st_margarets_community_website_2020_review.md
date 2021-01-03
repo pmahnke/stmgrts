@@ -56,10 +56,10 @@ Here are the top 20 articles published 2019.
 
 We have not been the best twitter user again this year, but all events and articles are posted, so why not [follow us?](https://twitter.com/stmgrts)
 
-| Social    |  2019 |  2018 |  2017 |  2016 |
-| --------- | -----:| -----:| -----:| -----:|
-| followers | 3,576 | 3,470 | 3,410 | 3,192 |
-| tweets    | 1,145 | 1,162 |   917 | 1,644 |
+| Social    |  2020 |  2019 |  2018 |  2017 | 2016  |
+| --------- | -----:| -----:| -----:| -----:| ----- |
+| followers | 3,647 | 3,576 | 3,470 | 3,410 | 3,192 |
+| tweets    |   394 | 1,145 | 1,162 |   917 | 1,644 |
 
 We also have a Facebook page. Why not [follow us](https://www.facebook.com/stmgrts/)?
 
