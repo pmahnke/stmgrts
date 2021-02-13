@@ -20,4 +20,4 @@ Frequently paintings are linked to musical creations - operas, ballets - there w
 - Time:   16.00 - 17.30 for 6 weeks
 - Cost:    &pound;28.80
 
-To enrol please visit the WEA website: [bit.ly/2YYQn9V](https://bit.ly/2YYQn9V)
+To enrol please visit the WEA website: [bit.ly/2YYQn9V](https://bit.ly/2YYQn9V) and insert the course code: C2422274
