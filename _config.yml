@@ -31,6 +31,8 @@ collections:
 - info
 
 # Build settings
+load_paths:
+  - _sass
 markdown: kramdown
 sass:
     style: compressed
