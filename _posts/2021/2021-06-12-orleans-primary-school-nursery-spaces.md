@@ -17,4 +17,4 @@ The hours are 12.30 to 3.30 pm (term time only) and is available to all children
 
 Orleans Nursery provides a happy, stimulating and secure environment.  Orleans strongly values the partnership between home, school and the community and understands that effective communication is key to your child's learning and development.
 
-If you are interested in securing a place at the Nursery for September 2021 then please contact the school office on 020 88932 1654 or via e-mail  [info@orleans.richmond.sch.uk](mailto:info@orleans.richmond.sch.uk)
+If you are interested in securing a place at the Nursery for September 2021 then please contact the school office on [0208 892 1654](tel:+442088921654) or via e-mail  [info@orleans.richmond.sch.uk](mailto:info@orleans.richmond.sch.uk)
