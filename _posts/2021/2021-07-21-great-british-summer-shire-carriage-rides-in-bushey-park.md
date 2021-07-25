@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Great British summer shire carriage rides in Bushey Park"
+title: "Great British summer shire carriage rides in Bushy Park"
 permalink: /archives/2021/07/great-british-summer-shire-carriage-rides-in-bushey-park.html
 commentfile: 2021-07-21-great-british-summer-shire-carriage-rides-in-bushey-park
 category: around_town
