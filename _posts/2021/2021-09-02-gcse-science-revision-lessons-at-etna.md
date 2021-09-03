@@ -19,6 +19,6 @@ All lessons will be delivered by a fully qualified science teacher.
 
 #### More information
 
-- Classes will run on Saturday mornings from 9-10am and 10-11am.
+- Classes will run on Saturday mornings in the [ETNA Community Centre](https://stmargarets.london/directory/other/201110040733) from 9-10am and 10-11am.
 - Phone: [07460112206](tel:+447460112206)
 - Email:  [sciencehelp18@gmail.com](mailto:sciencehelp18@gmail.com)
