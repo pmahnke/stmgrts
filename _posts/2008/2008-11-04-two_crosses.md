@@ -9,20 +9,16 @@ image: "/assets/images/2008/war_memorial_allsouls-thumb.jpg"
 excerpt: |
 
 
-    Hanging on the wall inside All Souls Church, Haliburton Road in north St Margarets, are two plain wooden crosses. They once stood in the mud of Flanders, over the makeshift graves of 2<sup>nd</sup> Lt Geoffrey Wilkins and Corporal Lawrence Richards, local men killed in the First World War. Following the Armistice, when the dead were gathered into formal cemeteries under uniform headstones, the two wooden crosses were sent back to the church that both men had attended. Now they stand like sentries on either side of a hand lettered Roll of Honour listing all the men from the parish who were killed in the Great War. Underneath the names is this carved caption:-
-
-    bq. "In the year 1914 England waged war against Germany that faith should be kept between nations and life might be ordered by right and not by violence. For this end Englishmen left their homes and fought and suffered for 4 years. Amongst them men of this parish of whom 86 lost their lives in helping to gain the victory. Wherefore their names are enshrined above in grateful and loving memory and in hope that their deeds and sacrifice may inspire Englishmen for all time."
-
-
+  Hanging on the wall inside All Souls Church, Haliburton Road in north St Margarets, are two plain wooden crosses. They once stood in the mud of Flanders, over the makeshift graves of 2<sup>nd</sup> Lt Geoffrey Wilkins and Corporal Lawrence Richards, local men killed in the First World War. Following the Armistice, when the dead were gathered into formal cemeteries under uniform headstones, the two wooden crosses were sent back to the church that both men had attended. Now they stand like sentries on either side of a hand lettered Roll of Honour listing all the men from the parish who were killed in the Great War. Underneath the names is this carved caption:-
 ---
 
 <a href="/assets/images/2008/war_memorial_allsouls.jpg"><img src="/assets/images/2008/war_memorial_allsouls-thumb.jpg" width="100" height="150" alt="two crosses" class="photo right" /></a>
 
 > "In Flanders fields the poppies blow
->  Between the crosses, row on row,
->  That mark our place; and in the sky
->  The larks, still bravely singing, fly"
-> 
+> Between the crosses, row on row,
+> That mark our place; and in the sky
+> The larks, still bravely singing, fly"
+>
 > <cite>John McCrae</cite>
 
 Hanging on the wall inside All Souls Church, Haliburton Road in north St Margarets, are two plain wooden crosses. They once stood in the mud of Flanders, over the makeshift graves of 2<sup>nd</sup> Lt Geoffrey Wilkins and Corporal Lawrence Richards, local men killed in the First World War. Following the Armistice, when the dead were gathered into formal cemeteries under uniform headstones, the two wooden crosses were sent back to the church that both men had attended. Now they stand like sentries on either side of a hand lettered Roll of Honour listing all the men from the parish who were killed in the Great War. Underneath the names is this carved caption:-
@@ -44,10 +40,10 @@ They were all ordinary working men, tradesmen and shopkeepers, clerks and and la
 Dying for your country doesn't make you a hero and as war poet Wilfred Owen observed, it doesn't offer glory or honour either -- but who can imagine what courage it must have taken to face death every day in the horror of the trenches? Whatever else we may say about them it is undeniable that they were all remarkably brave men. So, when we walk the same streets that they once walked, past the houses that they once lived in, let us remember them.
 
 > "Here dead lie we because we did not choose
->  To live and shame the land from which we sprung.
->  Life, to be sure, is nothing much to lose;
->  But young men think it is, and we were young."
-> 
+> To live and shame the land from which we sprung.
+> Life, to be sure, is nothing much to lose;
+> But young men think it is, and we were young."
+>
 > <cite>AE Housman</cite>
 
 If you would like to see the two wooden crosses and the Roll of Honour All Souls Church will be open on Armistice Day, Tuesday 11<sup>th</sup> November, from 10.30am. At 11.00am Richard Frank, the minister at All Souls will conduct a short [Act of Remembrance](/event/meeting/200705141998).

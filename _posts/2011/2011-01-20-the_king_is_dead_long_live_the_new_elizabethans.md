@@ -7,18 +7,9 @@ category: around_town
 date: 2011-01-20 20:04:56
 image: "/assets/images/2011/DEAD_Young-Elizabethan_thumb.jpg"
 excerpt: |
-    I remember Wednesday February 6<sup>th</sup> 1952 rather well. I was sitting at the back of class VIII at Burghley Road Primary School, Tufnell Park, listening to our teacher, Miss Kirkby, talking about Italic writing.  When the classroom door opened and the Headmaster Mr Condern came in we all stood up.
-    
-    Mr Condern was never a barrel of laughs at the best of times but today he looked more sombre than ever. He asked us to sit down.
-    
-    <a href="/assets/images/2011/DEAD_King_george-VI.jpg" title="See larger version of - King George VI"><img src="/assets/images/2011/DEAD_King_george-VI_thumb.jpg" width="150" height="189" alt="King George VI" class="photo right" /></a>
-    
-    bq. "I have some rather sad news", he said."It has just been announced that the King, our King, George 6<sup>th</sup>, has died."
-    
-    Being only 7 years old we didn't know how to react to this kind of news so we sat there until Miss Kirkby gave a gentle sigh, which set us all off, oohing and aahing in a suitably funereal way.
-    
-    Mr Condern waited until we had all calmed down and then continued.
+  I remember Wednesday February 6<sup>th</sup> 1952 rather well. I was sitting at the back of class VIII at Burghley Road Primary School, Tufnell Park, listening to our teacher, Miss Kirkby, talking about Italic writing.  When the classroom door opened and the Headmaster Mr Condern came in we all stood up.
 
+  Mr Condern was never a barrel of laughs at the best of times but today he looked more sombre than ever. He asked us to sit down.
 ---
 
 <a href="/assets/images/2011/DEAD_Young-Elizabethan.jpg" title="See larger version of - Our hero"><img src="/assets/images/2011/DEAD_Young-Elizabethan_thumb.jpg" width="150" height="247" alt="Our hero" class="photo right" /></a>

@@ -1,3 +1,6 @@
+{% assign lastyear = site.time | date: "%Y%m%d" | times: 1 | minus: 10000  %}
+{% assign postyear = page.date | date: "%Y%m%d" | times: 1 %}
+{% if postyear > lastyear or site.data.[include.commentfile] %}
 <notextile>
 
 <section class="p-strip--comments">
@@ -16,6 +19,7 @@
         </ul>
       </div>
     </div>
+    {% if postyear > lastyear %}
     <div class="row">
       <div class="col-8">
         <h4>Add a comment</h4>
@@ -35,6 +39,8 @@
       </form>
     </div>
   </div>
+  {% endif %}
 </section>
 
 </notextile>
+{% endif %}

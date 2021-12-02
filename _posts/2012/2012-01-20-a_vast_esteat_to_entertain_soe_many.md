@@ -7,14 +7,8 @@ category: around_town
 date: 2012-01-20 22:52:45
 image: "/assets/images/2012/ORLEANS_James-Johnston_thumb.png"
 excerpt: |
-    bq. "Here let us trace the matchless vales of Thames,
-    Far winding up top where the muses haunt,
-    To Twitnam's bowers."
-    
-    <cite>James Thomson</cite>
-    
-    In the 17<sup>th</sup> century the walk along the river from Old Isleworth to Twickenham was regarded as one of the most beautiful in Britain. Even as late as 1948 local historian G.E Bate was still generally complimentary. _"Although much of it is still beautiful it has lost some of the freshness and rural aspect that it then bore."_
 
+  In the 17<sup>th</sup> century the walk along the river from Old Isleworth to Twickenham was regarded as one of the most beautiful in Britain. Even as late as 1948 local historian G.E Bate was still generally complimentary. _"Although much of it is still beautiful it has lost some of the freshness and rural aspect that it then bore."_
 ---
 
 <a href="/assets/images/2012/ORLEANS_James-Johnston.png" title="See larger version of - James Johnston"><img src="/assets/images/2012/ORLEANS_James-Johnston_thumb.png" width="150" height="200" alt="James Johnston" class="right" /></a>
@@ -25,7 +19,7 @@ excerpt: |
 
 <cite>James Thomson</cite>
 
-In the 17<sup>th</sup> century the walk along the river from Old Isleworth to Twickenham was regarded as one of the most beautiful in Britain. Even as late as 1948 local historian G.E Bate was still generally complimentary. *"Although much of it is still beautiful it has lost some of the freshness and rural aspect that it then bore."*
+In the 17<sup>th</sup> century the walk along the river from Old Isleworth to Twickenham was regarded as one of the most beautiful in Britain. Even as late as 1948 local historian G.E Bate was still generally complimentary. _"Although much of it is still beautiful it has lost some of the freshness and rural aspect that it then bore."_
 
 In the 17<sup>th</sup> century the river and the beautiful parkland surrounding it were popular resorts of the rich and the royal. A favourite attraction was the new home of James Johnston, who between 1692 and 1696 had been Secretary of State for Scotland...
 
@@ -35,7 +29,7 @@ In the 17<sup>th</sup> century the river and the beautiful parkland surrounding 
 
 <a href="/assets/images/2012/ORLEANS_Orleans-House.jpg" title="See larger version of -  Orleans House"><img src="/assets/images/2012/ORLEANS_Orleans-House_thumb.jpg" width="150" height="104" alt=" Orleans House" class="photo right" /></a>
 
-On Johnston's retirement in 1702 he acquired a lease on "Queen's Farm", a Crown Estate on the river by Marble Hill, and commissioned architect John James to design and build a new house on the site *"after the model of country seats in Lombardy."* This project took 35 years to complete. The gardens surrounding the house were extensive and included two canals, an icehouse, a kitchen garden, a pleasure garden, a wilderness, a grotto and a fruit garden...
+On Johnston's retirement in 1702 he acquired a lease on "Queen's Farm", a Crown Estate on the river by Marble Hill, and commissioned architect John James to design and build a new house on the site _"after the model of country seats in Lombardy."_ This project took 35 years to complete. The gardens surrounding the house were extensive and included two canals, an icehouse, a kitchen garden, a pleasure garden, a wilderness, a grotto and a fruit garden...
 
 > "Secretary Johnston had the best collection of fruit of most gentlemen in England; that he had slopes for his vines from which he made some hogsheads of wine a year; and that Dr Bradley, in his "Treatise on Gardening", ranked him amongst the first gardeners in the kingdom."
 

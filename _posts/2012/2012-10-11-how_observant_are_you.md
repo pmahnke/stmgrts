@@ -7,13 +7,10 @@ category: around_town
 date: 2012-10-11 22:28:20
 image: "/assets/images/2012/QUIZ_Cubs-in-Richmond-Palace_thumb.jpg"
 excerpt: |
-    bq. "When Baden Powell was a schoolboy at Charterhouse he would often play truant and hide in the woods. His masters could never find him, not because he was particularly well hidden, but because they didn't know how to look."
-    
-    Two weeks ago a group of 150 local Cub Scouts, aged 8 - 10, took part in an 'I-Spy' Hike, up one side of the Thames to Hammerton's Ferry and back down the other, to Richmond Lock. On the way they had to answer some questions that could only be solved by looking around and being observant.
-    
-    So, how observant are you? How well do you know the area in which we live? Do you see but not notice? Here are some of the questions that the Cubs had to consider:-
-    
 
+  Two weeks ago a group of 150 local Cub Scouts, aged 8 - 10, took part in an 'I-Spy' Hike, up one side of the Thames to Hammerton's Ferry and back down the other, to Richmond Lock. On the way they had to answer some questions that could only be solved by looking around and being observant.
+
+  So, how observant are you? How well do you know the area in which we live? Do you see but not notice? Here are some of the questions that the Cubs had to consider:-
 ---
 
 <a href="/assets/images/2012/QUIZ_Cubs-in-Richmond-Palace.jpg" title="See larger version of - Cubs in Richmond Palace"><img src="/assets/images/2012/QUIZ_Cubs-in-Richmond-Palace_thumb.jpg" width="150" height="200" alt="Cubs in Richmond Palace" class="photo right" /></a>

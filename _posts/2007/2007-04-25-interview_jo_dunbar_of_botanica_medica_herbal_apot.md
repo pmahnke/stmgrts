@@ -7,32 +7,28 @@ category: around_town
 date: 2007-04-25 08:34:59
 image: "/assets/images/2007/jo_dunbar-thumb.jpg"
 excerpt: |
-    
-    
-    _In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._
-    
-    *What made you choose St Margarets to set up your second apothecary?*
-    
-    bq. I have been going out with Martin Herdman (proprietor of _The Herdman Family Carpet Shop_) for several years, so I have spent a lot of time in St Margarets. I opened my first herbal apothecary, in a tiny little road in Claygate, 4 years ago, and at the time, both Martin and his son Jacob said that it will never work there, and I should have opened in Crown Road. Well, fortunately the apothecary proved so popular that we have patients both locally and internationally. But there came a time when I started thinking of opening a second apothecary, and a large corner shop became available in Crown Road. Initially Martin spotted it as a second Botanica Medica, but after some thought decided to move the Carpet Shop over the road and completely renovate his shop to house <a href="https://stmargarets.london/directory/health_aNd_beauty/200704050227">Botanica Medica</a>
-    
 
+
+  _In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._
+
+  *What made you choose St Margarets to set up your second apothecary?*
 ---
 
 <a href="/assets/images/2007/jo_dunbar.jpg"><img src="/assets/images/2007/jo_dunbar-thumb.jpg" width="112" height="150" alt="Jo Dunbar of Botanica Medica" class="photo right" /></a>
 
-*In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about.*
+_In December last year, Medical Herbalist, Jo Dunbar opened her second herbal apothecary. We visited the beautiful old-world apothecary in Crown Road to see what it is all about._
 
 **What made you choose St Margarets to set up your second apothecary?**
 
-> I have been going out with Martin Herdman (proprietor of *The Herdman Family Carpet Shop*) for several years, so I have spent a lot of time in St Margarets. I opened my first herbal apothecary, in a tiny little road in Claygate, 4 years ago, and at the time, both Martin and his son Jacob said that it will never work there, and I should have opened in Crown Road. Well, fortunately the apothecary proved so popular that we have patients both locally and internationally. But there came a time when I started thinking of opening a second apothecary, and a large corner shop became available in Crown Road. Initially Martin spotted it as a second Botanica Medica, but after some thought decided to move the Carpet Shop over the road and completely renovate his shop to house [Botanica Medica](/directory/health_aNd_beauty/200704050227).
+> I have been going out with Martin Herdman (proprietor of _The Herdman Family Carpet Shop_) for several years, so I have spent a lot of time in St Margarets. I opened my first herbal apothecary, in a tiny little road in Claygate, 4 years ago, and at the time, both Martin and his son Jacob said that it will never work there, and I should have opened in Crown Road. Well, fortunately the apothecary proved so popular that we have patients both locally and internationally. But there came a time when I started thinking of opening a second apothecary, and a large corner shop became available in Crown Road. Initially Martin spotted it as a second Botanica Medica, but after some thought decided to move the Carpet Shop over the road and completely renovate his shop to house [Botanica Medica](/directory/health_aNd_beauty/200704050227).
 
 **What gave you the idea to open a herbal apothecary?**
 
 > Again, it was Martin's idea. I was working in a clinic as most herbalists do, and he suggested I opened a shop. I thought it was the most preposterous idea I had ever heard, but at the same time I was doing a little part time work in a health food store, and was utterly horrified at the lack of knowledge that the staff had, and also how people would dangerously self-medicate. People think that just because herbs are natural, that they are safe, but to give you an example -- if someone is on Warfarin because they might have had a stroke, and decide to take Gingko to help their memory -- because both have the effect of thinning the blood, that person is in danger of a cerebral haemorrhage. So I decided to open a herbal apothecary to offer safe and effective herbal medicine as prescribed by a professional medical herbalist.
 
-**How does *Botanica Medica* differ from an ordinary health shop?**
+**How does _Botanica Medica_ differ from an ordinary health shop?**
 
-> All the staff at *Botanica Medica* are highly qualified medical herbalists with BSc or Msc degrees, and we emphasize treating people according to their individual needs, which means that every person who walks into *Botanica Medica* is given an individualized prescription by a qualified medical herbalist. We take account of their past medical history and their current medication, and also keep a record of their herbal prescriptions for future reference. We offer a real alternative to mainstream medication in that if a person is suffering with a nasty cold and do not want to take anti-biotics -- we can offer an anti-viral immune tonic to exactly match their cold. The same goes for HRT -- we will make a herbal formula for each individual woman's experience of the menopause.
+> All the staff at _Botanica Medica_ are highly qualified medical herbalists with BSc or Msc degrees, and we emphasize treating people according to their individual needs, which means that every person who walks into _Botanica Medica_ is given an individualized prescription by a qualified medical herbalist. We take account of their past medical history and their current medication, and also keep a record of their herbal prescriptions for future reference. We offer a real alternative to mainstream medication in that if a person is suffering with a nasty cold and do not want to take anti-biotics -- we can offer an anti-viral immune tonic to exactly match their cold. The same goes for HRT -- we will make a herbal formula for each individual woman's experience of the menopause.
 
 **What have you enjoyed about having a shop?**
 
@@ -44,7 +40,7 @@ excerpt: |
 
 **How has the response been in St Margarets?**
 
-> We have had a really wonderful response. When I opened *Botanica Medica* in Crown Road, I could see that people were wondering "what the heck is that shop all about", but people have been bold and stepped inside, and have been very generous in referring their friends and family to see us. The St Margarets locals have also been very encouraging especially in popping their head around the door to say that their herbs really did the trick!
+> We have had a really wonderful response. When I opened _Botanica Medica_ in Crown Road, I could see that people were wondering "what the heck is that shop all about", but people have been bold and stepped inside, and have been very generous in referring their friends and family to see us. The St Margarets locals have also been very encouraging especially in popping their head around the door to say that their herbs really did the trick!
 
 **What sort of health issues to you treat?**
 

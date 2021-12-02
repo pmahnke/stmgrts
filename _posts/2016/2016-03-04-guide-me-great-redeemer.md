@@ -9,9 +9,9 @@ date: 2016-03-04 08:30:08
 image: "/assets/images/2016/GUIDEME_Hymn_singing_thumb.jpg"
 excerpt: |
 
-    bq. "My only way of remembering people's addresses has been by the numbers of the hymns."
+  "My only way of remembering people's addresses has been by the numbers of the hymns."
 
-    In August 1922 All Souls Church in Haliburton Road, St Margarets was suffering a major hymnal crisis following the release of three reports:-
+  In August 1922 All Souls Church in Haliburton Road, St Margarets was suffering a major hymnal crisis following the release of three reports:-
 ---
 
 <a href="/assets/images/2016/GUIDEME_Hymn_singing.jpg" title="See larger version of - Hymn singing"><img src="/assets/images/2016/GUIDEME_Hymn_singing_thumb.jpg" width="250" height="250" alt="Hymn singing" class="photo right" /></a>
@@ -71,12 +71,12 @@ In today's world, where we have to remember not only house numbers but so many o
 
 <a href="/assets/images/2016/GUIDEME_St_Mags_Shield.JPG" title="See larger version of - St Mags Shield"><img src="/assets/images/2016/GUIDEME_St_Mags_Shield_thumb.JPG" width="250" height="347" alt="St Mags Shield" class="photo right" /></a>
 
--   My Bank - "Jesus, grant me this, I pray"
--   My friend - a Mills and Boone novelist - "Glory to thee, my God, this night."
--   My friend - a guitarist in a rock band - " Lo! He comes, with clouds descending.
--   Our local Bath & Shower Shop - "New every morning is the love."
--   Our local electrician - "Now that the daylight dies away."
--   A neighbour with a two-year old with tantrums - "Hark, a thrilling voice is sounding."
+- My Bank - "Jesus, grant me this, I pray"
+- My friend - a Mills and Boone novelist - "Glory to thee, my God, this night."
+- My friend - a guitarist in a rock band - " Lo! He comes, with clouds descending.
+- Our local Bath & Shower Shop - "New every morning is the love."
+- Our local electrician - "Now that the daylight dies away."
+- A neighbour with a two-year old with tantrums - "Hark, a thrilling voice is sounding."
 
 As for Peter Mahnke, the esteemed editor of the St Margarets Community Website - he's to be found at <em>"The Advent of our King,"</em> which I am sure you will agree is sufficiently respectful!
 

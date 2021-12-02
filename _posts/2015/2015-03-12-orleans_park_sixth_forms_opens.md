@@ -5,7 +5,6 @@ permalink: /archives/2015/03/orleans_park_sixth_forms_opens.html
 commentfile: 2015-03-12-orleans_park_sixth_forms_opens
 category: news
 date: 2015-03-12 22:03:48
-
 ---
 
 Richmond's ambitious post-16 programme has reached another major milestone with the official unveiling of two sixth form centres at Christ's School and Orleans Park.
@@ -18,25 +17,25 @@ Council representatives will be joined by contractors at both centres for offici
 
 The Orleans Park sixth form centre, includes:
 
--   Specialist sixth form classes
--   Sixth form learning resource centre
--   A new school hall
--   Dedicated media suites
--   Sixth form art studio
--   A-Level biology, physics, and Chemistry.
+- Specialist sixth form classes
+- Sixth form learning resource centre
+- A new school hall
+- Dedicated media suites
+- Sixth form art studio
+- A-Level biology, physics, and Chemistry.
 
 The sixth form centre at Christ's includes:
 
--   Classrooms and seminar rooms
--   Sixth form resource centre and common room
--   Activity Studio
--   Drama Studio
--   Changing rooms
--   Science Labs
+- Classrooms and seminar rooms
+- Sixth form resource centre and common room
+- Activity Studio
+- Drama Studio
+- Changing rooms
+- Science Labs
 
 Richmond Council Cabinet Member for Children and Schools, Cllr Paul Hodgins, said:
 
-bq."This is a major milestone. Enabling new sixth forms in our schools has been one of this Council's most important and most popular commitments. Over 500 students are in our new sixth forms now, and this will grow significantly next year. They are more popular than even we anticipated at the outset.
+> "This is a major milestone. Enabling new sixth forms in our schools has been one of this Council's most important and most popular commitments. Over 500 students are in our new sixth forms now, and this will grow significantly next year. They are more popular than even we anticipated at the outset.
 
 > "These facilities are fantastic new additions to Christ's and Orleans Park, and I would like to thank staff, governors, and students at both schools for their co-operation and hard work to get us to this point. The build at Orleans Park was complicated, and even a significant fire at Christ's did not prevent their opening this year. Thank you to all."
 

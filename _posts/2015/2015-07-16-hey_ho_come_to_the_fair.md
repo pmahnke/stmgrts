@@ -7,7 +7,7 @@ category: around_town
 date: 2015-07-16 20:00:09
 image: "/assets/images/2015/FAIR_St_Mags_Fair_thumb.jpg"
 excerpt: |
-    bq. "This is the time of the year when St Margarets empties out and turns into a ghost town..."
+     "This is the time of the year when St Margarets empties out and turns into a ghost town..."
     
     <cite>Overheard at the St Margarets Fair - Saturday 11<sup>th</sup> July 2015</cite>
     

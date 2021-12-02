@@ -7,15 +7,13 @@ category: around_town
 date: 2008-10-16 14:52:07
 image: "/assets/images/2008/jamboree_poster-thumb.jpg"
 excerpt: |
-    
-    
-    A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
-    
-    bq. 'a gloriously majestic riverside stretch...ancient oaks, dry grassland, a riparian pond, ditches and woodland - all providing a series of important nature conservation areas ...  a delight to behold.  A great place to wander around and get lost!'
-    
-    "Get lost" indeed!
-    
 
+
+  A short sighted optimist (or someone who doesn't get out much) recently described the Old Deer Park as 
+
+  'a gloriously majestic riverside stretch...ancient oaks, dry grassland, a riparian pond, ditches and woodland - all providing a series of important nature conservation areas ...  a delight to behold.  A great place to wander around and get lost!'
+
+  "Get lost" indeed!
 ---
 
 <a href="/assets/images/2008/jamboree_poster.jpg"><img src="/assets/images/2008/jamboree_poster-thumb.jpg" width="102" height="150" alt="Poster" class="photo right" /></a>
@@ -52,6 +50,6 @@ Baden Powell closed the Jamboree on 8<sup>th</sup> August by saying...
 
 Then the boys went home, some to the farthest corners of the world, carrying with them warm memories not just of the Jamboree but also of the kindness of the people of Richmond who for a few days had shared Baden Powell's vision of peace, happiness and goodwill. That sentiment was echoed by a cartoon in the Punch magazine showing a War weary World saying to a Scout at the Jamboree, "I was nearly losing hope, but the sight of all you boys gives it back to me."
 
-By the 11<sup>th</sup> August the tents had been struck, the fire pits filled in and the "Richmond and Twickenham" was advertising the next event to come to the Old Deer Park -- *Bronco Billy's Original Wild West Show and Mammoth Circus*. It all sounds very familiar, doesn't it?
+By the 11<sup>th</sup> August the tents had been struck, the fire pits filled in and the "Richmond and Twickenham" was advertising the next event to come to the Old Deer Park -- _Bronco Billy's Original Wild West Show and Mammoth Circus_. It all sounds very familiar, doesn't it?
 
 <cite>-- from Martyn Day</cite>
