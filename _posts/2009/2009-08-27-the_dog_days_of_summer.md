@@ -7,16 +7,13 @@ category: around_town
 date: 2009-08-27 21:43:55
 image: "/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg"
 excerpt: |
-    
-    
-    bq. "In the mydle of the monthe Iulius the Canicular dayes begyn."
-    
-    <cite>Bartholomeus De proprietatibus rerum, 1398: John de Trevisa</cite>
-    
-    
-    Well, fellow St Margarethans, I think we've made it! The gods have smiled upon us once again and it looks like we're going to survive. I'm not talking about getting through the trials and tribulations of the School holidays either. My concern is with the Dog Days which according to ancient wisdom ran from early July to late August ...
-    
 
+  "In the mydle of the monthe Iulius the Canicular dayes begyn."
+
+  <cite>Bartholomeus De proprietatibus rerum, 1398: John de Trevisa</cite>
+
+
+  Well, fellow St Margarethans, I think we've made it! The gods have smiled upon us once again and it looks like we're going to survive. I'm not talking about getting through the trials and tribulations of the School holidays either. My concern is with the Dog Days which according to ancient wisdom ran from early July to late August ...
 ---
 
 <a href="/assets/images/2009/Sirius_A_and_B_Hubble_photo.jpg"><img src="/assets/images/2009/Sirius_A_and_B_Hubble_photo-thumb.jpg" width="137" height="150" alt="The material was created for NASA by Space Telescope Science Institute and for ESA by the Hubble European Space Agency Information Centre under Contract NAS5-26555." class="photo right" /></a>

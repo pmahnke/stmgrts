@@ -7,13 +7,9 @@ category: food
 date: 2008-12-19 14:05:21
 image: "/assets/images/2008/Spicy_Turkey_Jambalaya-thumb.jpg"
 excerpt: |
-    
-    
-    bq. "Christmas is soon approaching and many of us will be sitting down in a little less than a week to a huge turkey dinner.  For the cooks in the family, the turkey dinner is a true feat of ability.  Trying to get the turkey nicely browned, the sprouts perfectly cooked, the potatoes roasted to crispiness, all while keeping the in-laws and children at bay, truly requires immense planning and timing abilities and tests the skill of even the most talented chef.  It's no wonder then that after Christmas dinner is over, the cook is exhausted and ready to throw the turkey some place where it will never been seen again!  Don't do it!  There are so many brilliant ways of using those turkey leftovers that aren't just boring sandwiches and microwaved leftovers.  My absolute favourite way of using turkey leftovers is to make a hearty jambalaya full of spices and vegetables."
-    
-    <cite>Catherine at <a href="http://stmargaretskitchen.blogspot.com/</cite>">St Margarets Kitchen</a>
-    
+  "Christmas is soon approaching and many of us will be sitting down in a little less than a week to a huge turkey dinner.  For the cooks in the family, the turkey dinner is a true feat of ability.  Trying to get the turkey nicely browned, the sprouts perfectly cooked, the potatoes roasted to crispiness, all while keeping the in-laws and children at bay, truly requires immense planning and timing abilities and tests the skill of even the most talented chef.  It's no wonder then that after Christmas dinner is over, the cook is exhausted and ready to throw the turkey some place where it will never been seen again!  Don't do it!  There are so many brilliant ways of using those turkey leftovers that aren't just boring sandwiches and microwaved leftovers.  My absolute favourite way of using turkey leftovers is to make a hearty jambalaya full of spices and vegetables."
 
+  <cite>Catherine at <a href="http://stmargaretskitchen.blogspot.com/</cite>">St Margarets Kitchen</a>
 ---
 
 <a href="/assets/images/2008/Spicy_Turkey_Jambalaya.jpg"><img src="/assets/images/2008/Spicy_Turkey_Jambalaya-thumb.jpg" width="150" height="112" alt="Steaming Plate of Spicy Turkey Jambalaya" class="photo right" /></a>
@@ -28,7 +24,7 @@ We are adding back a feature we attempted to start [back in August 2005](/archiv
 ### Spicy Turkey Jambalaya
 
 |                        |                                      |
-|------------------------|--------------------------------------|
+| ---------------------- | ------------------------------------ |
 | 300 grams (1 1/2 cups) | brown rice                           |
 | 750 ml (3 cups)        | turkey or chicken stock              |
 | 100 grams (1/2 cup)    | cooked turkey                        |
@@ -46,9 +42,9 @@ We are adding back a feature we attempted to start [back in August 2005](/archiv
 3.  Add the onion, mushrooms and peppers to the sausage meat and brown for a further 5 minutes.
 4.  Add the canned tomatoes and the rice to the large pot. Bring to a low boil. \# Add courgette and cook for 5 minutes.
 
--   Serves: 4
--   Cooking time: 40 minutes
--   Active time: 10 minutes
+- Serves: 4
+- Cooking time: 40 minutes
+- Active time: 10 minutes
 
 <em>See the original recipe on [St Margarets Kitchen website](http://stmargaretskitchen.blogspot.com/2008/12/turkey-jambalaya.html)</em>
 

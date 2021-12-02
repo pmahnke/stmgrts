@@ -8,11 +8,7 @@ date: 2012-09-01 09:28:51
 image: "/assets/images/2012/HINDE_Sir_Francis_Drake_by_Jodocus_Hondius_thumb.jpg"
 excerpt: |
 
-    The 'Golden Hinde' is a legendary English galleon best known for its captain, Francis Drake and his circumnavigation of the globe between 1577 and 1580. On 1 March 1579, Drake captured the Spanish galleon 'Nuestra Se&#241;ora de la Concepci&#243;n' off the coast of Ecuador and relieved her of six tons of treasure worth over &pound;12 million today. When the ship returned home in September 1580 she was welcomed by Queen Elizabeth 1 who, looking forward to her share of the prize money, said...
-
-    bq. "We would gladly be revenged on the King of Spain for divers injuries that we have received."
-
-
+  The 'Golden Hinde' is a legendary English galleon best known for its captain, Francis Drake and his circumnavigation of the globe between 1577 and 1580. On 1 March 1579, Drake captured the Spanish galleon 'Nuestra Se&#241;ora de la Concepci&#243;n' off the coast of Ecuador and relieved her of six tons of treasure worth over &pound;12 million today. When the ship returned home in September 1580 she was welcomed by Queen Elizabeth 1 who, looking forward to her share of the prize money, said...
 ---
 
 <div markdown="1" class="box">
@@ -53,12 +49,12 @@ Firing cannon is incredibly dangerous so take great care:-
 
 <a href="/assets/images/2012/HINDE_The-Master-and-the-Cannon.jpg" title="See larger version of - The Master and the Cannon"><img src="/assets/images/2012/HINDE_The-Master-and-the-Cannon_thumb.jpg" width="150" height="99" alt="The Master and the Cannon" class="photo right" /></a>
 
--   Always mop out the barrel with a damp sponge to quence embers and
-    sparks before reloading.
--   Never stand behind the cannon when it is fired. It can knock your head off.
-    (This is known in the artillery business as being kissed by the gunner's daughter.)
--   The gun deck has a very low ceiling to lower the centre of gravity - so mind
-    your head.
+- Always mop out the barrel with a damp sponge to quence embers and
+  sparks before reloading.
+- Never stand behind the cannon when it is fired. It can knock your head off.
+  (This is known in the artillery business as being kissed by the gunner's daughter.)
+- The gun deck has a very low ceiling to lower the centre of gravity - so mind
+  your head.
 
 And it was on the gun deck, beneath the massive oak beams and surrounded by cannon, powder and shot that the young crew slept - officers, barber surgeons and gunners - and dreamed of Spanish doubloons and foreign climes and, come the morn, a happy landfall back in the 21<sup>st</sup> century.
 
@@ -68,11 +64,11 @@ And it was on the gun deck, beneath the massive oak beams and surrounded by cann
 When the Golden Hinde returned home on 26 September 1580 only 56 of the original crew of 80 remained. Queen Elizabeth's share of the prize money came to almost £160,000 - enough to pay off her entire foreign debt and still have £40,000 to spare. She made £47 for every £1 she had invested, a total return of 4,700%. ....And when Drake died off Panama in 1596 he made a promise to his crew...
 
 > "Take my drum to England, hang et by the shore,
->  Strike et when your powder's runnin' low;
->  If the Dons sight Devon, I'll quit the port o'Heaven,
->  An' drum them up the Channel as we drummed them long ago."
+> Strike et when your powder's runnin' low;
+> If the Dons sight Devon, I'll quit the port o'Heaven,
+> An' drum them up the Channel as we drummed them long ago."
 >
- <cite>DRAKE'S DRUM by Sir Henry Newbolt</cite>
+> <cite>DRAKE'S DRUM by Sir Henry Newbolt</cite>
 
 **Pwtt! Pwtt!**
 

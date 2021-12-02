@@ -8,12 +8,11 @@ date: 2012-03-16 10:20:44
 image: "/assets/images/2012/MOTHERING_cybele_thumb.jpg"
 excerpt: |
 
-    bq. "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
+  "All right, but apart from the sanitation, medicine, education, wine, public order, irrigation, roads, the fresh water system and public health, what have the Romans ever done for us?"
 
-    <cite>REG: The Life of Brian</cite>
+  <cite>REG: The Life of Brian</cite>
 
-    In a roundabout way they created Mothering Sunday.
-
+  In a roundabout way they created Mothering Sunday.
 ---
 
 <a href="/assets/images/2012/MOTHERING_cybele.jpg" title="See larger version of - Cybele"><img src="/assets/images/2012/MOTHERING_cybele_thumb.jpg" width="150" height="255" alt="Cybele" class="photo right" /></a>

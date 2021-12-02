@@ -7,13 +7,8 @@ category: around_town
 date: 2013-01-24 12:51:49
 image: "/assets/images/2013/EID_Mohammads_name_calligraphy_thumb.png"
 excerpt: |
-    bq. "And peace on him on the day he was born, and on the day he dies, and on the day he is raised to life"
-    
-    <cite>Holy Qu'ran 19:15</cite>
-    
-    You do not have to be a Christian to know when they celebrate the birth of the Messiah. Although the actual date and even year of the event are uncertain the public holiday and the tidal wave of decorations, present buying, carol singing, feasting and church services let us all know that it is 25<sup>th</sup> December. The festival is woven into our culture and consciousness.
-    
 
+  You do not have to be a Christian to know when they celebrate the birth of the Messiah. Although the actual date and even year of the event are uncertain the public holiday and the tidal wave of decorations, present buying, carol singing, feasting and church services let us all know that it is 25<sup>th</sup> December. The festival is woven into our culture and consciousness.
 ---
 
 <a href="/assets/images/2013/EID_Mohammads_name_calligraphy.png" title="See larger version of - Mohammad's name calligraphy"><img src="/assets/images/2013/EID_Mohammads_name_calligraphy_thumb.png" width="150" height="109" alt="Mohammad's name calligraphy" class=" right" /></a>

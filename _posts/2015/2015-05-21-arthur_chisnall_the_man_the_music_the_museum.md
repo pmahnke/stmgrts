@@ -7,10 +7,9 @@ category: around_town
 date: 2015-05-21 22:13:27
 image: "/assets/images/2015/CHISNALL_arthur_chisnall_thumb.jpg"
 excerpt: |
-    bq. "You must realise that what goes on here is the expression of the latent desire among the young to get away from mass media and regimentation."
-    
-    <cite>Arthur Chisnall</cite>
+  "You must realise that what goes on here is the expression of the latent desire among the young to get away from mass media and regimentation."
 
+  <cite>Arthur Chisnall</cite>
 ---
 
 <a href="/assets/images/2015/CHISNALL_arthur_chisnall.jpg" title="See larger version of - CHISNALL arthur chisnall"><img src="/assets/images/2015/CHISNALL_arthur_chisnall_thumb.jpg" width="200" height="247" alt="CHISNALL arthur chisnall" class="photo right" /></a>

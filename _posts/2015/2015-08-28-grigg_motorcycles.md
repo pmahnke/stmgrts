@@ -7,11 +7,9 @@ category: around_town
 date: 2015-08-28 23:26:07
 image: "/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG"
 excerpt: |
-    bq. "GRIGG - THE HALLMARK OF EXCELLENCE IN ENGINEERING!"
-    
-    British motorcyclists are a sentimental bunch. They can get just as excited by a list of British motorcycle 'marques' as doing the ton up the Kingston by-pass on the back of a 1959 650cc Bonneville Twin and who can blame them? It is an illustrious catalogue - B.S.A, Triumph, Arial, Norton, Vincent, Matchless, Royal Enfield and so on.  But there is one name missing from that roll of honour...
-    
+  "GRIGG - THE HALLMARK OF EXCELLENCE IN ENGINEERING!"
 
+  British motorcyclists are a sentimental bunch. They can get just as excited by a list of British motorcycle 'marques' as doing the ton up the Kingston by-pass on the back of a 1959 650cc Bonneville Twin and who can blame them? It is an illustrious catalogue - B.S.A, Triumph, Arial, Norton, Vincent, Matchless, Royal Enfield and so on.  But there is one name missing from that roll of honour...
 ---
 
 <a href="/assets/images/2015/MOTORCYCLES_Grigg_logo.JPG" title="See larger version of - MOTORCYCLES Grigg logo"><img src="/assets/images/2015/MOTORCYCLES_Grigg_logo_thumb.JPG" width="150" height="108" alt="MOTORCYCLES Grigg logo" class=" right" /></a>

@@ -7,13 +7,9 @@ category: food
 date: 2009-03-26 18:34:33
 image: "/assets/images/2009/huevos_rancheros-thumb.jpg"
 excerpt: |
-    
-    
-    bq. "It's so nice to start a Sunday by having a nice hearty brunch with your friends or family. This recipe is a variation of huevos rancheros which is a popular breakfast in Mexico  meaning "eggs ranch-style" or "eggs country-style". The dish traditionally was served for on rural farms for a mid-day meal and is traditionally made with corn tortillas, vegetables and eggs. too make this meal slightly more European I have replaced the tortillas with polenta and added large quantities of vegetables to make a wonder healthy brunch."
-    
-    <cite>Catherine at <a href="http://stmargaretskitchen.blogspot.com/</cite>">St Margarets Kitchen</a>
-    
+  "It's so nice to start a Sunday by having a nice hearty brunch with your friends or family. This recipe is a variation of huevos rancheros which is a popular breakfast in Mexico  meaning "eggs ranch-style" or "eggs country-style". The dish traditionally was served for on rural farms for a mid-day meal and is traditionally made with corn tortillas, vegetables and eggs. too make this meal slightly more European I have replaced the tortillas with polenta and added large quantities of vegetables to make a wonder healthy brunch."
 
+  <cite>Catherine at <a href="http://stmargaretskitchen.blogspot.com/</cite>">St Margarets Kitchen</a>
 ---
 
 <a href="/assets/images/2009/huevos_rancheros.jpg"><img src="/assets/images/2009/huevos_rancheros-thumb.jpg" width="150" height="107" alt="Huevos Rancheros" class="photo right" /></a>
@@ -26,7 +22,7 @@ excerpt: |
 ### Polenta Farmer's Eggs (Huevos Rancheros)
 
 |                     |                          |
-|---------------------|--------------------------|
+| ------------------- | ------------------------ |
 | 3/4 cup (125 grams) | polenta                  |
 | 1.5 cups (375 ml)   | water                    |
 | 1/4 tsp             | salt                     |
@@ -49,10 +45,10 @@ excerpt: |
 7.  Crack the eggs into the indentations.
 8.  Cover the dish and cook at 180 degrees until the eggs have set. Approximately 20-25 minutes.
 
-*This recipe can be partially made the night before. Simply put the dish in the refrigerator after step 6 and finish in the morning.*
+_This recipe can be partially made the night before. Simply put the dish in the refrigerator after step 6 and finish in the morning._
 
--   Serves 3-6 people
--   Cooking time: 45 minutes
--   Active time: 15 minutes
+- Serves 3-6 people
+- Cooking time: 45 minutes
+- Active time: 15 minutes
 
 </div>

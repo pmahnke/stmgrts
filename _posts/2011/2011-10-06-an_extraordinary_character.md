@@ -7,24 +7,20 @@ category: around_town
 date: 2011-10-06 20:29:03
 image: "/assets/images/2011/EXTRAORDINARY_Chevalier_Billing_thumb.jpg"
 excerpt: |
-    bq. "In the court of the evening, by particular desire of several persons of distinction, the celebrated CHEVALIERE D'EON will FENCE with a NOBLEMAN."
-    
-    On the evening of 23<sup>rd</sup> August 1793 the patrons of the Theatre Royal, Richmond were looking forward to a real treat. Included on the bill that evening was a fencing display by that acknowledged champion of the flashing blade - the Chevaliere d'Eon.  This was the same person who on June 19<sup>th</sup> that year had received the personal congratulations of the Prince of Wales and his mistress Mrs Fitzherbert after a fencing demonstration that had shown _"a vigour and  firmness incredible"_.
-    
-    Unfortunately growing celebrity and royal approval did not please everyone at the theatre that night. One reviewer commented that the event was _"a disgusting sight... a ﬁne display of fencing by the Chevalier but in a dress that was scarcely decent."_
-    
+  "In the court of the evening, by particular desire of several persons of distinction, the celebrated CHEVALIERE D'EON will FENCE with a NOBLEMAN."
 
+  On the evening of 23<sup>rd</sup> August 1793 the patrons of the Theatre Royal, Richmond were looking forward to a real treat. Included on the bill that evening was a fencing display by that acknowledged champion of the flashing blade - the Chevaliere d'Eon.  This was the same person who on June 19<sup>th</sup> that year had received the personal congratulations of the Prince of Wales and his mistress Mrs Fitzherbert after a fencing demonstration that had shown _"a vigour and  firmness incredible"_.
 ---
 
 <a href="/assets/images/2011/EXTRAORDINARY_Chevalier_Billing.jpg" title="See larger version of - Chevalier Billing"><img src="/assets/images/2011/EXTRAORDINARY_Chevalier_Billing_thumb.jpg" width="150" height="172" alt="Chevalier Billing" class="photo right" /></a>
 
 > "In the court of the evening, by particular desire of several persons of distinction, the celebrated CHEVALIERE D'EON will FENCE with a NOBLEMAN."
 
-On the evening of 23<sup>rd</sup> August 1793 the patrons of the Theatre Royal, Richmond were looking forward to a real treat. Included on the bill that evening was a fencing display by that acknowledged champion of the flashing blade - the Chevaliere d'Eon. This was the same person who on June 19<sup>th</sup> that year had received the personal congratulations of the Prince of Wales and his mistress Mrs Fitzherbert after a fencing demonstration that had shown *"a vigour and firmness incredible"*.
+On the evening of 23<sup>rd</sup> August 1793 the patrons of the Theatre Royal, Richmond were looking forward to a real treat. Included on the bill that evening was a fencing display by that acknowledged champion of the flashing blade - the Chevaliere d'Eon. This was the same person who on June 19<sup>th</sup> that year had received the personal congratulations of the Prince of Wales and his mistress Mrs Fitzherbert after a fencing demonstration that had shown _"a vigour and firmness incredible"_.
 
 <a href="/assets/images/2011/EXTRAORDINARY_dEon_Prince-of-Wales.jpg" title="See larger version of - Prince of Wales and Chevaliere d'Eon"><img src="/assets/images/2011/EXTRAORDINARY_dEon_Prince-of-Wales_thumb.jpg" width="150" height="83" alt="Prince of Wales and Chevaliere d'Eon" class="photo right" /></a>
 
-Unfortunately growing celebrity and royal approval did not please everyone at the theatre that night. One reviewer commented that the event was *"a disgusting sight... a ﬁne display of fencing by the Chevalier but in a dress that was scarcely decent."*
+Unfortunately growing celebrity and royal approval did not please everyone at the theatre that night. One reviewer commented that the event was _"a disgusting sight... a ﬁne display of fencing by the Chevalier but in a dress that was scarcely decent."_
 
 The thing that shocked our critical critic and intrigued the Richmond audience was the Chevalier d'Eon, Charles Geneviève Louis Auguste André Timothée d'Éon de Beaumont, born in Tonnerre, France on 5<sup>th</sup> October 1728, was dressed as a woman.
 
@@ -46,9 +42,9 @@ Following the death of Louis XV in 1777 d'Eon was allowed home after agreeing th
 
 <a href="/assets/images/2011/EXTRAORDINARY_Mme_dEon.jpg" title="See larger version of - Mademoiselle d'Eon"><img src="/assets/images/2011/EXTRAORDINARY_Mme_dEon_thumb.jpg" width="150" alt="Mademoiselle d'Eon" class="photo right" /></a>
 
-In 1785, having lost his pension during the French Revolution, d'Eon returned to England. Running short of money and remembering his famous fencing match at Carlton House in 1787 when, despite his age and triple skirts, he had defeated the world fencing champion, the Chevalier de Saintes-Georges, d'Eon set out on a theatre tour giving fencing demonstrations and inviting challenges. In the billings for these performances d'Eon stated that "she" no longer had the pension granted "her" by Louis XVI and, *"having been frustrated in the receipt of £5,000 deposited for her in the hands of an English noble, she was obliged to cut her bread with her sword."*
+In 1785, having lost his pension during the French Revolution, d'Eon returned to England. Running short of money and remembering his famous fencing match at Carlton House in 1787 when, despite his age and triple skirts, he had defeated the world fencing champion, the Chevalier de Saintes-Georges, d'Eon set out on a theatre tour giving fencing demonstrations and inviting challenges. In the billings for these performances d'Eon stated that "she" no longer had the pension granted "her" by Louis XVI and, _"having been frustrated in the receipt of £5,000 deposited for her in the hands of an English noble, she was obliged to cut her bread with her sword."_
 
-In 1796 d'Eon's new and profitable career as theatrical fencer ended when he received a deep wound in the armpit during a display in Southampton. Broke once again and with a diminishing circle of friends Chevalier d'Eon, Charles Geneviève Louis Auguste André Timothée d'Éon de Beaumont died in London on 21<sup>st</sup> May 1804,. The autopsy by a group of leading anatomists found *"the male organs in every respect perfectly formed... there was an unusual roundness in the formation of the limbs. The throat was by no means masculine; breast remarkably full; arms, hands, and ﬁngers those of a stout female; legs and feet corresponding with the arms."* Horace Walpole later reported that at a supper at the Johnstones *"Lord Mount-Edgecumbe had said excellently, 'Mademoiselle d'Eon is her own widow.'"*
+In 1796 d'Eon's new and profitable career as theatrical fencer ended when he received a deep wound in the armpit during a display in Southampton. Broke once again and with a diminishing circle of friends Chevalier d'Eon, Charles Geneviève Louis Auguste André Timothée d'Éon de Beaumont died in London on 21<sup>st</sup> May 1804,. The autopsy by a group of leading anatomists found _"the male organs in every respect perfectly formed... there was an unusual roundness in the formation of the limbs. The throat was by no means masculine; breast remarkably full; arms, hands, and ﬁngers those of a stout female; legs and feet corresponding with the arms."_ Horace Walpole later reported that at a supper at the Johnstones _"Lord Mount-Edgecumbe had said excellently, 'Mademoiselle d'Eon is her own widow.'"_
 
 Chevalier d'Eon was buried as he wished in St Pancras Churchyard.
 
@@ -64,4 +60,4 @@ Miss More gives the following account of this extraordinary character:
 </div>
 <cite>-- from Martyn Day</cite>
 
-*CREDITS: The billing from the 'Theatre Royal' was kindly supplied by Jane Baxter, Local Studies Librarian at the London Borough of Richmond upon Thames Local Studies Collection. The print of young Chevalier d'Eon is from Enugmis del l'Historie/Geographie*
+_CREDITS: The billing from the 'Theatre Royal' was kindly supplied by Jane Baxter, Local Studies Librarian at the London Borough of Richmond upon Thames Local Studies Collection. The print of young Chevalier d'Eon is from Enugmis del l'Historie/Geographie_

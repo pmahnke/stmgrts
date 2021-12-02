@@ -7,12 +7,9 @@ category: around_town
 date: 2010-03-25 22:30:00
 image: "/assets/images/2010/normanj_1_thumb.png"
 excerpt: |
-    bq. "I was young and cocky and thought I could do anything. But I did no more than anyone else would do."
-    
-    Norman Jackson was born in Ealing on 8<sup>th</sup> April 1919.  When he left school he qualified as an engineer. Although he was married and in a reserved occupation, on the outbreak of the 2<sup>nd</sup> World War in 1939 he volunteered for the RAF and trained as a Flight Engineer. On 20 July 1943 Warrant Officer Jackson joined his first squadron, No 106 based at Syerston, in Nottinghamshire, flying Lancaster bombers.
-    
-    He and his new crew settled down well together and by mid-November had completed 14 sorties against targets in Germany. On a trip to Munich on 24 April 1944 Jackson completed his required tour of 30 sorties when he flew with another crew whose own flight engineer was unavailable. Two days later, on 26<sup>th</sup> April 1944, when his own crew were listed to complete their own tour of 30 sorties, Jackson cheerfully agreed to fly with them although there was no need for him to do so.
+  "I was young and cocky and thought I could do anything. But I did no more than anyone else would do."
 
+  Norman Jackson was born in Ealing on 8<sup>th</sup> April 1919.  When he left school he qualified as an engineer. Although he was married and in a reserved occupation, on the outbreak of the 2<sup>nd</sup> World War in 1939 he volunteered for the RAF and trained as a Flight Engineer. On 20 July 1943 Warrant Officer Jackson joined his first squadron, No 106 based at Syerston, in Nottinghamshire, flying Lancaster bombers.
 ---
 
 <a href="/assets/images/2010/normanj_1.png" title="See larger version of - NORMAN JACKSON"><img src="/assets/images/2010/normanj_1_thumb.png" width="150" height="150" alt="NORMAN JACKSON" class="photo right" /></a>

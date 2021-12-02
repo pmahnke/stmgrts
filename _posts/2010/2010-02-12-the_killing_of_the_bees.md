@@ -6,12 +6,9 @@ commentfile: 2010-02-12-the_killing_of_the_bees
 category: around_town
 date: 2010-02-12 10:20:22
 excerpt: |
-    About 200 years ago an agricultural expert working in Middlesex was surprised to discover how few people kept bees.
-    
-    <a href="/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
-    
-    bq. "There are no bees of any consequence kept in the county. We rarely see a hive at a farm house, and perhaps not ten cottages in the county have any. It is lamentable that these most valuable insects should be so much neglected. Cottagers might pay their rent from the produce of their bees, which require little attendance and less provision. Their whole increase, wax and honey, is very nearly net profit; and they are also supposed to be very serviceable in promoting the increase of beans, peas etc."
+  About 200 years ago an agricultural expert working in Middlesex was surprised to discover how few people kept bees.
 
+  <a href="/assets/images/2010/bees_1.jpg" title="See larger version of - Honey bees"><img src="/assets/images/2010/bees_1_thumb.jpg" width="150" height="97" alt="Honey bees" class=" right" /></a>
 ---
 
 About 200 years ago an agricultural expert working in Middlesex was surprised to discover how few people kept bees.
@@ -50,9 +47,9 @@ One such association is the Twickenham and Thames Valley Beekeeping Association 
 Even up to our own times this killing of the bees to obtain the honey was practiced. The poet more than once shows his objection to this useless method by the terms he used, as when Talbot describes the method of the " witch " Joan of Arc in repulsing the British troops --
 
 > "As bees with smoke, and doves with noisome stench.
->  Are from their hives and houses driven away."
-> 
- <cite>Proceedings of the *South London Entomological & Natural History Society* 1915-16</cite>
+> Are from their hives and houses driven away."
+>
+> <cite>Proceedings of the _South London Entomological & Natural History Society_ 1915-16</cite>
 
 </div>
 > When, like the bee, culling from every flower

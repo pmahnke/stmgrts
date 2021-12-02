@@ -7,14 +7,10 @@ category: around_town
 date: 2012-06-28 08:16:03
 image: "/assets/images/2012/D-DAY_Landing_Craft_thumb.jpg"
 excerpt: |
-    bq. "Soldiers, sailors and airmen of the Allied Expeditionary Force. You are about to embark upon the great crusade, toward which we have striven these many months. The eyes of the world are upon you. The hope and prayers of liberty-loving people everywhere march with you."
-    
-    <cite>Dwight D. Eisenhower -- June 6, 1944</cite>
-    
-    Our lives are shaped by the decisions that we make. Some are marginal. "Shall I have tea or coffee this morning?" "Shall I take a coat today". Others are far wider reaching. "Shall I buy this house or that one?" "Shall I marry this person or another?" There are some decisions however that are so important, so all encompassing that they affect not just our lives but also the lives of others and their children and grand children and their overall destinies far into the future..
-    
-    One such decision was made on the 5<sup>th</sup> June 1944 by two men - one from Abilene Kansas and the other from Kew.
 
+  Our lives are shaped by the decisions that we make. Some are marginal. "Shall I have tea or coffee this morning?" "Shall I take a coat today". Others are far wider reaching. "Shall I buy this house or that one?" "Shall I marry this person or another?" There are some decisions however that are so important, so all encompassing that they affect not just our lives but also the lives of others and their children and grand children and their overall destinies far into the future..
+
+  One such decision was made on the 5<sup>th</sup> June 1944 by two men - one from Abilene Kansas and the other from Kew.
 ---
 
 <a href="/assets/images/2012/D-DAY_Landing_Craft.jpg" title="See larger version of - Landing Craft"><img src="/assets/images/2012/D-DAY_Landing_Craft_thumb.jpg" width="150" height="118" alt="Landing Craft" class="photo right" /></a>
@@ -38,9 +34,9 @@ In 1939 Stagg had been appointed superintendent of the Kew Observatory, the home
 On 4<sup>th</sup> June 1944, with continuing disagreement between the meteorologists Stagg received reports of a ridge of high pressure developing over Spain and Southern France. He thought that it would offer the Allies a break in the weather, long enough to get the invasion ashore. Eisenhower came to see Stagg.
 
 > "What did you think, Stagg?"
->  "I hold to my forecast, Sir, breaks after dark tonight."
-> 
- Eisenhower clapped Stagg on the shoulder,
+> "I hold to my forecast, Sir, breaks after dark tonight."
+>
+> Eisenhower clapped Stagg on the shoulder,
 
 > "Good. Stagg. Hold to it."
 

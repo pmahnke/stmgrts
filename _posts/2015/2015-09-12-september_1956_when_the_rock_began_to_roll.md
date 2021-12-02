@@ -7,10 +7,9 @@ category: around_town
 date: 2015-09-12 09:55:08
 image: "/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock_thumb.jpg"
 excerpt: |
-    bq. The movie, <em>'Rock Around the Clock'</em>  remains a fitting tribute to perhaps the unlikeliest rock and roll trailblazer of them all.
-    
-    <cite>THIS DAY IN MUSIC 9TH Nov. 2010</cite>
+  The movie, <em>'Rock Around the Clock'</em>  remains a fitting tribute to perhaps the unlikeliest rock and roll trailblazer of them all.
 
+  <cite>THIS DAY IN MUSIC 9TH Nov. 2010</cite>
 ---
 
 <a href="/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock.jpg" title="See larger version of - Poster of the movie Rock Around the Clock"><img src="/assets/images/2015/HALEY_Poster_of_the_movie_Rock_Around_the_Clock_thumb.jpg" width="150" height="298" alt="Poster of the movie Rock Around the Clock" class="photo right" /></a>
@@ -28,9 +27,10 @@ Parents had spotted that their teenage children seemed restless but couldn't wor
 Happily, a chubby, avuncular American with a kiss curl was about to put it into words for them...
 
 <a href="/assets/images/2015/HALEY_Bill-Haley_-_portrait.jpg" title="See larger version of - Bill Haley   portrait"><img src="/assets/images/2015/HALEY_Bill-Haley_-_portrait_thumb.jpg" width="250" height="320" alt="Bill Haley   portrait" class="photo right" /></a>
-bq. "On your marks. Get Set. Now ready? Go! Everybody razzle dazzle!"...
-bq.
-With one accord the audience leapt to its feet and started bopping about in a way I had never in my life seen before! I was looking at the screen and then the audience, back and forth, as though I was at Wimbledon. I was totally bowled over by the simple display of animal force and energy - and I loved it."
+
+> "On your marks. Get Set. Now ready? Go! Everybody razzle dazzle!"...
+
+> With one accord the audience leapt to its feet and started bopping about in a way I had never in my life seen before! I was looking at the screen and then the audience, back and forth, as though I was at Wimbledon. I was totally bowled over by the simple display of animal force and energy - and I loved it."
 
 <cite>JACK GOOD - TV Producer</cite>
 

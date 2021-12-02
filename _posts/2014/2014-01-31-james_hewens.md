@@ -7,12 +7,7 @@ category: around_town
 date: 2014-01-31 09:13:40
 image: "/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900_thumb.LCF_3806"
 excerpt: |
-    
-    bq. "In endeavouring to save the life of a fellow creature, he lost his own."
-    
-    It was 11.15pm on Monday night and John Charles Jepson was drunk. A witness, Thomas Darnill, saw him staggering up and down the platform at Richmond Station <em>'in a most unsteady manner'</em>. When Darnill approached Jepson for a light <em>'he appeared to be under the influence of drink'</em>... Another witness, James Everill, said that at 11.25pm, just as the <em>'up'</em> train was pulling into the station John Jepson <em>"reeled and then fell onto the tracks"</em>. Moments later another traveller, James Hewens, jumped after him and tried to pull him off the line. The tragic events of that night, Monday, 23<sup>rd</sup> September 1878, were later reported in the 'Richmond and Twickenham Times'...
-    
-
+  It was 11.15pm on Monday night and John Charles Jepson was drunk. A witness, Thomas Darnill, saw him staggering up and down the platform at Richmond Station <em>'in a most unsteady manner'</em>. When Darnill approached Jepson for a light <em>'he appeared to be under the influence of drink'</em>... Another witness, James Everill, said that at 11.25pm, just as the <em>'up'</em> train was pulling into the station John Jepson <em>"reeled and then fell onto the tracks"</em>. Moments later another traveller, James Hewens, jumped after him and tried to pull him off the line. The tragic events of that night, Monday, 23<sup>rd</sup> September 1878, were later reported in the 'Richmond and Twickenham Times'...
 ---
 
 <a href="/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900.LCF_3806.jpg" title="See larger version of - Richmond Railway Station c 1870   1900.LCF 3806"><img src="/assets/images/2014/HEWENS_Richmond_Railway_Station_c_1870_-_1900_thumb.LCF_3806" width="150" height="104" alt="Richmond Railway Station c 1870   1900.LCF 3806" class="photo right" /></a>
@@ -53,4 +48,4 @@ Another local resident, Alice Ayres, is also remembered in Postman's Park. You c
 </div>
 <cite>-- from Martyn Day</cite>
 
-*Credit: This article was written with the kind assistance of Laurence Mann. The photographs of Richmond Station were supplied by Richmond Local Studies*
+_Credit: This article was written with the kind assistance of Laurence Mann. The photographs of Richmond Station were supplied by Richmond Local Studies_

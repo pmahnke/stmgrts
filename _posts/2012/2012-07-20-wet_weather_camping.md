@@ -7,20 +7,12 @@ category: around_town
 date: 2012-07-20 10:45:57
 image: "/assets/images/2012/WETCAMP_rainy_glastonbury_thumb.jpg"
 excerpt: |
-    
-    _Top Tips and Helpful Hints from "Akela"_
-    
-    bq. "It always rains on tents. Rainstorms will travel thousands of miles, against prevailing winds for the opportunity to rain on a tent."
-    
-    <cite>DAVE BARRY- AMERICAN WRITER</cite>
-    
-    Any dreams we might have of an idyllic camping holiday under a warm, lazy summer sun have largely been washed away in the recent weather. But for all the inconvenience of relentless rain there is still plenty of fun to be had if you are suitably prepared...and there is nothing so soothing as lying in a tent, comfortable and warm, and listening to the gentle patter of rain on the roof above.
-
+  Any dreams we might have of an idyllic camping holiday under a warm, lazy summer sun have largely been washed away in the recent weather. But for all the inconvenience of relentless rain there is still plenty of fun to be had if you are suitably prepared...and there is nothing so soothing as lying in a tent, comfortable and warm, and listening to the gentle patter of rain on the roof above.
 ---
 
 <a href="/assets/images/2012/WETCAMP_rainy_glastonbury.jpg" title="See larger version of - rainy glastonbury"><img src="/assets/images/2012/WETCAMP_rainy_glastonbury_thumb.jpg" width="150" height="100" alt="rainy glastonbury" class="photo right" /></a>
 
-*Top Tips and Helpful Hints from "Akela"*
+_Top Tips and Helpful Hints from "Akela"_
 
 > "It always rains on tents. Rainstorms will travel thousands of miles, against prevailing winds for the opportunity to rain on a tent."
 
@@ -52,7 +44,7 @@ Akela uses a 3 man tent with a porch as large as the sleeping area. Luxury - wit
 
 Never ever take a naked flame of any sort into a tent - e.g. stoves, Tilley lamps, barbecues. If you don't manage to burn the tent down, without adequate ventilation you'll almost certainly die from carbon dioxide poisoning. Don't do it.
 
-*Promise?*
+_Promise?_
 
 </div>
 ### TENT PITCHING

@@ -7,23 +7,10 @@ category: around_town
 date: 2010-11-25 18:22:11
 image: "/assets/images/2010/early_football_thumb.jpg"
 excerpt: |
-    
-    bq. "Football is a gentleman's game played by hooligans. Rugby is a hooligan's game played by gentlemen."
-    
-    <cite>My Sports Master - Eric Shirley</cite>
-    
-    <div markdown="1" class="box">
-    
-    On December 19<sup>th</sup> 1863 the very first game of football played under Football Association rules took place at Limes Field, Mortlake, between Barnes FC and Richmond FC.
-    
-    It was a goalless draw.
-    
-    Richmond FC sloped off home, decided that football wasn't for them and went back to playing rugby instead, a much more civilised and organised game in their view.
-    
-    </div>
-    
-    Richmond FC was right. In 1863 football wasn't organised at all. An indeterminate number of players would assemble on a pitch of indeterminate size and knock a ball of indeterminate shape around for an indeterminate length of  time until someone scored a goal or 'touch-down' or whatever it happened to be called that day. Some preferred the "handling game" which was a bit like rugby but with more kicking while others favoured the "dribbling game" which was a bit like rugby but without all that handling. Between the two of them there was chaos.
 
+  "Football is a gentleman's game played by hooligans. Rugby is a hooligan's game played by gentlemen."
+
+  <cite>My Sports Master - Eric Shirley</cite>
 ---
 
 <a href="/assets/images/2010/early_football.jpg" title="See larger version of - early football"><img src="/assets/images/2010/early_football_thumb.jpg" width="150" height="125" alt="early football" class="photo right" /></a>
@@ -66,10 +53,10 @@ Richmond FC went home, not overly excited by their experience of the 'dribbling 
 
 The influence of the Football Association spread with more clubs joining and as they did the rules continued to evolve. On 31<sup>st</sup> March 1866 a match was played at Battersea between Sheffield FC and a representative London side. Played under FA rules there were some now familiar additions:-
 
--   The teams had to be eleven a side.
--   The ground had to be 120 yards by 80 wide.
--   The ball to be a Lillywhite's no. 5
--   The match had to commence at 3.00pm and end at 4.30pm
+- The teams had to be eleven a side.
+- The ground had to be 120 yards by 80 wide.
+- The ball to be a Lillywhite's no. 5
+- The match had to commence at 3.00pm and end at 4.30pm
 
 For all this the "History of the Football Association 1953" reports a distinctly 'non-football' score:- that London won by "two goals and four touchdowns" even though the FA rules clearly stated that goals must be 'kicked'. Ebenezer, who had drafted the rules, scored one of the goals. The following year he was appointed President of the FA.
 
@@ -82,6 +69,6 @@ I suspect that Ebenezer Cobb Morley, solicitor, sportsman and father of Modern F
 
 <cite>Victoria Beckham</cite>
 
-**Much of the information in this article came from *"The Wow Factor -- how Soccer evolved within the social web"* by John Blythe Smart. If you are interested in the history of the beautiful game this is essential reading.**
+**Much of the information in this article came from _"The Wow Factor -- how Soccer evolved within the social web"_ by John Blythe Smart. If you are interested in the history of the beautiful game this is essential reading.**
 
 <cite>-- from Martyn Day</cite>

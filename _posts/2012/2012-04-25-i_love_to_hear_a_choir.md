@@ -7,13 +7,8 @@ category: around_town
 date: 2012-04-25 19:56:35
 image: "/assets/images/2012/choir_GRAPHIC_thumb.jpg"
 excerpt: |
-    bq. "I love to hear a choir. I love to see the faces of real people devoting themselves to a piece of music. I like the teamwork. It makes me feel optimistic about the human race!"
-    
-    <cite>PAUL McCARTNEY</cite>
-    
-    Singing in choirs is good for you too - whether you are performing Handel's 'Messiah', clapping along to Gospel or pumping out some seductive 'shang-a-langs' in a doo-wop quartet. Choral singing opens the airways, develops the voice and instils confidence. Above all choir singing is fun and you don't need any experience or read music to do it. Essentially it is about joining friends to make a joyous noise - be it Bach, the Beatles or Beyonc&#233;!
-    
 
+  Singing in choirs is good for you too - whether you are performing Handel's 'Messiah', clapping along to Gospel or pumping out some seductive 'shang-a-langs' in a doo-wop quartet. Choral singing opens the airways, develops the voice and instils confidence. Above all choir singing is fun and you don't need any experience or read music to do it. Essentially it is about joining friends to make a joyous noise - be it Bach, the Beatles or Beyonc&#233;!
 ---
 
 <a href="/assets/images/2012/choir_GRAPHIC.jpg" title="See larger version of - choir"><img src="/assets/images/2012/choir_GRAPHIC_thumb.jpg" width="150" height="76" alt="choir" class="right" /></a>

@@ -35,8 +35,4 @@ This initiative is funded by the Strategic Investment Pot (SIP) as part of the L
 
 Richmond Council is also currently piloting Vivacity traffic sensors and Breathe London air quality sensors, which give a picture of the links between transport and air quality.
 
-<img src="https://www.richmond.gov.uk/media/22728/parking_sensors.jpg" alt="image - Smart parking sensors trial to begin helping to assist residents and
-
-improve air quality" width="250" class="photo right" alt="" >
-
 <cite>-- from a Richmond Council press release - 10 November 2021</cite>
