@@ -5,12 +5,12 @@ permalink: /archives/2021/12/twickenham-film-studios-receive-planning-approval.h
 commentfile: 2021-12-01-twickenham-film-studios-receive-planning-approval
 category: news
 date: 2021-12-01 10:00:00
-image: "https://cdn-cmdnb.nitrocdn.com/LKYRLQWNBFKElWmkyNiksyQlffCnXsLh/assets/static/optimized/rev-56cb88e/wp-content/uploads/elementor/thumbs/Twickenham-1-pffgvi1td22973evbnp0ryzcfissgxzoa62ndxk5s0.jpg"
+image: "/assets/images/2021/twick-studios-approved.jpg"
 excerpt: |
   The expansion of the Oscar-winning film studio will provide jobs for local residents and attract new investment from national and international film production companies.
 ---
 
-<img src="https://cdn-cmdnb.nitrocdn.com/LKYRLQWNBFKElWmkyNiksyQlffCnXsLh/assets/static/optimized/rev-56cb88e/wp-content/uploads/elementor/thumbs/Twickenham-1-pffgvi1td22973evbnp0ryzcfissgxzoa62ndxk5s0.jpg" width="250" alt="Image - Twickenham Film Studios"  class="photo right" />
+<a href="/assets/images/2021/twick-studios-approved.jpg" title="Click for a larger image"><img src="/assets/images/2021/twick-studios-approved-thumb.jpg" width="250" alt="Image - twick-studios-approved"  class="photo right"/></a>
 
 The expansion of the Oscar-winning film studio will provide jobs for local residents and attract new investment from national and international film production companies.
 
