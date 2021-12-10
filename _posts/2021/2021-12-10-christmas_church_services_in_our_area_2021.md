@@ -5,12 +5,12 @@ permalink: /archives/2021/12/christmas-services-in-our-area-2021.html
 commentfile: 2021-12-10-christmas-services-in-our-area-2021
 category: around_town
 date: 2021-12-10 10:00:00
-image: "/assets/images/2021/st-marys-twick-thumb.jpg"
+image: "/assets/images/2019/st-marys-twick-thumb.jpg"
 excerpt: |
   Here is a list of church services for Christmas Eve and Christmas for some local churches in the St Margarets area. Some require booking and all have Covid restrictions, so please visit the websites before turning up.
 ---
 
-<a href="/assets/images/2021/st-marys-twick.jpg" title="Click for a larger image"><img src="/assets/images/2021/st-marys-twick-thumb.jpg" width="250" alt="Image - st-marys-twick"  class="photo right"/></a>
+<a href="/assets/images/2019/st-marys-twick.jpg" title="Click for a larger image"><img src="/assets/images/2019/st-marys-twick-thumb.jpg" width="250" alt="Image - st-marys-twick"  class="photo right"/></a>
 
 Here is a list of church services for Christmas Eve and Christmas for some local churches in the St Margarets area. Some require booking and all have Covid restrictions, so please visit the websites before turning up.
 
