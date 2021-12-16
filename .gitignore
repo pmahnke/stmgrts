@@ -3,6 +3,7 @@ Gemfile.lock
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 _includes/homepage*
 *.yaml~
 *.*~
