@@ -19,7 +19,7 @@ timezone: Etc/GMT
 #future:true
 
 exclude:
-    - node_modules
+  - node_modules
 
 # gems
 plugins:
@@ -28,15 +28,16 @@ plugins:
 
 # collections
 collections:
-- info
+  - info
 
 # Build settings
 load_paths:
   - _sass
 markdown: kramdown
 sass:
-    style: compressed
-    sass_dir: _sass
+  implementation: sass-embedded
+  style: compressed
+  sass_dir: _sass
 
 jekyll-archives:
   enabled:
@@ -48,6 +49,6 @@ jekyll-archives:
     month: month-archive
     category: category-archive
   permalinks:
-    year: '/archives/:year/'
-    month: '/archives/:year/:month/'
-    category: '/archives/:name/'
+    year: "/archives/:year/"
+    month: "/archives/:year/:month/"
+    category: "/archives/:name/"

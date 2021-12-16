@@ -731,15 +731,15 @@ forum table {
 }
 
 // nav hover Colour
-.p-navigation .p-navigation__links .p-navigation__link:hover {
+.p-navigation .p-navigation__items .p-navigation__item:hover {
   background-color: $menu-color;
 }
 
-.p-navigation__link.is-selected > a {
+.p-navigation__item.is-selected > a {
   color: #bfbfdb;
 }
 
-.p-navigation__link:hover > a {
+.p-navigation__item:hover > a {
   color: #bfbfdb;
 }
 

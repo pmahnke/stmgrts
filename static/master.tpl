@@ -74,7 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="p-navigation__row  u-fixed-width">
     <div class="p-navigation__banner">
       <div class="p-navigation__logo">
-        <a class="p-navigation__link" href="/" accesskey="1" title="St Margarets Community Website">
+        <a class="p-navigation__item" href="/" accesskey="1" title="St Margarets Community Website">
           <img class="p-navigation__image" src="/assets/images/stmgrts-logo.svg" alt="St Margarets Community Website" />
         </a>
       </div>
@@ -85,13 +85,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <span class="u-off-screen">
         <a href="#main-content">Jump to main content</a>
       </span>
-      <ul class="p-navigation__links" role="menu">
-        <li class="p-navigation__link {% if page.url contains '/archives/news/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/news/" class="nav">news</a></li>
-        <li class="p-navigation__link {% if page.url contains '/archives/editorial/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/editorial/" class="nav">editorial</a></li>
-        <li class="p-navigation__link {% if page.url contains '/archives/around-town/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/around-town/" class="nav">around town</a></li>
-        <li class="p-navigation__link {% if page.url contains '/event' %}is-selected{% endif %}" role="menuitem"><a href="/event" class="nav">events</a></li>
-        <li class="p-navigation__link {% if page.url contains '/directory' %}is-selected{% endif %}" role="menuitem"><a href="/directory" class="nav">local info</a></li>
-        <li class="p-navigation__link {% if page.url contains '/forum' %}is-selected{% endif %}" role="menuitem"><a href="/forum" class="nav">forums</a></li>
+      <ul class="p-navigation__items" role="menu">
+        <li class="p-navigation__item {% if page.url contains '/archives/news/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/news/" class="nav">news</a></li>
+        <li class="p-navigation__item {% if page.url contains '/archives/editorial/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/editorial/" class="nav">editorial</a></li>
+        <li class="p-navigation__item {% if page.url contains '/archives/around-town/' %}is-selected{% endif %}" role="menuitem"><a href="/archives/around-town/" class="nav">around town</a></li>
+        <li class="p-navigation__item {% if page.url contains '/event' %}is-selected{% endif %}" role="menuitem"><a href="/event" class="nav">events</a></li>
+        <li class="p-navigation__item {% if page.url contains '/directory' %}is-selected{% endif %}" role="menuitem"><a href="/directory" class="nav">local info</a></li>
+        <li class="p-navigation__item {% if page.url contains '/forum' %}is-selected{% endif %}" role="menuitem"><a href="/forum" class="nav">forums</a></li>
       </ul>
       <form class="p-search-box" id="google-appliance-search-form" id="searchbox_011552492105320257021:aklyesuuk5c" action="https://www.google.com/cse">
         <input type="hidden" name="cx" value="011552492105320257021:aklyesuuk5c" />
