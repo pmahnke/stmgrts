@@ -2,7 +2,7 @@
 <tm textprocess=plain>
 :: ST MARGARETS COMMUNITY WEBSITE NEWSLETTER ::
 
-23 December 2021
+28 December 2021
 
 Welcome to the St Margarets Community Website Newsletter.
 Each Thursday we will send you the latest news and events from the website (https://stmargarets.london).
@@ -12,9 +12,6 @@ LATEST NEWS
 ===========================================================
 <tm src=news_story_text.incl>
 
-===========================================================
-<tm src=promo_text.incl>
-===========================================================
 
 <tm urlInclude=https://stmargarets.london/cgi-bin/events.cgi?action=newsletter&count=16&format=text>
 <tm urlInclude=https://stmargarets.london/cgi-bin/events.cgi?action=newsletter&count=16&format=text&type=play>
