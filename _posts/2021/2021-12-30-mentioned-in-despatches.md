@@ -5,7 +5,7 @@ permalink: /archives/2021/12/mentioned-in-despatches.html
 commentfile: 2021-12-30-mentioned-in-despatches
 category: around_town
 date: 2021-12-30 10:00:00
-image: ""
+image: "/assets/images/2018/FOURTHWARD_Broadway.jpg"
 author: "Martyn Day"
 excerpt: |
   When Peter Mahnke¸ the esteemed publisher and editor of the St Margarets Community Website, recently announced the sad news that he was closing the site he mentioned my name and how I write about local history. Living in St Margarets that is an easy task. Take a simple walk from one end of our neighbourhood to the other and history is there for you, waiting to be noted and reported. So....
