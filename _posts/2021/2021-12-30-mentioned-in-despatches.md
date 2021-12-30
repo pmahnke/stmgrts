@@ -11,6 +11,10 @@ excerpt: |
   When Peter Mahnke¸ the esteemed publisher and editor of the St Margarets Community Website, recently announced the sad news that he was closing the site he mentioned my name and how I write about local history. Living in St Margarets that is an easy task. Take a simple walk from one end of our neighbourhood to the other and history is there for you, waiting to be noted and reported. So....
 ---
 
+<div markdown="1" class="letter">
+I know I said, _"No more posts"_; however, on reading the now penultimate post, Martyn Day asked if I would let him have the last word.  I could not refuse.  Thank you Martyn.
+</div>
+
 When Peter Mahnke¸ the esteemed publisher and editor of the St Margarets Community Website, recently announced the sad news that he was closing the site he mentioned my name and how I write about local history. Living in St Margarets that is an easy task. Take a simple walk from one end of our neighbourhood to the other and history is there for you, waiting to be noted and reported. So....
 
 <a href="/assets/images/2008/Thomas_Haliburton.jpg"><img src="/assets/images/2008/Thomas_Haliburton.jpg" width="250" height="310" alt="Thomas Chandler Haliburton" class="photo right" /></a>
