@@ -6,7 +6,7 @@ layout: default-empty
     <div class="col-6">
 
 <!-- main stories -->
-{% for post in site.posts limit: 7 %}
+{% for post in site.posts limit: 3 %}
   {% include index-posts.html %}
 {% endfor %}
 <!-- /end stories -->
@@ -16,7 +16,7 @@ layout: default-empty
           <div class="u-fixed-width">
           <h2>Recent Entries</h2>
           <ul id="entry_list" class="p-list">
-            {% for post in site.posts limit: 10 offset: 7 %}
+            {% for post in site.posts limit: 10 offset: 3 %}
             <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
             {% endfor %}
           </ul>
@@ -63,27 +63,35 @@ layout: default-empty
         {% endcomment %}
 
 
+      {% if site:events %}
       <hr class="u-sv2">
       {% include homepage_events.html %}
 
       <hr class="u-sv2">
       {% include homepage_event_play.html %}
+      {% endif %}
 
+      {% if site:forums %}
       <hr class="u-sv2">
       {% include homepage_forum.html %}
+      {% endif %}
 
     </div><!-- end div middle -->
 
     <div class="col-3">
 
+      {% if site:twitter %}
       <div id="twitter" class="is-bordered">
         {% include homepage_twitter.html %}
       </div>
-
       <hr class="u-sv2">
+      {% endif %}
+      
+      {% if site:newsletter %}
       {% include _homepage_newsletter_signup.html %}
-
       <hr class="u-sv2">
+      {% endif %}
+
       <div id="traininfo" class="">
 
         <h3 class="p-muted-heading">Current Train Information</h3>

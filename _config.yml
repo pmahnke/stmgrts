@@ -17,6 +17,10 @@ github_username: pmahnke
 incremental: true
 timezone: Etc/GMT
 #future:true
+forums: false
+newsletter: false
+twitter: false
+events: true
 
 exclude:
   - node_modules
