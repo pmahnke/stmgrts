@@ -63,7 +63,7 @@ layout: default-empty
         {% endcomment %}
 
 
-      {% if site:events %}
+      {% if site.events %}
       <hr class="u-sv2">
       {% include homepage_events.html %}
 
@@ -71,7 +71,7 @@ layout: default-empty
       {% include homepage_event_play.html %}
       {% endif %}
 
-      {% if site:forums %}
+      {% if site.forums %}
       <hr class="u-sv2">
       {% include homepage_forum.html %}
       {% endif %}
@@ -80,14 +80,14 @@ layout: default-empty
 
     <div class="col-3">
 
-      {% if site:twitter %}
+      {% if site.twitter %}
       <div id="twitter" class="is-bordered">
         {% include homepage_twitter.html %}
       </div>
       <hr class="u-sv2">
       {% endif %}
       
-      {% if site:newsletter %}
+      {% if site.newsletter %}
       {% include _homepage_newsletter_signup.html %}
       <hr class="u-sv2">
       {% endif %}
