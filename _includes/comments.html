@@ -19,27 +19,6 @@
         </ul>
       </div>
     </div>
-    {% if postyear > lastyear %}
-    <div class="row">
-      <div class="col-8">
-        <h4>Add a comment</h4>
-        <form id="form-comments" method="post" action="/cgi-bin/comments.cgi">
-          <fieldset>
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name" value="" />
-            <label for="email">Email</label>
-            <em>your email will not be displayed with the comment</em>
-            <input type="email" id="email" name="email" value="" />
-            <label for="comment-text">Comment</label>
-            <textarea id="comment-text" name="comment"></textarea><br />
-            <div class="g-recaptcha" data-sitekey="6LdCKRsUAAAAAN5e7IFMG-At24xX-qjKItgjvzKf"></div>
-            <input type="submit" name="a" value="comment" class="button-primary" />
-            <input type="hidden" name="page-id" value="{{ include.commentfile }}" />
-        </fieldset>
-      </form>
-    </div>
-  </div>
-  {% endif %}
 </section>
 
 </notextile>
