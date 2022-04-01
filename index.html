@@ -1,96 +1,50 @@
 ---
 layout: default-empty
 ---
+
+{% include _goodbye.html %}
+
 <section class="p-strip--light content">
   <div class="row">
-    <div class="col-6">
+    <div class="col-8">
 
-<!-- main stories -->
-{% for post in site.posts limit: 3 %}
-  {% include index-posts.html %}
-{% endfor %}
-<!-- /end stories -->
+      <!-- around_town -->
+      <h2><a href="/archives/around-town">Around town archives</a></h2>
+      {% for post in site.categories.around_town limit: 1 %}
+        {% include index-posts.html %}
+      {% endfor %}
+      <ul>
+        {% for post in site.categories.around_town limit: 12 offset: 1 %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
+        {% endfor %}
+      </ul>
+      <p><a href="/archives/around-town"><em>more around town articles &#8230;</em></a></p>
 
-<!-- start recent -->
-        <div class="row">
-          <div class="u-fixed-width">
-          <h2>Recent Entries</h2>
-          <ul id="entry_list" class="p-list">
-            {% for post in site.posts limit: 10 offset: 3 %}
-            <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div><!-- /end recent -->
+      <!-- editorial -->
+      <h2><a href="/archives/editorial">Editorials archives</a></h2>
+      {% for post in site.categories.editorial limit: 2 %}
+        {% include index-posts.html %}
+      {% endfor %}
+      <ul>
+        {% for post in site.categories.editorial limit: 10 offset: 2 %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
+        {% endfor %}
+      </ul>
+      <p><a href="/archives/editorial"><em>more editorials &#8230;</em></a></p>
 
-      </div><!-- end div col-6 -->
-
-    <div id="middle" class="col-3">
-
-      {% include homepage_weather.html %}
-
-      {% comment %}
-      <hr class="u-sv2">
-
-      <div id="events">
-        <h3 class="p-muted-heading">Events</h3>
-        <div class="box" style="background-color:#F4EFC5;">
-          <p>Due to the Covid-19 pandemic, all events in the area have been cancelled or postponed.</p>
-        </div>
-      </div>
-
-      <hr class="u-sv2">
-
-        <h3 class="p-muted-heading">Recent Entries</h3>
-        <ul id="entry_list" class="p-list">
-{% for post in site.posts limit: 10 offset: 6 %}
-          <li class="p-list__item"><strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><br />{{ post.date | date: "%-d %B %Y" }} | {{ post.categories | join: ', ' }}</li>
-{% endfor %}
-        </ul>
-
-        <hr class="u-sv2">
-
-        <div id="archives"  class="">
-
-          <h3 class="p-muted-heading"><a href="/archives/">Archives</a></h3>
-
-          <ul>
-            {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
-              <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-            {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
-          </ul>
-        </div><!-- end div archives -->
-        {% endcomment %}
+      <!-- news -->
+      <h2><a href="/archives/news">News archives</a></h2>
+      <ul>
+        {% for post in site.categories.news limit: 12 %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
+        {% endfor %}
+      </ul>
+      <p><a href="/archives/news"><em>more news articles&#8230;</em></a></p>
 
 
-      {% if site.events %}
-      <hr class="u-sv2">
-      {% include homepage_events.html %}
+    </div><!-- end div left -->
 
-      <hr class="u-sv2">
-      {% include homepage_event_play.html %}
-      {% endif %}
-
-      {% if site.forums %}
-      <hr class="u-sv2">
-      {% include homepage_forum.html %}
-      {% endif %}
-
-    </div><!-- end div middle -->
-
-    <div class="col-3">
-
-      {% if site.twitter %}
-      <div id="twitter" class="is-bordered">
-        {% include homepage_twitter.html %}
-      </div>
-      <hr class="u-sv2">
-      {% endif %}
-      
-      {% if site.newsletter %}
-      {% include _homepage_newsletter_signup.html %}
-      <hr class="u-sv2">
-      {% endif %}
+    <div class="col-4">
 
       <div id="traininfo" class="">
 
@@ -105,17 +59,24 @@ layout: default-empty
       </div><!-- /end div traininfo -->
 
       <hr class="u-sv2">
-      {% include local_sites.html %}
-
-      <hr class="u-sv2">
       <div id="archives"  class="">
 
         <h3 class="p-muted-heading"><a href="/archives/">Archives</a></h3>
 
         <ul>
-          {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
+          {% for post in site.posts %}
+          {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
+          {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
+          {% if currentyearmonth != lastyearmonth %}
+              <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
+            {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}
+          {% endif %}
+          {% endfor %}
+          <!--{% if site.forum %}
+            {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
             <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
           {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
+          {% endif %}-->
         </ul>
       </div><!-- end div archives -->
 
