@@ -8,7 +8,8 @@ date: 2008-08-31 16:21:37
 
 ---
 
-!(photo right) http://www.twickenham-museum.org.uk/images/medium/medHighshot\_House.jpg 150x174!
+<a href="/assets/images/2008/Highshot-House.jpg" title="Click for a larger image"><img src="/assets/images/2008/Highshot-House.jpg" width="250" alt="Image - Highshot-House"  class="photo right"/></a>
+
 
 The 'St Margarets' that appears on the 1884 Ordnance Survey map is to our modern eyes a half formed place. The railway station is there as is the Post Office opposite but none of the shops on St Margarets Road and few of the streets and houses that estate agents now like to call 'The Village".
 
