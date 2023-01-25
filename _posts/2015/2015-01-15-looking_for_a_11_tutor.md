@@ -12,7 +12,7 @@ excerpt: |
 
 ---
 
-<a href="/assets/images/2015/Flyer-Tutoring.png" title="See larger version of - Flyer Tutoring"><img src="/assets/images/2015/Flyer-Tutoring_thumb.png" width="250" height="354" alt="Flyer Tutoring" class="photo right" /></a>
+<!-- a href="/assets/images/2015/Flyer-Tutoring.png" title="See larger version of - Flyer Tutoring"><img src="/assets/images/2015/Flyer-Tutoring_thumb.png" width="250" height="354" alt="Flyer Tutoring" class="photo right" /></a -->
 
 **DO NOT CONTACT - NO LONGER TAKING STUDENTS**
 
