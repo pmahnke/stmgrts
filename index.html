@@ -2,44 +2,14 @@
 layout: default-empty
 ---
 
-{% include _goodbye.html %}
-
 <section class="p-strip--light content">
   <div class="row">
     <div class="col-8">
 
       <!-- around_town -->
-      <h2><a href="/archives/around-town">Around town archives</a></h2>
-      {% for post in site.categories.around_town limit: 1 %}
-        {% include index-posts.html %}
-      {% endfor %}
-      <ul>
-        {% for post in site.categories.around_town limit: 12 offset: 1 %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
-        {% endfor %}
-      </ul>
-      <p><a href="/archives/around-town"><em>more around town articles &#8230;</em></a></p>
-
-      <!-- editorial -->
-      <h2><a href="/archives/editorial">Editorials archives</a></h2>
-      {% for post in site.categories.editorial limit: 2 %}
-        {% include index-posts.html %}
-      {% endfor %}
-      <ul>
-        {% for post in site.categories.editorial limit: 10 offset: 2 %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
-        {% endfor %}
-      </ul>
-      <p><a href="/archives/editorial"><em>more editorials &#8230;</em></a></p>
-
-      <!-- news -->
-      <h2><a href="/archives/news">News archives</a></h2>
-      <ul>
-        {% for post in site.categories.news limit: 12 %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%-d %B %Y" }}</li>
-        {% endfor %}
-      </ul>
-      <p><a href="/archives/news"><em>more news articles&#8230;</em></a></p>
+      <h2>This site is no longer available</h2>
+      <p>Since December 2021, we stopped publishing new content on the site.  We left the site up for a another couple of years; however, we are now turning off the archives.</p>
+      <p>Thank you for your support over the years.</p>
 
 
     </div><!-- end div left -->
@@ -57,29 +27,6 @@ layout: default-empty
         </ul>
 
       </div><!-- /end div traininfo -->
-
-      <hr class="u-sv2">
-      <div id="archives"  class="">
-
-        <h3 class="p-muted-heading"><a href="/archives/">Archives</a></h3>
-
-        <ul>
-          {% for post in site.posts %}
-          {% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}
-          {% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}
-          {% if currentyearmonth != lastyearmonth %}
-              <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-            {% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}
-          {% endif %}
-          {% endfor %}
-          <!--{% if site.forum %}
-            {% assign counter = 0 %}{% for post in site.posts %}{% capture currentyearmonth %}{{post.date | date: "%B %Y"}}{% endcapture %}{% capture currentyearmonthurl %}{{post.date | date: "/archives/%Y/%m/"}}{% endcapture %}{% if currentyearmonth != lastyearmonth and counter < 12 %}
-            <li><a href="{{ currentyearmonthurl }}">{{ currentyearmonth }}</a></li>
-          {% assign counter = counter | plus: 1 %}{% capture lastyearmonth %}{{currentyearmonth}}{% endcapture %}{% endif %}{% endfor %}
-          {% endif %}-->
-        </ul>
-      </div><!-- end div archives -->
-
     </div><!-- end div right -->
   </div><!-- end div row -->
 </section>
